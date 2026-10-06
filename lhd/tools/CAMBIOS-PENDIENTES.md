@@ -1470,4 +1470,6 @@ Se implementaron los tres puntos pendientes de 8.6:
   3. `test_preview.py` lanzaba Chromium sin `executable_path` (fallaba en este entorno); ahora usa `$CHROMIUM` o `/opt/pw-browsers/chromium`, como las demás. Para correr las pruebas en un entorno nuevo hace falta `pip install playwright`.
 - Pruebas: todas PASS (con las 4 nuevas: `test_ensayos_fuentes`, `test_r2_tools`, `test_r2_incidencias`, `test_r2_auditoria`). Build sin PROBLEM. Los datos de contenido no cambiaron (solo `r2_incidencias.json`, `R2-INCIDENCIAS.md` y la curaduría); el sitio cambió solo en la ficha de los ensayos.
 
+- **Decisión de Mauricio (6 oct 2026, sobre el bloque 1):** leyó la hoja y todas las incidencias y pidió marcar las 40 como **Aceptar**. Registrado con `incidencias_xlsx.py import`: las 40 pasan a `decidida` (A 4, B 24, D 12). **Aún no se aplicó ningún cambio a los datos** (eso es la R2.6, con build y estado `aplicada`). Lectura de «Aceptar» por clase: A = adoptar la corrección (Delphos: solo acreditar a Nigrin en el texto, sin ficha nueva); B = adoptar la propuesta, casi siempre «Mantener»; D = adoptar la propuesta (p. ej. `dresser-teapot` maker → James Dixon & Sons; `lc2-armchair-1928` maker → Cassina (desde 1965); fechas de Vermelha y Banquete; materials de Beethoven y Lettera 22). Las D con «Mantener…» no cambian nada.
+
 Próximo punto: **104**
