@@ -5,6 +5,7 @@
 ## Estado (6 oct 2026, v76)
 - Parte I cerrada; R1 hecha; R2.0 hecha; R2.1 en adelante sin empezar.
 - Pendientes de la R2 (medidos con `python3 tools/pipeline/auditoria.py --v1`, que da 0 cuando la R2 está terminada): movimientos ★ 19, instituciones ★ 18, teorías ★ 28, contextos 152, productivos 52, ensayos 10, enlaces de fichas ★ 359, conexiones de fichas ★ 72, obras ★ con una sola fuente 7 (no son las 7 de «fuentes débiles» de la R2.5: ver abajo), incidencias abiertas 717.
+- **Calendario de incidencias (decisión de Mauricio, 6 oct): las revisa todas en la R2.6.** No enviar hojas en los checkpoints de R2.1 a R2.5 salvo que las pida; solo acumular con `r2_incidencias.py`.
 - Hoja de incidencias: el bloque 1 (40 filas: 4 de clase A, 24 de B, 12 de D) está curado y enviado a Mauricio; **nada está decidido ni aprobado**. Solo la clase A trae «Aceptar» por defecto (y solo con una corrección concreta).
 - Límite semanal de la cuenta: se reinicia el 8 oct, 22:00 (America/Santiago). Si los agentes devuelven "limit reached", NO inventar: reencolar.
 - Checkpoint con ZIP **cada 2 tandas** (`?v=NN`, `ESTADO-ACTUAL.md`, `CAMBIOS-PENDIENTES.md`, `empaquetar.sh`, SendUserFile). Próximo punto de `CAMBIOS-PENDIENTES.md`: 104.

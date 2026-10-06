@@ -1472,4 +1472,6 @@ Se implementaron los tres puntos pendientes de 8.6:
 
 - **Decisión de Mauricio (6 oct 2026, sobre el bloque 1):** leyó la hoja y todas las incidencias y pidió marcar las 40 como **Aceptar**. Registrado con `incidencias_xlsx.py import`: las 40 pasan a `decidida` (A 4, B 24, D 12). **Aún no se aplicó ningún cambio a los datos** (eso es la R2.6, con build y estado `aplicada`). Lectura de «Aceptar» por clase: A = adoptar la corrección (Delphos: solo acreditar a Nigrin en el texto, sin ficha nueva); B = adoptar la propuesta, casi siempre «Mantener»; D = adoptar la propuesta (p. ej. `dresser-teapot` maker → James Dixon & Sons; `lc2-armchair-1928` maker → Cassina (desde 1965); fechas de Vermelha y Banquete; materials de Beethoven y Lettera 22). Las D con «Mantener…» no cambian nada.
 
+- **Decisión de Mauricio (6 oct 2026, calendario de incidencias):** revisará **todas las incidencias en la R2.6**, no antes. Durante R2.1 a R2.5 las incidencias nuevas solo se acumulan (`r2_incidencias.py` en cada tanda); no se envían bloques `.xlsx` en los checkpoints salvo que él los pida. El bloque 1 (40 filas) ya está decidido y sigue sin aplicar hasta la R2.6. La clase C (556) se cierra en bloque solo con su visto bueno en la R2.6.
+
 Próximo punto: **104**
