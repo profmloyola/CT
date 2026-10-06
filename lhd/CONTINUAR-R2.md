@@ -1,4 +1,4 @@
-# CONTINUAR — instrucciones para una sesión nueva (v76)
+# CONTINUAR — instrucciones para una sesión nueva (v77)
 
 > **Plan vigente: `tools/PLAN-V1.md`** (cierre de la versión pública «LHD v1.0»; reemplaza las secciones 11 a 14 de `PLAN-CIERRE.md`). **R2.0 (herramientas) está hecha en v76. Lo siguiente es R2.1 (19 movimientos, 18 instituciones y 28 teorías ★), pero solo cuando Mauricio diga explícitamente «implementa» / «sigue con R2.1».** El ciclo de tanda, las reglas y las plantillas de abajo valen para toda la R2.
 
