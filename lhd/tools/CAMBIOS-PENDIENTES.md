@@ -1474,4 +1474,6 @@ Se implementaron los tres puntos pendientes de 8.6:
 
 - **Decisión de Mauricio (6 oct 2026, calendario de incidencias):** revisará **todas las incidencias en la R2.6**, no antes. Durante R2.1 a R2.5 las incidencias nuevas solo se acumulan (`r2_incidencias.py` en cada tanda); no se envían bloques `.xlsx` en los checkpoints salvo que él los pida. El bloque 1 (40 filas) ya está decidido y sigue sin aplicar hasta la R2.6. La clase C (556) se cierra en bloque solo con su visto bueno en la R2.6.
 
+- **R2.1, tanda 1 (movimientos, `t11m`) BLOQUEADA por la red (6 oct 2026):** Mauricio ordenó implementar R2.1; los 3 agentes (19 movimientos) terminaron con 0 fichas porque el proxy del entorno bloquea WebFetch (`EGRESS_BLOCKED`: britannica.com, moma.org, vam.ac.uk, designmuseum.org, centrepompidou.fr, tate.org.uk, etc.); WebSearch sí funciona, pero sus resúmenes no cuentan como fuentes abiertas. No se escribió ni aplicó nada y los lotes se reencolaron (`in_t11m_*` borrados). Pendiente de Mauricio: ampliar la política de red del entorno (Network access → Custom con dominios de museos, enciclopedias y archivos, o un nivel más amplio). Un agente notó, sin verificar, que la ficha de `international-typographic-style` dice Münchenstein para la fundición Haas (revisar al reintentar).
+
 Próximo punto: **104**
