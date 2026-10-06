@@ -1,0 +1,39 @@
+[
+ {
+  "rtype": "link",
+  "ctx": "ctx-second-industrial-revolution",
+  "item": "dresser-teapot",
+  "note": "Cheap electroplating let factories make silver-look tableware; Dresser drew plain geometric forms that machines could repeat, with form and not applied ornament carrying the design.",
+  "es": {
+   "note": "El electrochapado abarató la vajilla de aspecto plateado; Dresser dibujó formas geométricas simples que la máquina podía repetir, y la forma, no el ornamento aplicado, sostenía el diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-poster-craze",
+  "item": "moulin-rouge-la-goulue",
+  "note": "With posters filling Paris streets and attracting collectors, a cabaret commissioned an artist for one; Lautrec's lithograph made a work of publicity that people sought out.",
+  "es": {
+   "note": "Con carteles que llenaban las calles de París y atraían a coleccionistas, un cabaré encargó uno a un artista; la litografía de Lautrec hizo de la publicidad una obra que la gente buscaba."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-japonisme",
+  "item": "poiret-high-waist",
+  "sin_enlace": true,
+  "motivo": "La ficha atribuye el aspecto a los estilos Imperio y Directorio; la relación con el kimono no se sostiene sin inventar."
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-department-stores",
+  "item": "worth-haute-couture",
+  "note": "Worth trained in the drapers' novelty trade (Swan & Edgar, then Gagelin in Paris); in his own house he sold designs under his name, not only cloth.",
+  "es": {
+   "note": "Worth se formó en el comercio de novedades de los pañeros (Swan & Edgar, luego Gagelin en París); en su propia casa vendió diseños con su nombre y no solo telas."
+  },
+  "refs": []
+ }
+]

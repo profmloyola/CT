@@ -1,0 +1,436 @@
+[
+ {
+  "rtype": "work",
+  "id": "glass-house-1949",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "house",
+  "title": "Glass House, New Canaan",
+  "designers": [
+   "philip-johnson"
+  ],
+  "year": 1949,
+  "date": "1949",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Steel frame, glass walls, brick floor and brick cylinder",
+  "tech": [],
+  "key": "Philip Johnson’s own house in New Canaan, Connecticut: a single rectangular room of steel and glass set in a wooded landscape.",
+  "more": "Johnson built it as his own residence, with four glass walls on a slim steel frame and a brick cylinder holding the bathroom and fireplace. It was designed at the same time as Mies van der Rohe’s Farnsworth House and drew directly on its idea of a glass pavilion, though it sits on the ground rather than above it. Johnson had named the International Style with Henry-Russell Hitchcock in 1932, and here he gave it a house that became one of its best-known images.",
+  "status": "Preserved and open to visitors as a museum site of the National Trust for Historic Preservation.",
+  "es": {
+   "title": "Casa de Vidrio, New Canaan",
+   "date": "1949",
+   "materials": "Estructura de acero, muros de vidrio, piso y cilindro de ladrillo",
+   "key": "La casa propia de Philip Johnson en New Canaan, Connecticut: una sola sala rectangular de acero y vidrio en medio de un paisaje de bosque.",
+   "more": "Johnson la construyó como su residencia, con cuatro muros de vidrio sobre una delgada estructura de acero y un cilindro de ladrillo que contiene el baño y la chimenea. Se proyectó al mismo tiempo que la Casa Farnsworth de Mies van der Rohe y se apoyó directamente en su idea de pabellón de vidrio, aunque descansa sobre el suelo y no sobre el aire. Johnson había bautizado el Estilo Internacional junto con Henry-Russell Hitchcock en 1932, y aquí le dio una casa que se volvió una de sus imágenes más conocidas.",
+   "status": "Se conserva y está abierta a visitas como sitio museo del National Trust for Historic Preservation."
+  },
+  "refs": [],
+  "movements": [
+   "international-style"
+  ]
+ },
+ {
+  "rtype": "work",
+  "id": "farnsworth-house-1951",
+  "level": "essential",
+  "discipline": "architecture",
+  "type": "house",
+  "title": "Farnsworth House",
+  "designers": [
+   "mies-van-der-rohe"
+  ],
+  "client": "Edith Farnsworth",
+  "year": 1951,
+  "date": "1945–1951",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Painted steel frame, glass, travertine",
+  "tech": [],
+  "key": "Mies van der Rohe’s weekend house in Plano, Illinois: a glass box held between two steel-framed planes and lifted off the ground on eight columns.",
+  "more": "Mies designed it for Edith Farnsworth, a physician, as a country retreat beside the Fox River, and it was finished in 1951. The roof and floor slabs hang from white steel columns and the walls are glass, so the interior is a single open room with a service core. Raised above the ground and the river’s floods, it carried to a house the idea of structure and glass without walls that Mies had followed in his work for years. It became one of the most cited houses of the twentieth century.",
+  "status": "Preserved and open to visitors as a museum, owned by the National Trust for Historic Preservation.",
+  "es": {
+   "title": "Casa Farnsworth",
+   "date": "1945–1951",
+   "materials": "Estructura de acero pintado, vidrio, travertino",
+   "key": "La casa de fin de semana de Mies van der Rohe en Plano, Illinois: una caja de vidrio entre dos planos de acero, levantada del suelo sobre ocho columnas.",
+   "more": "Mies la proyectó para Edith Farnsworth, médica, como refugio de campo junto al río Fox, y se terminó en 1951. Las losas del techo y del piso se sujetan a columnas de acero blancas y los muros son de vidrio, de modo que el interior es una sola sala abierta con un núcleo de servicios. Elevada sobre el suelo y las crecidas del río, llevó a una casa la idea de estructura y vidrio sin muros que Mies seguía desde hacía años. Se volvió una de las casas más citadas del siglo XX.",
+   "status": "Se conserva y está abierta como museo, propiedad del National Trust for Historic Preservation."
+  },
+  "refs": [],
+  "movements": [
+   "international-style"
+  ]
+ },
+ {
+  "rtype": "work",
+  "id": "lever-house-1952",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "skyscraper",
+  "title": "Lever House",
+  "designers": [
+   "som"
+  ],
+  "maker": "Skidmore, Owings & Merrill (Gordon Bunshaft)",
+  "client": "Lever Brothers",
+  "year": 1952,
+  "date": "1952",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Steel frame, glass curtain wall, stainless steel",
+  "tech": [],
+  "key": "The Park Avenue headquarters of the soap maker Lever Brothers, a glass-walled slab on stilts that set the model for the corporate tower in New York.",
+  "more": "Designed by Gordon Bunshaft of Skidmore, Owings & Merrill, it is a thin glass tower set on a low base that is raised on columns around an open courtyard. Its walls are a sealed curtain wall of tinted glass in stainless steel frames, hung from the structure instead of carrying it. Standing among masonry buildings on Park Avenue, it showed that a company could present itself through a clean, modern building, and many office towers followed its lead.",
+  "status": "Standing and protected as a New York City landmark; its curtain wall has been restored.",
+  "es": {
+   "title": "Lever House",
+   "date": "1952",
+   "materials": "Estructura de acero, muro cortina de vidrio, acero inoxidable",
+   "key": "La sede de la fábrica de jabones Lever Brothers en Park Avenue, una torre de vidrio sobre pilotes que fijó el modelo de la torre corporativa en Nueva York.",
+   "more": "Proyectada por Gordon Bunshaft, de Skidmore, Owings & Merrill, es una torre delgada de vidrio sobre una base baja que se levanta en columnas alrededor de un patio abierto. Sus muros son un muro cortina sellado de vidrio tintado con marcos de acero inoxidable, colgado de la estructura en vez de sostenerla. Entre los edificios de albañilería de Park Avenue, mostró que una empresa podía presentarse con un edificio limpio y moderno, y muchas torres de oficinas siguieron su ejemplo.",
+   "status": "En pie y protegida como monumento de la ciudad de Nueva York; su muro cortina fue restaurado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "caracas-ciudad-universitaria-1953",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "complex",
+  "title": "Ciudad Universitaria de Caracas",
+  "designers": [
+   "carlos-raul-villanueva"
+  ],
+  "year": 1953,
+  "date": "1940–1960",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "VE"
+  ],
+  "materials": "Reinforced concrete, glass, ceramic, murals and sculpture",
+  "tech": [],
+  "key": "Carlos Raúl Villanueva’s university campus in Caracas, a modern complex of covered walkways and halls that carries works by leading artists of its time.",
+  "more": "Villanueva planned the campus from the 1940s and it was built in stages over the following years. Buildings are linked by covered walkways and open plazas, and architecture is joined to art: the Aula Magna holds Alexander Calder’s suspended acoustic panels, and works by Fernand Léger and Victor Vasarely appear elsewhere on the site. He called this joining of architecture and the arts a synthesis of the arts.",
+  "status": "In use as the Universidad Central de Venezuela; UNESCO World Heritage Site since 2000.",
+  "es": {
+   "title": "Ciudad Universitaria de Caracas",
+   "date": "1940–1960",
+   "materials": "Hormigón armado, vidrio, cerámica, murales y escultura",
+   "key": "El campus de Carlos Raúl Villanueva en Caracas, un conjunto moderno de pasillos cubiertos y salas que reúne obras de grandes artistas de su época.",
+   "more": "Villanueva planificó el campus desde la década de 1940 y se construyó por etapas en los años siguientes. Los edificios se unen mediante pasillos cubiertos y plazas abiertas, y la arquitectura se junta con el arte: el Aula Magna lleva los paneles acústicos suspendidos de Alexander Calder, y en otros puntos hay obras de Fernand Léger y Victor Vasarely. Villanueva llamó a esta unión de arquitectura y artes una síntesis de las artes.",
+   "status": "En uso como sede de la Universidad Central de Venezuela; Patrimonio Mundial de la UNESCO desde 2000."
+  },
+  "refs": [],
+  "movements": [
+   "macro-modernism"
+  ]
+ },
+ {
+  "rtype": "work",
+  "id": "hunstanton-school-1954",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "building",
+  "title": "Hunstanton School",
+  "designers": [
+   "smithsons"
+  ],
+  "year": 1954,
+  "date": "1949–1954",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "materials": "Exposed steel frame, brick infill, glass, concrete",
+  "tech": [],
+  "key": "Alison and Peter Smithson’s school in Hunstanton, Norfolk, a steel and glass building that leaves its structure and pipes in view.",
+  "more": "Won in a competition in 1949 and completed in 1954, the school has a steel frame filled with brick and glass, in a plan clearly influenced by Mies van der Rohe. The Smithsons left the frame, the brickwork and the services uncovered inside, with little finishing. Reyner Banham took it as the first example of what he called the New Brutalism.",
+  "status": "Still standing and a listed building.",
+  "es": {
+   "title": "Escuela de Hunstanton",
+   "date": "1949–1954",
+   "materials": "Estructura de acero a la vista, relleno de ladrillo, vidrio, hormigón",
+   "key": "La escuela de Alison y Peter Smithson en Hunstanton, Norfolk, un edificio de acero y vidrio que deja a la vista su estructura y sus cañerías.",
+   "more": "Ganada en un concurso en 1949 y terminada en 1954, la escuela tiene una estructura de acero rellena con ladrillo y vidrio, en una planta claramente influida por Mies van der Rohe. Los Smithson dejaron sin cubrir la estructura, la albañilería y las instalaciones, con muy poca terminación. Reyner Banham la tomó como el primer ejemplo de lo que llamó el Nuevo Brutalismo.",
+   "status": "Sigue en pie y es un edificio protegido."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "los-manantiales-1958",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "building",
+  "title": "Los Manantiales Restaurant, Xochimilco",
+  "designers": [
+   "felix-candela"
+  ],
+  "year": 1958,
+  "date": "1958",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "MX"
+  ],
+  "materials": "Reinforced concrete",
+  "tech": [
+   "prestressed-concrete"
+  ],
+  "key": "Félix Candela’s restaurant in Xochimilco, Mexico City, an eight-lobed roof of thin concrete shells shaped as hyperbolic paraboloids.",
+  "more": "Candela covered the restaurant with a concrete shell made of intersecting hyperbolic paraboloids, only a few centimetres thick, which makes eight curved lobes. A hyperbolic paraboloid is built from straight lines, so the formwork could be made of straight timber boards, and the thin shell used little concrete and steel. The building became a canonical example of how an engineer could make a great space with very little material.",
+  "status": "Still standing and in use as a restaurant.",
+  "es": {
+   "title": "Restaurante Los Manantiales, Xochimilco",
+   "date": "1958",
+   "materials": "Hormigón armado",
+   "key": "El restaurante de Félix Candela en Xochimilco, Ciudad de México, una cubierta de ocho lóbulos hecha con delgados cascarones de hormigón en forma de paraboloides hiperbólicos.",
+   "more": "Candela cubrió el restaurante con un cascarón de hormigón formado por paraboloides hiperbólicos que se cruzan, de apenas unos centímetros de espesor, y que dibuja ocho lóbulos curvos. Un paraboloide hiperbólico se construye con líneas rectas, de modo que el moldaje podía hacerse con tablas rectas de madera, y la lámina delgada gastaba poco hormigón y poco acero. El edificio se volvió un ejemplo canónico de cómo un ingeniero podía lograr un gran espacio con muy poco material.",
+   "status": "Sigue en pie y en uso como restaurante."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "atlantida-church-1960",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "church",
+  "title": "Church of Christ the Worker, Atlántida",
+  "designers": [
+   "eladio-dieste"
+  ],
+  "year": 1960,
+  "date": "1958–1960",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "UY"
+  ],
+  "materials": "Reinforced brick",
+  "tech": [],
+  "key": "Eladio Dieste’s church in Atlántida, Uruguay, whose walls and roof are undulating thin shells of reinforced brick.",
+  "more": "Dieste built the church with his technique of reinforced brick, in which brick is laid with steel bars to make thin curved shells that carry load by their shape. The side walls and the roof vault undulate, which stiffens them and lets them be very thin. The result is a luminous interior made from a cheap local material.",
+  "status": "In use as a church; part of the UNESCO World Heritage listing for Dieste’s work since 2021.",
+  "es": {
+   "title": "Iglesia de Cristo Obrero, Atlántida",
+   "date": "1958–1960",
+   "materials": "Ladrillo armado",
+   "key": "La iglesia de Eladio Dieste en Atlántida, Uruguay, cuyos muros y bóveda son delgados cascarones ondulados de ladrillo armado.",
+   "more": "Dieste construyó la iglesia con su técnica del ladrillo armado, en que el ladrillo se coloca con barras de acero para formar cascarones curvos y delgados que resisten por su forma. Los muros laterales y la bóveda ondulan, lo que los rigidiza y permite que sean muy delgados. El resultado es un interior luminoso hecho con un material local y barato.",
+   "status": "En uso como iglesia; forma parte desde 2021 de la inscripción de la obra de Dieste en el Patrimonio Mundial de la UNESCO."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "habitat-67",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "housing",
+  "title": "Habitat 67",
+  "designers": [
+   "moshe-safdie"
+  ],
+  "year": 1967,
+  "date": "1967",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "CA"
+  ],
+  "materials": "Precast concrete modules",
+  "tech": [
+   "prefab-panels"
+  ],
+  "key": "Moshe Safdie’s housing complex for the Montreal Expo, made of prefabricated concrete boxes stacked so that each home has its own terrace.",
+  "more": "Safdie designed it for Expo 67 as a model of industrialised housing: concrete modules were made in a casting yard on site and lifted into place by crane, piled on one another in a staggered pattern. The stagger gives each home a roof terrace on the module below, an attempt to combine the density of an apartment block with the garden of a house. It remained a single complex, since the plan for a larger prefabricated system was not carried out.",
+  "status": "Still standing and lived in as apartments.",
+  "es": {
+   "title": "Habitat 67",
+   "date": "1967",
+   "materials": "Módulos de hormigón prefabricado",
+   "key": "El conjunto de viviendas de Moshe Safdie para la Expo de Montreal, hecho de cajas prefabricadas de hormigón apiladas de modo que cada casa tiene su terraza.",
+   "more": "Safdie lo proyectó para la Expo 67 como modelo de vivienda industrializada: los módulos de hormigón se hicieron en un patio de moldeo en el lugar y se subieron con grúa, apilados unos sobre otros de forma escalonada. El escalonamiento da a cada casa una terraza sobre el techo del módulo de abajo, un intento de unir la densidad de un bloque de departamentos con el jardín de una casa. Quedó como un solo conjunto, porque el plan de un sistema prefabricado mayor no se realizó.",
+   "status": "Sigue en pie y habitado como departamentos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "previ-lima-1969",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "housing",
+  "title": "PREVI Experimental Housing, Lima",
+  "designers": [],
+  "maker": "Peruvian government and UNDP; international and Peruvian architects",
+  "year": 1969,
+  "date": "1969–1970s",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "PE"
+  ],
+  "materials": "Brick and concrete block, built by the residents in stages",
+  "tech": [],
+  "key": "A Peruvian government housing experiment in Lima that asked architects to design low, dense houses which families could enlarge themselves.",
+  "more": "PREVI was a project of the Peruvian government with United Nations support, in which international and Peruvian architects each designed a cluster of low-rise houses. The houses were planned as a first stage, with room left for the families to add rooms as they could afford them. It is remembered as an early test of progressive housing, a model taken up by later projects such as Quinta Monroy.",
+  "status": "Built and lived in; most houses have been greatly altered and enlarged by their residents.",
+  "es": {
+   "title": "PREVI, Proyecto Experimental de Vivienda, Lima",
+   "date": "1969–1970s",
+   "materials": "Ladrillo y bloque de hormigón, ampliados por los propios habitantes",
+   "key": "Un experimento de vivienda del gobierno peruano en Lima que pidió a arquitectos diseñar casas bajas y densas que las familias pudieran ampliar por sí mismas.",
+   "more": "PREVI fue un proyecto del gobierno peruano con apoyo de las Naciones Unidas, en que arquitectos peruanos e internacionales diseñaron cada uno un grupo de casas de baja altura. Las casas se pensaron como una primera etapa, con espacio para que las familias agregaran piezas cuando pudieran pagarlas. Se recuerda como una prueba temprana de vivienda progresiva, un modelo que retomaron proyectos posteriores como Quinta Monroy.",
+   "status": "Construido y habitado; la mayoría de las casas ha sido muy modificada y ampliada por sus habitantes."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "pucci-prints-1951",
+  "level": "normal",
+  "discipline": "fashion",
+  "type": "textile",
+  "title": "Emilio Pucci printed silks",
+  "designers": [],
+  "maker": "Emilio Pucci",
+  "year": 1951,
+  "date": "c. 1951–1970",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "materials": "Printed silk and silk jersey",
+  "tech": [],
+  "key": "The brightly printed silks of the Florentine designer Emilio Pucci, light travel and resort clothes that made Italian fashion known abroad.",
+  "more": "Pucci made light clothes in silk and silk jersey printed with bold, saturated colours and swirling patterns, meant for travel and leisure. His designs were shown in Florence in the early 1950s, when Italian fashion was being presented to foreign buyers. The prints became his signature and a sign of the new, casual Italian style.",
+  "status": "Pieces survive in museum and private collections, and the Pucci house still exists.",
+  "es": {
+   "title": "Sedas estampadas de Emilio Pucci",
+   "date": "c. 1951–1970",
+   "materials": "Seda estampada y jersey de seda",
+   "key": "Las sedas estampadas del diseñador florentino Emilio Pucci, ropa ligera de viaje y descanso que dio a conocer la moda italiana en el extranjero.",
+   "more": "Pucci hizo ropa liviana de seda y de jersey de seda estampada con colores intensos y dibujos en remolino, pensada para el viaje y el ocio. Sus diseños se mostraron en Florencia a comienzos de los años cincuenta, cuando la moda italiana se presentaba a compradores extranjeros. Los estampados se volvieron su sello y un signo del nuevo estilo italiano, informal.",
+   "status": "Se conservan piezas en colecciones de museos y privadas, y la casa Pucci sigue existiendo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-corporate-office-boom",
+  "item": "lever-house-1952",
+  "note": "Postwar corporations wanted headquarters that showed a modern, orderly image; Lever Brothers answered with a glass-walled slab on stilts and an open courtyard.",
+  "es": {
+   "note": "Las empresas de posguerra querían sedes que mostraran una imagen moderna y ordenada; Lever Brothers respondió con una torre de vidrio sobre pilotes y un patio abierto."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-latam-urbanisation-1950",
+  "item": "caracas-ciudad-universitaria-1953",
+  "note": "Rapid urban growth and state investment in Venezuela paid for a large modern campus, planned as a city of linked buildings with art built in.",
+  "es": {
+   "note": "El rápido crecimiento urbano y la inversión del Estado en Venezuela financiaron un gran campus moderno, planeado como una ciudad de edificios unidos con arte integrado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-housing-reconstruction",
+  "item": "hunstanton-school-1954",
+  "note": "British reconstruction had to build schools quickly on tight budgets, so the Smithsons used a plain steel frame and brick infill and left the services exposed.",
+  "es": {
+   "note": "La reconstrucción británica debía construir escuelas rápido y con poco dinero, así que los Smithson usaron una estructura de acero con relleno de ladrillo y dejaron las instalaciones a la vista."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mexico-miracle",
+  "item": "los-manantiales-1958",
+  "note": "Abundant labour and costly steel in Mexico favoured thin concrete shells, whose straight-line forms could be shuttered by hand with timber boards.",
+  "es": {
+   "note": "La mano de obra abundante y el acero caro en México favorecieron los cascarones delgados de hormigón, cuyas formas de líneas rectas se moldeaban a mano con tablas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-isi-cepal",
+  "item": "atlantida-church-1960",
+  "note": "Steel and cement were scarce and costly in Uruguay, so Dieste built with local brick, reinforced to make thin undulating shells of great economy.",
+  "es": {
+   "note": "El acero y el cemento eran escasos y caros en Uruguay, así que Dieste construyó con ladrillo local, armado para formar cascarones ondulados muy delgados y económicos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-expo-67",
+  "item": "habitat-67",
+  "note": "Expo 67 served as a full-scale laboratory for industrialised housing, and Safdie used it to test stacked prefabricated concrete modules.",
+  "es": {
+   "note": "La Expo 67 fue un laboratorio a escala real de vivienda industrializada, y Safdie lo aprovechó para probar módulos prefabricados de hormigón apilados."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-latam-urbanisation-1950",
+  "item": "previ-lima-1969",
+  "note": "The informal growth of Lima left a housing shortage; PREVI answered with houses planned as a first stage that families enlarge over time.",
+  "es": {
+   "note": "El crecimiento informal de Lima dejó un déficit de viviendas; PREVI respondió con casas pensadas como primera etapa que las familias amplían con el tiempo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-design-culture",
+  "item": "pucci-prints-1951",
+  "note": "Italian fashion was presented to American buyers as an alternative to Paris, and Pucci offered light, boldly printed silks as its casual new look.",
+  "es": {
+   "note": "La moda italiana se presentó a compradores estadounidenses como alternativa a París, y Pucci ofreció sedas livianas de estampados audaces como su nuevo aspecto informal."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "connection",
+  "from": "farnsworth-house-1951",
+  "to": "glass-house-1949",
+  "note": "Johnson built his Glass House in New Canaan on the model of Mies’s glass pavilion, designed in the same years, which he knew well.",
+  "es": {
+   "note": "Johnson construyó su Casa de Vidrio en New Canaan según el modelo del pabellón de vidrio de Mies, proyectado en los mismos años y que conocía bien."
+  },
+  "refs": []
+ }
+]

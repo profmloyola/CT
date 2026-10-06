@@ -1,0 +1,30 @@
+industrial_c1	2	context
+industrial_m1	5	institution,movement,production,theory
+modernism_c1	1	context
+modernism_d1	6	designer
+modernism_m1	6	institution,movement,theory
+modernism_w1	10	work
+postmodern_c1	5	context
+postmodern_d1	12	designer
+postmodern_d2	6	designer
+postmodern_m1	6	movement,production,theory
+postmodern_w1	10	work
+postmodern_w2	10	work
+postmodern_w3	5	work
+postwar_c1	3	context
+postwar_d1	12	designer
+postwar_d2	3	designer
+postwar_m1	12	movement,production,theory
+postwar_m2	4	institution,movement
+postwar_w1	10	work
+postwar_w2	10	work
+postwar_w3	3	work
+reform_d1	5	designer
+reform_m1	7	institution,movement,production,theory
+reform_w1	7	work
+industrial_e1	2	link (D3)
+modernism_e1	11	link (D3)
+postmodern_e1	5	link (D3)
+postwar_e1	5	link (D3)
+reform_e1	4	link (D3)
+textos_1	11	reescritura (apply2.py)

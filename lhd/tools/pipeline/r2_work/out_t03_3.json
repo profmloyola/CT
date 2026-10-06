@@ -1,0 +1,306 @@
+[
+ {
+  "id": "citroen-ds",
+  "en": {
+   "key": "The streamlined Citroën saloon shown at the Paris motor show in 1955, styled by Flaminio Bertoni and known for its hydropneumatic suspension.[1][2][3]",
+   "more": "Citroën presented the DS at the Paris motor show in 1955, where orders were already being taken on 6 October.[1][2] Flaminio Bertoni, Citroën’s chief designer, was credited with the design,[3] and the car’s development traced back to work by Bertoni, the aviation engineer André Lefèbvre and the suspension engineer Paul Magès.[2] The hydropneumatic suspension corrected the ride height whatever the load,[1] and Roland Barthes wrote that the car looked as if it had fallen from the sky.[2] Production ran until 1975.[2][3]"
+  },
+  "es": {
+   "key": "El sedán aerodinámico de Citroën presentado en el salón del automóvil de París en 1955, con línea de Flaminio Bertoni y famoso por su suspensión hidroneumática.[1][2][3]",
+   "more": "Citroën presentó el DS en el salón del automóvil de París en 1955, donde ya se tomaban pedidos el 6 de octubre.[1][2] Se atribuye el diseño a Flaminio Bertoni, jefe de diseño de Citroën,[3] y el desarrollo del auto se remonta al trabajo de Bertoni, el ingeniero aeronáutico André Lefèbvre y el ingeniero de suspensiones Paul Magès.[2] La suspensión hidroneumática corregía la altura de marcha cualquiera fuera la carga,[1] y Roland Barthes escribió que el auto parecía haber caído del cielo.[2] La producción se mantuvo hasta 1975.[2][3]"
+  },
+  "refs": [
+   {
+    "label": "Citromuseum, «DS 19 1955 Chassis n°32»",
+    "url": "https://www.citromuseum.com/en/2025/01/28/ds-19-1955-chassis-n32/",
+    "checks": "El 32.º DS pedido, en el Salón de París el 6 de octubre de 1955; suspensión hidroneumática con corrección de altura «cualquiera sea la carga»; diseño aerodinámico. ⚠ no nombra a Bertoni ni a Lefèbvre.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Studebaker National Museum, «The Citroën DS 19: Radically Different»",
+    "url": "https://studebakermuseum.org/the-citroen-ds-19-radically-different-2/",
+    "checks": "Debut en el Salón de París de 1955; producción 1955 a 1975; desarrollo ligado a Bertoni, el ingeniero aeronáutico Lefèbvre y Paul Magès; cita de Barthes («caído del cielo»). ⚠ la fuente no dice que Lefèbvre «dirigiera» el diseño técnico.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Louwman Museum, «Citroën DS 19»",
+    "url": "https://www.louwmanmuseum.nl/auto/citroen-ds-19/",
+    "checks": "DS 19 presentado en 1955; Bertoni, jefe de diseño de Citroën; producción hasta 1975 (unos 1,5 millones); suspensión hidroneumática.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «smooth, low body» y «as modern as an aircraft»: ninguna fuente lo dice; usé la cita de Barthes (Studebaker Museum).",
+   "«Unveiled in October 1955»: las fuentes confirman el Salón de 1955 y pedidos el 6 de octubre, no el día de presentación; lo reformulé.",
+   "«Lefèbvre led the technical design» pasó a «desarrollo ligado a Bertoni, Lefèbvre y Magès» (se agregó a Paul Magès, que la fuente nombra).",
+   "Campo status («favorito de coleccionistas, museos de diseño») sin fuente; no se tocó."
+  ]
+ },
+ {
+  "id": "ronchamp-chapel",
+  "en": {
+   "key": "Le Corbusier’s pilgrimage chapel on a hill in eastern France, a sculptural building of white curved walls and a concrete shell roof, with light entering through openings.[2][3]",
+   "more": "It replaced the earlier chapel on the hill, destroyed in 1944,[1][3] and was built between 1953 and 1955[3] and inaugurated on 25 June 1955.[1] Reinforced concrete columns carry free-form walls built largely from stones salvaged from the ruins, under a curved roof of two thin concrete membranes.[2][3] Light is filtered through openings in the walls.[2] UNESCO describes it as a revolutionary approach to religious architecture, and it has belonged to the Le Corbusier serial World Heritage site since 2016.[4]"
+  },
+  "es": {
+   "key": "La capilla de peregrinación de Le Corbusier en una colina del este de Francia, una obra escultórica de muros blancos y curvos y una cubierta de hormigón en forma de cascarón, con luz que entra por aberturas.[2][3]",
+   "more": "Reemplazó a la capilla anterior de la colina, destruida en 1944,[1][3] y se construyó entre 1953 y 1955[3] y se inauguró el 25 de junio de 1955.[1] Columnas de hormigón armado sostienen muros de forma libre, levantados en buena parte con piedras rescatadas de las ruinas, bajo una cubierta curva de dos delgadas membranas de hormigón.[2][3] La luz se filtra por aberturas de los muros.[2] La UNESCO la describe como un enfoque revolucionario de la arquitectura religiosa, y forma parte del sitio serial de Le Corbusier del Patrimonio Mundial desde 2016.[4]"
+  },
+  "refs": [
+   {
+    "label": "Fondation Le Corbusier, «Chapelle Notre-Dame du Haut, Ronchamp»",
+    "url": "https://www.fondationlecorbusier.fr/en/?p=17619",
+    "checks": "Inaugurada el 25 de junio de 1955; reemplazó a la capilla destruida por bombardeo en 1944; hormigón; sitio UNESCO desde 2016.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Chapelle Le Corbusier Ronchamp (sitio oficial), «The chapel Notre-Dame du Haut»",
+    "url": "https://www.chapelle-lecorbusier-ronchamp.com/en/the-chapel-notre-dame-du-haut/",
+    "checks": "Destruida en 1944; obra de fines de 1953 a 1955; 15 columnas de hormigón armado y muros libres con piedras de la capilla destruida; cubierta de dos membranas de hormigón de 6 cm; luz filtrada por aberturas; lugar de peregrinación. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Chapelle Le Corbusier Ronchamp (sitio oficial), «The buildings»",
+    "url": "https://www.chapelle-lecorbusier-ronchamp.com/en/discovering-the-hill/the-buildings/",
+    "checks": "Capilla neogótica destruida en septiembre de 1944; obra entre 1953 y 1955; exterior blanco, fachadas curvas, concreto armado, muros mayormente con piedras de las ruinas; peregrinación activa. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "UNESCO World Heritage Centre, «The Architectural Work of Le Corbusier» (1321)",
+    "url": "https://whc.unesco.org/en/list/1321",
+    "checks": "Inscripción en 2016, 17 sitios en siete países; Ronchamp como componente; «enfoque revolucionario de la arquitectura religiosa». ⚠ resumen automático; verificar la cita textual.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «built between 1950 and 1955»: las fuentes dan obra de 1953 a 1955 (1950 fue la primera visita de Le Corbusier).",
+   "Quité «small windows of coloured glass» (las fuentes hablan de aberturas), «roof seems to float», «rectilinear modernism» y «one of the best-known churches»: no confirmados; la frase de UNESCO sustituye la valoración.",
+   "Campo materials («muros encalados, vidrio de color») no se tocó: las fuentes dicen hormigón y piedras de las ruinas con revoque, no mencionan vidrio de color; revisar. Campo status «abierta a visitantes» solo confirmado en parte (peregrinación activa)."
+  ]
+ },
+ {
+  "id": "ibm-logo",
+  "en": {
+   "key": "Paul Rand’s 1956 redesign of the IBM wordmark in City Medium capitals, the base of the company’s unified identity.[1][2]",
+   "more": "Rand was brought in as a design consultant to IBM in 1956,[2] and that year redrew the company’s lettering in City Medium, replacing Beton Bold with a more solid and balanced look.[1] His work for IBM then reached products, printed materials and even buildings, at a time when Thomas Watson Jr. complained that the company had no design theme.[2] The eight-bar version followed in 1972 and has remained essentially unchanged.[1]"
+  },
+  "es": {
+   "key": "El rediseño de 1956 de Paul Rand del logotipo de IBM, en mayúsculas City Medium, base de la identidad unificada de la empresa.[1][2]",
+   "more": "Rand fue contratado como consultor de diseño de IBM en 1956,[2] y ese año redibujó las letras de la empresa en City Medium, que reemplazó a la Beton Bold con un aspecto más sólido y equilibrado.[1] Su trabajo para IBM llegó luego a productos, impresos e incluso edificios, en una época en que Thomas Watson Jr. lamentaba que la empresa no tuviera un tema de diseño.[2] La versión de ocho barras llegó en 1972 y se ha mantenido casi sin cambios.[1]"
+  },
+  "refs": [
+   {
+    "label": "IBM, «The IBM logo»",
+    "url": "https://www.ibm.com/history/logo",
+    "checks": "En 1956 Rand reemplazó Beton Bold por City Medium (B de contornos cuadrados, M de serifas asimétricas); en 1972 creó el logo de ocho barras, esencialmente sin cambios. ⚠ fuente corporativa; resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "IBM, «IBM design» (design program)",
+    "url": "https://www.ibm.com/history/design-program",
+    "checks": "Rand consultor desde 1956; su trabajo alcanzó productos, impresos y edificios; cita de Watson Jr. sobre la falta de tema de diseño. ⚠ fuente corporativa; resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «slab-serif» y «heavy»: la fuente nombra City Medium y serifas asimétricas, no dice «de serifas rectas»; el campo materials conserva «slab-serif»; revisar.",
+   "Quité «earlier, more ornate wordmark» (la fuente dice Beton Bold) y «suggests speed and dynamism»: no confirmados.",
+   "«Mid-1950s» pasó a 1956 (IBM). «Still the company’s logo»: la fuente dice «esencialmente sin cambios»; el campo status no se tocó."
+  ]
+ },
+ {
+  "id": "eames-lounge",
+  "en": {
+   "key": "The Eameses’ padded leather armchair and ottoman, built from curved plywood shells and described by Charles Eames as having the look of a well-used first baseman’s mitt.[1][2]",
+   "more": "It was designed in 1956 and made by Herman Miller from 1956 to 1962 in the version held by the MFA Boston, in moulded plywood with walnut or rosewood veneers, cast aluminium and leather-covered foam and down.[1] Its three-shell construction carries leather cushions on an aluminium swivel base.[2] It debuted nationally on the NBC programme Home in 1956.[2] Herman Miller presents it as a high-end design classic, and it is in the collections of MoMA and the Art Institute of Chicago.[2]"
+  },
+  "es": {
+   "key": "El sillón tapizado en cuero y su otomana de los Eames, hechos con carcasas curvas de terciado y descritos por Charles Eames con el aspecto de un guante de primera base muy usado.[1][2]",
+   "more": "Se diseñó en 1956 y Herman Miller lo fabricó de 1956 a 1962 en la versión del MFA de Boston, de terciado moldeado con chapas de nogal o palisandro, aluminio fundido y espuma de látex y plumón forrados en cuero.[1] Su construcción de tres carcasas lleva cojines de cuero sobre una base giratoria de aluminio.[2] Debutó a nivel nacional en el programa Home de la NBC en 1956.[2] Herman Miller lo presenta como un clásico de diseño de gama alta, y está en las colecciones del MoMA y del Art Institute de Chicago.[2]"
+  },
+  "refs": [
+   {
+    "label": "Museum of Fine Arts, Boston, «Lounge chair and ottoman, no. 670 and 671»",
+    "url": "https://mfaboston6.emuseum.com/objects/703089/lounge-chair-and-ottoman-no-670-and-671",
+    "checks": "Charles y Ray Eames; Herman Miller; «designed 1956, made 1956–62»; terciado moldeado con chapas de nogal o palisandro, aluminio fundido, espuma de látex y plumón forrados en cuero.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Herman Miller, «Eames Lounge Chair and Ottoman: design story»",
+    "url": "https://hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman/design-story",
+    "checks": "Debut nacional en el programa Home de la NBC en 1956; cita de Eames («guante de primera base»); tres carcasas con respaldo enchapado, cojines de cuero, base giratoria de aluminio; en el MoMA y el AIC. ⚠ fuente del fabricante: el carácter «de gama alta» es su propia presentación.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «refined version of the classic club chair»: la fuente da la imagen del guante de béisbol (atribuida a Eames) y no el sillón club.",
+   "Quité «three plywood shells for back, headrest and seat» y «separate cushions»: la fuente dice solo «tres carcasas»; «one of the best-known images of mid-century American furniture» pasó a presencia en MoMA y AIC.",
+   "«Sold by Herman Miller as a high-end chair» se atribuye al fabricante. Status «Vitra» sin confirmar; no se tocó."
+  ]
+ },
+ {
+  "id": "tulip-chair",
+  "en": {
+   "key": "Eero Saarinen’s chair with a moulded plastic seat on a single cast aluminium stem, designed to clear up what he called the slum of legs.[1][3]",
+   "more": "Saarinen designed the chair as part of his Pedestal Collection for Knoll.[3] He said the undercarriage of chairs and tables made an ugly, confusing, unrestful world and that he wanted to clear up the slum of legs.[1] MoMA dates it 1955–56, and LACMA says it was designed around 1955 and made from 1956.[1][2] The shell is fibreglass-reinforced plastic and the base is cast aluminium with a plastic coating.[1][2] Knoll still produces it.[3]"
+  },
+  "es": {
+   "key": "La silla de Eero Saarinen con asiento de plástico moldeado sobre un solo pie de aluminio fundido, diseñada para despejar lo que él llamaba la maraña de patas.[1][3]",
+   "more": "Saarinen diseñó la silla como parte de su Pedestal Collection para Knoll.[3] Dijo que la estructura inferior de sillas y mesas formaba un mundo feo, confuso e inquieto, y que quería despejar esa maraña de patas.[1] El MoMA la fecha en 1955-56 y el LACMA dice que se diseñó hacia 1955 y se fabrica desde 1956.[1][2] La carcasa es de plástico reforzado con fibra de vidrio y la base es de aluminio fundido con recubrimiento plástico.[1][2] Knoll sigue produciéndola.[3]"
+  },
+  "refs": [
+   {
+    "label": "The Museum of Modern Art, «Eero Saarinen, Tulip Armchair (model 150), 1955-56»",
+    "url": "https://www.moma.org/collection/works/2565",
+    "checks": "Fecha 1955-56; Knoll Associates; asiento de poliéster reforzado con fibra de vidrio sobre pedestal de aluminio fundido con acabado plástico; cita de Saarinen sobre la «slum of legs»; apoyo central único.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Los Angeles County Museum of Art, «Tulip armchair, model 150»",
+    "url": "https://collections.lacma.org/object/129474",
+    "checks": "Diseñada hacia 1955, fabricada de 1956 hasta hoy; Knoll International; base de aluminio fundido con recubrimiento plástico; carcasa de plástico reforzado con fibra de vidrio; pedestal único.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Knoll, «Tulip Arm Chair» (Saarinen)",
+    "url": "https://www.knoll.com/product/tulip-arm-chair/",
+    "checks": "Parte de la Pedestal Collection de Saarinen; base de una sola pata; sigue en producción por Knoll. ⚠ fuente del fabricante; resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «came out in 1956 together with the matching tables» y «Knoll sold it for homes and offices»: ninguna fuente lo confirma; la fecha se matiza (MoMA 1955-56; LACMA diseño hacia 1955, fabricación desde 1956). Year 1956 no se tocó (Brooklyn Museum también dice «designed 1956»).",
+   "Quité «seat that seems to grow from the stem» (MoMA dice que evoca tulipán o copa).",
+   "Status «Vitra» no aplica a la Tulip (solo Knoll confirmada); la ficha dice «por Knoll», correcto."
+  ]
+ },
+ {
+  "id": "braun-sk4",
+  "en": {
+   "key": "The compact radio and record player designed by Hans Gugelot and Dieter Rams for Braun, with a white metal case and a clear lid.[1][2]",
+   "more": "Gugelot and Rams designed it for Braun in 1956.[1][2] Gugelot, who taught at the Ulm school of design, developed radio designs for Braun with students of the school from 1955, including the SK 4.[3] Radio and record player share one small body of painted metal, wood and plastic,[1] with a transparent acrylic cover.[2] Its white metal casing and transparent lid earned it the nickname ‘Snow White’s Coffin’, and MoMA says its elemental look redefined the typology of domestic audio equipment.[1]"
+  },
+  "es": {
+   "key": "El radiogramófono compacto que Hans Gugelot y Dieter Rams diseñaron para Braun, con caja metálica blanca y tapa transparente.[1][2]",
+   "more": "Gugelot y Rams lo diseñaron para Braun en 1956.[1][2] Gugelot, que enseñaba en la escuela de diseño de Ulm, desarrolló diseños de radios para Braun con estudiantes de la escuela desde 1955, entre ellos el SK 4.[3] Radio y tocadiscos comparten un solo cuerpo pequeño de metal pintado, madera y plástico,[1] con una cubierta de acrílico transparente.[2] Su caja de metal blanco y su tapa transparente le valieron el apodo de «el ataúd de Blancanieves», y el MoMA afirma que su aspecto elemental redefinió la tipología de los equipos de audio domésticos.[1]"
+  },
+  "refs": [
+   {
+    "label": "The Museum of Modern Art, «Radio-Phonograph (model SK 4/10), 1956»",
+    "url": "https://www.moma.org/collection/works/2649",
+    "checks": "Dieter Rams y Hans Gugelot; 1956; Braun AG, Frankfurt; metal pintado, madera y plástico; apodo por la caja blanca y la tapa transparente; «redefinió la tipología» del audio doméstico.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Deutsches Museum / Google Arts & Culture, «SK 4 radio/record player combination»",
+    "url": "https://artsandculture.google.com/asset/sk-4-radio-record-player-combination-braun-gmbh-frankfurt-am-main/1wF2e09B5G4BEQ?hl=en",
+    "checks": "Gugelot (escuela de diseño de Ulm) y Rams; diseño de 1956; Braun GmbH; cubierta de vidrio acrílico transparente; apodo «ataúd de Blancanieves». ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "HfG-Archiv Ulm, «Hans Gugelot: Die Architektur des Design»",
+    "url": "https://hfg-archiv.museumulm.de/en/exhibition/hans-gugelot-100-en/",
+    "checks": "Gugelot enseñó en la HfG Ulm desde 1954; en 1955 desarrolló con estudiantes radios para Braun, incluido el SK 4. ⚠ da 1955 para ese desarrollo; el museo y MoMA dan 1956 para el diseño.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «helped set the plain Braun style of the following years» y «developed together at Braun»: no confirmados; «bare, orderly look» sustituido por la valoración del MoMA.",
+   "«With help from the design teaching at Ulm» precisado: según el HfG-Archiv, Gugelot trabajó con estudiantes desde 1955 (fecha distinta de 1956; el año de la ficha no se tocó).",
+   "Materials: MoMA dice «metal pintado, madera y plástico», la ficha dice chapa pintada, madera y acrílico; sin conflicto. Status «fuera de producción» sin fuente; no se tocó."
+  ]
+ },
+ {
+  "id": "helvetica",
+  "en": {
+   "key": "A neutral sans-serif drawn by Max Miedinger and Edouard Hoffmann at the Haas type foundry in Switzerland, issued as Neue Haas Grotesk in 1957 and renamed Helvetica in 1960.[1][2]",
+   "more": "Miedinger and Hoffmann created it at the Haas foundry in Münchenstein, Switzerland, seeking a neutral typeface of great clarity for signage in many uses.[2] MoMA dates the metal type to 1956–57.[1] It was released in 1957 as Neue Haas Grotesk; Stempel, the foundry’s German parent company, renamed it Helvetica in 1960 to improve its marketability abroad.[2] Neue Helvetica, a reworking of the 1957 design to unify its structure, weights and widths, came out in 1983.[3] MoMA calls Helvetica one of the most important typefaces of the twentieth century.[4]"
+  },
+  "es": {
+   "key": "Una grotesca neutra dibujada por Max Miedinger y Edouard Hoffmann en la fundición Haas, en Suiza, lanzada como Neue Haas Grotesk en 1957 y rebautizada Helvetica en 1960.[1][2]",
+   "more": "Miedinger y Hoffmann la crearon en la fundición Haas de Münchenstein, Suiza, en busca de una tipografía neutra y de gran claridad para señalética de usos diversos.[2] El MoMA fecha los tipos de metal en 1956-57.[1] Salió en 1957 como Neue Haas Grotesk; Stempel, la casa matriz alemana de la fundición, la rebautizó Helvetica en 1960 para mejorar su comercialización internacional.[2] Neue Helvetica, una reelaboración del diseño de 1957 para unificar su estructura, pesos y anchos, apareció en 1983.[3] El MoMA la llama una de las tipografías más importantes del siglo XX.[4]"
+  },
+  "refs": [
+   {
+    "label": "The Museum of Modern Art, «Helvetica Bold, 36 point, 1956-1957»",
+    "url": "https://www.moma.org/collection/works/106768",
+    "checks": "Max Miedinger y Edouard Hoffmann; 1956-57; fundición Haas, Suiza; tipos de metal.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Jeremy Norman, History of Information, «The Helvetica typeface debuts under a different name»",
+    "url": "https://www.historyofinformation.com/detail.php?id=2058",
+    "checks": "Miedinger y Hoffmann en la fundición Haas de Münchenstein; Neue Haas Grotesk, 1957; Stempel la renombró Helvetica en 1960 para su comercialización; busca neutralidad para señalética. ⚠ fuente secundaria (bibliografía comercial); resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "CreativePro, «Helvetica vs. Neue Helvetica: the same but different»",
+    "url": "https://creativepro.com/helvetica-vs-neue-helvetica-same-but-different/",
+    "checks": "Neue Helvetica, reelaboración de 1957 para unificar estructura, pesos y anchos, lanzada en 1983. ⚠ fuente secundaria; atribuye el lanzamiento de 1957 a Linotype, lo que no se usa.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Museum of Modern Art, «MoMA’s acquisition of Helvetica font» (comunicado)",
+    "url": "https://www.moma.org/documents/moma_press-release_387114.pdf",
+    "checks": "«Una de las tipografías más importantes del siglo XX»; primera tipografía adquirida por el MoMA; letras simples y bien proporcionadas.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «in the tradition of Akzidenz-Grotesk», «even texture and tightly closed letterforms» y que Hoffmann fuera «head of the Haas foundry»: ninguna fuente consultada lo confirma (solo que Hoffmann co-creó la tipografía).",
+   "«Corporate and public signage» pasó a «señalética de usos diversos» (lo que dice la fuente); quité «adapted to phototypesetting and later digital use»: no confirmado.",
+   "«Stempel, which marketed it abroad» pasó a «casa matriz alemana… para mejorar su comercialización».",
+   "Status «sigue muy usada» sin fuente directa; no se tocó. Una fuente secundaria da 1956 para el diseño y otra 1957; se mantiene 1957 (lanzamiento)."
+  ]
+ },
+ {
+  "id": "univers",
+  "en": {
+   "key": "A sans-serif family designed by Adrian Frutiger as a systematic set of 21 variants in weight and width, identified by numbers rather than names.[1][2][3]",
+   "more": "Frutiger created it for Deberny & Peignot, releasing it in 1957 for the Lumitype-Photon photocomposition system, with foundry type following in 1958.[1][3] Instead of names such as bold or condensed, each variant has a two-digit number, the first digit for weight and the second for width.[1][3] Otl Aicher chose Univers as the only typeface of the Munich 1972 Olympics, the first large-scale project in Germany to use it exhaustively and exclusively.[4] A redesign of 1997 was renamed Univers Next in 2010.[3]"
+  },
+  "es": {
+   "key": "Una familia de tipografía sin serifas que Adrian Frutiger proyectó como un conjunto sistemático de 21 variantes de grosor y ancho, identificadas con números y no con nombres.[1][2][3]",
+   "more": "Frutiger la creó para Deberny & Peignot, que la lanzó en 1957 para el sistema de fotocomposición Lumitype-Photon, y los tipos de fundición siguieron en 1958.[1][3] En lugar de nombres como negrita o condensada, cada variante lleva un número de dos cifras, la primera para el grosor y la segunda para el ancho.[1][3] Otl Aicher eligió Univers como la única tipografía de los Juegos Olímpicos de Múnich 1972, el primer proyecto de gran escala en Alemania en usarla de forma exhaustiva y exclusiva.[4] Un rediseño de 1997 pasó a llamarse Univers Next en 2010.[3]"
+  },
+  "refs": [
+   {
+    "label": "Rochester Institute of Technology, «VI: Deberny et Peignot, post-war»",
+    "url": "https://www.rit.edu/amgweb/vi-deberny-et-peignot-post-war",
+    "checks": "Frutiger creó Univers para Deberny et Peignot en 1957; sistema Lumitype; 21 variantes de ancho y grosor con sistema de numeración. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Production Type, «Deberny et Peignot’s Univers, 1957»",
+    "url": "https://productiontype.com/article/deberny-et-peignot-s-univers-1957",
+    "checks": "Frutiger, Deberny et Peignot, Lumitype; «veintiuna variaciones consistentes»; diseñada con un plan maestro. ⚠ fuente de una fundición digital; resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Fonts In Use, «Univers»",
+    "url": "https://fontsinuse.com/typefaces/1160/univers",
+    "checks": "Lanzada para la Lumitype-Photon en 1957, tipos de fundición en 1958; primer dígito grosor (3–8) y segundo ancho (3–9); revisada en 1997 y rebautizada Univers Next en 2010. ⚠ fuente secundaria; resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Fonts In Use, «Organisationskomitee… München 1972: Richtlinien und Normen für die visuelle Gestaltung»",
+    "url": "https://fontsinuse.com/uses/38873/organisationskomitee-fuer-die-spiele-der-xx-o",
+    "checks": "Manual de Aicher (junio de 1969); Univers como única tipografía; primer proyecto de gran escala en Alemania en aplicarla de modo exhaustivo y exclusivo. ⚠ fuente secundaria; resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "«Launched in 1957 as metal type» corregido: 1957 es el lanzamiento para fotocomposición (Lumitype-Photon); los tipos de fundición, 1958 (Fonts In Use). RIT dice que fue la primera tipografía fabricada a la vez como tipo manual, Monotype y fototipo.",
+   "«Used across the whole identity» pasó a «única tipografía… uso exhaustivo y exclusivo».",
+   "Status «sigue en uso» no confirmado por fuente directa; solo se confirma el rediseño de 1997 y el nombre Univers Next (2010). No se tocó."
+  ]
+ }
+]

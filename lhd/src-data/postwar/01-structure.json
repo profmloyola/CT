@@ -1,0 +1,50 @@
+{
+ "era": {
+  "id": "postwar",
+  "start": 1945,
+  "end": 1975,
+  "name": "Post-war",
+  "intro": "Reconstruction, consumption and the Cold War; good design, corporate identity, method; design and development in the South.",
+  "es": {
+   "name": "Posguerra",
+   "intro": "Reconstrucción, consumo y Guerra Fría; buen diseño, identidad corporativa, método; diseño y desarrollo en el Sur."
+  }
+ },
+ "tracks": [
+  {
+   "id": "political",
+   "label": "Political",
+   "es": {
+    "label": "Político"
+   }
+  },
+  {
+   "id": "economic",
+   "label": "Economic",
+   "es": {
+    "label": "Económico"
+   }
+  },
+  {
+   "id": "social",
+   "label": "Social",
+   "es": {
+    "label": "Social"
+   }
+  },
+  {
+   "id": "cultural",
+   "label": "Cultural",
+   "es": {
+    "label": "Cultural"
+   }
+  },
+  {
+   "id": "technological",
+   "label": "Technological",
+   "es": {
+    "label": "Tecnológico"
+   }
+  }
+ ]
+}

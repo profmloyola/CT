@@ -1,0 +1,217 @@
+[
+ {
+  "id": "bodoni-manuale-1788",
+  "en": {
+   "key": "The 1818 edition of Bodoni’s Manuale tipografico, a two-volume specimen of the types he cut for the ducal press of Parma, published by his widow after his death; the first specimen dates from 1788.",
+   "more": "Giambattista Bodoni directed the ducal press of Parma and issued a first Manuale tipografico in 1788. He kept enlarging it until his death in 1813, and his widow, Margherita Dall’Aglio, published the expanded edition in two volumes in 1818. Its letters oppose thick strokes to hairline strokes and use flat serifs, an austere and orderly look in line with Neoclassical taste.",
+   "status": "Copies of the 1818 edition are held in libraries; the Bodoni letters remain in wide use in digital form."
+  },
+  "es": {
+   "key": "La edición de 1818 del Manuale tipografico de Bodoni, muestrario en dos volúmenes de sus letras para la imprenta ducal de Parma, publicado por su viuda tras su muerte; el primero es de 1788.",
+   "more": "Giambattista Bodoni dirigía la imprenta ducal de Parma y publicó un primer Manuale tipografico en 1788. Siguió ampliándolo hasta su muerte en 1813, y su viuda, Margherita Dall’Aglio, publicó en 1818 la edición ampliada, en dos volúmenes. Sus letras oponen trazos gruesos a trazos finísimos y usan serifas planas, un aspecto austero y ordenado acorde con el gusto neoclásico.",
+   "status": "Hay ejemplares de la edición de 1818 en bibliotecas; las letras Bodoni siguen muy usadas en versiones digitales."
+  },
+  "refs": [],
+  "issues": [
+   "key/more/status reescritos para la edición de 1818 (2 vols., viuda); primer muestrario de 1788 mencionado"
+  ]
+ },
+ {
+  "id": "brutalism-metabolism",
+  "en": {
+   "key": "A postwar architecture that left raw concrete exposed, with heavy sculptural masses and visible structure, named in Britain in the 1950s and taken up from Europe to Brazil.",
+   "traits": [
+    "Exposed concrete left as it came from the formwork (béton brut)",
+    "Heavy, sculptural masses and visible structure",
+    "Large housing and public complexes, such as the Smithsons’ school at Hunstanton and Le Corbusier’s Unité d’Habitation",
+    "An ethic of honesty to materials and use, argued by Banham as ‘New Brutalism’",
+    "Taken up in Brazil, notably in São Paulo, with concrete as a national, structural language"
+   ],
+   "context": "Postwar Europe needed housing and public buildings quickly and cheaply, and reinforced concrete was an available, economical material. Le Corbusier’s Unité d’Habitation in Marseille (1952), of unfinished concrete, set an example, and the Smithsons’ school at Hunstanton (1954) gave the idea an English form. The critic Reyner Banham named a ‘New Brutalism’ in the 1950s, with Alison and Peter Smithson as its leading architects. The approach travelled widely; in Brazil, architects of São Paulo such as João Batista Vilanova Artigas and Paulo Mendes da Rocha made exposed concrete and bold structure their own language.",
+   "shift": "From the smooth white walls of prewar modernism to the honest display of material and structure: concrete left rough, heavy and visible became both an economical method and an ethical position about how a building should look."
+  },
+  "es": {
+   "key": "Arquitectura de posguerra que dejó el hormigón a la vista, con masas pesadas y estructura visible, nombrada en Gran Bretaña en los años cincuenta y adoptada de Europa a Brasil.",
+   "traits": [
+    "Hormigón a la vista, tal como sale del moldaje (béton brut)",
+    "Masas pesadas y escultóricas y estructura visible",
+    "Grandes conjuntos de vivienda y edificios públicos, como la escuela de los Smithson en Hunstanton y la Unité d’Habitation de Le Corbusier",
+    "Una ética de honestidad con los materiales y el uso, defendida por Banham como «Nuevo Brutalismo»",
+    "Adoptado en Brasil, sobre todo en São Paulo, con el hormigón como lenguaje estructural propio"
+   ],
+   "context": "La Europa de posguerra necesitaba viviendas y edificios públicos con rapidez y a bajo costo, y el hormigón armado era un material disponible y económico. La Unité d’Habitation de Le Corbusier en Marsella (1952), de hormigón sin terminar, dio un ejemplo, y la escuela de los Smithson en Hunstanton (1954) le dio a la idea una forma inglesa. El crítico Reyner Banham habló de un «Nuevo Brutalismo» en los años cincuenta, con Alison y Peter Smithson como arquitectos destacados. El enfoque viajó lejos; en Brasil, arquitectos de São Paulo como João Batista Vilanova Artigas y Paulo Mendes da Rocha hicieron del hormigón a la vista y la estructura audaz un lenguaje propio.",
+   "shift": "De los muros blancos y lisos del modernismo de entreguerras a la exhibición honesta del material y la estructura: el hormigón rugoso, pesado y visible fue a la vez un método económico y una postura ética sobre cómo debe verse un edificio."
+  },
+  "refs": [],
+  "issues": [
+   "se quita el metabolismo (key, traits, context, shift); se agregan Hunstanton, Banham y Brasil (Artigas, Mendes da Rocha)"
+  ]
+ },
+ {
+  "id": "futurism-typography",
+  "en": {
+   "key": "Marinetti’s movement of 1909: its ‘words in freedom’ broke the line of type, mixing typefaces and inks,[1][2] and it reached architecture, fashion and objects.",
+   "traits": [
+    "Words in freedom: poetry at once verbal and visual[1]",
+    "Mixed typefaces and several colours of ink on one page[2]",
+    "Onomatopoeia and type as sound[1]",
+    "The page as a visual as well as a verbal space[1]",
+    "Later applied to advertising, as in Depero’s work[3]",
+    "The manifesto as a public form of provocation, from Marinetti’s of 1909 to Sant’Elia’s of 1914",
+    "Architecture of the machine age in Antonio Sant’Elia’s drawings for a ‘new city’",
+    "Dress and objects in Thayaht’s TuTa suit and in Depero’s designs"
+   ],
+   "context": "Futurism, launched by Filippo Tommaso Marinetti in 1909, celebrated machines, speed and war. Its founding manifesto appeared in the Paris newspaper Le Figaro on 20 February 1909, and the movement made the manifesto a standard way to announce a design programme. Marinetti called for a ‘typographical revolution’ in which one page could use three or four colours of ink or even twenty typefaces,[2] and his book Zang Tumb Tuuum (1914), his first published collection of parole in libertà, put it into practice.[1] In architecture, Antonio Sant’Elia’s drawings and his 1914 manifesto imagined a city of the machine age, though little of it was built. In dress, Thayaht’s one-piece TuTa suit of 1919 applied Futurist ideas of simplicity and modern life to clothing. Fortunato Depero carried Futurist ideas into advertising in the 1930s, with his 1931 manifesto of Futurist advertising art and the Campari Soda bottle of 1932.[3] The movement was then close to the Fascist regime: Marinetti was one of the first supporters of Italian Fascism, and Futurist language marked the Exhibition of the Fascist Revolution (1932–34).[2]",
+   "shift": "It loosened typography from the regular line, treating the page as a space of visual as well as verbal poetry.[1][2] It also carried that break with tradition from the page to the building, the garment and the everyday object."
+  },
+  "es": {
+   "key": "El movimiento de Marinetti de 1909: sus «palabras en libertad» rompieron la línea tipográfica, mezclando tipos y tintas,[1][2] y llegó a la arquitectura, la moda y los objetos.",
+   "traits": [
+    "Palabras en libertad: poesía a la vez verbal y visual[1]",
+    "Mezcla de tipos y de varios colores de tinta en una página[2]",
+    "Onomatopeyas y letra como sonido[1]",
+    "La página como espacio visual además de verbal[1]",
+    "Luego aplicada a la publicidad, como en la obra de Depero[3]",
+    "El manifiesto como forma pública de provocación, del de Marinetti en 1909 al de Sant’Elia en 1914",
+    "Arquitectura de la era de la máquina en los dibujos de Antonio Sant’Elia para una «ciudad nueva»",
+    "Vestuario y objetos en el traje TuTa de Thayaht y en los diseños de Depero"
+   ],
+   "context": "El futurismo, lanzado por Filippo Tommaso Marinetti en 1909, celebró las máquinas, la velocidad y la guerra. Su manifiesto fundacional apareció en el diario parisino Le Figaro el 20 de febrero de 1909, y el movimiento hizo del manifiesto una manera habitual de anunciar un programa de diseño. Marinetti pidió una «revolución tipográfica» en la que una página pudiera usar tres o cuatro colores de tinta o incluso veinte tipos,[2] y su libro Zang Tumb Tuuum (1914), su primera colección publicada de parole in libertà, la puso en práctica.[1] En arquitectura, los dibujos de Antonio Sant’Elia y su manifiesto de 1914 imaginaron una ciudad de la era de la máquina, aunque casi nada de ella se construyó. En el vestuario, el traje de una pieza TuTa de Thayaht, de 1919, aplicó a la ropa las ideas futuristas de simplicidad y vida moderna. Fortunato Depero llevó las ideas futuristas a la publicidad en los años treinta, con su manifiesto de 1931 sobre el arte publicitario futurista y la botella del Campari Soda de 1932.[3] El movimiento estaba entonces cerca del régimen fascista: Marinetti fue de los primeros partidarios del fascismo italiano y el lenguaje futurista marcó la Exposición de la Revolución Fascista (1932–34).[2]",
+   "shift": "Soltó la tipografía de la línea regular y trató la página como un espacio de poesía visual además de verbal.[1][2] También llevó esa ruptura con la tradición de la página al edificio, la prenda y el objeto cotidiano."
+  },
+  "refs": [
+   {
+    "label": "MoMA, F. T. Marinetti, Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà (1914)",
+    "url": "https://www.moma.org/collection/works/31450",
+    "checks": "Libro de 1914 (Edizioni Futuriste di «Poesia», Milán), primera colección publicada de parole in libertà, «una forma de poesía a la vez verbal y visual»; título onomatopéyico que evoca la guerra mecanizada (asedio de Adrianópolis); composición tipográfica de Cesare Cavanna. ⚠ El registro escribe «Tumb Tumb»; la ficha usa «Tuuum».",
+    "date": "2026-10-04"
+   },
+   {
+    "label": "Hofstra University Library, «Exhibition of the Fascist Revolution» (PDF)",
+    "url": "https://www.hofstra.edu/pdf/library/libspc_weingrow_std_marzigliano.pdf",
+    "checks": "Marinetti (1876–1944) hablaba de una «revolución tipográfica» y de usar en una misma página tres o cuatro colores de tinta o incluso veinte tipos; fue de los primeros partidarios del fascismo italiano; Exposición de la Revolución Fascista (1932–34) con lenguaje futurista. ⚠ Fuente de biblioteca universitaria; no menciona Zang Tumb Tuuum ni a Depero.",
+    "date": "2026-10-04"
+   },
+   {
+    "label": "Domus, «The story of Depero’s Campari Soda bottle» (2022)",
+    "url": "https://www.domusweb.it/en/design/2022/02/23/depero-campari-soda-bottle.html",
+    "checks": "Fortunato Depero diseñó en 1932 la botella del Campari Soda; su manifiesto de 1931 sobre el arte publicitario futurista sostiene que el producto artístico es utilitario e ideologizado. ⚠ No trata el libro Depero Futurista (1927).",
+    "date": "2026-10-04"
+   }
+  ],
+  "issues": [
+   "ampliados key, traits, context y shift a arquitectura (Sant’Elia), moda (TuTa), objeto (Depero) y manifiesto; frases con [n] conservadas, solo se añadieron frases sin marcas (key reordenada conservando [1][2])"
+  ]
+ },
+ {
+  "id": "punk-fashion",
+  "en": {
+   "key": "British clothing and graphics of the late 1970s: torn garments, safety pins and slogans, with cut-and-paste posters, fanzines and photocopies, made by hand or bought from Westwood and McLaren’s shop.",
+   "traits": [
+    "Ripped and deliberately damaged clothes",
+    "Safety pins, chains and straps",
+    "Slogan and provocative images on T-shirts",
+    "Do-it-yourself assembly",
+    "Clothing as protest",
+    "Cut-and-paste collage and ransom-note lettering, as in Jamie Reid’s work for the Sex Pistols",
+    "Fanzines and posters made with scissors, glue and the photocopier"
+   ]
+  },
+  "es": {
+   "key": "Ropa y gráfica británicas de fines de los setenta: prendas rasgadas, alfileres y consignas, con afiches de collage, fanzines y fotocopias, hechos a mano o comprados en la tienda de Westwood y McLaren.",
+   "traits": [
+    "Ropa rasgada y dañada a propósito",
+    "Alfileres de gancho, cadenas y correas",
+    "Consignas e imágenes provocadoras en las poleras",
+    "Armado hecho por uno mismo",
+    "La ropa como protesta",
+    "Collage de recortes y letras tipo carta anónima, como en la obra de Jamie Reid para los Sex Pistols",
+    "Fanzines y afiches hechos con tijeras, pegamento y fotocopiadora"
+   ]
+  },
+  "refs": [],
+  "issues": [
+   "key y traits ampliados con la gráfica (Jamie Reid, fanzines, fotocopia)"
+  ]
+ },
+ {
+  "id": "ctx-gothic-revival",
+  "en": {
+   "key": "A romantic taste for the medieval past and a religious revival that, in Britain, became a moral argument about how buildings and things should be made.",
+   "happened": "From the late eighteenth century, and strongly in the 1830s and 1840s, Britain and the rest of Europe turned back to the Middle Ages in literature, religion and art. A. W. N. Pugin and later John Ruskin argued that medieval building was honest and Christian, and that the industrial age had cut the link between work and pleasure. Ruskin’s chapter ‘The Nature of Gothic’ appeared in The Stones of Venice in 1853. The movement began before 1851; the dates here start with the first year of the period. The architectural style itself is treated in the Gothic Revival movement; this context is the wider cultural and religious current behind it.",
+   "effect": "This outlook, more than any one style, gave design a moral language: respect for the hand of the worker shaped furniture, metalwork, stained glass, wallpaper and church fittings, and Ruskin’s ideas gave William Morris and the Arts and Crafts movement the argument that good design needs pleasurable, skilled work. It supplied both a repertoire of forms and a critique of the factory."
+  },
+  "es": {
+   "key": "Un gusto romántico por el pasado medieval y una renovación religiosa que, en Gran Bretaña, se volvieron un argumento moral sobre cómo deben hacerse los edificios y las cosas.",
+   "happened": "Desde fines del siglo XVIII, y con fuerza en las décadas de 1830 y 1840, Gran Bretaña y el resto de Europa volvieron la mirada a la Edad Media en la literatura, la religión y el arte. A. W. N. Pugin y más tarde John Ruskin sostuvieron que construir al modo medieval era honesto y cristiano, y que la era industrial había cortado el vínculo entre trabajo y placer. El capítulo «La naturaleza de lo gótico» de Ruskin apareció en Las piedras de Venecia en 1853. El movimiento comenzó antes de 1851; las fechas parten del primer año del tramo. El estilo arquitectónico en sí se trata en el movimiento Neogótico; este contexto es la corriente cultural y religiosa más amplia que lo sustenta.",
+   "effect": "Esta actitud, más que un estilo concreto, dio al diseño un lenguaje moral: el respeto por la mano del trabajador marcó el mobiliario, la orfebrería, los vitrales, el papel mural y el equipamiento de las iglesias, y las ideas de Ruskin dieron a William Morris y al movimiento Arts and Crafts el argumento de que el buen diseño requiere un trabajo hábil y placentero. Aportó un repertorio de formas y una crítica de la fábrica."
+  },
+  "refs": [],
+  "issues": [
+   "key, happened y effect ajustados al medievalismo romántico y la renovación religiosa; se remite al movimiento Gothic Revival para el estilo"
+  ]
+ },
+ {
+  "id": "jatiya-sangsad-dhaka-1982",
+  "en": {
+   "key": "Louis Kahn’s national parliament in Dhaka, a monumental complex of concrete with large geometric openings, designed from 1962 and completed in 1982, eight years after his death.",
+   "more": "Kahn was commissioned in 1962, when the site was meant as a second capital of Pakistan; after Bangladesh’s independence the project was completed as its parliament, in 1982, after Kahn’s death in 1974. Its assembly hall is ringed by concrete blocks pierced by large circles, triangles and squares that give shade and light in the climate of Bengal. Western architects saw in it a model of monumental form built with local labour, shaded openings and plain materials."
+  },
+  "es": {
+   "key": "El parlamento nacional de Louis Kahn en Dacca, un complejo monumental de hormigón con grandes aberturas geométricas, proyectado desde 1962 y terminado en 1982, ocho años después de su muerte.",
+   "more": "A Kahn se le encargó en 1962, cuando el sitio estaba pensado como segunda capital de Pakistán; tras la independencia de Bangladés el proyecto se completó como su parlamento, en 1982, después de la muerte de Kahn en 1974. Su sala de asambleas está rodeada por bloques de hormigón perforados por grandes círculos, triángulos y cuadrados que dan sombra y luz en el clima de Bengala. Los arquitectos occidentales vieron en él un modelo de forma monumental hecha con mano de obra local, aberturas sombreadas y materiales simples."
+  },
+  "refs": [],
+  "issues": [
+   "key y more alineados con proyecto 1962, terminado 1982 (2.ª capital de Pakistán)"
+  ]
+ },
+ {
+  "id": "international-style",
+  "en": {
+   "key": "The name MoMA gave in 1932 to the modern architecture that had taken shape since the mid-1920s, presented as a shared formal style rather than a social programme.",
+   "context": "The buildings it grouped had appeared from the mid-1920s, such as Gropius’s Bauhaus building in Dessau (1925–26), so the movement dates from then even though its name is later. Henry-Russell Hitchcock and Philip Johnson’s exhibition Modern Architecture: International Exhibition opened at MoMA on 9 February 1932 and ran until 23 March,[1] with a book titled The International Style. In the Depression, and with European architects arriving as exiles, it introduced American clients to the work of Le Corbusier, Mies, Gropius and others."
+  },
+  "es": {
+   "key": "El nombre que el MoMA dio en 1932 a la arquitectura moderna que se venía formando desde mediados de los años veinte, presentada como un estilo formal común más que como un programa social.",
+   "context": "Los edificios que reunió habían aparecido desde mediados de los años veinte, como la Bauhaus de Gropius en Dessau (1925–26), de modo que el movimiento arranca entonces aunque su nombre sea posterior. La exposición de Henry-Russell Hitchcock y Philip Johnson, Modern Architecture: International Exhibition, se inauguró en el MoMA el 9 de febrero de 1932 y duró hasta el 23 de marzo,[1] junto con un libro titulado The International Style. En plena Depresión, y con arquitectos europeos llegando como exiliados, presentó a los clientes estadounidenses la obra de Le Corbusier, Mies, Gropius y otros."
+  },
+  "refs": [
+   {
+    "label": "MoMA, «Modern Architecture: International Exhibition» (1932)",
+    "url": "https://www.moma.org/calendar/exhibitions/2044",
+    "checks": "Título de la exposición; fechas: 9 de febrero–23 de marzo de 1932, en el MoMA de Nueva York; 67 participantes (entre ellos J. J. P. Oud, Henry Wright, Van der Vlugt); catálogo de 204 páginas. ⚠ La página no trae el texto curatorial: no confirma los organizadores (Hitchcock y Johnson), el libro The International Style, el nombre del estilo ni la lista de arquitectos; el catálogo da «Feb. 10».",
+    "date": "2026-10-04"
+   }
+  ],
+  "issues": [
+   "key y context aclaran que el nombre es de 1932 pero el movimiento arranca a mediados de los años veinte; frase con [1] intacta"
+  ]
+ },
+ {
+  "id": "postmodern-architecture",
+  "en": {
+   "context": "Robert Venturi’s Vanna Venturi House in Philadelphia (1964), built for his mother, is usually seen as its founding work, with a split gable and an oversized chimney that quote the past. His book Complexity and Contradiction in Architecture (1966) is its usual theoretical starting point, and Charles Jencks later gave the tendency its name and its history. By the 1970s the faith of the modern movement in function and abstraction was in doubt."
+  },
+  "es": {
+   "context": "La Casa Vanna Venturi en Filadelfia (1964), que Robert Venturi construyó para su madre, se considera habitualmente su obra fundadora, con un frontón partido y una chimenea desproporcionada que citan el pasado. Su libro Complejidad y contradicción en la arquitectura (1966) es su punto de partida teórico habitual, y Charles Jencks dio después nombre e historia a la tendencia. En los años setenta la fe del movimiento moderno en la función y la abstracción estaba en duda."
+  },
+  "refs": [],
+  "issues": [
+   "context: Casa Vanna Venturi (1964) como obra fundadora, antes del libro de 1966"
+  ]
+ },
+ {
+  "id": "landscape-urbanism",
+  "en": {
+   "context": "Its starting point is the international competition for the Parc de la Villette in Paris, launched in 1982 and won by Bernard Tschumi in 1983, often cited as an early built example. The name itself took hold in the late 1990s around Charles Waldheim, who organized a conference on it in Chicago in 1997."
+  },
+  "es": {
+   "context": "Su punto de partida es el concurso internacional para el Parc de la Villette en París, convocado en 1982 y ganado por Bernard Tschumi en 1983, que se cita a menudo como un ejemplo construido temprano. El nombre mismo se afianzó a fines de los años noventa en torno a Charles Waldheim, que organizó un congreso sobre el tema en Chicago en 1997."
+  },
+  "refs": [],
+  "issues": [
+   "context: el concurso del Parc de la Villette (1982) como origen"
+  ]
+ }
+]

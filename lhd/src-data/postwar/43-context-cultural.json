@@ -1,0 +1,205 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-pop-art",
+   "track": "cultural",
+   "start": 1956,
+   "end": 1970,
+   "date": "1956–1970",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Pop art",
+   "short": "Pop art",
+   "key": "Artists in Britain and the United States took images from advertising, comics and consumer goods and made them the subject of art.",
+   "happened": "The Independent Group in London showed this approach at the exhibition This Is Tomorrow in 1956, where Richard Hamilton’s collage Just what is it that makes today’s homes so different, so appealing? appeared. In New York Andy Warhol showed his Campbell’s Soup Cans in 1962, and Roy Lichtenstein painted comic-strip scenes in the same years.",
+   "effect": "The line between fine art and commercial image blurred: graphic and product designers took up bright colour, repetition and the iconography of the supermarket and the screen. This gave design a vocabulary that celebrated the ephemeral and the mass-produced, and it fed Pop design in furniture, fashion and posters.",
+   "es": {
+    "name": "Arte pop",
+    "short": "Arte pop",
+    "date": "1956–1970",
+    "key": "Artistas de Gran Bretaña y Estados Unidos tomaron imágenes de la publicidad, las historietas y los bienes de consumo y las hicieron tema del arte.",
+    "happened": "El Independent Group de Londres mostró este enfoque en la exposición This Is Tomorrow, en 1956, donde apareció el collage de Richard Hamilton Just what is it that makes today’s homes so different, so appealing? En Nueva York Andy Warhol expuso sus Campbell’s Soup Cans en 1962, y Roy Lichtenstein pintó escenas de historieta en los mismos años.",
+    "effect": "El límite entre arte y la imagen comercial se difuminó: diseñadores gráficos y de producto adoptaron el color intenso, la repetición y la iconografía del supermercado y la pantalla. Eso dio al diseño un vocabulario que celebraba lo efímero y lo producido en masa, y alimentó el diseño pop en muebles, moda y carteles."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-rock-and-pop",
+   "track": "cultural",
+   "start": 1955,
+   "end": 1975,
+   "date": "c. 1955–1975",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "CL"
+   ],
+   "name": "Rock and pop music",
+   "short": "Rock and pop",
+   "key": "Rock and pop made records, concerts and stars into a mass youth culture that needed its own images, sleeves and posters.",
+   "happened": "Rock and roll reached a mass audience in the United States in the mid-1950s, and in the 1960s British groups such as the Beatles spread pop across the world. Local scenes followed in Latin America, among them the Nueva Ola of Chile in the early 1960s.",
+   "effect": "The record sleeve became a field for graphic design, from the photographic and typographic covers of Blue Note Records to the Sgt. Pepper cover of 1967 by Peter Blake and Jann Haworth. Posters, concert graphics and portable players and radios made popular music a driver of new images and of products made for young people.",
+   "es": {
+    "name": "Rock y música pop",
+    "short": "Rock y pop",
+    "date": "c. 1955–1975",
+    "key": "El rock y el pop convirtieron los discos, los conciertos y las estrellas en una cultura juvenil de masas que necesitaba sus propias imágenes, carátulas y carteles.",
+    "happened": "El rock and roll llegó a un público masivo en Estados Unidos a mediados de los años cincuenta, y en los sesenta grupos británicos como los Beatles extendieron el pop por el mundo. Siguieron escenas locales en América Latina, entre ellas la Nueva Ola de Chile a comienzos de los años sesenta.",
+    "effect": "La carátula del disco se volvió un campo para el diseño gráfico, desde las portadas fotográficas y tipográficas de Blue Note Records hasta la de Sgt. Pepper de 1967, de Peter Blake y Jann Haworth. Los carteles, la gráfica de conciertos y los tocadiscos y radios portátiles hicieron de la música popular un motor de nuevas imágenes y de productos hechos para los jóvenes."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-olympic-games",
+   "track": "cultural",
+   "start": 1964,
+   "end": 1972,
+   "date": "1964–1972",
+   "regions": [
+    "europe",
+    "latin-america",
+    "global"
+   ],
+   "countries": [
+    "MX",
+    "DE"
+   ],
+   "name": "Olympic Games as total design projects",
+   "short": "Olympic design",
+   "key": "The Tokyo, Mexico City and Munich Games each had a complete visual system, which made the Olympics a model of large-scale identity design.",
+   "happened": "Tokyo hosted the Games in 1964, Mexico City in 1968 and Munich in 1972, and each host commissioned a unified graphic programme. Tokyo’s sports pictograms were designed by a team that included Masaru Katsumi and Yoshiro Yamashita, Mexico 68 by a team led by Lance Wyman and Eduardo Terrazas, and Munich 72 under Otl Aicher.",
+   "effect": "The Games had to work for visitors who spoke many languages and were watched on television, so designers built coherent systems of pictograms, colours, typography, signs and printed matter. These projects set a standard for corporate and event identity and made wayfinding and pictograms part of the common language of design.",
+   "es": {
+    "name": "Juegos Olímpicos como proyectos de diseño total",
+    "short": "Diseño olímpico",
+    "date": "1964–1972",
+    "key": "Los Juegos de Tokio, Ciudad de México y Múnich tuvieron cada uno un sistema visual completo, lo que hizo de las Olimpiadas un modelo de diseño de identidad a gran escala.",
+    "happened": "Tokio fue sede en 1964, Ciudad de México en 1968 y Múnich en 1972, y cada anfitrión encargó un programa gráfico unificado. Los pictogramas deportivos de Tokio los diseñó un equipo que incluyó a Masaru Katsumi y Yoshiro Yamashita, los de México 68 un equipo liderado por Lance Wyman y Eduardo Terrazas, y los de Múnich 72 estuvieron a cargo de Otl Aicher.",
+    "effect": "Los Juegos debían funcionar para visitantes de muchas lenguas y para la televisión, de modo que los diseñadores construyeron sistemas coherentes de pictogramas, colores, tipografía, señales e impresos. Estos proyectos fijaron un estándar de identidad corporativa y de eventos e incorporaron la señalética y los pictogramas al lenguaje común del diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-expo-67",
+   "track": "cultural",
+   "start": 1967,
+   "end": 1967,
+   "date": "1967",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "CA",
+    "US"
+   ],
+   "name": "Expo 67 in Montreal",
+   "short": "Expo 67",
+   "key": "The 1967 world’s fair in Montreal, on the theme Man and His World, was a showcase for lightweight structures, modular building and new graphics.",
+   "happened": "Expo 67 was held in Montreal from April to October 1967. The United States pavilion was a geodesic dome by Buckminster Fuller, the West German pavilion a tensile roof by Frei Otto and Rolf Gutbrod, and Moshe Safdie’s Habitat 67 stacked prefabricated concrete units into a housing complex.",
+   "effect": "The fair gave visitors from many countries a view of modular and lightweight construction at full scale, and it helped make the geodesic dome and the tensile structure familiar images of the future. It also showed prefabricated housing as an architectural idea, and it served as a testing ground for exhibition design and signage.",
+   "es": {
+    "name": "Expo 67 de Montreal",
+    "short": "Expo 67",
+    "date": "1967",
+    "key": "La exposición universal de Montreal de 1967, con el tema El hombre y su mundo, fue una vitrina de estructuras livianas, construcción modular y nueva gráfica.",
+    "happened": "La Expo 67 se realizó en Montreal de abril a octubre de 1967. El pabellón de Estados Unidos fue una cúpula geodésica de Buckminster Fuller, el de Alemania Occidental una cubierta tensada de Frei Otto y Rolf Gutbrod, y el Habitat 67 de Moshe Safdie apiló unidades prefabricadas de hormigón en un conjunto de viviendas.",
+    "effect": "La feria mostró a visitantes de muchos países la construcción modular y liviana a escala real, y ayudó a convertir la cúpula geodésica y la estructura tensada en imágenes conocidas del futuro. También presentó la vivienda prefabricada como idea arquitectónica y sirvió de campo de pruebas para el diseño de exposiciones y de señalética."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-italian-design-culture",
+   "track": "cultural",
+   "start": 1946,
+   "end": 1970,
+   "date": "1946–1970",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Italian design culture",
+   "short": "Italian design",
+   "key": "In postwar Italy architects, magazines, exhibitions and prizes made design a subject of cultural debate, and a close tie with industry.",
+   "happened": "Milan’s Triennale resumed its exhibitions after the war, with the Triennale of 1951 among them, and magazines such as Domus, founded by Gio Ponti in 1928, and Casabella gave critics and architects a public platform. In 1954 the department store La Rinascente launched the Compasso d’Oro prize for industrial design.",
+   "effect": "Architects such as Ponti designed furniture, lamps and objects for manufacturers, and the cultural debate gave those companies a reason to invest in design as a mark of quality. The result was a close link between architects, critics and firms that made Italian design an international reference by the 1960s.",
+   "es": {
+    "name": "Cultura italiana del diseño",
+    "short": "Diseño italiano",
+    "date": "1946–1970",
+    "key": "En la Italia de posguerra arquitectos, revistas, exposiciones y premios hicieron del diseño un asunto de debate cultural y de estrecho vínculo con la industria.",
+    "happened": "La Trienal de Milán retomó sus muestras tras la guerra, entre ellas la Trienal de 1951, y revistas como Domus, fundada por Gio Ponti en 1928, y Casabella dieron a críticos y arquitectos una tribuna pública. En 1954 los grandes almacenes La Rinascente lanzaron el premio Compasso d’Oro de diseño industrial.",
+    "effect": "Arquitectos como Ponti diseñaron muebles, lámparas y objetos para fabricantes, y el debate cultural dio a esas empresas una razón para invertir en diseño como marca de calidad. El resultado fue un estrecho vínculo entre arquitectos, críticos y empresas que hizo del diseño italiano una referencia internacional en los años sesenta."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-hip-hop",
+   "track": "cultural",
+   "start": 1973,
+   "end": null,
+   "cont": true,
+   "date": "1973 →",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Hip hop",
+   "short": "Hip hop",
+   "key": "The culture born among Black and Latino young people in the Bronx in the 1970s, whose music and dress made sportswear a language of identity.",
+   "happened": "Hip hop took shape in the Bronx, New York, in the early 1970s, with DJs, rapping, breaking and graffiti. In the following decades it grew into a worldwide music and youth culture.",
+   "effect": "Its artists made sneakers and sportswear into signs of identity and status, and brands took notice: Run-DMC’s 1986 song about their Adidas shoes led to a deal with the firm. That link between music, street style and brands underlies streetwear.",
+   "es": {
+    "name": "Hip hop",
+    "short": "Hip hop",
+    "date": "1973 →",
+    "key": "La cultura nacida entre jóvenes negros y latinos del Bronx en los años setenta, cuya música y vestimenta hicieron de la ropa deportiva un lenguaje de identidad.",
+    "happened": "El hip hop tomó forma en el Bronx, Nueva York, a comienzos de los años setenta, con DJ, rap, breakdance y graffiti. En las décadas siguientes se convirtió en una cultura musical y juvenil de alcance mundial.",
+    "effect": "Sus artistas hicieron de las zapatillas y la ropa deportiva signos de identidad y de estatus, y las marcas lo notaron: la canción de Run-DMC de 1986 sobre sus zapatillas Adidas llevó a un contrato con la firma. Ese vínculo entre música, estilo callejero y marcas está en la base del streetwear."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-festival-of-britain",
+   "track": "cultural",
+   "start": 1951,
+   "end": 1951,
+   "date": "1951",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Festival of Britain",
+   "short": "Festival of Britain",
+   "key": "The national exhibition of 1951, centred on London’s South Bank, which showed modern British design to a public still living with wartime austerity.",
+   "happened": "The Festival of Britain ran through the summer of 1951, a century after the Great Exhibition, with its main site on the South Bank of the Thames in London. It included the Royal Festival Hall, the Skylon tower and the Dome of Discovery, and events across the country. Its aim was to show Britain’s achievements in science, industry and the arts after the war.",
+   "effect": "The Festival gave modern design a large public stage in Britain: furniture, textiles and graphics in a light, contemporary style were seen by millions of visitors and became associated with a new, optimistic Britain. Designers such as Lucienne Day, whose Calyx fabric was shown there, gained wide recognition, and the official selection of exhibits by the Council of Industrial Design helped to set a state-backed taste for modern design.",
+   "es": {
+    "name": "Festival de Gran Bretaña",
+    "short": "Festival Britain",
+    "date": "1951",
+    "key": "La exposición nacional de 1951, centrada en la ribera sur de Londres, que mostró el diseño moderno británico a un público que aún vivía la austeridad de la guerra.",
+    "happened": "El Festival de Gran Bretaña se realizó durante el verano de 1951, un siglo después de la Gran Exposición, con su sede principal en la ribera sur del Támesis, en Londres. Incluyó el Royal Festival Hall, la torre Skylon y el Dome of Discovery, además de actividades en todo el país. Su propósito era mostrar los logros británicos en la ciencia, la industria y las artes después de la guerra.",
+    "effect": "El Festival dio al diseño moderno un gran escenario público en Gran Bretaña: muebles, telas y gráfica de estilo ligero y contemporáneo fueron vistos por millones de visitantes y quedaron asociados a una Gran Bretaña nueva y optimista. Diseñadoras como Lucienne Day, cuya tela Calyx se mostró allí, ganaron un amplio reconocimiento, y la selección oficial de objetos por el Council of Industrial Design ayudó a fijar un gusto moderno respaldado por el Estado."
+   },
+   "refs": []
+  }
+ ]
+}

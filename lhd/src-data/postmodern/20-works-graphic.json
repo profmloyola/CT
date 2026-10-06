@@ -1,0 +1,1631 @@
+{
+ "works": [
+  {
+   "id": "kare-chicago-geneva-1984",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Chicago and Geneva typefaces",
+   "short": "Chicago and Geneva",
+   "designers": [
+    "susan-kare"
+   ],
+   "maker": "Apple Computer",
+   "client": "Apple Computer",
+   "year": 1984,
+   "date": "1984",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Bitmap fonts drawn on a pixel grid for the Macintosh screen",
+   "tech": [],
+   "key": "Susan Kare’s screen fonts for the first Macintosh: Chicago, a heavy face for menus and windows, and Geneva, a clear sans serif in the manner of Helvetica.",
+   "more": "Kare drew them as bitmaps, letter by letter, because the Macintosh screen showed only black or white pixels at low resolution. Chicago became the system font of the Macintosh interface, and Geneva was one of a family of fonts named after cities. They were among the first system typefaces that the general public saw every day on a computer.",
+   "status": "Replaced as system fonts in the 1990s; the Chicago look survived in later Apple products.",
+   "es": {
+    "title": "Tipografías Chicago y Geneva",
+    "short": "Chicago y Geneva",
+    "date": "1984",
+    "materials": "Fuentes de mapa de bits dibujadas sobre una grilla de píxeles para la pantalla del Macintosh",
+    "key": "Las fuentes de pantalla de Susan Kare para el primer Macintosh: Chicago, de trazo grueso para menús y ventanas, y Geneva, una sans serif clara al estilo de Helvetica.",
+    "more": "Kare las dibujó como mapas de bits, letra por letra, porque la pantalla del Macintosh solo mostraba píxeles blancos o negros en baja resolución. Chicago se volvió la tipografía de sistema de la interfaz del Macintosh, y Geneva fue una de una familia de fuentes con nombres de ciudades. Fueron de las primeras tipografías de sistema que el gran público veía a diario en un computador.",
+    "status": "Dejaron de ser las fuentes de sistema en los años noventa; el aspecto de Chicago sobrevivió en productos posteriores de Apple."
+   },
+   "refs": [],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "i-love-ny-1977",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "I ♥ NY logo",
+   "designers": [
+    "milton-glaser"
+   ],
+   "client": "New York State Department of Commerce",
+   "year": 1977,
+   "date": "1977",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Red heart and black American Typewriter lettering on white",
+   "tech": [],
+   "key": "Milton Glaser’s logo of the letters I and NY with a red heart between them, made for New York State’s tourism campaign of the late 1970s.[1]",
+   "more": "Glaser’s logo was part of New York State’s ‘I Love New York’ campaign, created with the agency Wells, Rich, Greene, in an effort to renew the state’s image and economy.[1] The state holds the trademark.[1] After the attacks of 11 September 2001 he made ‘I ♥ NY More Than Ever’, with a bruised heart marked dark at its lower left edge.[1]",
+   "status": "Still used by New York State, which holds the trademark; endlessly imitated on souvenirs.",
+   "es": {
+    "title": "Logotipo I ♥ NY",
+    "date": "1977",
+    "materials": "Corazón rojo y letras negras en American Typewriter sobre blanco",
+    "key": "El logotipo de Milton Glaser con las letras I y NY y un corazón rojo en medio, hecho para la campaña turística del estado de Nueva York de fines de los años setenta.[1]",
+    "more": "El logotipo de Glaser fue parte de la campaña «I Love New York» del estado de Nueva York, creada con la agencia Wells, Rich, Greene, para renovar la imagen y la economía del estado.[1] El estado tiene la marca registrada.[1] Tras los atentados del 11 de septiembre de 2001 hizo «I ♥ NY More Than Ever», con un corazón magullado y marcado en oscuro en su borde inferior izquierdo.[1]",
+    "status": "Lo sigue usando el estado de Nueva York, que tiene la marca registrada; imitado sin fin en recuerdos turísticos."
+   },
+   "refs": [
+    {
+     "label": "Museum of the City of New York, «Milton Glaser and I ♥ New York»",
+     "url": "https://www.mcny.org/story/milton-glaser-and-i-heart-new-york",
+     "checks": "Logo dibujado a fines de los años setenta; parte de la campaña de imagen y revitalización económica del estado de Nueva York (Wells, Rich, Greene); marca registrada del estado; versión de 2001 «More Than Ever» con un corazón magullado y una marca oscura en el borde inferior izquierdo. ⚠ no confirma 1977, el trabajo gratuito, American Typewriter ni la crisis financiera de la ciudad.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "emigre-magazine-1984",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Emigre magazine",
+   "designers": [
+    "zuzana-licko"
+   ],
+   "maker": "Rudy VanderLans and Emigre Graphics",
+   "year": 1984,
+   "date": "1984",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset-printed tabloid and magazine formats on paper; layouts set on the Macintosh",
+   "tech": [
+    "pagemaker"
+   ],
+   "key": "The Berkeley magazine of graphic design and typography founded by Rudy VanderLans and Zuzana Licko, which became a showcase for digital type and layout.[1][2]",
+   "more": "Emigre was founded in Berkeley in 1984 by VanderLans and Licko and ran until 2005.[1][2] Its pages were a forum for design criticism, with unconventional layouts and a pioneering use of Macintosh computers.[2] It was also an independent digital type foundry, Emigre Fonts, and the magazine was its experimental platform.[2][3] It ran for 69 issues.[3]",
+   "status": "Ended in 2005; back issues are collected in libraries and design archives.",
+   "es": {
+    "title": "Revista Emigre",
+    "date": "1984",
+    "materials": "Formatos de tabloide y de revista impresos en offset sobre papel; páginas compuestas en el Macintosh",
+    "key": "La revista de diseño gráfico y tipografía de Berkeley fundada por Rudy VanderLans y Zuzana Licko, que se volvió una vitrina de la tipografía y la diagramación digitales.[1][2]",
+    "more": "Emigre fue fundada en Berkeley en 1984 por VanderLans y Licko y circuló hasta 2005.[1][2] Sus páginas fueron un foro de crítica de diseño, con diagramaciones poco convencionales y un uso pionero de los computadores Macintosh.[2] Fue además una fundición tipográfica digital independiente, Emigre Fonts, y la revista fue su plataforma de experimentación.[2][3] Salió en 69 números.[3]",
+    "status": "Terminó en 2005; los números anteriores se conservan en bibliotecas y archivos de diseño."
+   },
+   "refs": [
+    {
+     "label": "Readymag Stories, «Rudy VanderLans and Zuzana Licko» (Emigre)",
+     "url": "https://readymag.com/designstories/emigre/timeline",
+     "checks": "Fundación en 1984 en Berkeley por VanderLans y Licko; revista de 69 números hasta 2005. ⚠ fuente secundaria divulgativa.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Letterform Archive, «New in the Online Archive: Emigre Magazine»",
+     "url": "https://letterformarchive.org/news/new-in-the-online-archive-complete-emigre-magazine/",
+     "checks": "Fundición digital independiente y revista de 1984 a 2005; foro de crítica de diseño; diagramaciones poco convencionales y uso pionero del Macintosh; colección completa recibida en 2016.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, «Emigre Magazine, issues 1-69»",
+     "url": "https://www.moma.org/collection/works/101653",
+     "checks": "1984–2005, 69 números; Emigre Fonts, primera fundición tipográfica digital; plataforma experimental de VanderLans y Licko con los primeros computadores personales.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "emigre-bitmap-fonts-1985",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Emigre bitmap fonts",
+   "short": "Emigre bitmap fonts",
+   "designers": [
+    "zuzana-licko"
+   ],
+   "maker": "Emigre Graphics",
+   "year": 1985,
+   "date": "1985",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital bitmap fonts built from the pixel grid of the Macintosh screen and printer",
+   "tech": [
+    "fontographer"
+   ],
+   "key": "Zuzana Licko’s first digital typefaces, including Emperor, Oakland and Emigre, whose letters take their shapes from the pixels of the screen and the printer.",
+   "more": "Licko drew them in 1985 for the low-resolution screen and dot-matrix printer of the early Macintosh, making a virtue of the coarse grid instead of imitating metal type. Emperor, Oakland and Emigre were released through Emigre, which became a digital type foundry. The fonts showed that a typeface could be designed for the computer itself.",
+   "status": "Still sold by Emigre as digital fonts.",
+   "es": {
+    "title": "Tipografías de mapa de bits de Emigre",
+    "short": "Mapa de bits Emigre",
+    "date": "1985",
+    "materials": "Fuentes digitales de mapa de bits construidas sobre la grilla de píxeles de la pantalla y la impresora del Macintosh",
+    "key": "Las primeras tipografías digitales de Zuzana Licko, entre ellas Emperor, Oakland y Emigre, cuyas letras toman su forma de los píxeles de la pantalla y la impresora.",
+    "more": "Licko las dibujó en 1985 para la pantalla de baja resolución y la impresora matricial de los primeros Macintosh, haciendo virtud de la grilla gruesa en vez de imitar el tipo de metal. Emperor, Oakland y Emigre se lanzaron a través de Emigre, que se convirtió en una fundición tipográfica digital. Las fuentes mostraron que una tipografía podía diseñarse para el computador mismo.",
+    "status": "Emigre las sigue vendiendo como fuentes digitales."
+   },
+   "refs": []
+  },
+  {
+   "id": "ray-gun-1992",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Ray Gun magazine",
+   "designers": [
+    "david-carson"
+   ],
+   "maker": "Marvin Scott Jarrett (publisher)",
+   "year": 1992,
+   "date": "1992",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset-printed magazine; layouts and images composed digitally",
+   "tech": [
+    "postscript",
+    "photoshop"
+   ],
+   "key": "The alternative-music magazine launched in 1992 with David Carson as art director, whose fractured grids and hard-to-read type became a symbol of 1990s experimental design.[1][4]",
+   "more": "Published in Santa Monica under the publisher Marvin Scott Jarrett,[4] it was an alternative-music magazine[1] in which Carson fractured grids and collided typefaces.[4] In one famous case an interview with Bryan Ferry was set entirely in the symbol font Zapf Dingbats.[2][3] Carson was art director until 1995.[1] Critics found his type difficult to decipher yet accepted his dissident aesthetic, and the magazine split traditionalist designers from computer-savvy ones.[3] It ceased publication in 2000.[4]",
+   "status": "Ceased publication in 2000; issues are collected by libraries and design archives.",
+   "es": {
+    "title": "Revista Ray Gun",
+    "date": "1992",
+    "materials": "Revista impresa en offset; diagramación e imágenes compuestas en digital",
+    "key": "La revista de música alternativa lanzada en 1992 con David Carson como director de arte, cuyas grillas fracturadas y tipografía difícil de leer se volvieron símbolo del diseño experimental de los noventa.[1][4]",
+    "more": "Publicada en Santa Monica bajo el editor Marvin Scott Jarrett,[4] era una revista de música alternativa[1] en la que Carson fracturaba las grillas y hacía chocar las tipografías.[4] En un caso famoso, una entrevista a Bryan Ferry se compuso entera en la fuente de símbolos Zapf Dingbats.[2][3] Carson fue director de arte hasta 1995.[1] La crítica reconoció que su tipografía era difícil de descifrar, pero aceptó su estética disidente, y la revista dividió a los diseñadores tradicionales de los duchos en computador.[3] Dejó de publicarse en 2000.[4]",
+    "status": "Dejó de publicarse en 2000; los números se conservan en bibliotecas y archivos de diseño."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «David Carson»",
+     "url": "https://www.britannica.com/biography/David-Carson",
+     "checks": "Revista de música alternativa; Marvin Scott Jarrett como editor; Carson director de arte desde 1992 hasta que dejó Ray Gun en 1995. ⚠ no menciona Ferry ni Santa Monica.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "EBSCO Research Starters, «David Carson (graphic designer)»",
+     "url": "https://ebsco.com/research-starters/communication-and-mass-media/david-carson-graphic-designer",
+     "checks": "Primer número en 1992; Carson reemplazó una entrevista completa a Bryan Ferry por dingbats (el texto legible iba en otra parte del número). ⚠ no cubre Santa Monica ni el cierre.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Eye, «Who cares if you read»",
+     "url": "https://eyemagazine.com/review/article/who-cares-if-you-read",
+     "checks": "Fundada en 1992; entrevista de Ferry en Zapf Dingbats; tipografía «difícil de descifrar» pero estética disidente aceptada; cisma entre tradicionalistas y diseñadores duchos en computador. ⚠ no menciona Santa Monica.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Graphic Design School, «Ray Gun Magazine (1992–2000)»",
+     "url": "https://www.thegraphicdesignschool.com/design-history/ray-gun/",
+     "checks": "Lanzada en Santa Monica con Marvin Scott Jarrett; Carson fracturó grillas y chocó tipografías; cerró en 2000. ⚠ sitio de una escuela de diseño, fuente secundaria.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "the-face-1981",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "The Face magazine",
+   "designers": [
+    "neville-brody"
+   ],
+   "maker": "Nick Logan (founder and publisher)",
+   "year": 1981,
+   "date": "1981",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Offset-printed magazine; hand-drawn headline lettering and photo-typesetting",
+   "tech": [],
+   "key": "The London style magazine founded by Nick Logan in 1980, whose pages Neville Brody designed from 1981 with his own geometric lettering and bold, sparse layouts.",
+   "more": "Brody became art director of The Face in 1981 and gave it a recognisable look: headlines in lettering he drew himself, strong blocks of colour and a layout that took ideas from Constructivism. The magazine covered music, fashion and club culture, and its readers were the young audience of post-punk Britain. It made Brody one of the best-known British graphic designers of the 1980s.",
+   "status": "The original magazine ended in 2004; issues survive in libraries and design archives.",
+   "es": {
+    "title": "Revista The Face",
+    "date": "1981",
+    "materials": "Revista impresa en offset; titulares con letras dibujadas a mano y fotocomposición",
+    "key": "La revista londinense de estilo fundada por Nick Logan en 1980, cuyas páginas Neville Brody diseñó desde 1981 con letras geométricas propias y diagramaciones audaces y despejadas.",
+    "more": "Brody fue director de arte de The Face desde 1981 y le dio un aspecto inconfundible: titulares con letras que dibujaba él mismo, bloques fuertes de color y una diagramación que tomó ideas del constructivismo. La revista cubría música, moda y cultura de clubes, y sus lectores eran el público joven de la Gran Bretaña pospunk. Hizo de Brody uno de los diseñadores gráficos británicos más conocidos de los años ochenta.",
+    "status": "La revista original terminó en 2004; los números se conservan en bibliotecas y archivos de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "design-quarterly-133-1986",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Design Quarterly 133",
+   "designers": [
+    "april-greiman"
+   ],
+   "maker": "Walker Art Center",
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Folded poster printed offset on paper, about six feet (c. 1.8 m) long; images composed on a Macintosh",
+   "tech": [
+    "postscript"
+   ],
+   "key": "April Greiman’s issue of Design Quarterly, a single folded poster of about six feet that mixed a life-size digital self-portrait with images and text, made on a Macintosh.",
+   "more": "Design Quarterly, published by the Walker Art Center in Minneapolis, gave its issue 133 in 1986 to Greiman, who filled it with one large sheet instead of pages. She composed it with the early Macintosh and video digitizing, combining a life-size image of her own body with other pictures, text and diagrams. It became a landmark of early digital graphic design.",
+   "status": "Held in design museum collections and often reproduced.",
+   "es": {
+    "title": "Design Quarterly 133",
+    "date": "1986",
+    "materials": "Póster plegado impreso en offset sobre papel, de unos seis pies (c. 1,8 m) de largo; imágenes compuestas en un Macintosh",
+    "key": "El número de Design Quarterly de April Greiman, un solo póster plegado de unos seis pies que mezcló un autorretrato digital a escala natural con imágenes y texto, hecho en un Macintosh.",
+    "more": "Design Quarterly, publicada por el Walker Art Center de Minneapolis, dedicó su número 133 de 1986 a Greiman, quien lo llenó con una sola lámina grande en lugar de páginas. La compuso con los primeros Macintosh y digitalización de video, combinando una imagen a escala natural de su propio cuerpo con otras imágenes, texto y diagramas. Se volvió un hito del diseño gráfico digital temprano.",
+    "status": "Se conserva en colecciones de museos de diseño y se reproduce a menudo."
+   },
+   "refs": []
+  },
+  {
+   "id": "public-theater-identity-1994",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "identity",
+   "title": "Public Theater identity",
+   "short": "Public Theater",
+   "designers": [
+    "paula-scher"
+   ],
+   "maker": "Pentagram",
+   "client": "The Public Theater",
+   "year": 1994,
+   "date": "1994",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Posters and printed matter in mixed wood type and sans-serif lettering",
+   "tech": [],
+   "key": "Paula Scher’s identity for New York’s Public Theater, built on loud, crowded typography that mixed wood-type styles and made the theatre’s posters recognisable at a distance.",
+   "more": "Scher, a partner at Pentagram, designed it for the Public Theater when George C. Wolfe was its artistic director. She used big, mixed lettering that recalled nineteenth-century wood type, with words stacked, enlarged and set in several styles at once. The posters turned an arts institution’s printed matter into a bold, recognisable brand, and the style was widely copied.",
+   "status": "Often shown in design histories and exhibitions; the theatre has since changed its identity.",
+   "es": {
+    "title": "Identidad del Public Theater",
+    "short": "Public Theater",
+    "date": "1994",
+    "materials": "Pósteres e impresos en tipos de madera mezclados y letras sans serif",
+    "key": "La identidad de Paula Scher para el Public Theater de Nueva York, hecha de una tipografía ruidosa y apretada que mezcló estilos de tipo de madera y volvió reconocibles los pósteres del teatro a distancia.",
+    "more": "Scher, socia de Pentagram, la diseñó para el Public Theater cuando George C. Wolfe era su director artístico. Usó letras grandes y mezcladas que recordaban el tipo de madera del siglo XIX, con palabras apiladas, agrandadas y compuestas en varios estilos a la vez. Los pósteres convirtieron los impresos de una institución cultural en una marca audaz y reconocible, y el estilo fue muy copiado.",
+    "status": "Se muestra a menudo en historias del diseño y exposiciones; el teatro ha cambiado desde entonces su identidad."
+   },
+   "refs": []
+  },
+  {
+   "id": "citibank-logo-1998",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Citibank logo",
+   "designers": [
+    "paula-scher"
+   ],
+   "maker": "Pentagram",
+   "client": "Citicorp",
+   "year": 1998,
+   "date": "1998",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Blue lowercase wordmark with a red arc over the t",
+   "tech": [],
+   "key": "Paula Scher’s logo for the bank formed by the merger of Citicorp and Travelers in 1998, a blue ‘citi’ with a red arc over the t.",
+   "more": "The merger of Citicorp and Travelers Group, announced in 1998, created a company that needed one mark for a bank working in many countries. Scher, then a partner at Pentagram, made a simple wordmark in lowercase letters, with an arc over the t that recalled the red umbrella of Travelers. The mark joined the two names in one sign that was easy to apply on branches, cards and advertising.",
+   "status": "The wordmark and arc remained in use for decades, with later revisions.",
+   "es": {
+    "title": "Logotipo de Citibank",
+    "date": "1998",
+    "materials": "Marca denominativa azul en minúsculas con un arco rojo sobre la t",
+    "key": "El logotipo de Paula Scher para el banco nacido de la fusión de Citicorp y Travelers en 1998: un «citi» azul con un arco rojo sobre la t.",
+    "more": "La fusión de Citicorp y Travelers Group, anunciada en 1998, creó una empresa que necesitaba una sola marca para un banco que operaba en muchos países. Scher, entonces socia de Pentagram, hizo una marca denominativa simple en minúsculas, con un arco sobre la t que recordaba el paraguas rojo de Travelers. La marca unió los dos nombres en un signo fácil de aplicar en sucursales, tarjetas y publicidad.",
+    "status": "La marca y su arco se mantuvieron por décadas, con revisiones posteriores."
+   },
+   "refs": []
+  },
+  {
+   "id": "aiga-detroit-poster-1999",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "AIGA Detroit lecture poster",
+   "short": "AIGA Detroit poster",
+   "designers": [
+    "stefan-sagmeister"
+   ],
+   "maker": "Sagmeister Inc.",
+   "client": "AIGA Detroit",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset-printed poster with photographs of lettering cut into skin",
+   "tech": [],
+   "key": "Stefan Sagmeister’s poster for his lecture at AIGA Detroit, whose lettering was cut into his own skin and photographed.",
+   "more": "For the lecture announcement, Sagmeister had the details of the event cut into his torso with a blade and photographed by Tom Schierlitz. The poster turned the designer’s body into the material of the message and put the pain of making it in plain view. It became one of the best-known graphic images of the late 1990s and a sign of the personal, confessional turn of the period.",
+   "status": "Often reproduced in books and exhibitions; originals are in museum and private collections.",
+   "es": {
+    "title": "Póster de la conferencia AIGA Detroit",
+    "short": "Póster AIGA Detroit",
+    "date": "1999",
+    "materials": "Póster impreso en offset con fotografías de letras cortadas en la piel",
+    "key": "El póster de Stefan Sagmeister para su conferencia en AIGA Detroit, cuyas letras fueron cortadas en su propia piel y fotografiadas.",
+    "more": "Para anunciar la conferencia, Sagmeister hizo cortar con una cuchilla los datos del evento en su torso, y los fotografió Tom Schierlitz. El póster convirtió el cuerpo del diseñador en el material del mensaje y puso a la vista el dolor de hacerlo. Se volvió una de las imágenes gráficas más conocidas de fines de los noventa y un signo del giro personal y confesional de la época.",
+    "status": "Se reproduce a menudo en libros y exposiciones; hay originales en colecciones de museos y privadas."
+   },
+   "refs": []
+  },
+  {
+   "id": "hope-poster-2008",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Hope poster",
+   "designers": [
+    "shepard-fairey"
+   ],
+   "client": "Obama presidential campaign",
+   "year": 2008,
+   "date": "2008",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Screenprint and offset print on paper; digital file",
+   "tech": [],
+   "key": "Shepard Fairey’s stylised portrait of Barack Obama in red, beige and blue, with the word HOPE, made in January 2008 and spread as a grassroots poster in the 2008 US presidential campaign.[1][2]",
+   "more": "Fairey made the portrait in January 2008 with spray paint, collage and screenprinting, and distributed it on his own, by street posting and viral means, before the campaign was involved.[1] It was based on an Associated Press photograph he found through Google.[1] The campaign could not officially endorse the unofficial poster because of copyright clearance and instead commissioned him to make versions from photos it had the rights to use.[1] A mixed-media stencil collage of the portrait was acquired by the Smithsonian’s National Portrait Gallery in January 2009, through a donation from the collectors Heather and Tony Podesta.[2]",
+   "status": "The image is endlessly reproduced and parodied; originals are held in museum collections.",
+   "es": {
+    "title": "Cartel Hope",
+    "materials": "Serigrafía y offset sobre papel; archivo digital",
+    "key": "El retrato estilizado de Barack Obama de Shepard Fairey en rojo, beige y azul, con la palabra HOPE, hecho en enero de 2008 y difundido como afiche espontáneo en la campaña presidencial estadounidense de 2008.[1][2]",
+    "more": "Fairey hizo el retrato en enero de 2008 con aerosol, collage y serigrafía, y lo distribuyó por su cuenta, pegándolo en la calle y por vías virales, antes de que la campaña interviniera.[1] Se basaba en una fotografía de la Associated Press que encontró en Google.[1] La campaña no pudo respaldar oficialmente el afiche no oficial por la autorización de derechos de autor y en cambio le encargó versiones hechas con fotos cuyos derechos tenía.[1] Un collage de esténcil de técnica mixta del retrato fue adquirido por la National Portrait Gallery del Smithsonian en enero de 2009, por una donación de los coleccionistas Heather y Tony Podesta.[2]",
+    "status": "La imagen se reproduce y parodia sin fin; hay originales en colecciones de museos.",
+    "date": "2008"
+   },
+   "refs": [
+    {
+     "label": "NPR, «Spreading The Hope: Street Artist Shepard Fairey»",
+     "url": "https://www.npr.org/transcripts/99466584",
+     "checks": "Hecho en enero de 2008 con aerosol, collage y serigrafía; distribución callejera y viral antes de la campaña; basado en una foto de AP hallada en Google; la campaña no pudo respaldarlo por derechos y le encargó versiones. ⚠ transcripción periodística; resumen vía WebFetch.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "France 24, «Washington museum acquires Obama portrait»",
+     "url": "https://www.france24.com/en/20090108-washington-museum-acquires-obama-portrait-",
+     "checks": "Adquirido por la National Portrait Gallery en enero de 2009 por donación de Heather y Tony Podesta; collage de esténcil de técnica mixta de 1,50 x 1,11 m; símbolo de la campaña. ⚠ agencia de noticias, no el museo.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "franja-del-no-1988",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "identity",
+   "title": "NO campaign slot and logo",
+   "short": "NO campaign slot",
+   "designers": [
+    "equipo-campana-del-no"
+   ],
+   "client": "Command for the NO (Comando por el NO)",
+   "year": 1988,
+   "date": "1988",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Television broadcast; rainbow logo printed in colour",
+   "tech": [],
+   "key": "The fifteen-minute daily television slot and rainbow symbol of the NO campaign in Chile’s 1988 plebiscite, which answered fear with a message of joy and hope.[1][2][3]",
+   "more": "In the plebiscite of 5 October 1988, Chileans voted on whether military rule would continue.[1][2] The NO had a slot of fifteen minutes every day for 27 days, from 10:45 p.m.[2] A study of the slot finds it saturated with messages of joy and hope, with politics largely absent, and reports an average audience of 4.5 million a night.[2] It included testimonies by actors and an appeal from Ricardo Lagos, and was presented by the journalist Patricio Bañados.[1] Its rainbow stood for the diversity of the opposition and hope after the dictatorship, and its slogan was ‘la alegría ya viene’.[3] The NO won with 54.71 per cent of the votes.[3]",
+   "status": "The slot is kept in archives and remembered as a landmark of political communication; the rainbow is still used in Chilean politics.",
+   "es": {
+    "title": "Franja y logotipo del NO",
+    "materials": "Emisión de televisión; logotipo de arcoíris impreso a color",
+    "key": "La franja televisiva diaria de quince minutos y el signo del arcoíris de la campaña del NO en el plebiscito chileno de 1988, que respondió al miedo con un mensaje de alegría y esperanza.[1][2][3]",
+    "more": "En el plebiscito del 5 de octubre de 1988, los chilenos votaron si continuaba el régimen militar.[1][2] El NO tuvo una franja de quince minutos cada día durante 27 días, desde las 22:45 horas.[2] Un estudio de la franja la encuentra saturada de mensajes de alegría y esperanza, con la política casi ausente, y da una audiencia media de 4,5 millones por noche.[2] Incluyó testimonios de actores y un llamado de Ricardo Lagos, y la presentó el periodista Patricio Bañados.[1] Su arcoíris representaba la diversidad de la oposición y la esperanza tras la dictadura, y su lema fue «la alegría ya viene».[3] El NO ganó con un 54,71 por ciento de los votos.[3]",
+    "status": "La franja se conserva en archivos y se recuerda como un hito de la comunicación política; el arcoíris se sigue usando en la política chilena.",
+    "date": "1988",
+    "short": "Franja del NO"
+   },
+   "refs": [
+    {
+     "label": "Archivo del Museo de la Memoria y los Derechos Humanos, «Franja del “No”, 1988, capítulo 26»",
+     "url": "https://archivommdh.cl/index.php/cl-mmdh-00000097-000001-000026",
+     "checks": "Franja de 15 minutos emitida en septiembre de 1988 por todos los canales abiertos; presentada por Patricio Bañados; testimonios de actores y llamado de Ricardo Lagos; plebiscito de octubre contra la continuidad del régimen militar. ⚠ lectura vía resumen automático; da 54,6 % para el NO.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Revista Comunicación y Medios (U. de Chile), artículo sobre la franja del NO de 1988",
+     "url": "https://comunicacionymedios.uchile.cl/index.php/RCM/article/download/50432/52922/175583",
+     "checks": "15 minutos diarios por 27 días desde las 22:45; audiencia media de 4,5 millones; saturada de mensajes de alegría y esperanza; plebiscito el 5 de octubre de 1988. ⚠ no informa sobre el logotipo ni el equipo creativo.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Dialnet, artículo «La franja del NO de 1988»",
+     "url": "https://dialnet.unirioja.es/descarga/articulo/7639989.pdf",
+     "checks": "Arcoíris como diversidad de la oposición y esperanza tras la dictadura; lema «La alegría ya viene»; el NO ganó con 54,71 % el 5 de octubre de 1988. ⚠ lectura vía resumen automático; título del artículo no verificado.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "patagonia-dont-buy-this-jacket-2011",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "advertisement",
+   "title": "Patagonia ‘Don’t Buy This Jacket’ ad",
+   "short": "Don’t Buy This Jacket",
+   "designers": [],
+   "maker": "Patagonia",
+   "client": "Patagonia",
+   "year": 2011,
+   "date": "2011",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Newspaper advertisement, offset print",
+   "tech": [],
+   "key": "Patagonia’s full-page advertisement of Black Friday 2011, which showed one of its fleece jackets under the words ‘Don’t buy this jacket’.",
+   "more": "It ran in The New York Times on Black Friday 2011, the shopping day after US Thanksgiving, and pictured a Patagonia R2 fleece jacket. The text asked readers to think before buying and to buy only what they need, and tied the message to the environmental cost of making clothes. It was launched together with Patagonia’s Common Threads initiative, which urged customers to reduce, repair, reuse and recycle.",
+   "status": "Often cited as a landmark of anti-consumption advertising.",
+   "es": {
+    "title": "Aviso «Don't Buy This Jacket» de Patagonia",
+    "materials": "Aviso de prensa, impresión offset",
+    "key": "El aviso a página completa de Patagonia del Black Friday de 2011, que mostraba una de sus chaquetas de polar bajo las palabras «Don’t buy this jacket».",
+    "more": "Se publicó en The New York Times el Black Friday de 2011, el día de compras posterior al Día de Acción de Gracias, y mostraba una chaqueta de polar R2 de Patagonia. El texto pedía a los lectores pensar antes de comprar y comprar solo lo que necesitan, y vinculaba el mensaje con el costo ambiental de fabricar ropa. Se lanzó junto con la iniciativa Common Threads de Patagonia, que invitaba a clientes a reducir, reparar, reutilizar y reciclar.",
+    "status": "Se cita a menudo como un hito de la publicidad contra el consumo.",
+    "date": "2011",
+    "short": "Don’t Buy This Jacket"
+   },
+   "refs": [],
+   "movements": [
+    "sustainable-design"
+   ]
+  },
+  {
+   "id": "first-website-1991",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "First CERN website",
+   "short": "First CERN website",
+   "designers": [],
+   "maker": "Tim Berners-Lee",
+   "client": "CERN",
+   "year": 1991,
+   "date": "1991",
+   "regions": [
+    "europe",
+    "global"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Hypertext pages in HTML, shown on a NeXT computer",
+   "tech": [
+    "web-type-css"
+   ],
+   "key": "The first web page, written by Tim Berners-Lee at CERN and dedicated to the World Wide Web project itself, hosted on his NeXT computer.[1][2]",
+   "more": "Berners-Lee submitted his proposal for the World Wide Web at CERN in 1989.[2] By Christmas 1990 he had defined HTML, HTTP and URLs and created the first browser, server and website, at info.cern.ch, on a NeXT computer.[2] The site was dedicated to the World Wide Web project itself.[1] In August 1991 he announced the software on Internet newsgroups, which took the project beyond the physics community.[2] On 30 April 1993 CERN put the web’s software in the public domain.[1][2] CERN launched a project in 2013 to recover the first page at info.cern.ch.[1]",
+   "status": "The original has not survived as it was first published; CERN has restored a copy of a later version of the page.",
+   "es": {
+    "title": "Primer sitio web del CERN",
+    "materials": "Páginas de hipertexto en HTML, vistas en un computador NeXT",
+    "key": "La primera página web, escrita por Tim Berners-Lee en el CERN y dedicada al propio proyecto World Wide Web, alojada en su computador NeXT.[1][2]",
+    "more": "Berners-Lee presentó su propuesta de la World Wide Web en el CERN en 1989.[2] Para la Navidad de 1990 había definido HTML, HTTP y las URL y creado el primer navegador, servidor y sitio web, en info.cern.ch, en un computador NeXT.[2] El sitio estaba dedicado al propio proyecto World Wide Web.[1] En agosto de 1991 anunció el software en grupos de noticias de Internet, lo que llevó el proyecto más allá de la comunidad de la física.[2] El 30 de abril de 1993 el CERN puso el software de la web en el dominio público.[1][2] El CERN inició en 2013 un proyecto para recuperar la primera página en info.cern.ch.[1]",
+    "status": "El original no se conserva tal como se publicó; el CERN restauró una copia de una versión posterior de la página.",
+    "date": "1991",
+    "short": "Sitio web del CERN"
+   },
+   "refs": [
+    {
+     "label": "CERN, «The birth of the Web»",
+     "url": "https://home.cern/about/birth-web",
+     "checks": "Web creada en 1989 por Berners-Lee; primer sitio alojado en su NeXT y dedicado al proyecto; software en dominio público el 30 de abril de 1993; proyecto de restauración de 2013 en info.cern.ch. ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "CERN, Web30, «Web History»",
+     "url": "https://web30.web.cern.ch/web-history.html",
+     "checks": "Propuesta de 1989; hacia diciembre de 1990 primer navegador, servidor y sitio en info.cern.ch en un NeXT; agosto de 1991 anuncio en alt.hypertext; dominio público el 30 de abril de 1993. ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    }
+   ],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "verdana-1996",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Verdana",
+   "designers": [
+    "matthew-carter"
+   ],
+   "maker": "Microsoft",
+   "client": "Microsoft",
+   "year": 1996,
+   "date": "1996",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital typeface (TrueType, hinted for screen)",
+   "tech": [
+    "web-type-css"
+   ],
+   "key": "Matthew Carter’s sans-serif for Microsoft, drawn to stay legible at small sizes on low-resolution screens.",
+   "more": "Carter designed Verdana for Microsoft in 1996, together with the serif Georgia. It has wide letters, generous spacing and a large x-height, and its letterforms are drawn so that similar characters such as I, l and 1 stay clearly distinct on a grid of a few pixels. Microsoft distributed it free as one of its core fonts for the web, so web designers could count on it being on most computers.",
+   "status": "Still widely installed and used on screens.",
+   "es": {
+    "title": "Tipografía Verdana",
+    "materials": "Tipografía digital (TrueType, con hinting para pantalla)",
+    "key": "La tipografía de palo seco de Matthew Carter para Microsoft, dibujada para leerse bien a tamaños pequeños en pantallas de baja resolución.",
+    "more": "Carter diseñó Verdana para Microsoft en 1996, junto con la serif Georgia. Tiene letras anchas, espaciado generoso y una altura de x grande, y sus formas están dibujadas para que caracteres parecidos, como I, l y 1, sigan siendo claramente distintos en una retícula de pocos píxeles. Microsoft la distribuyó gratis como una de sus fuentes básicas para la web, de modo que los diseñadores web pudieran contar con que estaría en la mayoría de los computadores.",
+    "status": "Sigue muy instalada y usada en pantallas.",
+    "date": "1996"
+   },
+   "refs": []
+  },
+  {
+   "id": "bell-centennial-1978",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Bell Centennial",
+   "designers": [
+    "matthew-carter"
+   ],
+   "maker": "Mergenthaler Linotype",
+   "client": "AT&T (Bell System)",
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital phototypesetting typeface for telephone directories",
+   "tech": [],
+   "key": "Matthew Carter’s typeface for the Bell System’s telephone directories, with notches cut into the letters to survive fast, cheap printing.",
+   "more": "Carter drew it for AT&T’s Bell System, which replaced its earlier directory type with it in 1978, around the company’s centennial. Telephone books were printed in huge runs on cheap paper at high speed, where ink spreads into the corners of letters. Carter cut small notches into the joins of letters to compensate, and drew small sizes with wider spacing so that names and numbers stayed legible.",
+   "status": "Available today as a digital font.",
+   "es": {
+    "title": "Tipografía Bell Centennial",
+    "materials": "Tipografía digital de fotocomposición para guías telefónicas",
+    "key": "La tipografía de Matthew Carter para las guías telefónicas del Bell System, con muescas en las letras para resistir una impresión rápida y barata.",
+    "more": "Carter la dibujó para el Bell System de AT&T, que con ella reemplazó en 1978 su tipografía anterior de las guías, en torno al centenario de la empresa. Las guías telefónicas se imprimían en tirajes enormes, en papel barato y a alta velocidad, donde la tinta se corre hacia las esquinas de las letras. Carter abrió pequeñas muescas en las uniones de las letras para compensarlo, y dibujó los tamaños pequeños con espaciado más amplio para que nombres y números se leyeran bien.",
+    "status": "Disponible hoy como fuente digital.",
+    "date": "1978",
+    "short": "Bell Centennial"
+   },
+   "refs": [],
+   "short": "Bell Centennial"
+  },
+  {
+   "id": "think-different-1997",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "advertisement",
+   "title": "Apple ‘Think Different’ campaign",
+   "short": "Think Different",
+   "designers": [],
+   "maker": "TBWA\\Chiat\\Day",
+   "client": "Apple",
+   "year": 1997,
+   "date": "1997",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Television commercial and black-and-white poster portraits",
+   "tech": [],
+   "key": "Apple’s 1997 advertising campaign, made with TBWA\\Chiat\\Day, which showed portraits of admired figures and sold an attitude rather than a product.",
+   "more": "Launched in September 1997, shortly after Steve Jobs returned to Apple, it paired a television commercial with posters and print ads of black-and-white portraits of figures such as Albert Einstein and Martin Luther King Jr. Each carried only the Apple logo and the words ‘Think different’. The ads did not show computers, and aimed to renew the company’s image at a time when it was struggling against PCs running Windows.",
+   "status": "The campaign ended after the early 2000s; its images are widely remembered.",
+   "es": {
+    "title": "Campaña «Think Different» de Apple",
+    "materials": "Comercial de televisión y retratos en blanco y negro en afiches",
+    "key": "La campaña publicitaria de Apple de 1997, hecha con TBWA\\Chiat\\Day, que mostraba retratos de figuras admiradas y vendía una actitud más que un producto.",
+    "more": "Lanzada en septiembre de 1997, poco después de que Steve Jobs volviera a Apple, combinó un comercial de televisión con afiches y avisos de prensa de retratos en blanco y negro de figuras como Albert Einstein y Martin Luther King Jr. Cada uno llevaba solo el logotipo de Apple y las palabras «Think different». Los avisos no mostraban computadores y buscaban renovar la imagen de la empresa en un momento en que le costaba competir con los PC con Windows.",
+    "status": "La campaña terminó a comienzos de los años 2000; sus imágenes se recuerdan ampliamente.",
+    "date": "1997",
+    "short": "Think Different"
+   },
+   "refs": []
+  },
+  {
+   "id": "material-design-2014",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Google Material Design",
+   "short": "Material Design",
+   "designers": [],
+   "maker": "Google",
+   "client": "Google",
+   "year": 2014,
+   "date": "2014",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital interface design system (guidelines, components, animation)",
+   "tech": [
+    "web-type-css"
+   ],
+   "key": "Google’s 2014 design system that ordered its apps and sites around layers like sheets of paper, with shadows, bold colour and motion.",
+   "more": "Google presented Material Design at its I/O conference in June 2014, together with Android 5.0 Lollipop. It treated the screen as layered surfaces like paper that cast shadows, with bold colours, large type and animation to show how elements relate. It was meant to work across phones, tablets and the web with one set of rules, and Google published its guidelines for outside developers and designers.",
+   "status": "Evolved by Google into later versions, such as Material 3, and still used across its products.",
+   "es": {
+    "title": "Material Design de Google",
+    "materials": "Sistema de diseño de interfaces digitales (pautas, componentes, animación)",
+    "key": "El sistema de diseño de Google de 2014 que ordenó sus apps y sitios en capas como hojas de papel, con sombras, color intenso y movimiento.",
+    "more": "Google presentó Material Design en su conferencia I/O en junio de 2014, junto con Android 5.0 Lollipop. Trató la pantalla como superficies en capas, como papel que proyecta sombras, con colores intensos, tipografía grande y animación para mostrar cómo se relacionan los elementos. Debía servir en teléfonos, tabletas y la web con un único conjunto de reglas, y Google publicó sus pautas para desarrolladores y diseñadores externos.",
+    "status": "Google lo ha desarrollado en versiones posteriores, como Material 3, y se sigue usando en sus productos.",
+    "date": "2014",
+    "short": "Material Design"
+   },
+   "refs": [],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "mtv-logo-1981",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "MTV logo",
+   "short": "MTV logo",
+   "designers": [],
+   "maker": "Manhattan Design",
+   "client": "MTV Networks",
+   "year": 1981,
+   "date": "1981",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Television graphics and print",
+   "tech": [],
+   "key": "The giant M with a small ‘TV’ sprayed on it, made for the launch of MTV in 1981, whose colours and textures changed all the time.[1][2]",
+   "more": "MTV began broadcasting on 1 August 1981.[1] Its logo was designed by Manhattan Design, a New York studio,[2][3] for Fred Seibert, MTV’s first creative director:[2] a bold block M with a graffiti-style ‘TV’ that Frank Olinsky spray-painted on a large version of the M.[2][3] The decision was that the logo would have no fixed corporate colours, so the M and the TV could be made of anything at all,[2] which let the identity keep changing while staying recognisable.[2]",
+   "status": "The M and ‘TV’ logo has remained the channel’s mark, with many variations.",
+   "es": {
+    "title": "Logotipo de MTV",
+    "materials": "Gráfica de televisión e impresos",
+    "key": "La M gigante con un pequeño «TV» pintado con aerosol encima, creada para el lanzamiento de MTV en 1981, cuyos colores y texturas cambiaban todo el tiempo.[1][2]",
+    "more": "MTV comenzó a transmitir el 1 de agosto de 1981.[1] Su logotipo lo diseñó Manhattan Design, un estudio de Nueva York,[2][3] para Fred Seibert, primer director creativo de MTV:[2] una M de bloque con un «TV» de estilo grafiti que Frank Olinsky pintó con aerosol sobre una versión grande de la M.[2][3] Se decidió que el logotipo no tuviera colores corporativos fijos, de modo que la M y el TV pudieran estar hechos de cualquier cosa,[2] lo que permitió que la identidad cambiara sin dejar de ser reconocible.[2]",
+    "status": "El logotipo de la M y el «TV» sigue siendo la marca del canal, con muchas variaciones.",
+    "date": "1981",
+    "short": "Logotipo de MTV"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «MTV»",
+     "url": "https://www.britannica.com/topic/MTV",
+     "checks": "MTV debutó el 1 de agosto de 1981. ⚠ no habla del logotipo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Typeroom, «I want my MTV: Manhattan Design & that moon landing logo that changed TV forever»",
+     "url": "https://typeroom.eu/i-want-my-mtv-manhattan-design-and-that-moon-landing-logo-that-changed-tv-forever",
+     "checks": "Manhattan Design (Gorman, Olinsky, Rogoff); Seibert, primer director creativo, encargó el trabajo a fines de 1980; M de bloque y «TV» pintado con aerosol en grafiti; sin colores corporativos fijos; debut el 1 de agosto de 1981. ⚠ revista de diseño (fuente secundaria); leída mediante resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Fred Seibert, «The Evolution of a Famous Logo»",
+     "url": "https://fredseibert.com/post/651602789/the-evolution-of-a-famous-logo/amp",
+     "checks": "Manhattan Design creó el logotipo; Olinsky dibujó el «TV» y lo pintó con aerosol en la escalera del estudio; Seibert fue quien decidió con Alan Goodman. ⚠ testimonio del propio Seibert (blog personal, fuente primaria interesada); el resumen atribuye la «M» a Rogoff y Typeroom a Gorman: no se atribuye la M a nadie.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "wired-magazine-1993",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Wired magazine",
+   "short": "Wired",
+   "designers": [],
+   "maker": "Wired Ventures",
+   "client": "Wired Ventures",
+   "year": 1993,
+   "date": "1993",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Magazine printed in offset, with fluorescent and metallic inks",
+   "tech": [],
+   "key": "The San Francisco magazine of digital culture, whose first issues in 1993 used fluorescent inks and layered, dense layouts.",
+   "more": "Founded by Louis Rossetto and Jane Metcalfe, Wired began publication in 1993 in San Francisco, with John Plunkett as its art director. Its pages used fluorescent pink and orange and metallic inks, layered type and images, and dense layouts that were made possible by desktop computers. The look matched its subject, the emerging digital culture and the internet, and set it apart from the cool grey design of computer magazines.",
+   "status": "Still published, now mainly online, with a very different design.",
+   "es": {
+    "title": "Revista Wired",
+    "materials": "Revista impresa en offset, con tintas fluorescentes y metálicas",
+    "key": "La revista de San Francisco sobre cultura digital, cuyos primeros números de 1993 usaron tintas fluorescentes y maquetaciones densas y superpuestas.",
+    "more": "Fundada por Louis Rossetto y Jane Metcalfe, Wired empezó a publicarse en 1993 en San Francisco, con John Plunkett como director de arte. Sus páginas usaban rosado y naranja fluorescentes y tintas metálicas, tipografía e imágenes superpuestas y maquetaciones densas que habían hecho posibles los computadores personales. Su aspecto correspondía a su tema, la naciente cultura digital e internet, y la distinguía del diseño gris y sobrio de las revistas de computación.",
+    "status": "Se sigue publicando, ahora sobre todo en línea, con un diseño muy distinto.",
+    "date": "1993",
+    "short": "Wired"
+   },
+   "refs": []
+  },
+  {
+   "id": "frutiger-typeface-1975",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Frutiger",
+   "designers": [
+    "adrian-frutiger"
+   ],
+   "year": 1975,
+   "date": "1975",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH",
+    "FR"
+   ],
+   "materials": "Sans-serif type family",
+   "tech": [],
+   "key": "A sans-serif typeface drawn by Adrian Frutiger for the signage of Charles de Gaulle airport at Roissy, made to be read from a distance and at an angle.",
+   "more": "Frutiger, a Swiss designer working in Paris, created the lettering for the signs of the new Roissy airport, which opened in the mid-1970s. He designed open, clearly differentiated letters that stay legible from afar and from the side, to guide passengers through a large building. It was then issued as a commercial typeface under his name and became widely used for signage.",
+   "status": "Widely available as a commercial typeface.",
+   "es": {
+    "title": "Frutiger",
+    "date": "1975",
+    "materials": "Familia tipográfica sin serifas",
+    "key": "Una tipografía sin serifas que Adrian Frutiger dibujó para la señalización del aeropuerto Charles de Gaulle de Roissy, hecha para leerse a distancia y en ángulo.",
+    "more": "Frutiger, diseñador suizo que trabajaba en París, creó las letras para los letreros del nuevo aeropuerto de Roissy, inaugurado a mediados de los años setenta. Diseñó letras abiertas y bien diferenciadas, que se leen bien de lejos y de costado, para guiar a los pasajeros por un edificio grande. Luego se publicó como tipografía comercial con su nombre y se usó mucho en señalización.",
+    "status": "Disponible ampliamente como tipografía comercial."
+   },
+   "refs": []
+  },
+  {
+   "id": "nasa-worm-logo-1975",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "NASA worm logo and graphics standards",
+   "designers": [],
+   "client": "NASA",
+   "year": 1975,
+   "date": "1975",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed graphics manual and signage",
+   "tech": [],
+   "key": "The 1975 NASA graphics manual by Danne & Blackburn, which introduced a stylised red logotype nicknamed the ‘worm’.",
+   "more": "The design studio Danne & Blackburn made a graphics standards manual for NASA that set rules for logos, colours and typography across the agency’s documents, vehicles and buildings. Its logo replaced the earlier round emblem with a simplified lettering of the name. NASA stopped using the worm in 1992 and brought it back in 2020.",
+   "status": "The worm was retired in 1992 and revived in 2020; the manual survives in reissues and archives.",
+   "es": {
+    "title": "Logotipo gusano de la NASA",
+    "date": "1975",
+    "materials": "Manual gráfico impreso y señalización",
+    "key": "El manual gráfico de la NASA de 1975, de Danne & Blackburn, que introdujo un logotipo rojo estilizado apodado «el gusano».",
+    "more": "El estudio de diseño Danne & Blackburn hizo para la NASA un manual de normas gráficas que fijó reglas de logotipos, colores y tipografía para los documentos, vehículos y edificios de la agencia. Su logotipo reemplazó el emblema redondo anterior por una tipografía simplificada del nombre. La NASA dejó de usar el gusano en 1992 y lo recuperó en 2020.",
+    "status": "El gusano se retiró en 1992 y se recuperó en 2020; el manual se conserva en reediciones y archivos.",
+    "short": "Logo gusano NASA"
+   },
+   "refs": [],
+   "maker": "Danne & Blackburn",
+   "short": "NASA worm logo"
+  },
+  {
+   "id": "apple-rainbow-logo-1977",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Apple rainbow logo",
+   "designers": [
+    "rob-janoff"
+   ],
+   "client": "Apple Computer",
+   "year": 1977,
+   "date": "1977",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Graphic mark in six colour stripes",
+   "tech": [],
+   "key": "The striped apple with a bite taken out that Rob Janoff drew for Apple in 1977, the company’s first logo of its kind and a mark of the colour Apple II.",
+   "more": "Janoff designed the apple silhouette with a bite out of it in 1977 for the young Apple Computer. It was filled with horizontal stripes of colour, a way of showing that the Apple II could display colour graphics. Apple used the rainbow version until 1998.",
+   "status": "No longer in use as the company mark; it survives in Apple’s history and as a nostalgic emblem.",
+   "es": {
+    "title": "Logotipo arcoíris de Apple",
+    "date": "1977",
+    "materials": "Marca gráfica de seis franjas de color",
+    "key": "La manzana rayada y mordida que Rob Janoff dibujó para Apple en 1977, la primera marca de ese tipo de la empresa y un signo del Apple II en color.",
+    "more": "Janoff diseñó en 1977 la silueta de manzana con un mordisco para la joven Apple Computer. La rellenó con franjas horizontales de color, una forma de mostrar que el Apple II podía mostrar gráficos en color. Apple usó la versión arcoíris hasta 1998.",
+    "status": "Ya no se usa como marca de la empresa; sobrevive en la historia de Apple y como emblema nostálgico.",
+    "short": "Logo arcoíris Apple"
+   },
+   "refs": [],
+   "short": "Apple rainbow logo"
+  },
+  {
+   "id": "rainbow-flag-1978",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "flag",
+   "title": "Rainbow flag",
+   "designers": [
+    "gilbert-baker"
+   ],
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Dyed or sewn fabric in coloured stripes",
+   "tech": [],
+   "key": "The flag of horizontal colour stripes that Gilbert Baker made in San Francisco in 1978 as a shared emblem of the gay and lesbian movement.",
+   "more": "Baker, an artist and activist, made the first rainbow flags in San Francisco for the Gay Freedom Day parade of June 1978. The first version had eight stripes, each with its own meaning, and it was later reduced to fewer colours for easier production. A flag of plain colour bands, with no words, could be read from afar and copied by anyone, and it became the best-known emblem of the movement worldwide.",
+   "status": "The flag is in constant use; a surviving piece of the original is held by a museum collection.",
+   "es": {
+    "title": "Bandera arcoíris",
+    "date": "1978",
+    "materials": "Tela teñida o cosida en franjas de color",
+    "key": "La bandera de franjas horizontales de colores que Gilbert Baker hizo en San Francisco en 1978 como emblema común del movimiento gay y lésbico.",
+    "more": "Baker, artista y activista, hizo las primeras banderas arcoíris en San Francisco para el desfile del Día de la Libertad Gay de junio de 1978. La primera versión tenía ocho franjas, cada una con un significado, y luego se redujo a menos colores para facilitar su producción. Una bandera de bandas de color lisas, sin palabras, se leía desde lejos y cualquiera podía copiarla, y se volvió el emblema más conocido del movimiento en el mundo.",
+    "status": "La bandera está en uso constante; una parte de la original se conserva en una colección de museo."
+   },
+   "refs": []
+  },
+  {
+   "id": "xerox-star-interface-1981",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Xerox Star interface",
+   "designers": [],
+   "maker": "Xerox",
+   "year": 1981,
+   "date": "1981",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Screen interface for a bitmapped display, mouse and keyboard",
+   "tech": [],
+   "key": "The desktop interface of the Xerox Star workstation, which showed documents as icons and windows on a screen.[1][2]",
+   "more": "The Xerox Star was introduced in April 1981 at the National Computer Conference.[1] Its prototype was the Alto, built at Xerox’s Palo Alto Research Center in 1972.[1] Its bitmapped screen displayed pictures of familiar office objects such as documents, folders, file drawers and in-baskets, which could be opened and worked with a mouse in windows,[1][2] so that office professionals could work without concepts like software or operating systems.[1] Sales were disappointing, mainly because of its price of $16,500,[3] but the Star influenced later systems, notably Apple’s Lisa and Macintosh.[1][3]",
+   "status": "No working systems are in regular use; Star machines and its software survive in museums and in emulations.",
+   "es": {
+    "title": "Interfaz de Xerox Star",
+    "date": "1981",
+    "materials": "Interfaz de pantalla para pantalla de mapa de bits, mouse y teclado",
+    "key": "La interfaz de escritorio de la estación de trabajo Xerox Star, que mostraba documentos como íconos y ventanas en una pantalla.[1][2]",
+    "more": "El Xerox Star se presentó en abril de 1981 en la National Computer Conference.[1] Su prototipo fue el Alto, construido en 1972 en el Centro de Investigación de Palo Alto de Xerox.[1] Su pantalla de mapa de bits mostraba imágenes de objetos de oficina familiares, como documentos, carpetas, archivadores y bandejas de entrada, que se abrían y manejaban con un mouse en ventanas,[1][2] de modo que los profesionales de oficina trabajaran sin conceptos como software o sistema operativo.[1] Las ventas decepcionaron, sobre todo por su precio de 16.500 dólares,[3] pero el Star influyó en sistemas posteriores, en especial el Lisa y el Macintosh de Apple.[1][3]",
+    "status": "No quedan sistemas en uso corriente; se conservan equipos Star y su software en museos y en emulaciones."
+   },
+   "refs": [
+    {
+     "label": "Johnson et al., «The Xerox Star: A Retrospective», IEEE Computer, 1989",
+     "url": "https://worrydream.com/refs/Johnson_1989_-_The_Xerox_Star,_a_Retrospective.pdf",
+     "checks": "Presentado en abril de 1981 en la NCC; Alto de 1972 en PARC como prototipo; íconos de documentos, carpetas, archivadores y bandejas; abrir documentos desde el ícono; usuarios sin conceptos de software; ventas decepcionantes; influencia en Lisa y Macintosh. ⚠ copia alojada en worrydream.com; leída mediante resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "DigiBarn Computer Museum, «Xerox Star 8010 OS and Applications»",
+     "url": "https://digibarn.com/collections/software/xerox-star/index.html",
+     "checks": "Metáfora de escritorio con íconos y ventanas, tomada de «Designing the Star User Interface» (Byte, 1982). ⚠ no menciona impresoras.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Johnson et al., «The Xerox Star: A Retrospective» (versión IEEE Computer 1989, alojada en lri.fr)",
+     "url": "https://www.lri.fr/~mbl/FundHCI/papers/XeroxStar-Computer89.pdf",
+     "checks": "8010 Information System, abril de 1981, desde PARC; ventas modestas por precio (16.500 USD); influencia indiscutible, visible en Lisa y Macintosh; escritorio, ventanas y mouse, pantalla de mapa de bits. ⚠ leída mediante resumen automático.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "cobi-1987",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "mascot",
+   "title": "Cobi, mascot of Barcelona 1992",
+   "short": "Cobi",
+   "designers": [
+    "javier-mariscal"
+   ],
+   "client": "Barcelona Olympic Organising Committee",
+   "year": 1987,
+   "date": "1987",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Graphic character, drawn in flat colour",
+   "tech": [],
+   "key": "The cubist-style dog designed by Javier Mariscal as the mascot of the Barcelona 1992 Olympic Games.",
+   "more": "Javier Mariscal designed Cobi, a Catalan sheepdog drawn in a simple, cubist-inspired style with bold lines and flat colour, and it was presented in 1987. The organisers used the character on merchandise and in a television series, treating the Games as a brand with its own licensed personality. Cobi was also criticised at first for its unconventional look.",
+   "status": "Cobi remains a known image of the Games and appears in exhibitions and souvenirs.",
+   "es": {
+    "title": "Cobi, mascota de Barcelona 1992",
+    "short": "Cobi",
+    "date": "1987",
+    "materials": "Personaje gráfico, dibujado en colores planos",
+    "key": "El perro de estilo cubista diseñado por Javier Mariscal como mascota de los Juegos Olímpicos de Barcelona 1992.",
+    "more": "Javier Mariscal diseñó a Cobi, un perro pastor catalán dibujado en un estilo simple de inspiración cubista, de líneas firmes y colores planos, y se presentó en 1987. Los organizadores usaron el personaje en productos y en una serie de televisión, tratando los Juegos como una marca con personalidad propia y licenciable. Al comienzo Cobi también recibió críticas por su aspecto poco convencional.",
+    "status": "Cobi sigue siendo una imagen conocida de los Juegos y aparece en exposiciones y recuerdos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ff-meta-1991",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "FF Meta",
+   "short": "Meta",
+   "designers": [
+    "erik-spiekermann"
+   ],
+   "maker": "FontShop",
+   "year": 1991,
+   "date": "1991",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Digital typeface (sans serif family)",
+   "tech": [],
+   "key": "A sans-serif family by Erik Spiekermann, released by FontShop in 1991 as one of the first FontFont typefaces.",
+   "more": "Spiekermann conceived Meta in the 1980s as a text face for small sizes and poor printing, and it was published in 1991 by FontShop as a digital font. It has a clear, slightly humanist shape that stays legible on paper and on screens. It became a widely used corporate and editorial face.",
+   "status": "Still sold and used as part of the FontFont library.",
+   "es": {
+    "title": "FF Meta",
+    "short": "Meta",
+    "date": "1991",
+    "materials": "Tipografía digital (familia sin serifa)",
+    "key": "Una familia sans serif de Erik Spiekermann, lanzada por FontShop en 1991 como una de las primeras tipografías FontFont.",
+    "more": "Spiekermann concibió Meta en los años ochenta como una letra de texto para tamaños pequeños e impresión pobre, y FontShop la publicó en 1991 como fuente digital. Tiene una forma clara, algo humanista, que se mantiene legible en papel y en pantalla. Se volvió una letra corporativa y editorial muy usada.",
+    "status": "Se sigue vendiendo y usando dentro de la biblioteca FontFont."
+   },
+   "refs": []
+  },
+  {
+   "id": "emoji-1999",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "icon set",
+   "title": "NTT DoCoMo emoji",
+   "designers": [
+    "shigetaka-kurita"
+   ],
+   "client": "NTT DoCoMo",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Pixel graphics, 12 by 12 pixels",
+   "tech": [],
+   "key": "The first set of emoji, 176 pictograms of 12 by 12 pixels that Shigetaka Kurita designed in 1999 for NTT DoCoMo’s mobile internet service.",
+   "more": "Kurita drew the set for DoCoMo’s i-mode service, where short messages left little room to convey tone. Each tiny picture stood for a weather sign, an object or a feeling. Emoji later entered the Unicode standard and were taken up by Western phone and messaging platforms, so a visual vocabulary born in Japanese mobile phones became a global language.",
+   "status": "The original set is held in the collection of the Museum of Modern Art in New York.",
+   "es": {
+    "title": "Emoji de NTT DoCoMo",
+    "date": "1999",
+    "materials": "Gráficos de píxeles de 12 por 12",
+    "key": "El primer conjunto de emoji: 176 pictogramas de 12 por 12 píxeles que Shigetaka Kurita diseñó en 1999 para el servicio de internet móvil de NTT DoCoMo.",
+    "more": "Kurita dibujó el conjunto para el servicio i-mode de DoCoMo, donde los mensajes cortos dejaban poco espacio para transmitir el tono. Cada imagen diminuta representaba un signo del tiempo, un objeto o un sentimiento. Los emoji entraron después al estándar Unicode y fueron adoptados por las plataformas occidentales de telefonía y mensajería, de modo que un vocabulario visual nacido en los móviles japoneses se volvió un lenguaje global.",
+    "status": "El conjunto original está en la colección del Museo de Arte Moderno de Nueva York."
+   },
+   "refs": [],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "gotham-2000",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Gotham",
+   "designers": [
+    "tobias-frere-jones"
+   ],
+   "maker": "Hoefler & Frere-Jones",
+   "client": "GQ",
+   "year": 2000,
+   "date": "2000",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital typeface (geometric sans serif)",
+   "tech": [],
+   "key": "The geometric sans-serif that Tobias Frere-Jones drew in 2000, based on lettering seen on New York buildings, which became the face of the 2008 Obama campaign.",
+   "more": "Frere-Jones designed Gotham at Hoefler & Frere-Jones for the magazine GQ, drawing on the straightforward lettering of mid-twentieth-century signs in New York. Its wide, open letters read as modern and honest. The 2008 Obama presidential campaign used it throughout, and many brands and institutions adopted it afterwards.",
+   "status": "Still sold by Hoefler & Co. and widely used.",
+   "es": {
+    "title": "Gotham",
+    "date": "2000",
+    "materials": "Tipografía digital (sans serif geométrica)",
+    "key": "La sans serif geométrica que Tobias Frere-Jones dibujó en 2000, basada en rótulos de edificios de Nueva York, que se volvió la letra de la campaña de Obama de 2008.",
+    "more": "Frere-Jones diseñó Gotham en Hoefler & Frere-Jones para la revista GQ, a partir del rotulado directo de letreros neoyorquinos de mediados del siglo XX. Sus letras anchas y abiertas se leían como modernas y sinceras. La campaña presidencial de Obama de 2008 la usó en todo su material, y muchas marcas e instituciones la adoptaron después.",
+    "status": "Sigue a la venta en Hoefler & Co. y se usa mucho."
+   },
+   "refs": []
+  },
+  {
+   "id": "windows-phone-metro-2010",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Windows Phone Metro design language",
+   "short": "Metro",
+   "designers": [],
+   "maker": "Microsoft",
+   "year": 2010,
+   "date": "2010",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Screen interface: tiles, type and flat colour",
+   "tech": [],
+   "key": "Microsoft’s interface for Windows Phone 7, which replaced ornament with tiles, flat colour and large type.",
+   "more": "Launched with Windows Phone 7 in 2010, Metro organised the phone screen in rectangular tiles and relied on typography, grids and motion rather than shadows or textured icons. Microsoft described its roots in signs and transport graphics and in the Swiss tradition. The platform sold modestly, but flat design returned in other interfaces.",
+   "status": "The Windows Phone platform has been discontinued; the style survives in documentation and later Microsoft products.",
+   "es": {
+    "title": "Lenguaje Metro de Windows Phone",
+    "short": "Metro",
+    "date": "2010",
+    "materials": "Interfaz de pantalla: baldosas, tipografía y color plano",
+    "key": "La interfaz de Microsoft para Windows Phone 7, que reemplazó el adorno por baldosas, color plano y tipografía grande.",
+    "more": "Lanzado con Windows Phone 7 en 2010, Metro organizaba la pantalla del teléfono en baldosas rectangulares y se apoyaba en la tipografía, la retícula y el movimiento, en vez de sombras o íconos con textura. Microsoft describió sus raíces en la señalética y los gráficos del transporte y en la tradición suiza. La plataforma vendió modestamente, pero el diseño plano volvió en otras interfaces.",
+    "status": "La plataforma Windows Phone fue discontinuada; el estilo sobrevive en la documentación y en productos posteriores de Microsoft."
+   },
+   "refs": [],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "sniffin-glue-1976",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Sniffin' Glue fanzine",
+   "designers": [],
+   "maker": "Mark Perry",
+   "year": 1976,
+   "date": "1976–1977",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Handwriting and typewriter text, photographs, photocopies stapled together",
+   "tech": [
+    "photocopying"
+   ],
+   "key": "Mark Perry’s handwritten and photocopied punk fanzine, begun in London in July 1976, which showed that anyone could publish.",
+   "more": "Mark Perry started Sniffin’ Glue in July 1976 after seeing the Ramones in London, writing about the new bands in his own hand and photocopying the pages. It ran for twelve issues until August 1977. Crossed-out words, hand lettering, uneven columns and cut-up photographs were part of its look, and it showed that a magazine needed no printer or designer. It became the model for many punk fanzines.",
+   "status": "Copies survive in libraries and museum collections; issues have been reprinted.",
+   "es": {
+    "title": "Fanzine Sniffin' Glue",
+    "date": "1976–1977",
+    "materials": "Texto a mano y a máquina de escribir, fotografías, fotocopias engrapadas",
+    "key": "El fanzine punk escrito a mano y fotocopiado de Mark Perry, iniciado en Londres en julio de 1976, que mostró que cualquiera podía publicar.",
+    "more": "Mark Perry empezó Sniffin’ Glue en julio de 1976 tras ver a los Ramones en Londres, y escribía sobre las bandas nuevas a mano y fotocopiaba las páginas. Salió durante doce números hasta agosto de 1977. Las palabras tachadas, las letras a mano, las columnas desparejas y las fotos recortadas formaban parte de su aspecto, y mostró que una revista no necesitaba imprenta ni diseñador. Fue el modelo de muchos fanzines punk.",
+    "status": "Se conservan ejemplares en bibliotecas y colecciones de museos; hay números reeditados."
+   },
+   "refs": [],
+   "movements": [
+    "punk-fashion"
+   ]
+  },
+  {
+   "id": "god-save-the-queen-1977",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "God Save the Queen (Sex Pistols)",
+   "designers": [
+    "jamie-reid"
+   ],
+   "maker": "Virgin Records",
+   "year": 1977,
+   "date": "1977",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Photograph and cut-out lettering, printed as a record sleeve",
+   "tech": [],
+   "key": "Jamie Reid’s sleeve for the Sex Pistols’ 1977 single, a portrait of the Queen with her eyes and mouth covered by ransom-note lettering.[1][2]",
+   "more": "Jamie Reid designed the sleeve for the Sex Pistols’ single, released in 1977 to coincide with the Queen’s Silver Jubilee.[1][2] It used a defaced version of Peter Grugeon’s official jubilee portrait of Elizabeth II, her eyes and mouth hidden by the song title and the band’s name in ransom-note-style lettering.[1][2] Reid’s graphic politics were influenced by the Situationist International.[2] The BBC banned the record, and high-street chains such as Woolworths and W.H. Smith refused to stock it.[1]",
+   "status": "The image is endlessly reproduced and exhibited.",
+   "es": {
+    "title": "God Save the Queen (Sex Pistols)",
+    "date": "1977",
+    "materials": "Fotografía y letras recortadas, impresas como carátula de disco",
+    "key": "La carátula de Jamie Reid para el sencillo de los Sex Pistols de 1977, un retrato de la reina con los ojos y la boca tapados por letras tipo carta de rescate.[1][2]",
+    "more": "Jamie Reid diseñó la carátula del sencillo de los Sex Pistols, publicado en 1977 para coincidir con el Jubileo de Plata de la reina.[1][2] Usó una versión intervenida del retrato oficial del jubileo de Isabel II, obra de Peter Grugeon, con los ojos y la boca tapados por el título de la canción y el nombre del grupo en letras al estilo de carta de rescate.[1][2] La política gráfica de Reid estuvo influida por la Internacional Situacionista.[2] La BBC prohibió el disco, y cadenas como Woolworths y W.H. Smith se negaron a venderlo.[1]",
+    "status": "La imagen se reproduce y se exhibe sin fin.",
+    "short": "God Save the Queen"
+   },
+   "refs": [
+    {
+     "label": "National Portrait Gallery, Londres, «Queen Elizabeth II (‘God Save the Queen’)»",
+     "url": "https://www.npg.org.uk/collections/search/portrait/mw288622",
+     "checks": "Carátula del sencillo de Jamie Reid, 1977; versión intervenida del retrato oficial del jubileo de plata de Peter Grugeon; sencillo lanzado en 1977 para coincidir con el jubileo; prohibido por la BBC y no vendido por Woolworths y W.H. Smith. ⚠ no menciona Virgin ni el mes.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "V&A, «God Save the Queen» (afiche, S.1286-1982)",
+     "url": "https://collections.vam.ac.uk/item/O1159869/god-save-the-queen-poster-reid-jamie/",
+     "checks": "Afiche promocional del sencillo, 1977: foto en blanco y negro de Isabel II con ojos y boca tapados por título y nombre del grupo en tipografía tipo carta de rescate; año del Jubileo de Plata; influencia situacionista en Reid. ⚠ describe el afiche, no la carátula; el fondo de la bandera no se menciona en el texto.",
+     "date": "2026-10-06"
+    }
+   ],
+   "movements": [
+    "punk-fashion"
+   ],
+   "short": "God Save the Queen"
+  },
+  {
+   "id": "weingart-posters-1977",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Posters by Wolfgang Weingart",
+   "designers": [
+    "wolfgang-weingart"
+   ],
+   "movements": [
+    "new-wave-typography",
+    "basel-school-typography"
+   ],
+   "maker": "Kunstgewerbeschule Basel",
+   "year": 1977,
+   "date": "c. 1977–1985",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Offset lithography on paper; layered photographic film and halftone screens",
+   "tech": [],
+   "key": "Wolfgang Weingart's posters of the late 1970s and early 1980s, in which layered film, visible halftone screens and broken, spaced type loosened the Swiss style.",
+   "more": "Weingart taught typography at the Kunstgewerbeschule Basel, the home of the Swiss style, and used his posters to test what that style left out. He built them by stacking and exposing pieces of film together, so that halftone dots, overlaps, bars and arrows stayed visible, and he spaced and tilted lines of type freely. The result, later grouped as New Wave typography, kept Swiss training but dropped its neutral, orderly look.",
+   "status": "Examples survive in museum collections and design archives.",
+   "es": {
+    "title": "Carteles de Wolfgang Weingart",
+    "date": "c. 1977–1985",
+    "materials": "Litografía offset sobre papel; capas de película fotográfica y tramas",
+    "key": "Los carteles de Wolfgang Weingart de fines de los años setenta y comienzos de los ochenta, en los que capas de película, tramas a la vista y una tipografía quebrada y espaciada soltaron el estilo suizo.",
+    "more": "Weingart enseñó tipografía en la Kunstgewerbeschule de Basilea, cuna del estilo suizo, y usó sus carteles para probar lo que ese estilo dejaba fuera. Los armaba apilando y exponiendo juntos trozos de película, de modo que las tramas, las superposiciones, las barras y las flechas quedaban a la vista, y espaciaba e inclinaba las líneas de texto con libertad. El resultado, agrupado después como tipografía de la Nueva Ola, conservó la formación suiza pero abandonó su aspecto neutro y ordenado.",
+    "status": "Se conservan ejemplares en colecciones de museos y archivos de diseño.",
+    "short": "Carteles de Weingart"
+   },
+   "refs": [],
+   "short": "Weingart posters"
+  },
+  {
+   "id": "unknown-pleasures-1979",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Unknown Pleasures (Joy Division)",
+   "designers": [
+    "peter-saville"
+   ],
+   "maker": "Factory Records",
+   "year": 1979,
+   "date": "1979",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Printed card sleeve, white line image on black",
+   "tech": [],
+   "key": "Peter Saville's sleeve for Joy Division's first album, a field of white lines taken from the radio signal of a pulsar on a black ground, with almost no text.",
+   "more": "Joy Division's first album came out on Factory Records, a Manchester independent label, in 1979. The image is a plot of the successive pulses of the pulsar CP 1919, which the band suggested; Saville set it in white on black and kept the sleeve almost free of lettering. It looked nothing like the loud graphics of punk or of mainstream record covers, and it became one of the best-known images in pop design.",
+   "status": "The album is still in print, and the image is widely reproduced.",
+   "es": {
+    "title": "Unknown Pleasures (Joy Division)",
+    "date": "1979",
+    "materials": "Funda de cartón impresa, imagen de líneas blancas sobre negro",
+    "key": "La funda de Peter Saville para el primer disco de Joy Division, un campo de líneas blancas tomado de la señal de radio de un púlsar sobre fondo negro, casi sin texto.",
+    "more": "El primer disco de Joy Division salió en 1979 en Factory Records, un sello independiente de Mánchester. La imagen es un gráfico de los pulsos sucesivos del púlsar CP 1919, que propuso el propio grupo; Saville la puso en blanco sobre negro y dejó la funda casi sin letras. No se parecía en nada a los gráficos estridentes del punk ni a las portadas comerciales, y se volvió una de las imágenes más conocidas del diseño pop.",
+    "status": "El disco sigue editándose y la imagen se reproduce ampliamente.",
+    "short": "Unknown Pleasures"
+   },
+   "refs": [],
+   "short": "Unknown Pleasures"
+  },
+  {
+   "id": "pac-man-1980",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Pac-Man",
+   "designers": [
+    "toru-iwatani"
+   ],
+   "maker": "Namco",
+   "year": 1980,
+   "date": "1980",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Arcade cabinet with colour raster screen; pixel graphics",
+   "tech": [],
+   "key": "Toru Iwatani's arcade game for Namco, whose round yellow character, ghosts and maze made a video game readable and appealing to a wide public.",
+   "more": "Namco released it in Japan in 1980, and it was then sold abroad under the name Pac-Man. Iwatani designed a game without shooting, built around eating dots in a maze while avoiding four ghosts, each drawn in its own colour and behaving differently. The character, drawn as a simple circle with a missing wedge, gave a video game a recognisable face and turned it into a figure that could be sold on merchandise, in cartoons and on screens everywhere.",
+   "status": "The game is still published and re-released by Bandai Namco.",
+   "es": {
+    "title": "Pac-Man",
+    "date": "1980",
+    "materials": "Mueble de arcade con pantalla de barrido a color; gráficos de píxeles",
+    "key": "El videojuego de arcade de Toru Iwatani para Namco, cuyo personaje amarillo y redondo, sus fantasmas y su laberinto hicieron un videojuego legible y atractivo para un público amplio.",
+    "more": "Namco lo lanzó en Japón en 1980, y luego se vendió en el extranjero con el nombre de Pac-Man. Iwatani diseñó un juego sin disparos, centrado en comer puntos en un laberinto mientras se evitan cuatro fantasmas, cada uno dibujado de un color y con un comportamiento distinto. El personaje, dibujado como un círculo simple al que le falta una cuña, dio un rostro reconocible a un videojuego y lo convirtió en una figura que se vendió en productos, dibujos animados y pantallas de todo el mundo.",
+    "status": "El juego se sigue publicando y reeditando por Bandai Namco."
+   },
+   "refs": []
+  },
+  {
+   "id": "silence-equals-death-1987",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Silence = Death",
+   "designers": [],
+   "maker": "Silence=Death Project (Avram Finkelstein and others); adopted by ACT UP",
+   "year": 1987,
+   "date": "1987",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset lithography on paper, white type and pink triangle on black",
+   "tech": [],
+   "key": "A black poster with a pink triangle and the words Silence = Death, made in New York in 1987 and adopted by ACT UP as the image of its campaign.",
+   "more": "A group of New York artists and activists, the Silence=Death Project, made it in 1987 and pasted it in the streets, and ACT UP then took it up on posters, badges and T-shirts. The pink triangle points up, reversing the downward-pointing triangle that the Nazis made gay prisoners wear, and the short sentence sits in plain white capitals beneath it. It works as a sign read at a glance, and it became the model for activist graphics.",
+   "status": "Original posters are kept in museum collections; the image is still in use.",
+   "es": {
+    "title": "Silencio = Muerte",
+    "date": "1987",
+    "materials": "Litografía offset sobre papel, texto blanco y triángulo rosa sobre negro",
+    "key": "Un cartel negro con un triángulo rosa y las palabras Silencio = Muerte, hecho en Nueva York en 1987 y adoptado por ACT UP como la imagen de su campaña.",
+    "more": "Un grupo de artistas y activistas de Nueva York, el Silence=Death Project, lo hizo en 1987 y lo pegó en las calles, y luego ACT UP lo adoptó en carteles, chapas y poleras. El triángulo rosa apunta hacia arriba e invierte el triángulo con la punta hacia abajo que los nazis obligaban a llevar a los prisioneros homosexuales, y la frase breve va debajo, en mayúsculas blancas y sencillas. Funciona como un signo que se lee de un vistazo y se volvió el modelo de la gráfica activista.",
+    "status": "Se conservan carteles originales en colecciones de museos; la imagen sigue en uso."
+   },
+   "refs": []
+  },
+  {
+   "id": "cranbrook-new-discourse-1989",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Cranbrook Design: The New Discourse (poster)",
+   "designers": [
+    "katherine-mccoy"
+   ],
+   "maker": "Cranbrook Academy of Art",
+   "year": 1989,
+   "date": "1989",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset lithography on paper",
+   "tech": [],
+   "key": "Katherine McCoy's poster for Cranbrook Design: The New Discourse, a dense layering of text at different sizes that asks the reader to build the meaning.",
+   "more": "McCoy co-directed the graphic design programme at Cranbrook Academy of Art, a graduate school near Detroit, where she and her students read French literary theory and applied it to design. The poster announced the exhibition and book of the same name by layering blocks of text at several scales, so that there is no single order of reading. It is a well-known example of how the idea that readers make meaning entered graphic design in the United States.",
+   "status": "Copies are held in museum and design collections.",
+   "es": {
+    "title": "Cranbrook Design: The New Discourse (cartel)",
+    "date": "1989",
+    "materials": "Litografía offset sobre papel",
+    "key": "El cartel de Katherine McCoy para Cranbrook Design: The New Discourse, una capa densa de textos de distintos tamaños que pide al lector construir el sentido.",
+    "more": "McCoy codirigió el programa de diseño gráfico de la Cranbrook Academy of Art, una escuela de posgrado cerca de Detroit, donde ella y sus estudiantes leyeron teoría literaria francesa y la aplicaron al diseño. El cartel anunció la exposición y el libro del mismo nombre superponiendo bloques de texto en varias escalas, de modo que no hay un solo orden de lectura. Es un ejemplo conocido de cómo la idea de que el lector construye el sentido llegó al diseño gráfico en Estados Unidos.",
+    "status": "Hay ejemplares en colecciones de museos y de diseño.",
+    "short": "Cartel Cranbrook"
+   },
+   "refs": [],
+   "short": "Cranbrook poster"
+  },
+  {
+   "id": "benetton-toscani-1989",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "advertisement",
+   "title": "United Colors of Benetton campaigns",
+   "designers": [
+    "oliviero-toscani"
+   ],
+   "maker": "Benetton",
+   "year": 1989,
+   "date": "1989",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Colour photography reproduced in magazines and on billboards",
+   "tech": [],
+   "key": "The United Colors of Benetton campaigns photographed by Oliviero Toscani, which showed social subjects instead of clothes and placed only the brand's green logo.",
+   "more": "Toscani, the photographer behind the brand's advertising from the 1980s, replaced images of clothes with striking photographs of themes such as race, war and illness, signed only with the green Benetton logo. The same images appeared in many countries, and several caused public controversy and bans, which in turn gave them more attention. The campaigns became a central case of a brand that sells values and provocation instead of product.",
+   "status": "The images survive in magazines and archives and are still taught as a case study.",
+   "es": {
+    "title": "Campañas de United Colors of Benetton",
+    "date": "1989",
+    "materials": "Fotografía en color reproducida en revistas y en vallas publicitarias",
+    "key": "Las campañas de United Colors of Benetton fotografiadas por Oliviero Toscani, que mostraron temas sociales en lugar de ropa y solo pusieron el logo verde de la marca.",
+    "more": "Toscani, el fotógrafo detrás de la publicidad de la marca desde los años ochenta, reemplazó las imágenes de ropa por fotografías impactantes de temas como la raza, la guerra y la enfermedad, firmadas solo con el logo verde de Benetton. Las mismas imágenes aparecieron en muchos países, y varias provocaron polémica pública y prohibiciones, que a su vez les dieron más atención. Las campañas se volvieron un caso central de marca que vende valores y provocación en lugar de producto.",
+    "status": "Las imágenes se conservan en revistas y archivos y se siguen estudiando como caso.",
+    "short": "Campañas Benetton"
+   },
+   "refs": [],
+   "short": "Benetton campaigns"
+  },
+  {
+   "id": "information-landscapes-1994",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Information Landscapes",
+   "designers": [
+    "muriel-cooper"
+   ],
+   "movements": [
+    "interaction-design"
+   ],
+   "maker": "Visible Language Workshop, MIT Media Lab",
+   "year": 1994,
+   "date": "1994",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Software on a graphics workstation; real-time three-dimensional type",
+   "tech": [],
+   "key": "Muriel Cooper's experiments at MIT in which text and graphics float in a three-dimensional space that the reader moves through and zooms into.",
+   "more": "Cooper led the Visible Language Workshop at the MIT Media Lab, where she and her students built interfaces in which blocks of text, in different sizes and transparencies, are arranged in depth. The reader navigates by flying through them and zooming in, instead of turning pages or scrolling a window. It anticipated ideas of zoomable and layered interfaces that appeared later in ordinary screens.",
+   "status": "Known today through demonstration videos and papers; the system itself is no longer in use.",
+   "es": {
+    "title": "Paisajes de información",
+    "date": "1994",
+    "materials": "Software en una estación gráfica; tipografía tridimensional en tiempo real",
+    "key": "Los experimentos de Muriel Cooper en el MIT en los que texto y gráficos flotan en un espacio tridimensional por el que el lector se mueve y hace zoom.",
+    "more": "Cooper dirigió el Visible Language Workshop del MIT Media Lab, donde ella y sus estudiantes construyeron interfaces en las que bloques de texto, de distintos tamaños y transparencias, se disponen en profundidad. El lector navega volando entre ellos y acercándose, en lugar de pasar páginas o desplazar una ventana. Anticipó ideas de interfaces con zoom y por capas que llegaron después a las pantallas de uso común.",
+    "status": "Se conoce hoy por videos de demostración y artículos; el sistema en sí ya no se usa.",
+    "short": "Paisajes de info."
+   },
+   "refs": [],
+   "short": "Info. Landscapes"
+  },
+  {
+   "id": "windows-95-1995",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Windows 95 interface",
+   "designers": [],
+   "movements": [
+    "interaction-design"
+   ],
+   "maker": "Microsoft",
+   "year": 1995,
+   "date": "1995",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Software interface with bitmap icons and grey raised buttons",
+   "tech": [],
+   "key": "Microsoft's 1995 operating system interface, whose desktop, taskbar and Start menu became the standard way of using a personal computer.",
+   "more": "Microsoft launched Windows 95 in 1995, with a taskbar listing open programs and a Start menu for opening them, together with icons on the desktop and buttons drawn with a raised look. It brought the graphical interface that Apple had popularised to the very large number of computers running Microsoft software. For many users it was the first graphical interface they used, and its elements were copied and kept by later versions of Windows.",
+   "status": "No longer sold or supported; it survives in emulators and in the lineage of later Windows interfaces.",
+   "es": {
+    "title": "Interfaz de Windows 95",
+    "date": "1995",
+    "materials": "Interfaz de software con íconos de mapa de bits y botones grises en relieve",
+    "key": "La interfaz del sistema operativo de Microsoft de 1995, cuyo escritorio, barra de tareas y menú Inicio se volvieron la forma estándar de usar un computador personal.",
+    "more": "Microsoft lanzó Windows 95 en 1995, con una barra de tareas que lista los programas abiertos y un menú Inicio para abrirlos, además de íconos en el escritorio y botones dibujados con aspecto de relieve. Llevó la interfaz gráfica que Apple había popularizado a la enorme cantidad de computadores que usaban software de Microsoft. Para muchos usuarios fue la primera interfaz gráfica que usaron, y sus elementos fueron copiados y conservados por las versiones posteriores de Windows.",
+    "status": "Ya no se vende ni tiene soporte; sobrevive en emuladores y en la línea de las interfaces posteriores de Windows."
+   },
+   "refs": []
+  },
+  {
+   "id": "cdc-sars-cov-2-illustration-2020",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "infographic",
+   "title": "CDC illustration of SARS-CoV-2",
+   "designers": [],
+   "maker": "Alissa Eckert and Dan Higgins, Centers for Disease Control and Prevention",
+   "year": 2020,
+   "date": "2020",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital three-dimensional rendering",
+   "tech": [],
+   "key": "A three-dimensional illustration of the coronavirus made at the CDC, a grey sphere with red spikes that became the public image of the pandemic.",
+   "more": "Illustrators at the US Centers for Disease Control and Prevention made it in early 2020, when the virus could not be seen and the public had no picture of it. It shows a sphere covered in spikes, with the spikes coloured red so that they stand out from the grey body. It was released for free use and appeared in news reports, health campaigns and countless articles around the world.",
+   "status": "Available from the CDC image library; reproduced worldwide.",
+   "es": {
+    "title": "Ilustración del SARS-CoV-2 de los CDC",
+    "date": "2020",
+    "materials": "Representación digital tridimensional",
+    "key": "Una ilustración tridimensional del coronavirus hecha en los CDC, una esfera gris con espículas rojas que se volvió la imagen pública de la pandemia.",
+    "more": "Ilustradores de los Centros para el Control y la Prevención de Enfermedades de Estados Unidos la hicieron a comienzos de 2020, cuando el virus no se veía y el público no tenía una imagen de él. Muestra una esfera cubierta de espículas, con estas coloreadas de rojo para que destaquen del cuerpo gris. Se difundió de libre uso y apareció en noticias, campañas de salud e incontables artículos del mundo entero.",
+    "status": "Disponible en la biblioteca de imágenes de los CDC; reproducida en todo el mundo.",
+    "short": "Imagen CDC SARS-CoV-2"
+   },
+   "refs": [],
+   "short": "CDC SARS-CoV-2 image"
+  },
+  {
+   "id": "cosmopolitan-ai-cover-2022",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Cosmopolitan cover made with DALL·E 2",
+   "designers": [],
+   "maker": "Karen X. Cheng with OpenAI, for Cosmopolitan",
+   "year": 2022,
+   "date": "2022",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Digital image generated with DALL·E 2 from a written prompt",
+   "tech": [
+    "generative-image-models"
+   ],
+   "key": "A 2022 cover of Cosmopolitan magazine presented as the first made with artificial intelligence, generated with DALL·E 2 from a written description.",
+   "more": "The cover image was produced with DALL·E 2, an image model from OpenAI, which the artist Karen X. Cheng worked with by writing and refining descriptions until she obtained a result she chose. It shows a figure in a space suit walking toward the viewer in a desert landscape. The magazine presented it as a first, and it was discussed as a sign that the work of the designer was shifting from drawing the image to directing and selecting it.",
+   "status": "Published as a magazine cover; the image is kept in the magazine's archive and online.",
+   "es": {
+    "title": "Portada de Cosmopolitan hecha con DALL·E 2",
+    "date": "2022",
+    "materials": "Imagen digital generada con DALL·E 2 a partir de una instrucción escrita",
+    "key": "Una portada de 2022 de la revista Cosmopolitan presentada como la primera hecha con inteligencia artificial, generada con DALL·E 2 a partir de una descripción escrita.",
+    "more": "La imagen de portada se produjo con DALL·E 2, un modelo de imágenes de OpenAI, con el que la artista Karen X. Cheng trabajó escribiendo y afinando descripciones hasta obtener un resultado que eligió. Muestra una figura con traje espacial que camina hacia quien mira en un paisaje desértico. La revista la presentó como una primicia, y se discutió como señal de que el trabajo del diseñador pasaba de dibujar la imagen a dirigirla y seleccionarla.",
+    "status": "Publicada como portada de revista; la imagen se conserva en el archivo de la revista y en línea.",
+    "short": "Cosmopolitan IA"
+   },
+   "refs": [],
+   "short": "Cosmopolitan AI"
+  }
+ ]
+}

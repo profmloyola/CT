@@ -1,0 +1,256 @@
+[
+ {
+  "rtype": "designer",
+  "id": "oliviero-toscani",
+  "name": "Oliviero Toscani",
+  "born": 1942,
+  "died": 2025,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Fotógrafo de las campañas de Benetton que llevaron temas sociales a la publicidad.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La marca global se vende con valores y polémica, no con el producto"
+   }
+  ],
+  "duda": "Fecha de muerte (2025): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-branding",
+    "item": "oliviero-toscani",
+    "mecanismo": "La marca global se vende con valores y polémica, no con el producto"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "muriel-cooper",
+  "name": "Muriel Cooper",
+  "born": 1925,
+  "died": 1994,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñadora del MIT Press y del Visible Language Workshop; pionera de la tipografía en pantalla.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "La pantalla interactiva → tipografía en un espacio tridimensional y navegable"
+   }
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-personal-computer",
+    "item": "muriel-cooper",
+    "mecanismo": "La pantalla interactiva → tipografía en un espacio tridimensional y navegable"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "bill-moggridge",
+  "name": "Bill Moggridge",
+  "born": 1943,
+  "died": 2012,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Diseñador del primer portátil con pantalla abatible (GRiD Compass); acuñó «diseño de interacción»; cofundador de IDEO.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "El computador sale de la oficina → hay que diseñar la interacción además de la carcasa"
+   }
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "institutions": [
+   "inst-ideo"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-personal-computer",
+    "item": "bill-moggridge",
+    "mecanismo": "El computador sale de la oficina → hay que diseñar la interacción además de la carcasa"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "shiro-kuramata",
+  "name": "Shiro Kuramata",
+  "born": 1934,
+  "died": 1991,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador japonés de mobiliario poético, miembro de Memphis.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "memphis",
+    "mecanismo": "Participa en las colecciones de Memphis"
+   }
+  ],
+  "movements": [
+   "memphis"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "memphis"
+   ]
+  }
+ },
+ {
+  "rtype": "designer",
+  "id": "gunpei-yokoi",
+  "name": "Gunpei Yokoi",
+  "born": 1941,
+  "died": 1997,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de Nintendo (Game & Watch, Game Boy) y de su principio de «tecnología madura».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Componentes baratos y probados permiten consolas portátiles económicas"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-microelectronics",
+    "item": "gunpei-yokoi",
+    "mecanismo": "Componentes baratos y probados permiten consolas portátiles económicas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "naoto-fukasawa",
+  "name": "Naoto Fukasawa",
+  "born": 1956,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador japonés de Muji y del «Super Normal» con Jasper Morrison.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "inst-muji",
+    "mecanismo": "Diseñador principal de producto de Muji"
+   }
+  ],
+  "movements": [
+   "minimalism-fashion-product"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "institutions": [
+    "inst-muji"
+   ]
+  }
+ }
+]

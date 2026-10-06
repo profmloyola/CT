@@ -1,0 +1,147 @@
+[
+ [
+  "rem-koolhaas",
+  "ok",
+  [
+   "Kunsthal: Britannica la fecha en 1992 y el Pritzker en 1993; se mantiene 1992 de la ficha, a revisar.",
+   "Koolhaas figura sin muerte y 'b. 1944': consistente con las fuentes."
+  ]
+ ],
+ [
+  "philippe-starck",
+  "ok",
+  [
+   "Café Costes: Britannica lo fecha en 1982 y MoMA PS1 en 1984; la ficha dice solo 'años ochenta', sin conflicto.",
+   "Departamentos privados de Mitterrand: la fuente dice solo 'trabajo en el Elíseo'; el detalle 'privados' no está confirmado.",
+   "La última frase (firma del diseñador pesa tanto como la función) es interpretativa y no tiene fuente; se deja sin marca.",
+   "Fecha de muerte: no figura, coherente (vivo según fuentes)."
+  ]
+ ],
+ [
+  "zaha-hadid",
+  "ok",
+  [
+   "Fechas 1950–2016 confirmadas. El texto 'primera obra construida importante' se apoya en Britannica ('early signature work') y el Pritzker ('breakthrough'), de forma aproximada."
+  ]
+ ],
+ [
+  "herzog-de-meuron",
+  "ok",
+  [
+   "La ficha da 'est. 1978' y born 1950; confirmados. 'Basilea' como lugar de fundación: las fuentes dicen que ambos nacieron en Basilea y fundaron en 1978; no se verificó explícitamente la ciudad de fundación."
+  ]
+ ],
+ [
+  "hermanos-campana",
+  "ok",
+  [
+   "Vermelha: MoMA la fecha en 1993; la ficha dice 1998. No se cambia, a revisar.",
+   "Banquete: Architectural Record lo ubica en 2002; la ficha dice 2006. No se cambia, a revisar.",
+   "Fernando Campana murió el 16 de noviembre de 2022 (MoMA 1961–2022; Architectural Record); la ficha lo da por vivo ('died: null', 'both work in São Paulo', 'dates' sin muerte). Revisar fechas y tiempo verbal.",
+   "'Popular craft and gallery object' y 'une técnicas populares con diseño internacional' son síntesis interpretativas apoyadas parcialmente en las fuentes."
+  ]
+ ],
+ [
+  "david-carson",
+  "ok",
+  [
+   "Año de nacimiento: la ficha dice 1954; AIGA dice 1954 pero Britannica dice 8 sep 1955. No se cambió; revisar.",
+   "Quité «profesor de sociología» (las fuentes dicen solo profesor de secundaria) y «surf» de Beach Culture, y «escrito con Lewis Blackwell» (no confirmados en las fuentes abiertas).",
+   "Corpus Christi es lugar de nacimiento confirmado; Carson vive, sin fecha de muerte."
+  ]
+ ],
+ [
+  "zuzana-licko",
+  "ok",
+  [
+   "La ficha dice nacida «de niña» en la mudanza a EE. UU.; las fuentes dan 1968 (a los siete años), coherente. No se confirmó con fuente abierta que Emigre se fundara «en California» ni la «impresora matricial»; se conservó la frase suavizada a «impresora»."
+  ]
+ ],
+ [
+  "jonathan-ive",
+  "ok",
+  [
+   "«Ha reconocido la influencia de Dieter Rams» solo se apoya en Dezeen (revista especializada), que habla de influencia, no de un reconocimiento explícito del propio Ive.",
+   "Ive vive; sin fecha de muerte."
+  ]
+ ],
+ [
+  "alejandro-aravena",
+  "ok",
+  [
+   "Sin incidencias; Aravena vive."
+  ]
+ ],
+ [
+  "neoclassicism",
+  "ok",
+  [
+   "Quité de los rasgos 'urnas, guirnaldas, palmetas' (ninguna fuente abierta lo confirma) y cambié 'muebles esbeltos' por 'interiores y muebles ligeros y elegantes' (Britannica sobre Adam).",
+   "Suavicé 'a mediados del siglo XVIII' a 'en el siglo XVIII' porque las fuentes no dan fechas de las excavaciones; Winckelmann se fecha en 1755 (Met).",
+   "'Ilustración' y 'rococó' sólo los sustenta Britannica (arquitectura neoclásica), no el Met."
+  ]
+ ],
+ [
+  "beaux-arts",
+  "ok",
+  [
+   "Quité 'bibliotecas, estaciones' y 'imagen oficial del Segundo Imperio' (no confirmados); uso 'arquitectura cívica' y 'emblema del gusto del Segundo Imperio' (Britannica).",
+   "'Los modernos lo rechazaron por académico' no está en las fuentes; lo reemplacé por la pérdida de influencia hacia 1935 frente a Bauhaus/funcionalismo (Britannica).",
+   "El ficha dice 'primer estadounidense' sólo para Hunt: Britannica y MoMA concuerdan (MoMA fecha su ingreso en 1846)."
+  ]
+ ],
+ [
+  "gothic-revival",
+  "ok",
+  [
+   "Quité 'hizo del gótico un estilo nacional' (ninguna fuente abierta lo confirma) y 'oficio medieval como modelo frente a la máquina': Bard Graduate Center muestra que Pugin aceptaba la industria; cambié ese rasgo.",
+   "'Ruskin y más tarde William Morris retomaron' lo suavicé: Britannica confirma a Ruskin; V&A dice que Pugin influyó en Arts and Crafts sin citar a Morris.",
+   "Pugin diseñó interiores desde 1844 (Parlamento), dato añadido de la fuente; no cambia fechas de la ficha."
+  ]
+ ],
+ [
+  "arts-and-crafts",
+  "ok",
+  [
+   "Cambié 'vitrales, muebles y papel mural' por 'muebles, textiles y metalistería' (Britannica); vitrales y papel mural no se confirmaron en fuentes abiertas.",
+   "'Philip Webb diseñó la Casa Roja para Morris' lo suavicé a 'trabajó con Morris' (National Trust: colaboraron). 'Moldeó escuelas de diseño posteriores' se reemplazó por 'se extendió internacionalmente en la década de 1890' (Britannica) y 'cuestión política' por 'social'.",
+   "Dato de ficha: start 1861 es la firma de Morris; el origen intelectual (Ruskin 1853, Red House 1859-60) es anterior, no se cambia."
+  ]
+ ],
+ [
+  "illustrated-poster",
+  "ok",
+  [
+   "La ficha dice 'desde la década de 1880' y start 1880; las fuentes sitúan los primeros carteles en color de Chéret en 1866, por lo que lo escribí así sin cambiar start/end.",
+   "La ley de 1881 'facilitó el pegado de afiches' no se confirma (Orsay solo dice que después los carteles se usaron políticamente); lo suavicé.",
+   "Quité que Bradley 'adoptó el enfoque de los Beggarstaffs': ninguna fuente lo sostiene; solo que ambos trabajaron en carteles en los 1890."
+  ]
+ ],
+ [
+  "chicago-school",
+  "ok",
+  [
+   "La ficha decía que la reconstrucción 'necesitó edificios altos e incombustibles' y que 'acero y ascensor los hicieron posibles'; el Chicago Architecture Center dice que el incendio no generó rascacielos de inmediato (llegaron 10-15 años después); lo reescribí.",
+   "'Louis Sullivan, principal teórico' lo suavicé a 'uno de los principales diseñadores'; 'modelo para edificios altos en otros lugares' lo cambié por la cita de Britannica sobre 'cuna de la arquitectura moderna'.",
+   "Britannica fecha el Home Insurance Building en 1884-85; la ficha dice 1885. 'Fachadas que muestran la estructura' queda sin fuente."
+  ]
+ ],
+ [
+  "art-nouveau",
+  "ok",
+  [
+   "La ficha dice 'modernisme en Cataluña' y 'Modern Style en Gran Bretaña'; las fuentes hablan de 'Modernista' en España y no confirman 'Modern Style'. Quité lo segundo y cambié Cataluña por España, sin tocar countries/start/end.",
+   "'A comienzos de la década de 1890' lo suavicé a 'en la década de 1890' (Britannica).",
+   "'Diseñar un interior completo, de la fachada al tirador' y 'técnicas artesanales e industriales mezcladas' no se confirmaron; los sustituí por lo que dicen V&A y Britannica."
+  ]
+ ],
+ [
+  "vienna-secession",
+  "ok",
+  [
+   "Quité 'exposiciones diseñadas como un todo', 'patrón plano con línea fina' y 'las artes aplicadas recibieron el mismo rango que la pintura' como afirmaciones sin fuente; reformulé con lo confirmado (edificio propio, 23 exposiciones, estética ornamental). 'Oficio y diseño junto a la pintura' queda sin marca.",
+   "'Geométrico y más sobrio' lo suavicé: Britannica describe la Secesión como ornamental; la geometría cuadrada se confirma sobre la Wiener Werkstätte.",
+   "Hoffmann y Moser como 'miembros': Britannica sólo dice que participaron; el cambio mantiene la fecha de 1903 de la Werkstätte."
+  ]
+ ]
+]

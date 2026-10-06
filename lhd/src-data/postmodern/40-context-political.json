@@ -1,0 +1,173 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-neoliberalism",
+   "track": "political",
+   "start": 1975,
+   "end": null,
+   "cont": true,
+   "date": "1975 →",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "CL"
+   ],
+   "name": "Neoliberalism and deregulation",
+   "short": "Neoliberalism",
+   "key": "A turn in economic policy towards free markets, privatisation and deregulation, which in the 1970s and 1980s reached Chile, Britain and the United States.",
+   "happened": "In Chile the military government adopted free-market policies from the mid-1970s, advised by economists trained at the University of Chicago. Margaret Thatcher became British prime minister in 1979 and Ronald Reagan US president in 1981, and both promoted privatisation and the deregulation of markets.",
+   "effect": "Public bodies and state firms were increasingly asked to behave like companies, and design was hired to give them an identity, a brand and a market position. Competition between private firms made image a way of standing out, which favoured identity work, advertising and packaging over the public-service ideals of the postwar decades.",
+   "es": {
+    "name": "Neoliberalismo y desregulación",
+    "short": "Neoliberalismo",
+    "date": "1975 →",
+    "key": "Un giro de la política económica hacia el libre mercado, la privatización y la desregulación, que en las décadas de 1970 y 1980 llegó a Chile, Gran Bretaña y Estados Unidos.",
+    "happened": "En Chile el gobierno militar adoptó desde mediados de los años setenta políticas de libre mercado, asesorado por economistas formados en la Universidad de Chicago. Margaret Thatcher fue primera ministra británica desde 1979 y Ronald Reagan presidente de Estados Unidos desde 1981, y ambos impulsaron la privatización y la desregulación de los mercados.",
+    "effect": "Se pidió cada vez más a los organismos públicos y a las empresas estatales que actuaran como empresas, y se contrató al diseño para darles identidad, marca y posición en el mercado. La competencia entre firmas privadas hizo de la imagen una forma de destacar, lo que favoreció el trabajo de identidad, la publicidad y el envase por sobre los ideales de servicio público de las décadas de posguerra."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-chile-dictatorship",
+   "track": "political",
+   "start": 1975,
+   "end": 1990,
+   "date": "1973–1990",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Military dictatorship in Chile",
+   "short": "Chile dictatorship",
+   "key": "The military regime led by Augusto Pinochet, which ruled Chile from the coup of 11 September 1973 until March 1990.",
+   "happened": "A coup on 11 September 1973 overthrew President Salvador Allende, and a military junta led by General Augusto Pinochet ruled until March 1990. The regime banned parties, controlled the press and carried out systematic repression, while from the mid-1970s it opened the economy to the market.",
+   "effect": "The state took over the image-making of the Unidad Popular years: the collective, political graphics of the early 1970s were silenced, and publishing, schools and workshops lost people and funds. Opposition design survived in clandestine posters, banners and church-sheltered publications, and the end of the regime was fought partly through graphic communication.",
+   "es": {
+    "name": "Dictadura militar en Chile",
+    "short": "Dictadura en Chile",
+    "date": "1973–1990",
+    "key": "El régimen militar encabezado por Augusto Pinochet, que gobernó Chile desde el golpe del 11 de septiembre de 1973 hasta marzo de 1990.",
+    "happened": "Un golpe el 11 de septiembre de 1973 derrocó al presidente Salvador Allende, y una junta militar encabezada por el general Augusto Pinochet gobernó hasta marzo de 1990. El régimen prohibió los partidos, controló la prensa y ejerció una represión sistemática, mientras que desde mediados de los años setenta abrió la economía al mercado.",
+    "effect": "El Estado se apropió de la producción de imágenes de los años de la Unidad Popular: se silenció la gráfica colectiva y política de comienzos de los setenta, y la edición, las escuelas y los talleres perdieron gente y recursos. El diseño opositor sobrevivió en afiches, lienzos y publicaciones clandestinas o amparadas por la Iglesia, y el fin del régimen se disputó en parte mediante la comunicación gráfica."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-plebiscite-1988",
+   "track": "political",
+   "start": 1988,
+   "end": 1988,
+   "date": "1988",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Chilean plebiscite of 1988",
+   "short": "Plebiscite 1988",
+   "key": "The vote of 5 October 1988 in which Chileans rejected Pinochet’s continuation in power, after a television campaign that used advertising methods.",
+   "happened": "On 5 October 1988 Chileans voted in a plebiscite on whether General Pinochet should stay in power for eight more years. The NO option won, which opened the way to presidential elections in 1989. Both camps were given a daily television slot of fifteen minutes in the weeks before the vote.",
+   "effect": "The opposition had a short, free slot on television and chose to answer with a message of joy and the future rather than denunciation alone. Its campaign used the tools of advertising, with a rainbow logo, a jingle and short spots, and showed that political persuasion could be designed like a consumer campaign.",
+   "es": {
+    "name": "Plebiscito chileno de 1988",
+    "short": "Plebiscito 1988",
+    "date": "1988",
+    "key": "La votación del 5 de octubre de 1988 en que los chilenos rechazaron la continuidad de Pinochet, tras una campaña televisiva que usó métodos publicitarios.",
+    "happened": "El 5 de octubre de 1988 los chilenos votaron en un plebiscito sobre si el general Pinochet debía seguir en el poder ocho años más. Ganó la opción NO, lo que abrió el camino a las elecciones presidenciales de 1989. Ambos bandos tuvieron en las semanas previas un espacio diario de televisión de quince minutos.",
+    "effect": "La oposición dispuso de un espacio breve y gratuito en televisión y eligió responder con un mensaje de alegría y de futuro, y no solo de denuncia. Su campaña usó las herramientas de la publicidad, con un logo de arcoíris, un jingle y spots cortos, y mostró que la persuasión política podía diseñarse como una campaña de consumo."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-obama-2008",
+   "track": "political",
+   "start": 2008,
+   "end": 2008,
+   "date": "2008",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Obama presidential campaign",
+   "short": "Obama 2008",
+   "key": "The 2008 campaign of Barack Obama, which won the US presidency in November 2008 and made wide use of the internet and a consistent visual identity.",
+   "happened": "Barack Obama, a senator from Illinois, won the Democratic nomination in 2008 and was elected US president in November of that year. His campaign raised money and organised volunteers heavily online, and used a consistent logo and typography across its materials.",
+   "effect": "A campaign was now designed like a brand, with one logo, one typeface family and a look that supporters could reproduce themselves. The internet let independent artists make and spread images in support, so that campaign graphics were no longer controlled only from the centre.",
+   "es": {
+    "name": "Campaña presidencial de Obama",
+    "short": "Obama 2008",
+    "date": "2008",
+    "key": "La campaña de Barack Obama de 2008, que ganó la presidencia de Estados Unidos en noviembre de ese año y usó mucho internet y una identidad visual coherente.",
+    "happened": "Barack Obama, senador por Illinois, ganó la nominación demócrata en 2008 y fue elegido presidente de Estados Unidos en noviembre de ese año. Su campaña reunió fondos y organizó voluntarios en gran medida por internet, y usó un logo y una tipografía coherentes en todos sus materiales.",
+    "effect": "Una campaña pasó a diseñarse como una marca, con un solo logo, una familia tipográfica y una apariencia que los partidarios podían reproducir por sí mismos. Internet permitió que artistas independientes hicieran y difundieran imágenes de apoyo, de modo que la gráfica de campaña ya no se controlaba solo desde el centro."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-spain-transition-eu",
+   "track": "political",
+   "start": 1975,
+   "end": 1992,
+   "cont": false,
+   "date": "1975–1992",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "name": "Spain's democratic transition and European integration",
+   "short": "Spanish transition",
+   "key": "After Franco’s death in 1975 Spain became a democracy with regional governments and joined the European Community, and public commissions became a way to show the new country.",
+   "happened": "Franco died in 1975 and Spain adopted a democratic constitution in 1978, which created autonomous regions with their own governments. Spain joined the European Community in 1986, and in 1992 it hosted the Barcelona Olympic Games and the Seville Expo.",
+   "effect": "Democratic institutions at national, regional and city level commissioned museums, urban projects and infrastructure as public statements of a modern, European Spain. The 1992 events gave cities a deadline and funds for ambitious works, and regional governments such as the Basque one used architecture to assert their own identity.",
+   "es": {
+    "name": "Transición española e integración europea",
+    "short": "Transición española",
+    "date": "1975–1992",
+    "key": "Tras la muerte de Franco en 1975 España se hizo una democracia con gobiernos regionales e ingresó a la Comunidad Europea, y los encargos públicos se volvieron una forma de mostrar el nuevo país.",
+    "happened": "Franco murió en 1975 y España adoptó una constitución democrática en 1978, que creó comunidades autónomas con gobiernos propios. España ingresó a la Comunidad Europea en 1986 y en 1992 fue sede de los Juegos Olímpicos de Barcelona y de la Expo de Sevilla.",
+    "effect": "Las instituciones democráticas de nivel nacional, regional y municipal encargaron museos, proyectos urbanos e infraestructuras como declaraciones públicas de una España moderna y europea. Los eventos de 1992 dieron a las ciudades un plazo y fondos para obras ambiciosas, y gobiernos regionales como el vasco usaron la arquitectura para afirmar su propia identidad."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-german-reunification",
+   "track": "political",
+   "start": 1989,
+   "end": 2000,
+   "cont": false,
+   "date": "1989–2000",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "German reunification and the new Berlin",
+   "short": "Reunification",
+   "key": "After the fall of the Berlin Wall in 1989 and reunification in 1990, Berlin became the capital again and its rebuilding became a way to define the new Germany.",
+   "happened": "The Berlin Wall fell in November 1989 and Germany was reunified in October 1990. In 1991 the Bundestag voted to move the government from Bonn to Berlin, and the city, long divided, was rebuilt with new government buildings, museums and memorials.",
+   "effect": "Buildings in Berlin had to speak about the nation’s past and its democracy: the Reichstag was remodelled to house the Parliament with a glass dome open to the public, and new museums and memorials made the memory of the Holocaust part of the capital’s identity. Architecture became a public statement about how the reunified country saw itself.",
+   "es": {
+    "name": "Reunificación alemana y el nuevo Berlín",
+    "short": "Reunificación",
+    "date": "1989–2000",
+    "key": "Tras la caída del Muro de Berlín en 1989 y la reunificación de 1990, Berlín volvió a ser capital y su reconstrucción se volvió una forma de definir la nueva Alemania.",
+    "happened": "El Muro de Berlín cayó en noviembre de 1989 y Alemania se reunificó en octubre de 1990. En 1991 el Bundestag votó trasladar el gobierno de Bonn a Berlín, y la ciudad, dividida por décadas, se reconstruyó con nuevos edificios de gobierno, museos y memoriales.",
+    "effect": "Los edificios de Berlín debían hablar del pasado de la nación y de su democracia: el Reichstag se remodeló para alojar el Parlamento con una cúpula de vidrio abierta al público, y nuevos museos y memoriales incorporaron la memoria del Holocausto a la identidad de la capital. La arquitectura se volvió una declaración pública sobre cómo se veía el país reunificado."
+   },
+   "refs": []
+  }
+ ]
+}

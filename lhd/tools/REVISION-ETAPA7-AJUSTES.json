@@ -1,0 +1,2053 @@
+{
+ "nota": "Ajustes de la revisión editorial externa (etapa 7, punto 78). Solo se aplican tras el V4 de Mauricio. Cada lista dice qué cambiar, en qué elemento y por qué. Los ids nuevos están en REVISION-ETAPA7.json.",
+ "niveles_obras_sube": [
+  {
+   "id": "bodoni-manuale-1788",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Bodoni y el tipo «moderno» son canon tipográfico; corregir además el año a 1818 (ver correcciones).",
+   "requiere": "giambattista-bodoni sube a ★"
+  },
+  {
+   "id": "brummell-tailoring-1810",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Origen del traje masculino moderno; capítulo fijo de la historia de la moda.",
+   "requiere": "beau-brummell sube a ★"
+  },
+  {
+   "id": "ironbridge-1779",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Primer gran puente de hierro fundido: emblema material de la Revolución Industrial."
+  },
+  {
+   "id": "moulin-rouge-la-goulue",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Uno de los carteles más citados de la historia; Lautrec es tan canónico como Chéret y Mucha.",
+   "requiere": "toulouse-lautrec sube a ★"
+  },
+  {
+   "id": "behrens-aeg-logo",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Primer programa de identidad corporativa; se enseña como origen de la disciplina."
+  },
+  {
+   "id": "dresser-teapot",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Dresser como «primer diseñador industrial»; la tetera es su obra emblemática.",
+   "requiere": "christopher-dresser sube a ★"
+  },
+  {
+   "id": "worth-haute-couture",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Fundación del sistema de la alta costura.",
+   "requiere": "charles-frederick-worth sube a ★"
+  },
+  {
+   "id": "poiret-high-waist",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Abandono del corsé y nueva silueta; hito de toda historia de la moda.",
+   "requiere": "paul-poiret sube a ★"
+  },
+  {
+   "id": "fagus-factory",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Primer muro cortina moderno; más canónica para la arquitectura moderna que varias ★ actuales."
+  },
+  {
+   "id": "looshaus",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra construida de Loos, cuyo texto «Ornamento y delito» es ★.",
+   "requiere": "adolf-loos sube a ★"
+  },
+  {
+   "id": "normandie-poster",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Cassandre es el cartelista del art déco; hoy el art déco gráfico no tiene ninguna ★.",
+   "requiere": "cassandre sube a ★"
+  },
+  {
+   "id": "moka-express",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Arquetipo del objeto doméstico italiano, presente en todo manual."
+  },
+  {
+   "id": "coca-cola-bottle",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Envase reconocible al tacto; caso clásico de diseño de envase y marca."
+  },
+  {
+   "id": "fallingwater-1937",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Una de las casas más famosas del siglo XX; no puede ser Completo."
+  },
+  {
+   "id": "chrysler-building",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Edificio emblema del art déco."
+  },
+  {
+   "id": "icaic-ospaaal-posters",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "El cartel cubano es capítulo obligado del cartel político y de la gráfica latinoamericana."
+  },
+  {
+   "id": "eames-lounge",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Bajó a Normal en v35 solo por falta de un segundo enlace (C4); por importancia es ★. Tratar como excepción C4c."
+  },
+  {
+   "id": "citroen-ds",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Objeto analizado por Barthes; icono del diseño automotriz."
+  },
+  {
+   "id": "egg-chair",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra emblemática de Jacobsen y del SAS Royal Hotel.",
+   "requiere": "arne-jacobsen sube a ★"
+  },
+  {
+   "id": "balenciaga-sack-dress",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Balenciaga es el gran modista de la posguerra junto a Dior.",
+   "requiere": "balenciaga sube a ★"
+  },
+  {
+   "id": "seagram-building",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Modelo de la torre corporativa moderna."
+  },
+  {
+   "id": "ronchamp-chapel",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Ruptura de Le Corbusier con el racionalismo; obra más citada de la arquitectura de posguerra."
+  },
+  {
+   "id": "pruitt-igoe-1954",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Su demolición (1972) es el relato canónico de la «muerte» de la arquitectura moderna (Jencks)."
+  },
+  {
+   "id": "casa-barragan-1948",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Barragán (Pritzker 1980) es figura imprescindible de la arquitectura latinoamericana.",
+   "requiere": "luis-barragan sube a ★"
+  },
+  {
+   "id": "salk-institute-1965",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Kahn es figura mayor de la arquitectura de posguerra.",
+   "requiere": "louis-kahn sube a ★"
+  },
+  {
+   "id": "e1027-house",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Eileen Gray es hoy canónica en arquitectura y mobiliario modernos.",
+   "requiere": "eileen-gray sube a ★"
+  },
+  {
+   "id": "carlton-bookcase-1981",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Icono de Memphis; bajó en v37 solo por la regla C4. Memphis (★) no tiene obra ★.",
+   "requiere": "ettore-sottsass sube a ★"
+  },
+  {
+   "id": "westwood-punk-1976",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Moda punk: capítulo obligado; bajó en v37 solo por la regla C4.",
+   "requiere": "vivienne-westwood sube a ★"
+  },
+  {
+   "id": "air-jordan-1-1985",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Origen de la cultura sneaker y del streetwear como industria."
+  },
+  {
+   "id": "portland-building-1982",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Edificio paradigmático de la arquitectura posmoderna; bajó en v37 solo por la regla C4."
+  },
+  {
+   "id": "vitra-fire-station-1993",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Primera obra construida de Hadid, primera mujer con el Pritzker.",
+   "requiere": "zaha-hadid sube a ★"
+  },
+  {
+   "id": "church-of-the-light-1989",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra emblemática de Ando y del minimalismo arquitectónico."
+  },
+  {
+   "id": "seattle-library-2004",
+   "tipo": "work",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra de Koolhaas más usada en la enseñanza (diagrama programático); reemplaza a CCTV como ★.",
+   "requiere": "rem-koolhaas sube a ★"
+  }
+ ],
+ "niveles_obras_baja": [
+  {
+   "id": "la-aurora-de-chile-1812",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Relevante para la historia chilena del impreso, no para el canon del diseño (manual, sección 3: «cualquier historia general»)."
+  },
+  {
+   "id": "thonet-boppard-chair-1836",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Ensayo temprano; la silla n.º 14 ya es ★. Antes, ligar la n.º 14 a michael-thonet (ver correcciones)."
+  },
+  {
+   "id": "central-park-1858",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Paisajismo urbano: Completo en un curso de historia del diseño."
+  },
+  {
+   "id": "home-insurance-building-1885",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Su condición de «primer rascacielos» es discutida; el Wainwright (nuevo, ★) lo reemplaza como obra canónica."
+  },
+  {
+   "id": "casa-batllo",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Gaudí mantiene una ★ (Sagrada Família); evita duplicar."
+  },
+  {
+   "id": "underground-roundel",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Redundante con la tipografía Johnston (★) y el mapa de Beck (★)."
+  },
+  {
+   "id": "we-can-do-it-1943",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Su fama es retrospectiva (años ochenta); en su época fue un cartel interno de empresa."
+  },
+  {
+   "id": "utility-furniture",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Importante en la historia británica, no en el canon general."
+  },
+  {
+   "id": "schott-perfecto-1928",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Prenda de culto, pero no hito de la historia de la moda del período."
+  },
+  {
+   "id": "peace-symbol-1958",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Signo universal, pero periférico en la historia del diseño gráfico."
+  },
+  {
+   "id": "dot-symbol-signs-1974",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "La genealogía del pictograma ya tiene Isotype, México 68 y Múnich 72 como ★."
+  },
+  {
+   "id": "givenchy-breakfast-1961",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Imagen de cine más que hito de diseño; Balenciaga sube en su lugar."
+  },
+  {
+   "id": "frutiger-typeface-1975",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Frutiger conserva Univers (★); evita dos ★ del mismo autor en tipografía."
+  },
+  {
+   "id": "ipod-2001",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Apple quedaría con 4 productos ★ más la institución ★; se conservan Macintosh, iMac e iPhone."
+  },
+  {
+   "id": "toyota-prius-1997",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Hito técnico y ambiental más que de diseño."
+  },
+  {
+   "id": "seaside-florida-1981",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "El Nuevo Urbanismo baja a Completo (ver movimientos)."
+  },
+  {
+   "id": "barcelona-olympic-village-1992",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Caso de urbanismo de gran interés, pero no del canon general."
+  },
+  {
+   "id": "burj-khalifa-2010",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Récord de altura más que hito de diseño."
+  },
+  {
+   "id": "paper-church-kobe-1995",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "La arquitectura humanitaria ya tiene ★ (Gando, Quinta Monroy); Ban queda con dos obras Completo."
+  },
+  {
+   "id": "cctv-headquarters-2012",
+   "tipo": "work",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Koolhaas pasa a tener su ★ en la Biblioteca de Seattle."
+  }
+ ],
+ "niveles_disenadores_sube": [
+  {
+   "id": "giambattista-bodoni",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Canon tipográfico; obra ★ (Manuale de 1818)."
+  },
+  {
+   "id": "beau-brummell",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Origen del traje moderno; obra ★."
+  },
+  {
+   "id": "toulouse-lautrec",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Cartelista canónico; obra ★."
+  },
+  {
+   "id": "christopher-dresser",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Primer diseñador industrial independiente; obra ★."
+  },
+  {
+   "id": "charles-frederick-worth",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Fundador de la alta costura; obra ★."
+  },
+  {
+   "id": "paul-poiret",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Modista de la ruptura con el corsé; obra ★."
+  },
+  {
+   "id": "louis-sullivan",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Su teoría ya es ★; obra ★ nueva (Wainwright)."
+  },
+  {
+   "id": "adolf-loos",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Su teoría ya es ★; obra ★ (Looshaus)."
+  },
+  {
+   "id": "cassandre",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Cartelista del art déco; obra ★ (Normandie)."
+  },
+  {
+   "id": "eileen-gray",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra ★ (E-1027)."
+  },
+  {
+   "id": "perriand",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Coautora del LC2 (★); coherencia con Lilly Reich (★)."
+  },
+  {
+   "id": "muller-brockmann",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Rostro del estilo suizo; obra ★ (Beethoven)."
+  },
+  {
+   "id": "saul-bass",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra ★ (El hombre del brazo de oro)."
+  },
+  {
+   "id": "arne-jacobsen",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra ★ (Egg)."
+  },
+  {
+   "id": "oscar-niemeyer",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "El arquitecto latinoamericano más conocido; obra ★ (Brasília)."
+  },
+  {
+   "id": "luis-barragan",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Pritzker 1980; obra ★."
+  },
+  {
+   "id": "louis-kahn",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra ★ (Salk)."
+  },
+  {
+   "id": "philip-johnson",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Estilo internacional (libro ★ nuevo) y posmodernismo; obra ★ (AT&T)."
+  },
+  {
+   "id": "ettore-sottsass",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Fundador de Memphis; obra ★ (Carlton)."
+  },
+  {
+   "id": "vivienne-westwood",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra ★ (ropa punk)."
+  },
+  {
+   "id": "zaha-hadid",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Primera mujer con el Pritzker; obra ★ (Vitra)."
+  },
+  {
+   "id": "rem-koolhaas",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Figura central de la arquitectura desde 1978; obra ★ (Seattle)."
+  },
+  {
+   "id": "balenciaga",
+   "tipo": "designer",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Obra ★ (vestido saco)."
+  }
+ ],
+ "niveles_disenadores_baja": [
+  {
+   "id": "max-miedinger",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Helvetica sigue ★; su autor no es un nombre que todo estudiante deba retener."
+  },
+  {
+   "id": "hans-gugelot",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "El SK 4 sigue ★ con Rams (★)."
+  },
+  {
+   "id": "dascanio",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "La Vespa sigue ★."
+  },
+  {
+   "id": "maija-isola",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Unikko sigue ★; Marimekko explica el caso."
+  },
+  {
+   "id": "ginzburg",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Narkomfin sigue ★."
+  },
+  {
+   "id": "equipo-campana-del-no",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "La franja del NO sigue ★ como hito local; el colectivo no requiere ★."
+  },
+  {
+   "id": "arpilleristas",
+   "tipo": "designer",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Las arpilleras siguen ★; el colectivo no requiere ★."
+  }
+ ],
+ "niveles_movimientos": [
+  {
+   "id": "futurism-typography",
+   "tipo": "movement",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Ampliar a «Futurismo» (ver fusiones): movimiento canónico, hoy reducido a tipografía."
+  },
+  {
+   "id": "streamline-moderne",
+   "tipo": "movement",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Capítulo central del diseño industrial estadounidense."
+  },
+  {
+   "id": "corporate-identity-design",
+   "tipo": "movement",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Unidad obligatoria de la gráfica de posguerra."
+  },
+  {
+   "id": "radical-design",
+   "tipo": "movement",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Superstudio ya es ★; el movimiento debe serlo."
+  },
+  {
+   "id": "sustainable-design",
+   "tipo": "movement",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Unidad obligatoria de un curso actual; Papanek ya es ★."
+  },
+  {
+   "id": "brutalism-metabolism",
+   "tipo": "movement",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Pasa a llamarse «Brutalismo» (ver fusiones); el metabolismo queda aparte como Completo."
+  },
+  {
+   "id": "new-urbanism",
+   "tipo": "movement",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Planificación urbana más que diseño; una sola obra."
+  },
+  {
+   "id": "parametricism",
+   "tipo": "movement",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Debate abierto y una sola obra; Completo."
+  },
+  {
+   "id": "green-architecture",
+   "tipo": "movement",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Queda subsumido en el diseño sostenible (★)."
+  },
+  {
+   "id": "good-design",
+   "tipo": "movement",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Programa del MoMA; el lenguaje formal se cubre con mid-century modern y el diseño escandinavo."
+  },
+  {
+   "id": "empire-regency",
+   "tipo": "movement",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Estilo de corte; Completo frente al neoclasicismo (★)."
+  },
+  {
+   "id": "historicism",
+   "tipo": "movement",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Pasa la ★ al neogótico (nuevo), que es la unidad que se enseña."
+  }
+ ],
+ "niveles_instituciones": [
+  {
+   "id": "inst-moma",
+   "tipo": "institution",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Machine Art (1934), International Style (1932), Good Design, Deconstructivist Architecture (1988): actor central del canon."
+  },
+  {
+   "id": "inst-olivetti",
+   "tipo": "institution",
+   "de": "normal",
+   "a": "essential",
+   "motivo": "Modelo de cultura de empresa y diseño total (producto, gráfica, arquitectura)."
+  },
+  {
+   "id": "inst-elemental",
+   "tipo": "institution",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Redundante con Aravena (★) y Quinta Monroy (★)."
+  },
+  {
+   "id": "inst-emigre",
+   "tipo": "institution",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Redundante con la revista Emigre (★)."
+  },
+  {
+   "id": "inst-memphis-group",
+   "tipo": "institution",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Redundante con el movimiento Memphis (★)."
+  }
+ ],
+ "niveles_teoria": [
+  {
+   "id": "th-ruskin-seven-lamps-1849",
+   "tipo": "theory",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "Ruskin conserva «The Nature of Gothic» (★); entra Morris (★)."
+  },
+  {
+   "id": "th-first-things-first-2000",
+   "tipo": "theory",
+   "de": "essential",
+   "a": "normal",
+   "motivo": "La ★ corresponde al manifiesto de 1964; la reedición es Completo."
+  }
+ ],
+ "fusiones_y_renombres": [
+  {
+   "accion": "fusionar",
+   "ids": [
+    "social-architecture",
+    "participatory-social-architecture"
+   ],
+   "queda": "participatory-social-architecture",
+   "motivo": "Dos movimientos con el mismo objeto; social-architecture no tiene obras."
+  },
+  {
+   "accion": "retirar",
+   "id": "iconic-architecture",
+   "motivo": "Duplica el hecho de contexto ctx-star-architecture («efecto Bilbao»). Es un fenómeno de contexto, no un lenguaje; sus obras quedan enlazadas al contexto."
+  },
+  {
+   "accion": "retirar",
+   "id": "droog-design",
+   "motivo": "Duplica la institución inst-droog (mismo nombre y fechas). Pasar la obra rag-chair-1991 a links.works de inst-droog."
+  },
+  {
+   "accion": "retirar_o_unificar",
+   "ids": [
+    "inst-archigram",
+    "archigram"
+   ],
+   "queda": "archigram",
+   "motivo": "Archigram existe como institución y como diseñador colectivo; dejar solo el diseñador (como Superstudio y Archizoom) y pasar los enlaces."
+  },
+  {
+   "accion": "dividir",
+   "id": "brutalism-metabolism",
+   "queda": "brutalism-metabolism (renombrado «Brutalism / Brutalismo») + metabolism (nuevo)",
+   "motivo": "Son dos corrientes distintas (Europa y Brasil / Japón). Quitar a Lina Bo Bardi como miembro (arrastra Casa de Vidro y Bowl Chair) y poner MASP y SESC Pompéia como obras del movimiento."
+  },
+  {
+   "accion": "ampliar",
+   "id": "futurism-typography",
+   "nuevo_nombre": "Futurism / Futurismo",
+   "start": 1909,
+   "motivo": "El futurismo abarca gráfica, arquitectura (Sant’Elia), moda (TuTa) y objeto (Depero). Con start 1909 el registro pasa a src-data/reform/."
+  },
+  {
+   "accion": "ampliar",
+   "id": "punk-fashion",
+   "nuevo_nombre": "Punk",
+   "disciplinas": [
+    "fashion",
+    "graphic"
+   ],
+   "motivo": "El punk es tanto gráfica (Reid, fanzines) como moda."
+  },
+  {
+   "accion": "renombrar",
+   "id": "ctx-gothic-revival",
+   "nuevo_nombre": "Romantic medievalism and religious revival / Medievalismo romántico y renovación religiosa",
+   "motivo": "Evitar que el contexto y el nuevo movimiento gothic-revival se llamen igual."
+  },
+  {
+   "accion": "fechas",
+   "id": "international-style",
+   "start": 1925,
+   "motivo": "El libro de 1932 trata la arquitectura «desde 1922»; con start 1932 quedan fuera Savoye, Van Nelle, Tugendhat y Barcelona. Mover el registro a la carpeta que corresponda si cambia el tramo."
+  },
+  {
+   "accion": "fechas",
+   "id": "postmodern-architecture",
+   "start": 1964,
+   "motivo": "Incluir la Casa Vanna Venturi (1964, ★) como obra fundadora."
+  },
+  {
+   "accion": "fechas",
+   "id": "landscape-urbanism",
+   "start": 1982,
+   "motivo": "Incluir el concurso del Parc de la Villette (1982–1987), obra fundadora."
+  },
+  {
+   "accion": "fusionar",
+   "ids": [
+    "steam-bentwood",
+    "bentwood"
+   ],
+   "queda": "steam-bentwood",
+   "motivo": "Dos productivos con el mismo nombre («Steam-bent wood»); repuntar los `tech`."
+  },
+  {
+   "accion": "renombrar",
+   "id": "prestressed-concrete",
+   "nuevo_nombre": "Prestressed concrete and thin shells / Hormigón pretensado y cáscaras delgadas",
+   "motivo": "Hoy se llama «Reinforced and prestressed concrete» y se confunde con reinforced-concrete (1890)."
+  },
+  {
+   "accion": "mantener",
+   "id": "critical-speculative-design",
+   "motivo": "Movimiento sin obras. Decisión tras el V4: se mantiene y se le liga la teoría th-speculative-everything (links.movements de la teoría); su obra (Dunne & Raby, «Technological Dreams Series: No. 1, Robots», 2007) queda para la Parte III."
+  },
+  {
+   "accion": "reclasificar_pista",
+   "ids": [
+    "ctx-great-exhibition",
+    "ctx-paris-1900"
+   ],
+   "track": "cultural",
+   "motivo": "Las exposiciones universales están como «político»; las de 1893, 1925 y 1937 están como «cultural». Unificar."
+  }
+ ],
+ "pertenencia_movimientos": {
+  "_como": "Agregar `movements` a obras o diseñadores, o `links.works` / `links.designers` al movimiento. Hoy 30 movimientos tienen 0 o 1 obra visible en su ficha.",
+  "beaux-arts": [
+   "opera-garnier-1875",
+   "museo-bellas-artes-santiago-1910",
+   "plan-of-chicago-1909",
+   "charles-garnier",
+   "emile-jequier",
+   "daniel-burnham"
+  ],
+  "historicism": [
+   "opera-garnier-1875",
+   "royal-pavilion-1823"
+  ],
+  "gothic-revival": [
+   "westminster-1840",
+   "strawberry-hill-1750",
+   "pugin"
+  ],
+  "revolutionary-architecture": [
+   "saline-royale-1779",
+   "claude-nicolas-ledoux",
+   "etienne-louis-boullee"
+  ],
+  "catalan-modernisme": [
+   "sagrada-familia-1882",
+   "casa-batllo",
+   "antoni-gaudi"
+  ],
+  "chicago-school": [
+   "wainwright-building-1891",
+   "louis-sullivan",
+   "william-le-baron-jenney"
+  ],
+  "illustrated-poster": [
+   "tournee-chat-noir-1896",
+   "bradley-chap-book-1894",
+   "theophile-steinlen",
+   "— quitar: hokusai-great-wave-1831 (anacronismo; dejar como conexión desde japonismo)"
+  ],
+  "futurism-typography": [
+   "citta-nuova-1914",
+   "thayaht-tuta-1919",
+   "fortunato-depero",
+   "filippo-marinetti",
+   "antonio-sant-elia",
+   "th-futurist-manifesto",
+   "th-sant-elia-manifesto-1914"
+  ],
+  "dada": [
+   "merz-magazine-1923",
+   "kurt-schwitters",
+   "malik-jackets"
+  ],
+  "international-style": [
+   "villa-savoye",
+   "van-nelle-factory",
+   "villa-tugendhat",
+   "barcelona-pavilion",
+   "bauhaus-dessau-building",
+   "lovell-health-house-1929",
+   "farnsworth-house-1951",
+   "glass-house-1949",
+   "lever-house-1952",
+   "eileen-gray (quitarla de art-deco)"
+  ],
+  "streamline-moderne": [
+   "chrysler-airflow",
+   "tatra-77",
+   "baby-brownie",
+   "walter-dorwin-teague"
+  ],
+  "mid-century-modern": [
+   "eames-lcw",
+   "eames-house",
+   "eames-lounge",
+   "eames-fiberglass",
+   "noguchi-table-1947",
+   "womb-chair",
+   "tulip-chair",
+   "bertoia-diamond-1952",
+   "marshmallow-sofa",
+   "girard-herman-miller-textiles-1952",
+   "eames",
+   "eero-saarinen",
+   "george-nelson",
+   "isamu-noguchi",
+   "harry-bertoia",
+   "alexander-girard"
+  ],
+  "basel-school-typography": [
+   "giselle-poster-1959",
+   "armin-hofmann",
+   "weingart-posters-1977",
+   "wolfgang-weingart",
+   "th-ruder-typographie-1967"
+  ],
+  "polish-poster-school": [
+   "wozzeck-poster-1964",
+   "jan-lenica"
+  ],
+  "corporate-identity-design": [
+   "chase-manhattan-logo",
+   "american-airlines-logo",
+   "chermayeff-geismar",
+   "inst-unimark",
+   "inst-olivetti",
+   "inst-braun"
+  ],
+  "brutalism-metabolism": [
+   "unite-habitation",
+   "hunstanton-school-1954",
+   "banco-de-londres-1966",
+   "masp",
+   "sesc-pompeia-1986",
+   "smithsons",
+   "th-new-brutalism-banham",
+   "— quitar: lina-bo-bardi como miembro (arrastra casa-de-vidro y bowl-chair); nakagin-capsule-tower pasa a metabolism"
+  ],
+  "paulista-school": [
+   "fau-usp-1969",
+   "mube-1988",
+   "vilanova-artigas",
+   "paulo-mendes-da-rocha"
+  ],
+  "pop-design": [
+   "sgt-pepper-cover-1967",
+   "quant-miniskirt",
+   "paper-dress",
+   "ball-chair-1963",
+   "fillmore-posters-1966"
+  ],
+  "radical-design": [
+   "sacco-1968",
+   "th-mari-autoprogettazione-1974"
+  ],
+  "space-age-fashion": [
+   "rabanne-12-dresses-1966",
+   "paco-rabanne"
+  ],
+  "postmodern-architecture": [
+   "vanna-venturi-house-1964",
+   "portland-building-1982",
+   "humana-building-1985",
+   "att-building-1984",
+   "staatsgalerie-stuttgart-1984",
+   "strada-novissima-1980",
+   "sainsbury-wing-1991",
+   "robert-venturi",
+   "denise-scott-brown",
+   "michael-graves",
+   "charles-moore",
+   "james-stirling"
+  ],
+  "tendenza": [
+   "teatro-del-mondo-1979",
+   "aldo-rossi",
+   "th-architettura-della-citta"
+  ],
+  "memphis": [
+   "carlton-bookcase-1981",
+   "ettore-sottsass",
+   "michele-de-lucchi",
+   "shiro-kuramata",
+   "inst-memphis-group"
+  ],
+  "punk-fashion": [
+   "god-save-the-queen-1977",
+   "sniffin-glue-1976",
+   "jamie-reid"
+  ],
+  "streetwear": [
+   "air-jordan-1-1985",
+   "nike-air-max-1987",
+   "off-white-the-ten-2017",
+   "virgil-abloh"
+  ],
+  "japanese-avant-garde-fashion": [
+   "miyake-a-poc-1998",
+   "body-meets-dress-1997",
+   "issey-miyake"
+  ],
+  "interaction-design": [
+   "xerox-star-interface-1981",
+   "macintosh-icons-1984",
+   "kare-chicago-geneva-1984",
+   "first-website-1991",
+   "windows-95-1995",
+   "grid-compass-1982",
+   "information-landscapes-1994",
+   "emoji-1999",
+   "iphone-2007",
+   "material-design-2014",
+   "windows-phone-metro-2010",
+   "susan-kare",
+   "bill-moggridge",
+   "muriel-cooper",
+   "inst-xerox-parc",
+   "inst-ideo"
+  ],
+  "universal-design": [
+   "oxo-good-grips-1990"
+  ],
+  "human-factors-ergonomics": [
+   "model-302-telephone",
+   "action-office-ii-1968",
+   "th-designing-for-people",
+   "th-measure-of-man-1960"
+  ],
+  "sustainable-design": [
+   "fairphone-2013",
+   "freitag-messenger-1993",
+   "patagonia-dont-buy-this-jacket-2011",
+   "stella-mccartney-label-2001",
+   "th-cradle-to-cradle",
+   "th-brundtland-1987"
+  ],
+  "green-architecture": [
+   "gando-school-2001",
+   "marika-alderton-house-1994"
+  ],
+  "landscape-urbanism": [
+   "high-line-2009",
+   "parc-de-la-villette-1987",
+   "diller-scofidio-renfro"
+  ],
+  "international-typographic-style": [
+   "— quitar: windows-phone-metro-2010 (anacronismo; dejar como conexión)"
+  ],
+  "scandinavian-design": [
+   "kilta-1953",
+   "kaj-franck"
+  ],
+  "italian-design": [
+   "cisitalia-202-1947",
+   "falkland-lamp-1964",
+   "fiat-500"
+  ],
+  "new-vision": [
+   "matter-swiss-posters-1935"
+  ],
+  "constructivism": [
+   "dlia-golosa-1923"
+  ]
+ },
+ "pertenencia_instituciones": {
+  "_como": "Agregar a `links.works` (o `links.designers`) de la institución. No cambiar el `maker`, que conserva el texto (p. ej. «Fiat (Dante Giacosa)»). Hoy 33 instituciones no muestran ninguna obra.",
+  "inst-wedgwood": [
+   "queens-ware-1765",
+   "wedgwood-jasperware-1775"
+  ],
+  "inst-soho-manufactory": [
+   "boulton-ormolu-vases-1770"
+  ],
+  "inst-boulton-watt": [
+   "watt-rotative-engine-1781"
+  ],
+  "inst-ackermann": [
+   "ackermann-fashion-plates-1809"
+  ],
+  "inst-manufacture-de-jouy": [
+   "toile-de-jouy-1783"
+  ],
+  "inst-thonet": [
+   "thonet-chair-14",
+   "thonet-boppard-chair-1836",
+   "cesca-chair",
+   "lc4-chaise-longue",
+   "stam-cantilever-chair",
+   "wassily-chair"
+  ],
+  "inst-kelmscott-press": [
+   "kelmscott-chaucer"
+  ],
+  "inst-morris-and-co": [
+   "strawberry-thief",
+   "morris-chair"
+  ],
+  "inst-liberty": [
+   "liberty-artistic-dress"
+  ],
+  "inst-government-school-of-design": [
+   "christopher-dresser (estudió allí)",
+   "th-journal-of-design"
+  ],
+  "inst-aeg": [
+   "aeg-kettle",
+   "aeg-arc-lamp",
+   "aeg-turbine-hall",
+   "behrens-aeg-logo"
+  ],
+  "inst-ford-motor": [
+   "ford-model-t"
+  ],
+  "inst-wiener-werkstatte": [
+   "ww-metalwork"
+  ],
+  "inst-zig-zag": [
+   "zig-zag-magazine"
+  ],
+  "inst-bauhaus": [
+   "bauhaus-exhibition-poster-1923"
+  ],
+  "inst-chanel": [
+   "chanel-jersey-1916",
+   "chanel-suit",
+   "chanel-255-bag-1955",
+   "lagerfeld-chanel-1983"
+  ],
+  "inst-herman-miller": [
+   "eames-lcw",
+   "eames-lounge",
+   "eames-fiberglass",
+   "eames-aluminium",
+   "marshmallow-sofa",
+   "noguchi-table-1947",
+   "action-office-ii-1968",
+   "girard-herman-miller-textiles-1952",
+   "aeron-chair-1994"
+  ],
+  "inst-knoll": [
+   "tulip-chair",
+   "womb-chair",
+   "bertoia-diamond-1952"
+  ],
+  "inst-braun": [
+   "braun-sk4",
+   "braun-et66-1987",
+   "braun-t3-1958"
+  ],
+  "inst-olivetti": [
+   "lettera-22",
+   "elea-9003",
+   "valentine-typewriter"
+  ],
+  "inst-fiat": [
+   "fiat-500"
+  ],
+  "inst-intec": [
+   "cybersyn-opsroom"
+  ],
+  "inst-sony": [
+   "sony-tr63",
+   "sony-walkman-1979"
+  ],
+  "inst-kartell": [
+   "universale-4867",
+   "componibili-1967",
+   "louis-ghost-2002"
+  ],
+  "inst-ibm": [
+   "ibm-selectric-1961",
+   "thinkpad-700c-1992",
+   "ibm-logo"
+  ],
+  "inst-marimekko": [
+   "unikko-print"
+  ],
+  "inst-levitt": [
+   "levittown"
+  ],
+  "inst-quimantu": [
+   "quimantu-minilibros-1972"
+  ],
+  "inst-unimark": [
+   "nyc-transit-standards",
+   "american-airlines-logo"
+  ],
+  "inst-apple": [
+   "kare-chicago-geneva-1984",
+   "apple-iic-1984",
+   "macintosh-128k-1984",
+   "imac-1998",
+   "ipod-2001",
+   "iphone-2007",
+   "macbook-air-2008",
+   "apple-rainbow-logo-1977"
+  ],
+  "inst-emigre": [
+   "emigre-magazine-1984",
+   "emigre-bitmap-fonts-1985"
+  ],
+  "inst-pentagram": [
+   "public-theater-identity-1994",
+   "citibank-logo-1998"
+  ],
+  "inst-memphis-group": [
+   "carlton-bookcase-1981",
+   "first-chair-1983"
+  ],
+  "inst-alessi": [
+   "kettle-9093-1985",
+   "anna-g-corkscrew-1994",
+   "juicy-salif-1990"
+  ],
+  "inst-xerox-parc": [
+   "xerox-star-interface-1981"
+  ],
+  "inst-droog": [
+   "rag-chair-1991"
+  ],
+  "inst-ikea": [
+   "ikea-billy-1979"
+  ],
+  "inst-muji": [
+   "muji-cd-player-1999"
+  ],
+  "inst-hfg-ulm": [
+   "lufthansa-identity",
+   "ulm-stool"
+  ],
+  "inst-aiga": [
+   "dot-symbol-signs-1974"
+  ],
+  "inst-cranbrook": [
+   "cranbrook-new-discourse-1989",
+   "eero-saarinen",
+   "eames"
+  ],
+  "inst-team-10": [
+   "smithsons"
+  ],
+  "inst-ideo": [
+   "bill-moggridge"
+  ],
+  "inst-compasso-doro": [
+   "lettera-22 (premio de 1954: verificar)"
+  ],
+  "inst-fashion-revolution": [
+   "(contexto nuevo ctx-rana-plaza)"
+  ],
+  "inst-moma": [
+   "cisitalia-202-1947",
+   "th-international-style-1932",
+   "th-deconstructivist-architecture"
+  ],
+  "inst-giorgini-florence-shows": [
+   "pucci-prints-1951"
+  ],
+  "inst-zara": [
+   "(se explica por ctx-fast-fashion; sin obra propia: aceptable)"
+  ],
+  "inst-vogue": [
+   "(sin obra: considerar enlazar portadas o fotografía de moda en la Parte II)"
+  ]
+ },
+ "correcciones": [
+  {
+   "id": "bodoni-manuale-1788",
+   "campo": "year/date/title",
+   "actual": "1788",
+   "propuesto": "1818 («Manuale tipografico», 2 vols., edición póstuma de la viuda)",
+   "motivo": "La edición de 1818 es la que la historia de la tipografía cita como obra cumbre. Que sea póstuma no impide atribuirla a Bodoni (en v42 se decidió 1788 por esa razón; esta revisión lo contradice). El id puede quedarse."
+  },
+  {
+   "id": "werkbund-cologne-1914",
+   "campo": "year",
+   "actual": "1913 (fecha 1913–1914)",
+   "propuesto": "1914 (mayo–agosto de 1914)",
+   "motivo": "La exposición se abrió en 1914; el año se forzó en v36 para que cupiera en el tramo de la Reforma. Mover el registro a src-data/modernism/."
+  },
+  {
+   "id": "th-werkbund-debate",
+   "campo": "year",
+   "actual": "1913",
+   "propuesto": "1914",
+   "motivo": "El debate Muthesius–Van de Velde ocurrió en el congreso del Werkbund en Colonia, julio de 1914. Mover a src-data/modernism/."
+  },
+  {
+   "id": "thonet-chair-14",
+   "campo": "designers",
+   "actual": "[] (maker «Gebrüder Thonet»)",
+   "propuesto": "['michael-thonet']",
+   "motivo": "Necesario si la silla Boppard baja a Completo (Michael Thonet ★ debe conservar una obra ★)."
+  },
+  {
+   "id": "jatiya-sangsad-dhaka-1982",
+   "campo": "designers",
+   "actual": "sin diseñador (Kahn murió en 1974)",
+   "propuesto": "['louis-kahn'] con year 1962 (proyecto) y date «1962–1982», o permitir en el build obras terminadas después de la muerte del autor",
+   "motivo": "Es una de las obras mayores de Kahn; no puede quedar sin su autor."
+  },
+  {
+   "id": "seattle-library-2004",
+   "campo": "maker",
+   "actual": "LMN Architects (with OMA)",
+   "propuesto": "OMA (Rem Koolhaas and Joshua Prince-Ramus) with LMN Architects",
+   "motivo": "El orden actual invierte la autoría."
+  },
+  {
+   "id": "brasilia-cathedral",
+   "campo": "maker",
+   "actual": "Joaquim Cardozo (structural calculation)",
+   "propuesto": "Oscar Niemeyer; structure by Joaquim Cardozo",
+   "motivo": "El `maker` debe nombrar primero al autor."
+  },
+  {
+   "id": "museo-antropologia-mexico",
+   "campo": "maker",
+   "actual": "Rafael Mijares and Jorge Campuzano (architects)",
+   "propuesto": "Pedro Ramírez Vázquez with Rafael Mijares and Jorge Campuzano",
+   "motivo": "Igual que el anterior."
+  },
+  {
+   "id": "prozodezhda-1922",
+   "campo": "countries",
+   "actual": "['SU']",
+   "propuesto": "['RU']",
+   "motivo": "El resto de la línea usa RU para la Unión Soviética."
+  },
+  {
+   "id": "arpilleras-1974",
+   "campo": "discipline",
+   "actual": "fashion",
+   "propuesto": "sin cambio (decisión D2 del V4)",
+   "motivo": "La disciplina sigue llamándose «Moda»; internamente se entiende como «moda y textil». La ficha de disciplina de la etapa 8 lo explicará."
+  },
+  {
+   "id": "(edificios)",
+   "campo": "year",
+   "actual": "mezcla de año de inicio (Sagrada Família 1882, Westminster 1840, Panteón 1764, La Moneda 1784) y de término (Sídney 1973, Unité 1952)",
+   "propuesto": "Una convención única para `year` de edificios (se recomienda el año de término o inauguración; el rango completo en `date`)",
+   "motivo": "Normalización para la auditoría R1."
+  }
+ ],
+ "candidatos_reserva_aprobados_V4": [
+  {
+   "id": "angel-independencia-1910",
+   "motivo": "Monumento conmemorativo; no es obra de la historia del diseño."
+  },
+  {
+   "id": "torres-siamesas-2005",
+   "motivo": "Tercera obra de Aravena; redundante."
+  },
+  {
+   "id": "where-the-wild-things-are-1963",
+   "motivo": "Literatura ilustrada más que diseño gráfico; el libro infantil ya está cubierto en el siglo XIX."
+  },
+  {
+   "id": "alamillo-bridge-1992",
+   "motivo": "Ingeniería de autor; Calatrava no es figura del canon del diseño."
+  }
+ ],
+ "reposiciones": {
+  "_como": "Las aplica tools/pipeline/ajustes_etapa7.py (fase estructura): copia el registro completo (con sus refs) desde RESERVA-FASE-B.json al archivo de src-data que corresponde y repone sus enlaces y relaciones guardados si los dos extremos existen. Las de prioridad C (ekco-ad65, wells-coates, zonnestraal) quedan para la Parte III.",
+  "recorte_modernismo": [
+   "maison-de-verre",
+   "chareau",
+   "karl-marx-hof",
+   "baby-brownie",
+   "walter-dorwin-teague",
+   "gres-draped-gowns",
+   "madame-gres",
+   "anglepoise-lamp",
+   "carwardine",
+   "faaborg-chair",
+   "kaare-klint"
+  ],
+  "industrial_etapa5": [
+   "ctx-photography"
+  ],
+  "ctx-photography": "Al reponerlo: end = null y date «1839 →»; el script lo repone sin enlaces y la redacción (7.5–7.6) escribe los enlaces propuestos en REVISION-ETAPA7.json (new-vision, th-painting-photography-film, kodak-no1). El build da PROBLEM si queda sin enlaces: reponerlo en el mismo lote que sus enlaces."
+ },
+ "enlaces_estrella": {
+  "_como": "Decisión D3 del V4: la ★ se decide por importancia, pero a toda obra ★ se le busca contexto sin forzarlo. Esta lista cubre las 59 obras que, tras los cambios de nivel, quedarían ★ con menos de dos enlaces directos de subcategorías distintas. tipo «enlace»: escribir el enlace propuesto (la línea de mecanismo es una propuesta; si al redactarlo no se sostiene, se pasa a excepción). tipo «suspendido»: hubo un enlace con fuente que se suspendió en v22; se repone solo con fuente (Parte II) y por ahora es excepción C4c. tipo «contexto nuevo»: requiere crear el hecho indicado (está en REVISION-ETAPA7.json). tipo «excepción»: no hay un segundo enlace cierto; anotar como excepción C4c en PENDIENTES-FUENTES.md con el motivo.",
+  "lista": [
+   {
+    "id": "bodoni-manuale-1788",
+    "hoy": [
+     "ctx-neoclassical-antiquarianism (cultural)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-reading-public",
+      "mecanismo": "Un público lector y bibliófilo creciente → ediciones de lujo y muestrarios que presentan la letra como objeto"
+     }
+    ]
+   },
+   {
+    "id": "brummell-tailoring-1810",
+    "hoy": [
+     "ctx-revolutionary-dress (social)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-middle-class-consumption",
+      "mecanismo": "La distinción pasa de la riqueza del tejido al corte y la limpieza → un modelo imitable por las clases medias"
+     }
+    ]
+   },
+   {
+    "id": "cenotaph-newton-1784",
+    "hoy": [
+     "ctx-enlightenment (cultural)"
+    ],
+    "tipo": "excepción",
+    "nota": "Proyecto visionario cuyo contexto es ante todo intelectual."
+   },
+   {
+    "id": "akzidenz-grotesk-1896",
+    "hoy": [
+     "ctx-mass-advertising-catalogue (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico llega por el productivo (composición mecánica)."
+   },
+   {
+    "id": "dresser-teapot",
+    "hoy": [
+     "ctx-japonisme (cultural)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-second-industrial-revolution",
+      "mecanismo": "La producción industrial de metal plateado → formas geométricas simples, pensadas para la máquina"
+     }
+    ]
+   },
+   {
+    "id": "fagus-factory",
+    "hoy": [
+     "ctx-second-industrial-revolution (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico (vidrio y acero) llega por el productivo."
+   },
+   {
+    "id": "looshaus",
+    "hoy": [
+     "ctx-vienna-1900 (cultural)"
+    ],
+    "tipo": "excepción",
+    "nota": "El escándalo frente al palacio imperial está dentro de «Viena 1900»."
+   },
+   {
+    "id": "moulin-rouge-la-goulue",
+    "hoy": [
+     "ctx-urban-leisure (social)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-poster-craze",
+      "mecanismo": "La fiebre del cartel en París → el cartel de cabaret como obra coleccionable"
+     }
+    ]
+   },
+   {
+    "id": "poiret-high-waist",
+    "hoy": [
+     "ctx-dress-reform (social)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-japonisme",
+      "mecanismo": "El gusto por Oriente y el kimono → túnicas rectas que cuelgan de los hombros, sin corsé"
+     }
+    ],
+    "nota": "⚠ Verificar la relación con el kimono."
+   },
+   {
+    "id": "priester-matches-1905",
+    "hoy": [
+     "ctx-trademark-branding (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico llega por el productivo (cromolitografía)."
+   },
+   {
+    "id": "worth-haute-couture",
+    "hoy": [
+     "ctx-second-empire-paris (political)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-department-stores",
+      "mecanismo": "El comercio de novedades de París (Worth se forma en Gagelin) → el modisto vende modelos y no solo telas"
+     }
+    ],
+    "nota": "⚠ Verificar el paso por Gagelin."
+   },
+   {
+    "id": "barcelona-chair",
+    "hoy": [
+     "ctx-weimar-republic (political)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico llega por el productivo (acero inoxidable / cromado)."
+   },
+   {
+    "id": "bauhausbucher",
+    "hoy": [
+     "ctx-avant-gardes (cultural)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-weimar-republic",
+      "mecanismo": "Una escuela pública de la república difunde su programa en una serie de libros"
+     }
+    ]
+   },
+   {
+    "id": "bkf-chair",
+    "hoy": [
+     "ctx-spanish-civil-war (political)"
+    ],
+    "tipo": "suspendido",
+    "nota": "Enlace ctx-migration-exile suspendido en v22: reponer con fuente en la Parte II."
+   },
+   {
+    "id": "books-poster",
+    "hoy": [
+     "ctx-nep (economic)"
+    ],
+    "tipo": "suspendido",
+    "nota": "Enlaces ctx-literacy-campaigns y ctx-russian-revolution suspendidos en v22: reponer con fuente."
+   },
+   {
+    "id": "casa-del-fascio-como",
+    "hoy": [
+     "ctx-italian-fascism (political)"
+    ],
+    "tipo": "excepción",
+    "nota": "El racionalismo como lenguaje del régimen está dentro del enlace político."
+   },
+   {
+    "id": "chrysler-building",
+    "hoy": [
+     "ctx-advertising-boom (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-mass-car",
+      "mecanismo": "El auto de masas como símbolo → ornamentos de la torre que citan tapas de radiador y emblemas de Chrysler"
+     }
+    ]
+   },
+   {
+    "id": "coca-cola-bottle",
+    "hoy": [
+     "ctx-trademark-branding (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico (máquinas de botellas) no está en la línea."
+   },
+   {
+    "id": "e1027-house",
+    "hoy": [
+     "ctx-mass-leisure (social)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-avant-gardes",
+      "mecanismo": "Las ideas de De Stijl y de la revista de Badovici → casa de vacaciones moderna, plegable y con muebles propios"
+     }
+    ]
+   },
+   {
+    "id": "fallingwater-1937",
+    "hoy": [
+     "(ninguno)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-mass-leisure",
+      "mecanismo": "El fin de semana de una familia urbana acomodada → casa de campo sobre la cascada, integrada al paisaje"
+     }
+    ],
+    "nota": "Segundo enlace: excepción C4c."
+   },
+   {
+    "id": "futura",
+    "hoy": [
+     "ctx-advertising-boom (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-avant-gardes",
+      "mecanismo": "La geometría de la vanguardia y la Nueva Tipografía → un palo seco de círculos, triángulos y rectas"
+     }
+    ]
+   },
+   {
+    "id": "isotype-charts",
+    "hoy": [
+     "ctx-red-vienna (political)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-literacy-campaigns",
+      "mecanismo": "La educación de adultos obreros → estadísticas en pictogramas que se leen sin formación previa"
+     }
+    ]
+   },
+   {
+    "id": "johnston-typeface",
+    "hoy": [
+     "ctx-underground-expansion (technological)"
+    ],
+    "tipo": "excepción",
+    "nota": "Su contexto es la red de transporte (London Transport)."
+   },
+   {
+    "id": "lobster-dress",
+    "hoy": [
+     "ctx-avant-gardes (cultural)",
+     "ctx-fashion-magazines (cultural)"
+    ],
+    "tipo": "suspendido",
+    "nota": "Enlace ctx-illustrated-press suspendido en v22; las dos actuales son de la misma subcategoría."
+   },
+   {
+    "id": "ministry-education-rio",
+    "hoy": [
+     "ctx-vargas-era (political)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-semana-arte-moderna",
+      "mecanismo": "El modernismo brasileño de 1922 busca un arte nacional moderno → síntesis de vanguardia, azulejo y paisaje tropical"
+     }
+    ]
+   },
+   {
+    "id": "moka-express",
+    "hoy": [
+     "(ninguno)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-italian-fascism",
+      "mecanismo": "La autarquía fascista promueve el aluminio como metal nacional → cafetera de aluminio fundido para el hogar"
+     }
+    ],
+    "nota": "⚠ Verificar. Segundo enlace: excepción C4c."
+   },
+   {
+    "id": "normandie-poster",
+    "hoy": [
+     "ctx-mass-leisure (social)"
+    ],
+    "tipo": "excepción",
+    "nota": "Barco de prestigio nacional; sin otro contexto cierto en la línea."
+   },
+   {
+    "id": "nylon-stockings",
+    "hoy": [
+     "ctx-war-economy (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico llega por el productivo (nailon)."
+   },
+   {
+    "id": "paimio-chair",
+    "hoy": [
+     "ctx-hygienism (social)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto técnico llega por el productivo (contrachapado curvado)."
+   },
+   {
+    "id": "red-blue-chair",
+    "hoy": [
+     "ctx-avant-gardes (cultural)"
+    ],
+    "tipo": "excepción",
+    "nota": "Obra de vanguardia sin otro contexto cierto."
+   },
+   {
+    "id": "stam-cantilever-chair",
+    "hoy": [
+     "ctx-german-rationalisation (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-weimar-housing",
+      "mecanismo": "La vivienda mínima pide muebles ligeros y baratos → silla de tubo mostrada en la Weissenhof (1927)"
+     }
+    ]
+   },
+   {
+    "id": "tube-map-1933",
+    "hoy": [
+     "ctx-underground-expansion (technological)"
+    ],
+    "tipo": "excepción",
+    "nota": "Su contexto es la red misma."
+   },
+   {
+    "id": "van-nelle-factory",
+    "hoy": [
+     "ctx-hygienism (social)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-taylorism",
+      "mecanismo": "La organización científica del trabajo → fábrica de flujo continuo, luminosa y vertical"
+     }
+    ]
+   },
+   {
+    "id": "vionnet-bias-dress",
+    "hoy": [
+     "ctx-womens-vote-work (social)"
+    ],
+    "tipo": "suspendido",
+    "nota": "Enlace ctx-fashion-magazines suspendido en v22: reponer con fuente."
+   },
+   {
+    "id": "wassily-chair",
+    "hoy": [
+     "ctx-german-rationalisation (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-safety-bicycle",
+      "mecanismo": "El manillar de tubo de la bicicleta sugiere a Breuer un mueble de acero tubular curvado"
+     }
+    ],
+    "nota": "Las fuentes del productivo tubular-steel (Britannica, MoMA, Pompidou) ya sostienen la anécdota."
+   },
+   {
+    "id": "zang-tumb-tuuum-1914",
+    "hoy": [
+     "ctx-avant-gardes (cultural)"
+    ],
+    "tipo": "excepción",
+    "nota": "Sobre la guerra de los Balcanes (1912), que no está en la línea."
+   },
+   {
+    "id": "balenciaga-sack-dress",
+    "hoy": [
+     "ctx-pret-a-porter (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "Sin otro contexto cierto."
+   },
+   {
+    "id": "beethoven-poster-1955",
+    "hoy": [
+     "(ninguno)"
+    ],
+    "tipo": "excepción",
+    "nota": "Cartel de concierto; su contexto es disciplinar (estilo suizo). Excepción completa (C4c)."
+   },
+   {
+    "id": "casa-barragan-1948",
+    "hoy": [
+     "ctx-mexico-miracle (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-mexican-muralism",
+      "mecanismo": "La búsqueda de una modernidad mexicana propia → muros de color, materiales locales y patio"
+     }
+    ]
+   },
+   {
+    "id": "chandigarh-1951",
+    "hoy": [
+     "ctx-decolonisation (political)"
+    ],
+    "tipo": "excepción",
+    "nota": "Sin otro contexto cierto."
+   },
+   {
+    "id": "citroen-2cv-1948",
+    "hoy": [
+     "ctx-mass-motorisation (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "El encargo para el campo francés no tiene contexto propio en la línea."
+   },
+   {
+    "id": "eames-lounge",
+    "hoy": [
+     "ctx-corporate-office-boom (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-baby-boom-suburbs",
+      "mecanismo": "La casa suburbana acomodada busca confort moderno → sillón de cuero y contrachapado para el living"
+     }
+    ]
+   },
+   {
+    "id": "guggenheim-new-york-1959",
+    "hoy": [
+     "(ninguno)"
+    ],
+    "tipo": "excepción",
+    "nota": "Excepción completa (C4c); su contexto llega por Wright y el organicismo."
+   },
+   {
+    "id": "icaic-ospaaal-posters",
+    "hoy": [
+     "ctx-cuban-revolution (political)",
+     "ctx-cold-war (political)"
+    ],
+    "tipo": "contexto nuevo",
+    "propuesta": [
+     {
+      "ctx": "ctx-civil-rights",
+      "mecanismo": "La solidaridad tricontinental incluye la lucha afroestadounidense → carteles sobre ella"
+     }
+    ],
+    "nota": "Usa ctx-civil-rights (nuevo)."
+   },
+   {
+    "id": "man-golden-arm-1955",
+    "hoy": [
+     "ctx-tv-advertising (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-cinema",
+      "mecanismo": "El cine compite con la televisión → los títulos de crédito se vuelven una obra gráfica animada"
+     }
+    ]
+   },
+   {
+    "id": "mini-1959",
+    "hoy": [
+     "ctx-mass-motorisation (economic)"
+    ],
+    "tipo": "contexto nuevo",
+    "propuesta": [
+     {
+      "ctx": "ctx-suez-crisis-1956",
+      "mecanismo": "El racionamiento de combustible tras Suez → un auto mínimo y económico para cuatro personas"
+     }
+    ],
+    "nota": "Usa ctx-suez-crisis-1956 (nuevo)."
+   },
+   {
+    "id": "ronchamp-chapel",
+    "hoy": [
+     "ctx-second-world-war (political)"
+    ],
+    "tipo": "excepción",
+    "nota": "Sin otro contexto cierto."
+   },
+   {
+    "id": "salk-institute-1965",
+    "hoy": [
+     "(ninguno)"
+    ],
+    "tipo": "excepción",
+    "nota": "Excepción completa (C4c)."
+   },
+   {
+    "id": "seagram-building",
+    "hoy": [
+     "ctx-corporate-office-boom (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "Sin otro contexto cierto."
+   },
+   {
+    "id": "sydney-opera-house-1973",
+    "hoy": [
+     "ctx-mainframe-computing (technological)"
+    ],
+    "tipo": "excepción",
+    "nota": "El concurso del gobierno de Nueva Gales del Sur no está en la línea."
+   },
+   {
+    "id": "air-jordan-1-1985",
+    "hoy": [
+     "ctx-branding (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-hip-hop",
+      "mecanismo": "La cultura hip hop convierte la zapatilla en signo de estilo → el modelo de un deportista pasa a la calle"
+     }
+    ]
+   },
+   {
+    "id": "carlton-bookcase-1981",
+    "hoy": [
+     "ctx-crisis-functionalism (cultural)",
+     "ctx-postmodern-culture (cultural)"
+    ],
+    "tipo": "excepción",
+    "nota": "Dos enlaces culturales; sin otra subcategoría cierta."
+   },
+   {
+    "id": "church-of-the-light-1989",
+    "hoy": [
+     "ctx-japan-consumer-economy (economic)"
+    ],
+    "tipo": "excepción",
+    "nota": "Sin otro contexto cierto."
+   },
+   {
+    "id": "gando-school-2001",
+    "hoy": [
+     "ctx-urban-informality (social)"
+    ],
+    "tipo": "excepción",
+    "nota": "El contexto climático también es social; sin otra subcategoría cierta."
+   },
+   {
+    "id": "macintosh-128k-1984",
+    "hoy": [
+     "ctx-personal-computer (technological)",
+     "ctx-desktop-publishing (technological)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-knowledge-work",
+      "mecanismo": "El trabajo de oficina con pantallas → un computador que cualquiera usa sin aprender comandos"
+     }
+    ]
+   },
+   {
+    "id": "portland-building-1982",
+    "hoy": [
+     "ctx-crisis-functionalism (cultural)",
+     "ctx-postmodern-culture (cultural)"
+    ],
+    "tipo": "excepción",
+    "nota": "Dos enlaces culturales; sin otra subcategoría cierta."
+   },
+   {
+    "id": "seattle-library-2004",
+    "hoy": [
+     "ctx-internet-culture (cultural)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-deindustrialisation-regeneration",
+      "mecanismo": "La ciudad apuesta por un edificio público icónico para su centro → biblioteca como espacio cívico"
+     }
+    ]
+   },
+   {
+    "id": "vitra-fire-station-1993",
+    "hoy": [
+     "ctx-branding (economic)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-design-museums",
+      "mecanismo": "La empresa convierte su sede en colección de arquitectura de autor"
+     }
+    ]
+   },
+   {
+    "id": "westwood-punk-1976",
+    "hoy": [
+     "ctx-punk (cultural)",
+     "ctx-postmodern-culture (cultural)"
+    ],
+    "tipo": "enlace",
+    "propuesta": [
+     {
+      "ctx": "ctx-deindustrialisation-regeneration",
+      "mecanismo": "El desempleo juvenil de la Gran Bretaña de los setenta → ropa de rechazo hecha con desechos y alfileres"
+     }
+    ]
+   }
+  ]
+ },
+ "decisiones_V4": {
+  "fecha": "2026-10-05",
+  "D1": "Aprobadas las prioridades A y B. La C queda para la Parte III (desarrollo futuro).",
+  "D2": "La disciplina se sigue llamando «Moda»; internamente se entiende como «moda y textil». La ficha de disciplina (etapa 8) lo explicará.",
+  "D3": "La ★ se decide por importancia. A toda obra ★ se le buscan enlaces de contexto, sin forzarlos; se pueden agregar hechos de contexto (lista enlaces_estrella).",
+  "D4": "Aprobados los cuatro ★ chilenos (Cybersyn, Quinta Monroy, arpilleras, franja del NO) y La Aurora de Chile a Completo.",
+  "D5": "Se agregan los dos contextos de la última década (COVID-19 e IA generativa) con sus anclas.",
+  "D6": "El V2 se traslada al final de la nueva etapa 8, antes de la Parte II.",
+  "D7": "Los cuatro candidatos pasan a la reserva.",
+  "D8": "En «Acerca de», nueva subsección sobre el fundamento conceptual y bibliográfico: Forty como base conceptual y luego las obras de base (canon de la sección 1.1)."
+ }
+}

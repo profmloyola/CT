@@ -1,0 +1,308 @@
+[
+ {
+  "id": "westminster-1840",
+  "en": {
+   "key": "The Gothic Parliament on the Thames, rebuilt after the fire of 1834 to plans by Charles Barry, with interiors and details by A. W. N. Pugin.[1][3]",
+   "more": "A fire in 1834 destroyed nearly all of the old palace, and the 1835 competition for its replacement required designs in the Gothic or Elizabethan style.[1] Charles Barry won, and Pugin, commissioned in 1844 for the interiors, designed carved panelling, wallpapers, painted ceilings, encaustic floor tiles and a huge range of furniture.[1][3] The first stone was laid in 1840, most of the construction was done by 1860 and the Palace was complete in 1870.[2] It is regarded as one of the finest examples of Gothic Revival architecture in the world.[2]"
+  },
+  "es": {
+   "key": "El Parlamento gótico a orillas del Támesis, reconstruido tras el incendio de 1834 según planos de Charles Barry, con interiores y detalles de A. W. N. Pugin.[1][3]",
+   "more": "Un incendio destruyó en 1834 casi todo el antiguo palacio, y el concurso de 1835 para reemplazarlo exigía diseños de estilo gótico o isabelino.[1] Ganó Charles Barry, y Pugin, encargado en 1844 de los interiores, diseñó paneles tallados, papeles murales, cielos pintados, baldosas de encáustica y una enorme variedad de muebles.[1][3] La primera piedra se colocó en 1840, la mayor parte de la obra estaba hecha hacia 1860 y el Palacio quedó terminado en 1870.[2] Se le considera uno de los mejores ejemplos de arquitectura neogótica del mundo.[2]"
+  },
+  "refs": [
+   {
+    "label": "UK Parliament, «Designing a new Palace of Westminster»",
+    "url": "https://webtest.parliament.uk/about/living-heritage/building/palace/big-ben/building-clock-tower/designing-a-new-palace-of-westminster",
+    "checks": "Incendio de 1834 que destruyó casi todo el palacio; concurso de 1835 que exigía estilo «gótico o isabelino»; Barry ganó; Pugin colaboró en los elementos decorativos. ⚠ no da fechas de obra.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Restoration and Renewal Programme (UK Parliament), «Barry and Pugin»",
+    "url": "https://www.restorationandrenewal.uk/palace/extraordinary-history/barry-and-pugin",
+    "checks": "Primera piedra en 1840; obra en su mayor parte terminada en 1860 y completa en 1870; estilo neogótico, «uno de los mejores ejemplos del mundo». ⚠ no trata los interiores de Pugin ni procesos industriales.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "UK Parliament, Heritage Collections, «The Architects of the Houses of Parliament: Barry, Pugin and Scott»",
+    "url": "https://heritagecollections.parliament.uk/stories/the-architects-barry-pugin-and-scott/",
+    "checks": "Barry ganó el concurso; Pugin, encargado en 1844 de los interiores: paneles tallados, papeles murales, cielos pintados y dorados, baldosas de encáustica y muebles. ⚠ no menciona fabricación industrial.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «many of Pugin's designs made by industrial processes»: ninguna fuente consultada lo confirma.",
+   "Quité «October» del incendio de 1834 y «made Gothic the accepted style for a major national building»; lo segundo pasó a la valoración «uno de los mejores ejemplos del neogótico» (Restoration and Renewal).",
+   "Fecha de inicio: Britannica (Houses of Parliament) da 1837 a c. 1860; las fuentes parlamentarias dan primera piedra en 1840 y término en 1870; se mantuvo 1840–1870 y la discrepancia queda anotada.",
+   "«The competition asked for Gothic or Elizabethan» se precisó: concurso de 1835."
+  ]
+ },
+ {
+  "id": "bibliotheque-sainte-genevieve-1850",
+  "en": {
+   "key": "Henri Labrouste’s library in Paris, with an austere arched stone facade carved with authors’ names and cast-iron columns and arches left exposed.[1][2]",
+   "more": "Britannica dates the library’s design to 1838–39 and its construction to 1843–50.[1] Its austere arcuated facade, inspired by Alberti, is carved with the names of authors.[1] Inside, the iron structure, columns and arches, is exposed rather than hidden, and Britannica admires the sensitive use of it together with the restraint of the decoration.[1][2] It is a pioneering example of iron shown openly in a major building.[1]"
+  },
+  "es": {
+   "key": "La biblioteca de Henri Labrouste en París, con una austera fachada arqueada de piedra con nombres de autores tallados, y columnas y arcos de hierro fundido a la vista.[1][2]",
+   "more": "La Britannica fecha el proyecto de la biblioteca en 1838–39 y su construcción en 1843–50.[1] Su austera fachada arqueada, inspirada en Alberti, lleva tallados los nombres de autores.[1] En el interior, la estructura de hierro, columnas y arcos, queda a la vista y no escondida, y la Britannica admira su uso sensible junto con la sobriedad de la decoración.[1][2] Es un ejemplo pionero de hierro mostrado abiertamente en un edificio mayor.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Library of Sainte-Geneviève»",
+    "url": "https://www.britannica.com/place/Library-of-Sainte-Genevieve",
+    "checks": "Proyectada en 1838–39 y construida de 1843 a 1850; fachada arqueada austera inspirada en Alberti con los nombres de autores tallados; columnas y arcos de hierro a la vista. ⚠ el resumen consultado no describe la sala de lectura ni las bóvedas.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Henri Labrouste»",
+    "url": "https://www.britannica.com/biography/Henri-Labrouste",
+    "checks": "Construida en 1843–50; admirada por la sobriedad de la decoración y el uso sensible de elementos estructurales de hierro a la vista (columnas y arcos); Labrouste pionero del hierro estructural.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «built it in 1844–50» a 1843–50 (Britannica, dos artículos); el campo date «1838–50» se mantiene (proyecto 1838–39, obra hasta 1850).",
+   "Quité «first-floor reading room», «two iron-arched vaults», «slender» y «facade of stone»: no confirmados en las páginas consultadas (el resumen de MoMA solo habla de cerchas de hierro y alumbrado a gas).",
+   "«Among the first major public buildings to use iron openly» pasó a «pionero de hierro mostrado abiertamente», que es lo que la fuente respalda.",
+   "Quité el estado («Universidad de París») de la lectura: no se tocó el campo status, que no se verificó."
+  ]
+ },
+ {
+  "id": "singer-sewing-machine",
+  "en": {
+   "key": "Isaac Singer’s sewing machine, patented in 1851, which sewed with a straight vertical needle and was worked by a foot treadle, sold on instalment plans.[1][2]",
+   "more": "Singer received patent no. 8,294 on 12 August 1851 for a machine with a straight, vertically moving needle, cast-iron parts and a wooden treadle that left both hands free to guide the cloth.[1] He partnered that year with the lawyer Edward Clark, and by 1860 their company was the largest producer of sewing machines in the world.[2][3] Singer made the machines affordable through instalment payment plans,[2][3] and showed the machine at social gatherings to convince people of how easy it was to use.[1] The archive records agents and dealers and correspondence from foreign markets.[3] Britannica calls it the first practical domestic sewing machine.[2]"
+  },
+  "es": {
+   "key": "La máquina de coser de Isaac Singer, patentada en 1851, que cosía con aguja recta vertical y se accionaba con pedal, vendida con pagos a plazo.[1][2]",
+   "more": "Singer obtuvo la patente n.º 8.294 el 12 de agosto de 1851 para una máquina con aguja recta de movimiento vertical, piezas de fierro fundido y un pedal de madera que dejaba ambas manos libres para guiar la tela.[1] Ese año se asoció con el abogado Edward Clark, y hacia 1860 su empresa era la mayor productora de máquinas de coser del mundo.[2][3] Singer hizo asequibles las máquinas con pagos a plazo,[2][3] y las mostraba en reuniones sociales para convencer a la gente de lo fácil que era usarlas.[1] El archivo registra agentes y distribuidores y correspondencia de mercados extranjeros.[3] La Britannica la llama la primera máquina de coser doméstica práctica.[2]"
+  },
+  "refs": [
+   {
+    "label": "Smithsonian National Museum of American History, «1851 - Isaac Singer’s Sewing Machine Patent Model»",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_1071133",
+    "checks": "Patente n.º 8.294 del 12 de agosto de 1851; aguja recta de movimiento vertical; piezas de fierro fundido y pedal de madera; Singer demostraba la máquina en reuniones sociales.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Isaac Singer»",
+    "url": "https://www.britannica.com/biography/Isaac-Singer",
+    "checks": "Se asoció con Edward Clark en 1851; en 1860 la empresa era la mayor productora de máquinas de coser; planes de crédito a plazo; «primera máquina de coser doméstica práctica». ⚠ habla de brazo voladizo, no de pedal.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Hagley Museum and Library, Singer Manufacturing Company records (finding aid)",
+    "url": "https://findingaids.hagley.org/repositories/3/resources/1122",
+    "checks": "Patente 8.294 del 12 de agosto de 1851; Clark, abogado, llevaba los litigios; pagos a plazo; agentes y distribuidores en 1870–72; correspondencia de mercados extranjeros (carta de La Habana, 1865). ⚠ la empresa se constituyó en 1863.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «founded a company» en 1851 y «Clark managed the business side»: Britannica dice que se asoció con Clark en 1851 y Hagley que Clark llevaba los litigios; la sociedad formal es de 1863.",
+   "Quité «taught buyers to use the machine» (la fuente solo dice que la demostraba en reuniones sociales) y «sold worldwide»/«reached households and workshops far beyond the United States»: solo hay evidencia de agentes y mercados extranjeros en archivo.",
+   "Quité «moved from the workshop into the home over the following decades» y lo reemplacé por la valoración de Britannica («primera máquina doméstica práctica»).",
+   "Suavicé «vertical needle» a «aguja recta de movimiento vertical» según el Smithsonian."
+  ]
+ },
+ {
+  "id": "crystal-palace",
+  "en": {
+   "key": "Joseph Paxton’s vast hall of iron and glass in Hyde Park, built from prefabricated parts to house the Great Exhibition of 1851.[1][2]",
+   "more": "Time was short for the Great Exhibition building, and the Royal Commissioners accepted Paxton’s design after all the other architects’ schemes had been rejected.[3] Paxton, head gardener at Chatsworth, based it on the Lily House there[3] and proposed prefabricated elements of sheet glass and iron, built within six months.[2] Fox, Henderson and Co made the ironwork, according to Graces Guide in about nine months, mostly at Smethwick.[4] The building was taken down and rebuilt at Sydenham Hill in 1852–54,[1] where fire destroyed most of it on 30 November–1 December 1936.[1]"
+  },
+  "es": {
+   "key": "El enorme pabellón de hierro y vidrio de Joseph Paxton en Hyde Park, levantado con piezas prefabricadas para albergar la Gran Exposición de 1851.[1][2]",
+   "more": "El tiempo apremiaba para el edificio de la Gran Exposición, y los comisionados reales aceptaron el diseño de Paxton tras rechazar los proyectos de todos los demás arquitectos.[3] Paxton, jardinero jefe de Chatsworth, lo basó en la Lily House de allí[3] y propuso elementos prefabricados de vidrio laminado y hierro, levantados en seis meses.[2] Fox, Henderson and Co fabricó la herrería, según Graces Guide en unos nueve meses, sobre todo en Smethwick.[4] El edificio fue desmontado y reconstruido en Sydenham Hill en 1852–54,[1] donde un incendio lo destruyó en su mayor parte el 30 de noviembre y 1 de diciembre de 1936.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Crystal Palace»",
+    "url": "https://www.britannica.com/topic/Crystal-Palace-building-London",
+    "checks": "Construcción de partes prefabricadas de hierro y vidrio de Paxton; abierto en Hyde Park el 1 de mayo de 1851; desmontado y reconstruido en Sydenham Hill en 1852–54; incendio del 30 de noviembre–1 de diciembre de 1936.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Joseph Paxton»",
+    "url": "https://www.britannica.com/biography/Joseph-Paxton",
+    "checks": "Superintendente de Chatsworth; propuso elementos prefabricados de vidrio laminado y hierro cuando ya se había aceptado otro diseño; construido «en seis meses».",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Victoria and Albert Museum, «The Great Exhibition building» (boceto de Paxton)",
+    "url": "https://collections.vam.ac.uk/item/O18167/the-great-exhibition-building-architectural-sketch-paxton-joseph-sir/",
+    "checks": "Boceto del 11 de junio de 1850; basado en la Lily House de Chatsworth; aceptado porque se habían rechazado los demás proyectos y el tiempo apremiaba.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Grace’s Guide, «Fox, Henderson and Co»",
+    "url": "https://www.gracesguide.co.uk/Fox,_Henderson_and_Co",
+    "checks": "Fox, Henderson hizo toda la herrería; estructura de hierro en nueve meses; trabajo en Smethwick y algo en Renfrew. ⚠ fuente de referencia secundaria; la cifra de nueve meses difiere de los seis de Britannica (se atribuye a cada fuente).",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "«In a few months» pasó a seis meses (Britannica, Paxton) y nueve para la herrería (Graces Guide): las fuentes difieren y se atribuyen.",
+   "Reconstrucción en Sydenham: Britannica da 1852–54, no solo 1854; corregido. Quité «enlarged» (el resumen de Britannica no lo dice).",
+   "Quité «need to put up quickly and take down again» como motivo expreso y «Fox Henderson assembled them on site»: la fuente solo dice que el tiempo era crítico y que fabricaron la herrería.",
+   "Quité «standard sheets of glass»/«repeated iron members»: la fuente habla de elementos prefabricados de vidrio laminado y hierro.",
+   "El campo status dice «solo el terreno y fragmentos»; Britannica y London Fire Brigade indican que las torres sobrevivieron hasta 1941; no se tocó."
+  ]
+ },
+ {
+  "id": "haussmann-paris-1853",
+  "en": {
+   "key": "The rebuilding of central Paris under Napoleon III, in which the prefect Haussmann cut wide boulevards through the old city and set uniform rules for the buildings along them.[1][2]",
+   "more": "Georges-Eugène Haussmann became prefect of the Seine on 22 June 1853 and carried out Napoleon III’s plan to rebuild Paris.[1][2] Over two decades he opened new thoroughfares and demolished some 25,000 buildings,[2] extended the sewers from 100 to 600 km by 1878,[2] and created parks such as Buttes-Chaumont, Montsouris and Monceau.[2] Building heights were tied to street width, and the new blocks had uniform façades and consistent heights.[2][3] Haussmann was dismissed in 1870,[3] and Britannica notes his influence on planning elsewhere while calling the aesthetic merits of his work open to dispute.[1]"
+  },
+  "es": {
+   "key": "La reconstrucción del centro de París bajo Napoleón III, en que el prefecto Haussmann abrió anchos bulevares en la ciudad antigua y fijó reglas uniformes para los edificios que los bordean.[1][2]",
+   "more": "Georges-Eugène Haussmann fue nombrado prefecto del Sena el 22 de junio de 1853 y llevó a cabo el plan de Napoleón III de reconstruir París.[1][2] En dos décadas abrió nuevas avenidas y demolió unos 25.000 edificios,[2] amplió el alcantarillado de 100 a 600 km hacia 1878[2] y creó parques como Buttes-Chaumont, Montsouris y Monceau.[2] La altura de los edificios se vinculó al ancho de la calle, y las nuevas manzanas tenían fachadas uniformes y alturas homogéneas.[2][3] Haussmann fue destituido en 1870,[3] y la Britannica destaca su influencia en el urbanismo de otras ciudades, aunque dice que los méritos estéticos de su obra son discutibles.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Georges-Eugène, Baron Haussmann»",
+    "url": "https://www.britannica.com/biography/Georges-Eugene-Baron-Haussmann",
+    "checks": "Prefecto del Sena desde 1853; plan de Napoleón III; bulevares anchos, alcantarillado y aguas, parques, normas uniformes de edificación, demolición; 1853–1870; influencia en el urbanismo; méritos estéticos discutibles.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Ville de Paris, «Haussmann, l’homme qui a transformé Paris»",
+    "url": "https://www.paris.fr/pages/haussmann-l-homme-qui-a-transforme-paris-23091",
+    "checks": "Prefecto el 22 de junio de 1853; 64 km de vías nuevas; 25.000 edificios demolidos; alcantarillado de 100 a 600 km en 1878; parques; altura según ancho de calle. ⚠ no da la fecha de destitución.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Library of Congress, Maps blog, «Exploring Haussmannian Paris»",
+    "url": "https://blogs.loc.gov/maps/2023/05/exploring-haussmannian-paris/",
+    "checks": "Fachadas uniformes y alturas homogéneas; destituido en 1870. ⚠ blog institucional de una biblioteca nacional; solo respalda estos dos datos.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «straight» de las avenidas, «expropriating» y «much of the medieval centre»: las fuentes dicen avenidas anchas y demolición de 25.000 edificios, sin precisar expropiaciones ni el centro medieval.",
+   "«Fixed the height and façade lines» pasó a «altura vinculada al ancho de la calle» y fachadas uniformes (Ville de Paris, LOC).",
+   "«Became the model for modern city renovation» pasó a «influencia en el urbanismo de otras ciudades» (Britannica), con la salvedad de que sus méritos estéticos se discuten.",
+   "Añadí cifras verificadas (25.000 demoliciones, alcantarillado, parques) solo de la Ville de Paris."
+  ]
+ },
+ {
+  "id": "worth-haute-couture",
+  "en": {
+   "key": "The Paris house that Charles Frederick Worth, born in England, founded in 1858, where designs were shown on live models and garments carried a woven label with his name.[1][2]",
+   "more": "Worth, born in England in 1825, moved to Paris in 1845 and founded his own house in 1858,[1] at 7 rue de la Paix.[3] A variety of designs were shown on live models, and clients chose and had garments made to measure.[1] His garments carried woven labels with his name, which established brand identity.[1] The patronage of the Empress Eugénie raised his reputation.[1][2] Garments with the Worth label are in museum collections such as the V&A’s.[2]"
+  },
+  "es": {
+   "key": "La casa parisina que Charles Frederick Worth, nacido en Inglaterra, fundó en 1858, donde se mostraban diseños en modelos vivas y las prendas llevaban una etiqueta tejida con su nombre.[1][2]",
+   "more": "Worth, nacido en Inglaterra en 1825, se trasladó a París en 1845 y fundó su propia casa en 1858,[1] en el n.º 7 de la rue de la Paix.[3] Se mostraba una variedad de diseños en modelos vivas, y las clientas elegían y mandaban hacer las prendas a su medida.[1] Sus prendas llevaban etiquetas tejidas con su nombre, que establecieron una identidad de marca.[1] El patrocinio de la emperatriz Eugenia elevó su reputación.[1][2] Hay prendas con la etiqueta Worth en colecciones de museos como la del V&A.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Metropolitan Museum of Art, «Charles Frederick Worth (1825–1895) and the House of Worth»",
+    "url": "https://www.metmuseum.org/toah/hd/wrth/hd_wrth.htm",
+    "checks": "Nacido en Inglaterra en 1825; a París en 1845; negocio propio en 1858; diseños mostrados en modelos vivas, clientas eligen y encargan a medida; etiquetas tejidas con su nombre; patrocinio de la emperatriz Eugenia.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Victoria and Albert Museum, «Tea gown, Worth, Paris (c. 1900)»",
+    "url": "https://collections.vam.ac.uk/item/O16780",
+    "checks": "Worth nacido en Inglaterra, casa fundada en 1858; ascenso por el patrocinio de Eugenia; prenda con etiqueta «Worth Paris» en la colección. ⚠ es un vestido de c. 1900 de Jean-Philippe Worth.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Palais Galliera / Petit Palais, «Worth. Inventing Haute Couture»",
+    "url": "https://www.palaisgalliera.paris.fr/en/exhibitions/worth-inventing-haute-couture",
+    "checks": "Worth, nacido en Inglaterra, fundó su casa en el 7 rue de la Paix; estableció prácticas fundacionales de la alta costura.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «instead of copying what clients asked for, he showed his own designs» y «seasonal collections»: las fuentes dicen diseños mostrados en modelos vivas, sin hablar de colecciones por temporada ni de la copia.",
+   "Quité «signed them with a label» como firma de autor de modelos propios y lo dejé como etiqueta tejida con su nombre (Met).",
+   "«Made the maker’s name the mark of the garment» pasó a «identidad de marca» (Met).",
+   "Año de fundación 1858 confirmado por Met y V&A; no se cambia el campo year."
+  ]
+ },
+ {
+  "id": "thonet-chair-14",
+  "en": {
+   "key": "The bentwood café chair that Thonet made from six pieces of bent beech, light, cheap and easy to ship in parts.[1][2][3]",
+   "more": "Michael Thonet’s bentwood furniture was shown at the Great Exhibition of 1851 in London.[1][2] In 1853 he formed Gebrüder Thonet with his sons, and by 1856 he had perfected bending solid beechwood with heat, enabling mass production.[1] The no. 14 coffee house chair of 1859 had six pieces and ten screws and was shipped disassembled.[3] Bentwood furniture was lightweight, affordable and durable, suited to hotels and restaurants, and spread across Europe and America.[2] By 1870 the Vienna firm made about 400,000 pieces a year.[1]"
+  },
+  "es": {
+   "key": "La silla de café de madera curvada que Thonet hizo con seis piezas de haya curvada, liviana, barata y fácil de despachar en partes.[1][2][3]",
+   "more": "Los muebles de madera curvada de Michael Thonet se mostraron en la Gran Exposición de 1851 en Londres.[1][2] En 1853 formó Gebrüder Thonet con sus hijos, y hacia 1856 había perfeccionado el curvado con calor de haya maciza, lo que permitió la producción en masa.[1] La silla de café n.º 14 de 1859 tenía seis piezas y diez tornillos y se despachaba desarmada.[3] Los muebles de madera curvada eran livianos, económicos y durables, aptos para hoteles y restaurantes, y se difundieron por Europa y América.[2] Hacia 1870 la empresa vienesa fabricaba unas 400.000 piezas al año.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Michael Thonet»",
+    "url": "https://www.britannica.com/biography/Michael-Thonet",
+    "checks": "Presente en la Gran Exposición de 1851; Gebrüder Thonet en 1853; curvado de haya maciza perfeccionado hacia 1856; unas 400.000 piezas al año hacia 1870. ⚠ no menciona medalla ni el n.º 14.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Bentwood furniture»",
+    "url": "https://www.britannica.com/topic/bentwood-furniture",
+    "checks": "Varillas curvadas con vapor; Thonet en la Gran Exposición de 1851; livianos, económicos, durables, para hoteles y restaurantes; difusión por Europa y América.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Thonet GmbH, «Original»",
+    "url": "https://www.thonet.de/en/company/original",
+    "checks": "Silla de café n.º 14 (hoy 214) de 1859, con «seis piezas, diez tornillos», despachada desarmada. ⚠ sitio de la propia empresa; sigue en producción como 214.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «won a medal» en 1851: Britannica solo dice que se exhibió.",
+   "Quité «steam-bent wood into chairs since the 1840s»: Britannica (Thonet) da experimentos desde 1830 y perfeccionamiento hacia 1856; no se precisa la década de 1840 para Thonet.",
+   "«Sold in great numbers to cafés, restaurants and homes» pasó a hoteles y restaurantes y la cifra de 400.000 piezas anuales hacia 1870; quité «homes» y «cafés».",
+   "«Six pieces» queda atribuido a Thonet GmbH, que además cuenta diez tornillos; «cheap» respaldado como «económico» (Britannica).",
+   "«Steam-bent» en la key pasó a «curvada»: la fuente de la empresa habla de curvado de haya, y Britannica explica el vapor en general."
+  ]
+ },
+ {
+  "id": "red-house",
+  "en": {
+   "key": "The red-brick house at Bexleyheath that Philip Webb designed for William Morris, in a simplified Gothic style rather than the fashionable stucco villa.[1][2][3]",
+   "more": "Morris commissioned Webb in 1859 after his marriage to Jane Burden, and the family moved in in 1860.[1] It is an L-shaped house of red brick with a tiled roof, Webb’s first commission.[1][3] Each room had only the windows its use required.[1] Rossetti and Burne-Jones contributed hand-painted furniture and wall murals,[1] and Historic England records painted decoration by Burne-Jones and associates.[3] The founding of Morris, Marshall, Faulkner & Co. in 1861 grew out of that circle,[1] and Britannica says the idea of an association arose during the furnishing and decoration.[2]"
+  },
+  "es": {
+   "key": "La casa de ladrillo rojo de Bexleyheath que Philip Webb diseñó para William Morris, en un gótico simplificado y no en la villa estucada de moda.[1][2][3]",
+   "more": "Morris le encargó la casa a Webb en 1859 tras casarse con Jane Burden, y la familia se instaló en 1860.[1] Es una casa en L de ladrillo rojo con techo de tejas, el primer encargo de Webb.[1][3] Cada pieza tenía solo las ventanas que su uso requería.[1] Rossetti y Burne-Jones aportaron muebles pintados a mano y murales,[1] y Historic England registra decoración pintada por Burne-Jones y colaboradores.[3] La fundación de Morris, Marshall, Faulkner & Co. en 1861 nació de ese círculo,[1] y la Britannica dice que la idea de asociarse surgió durante el equipamiento y la decoración.[2]"
+  },
+  "refs": [
+   {
+    "label": "National Trust, «Red House’s history»",
+    "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+    "checks": "Morris encargó la casa a Webb en 1859 tras casarse con Jane Burden; la familia se instaló en 1860; casa en L de ladrillo rojo y techo de tejas; ventanas según el uso de cada pieza; Rossetti y Burne-Jones aportaron muebles pintados y murales; Morris, Marshall, Faulkner & Co. en 1861.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Red House»",
+    "url": "https://www.britannica.com/place/Red-House",
+    "checks": "Diseñada por Webb en 1859 para Morris; ladrillo rojo en vez de las villas estucadas victorianas de moda; idea de una asociación surgida durante la decoración. ⚠ no menciona fuentes medievales ni vernáculas.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Historic England, «Red House» (National Heritage List, 1064203)",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1064203",
+    "checks": "Primer encargo de Webb; «estilo gótico simplificado»; ladrillo rojo, techo de tejas a cuatro aguas, planta en L; decoración pintada de Burne-Jones y colaboradores.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «built from medieval and vernacular sources»: Historic England habla de gótico simplificado; las fuentes no mencionan fuentes vernáculas.",
+   "Quité «built in 1859–60» (solo consta diseño 1859 y mudanza en 1860), «rooms planned from the inside out» (pasó a «ventanas según el uso de cada pieza») y «in Kent».",
+   "«Plain red brick» y «steep roof»: las fuentes dicen ladrillo rojo y techo de tejas; quité «steep» y «sin revestir».",
+   "La atribución de la fundación de la Firma a la experiencia de equipar la casa queda como «surgió de ese círculo» (National Trust) y «idea de asociarse» (Britannica)."
+  ]
+ }
+]

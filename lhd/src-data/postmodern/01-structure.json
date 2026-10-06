@@ -1,0 +1,50 @@
+{
+ "era": {
+  "id": "postmodern",
+  "start": 1975,
+  "end": "now",
+  "name": "Postmodern",
+  "intro": "Crisis of functionalism; globalisation and branding; the digital revolution; sustainability; interaction and services.",
+  "es": {
+   "name": "Posmoderno",
+   "intro": "Crisis del funcionalismo; globalización y marca; revolución digital; sostenibilidad; interacción y servicios."
+  }
+ },
+ "tracks": [
+  {
+   "id": "political",
+   "label": "Political",
+   "es": {
+    "label": "Político"
+   }
+  },
+  {
+   "id": "economic",
+   "label": "Economic",
+   "es": {
+    "label": "Económico"
+   }
+  },
+  {
+   "id": "social",
+   "label": "Social",
+   "es": {
+    "label": "Social"
+   }
+  },
+  {
+   "id": "cultural",
+   "label": "Cultural",
+   "es": {
+    "label": "Cultural"
+   }
+  },
+  {
+   "id": "technological",
+   "label": "Technological",
+   "es": {
+    "label": "Tecnológico"
+   }
+  }
+ ]
+}

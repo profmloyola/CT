@@ -1,0 +1,32 @@
+{
+ "escribir_links": [
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "dresser-teapot",
+   "mecanismo": "La producción industrial de metal plateado → formas geométricas simples, pensadas para la máquina",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "moulin-rouge-la-goulue",
+   "mecanismo": "La fiebre del cartel en París → el cartel de cabaret como obra coleccionable",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "poiret-high-waist",
+   "mecanismo": "El gusto por Oriente y el kimono → túnicas rectas que cuelgan de los hombros, sin corsé",
+   "tipo": "enlace",
+   "nota": "⚠ Verificar la relación con el kimono."
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "worth-haute-couture",
+   "mecanismo": "El comercio de novedades de París (Worth se forma en Gagelin) → el modisto vende modelos y no solo telas",
+   "tipo": "enlace",
+   "nota": "⚠ Verificar el paso por Gagelin."
+  }
+ ]
+}

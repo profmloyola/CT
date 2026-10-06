@@ -1,0 +1,7124 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-photography",
+  "name": "Photography",
+  "name_es": "Fotografía",
+  "track": "technological",
+  "start": 1839,
+  "end": null,
+  "date": "1839 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "GB"
+  ],
+  "prioridad": "A",
+  "curso": "La fotografía cambia la imagen impresa, el retrato y la mirada de la vanguardia; sin ella no se explican la Nueva Visión ni el fotomontaje.",
+  "explica": [
+   {
+    "id": "new-vision",
+    "mecanismo": "La cámara se vuelve instrumento de vanguardia → encuadres en picado, primeros planos y foto como material de diseño"
+   },
+   {
+    "id": "th-painting-photography-film",
+    "mecanismo": "Un siglo de fotografía permite a Moholy-Nagy pensar la luz como medio → programa de la «tipofoto»"
+   },
+   {
+    "id": "kodak-no1",
+    "mecanismo": "La fotografía, antes técnica de especialistas, se lleva a una caja simple y a un servicio de revelado"
+   }
+  ],
+  "era": "industrial",
+  "reserva_origen": "industrial_etapa5",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-american-system",
+  "name": "American system of manufactures",
+  "name_es": "Sistema estadounidense de manufactura (piezas intercambiables)",
+  "track": "economic",
+  "start": 1800,
+  "end": 1880,
+  "date": "c. 1800–1880",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "Explica la producción en serie de piezas intercambiables que precede al fordismo y da forma a la máquina de coser, la máquina de escribir y el automóvil.",
+  "explica": [
+   {
+    "id": "singer-sewing-machine",
+    "mecanismo": "Piezas intercambiables y montaje en serie → máquina doméstica barata, vendida a plazos"
+   },
+   {
+    "id": "remington-no1",
+    "mecanismo": "Una fábrica de armas aplica su manufactura de piezas intercambiables a la máquina de escribir"
+   },
+   {
+    "id": "ford-model-t",
+    "mecanismo": "La tradición de piezas intercambiables culmina en un modelo único fabricado en cadena"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-stalinism-socialist-realism",
+  "name": "Stalinism and socialist realism",
+  "name_es": "Estalinismo y realismo socialista",
+  "track": "political",
+  "start": 1932,
+  "end": 1953,
+  "date": "1932–1953",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "prioridad": "A",
+  "curso": "El decreto de 1932 sobre las organizaciones artísticas cierra la vanguardia soviética; explica el fin del constructivismo y el giro de la gráfica y la arquitectura.",
+  "explica": [
+   {
+    "id": "constructivism",
+    "mecanismo": "El Estado impone el realismo socialista y disuelve los grupos independientes → fin del constructivismo como programa"
+   },
+   {
+    "id": "ussr-in-construction",
+    "mecanismo": "La revista pasa a celebrar los planes de Stalin → el fotomontaje constructivista se pone al servicio del culto oficial"
+   },
+   {
+    "id": "gustav-klutsis",
+    "mecanismo": "El autor del fotomontaje político es víctima de la represión de 1938"
+   }
+  ],
+  "era": "modernism",
+  "nota": "Fecha de muerte de Klutsis (1938) y su causa: verificar en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-festival-of-britain",
+  "name": "Festival of Britain",
+  "name_es": "Festival de Gran Bretaña",
+  "track": "cultural",
+  "start": 1951,
+  "end": 1951,
+  "date": "1951",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "prioridad": "A",
+  "curso": "Exposición nacional de 1951 que presentó el diseño moderno británico de la posguerra y lanzó a Robin y Lucienne Day.",
+  "explica": [
+   {
+    "id": "day-calyx-1951",
+    "mecanismo": "El festival exhibe interiores modernos → Lucienne Day presenta allí su tela Calyx"
+   },
+   {
+    "id": "festival-britain-emblem-1951",
+    "mecanismo": "El festival necesita una imagen de optimismo nacional → emblema de Abram Games"
+   },
+   {
+    "id": "inst-design-council",
+    "mecanismo": "El Consejo de Diseño Industrial selecciona los objetos expuestos y fija un gusto oficial moderno"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-civil-rights",
+  "name": "Civil rights and Black Power movements",
+  "name_es": "Derechos civiles y Black Power",
+  "track": "social",
+  "start": 1954,
+  "end": 1975,
+  "date": "c. 1954–1975",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "A",
+  "curso": "La lucha por los derechos civiles en Estados Unidos produce una gráfica militante propia y alimenta la crítica social del diseño.",
+  "explica": [
+   {
+    "id": "black-panther-graphics-1967",
+    "mecanismo": "El partido necesita comunicar con su comunidad → Emory Douglas crea una gráfica de periódico directa y de alto contraste"
+   },
+   {
+    "id": "icaic-ospaaal-posters",
+    "mecanismo": "La solidaridad tricontinental incluye la lucha afroestadounidense → carteles de OSPAAAL sobre ella"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-aids-crisis",
+  "name": "AIDS crisis",
+  "name_es": "Crisis del sida",
+  "track": "social",
+  "start": 1981,
+  "end": null,
+  "date": "1981 →",
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "countries": [
+   "US",
+   "GB",
+   "FR"
+  ],
+  "prioridad": "A",
+  "curso": "La epidemia y la indiferencia oficial generan un activismo gráfico decisivo para la historia del diseño gráfico político.",
+  "explica": [
+   {
+    "id": "silence-equals-death-1987",
+    "mecanismo": "La falta de respuesta pública → triángulo rosa invertido y consigna para el activismo de ACT UP"
+   },
+   {
+    "id": "red-ribbon-1991",
+    "mecanismo": "Un símbolo simple, sin marca ni texto, que cualquiera puede llevar para mostrar solidaridad"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-rana-plaza",
+  "name": "Rana Plaza collapse",
+  "name_es": "Derrumbe del Rana Plaza",
+  "track": "economic",
+  "start": 2013,
+  "end": 2013,
+  "date": "2013",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "BD"
+  ],
+  "prioridad": "B",
+  "curso": "El derrumbe de una fábrica textil en Bangladés vuelve visible la cadena de la moda rápida y da origen a Fashion Revolution.",
+  "explica": [
+   {
+    "id": "inst-fashion-revolution",
+    "mecanismo": "La catástrofe muestra quién fabrica la ropa → campaña anual que pregunta por la trazabilidad"
+   },
+   {
+    "id": "stella-mccartney-label-2001",
+    "mecanismo": "Las marcas que ya defendían una moda responsable ganan visibilidad tras el derrumbe"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Usar solo hechos ciertos: 24 de abril de 2013, Savar (Daca), más de mil muertos.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-luxury-conglomerates",
+  "name": "Luxury conglomerates and the global fashion system",
+  "name_es": "Conglomerados del lujo y sistema global de la moda",
+  "track": "economic",
+  "start": 1987,
+  "end": null,
+  "date": "1987 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "IT"
+  ],
+  "prioridad": "B",
+  "curso": "La concentración de casas históricas en grupos como LVMH explica la contratación de diseñadores estrella y la marca de moda como espectáculo.",
+  "explica": [
+   {
+    "id": "alexander-mcqueen",
+    "mecanismo": "Los grupos de lujo renuevan casas históricas con jóvenes diseñadores → McQueen dirige Givenchy"
+   },
+   {
+    "id": "marc-jacobs",
+    "mecanismo": "Louis Vuitton incorpora prêt-à-porter → Jacobs es contratado como director creativo (1997)"
+   },
+   {
+    "id": "lagerfeld-chanel-1983",
+    "mecanismo": "La casa histórica como marca global: el diseñador reinterpreta cada temporada sus códigos"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Fechas de contratación (McQueen en Givenchy 1996; Jacobs en Vuitton 1997): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-covid-19",
+  "name": "COVID-19 pandemic",
+  "name_es": "Pandemia de COVID-19",
+  "track": "social",
+  "start": 2020,
+  "end": 2022,
+  "date": "2020–2022",
+  "regions": [
+   "global"
+  ],
+  "countries": [],
+  "prioridad": "B",
+  "curso": "La pandemia cambia el trabajo, la vivienda y el espacio público, y pone la comunicación visual de la ciencia en el centro de la vida diaria. Aprobado en el V4 (D5).",
+  "explica": [
+   {
+    "id": "cdc-sars-cov-2-illustration-2020",
+    "mecanismo": "Una enfermedad nueva necesita una imagen reconocible → ilustración científica del virus difundida por los CDC"
+   },
+   {
+    "id": "inst-salone-del-mobile",
+    "mecanismo": "Las restricciones sanitarias suspenden la feria de 2020 y obligan a reformular la de 2021"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Aprobado en el V4 (D5). ⚠ Verificar: cancelación del Salone 2020 y edición «supersalone» de septiembre de 2021.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-generative-ai",
+  "name": "Generative artificial intelligence",
+  "name_es": "Inteligencia artificial generativa",
+  "track": "technological",
+  "start": 2022,
+  "end": null,
+  "date": "2022 →",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "Cambio técnico de mayor impacto en el diseño gráfico desde la autoedición; cierre natural de la línea «hasta hoy». Aprobado en el V4 (D5).",
+  "explica": [
+   {
+    "id": "cosmopolitan-ai-cover-2022",
+    "mecanismo": "Un modelo que genera imágenes a partir de texto → primera portada de revista hecha con IA generativa"
+   },
+   {
+    "id": "interaction-design",
+    "mecanismo": "Los asistentes conversacionales (ChatGPT, noviembre de 2022) llevan la interfaz de la pantalla gráfica al diálogo en lenguaje natural"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Aprobado en el V4 (D5). Hechos ciertos: DALL·E 2 (abril de 2022), Midjourney y Stable Diffusion (2022), ChatGPT (noviembre de 2022). No afirmar nada posterior sin certeza.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-suez-crisis-1956",
+  "name": "Suez Crisis and fuel rationing",
+  "name_es": "Crisis de Suez y racionamiento de combustible",
+  "track": "political",
+  "start": 1956,
+  "end": 1957,
+  "date": "1956–1957",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB",
+   "EG"
+  ],
+  "prioridad": "B",
+  "curso": "Propuesto por la decisión D3 para dar al Mini (★) un segundo enlace directo con mecanismo cierto.",
+  "explica": [
+   {
+    "id": "mini-1959",
+    "mecanismo": "El racionamiento de combustible tras Suez → BMC encarga a Issigonis un auto muy pequeño y económico para cuatro personas"
+   }
+  ],
+  "era": "postwar",
+  "nota": "Contexto con un solo enlace (meta C4: 2). ⚠ Verificar la relación causal en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "production",
+  "id": "steam-press-machine-paper",
+  "name": "Steam printing press and machine-made paper",
+  "name_es": "Prensa de vapor y papel continuo",
+  "sub": "processes",
+  "start": 1814,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB",
+   "DE"
+  ],
+  "prioridad": "B",
+  "curso": "La prensa de Koenig (The Times, 1814) y la máquina Fourdrinier abaratan el impreso: base de la prensa ilustrada y del cartel.",
+  "anclas": [
+   "illustrated-london-news-1842"
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "production",
+  "id": "safety-elevator",
+  "name": "Safety elevator",
+  "name_es": "Ascensor de seguridad",
+  "sub": "tools",
+  "start": 1853,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "El freno de seguridad de Otis (1853–1857) hace habitables los pisos altos: condición técnica del rascacielos.",
+  "anclas": [
+   "home-insurance-building-1885",
+   "wainwright-building-1891"
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "production",
+  "id": "photocopying",
+  "name": "Xerography and the photocopier",
+  "name_es": "Xerografía y fotocopiadora",
+  "sub": "tools",
+  "start": 1959,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "La fotocopiadora de oficina (Xerox 914, 1959) da a cualquiera un medio de impresión: base del fanzine punk y de la gráfica «hazlo tú mismo».",
+  "anclas": [
+   "sniffin-glue-1976"
+  ],
+  "era": "postwar",
+  "nota": "Reemplaza a `xerox-914`, que quedó en reserva en la etapa 2.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "production",
+  "id": "generative-image-models",
+  "name": "Text-to-image generative models",
+  "name_es": "Modelos generativos de texto a imagen",
+  "sub": "tools",
+  "start": 2022,
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "US",
+   "GB"
+  ],
+  "prioridad": "B",
+  "curso": "DALL·E 2, Midjourney y Stable Diffusion (2022) generan imágenes a partir de una descripción escrita; nueva herramienta del diseño gráfico.",
+  "anclas": [
+   "cosmopolitan-ai-cover-2022"
+  ],
+  "era": "postmodern",
+  "nota": "Aprobado en el V4 (D5), como ancla técnica del contexto de IA generativa.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "production",
+  "id": "mass-timber",
+  "name": "Mass timber (CLT)",
+  "name_es": "Madera masiva (CLT)",
+  "sub": "materials",
+  "start": 1995,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "AT",
+   "DE",
+   "NO"
+  ],
+  "prioridad": "C",
+  "curso": "Paneles de madera contralaminada que permiten edificios altos de madera; material clave de la arquitectura de bajo carbono.",
+  "anclas": [],
+  "era": "postmodern",
+  "nota": "Opcional: necesita una obra ancla (p. ej. Mjøstårnet, 2019) para no quedar sin enlace.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "movement",
+  "id": "gothic-revival",
+  "name": "Gothic Revival",
+  "name_es": "Neogótico",
+  "start": 1830,
+  "end": 1900,
+  "disciplines": [
+   "architecture",
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "FR",
+   "DE",
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Unidad obligatoria de todo curso: Pugin, el Parlamento de Londres y el origen moral de la reforma del diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-romanticism-gothic",
+    "mecanismo": "El gusto romántico por lo medieval → el gótico pasa de decorado pintoresco a estilo con principios"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-pugin-true-principles",
+    "mecanismo": "Pugin funda el movimiento en la honestidad de la construcción y del material"
+   }
+  ],
+  "miembros": [
+   "westminster-1840",
+   "strawberry-hill-1750",
+   "pugin",
+   "th-pugin-true-principles",
+   "th-pugin-contrasts-1836",
+   "red-house"
+  ],
+  "era": "industrial",
+  "nota": "Hoy existe solo como contexto (`ctx-gothic-revival`); ese hecho debe renombrarse (ver AJUSTES, fusiones).",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "movement",
+  "id": "plakatstil",
+  "name": "Plakatstil (object poster)",
+  "name_es": "Plakatstil (cartel de objeto)",
+  "start": 1905,
+  "end": 1920,
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Paso del cartel ilustrado al cartel moderno reducido a objeto y marca; capítulo fijo de Meggs.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "La publicidad de marcas pide reconocer el producto de un vistazo → objeto plano y nombre en grande"
+   },
+   {
+    "tipo": "secundario",
+    "via": "priester-matches-1905",
+    "mecanismo": "El cartel de Bernhard para Priester es el punto de partida del estilo"
+   }
+  ],
+  "miembros": [
+   "priester-matches-1905",
+   "lucian-bernhard",
+   "hohlwein-posters-1908",
+   "ludwig-hohlwein"
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "movement",
+  "id": "suprematism",
+  "name": "Suprematism",
+  "name_es": "Suprematismo",
+  "start": 1915,
+  "end": 1935,
+  "disciplines": [
+   "graphic",
+   "product",
+   "architecture"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fuente del vocabulario geométrico de Lisitski y del constructivismo; aparece en toda historia del diseño gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "La abstracción radical de la vanguardia → formas geométricas puras aplicadas a porcelana, carteles y arquitectura"
+   },
+   {
+    "tipo": "secundario",
+    "via": "el-lissitzky",
+    "mecanismo": "Lisitski traslada el suprematismo al libro y al cartel"
+   }
+  ],
+  "miembros": [
+   "suprematist-teapot-1923",
+   "kazimir-malevich",
+   "red-wedge-poster",
+   "el-lissitzky"
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "movement",
+  "id": "new-york-school-graphic",
+  "name": "American modernism in graphic design (New York School)",
+  "name_es": "Modernismo gráfico estadounidense (Escuela de Nueva York)",
+  "start": 1940,
+  "end": 1970,
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Versión estadounidense, intuitiva y publicitaria, del modernismo gráfico europeo (Rand, Lustig, Bass, Lubalin, Push Pin).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Los emigrados europeos llevan la vanguardia a Nueva York → se mezcla con la publicidad y el mercado editorial"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La expansión publicitaria de la posguerra da encargos a una gráfica de ideas visuales y humor"
+   },
+   {
+    "tipo": "secundario",
+    "via": "paul-rand",
+    "mecanismo": "Rand es su figura central"
+   }
+  ],
+  "miembros": [
+   "paul-rand",
+   "saul-bass",
+   "alvin-lustig",
+   "herb-lubalin",
+   "milton-glaser",
+   "think-small",
+   "ibm-logo",
+   "avant-garde-lubalin-1968",
+   "inst-push-pin"
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "movement",
+  "id": "design-methods",
+  "name": "Design methods movement",
+  "name_es": "Movimiento de los métodos de diseño",
+  "start": 1962,
+  "end": 1980,
+  "disciplines": [
+   "product",
+   "architecture"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "US",
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Intento de volver científico el proceso de diseño (Conferencia de Londres, 1962; Ulm; Alexander; Simon); antecedente del «design thinking».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mainframe-computing",
+    "mecanismo": "La investigación operativa y la computación sugieren descomponer el diseño en pasos y datos"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-hfg-ulm",
+    "mecanismo": "Ulm enseña metodología y teoría de sistemas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-notes-synthesis-form",
+    "mecanismo": "Alexander formaliza el problema de diseño como conjunto de requisitos"
+   }
+  ],
+  "miembros": [
+   "th-notes-synthesis-form",
+   "th-simon-sciences-artificial-1969",
+   "th-rittel-webber-1973",
+   "inst-hfg-ulm",
+   "th-design-thinking-brown"
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "movement",
+  "id": "metabolism",
+  "name": "Metabolism",
+  "name_es": "Metabolismo",
+  "start": 1960,
+  "end": 1975,
+  "disciplines": [
+   "architecture"
+  ],
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Separar del actual «Brutalismo y Metabolismo»: corriente japonesa de la ciudad-estructura con cápsulas reemplazables.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-miracle",
+    "mecanismo": "El crecimiento acelerado de las ciudades japonesas → megaestructuras que crecen y cambian por partes"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-metabolism-1960",
+    "mecanismo": "Su manifiesto de 1960 fija el programa"
+   }
+  ],
+  "miembros": [
+   "nakagin-capsule-tower",
+   "kurokawa",
+   "kenzo-tange",
+   "th-metabolism-1960",
+   "yoyogi-gymnasium-1964"
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "movement",
+  "id": "minimalism-fashion-product",
+  "name": "Minimalism in fashion and product design",
+  "name_es": "Minimalismo en moda y producto",
+  "start": 1988,
+  "end": 2008,
+  "disciplines": [
+   "fashion",
+   "product"
+  ],
+  "regions": [
+   "europe",
+   "global"
+  ],
+  "countries": [
+   "DE",
+   "AT",
+   "US",
+   "GB",
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Reacción de los noventa contra el exceso de los ochenta (Jil Sander, Helmut Lang, Calvin Klein; Muji, Morrison, Fukasawa).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "Reacción contra la cita, el ornamento y el logo ostentoso de los ochenta → forma reducida y materiales"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-muji",
+    "mecanismo": "Muji es su versión de producto sin marca"
+   }
+  ],
+  "miembros": [
+   "helmut-lang-1998",
+   "helmut-lang",
+   "muji-cd-player-1999",
+   "naoto-fukasawa",
+   "jasper-morrison",
+   "air-chair-1999",
+   "inst-muji"
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-royal-society-of-arts",
+  "name": "Royal Society of Arts",
+  "name_es": "Royal Society of Arts (Sociedad para el Fomento de las Artes, Manufacturas y Comercio)",
+  "kind": "association",
+  "start": 1754,
+  "end": null,
+  "place": "London",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Premios a la invención y al diseño industrial desde 1754; desde ella Henry Cole y el príncipe Alberto organizan la Gran Exposición.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-industrial-revolution",
+    "mecanismo": "La nueva industria necesita mejores modelos → premios públicos a invenciones y diseños aplicados"
+   },
+   {
+    "tipo": "secundario",
+    "via": "ctx-great-exhibition",
+    "mecanismo": "Sus miembros promueven la exposición de 1851"
+   }
+  ],
+  "era": "industrial",
+  "obras": [
+   "crystal-palace"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-maison-art-nouveau",
+  "name": "Maison de l'Art Nouveau (Siegfried Bing)",
+  "name_es": "Maison de l'Art Nouveau (Siegfried Bing)",
+  "kind": "company",
+  "start": 1895,
+  "end": 1905,
+  "place": "Paris",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "La galería de Bing da su nombre al Art Nouveau y une japonismo, artes decorativas y diseño moderno.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japonisme",
+    "mecanismo": "Bing, comerciante de arte japonés, convierte ese gusto en un programa de artes decorativas nuevas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "art-nouveau",
+    "mecanismo": "El nombre del movimiento viene de su galería"
+   }
+  ],
+  "era": "reform",
+  "obras": [
+   "bloemenwerf-chair-1895",
+   "tiffany-lamps"
+  ],
+  "duda": "Año de cierre (c. 1904–1905): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-darmstadt-colony",
+  "name": "Darmstadt Artists’ Colony",
+  "name_es": "Colonia de Artistas de Darmstadt (Mathildenhöhe)",
+  "kind": "association",
+  "start": 1899,
+  "end": 1914,
+  "place": "Darmstadt",
+  "disciplines": [
+   "architecture",
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Colonia creada por el gran duque Ernesto Luis; Olbrich y Behrens ensayan allí la obra de arte total del Jugendstil.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-national-unifications",
+    "mecanismo": "Los Estados alemanes compiten por prestigio cultural e industrial → mecenazgo de un modelo de vivienda y artes aplicadas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "joseph-maria-olbrich",
+    "mecanismo": "Olbrich proyecta sus edificios principales"
+   }
+  ],
+  "era": "reform",
+  "obras": [
+   "ernst-ludwig-house-1901"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-domus",
+  "name": "Domus",
+  "name_es": "Domus",
+  "kind": "publication",
+  "start": 1928,
+  "end": null,
+  "place": "Milan",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Revista fundada por Gio Ponti; con Casabella, el principal medio del diseño italiano del siglo XX.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La cultura del proyecto italiano se discute y difunde en revistas de arquitectura y diseño"
+   },
+   {
+    "tipo": "secundario",
+    "via": "gio-ponti",
+    "mecanismo": "La funda y la dirige durante décadas"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-independent-group",
+  "name": "Independent Group",
+  "name_es": "Independent Group",
+  "kind": "association",
+  "start": 1952,
+  "end": 1955,
+  "place": "London (ICA)",
+  "disciplines": [
+   "graphic",
+   "architecture",
+   "product"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Grupo del ICA (Hamilton, Paolozzi, los Smithson, Banham) que piensa la cultura de masas y el consumo: origen del arte y del diseño pop.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-pop-art",
+    "mecanismo": "Su interés por la publicidad estadounidense y los objetos de consumo da origen al arte pop británico"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La abundancia de la posguerra se analiza como cultura y no solo como mal gusto"
+   },
+   {
+    "tipo": "secundario",
+    "via": "smithsons",
+    "mecanismo": "Los Smithson pertenecen al grupo"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-icsid",
+  "name": "ICSID (World Design Organization)",
+  "name_es": "ICSID (hoy World Design Organization)",
+  "kind": "association",
+  "start": 1957,
+  "end": null,
+  "place": "London / Montreal",
+  "disciplines": [
+   "product"
+  ],
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "GB",
+   "CA"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Consejo internacional del diseño industrial: definición profesional, congresos y difusión del diseño en países en desarrollo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-professionalisation-design",
+    "mecanismo": "Las asociaciones nacionales de diseñadores se federan → definición internacional de la profesión"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-di-tella",
+  "name": "Instituto Torcuato Di Tella",
+  "name_es": "Instituto Torcuato Di Tella",
+  "kind": "school",
+  "start": 1958,
+  "end": 1970,
+  "place": "Buenos Aires",
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "AR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Centro de vanguardia de Buenos Aires cuyo departamento de diseño gráfico renovó la gráfica argentina de los sesenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "La industrialización y una empresa con fundación cultural financian un centro de arte y diseño moderno"
+   }
+  ],
+  "era": "postwar",
+  "duda": "Nombres del equipo de diseño (Juan Carlos Distéfano, Rubén Fontana): verificar antes de citarlos.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-total-design",
+  "name": "Total Design",
+  "name_es": "Total Design",
+  "kind": "studio",
+  "start": 1963,
+  "end": null,
+  "place": "Amsterdam",
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "NL"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Primer gran estudio multidisciplinario neerlandés (Crouwel, Bos, Schwarz); identidades de Schiphol y del Stedelijk.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "wim-crouwel",
+    "mecanismo": "Crouwel es su cofundador"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-central-school",
+  "name": "Central School of Arts and Crafts",
+  "name_es": "Central School of Arts and Crafts",
+  "kind": "school",
+  "start": 1896,
+  "end": null,
+  "place": "London",
+  "disciplines": [
+   "product",
+   "graphic",
+   "fashion"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Escuela del Arts and Crafts (Lethaby); hoy parte de Central Saint Martins, cuna de la moda británica de los noventa.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Lleva a la enseñanza el programa del Arts and Crafts"
+   }
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-smith-wealth-of-nations-1776",
+  "name": "The Wealth of Nations",
+  "name_es": "La riqueza de las naciones",
+  "author": "Adam Smith",
+  "year": 1776,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "La división del trabajo (la fábrica de alfileres) explica la separación entre quien diseña y quien fabrica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-division-of-labour",
+    "mecanismo": "Smith describe y defiende la división del trabajo que reorganiza los talleres y crea el oficio del modelista"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-pugin-contrasts-1836",
+  "name": "Contrasts",
+  "name_es": "Contrastes",
+  "author": "Augustus Welby Northmore Pugin",
+  "year": 1836,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primer manifiesto del neogótico: compara la ciudad medieval con la industrial para condenar esta última.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-urbanisation-working-class",
+    "mecanismo": "La ciudad industrial con su miseria → Pugin opone a ella la ciudad medieval como modelo moral"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-durand-precis-1802",
+  "name": "Précis des leçons d’architecture",
+  "name_es": "Compendio de lecciones de arquitectura",
+  "author": "Jean-Nicolas-Louis Durand",
+  "year": 1802,
+  "genre": "architecture",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Método de composición por retículas y tipos para ingenieros: antecedente del diseño sistemático.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-napoleonic-empire",
+    "mecanismo": "El Estado necesita formar ingenieros para obras públicas → método económico y repetible de composición"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-morris-hopes-fears-1882",
+  "name": "Hopes and Fears for Art",
+  "name_es": "Esperanzas y temores para el arte",
+  "author": "William Morris",
+  "year": 1882,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Las conferencias de Morris (desde 1877) sobre las «artes menores» y el trabajo: el texto fundador del Arts and Crafts. Morris es ★ y hoy no tiene ningún texto propio en la línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-victorian-taste-crisis",
+    "mecanismo": "La mala calidad de la producción industrial → Morris pide un arte hecho por el pueblo y para el pueblo"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-labour-movement",
+    "mecanismo": "Su crítica del trabajo industrial converge con el socialismo de la década de 1880"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Programa teórico del movimiento"
+   }
+  ],
+  "era": "reform",
+  "duda": "Año de la primera conferencia («The Decorative Arts», 1877) y de la edición (1882): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-eastlake-hints-1868",
+  "name": "Hints on Household Taste",
+  "name_es": "Consejos sobre el gusto doméstico",
+  "author": "Charles Eastlake",
+  "year": 1868,
+  "genre": "method",
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Manual de reforma del gusto doméstico, muy influyente en Estados Unidos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "mecanismo": "La casa burguesa se vuelve objeto de consejo → muebles más simples y honestos"
+   }
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-wright-art-craft-machine-1901",
+  "name": "The Art and Craft of the Machine",
+  "name_es": "El arte y el oficio de la máquina",
+  "author": "Frank Lloyd Wright",
+  "year": 1901,
+  "genre": "manifesto",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Conferencia de Hull House: a diferencia de Morris, Wright acepta la máquina como herramienta del artista. Hito citado en toda historia.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-industrial-revolution",
+    "mecanismo": "La máquina moderna puede cortar y repetir con precisión → Wright propone formas simples pensadas para ella"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Responde al Arts and Crafts desde Chicago"
+   }
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-simmel-fashion-1904",
+  "name": "Fashion",
+  "name_es": "La moda",
+  "author": "Georg Simmel",
+  "year": 1904,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Teoría clásica de la moda como tensión entre imitación y distinción (difusión «de arriba abajo»).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-department-stores",
+    "mecanismo": "La moda se difunde rápido entre clases gracias al comercio masivo → Simmel la explica como imitación y distinción"
+   }
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-sant-elia-manifesto-1914",
+  "name": "Manifesto of Futurist Architecture",
+  "name_es": "Manifiesto de la arquitectura futurista",
+  "author": "Antonio Sant'Elia",
+  "year": 1914,
+  "genre": "manifesto",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "La ciudad como máquina en movimiento; antecedente directo del high-tech y de la megaestructura.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-electricity",
+    "mecanismo": "Centrales eléctricas, ascensores y tránsito en varios niveles se vuelven la nueva estética de la ciudad"
+   },
+   {
+    "tipo": "secundario",
+    "via": "futurism-typography",
+    "mecanismo": "Extiende el futurismo a la arquitectura"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-international-style-1932",
+  "name": "The International Style: Architecture since 1922",
+  "name_es": "El estilo internacional: arquitectura desde 1922",
+  "author": "Henry-Russell Hitchcock and Philip Johnson",
+  "year": 1932,
+  "genre": "architecture",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Libro y exposición del MoMA que dieron nombre y reglas al estilo internacional; texto obligatorio.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Antes y durante el exilio de los arquitectos europeos, el MoMA presenta su obra al público estadounidense como un estilo"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-moma",
+    "mecanismo": "Exposición «Modern Architecture: International Exhibition» (1932)"
+   },
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "Da nombre al movimiento"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-kepes-language-of-vision-1944",
+  "name": "Language of Vision",
+  "name_es": "El lenguaje de la visión",
+  "author": "György Kepes",
+  "year": 1944,
+  "genre": "pedagogy",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Manual de percepción y forma de la Nueva Bauhaus de Chicago, base de la enseñanza del diseño gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Docentes de la Bauhaus exiliados en Chicago convierten su pedagogía en manual"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-new-bauhaus",
+    "mecanismo": "Kepes enseña en la Nueva Bauhaus"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-giedion-mechanization-1948",
+  "name": "Mechanization Takes Command",
+  "name_es": "La mecanización toma el mando",
+  "author": "Sigfried Giedion",
+  "year": 1948,
+  "genre": "history",
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Historia «anónima» de los objetos y la mecanización (cocina, cadena de montaje, mueble patentado): fundadora de la historia del diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-fordism",
+    "mecanismo": "La cadena de montaje y la cocina racional se estudian como hechos culturales"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-space-time-architecture",
+    "mecanismo": "Continúa su historia de la modernidad"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-barthes-mythologies-1957",
+  "name": "Mythologies",
+  "name_es": "Mitologías",
+  "author": "Roland Barthes",
+  "year": 1957,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Ensayos sobre el Citroën DS, el plástico o la publicidad: inaugura la lectura semiótica de los objetos de consumo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "Los objetos de consumo de la posguerra se leen como signos y mitos"
+   },
+   {
+    "tipo": "secundario",
+    "via": "citroen-ds",
+    "mecanismo": "Su ensayo sobre el DS es lectura habitual en los cursos"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-lynch-image-city-1960",
+  "name": "The Image of the City",
+  "name_es": "La imagen de la ciudad",
+  "author": "Kevin Lynch",
+  "year": 1960,
+  "genre": "architecture",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Legibilidad urbana (sendas, bordes, nodos, hitos): base de la señalética y del diseño urbano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-motorisation",
+    "mecanismo": "La ciudad del automóvil se vuelve difícil de leer → estudio de cómo la gente se orienta"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-albers-interaction-color-1963",
+  "name": "Interaction of Color",
+  "name_es": "La interacción del color",
+  "author": "Josef Albers",
+  "year": 1963,
+  "genre": "pedagogy",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Manual de color de un maestro de la Bauhaus, Black Mountain y Yale; sigue en uso en las escuelas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Un profesor de la Bauhaus exiliado traslada su curso de color a Estados Unidos"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-black-mountain",
+    "mecanismo": "Enseña en Black Mountain College"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-munari-arte-come-mestiere-1966",
+  "name": "Design as Art (Arte come mestiere)",
+  "name_es": "El arte como oficio",
+  "author": "Bruno Munari",
+  "year": 1966,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Defensa del diseñador como artista de la vida cotidiana; texto clásico del diseño italiano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "El diseño italiano se piensa como cultura y no solo como industria"
+   },
+   {
+    "tipo": "secundario",
+    "via": "bruno-munari",
+    "mecanismo": "Autor"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-ruder-typographie-1967",
+  "name": "Typographie",
+  "name_es": "Typographie",
+  "author": "Emil Ruder",
+  "year": 1967,
+  "genre": "typography",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Manual de la Escuela de Basilea; con Müller-Brockmann, la otra referencia del estilo suizo.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "basel-school-typography",
+    "mecanismo": "Sistematiza la enseñanza de Basilea"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-baudrillard-system-objects-1968",
+  "name": "The System of Objects",
+  "name_es": "El sistema de los objetos",
+  "author": "Jean Baudrillard",
+  "year": 1968,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Los objetos de consumo como sistema de signos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La abundancia de objetos se analiza como lenguaje de estatus"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-simon-sciences-artificial-1969",
+  "name": "The Sciences of the Artificial",
+  "name_es": "Las ciencias de lo artificial",
+  "author": "Herbert A. Simon",
+  "year": 1969,
+  "genre": "method",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Define el diseño como el paso de una situación existente a una preferida; base teórica de los métodos y del «design thinking».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mainframe-computing",
+    "mecanismo": "La computación y la inteligencia artificial llevan a pensar el diseño como resolución de problemas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "design-methods",
+    "mecanismo": "Texto de referencia del movimiento"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-maldonado-speranza-1970",
+  "name": "La speranza progettuale (Design, Nature, and Revolution)",
+  "name_es": "La esperanza proyectual",
+  "author": "Tomás Maldonado",
+  "year": 1970,
+  "genre": "criticism",
+  "regions": [
+   "europe",
+   "latin-america"
+  ],
+  "countries": [
+   "IT",
+   "AR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "El rector argentino de Ulm sobre ecología y proyecto; pieza clave de la teoría latinoamericana del diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-ecology",
+    "mecanismo": "La crisis ambiental exige un proyecto responsable del entorno"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-hfg-ulm",
+    "mecanismo": "Maldonado fue profesor y rector de Ulm"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-rittel-webber-1973",
+  "name": "Dilemmas in a General Theory of Planning",
+  "name_es": "Dilemas de una teoría general de la planificación",
+  "author": "Horst Rittel and Melvin Webber",
+  "year": 1973,
+  "genre": "method",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Introduce los «problemas perversos» (wicked problems): fin del optimismo metodológico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-us-urban-renewal",
+    "mecanismo": "El fracaso de la planificación urbana técnica → los problemas sociales no tienen solución única"
+   },
+   {
+    "tipo": "secundario",
+    "via": "design-methods",
+    "mecanismo": "Cierra la primera etapa del movimiento"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-mari-autoprogettazione-1974",
+  "name": "Autoprogettazione",
+  "name_es": "Autoproyectación",
+  "author": "Enzo Mari",
+  "year": 1974,
+  "genre": "manifesto",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Muebles que cualquiera arma con tablas y clavos: crítica al consumo y antecedente del diseño abierto.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-oil-crisis",
+    "mecanismo": "La crisis y la crítica al consumo → muebles autoconstruidos con material corriente"
+   },
+   {
+    "tipo": "secundario",
+    "via": "radical-design",
+    "mecanismo": "Versión práctica de la crítica radical"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-bonsiepe-dependencia-1978",
+  "name": "Diseño industrial, tecnología y dependencia",
+  "name_es": "Diseño industrial, tecnología y dependencia",
+  "author": "Gui Bonsiepe",
+  "year": 1978,
+  "genre": "society",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "MX",
+   "CL",
+   "AR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Teoría del diseño en la periferia: el texto latinoamericano más citado del período.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "La teoría de la dependencia → el diseño como herramienta de autonomía tecnológica"
+   },
+   {
+    "tipo": "secundario",
+    "via": "gui-bonsiepe",
+    "mecanismo": "Autor"
+   }
+  ],
+  "era": "postmodern",
+  "duda": "Edición (México, 1978): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-hebdige-subculture-1979",
+  "name": "Subculture: The Meaning of Style",
+  "name_es": "Subcultura: el significado del estilo",
+  "author": "Dick Hebdige",
+  "year": 1979,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "El estilo de las subculturas (mods, punks) como resistencia: base de la historia de la moda y del streetwear.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "El punk se estudia como bricolaje de signos y rechazo"
+   },
+   {
+    "tipo": "secundario",
+    "via": "punk-fashion",
+    "mecanismo": "Su objeto de estudio principal"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-forty-objects-desire-1986",
+  "name": "Objects of Desire: Design and Society since 1750",
+  "name_es": "Objetos de deseo: diseño y sociedad desde 1750",
+  "author": "Adrian Forty",
+  "year": 1986,
+  "genre": "history",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Historia social del diseño desde 1750: es, literalmente, la tesis de la LHD (el diseño como respuesta al contexto). Conviene citarla en «Acerca de».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-industrial-revolution",
+    "mecanismo": "Forty explica el diseño a partir de la fábrica, la división del trabajo y el consumo"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-brundtland-1987",
+  "name": "Our Common Future (Brundtland Report)",
+  "name_es": "Nuestro futuro común (Informe Brundtland)",
+  "author": "World Commission on Environment and Development",
+  "year": 1987,
+  "genre": "society",
+  "regions": [
+   "global"
+  ],
+  "countries": [],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Define el desarrollo sostenible; punto de partida del diseño sostenible.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-climate-crisis",
+    "mecanismo": "La crisis ambiental se formula como problema de desarrollo → noción de sostenibilidad"
+   },
+   {
+    "tipo": "secundario",
+    "via": "sustainable-design",
+    "mecanismo": "Marco conceptual del movimiento"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "theory",
+  "id": "th-meggs-history-1983",
+  "name": "A History of Graphic Design",
+  "name_es": "Historia del diseño gráfico",
+  "author": "Philip B. Meggs",
+  "year": 1983,
+  "genre": "history",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Primera gran historia del diseño gráfico; define el canon que la línea sigue.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "inst-aiga",
+    "mecanismo": "Libro de referencia de la profesión"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "designer",
+  "id": "will-bradley",
+  "name": "Will H. Bradley",
+  "born": 1868,
+  "died": 1962,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Principal cartelista e ilustrador del Art Nouveau estadounidense.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-poster-craze",
+    "mecanismo": "La moda del cartel llega a Estados Unidos → carteles y portadas para revistas literarias"
+   }
+  ],
+  "movements": [
+   "art-nouveau"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "ludwig-hohlwein",
+  "name": "Ludwig Hohlwein",
+  "born": 1874,
+  "died": 1949,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Cartelista de Múnich, figura del Plakatstil; su obra posterior sirvió a la propaganda nazi.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "La publicidad de marcas pide carteles de gran impacto → color plano y figura sintética"
+   }
+  ],
+  "movements": [
+   "plakatstil"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "cfa-voysey",
+  "name": "C. F. A. Voysey",
+  "born": 1857,
+  "died": 1941,
+  "kind": "person",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Arquitecto y diseñador del Arts and Crafts: casas blancas y sencillas, papeles pintados y muebles.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "mecanismo": "La casa de clase media busca luz y sencillez → interiores claros y muebles sin ornamento superfluo"
+   }
+  ],
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "gustav-stickley",
+  "name": "Gustav Stickley",
+  "born": 1858,
+  "died": 1942,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Difusor del Arts and Crafts en Estados Unidos con sus muebles Craftsman y su revista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "Revista y catálogo llevan el mueble artesanal a un público de clase media nacional"
+   }
+  ],
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "walter-crane",
+  "name": "Walter Crane",
+  "born": 1845,
+  "died": 1915,
+  "kind": "person",
+  "disciplines": [
+   "graphic",
+   "product"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Ilustrador y diseñador del Arts and Crafts, autor de libros infantiles y de gráfica socialista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-childrens-book-market",
+    "mecanismo": "La escolarización masiva crea un mercado de libros ilustrados en color"
+   }
+  ],
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "kurt-schwitters",
+  "name": "Kurt Schwitters",
+  "born": 1887,
+  "died": 1948,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "DE",
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Artista dadá y tipógrafo de la Nueva Tipografía (revista Merz, publicidad para Hannover).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "El collage dadá pasa a la página impresa y a la publicidad"
+   }
+  ],
+  "movements": [
+   "dada",
+   "new-typography"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "kazimir-malevich",
+  "name": "Kazimir Malevich",
+  "born": 1879,
+  "died": 1935,
+  "kind": "person",
+  "disciplines": [
+   "graphic",
+   "product",
+   "architecture"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Creador del suprematismo, cuyo lenguaje geométrico pasa al diseño soviético.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-russian-revolution",
+    "mecanismo": "La revolución entrega a la vanguardia escuelas y fábricas estatales"
+   }
+  ],
+  "movements": [
+   "suprematism"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "antonio-sant-elia",
+  "name": "Antonio Sant'Elia",
+  "born": 1888,
+  "died": 1916,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Arquitecto futurista de la Città Nuova; murió en la guerra sin construir.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-first-world-war",
+    "mecanismo": "Muere en el frente en 1916; su obra queda en dibujos"
+   }
+  ],
+  "movements": [
+   "futurism-typography"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "herbert-matter",
+  "name": "Herbert Matter",
+  "born": 1907,
+  "died": 1984,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fotógrafo y diseñador suizo de los carteles turísticos de fotomontaje; luego en Knoll y Nueva York.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-leisure",
+    "mecanismo": "El turismo de montaña pide imágenes de impacto → fotomontaje en el cartel"
+   }
+  ],
+  "movements": [
+   "new-vision"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "alvin-lustig",
+  "name": "Alvin Lustig",
+  "born": 1915,
+  "died": 1955,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de portadas modernas para New Directions; figura del modernismo gráfico estadounidense.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "new-york-school-graphic",
+    "mecanismo": "Miembro temprano de la escuela"
+   }
+  ],
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "richard-neutra",
+  "name": "Richard Neutra",
+  "born": 1892,
+  "died": 1970,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "AT",
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Arquitecto austríaco del modernismo californiano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "La casa como instrumento de salud: sol, aire y ejercicio"
+   }
+  ],
+  "movements": [
+   "international-style"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "chareau",
+  "name": "Pierre Chareau",
+  "born": 1883,
+  "died": 1950,
+  "kind": "person",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Autor de la Maison de Verre (reponer desde la reserva).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "Un consultorio médico y una casa con luz difusa y materiales industriales"
+   }
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "walter-dorwin-teague",
+  "name": "Walter Dorwin Teague",
+  "born": 1883,
+  "died": 1960,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Uno de los cuatro grandes del diseño industrial estadounidense (Kodak, Texaco, Boeing); no puede faltar.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-great-depression",
+    "mecanismo": "Las empresas contratan diseñadores para vender en la crisis"
+   }
+  ],
+  "movements": [
+   "streamline-moderne"
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "carwardine",
+  "name": "George Carwardine",
+  "born": 1887,
+  "died": 1947,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Ingeniero autor de la lámpara Anglepoise (reponer).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-electricity",
+    "mecanismo": "La luz eléctrica se dirige al plano de trabajo → brazo orientable equilibrado por resortes"
+   }
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "madame-gres",
+  "name": "Madame Grès",
+  "born": 1903,
+  "died": 1993,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Modista del drapeado escultórico; figura canónica de la alta costura del siglo XX.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-fashion-magazines",
+    "mecanismo": "La prensa de moda difunde su vestido drapeado de inspiración griega"
+   }
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "kaare-klint",
+  "name": "Kaare Klint",
+  "born": 1888,
+  "died": 1954,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "DK"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fundador del mueble moderno danés y de su enseñanza en la Real Academia.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nordic-welfare",
+    "mecanismo": "Antecedente del diseño de bienestar escandinavo"
+   }
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "wells-coates",
+  "name": "Wells Coates",
+  "born": 1895,
+  "died": 1958,
+  "kind": "person",
+  "disciplines": [
+   "product",
+   "architecture"
+  ],
+  "countries": [
+   "GB",
+   "CA"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Arquitecto del Isokon y autor de la radio EKCO AD65.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-radio-broadcasting",
+    "mecanismo": "La radio entra al hogar → una caja redonda de baquelita"
+   }
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "designer",
+  "id": "som",
+  "name": "Skidmore, Owings & Merrill (SOM)",
+  "born": 1936,
+  "died": null,
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Despacho que convirtió el estilo internacional en arquitectura corporativa (Lever House, Gordon Bunshaft).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-corporate-office-boom",
+    "mecanismo": "Las grandes empresas encargan sedes de vidrio como imagen"
+   }
+  ],
+  "movements": [
+   "international-style"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "smithsons",
+  "name": "Alison and Peter Smithson",
+  "born": 1923,
+  "died": 2003,
+  "kind": "duo",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Pareja fundadora del Nuevo Brutalismo y miembros del Team 10 y del Independent Group.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-housing-reconstruction",
+    "mecanismo": "La reconstrucción británica pide escuelas y viviendas → una ética de materiales expuestos"
+   }
+  ],
+  "movements": [
+   "brutalism-metabolism"
+  ],
+  "institutions": [
+   "inst-team-10",
+   "inst-independent-group"
+  ],
+  "duda": "Fechas: Alison 1928–1993, Peter 1923–2003.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "moshe-safdie",
+  "name": "Moshe Safdie",
+  "born": 1938,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "IL",
+   "CA"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Autor de Habitat 67, manifiesto de la vivienda prefabricada en módulos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-expo-67",
+    "mecanismo": "La Expo de Montreal construye su tesis de vivienda modular"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "carlos-raul-villanueva",
+  "name": "Carlos Raúl Villanueva",
+  "born": 1900,
+  "died": 1975,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "VE"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Arquitecto de la Ciudad Universitaria de Caracas, Patrimonio Mundial y gran obra de la «síntesis de las artes».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-latam-urbanisation-1950",
+    "mecanismo": "El crecimiento de Caracas y la inversión estatal → un campus moderno"
+   }
+  ],
+  "movements": [
+   "macro-modernism"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "eladio-dieste",
+  "name": "Eladio Dieste",
+  "born": 1917,
+  "died": 2000,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "UY"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Ingeniero uruguayo de la cerámica armada; referencia mundial de la técnica apropiada.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "Acero y cemento escasos, ladrillo y mano de obra disponibles → bóvedas de ladrillo armado"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "felix-candela",
+  "name": "Félix Candela",
+  "born": 1910,
+  "died": 1997,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "ES",
+   "MX"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Constructor de cascarones de hormigón en México; obra canónica de la ingeniería estructural.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mexico-miracle",
+    "mecanismo": "Mano de obra barata y acero caro → láminas delgadas de hormigón de doble curvatura"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "eero-aarnio",
+  "name": "Eero Aarnio",
+  "born": 1932,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador finlandés del mueble pop de plástico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "La fibra de vidrio permite una silla esférica de una pieza"
+   }
+  ],
+  "movements": [
+   "pop-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "pininfarina",
+  "name": "Battista «Pinin» Farina",
+  "born": 1893,
+  "died": 1966,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Carrocero turinés; el Cisitalia 202 fue el primer automóvil en la colección del MoMA.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La carrocería artesanal italiana se vuelve cultura de diseño"
+   }
+  ],
+  "movements": [
+   "italian-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "kaj-franck",
+  "name": "Kaj Franck",
+  "born": 1911,
+  "died": 1989,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de vajilla y vidrio de uso diario (Arabia, Iittala): la «conciencia» del diseño finlandés.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nordic-welfare",
+    "mecanismo": "Viviendas pequeñas y Estado de bienestar → vajilla combinable, barata y apilable"
+   }
+  ],
+  "movements": [
+   "scandinavian-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "douglas-engelbart",
+  "name": "Douglas Engelbart",
+  "born": 1925,
+  "died": 2013,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Inventor del ratón y del sistema NLS; su demostración de 1968 funda el diseño de interacción.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-cold-war",
+    "mecanismo": "Financiamiento de la agencia militar ARPA para la investigación en computación interactiva"
+   }
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "bruno-munari",
+  "name": "Bruno Munari",
+  "born": 1907,
+  "died": 1998,
+  "kind": "person",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador, artista y teórico italiano (lámparas, libros infantiles, pedagogía).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "Empresas pequeñas como Danese editan objetos experimentales"
+   }
+  ],
+  "movements": [
+   "italian-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "herb-lubalin",
+  "name": "Herb Lubalin",
+  "born": 1918,
+  "died": 1981,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Maestro de la tipografía expresiva (Avant Garde, U&lc, ITC).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-phototypesetting",
+    "mecanismo": "La fotocomposición permite letras pegadas, ligaduras y escalas libres"
+   }
+  ],
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "emory-douglas",
+  "name": "Emory Douglas",
+  "born": 1943,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Ministro de Cultura del Partido Pantera Negra y autor de su gráfica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-civil-rights",
+    "mecanismo": "La lucha por los derechos civiles y el Black Power necesita imágenes propias"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "abram-games",
+  "name": "Abram Games",
+  "born": 1914,
+  "died": 1996,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Cartelista británico de la Segunda Guerra y del Festival de 1951.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-world-war",
+    "mecanismo": "El Ministerio de Guerra encarga carteles de máxima síntesis"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "paco-rabanne",
+  "name": "Paco Rabanne",
+  "born": 1934,
+  "died": 2023,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "ES",
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Modista de la era espacial que vistió con plástico y metal.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Discos de plástico y anillas de metal sustituyen a la tela"
+   }
+  ],
+  "movements": [
+   "space-age-fashion"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "jamie-reid",
+  "name": "Jamie Reid",
+  "born": 1947,
+  "died": 2023,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Autor de la gráfica de los Sex Pistols: collage y letras recortadas de nota de rescate.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "El punk pide una gráfica barata, agresiva y de apariencia improvisada"
+   }
+  ],
+  "movements": [
+   "punk-fashion"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "peter-saville",
+  "name": "Peter Saville",
+  "born": 1955,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de Factory Records (Joy Division, New Order).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "Tras el punk, sellos independientes dan libertad total a las portadas"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "wolfgang-weingart",
+  "name": "Wolfgang Weingart",
+  "born": 1941,
+  "died": 2021,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "DE",
+   "CH"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Profesor en Basilea que rompió el estilo suizo desde dentro: origen de la New Wave tipográfica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-crisis-functionalism",
+    "mecanismo": "La crisis del funcionalismo → capas, texturas y tipografía rota"
+   }
+  ],
+  "movements": [
+   "new-wave-typography",
+   "basel-school-typography"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "katherine-mccoy",
+  "name": "Katherine McCoy",
+  "born": 1945,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Codirectora del posgrado de Cranbrook; llevó el postestructuralismo al diseño gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "La teoría francesa sugiere textos con varias lecturas"
+   }
+  ],
+  "movements": [
+   "new-wave-typography"
+  ],
+  "institutions": [
+   "inst-cranbrook"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "oliviero-toscani",
+  "name": "Oliviero Toscani",
+  "born": 1942,
+  "died": 2025,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Fotógrafo de las campañas de Benetton que llevaron temas sociales a la publicidad.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La marca global se vende con valores y polémica, no con el producto"
+   }
+  ],
+  "duda": "Fecha de muerte (2025): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "muriel-cooper",
+  "name": "Muriel Cooper",
+  "born": 1925,
+  "died": 1994,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñadora del MIT Press y del Visible Language Workshop; pionera de la tipografía en pantalla.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "La pantalla interactiva → tipografía en un espacio tridimensional y navegable"
+   }
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "toru-iwatani",
+  "name": "Toru Iwatani",
+  "born": 1955,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de Pac-Man en Namco.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Microprocesadores baratos hacen posibles los videojuegos de salón"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "gunpei-yokoi",
+  "name": "Gunpei Yokoi",
+  "born": 1941,
+  "died": 1997,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de Nintendo (Game & Watch, Game Boy) y de su principio de «tecnología madura».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Componentes baratos y probados permiten consolas portátiles económicas"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "naoto-fukasawa",
+  "name": "Naoto Fukasawa",
+  "born": 1956,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador japonés de Muji y del «Super Normal» con Jasper Morrison.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "inst-muji",
+    "mecanismo": "Diseñador principal de producto de Muji"
+   }
+  ],
+  "movements": [
+   "minimalism-fashion-product"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "shiro-kuramata",
+  "name": "Shiro Kuramata",
+  "born": 1934,
+  "died": 1991,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador japonés de mobiliario poético, miembro de Memphis.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "memphis",
+    "mecanismo": "Participa en las colecciones de Memphis"
+   }
+  ],
+  "movements": [
+   "memphis"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "bill-moggridge",
+  "name": "Bill Moggridge",
+  "born": 1943,
+  "died": 2012,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Diseñador del primer portátil con pantalla abatible (GRiD Compass); acuñó «diseño de interacción»; cofundador de IDEO.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "El computador sale de la oficina → hay que diseñar la interacción además de la carcasa"
+   }
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "institutions": [
+   "inst-ideo"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "donna-karan",
+  "name": "Donna Karan",
+  "born": 1948,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñadora del guardarropa modular para la mujer ejecutiva.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "Más mujeres en cargos directivos → ropa de trabajo propia, no copiada del traje masculino"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "helmut-lang",
+  "name": "Helmut Lang",
+  "born": 1956,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "AT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador austríaco del minimalismo de los noventa; pionero de la presentación en línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-internet-culture",
+    "mecanismo": "La web permite presentar una colección sin desfile"
+   }
+  ],
+  "movements": [
+   "minimalism-fashion-product"
+  ],
+  "duda": "Presentación en línea de 1998: verificar el detalle.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "marc-jacobs",
+  "name": "Marc Jacobs",
+  "born": 1963,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de la colección grunge para Perry Ellis y director de Louis Vuitton.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mtv-club",
+    "mecanismo": "La música grunge difundida por MTV llega a la pasarela"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "karl-lagerfeld",
+  "name": "Karl Lagerfeld",
+  "born": 1933,
+  "died": 2019,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Director creativo de Chanel desde 1983; modelo del diseñador que reinterpreta una casa histórica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La casa de moda se gestiona como marca global"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "miuccia-prada",
+  "name": "Miuccia Prada",
+  "born": 1949,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñadora de Prada y Miu Miu; su mochila de nailon redefinió el lujo de los ochenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "Un material industrial con un logo discreto se vuelve objeto de lujo"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "diller-scofidio-renfro",
+  "name": "Diller Scofidio + Renfro",
+  "born": 1979,
+  "died": null,
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Estudio neoyorquino (High Line, con James Corner Field Operations y Piet Oudolf).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "mecanismo": "La infraestructura industrial abandonada se transforma en espacio público"
+   }
+  ],
+  "movements": [
+   "landscape-urbanism"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "denise-scott-brown",
+  "name": "Denise Scott Brown",
+  "born": 1931,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "ZA",
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Coautora de Learning from Las Vegas y socia de Venturi; su exclusión del Pritzker de 1991 es un caso central de la historiografía feminista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "El reconocimiento desigual entre socios se vuelve un debate público sobre autoría y género"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-learning-from-las-vegas",
+    "mecanismo": "Coautora"
+   }
+  ],
+  "movements": [
+   "postmodern-architecture"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "designer",
+  "id": "brinkman-van-der-vlugt",
+  "name": "Brinkman & Van der Vlugt",
+  "born": 1925,
+  "died": 1936,
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "NL"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Autores de la fábrica Van Nelle (★), hoy sin ficha de diseñador.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "van-nelle-factory",
+    "mecanismo": "Obra principal"
+   }
+  ],
+  "duda": "Fechas del estudio: verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "designer",
+  "id": "william-van-alen",
+  "name": "William Van Alen",
+  "born": 1883,
+  "died": 1954,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Arquitecto del Chrysler Building, que esta revisión sube a ★.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "art-deco",
+    "mecanismo": "El edificio más citado del art déco"
+   }
+  ],
+  "movements": [
+   "art-deco"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "designer",
+  "id": "chermayeff-geismar",
+  "name": "Chermayeff & Geismar",
+  "born": 1957,
+  "died": null,
+  "kind": "collective",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Estudio de identidad corporativa (Chase, Mobil, NBC); hoy solo aparece como texto en `maker`.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "corporate-identity-design",
+    "mecanismo": "Pioneros de la identidad abstracta"
+   }
+  ],
+  "movements": [
+   "corporate-identity-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "kew-palm-house-1848",
+  "title": "Palm House, Kew Gardens",
+  "title_es": "Casa de las Palmeras de Kew",
+  "year": 1848,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Decimus Burton and Richard Turner",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Invernadero de hierro y vidrio, antecedente directo del Crystal Palace.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-iron-construction",
+    "mecanismo": "Hierro curvado y vidrio en serie → una envolvente ligera y transparente"
+   }
+  ],
+  "era": "industrial",
+  "date": "1844–1848",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "wainwright-building-1891",
+  "title": "Wainwright Building",
+  "title_es": "Edificio Wainwright",
+  "year": 1891,
+  "discipline": "architecture",
+  "designers": [
+   "louis-sullivan"
+  ],
+  "maker": "Adler & Sullivan",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "El rascacielos canónico de Sullivan: estructura de acero expresada en vertical, base-fuste-remate. Falta en la línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-industrial-revolution",
+    "mecanismo": "El acero barato y el ascensor hacen rentable la oficina en altura → Sullivan da forma a la estructura"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-trademark-branding",
+    "mecanismo": "La gran empresa necesita una sede reconocible → el edificio de oficinas como imagen"
+   },
+   {
+    "tipo": "secundario",
+    "via": "chicago-school",
+    "mecanismo": "Obra central de la escuela de Chicago"
+   }
+  ],
+  "era": "reform",
+  "date": "1890–1891",
+  "type": "skyscraper",
+  "movements": [
+   "chicago-school"
+  ],
+  "tech": [
+   "iron-steel-frame",
+   "safety-elevator"
+  ],
+  "duda": "El segundo enlace directo es discutible; si no se sostiene, excepción C4c.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "bradley-chap-book-1894",
+  "title": "Posters and covers for The Chap-Book",
+  "title_es": "Carteles y portadas para The Chap-Book",
+  "year": 1894,
+  "discipline": "graphic",
+  "designers": [
+   "will-bradley"
+  ],
+  "maker": "Stone & Kimball, Chicago",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Art Nouveau estadounidense; Meggs le dedica un apartado.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-poster-craze",
+    "mecanismo": "La fiebre del cartel llega a las revistas literarias de Chicago y Nueva York"
+   },
+   {
+    "tipo": "secundario",
+    "via": "art-nouveau",
+    "mecanismo": "Versión estadounidense del estilo"
+   }
+  ],
+  "era": "reform",
+  "date": "1894–1896",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "hohlwein-posters-1908",
+  "title": "Posters by Ludwig Hohlwein",
+  "title_es": "Carteles de Ludwig Hohlwein",
+  "year": 1908,
+  "discipline": "graphic",
+  "designers": [
+   "ludwig-hohlwein"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Segunda figura del Plakatstil, con manchas de color y figuras sintéticas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "Las marcas de consumo de Múnich encargan carteles de lectura inmediata"
+   },
+   {
+    "tipo": "secundario",
+    "via": "plakatstil",
+    "mecanismo": "Figura central"
+   }
+  ],
+  "era": "reform",
+  "date": "c. 1906–1914",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "voysey-orchard-1899",
+  "title": "The Orchard, Chorleywood",
+  "title_es": "The Orchard, Chorleywood",
+  "year": 1899,
+  "discipline": "architecture",
+  "designers": [
+   "cfa-voysey"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Casa del propio Voysey: el Arts and Crafts doméstico que Muthesius dio a conocer en Alemania.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "mecanismo": "La casa de clase media busca luz, sencillez y limpieza"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Ejemplo doméstico del movimiento"
+   }
+  ],
+  "era": "reform",
+  "type": "house",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "stickley-craftsman-1901",
+  "title": "Craftsman furniture and The Craftsman",
+  "title_es": "Muebles Craftsman y la revista The Craftsman",
+  "year": 1901,
+  "discipline": "product",
+  "designers": [
+   "gustav-stickley"
+  ],
+  "maker": "Craftsman Workshops",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "El Arts and Crafts en Estados Unidos (estilo «Mission»).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "Revista y venta por catálogo llevan el mueble sólido a todo el país"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Versión estadounidense"
+   }
+  ],
+  "era": "reform",
+  "date": "1901–1916",
+  "type": "furniture",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "crane-babys-opera-1877",
+  "title": "The Baby's Opera",
+  "title_es": "The Baby's Opera",
+  "year": 1877,
+  "discipline": "graphic",
+  "designers": [
+   "walter-crane"
+  ],
+  "maker": "Edmund Evans (printer)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Libro ilustrado clásico de la época dorada del libro infantil victoriano (Crane, Greenaway, Caldecott).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-childrens-book-market",
+    "mecanismo": "La escolarización y la impresión en color crean el libro infantil ilustrado"
+   },
+   {
+    "tipo": "secundario",
+    "via": "under-the-window-1879",
+    "mecanismo": "Mismo impresor y mismo mercado"
+   }
+  ],
+  "era": "reform",
+  "type": "book",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "ernst-ludwig-house-1901",
+  "title": "Ernst Ludwig House, Darmstadt",
+  "title_es": "Casa Ernst Ludwig, Darmstadt",
+  "year": 1901,
+  "discipline": "architecture",
+  "designers": [
+   "joseph-maria-olbrich"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Edificio de talleres de la colonia de Darmstadt y escenario de la exposición de 1901.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-national-unifications",
+    "mecanismo": "Mecenazgo ducal para dar prestigio a un Estado alemán"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-darmstadt-colony",
+    "mecanismo": "Edificio central de la colonia"
+   }
+  ],
+  "era": "reform",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "doves-bible-1903",
+  "title": "Doves Press Bible",
+  "title_es": "Biblia de la Doves Press",
+  "year": 1903,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "T. J. Cobden-Sanderson and Emery Walker, Doves Press",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Libro de imprenta privada de pura tipografía, contracara del Kelmscott.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "kelmscott-chaucer",
+    "mecanismo": "Continúa el movimiento de las imprentas privadas con un libro sin ornamento"
+   }
+  ],
+  "era": "reform",
+  "date": "1903–1905",
+  "type": "book",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "dlia-golosa-1923",
+  "title": "For the Voice (Dlia golosa)",
+  "title_es": "Para la voz (Dlia golosa)",
+  "year": 1923,
+  "discipline": "graphic",
+  "designers": [
+   "el-lissitzky"
+  ],
+  "maker": "State Publishing House, Berlin",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU",
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Libro de poemas de Maiakovski construido con material de caja tipográfica; hito de la tipografía de vanguardia.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "La vanguardia rompe la página → letras y filetes de la caja se vuelven imagen"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-russian-revolution",
+    "mecanismo": "La poesía revolucionaria se escribe para ser leída en voz alta → índice con pestañas para encontrar cada poema"
+   },
+   {
+    "tipo": "secundario",
+    "via": "constructivism",
+    "mecanismo": "Libro constructivista por excelencia"
+   }
+  ],
+  "era": "modernism",
+  "type": "book",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "merz-magazine-1923",
+  "title": "Merz",
+  "title_es": "Merz",
+  "year": 1923,
+  "discipline": "graphic",
+  "designers": [
+   "kurt-schwitters"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Revista de Schwitters entre el dadá y la Nueva Tipografía (número con Lisitski, 1924).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "Los grupos de vanguardia se comunican mediante revistas propias"
+   },
+   {
+    "tipo": "secundario",
+    "via": "dada",
+    "mecanismo": "Publicación dadá"
+   }
+  ],
+  "era": "modernism",
+  "date": "1923–1932",
+  "type": "magazine",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "suprematist-teapot-1923",
+  "title": "Suprematist teapot",
+  "title_es": "Tetera suprematista",
+  "year": 1923,
+  "discipline": "product",
+  "designers": [
+   "kazimir-malevich"
+  ],
+  "maker": "State Porcelain Factory, Petrograd",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Objeto suprematista para la Fábrica Estatal de Porcelana: la geometría de vanguardia en un objeto cotidiano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-russian-revolution",
+    "mecanismo": "La fábrica imperial de porcelana pasa al Estado y produce diseños de vanguardia"
+   },
+   {
+    "tipo": "secundario",
+    "via": "suprematism",
+    "mecanismo": "Ejemplo del suprematismo aplicado"
+   }
+  ],
+  "era": "modernism",
+  "type": "kitchenware",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "citta-nuova-1914",
+  "title": "La Città Nuova",
+  "title_es": "La Città Nuova",
+  "year": 1914,
+  "discipline": "architecture",
+  "designers": [
+   "antonio-sant-elia"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Dibujos de la ciudad futurista: rascacielos escalonados, ascensores exteriores y tráfico en varios niveles.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-electricity",
+    "mecanismo": "Centrales eléctricas y ascensores como nueva escala de la ciudad"
+   },
+   {
+    "tipo": "secundario",
+    "via": "futurism-typography",
+    "mecanismo": "Futurismo en arquitectura"
+   }
+  ],
+  "era": "modernism",
+  "type": "project",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "dom-ino-1914",
+  "title": "Dom-ino House (project)",
+  "title_es": "Casa Dom-ino (proyecto)",
+  "year": 1914,
+  "discipline": "architecture",
+  "designers": [
+   "le-corbusier"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Esquema de losas y pilares de hormigón que libera planta y fachada; diagrama fundacional de la arquitectura moderna.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-first-world-war",
+    "mecanismo": "La destrucción de la guerra sugiere una estructura estándar para reconstruir rápido"
+   },
+   {
+    "tipo": "secundario",
+    "via": "le-corbusier",
+    "mecanismo": "Base de los «cinco puntos»"
+   }
+  ],
+  "era": "modernism",
+  "date": "1914–1915",
+  "type": "project",
+  "tech": [
+   "reinforced-concrete"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "paimio-sanatorium-1933",
+  "title": "Paimio Sanatorium",
+  "title_es": "Sanatorio de Paimio",
+  "year": 1933,
+  "discipline": "architecture",
+  "designers": [
+   "aalto-alvar-aino"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Obra mayor de Aalto, diseñada con sus muebles; ejemplo de la arquitectura al servicio de la salud.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "La cura de la tuberculosis por aire y sol → pabellones orientados, terrazas y muebles pensados para el paciente"
+   },
+   {
+    "tipo": "secundario",
+    "via": "paimio-chair",
+    "mecanismo": "La silla se diseñó para este edificio"
+   }
+  ],
+  "era": "modernism",
+  "date": "1929–1933",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "maison-de-verre",
+  "title": "Maison de Verre",
+  "title_es": "Maison de Verre",
+  "year": 1928,
+  "discipline": "architecture",
+  "designers": [
+   "chareau"
+  ],
+  "maker": "Pierre Chareau with Bernard Bijvoet and Louis Dalbet",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Casa-consultorio de bloques de vidrio y piezas industriales móviles; reponer desde la reserva.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "Un consultorio médico con luz difusa, superficies lavables y piezas metálicas"
+   }
+  ],
+  "era": "modernism",
+  "date": "1928–1932",
+  "type": "house",
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "karl-marx-hof",
+  "title": "Karl-Marx-Hof",
+  "title_es": "Karl-Marx-Hof",
+  "year": 1927,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Karl Ehn (Vienna municipal architect)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "AT"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Emblema de la vivienda social de la Viena Roja; el contexto `ctx-red-vienna` existe y hoy no explica ninguna obra de vivienda. Reponer.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-red-vienna",
+    "mecanismo": "El ayuntamiento socialista construye grandes bloques con patios y servicios comunes"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-weimar-housing",
+    "mecanismo": "La falta de vivienda de la posguerra → edificios municipales de alquiler barato"
+   }
+  ],
+  "era": "modernism",
+  "date": "1927–1930",
+  "type": "housing",
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "baby-brownie",
+  "title": "Baby Brownie camera",
+  "title_es": "Cámara Baby Brownie",
+  "year": 1934,
+  "discipline": "product",
+  "designers": [
+   "walter-dorwin-teague"
+  ],
+  "maker": "Eastman Kodak",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Cámara de baquelita moldeada de Teague para Kodak; reponer junto con su diseñador.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-great-depression",
+    "mecanismo": "Kodak necesita una cámara muy barata → carcasa moldeada en baquelita"
+   },
+   {
+    "tipo": "secundario",
+    "via": "streamline-moderne",
+    "mecanismo": "Estilismo industrial estadounidense"
+   }
+  ],
+  "era": "modernism",
+  "type": "device",
+  "tech": [
+   "bakelite"
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "gres-draped-gowns",
+  "title": "Draped gowns by Alix (Madame Grès)",
+  "title_es": "Vestidos drapeados de Alix (Madame Grès)",
+  "year": 1937,
+  "discipline": "fashion",
+  "designers": [
+   "madame-gres"
+  ],
+  "maker": "Alix",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Drapeado de jersey de seda inspirado en la escultura griega; reponer.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-fashion-magazines",
+    "mecanismo": "La prensa de moda difunde el vestido de noche drapeado"
+   },
+   {
+    "tipo": "secundario",
+    "via": "vionnet",
+    "mecanismo": "Continúa la línea de Vionnet"
+   }
+  ],
+  "era": "modernism",
+  "type": "dress",
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "anglepoise-lamp",
+  "title": "Anglepoise lamp",
+  "title_es": "Lámpara Anglepoise",
+  "year": 1932,
+  "discipline": "product",
+  "designers": [
+   "carwardine"
+  ],
+  "maker": "Herbert Terry & Sons",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Lámpara de brazo equilibrado por resortes, arquetipo de la lámpara de trabajo; reponer.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-electricity",
+    "mecanismo": "La luz eléctrica dirigida al plano de trabajo"
+   },
+   {
+    "tipo": "secundario",
+    "via": "streamline-moderne",
+    "mecanismo": "Contemporánea del diseño industrial de ingenieros"
+   }
+  ],
+  "era": "modernism",
+  "type": "lamp",
+  "duda": "Fabricante (Herbert Terry & Sons, 1934 para la versión de 4 resortes): verificar.",
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "faaborg-chair",
+  "title": "Faaborg chair",
+  "title_es": "Silla Faaborg",
+  "year": 1914,
+  "discipline": "product",
+  "designers": [
+   "kaare-klint"
+  ],
+  "maker": "Rud. Rasmussen",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DK"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primer mueble del moderno danés basado en el estudio de proporciones; reponer.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-classical-archaeology",
+    "mecanismo": "El estudio de muebles antiguos y de proporciones como base del diseño"
+   }
+  ],
+  "era": "modernism",
+  "type": "chair",
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "ekco-ad65",
+  "title": "EKCO AD65 radio",
+  "title_es": "Radio EKCO AD65",
+  "year": 1932,
+  "discipline": "product",
+  "designers": [
+   "wells-coates"
+  ],
+  "maker": "E. K. Cole Ltd",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Radio redonda de baquelita; reponer solo si se quiere más producto británico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-radio-broadcasting",
+    "mecanismo": "La radio se vuelve mueble doméstico"
+   }
+  ],
+  "era": "modernism",
+  "type": "radio",
+  "tech": [
+   "bakelite"
+  ],
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "zonnestraal",
+  "title": "Zonnestraal Sanatorium",
+  "title_es": "Sanatorio Zonnestraal",
+  "year": 1926,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Jan Duiker and Bernard Bijvoet",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "NL"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Sanatorio de hormigón y vidrio de la Nueva Objetividad neerlandesa; reponer solo si se quiere.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "La cura de la tuberculosis por aire y luz"
+   }
+  ],
+  "era": "modernism",
+  "date": "1926–1931",
+  "type": "building",
+  "reserva_origen": "recorte_modernismo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "volksempfanger-1933",
+  "title": "Volksempfänger VE 301",
+  "title_es": "Volksempfänger VE 301 (receptor del pueblo)",
+  "year": 1933,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Walter Maria Kersting (design); several German manufacturers",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Radio barata del régimen nazi para llevar la propaganda a cada hogar: caso claro de diseño y poder.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nazi-regime",
+    "mecanismo": "El régimen quiere llegar a todos los hogares → receptor barato de baquelita y alcance limitado"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-radio-broadcasting",
+    "mecanismo": "La radio como medio de masas"
+   }
+  ],
+  "era": "modernism",
+  "type": "radio",
+  "tech": [
+   "bakelite"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "lovell-health-house-1929",
+  "title": "Lovell Health House",
+  "title_es": "Casa Lovell (Health House)",
+  "year": 1929,
+  "discipline": "architecture",
+  "designers": [
+   "richard-neutra"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primera casa de estructura de acero del estilo internacional en Estados Unidos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "Un cliente higienista pide una casa para la vida sana"
+   },
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "Incluida en la exposición del MoMA de 1932"
+   }
+  ],
+  "era": "modernism",
+  "date": "1927–1929",
+  "type": "house",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "matter-swiss-posters-1935",
+  "title": "Swiss tourism posters",
+  "title_es": "Carteles turísticos suizos",
+  "year": 1935,
+  "discipline": "graphic",
+  "designers": [
+   "herbert-matter"
+  ],
+  "maker": "Swiss National Tourist Office",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fotomontaje y escala dramática en el cartel turístico; puente entre la Nueva Visión y el estilo suizo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-leisure",
+    "mecanismo": "El turismo y los deportes de invierno → carteles fotográficos de impacto"
+   },
+   {
+    "tipo": "secundario",
+    "via": "new-vision",
+    "mecanismo": "Fotomontaje en el cartel"
+   }
+  ],
+  "era": "modernism",
+  "date": "1934–1936",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "lustig-new-directions-1941",
+  "title": "Book jackets for New Directions",
+  "title_es": "Sobrecubiertas para New Directions",
+  "year": 1941,
+  "discipline": "graphic",
+  "designers": [
+   "alvin-lustig"
+  ],
+  "maker": "New Directions",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Portadas abstractas para literatura moderna; modelo del diseño editorial estadounidense.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "new-york-school-graphic",
+    "mecanismo": "Obra temprana del modernismo gráfico estadounidense"
+   }
+  ],
+  "era": "modernism",
+  "date": "c. 1941–1955",
+  "type": "cover",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "farnsworth-house-1951",
+  "title": "Farnsworth House",
+  "title_es": "Casa Farnsworth",
+  "year": 1951,
+  "discipline": "architecture",
+  "designers": [
+   "mies-van-der-rohe"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Una de las casas más citadas del siglo XX: pabellón de acero y vidrio. Quedó fuera de la etapa 6 «por peso»; no puede faltar.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "La casa como estructura y vidrio, sin muros"
+   },
+   {
+    "tipo": "secundario",
+    "via": "glass-house-1949",
+    "mecanismo": "Johnson construye su Casa de Vidrio a partir de este proyecto"
+   }
+  ],
+  "era": "postwar",
+  "date": "1945–1951",
+  "type": "house",
+  "duda": "Sin enlace de contexto directo cierto: excepción C4c (★ con solo enlaces secundarios).",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "glass-house-1949",
+  "title": "Glass House, New Canaan",
+  "title_es": "Casa de Vidrio, New Canaan",
+  "year": 1949,
+  "discipline": "architecture",
+  "designers": [
+   "philip-johnson"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Casa de Philip Johnson, derivada del proyecto Farnsworth; hito del estilo internacional en Estados Unidos.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "Johnson fue quien bautizó el estilo"
+   }
+  ],
+  "era": "postwar",
+  "type": "house",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "lever-house-1952",
+  "title": "Lever House",
+  "title_es": "Lever House",
+  "year": 1952,
+  "discipline": "architecture",
+  "designers": [
+   "som"
+  ],
+  "maker": "Skidmore, Owings & Merrill (Gordon Bunshaft)",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Primer gran muro cortina de oficinas en Nueva York; modelo de la torre corporativa.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-corporate-office-boom",
+    "mecanismo": "La gran empresa de posguerra quiere una sede moderna y limpia como imagen"
+   }
+  ],
+  "era": "postwar",
+  "type": "skyscraper",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "hunstanton-school-1954",
+  "title": "Hunstanton School",
+  "title_es": "Escuela de Hunstanton",
+  "year": 1954,
+  "discipline": "architecture",
+  "designers": [
+   "smithsons"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Obra con la que Banham definió el Nuevo Brutalismo: estructura e instalaciones a la vista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-housing-reconstruction",
+    "mecanismo": "Los programas de reconstrucción británicos construyen escuelas con presupuestos ajustados"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-new-brutalism-banham",
+    "mecanismo": "Banham la toma como ejemplo"
+   }
+  ],
+  "era": "postwar",
+  "date": "1949–1954",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "caracas-ciudad-universitaria-1953",
+  "title": "Ciudad Universitaria de Caracas",
+  "title_es": "Ciudad Universitaria de Caracas",
+  "year": 1953,
+  "discipline": "architecture",
+  "designers": [
+   "carlos-raul-villanueva"
+  ],
+  "maker": null,
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "VE"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Campus moderno con integración de las artes (Calder, Léger, Vasarely); Patrimonio Mundial.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-latam-urbanisation-1950",
+    "mecanismo": "Crecimiento urbano e inversión estatal → un gran campus moderno"
+   },
+   {
+    "tipo": "secundario",
+    "via": "macro-modernism",
+    "mecanismo": "Síntesis de las artes"
+   }
+  ],
+  "era": "postwar",
+  "date": "1940–1960",
+  "type": "complex",
+  "duda": "Año representativo (Aula Magna, 1953).",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "atlantida-church-1960",
+  "title": "Church of Christ the Worker, Atlántida",
+  "title_es": "Iglesia de Cristo Obrero, Atlántida",
+  "year": 1960,
+  "discipline": "architecture",
+  "designers": [
+   "eladio-dieste"
+  ],
+  "maker": null,
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "UY"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Muros y bóveda ondulados de ladrillo armado; obra latinoamericana canónica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "Escasez de acero y cemento → estructura de ladrillo armado de gran economía"
+   }
+  ],
+  "era": "postwar",
+  "date": "1958–1960",
+  "type": "church",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "los-manantiales-1958",
+  "title": "Los Manantiales Restaurant, Xochimilco",
+  "title_es": "Restaurante Los Manantiales, Xochimilco",
+  "year": 1958,
+  "discipline": "architecture",
+  "designers": [
+   "felix-candela"
+  ],
+  "maker": null,
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "MX"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Cascarón de paraboloides hiperbólicos de pocos centímetros; obra canónica de la ingeniería estructural.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mexico-miracle",
+    "mecanismo": "Mano de obra abundante y acero caro → láminas finas de hormigón que se cimbran a mano"
+   }
+  ],
+  "era": "postwar",
+  "type": "building",
+  "tech": [
+   "prestressed-concrete"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "habitat-67",
+  "title": "Habitat 67",
+  "title_es": "Habitat 67",
+  "year": 1967,
+  "discipline": "architecture",
+  "designers": [
+   "moshe-safdie"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "CA"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Viviendas de módulos prefabricados apilados para la Expo de Montreal.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-expo-67",
+    "mecanismo": "La Expo como laboratorio de vivienda industrializada"
+   }
+  ],
+  "era": "postwar",
+  "type": "housing",
+  "tech": [
+   "prefab-panels"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "previ-lima-1969",
+  "title": "PREVI Experimental Housing, Lima",
+  "title_es": "PREVI, Proyecto Experimental de Vivienda, Lima",
+  "year": 1969,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Peruvian government and UNDP; international and Peruvian architects",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "PE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Concurso de vivienda progresiva con equipos internacionales (Stirling, Van Eyck, Correa, metabolistas) y peruanos; antecedente directo de Quinta Monroy.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-latam-urbanisation-1950",
+    "mecanismo": "El crecimiento informal de Lima → casas que los habitantes amplían por etapas"
+   }
+  ],
+  "era": "postwar",
+  "date": "1969–1970s",
+  "type": "housing",
+  "duda": "Lista de equipos participantes: verificar antes de citarlos.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "engelbart-demo-1968",
+  "title": "NLS and the computer mouse (\"Mother of All Demos\")",
+  "title_es": "Sistema NLS y el ratón («la madre de todas las demos»)",
+  "year": 1968,
+  "discipline": "product",
+  "designers": [
+   "douglas-engelbart"
+  ],
+  "maker": "Stanford Research Institute",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Demostración pública del ratón, el hipertexto y las ventanas; origen del diseño de interacción.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mainframe-computing",
+    "mecanismo": "Del cálculo por lotes a la interacción en tiempo real con la máquina"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-cold-war",
+    "mecanismo": "Fondos de ARPA para la investigación en computación"
+   },
+   {
+    "tipo": "secundario",
+    "via": "xerox-star-interface-1981",
+    "mecanismo": "Xerox PARC desarrolla la interfaz gráfica a partir de estas ideas"
+   }
+  ],
+  "era": "postwar",
+  "type": "interface",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "braun-t3-1958",
+  "title": "Braun T3 pocket radio",
+  "title_es": "Radio de bolsillo Braun T3",
+  "year": 1958,
+  "discipline": "product",
+  "designers": [
+   "dieter-rams"
+  ],
+  "maker": "Braun",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Radio de transistores de Rams, citada como antecedente del iPod.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-transistor",
+    "mecanismo": "El transistor permite una radio de bolsillo → caja mínima con rejilla de perforaciones"
+   },
+   {
+    "tipo": "secundario",
+    "via": "ipod-2001",
+    "mecanismo": "Conexión de diseño reconocida"
+   }
+  ],
+  "era": "postwar",
+  "type": "radio",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "ball-chair-1963",
+  "title": "Ball Chair",
+  "title_es": "Silla Ball (Globo)",
+  "year": 1963,
+  "discipline": "product",
+  "designers": [
+   "eero-aarnio"
+  ],
+  "maker": "Asko",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sillón esférico de fibra de vidrio, icono del diseño pop.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "La fibra de vidrio permite una carcasa de una sola pieza"
+   },
+   {
+    "tipo": "secundario",
+    "via": "pop-design",
+    "mecanismo": "Icono pop"
+   }
+  ],
+  "era": "postwar",
+  "type": "chair",
+  "tech": [
+   "fibreglass-polyester"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "sacco-1968",
+  "title": "Sacco bean bag",
+  "title_es": "Puf Sacco",
+  "year": 1968,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Piero Gatti, Cesare Paolini and Franco Teodoro for Zanotta",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Asiento sin forma fija relleno de bolitas de poliestireno; anti-diseño y cultura juvenil.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-youth-counterculture",
+    "mecanismo": "La vida informal de los jóvenes pide un asiento sin forma ni jerarquía"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Bolitas de poliestireno expandido como relleno"
+   }
+  ],
+  "era": "postwar",
+  "type": "chair",
+  "movements": [
+   "radical-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "lego-brick-1958",
+  "title": "LEGO brick",
+  "title_es": "Ladrillo LEGO",
+  "year": 1958,
+  "discipline": "product",
+  "designers": [],
+  "maker": "LEGO (Godtfred Kirk Christiansen)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DK"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sistema modular de plástico moldeado; uno de los objetos de diseño más influyentes.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "El moldeo por inyección permite piezas exactas que encajan siempre"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La abundancia de la posguerra amplía el mercado del juguete"
+   }
+  ],
+  "era": "postwar",
+  "type": "object",
+  "tech": [
+   "injection-moulding"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "cisitalia-202-1947",
+  "title": "Cisitalia 202",
+  "title_es": "Cisitalia 202",
+  "year": 1947,
+  "discipline": "product",
+  "designers": [
+   "pininfarina"
+  ],
+  "maker": "Cisitalia; body by Pinin Farina",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primer automóvil en la colección del MoMA (1951): la carrocería como escultura continua.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La carrocería artesanal italiana como cultura del proyecto"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-moma",
+    "mecanismo": "Exposición «Eight Automobiles», 1951"
+   }
+  ],
+  "era": "postwar",
+  "type": "car",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "kilta-1953",
+  "title": "Kilta tableware",
+  "title_es": "Vajilla Kilta",
+  "year": 1953,
+  "discipline": "product",
+  "designers": [
+   "kaj-franck"
+  ],
+  "maker": "Arabia",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Vajilla de piezas sueltas y combinables (luego Teema): diseño democrático escandinavo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nordic-welfare",
+    "mecanismo": "Departamentos pequeños y hogares modestos → piezas multiuso, apilables y vendidas por separado"
+   }
+  ],
+  "era": "postwar",
+  "type": "tableware",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "falkland-lamp-1964",
+  "title": "Falkland lamp",
+  "title_es": "Lámpara Falkland",
+  "year": 1964,
+  "discipline": "product",
+  "designers": [
+   "bruno-munari"
+  ],
+  "maker": "Danese",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Lámpara de malla elástica y anillos metálicos que se pliega en una caja.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "Pequeñas editoras de objetos experimentan con materiales industriales"
+   }
+  ],
+  "era": "postwar",
+  "type": "lamp",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "bic-cristal-1950",
+  "title": "Bic Cristal ballpoint pen",
+  "title_es": "Bolígrafo Bic Cristal",
+  "year": 1950,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Société Bic (Marcel Bich)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Objeto anónimo de masas y desechable; clásico del diseño de producto.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Cuerpo de poliestireno transparente fabricado por millones"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "El objeto desechable"
+   }
+  ],
+  "era": "postwar",
+  "type": "object",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "avant-garde-lubalin-1968",
+  "title": "Avant Garde magazine and ITC Avant Garde Gothic",
+  "title_es": "Revista Avant Garde y tipografía ITC Avant Garde Gothic",
+  "year": 1968,
+  "discipline": "graphic",
+  "designers": [
+   "herb-lubalin"
+  ],
+  "maker": "Avant Garde (Ralph Ginzburg); ITC",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Logotipo de ligaduras convertido en tipografía (con Tom Carnase): tipografía expresiva de la fotocomposición.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-phototypesetting",
+    "mecanismo": "La fotocomposición permite letras que se tocan y ligaduras imposibles en metal"
+   }
+  ],
+  "era": "postwar",
+  "date": "1968–1970",
+  "type": "typeface",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "black-panther-graphics-1967",
+  "title": "The Black Panther newspaper graphics",
+  "title_es": "Gráfica del periódico The Black Panther",
+  "year": 1967,
+  "discipline": "graphic",
+  "designers": [
+   "emory-douglas"
+  ],
+  "maker": "Black Panther Party",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Gráfica política de alto contraste para un periódico de distribución masiva; hoy en todas las historias recientes.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-civil-rights",
+    "mecanismo": "El movimiento negro necesita su propio medio de comunicación"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-youth-counterculture",
+    "mecanismo": "La protesta de los sesenta produce su gráfica"
+   }
+  ],
+  "era": "postwar",
+  "date": "1967–1980",
+  "type": "print",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "fillmore-posters-1966",
+  "title": "San Francisco psychedelic concert posters",
+  "title_es": "Carteles psicodélicos de conciertos de San Francisco",
+  "year": 1966,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Wes Wilson, Victor Moscoso, Bonnie MacLean and others (Fillmore and Avalon Ballroom)",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Letras deformadas y colores vibrantes del rock psicodélico; capítulo fijo del diseño pop.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-rock-and-pop",
+    "mecanismo": "Conciertos semanales piden carteles que se lean como experiencia"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-youth-counterculture",
+    "mecanismo": "La contracultura rechaza la claridad suiza"
+   }
+  ],
+  "era": "postwar",
+  "date": "1966–1968",
+  "type": "poster",
+  "movements": [
+   "pop-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "festival-britain-emblem-1951",
+  "title": "Festival of Britain emblem",
+  "title_es": "Emblema del Festival de Gran Bretaña",
+  "year": 1951,
+  "discipline": "graphic",
+  "designers": [
+   "abram-games"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Emblema de Britannia sobre una rosa de los vientos, imagen del optimismo de la posguerra.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-festival-of-britain",
+    "mecanismo": "El festival encarga su imagen por concurso"
+   }
+  ],
+  "era": "postwar",
+  "type": "logo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "rabanne-12-dresses-1966",
+  "title": "12 Unwearable Dresses in Contemporary Materials",
+  "title_es": "12 vestidos imposibles de llevar en materiales contemporáneos",
+  "year": 1966,
+  "discipline": "fashion",
+  "designers": [
+   "paco-rabanne"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Vestidos de discos de plástico unidos con anillas metálicas, montados con alicates.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Materiales industriales sustituyen al tejido"
+   },
+   {
+    "tipo": "secundario",
+    "via": "space-age-fashion",
+    "mecanismo": "Moda de la era espacial"
+   }
+  ],
+  "era": "postwar",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "god-save-the-queen-1977",
+  "title": "God Save the Queen (Sex Pistols)",
+  "title_es": "God Save the Queen (Sex Pistols)",
+  "year": 1977,
+  "discipline": "graphic",
+  "designers": [
+   "jamie-reid"
+  ],
+  "maker": "Virgin Records",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "La imagen gráfica del punk: retrato oficial de la reina intervenido con letras recortadas. El punk hoy no tiene obra gráfica en la línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "El punk rechaza el oficio → collage, letras recortadas y fotocopia"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "mecanismo": "Desempleo y crisis de la Gran Bretaña de los setenta → una gráfica de rabia contra la institución"
+   },
+   {
+    "tipo": "secundario",
+    "via": "westwood-punk-1976",
+    "mecanismo": "Misma escena (McLaren, Westwood, Reid)"
+   }
+  ],
+  "era": "postmodern",
+  "type": "cover",
+  "duda": "El segundo enlace directo es interpretativo: si no se sostiene, excepción C4c.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "sniffin-glue-1976",
+  "title": "Sniffin' Glue fanzine",
+  "title_es": "Fanzine Sniffin' Glue",
+  "year": 1976,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Mark Perry",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fanzine punk escrito a mano y fotocopiado: la gráfica «hazlo tú mismo».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "Cualquiera puede publicar → texto a mano, fotocopia y grapas"
+   }
+  ],
+  "era": "postmodern",
+  "date": "1976–1977",
+  "type": "magazine",
+  "tech": [
+   "photocopying"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "unknown-pleasures-1979",
+  "title": "Unknown Pleasures (Joy Division)",
+  "title_es": "Unknown Pleasures (Joy Division)",
+  "year": 1979,
+  "discipline": "graphic",
+  "designers": [
+   "peter-saville"
+  ],
+  "maker": "Factory Records",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Portada con el gráfico de las señales de un púlsar; diseño de sello independiente.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "Los sellos independientes del pospunk dan libertad total al diseño"
+   }
+  ],
+  "era": "postmodern",
+  "type": "cover",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "weingart-posters-1977",
+  "title": "Posters by Wolfgang Weingart",
+  "title_es": "Carteles de Wolfgang Weingart",
+  "year": 1977,
+  "discipline": "graphic",
+  "designers": [
+   "wolfgang-weingart"
+  ],
+  "maker": "Kunstgewerbeschule Basel",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Capas de película, tramas y tipografía rota: la New Wave nace dentro de la escuela suiza. Quedó fuera de la etapa 6.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-crisis-functionalism",
+    "mecanismo": "Se cuestiona la neutralidad del estilo suizo → collage de película y tipografía expresiva"
+   },
+   {
+    "tipo": "secundario",
+    "via": "new-wave-typography",
+    "mecanismo": "Origen del movimiento"
+   }
+  ],
+  "era": "postmodern",
+  "date": "c. 1977–1985",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "cranbrook-new-discourse-1989",
+  "title": "Cranbrook Design: The New Discourse (poster)",
+  "title_es": "Cranbrook Design: The New Discourse (cartel)",
+  "year": 1989,
+  "discipline": "graphic",
+  "designers": [
+   "katherine-mccoy"
+  ],
+  "maker": "Cranbrook Academy of Art",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Cartel de capas de texto que lleva el postestructuralismo al diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "La teoría francesa propone que el lector construye el sentido"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-cranbrook",
+    "mecanismo": "Programa de posgrado de Cranbrook"
+   }
+  ],
+  "era": "postmodern",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "silence-equals-death-1987",
+  "title": "Silence = Death",
+  "title_es": "Silencio = Muerte",
+  "year": 1987,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Silence=Death Project (Avram Finkelstein and others); adopted by ACT UP",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Triángulo rosa invertido sobre negro; modelo del activismo gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-aids-crisis",
+    "mecanismo": "Frente al silencio oficial → un signo de lectura inmediata para la protesta"
+   }
+  ],
+  "era": "postmodern",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "red-ribbon-1991",
+  "title": "Red ribbon",
+  "title_es": "Lazo rojo",
+  "year": 1991,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Visual AIDS Artists Caucus",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Símbolo de solidaridad sin texto ni marca, imitado luego por muchas causas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-aids-crisis",
+    "mecanismo": "Un signo que cualquiera puede llevar"
+   }
+  ],
+  "era": "postmodern",
+  "type": "symbol",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "benetton-toscani-1989",
+  "title": "United Colors of Benetton campaigns",
+  "title_es": "Campañas de United Colors of Benetton",
+  "year": 1989,
+  "discipline": "graphic",
+  "designers": [
+   "oliviero-toscani"
+  ],
+  "maker": "Benetton",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Publicidad sin producto con temas sociales: caso central de marca y polémica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La marca global se diferencia con valores y escándalo"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-globalisation",
+    "mecanismo": "Una sola campaña para todos los mercados"
+   }
+  ],
+  "era": "postmodern",
+  "date": "c. 1984–2000",
+  "type": "advertisement",
+  "duda": "Fechas de inicio y fin de la colaboración (1982–2000): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "windows-95-1995",
+  "title": "Windows 95 interface",
+  "title_es": "Interfaz de Windows 95",
+  "year": 1995,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Microsoft",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Barra de tareas y menú Inicio: la interfaz gráfica que se volvió estándar mundial.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "El computador personal llega a la mayoría de las oficinas y hogares"
+   }
+  ],
+  "era": "postmodern",
+  "type": "interface",
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "information-landscapes-1994",
+  "title": "Information Landscapes",
+  "title_es": "Paisajes de información",
+  "year": 1994,
+  "discipline": "graphic",
+  "designers": [
+   "muriel-cooper"
+  ],
+  "maker": "Visible Language Workshop, MIT Media Lab",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Tipografía en un espacio tridimensional navegable; anticipa la interfaz con zoom.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "La pantalla gráfica permite navegar el texto en profundidad"
+   }
+  ],
+  "era": "postmodern",
+  "type": "interface",
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "pac-man-1980",
+  "title": "Pac-Man",
+  "title_es": "Pac-Man",
+  "year": 1980,
+  "discipline": "graphic",
+  "designers": [
+   "toru-iwatani"
+  ],
+  "maker": "Namco",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Personaje y laberinto pensados para un público amplio; el videojuego como diseño de interacción y de personaje.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Microprocesadores baratos crean el videojuego de salón"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-consumer-economy",
+    "mecanismo": "La industria japonesa del ocio se vuelve global"
+   }
+  ],
+  "era": "postmodern",
+  "type": "interface",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "game-boy-1989",
+  "title": "Game Boy",
+  "title_es": "Game Boy",
+  "year": 1989,
+  "discipline": "product",
+  "designers": [
+   "gunpei-yokoi"
+  ],
+  "maker": "Nintendo",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Consola portátil de componentes baratos y probados; uno de los productos electrónicos más vendidos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Componentes maduros y baratos → consola resistente y de batería duradera"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-consumer-economy",
+    "mecanismo": "Electrónica de consumo japonesa para el mundo"
+   }
+  ],
+  "era": "postmodern",
+  "type": "device",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "grid-compass-1982",
+  "title": "GRiD Compass",
+  "title_es": "GRiD Compass",
+  "year": 1982,
+  "discipline": "product",
+  "designers": [
+   "bill-moggridge"
+  ],
+  "maker": "GRiD Systems",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Primer portátil con pantalla abatible; su diseño llevó a Moggridge a acuñar «diseño de interacción».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "El computador sale del escritorio → forma de concha con pantalla abatible"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-knowledge-work",
+    "mecanismo": "Ejecutivos y técnicos necesitan computar fuera de la oficina"
+   }
+  ],
+  "era": "postmodern",
+  "type": "laptop",
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "muji-cd-player-1999",
+  "title": "Muji wall-mounted CD player",
+  "title_es": "Reproductor de CD de pared de Muji",
+  "year": 1999,
+  "discipline": "product",
+  "designers": [
+   "naoto-fukasawa"
+  ],
+  "maker": "Muji",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Se enciende tirando de un cordón, como un ventilador de baño: diseño sin pensamiento («without thought»).",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "inst-muji",
+    "mecanismo": "Producto de Muji"
+   },
+   {
+    "tipo": "secundario",
+    "via": "minimalism-fashion-product",
+    "mecanismo": "Minimalismo de producto"
+   }
+  ],
+  "era": "postmodern",
+  "type": "audio-player",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "how-high-the-moon-1986",
+  "title": "How High the Moon armchair",
+  "title_es": "Sillón How High the Moon",
+  "year": 1986,
+  "discipline": "product",
+  "designers": [
+   "shiro-kuramata"
+  ],
+  "maker": "Vitra",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sillón de malla metálica, casi inmaterial; icono del diseño japonés de los ochenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-consumer-economy",
+    "mecanismo": "El auge económico japonés financia un diseño experimental"
+   },
+   {
+    "tipo": "secundario",
+    "via": "memphis",
+    "mecanismo": "Kuramata participa en Memphis"
+   }
+  ],
+  "era": "postmodern",
+  "type": "chair",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "ikea-billy-1979",
+  "title": "Billy bookcase",
+  "title_es": "Librero Billy",
+  "year": 1979,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Gillis Lundgren for IKEA",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "SE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Mueble de embalaje plano vendido por decenas de millones; diseño global de masas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-globalisation",
+    "mecanismo": "Producción y venta mundial con logística de embalaje plano"
+   }
+  ],
+  "era": "postmodern",
+  "type": "furniture",
+  "tech": [
+   "flat-pack"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "seven-easy-pieces-1985",
+  "title": "Seven Easy Pieces",
+  "title_es": "Seven Easy Pieces",
+  "year": 1985,
+  "discipline": "fashion",
+  "designers": [
+   "donna-karan"
+  ],
+  "maker": "Donna Karan New York",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Guardarropa modular de siete prendas para la mujer que trabaja; moda de poder de los ochenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "Mujeres en cargos directivos → guardarropa propio, flexible y profesional"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "helmut-lang-1998",
+  "title": "Helmut Lang minimalism and online show",
+  "title_es": "Minimalismo de Helmut Lang y desfile en línea",
+  "year": 1998,
+  "discipline": "fashion",
+  "designers": [
+   "helmut-lang"
+  ],
+  "maker": "Helmut Lang",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "AT",
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sastrería reducida y materiales técnicos; presentó una colección en internet en lugar de un desfile.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-internet-culture",
+    "mecanismo": "La web permite presentar la colección sin pasarela"
+   },
+   {
+    "tipo": "secundario",
+    "via": "minimalism-fashion-product",
+    "mecanismo": "Figura central del minimalismo"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "duda": "Detalle de la presentación en línea de 1998: verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "grunge-perry-ellis-1992",
+  "title": "Grunge collection for Perry Ellis",
+  "title_es": "Colección grunge para Perry Ellis",
+  "year": 1992,
+  "discipline": "fashion",
+  "designers": [
+   "marc-jacobs"
+  ],
+  "maker": "Perry Ellis",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Franela y ropa de segunda mano en la pasarela; la calle entra al lujo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mtv-club",
+    "mecanismo": "La música grunge difundida por MTV llega a la moda"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "body-meets-dress-1997",
+  "title": "Body Meets Dress, Dress Meets Body",
+  "title_es": "Body Meets Dress, Dress Meets Body",
+  "year": 1997,
+  "discipline": "fashion",
+  "designers": [
+   "rei-kawakubo"
+  ],
+  "maker": "Comme des Garçons",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Prendas con rellenos que deforman la silueta: crítica al cuerpo ideal.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "japanese-avant-garde-fashion",
+    "mecanismo": "Obra central de Kawakubo"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "Cuestiona la silueta femenina normativa"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "lagerfeld-chanel-1983",
+  "title": "Karl Lagerfeld at Chanel",
+  "title_es": "Karl Lagerfeld en Chanel",
+  "year": 1983,
+  "discipline": "fashion",
+  "designers": [
+   "karl-lagerfeld"
+  ],
+  "maker": "Chanel",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Relanzamiento de una casa histórica reinterpretando sus códigos (tweed, doble C, cadenas).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La casa de moda se gestiona como marca global"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-chanel",
+    "mecanismo": "Continúa los códigos de Chanel"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "high-line-2009",
+  "title": "High Line, New York",
+  "title_es": "High Line, Nueva York",
+  "year": 2009,
+  "discipline": "architecture",
+  "designers": [
+   "diller-scofidio-renfro"
+  ],
+  "maker": "James Corner Field Operations, Diller Scofidio + Renfro and Piet Oudolf",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Vía férrea elevada convertida en parque; obra de referencia del urbanismo del paisaje, que hoy no tiene ninguna obra.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "mecanismo": "Una infraestructura industrial abandonada se vuelve espacio público"
+   },
+   {
+    "tipo": "secundario",
+    "via": "landscape-urbanism",
+    "mecanismo": "Obra emblemática del movimiento"
+   }
+  ],
+  "era": "postmodern",
+  "date": "2009–2014",
+  "type": "garden",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "elbphilharmonie-2017",
+  "title": "Elbphilharmonie, Hamburg",
+  "title_es": "Elbphilharmonie, Hamburgo",
+  "year": 2017,
+  "discipline": "architecture",
+  "designers": [
+   "herzog-de-meuron"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sala de conciertos de vidrio sobre un almacén portuario; ancla certera de la última década.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-star-architecture",
+    "mecanismo": "Una ciudad portuaria apuesta por un edificio icónico para su regeneración"
+   }
+  ],
+  "era": "postmodern",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "sainsbury-wing-1991",
+  "title": "Sainsbury Wing, National Gallery",
+  "title_es": "Ala Sainsbury de la National Gallery",
+  "year": 1991,
+  "discipline": "architecture",
+  "designers": [
+   "robert-venturi",
+   "denise-scott-brown"
+  ],
+  "maker": "Venturi, Scott Brown and Associates",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Ampliación posmoderna que dialoga con el edificio clásico; da obra propia a Scott Brown.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "La cita histórica y el contexto urbano vuelven a la arquitectura"
+   },
+   {
+    "tipo": "secundario",
+    "via": "postmodern-architecture",
+    "mecanismo": "Ejemplo maduro"
+   }
+  ],
+  "era": "postmodern",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "pucci-prints-1951",
+  "title": "Emilio Pucci printed silks",
+  "title_es": "Sedas estampadas de Emilio Pucci",
+  "year": 1951,
+  "discipline": "fashion",
+  "designers": [],
+  "maker": "Emilio Pucci",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Estampados de colores intensos y ropa de viaje ligera; la moda italiana de posguerra que lanzaron los desfiles de Giorgini (hoy sin obras).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La moda italiana se presenta al comprador estadounidense como alternativa a París"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-giorgini-florence-shows",
+    "mecanismo": "Presentado en los desfiles de Florencia"
+   }
+  ],
+  "era": "postwar",
+  "date": "c. 1951–1970",
+  "type": "textile",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "charles-james-clover-1953",
+  "title": "Four-Leaf Clover gown",
+  "title_es": "Vestido Four-Leaf Clover",
+  "year": 1953,
+  "discipline": "fashion",
+  "designers": [],
+  "maker": "Charles James",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Vestido de baile de estructura arquitectónica; modista de culto de la posguerra.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La alta sociedad estadounidense de posguerra encarga vestidos de gala como esculturas"
+   }
+  ],
+  "era": "postwar",
+  "type": "dress",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "halston-ultrasuede-1972",
+  "title": "Halston Ultrasuede shirtdress",
+  "title_es": "Vestido camisero de Ultrasuede de Halston",
+  "year": 1972,
+  "discipline": "fashion",
+  "designers": [],
+  "maker": "Halston",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Minimalismo estadounidense de los setenta con un material sintético lavable.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-wave-feminism",
+    "mecanismo": "La mujer que trabaja pide ropa simple, lavable y cómoda"
+   }
+  ],
+  "era": "postwar",
+  "type": "dress",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "tom-ford-gucci-1995",
+  "title": "Tom Ford at Gucci",
+  "title_es": "Tom Ford en Gucci",
+  "year": 1995,
+  "discipline": "fashion",
+  "designers": [],
+  "maker": "Gucci",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT",
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Relanzamiento de una casa histórica con sensualidad y marketing: el modelo de los noventa.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La casa histórica se relanza como marca global"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "chalayan-afterwords-2000",
+  "title": "Afterwords",
+  "title_es": "Afterwords",
+  "year": 2000,
+  "discipline": "fashion",
+  "designers": [],
+  "maker": "Hussein Chalayan",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Muebles que se transforman en ropa: moda conceptual sobre el desplazamiento.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-globalisation",
+    "mecanismo": "Migraciones y desplazamientos forzados como tema de una colección"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "cdc-sars-cov-2-illustration-2020",
+  "title": "CDC illustration of SARS-CoV-2",
+  "title_es": "Ilustración del SARS-CoV-2 de los CDC",
+  "year": 2020,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Alissa Eckert and Dan Higgins, Centers for Disease Control and Prevention",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "La imagen del virus (esfera gris con espículas rojas) que dio rostro a la pandemia; caso de ilustración científica y comunicación pública. Ancla del contexto de COVID-19 (D5).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-covid-19",
+    "mecanismo": "Una amenaza invisible necesita una imagen reconocible para la comunicación pública"
+   }
+  ],
+  "era": "postmodern",
+  "type": "infographic",
+  "duda": "Autores y fecha (enero de 2020): verificar en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "cosmopolitan-ai-cover-2022",
+  "title": "Cosmopolitan cover made with DALL·E 2",
+  "title_es": "Portada de Cosmopolitan hecha con DALL·E 2",
+  "year": 2022,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Karen X. Cheng with OpenAI, for Cosmopolitan",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Presentada como la primera portada de revista generada con IA (junio de 2022). Ancla del contexto de IA generativa (D5).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-generative-ai",
+    "mecanismo": "La imagen se genera desde una instrucción escrita; el diseñador pasa a dirigir y seleccionar"
+   }
+  ],
+  "era": "postmodern",
+  "type": "cover",
+  "tech": [
+   "generative-image-models"
+  ],
+  "duda": "Autoría, número y fecha (junio de 2022): verificar en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4"
+ },
+ {
+  "rtype": "work",
+  "id": "nike-swoosh-1971",
+  "title": "Nike Swoosh",
+  "title_es": "Logo de Nike (Swoosh)",
+  "year": 1971,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Carolyn Davidson for Nike",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Logo encargado a una estudiante; marca deportiva global.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La marca deportiva se vuelve signo global"
+   }
+  ],
+  "era": "postwar",
+  "type": "logo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "dark-side-of-the-moon-1973",
+  "title": "The Dark Side of the Moon (cover)",
+  "title_es": "The Dark Side of the Moon (portada)",
+  "year": 1973,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Hipgnosis and George Hardie",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Portada sin texto con un prisma; icono del disco como objeto gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-rock-and-pop",
+    "mecanismo": "El álbum de rock como obra completa"
+   }
+  ],
+  "era": "postwar",
+  "type": "cover",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "olpc-xo-2007",
+  "title": "One Laptop per Child XO",
+  "title_es": "XO de One Laptop per Child",
+  "year": 2007,
+  "discipline": "product",
+  "designers": [],
+  "maker": "fuseproject (Yves Béhar) for OLPC",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Portátil barato para escolares de países en desarrollo; diseño social (Uruguay lo usó en su Plan Ceibal).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-globalisation",
+    "mecanismo": "Tecnología barata para mercados en desarrollo"
+   }
+  ],
+  "era": "postmodern",
+  "type": "laptop",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "gherkin-2004",
+  "title": "30 St Mary Axe",
+  "title_es": "30 St Mary Axe («el pepinillo»)",
+  "year": 2004,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Foster + Partners",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Torre de oficinas con ventilación natural y diagrid; icono del Londres financiero.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-star-architecture",
+    "mecanismo": "La torre icónica como imagen de la ciudad financiera"
+   }
+  ],
+  "era": "postmodern",
+  "type": "skyscraper",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ },
+ {
+  "rtype": "work",
+  "id": "mjostarnet-2019",
+  "title": "Mjøstårnet",
+  "title_es": "Mjøstårnet",
+  "year": 2019,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Voll Arkitekter",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "NO"
+  ],
+  "level": "normal",
+  "prioridad": "C",
+  "curso": "Edificio alto de madera masiva; ancla del productivo «madera masiva».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-climate-crisis",
+    "mecanismo": "La reducción de carbono favorece la madera estructural"
+   }
+  ],
+  "era": "postmodern",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "parte-III"
+ }
+]

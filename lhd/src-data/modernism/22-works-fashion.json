@@ -1,0 +1,1679 @@
+{
+ "works": [
+  {
+   "id": "chanel-no-5",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "fragrance",
+   "title": "Chanel No. 5",
+   "designers": [
+    "coco-chanel"
+   ],
+   "maker": "inst-chanel",
+   "client": null,
+   "year": 1921,
+   "date": "1921",
+   "production": {
+    "from": 1921,
+    "to": null,
+    "note": "made by Parfums Chanel from 1924"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Perfume with synthetic aldehydes; plain glass bottle",
+   "tech": [],
+   "key": "The perfume Chanel launched in 1921,[2][4] with a modern synthetic scent and a plain, almost pharmaceutical bottle against the ornate flasks of the time.[1][3]",
+   "more": "The perfumer Ernest Beaux presented ten samples and Chanel chose the fifth.[1] It used synthetic aldehydes in quantity,[1] giving an abstract scent that did not imitate a single flower.[1][4] Chanel chose a simple square bottle reminiscent of medicine vials;[1][3] the sources consulted do not name its designer.[1][3] From 1924 the perfume was made by Parfums Chanel,[2][4] a company controlled by the businessman Pierre Wertheimer.[4]",
+   "where": [
+    {
+     "label": "V&A, London: What makes Chanel so iconic",
+     "url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic"
+    }
+   ],
+   "status": "Still in production.",
+   "wiki": "Chanel_No._5",
+   "es": {
+    "title": "Chanel N.º 5",
+    "date": "1921",
+    "materials": "Perfume con aldehídos sintéticos; frasco de vidrio sencillo",
+    "key": "El perfume que Chanel lanzó en 1921,[2][4] con un aroma sintético moderno y un frasco sencillo, casi de farmacia, frente a los frascos recargados de la época.[1][3]",
+    "more": "El perfumista Ernest Beaux presentó diez muestras y Chanel eligió la quinta.[1] Usaba aldehídos sintéticos en cantidad,[1] lo que daba un aroma abstracto que no imitaba una sola flor.[1][4] Chanel eligió un frasco cuadrado y simple que recordaba los frascos de medicamentos;[1][3] las fuentes consultadas no nombran a su diseñador.[1][3] Desde 1924 lo fabricó Parfums Chanel,[2][4] una sociedad controlada por el empresario Pierre Wertheimer.[4]",
+    "status": "Sigue en producción.",
+    "production": {
+     "note": "fabricado por Parfums Chanel desde 1924"
+    }
+   },
+   "refs": [
+    {
+     "label": "V&A, «What makes Chanel so iconic»",
+     "url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+     "checks": "Ernest Beaux; diez muestras, Chanel eligió la quinta; uso experimental de aldehídos en gran cantidad, perfume abstracto y moderno; frasco cuadrado simple, que recuerda a los frascos de medicamentos, frente a los frascos decorativos de inspiración Art Nouveau; no nombra al diseñador del frasco",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "CHANEL, The House of CHANEL: 1920s",
+     "url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1920/",
+     "checks": "lanzamiento de N°5 en 1921 con Ernest Beaux; creación de la Société des Parfums CHANEL en 1924 (fuente oficial de la marca)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cooper Hewitt, Perfume Presentation, No. 5, 1921",
+     "url": "https://collection.cooperhewitt.org/objects/907216361",
+     "checks": "fecha 1921; vidrio moldeado; frasco transparente sin adornos con estuche de acero pulido, «tan simple como fuera posible»; no nombra al diseñador del frasco",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Conversation, «‘Smell like a woman, not a rose’: Chanel No. 5 100 years on»",
+     "url": "https://theconversation.com/smell-like-a-woman-not-a-rose-chanel-no-5-100-years-on-an-iconic-fragrance-born-from-an-orphanage-158870",
+     "checks": "lanzamiento el 5 de mayo de 1921; aroma de mujer y no de una flor; frasco simple «como un vial de laboratorio»; en 1924 cedió el control de la producción y distribución a Pierre Wertheimer, que fundó Les Parfums Chanel (⚠ no menciona aldehídos)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "chanel-little-black-dress",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Little black dress",
+   "designers": [
+    "coco-chanel"
+   ],
+   "maker": "inst-chanel",
+   "client": null,
+   "year": 1926,
+   "date": "1926",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Black crêpe de Chine",
+   "tech": [],
+   "key": "A simple black day dress by Chanel that American Vogue in October 1926 compared to the Ford car and predicted would be ‘the frock that all the world will wear’.[1][2]",
+   "more": "Vogue’s drawing showed a long-sleeved dress of black crêpe de Chine whose only decoration was a few diagonal, chevron-like lines.[2][3] The comparison with the Model T presented it as simple, functional and well made, a model for everyone.[1][3] Black dresses existed before, and black had been the colour of mourning, of servants and of shop assistants; Chanel made it a symbol of modern elegance.[1][2] Her black dresses appeared constantly in fashion magazines, above all Vogue, in 1925–27, and museums keep similar Chanel black dresses of the mid-1920s.[4][5]",
+   "where": [
+    {
+     "label": "The Met, New York: Chanel ensemble, c. 1927",
+     "url": "https://www.metmuseum.org/art/collection/search/81482"
+    },
+    {
+     "label": "V&A, London: Chanel evening dress, 1922",
+     "url": "https://collections.vam.ac.uk/item/O72654/evening-dress/evening-dress-coco-chanel"
+    }
+   ],
+   "status": "Similar originals in museum collections; the type is still a wardrobe basic.",
+   "wiki": "Little_black_dress",
+   "es": {
+    "title": "Pequeño vestido negro",
+    "date": "1926",
+    "materials": "Crepé de China negro",
+    "key": "Un vestido de día negro y simple de Chanel que la Vogue estadounidense comparó en octubre de 1926 con el auto Ford y del que predijo que sería «el vestido que todo el mundo usará».[1][2]",
+    "more": "El dibujo de Vogue mostraba un vestido de manga larga, de crepé de China negro, con solo unas líneas diagonales en chevron como adorno.[2][3] La comparación con el Model T lo presentaba como simple, funcional y bien hecho, un modelo para todas.[1][3] Los vestidos negros existían antes, y el negro había sido el color del luto, de los sirvientes y de las vendedoras; Chanel lo convirtió en símbolo de la elegancia moderna.[1][2] Sus vestidos negros aparecieron una y otra vez en las revistas de moda, sobre todo en Vogue, entre 1925 y 1927, y los museos conservan vestidos negros similares de Chanel de mediados de los años veinte.[4][5]",
+    "status": "Originales similares en colecciones de museos; el tipo sigue siendo básico en el guardarropa.",
+    "short": "Vestido negro"
+   },
+   "short": "Black dress",
+   "refs": [
+    {
+     "label": "Smithsonian Magazine, «Why Coco Chanel Created the Little Black Dress»",
+     "url": "https://www.smithsonianmag.com/smart-news/why-coco-chanel-created-lbd-180965024/",
+     "checks": "Vogue, octubre de 1926; la revista llamó al vestido «The Ford», en referencia al Model T; antes el negro simple se asociaba a sirvientes y luto. ⚠ fuente secundaria de divulgación",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «What makes CHANEL so iconic?»",
+     "url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+     "checks": "la Vogue estadounidense predijo que un vestido de día negro de crepé de China de Chanel sería «the frock that all the world will wear»; apodado el «Ford» de la moda; el negro se asociaba al servicio, a las vendedoras y al luto, y Chanel lo volvió símbolo de modernidad",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Apollo Magazine, «The outsize influence of the little black dress»",
+     "url": "https://apollo-magazine.com/little-black-dress-chanel-national-museum-scotland/",
+     "checks": "vestido de 1926 de crepé de seda negro con paneles en chevron y manga larga; Vogue lo llamó vestido «Ford», funcional y bien hecho como el Model T. ⚠ fuente secundaria; no confirma el largo a media pierna",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Chanel, conjunto, c. 1927, 1984.28a–c",
+     "url": "https://www.metmuseum.org/art/collection/search/81482",
+     "checks": "ejemplar de «little black dress» de Chanel de c. 1927 en museo; inspiración en trajes de montar, ropa masculina y uniformes de servicio",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Chanel, vestido de noche, primavera-verano de 1923",
+     "url": "https://collections.vam.ac.uk/item/O72654/evening-dress/evening-dress-coco-chanel",
+     "checks": "vestido negro de Chanel de 1922 en museo; los vestidos negros, muchos de Chanel, tuvieron máxima exposición en revistas de moda, sobre todo Vogue, en 1925–1927",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "chanel-tweed",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Chanel tweed",
+   "designers": [
+    "coco-chanel"
+   ],
+   "maker": "inst-chanel",
+   "client": null,
+   "year": 1924,
+   "date": "c. 1924",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "materials": "Scottish wool tweed, sometimes mixed with silk or cotton",
+   "tech": [],
+   "key": "From the mid-1920s Chanel brought tweed, a rough Scottish wool for country and sporting clothes, into women’s fashion.[1][2]",
+   "more": "Through her relationship with the Duke of Westminster, which began in 1923, Chanel came to know British country clothing and had tweeds made by British woollen mills, among them one in Selkirk, Scotland.[2] She adapted the materials and cut of riding clothes and men’s sporting wear to comfortable women’s clothes.[2][3] The V&A notes that tweed appeared in her collections of the 1920s;[1] the famous Chanel tweed suit that museums keep dates from after she reopened in 1954, outside this period.[2][3]",
+   "where": [
+    {
+     "label": "V&A, London: What makes Chanel so iconic",
+     "url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic"
+    }
+   ],
+   "status": "No dated Chanel tweed suit of 1920–1939 is known in museum collections; the house still makes tweed suits.",
+   "es": {
+    "title": "Tweed en Chanel",
+    "date": "c. 1924",
+    "materials": "Tweed de lana escocés, a veces mezclado con seda o algodón",
+    "key": "Desde mediados de los años veinte Chanel llevó el tweed, una lana áspera escocesa para la ropa de campo y deporte, a la moda femenina.[1][2]",
+    "more": "A través de su relación con el duque de Westminster, que empezó en 1923, Chanel conoció la ropa de campo británica y encargó tweeds a fábricas de lana británicas, entre ellas una de Selkirk, en Escocia.[2] Adaptó los materiales y el corte de la ropa de montar y de la ropa deportiva masculina a prendas cómodas para mujer.[2][3] El V&A señala que el tweed apareció en sus colecciones de los años veinte;[1] el famoso traje de tweed de Chanel que conservan los museos es posterior a la reapertura de su casa en 1954, fuera de este período.[2][3]",
+    "status": "No se conoce en museos ningún traje de tweed de Chanel fechado entre 1920 y 1939; la casa sigue haciendo trajes de tweed."
+   },
+   "refs": [
+    {
+     "label": "V&A, «What makes Chanel so iconic»",
+     "url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+     "checks": "los trajes de tweed aparecieron en sus colecciones de los años veinte; pasó el tweed de la ropa deportiva y de campo a la ropa de día",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Chanel in Britain»",
+     "url": "https://www.vam.ac.uk/articles/chanel-in-britain",
+     "checks": "conoció al duque de Westminster en 1923 e iniciaron una relación que duró hasta la década siguiente; fotos en la finca escocesa del duque en los años veinte, con sus chaquetas de tweed; pantalones de montar hechos por sastres británicos; encargó telas a productores de lana británicos, entre ellos Gardiner and Sons de Selkirk (Escocia), y conoció en los años veinte al fabricante de tweed William Linton; volvió a la moda en 1954",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+     "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+     "checks": "préstamos de la ropa masculina (jersey) y ropa deportiva práctica; el traje Chanel de tweed o tela lisa con ribete trenzado como símbolo de estatus de la posguerra (⚠ no dice explícitamente que los trajes de museo sean posteriores a 1954)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "vionnet-bias-dress",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Vionnet bias-cut dress",
+   "short": "Vionnet bias dress",
+   "designers": [
+    "vionnet"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1936,
+   "date": "c. 1936",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Silk",
+   "tech": [
+    "bias-cut"
+   ],
+   "key": "A Vionnet evening dress of about 1936, cut on the bias so that the fabric itself shapes and follows the body.[1][2]",
+   "more": "Vionnet worked out each design by draping, cutting and pinning muslin toiles on a small wooden mannequin, and chose the fabric only once the design was finished.[1][3] Cut diagonally to the grain, the fabric stretches and clings to the body, so her dresses needed no corset, and many had no darts or fastenings.[2][3] The Met’s silk dress of about 1936 shows the mathematical precision of her construction; her bias cut set the main shape of 1930s evening dress.[1][4][5]",
+   "where": [
+    {
+     "label": "The Met, New York: Vionnet evening dress, c. 1936",
+     "url": "https://www.metmuseum.org/art/collection/search/158999"
+    },
+    {
+     "label": "V&A, London: Vionnet evening dress, c. 1937",
+     "url": "https://collections.vam.ac.uk/item/O97775/evening-dress-vionnet-madeleine/"
+    }
+   ],
+   "status": "Originals in museum collections.",
+   "es": {
+    "title": "Vestido al bies de Vionnet",
+    "short": "Vestido al bies",
+    "date": "c. 1936",
+    "materials": "Seda",
+    "key": "Un vestido de noche de Vionnet de alrededor de 1936, cortado al bies para que la propia tela dé forma al cuerpo y lo siga.[1][2]",
+    "more": "Vionnet resolvía cada diseño drapeando, cortando y prendiendo con alfileres toiles de muselina sobre un pequeño maniquí de madera, y elegía la tela solo cuando el diseño estaba terminado.[1][3] Cortada en diagonal respecto del hilo, la tela se estira y se adhiere al cuerpo, de modo que sus vestidos no necesitaban corsé, y muchos no tenían pinzas ni cierres.[2][3] El vestido de seda del Met, de alrededor de 1936, muestra la precisión matemática de su construcción; su corte al bies marcó la silueta principal de los vestidos de noche de los años treinta.[1][4][5]",
+    "status": "Originales en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "The Met, House of Vionnet, vestido de noche, c. 1936",
+     "url": "https://www.metmuseum.org/art/collection/search/158999",
+     "checks": "fecha c. 1936; seda; construcción de precisión matemática; drapeado sobre un maniquí a ¾ de escala; corte al bies; vestidos que fluyen y se mueven con el cuerpo, sin corsé restrictivo",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Madeleine Vionnet: an introduction»",
+     "url": "https://www.vam.ac.uk/articles/madeleine-vionnet-an-introduction",
+     "checks": "el corte al bies hace que la tela se adhiera naturalmente al cuerpo; animó a las mujeres a prescindir del corsé; muchas prendas en una sola pieza, sin cierres",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ASU FIDM Museum, «Madeleine Vionnet evening gown»",
+     "url": "https://asufidmmuseum.asu.edu/learn/articles/madeleine-vionnet-evening-gown",
+     "checks": "trabajaba sobre su maniquí de madera, drapeando y cortando toiles de muselina; la tela se elegía después de terminar el diseño; ajuste sin pinzas en el vestido estudiado",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Louisiana State Museum, «Hollywood Goes to War 1930–1946»",
+     "url": "https://louisianastatemuseum.org/hollywood-goes-war-1930-1946-evening-wear-louisiana",
+     "checks": "el vestido al bies de Vionnet fue la principal influencia en la silueta de moda de los años treinta. ⚠ no vincula a Vionnet con Hollywood",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Madeleine Vionnet, vestido de noche, c. 1937",
+     "url": "https://collections.vam.ac.uk/item/O97775/evening-dress-vionnet-madeleine/",
+     "checks": "vestido al bies de c. 1937 en museo; el bies modela el cuerpo sin restricción; en los años treinta Vionnet tendió a dejar el bies por drapeados de estilo clásico",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "simultaneous-dresses",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Simultaneous dresses",
+   "designers": [
+    "sonia-delaunay"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1925,
+   "date": "1913–1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "ES"
+   ],
+   "materials": "Patchwork of fabrics; later printed and embroidered textiles",
+   "tech": [],
+   "key": "Sonia Delaunay’s clothes built from contrasting areas of colour,[5] from her patchwork dress of 1913[1][5] to the Boutique Simultanée of 1925.[2][3]",
+   "more": "In 1913 she wore a patchwork ‘simultaneous dress’ to dance at the Bal Bullier;[1][2] Apollinaire wrote that the Delaunays were ‘reforming fashion’.[2] After losing her income with the Russian Revolution she turned it into a business,[1] with the shop Casa Sonia in Madrid from 1918[2] and, back in Paris from 1921, a workshop of fabrics and clothes.[1][2][3] She opened an Atelier Simultané in 1924[2] and, with the couturier Jacques Heim, a Boutique Simultanée at the 1925 Paris exhibition.[1][2][3] A portfolio of her designs published around 1925 records them,[4] as does her 1925 painting Simultaneous Dresses. The timeline places the work in 1925, the year of the Boutique Simultanée.",
+   "where": [
+    {
+     "label": "Museo Thyssen-Bornemisza, Madrid: Simultaneous Dresses, 1925",
+     "url": "https://www.museothyssen.org/en/collection/artists/delaunay-sonia/simultaneous-dresses-three-women-forms-colours"
+    },
+    {
+     "label": "V&A, London: portfolio of designs, c. 1925",
+     "url": "https://collections.vam.ac.uk/item/O1134876"
+    }
+   ],
+   "status": "Known through photographs, paintings, portfolios and fabrics in museums.",
+   "es": {
+    "title": "Vestidos simultáneos",
+    "date": "1913–1925",
+    "materials": "Retazos de telas; luego textiles estampados y bordados",
+    "key": "La ropa de Sonia Delaunay construida con zonas de colores contrastantes,[5] desde su vestido de retazos de 1913[1][5] hasta la Boutique Simultánea de 1925.[2][3]",
+    "more": "En 1913 llevó un «vestido simultáneo» de retazos para bailar en el Bal Bullier;[1][2] Apollinaire escribió que los Delaunay estaban «reformando la moda».[2] Tras perder sus ingresos con la Revolución rusa lo convirtió en negocio,[1] con la tienda Casa Sonia en Madrid desde 1918[2] y, de vuelta en París desde 1921, un taller de telas y ropa.[1][2][3] Abrió un Atelier Simultané en 1924[2] y, con el modisto Jacques Heim, una Boutique Simultánea en la exposición de París de 1925.[1][2][3] Un portafolio de sus diseños publicado hacia 1925 los documenta,[4] igual que su pintura Vestidos simultáneos de 1925. La línea ubica la obra en 1925, año de la Boutique Simultánea.",
+    "status": "Conocidos por fotografías, pinturas, portafolios y telas en museos."
+   },
+   "refs": [
+    {
+     "label": "Calouste Gulbenkian, CAM, Sonia Delaunay",
+     "url": "https://gulbenkian.pt/cam/en/artist/sonia-delaunay-2/",
+     "checks": "primer vestido simultáneo en 1913; fin del dinero de Rusia tras la Revolución de 1917; Casa Sonia en Madrid, donde vendió objetos, ropa y accesorios simultáneos; vuelta a París en 1921; colecciones vendidas en la Boutique Simultanée; participación en la exposición de París de 1925 con Jacques Heim",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "NGV, «Dancing on the edge: Sonia Delaunay and Harriet Whitney Frishmuth»",
+     "url": "https://www.ngv.vic.gov.au/essay/dancing-on-the-edge-sonia-delaunay-and-harriet-whitney-frishmuth/",
+     "checks": "vestido simultáneo en el Bal Bullier, 1913–14; Apollinaire en 1914: los Delaunay están «reformando la moda»; Casa Sonia en Madrid en 1918; vuelta a París en 1921; Atelier Simultané en 1924; Boutique Simultanée en la exposición de 1925",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Musée des Tissus de Lyon, «Les tissus simultanés de Sonia Delaunay»",
+     "url": "https://www.museedestissus.fr/pret/227:pret-musee-des-tissus-exposition-les-tissus-simultanes-sonia-delaunay",
+     "checks": "tejidos simultáneos en París desde 1921; exposición de 1925 con el peletero y modisto Jacques Heim, en una boutique del puente Alejandro III",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Sonia Delaunay; ses Peintures, ses Objets, ses Tissus simultanés, ses Modes», c. 1925",
+     "url": "https://collections.vam.ac.uk/item/O1134876",
+     "checks": "portafolio de c. 1925 con acuarelas de diseños de telas y ropa de c. 1915 a mediados de los años veinte",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bard Graduate Center, «Sonia Delaunay: The Art of Self-Fashioning»",
+     "url": "https://exhibitions.bgc.bard.edu/soniadelaunay/the-art-of-self-fashioning/",
+     "checks": "la Robe simultanée de 1913 se construyó según la teoría del color de la pintura y no según la costura; la llevó en eventos sociales de París (⚠ no menciona el Bal Bullier ni los retazos)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "lobster-dress",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Lobster dress",
+   "designers": [
+    "schiaparelli"
+   ],
+   "maker": "inst-schiaparelli",
+   "client": null,
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Printed silk organza, synthetic horsehair",
+   "tech": [],
+   "key": "Schiaparelli’s white evening dress with a large lobster drawn by Salvador Dalí, a Surrealist joke worn by Wallis Simpson.[1][2]",
+   "more": "Made for Schiaparelli’s summer collection of 1937, shown in February that year, it set a lobster drawn by Dalí, and transferred to the silk organza by the silk designer Paul Sache, across the skirt of a plain, elegant dress, mixing the erotic and the absurd.[1][2][3][5] Dalí also wanted to add real mayonnaise, which Schiaparelli reportedly refused.[2][3] Wallis Simpson ordered a version for her trousseau before marrying the Duke of Windsor and was photographed in it by Cecil Beaton for Vogue in June 1937.[2][4][5] In 1969 Schiaparelli gave her own example of the dress to the Philadelphia Museum of Art.[1][3]",
+   "where": [
+    {
+     "label": "FIT Fashion History Timeline: 1937 Schiaparelli lobster",
+     "url": "https://fashionhistory.fitnyc.edu/1937-schiaparelli-lobster/"
+    }
+   ],
+   "status": "Original in the Philadelphia Museum of Art.",
+   "wiki": "Lobster_dress",
+   "es": {
+    "title": "Vestido langosta",
+    "date": "1937",
+    "materials": "Organza de seda estampada, crin sintética",
+    "key": "El vestido de noche blanco de Schiaparelli con una gran langosta dibujada por Salvador Dalí, una broma surrealista que usó Wallis Simpson.[1][2]",
+    "more": "Hecho para la colección de verano de 1937 de Schiaparelli, presentada en febrero de ese año, puso una langosta dibujada por Dalí, que el diseñador de sedas Paul Sache pasó a la organza, a lo largo de la falda de un vestido sobrio y elegante, mezclando lo erótico y lo absurdo.[1][2][3][5] Dalí quería además agregar mayonesa de verdad, algo que Schiaparelli habría rechazado.[2][3] Wallis Simpson encargó una versión para su ajuar antes de casarse con el duque de Windsor y fue fotografiada con él por Cecil Beaton para Vogue en junio de 1937.[2][4][5] En 1969 Schiaparelli donó su propio ejemplar del vestido al Museo de Arte de Filadelfia.[1][3]",
+    "status": "Original en el Museo de Arte de Filadelfia."
+   },
+   "refs": [
+    {
+     "label": "Philadelphia Museum of Art, recurso educativo, «Woman’s dinner dress», 1969-232-52 (PDF)",
+     "url": "https://legacyweb.philamuseum.org/doc_downloads/education/object_resources/65327.pdf",
+     "checks": "primavera de 1937; organza de seda estampada y crin sintética; colaboración con Dalí; vestido de noche blanco; Wallis Simpson lo usó para Vogue; donación de Schiaparelli en 1969",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Schiaparelli: Fashion Becomes Art», guía en letra grande",
+     "url": "https://www.vam.ac.uk/info/schiaparelli-fashion-becomes-art-exhibition-large-print-guide",
+     "checks": "verano de 1937; materiales; Dalí dibujó la langosta y Paul Sache la pasó a la seda; Dalí veía la langosta como motivo sexual y la ubicó en la falda; planeó agregar mayonesa real; Wallis Simpson encargó en 1937 un ajuar que incluía una versión del vestido; foto de Cecil Beaton; Philadelphia Museum of Art, donación de Schiaparelli",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "FIT, Fashion History Timeline, «1937 Schiaparelli lobster»",
+     "url": "https://fashionhistory.fitnyc.edu/1937-schiaparelli-lobster/",
+     "checks": "febrero de 1937 (según la ficha del museo de Filadelfia); estampado por el diseñador de sedas Sache; Schiaparelli habría rechazado la mayonesa («supposedly»); foto de Beaton y reportaje en Vogue; donación de 1969",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Condé Nast Store, foto de Cecil Beaton para Vogue, 1 de junio de 1937",
+     "url": "https://condenaststore.com/featured/wallis-simpson-sitting-in-a-field-wearing-schiaparelli-cecil-beaton.html",
+     "checks": "Wallis Simpson con el vestido de la langosta de Schiaparelli, fotografiada por Beaton en el Château de Candé; Vogue, 1 de junio de 1937",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Scala Archives, «The Lobster Dress. A fashion icon’s story»",
+     "url": "https://scalarchives.com/the-lobster-dress-a-fashion-icons-story/",
+     "checks": "Wallis Simpson lo usó poco antes de casarse con el duque de Windsor en 1937; Vogue le dedicó 8 páginas con fotos de Beaton; connotaciones eróticas de la langosta. ⚠ fuente secundaria",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "shocking-pink",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "fragrance",
+   "title": "Shocking pink",
+   "designers": [
+    "schiaparelli"
+   ],
+   "maker": "inst-schiaparelli",
+   "client": null,
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Perfume; glass bottle in the shape of a dressmaker’s dummy",
+   "tech": [],
+   "key": "The vivid magenta Schiaparelli launched in 1937 with her perfume Shocking,[1] whose bottle by Leonor Fini took the form of a woman’s torso.[1][3]",
+   "more": "Schiaparelli named both the perfume and the colour Shocking[1][2] and made the pink a signature of her house,[5][6] in packaging and clothes.[4][5] The bottle, designed by the Argentine-born artist Leonor Fini,[1][2] was a dressmaker’s dummy with a tape measure,[2][4] based on the figure of Mae West,[2][3] whom Schiaparelli dressed that year for the film Every Day’s a Holiday.[3][7] A colour and a name became a brand.",
+   "where": [
+    {
+     "label": "The Met, New York: Schiaparelli suit in shocking pink, 1938–39",
+     "url": "https://www.metmuseum.org/art/collection/search/156498"
+    },
+    {
+     "label": "V&A, London: Schiaparelli timeline",
+     "url": "https://www.vam.ac.uk/articles/elsa-schiaparelli-a-timeline"
+    }
+   ],
+   "status": "The colour remains a signature of the Schiaparelli house; original bottles in collections.",
+   "es": {
+    "title": "Rosa shocking",
+    "date": "1937",
+    "materials": "Perfume; frasco de vidrio con forma de maniquí de costura",
+    "key": "El magenta intenso que Schiaparelli lanzó en 1937 con su perfume Shocking,[1] cuyo frasco de Leonor Fini tenía la forma de un torso de mujer.[1][3]",
+    "more": "Schiaparelli llamó Shocking tanto al perfume como al color[1][2] e hizo del rosa una firma de su casa,[5][6] en envases y ropa.[4][5] El frasco, diseñado por la artista nacida en Argentina Leonor Fini,[1][2] era un maniquí de costura con una cinta métrica,[2][4] basado en la figura de Mae West,[2][3] a quien Schiaparelli vistió ese año para la película Every Day’s a Holiday.[3][7] Un color y un nombre se volvieron marca.",
+    "status": "El color sigue siendo firma de la casa Schiaparelli; frascos originales en colecciones."
+   },
+   "refs": [
+    {
+     "label": "MAD Paris, «Shocking ! Les mondes surréalistes d’Elsa Schiaparelli», dossier de prensa",
+     "url": "https://madparis.fr/IMG/pdf/dp-shocking-schiap-fr.pdf",
+     "checks": "perfume Shocking lanzado en abril de 1937, asociado al color rosa shocking; frasco diseñado por Leonor Fini",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Schiaparelli, «Schiaparelli “Shocking” perfume bottle» (sitio de la casa)",
+     "url": "https://schiaparelli.com/en/blogs/schiaparelli-et-les-artistes/leonor-fini-flacon-du-parfum-shocking-de-schiaparelli",
+     "checks": "frasco de Leonor Fini (artista nacida en Argentina), 1937; forma de maniquí de costura con cinta métrica; silueta inspirada en Mae West; el nombre del perfume viene del color (⚠ fuente de la marca actual)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ASU FIDM Museum, «Mae West»",
+     "url": "https://asufidmmuseum.asu.edu/learn/articles/mae-west",
+     "checks": "Schiaparelli diseñó vestuario para la película de Mae West Every Day’s a Holiday (1937), con un maniquí de sus medidas enviado a París; usó la silueta de West para el frasco de Shocking en 1937",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "FIDM Museum (Google Arts & Culture), «Shocking» perfume bottle and packaging",
+     "url": "https://artsandculture.google.com/asset/shocking-perfume-bottle-and-packaging-elsa-schiaparelli/OQE9jk5gtZoYiQ?hl=en",
+     "checks": "1937; frasco de vidrio con forma de maniquí de costura, campana de vidrio y caja de cartón rosa «PARFUM Shocking de Schiaparelli»",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Elsa Schiaparelli, Suit, 1938–39 (C.I.)",
+     "url": "https://www.metmuseum.org/art/collection/search/156498",
+     "checks": "traje en el rosa Shocking, «color firma» de Schiaparelli",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Philadelphia Museum of Art, «Shocking! The Art and Fashion of Elsa Schiaparelli», recurso educativo",
+     "url": "https://legacyweb.philamuseum.org/doc_downloads/education/ex_resources/schiaparelli.pdf",
+     "checks": "un rosa «shocking» de su invención; vestuario para Every Day’s a Holiday con Mae West",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Five things you should know about Schiaparelli»",
+     "url": "https://www.vam.ac.uk/articles/five-thing-to-know-about-schiaparelli",
+     "checks": "Mae West llevó uno de sus diseños en Every Day’s a Holiday (1937)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "skeleton-dress",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Skeleton dress",
+   "designers": [
+    "schiaparelli"
+   ],
+   "maker": "inst-schiaparelli",
+   "client": null,
+   "year": 1938,
+   "date": "1938",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Black silk crêpe, wadded cotton, plastic zips",
+   "tech": [
+    "zip-fastener"
+   ],
+   "key": "A black evening dress from Schiaparelli’s Circus collection, designed with Dalí,[1][3] with padded ribs, spine and hip bones in relief.[1]",
+   "more": "Shown in February 1938,[1][2] it used the trapunto technique: the outlines of bones were stitched through two layers of crêpe and filled with cotton from behind so that they stand out.[1] It turned the body’s interior into ornament, a macabre Surrealist idea in an elegant dress. It was bought for the actress Ruth Ford by the collector Edward James, and is the only known original.[1]",
+   "where": [
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O65687/the-skeleton-dress-evening-dress-elsa-schiaparelli/"
+    }
+   ],
+   "status": "Original in the V&A.",
+   "es": {
+    "title": "Vestido esqueleto",
+    "date": "1938",
+    "materials": "Crepé de seda negro, algodón de relleno, cierres de plástico",
+    "key": "Un vestido de noche negro de la colección Circo de Schiaparelli, diseñado con Dalí,[1][3] con costillas, columna y caderas acolchadas en relieve.[1]",
+    "more": "Presentado en febrero de 1938,[1][2] usó la técnica del trapunto: el contorno de los huesos se cosió a través de dos capas de crepé y se rellenó con algodón por detrás para que sobresalieran.[1] Convirtió el interior del cuerpo en ornamento, una idea surrealista macabra en un vestido elegante. Lo compró para la actriz Ruth Ford el coleccionista Edward James, y es el único original conocido.[1]",
+    "status": "Original en el V&A."
+   },
+   "refs": [
+    {
+     "label": "V&A, The Skeleton Dress, T.394&A-1974",
+     "url": "https://collections.vam.ac.uk/item/O65687/the-skeleton-dress-evening-dress-elsa-schiaparelli/",
+     "checks": "vestido de noche negro de crepé de seda con cierres de plástico; colección Circo, presentada en febrero de 1938; colaboración con Dalí; trapunto: contorno cosido a través de dos capas y relleno de algodón por detrás; columna, costillas, clavículas y caderas; comprado para Ruth Ford por Edward James; único original conocido",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MAD Paris, «Shocking ! Les mondes surréalistes d’Elsa Schiaparelli», dossier de prensa",
+     "url": "https://madparis.fr/IMG/pdf/dp-shocking-schiap-fr.pdf",
+     "checks": "colección de verano de 1938 dedicada al circo, presentada el 4 de febrero de 1938; el número del «hombre esqueleto» como origen del vestido",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Five things you should know about Schiaparelli»",
+     "url": "https://www.vam.ac.uk/articles/five-thing-to-know-about-schiaparelli",
+     "checks": "Skeleton dress de 1938, concebido en colaboración con Salvador Dalí; colección Circo de 1938",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "rainbow-sandal",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "footwear",
+   "title": "Rainbow sandal",
+   "designers": [
+    "ferragamo"
+   ],
+   "maker": "Salvatore Ferragamo",
+   "client": "Judy Garland",
+   "year": 1938,
+   "date": "1938",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Gold kid straps, cork platform covered in coloured suede",
+   "tech": [],
+   "key": "Ferragamo’s platform sandal for Judy Garland, with stacked layers of cork covered in suede in the colours of the rainbow.[1][2]",
+   "more": "When sanctions and autarky made steel scarce in Italy, Ferragamo replaced the steel arch support with cork, which led him to the wedge heel and to light, high platforms.[3][4][6] The Rainbow sandal of 1938 combined that material solution with Hollywood glamour, for one of the young stars of the moment.[1][2] Ferragamo is credited with popularising the platform shoe in the late 1930s.[4][5]",
+   "where": [],
+   "status": "Original in the Museo Salvatore Ferragamo; reissued by the company.",
+   "es": {
+    "title": "Sandalia Rainbow",
+    "date": "1938",
+    "materials": "Tiras de cabritilla dorada, plataforma de corcho forrada en gamuza de colores",
+    "key": "La sandalia de plataforma de Ferragamo para Judy Garland, con capas de corcho forradas en gamuza con los colores del arcoíris.[1][2]",
+    "more": "Cuando las sanciones y la autarquía hicieron escaso el acero en Italia, Ferragamo reemplazó la plantilla de acero por corcho, lo que lo llevó al taco de cuña y a plataformas altas y livianas.[3][4][6] La sandalia Rainbow de 1938 unió esa solución material con el glamour de Hollywood, para una de las jóvenes estrellas del momento.[1][2] A Ferragamo se le atribuye la difusión del zapato de plataforma a fines de los años treinta.[4][5]",
+    "status": "Original en el Museo Salvatore Ferragamo; reeditada por la empresa."
+   },
+   "refs": [
+    {
+     "label": "Promemoria Group, Legend: Ferragamo, sandalo Rainbow",
+     "url": "https://2019.legend.promemoriagroup.com/legendary-products/ferragamo-sandalo-rainbow/",
+     "checks": "1938; hecha para Judy Garland; capretto (cabritilla), taco y plataforma de corcho forrados en gamuza policroma; conservada en el Museo Salvatore Ferragamo, Florencia. ⚠ fuente secundaria (ficha de una muestra sobre productos italianos); «dorada» solo se vio en el pie de foto de Artribune en un resultado de búsqueda, que además fecha la pieza 1938–1939.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ferragamo Sustainability, Rainbow Future sandal",
+     "url": "https://sustainability.ferragamo.com/en/products-materials/rainbow-future-sandal",
+     "checks": "Sandalia Rainbow hecha en gamuza en 1938 para Judy Garland; modelo reeditado/reinterpretado por la empresa. ⚠ fabricante.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fondazione Ferragamo, Salvatore Ferragamo (biografía)",
+     "url": "https://fondazione.ferragamo.com/en/salvatore-ferragamo",
+     "checks": "Plantilla (shank) de acero para sostener el arco; en la autarquía tras las sanciones de la Sociedad de las Naciones el mejor acero se requisó para armas; primera cuña de corcho (patentada en 1937). ⚠ fundación de la empresa.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bata Shoe Museum, «From Function to Fashion: Platform and Wedge Footwear of the 1930s and 1940s»",
+     "url": "https://astepintothebatashoemuseum.blogspot.com/2014/06/from-function-to-fashion-platform-and.html",
+     "checks": "Sanciones a Italia tras la invasión de Etiopía (1935) y escasez de materiales; el corcho permitió zapatos altos, livianos y cómodos; a Ferragamo se le atribuye la cuña y la difusión de la plataforma a fines de los años treinta.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Salvatore Ferragamo, Sandals, 1938, 1973.282.2",
+     "url": "https://www.metmuseum.org/art/collection/search/82443",
+     "checks": "A Ferragamo se le atribuye introducir el zapato de plataforma a fines de los años treinta; plataforma de corcho (otra sandalia, no la Rainbow).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "BeCulture, «Salvatore Ferragamo: the story of an artist and his Museum»",
+     "url": "https://www.beculture.it/en/salvatore-ferragamo-museum/",
+     "checks": "A falta de acero, usó corcho forrado en cuero y así nació la cuña; experimentación durante la autarquía. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "lacoste-polo",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Lacoste shirt",
+   "designers": [
+    "lacoste"
+   ],
+   "maker": "La Chemise Lacoste",
+   "client": null,
+   "year": 1933,
+   "date": "1933",
+   "production": {
+    "from": 1933,
+    "to": null,
+    "note": "made with the knitwear firm of André Gillier"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Cotton piqué knit",
+   "tech": [],
+   "key": "René Lacoste’s short-sleeved knitted tennis shirt, produced from 1933 with an embroidered crocodile;[1][2] according to the company, it was the first garment with a visible logo.[3]",
+   "more": "Lacoste wore a white short-sleeved shirt of cotton piqué, with a soft collar and a longer tail at the back, instead of the long-sleeved button-down shirts of the time;[1][2] he first wore it at the 1926 US Open.[1][2] In 1933, retired from competition, he founded a company with André Gillier to manufacture it, with the crocodile of his nickname embroidered on the chest.[1][2][3]",
+   "where": [],
+   "status": "Still in production.",
+   "wiki": "Polo_shirt",
+   "es": {
+    "title": "Camisa Lacoste",
+    "date": "1933",
+    "materials": "Tejido de punto piqué de algodón",
+    "key": "La camisa de tenis de punto y manga corta de René Lacoste, fabricada desde 1933 con un cocodrilo bordado;[1][2] según la empresa, fue la primera prenda con un logo visible.[3]",
+    "more": "Lacoste usaba una camisa blanca de manga corta de piqué de algodón, con cuello blando y la parte trasera más larga, en lugar de las camisas abotonadas de manga larga de la época;[1][2] la usó por primera vez en el US Open de 1926.[1][2] En 1933, ya retirado de la competencia, fundó con André Gillier una empresa para fabricarla, con el cocodrilo de su apodo bordado en el pecho.[1][2][3]",
+    "status": "Sigue en producción.",
+    "production": {
+     "note": "fabricada con la empresa de tejidos de punto de André Gillier"
+    }
+   },
+   "refs": [
+    {
+     "label": "Smithsonian Magazine, «The Story Behind the Lacoste Crocodile Shirt»",
+     "url": "https://www.smithsonianmag.com/arts-culture/the-story-behind-the-lacoste-crocodile-shirt-91276898/",
+     "checks": "Primer uso en el US Open de 1926; punto piqué de algodón, manga corta, cuello sin almidón, «cola de tenis» más larga; en lugar de la camisa blanca abotonada de manga larga; retirado a inicios de los años treinta fundó La Chemise Lacoste con André Gillier, presidente de la mayor empresa francesa de tejidos de punto; cocodrilo del apodo. ⚠ «respirable» no aparece.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Roland-Garros (sitio oficial), «The polo shirt, the other icon of the courts»",
+     "url": "https://www.rolandgarros.com/en-us/article/rg-summer-the-polo-shirt-the-other-icon-roland-garros",
+     "checks": "Primer uso en el US Open de 1926; piqué de algodón, manga corta, cocodrilo bordado en el pecho; lanzada al mercado en 1933, al final de su carrera.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Lacoste, Lacoste Heritage",
+     "url": "https://www.lacoste.com/gb/lacoste-heritage.html",
+     "checks": "1933: el industrial André Gillier ayuda a desarrollar el tejido de punto; la empresa la llama «el primer logo en una prenda»; apodo del cocodrilo. ⚠ fabricante.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "nylon-stockings",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "accessory",
+   "title": "Nylon stockings",
+   "designers": [],
+   "maker": "DuPont",
+   "client": null,
+   "year": 1939,
+   "date": "1939–1940",
+   "production": {
+    "from": 1939,
+    "to": null,
+    "note": "about four million pairs sold out in two days in May 1940; civilian sales stopped in 1942–45"
+   },
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Nylon",
+   "tech": [
+    "nylon"
+   ],
+   "key": "The product that made nylon famous: women’s stockings sold from October 1939, which began to replace silk and sold out as soon as they reached the shops.[1][2][3]",
+   "more": "DuPont presented nylon as ‘made from coal, water and air’, and experimental stockings were knitted by hosiery firms.[1][2] The first were sold in Wilmington, Delaware, on 24 October 1939, where 4,000 pairs sold out in three hours, and across the country from 15 May 1940, when about four million pairs sold out within two days.[1][2][3] They were stronger and more durable than silk stockings, and the United States got about 90% of its raw silk from Japan.[2][3] In February 1942 DuPont sent all its nylon to military uses such as parachutes, and stockings became a scarce war item.[1][2]",
+   "where": [
+    {
+     "label": "Smithsonian, National Museum of American History: experimental stockings, c. 1937",
+     "url": "https://www.si.edu/object/experimental-stockings:nmah_1200996"
+    }
+   ],
+   "status": "Nylon stockings and tights are still produced.",
+   "wiki": "Nylon",
+   "es": {
+    "title": "Medias de nailon",
+    "date": "1939–1940",
+    "materials": "Nailon",
+    "key": "El producto que hizo famoso al nailon: medias de mujer vendidas desde octubre de 1939, que empezaron a reemplazar a la seda y se agotaban apenas llegaban a las tiendas.[1][2][3]",
+    "more": "DuPont presentó el nailon como «hecho de carbón, agua y aire», y fabricantes de medias tejieron medias experimentales.[1][2] Las primeras se vendieron en Wilmington, Delaware, el 24 de octubre de 1939, donde 4.000 pares se agotaron en tres horas, y en todo el país desde el 15 de mayo de 1940, cuando unos cuatro millones de pares se agotaron en dos días.[1][2][3] Eran más fuertes y durables que las medias de seda, y Estados Unidos obtenía cerca del 90% de su seda cruda de Japón.[2][3] En febrero de 1942 DuPont destinó todo su nailon a usos militares, como los paracaídas, y las medias se volvieron un bien escaso de la guerra.[1][2]",
+    "status": "Las medias y pantis de nailon se siguen fabricando.",
+    "production": {
+     "note": "unos cuatro millones de pares agotados en dos días en mayo de 1940; la venta civil se detuvo en 1942–45"
+    }
+   },
+   "refs": [
+    {
+     "label": "Smithsonian, National Museum of American History, medias experimentales, c. 1937",
+     "url": "https://www.si.edu/object/experimental-stockings:nmah_1200996",
+     "checks": "medias experimentales de nailon y seda hechas por Union Hosiery Co. hacia 1937; presentación en la Feria Mundial de 1939; venta desde el 15 de mayo de 1940; en 1942 el nailon tenía 20% del mercado de medias; material de defensa, paracaídas; tras la guerra reemplazó a la seda y al rayón",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Science History Institute, «Synthetic Threads»",
+     "url": "https://www.sciencehistory.org/stories/magazine/synthetic-threads/",
+     "checks": "fibra «derivada de carbón, agua y aire»; primera venta pública el 24 de octubre de 1939 en Wilmington, Delaware, 4.000 pares agotados en tres horas; venta nacional desde mayo de 1940; Japón daba el 90% de la seda cruda de EE. UU.; el 11 de febrero de 1942 DuPont destinó todo el nailon a usos militares, como paracaídas",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Smithsonian Magazine, «Stocking Series, Part 1: Wartime Rationing and Nylon Riots»",
+     "url": "https://www.smithsonianmag.com/arts-culture/stocking-series-part-1-wartime-rationing-and-nylon-riots-25391066/",
+     "checks": "cuatro millones de pares a la venta en mayo de 1940, a unos 1,15 dólares, agotados en dos días; nailon elástico, durable y lavable frente a la seda frágil. ⚠ fuente secundaria; da el 16 de mayo de 1940 y no el 15",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "stolzl-tapestry",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Red-Green slit tapestry",
+   "short": "Stölzl tapestry",
+   "designers": [
+    "gunta-stolzl"
+   ],
+   "maker": "inst-bauhaus",
+   "client": null,
+   "year": 1927,
+   "date": "1927–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Wool and other yarns, slit-tapestry weave",
+   "tech": [],
+   "key": "A tapestry woven by Gunta Stölzl in the Bauhaus weaving workshop in Dessau,[1] built from areas of red and green that explore the possibilities of weaving itself.[1]",
+   "more": "Stölzl made it in 1927–28,[1] the years in which she took charge of the weaving workshop,[2][5] one of the most successful at the Bauhaus, whose fabrics brought the school much-needed income.[3][4] Its slits between areas of colour are part of the design.[1] The workshop combined such unique pieces with fabrics developed for industrial production.[3]",
+   "where": [
+    {
+     "label": "Bauhaus-Archiv, Berlin",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/weberei/schlitzgobelin-rot-gruen"
+    },
+    {
+     "label": "MoMA, New York: Stölzl weaving, c. 1928",
+     "url": "https://www.moma.org/collection/works/216808"
+    }
+   ],
+   "status": "Original in the Bauhaus-Archiv, Berlin.",
+   "es": {
+    "title": "Tapiz de ranuras rojo-verde",
+    "short": "Tapiz de Stölzl",
+    "date": "1927–1928",
+    "materials": "Lana y otros hilados, tejido de tapiz con ranuras",
+    "key": "Un tapiz tejido por Gunta Stölzl en el taller de tejido de la Bauhaus de Dessau,[1] construido con zonas de rojo y verde que exploran las posibilidades propias del tejido.[1]",
+    "more": "Stölzl lo hizo en 1927–28,[1] los años en que asumió la dirección del taller de tejido,[2][5] uno de los más exitosos de la Bauhaus, cuyas telas dieron a la escuela ingresos muy necesarios.[3][4] Las ranuras entre las zonas de color forman parte del diseño.[1] El taller combinaba piezas únicas como esta con telas desarrolladas para la producción industrial.[3]",
+    "status": "Original en el Bauhaus-Archiv de Berlín."
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation (Bauhaus-Archiv), Schlitzgobelin Rot-Grün",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/weberei/schlitzgobelin-rot-gruen",
+     "checks": "Título, Gunta Stölzl, 1927–1928, Bauhaus-Archiv Berlín, técnica de tapiz con ranuras, contraste rojo-verde; nace de su dirección del taller de Dessau; según Annie Bourneuf, explora las posibilidades propias del tejido en vez de traducir la pintura a tela.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AWARE Women Artists, Gunta Stölzl",
+     "url": "https://awarewomenartists.com/en/artiste/gunta-stolzl/",
+     "checks": "1927: jefa del taller; 1928: Jungmeister, única mujer directora de un taller de la Bauhaus.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, Weberei (taller de tejido)",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/lehre/werkstaetten/weberei",
+     "checks": "Uno de los talleres más exitosos y productivos de la Bauhaus; giro hacia telas por metro, tejido artesanal e industrial, «telas Bauhaus» para interiores.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Heilbrunn Timeline, «The Bauhaus, 1919–1933»",
+     "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+     "checks": "Las telas del taller tuvieron éxito comercial y dieron fondos muy necesarios a la Bauhaus. ⚠ No usa «prototipos» para el tejido.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, Gunta Stölzl (biografía)",
+     "url": "https://www.bauhauskooperation.de/wissen/das-bauhaus/koepfe/meister-und-lehrende/gunta-stoelzl/",
+     "checks": "1925–1926 Werkmeisterin en Dessau; 1926–1931 directora del taller de tejido (difiere de AWARE en el año).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "albers-wall-hanging",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Albers wall hanging",
+   "designers": [
+    "anni-albers"
+   ],
+   "maker": "inst-bauhaus",
+   "client": null,
+   "year": 1926,
+   "date": "1926",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Silk, triple weave",
+   "tech": [],
+   "key": "Anni Albers’s 1926 wall hanging in silk, a triple-weave grid of black, white and grey made as a student in the Bauhaus weaving workshop.[1]",
+   "more": "Woven in Dessau, it builds a rhythmic composition of rectangles from the structure of the cloth itself, using a complex weave of three layers.[1] It shows how Bauhaus weavers turned the loom into a means of abstract design.[3] The original is in the Busch-Reisinger Museum at Harvard;[1] MoMA’s similar hanging was woven in 1964 from a 1927 design.[2]",
+   "where": [
+    {
+     "label": "Josef and Anni Albers Foundation: Wallhanging, 1926",
+     "url": "https://www.albersfoundation.org/art/highlights/wallhanging-1926-12-2"
+    }
+   ],
+   "status": "Original in the Busch-Reisinger Museum, Harvard Art Museums.",
+   "es": {
+    "title": "Tejido mural de Albers",
+    "date": "1926",
+    "materials": "Seda, tejido triple",
+    "key": "El tejido mural de seda de Anni Albers de 1926, una retícula de tejido triple en negro, blanco y gris hecha como estudiante en el taller de tejido de la Bauhaus.[1]",
+    "more": "Tejido en Dessau, construye una composición rítmica de rectángulos a partir de la estructura misma de la tela, con un complejo tejido de tres capas.[1] Muestra cómo las tejedoras de la Bauhaus convirtieron el telar en un medio de diseño abstracto.[3] El original está en el Museo Busch-Reisinger de Harvard;[1] el tejido similar del MoMA se tejió en 1964 a partir de un diseño de 1927.[2]",
+    "status": "Original en el Museo Busch-Reisinger, Harvard Art Museums.",
+    "short": "Tapiz de Albers"
+   },
+   "short": "Albers hanging",
+   "refs": [
+    {
+     "label": "Harvard Art Museums, tour: «Anni Albers’ Virtuosic 1926 Wall Hanging»",
+     "url": "https://harvardartmuseums.org/tour/764/slide/12325",
+     "checks": "⚠ La página no se pudo leer (robots.txt bloquea el acceso); solo se vio su título en los resultados de búsqueda, que confirma un tejido mural de Albers de 1926 en Harvard Art Museums. No se pudo confirmar seda, tejido triple, colores ni la condición de estudiante.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Anni Albers, Wall Hanging, 1927 (tejido en 1964), 246.1965",
+     "url": "https://www.moma.org/collection/works/3032",
+     "checks": "El tejido del MoMA se diseñó en 1927 y se tejió en 1964 bajo la supervisión de Albers, en el taller de Gunta Stölzl en Zúrich; algodón y seda.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Heilbrunn Timeline, «The Bauhaus, 1919–1933»",
+     "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+     "checks": "El taller de tejido creó textiles abstractos y formó a Anni Albers.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "stepanova-textiles",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Stepanova textiles",
+   "short": "Stepanova fabrics",
+   "designers": [
+    "stepanova"
+   ],
+   "maker": "Tsindel",
+   "client": null,
+   "year": 1924,
+   "date": "1923–1924",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Printed cotton flannel",
+   "tech": [],
+   "key": "Varvara Stepanova’s geometric fabric designs for the First State Textile Printing Factory in Moscow (1923–24).[1][2]",
+   "more": "Answering a 1923 call for new designs, she and Popova replaced flowers with abstract geometry free of class references; scarce materials and inexperienced workers also called for bold, simple patterns.[2] Rural buyers preferred traditional florals, so few pieces survive.[2]",
+   "where": [
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O1371413"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Tate Papers 14, «Liubov Popova: From Painting to Textile Design»",
+     "checks": "Trabajo en la fábrica desde otoño de 1923.",
+     "date": "2026-10-03",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design"
+    },
+    {
+     "label": "V&A, franela estampada de Varvara Stepanova (1924)",
+     "checks": "Franela de 1924; llamado de 1923; geometría sin referencias de clase; escasez y obreros sin experiencia; preferencia rural por las flores; pocas piezas conservadas.",
+     "date": "2026-10-03",
+     "url": "https://collections.vam.ac.uk/item/O1371413"
+    }
+   ],
+   "es": {
+    "title": "Telas de Stepánova",
+    "date": "1923–1924",
+    "materials": "Franela de algodón estampada",
+    "key": "Los diseños textiles geométricos de Varvara Stepánova para la Primera Fábrica Estatal de Estampados de Moscú (1923–24).[1][2]",
+    "more": "En respuesta a un llamado de 1923 a renovar los diseños, ella y Popova cambiaron las flores por una geometría abstracta sin referencias de clase; la escasez de materiales y la poca experiencia de los obreros también pedían dibujos simples y contundentes.[2] Los compradores rurales prefirieron las flores tradicionales, por lo que se conservan pocas piezas.[2]",
+    "short": "Telas de Stepánova"
+   }
+  },
+  {
+   "id": "popova-textiles",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Popova textiles",
+   "short": "Popova fabrics",
+   "designers": [
+    "liubov-popova"
+   ],
+   "maker": "Tsindel",
+   "client": null,
+   "year": 1923,
+   "date": "1923–1924",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Printed cotton",
+   "tech": [],
+   "key": "Liubov Popova’s printed fabric designs for the First State Textile Printing Factory, made from probably autumn 1923 until her death in May 1924.[1]",
+   "more": "She produced dozens of designs, from pure geometry to patterns with hammers, sickles and stars, aimed at Soviet women in villages and workers’ districts.[1] She also drew dresses using her fabrics, but those were never produced.[2]",
+   "where": [
+    {
+     "label": "Tate Papers 14",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Tate Papers 14, «Liubov Popova: From Painting to Textile Design»",
+     "checks": "Otoño de 1923 a mayo de 1924; decenas de diseños; símbolos soviéticos; mujeres del campo y de barrios obreros.",
+     "date": "2026-10-03",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design"
+    },
+    {
+     "label": "Christina Kiaer, «“Into Production!”: The Socialist Objects of Russian Constructivism», transversal",
+     "checks": "Vestidos con sus telas nunca producidos.",
+     "date": "2026-10-03",
+     "url": "https://transversal.at/transversal/0910/kiaer/en"
+    }
+   ],
+   "es": {
+    "title": "Telas de Popova",
+    "date": "1923–1924",
+    "materials": "Algodón estampado",
+    "key": "Los diseños de telas estampadas de Liubov Popova para la Primera Fábrica Estatal de Estampados, hechos probablemente desde el otoño de 1923 hasta su muerte en mayo de 1924.[1]",
+    "more": "Hizo decenas de diseños, desde la geometría pura hasta motivos con martillos, hoces y estrellas, pensados para las mujeres soviéticas de aldeas y barrios obreros.[1] También dibujó vestidos con sus telas, pero nunca se fabricaron.[2]",
+    "short": "Telas de Popova"
+   }
+  },
+  {
+   "id": "boutique-simultanee",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Boutique Simultanée",
+   "short": "Boutique Simultanée",
+   "designers": [
+    "sonia-delaunay"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Coats, fabrics and accessories",
+   "tech": [],
+   "key": "Sonia Delaunay’s shop at the 1925 Paris exhibition, made with the furrier Jacques Heim, where she showed her coats, fabrics and accessories.[1]",
+   "more": "The alliance with Heim and the leather-goods maker Girau Gilbert, established names in fashion, raised her prestige and put her designs before an international public.[1]",
+   "where": [
+    {
+     "label": "Bard Graduate Center: Sonia Delaunay",
+     "url": "https://exhibitions.bgc.bard.edu/soniadelaunay/maison-sonia-marketing/"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Bard Graduate Center, «Maison Sonia: Marketing»",
+     "checks": "Tienda temporal en la exposición de 1925 con Jacques Heim y Girau Gilbert; abrigos, telas y accesorios; público internacional.",
+     "date": "2026-10-03",
+     "url": "https://exhibitions.bgc.bard.edu/soniadelaunay/maison-sonia-marketing/"
+    }
+   ],
+   "es": {
+    "title": "Boutique Simultanée",
+    "date": "1925",
+    "materials": "Abrigos, telas y accesorios",
+    "key": "La tienda de Sonia Delaunay en la exposición de París de 1925, hecha con el peletero Jacques Heim, donde mostró sus abrigos, telas y accesorios.[1]",
+    "more": "La alianza con Heim y con el fabricante de marroquinería Girau Gilbert, nombres reconocidos de la moda, aumentó su prestigio y llevó sus diseños ante un público internacional.[1]",
+    "short": "Boutique Simultanée"
+   }
+  },
+  {
+   "id": "bernau-fabric",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Bernau auditorium fabric",
+   "short": "Bernau fabric",
+   "designers": [
+    "anni-albers"
+   ],
+   "maker": null,
+   "client": "ADGB",
+   "year": 1929,
+   "date": "1929",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Chenille, black cotton and cellophane",
+   "tech": [],
+   "key": "Anni Albers’s Bauhaus diploma work: 300 metres of wall fabric for the auditorium of the ADGB trade-union school at Bernau, which absorbed sound and reflected light.[1]",
+   "more": "On the wall side a soft chenille absorbed sound; on the room side, black cotton and transparent cellophane threads woven in different densities gave a wavy, metallic sheen.[1] It made a textile designed for a technical problem into a diploma piece.",
+   "where": [
+    {
+     "label": "Bauhaus-Denkmal Bundesschule Bernau",
+     "url": "https://www.bauhaus-denkmal-bernau.de/en/trade-union-school/inventory/300-meters-of-silver-fabric-for-the-lecture-hall-anni-alberss-bauhaus-diploma-thesis.html"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Bauhaus-Denkmal Bernau, «300 metres of silver fabric»",
+     "checks": "1929; 300 m; chenilla, algodón negro y celofán; absorbe sonido y refleja luz; tesis de diploma.",
+     "date": "2026-10-03",
+     "url": "https://www.bauhaus-denkmal-bernau.de/en/trade-union-school/inventory/300-meters-of-silver-fabric-for-the-lecture-hall-anni-alberss-bauhaus-diploma-thesis.html"
+    }
+   ],
+   "es": {
+    "title": "Tela del auditorio de Bernau",
+    "date": "1929",
+    "materials": "Chenilla, algodón negro y celofán",
+    "key": "El trabajo de diploma de Anni Albers en la Bauhaus: 300 metros de tela mural para el auditorio de la escuela sindical de la ADGB en Bernau, que absorbía el sonido y reflejaba la luz.[1]",
+    "more": "Del lado de la pared, una chenilla suave absorbía el sonido; del lado de la sala, hilos de algodón negro y celofán transparente tejidos en distintas densidades daban un brillo metálico y ondulado.[1] Convirtió una tela pensada para un problema técnico en una obra de diploma.",
+    "short": "Tela de Bernau"
+   }
+  },
+  {
+   "id": "ferragamo-wedge",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "footwear",
+   "title": "Ferragamo wedge",
+   "short": "Wedge heel",
+   "designers": [
+    "ferragamo"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Cork and leather",
+   "tech": [],
+   "key": "Salvatore Ferragamo’s wedge, a sole that raises the heel and supports the whole foot, patented in 1937.[1]",
+   "more": "Designed for comfort and stability, it became his most famous invention; the sanctions imposed on Italy after the invasion of Ethiopia in 1935 worsened material shortages and pushed him to experiment.[1]",
+   "where": [
+    {
+     "label": "Museo Salvatore Ferragamo (Google Arts & Culture)",
+     "url": "https://artsandculture.google.com/story/made-in-italy-salvatore-ferragamo-s-ideas-models-and-inventions-museosalvatoreferragamo/UQWRSqxpWZsfIg?hl=en"
+    }
+   ],
+   "wiki": "Wedge_(footwear)",
+   "refs": [
+    {
+     "label": "Museo Salvatore Ferragamo (Google Arts & Culture), «Made in Italy»",
+     "checks": "Patente de 1937; comodidad y estabilidad; sanciones de 1935 y escasez de materiales. ⚠ Los materiales (corcho y cuero) no se leyeron en la fuente.",
+     "date": "2026-10-03",
+     "url": "https://artsandculture.google.com/story/made-in-italy-salvatore-ferragamo-s-ideas-models-and-inventions-museosalvatoreferragamo/UQWRSqxpWZsfIg?hl=en"
+    }
+   ],
+   "es": {
+    "title": "Taco cuña de Ferragamo",
+    "date": "1937",
+    "materials": "Corcho y cuero",
+    "key": "La cuña de Salvatore Ferragamo, una suela que levanta el talón y sostiene todo el pie, patentada en 1937.[1]",
+    "more": "Pensada para la comodidad y la estabilidad, fue su invento más famoso; las sanciones impuestas a Italia tras la invasión de Etiopía en 1935 agravaron la escasez de materiales y lo empujaron a experimentar.[1]",
+    "short": "Taco cuña"
+   }
+  },
+  {
+   "id": "utility-clothing",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Utility clothing",
+   "short": "Utility clothing",
+   "designers": [],
+   "maker": "Board of Trade",
+   "client": null,
+   "year": 1942,
+   "date": "1941–1942",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Wool and cotton cloth under rationing rules",
+   "tech": [],
+   "key": "Britain’s wartime Utility clothing, made to strict rules on cloth and trimmings and marked with the CC41 label.[1]",
+   "more": "The scheme began in 1941; in autumn 1942 the Board of Trade asked members of the Incorporated Society of London Fashion Designers for 32 prototypes, such as Digby Morton’s red wool coat, to show that economy could be stylish. Vogue called them ‘an object lesson in the power of pure style’.[1]",
+   "where": [
+    {
+     "label": "V&A, London: Utility coat by Digby Morton",
+     "url": "https://collections.vam.ac.uk/item/O155933/coat-morton-digby/"
+    }
+   ],
+   "wiki": "Utility_clothing",
+   "refs": [
+    {
+     "label": "V&A, abrigo Utility de Digby Morton (1942)",
+     "checks": "Plan de 1941; 32 prototipos de 1942; Digby Morton; etiqueta CC41 (Civilian Clothing 1941); cita de Vogue.",
+     "date": "2026-10-03",
+     "url": "https://collections.vam.ac.uk/item/O155933/coat-morton-digby/"
+    }
+   ],
+   "es": {
+    "title": "Ropa Utility",
+    "date": "1941–1942",
+    "materials": "Telas de lana y algodón bajo normas de racionamiento",
+    "key": "La ropa Utility británica de la guerra, hecha con normas estrictas sobre telas y adornos y marcada con la etiqueta CC41.[1]",
+    "more": "El plan empezó en 1941; en otoño de 1942 el Board of Trade pidió a miembros de la Incorporated Society of London Fashion Designers 32 prototipos, como el abrigo de lana roja de Digby Morton, para mostrar que la economía podía tener estilo. Vogue los llamó «una lección práctica del poder del estilo puro».[1]",
+    "short": "Ropa Utility"
+   }
+  },
+  {
+   "id": "trench-coat-1914",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Trench coat",
+   "designers": [],
+   "maker": null,
+   "client": "British Army officers",
+   "year": 1914,
+   "date": "c. 1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Waterproofed cotton gabardine, with a belt and a lining",
+   "tech": [],
+   "key": "The belted waterproof coat that British officers wore in the First World War, which later became a classic civilian coat.",
+   "more": "The war in the trenches asked officers for a coat that kept out rain and mud and could be worn with equipment. It was made of waterproof gabardine, double-breasted, with a belt and shoulder straps. After 1918 officers took it home and it became a civilian garment. Which firm created it, Burberry or Aquascutum, is still disputed, so the coat is not given to one designer.",
+   "status": "Still worn and made by many brands.",
+   "es": {
+    "title": "Gabardina militar (trench coat)",
+    "date": "c. 1914",
+    "materials": "Gabardina de algodón impermeabilizada, con cinturón y forro",
+    "key": "El abrigo impermeable con cinturón que usaron los oficiales británicos en la Primera Guerra Mundial y que luego se volvió un abrigo civil clásico.",
+    "more": "La guerra de trincheras exigió a los oficiales un abrigo que detuviera la lluvia y el barro y se pudiera llevar con el equipo. Se hacía de gabardina impermeable, cruzado, con cinturón y hombreras. Después de 1918 los oficiales se lo llevaron a casa y pasó a ser una prenda civil. Sigue discutido qué casa lo creó, Burberry o Aquascutum, por eso no se atribuye a un solo diseñador.",
+    "status": "Se sigue usando y lo fabrican muchas marcas.",
+    "short": "Trench coat"
+   },
+   "refs": [],
+   "short": "Trench coat"
+  },
+  {
+   "id": "chanel-jersey-1916",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Chanel jersey sportswear",
+   "designers": [
+    "coco-chanel"
+   ],
+   "maker": "Chanel",
+   "client": null,
+   "year": 1916,
+   "date": "1916",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wool jersey knit",
+   "tech": [],
+   "key": "Coco Chanel’s simple dresses and suits of jersey, a soft knit then used for men’s underwear, which brought comfortable clothes into high fashion.",
+   "more": "From about 1916, during the First World War, Chanel made loose, plain dresses and suits of jersey in her house, when fabrics were scarce and costly. The knit hung without stiff tailoring and allowed free movement, which suited women who worked and moved more. It changed the idea of elegance toward simple, practical clothes.",
+   "status": "No single piece is the work; the style continues in the Chanel house.",
+   "es": {
+    "title": "Ropa de jersey de Chanel",
+    "date": "1916",
+    "materials": "Tejido de punto de lana (jersey)",
+    "key": "Los vestidos y trajes sencillos de jersey de Coco Chanel, un tejido de punto suave que entonces se usaba en ropa interior masculina, y que llevó la ropa cómoda a la alta costura.",
+    "more": "Desde c. 1916, durante la Primera Guerra Mundial, Chanel confeccionó en su casa vestidos y trajes holgados y simples de jersey, cuando las telas eran escasas y caras. El tejido caía sin entretelas rígidas y permitía moverse con libertad, lo que convenía a las mujeres que trabajaban y se movían más. Cambió la idea de elegancia hacia la ropa simple y práctica.",
+    "status": "No hay una sola pieza que sea la obra; el estilo continúa en la casa Chanel.",
+    "short": "Jersey de Chanel"
+   },
+   "refs": [],
+   "short": "Chanel jersey"
+  },
+  {
+   "id": "thayaht-tuta-1919",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "TuTa by Thayaht",
+   "designers": [
+    "thayaht"
+   ],
+   "maker": "Thayaht (Ernesto Michahelles)",
+   "client": null,
+   "year": 1919,
+   "date": "1919",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Cotton or linen cloth cut from five rectangles",
+   "tech": [],
+   "key": "Thayaht’s TuTa, a Futurist T-shaped overall made of five rectangles of cloth, designed to be cheap and easy to sew at home.",
+   "more": "The Florentine artist Thayaht designed it in 1919 as a simple, universal garment, and published its pattern in the Florence newspaper La Nazione in 1920 so that anyone could cut and sew it. Its name recalls the Italian word for ‘all’ and its T shape. It was a Futurist proposal to reform clothing with plain geometry and little cost.",
+   "status": "Original garments are held in museum collections; the pattern is widely reproduced.",
+   "es": {
+    "title": "TuTa de Thayaht",
+    "date": "1919",
+    "materials": "Tela de algodón o lino cortada en cinco rectángulos",
+    "key": "La TuTa de Thayaht, un overol futurista en forma de T hecho de cinco rectángulos de tela, pensado para ser barato y fácil de coser en casa.",
+    "more": "El artista florentino Thayaht la diseñó en 1919 como prenda simple y universal, y publicó su patrón en el diario florentino La Nazione en 1920 para que cualquiera pudiera cortarla y coserla. Su nombre alude a la palabra italiana para «todo» y a su forma de T. Fue una propuesta futurista para reformar la ropa con geometría simple y poco costo.",
+    "status": "Hay prendas originales en colecciones de museos; el patrón se reproduce ampliamente."
+   },
+   "refs": [],
+   "movements": [
+    "futurism-typography"
+   ]
+  },
+  {
+   "id": "patou-lenglen-1921",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Lenglen's Patou tennis outfit",
+   "designers": [
+    "jean-patou"
+   ],
+   "maker": "Jean Patou",
+   "year": 1921,
+   "date": "1921",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Pleated fabric",
+   "tech": [],
+   "key": "The sleeveless pleated dress Jean Patou made for the French tennis champion Suzanne Lenglen, an early case of high fashion designing for sport.",
+   "more": "Lenglen, who won Wimbledon in these years, played in light, pleated, sleeveless dresses that left her arms and legs free, far from the long, heavy skirts of earlier tennis wear. Patou, a Paris couturier, dressed her and later made sportswear a line of his house, with a corner for sports clothes in his boutique in the mid-1920s. The outfit made clothes for play a matter of fashion as well as function.",
+   "status": "The original outfit is known mainly from photographs and film.",
+   "es": {
+    "title": "Atuendo de tenis de Lenglen por Patou",
+    "date": "1921",
+    "materials": "Tela plisada",
+    "key": "El vestido plisado sin mangas que Jean Patou hizo para la campeona francesa de tenis Suzanne Lenglen, un caso temprano de alta costura diseñando para el deporte.",
+    "more": "Lenglen, que ganó Wimbledon en esos años, jugaba con vestidos livianos, plisados y sin mangas que le dejaban libres brazos y piernas, muy lejos de las faldas largas y pesadas del tenis anterior. Patou, modisto parisino, la vistió y después hizo de la ropa deportiva una línea de su casa, con un rincón para ropa de deporte en su boutique a mediados de los años veinte. El atuendo convirtió la ropa para jugar en un asunto de moda y no solo de función.",
+    "status": "El atuendo original se conoce sobre todo por fotografías y películas.",
+    "short": "Atuendo Lenglen-Patou"
+   },
+   "refs": [],
+   "short": "Lenglen’s Patou outfit"
+  },
+  {
+   "id": "prozodezhda-1922",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Rodchenko's production clothing",
+   "designers": [
+    "rodchenko",
+    "stepanova"
+   ],
+   "year": 1922,
+   "date": "1922",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Plain cloth",
+   "tech": [],
+   "key": "The functional work overall Aleksandr Rodchenko designed in 1922 as ‘production clothing’, a Constructivist uniform for the new worker.",
+   "more": "Constructivists such as Rodchenko and Varvara Stepanova argued that clothing should serve work, not display. Rodchenko made himself a one-piece overall with practical pockets and had himself photographed in it in 1922; Stepanova designed costumes and sportswear in the same spirit, including costumes for Meyerhold’s production of The Death of Tarelkin that year. The idea was a plain, egalitarian garment made for industrial production.",
+   "status": "Known from Rodchenko’s photographs and sketches of 1922.",
+   "es": {
+    "title": "Ropa de producción de Rodchenko",
+    "date": "1922",
+    "materials": "Tela simple",
+    "key": "El overol funcional que Aleksandr Rodchenko diseñó en 1922 como «ropa de producción», un uniforme constructivista para el nuevo trabajador.",
+    "more": "Constructivistas como Rodchenko y Varvara Stepanova sostenían que la ropa debía servir al trabajo, no a la ostentación. Rodchenko se hizo un overol de una pieza con bolsillos prácticos y se hizo fotografiar con él en 1922; Stepanova diseñó trajes y ropa deportiva con el mismo espíritu, entre ellos los trajes de la puesta en escena de La muerte de Tarelkin de Meyerhold ese año. La idea era una prenda simple e igualitaria, pensada para la producción industrial.",
+    "status": "Se conoce por las fotografías y los bocetos de Rodchenko de 1922.",
+    "short": "Prozodezhda"
+   },
+   "refs": [],
+   "short": "Prozodezhda"
+  },
+  {
+   "id": "schott-perfecto-1928",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Schott Perfecto jacket",
+   "designers": [],
+   "maker": "Schott Bros.",
+   "year": 1928,
+   "date": "1928",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Heavy leather, metal zip",
+   "tech": [],
+   "key": "The close-fitting leather motorcycle jacket made by Schott in New York from 1928, later a symbol of youth rebellion.",
+   "more": "Schott Bros., a New York maker of outerwear, introduced the Perfecto in 1928 as a short, tough jacket for motorcyclists, with an asymmetric zip and a belted waist. It became a symbol of rebellion after Marlon Brando wore a Perfecto in The Wild One (1953), and the punks of the 1970s, the Ramones among them, took it up in turn. A garment of work and speed became a youth uniform.",
+   "status": "Still made by Schott in the United States.",
+   "es": {
+    "title": "Chaqueta Schott Perfecto",
+    "date": "1928",
+    "materials": "Cuero grueso, cierre metálico",
+    "key": "La chaqueta de cuero ceñida de motorista que Schott fabricó en Nueva York desde 1928, luego símbolo de rebeldía juvenil.",
+    "more": "Schott Bros., fabricante neoyorquino de ropa de abrigo, lanzó la Perfecto en 1928 como una chaqueta corta y resistente para motociclistas, con cierre asimétrico y cintura con cinturón. Se volvió símbolo de rebeldía cuando Marlon Brando usó una Perfecto en The Wild One (1953), y los punks de los años setenta, entre ellos los Ramones, la adoptaron a su vez. Una prenda de trabajo y velocidad se convirtió en uniforme juvenil.",
+    "status": "Schott la sigue fabricando en Estados Unidos.",
+    "short": "Schott Perfecto"
+   },
+   "refs": [],
+   "short": "Schott Perfecto"
+  },
+  {
+   "id": "kahlo-tehuana-1930",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Frida Kahlo and the Tehuana dress",
+   "designers": [],
+   "year": 1930,
+   "date": "c. 1930",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Embroidered cloth, long skirt, shawl and jewellery",
+   "tech": [],
+   "key": "Frida Kahlo’s adoption, from around 1930, of the dress of the Tehuana women of Oaxaca as a personal and national emblem.",
+   "more": "After marrying Diego Rivera in 1929, Kahlo took to wearing the embroidered blouse, long skirt and jewellery of the Tehuana women of the Isthmus of Tehuantepec, often with a shawl and braided hair. Her choice joined Mexico’s post-revolutionary valuing of indigenous and popular culture with a self-made public image, and her portraits spread it abroad. It was not a single designed object but a way of dressing.",
+   "status": "Kahlo’s clothes are kept at the Casa Azul museum in Mexico City.",
+   "es": {
+    "title": "Frida Kahlo y el traje de tehuana",
+    "date": "c. 1930",
+    "materials": "Telas bordadas, falda larga, rebozo y joyas",
+    "key": "La adopción por Frida Kahlo, desde c. 1930, del traje de las tehuanas de Oaxaca como emblema personal y nacional.",
+    "more": "Tras casarse con Diego Rivera en 1929, Kahlo empezó a vestir la blusa bordada, la falda larga y las joyas de las tehuanas del Istmo de Tehuantepec, a menudo con rebozo y el pelo trenzado. Su elección unió la valoración posrevolucionaria de lo indígena y lo popular en México con una imagen pública creada por ella misma, y sus retratos la difundieron en el extranjero. No fue un objeto diseñado, sino una manera de vestir.",
+    "status": "La ropa de Kahlo se conserva en el museo de la Casa Azul, en Ciudad de México.",
+    "short": "Traje tehuana de Kahlo"
+   },
+   "refs": [],
+   "maker": "Frida Kahlo",
+   "short": "Kahlo’s Tehuana dress"
+  },
+  {
+   "id": "letty-lynton-dress-1932",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Letty Lynton dress",
+   "designers": [
+    "adrian"
+   ],
+   "maker": "MGM",
+   "year": 1932,
+   "date": "1932",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Organdy",
+   "tech": [],
+   "key": "The white dress with huge ruffled sleeves that Adrian designed for Joan Crawford in the film Letty Lynton, widely imitated.",
+   "more": "Adrian was head costume designer at MGM, and the dress he made for Crawford in Letty Lynton (1932) had broad ruffled sleeves that widened the shoulders. It is among the best-known examples of a film costume setting a fashion: copies of the dress were sold in American stores. The studio, not a couturier, became the source of mass fashion.",
+   "status": "Known mainly from the film and its publicity stills.",
+   "es": {
+    "title": "Vestido de «Letty Lynton»",
+    "date": "1932",
+    "materials": "Organdí",
+    "key": "El vestido blanco de mangas enormes con volantes que Adrian diseñó para Joan Crawford en la película Letty Lynton, muy imitado.",
+    "more": "Adrian era el jefe de diseño de vestuario de la MGM, y el vestido que hizo para Crawford en Letty Lynton (1932) tenía amplias mangas con volantes que ensanchaban los hombros. Es uno de los ejemplos más conocidos de un traje de cine que impuso una moda: se vendieron copias del vestido en tiendas de Estados Unidos. El estudio, y no un modisto, pasó a ser fuente de la moda de masas.",
+    "status": "Se conoce sobre todo por la película y sus fotos publicitarias.",
+    "short": "Vestido Letty Lynton"
+   },
+   "refs": [],
+   "short": "Letty Lynton dress"
+  },
+  {
+   "id": "miranda-baiana-1939",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "costume",
+   "title": "Carmen Miranda's baiana costume",
+   "designers": [],
+   "year": 1939,
+   "date": "1939",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "countries": [
+    "BR",
+    "US"
+   ],
+   "materials": "Printed and embroidered cloth, beads, turban, platform shoes",
+   "tech": [],
+   "key": "Carmen Miranda’s stage version of the baiana dress of Bahia, which took her from Brazilian samba to Broadway and Hollywood.",
+   "more": "Miranda adapted the dress of the baianas, the Afro-Brazilian women of Bahia, with a turban, beads, bare midriff and platform shoes, and wore it in Brazil in 1939 before going to Broadway that year. In the United States, where she appeared in Hollywood films from 1940, the costume grew more exaggerated, with fruit on the headdress. It made a popular Brazilian dress into an export, and also fixed a stereotype of ‘the Latin’.",
+   "status": "Some of her costumes are kept at the Carmen Miranda Museum in Rio de Janeiro.",
+   "es": {
+    "title": "Traje de baiana de Carmen Miranda",
+    "date": "1939",
+    "materials": "Telas estampadas y bordadas, cuentas, turbante, zapatos de plataforma",
+    "key": "La versión escénica de Carmen Miranda del traje de baiana de Bahía, que la llevó de la samba brasileña a Broadway y Hollywood.",
+    "more": "Miranda adaptó el traje de las baianas, las mujeres afrobrasileñas de Bahía, con turbante, cuentas, el vientre descubierto y zapatos de plataforma, y lo usó en Brasil en 1939 antes de ir a Broadway ese año. En Estados Unidos, donde apareció en películas de Hollywood desde 1940, el traje se volvió más exagerado, con frutas en el tocado. Hizo de un traje popular brasileño un producto de exportación, y además fijó un estereotipo de «lo latino».",
+    "status": "Algunos de sus trajes se conservan en el Museo Carmen Miranda de Río de Janeiro.",
+    "short": "Baiana de Miranda"
+   },
+   "refs": [],
+   "maker": "Carmen Miranda and Hollywood and Rio costume makers",
+   "short": "Miranda’s baiana"
+  },
+  {
+   "id": "zoot-suit-1940",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "suit",
+   "title": "Zoot suit",
+   "designers": [],
+   "year": 1940,
+   "date": "c. 1940",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "MX"
+   ],
+   "materials": "Wool",
+   "tech": [],
+   "key": "The suit of a long, wide-shouldered jacket and high-waisted baggy trousers worn by young Black and Mexican-American men in the early 1940s.",
+   "more": "The zoot suit had a long jacket, padded shoulders, high-waisted trousers wide at the knee and narrow at the cuff, and a watch chain. Its origins are disputed, but it was worn in Black jazz circles and by Mexican-American youths known as pachucos. In 1942 a United States wartime order (L-85) limited the cloth used in clothing, so a suit with so much fabric was a visible gesture of defiance; in Los Angeles in June 1943 servicemen attacked its wearers in the ‘zoot suit riots’.",
+   "status": "No single original object; the style survives in museum examples and revivals.",
+   "es": {
+    "title": "Traje «zoot suit»",
+    "date": "c. 1940",
+    "materials": "Lana",
+    "key": "El traje de chaqueta larga de hombros anchos y pantalón de talle alto y holgado que usaron jóvenes negros y mexicanoamericanos a comienzos de los años cuarenta.",
+    "more": "El zoot suit tenía chaqueta larga, hombros acolchados, pantalón de talle alto ancho en la rodilla y angosto en el puño, y una cadena de reloj. Sus orígenes se discuten, pero lo usaron los círculos del jazz negro y jóvenes mexicanoamericanos llamados pachucos. En 1942 una orden estadounidense de guerra (L-85) limitó la tela usada en la ropa, así que un traje con tanta tela era un gesto visible de desafío; en Los Ángeles, en junio de 1943, militares atacaron a quienes lo usaban en los «disturbios del zoot suit».",
+    "status": "No es un objeto único; el estilo sobrevive en ejemplares de museo y en revivals."
+   },
+   "refs": [],
+   "maker": "Harlem and Los Angeles tailors and wearers"
+  },
+  {
+   "id": "mccardell-popover-1942",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "McCardell Popover dress",
+   "designers": [
+    "claire-mccardell"
+   ],
+   "maker": "Townley Frocks",
+   "year": 1942,
+   "date": "1942",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cotton denim",
+   "tech": [],
+   "key": "Claire McCardell’s wrap-around cotton dress of 1942, simple and cheap to make, which came with its own oven mitt.",
+   "more": "McCardell designed the Popover as a wrap dress that a woman could put on without help, in plain cotton, with a matching oven mitt sewn to it for housework. Wartime limits on materials and fastenings favoured simple designs with ties instead of complicated closures. It became a model of American sportswear: practical, affordable and made in series.",
+   "status": "Examples are kept in museum costume collections.",
+   "es": {
+    "title": "Vestido Popover de McCardell",
+    "date": "1942",
+    "materials": "Mezclilla de algodón",
+    "key": "El vestido envolvente de algodón de Claire McCardell de 1942, simple y barato de hacer, que venía con su propio guante de cocina.",
+    "more": "McCardell diseñó el Popover como un vestido envolvente que una mujer podía ponerse sin ayuda, de algodón simple, con un guante de cocina a juego para las tareas del hogar. Las restricciones de guerra a materiales y cierres favorecieron diseños simples con amarras en vez de cierres complicados. Se volvió un modelo de la moda deportiva estadounidense: práctica, asequible y hecha en serie.",
+    "status": "Se conservan ejemplares en colecciones de moda de museos.",
+    "short": "Popover de McCardell"
+   },
+   "refs": [],
+   "short": "McCardell Popover"
+  },
+  {
+   "id": "gres-draped-gowns",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Alix draped gown",
+   "designers": [
+    "madame-gres"
+   ],
+   "maker": "Alix",
+   "client": null,
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Silk jersey",
+   "tech": [
+    "bias-cut"
+   ],
+   "key": "A columnar evening dress of draped silk jersey made in 1937 by Germaine Krebs under the label Alix,[1] later known as Madame Grès.[1][2]",
+   "more": "She draped the fabric directly on a live model, pleating and folding the jersey by hand,[3][4] reportedly sometimes for hundreds of hours,[4] to obtain gowns that recall Greek sculpture.[1][2] The Met’s 1937 dress is made of two lengths of silk jersey arranged around the body.[1]",
+   "where": [
+    {
+     "label": "The Met, New York: Alix evening dress, 1937",
+     "url": "https://www.metmuseum.org/art/collection/search/155859"
+    },
+    {
+     "label": "The Met, New York: Alix ‘Pagoda’ ensemble, 1935",
+     "url": "https://www.metmuseum.org/art/collection/search/82104"
+    }
+   ],
+   "status": "Originals in museum collections.",
+   "es": {
+    "title": "Vestido drapeado de Alix",
+    "date": "1937",
+    "materials": "Jersey de seda",
+    "key": "Un vestido de noche columnar de jersey de seda drapeado, hecho en 1937 por Germaine Krebs con la marca Alix,[1] luego conocida como Madame Grès.[1][2]",
+    "more": "Drapeaba la tela directamente sobre una modelo viva, plisando y doblando el jersey a mano,[3][4] según se cuenta a veces durante cientos de horas,[4] para lograr vestidos que recuerdan la escultura griega.[1][2] El vestido de 1937 del Met está hecho con dos largos de jersey de seda dispuestos en torno al cuerpo.[1]",
+    "status": "Originales en colecciones de museos.",
+    "short": "Vestido de Alix"
+   },
+   "short": "Alix gown",
+   "refs": [
+    {
+     "label": "The Met, Alix (Madame Grès), Evening dress, 1937, 2009.300.1174",
+     "url": "https://www.metmuseum.org/art/collection/search/155859",
+     "checks": "1937; Madame Grès (Germaine Émilie Krebs) para la casa Alix; seda; dos largos de jersey de seda drapeado que forman una silueta columnar sin estructura, de inspiración clásica.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "UAL, Exhibiting Fashion: «Madame Grès: La Couture à l’Oeuvre» (Palais Galliera, 2011)",
+     "url": "https://fashionexhibitionmaking.arts.ac.uk/madame-gres-la-couture-a-loeuvre-madame-gres-couture-at-work/",
+     "checks": "Trabajó con la marca Alix desde 1933 y fundó la casa Grès en 1942; usó sobre todo jersey; drapeado inspirado en la Antigüedad clásica; cita: «quería ser escultora».",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Madame Grès, Dress, 130174",
+     "url": "https://www.metmuseum.org/art/collection/search/130174",
+     "checks": "Los pliegues se ordenaban y se hilvanaban a mano; jersey de seda (otra pieza, posterior).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "DailyArt Magazine, «Madame Grès: The Sphinx of Fashion»",
+     "url": "https://www.dailyartmagazine.com/madame-gres-the-sphinx-of-fashion/",
+     "checks": "Diseñaba directamente sobre las modelos; un vestido podía tomar hasta 300 horas; cada pliegue a mano; «estatuas griegas». ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    }
+   ]
+  }
+ ]
+}

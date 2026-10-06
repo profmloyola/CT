@@ -1,0 +1,470 @@
+[
+ {
+  "rtype": "designer",
+  "id": "denise-scott-brown",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1931,
+  "died": null,
+  "dates": "1931–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Denise Scott Brown",
+  "movements": [
+   "postmodern-architecture"
+  ],
+  "key": "Architect and urban planner, partner of Robert Venturi and co-author of Learning from Las Vegas; the Pritzker Prize of 1991 went to Venturi alone, a central case in feminist architectural history.",
+  "more": "She grew up in South Africa and settled in the United States, where she worked and taught with Robert Venturi and led their joint practice's urban planning. With Venturi and Steven Izenour she wrote Learning from Las Vegas (1972), a study of the commercial strip that became a landmark of postmodern architecture. When the Pritzker Prize of 1991 was awarded to Venturi alone, her omission led to a long public debate about credit and gender in architecture.",
+  "es": {
+   "dates": "1931–",
+   "key": "Arquitecta y urbanista, socia de Robert Venturi y coautora de Learning from Las Vegas; el Pritzker de 1991 se concedió solo a Venturi, un caso central de la historiografía feminista de la arquitectura.",
+   "more": "Creció en Sudáfrica y se estableció en Estados Unidos, donde trabajó y enseñó con Robert Venturi y dirigió el área de planificación urbana de su estudio común. Con Venturi y Steven Izenour escribió Learning from Las Vegas (1972), un estudio de la franja comercial que se volvió un hito de la arquitectura posmoderna. Cuando el Pritzker de 1991 se otorgó solo a Venturi, su exclusión abrió un largo debate público sobre el crédito y el género en la arquitectura."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-feminisms",
+  "item": "denise-scott-brown",
+  "note": "Unequal credit between partners becomes a public debate on authorship and gender, and her case makes shared authorship in architectural practice a question of design history.",
+  "es": {
+   "note": "El reconocimiento desigual entre socios se vuelve un debate público sobre autoría y género, y su caso hace de la autoría compartida en la práctica arquitectónica un tema de la historia del diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "diller-scofidio-renfro",
+  "level": "normal",
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1979,
+  "died": null,
+  "dates": "1979–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Diller Scofidio + Renfro",
+  "movements": [
+   "landscape-urbanism"
+  ],
+  "key": "New York architecture studio best known for the High Line, the park built on a disused elevated railway, designed with James Corner Field Operations and Piet Oudolf.",
+  "more": "Elizabeth Diller and Ricardo Scofidio founded the practice in New York in 1979, and Charles Renfro later became a partner. Their work crosses architecture, installation and urban design. The High Line (New York, first section opened in 2009) turned an abandoned elevated freight line into a public park.",
+  "es": {
+   "dates": "1979–",
+   "key": "Estudio neoyorquino de arquitectura, conocido sobre todo por la High Line, el parque construido sobre una vía elevada en desuso, proyectado con James Corner Field Operations y Piet Oudolf.",
+   "more": "Elizabeth Diller y Ricardo Scofidio fundaron el estudio en Nueva York en 1979, y Charles Renfro se sumó después como socio. Su trabajo cruza la arquitectura, la instalación y el diseño urbano. La High Line (Nueva York, primer tramo inaugurado en 2009) convirtió una vía de carga elevada abandonada en un parque público."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-deindustrialisation-regeneration",
+  "item": "diller-scofidio-renfro",
+  "note": "Deindustrialisation leaves obsolete elevated rail; the studio keeps the structure and turns it into a linear public park, a model for reusing industrial infrastructure.",
+  "es": {
+   "note": "La desindustrialización deja una vía elevada obsoleta; el estudio conserva la estructura y la convierte en un parque público lineal, modelo de reutilización de infraestructura industrial."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "miuccia-prada",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "born": 1949,
+  "died": null,
+  "dates": "1949–",
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Miuccia Prada",
+  "key": "Italian fashion designer who runs Prada and Miu Miu; her black nylon backpack of the 1980s turned an industrial fabric into a luxury good.",
+  "more": "Born in Milan in 1949, she took over the family leather-goods firm in the late 1970s. In the mid-1980s she made backpacks and bags in black nylon, a material associated with utility, which carried only a small metal logo plate. She founded the Miu Miu line in the 1990s.",
+  "es": {
+   "dates": "1949–",
+   "key": "Diseñadora de moda italiana al frente de Prada y Miu Miu; su mochila de nailon negro de los años ochenta convirtió un tejido industrial en objeto de lujo.",
+   "more": "Nacida en Milán en 1949, se hizo cargo de la empresa familiar de artículos de cuero a fines de los años setenta. A mediados de los ochenta hizo mochilas y bolsos de nailon negro, un material asociado a lo utilitario, que llevaban solo una pequeña placa metálica con el logo. En los noventa fundó la línea Miu Miu."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-branding",
+  "item": "miuccia-prada",
+  "note": "As branding turns logos into value, an industrial nylon with only a discreet logo plate becomes a luxury bag, so the brand mark replaces costly materials as the sign of status.",
+  "es": {
+   "note": "Cuando la marca convierte el logo en valor, un nailon industrial con solo una discreta placa se vuelve bolso de lujo: la marca reemplaza a los materiales caros como signo de estatus."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "karl-lagerfeld",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "born": 1933,
+  "died": 2019,
+  "dates": "1933–2019",
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Karl Lagerfeld",
+  "key": "German-born designer, creative director of Chanel from 1983, a model of the designer who reinterprets a historic fashion house.",
+  "more": "Born in Hamburg in 1933, he worked in Paris for several houses, including Fendi, and also had a label under his own name. From 1983 he led Chanel, renewing the house's classic suits and codes for a new public. He died in 2019.",
+  "es": {
+   "dates": "1933–2019",
+   "key": "Diseñador de origen alemán, director creativo de Chanel desde 1983, modelo del diseñador que reinterpreta una casa de moda histórica.",
+   "more": "Nacido en Hamburgo en 1933, trabajó en París para varias casas, entre ellas Fendi, y tuvo además una marca con su nombre. Desde 1983 dirigió Chanel, y renovó los trajes y códigos clásicos de la casa para un público nuevo. Murió en 2019."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-branding",
+  "item": "karl-lagerfeld",
+  "note": "The fashion house is managed as a global brand: a creative director renews its codes and logo each season, so a historic name becomes a recognisable, repeatable product line.",
+  "es": {
+   "note": "La casa de moda se gestiona como marca global: un director creativo renueva sus códigos y su logo cada temporada, y un nombre histórico se vuelve una línea de productos reconocible y repetible."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "donna-karan",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "born": 1948,
+  "died": null,
+  "dates": "1948–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Donna Karan",
+  "key": "American fashion designer who built a modular wardrobe for the working woman, starting with her Seven Easy Pieces of 1985.",
+  "more": "Born in New York in 1948, she worked for Anne Klein before launching her own label in the mid-1980s. Her Seven Easy Pieces (1985) was a small set of interchangeable garments, built around a bodysuit, for a woman who works. She later added the DKNY line.",
+  "es": {
+   "dates": "1948–",
+   "key": "Diseñadora de moda estadounidense que construyó un guardarropa modular para la mujer que trabaja, desde sus Seven Easy Pieces de 1985.",
+   "more": "Nacida en Nueva York en 1948, trabajó para Anne Klein antes de lanzar su propia marca a mediados de los ochenta. Sus Seven Easy Pieces (1985) eran un pequeño conjunto de prendas intercambiables, en torno a un body, para la mujer que trabaja. Más tarde agregó la línea DKNY."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-feminisms",
+  "item": "donna-karan",
+  "note": "As more women reach management posts, they need work clothes of their own, not copies of the male suit; her interchangeable pieces answer with a modular wardrobe.",
+  "es": {
+   "note": "Con más mujeres en cargos directivos surge la necesidad de ropa de trabajo propia, no copiada del traje masculino; sus prendas intercambiables responden con un guardarropa modular."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "marc-jacobs",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "born": 1963,
+  "died": null,
+  "dates": "1963–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Marc Jacobs",
+  "key": "American fashion designer, author of the grunge collection for Perry Ellis and later creative director of Louis Vuitton.",
+  "more": "Born in New York in 1963, he presented a grunge-inspired collection for Perry Ellis in 1993, which brought street clothing of the Seattle music scene to the runway. He became creative director of Louis Vuitton in 1997 and also leads a label under his own name.",
+  "es": {
+   "dates": "1963–",
+   "key": "Diseñador de moda estadounidense, autor de la colección grunge para Perry Ellis y luego director creativo de Louis Vuitton.",
+   "more": "Nacido en Nueva York en 1963, presentó en 1993 una colección de inspiración grunge para Perry Ellis, que llevó a la pasarela la ropa callejera de la escena musical de Seattle. En 1997 fue director creativo de Louis Vuitton, y además dirige una marca con su nombre."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mtv-club",
+  "item": "marc-jacobs",
+  "note": "Grunge music spread by MTV makes thrift-store flannel and worn layers a mass youth look, and the designer carries it to the runway as a collection.",
+  "es": {
+   "note": "La música grunge difundida por MTV vuelve un look juvenil masivo la franela de segunda mano y las capas gastadas, y el diseñador lo lleva a la pasarela como colección."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "helmut-lang",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "born": 1956,
+  "died": null,
+  "dates": "1956–",
+  "countries": [
+   "AT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Helmut Lang",
+  "movements": [
+   "minimalism-fashion-product"
+  ],
+  "key": "Austrian fashion designer of the 1990s, known for a sober minimalism and for early use of the internet to present his work.",
+  "more": "Born in Vienna in 1956, he founded his label in the 1980s and showed in Paris, then in New York. His clothes used plain cuts and neutral colours, and made minimalism a reference of 1990s fashion. He was also among the designers who explored the web to show collections.",
+  "es": {
+   "dates": "1956–",
+   "key": "Diseñador de moda austríaco de los años noventa, conocido por un minimalismo sobrio y por usar tempranamente internet para presentar su trabajo.",
+   "more": "Nacido en Viena en 1956, fundó su marca en los años ochenta y presentó en París y luego en Nueva York. Su ropa usaba cortes simples y colores neutros, y convirtió el minimalismo en una referencia de la moda de los noventa. Fue también uno de los diseñadores que exploraron la web para mostrar colecciones."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-internet-culture",
+  "item": "helmut-lang",
+  "note": "The web lets a collection reach buyers and the press without a runway show, so presentation moves from a staged event to an image shown online.",
+  "es": {
+   "note": "La web permite que una colección llegue a compradores y prensa sin desfile, y la presentación pasa de ser un evento escenificado a una imagen mostrada en línea."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "jamie-reid",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1947,
+  "died": 2023,
+  "dates": "1947–2023",
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Jamie Reid",
+  "movements": [
+   "punk-fashion"
+  ],
+  "key": "British artist and designer who made the graphics of the Sex Pistols, with collage and cut-out ransom-note lettering.",
+  "more": "Born in London in 1947, he designed the Sex Pistols' sleeves and posters. For God Save the Queen (1977) he covered a portrait of the Queen with cut-out lettering. His cheap, rough collage of cut paper and clashing colours became the look of punk graphics. He died in 2023.",
+  "es": {
+   "dates": "1947–2023",
+   "key": "Artista y diseñador británico autor de la gráfica de los Sex Pistols, con collage y letras recortadas al modo de nota de rescate.",
+   "more": "Nacido en Londres en 1947, diseñó las portadas y los afiches de los Sex Pistols. Para God Save the Queen (1977) cubrió un retrato de la reina con letras recortadas. Su collage barato y áspero, de papel recortado y colores chocantes, se volvió la apariencia de la gráfica punk. Murió en 2023."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-punk",
+  "item": "jamie-reid",
+  "note": "Punk demands cheap, aggressive graphics that look improvised, so cut-and-paste collage and ransom-note letters replace polished typesetting.",
+  "es": {
+   "note": "El punk pide una gráfica barata, agresiva y de apariencia improvisada, y el collage de recortes y las letras de nota de rescate reemplazan a la composición tipográfica pulida."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "wolfgang-weingart",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1941,
+  "died": 2021,
+  "dates": "1941–2021",
+  "countries": [
+   "DE",
+   "CH"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Wolfgang Weingart",
+  "movements": [
+   "new-wave-typography",
+   "basel-school-typography"
+  ],
+  "key": "German-born typographer who taught in Basel and broke the Swiss style from within, an origin of the typographic New Wave.",
+  "more": "Born in Germany in 1941, he trained as a typesetter and taught typography at the school of design in Basel from the late 1960s. He pushed Swiss typography beyond its rules with layered films, varied weights and spacing, and rule fragments. Many students from abroad carried his methods to their own countries. He died in 2021.",
+  "es": {
+   "dates": "1941–2021",
+   "key": "Tipógrafo de origen alemán que enseñó en Basilea y rompió el estilo suizo desde dentro, un origen de la Nueva Ola tipográfica.",
+   "more": "Nacido en Alemania en 1941, se formó como cajista y enseñó tipografía en la escuela de diseño de Basilea desde fines de los años sesenta. Llevó la tipografía suiza más allá de sus reglas, con películas superpuestas, pesos y espacios variados, y fragmentos de filetes. Muchos alumnos extranjeros llevaron sus métodos a sus propios países. Murió en 2021."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-crisis-functionalism",
+  "item": "wolfgang-weingart",
+  "note": "As confidence in strict functionalism fades, he answers with layers, textures and broken type, so the grid becomes a starting point rather than a rule.",
+  "es": {
+   "note": "Al decaer la confianza en el funcionalismo estricto, responde con capas, texturas y tipografía rota, y la retícula pasa de regla a punto de partida."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "peter-saville",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1955,
+  "died": null,
+  "dates": "1955–",
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Peter Saville",
+  "key": "British graphic designer of Factory Records, author of sleeves for Joy Division and New Order.",
+  "more": "Born in Manchester in 1955, he worked with Factory Records from its early years. He designed sleeves for Joy Division and New Order, often without the band's name or title on the front, using restrained typography and found images. His sleeves showed that a record cover could be an autonomous design object.",
+  "es": {
+   "dates": "1955–",
+   "key": "Diseñador gráfico británico de Factory Records, autor de portadas para Joy Division y New Order.",
+   "more": "Nacido en Manchester en 1955, trabajó con Factory Records desde sus primeros años. Diseñó portadas para Joy Division y New Order, a menudo sin el nombre de la banda ni el título al frente, con una tipografía sobria e imágenes encontradas. Sus portadas mostraron que la tapa de un disco podía ser un objeto de diseño autónomo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-punk",
+  "item": "peter-saville",
+  "note": "After punk, independent labels give designers free rein over sleeves, so a cover can omit the band's name and work as an autonomous object.",
+  "es": {
+   "note": "Tras el punk, los sellos independientes dan libertad total a las portadas, y una tapa puede omitir el nombre de la banda y funcionar como objeto autónomo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "toru-iwatani",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1955,
+  "died": null,
+  "dates": "1955–",
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "name": "Toru Iwatani",
+  "key": "Japanese game designer who created Pac-Man at Namco, a character whose simple shape made it a global icon.",
+  "more": "Born in 1955, he worked at the Japanese company Namco, where he designed Pac-Man (1980). The game replaced the shooting of earlier arcade games with a round character who eats and flees, aimed at a wider public. Released in the United States under licence, it became one of the best-known images of video games in the West.",
+  "es": {
+   "dates": "1955–",
+   "key": "Diseñador de videojuegos japonés que creó Pac-Man en Namco, un personaje cuya forma simple lo volvió un ícono global.",
+   "more": "Nacido en 1955, trabajó en la empresa japonesa Namco, donde diseñó Pac-Man (1980). El juego reemplazó el disparo de los juegos de salón anteriores por un personaje redondo que come y huye, pensado para un público más amplio. Lanzado en Estados Unidos bajo licencia, se volvió una de las imágenes más conocidas de los videojuegos en Occidente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-microelectronics",
+  "item": "toru-iwatani",
+  "note": "Cheap microprocessors make arcade video games possible; with so little graphics power, the designer reduces the character to a few simple shapes that Western players also recognise.",
+  "es": {
+   "note": "Los microprocesadores baratos hacen posibles los videojuegos de salón; con tan poca capacidad gráfica, el diseñador reduce el personaje a pocas formas simples que también el público occidental reconoce."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "katherine-mccoy",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1945,
+  "died": null,
+  "dates": "1945–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Katherine McCoy",
+  "movements": [
+   "new-wave-typography"
+  ],
+  "institutions": [
+   "inst-cranbrook"
+  ],
+  "key": "American designer and co-chair of the design department at Cranbrook Academy of Art, who brought post-structuralist theory into graphic design.",
+  "more": "Born in 1945, she led the graduate design programme at Cranbrook Academy of Art in Michigan from the early 1970s, with Michael McCoy. Her teaching and writing drew on French theory to treat a layout as a text with several readings. Her students became leading figures of experimental American graphic design.",
+  "es": {
+   "dates": "1945–",
+   "key": "Diseñadora estadounidense y codirectora del departamento de diseño de la Cranbrook Academy of Art, que llevó la teoría postestructuralista al diseño gráfico.",
+   "more": "Nacida en 1945, dirigió desde comienzos de los años setenta el posgrado de diseño de la Cranbrook Academy of Art, en Michigan, junto con Michael McCoy. Su docencia y sus escritos se apoyaron en la teoría francesa para tratar una composición como un texto de varias lecturas. Sus alumnos fueron figuras destacadas del diseño gráfico experimental estadounidense."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-postmodern-culture",
+  "item": "katherine-mccoy",
+  "note": "French theory suggests that a text can be read in several ways, so layouts become layered, open compositions that invite the reader to interpret rather than receive a single message.",
+  "es": {
+   "note": "La teoría francesa sugiere que un texto admite varias lecturas, y las composiciones se vuelven abiertas y en capas, que invitan al lector a interpretar en vez de recibir un único mensaje."
+  },
+  "refs": []
+ }
+]

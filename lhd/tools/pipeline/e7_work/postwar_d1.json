@@ -1,0 +1,511 @@
+[
+ {
+  "rtype": "designer",
+  "id": "som",
+  "name": "Skidmore, Owings & Merrill (SOM)",
+  "born": 1936,
+  "died": null,
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Despacho que convirtió el estilo internacional en arquitectura corporativa (Lever House, Gordon Bunshaft).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-corporate-office-boom",
+    "mecanismo": "Las grandes empresas encargan sedes de vidrio como imagen"
+   }
+  ],
+  "movements": [
+   "international-style"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-corporate-office-boom",
+    "item": "som",
+    "mecanismo": "Las grandes empresas encargan sedes de vidrio como imagen"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "carlos-raul-villanueva",
+  "name": "Carlos Raúl Villanueva",
+  "born": 1900,
+  "died": 1975,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "VE"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Arquitecto de la Ciudad Universitaria de Caracas, Patrimonio Mundial y gran obra de la «síntesis de las artes».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-latam-urbanisation-1950",
+    "mecanismo": "El crecimiento de Caracas y la inversión estatal → un campus moderno"
+   }
+  ],
+  "movements": [
+   "macro-modernism"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-latam-urbanisation-1950",
+    "item": "carlos-raul-villanueva",
+    "mecanismo": "El crecimiento de Caracas y la inversión estatal → un campus moderno"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "smithsons",
+  "name": "Alison and Peter Smithson",
+  "born": 1923,
+  "died": 2003,
+  "kind": "duo",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Pareja fundadora del Nuevo Brutalismo y miembros del Team 10 y del Independent Group.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-housing-reconstruction",
+    "mecanismo": "La reconstrucción británica pide escuelas y viviendas → una ética de materiales expuestos"
+   }
+  ],
+  "movements": [
+   "brutalism-metabolism"
+  ],
+  "institutions": [
+   "inst-team-10",
+   "inst-independent-group"
+  ],
+  "duda": "Fechas: Alison 1928–1993, Peter 1923–2003.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-housing-reconstruction",
+    "item": "smithsons",
+    "mecanismo": "La reconstrucción británica pide escuelas y viviendas → una ética de materiales expuestos"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "felix-candela",
+  "name": "Félix Candela",
+  "born": 1910,
+  "died": 1997,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "ES",
+   "MX"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Constructor de cascarones de hormigón en México; obra canónica de la ingeniería estructural.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mexico-miracle",
+    "mecanismo": "Mano de obra barata y acero caro → láminas delgadas de hormigón de doble curvatura"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mexico-miracle",
+    "item": "felix-candela",
+    "mecanismo": "Mano de obra barata y acero caro → láminas delgadas de hormigón de doble curvatura"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "eladio-dieste",
+  "name": "Eladio Dieste",
+  "born": 1917,
+  "died": 2000,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "UY"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Ingeniero uruguayo de la cerámica armada; referencia mundial de la técnica apropiada.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "Acero y cemento escasos, ladrillo y mano de obra disponibles → bóvedas de ladrillo armado"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-isi-cepal",
+    "item": "eladio-dieste",
+    "mecanismo": "Acero y cemento escasos, ladrillo y mano de obra disponibles → bóvedas de ladrillo armado"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "moshe-safdie",
+  "name": "Moshe Safdie",
+  "born": 1938,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "IL",
+   "CA"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Autor de Habitat 67, manifiesto de la vivienda prefabricada en módulos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-expo-67",
+    "mecanismo": "La Expo de Montreal construye su tesis de vivienda modular"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-expo-67",
+    "item": "moshe-safdie",
+    "mecanismo": "La Expo de Montreal construye su tesis de vivienda modular"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "paco-rabanne",
+  "name": "Paco Rabanne",
+  "born": 1934,
+  "died": 2023,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "ES",
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Modista de la era espacial que vistió con plástico y metal.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Discos de plástico y anillas de metal sustituyen a la tela"
+   }
+  ],
+  "movements": [
+   "space-age-fashion"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-plastics",
+    "item": "paco-rabanne",
+    "mecanismo": "Discos de plástico y anillas de metal sustituyen a la tela"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "abram-games",
+  "name": "Abram Games",
+  "born": 1914,
+  "died": 1996,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Cartelista británico de la Segunda Guerra y del Festival de 1951.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-world-war",
+    "mecanismo": "El Ministerio de Guerra encarga carteles de máxima síntesis"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-second-world-war",
+    "item": "abram-games",
+    "mecanismo": "El Ministerio de Guerra encarga carteles de máxima síntesis"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "emory-douglas",
+  "name": "Emory Douglas",
+  "born": 1943,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Ministro de Cultura del Partido Pantera Negra y autor de su gráfica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-civil-rights",
+    "mecanismo": "La lucha por los derechos civiles y el Black Power necesita imágenes propias"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-civil-rights",
+    "item": "emory-douglas",
+    "mecanismo": "La lucha por los derechos civiles y el Black Power necesita imágenes propias"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "herb-lubalin",
+  "name": "Herb Lubalin",
+  "born": 1918,
+  "died": 1981,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Maestro de la tipografía expresiva (Avant Garde, U&lc, ITC).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-phototypesetting",
+    "mecanismo": "La fotocomposición permite letras pegadas, ligaduras y escalas libres"
+   }
+  ],
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-phototypesetting",
+    "item": "herb-lubalin",
+    "mecanismo": "La fotocomposición permite letras pegadas, ligaduras y escalas libres"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "pininfarina",
+  "name": "Battista «Pinin» Farina",
+  "born": 1893,
+  "died": 1966,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Carrocero turinés; el Cisitalia 202 fue el primer automóvil en la colección del MoMA.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La carrocería artesanal italiana se vuelve cultura de diseño"
+   }
+  ],
+  "movements": [
+   "italian-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "pininfarina",
+    "mecanismo": "La carrocería artesanal italiana se vuelve cultura de diseño"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "kaj-franck",
+  "name": "Kaj Franck",
+  "born": 1911,
+  "died": 1989,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de vajilla y vidrio de uso diario (Arabia, Iittala): la «conciencia» del diseño finlandés.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nordic-welfare",
+    "mecanismo": "Viviendas pequeñas y Estado de bienestar → vajilla combinable, barata y apilable"
+   }
+  ],
+  "movements": [
+   "scandinavian-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-nordic-welfare",
+    "item": "kaj-franck",
+    "mecanismo": "Viviendas pequeñas y Estado de bienestar → vajilla combinable, barata y apilable"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

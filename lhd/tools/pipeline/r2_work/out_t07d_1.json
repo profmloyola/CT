@@ -1,0 +1,272 @@
+[
+ {
+  "id": "john-baskerville",
+  "en": {
+   "key": "English printer from Birmingham who cut his own typeface and improved ink, paper and press to print sharp, clean pages.[1][3]",
+   "more": "Born in Wolverley, Worcestershire, in 1706,[1] he made his fortune in Birmingham as a japanner (lacquerwork) before turning to printing.[1][2] He printed his Virgil in 1757,[1][3] followed by a Bible for Cambridge University in 1763.[1][3] He used a highly glossed paper and a black ink he had invented, worked with the papermaker James Whatman,[1][2] and improved the press.[3] He died in 1775;[2] his punches and matrices were later sold to Beaumarchais in France.[1]"
+  },
+  "es": {
+   "key": "Impresor inglés de Birmingham que grabó su propia tipografía y mejoró tinta, papel y prensa para imprimir páginas nítidas y limpias.[1][3]",
+   "more": "Nacido en Wolverley, Worcestershire, en 1706,[1] hizo su fortuna en Birmingham como barnizador de laca (japanner) antes de dedicarse a la imprenta.[1][2] Imprimió su Virgilio en 1757,[1][3] y luego una Biblia para la Universidad de Cambridge en 1763.[1][3] Usó un papel muy satinado y una tinta negra que él mismo inventó, trabajó con el papelero James Whatman[1][2] y mejoró la prensa.[3] Murió en 1775;[2] sus punzones y matrices fueron vendidos después a Beaumarchais, en Francia.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «John Baskerville»",
+    "url": "https://www.britannica.com/biography/John-Baskerville",
+    "checks": "nació en Wolverley, Worcestershire (1706); se asentó en Birmingham; negocio de japanning desde 1740; Virgilio 1757; Biblia 1763; papel muy satinado y tinta negra inventada por él; punzones y matrices vendidos a Beaumarchais. ⚠ No da fecha ni lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Parks & Gardens UK, «John Baskerville»",
+    "url": "https://www.parksandgardens.org/people/john-baskerville",
+    "checks": "vida 1706–1775; fortuna con el lacado; Virgilio de 1757; colaboración con el papelero James Whatman; Biblia de 1763. ⚠ No da lugar de nacimiento ni de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "University of Birmingham, Cadbury Research Library, «Baskerville»",
+    "url": "https://www.birmingham.ac.uk/facilities/cadbury/rarebooks/fine-printing-private-press/baskerville",
+    "checks": "de Wolverley, cerca de Kidderminster; primer libro: Virgilio 1757 en Easy Hill; Biblia de Cambridge 1763; mejoras en papel, tinta y construcción de la prensa.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «a mediados de la década de 1750» (la fuente solo fecha el Virgilio en 1757) y «contraste más marcado» (no confirmado; Britannica habla de claridad y equilibrio).",
+   "Fechas de vida 1706–1775 confirmadas (Britannica, Parks & Gardens); ninguna fuente abierta da día ni lugar de muerte, por eso no se afirma lugar de muerte (Birmingham)."
+  ]
+ },
+ {
+  "id": "josiah-wedgwood",
+  "en": {
+   "key": "English potter who built the Etruria works and perfected the cream-coloured Queen's ware and jasperware.[1][2]",
+   "more": "Born in Burslem, Staffordshire, into a family of potters,[2] he was baptized in July 1730[1] and set up his own pottery around 1759.[1] He developed a cream-coloured earthenware that won royal approval in 1765 and became known as Queen's ware,[1] after Queen Charlotte.[2] According to the Science Museum Group, he founded the Etruria works with Thomas Bentley in 1769,[2] though Britannica puts the factory at about 1771–73.[1] He also developed jasperware, with moulded reliefs,[1][2] and became a Fellow of the Royal Society in 1783 for his pyrometer.[2] He died at Etruria on 3 January 1795.[1]"
+  },
+  "es": {
+   "key": "Alfarero inglés que levantó la fábrica de Etruria y perfeccionó la loza cremosa Queen's ware y el jasperware.[1][2]",
+   "more": "Nacido en Burslem, Staffordshire, en una familia de alfareros,[2] fue bautizado en julio de 1730[1] y se independizó hacia 1759.[1] Desarrolló una loza de color crema que obtuvo la aprobación real en 1765 y se conoció como Queen's ware,[1] por la reina Carlota.[2] Según el Science Museum Group, fundó la fábrica de Etruria con Thomas Bentley en 1769,[2] aunque Britannica la sitúa hacia 1771–73.[1] También desarrolló el jasperware, con relieves moldeados,[1][2] y fue miembro de la Royal Society desde 1783 por su pirómetro.[2] Murió en Etruria el 3 de enero de 1795.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Josiah Wedgwood»",
+    "url": "https://www.britannica.com/print/article/638741",
+    "checks": "bautizado el 12 de julio de 1730 en Burslem; muerto el 3 de enero de 1795 en Etruria; negocio propio hacia 1759; Queen's ware con aprobación real en 1765; Etruria hacia 1771–73; jasperware (1775); miembro de la Royal Society. ⚠ Fechas de Etruria y del jasperware difieren de la otra fuente.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Science Museum Group, «Josiah Wedgwood 1730–1795»",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap25018",
+    "checks": "nacido el 12 de julio de 1730 en Burslem, familia de alfareros; Etruria en 1769 con Bentley; Queen's ware y la reina Carlota; jasperware (1773); Royal Society 1783 por el pirómetro. ⚠ No da lugar de muerte.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «repartiendo el trabajo entre manos especializadas», «venderlos mediante catálogos», el gusto neoclásico del jasperware y la Lunar Society: ninguna fuente abierta los sostiene.",
+   "Etruria: SMG dice 1769, Britannica hacia 1771–73; se atribuye a cada fuente. Jasperware: sin año por discrepancia (1773 vs. 1775). Britannica da bautismo (12 jul 1730), SMG da nacimiento el mismo día; 1730–1795 confirmado."
+  ]
+ },
+ {
+  "id": "giambattista-bodoni",
+  "en": {
+   "key": "Italian printer in Parma whose clean, modern typefaces, shown in his Manuale tipografico, gave their name to a typeface still widely used.[1][2]",
+   "more": "Born in Saluzzo, Piedmont, in 1740,[1] he went to Parma in 1768 to run the Duke's press.[1][2] He moved from ornate traditional types toward cleaner, modern designs influenced by Pierre Didot, a shift complete by 1787.[1] He printed classical texts such as Homer's Iliad in 1808.[1] His Manuale tipografico appeared in 1788, with 291 roman and italic types,[1] and a second edition, finished by his widow, followed in 1818.[1][2] He died in Parma in 1813.[1]"
+  },
+  "es": {
+   "key": "Impresor italiano en Parma cuyas tipografías limpias y modernas, mostradas en su Manuale tipografico, dieron nombre a una letra aún muy usada.[1][2]",
+   "more": "Nacido en Saluzzo, Piamonte, en 1740,[1] llegó a Parma en 1768 para dirigir la imprenta del duque.[1][2] Pasó de tipos ornamentados y tradicionales a diseños más limpios y modernos, influidos por Pierre Didot, un cambio completo hacia 1787.[1] Imprimió textos clásicos, como la Ilíada de Homero en 1808.[1] Su Manuale tipografico apareció en 1788, con 291 tipos romanos y cursivos,[1] y una segunda edición, terminada por su viuda, salió en 1818.[1][2] Murió en Parma en 1813.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Giambattista Bodoni»",
+    "url": "https://www.britannica.com/print/article/71084",
+    "checks": "nació el 16 de febrero de 1740 en Saluzzo, Piamonte; murió el 29 de noviembre de 1813 en Parma; imprenta ducal desde 1768; influencia de Didot hasta 1787; Manuale tipografico 1788 (291 tipos romanos y cursivos); segunda edición de su viuda en 1818; Ilíada 1808.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "SHARP News, reseña de V. Lester, «Giambattista Bodoni: His Life and His World»",
+    "url": "https://sharpweb.org/sharpnews/?p=251",
+    "checks": "vida 1740–1813; creció en Saluzzo; jefe de la imprenta ducal de Parma en 1768; el Manuale fue completado y publicado póstumamente por su viuda en 1818. ⚠ Reseña, fuente secundaria.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «formas cercanas a las de Baskerville», «amplios márgenes», «ediciones finas para cortes y eruditos» y «estándar de imprenta de lujo»: no confirmados; la influencia documentada es la de Didot.",
+   "Fechas de vida 1740–1813 confirmadas con lugar (Saluzzo, Parma)."
+  ]
+ },
+ {
+  "id": "william-playfair",
+  "en": {
+   "key": "Scottish draftsman and political economist who devised the line chart, bar chart and pie chart to show economic data.[1][2]",
+   "more": "In his Commercial and Political Atlas (1786) he drew trade figures as line graphs and one bar chart,[2] and in his Statistical Breviary (1801) he published his first pie chart.[1] He argued that graphic representation could facilitate the attainment of information and aid the memory in retaining it.[1] He was born in Liff, Scotland, in 1759 and died in London in 1823.[2]"
+  },
+  "es": {
+   "key": "Dibujante y economista político escocés que ideó el gráfico de líneas, el de barras y el de sectores para mostrar datos económicos.[1][2]",
+   "more": "En su Commercial and Political Atlas (1786) dibujó cifras de comercio como gráficos de líneas y un gráfico de barras,[2] y en su Statistical Breviary (1801) publicó su primer gráfico de sectores.[1] Sostenía que la representación gráfica podía facilitar la obtención de información y ayudar a la memoria a retenerla.[1] Nació en Liff, Escocia, en 1759 y murió en Londres en 1823.[2]"
+  },
+  "refs": [
+   {
+    "label": "American Scientist, «A Visionary and a Scoundrel»",
+    "url": "https://www.americanscientist.org/article/a-visionary-and-a-scoundrel",
+    "checks": "vida 1759–1823; formado en dibujo con James Watt; Statistical Breviary (1801) con su primer gráfico de sectores; cita sobre facilitar la información y ayudar a la memoria. ⚠ Fecha del Atlas distinta (1785 edición privada, 1801 publicada); no da lugar de nacimiento exacto (cerca de Dundee).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopedia of Mathematics, «Playfair, William»",
+    "url": "https://encyclopediaofmath.org/wiki/Playfair,_William",
+    "checks": "nació el 22 de septiembre de 1759 en Liff, Escocia; murió el 11 de febrero de 1823 en Londres; Commercial and Political Atlas (1786) con 44 gráficos de líneas y uno de barras; primero en idear los gráficos estadísticos comunes.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Cambié «ingeniero» por «dibujante» (las fuentes lo describen como dibujante y ayudante de Watt) y quité «de un vistazo» y la comparación con la tabla («captada más rápido»), reemplazada por la cita que sí da la fuente.",
+   "El Atlas: 1786 según la Enciclopedia de Matemáticas; American Scientist habla de una edición privada de 1785. Se mantiene 1786. Fechas 1759–1823 y lugares Liff/Londres confirmados."
+  ]
+ },
+ {
+  "id": "beau-brummell",
+  "en": {
+   "key": "English dandy and arbiter of fashion in Regency London whose simple, well-cut clothes and spotless linen foreshadowed the plain style of modern men’s dress.[2][3]",
+   "more": "George Bryan Brummell, born in London in 1778,[1] became a friend of the Prince of Wales, whose Tenth Hussars he joined,[1][2] and London's arbiter of elegance.[2] He favoured fine tailoring, blue coats, pristine white linen and black boots over the ornate, colourful dress that came before.[2] He fled his creditors to France in 1816[1][2] and died in an asylum at Caen in 1840.[2]"
+  },
+  "es": {
+   "key": "Dandi inglés y árbitro de la moda en el Londres del Regency, cuya ropa sencilla y bien cortada y su lino impecable anticiparon el estilo sobrio de la vestimenta masculina moderna.[2][3]",
+   "more": "George Bryan Brummell, nacido en Londres en 1778,[1] fue amigo del príncipe de Gales, en cuyo regimiento de húsares (el 10.º) ingresó,[1][2] y árbitro de la elegancia londinense.[2] Prefirió la buena sastrería, los abrigos azules, el lino blanco impecable y las botas negras al traje ornamentado y colorido anterior.[2] Huyó de sus acreedores a Francia en 1816[1][2] y murió en un asilo de Caen en 1840.[2]"
+  },
+  "refs": [
+   {
+    "label": "Britannica Kids/Students, «Beau Brummell»",
+    "url": "https://kids.britannica.com/students/article/Beau-Brummell/318186",
+    "checks": "nació el 7 de junio de 1778 en Londres; murió el 30 de marzo de 1840 en Caen; amigo del príncipe de Gales; huyó a Calais en 1816 por deudas. ⚠ Obra escolar de Britannica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "JASNA Persuasions On-Line, Nigro-Phillips, «A Revolution in Masculine Style»",
+    "url": "https://jasna.org/publications-2/persuasions-online/vol36no1/nigro-phillips/",
+    "checks": "Décimo de Húsares bajo el príncipe; árbitro de la elegancia; abrigo azul, chaleco, lino blanco impecable, botas negras frente a la moda ornamentada anterior; huida en 1816 por deudas; murió en un asilo de Caen el 30 de marzo de 1840.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopedia.com, «Brummell, George (Beau)»",
+    "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/brummell-george-beau",
+    "checks": "nacido en 1778, muerto en Francia en 1840; círculo del príncipe de Gales; exilio en Calais y Caen desde 1816; estilo sobrio que anticipa la simplicidad masculina posterior. ⚠ Enciclopedia general.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «paños oscuros», «corbata cuidadosamente anudada» y «en la década de 1800» (no confirmados; las fuentes hablan de abrigo azul, chaleco claro y lino blanco).",
+   "Fuentes difieren en el día de la huida (16 o 18 de mayo de 1816): solo se da el año. Fechas 1778–1840 y lugares Londres/Caen confirmados."
+  ]
+ },
+ {
+  "id": "michael-thonet",
+  "en": {
+   "key": "German-Austrian cabinetmaker who bent steamed beechwood into light chairs and turned them into one of the first mass-produced furnishings.[1][2]",
+   "more": "Born in Boppard on the Rhine in 1796,[1][3] he opened a workshop in 1819 and experimented with bent and laminated wood from about 1830.[1] He moved to Vienna in 1842,[3] and after showing his work at the Great Exhibition in London in 1851[1][2] he formed Gebrüder Thonet with his sons in 1853.[1][2] The firm aimed to make as many models as possible from as few parts as possible,[2] and sold over 50 million no. 14 chairs by 1930.[2] He died in Vienna in 1871.[3]"
+  },
+  "es": {
+   "key": "Ebanista germano-austríaco que curvó haya al vapor para hacer sillas livianas y las convirtió en uno de los primeros muebles de producción en serie.[1][2]",
+   "more": "Nacido en Boppard, junto al Rin, en 1796,[1][3] abrió un taller en 1819 y experimentó con madera curvada y laminada desde cerca de 1830.[1] Se mudó a Viena en 1842[3] y, tras mostrar su trabajo en la Gran Exposición de Londres de 1851,[1][2] formó Gebrüder Thonet con sus hijos en 1853.[1][2] La empresa buscaba hacer tantos modelos como fuera posible con las menos piezas posibles[2] y vendió más de 50 millones de sillas n.º 14 hasta 1930.[2] Murió en Viena en 1871.[3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Michael Thonet»",
+    "url": "https://www.britannica.com/biography/Michael-Thonet",
+    "checks": "nacido en Boppard (1796); taller en 1819; chapas curvadas al vapor; haya maciza curvada hacia 1856; Gran Exposición 1851; Gebrüder Thonet con sus hijos en 1853. ⚠ Año de nacimiento 1796 y muerte 1871 solo en el encabezado; sin lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "V&A, «Thonet and the invention of bentwood furniture»",
+    "url": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+    "checks": "nacido en Boppard am Rhein en 1796, muerto en 1871; Gebrüder Thonet 1853; Gran Exposición de 1851; principio de pocas piezas; más de 50 millones de sillas n.º 14 hasta 1930.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Deutsche Biographie, «Thonet, Michael»",
+    "url": "https://www.deutsche-biographie.de/118802100.html",
+    "checks": "nacimiento 2 de julio de 1796 en Boppard; muerte 3 de marzo de 1871 en Viena; traslado a Viena en 1842.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité la silla n.º 14 «de 1859» y «armada con tornillos» (año y tornillos no confirmados en lo abierto) y reemplacé por lo que dice el V&A. «Ebanista allí en Boppard» pasó a «abrió un taller en 1819» (Britannica no dice dónde).",
+   "Fechas 1796–1871 confirmadas, con lugares Boppard y Viena (Deutsche Biographie)."
+  ]
+ },
+ {
+  "id": "henri-labrouste",
+  "en": {
+   "key": "French architect who showed iron structure openly in his libraries, above all the Bibliothèque Sainte-Geneviève in Paris.[1][2]",
+   "more": "Born in Paris in 1801,[1][2] he entered the École des Beaux-Arts in 1819 and won the Prix de Rome in 1824.[1][2] He designed the Bibliothèque Sainte-Geneviève, built 1843–50 according to Britannica (1844–50 for the BnF),[1][2] with exposed iron columns and arches[1] and cast-iron-supported coverings behind a plain façade.[2] He later built the reading room of the Bibliothèque nationale, 1860–67,[1] with nine metal domes on slender cast-iron columns.[1] He died in Fontainebleau in 1875.[1][3]"
+  },
+  "es": {
+   "key": "Arquitecto francés que mostró abiertamente la estructura de hierro en sus bibliotecas, sobre todo en la Biblioteca de Santa Genoveva de París.[1][2]",
+   "more": "Nacido en París en 1801,[1][2] ingresó a la École des Beaux-Arts en 1819 y ganó el Premio de Roma en 1824.[1][2] Proyectó la Biblioteca de Santa Genoveva, construida en 1843–50 según Britannica (1844–50 para la BnF),[1][2] con columnas y arcos de hierro a la vista[1] y cubiertas apoyadas en arcos de fundición tras una fachada sencilla.[2] Más tarde construyó la sala de lectura de la Biblioteca Nacional, en 1860–67,[1] con nueve cúpulas metálicas sobre delgadas columnas de fundición.[1] Murió en Fontainebleau en 1875.[1][3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Henri Labrouste»",
+    "url": "https://www.britannica.com/biography/Henri-Labrouste",
+    "checks": "nació el 11 de mayo de 1801 en París; murió el 24 de junio de 1875 en Fontainebleau; École des Beaux-Arts desde 1819; Premio de Roma 1824; Sainte-Geneviève 1843–50 con columnas y arcos de hierro a la vista; sala de la Biblioteca Nacional 1860–67 con nueve cúpulas metálicas sobre columnas de fundición.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "BnF Passerelles, «Henri Labrouste»",
+    "url": "https://passerelles.essentiels.bnf.fr/fr/article/e3ddbe08-953c-438d-b2bf-d0f161e800d5-henri-labrouste",
+    "checks": "nació en París el 11 de mayo de 1801; Beaux-Arts 1819; Premio de Roma 1824; Sainte-Geneviève 1844–50 con arcos de fundición y fachada sencilla; encargo de la Biblioteca imperial en 1854. ⚠ No da fecha de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, «Henri Labrouste»",
+    "url": "https://www.moma.org/artists/40927-henri-labrouste",
+    "checks": "«French, 1801–1875» y exposición «Henri Labrouste: Structure Brought to Light» (2013). ⚠ No da lugares.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Cambié «1838–50» por 1843–50 (Britannica; BnF da 1844–50): se anota la discrepancia. Quité «sobre delgadas columnas y arcos de fundición» para la sala de Santa Genoveva (las fuentes hablan de columnas y arcos de hierro a la vista y cubiertas sobre arcos) y «pionero de la arquitectura de hierro» como juicio sin atribuir.",
+   "Fechas 1801–1875 confirmadas con lugares (París, Fontainebleau)."
+  ]
+ },
+ {
+  "id": "pugin",
+  "en": {
+   "key": "English architect and designer who championed the Gothic as the true Christian style and designed its interiors, furniture and wallpapers.[1][3]",
+   "more": "Born in London in 1812,[1][2] son of the architect Augustus Charles Pugin, who trained him as a draftsman,[1] he became a Roman Catholic in 1835.[1] In Contrasts (1836) he linked the character of a society to the quality of its architecture, and in The True Principles of Pointed or Christian Architecture (1841) he set out his Gothic principles.[1] He drew for Charles Barry's Westminster designs and, invited in 1844, designed panelling, wallpapers, painted ceilings, floor tiles and a huge range of furniture for its interiors.[3] He died in Ramsgate in 1852.[2]"
+  },
+  "es": {
+   "key": "Arquitecto y diseñador inglés que defendió el gótico como el estilo cristiano verdadero y diseñó sus interiores, muebles y papeles murales.[1][3]",
+   "more": "Nacido en Londres en 1812,[1][2] hijo del arquitecto Augustus Charles Pugin, que lo formó como dibujante,[1] se convirtió al catolicismo en 1835.[1] En Contrasts (1836) vinculó el carácter de una sociedad con la calidad de su arquitectura, y en The True Principles of Pointed or Christian Architecture (1841) expuso sus principios góticos.[1] Dibujó para los proyectos de Charles Barry en Westminster y, invitado en 1844, diseñó paneles, papeles murales, cielos pintados, baldosas de piso y una enorme variedad de muebles para sus interiores.[3] Murió en Ramsgate en 1852.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «A.W.N. Pugin»",
+    "url": "https://www.britannica.com/biography/A-W-N-Pugin",
+    "checks": "1 de marzo de 1812 a 14 de septiembre de 1852; padre Augustus Charles Pugin, arquitecto que lo formó como dibujante; católico en 1835; Contrasts 1836; True Principles 1841; decoración de la Cámara de los Lores con Barry. ⚠ Nacimiento en Londres según el encabezado; no se confirmó el lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Prints & Printmaking (gobierno de Australia), «Augustus Welby Northmore Pugin»",
+    "url": "https://printsandprintmaking.gov.au/artists/19054/",
+    "checks": "nacido el 1 de marzo de 1812 en Bloomsbury, Londres; muerto el 14 de septiembre de 1852 en Ramsgate, Kent.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UK Parliament Heritage Collections, «The Architects of the Houses of Parliament»",
+    "url": "https://heritagecollections.parliament.uk/stories/the-architects-barry-pugin-and-scott/",
+    "checks": "dibujante de los proyectos de Barry; invitado en 1844 a diseñar paneles, papeles murales, cielos pintados, baldosas encáusticas y muebles; murió en septiembre de 1852. ⚠ Dice que murió en el hospital Bethlem; se contradice con la otra fuente (Ramsgate) y no se usa para el lugar.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «metalistería y textiles hechos de modo industrial» y «construcción honesta» (no confirmados). Reemplacé «dibujante» del padre por «arquitecto» (Britannica).",
+   "Lugar de muerte: Prints & Printmaking da Ramsgate; Parliament Heritage dice Bethlem, discrepancia no resuelta. Fechas 1812–1852 confirmadas."
+  ]
+ }
+]

@@ -1,0 +1,469 @@
+[
+ {
+  "rtype": "work",
+  "id": "glass-house-1949",
+  "title": "Glass House, New Canaan",
+  "title_es": "Casa de Vidrio, New Canaan",
+  "year": 1949,
+  "discipline": "architecture",
+  "designers": [
+   "philip-johnson"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Casa de Philip Johnson, derivada del proyecto Farnsworth; hito del estilo internacional en Estados Unidos.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "Johnson fue quien bautizó el estilo"
+   }
+  ],
+  "era": "postwar",
+  "type": "house",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "international-style"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "farnsworth-house-1951",
+  "title": "Farnsworth House",
+  "title_es": "Casa Farnsworth",
+  "year": 1951,
+  "discipline": "architecture",
+  "designers": [
+   "mies-van-der-rohe"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Una de las casas más citadas del siglo XX: pabellón de acero y vidrio. Quedó fuera de la etapa 6 «por peso»; no puede faltar.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "La casa como estructura y vidrio, sin muros"
+   },
+   {
+    "tipo": "secundario",
+    "via": "glass-house-1949",
+    "mecanismo": "Johnson construye su Casa de Vidrio a partir de este proyecto"
+   }
+  ],
+  "era": "postwar",
+  "date": "1945–1951",
+  "type": "house",
+  "duda": "Sin enlace de contexto directo cierto: excepción C4c (★ con solo enlaces secundarios).",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [
+   {
+    "from": "farnsworth-house-1951",
+    "to": "glass-house-1949",
+    "mecanismo": "Johnson construye su Casa de Vidrio a partir de este proyecto"
+   }
+  ],
+  "campos": {
+   "movements": [
+    "international-style"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "lever-house-1952",
+  "title": "Lever House",
+  "title_es": "Lever House",
+  "year": 1952,
+  "discipline": "architecture",
+  "designers": [
+   "som"
+  ],
+  "maker": "Skidmore, Owings & Merrill (Gordon Bunshaft)",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Primer gran muro cortina de oficinas en Nueva York; modelo de la torre corporativa.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-corporate-office-boom",
+    "mecanismo": "La gran empresa de posguerra quiere una sede moderna y limpia como imagen"
+   }
+  ],
+  "era": "postwar",
+  "type": "skyscraper",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-corporate-office-boom",
+    "item": "lever-house-1952",
+    "mecanismo": "La gran empresa de posguerra quiere una sede moderna y limpia como imagen"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "caracas-ciudad-universitaria-1953",
+  "title": "Ciudad Universitaria de Caracas",
+  "title_es": "Ciudad Universitaria de Caracas",
+  "year": 1953,
+  "discipline": "architecture",
+  "designers": [
+   "carlos-raul-villanueva"
+  ],
+  "maker": null,
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "VE"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Campus moderno con integración de las artes (Calder, Léger, Vasarely); Patrimonio Mundial.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-latam-urbanisation-1950",
+    "mecanismo": "Crecimiento urbano e inversión estatal → un gran campus moderno"
+   },
+   {
+    "tipo": "secundario",
+    "via": "macro-modernism",
+    "mecanismo": "Síntesis de las artes"
+   }
+  ],
+  "era": "postwar",
+  "date": "1940–1960",
+  "type": "complex",
+  "duda": "Año representativo (Aula Magna, 1953).",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-latam-urbanisation-1950",
+    "item": "caracas-ciudad-universitaria-1953",
+    "mecanismo": "Crecimiento urbano e inversión estatal → un gran campus moderno"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "macro-modernism"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "hunstanton-school-1954",
+  "title": "Hunstanton School",
+  "title_es": "Escuela de Hunstanton",
+  "year": 1954,
+  "discipline": "architecture",
+  "designers": [
+   "smithsons"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Obra con la que Banham definió el Nuevo Brutalismo: estructura e instalaciones a la vista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-housing-reconstruction",
+    "mecanismo": "Los programas de reconstrucción británicos construyen escuelas con presupuestos ajustados"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-new-brutalism-banham",
+    "mecanismo": "Banham la toma como ejemplo"
+   }
+  ],
+  "era": "postwar",
+  "date": "1949–1954",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-housing-reconstruction",
+    "item": "hunstanton-school-1954",
+    "mecanismo": "Los programas de reconstrucción británicos construyen escuelas con presupuestos ajustados"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "los-manantiales-1958",
+  "title": "Los Manantiales Restaurant, Xochimilco",
+  "title_es": "Restaurante Los Manantiales, Xochimilco",
+  "year": 1958,
+  "discipline": "architecture",
+  "designers": [
+   "felix-candela"
+  ],
+  "maker": null,
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "MX"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Cascarón de paraboloides hiperbólicos de pocos centímetros; obra canónica de la ingeniería estructural.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mexico-miracle",
+    "mecanismo": "Mano de obra abundante y acero caro → láminas finas de hormigón que se cimbran a mano"
+   }
+  ],
+  "era": "postwar",
+  "type": "building",
+  "tech": [
+   "prestressed-concrete"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mexico-miracle",
+    "item": "los-manantiales-1958",
+    "mecanismo": "Mano de obra abundante y acero caro → láminas finas de hormigón que se cimbran a mano"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "atlantida-church-1960",
+  "title": "Church of Christ the Worker, Atlántida",
+  "title_es": "Iglesia de Cristo Obrero, Atlántida",
+  "year": 1960,
+  "discipline": "architecture",
+  "designers": [
+   "eladio-dieste"
+  ],
+  "maker": null,
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "UY"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Muros y bóveda ondulados de ladrillo armado; obra latinoamericana canónica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "Escasez de acero y cemento → estructura de ladrillo armado de gran economía"
+   }
+  ],
+  "era": "postwar",
+  "date": "1958–1960",
+  "type": "church",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-isi-cepal",
+    "item": "atlantida-church-1960",
+    "mecanismo": "Escasez de acero y cemento → estructura de ladrillo armado de gran economía"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "habitat-67",
+  "title": "Habitat 67",
+  "title_es": "Habitat 67",
+  "year": 1967,
+  "discipline": "architecture",
+  "designers": [
+   "moshe-safdie"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "CA"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Viviendas de módulos prefabricados apilados para la Expo de Montreal.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-expo-67",
+    "mecanismo": "La Expo como laboratorio de vivienda industrializada"
+   }
+  ],
+  "era": "postwar",
+  "type": "housing",
+  "tech": [
+   "prefab-panels"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-expo-67",
+    "item": "habitat-67",
+    "mecanismo": "La Expo como laboratorio de vivienda industrializada"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "previ-lima-1969",
+  "title": "PREVI Experimental Housing, Lima",
+  "title_es": "PREVI, Proyecto Experimental de Vivienda, Lima",
+  "year": 1969,
+  "discipline": "architecture",
+  "designers": [],
+  "maker": "Peruvian government and UNDP; international and Peruvian architects",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "PE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Concurso de vivienda progresiva con equipos internacionales (Stirling, Van Eyck, Correa, metabolistas) y peruanos; antecedente directo de Quinta Monroy.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-latam-urbanisation-1950",
+    "mecanismo": "El crecimiento informal de Lima → casas que los habitantes amplían por etapas"
+   }
+  ],
+  "era": "postwar",
+  "date": "1969–1970s",
+  "type": "housing",
+  "duda": "Lista de equipos participantes: verificar antes de citarlos.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-latam-urbanisation-1950",
+    "item": "previ-lima-1969",
+    "mecanismo": "El crecimiento informal de Lima → casas que los habitantes amplían por etapas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "pucci-prints-1951",
+  "title": "Emilio Pucci printed silks",
+  "title_es": "Sedas estampadas de Emilio Pucci",
+  "year": 1951,
+  "discipline": "fashion",
+  "designers": [],
+  "maker": "Emilio Pucci",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Estampados de colores intensos y ropa de viaje ligera; la moda italiana de posguerra que lanzaron los desfiles de Giorgini (hoy sin obras).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La moda italiana se presenta al comprador estadounidense como alternativa a París"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-giorgini-florence-shows",
+    "mecanismo": "Presentado en los desfiles de Florencia"
+   }
+  ],
+  "era": "postwar",
+  "date": "c. 1951–1970",
+  "type": "textile",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "pucci-prints-1951",
+    "mecanismo": "La moda italiana se presenta al comprador estadounidense como alternativa a París"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

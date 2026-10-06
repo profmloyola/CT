@@ -1,0 +1,304 @@
+[
+ {
+  "id": "balenciaga",
+  "en": {
+   "key": "Spanish couturier, admired by his peers as a master, who worked in Paris from 1937 and shaped the looser silhouettes of the 1950s.[1][2][3]",
+   "more": "Born in Getaria in the Basque Country,[1][2][3] he began in Spain and opened a house in Paris in 1937.[1][2][3] Among other couturiers he was admired as a master, Dior calling him \"the master of us all\";[3] in the 1950s he moved away from the marked waist towards looser lines, such as the sack dress of 1957.[1][2] He closed his house in 1968,[1][2][3] and he died in Spain in 1972.[1][2] Designers who trained in his house include André Courrèges.[2]"
+  },
+  "es": {
+   "key": "Modisto español, admirado por sus pares como un maestro, que trabajó en París desde 1937 y dio forma a las siluetas más sueltas de los años cincuenta.[1][2][3]",
+   "more": "Nacido en Getaria, en el País Vasco,[1][2][3] comenzó en España y abrió una casa en París en 1937.[1][2][3] Entre los demás modistos era admirado como un maestro, y Dior lo llamó «el maestro de todos nosotros»;[3] en los años cincuenta se alejó de la cintura marcada hacia líneas más sueltas, como el vestido saco de 1957.[1][2] Cerró su casa en 1968[1][2][3] y murió en España en 1972.[1][2] Entre quienes se formaron en su casa está André Courrèges.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Cristóbal Balenciaga»",
+    "url": "https://www.britannica.com/biography/Cristobal-Balenciaga",
+    "checks": "nació el 21 de enero de 1895 en Guetaria (Getaria), España; se trasladó a París en 1937; en 1968 la casa cerró y él se retiró; siluetas sueltas a fines de los años cincuenta; murió el 23 de marzo de 1972 en Valencia (España). ⚠ No menciona el vestido saco ni a Courrèges.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «Cristobal Balenciaga (1895–1972)»",
+    "url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+    "checks": "nació el 21 de enero de 1895 en Guetaria; murió en España en 1972; abrió su casa en París en agosto de 1937; vestido saco de 1957 y nueva silueta; el salón cerró en 1968; entre quienes se formaron con él, André Courrèges. ⚠ Da el 24 de marzo de 1972 como fecha de muerte (Britannica: 23).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museo Cristóbal Balenciaga (Getaria), «Cristóbal Balenciaga»",
+    "url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+    "checks": "nació el 21 de enero de 1895 en Getaria; en 1937 se trasladó a París; período parisino 1937–1968; Dior lo llamó «el maestro de todos nosotros». ⚠ La página no da la fecha de muerte.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Se suavizó «maestro del corte y la construcción» a «admirado como un maestro» (las fuentes citan su dominio de volúmenes y líneas y la frase de Dior, pero no 'corte y construcción' literalmente).",
+   "Se suavizó «joven asistente André Courrèges ... antes de abrir la suya»: el Met solo dice que Courrèges se formó con él; no confirma 'asistente' ni la apertura posterior.",
+   "Fechas 1895–1972 y Getaria confirmadas; la fecha exacta de muerte difiere (Britannica 23 mar 1972 en Valencia; Met 24 mar 1972 en España). La ficha solo dice 'en España', sin cambio."
+  ]
+ },
+ {
+  "id": "louis-kahn",
+  "en": {
+   "key": "American architect who gave modern buildings a monumental, almost ancient presence in brick and concrete, with the Salk Institute among his masterpieces.[1][2]",
+   "more": "Born on the island of Saaremaa, in present-day Estonia,[1][2] he grew up in Philadelphia and taught at Yale and the University of Pennsylvania.[2][3] His Yale University Art Gallery (1953) and the Salk Institute in La Jolla, California (1965), show his handling of light, mass and order.[1][3] He died in 1974 in New York, in a railway station on his way home.[2]"
+  },
+  "es": {
+   "key": "Arquitecto estadounidense que dio a los edificios modernos una presencia monumental, casi antigua, en ladrillo y hormigón, con el Instituto Salk entre sus obras maestras.[1][2]",
+   "more": "Nacido en la isla de Saaremaa, en la actual Estonia,[1][2] creció en Filadelfia y enseñó en Yale y en la Universidad de Pensilvania.[2][3] Su Galería de Arte de la Universidad de Yale (1953) y el Instituto Salk en La Jolla, California (1965), muestran su manejo de la luz, la masa y el orden.[1][3] Murió en 1974 en Nueva York, en una estación de tren, cuando volvía a casa.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Louis I. Kahn»",
+    "url": "https://www.britannica.com/biography/Louis-I-Kahn",
+    "checks": "nació el 20 de febrero de 1901 en Osel (Saaremaa), Estonia; murió el 17 de marzo de 1974 en Nueva York; formas poderosas y masivas, concreto y ladrillo; Galería de Arte de Yale (1952–54); Instituto Salk, La Jolla (1959–65); profesor en Yale (1947) y Penn (1957). ⚠ No menciona la estación de tren.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Design Museum (Londres), «Louis Kahn»",
+    "url": "https://designmuseum.org/designers/louis-kahn",
+    "checks": "nació en Saaremaa (Ösel) el 20 de febrero de 1901; la familia llegó a Filadelfia en 1906; enseñó en Yale desde 1947 y en Penn; murió el 17 de marzo de 1974 de un infarto en Pennsylvania Station, Nueva York, al volver de la India.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Philadelphia Architects and Buildings, «Kahn, Louis Isadore (1901–1974)»",
+    "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21829",
+    "checks": "vida 1901–1974; formación en Filadelfia y B.Arch. en Penn (1924); enseñó en Yale desde 1947 y en Penn desde 1955; Galería de Arte de Yale (1953); Instituto Salk. ⚠ Da Pärnu como lugar de nacimiento, en conflicto con Britannica y Design Museum (Saaremaa).",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Lugar de nacimiento discrepante entre fuentes: Britannica y Design Museum dicen Saaremaa/Ösel; Philadelphia Architects and Buildings dice Pärnu. La ficha (Saaremaa) no se cambió.",
+   "Año del Instituto Salk: la ficha dice 1965; Britannica da 1959–65 y Design Museum 1959–1967 (fechas de obra). No se cambió.",
+   "Fechas 1901–1974 y muerte en Nueva York confirmadas."
+  ]
+ },
+ {
+  "id": "arne-jacobsen",
+  "en": {
+   "key": "Danish architect and designer whose buildings and moulded-plywood chairs made Danish modernism known abroad.[1][3]",
+   "more": "Jacobsen designed buildings in Denmark and the SAS Royal Hotel in Copenhagen, completed around 1960,[1][2][3] where he also designed the interiors and furniture.[1][2][3] His Ant, Series 7 and Egg chairs were made by Fritz Hansen.[2][3] He died in 1971.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto y diseñador danés cuyos edificios y sillas de terciado moldeado dieron a conocer el modernismo danés en el extranjero.[1][3]",
+   "more": "Jacobsen proyectó edificios en Dinamarca y el Hotel SAS Royal de Copenhague, terminado hacia 1960,[1][2][3] donde diseñó también los interiores y el mobiliario.[1][2][3] Sus sillas Ant, Serie 7 y Egg las fabricó Fritz Hansen.[2][3] Murió en 1971.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Arne Jacobsen»",
+    "url": "https://www.britannica.com/biography/Arne-Jacobsen",
+    "checks": "nació el 11 de febrero de 1902 en Copenhague; murió el 24 de marzo de 1971 en Copenhague; edificios modernos austeros; silla apilable de tres patas (1952) y silla Egg (1959) de renombre internacional; edificio SAS (1959) con arquitectura e interiores diseñados por él. ⚠ No nombra a Fritz Hansen.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Victoria and Albert Museum, «Egg armchair»",
+    "url": "https://collections.vam.ac.uk/item/O137614/egg-armchair-armchair-jacobsen-arne-emil/",
+    "checks": "Jacobsen (danés, 1902–1971); la silla Egg, fabricada por Fritz Hansen, se diseñó para el vestíbulo del Royal Hotel de Copenhague, que él proyectó entre 1956 y 1961. ⚠ No trata las sillas Ant ni Serie 7 ni la fecha 'hacia 1960'.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Fritz Hansen, «Arne Jacobsen» (fabricante, fuente corporativa)",
+    "url": "https://www.fritzhansen.com/en/about-us/arnejacobsen",
+    "checks": "Ant (1952) con Fritz Hansen; Serie 7 derivada del modelo 3207 de madera laminada; silla Egg (1958) para el SAS Royal Hotel, terminado en 1960, con arquitectura, interiores y mobiliario de Jacobsen; vida 1902–1971. ⚠ Fuente del fabricante; 'terciado moldeado' no aparece literalmente (habla de cáscara de madera laminada de doble curvatura).",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La fecha del hotel varía: Fritz Hansen dice terminado en 1960, V&A da el proyecto 1956–1961 y Britannica 1959. Se mantuvo 'hacia 1960'.",
+   "'Terciado moldeado' se mantiene por la ficha; la fuente del fabricante habla de madera laminada de doble curvatura (equivalente razonable).",
+   "Fecha de muerte 24 mar 1971 en Copenhague (Britannica) coincide con 1971; fuente [3] es del fabricante y se usa solo como apoyo."
+  ]
+ },
+ {
+  "id": "luis-barragan",
+  "en": {
+   "key": "Mexican architect whose walls of strong colour, plain volumes, light and water gardens made a personal, rooted modernism; Pritzker Prize in 1980.[1][2]",
+   "more": "He trained as an engineer in Guadalajara and turned to architecture largely on his own.[1][2] In 1948 he built his own house and studio in Tacubaya, Mexico City, which became his key work,[2][3] and he also designed the Jardines del Pedregal housing development in the capital.[1] In 1980 he received the Pritzker Prize.[1][2] Born in Guadalajara in 1902, he died in Mexico City in 1988.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto mexicano cuyos muros de color intenso, volúmenes sencillos, luz y jardines con agua hicieron un modernismo personal y arraigado; Premio Pritzker en 1980.[1][2]",
+   "more": "Se formó como ingeniero en Guadalajara y llegó a la arquitectura en gran parte por cuenta propia.[1][2] En 1948 construyó su casa y taller en Tacubaya, Ciudad de México, que se volvió su obra clave,[2][3] y también proyectó el fraccionamiento Jardines del Pedregal en la capital.[1] En 1980 recibió el Premio Pritzker.[1][2] Nació en Guadalajara en 1902 y murió en Ciudad de México en 1988.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Luis Barragán»",
+    "url": "https://www.britannica.com/biography/Luis-Barragan",
+    "checks": "nació el 9 de marzo de 1902 en Guadalajara; murió el 22 de noviembre de 1988 en Ciudad de México; ingeniería civil en la Escuela Libre de Ingenieros (1923); Premio Pritzker 1980; color, agua y superficies de estuco; El Pedregal (1943–52). ⚠ No menciona la casa de Tacubaya.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Premio Pritzker, «Luis Barragán, laureado 1980»",
+    "url": "https://www.pritzkerprize.com/laureates/1980",
+    "checks": "vida 1902–1988; nació en Guadalajara y se formó como ingeniero antes de ser autodidacta en arquitectura; Casa Barragán (1948, Ciudad de México); Pritzker 1980.. ⚠ No menciona Tacubaya ni El Pedregal.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Gobierno de la Ciudad de México, «Casa Luis Barragán»",
+    "url": "https://mexicocity.cdmx.gob.mx/venues/luis-barragan-house-studio/?lang=en",
+    "checks": "la casa y estudio está en Tacubaya; Barragán la diseñó y habitó desde 1948 hasta su muerte en 1988; museo de la Fundación de Arquitectura Tapatía.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La URL individual del Pritzker (laureates/luis-barragan) dio 404; se citó la página de laureados 1980, que sí se abrió.",
+   "'Obra clave' y 'muros de color intenso' se sostienen en las fuentes de forma general (color, agua, casa-estudio); no hay una frase literal de 'obra clave'. Se dejó por coherencia con la ficha.",
+   "Fechas 1902–1988 y lugares confirmados."
+  ]
+ },
+ {
+  "id": "christian-dior",
+  "en": {
+   "key": "French couturier who founded his Paris house in 1946 and made the New Look of 1947 the dominant silhouette of postwar fashion.[1][2]",
+   "more": "He opened his own couture house in Paris in 1946.[1][2] His first collection, in February 1947, with a marked waist and very full skirts, was named the New Look by the press and set the line of the years after the war.[1][2] The house grew into a global business with licences, which later became a model for the fashion industry.[1][2] He died in 1957, and the young Yves Saint Laurent took over as head of the house.[1][3] Born in Granville in 1905, he died in Italy.[1]"
+  },
+  "es": {
+   "key": "Modisto francés que fundó su casa en París en 1946 e hizo del New Look de 1947 la silueta dominante de la moda de posguerra.[1][2]",
+   "more": "Abrió su propia casa de alta costura en París en 1946.[1][2] Su primera colección, en febrero de 1947, con la cintura marcada y faldas muy amplias, fue bautizada «New Look» por la prensa y fijó la línea de los años posteriores a la guerra.[1][2] La casa se convirtió en un negocio global con licencias, que más tarde sirvió de modelo a la industria de la moda.[1][2] Murió en 1957 y el joven Yves Saint Laurent pasó a dirigir la casa.[1][3] Nació en Granville en 1905 y murió en Italia.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Christian Dior»",
+    "url": "https://www.britannica.com/biography/Christian-Dior-French-designer",
+    "checks": "nació el 21 de enero de 1905 en Granville; murió el 24 de octubre de 1957 en Montecatini, Italia; casa fundada en 1946; New Look en febrero de 1947, dominante en la década siguiente; expansión por licencias; la casa siguió con otros directores creativos.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «Christian Dior (1905–1957)»",
+    "url": "https://www.metmuseum.org/essays/christian-dior-1905-1957",
+    "checks": "abrió su casa en 1946; debut de 1947 con hombros redondeados, cintura ceñida y falda muy amplia; licencias desde 1948; murió en 1957. ⚠ No dice 'bautizado por la prensa' ni el lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Yves Saint Laurent»",
+    "url": "https://www.britannica.com/biography/Yves-Saint-Laurent-French-designer",
+    "checks": "fue asistente de Dior a los 17 años y, tras la muerte de Dior en 1957, asumió la dirección de la casa a los 21.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Se quitó «Tras trabajar para otras casas» (ninguna fuente abierta lo sostiene).",
+   "«Bautizada New Look por la prensa» y «sirvió de modelo a la industria» no aparecen literalmente en las fuentes; se mantienen de la ficha (el nombre New Look y las licencias sí están confirmados). Considerar revisar.",
+   "Fechas 1905–1957, Granville e Italia (Montecatini) confirmadas."
+  ]
+ },
+ {
+  "id": "eames",
+  "en": {
+   "key": "American husband-and-wife design team who brought moulded plywood, plastics and industrial methods into everyday furniture and housing.[1][2]",
+   "more": "Charles Eames and Ray Kaiser married in 1941 and worked together in Los Angeles.[1][2][3] They developed moulded plywood furniture, some of it during the Second World War,[1][2] and later chairs in fibreglass for Herman Miller.[1][3] They also designed their own house in Pacific Palisades and made films and exhibitions.[1][2][3] Charles died in 1978 and Ray in 1988.[2]"
+  },
+  "es": {
+   "key": "Dupla estadounidense de marido y mujer que llevó el terciado moldeado, los plásticos y los métodos industriales al mueble y a la vivienda de uso cotidiano.[1][2]",
+   "more": "Charles Eames y Ray Kaiser se casaron en 1941 y trabajaron juntos en Los Ángeles.[1][2][3] Desarrollaron muebles de terciado moldeado, parte de ellos durante la Segunda Guerra Mundial,[1][2] y más tarde sillas de fibra de vidrio para Herman Miller.[1][3] También diseñaron su propia casa en Pacific Palisades e hicieron películas y exposiciones.[1][2][3] Charles murió en 1978 y Ray en 1988.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Charles Eames»",
+    "url": "https://www.britannica.com/biography/Charles-Eames",
+    "checks": "muebles de terciado moldeado producidos en serie por Herman Miller desde 1946; tras casarse fundaron un estudio en California; influencia más allá del mueble, incluida la película «Powers of Ten». ⚠ No da fechas de vida.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Charles & Ray Eames Foundation, «Biography»",
+    "url": "https://eamesfoundation.org/charles-ray/biography/",
+    "checks": "Charles 1907–1978 y Ray 1912–1988; se casaron en 1941 y se mudaron a Los Ángeles; innovaciones en terciado moldeado durante la guerra; muebles con Herman Miller; trabajo en arquitectura, cine y exposiciones. ⚠ No cita la fibra de vidrio ni el aluminio.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Ray Eames»",
+    "url": "https://www.britannica.com/biography/Ray-Eames",
+    "checks": "Ray Kaiser se casó con Charles en 1941; silla de terciado DCM y sillones de fibra de vidrio; libros, películas, exposiciones y muebles. ⚠ No cita la casa de Pacific Palisades; esta consta en la Fundación Eames (https://eamesfoundation.org/house/history/: diseñada 1945, terminada 1949), página también abierta.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Se quitó «y de aluminio» tras «fibra de vidrio»: ninguna fuente abierta lo confirma.",
+   "La casa de Pacific Palisades (1949) se confirmó en eamesfoundation.org/house/history/, que no está como ref numerada; la marca de la casa se apoya en [1][2][3] solo de forma parcial. Considerar añadir esa URL como ref.",
+   "Fechas Charles 1907–1978 y Ray 1912–1988 y matrimonio 1941 confirmadas por la Fundación; lugares de nacimiento y muerte no verificados (no figuran en la ficha)."
+  ]
+ },
+ {
+  "id": "eero-saarinen",
+  "en": {
+   "key": "Finnish-American architect and designer whose sculptural buildings and single-stem furniture gave postwar American modernism a more organic form.[1][2]",
+   "more": "Son of the architect Eliel Saarinen, he was born in Finland and became an American architect.[1][3] He designed the Tulip and Womb chairs for Knoll[1][2][4] and, among other buildings, the TWA terminal at New York's Idlewild airport.[1][3] He died in 1961, before the terminal and several other projects were completed.[1]"
+  },
+  "es": {
+   "key": "Arquitecto y diseñador finlandés-estadounidense cuyos edificios escultóricos y muebles de un solo pie dieron al modernismo estadounidense de posguerra una forma más orgánica.[1][2]",
+   "more": "Hijo del arquitecto Eliel Saarinen, nació en Finlandia y se hizo arquitecto estadounidense.[1][3] Diseñó para Knoll las sillas Tulip y Womb[1][2][4] y, entre otros edificios, la terminal de TWA en el aeropuerto Idlewild de Nueva York.[1][3] Murió en 1961, antes de que se terminara la terminal y varios otros proyectos.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Eero Saarinen»",
+    "url": "https://www.britannica.com/biography/Eero-Saarinen",
+    "checks": "nació el 20 de agosto de 1910 en Kirkkonummi, Finlandia; murió el 1 de septiembre de 1961 en Ann Arbor, Michigan; hijo de Eliel Saarinen; mesa y sillas de pedestal (tulipán) y silla Womb fabricadas por Knoll; terminal TWA en Idlewild, no terminada en vida.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Cranbrook Art Museum, «Eero Saarinen, Pedestal or Tulip Side Chair»",
+    "url": "https://cranbrookartmuseum.org/artwork/eero-saarinen-pedestal-tulip-side-chair/",
+    "checks": "Saarinen (1910–1961), arquitecto nacido en Finlandia; silla Tulip diseñada 1955–57 para Knoll; aplicó principios escultóricos a edificios y muebles, entre ellos la terminal TWA. ⚠ No trata la silla Womb.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Smithsonian Archives of American Art, «Aline and Eero Saarinen papers, Biographical Note»",
+    "url": "https://www.aaa.si.edu/collections/aline-and-eero-saarinen-papers-5589/biographical-note",
+    "checks": "nació en 1910 en Kirkkonummi, Finlandia y murió en 1961; título de Yale 1934; trabajó en el estudio de su padre Eliel; terminal TWA. ⚠ No detalla la emigración ni la terminación del terminal.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, colección, «Eero Saarinen»",
+    "url": "https://www.metmuseum.org/art/collection/search/482520",
+    "checks": "Saarinen, estadounidense nacido en Finlandia, Kirkkonummi 1910 – Ann Arbor, Michigan 1961; sofá Womb (n.º 73) de 1950 fabricado por Knoll.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Se reemplazó «creció en Estados Unidos» por «se hizo arquitecto estadounidense»: ninguna fuente abierta confirma el crecimiento en EE. UU. (la emigración familiar no se verificó).",
+   "Lugar de muerte (Ann Arbor, Michigan) no está en la ficha; no se añadió.",
+   "Fechas 1910–1961 confirmadas."
+  ]
+ },
+ {
+  "id": "paul-rand",
+  "en": {
+   "key": "American graphic designer who brought European modernism to US advertising and made the corporate logos of IBM, Westinghouse and others.[1][2]",
+   "more": "Born in Brooklyn in 1914,[1][2] Rand began in magazine and advertising design in the late 1930s,[1] combining modern art with wit and plain layout.[1] He wrote Thoughts on Design (1947)[1] and later taught at Yale.[1][2] As a consultant he designed identities for IBM (1956), Westinghouse (1960) and other large firms,[1][2][3] treating the logo as a simple, durable symbol.[1] He died in Norwalk, Connecticut, in 1996.[1][2]"
+  },
+  "es": {
+   "key": "Diseñador gráfico estadounidense que llevó el modernismo europeo a la publicidad de su país e hizo los logotipos corporativos de IBM, Westinghouse y otras empresas.[1][2]",
+   "more": "Nacido en Brooklyn en 1914,[1][2] Rand comenzó en el diseño de revistas y publicidad a fines de los años treinta,[1] combinando arte moderno con ingenio y composición simple.[1] Escribió Thoughts on Design (1947)[1] y más tarde enseñó en Yale.[1][2] Como consultor diseñó identidades para IBM (1956), Westinghouse (1960) y otras grandes empresas,[1][2][3] tratando el logotipo como un símbolo simple y duradero.[1] Murió en Norwalk, Connecticut, en 1996.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Paul Rand»",
+    "url": "https://www.britannica.com/biography/Paul-Rand",
+    "checks": "nació el 15 de agosto de 1914 en Brooklyn; murió el 26 de noviembre de 1996 en Norwalk, Connecticut; director de arte de Esquire y Apparel Arts (1937–41); Thoughts on Design (1947); logotipos de Westinghouse (1960), ABC (1962) e IBM; profesor en Yale desde 1956; signos y símbolos como mensajes. ⚠ Fecha de IBM: Britannica menciona 1972 para el logotipo de bandas, no 1956.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Yale Bulletin & Calendar, obituario de Paul Rand",
+    "url": "https://archives.news.yale.edu/ybc/v25.n16.obit.03.html",
+    "checks": "nació en Brooklyn en 1914; murió de cáncer el 26 de noviembre en Norwalk, Connecticut; profesor en Yale 1956–1985; identidades de IBM (1956), Westinghouse y UPS (1961), ABC (1962).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Smithsonian American Art Museum, «Paul Rand»",
+    "url": "https://americanart.si.edu/artist/paul-rand-3936",
+    "checks": "nació en Nueva York (Kings County) en 1914 y murió en Norwalk, Connecticut en 1996; logotipos de IBM, ABC, Westinghouse y UPS; profesor emérito en Yale. ⚠ Solo dice 'Nueva York' como lugar de nacimiento.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Britannica fecha el logotipo de IBM en 1972 (versión de bandas); el obituario de Yale confirma 1956 como inicio de la identidad de IBM, como dice la ficha.",
+   "Westinghouse: ficha 1960 (Britannica 1960); el obituario de Yale dice 1961. Se mantiene 1960.",
+   "'Ingenio' y 'composición simple' no están literalmente en las fuentes; se mantienen por la ficha. Fechas 1914–1996 y lugares confirmados."
+  ]
+ }
+]

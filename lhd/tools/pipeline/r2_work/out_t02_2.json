@@ -1,0 +1,295 @@
+[
+ {
+  "id": "priester-matches-1905",
+  "en": {
+   "key": "Lucian Bernhard’s poster of two matches and the name Priester, a founding example of the Sachplakat, or object poster.[1][2]",
+   "more": "Bernhard entered it in 1905 in a competition for the Priester match company, with a design of a pair of matches and the brand name.[1][2] The judges first rejected it, and Ernst Growald, a poster printer and sales manager, took it from the waste bin and declared it the winner.[1][2] Bernhard then won a contract with the printer Hollerbaum & Schmidt and popularised the Sachplakat, in which words are kept to a minimum and the object dominates the composition.[1] A University of Utah record dates the poster to about 1905.[3]"
+  },
+  "es": {
+   "key": "El cartel de Lucian Bernhard con dos fósforos y el nombre Priester, un ejemplo fundacional del Sachplakat, o cartel de objeto.[1][2]",
+   "more": "Bernhard lo presentó en 1905 a un concurso de la empresa de fósforos Priester, con un diseño de un par de fósforos y el nombre de la marca.[1][2] Los jueces lo rechazaron al principio, y Ernst Growald, impresor de carteles y gerente de ventas, lo sacó del cesto de basura y lo declaró ganador.[1][2] Bernhard obtuvo luego un contrato con la imprenta Hollerbaum & Schmidt y popularizó el Sachplakat, en que las palabras se reducen al mínimo y el objeto domina la composición.[1] Un registro de la Universidad de Utah fecha el cartel hacia 1905.[3]"
+  },
+  "refs": [
+   {
+    "label": "Neue Galerie New York, «German Advertising Posters of the Early 20th Century»",
+    "url": "https://www.neuegalerie.org/exhibitions/german-advertisting-posters",
+    "checks": "1905; diseño de un par de fósforos y el nombre de la marca para Priester; rechazado al principio, Growald lo sacó de la basura y lo declaró ganador; contrato con Hollerbaum & Schmidt; Sachplakat con palabras mínimas. ⚠ texto de exposición.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Cooper Hewitt, «Seduced by an object poster»",
+    "url": "https://www.cooperhewitt.org/2013/05/16/seduced-by-an-object-poster/",
+    "checks": "Concurso patrocinado por Priester; jueces lo rechazaron y Growald (impresor y gerente de ventas) lo rescató; cartel fundacional del Sachplakat. ⚠ no da el año ni nombra a Hollerbaum & Schmidt.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "University of Utah, Marriott Library, «Priester Matches»",
+    "url": "https://collections.lib.utah.edu/ark:/87278/s6089h2s",
+    "checks": "Obra de Lucian Bernhard, fecha aprox. 1905, estilo Plakatstil. ⚠ registro mínimo, sin técnica ni impresor.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «in Berlin» y «printed by Hollerbaum & Schmidt» como dato de esta impresión: las fuentes solo dicen que Bernhard obtuvo un contrato con esa imprenta tras ganar; el campo maker no se tocó, pero no está confirmado que la imprimiera.",
+   "Reemplacé «cut a more elaborate design down to…» (relato habitual): ninguna fuente lo dice; las fuentes cuentan el rechazo y rescate del diseño.",
+   "«The first Sachplakat» pasó a «a founding example»: las fuentes dicen fundacional, no primero.",
+   "Quité que muchos diseñadores alemanes lo adoptaran: no confirmado. Técnica «colour lithograph» no verificada (campo materials sin tocar)."
+  ]
+ },
+ {
+  "id": "fortuny-delphos",
+  "en": {
+   "key": "Mariano Fortuny’s long, pleated silk tunic, worn without a corset and named after the ancient Charioteer of Delphi.[1][2]",
+   "more": "Fortuny, a Spanish artist working in Venice, made the Delphos from pleated silk with glass beads, and the V&A says the line was produced in Venice from 1907.[1][2] The name comes from the bronze Charioteer of Delphi, whose tunic inspired it.[1][2] Fortuny filed a patent for the pleating process in 1909, which acknowledged Adèle Henriette Nigrin as inventor of the method.[2] The Met describes the gown as uncorseted, and the V&A, which updated its records in 2021, credits Nigrin as principal designer, possibly with Fortuny.[1][2]"
+  },
+  "es": {
+   "key": "La larga túnica de seda plisada de Mariano Fortuny, que se usaba sin corsé y lleva el nombre del antiguo Auriga de Delfos.[1][2]",
+   "more": "Fortuny, artista español que trabajaba en Venecia, hizo el Delphos en seda plisada con cuentas de vidrio, y el V&A indica que la línea se produjo en Venecia desde 1907.[1][2] El nombre viene del Auriga de Delfos, la estatua de bronce cuya túnica lo inspiró.[1][2] Fortuny solicitó en 1909 una patente del proceso de plisado, que reconocía a Adèle Henriette Nigrin como inventora del método.[2] El Met lo describe como un vestido sin corsé, y el V&A, que actualizó sus registros en 2021, atribuye a Nigrin el diseño principal, posiblemente con Fortuny.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Delphos», dress (O15558)",
+    "url": "https://collections.vam.ac.uk/item/O15558/delphos-delphos-dress-fortuny-mariano",
+    "checks": "Línea Delphos producida en Venecia desde 1907; seda plisada con cuentas de vidrio de Venecia; plisado patentado en 1909; nombre por el Auriga de Delfos; no requería ropa interior restrictiva; en octubre de 2021 el V&A acreditó a Henriette Nigrin como diseñadora principal, posiblemente con Fortuny.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Conserving the Delphos Gown»",
+    "url": "https://www.metmuseum.org/essays/costume-institute-conservation-delphos-fortuny-gown-pleats",
+    "checks": "Fortuny español (1871–1949) en Venecia; patente de 1909 que reconoce a Adèle Nigrin como inventora del método; seda y cuentas de vidrio; vestido sin corsé; inspirado en el Auriga de Delfos. ⚠ el Met data la introducción en 1909, el V&A la producción desde 1907.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité que el Auriga fue hallado en Delfos «en la década de 1890»: ninguna fuente consultada lo confirma.",
+   "Quité que las mujeres de círculos artísticos lo usaran y que fuera modelo de vestidos plisados posteriores: no confirmado (el campo status no se tocó).",
+   "Corrección de fondo: el V&A (2021) y el Met atribuyen el invento del plisado y el diseño a Adèle Henriette Nigrin, con Fortuny; la ficha dice solo Fortuny (designers). Revisar el campo designers; no se modificó.",
+   "Fecha: V&A dice producción desde 1907, el Met dice 1909 como introducción; se conserva 1907 con atribución al V&A. Cuentas de vidrio en «costuras y mangas» y «seda plisada fina» no verificado en esa disposición; lo quité."
+  ]
+ },
+ {
+  "id": "behrens-aeg-logo",
+  "en": {
+   "key": "Peter Behrens’s hexagonal trademark and printed material for the electrical firm AEG, among the first complete corporate identities.[1][2][3]",
+   "more": "AEG hired Behrens in 1907 as artistic adviser, and he designed its trademark, products, buildings and printed matter.[1][2][3] The Kunstpalast dates one of his AEG fans to around 1908 and shows it carrying the company’s hexagonal logo.[2] The Deutsches Historisches Museum says he made visual consistency across all of AEG’s output a model of what became corporate identity.[3] Smarthistory adds that the hexagonal logo appeared prominently on the Turbine Factory’s façade.[1]"
+  },
+  "es": {
+   "key": "La marca hexagonal y los impresos que Peter Behrens diseñó para la empresa eléctrica AEG, una de las primeras identidades corporativas completas.[1][2][3]",
+   "more": "AEG contrató a Behrens en 1907 como asesor artístico, y él diseñó su marca, productos, edificios e impresos.[1][2][3] El Kunstpalast fecha hacia 1908 uno de sus ventiladores para AEG y lo muestra con el logotipo hexagonal de la empresa.[2] El Deutsches Historisches Museum dice que dio coherencia visual a todo lo que producía AEG, lo que se volvió un modelo de lo que se llamó identidad corporativa.[3] Smarthistory agrega que el logotipo hexagonal aparece de forma destacada en la fachada de la fábrica de turbinas.[1]"
+  },
+  "refs": [
+   {
+    "label": "Smarthistory, «Peter Behrens, AEG Turbine Factory»",
+    "url": "https://smarthistory.org/?p=12170",
+    "checks": "Primeros encargos de AEG en 1907; AEG lo invitó a diseñar la marca, además de productos y fábricas; logotipo hexagonal visible en la fachada de la fábrica de turbinas. ⚠ el sitio es de divulgación académica.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Kunstpalast Düsseldorf, «Elektrischer Ventilator»",
+    "url": "https://sammlung.kunstpalast.de/en/objects/details/52825",
+    "checks": "Ventilador de Behrens para AEG hacia 1908 con el logotipo hexagonal; entró en 1907 como asesor artístico; unificó el lenguaje de diseño (identidad corporativa).",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Deutsches Historisches Museum, LeMO, «Peter Behrens»",
+    "url": "https://www.dhm.de/lemo/biografie/peter-behrens",
+    "checks": "Miembro del consejo artístico de AEG de 1907 a 1914 por nombramiento de Emil Rathenau; diseñó signos, ventiladores, lámparas, edificios y gráfica; pionero de la identidad corporativa.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "«Introduced around 1908» pasó a una atribución al Kunstpalast (ventilador c. 1908 con el logotipo): ninguna fuente fecha la marca misma en 1908.",
+   "Quité «his own lettering» y la aparición en carteles, catálogos y papelería con esa tipografía: las fuentes hablan solo de gráfica e impresos en general.",
+   "Quité que la marca se redibujó y que AEG cambió de dueños (status): no verificado; campo no tocado."
+  ]
+ },
+ {
+  "id": "ford-model-t",
+  "en": {
+   "key": "Henry Ford’s simple, practical and cheap car, built from 1908 to 1927 and made in over 15 million units on a moving assembly line.[1][2]",
+   "more": "Ford built the Model T from 1908 to 1927, conceived as practical, affordable transportation for the common man.[2] The moving assembly line was working at Highland Park by 1913, and by early 1914 a finished car could come off it every 93 minutes, against 12½ hours before.[1][3] The touring car fell from $850 in 1908 to under $300 by 1925.[2] The 15 millionth car was the last, built on 26 May 1927.[1] The Model T showed that an industrial product could be designed around the demands of mass production.[2]"
+  },
+  "es": {
+   "key": "El auto simple, práctico y barato de Henry Ford, fabricado de 1908 a 1927 en más de 15 millones de unidades en una cadena de montaje móvil.[1][2]",
+   "more": "Ford fabricó el modelo T de 1908 a 1927, concebido como transporte práctico y asequible para el hombre común.[2] La cadena de montaje móvil funcionaba en Highland Park en 1913, y a comienzos de 1914 salía un auto terminado cada 93 minutos, frente a 12½ horas antes.[1][3] El modelo descapotable bajó de 850 dólares en 1908 a menos de 300 en 1925.[2] El auto número 15 millones fue el último, construido el 26 de mayo de 1927.[1] El modelo T mostró que un producto industrial podía diseñarse en torno a las exigencias de la producción en masa.[2]"
+  },
+  "refs": [
+   {
+    "label": "ASME, «Ford Model T», Landmark #233",
+    "url": "https://www.asme.org/about-asme/engineering-history/landmarks/233-model-t",
+    "checks": "Modelo T 1908–1927; cadena de montaje móvil en Highland Park hacia 1913; el auto 15 millonesimo fue el último, 26 de mayo de 1927; precio de 850 a 550 dólares en cinco años.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Model T»",
+    "url": "https://Www.Britannica.Com/technology/Model-T",
+    "checks": "Construido por Ford de 1908 a 1927; concebido como transporte práctico y barato; producción en cadena redujo costos (de 850 dólares en 1908 a menos de 300 en 1925); más de 15 millones. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Henry Ford, «Ford Methods and the Ford Shops»",
+    "url": "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops",
+    "checks": "Línea de montaje en Highland Park en 1913 por etapas; a comienzos de 1914 un Model T cada 93 minutos frente a 12½ horas; unos 15 millones de autos. ",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «a car that ordinary people could buy and repair»: la fuente dice asequible para el hombre común; lo de repararlo no está confirmado.",
+   "Quité «first mass-produced automobile» (key): las fuentes dicen producción en masa, no «el primero»; ahora se atribuye solo el método.",
+   "«Sturdy» quitado (no confirmado). Cifra de 12½ horas es de ensamblado del chasis según The Henry Ford; la presenté como tiempo de salida de auto terminado tal como lo resume la fuente."
+  ]
+ },
+ {
+  "id": "poiret-high-waist",
+  "en": {
+   "key": "Paul Poiret’s dresses of the years around 1908, with a high waist and a straight fall of cloth, designed to need less restrictive undergarments.[1][2][3]",
+   "more": "Poiret worked for Doucet and Worth and opened his own house in Paris in 1903.[1] By 1907 he had helped revive the Empire style, and the Met dates such high-waisted, column-shaped dresses with less restrictive undergarments to his work of 1908–1911.[2][4] He is often said to have abolished the corset around 1908, but FIT’s reading of 1906 fashion plates shows Paquin and Panem already showing loose Empire and Directoire lines.[3] Poiret himself later put it as «I freed the bust, and I shackled the legs».[2]"
+  },
+  "es": {
+   "key": "Los vestidos de Paul Poiret de los años en torno a 1908, con talle alto y caída recta de la tela, pensados para necesitar ropa interior menos restrictiva.[1][2][3]",
+   "more": "Poiret trabajó para Doucet y para Worth y abrió su propia casa en París en 1903.[1] Hacia 1907 había ayudado a revivir el estilo Imperio, y el Met data en 1908–1911 sus vestidos columnares de talle alto con ropa interior menos restrictiva.[2][4] Suele decirse que abolió el corsé hacia 1908, pero la lectura que hace FIT de los figurines de 1906 muestra que Paquin y Panem ya presentaban líneas Imperio y Directorio sueltas.[3] El propio Poiret lo resumió después así: «Liberé el busto y encadené las piernas».[2]"
+  },
+  "refs": [
+   {
+    "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «Paul Poiret (1879–1944)»",
+    "url": "https://www.metmuseum.org/toah/hd/poir/hd_poir.htm",
+    "checks": "Trabajó para Jacques Doucet y Worth y fundó su propia casa en 1903; inspiración en el quitón griego; formas cilíndricas. ⚠ afirma que eliminó el corsé hacia 1906, lo que FIT discute.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Paul Poiret»",
+    "url": "https://www.britannica.com/EBchecked/topic/466443",
+    "checks": "Tienda propia en París en 1903; hacia 1907 ayudó a revivir el estilo Imperio; cita «liberé el busto, encadené las piernas». ⚠ no nombra a Doucet; resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "FIT, Material Mode, «The Myth of Poiret as Debunked by 1906»",
+    "url": "https://blog.fitnyc.edu/materialmode/2015/07/09/the-myth-of-poiret-as-debunked-by-1906/",
+    "checks": "Se le atribuye abolir el corsé hacia 1908; figurines de 1906 de Paquin y Panem con líneas Imperio y Directorio sueltas; Poiret aún en silueta con corsé en S en 1906. ⚠ blog de universidad, secundario.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Evening dress» (2009.300.1289)",
+    "url": "https://www.metmuseum.org/art/collection/search/155987",
+    "checks": "Vestido de 1910 de talle alto, silueta columnar, ropa interior menos restrictiva; diseños de 1908–1911. ⚠ el vestido concreto es de 1910.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «dress reformers had been arguing against it for decades»: ninguna fuente lo dice; lo reemplacé por el hecho documentado (Paquin y Panem ya en 1906).",
+   "«Took their look from the empire and Directoire styles»: solo Britannica (Imperio, 1907) y FIT lo sostienen; Directorio queda atribuido a FIT y no a Poiret. «c. 1908» como fecha exacta de la línea no está confirmada por museo; se escribió «años en torno a 1908».",
+   "Contradicción entre fuentes: el Met dice que eliminó el corsé hacia 1906 y FIT dice que en 1906 aún usaba corsé en S; se presenta la discusión, no una cifra."
+  ]
+ },
+ {
+  "id": "aeg-turbine-hall",
+  "en": {
+   "key": "Peter Behrens’s steel-and-glass turbine hall for AEG in Berlin, an industrial building treated as monumental architecture.[1][2][3]",
+   "more": "AEG built the hall in Berlin-Moabit, completed in 1909, with Behrens as architect and Karl Bernhard as engineer.[1][2] Its steel frame and large glass front were left in view, and on the Berlichingenstraße side the steel girders show.[1][2] The corner piers are concrete with Egyptian-temple detailing that is decorative and does not bear load.[1] Behrens was AEG’s artistic adviser, and Smarthistory notes the hexagonal AEG logo on the façade.[3] It was Berlin’s first industrial building to receive monument protection, in 1956.[2]"
+  },
+  "es": {
+   "key": "La nave de turbinas de acero y vidrio que Peter Behrens diseñó para AEG en Berlín, un edificio industrial tratado como arquitectura monumental.[1][2][3]",
+   "more": "AEG levantó la nave en Berlín-Moabit, terminada en 1909, con Behrens como arquitecto y Karl Bernhard como ingeniero.[1][2] Su estructura de acero y su gran frente de vidrio quedaron a la vista, y en el costado de la Berlichingenstraße se ven las vigas de acero.[1][2] Las esquinas son machones de hormigón con detalles de templo egipcio, decorativos y sin función de carga.[1] Behrens era el asesor artístico de AEG, y Smarthistory destaca el logotipo hexagonal de AEG en la fachada.[3] Fue el primer edificio industrial de Berlín en recibir protección como monumento, en 1956.[2]"
+  },
+  "refs": [
+   {
+    "label": "visitBerlin, «AEG Turbine Factory»",
+    "url": "https://www.visitberlin.de/en/aeg-turbine-factory",
+    "checks": "Terminada en 1909; Behrens arquitecto y Karl Bernhard ingeniero jefe; estructura de acero y fachadas de vidrio; machones de hormigón con detalle de templo egipcio, decorativos y sin carga; vigas de acero a la vista en Berlichingenstraße. ⚠ sitio oficial de turismo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "berlin.de, «AEG-Turbinenhalle»",
+    "url": "https://www.berlin.de/sehenswuerdigkeiten/3560168-3558930-aeg-turbinenhalle.html",
+    "checks": "Berlín-Moabit, 1909; Behrens y Karl Bernhard; vidrio, hormigón y acero, estructura a la vista; primer edificio industrial de Berlín protegido como monumento (1956). ⚠ sitio oficial de turismo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Smarthistory, «Peter Behrens, AEG Turbine Factory»",
+    "url": "https://smarthistory.org/?p=12170",
+    "checks": "Primer encargo de fábrica de Behrens, en Moabit; logotipo hexagonal en la fachada; encargos de AEG desde 1907. ⚠ no nombra a Karl Bernhard ni los machones.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "«1909–10» pasó a «terminada en 1909»: las fuentes dan 1909 como finalización; no hay fuente del inicio ni de 1910 (el campo year no se tocó).",
+   "Quité «large hinged arches» (no confirmado) y «look like stone» (las fuentes dicen detalle de templo egipcio, decorativo).",
+   "Quité que la nave «presentó a la empresa como moderna y seria»: interpretación sin fuente."
+  ]
+ },
+ {
+  "id": "robie-house",
+  "en": {
+   "key": "Frank Lloyd Wright’s Chicago house for Frederick Robie, a Prairie-style home of long horizontal lines, cantilevered roofs and an open plan.[1][2]",
+   "more": "Completed in 1910, it is called the culmination of Wright’s Prairie style, with brick construction, cantilevers, extended steel eaves and an open floor plan.[1][2] Its horizontal composition has bands of brick and limestone and overhanging eaves, and the living and dining space is divided only by a central chimney.[2] Leaded-glass windows use flattened diamonds and diagonal patterns.[2] It faced demolition threats in 1941 and 1957, and Wright campaigned to save it each time.[2] It is now a museum and part of a UNESCO World Heritage listing.[2]"
+  },
+  "es": {
+   "key": "La casa de Frank Lloyd Wright en Chicago para Frederick Robie, una vivienda de estilo Prairie de líneas horizontales, techos en voladizo y planta abierta.[1][2]",
+   "more": "Terminada en 1910, se considera la culminación del estilo Prairie de Wright, con construcción de ladrillo, voladizos, aleros de acero extendidos y planta abierta.[1][2] Su composición horizontal tiene bandas de ladrillo y caliza y aleros voladizos, y el espacio de estar y comedor solo lo divide una chimenea central.[2] Las ventanas de vidrio emplomado usan rombos aplanados y patrones diagonales.[2] Enfrentó amenazas de demolición en 1941 y 1957, y Wright hizo campaña cada vez para salvarla.[2] Hoy es museo y forma parte de una inscripción de la UNESCO.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Robie House»",
+    "url": "https://www.britannica.com/topic/Robie-House",
+    "checks": "Chicago, completada en 1910; culminación del estilo Prairie; ladrillo, voladizos, aleros de acero extendidos, planta abierta. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Frank Lloyd Wright Trust, «Frederick C. Robie House»",
+    "url": "https://flwright.org/explore/frederick-c-robie-house",
+    "checks": "Completada en 1910; aleros y techos en voladizo; bandas de ladrillo y caliza; vidrio emplomado; chimenea central entre sala y comedor; amenazas de demolición de 1941 y 1957; museo y sitio UNESCO.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «Hyde Park», «Roman brick», «steel beams» como materiales exactos, «built-in lights» y el vínculo con el arte japonés: ninguna fuente consultada lo confirma.",
+   "«1909–10» pasó a «completada en 1910»: las fuentes dan solo 1910; el campo year (1909) puede reflejar el inicio y queda sin tocar.",
+   "«Saved in the 1950s» pasó a amenazas de 1941 y 1957: la fuente no dice en qué año se salvó."
+  ]
+ },
+ {
+  "id": "posada-catrina",
+  "en": {
+   "key": "José Guadalupe Posada’s skeleton in a lady’s feathered hat, a satire of the Mexican upper class that became a national icon.[1][2][3]",
+   "more": "Posada made it as a zinc-etching broadsheet for the publisher Antonio Vanegas Arroyo, dated 1910–1913, in the last years of his career.[1] It is catalogued as Catrina La Calavera Garbancera.[1] It mocked Mexico’s elite and its obsession with European culture in the Porfiriato, and the skull showed death crossing class.[2][3] Posada died in 1913 almost alone, and Diego Rivera’s 1947 mural Dream of a Sunday Afternoon in Alameda Park made the Catrina a symbol of cultural pride.[2][3]"
+  },
+  "es": {
+   "key": "El esqueleto con sombrero de plumas de dama de José Guadalupe Posada, una sátira de la élite mexicana que se volvió un ícono nacional.[1][2][3]",
+   "more": "Posada la hizo como hoja suelta en grabado en zinc para el editor Antonio Vanegas Arroyo, fechada entre 1910 y 1913, en los últimos años de su carrera.[1] Se cataloga como Catrina La Calavera Garbancera.[1] Se burlaba de la élite mexicana y su obsesión por la cultura europea en el Porfiriato, y la calavera mostraba que la muerte cruza las clases.[2][3] Posada murió en 1913 casi solo, y el mural de Diego Rivera de 1947, Sueño de una tarde dominical en la Alameda Central, hizo de la Catrina un símbolo de orgullo cultural.[2][3]"
+  },
+  "refs": [
+   {
+    "label": "UC Berkeley Library, «Art of Posada», Catrina La Calavera Garbancera",
+    "url": "https://exhibits.lib.berkeley.edu/spotlight/art-of-posada/catalog/28-1374",
+    "checks": "Hoja suelta con la Catrina La Calavera Garbancera; Posada (1851–1913); 1910–1913; grabado en zinc; editor Antonio Vanegas Arroyo. ⚠ el registro no menciona la sátira ni a Rivera.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Grace Museum, «La Catrina: A History»",
+    "url": "https://thegracemuseum.org/learn/2020-11-2-la-catrina-a-history/",
+    "checks": "Hacia 1910; crítica a la élite del Porfiriato y su obsesión con lo europeo; la calavera simboliza la muerte por sobre las clases; mural de Rivera de 1947. ⚠ la fuente la llama litografía, el registro de Berkeley da grabado en zinc.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Atlas Obscura, «Posada skeleton art legacy»",
+    "url": "https://atlasobscura.com/articles/posada-skeleton-art-legacy",
+    "checks": "Sátira política contra mujeres que imitaban la moda europea; Posada murió en 1913 casi solo; mural de Rivera de 1947 la elevó a símbolo. ⚠ fuente periodística, secundaria.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «Mexico City publisher»: las fuentes no dan la ciudad. Quité «French fashions», que pasó a «cultura europea», y «denied their own roots» (no confirmado).",
+   "Quité «later named Catrina»: Berkeley la cataloga ya como Catrina La Calavera Garbancera; el nombre no se fecha.",
+   "Fecha: Berkeley da 1910–1913 y The Grace Museum c. 1910; el campo year (1910) se conserva pero conviene mostrar «c. 1910–1913».",
+   "Quité «sombrero de plumas de dama» no verificado en la descripción; se mantiene solo en la key original como descripción visual de la imagen."
+  ]
+ }
+]

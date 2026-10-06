@@ -1,0 +1,237 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-aids-crisis",
+  "name": "AIDS crisis",
+  "name_es": "Crisis del sida",
+  "track": "social",
+  "start": 1981,
+  "end": null,
+  "date": "1981 →",
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "countries": [
+   "US",
+   "GB",
+   "FR"
+  ],
+  "prioridad": "A",
+  "curso": "La epidemia y la indiferencia oficial generan un activismo gráfico decisivo para la historia del diseño gráfico político.",
+  "explica": [
+   {
+    "id": "silence-equals-death-1987",
+    "mecanismo": "La falta de respuesta pública → triángulo rosa invertido y consigna para el activismo de ACT UP"
+   },
+   {
+    "id": "red-ribbon-1991",
+    "mecanismo": "Un símbolo simple, sin marca ni texto, que cualquiera puede llevar para mostrar solidaridad"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-aids-crisis",
+    "item": "red-ribbon-1991",
+    "mecanismo": "Un símbolo simple, sin marca ni texto, que cualquiera puede llevar para mostrar solidaridad"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-luxury-conglomerates",
+  "name": "Luxury conglomerates and the global fashion system",
+  "name_es": "Conglomerados del lujo y sistema global de la moda",
+  "track": "economic",
+  "start": 1987,
+  "end": null,
+  "date": "1987 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "IT"
+  ],
+  "prioridad": "B",
+  "curso": "La concentración de casas históricas en grupos como LVMH explica la contratación de diseñadores estrella y la marca de moda como espectáculo.",
+  "explica": [
+   {
+    "id": "alexander-mcqueen",
+    "mecanismo": "Los grupos de lujo renuevan casas históricas con jóvenes diseñadores → McQueen dirige Givenchy"
+   },
+   {
+    "id": "marc-jacobs",
+    "mecanismo": "Louis Vuitton incorpora prêt-à-porter → Jacobs es contratado como director creativo (1997)"
+   },
+   {
+    "id": "lagerfeld-chanel-1983",
+    "mecanismo": "La casa histórica como marca global: el diseñador reinterpreta cada temporada sus códigos"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Fechas de contratación (McQueen en Givenchy 1996; Jacobs en Vuitton 1997): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-luxury-conglomerates",
+    "item": "alexander-mcqueen",
+    "mecanismo": "Los grupos de lujo renuevan casas históricas con jóvenes diseñadores → McQueen dirige Givenchy"
+   },
+   {
+    "ctx": "ctx-luxury-conglomerates",
+    "item": "marc-jacobs",
+    "mecanismo": "Louis Vuitton incorpora prêt-à-porter → Jacobs es contratado como director creativo (1997)"
+   },
+   {
+    "ctx": "ctx-luxury-conglomerates",
+    "item": "lagerfeld-chanel-1983",
+    "mecanismo": "La casa histórica como marca global: el diseñador reinterpreta cada temporada sus códigos"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-rana-plaza",
+  "name": "Rana Plaza collapse",
+  "name_es": "Derrumbe del Rana Plaza",
+  "track": "economic",
+  "start": 2013,
+  "end": 2013,
+  "date": "2013",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "BD"
+  ],
+  "prioridad": "B",
+  "curso": "El derrumbe de una fábrica textil en Bangladés vuelve visible la cadena de la moda rápida y da origen a Fashion Revolution.",
+  "explica": [
+   {
+    "id": "inst-fashion-revolution",
+    "mecanismo": "La catástrofe muestra quién fabrica la ropa → campaña anual que pregunta por la trazabilidad"
+   },
+   {
+    "id": "stella-mccartney-label-2001",
+    "mecanismo": "Las marcas que ya defendían una moda responsable ganan visibilidad tras el derrumbe"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Usar solo hechos ciertos: 24 de abril de 2013, Savar (Daca), más de mil muertos.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-rana-plaza",
+    "item": "inst-fashion-revolution",
+    "mecanismo": "La catástrofe muestra quién fabrica la ropa → campaña anual que pregunta por la trazabilidad"
+   },
+   {
+    "ctx": "ctx-rana-plaza",
+    "item": "stella-mccartney-label-2001",
+    "mecanismo": "Las marcas que ya defendían una moda responsable ganan visibilidad tras el derrumbe"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-covid-19",
+  "name": "COVID-19 pandemic",
+  "name_es": "Pandemia de COVID-19",
+  "track": "social",
+  "start": 2020,
+  "end": 2022,
+  "date": "2020–2022",
+  "regions": [
+   "global"
+  ],
+  "countries": [],
+  "prioridad": "B",
+  "curso": "La pandemia cambia el trabajo, la vivienda y el espacio público, y pone la comunicación visual de la ciencia en el centro de la vida diaria. Aprobado en el V4 (D5).",
+  "explica": [
+   {
+    "id": "cdc-sars-cov-2-illustration-2020",
+    "mecanismo": "Una enfermedad nueva necesita una imagen reconocible → ilustración científica del virus difundida por los CDC"
+   },
+   {
+    "id": "inst-salone-del-mobile",
+    "mecanismo": "Las restricciones sanitarias suspenden la feria de 2020 y obligan a reformular la de 2021"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Aprobado en el V4 (D5). ⚠ Verificar: cancelación del Salone 2020 y edición «supersalone» de septiembre de 2021.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-covid-19",
+    "item": "inst-salone-del-mobile",
+    "mecanismo": "Las restricciones sanitarias suspenden la feria de 2020 y obligan a reformular la de 2021"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-generative-ai",
+  "name": "Generative artificial intelligence",
+  "name_es": "Inteligencia artificial generativa",
+  "track": "technological",
+  "start": 2022,
+  "end": null,
+  "date": "2022 →",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "Cambio técnico de mayor impacto en el diseño gráfico desde la autoedición; cierre natural de la línea «hasta hoy». Aprobado en el V4 (D5).",
+  "explica": [
+   {
+    "id": "cosmopolitan-ai-cover-2022",
+    "mecanismo": "Un modelo que genera imágenes a partir de texto → primera portada de revista hecha con IA generativa"
+   },
+   {
+    "id": "interaction-design",
+    "mecanismo": "Los asistentes conversacionales (ChatGPT, noviembre de 2022) llevan la interfaz de la pantalla gráfica al diálogo en lenguaje natural"
+   }
+  ],
+  "era": "postmodern",
+  "nota": "Aprobado en el V4 (D5). Hechos ciertos: DALL·E 2 (abril de 2022), Midjourney y Stable Diffusion (2022), ChatGPT (noviembre de 2022). No afirmar nada posterior sin certeza.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-generative-ai",
+    "item": "interaction-design",
+    "mecanismo": "Los asistentes conversacionales (ChatGPT, noviembre de 2022) llevan la interfaz de la pantalla gráfica al diálogo en lenguaje natural"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

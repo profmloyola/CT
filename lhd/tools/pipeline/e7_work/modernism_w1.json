@@ -1,0 +1,536 @@
+[
+ {
+  "rtype": "work",
+  "id": "citta-nuova-1914",
+  "title": "La Città Nuova",
+  "title_es": "La Città Nuova",
+  "year": 1914,
+  "discipline": "architecture",
+  "designers": [
+   "antonio-sant-elia"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Dibujos de la ciudad futurista: rascacielos escalonados, ascensores exteriores y tráfico en varios niveles.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-electricity",
+    "mecanismo": "Centrales eléctricas y ascensores como nueva escala de la ciudad"
+   },
+   {
+    "tipo": "secundario",
+    "via": "futurism-typography",
+    "mecanismo": "Futurismo en arquitectura"
+   }
+  ],
+  "era": "modernism",
+  "type": "project",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-electricity",
+    "item": "citta-nuova-1914",
+    "mecanismo": "Centrales eléctricas y ascensores como nueva escala de la ciudad"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "futurism-typography"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "dom-ino-1914",
+  "title": "Dom-ino House (project)",
+  "title_es": "Casa Dom-ino (proyecto)",
+  "year": 1914,
+  "discipline": "architecture",
+  "designers": [
+   "le-corbusier"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Esquema de losas y pilares de hormigón que libera planta y fachada; diagrama fundacional de la arquitectura moderna.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-first-world-war",
+    "mecanismo": "La destrucción de la guerra sugiere una estructura estándar para reconstruir rápido"
+   },
+   {
+    "tipo": "secundario",
+    "via": "le-corbusier",
+    "mecanismo": "Base de los «cinco puntos»"
+   }
+  ],
+  "era": "modernism",
+  "date": "1914–1915",
+  "type": "project",
+  "tech": [
+   "reinforced-concrete"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-first-world-war",
+    "item": "dom-ino-1914",
+    "mecanismo": "La destrucción de la guerra sugiere una estructura estándar para reconstruir rápido"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "designers": [
+    "le-corbusier"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "lovell-health-house-1929",
+  "title": "Lovell Health House",
+  "title_es": "Casa Lovell (Health House)",
+  "year": 1929,
+  "discipline": "architecture",
+  "designers": [
+   "richard-neutra"
+  ],
+  "maker": null,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primera casa de estructura de acero del estilo internacional en Estados Unidos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "Un cliente higienista pide una casa para la vida sana"
+   },
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "Incluida en la exposición del MoMA de 1932"
+   }
+  ],
+  "era": "modernism",
+  "date": "1927–1929",
+  "type": "house",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-hygienism",
+    "item": "lovell-health-house-1929",
+    "mecanismo": "Un cliente higienista pide una casa para la vida sana"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "international-style"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "paimio-sanatorium-1933",
+  "title": "Paimio Sanatorium",
+  "title_es": "Sanatorio de Paimio",
+  "year": 1933,
+  "discipline": "architecture",
+  "designers": [
+   "aalto-alvar-aino"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Obra mayor de Aalto, diseñada con sus muebles; ejemplo de la arquitectura al servicio de la salud.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "La cura de la tuberculosis por aire y sol → pabellones orientados, terrazas y muebles pensados para el paciente"
+   },
+   {
+    "tipo": "secundario",
+    "via": "paimio-chair",
+    "mecanismo": "La silla se diseñó para este edificio"
+   }
+  ],
+  "era": "modernism",
+  "date": "1929–1933",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-hygienism",
+    "item": "paimio-sanatorium-1933",
+    "mecanismo": "La cura de la tuberculosis por aire y sol → pabellones orientados, terrazas y muebles pensados para el paciente"
+   }
+  ],
+  "escribir_conexiones": [
+   {
+    "from": "paimio-sanatorium-1933",
+    "to": "paimio-chair",
+    "mecanismo": "La silla se diseñó para este edificio"
+   }
+  ],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "dlia-golosa-1923",
+  "title": "For the Voice (Dlia golosa)",
+  "title_es": "Para la voz (Dlia golosa)",
+  "year": 1923,
+  "discipline": "graphic",
+  "designers": [
+   "el-lissitzky"
+  ],
+  "maker": "State Publishing House, Berlin",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU",
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Libro de poemas de Maiakovski construido con material de caja tipográfica; hito de la tipografía de vanguardia.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "La vanguardia rompe la página → letras y filetes de la caja se vuelven imagen"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-russian-revolution",
+    "mecanismo": "La poesía revolucionaria se escribe para ser leída en voz alta → índice con pestañas para encontrar cada poema"
+   },
+   {
+    "tipo": "secundario",
+    "via": "constructivism",
+    "mecanismo": "Libro constructivista por excelencia"
+   }
+  ],
+  "era": "modernism",
+  "type": "book",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-avant-gardes",
+    "item": "dlia-golosa-1923",
+    "mecanismo": "La vanguardia rompe la página → letras y filetes de la caja se vuelven imagen"
+   },
+   {
+    "ctx": "ctx-russian-revolution",
+    "item": "dlia-golosa-1923",
+    "mecanismo": "La poesía revolucionaria se escribe para ser leída en voz alta → índice con pestañas para encontrar cada poema"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "constructivism"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "merz-magazine-1923",
+  "title": "Merz",
+  "title_es": "Merz",
+  "year": 1923,
+  "discipline": "graphic",
+  "designers": [
+   "kurt-schwitters"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Revista de Schwitters entre el dadá y la Nueva Tipografía (número con Lisitski, 1924).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "Los grupos de vanguardia se comunican mediante revistas propias"
+   },
+   {
+    "tipo": "secundario",
+    "via": "dada",
+    "mecanismo": "Publicación dadá"
+   }
+  ],
+  "era": "modernism",
+  "date": "1923–1932",
+  "type": "magazine",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-avant-gardes",
+    "item": "merz-magazine-1923",
+    "mecanismo": "Los grupos de vanguardia se comunican mediante revistas propias"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "dada"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "matter-swiss-posters-1935",
+  "title": "Swiss tourism posters",
+  "title_es": "Carteles turísticos suizos",
+  "year": 1935,
+  "discipline": "graphic",
+  "designers": [
+   "herbert-matter"
+  ],
+  "maker": "Swiss National Tourist Office",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fotomontaje y escala dramática en el cartel turístico; puente entre la Nueva Visión y el estilo suizo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-leisure",
+    "mecanismo": "El turismo y los deportes de invierno → carteles fotográficos de impacto"
+   },
+   {
+    "tipo": "secundario",
+    "via": "new-vision",
+    "mecanismo": "Fotomontaje en el cartel"
+   }
+  ],
+  "era": "modernism",
+  "date": "1934–1936",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-leisure",
+    "item": "matter-swiss-posters-1935",
+    "mecanismo": "El turismo y los deportes de invierno → carteles fotográficos de impacto"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "new-vision"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "lustig-new-directions-1941",
+  "title": "Book jackets for New Directions",
+  "title_es": "Sobrecubiertas para New Directions",
+  "year": 1941,
+  "discipline": "graphic",
+  "designers": [
+   "alvin-lustig"
+  ],
+  "maker": "New Directions",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Portadas abstractas para literatura moderna; modelo del diseño editorial estadounidense.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "new-york-school-graphic",
+    "mecanismo": "Obra temprana del modernismo gráfico estadounidense"
+   }
+  ],
+  "era": "modernism",
+  "date": "c. 1941–1955",
+  "type": "cover",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "new-york-school-graphic"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "suprematist-teapot-1923",
+  "title": "Suprematist teapot",
+  "title_es": "Tetera suprematista",
+  "year": 1923,
+  "discipline": "product",
+  "designers": [
+   "kazimir-malevich"
+  ],
+  "maker": "State Porcelain Factory, Petrograd",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Objeto suprematista para la Fábrica Estatal de Porcelana: la geometría de vanguardia en un objeto cotidiano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-russian-revolution",
+    "mecanismo": "La fábrica imperial de porcelana pasa al Estado y produce diseños de vanguardia"
+   },
+   {
+    "tipo": "secundario",
+    "via": "suprematism",
+    "mecanismo": "Ejemplo del suprematismo aplicado"
+   }
+  ],
+  "era": "modernism",
+  "type": "kitchenware",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-russian-revolution",
+    "item": "suprematist-teapot-1923",
+    "mecanismo": "La fábrica imperial de porcelana pasa al Estado y produce diseños de vanguardia"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "suprematism"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "volksempfanger-1933",
+  "title": "Volksempfänger VE 301",
+  "title_es": "Volksempfänger VE 301 (receptor del pueblo)",
+  "year": 1933,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Walter Maria Kersting (design); several German manufacturers",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Radio barata del régimen nazi para llevar la propaganda a cada hogar: caso claro de diseño y poder.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nazi-regime",
+    "mecanismo": "El régimen quiere llegar a todos los hogares → receptor barato de baquelita y alcance limitado"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-radio-broadcasting",
+    "mecanismo": "La radio como medio de masas"
+   }
+  ],
+  "era": "modernism",
+  "type": "radio",
+  "tech": [
+   "bakelite"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-nazi-regime",
+    "item": "volksempfanger-1933",
+    "mecanismo": "El régimen quiere llegar a todos los hogares → receptor barato de baquelita y alcance limitado"
+   },
+   {
+    "ctx": "ctx-radio-broadcasting",
+    "item": "volksempfanger-1933",
+    "mecanismo": "La radio como medio de masas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

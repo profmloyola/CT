@@ -1,0 +1,109 @@
+[
+ {
+  "rtype": "link",
+  "ctx": "ctx-weimar-republic",
+  "item": "bauhausbucher",
+  "note": "A state-backed school of the republic spread its programme through a book series, so the Bauhaus ideas reached readers well beyond Weimar and Dessau.",
+  "es": {
+   "note": "Una escuela pública de la república difundió su programa en una serie de libros, y así las ideas de la Bauhaus llegaron a lectores más allá de Weimar y Dessau."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-car",
+  "item": "chrysler-building",
+  "note": "The car became a mass symbol of modernity, so the tower's ornament quotes Chrysler hubcaps and radiator-cap wings, turning the product into architecture.",
+  "es": {
+   "note": "El auto se volvió un símbolo masivo de modernidad, y el ornamento de la torre cita tapacubos y alas de tapa de radiador de Chrysler: el producto hecho arquitectura."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-avant-gardes",
+  "item": "e1027-house",
+  "note": "De Stijl ideas and Badovici's magazine fed a modern holiday house in which architecture and furniture were conceived together, with folding, adjustable pieces.",
+  "es": {
+   "note": "Las ideas de De Stijl y la revista de Badovici alimentaron una casa de vacaciones moderna donde arquitectura y muebles se pensaron juntos, con piezas plegables y ajustables."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-leisure",
+  "item": "fallingwater-1937",
+  "note": "The weekend of a prosperous urban family called for a country retreat, so Wright set the house over the waterfall, tied to the landscape instead of facing it.",
+  "es": {
+   "note": "El fin de semana de una familia urbana acomodada pedía un refugio de campo, y Wright puso la casa sobre la cascada, unida al paisaje en vez de mirarlo de frente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-avant-gardes",
+  "item": "futura",
+  "note": "Avant-garde geometry and the New Typography asked for a type of their time, so Renner built a sans-serif from circles, triangles and straight lines.",
+  "es": {
+   "note": "La geometría de la vanguardia y la Nueva Tipografía pedían una letra de su tiempo, y Renner construyó un palo seco con círculos, triángulos y rectas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-literacy-campaigns",
+  "item": "isotype-charts",
+  "note": "Adult education for workers needed statistics readable without prior schooling, so Isotype used rows of identical pictograms for fixed quantities.",
+  "es": {
+   "note": "La educación de adultos obreros requería estadísticas legibles sin formación previa, y el Isotype usó filas de pictogramas idénticos para cantidades fijas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-semana-arte-moderna",
+  "item": "ministry-education-rio",
+  "note": "Brazilian modernism after 1922 sought a modern national art, so the ministry joined avant-garde form with Portinari's murals, Burle Marx's gardens and tropical setting.",
+  "es": {
+   "note": "El modernismo brasileño posterior a 1922 buscó un arte nacional moderno, y el ministerio unió forma de vanguardia con murales de Portinari, jardines de Burle Marx y paisaje tropical."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-fascism",
+  "item": "moka-express",
+  "sin_enlace": true,
+  "motivo": "La ficha no vincula la Moka (1933) con la autarquía; el aluminio como metal nacional es posterior/impreciso y no puedo sostener el mecanismo sin inventar."
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-weimar-housing",
+  "item": "stam-cantilever-chair",
+  "note": "Minimum housing called for light, cheap furniture, so Stam's tubular-steel chair without back legs was shown at the Weissenhof estate in 1927.",
+  "es": {
+   "note": "La vivienda mínima pedía muebles ligeros y baratos, y la silla de tubo sin patas traseras de Stam se mostró en el conjunto Weissenhof en 1927."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-taylorism",
+  "item": "van-nelle-factory",
+  "note": "Scientific management of work shaped a factory of continuous flow, with conveyor bridges joining the plants in a bright, glass-walled building.",
+  "es": {
+   "note": "La organización científica del trabajo dio forma a una fábrica de flujo continuo, con pasarelas transportadoras que unen las plantas en un edificio luminoso de muros de vidrio."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-safety-bicycle",
+  "item": "wassily-chair",
+  "note": "The bicycle's tubular handlebar suggested to Breuer a bent steel tube as furniture material, giving the club chair a transparent steel outline.",
+  "es": {
+   "note": "El manillar tubular de la bicicleta sugirió a Breuer el tubo de acero curvado como material de mueble, y el sillón club se volvió un contorno transparente de acero."
+  },
+  "refs": []
+ }
+]

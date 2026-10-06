@@ -1,0 +1,104 @@
+[
+ {
+  "id": "dylan-poster",
+  "en": {
+   "key": "Milton Glaser’s 1966 black silhouette of Bob Dylan with a mane of curling, multicoloured hair, made as a bonus poster for a record.[1][2][3]",
+   "more": "Glaser drew Dylan’s profile as a bold black silhouette, with hair of writhing curves in bright, saturated colours.[1][3] He drew on a cut-out silhouetted self-portrait by Marcel Duchamp and on Islamic forms and colours.[2][3] It was made as a bonus insert for the album Bob Dylan’s Greatest Hits.[3][2] According to some reports, six million copies were distributed.[3] Its flat colour and curving line are still read as an image of psychedelic graphics.[1][2]"
+  },
+  "es": {
+   "key": "La silueta negra de Bob Dylan de Milton Glaser de 1966, con una melena de rizos multicolores, hecha como cartel de regalo para un disco.[1][2][3]",
+   "more": "Glaser dibujó el perfil de Dylan como una silueta negra marcada, con el pelo hecho de curvas ondulantes en colores vivos y saturados.[1][3] Se inspiró en una silueta recortada de un autorretrato de Marcel Duchamp y en formas y colores islámicos.[2][3] Se hizo como cartel de regalo insertado en el disco Bob Dylan’s Greatest Hits.[3][2] Según algunos informes, se distribuyeron seis millones de copias.[3] Su color plano y su línea curva se siguen leyendo como una imagen del grafismo psicodélico.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "MoMA, Milton Glaser, «Dylan» (773.1983)",
+    "url": "https://www.moma.org/collection/works/8108",
+    "checks": "Año 1966, litografía offset, 83,8 x 55,8 cm; inspirado en un autorretrato de Duchamp; colores saturados sobre fondo blanco; encargo de CBS Records para promover Bob Dylan’s Greatest Hits. ⚠ la ficha nombra al cliente como CBS Records, no Columbia.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Cooper Hewitt, «Poster, Dylan»",
+    "url": "https://collection.cooperhewitt.org/objects/18710419",
+    "checks": "Fecha 1966; litografía offset sobre papel avitelado; creado para Columbia Records junto al álbum de 1967; inspirado en un autorretrato recortado de Duchamp y en formas y colores islámicos.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Smithsonian Music, «Object of the Day»",
+    "url": "https://music.si.edu/node/805",
+    "checks": "Cartel de regalo insertado en el álbum Bob Dylan’s Greatest Hits (1967); perfil negro inspirado en la silueta de Duchamp; curvas de colores; seis millones de copias «según algunos informes». ⚠ no menciona el ornamento islámico.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «came folded inside a record» y «so it reached young rock listeners directly»: ninguna fuente lo confirma.",
+   "Quité «ornament» como «ornamento islámico»: Cooper Hewitt dice «formas y colores islámicos».",
+   "Quité «lasting image» como afirmación factual; suavizado a «se siguen leyendo como».",
+   "Cliente: MoMA dice CBS Records y Cooper Hewitt Columbia Records; no toqué `client`. Las fuentes datan el disco en 1967 (el cartel, 1966)."
+  ]
+ },
+ {
+  "id": "panton-chair",
+  "en": {
+   "key": "A chair commonly considered the first moulded in a single piece of plastic, a continuous S-shaped curve with no legs or joints, designed by the Dane Verner Panton.[1][2]",
+   "more": "According to Domus, Panton began developing the chair in 1960 and Vitra put it into production in 1967.[2] Vitra says he conceived it in the late 1950s, that its collaboration with him began in 1963, and that ten hand-laminated prototypes preceded a one-piece, all-plastic cantilever chair.[1] A limited run of 150 pieces in cold-pressed polyester began in 1967 and met with an instant sensation for its sculptural form and vibrant colours.[1] The material then changed several times, from polyurethane foam in 1968 to thermoplastic in the 1970s, polyurethane again in 1990 and polypropylene in 1999.[1]"
+  },
+  "es": {
+   "key": "Una silla considerada habitualmente la primera moldeada en una sola pieza de plástico, una curva continua en forma de S, sin patas ni uniones, diseñada por el danés Verner Panton.[1][2]",
+   "more": "Según Domus, Panton empezó a desarrollar la silla en 1960 y Vitra la puso en producción en 1967.[2] Vitra dice que la concibió a fines de los años cincuenta, que su colaboración con él partió en 1963 y que diez prototipos laminados a mano precedieron a una silla en voladizo de una sola pieza, toda de plástico.[1] En 1967 comenzó una tirada limitada de 150 piezas en poliéster prensado en frío, que causó sensación inmediata por su forma escultórica y sus colores vivos.[1] Después el material cambió varias veces: espuma de poliuretano en 1968, termoplástico en los años setenta, poliuretano de nuevo en 1990 y polipropileno en 1999.[1]"
+  },
+  "refs": [
+   {
+    "label": "Vitra, «Panton Chair»",
+    "url": "https://vitra.com/en-ie/page/panton-chair",
+    "checks": "Concebida a fines de los 50; colaboración desde 1963; diez prototipos laminados a mano; silla en voladizo de una pieza; 1967 tirada limitada de 150; cambios de material (1968, años 70, 1990, 1999); hoy sigue en el catálogo. ⚠ fabricante actual, fuente interesada.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Domus, «Verner Panton»",
+    "url": "https://domusweb.it/en/biographies/verner-panton.html",
+    "checks": "Desarrollada desde 1960 y producida por Vitra en 1967; «comúnmente considerada» la primera silla de plástico moldeado de una pieza.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Suavicé «the first chair moulded in a single piece» a «commonly considered», como lo dice Domus.",
+   "Quité «bright, glossy colours that suited the pop taste»: Vitra solo dice colores vivos; el vínculo con el gusto pop no está confirmado.",
+   "Quité «as plastics technology improved» (causa no confirmada) y precisé la secuencia de materiales.",
+   "Vitra dice concebida a fines de los 50 y Domus desde 1960: se atribuyen ambos. `maker`/`countries` sin tocar."
+  ]
+ },
+ {
+  "id": "sgt-pepper-cover-1967",
+  "en": {
+   "key": "The Beatles’ 1967 album sleeve by Peter Blake and Jann Haworth, a crowded collage of cut-outs of famous people around the band in colourful uniforms.[1][2]",
+   "more": "The sleeve was released in 1967 by Parlophone/EMI, designed by Blake and Haworth and photographed by Michael Cooper.[1][2] It is a photo-collage of life-size cut-outs and figures from Madame Tussauds, with a real floral display in the foreground.[1][2] The V&A calls the album the first concept album and notes that the sleeve carried printed lyrics and a cardboard insert of cut-outs.[1] It sold 250,000 copies in Britain in the week after release.[1] Eye magazine calls the image possibly the best known printed image to emerge from rock.[2]"
+  },
+  "es": {
+   "key": "La carátula del álbum de los Beatles de 1967 por Peter Blake y Jann Haworth, un collage abarrotado de recortes de personajes famosos alrededor de la banda con uniformes de colores.[1][2]",
+   "more": "La funda fue publicada en 1967 por Parlophone/EMI, diseñada por Blake y Haworth y fotografiada por Michael Cooper.[1][2] Es un fotocollage de recortes de tamaño natural y figuras de Madame Tussauds, con un arreglo floral real al frente.[1][2] El V&A considera el álbum el primer álbum conceptual y señala que la funda llevaba las letras impresas y un inserto de cartón con recortes.[1] Vendió 250.000 copias en Gran Bretaña la semana siguiente a su publicación.[1] La revista Eye lo califica como quizá la imagen impresa más conocida surgida del rock.[2]"
+  },
+  "refs": [
+   {
+    "label": "V&A, «Sgt. Pepper’s Lonely Hearts Club record sleeve, Sir Peter Blake» (O22955)",
+    "url": "https://collections.vam.ac.uk/item/O22955/sgt-peppers-lonely-hearts-club-record-sleeve-sir-peter-blake",
+    "checks": "Publicada en 1967 por Parlophone/EMI; Blake y Haworth, fotografía de Michael Cooper; recortes de tamaño natural y figuras de Madame Tussauds, arreglo floral; litografía offset; primer álbum conceptual; letras impresas e inserto de cartón; 250.000 copias en la primera semana. ⚠ no precisa «junio» ni que las letras fueran al reverso.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Eye magazine, «The celebrated Mr B» (primavera 2000)",
+    "url": "https://eyemagazine.com/feature/article/the-celebrated-mr-b",
+    "checks": "Creada por Blake con Jann Haworth; Michael Cooper fotografió; figuras de cera de Madame Tussauds, recortes, nombre en jacintos; «quizá la imagen impresa más conocida del rock». ⚠ lectura vía resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «June 1967» y «lyrics on the back»: el V&A solo dice 1967 y letras impresas.",
+   "Quité «unusual for a rock record» y «emblem of the concept album»: reemplazado por lo que dice el V&A (primer álbum conceptual).",
+   "Quité «people they admired»: el V&A dice «héroes y figuras favoritas» según el resumen; omitido por prudencia.",
+   "`materials` dice «printed on card sleeve»: el V&A dice litografía offset en funda gatefold; no lo toqué."
+  ]
+ }
+]

@@ -1,0 +1,500 @@
+{
+ "works": [
+  {
+   "id": "queens-ware-1765",
+   "level": "essential",
+   "discipline": "product",
+   "type": "tableware",
+   "title": "Queen’s ware",
+   "designers": [
+    "josiah-wedgwood"
+   ],
+   "maker": "Josiah Wedgwood",
+   "year": 1765,
+   "date": "c. 1765",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Cream-coloured earthenware with a clear lead glaze",
+   "tech": [
+    "creamware"
+   ],
+   "key": "Josiah Wedgwood’s refined cream-coloured earthenware, durable and simply decorated, which became a standard domestic pottery with a worldwide market.[1][2]",
+   "more": "Wedgwood refined the existing cream-coloured earthenware with Cornish clay and stone and better shaping and glazing,[1] and named it Queen’s ware after Queen Charlotte, whose patronage Britannica dates to 1765.[1][2] He showed his services in a ticket-only showroom in Greek Street, London.[1] In 1769 he established his Etruria factory near Stoke-on-Trent.[3] Britannica calls Queen’s ware the standard domestic pottery, with a worldwide market.[2]",
+   "status": "Wedgwood still makes creamware tableware.",
+   "es": {
+    "title": "Loza Queen’s ware",
+    "date": "c. 1765",
+    "materials": "Loza cremosa con vidriado transparente de plomo",
+    "key": "La loza color crema refinada de Josiah Wedgwood, resistente y de decoración simple, que pasó a ser la loza doméstica estándar con un mercado mundial.[1][2]",
+    "more": "Wedgwood refinó la loza cremosa existente con arcilla y piedra de Cornualles y mejor modelado y vidriado,[1] y la llamó Queen’s ware por la reina Carlota, cuyo patrocinio la Britannica fecha en 1765.[1][2] Exhibió sus servicios en una sala de exhibición de Greek Street, en Londres, solo con entrada por invitación.[1] En 1769 fundó su fábrica de Etruria, cerca de Stoke-on-Trent.[3] La Britannica la llama la loza doméstica estándar, con mercado mundial.[2]",
+    "status": "Wedgwood sigue fabricando vajilla de loza cremosa."
+   },
+   "refs": [
+    {
+     "label": "The Potteries.org, «Wedgwood’s Queen’s Ware»",
+     "url": "https://thepotteries.org/queens.htm",
+     "checks": "Queen’s ware como refinamiento de la loza cremosa existente (arcilla y piedra de Cornualles, mejor forma y vidriado); regalo de un servicio a la reina Carlota en 1765 y nombre «Queensware»; sala de exhibición de Greek Street, Londres, con entrada por invitación. ⚠ sitio local de historia, no académico.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Josiah Wedgwood»",
+     "url": "https://www.britannica.com/print/article/638741",
+     "checks": "Nombre por el patrocinio de la reina Carlota en 1765; loza «well finished, clean, simple decoration», durable; «la loza doméstica estándar» con mercado mundial. ⚠ no habla de catálogos ni de la división del trabajo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Science Museum Group, «Josiah Wedgwood 1730–1795»",
+     "url": "https://collection.sciencemuseumgroup.org.uk/people/ap25018",
+     "checks": "Etruria establecida en 1769 cerca de Stoke-on-Trent con Thomas Bentley. ⚠ fecha el patrocinio de Carlota en 1762, no 1765.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "wedgwood-jasperware-1775",
+   "level": "normal",
+   "discipline": "product",
+   "type": "ceramic",
+   "title": "Wedgwood jasperware",
+   "designers": [
+    "josiah-wedgwood"
+   ],
+   "maker": "Wedgwood",
+   "year": 1775,
+   "date": "c. 1775",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Fine unglazed stoneware coloured with metal oxides, with white relief ornament",
+   "tech": [],
+   "key": "Wedgwood’s fine stoneware, tinted blue, green or lilac and decorated with white classical reliefs, made as an ornamental object for collectors.",
+   "more": "After years of trials, Wedgwood perfected jasper in the mid-1770s: a dense, unglazed body that took colour from metal oxides and carried thin white reliefs applied by hand. The subjects came from antique cameos, vases and gems, which educated buyers knew through engravings. Sculptors such as John Flaxman supplied models for the reliefs. It was sold as plaques, vases and medallions, and the blue-and-white combination is still the firm’s best-known look.",
+   "status": "Wedgwood still produces jasperware.",
+   "es": {
+    "title": "Jasperware de Wedgwood",
+    "date": "c. 1775",
+    "materials": "Gres fino sin vidriar coloreado con óxidos metálicos, con relieves blancos",
+    "key": "El gres fino de Wedgwood, teñido de azul, verde o lila y decorado con relieves clásicos blancos, hecho como objeto de adorno para coleccionistas.",
+    "more": "Tras años de ensayos, Wedgwood perfeccionó el jasper a mediados de la década de 1770: una pasta densa, sin vidriar, que tomaba color de óxidos metálicos y llevaba finos relieves blancos aplicados a mano. Los temas venían de camafeos, vasos y gemas antiguos, que el público culto conocía por grabados. Escultores como John Flaxman entregaron modelos para los relieves. Se vendió como placas, jarrones y medallones, y la combinación azul y blanca sigue siendo la imagen más conocida de la casa.",
+    "status": "Wedgwood sigue produciendo jasperware."
+   },
+   "refs": []
+  },
+  {
+   "id": "chippendale-ribbon-chair-1754",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Ribbon-back chair",
+   "designers": [
+    "thomas-chippendale"
+   ],
+   "maker": "Thomas Chippendale",
+   "year": 1754,
+   "date": "1754",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Mahogany, carved, with upholstered seat",
+   "tech": [],
+   "key": "A mahogany chair whose back splat is carved as interlaced ribbons, one of the designs Thomas Chippendale published in his pattern book of 1754.",
+   "more": "The ribbon-back appears among the chair designs in The Gentleman and Cabinet-Maker’s Director (1754), an engraved book of furniture patterns that cabinet-makers and clients could order from. The back is pierced and carved in looped ribbons in a light rococo manner, and the frame is of mahogany, the dark imported wood fashionable in Britain at the time. Because the book circulated widely, the pattern was copied by many workshops, so the name now covers a type as much as a single maker’s chair.",
+   "status": "Surviving chairs of the type are in museums and collections; reproductions are common.",
+   "es": {
+    "title": "Silla de respaldo de cintas",
+    "date": "1754",
+    "materials": "Caoba tallada, con asiento tapizado",
+    "key": "Una silla de caoba cuyo respaldo está tallado como cintas entrelazadas, uno de los modelos que Thomas Chippendale publicó en su libro de patrones de 1754.",
+    "more": "El respaldo de cintas aparece entre los diseños de sillas de The Gentleman and Cabinet-Maker’s Director (1754), un libro grabado de modelos de muebles que ebanistas y clientes podían encargar. El respaldo está calado y tallado en cintas anudadas, de manera rococó ligera, y la estructura es de caoba, la madera oscura importada que estaba de moda en Gran Bretaña. Como el libro circuló mucho, muchos talleres copiaron el modelo, de modo que el nombre designa hoy un tipo tanto como la silla de un solo taller.",
+    "status": "Se conservan sillas del tipo en museos y colecciones; abundan las reproducciones.",
+    "short": "Silla de cintas"
+   },
+   "refs": [],
+   "short": "Ribbon-back chair"
+  },
+  {
+   "id": "windsor-chair-1750",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Windsor chair",
+   "designers": [],
+   "maker": "Regional chairmakers’ workshops",
+   "year": 1750,
+   "date": "c. 1750",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "materials": "Mixed woods; turned legs and spindles, often a solid elm seat",
+   "tech": [],
+   "key": "A light chair of turned legs and spindles set into a solid wooden seat, made cheaply by many workshops in England and later in North America.",
+   "more": "The Windsor chair took shape in England in the early eighteenth century and spread widely by mid-century. Legs, back spindles and arm hoop are fixed directly into a shaped wooden seat, with no frame, so it could be made in parts by turners and assembled quickly. It was cheap and light enough for taverns, kitchens and small homes. Chairmakers in the American colonies took up the type, and it became one of the most common seats on both sides of the Atlantic.",
+   "status": "The type is still made by craft workshops and manufacturers.",
+   "es": {
+    "title": "Silla Windsor",
+    "date": "c. 1750",
+    "materials": "Maderas mixtas; patas y barrotes torneados, a menudo asiento macizo de olmo",
+    "key": "Una silla liviana de patas y barrotes torneados encajados en un asiento macizo de madera, hecha barata por muchos talleres en Inglaterra y después en Norteamérica.",
+    "more": "La silla Windsor tomó forma en Inglaterra a comienzos del siglo XVIII y se difundió mucho hacia mediados de siglo. Las patas, los barrotes del respaldo y el arco de los brazos se encajan directamente en un asiento de madera tallado, sin bastidor, de modo que se podía hacer por partes entre torneros y armar rápido. Era barata y lo bastante liviana para tabernas, cocinas y casas pequeñas. Los silleros de las colonias americanas adoptaron el tipo, y llegó a ser uno de los asientos más comunes a ambos lados del Atlántico.",
+    "status": "El tipo se sigue fabricando en talleres artesanales y por fabricantes."
+   },
+   "refs": []
+  },
+  {
+   "id": "shaker-ladderback-chair-1800",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Shaker ladder-back chair",
+   "designers": [],
+   "maker": "Shaker communities",
+   "year": 1800,
+   "date": "c. 1800",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Turned maple or other hardwood, with woven rush or tape seat",
+   "tech": [],
+   "key": "A plain chair of turned posts and horizontal slats with a woven seat, made in Shaker communities in the United States and valued for its lightness and lack of ornament.",
+   "more": "The Shakers, a religious group that lived in self-supporting communities, made ladder-back chairs for their own use from the late eighteenth century. The chair has turned posts, a few curved back slats and a woven seat, with no carving or applied decoration, and it is light enough to hang from a wall peg. The community at Mount Lebanon, New York, later made chairs for sale to the public. The restraint of the type came to stand for Shaker design in general.",
+   "status": "Original chairs are in museums; the type is still reproduced.",
+   "es": {
+    "title": "Silla de respaldo de escalera shaker",
+    "date": "c. 1800",
+    "materials": "Arce u otra madera dura torneada, con asiento tejido de junco o cinta",
+    "key": "Una silla sencilla de montantes torneados y travesaños horizontales con asiento tejido, hecha en comunidades shaker de Estados Unidos y apreciada por su liviandad y falta de adorno.",
+    "more": "Los shakers, un grupo religioso que vivía en comunidades autosuficientes, hicieron sillas de respaldo de escalera para su propio uso desde fines del siglo XVIII. La silla tiene montantes torneados, unos pocos travesaños curvos y un asiento tejido, sin talla ni decoración aplicada, y es tan liviana que se cuelga de una clavija en la pared. La comunidad de Mount Lebanon, en Nueva York, hizo después sillas para vender al público. La sobriedad del tipo llegó a representar el diseño shaker en general.",
+    "status": "Hay sillas originales en museos; el tipo se sigue reproduciendo.",
+    "short": "Silla shaker"
+   },
+   "refs": [],
+   "short": "Shaker chair"
+  },
+  {
+   "id": "thonet-boppard-chair-1836",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Boppard chair",
+   "designers": [
+    "michael-thonet"
+   ],
+   "maker": "Michael Thonet",
+   "year": 1836,
+   "date": "c. 1836",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Beech, bent in layers and glued",
+   "tech": [
+    "steam-bentwood"
+   ],
+   "key": "Michael Thonet’s early chairs of bent wood layers, made in Boppard on the Rhine, the first step toward his later bentwood furniture.",
+   "more": "In the 1830s Thonet, a cabinet-maker in Boppard, began to make chair parts by gluing thin layers of beech and bending them in moulds, instead of carving or joining solid pieces. The result was a light, curved frame in a plain Biedermeier taste. He furnished rooms in the town with these chairs and went on to develop the method, moving to Vienna in 1842. Its later steam-bent solid-wood form led to the mass-produced chair No. 14.",
+   "status": "Early examples survive in a few museums.",
+   "es": {
+    "title": "Silla Boppard",
+    "date": "c. 1836",
+    "materials": "Haya, curvada en capas y encolada",
+    "key": "Las primeras sillas de Michael Thonet, de capas de madera curvadas, hechas en Boppard, junto al Rin, y el primer paso hacia sus muebles de madera curvada.",
+    "more": "En la década de 1830 Thonet, ebanista en Boppard, empezó a hacer partes de sillas pegando finas capas de haya y curvándolas en moldes, en vez de tallar o ensamblar piezas macizas. El resultado fue una estructura liviana y curva, de gusto Biedermeier sobrio. Amobló habitaciones del pueblo con estas sillas y siguió desarrollando el método, y en 1842 se trasladó a Viena. Su forma posterior de madera maciza curvada al vapor llevó a la silla n.º 14, producida en masa.",
+    "status": "Se conservan ejemplares tempranos en unos pocos museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "stanhope-press-1800",
+   "level": "normal",
+   "discipline": "product",
+   "type": "machine",
+   "title": "Stanhope press",
+   "designers": [],
+   "maker": "Charles, 3rd Earl Stanhope",
+   "year": 1800,
+   "date": "c. 1800",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Cast and wrought iron",
+   "tech": [
+    "iron-printing-press"
+   ],
+   "key": "The first printing press built wholly of iron, devised by Earl Stanhope, which gave a stronger and more even impression than the old wooden press.",
+   "more": "Charles, Earl Stanhope, built the iron hand press around 1800. Its frame was cast iron, and a system of levers multiplied the force of the pull, so a large sheet could be printed in a single pull instead of two. The iron frame was stiffer than wood and gave a more even impression. The press was made in London and widely adopted by printers in Britain and beyond, and it prepared the way for later iron presses.",
+   "status": "Several original presses are kept in museums and printing collections.",
+   "es": {
+    "title": "Prensa Stanhope",
+    "date": "c. 1800",
+    "materials": "Hierro fundido y forjado",
+    "key": "La primera prensa de imprimir hecha por completo de hierro, ideada por lord Stanhope, que daba una impresión más fuerte y pareja que la antigua prensa de madera.",
+    "more": "Charles, conde Stanhope, construyó la prensa manual de hierro hacia 1800. Su armazón era de hierro fundido y un sistema de palancas multiplicaba la fuerza del tirón, de modo que un pliego grande se imprimía de un solo tirón en vez de dos. El armazón de hierro era más rígido que la madera y daba una impresión más pareja. La prensa se fabricó en Londres y fue adoptada por muchos impresores en Gran Bretaña y fuera de ella, y preparó el camino a las prensas de hierro posteriores.",
+    "status": "Se conservan varias prensas originales en museos y colecciones de imprenta."
+   },
+   "refs": []
+  },
+  {
+   "id": "jacquard-loom-1804",
+   "level": "essential",
+   "discipline": "product",
+   "type": "machine",
+   "title": "Jacquard loom",
+   "designers": [
+    "joseph-marie-jacquard"
+   ],
+   "maker": "Joseph Marie Jacquard",
+   "year": 1804,
+   "date": "1804",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wood and metal loom with a chain of punched cards",
+   "tech": [
+    "punched-card-weaving"
+   ],
+   "key": "The loom whose chain of punched cards controls which warp threads rise, so that complex patterns can be woven automatically.[1][2]",
+   "more": "Jacquard introduced the attachment that defines the loom in 1804–05, as an improvement on earlier automatic looms.[1][3] Punched cards pass against needles: where a hole lets a needle through, the thread is lifted, and where there is none, it stays.[2][3] Lyon’s silk weavers fiercely resisted it and burned machines.[1] In 1806 the state acquired the patent and gave Jacquard a pension and royalties,[1][3] and by 1812 France had 11,000 such looms.[1]",
+   "status": "Looms are kept in museums, including the Conservatoire national des arts et métiers in Paris; the system is still used in weaving.",
+   "es": {
+    "title": "Telar Jacquard",
+    "date": "1804",
+    "materials": "Telar de madera y metal con cadena de tarjetas perforadas",
+    "key": "El telar cuya cadena de tarjetas perforadas decide qué hilos de urdimbre se levantan, de modo que se tejen dibujos complejos de forma automática.[1][2]",
+    "more": "Jacquard introdujo el aditamento que define el telar en 1804–05, como mejora de telares automáticos anteriores.[1][3] Las tarjetas perforadas pasan contra agujas: donde un agujero deja pasar la aguja, el hilo se levanta, y donde no lo hay, se queda.[2][3] Los tejedores de seda de Lyon se resistieron con fuerza y quemaron máquinas.[1] En 1806 el Estado adquirió la patente y dio a Jacquard una pensión y regalías,[1][3] y en 1812 Francia tenía 11.000 telares de este tipo.[1]",
+    "status": "Se conservan telares en museos, entre ellos el Conservatoire national des arts et métiers de París; el sistema se sigue usando en tejeduría."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Joseph-Marie Jacquard»",
+     "url": "https://www.britannica.com/print/article/299152",
+     "checks": "Tarjetas perforadas intercambiables para tejer cualquier dibujo automáticamente; aditamento de 1804–05; resistencia y quema de máquinas por los tejedores de Lyon; el Estado adquirió la patente en 1806 con pensión y regalías; 11.000 telares en Francia en 1812.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Science Museum Group, «Jacquard Hand Loom»",
+     "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8405056/jacquard-hand-loom-loom",
+     "checks": "Bucle de tarjetas perforadas cuyos agujeros dejan pasar pasadores que controlan qué hilos de urdimbre suben; máquina desarrollada en Francia en 1804–05. ⚠ el objeto es un telar de mano de Bolton, c. 1910.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopedia.com, «Joseph Marie Jacquard»",
+     "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/joseph-marie-jacquard",
+     "checks": "Mecanismo de tarjetas perforadas ya en 1804; 1806: invención declarada de propiedad pública con pensión y regalías; resistencia violenta de los tejedores de Lyon. ⚠ enciclopedia de referencia genérica.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "boulton-ormolu-vases-1770",
+   "level": "normal",
+   "discipline": "product",
+   "type": "vase",
+   "title": "Boulton ormolu vases",
+   "designers": [
+    "matthew-boulton"
+   ],
+   "maker": "Soho Manufactory",
+   "year": 1770,
+   "date": "c. 1770",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Gilt bronze (ormolu) mounts, with stone or other bodies",
+   "tech": [],
+   "key": "Gilt-bronze vases and mounts in classical shapes, made by Matthew Boulton at his Soho Manufactory in Birmingham for the luxury market.",
+   "more": "Boulton opened the Soho Manufactory near Birmingham in 1766 and used it to make luxury goods as well as buttons and silver. Around 1770 it made ormolu vases and mounts, some set on stone bodies such as Derbyshire blue john, in shapes taken from antique models then fashionable among British collectors. Skilled work was divided among many hands, which let Boulton offer such pieces in larger numbers than a French or London bronze workshop. The venture did not earn the profit he hoped for in ormolu.",
+   "status": "Surviving pieces are in museums and country-house collections.",
+   "es": {
+    "title": "Jarrones de ormolú de Boulton",
+    "date": "c. 1770",
+    "materials": "Montajes de bronce dorado (ormolú), con cuerpos de piedra u otros materiales",
+    "key": "Jarrones y montajes de bronce dorado de formas clásicas, hechos por Matthew Boulton en su manufactura de Soho, en Birmingham, para el mercado de lujo.",
+    "more": "Boulton abrió la manufactura de Soho, cerca de Birmingham, en 1766 y la usó para hacer objetos de lujo además de botones y platería. Hacia 1770 produjo jarrones y montajes de ormolú, algunos sobre cuerpos de piedra como el blue john de Derbyshire, con formas tomadas de modelos antiguos que estaban de moda entre los coleccionistas británicos. El trabajo especializado se repartía entre muchas manos, lo que le permitió ofrecer estas piezas en mayor número que un taller de bronces de Francia o de Londres. En el ormolú no obtuvo la ganancia que esperaba.",
+    "status": "Se conservan piezas en museos y colecciones de casas señoriales.",
+    "short": "Jarrones de Boulton"
+   },
+   "refs": [],
+   "short": "Boulton ormolu vases"
+  },
+  {
+   "id": "watt-rotative-engine-1781",
+   "level": "essential",
+   "discipline": "product",
+   "type": "machine",
+   "title": "Boulton & Watt rotative steam engine",
+   "designers": [
+    "james-watt",
+    "matthew-boulton"
+   ],
+   "maker": "Boulton & Watt",
+   "year": 1781,
+   "date": "1781",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Cast and wrought iron, with a wooden beam in early models",
+   "tech": [],
+   "key": "The steam engine that Boulton and Watt adapted from 1781 to turn a shaft, with Watt’s sun-and-planet gear, so that steam could drive machinery and not only pump.[1][2]",
+   "more": "James Watt had improved the steam engine in 1769 with a separate condenser,[1] but it moved only up and down. In 1781 he patented the sun-and-planet gear, an epicyclic gear that turns the beam’s reciprocating motion into rotation on the flywheel shaft,[1][2] and with his partner Matthew Boulton, whom he joined in 1775, made engines for wider industrial use.[1] A centrifugal governor to regulate speed followed in 1788.[1]",
+   "status": "Surviving engines are kept in museums.",
+   "es": {
+    "title": "Máquina de vapor rotativa de Boulton y Watt",
+    "date": "1781",
+    "materials": "Hierro fundido y forjado, con viga de madera en los primeros modelos",
+    "key": "La máquina de vapor que Boulton y Watt adaptaron desde 1781 para hacer girar un eje, con el engranaje «sol y planeta» de Watt, de modo que el vapor moviera maquinaria y no solo bombeara.[1][2]",
+    "more": "James Watt había mejorado en 1769 la máquina de vapor con un condensador separado,[1] pero solo se movía arriba y abajo. En 1781 patentó el engranaje «sol y planeta», un engranaje epicicloidal que convierte el movimiento alternativo de la viga en rotación en el eje del volante,[1][2] y con su socio Matthew Boulton, con quien se asoció en 1775, fabricó máquinas para usos industriales más amplios.[1] Un regulador centrífugo para controlar la velocidad llegó en 1788.[1]",
+    "status": "Se conservan máquinas en museos.",
+    "short": "Máquina rotativa Watt"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «James Watt»",
+     "url": "https://www.britannica.com/summary/James-Watt",
+     "checks": "Condensador separado (1769); engranaje sol y planeta en 1781 para convertir el movimiento arriba-abajo en rotación continua; sociedad con Boulton desde 1775; regulador centrífugo en 1788. ⚠ no menciona el volante.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Science Museum Group, «Model of Sun and Planet Gearing»",
+     "url": "https://collection.sciencemuseumgroup.org.uk/objects/co51167",
+     "checks": "Engranaje patentado por Watt en 1781 (solo este de sus alternativas entró en uso); engranaje epicicloidal con rueda solar en el eje del volante y planeta en la biela, que convierte movimiento alternativo en rotativo. ⚠ modelo de 1782–84; el Energy Route (ERIH) da 1782 como año de la patente, contradicción no resuelta.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Watt rotative engine"
+  },
+  {
+   "id": "willow-pattern-1790",
+   "level": "normal",
+   "discipline": "product",
+   "type": "ceramic",
+   "title": "Willow pattern transfer-printed ware",
+   "designers": [
+    "josiah-wedgwood"
+   ],
+   "year": 1790,
+   "date": "c. 1790",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Earthenware with blue underglaze transfer printing",
+   "tech": [],
+   "key": "The blue-and-white ‘Chinese’ landscape printed on English earthenware, which brought an imitation of porcelain decoration to the middle-class table.",
+   "more": "The Willow pattern appeared in the English potteries in the 1790s as a European invention in the Chinese manner, not a Chinese design. Its engraved copper plate printed the blue landscape on paper, which was then transferred onto the earthenware, so every piece carried the same image without a painter. The method made the look of imported porcelain affordable for ordinary households, and the pattern was made by many potteries for generations. Its first engraver and maker are disputed.",
+   "status": "Still made and collected; early pieces survive in museums and private collections.",
+   "es": {
+    "title": "Vajilla estampada con el patrón Willow",
+    "date": "c. 1790",
+    "materials": "Loza con estampado azul por transferencia bajo vidriado",
+    "key": "El paisaje «chino» azul y blanco impreso sobre loza inglesa, que llevó a la mesa de la clase media una imitación de la decoración de la porcelana.",
+    "more": "El patrón Willow apareció en las alfarerías inglesas en la década de 1790 como una invención europea a la manera china, no como un diseño chino. Su plancha de cobre grabada imprimía el paisaje azul sobre papel, que luego se transfería a la loza, de modo que cada pieza llevaba la misma imagen sin necesidad de un pintor. El método abarató el aspecto de la porcelana importada para los hogares comunes, y muchas alfarerías hicieron el patrón durante generaciones. Se discute quién fue su primer grabador y fabricante.",
+    "status": "Se sigue fabricando y coleccionando; hay piezas tempranas en museos y colecciones privadas.",
+    "short": "Patrón Willow"
+   },
+   "refs": [],
+   "short": "Willow pattern"
+  },
+  {
+   "id": "rocket-locomotive-1829",
+   "level": "normal",
+   "discipline": "product",
+   "type": "locomotive",
+   "title": "Stephenson's Rocket",
+   "designers": [
+    "robert-stephenson"
+   ],
+   "maker": "Robert Stephenson and Company",
+   "year": 1829,
+   "date": "1829",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Iron, copper and wood",
+   "tech": [],
+   "key": "The steam locomotive that won the Rainhill Trials of 1829, whose tubular boiler and direct-driven cylinders set the pattern for later locomotives.",
+   "more": "Built in Newcastle by Robert Stephenson and Company for the Rainhill Trials held by the Liverpool and Manchester Railway in October 1829, it won the contest. Its multi-tubular boiler raised steam quickly and its cylinders drove the wheels directly, an arrangement that shaped the locomotives that followed. It then ran on the Liverpool and Manchester line.",
+   "status": "The original, much altered during its working life, is kept at the Science Museum in London.",
+   "es": {
+    "title": "Locomotora Rocket de Stephenson",
+    "date": "1829",
+    "materials": "Hierro, cobre y madera",
+    "key": "La locomotora de vapor que ganó el concurso de Rainhill de 1829, cuya caldera tubular y cuyos cilindros de acción directa marcaron el modelo de las locomotoras posteriores.",
+    "more": "Construida en Newcastle por Robert Stephenson and Company para el concurso de Rainhill que organizó el ferrocarril de Liverpool y Manchester en octubre de 1829, ganó la prueba. Su caldera multitubular producía vapor con rapidez y sus cilindros movían las ruedas directamente, una disposición que marcó a las locomotoras siguientes. Después circuló por la línea de Liverpool y Manchester.",
+    "status": "El original, muy modificado durante su vida de trabajo, se conserva en el Science Museum de Londres.",
+    "short": "Rocket de Stephenson"
+   },
+   "refs": [],
+   "short": "Stephenson’s Rocket"
+  },
+  {
+   "id": "ss-great-britain-1843",
+   "level": "normal",
+   "discipline": "product",
+   "type": "ship",
+   "title": "SS Great Britain",
+   "designers": [
+    "isambard-kingdom-brunel"
+   ],
+   "maker": "Great Western Steamship Company",
+   "year": 1843,
+   "date": "1843",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Iron hull, screw propeller, steam engines",
+   "tech": [],
+   "key": "Brunel’s iron, screw-propelled steamship, launched at Bristol in 1843 as the largest ship of its day.",
+   "more": "Designed by Isambard Kingdom Brunel for the Great Western Steamship Company and launched at Bristol in 1843, it was the first large iron ship driven by a screw propeller. Its iron hull allowed a size that wooden ships could not reach. It carried passengers on the Atlantic and later on the route to Australia.",
+   "status": "Preserved in the dry dock in Bristol where it was built, as a museum ship.",
+   "es": {
+    "title": "SS Great Britain",
+    "date": "1843",
+    "materials": "Casco de hierro, hélice, máquinas de vapor",
+    "key": "El vapor de hierro con hélice de Brunel, botado en Bristol en 1843 como el mayor barco de su tiempo.",
+    "more": "Diseñado por Isambard Kingdom Brunel para la Great Western Steamship Company y botado en Bristol en 1843, fue el primer gran barco de hierro movido por una hélice. Su casco de hierro permitió un tamaño que los barcos de madera no alcanzaban. Transportó pasajeros por el Atlántico y más tarde en la ruta a Australia.",
+    "status": "Se conserva como barco museo en el dique seco de Bristol donde fue construido."
+   },
+   "refs": []
+  }
+ ]
+}

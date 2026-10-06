@@ -1,0 +1,43 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-taylorism",
+   "track": "economic",
+   "start": 1911,
+   "cont": true,
+   "date": "1911 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Taylorism",
+   "key": "Frederick W. Taylor’s ‘scientific management’: a method of analysing work to find its most efficient way.",
+   "happened": "Frederick W. Taylor set out his system in The Principles of Scientific Management (1911). It analysed the most efficient ways of doing tasks, at work and in the home.[1]",
+   "effect": "Efficiency became a value in its own right: the method moved from the factory to the household, where the Frankfurt Kitchen was planned to cut unnecessary steps.[1][2]",
+   "wiki": "Scientific_management",
+   "es": {
+    "name": "Taylorismo",
+    "date": "1911 →",
+    "key": "La «administración científica» de Frederick W. Taylor: un método para analizar el trabajo y hallar su forma más eficiente.",
+    "happened": "Frederick W. Taylor expuso su sistema en The Principles of Scientific Management (1911). Analizaba las formas más eficientes de hacer las tareas, en el trabajo y en el hogar.[1]",
+    "effect": "La eficiencia se volvió un valor en sí mismo: el método pasó de la fábrica al hogar, donde la Cocina de Frankfurt se planificó para ahorrar pasos innecesarios.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "V&A, Frankfurt Kitchen (Margarete Schütte-Lihotzky)",
+     "url": "https://collections.vam.ac.uk/item/O121079/frankfurt-kitchen-kitchen-schutte-lihotzky-margarete/",
+     "checks": "«El diseño de la cocina se basó en los principios de la “Scientific Management” de F. W. Taylor, un sistema que analizaba las formas más eficientes de hacer tareas en el hogar y el lugar de trabajo»; posición de cada elemento pensada para evitar pasos innecesarios; texto de Christine Frederick de 1913. ⚠ No dice nada de 1911 ni del cronómetro.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «The Frankfurt Kitchen»",
+     "url": "https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/",
+     "checks": "la cocina fue «planificada sobre procesos de trabajo taylorizados» y es un documento de la transferencia de procesos de trabajo industriales racionalizados al hogar privado.",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ]
+}

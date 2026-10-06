@@ -1,0 +1,163 @@
+[
+ {
+  "rtype": "work",
+  "id": "falkland-lamp-1964",
+  "title": "Falkland lamp",
+  "title_es": "Lámpara Falkland",
+  "year": 1964,
+  "discipline": "product",
+  "designers": [
+   "bruno-munari"
+  ],
+  "maker": "Danese",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Lámpara de malla elástica y anillos metálicos que se pliega en una caja.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "Pequeñas editoras de objetos experimentan con materiales industriales"
+   }
+  ],
+  "era": "postwar",
+  "type": "lamp",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "falkland-lamp-1964",
+    "mecanismo": "Pequeñas editoras de objetos experimentan con materiales industriales"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "engelbart-demo-1968",
+  "title": "NLS and the computer mouse (\"Mother of All Demos\")",
+  "title_es": "Sistema NLS y el ratón («la madre de todas las demos»)",
+  "year": 1968,
+  "discipline": "product",
+  "designers": [
+   "douglas-engelbart"
+  ],
+  "maker": "Stanford Research Institute",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Demostración pública del ratón, el hipertexto y las ventanas; origen del diseño de interacción.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mainframe-computing",
+    "mecanismo": "Del cálculo por lotes a la interacción en tiempo real con la máquina"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-cold-war",
+    "mecanismo": "Fondos de ARPA para la investigación en computación"
+   },
+   {
+    "tipo": "secundario",
+    "via": "xerox-star-interface-1981",
+    "mecanismo": "Xerox PARC desarrolla la interfaz gráfica a partir de estas ideas"
+   }
+  ],
+  "era": "postwar",
+  "type": "interface",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mainframe-computing",
+    "item": "engelbart-demo-1968",
+    "mecanismo": "Del cálculo por lotes a la interacción en tiempo real con la máquina"
+   },
+   {
+    "ctx": "ctx-cold-war",
+    "item": "engelbart-demo-1968",
+    "mecanismo": "Fondos de ARPA para la investigación en computación"
+   }
+  ],
+  "escribir_conexiones": [
+   {
+    "from": "engelbart-demo-1968",
+    "to": "xerox-star-interface-1981",
+    "mecanismo": "Xerox PARC desarrolla la interfaz gráfica a partir de estas ideas"
+   }
+  ],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "sacco-1968",
+  "title": "Sacco bean bag",
+  "title_es": "Puf Sacco",
+  "year": 1968,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Piero Gatti, Cesare Paolini and Franco Teodoro for Zanotta",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Asiento sin forma fija relleno de bolitas de poliestireno; anti-diseño y cultura juvenil.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-youth-counterculture",
+    "mecanismo": "La vida informal de los jóvenes pide un asiento sin forma ni jerarquía"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Bolitas de poliestireno expandido como relleno"
+   }
+  ],
+  "era": "postwar",
+  "type": "chair",
+  "movements": [
+   "radical-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-youth-counterculture",
+    "item": "sacco-1968",
+    "mecanismo": "La vida informal de los jóvenes pide un asiento sin forma ni jerarquía"
+   },
+   {
+    "ctx": "ctx-plastics",
+    "item": "sacco-1968",
+    "mecanismo": "Bolitas de poliestireno expandido como relleno"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

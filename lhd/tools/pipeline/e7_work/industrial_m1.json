@@ -1,0 +1,226 @@
+[
+ {
+  "rtype": "production",
+  "id": "steam-press-machine-paper",
+  "name": "Steam printing press and machine-made paper",
+  "name_es": "Prensa de vapor y papel continuo",
+  "sub": "processes",
+  "start": 1814,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB",
+   "DE"
+  ],
+  "prioridad": "B",
+  "curso": "La prensa de Koenig (The Times, 1814) y la máquina Fourdrinier abaratan el impreso: base de la prensa ilustrada y del cartel.",
+  "anclas": [
+   "illustrated-london-news-1842"
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-smith-wealth-of-nations-1776",
+  "name": "The Wealth of Nations",
+  "name_es": "La riqueza de las naciones",
+  "author": "Adam Smith",
+  "year": 1776,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "La división del trabajo (la fábrica de alfileres) explica la separación entre quien diseña y quien fabrica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-division-of-labour",
+    "mecanismo": "Smith describe y defiende la división del trabajo que reorganiza los talleres y crea el oficio del modelista"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-division-of-labour",
+    "item": "th-smith-wealth-of-nations-1776",
+    "mecanismo": "Smith describe y defiende la división del trabajo que reorganiza los talleres y crea el oficio del modelista"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-pugin-contrasts-1836",
+  "name": "Contrasts",
+  "name_es": "Contrastes",
+  "author": "Augustus Welby Northmore Pugin",
+  "year": 1836,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primer manifiesto del neogótico: compara la ciudad medieval con la industrial para condenar esta última.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-urbanisation-working-class",
+    "mecanismo": "La ciudad industrial con su miseria → Pugin opone a ella la ciudad medieval como modelo moral"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-urbanisation-working-class",
+    "item": "th-pugin-contrasts-1836",
+    "mecanismo": "La ciudad industrial con su miseria → Pugin opone a ella la ciudad medieval como modelo moral"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "movement",
+  "id": "gothic-revival",
+  "name": "Gothic Revival",
+  "name_es": "Neogótico",
+  "start": 1830,
+  "end": 1900,
+  "disciplines": [
+   "architecture",
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "FR",
+   "DE",
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Unidad obligatoria de todo curso: Pugin, el Parlamento de Londres y el origen moral de la reforma del diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-romanticism-gothic",
+    "mecanismo": "El gusto romántico por lo medieval → el gótico pasa de decorado pintoresco a estilo con principios"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-pugin-true-principles",
+    "mecanismo": "Pugin funda el movimiento en la honestidad de la construcción y del material"
+   }
+  ],
+  "miembros": [
+   "westminster-1840",
+   "strawberry-hill-1750",
+   "pugin",
+   "th-pugin-true-principles",
+   "th-pugin-contrasts-1836",
+   "red-house"
+  ],
+  "era": "industrial",
+  "nota": "Hoy existe solo como contexto (`ctx-gothic-revival`); ese hecho debe renombrarse (ver AJUSTES, fusiones).",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-romanticism-gothic",
+    "item": "gothic-revival",
+    "mecanismo": "El gusto romántico por lo medieval → el gótico pasa de decorado pintoresco a estilo con principios"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-royal-society-of-arts",
+  "name": "Royal Society of Arts",
+  "name_es": "Royal Society of Arts (Sociedad para el Fomento de las Artes, Manufacturas y Comercio)",
+  "kind": "association",
+  "start": 1754,
+  "end": null,
+  "place": "London",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Premios a la invención y al diseño industrial desde 1754; desde ella Henry Cole y el príncipe Alberto organizan la Gran Exposición.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-industrial-revolution",
+    "mecanismo": "La nueva industria necesita mejores modelos → premios públicos a invenciones y diseños aplicados"
+   },
+   {
+    "tipo": "secundario",
+    "via": "ctx-great-exhibition",
+    "mecanismo": "Sus miembros promueven la exposición de 1851"
+   }
+  ],
+  "era": "industrial",
+  "obras": [
+   "crystal-palace"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-industrial-revolution",
+    "item": "inst-royal-society-of-arts",
+    "mecanismo": "La nueva industria necesita mejores modelos → premios públicos a invenciones y diseños aplicados"
+   },
+   {
+    "ctx": "ctx-great-exhibition",
+    "item": "inst-royal-society-of-arts",
+    "mecanismo": "Sus miembros promueven la exposición de 1851"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

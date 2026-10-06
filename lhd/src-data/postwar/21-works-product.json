@@ -1,0 +1,2256 @@
+{
+ "works": [
+  {
+   "id": "eames-lcw",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Eames LCW chair",
+   "designers": [
+    "eames"
+   ],
+   "maker": "Herman Miller",
+   "client": null,
+   "year": 1945,
+   "date": "1945",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Moulded plywood, rubber shock mounts",
+   "tech": [
+    "moulded-plywood"
+   ],
+   "key": "Charles and Ray Eames’s lounge chair of moulded plywood, with separate seat and back panels, designed in 1945–46 and shown at the Museum of Modern Art in 1946.[1][2][3]",
+   "more": "The Eameses patented a plywood-moulding method they called the ‘Eames process’, which formed compound curves as the sheets were pressed, and also used it for a leg splint made for the Navy.[2] The LCW (Lounge Chair Wood) applied it to a two-part construction, a seat and a back, rather than a single shell.[2] The Museum of Fine Arts, Houston, lists it as birch-faced plywood and rubber, made 1946–49 by the Evans Products Company with Herman Miller as sole distributor.[1] It made its public debut in the Eames exhibition at MoMA in March 1946, where its rubber shock mounts were tested.[3]",
+   "status": "Still in production by Herman Miller and Vitra.",
+   "es": {
+    "title": "Silla LCW de los Eames",
+    "date": "1945",
+    "materials": "Terciado moldeado, soportes de goma amortiguadores",
+    "key": "El sillón bajo de terciado moldeado de Charles y Ray Eames, con paneles de asiento y respaldo separados, diseñado en 1945–46 y mostrado en el Museo de Arte Moderno de Nueva York en 1946.[1][2][3]",
+    "more": "Los Eames patentaron un método de moldeado de terciado que llamaron «proceso Eames», que daba curvas compuestas mientras se prensaban las láminas, y lo usaron también en una férula para la Marina.[2] La LCW (Lounge Chair Wood) lo aplicó a una construcción en dos partes, asiento y respaldo, y no a una cáscara única.[2] El Museo de Bellas Artes de Houston la registra en terciado enchapado en abedul y goma, fabricada en 1946–49 por Evans Products Company con Herman Miller como distribuidor exclusivo.[1] Se estrenó en la exposición de los Eames en el MoMA en marzo de 1946, donde se probaron sus soportes de goma amortiguadores.[3]",
+    "status": "Sigue en producción por Herman Miller y Vitra."
+   },
+   "refs": [
+    {
+     "label": "Museum of Fine Arts, Houston, «Lounge Chair, Model LCW», 95.200",
+     "url": "https://emuseum.mfah.org/objects/29255/lounge-chair-model-lcw",
+     "checks": "Diseño 1945–46; fabricada 1946–49; abedul y goma; hecha por Evans Products, distribuida solo por Herman Miller.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Eames Foundation, «LCW and molded plywood»",
+     "url": "https://eamesfoundation.org/?p=2993",
+     "checks": "Proceso Eames y curvas compuestas; férula para la Marina; LCW de dos piezas; 1945 y público en 1946; hoy solo Herman Miller y Vitra la fabrican. ⚠ página de la fundación (parte interesada).",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Eames Office, «MoMA: New Furniture Designed by Charles Eames»",
+     "url": "https://eamesoffice.com/?p=15268336",
+     "checks": "Exposición de marzo de 1946 en el MoMA; debut público de la LCW; pruebas de los soportes de goma. ⚠ página de la oficina Eames (parte interesada).",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "eames-lounge",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Eames Lounge Chair and Ottoman",
+   "designers": [
+    "eames"
+   ],
+   "maker": "Herman Miller",
+   "client": null,
+   "year": 1956,
+   "date": "1956",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Moulded plywood shells with wood veneer, leather cushions, cast aluminium base",
+   "tech": [
+    "moulded-plywood"
+   ],
+   "key": "The Eameses’ padded leather armchair and ottoman, built from curved plywood shells and described by Charles Eames as having the look of a well-used first baseman’s mitt.[1][2]",
+   "more": "It was designed in 1956 and made by Herman Miller from 1956 to 1962 in the version held by the MFA Boston, in moulded plywood with walnut or rosewood veneers, cast aluminium and leather-covered foam and down.[1] Its three-shell construction carries leather cushions on an aluminium swivel base.[2] It debuted nationally on the NBC programme Home in 1956.[2] Herman Miller presents it as a high-end design classic, and it is in the collections of MoMA and the Art Institute of Chicago.[2]",
+   "status": "Still in production by Herman Miller and Vitra.",
+   "es": {
+    "title": "Sillón Lounge y otomana de los Eames",
+    "date": "1956",
+    "materials": "Carcasas de terciado moldeado con chapa de madera, cojines de cuero, base de aluminio fundido",
+    "key": "El sillón tapizado en cuero y su otomana de los Eames, hechos con carcasas curvas de terciado y descritos por Charles Eames con el aspecto de un guante de primera base muy usado.[1][2]",
+    "more": "Se diseñó en 1956 y Herman Miller lo fabricó de 1956 a 1962 en la versión del MFA de Boston, de terciado moldeado con chapas de nogal o palisandro, aluminio fundido y espuma de látex y plumón forrados en cuero.[1] Su construcción de tres carcasas lleva cojines de cuero sobre una base giratoria de aluminio.[2] Debutó a nivel nacional en el programa Home de la NBC en 1956.[2] Herman Miller lo presenta como un clásico de diseño de gama alta, y está en las colecciones del MoMA y del Art Institute de Chicago.[2]",
+    "status": "Sigue en producción por Herman Miller y Vitra.",
+    "short": "Sillón Lounge Eames"
+   },
+   "refs": [
+    {
+     "label": "Museum of Fine Arts, Boston, «Lounge chair and ottoman, no. 670 and 671»",
+     "url": "https://mfaboston6.emuseum.com/objects/703089/lounge-chair-and-ottoman-no-670-and-671",
+     "checks": "Charles y Ray Eames; Herman Miller; «designed 1956, made 1956–62»; terciado moldeado con chapas de nogal o palisandro, aluminio fundido, espuma de látex y plumón forrados en cuero.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Herman Miller, «Eames Lounge Chair and Ottoman: design story»",
+     "url": "https://hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman/design-story",
+     "checks": "Debut nacional en el programa Home de la NBC en 1956; cita de Eames («guante de primera base»); tres carcasas con respaldo enchapado, cojines de cuero, base giratoria de aluminio; en el MoMA y el AIC. ⚠ fuente del fabricante: el carácter «de gama alta» es su propia presentación.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Eames Lounge Chair",
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "eames-fiberglass",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Eames fibreglass chairs",
+   "designers": [
+    "eames"
+   ],
+   "maker": "Herman Miller",
+   "client": null,
+   "year": 1950,
+   "date": "1950",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Fibreglass-reinforced polyester shell, metal rod base",
+   "tech": [
+    "fibreglass-polyester"
+   ],
+   "key": "The Eameses’ chairs with a seat and back moulded as a single shell of fibreglass-reinforced polyester, on interchangeable bases.",
+   "more": "The shell began as a design for the Museum of Modern Art’s low-cost furniture competition of 1948, first imagined in metal. The Eameses then moved to reinforced plastic, which could be moulded in one piece in a press, and Herman Miller put the chairs on sale in 1950. The same shell was offered with different bases, such as wooden legs, a metal rod frame or a rocker.",
+   "status": "Versions still in production by Herman Miller and Vitra.",
+   "es": {
+    "title": "Sillas de fibra de vidrio de los Eames",
+    "date": "1950",
+    "materials": "Carcasa de poliéster reforzado con fibra de vidrio, base de varillas de metal",
+    "key": "Las sillas de los Eames con asiento y respaldo moldeados en una sola carcasa de poliéster reforzado con fibra de vidrio, sobre bases intercambiables.",
+    "more": "La carcasa nació en el concurso de mobiliario económico del Museo de Arte Moderno de Nueva York de 1948, primero pensada en metal. Los Eames pasaron luego al plástico reforzado, que podía moldearse de una pieza en una prensa, y Herman Miller puso las sillas a la venta en 1950. La misma carcasa se ofreció con distintas bases, como patas de madera, una estructura de varillas de metal o un balancín.",
+    "status": "Versiones aún en producción por Herman Miller y Vitra.",
+    "short": "Sillas fibra de vidrio"
+   },
+   "refs": [],
+   "short": "Eames fibreglass",
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "eames-aluminium",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Eames Aluminum Group",
+   "designers": [
+    "eames"
+   ],
+   "maker": "Herman Miller",
+   "client": null,
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cast aluminium frame, tensioned fabric or leather upholstery",
+   "tech": [
+    "aluminium-alloys"
+   ],
+   "key": "A family of slim chairs by the Eameses with a cast aluminium frame and a single upholstered seat stretched between two side rails.",
+   "more": "Instead of a shell, the seat and back are one piece of tensioned upholstery held between two cast aluminium side frames, which gives a thin profile. The group was made as office and meeting-room seating and came in several heights, with and without arms, and as a lounge version. It is also known as the Management Chair.",
+   "status": "Still in production by Herman Miller and Vitra.",
+   "es": {
+    "title": "Aluminum Group de los Eames",
+    "date": "1958",
+    "materials": "Estructura de aluminio fundido, tapiz tensado de tela o cuero",
+    "key": "Una familia de sillas delgadas de los Eames con estructura de aluminio fundido y un solo tapiz tensado entre dos bastidores laterales.",
+    "more": "En lugar de una carcasa, el asiento y el respaldo son una sola pieza de tapiz tensado entre dos bastidores laterales de aluminio fundido, lo que da un perfil muy delgado. El grupo se hizo como asientos de oficina y de sala de reuniones y se ofreció en varias alturas, con y sin brazos, y en versión lounge. También se conoce como Management Chair.",
+    "status": "Sigue en producción por Herman Miller y Vitra.",
+    "short": "Aluminum Group"
+   },
+   "refs": [],
+   "short": "Aluminum Group"
+  },
+  {
+   "id": "tulip-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Tulip chair",
+   "designers": [
+    "eero-saarinen"
+   ],
+   "maker": "Knoll",
+   "client": null,
+   "year": 1956,
+   "date": "1956",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Fibreglass-reinforced plastic shell, cast aluminium base with plastic coating",
+   "tech": [
+    "fibreglass-polyester",
+    "aluminium-alloys"
+   ],
+   "key": "Eero Saarinen’s chair with a moulded plastic seat on a single cast aluminium stem, designed to clear up what he called the slum of legs.[1][3]",
+   "more": "Saarinen designed the chair as part of his Pedestal Collection for Knoll.[3] He said the undercarriage of chairs and tables made an ugly, confusing, unrestful world and that he wanted to clear up the slum of legs.[1] MoMA dates it 1955–56, and LACMA says it was designed around 1955 and made from 1956.[1][2] The shell is fibreglass-reinforced plastic and the base is cast aluminium with a plastic coating.[1][2] Knoll still produces it.[3]",
+   "status": "Still in production by Knoll.",
+   "es": {
+    "title": "Silla Tulip",
+    "date": "1956",
+    "materials": "Carcasa de plástico reforzado con fibra de vidrio, base de aluminio fundido con recubrimiento plástico",
+    "key": "La silla de Eero Saarinen con asiento de plástico moldeado sobre un solo pie de aluminio fundido, diseñada para despejar lo que él llamaba la maraña de patas.[1][3]",
+    "more": "Saarinen diseñó la silla como parte de su Pedestal Collection para Knoll.[3] Dijo que la estructura inferior de sillas y mesas formaba un mundo feo, confuso e inquieto, y que quería despejar esa maraña de patas.[1] El MoMA la fecha en 1955-56 y el LACMA dice que se diseñó hacia 1955 y se fabrica desde 1956.[1][2] La carcasa es de plástico reforzado con fibra de vidrio y la base es de aluminio fundido con recubrimiento plástico.[1][2] Knoll sigue produciéndola.[3]",
+    "status": "Sigue en producción por Knoll."
+   },
+   "refs": [
+    {
+     "label": "The Museum of Modern Art, «Eero Saarinen, Tulip Armchair (model 150), 1955-56»",
+     "url": "https://www.moma.org/collection/works/2565",
+     "checks": "Fecha 1955-56; Knoll Associates; asiento de poliéster reforzado con fibra de vidrio sobre pedestal de aluminio fundido con acabado plástico; cita de Saarinen sobre la «slum of legs»; apoyo central único.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Los Angeles County Museum of Art, «Tulip armchair, model 150»",
+     "url": "https://collections.lacma.org/object/129474",
+     "checks": "Diseñada hacia 1955, fabricada de 1956 hasta hoy; Knoll International; base de aluminio fundido con recubrimiento plástico; carcasa de plástico reforzado con fibra de vidrio; pedestal único.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Knoll, «Tulip Arm Chair» (Saarinen)",
+     "url": "https://www.knoll.com/product/tulip-arm-chair/",
+     "checks": "Parte de la Pedestal Collection de Saarinen; base de una sola pata; sigue en producción por Knoll. ⚠ fuente del fabricante; resumen automático.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "womb-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Womb chair",
+   "designers": [
+    "eero-saarinen"
+   ],
+   "maker": "Knoll",
+   "client": null,
+   "year": 1948,
+   "date": "1948",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Moulded fibreglass shell, foam padding and fabric upholstery, steel rod legs",
+   "tech": [
+    "fibreglass-polyester"
+   ],
+   "key": "Eero Saarinen’s large padded armchair on thin steel legs, shaped so that a person can curl up in it sideways.",
+   "more": "Florence Knoll asked Saarinen for a chair in which one could sit in different positions, and he designed a deep upholstered shell on slender metal legs. The shell was moulded in fibreglass-reinforced plastic with foam padding and loose cushions. It was put on sale by Knoll in 1948 and was later made with an ottoman.",
+   "status": "Still in production by Knoll.",
+   "es": {
+    "title": "Sillón Womb",
+    "date": "1948",
+    "materials": "Carcasa de fibra de vidrio moldeada, relleno de espuma y tapiz de tela, patas de varilla de acero",
+    "key": "El gran sillón acolchado de Eero Saarinen sobre delgadas patas de acero, con una forma que permite acurrucarse de lado.",
+    "more": "Florence Knoll pidió a Saarinen un sillón en el que se pudiera sentar de distintas maneras, y él diseñó una carcasa profunda tapizada sobre patas metálicas delgadas. La carcasa se moldeó en plástico reforzado con fibra de vidrio, con relleno de espuma y cojines sueltos. Knoll lo puso a la venta en 1948 y más tarde se hizo con una otomana.",
+    "status": "Sigue en producción por Knoll."
+   },
+   "refs": [],
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "ant-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Ant chair",
+   "designers": [
+    "arne-jacobsen"
+   ],
+   "maker": "Fritz Hansen",
+   "client": null,
+   "year": 1952,
+   "date": "1952",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Moulded laminated veneer, chromed steel tube legs",
+   "tech": [
+    "moulded-plywood"
+   ],
+   "key": "Arne Jacobsen’s light stacking chair, with a waisted plywood seat and back on thin steel legs.",
+   "more": "Jacobsen designed it in 1952 for the canteen of the Danish pharmaceutical company Novo, and Fritz Hansen produced it. Its seat and back are a single moulded plywood shell that narrows in the middle, and the first version stood on three steel tube legs. It was followed in 1955 by the Series 7.",
+   "status": "Still in production by Fritz Hansen.",
+   "es": {
+    "title": "Silla Ant",
+    "date": "1952",
+    "materials": "Chapas de madera laminadas y moldeadas, patas de tubo de acero cromado",
+    "key": "La silla apilable y liviana de Arne Jacobsen, con asiento y respaldo de terciado estrechados en la cintura sobre patas delgadas de acero.",
+    "more": "Jacobsen la diseñó en 1952 para el casino de la empresa farmacéutica danesa Novo, y Fritz Hansen la produjo. Su asiento y respaldo son una sola carcasa de terciado moldeado que se estrecha en el centro, y la primera versión se apoyaba en tres patas de tubo de acero. Le siguió en 1955 la Serie 7.",
+    "status": "Sigue en producción por Fritz Hansen."
+   },
+   "refs": []
+  },
+  {
+   "id": "series-7-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Series 7 chair",
+   "designers": [
+    "arne-jacobsen"
+   ],
+   "maker": "Fritz Hansen",
+   "client": null,
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Moulded laminated veneer, steel tube legs",
+   "tech": [
+    "moulded-plywood"
+   ],
+   "key": "Arne Jacobsen’s stackable four-legged chair of moulded plywood, developed from the Ant chair.",
+   "more": "The Series 7 took the Ant’s single moulded shell and gave it a wider seat and four steel tube legs. It was made by Fritz Hansen in many finishes and became one of the most widely sold chairs of Danish design. It was used in homes, offices, schools and canteens.",
+   "status": "Still in production by Fritz Hansen.",
+   "es": {
+    "title": "Silla Serie 7",
+    "date": "1955",
+    "materials": "Chapas de madera laminadas y moldeadas, patas de tubo de acero",
+    "key": "La silla apilable de cuatro patas de terciado moldeado de Arne Jacobsen, desarrollada a partir de la silla Ant.",
+    "more": "La Serie 7 tomó la carcasa única moldeada de la Ant y le dio un asiento más ancho y cuatro patas de tubo de acero. Fritz Hansen la fabricó en muchos acabados y llegó a ser una de las sillas más vendidas del diseño danés. Se usó en casas, oficinas, escuelas y casinos.",
+    "status": "Sigue en producción por Fritz Hansen."
+   },
+   "refs": []
+  },
+  {
+   "id": "egg-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Egg chair",
+   "designers": [
+    "arne-jacobsen"
+   ],
+   "maker": "Fritz Hansen",
+   "client": null,
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Foam over a rigid inner shell, fabric or leather upholstery, aluminium swivel base",
+   "tech": [
+    "polyurethane-foam"
+   ],
+   "key": "Arne Jacobsen’s upholstered armchair of 1958 with a curved shell and a high back that gives the sitter privacy, designed for the Royal Hotel in Copenhagen.[1][2]",
+   "more": "Jacobsen designed it for the lobby and reception area of the Copenhagen hotel, and the high back was conceived to give the sitter a degree of privacy in those public spaces.[1] The Met describes ox-hide stretched over a foam-padded moulded plastic frame, with aluminium,[2] and the V&A lists a moulded polystyrene shell, black leather and a cast aluminium base with four prongs.[1] Fritz Hansen made it and it is still in production.[1]",
+   "status": "Still in production by Fritz Hansen.",
+   "es": {
+    "title": "Sillón Egg",
+    "date": "1958",
+    "materials": "Espuma sobre una carcasa interior rígida, tapiz de tela o cuero, base giratoria de aluminio",
+    "key": "El sillón tapizado de Arne Jacobsen de 1958, con una carcasa curva y un respaldo alto que da privacidad a quien se sienta, diseñado para el Hotel Royal de Copenhague.[1][2]",
+    "more": "Jacobsen lo diseñó para el vestíbulo y la recepción del hotel de Copenhague, y el respaldo alto se concibió para dar cierta privacidad en esos espacios públicos.[1] El Met describe cuero de buey estirado sobre una estructura de plástico moldeado acolchada con espuma, con aluminio,[2] y el V&A consigna una carcasa de poliestireno moldeado, cuero negro y una base de aluminio fundido con cuatro puntas.[1] Lo fabricó Fritz Hansen y sigue en producción.[1]",
+    "status": "Sigue en producción por Fritz Hansen."
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Egg armchair» (O137614)",
+     "url": "https://collections.vam.ac.uk/item/O137614/egg-armchair-armchair-jacobsen-arne-emil",
+     "checks": "Diseñado en 1958 para el Royal Hotel de Copenhague (1956-1961); pensado para el vestíbulo y la recepción, con respaldo alto para dar privacidad; poliestireno moldeado, cuero negro, base de aluminio fundido de cuatro puntas; Fritz Hansen; sigue en producción. ⚠ la ficha dice «Royal Hotel», sin «SAS».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «“Egg” Armchair»",
+     "url": "https://www.metmuseum.org/art/collection/search/489205",
+     "checks": "1958; originalmente para el SAS Royal Hotel de Copenhague; cuero de buey sobre estructura de plástico moldeado acolchada con espuma; aluminio.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "wishbone-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Wishbone chair (CH24)",
+   "designers": [
+    "hans-wegner"
+   ],
+   "maker": "Carl Hansen & Søn",
+   "client": null,
+   "year": 1949,
+   "date": "1949",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Solid wood frame, woven paper cord seat",
+   "tech": [],
+   "key": "Hans Wegner’s light dining chair with a Y-shaped back and a woven paper cord seat, also known as the CH24.",
+   "more": "Wegner designed it in 1949 and Carl Hansen & Søn began producing it in 1950. Its curved top rail and Y-shaped back splat were influenced by portraits of Danish merchants seated in Chinese chairs. It is made of solid wood with a hand-woven paper cord seat, so it is still partly a craft product.",
+   "status": "Still in production by Carl Hansen & Søn.",
+   "es": {
+    "title": "Silla Wishbone (CH24)",
+    "date": "1949",
+    "materials": "Estructura de madera maciza, asiento de cordel de papel tejido",
+    "key": "La silla de comedor liviana de Hans Wegner con respaldo en forma de Y y asiento de cordel de papel tejido, conocida también como CH24.",
+    "more": "Wegner la diseñó en 1949 y Carl Hansen & Søn empezó a producirla en 1950. Su travesaño curvo y su respaldo en Y se inspiraron en retratos de mercaderes daneses sentados en sillas chinas. Es de madera maciza con asiento de cordel de papel tejido a mano, por lo que sigue siendo en parte un producto artesanal.",
+    "status": "Sigue en producción por Carl Hansen & Søn."
+   },
+   "refs": []
+  },
+  {
+   "id": "panton-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Panton chair",
+   "designers": [
+    "verner-panton"
+   ],
+   "maker": "Vitra",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK",
+    "CH"
+   ],
+   "materials": "Moulded plastic, in one piece",
+   "tech": [
+    "injection-moulding",
+    "thermoplastics"
+   ],
+   "key": "A chair commonly considered the first moulded in a single piece of plastic, a continuous S-shaped curve with no legs or joints, designed by the Dane Verner Panton.[1][2]",
+   "more": "According to Domus, Panton began developing the chair in 1960 and Vitra put it into production in 1967.[2] Vitra says he conceived it in the late 1950s, that its collaboration with him began in 1963, and that ten hand-laminated prototypes preceded a one-piece, all-plastic cantilever chair.[1] A limited run of 150 pieces in cold-pressed polyester began in 1967 and met with an instant sensation for its sculptural form and vibrant colours.[1] The material then changed several times, from polyurethane foam in 1968 to thermoplastic in the 1970s, polyurethane again in 1990 and polypropylene in 1999.[1]",
+   "status": "Still in production by Vitra.",
+   "es": {
+    "title": "Silla Panton",
+    "date": "1967",
+    "materials": "Plástico moldeado, de una sola pieza",
+    "key": "Una silla considerada habitualmente la primera moldeada en una sola pieza de plástico, una curva continua en forma de S, sin patas ni uniones, diseñada por el danés Verner Panton.[1][2]",
+    "more": "Según Domus, Panton empezó a desarrollar la silla en 1960 y Vitra la puso en producción en 1967.[2] Vitra dice que la concibió a fines de los años cincuenta, que su colaboración con él partió en 1963 y que diez prototipos laminados a mano precedieron a una silla en voladizo de una sola pieza, toda de plástico.[1] En 1967 comenzó una tirada limitada de 150 piezas en poliéster prensado en frío, que causó sensación inmediata por su forma escultórica y sus colores vivos.[1] Después el material cambió varias veces: espuma de poliuretano en 1968, termoplástico en los años setenta, poliuretano de nuevo en 1990 y polipropileno en 1999.[1]",
+    "status": "Sigue en producción por Vitra."
+   },
+   "refs": [
+    {
+     "label": "Vitra, «Panton Chair»",
+     "url": "https://vitra.com/en-ie/page/panton-chair",
+     "checks": "Concebida a fines de los 50; colaboración desde 1963; diez prototipos laminados a mano; silla en voladizo de una pieza; 1967 tirada limitada de 150; cambios de material (1968, años 70, 1990, 1999); hoy sigue en el catálogo. ⚠ fabricante actual, fuente interesada.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Domus, «Verner Panton»",
+     "url": "https://domusweb.it/en/biographies/verner-panton.html",
+     "checks": "Desarrollada desde 1960 y producida por Vitra en 1967; «comúnmente considerada» la primera silla de plástico moldeado de una pieza.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "flowerpot-lamp",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Flowerpot lamp",
+   "designers": [
+    "verner-panton"
+   ],
+   "maker": "Louis Poulsen",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Lacquered metal",
+   "tech": [],
+   "key": "Verner Panton’s pendant lamp of two round shades, a small one inverted inside a larger one, in bright colours.",
+   "more": "Panton designed it in 1968 and it was first made by Louis Poulsen in Denmark. The hemispherical shades are set one inside the other, so the light is seen only as a glow around the rim. Its name and its colours, from white to strong reds, oranges and greens, fit the playful taste of the late 1960s home.",
+   "status": "Still in production, today by &Tradition.",
+   "es": {
+    "title": "Lámpara Flowerpot",
+    "date": "1968",
+    "materials": "Metal lacado",
+    "key": "La lámpara colgante de Verner Panton, hecha de dos pantallas redondas, una pequeña invertida dentro de otra mayor, en colores vivos.",
+    "more": "Panton la diseñó en 1968 y la fabricó primero Louis Poulsen en Dinamarca. Las pantallas semiesféricas van una dentro de la otra, de modo que la luz solo se ve como un resplandor en el borde. Su nombre y sus colores, del blanco a rojos, naranjos y verdes intensos, iban con el gusto lúdico del hogar de fines de los años sesenta.",
+    "status": "Sigue en producción, hoy por &Tradition."
+   },
+   "refs": []
+  },
+  {
+   "id": "ulm-stool",
+   "level": "normal",
+   "discipline": "product",
+   "type": "stool",
+   "title": "Ulm stool",
+   "designers": [
+    "max-bill"
+   ],
+   "maker": "Hochschule für Gestaltung Ulm",
+   "year": 1954,
+   "date": "1954",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Wooden boards and a round wooden rod",
+   "tech": [
+    "modular-systems"
+   ],
+   "key": "A simple stool made of three boards and a rod, designed by Max Bill for the Ulm school of design and used there as seat, table and shelf.",
+   "more": "Bill designed it in 1954 for the Hochschule für Gestaltung in Ulm, where he was a teacher and the architect of its building. Three boards are joined by a round rod that also holds the structure together, so the stool can be a seat, a small table, a shelf or a carrying box. It was made first for the school’s own use, with little decoration, and its plain, flexible logic came to stand for the Ulm approach.",
+   "status": "Still in production.",
+   "es": {
+    "title": "Taburete Ulm",
+    "date": "1954",
+    "materials": "Tablas de madera y una barra redonda de madera",
+    "key": "Un taburete sencillo hecho de tres tablas y una barra, diseñado por Max Bill para la escuela de diseño de Ulm y usado allí como asiento, mesa y repisa.",
+    "more": "Bill lo diseñó en 1954 para la Hochschule für Gestaltung de Ulm, donde fue profesor y arquitecto de su edificio. Tres tablas se unen con una barra redonda que además sostiene la estructura, de modo que el taburete puede ser asiento, mesita, repisa o caja para transportar cosas. Se hizo primero para el uso de la propia escuela, con muy poca decoración, y su lógica simple y flexible llegó a simbolizar el enfoque de Ulm.",
+    "status": "Sigue en producción."
+   },
+   "refs": []
+  },
+  {
+   "id": "braun-sk4",
+   "level": "essential",
+   "discipline": "product",
+   "type": "radiogram",
+   "title": "Braun SK 4 radio-phonograph",
+   "designers": [
+    "dieter-rams",
+    "hans-gugelot"
+   ],
+   "maker": "Braun",
+   "year": 1956,
+   "date": "1956",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Painted sheet metal, wood side panels, clear acrylic lid",
+   "tech": [
+    "modular-systems"
+   ],
+   "key": "The compact radio and record player designed by Hans Gugelot and Dieter Rams for Braun, with a white metal case and a clear lid.[1][2]",
+   "more": "Gugelot and Rams designed it for Braun in 1956.[1][2] Gugelot, who taught at the Ulm school of design, developed radio designs for Braun with students of the school from 1955, including the SK 4.[3] Radio and record player share one small body of painted metal, wood and plastic,[1] with a transparent acrylic cover.[2] Its white metal casing and transparent lid earned it the nickname ‘Snow White’s Coffin’, and MoMA says its elemental look redefined the typology of domestic audio equipment.[1]",
+   "status": "Out of production; examples are in museum collections.",
+   "es": {
+    "title": "Radiogramófono Braun SK 4",
+    "date": "1956",
+    "materials": "Chapa de acero pintada, laterales de madera, tapa de acrílico transparente",
+    "key": "El radiogramófono compacto que Hans Gugelot y Dieter Rams diseñaron para Braun, con caja metálica blanca y tapa transparente.[1][2]",
+    "more": "Gugelot y Rams lo diseñaron para Braun en 1956.[1][2] Gugelot, que enseñaba en la escuela de diseño de Ulm, desarrolló diseños de radios para Braun con estudiantes de la escuela desde 1955, entre ellos el SK 4.[3] Radio y tocadiscos comparten un solo cuerpo pequeño de metal pintado, madera y plástico,[1] con una cubierta de acrílico transparente.[2] Su caja de metal blanco y su tapa transparente le valieron el apodo de «el ataúd de Blancanieves», y el MoMA afirma que su aspecto elemental redefinió la tipología de los equipos de audio domésticos.[1]",
+    "status": "Fuera de producción; hay ejemplares en colecciones de museos.",
+    "short": "Braun SK 4"
+   },
+   "refs": [
+    {
+     "label": "The Museum of Modern Art, «Radio-Phonograph (model SK 4/10), 1956»",
+     "url": "https://www.moma.org/collection/works/2649",
+     "checks": "Dieter Rams y Hans Gugelot; 1956; Braun AG, Frankfurt; metal pintado, madera y plástico; apodo por la caja blanca y la tapa transparente; «redefinió la tipología» del audio doméstico.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Deutsches Museum / Google Arts & Culture, «SK 4 radio/record player combination»",
+     "url": "https://artsandculture.google.com/asset/sk-4-radio-record-player-combination-braun-gmbh-frankfurt-am-main/1wF2e09B5G4BEQ?hl=en",
+     "checks": "Gugelot (escuela de diseño de Ulm) y Rams; diseño de 1956; Braun GmbH; cubierta de vidrio acrílico transparente; apodo «ataúd de Blancanieves». ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "HfG-Archiv Ulm, «Hans Gugelot: Die Architektur des Design»",
+     "url": "https://hfg-archiv.museumulm.de/en/exhibition/hans-gugelot-100-en/",
+     "checks": "Gugelot enseñó en la HfG Ulm desde 1954; en 1955 desarrolló con estudiantes radios para Braun, incluido el SK 4. ⚠ da 1955 para ese desarrollo; el museo y MoMA dan 1956 para el diseño.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Braun SK 4"
+  },
+  {
+   "id": "braun-606",
+   "level": "normal",
+   "discipline": "product",
+   "type": "shelving",
+   "title": "606 Universal Shelving System",
+   "designers": [
+    "dieter-rams"
+   ],
+   "maker": "Vitsœ",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "GB"
+   ],
+   "materials": "Aluminium rails, shelves and cabinets in metal or wood",
+   "tech": [
+    "modular-systems",
+    "aluminium-alloys"
+   ],
+   "key": "Dieter Rams’s modular shelving of metal rails and shelves that can be extended, moved and rearranged as a home changes.",
+   "more": "Rams designed it in 1960 for the firm of Niels Vitsœ, which made it from the start, and it is often linked to Braun through Rams’s work there. Shelves, cabinets and a table hang from aluminium rails fixed to the wall, so owners can add or move parts when they move or their needs change. It was made to fit small, changing homes rather than as a fixed piece of furniture.",
+   "status": "Still in production by Vitsœ.",
+   "es": {
+    "title": "Sistema de estantes universal 606",
+    "date": "1960",
+    "materials": "Rieles de aluminio, estantes y gabinetes de metal o madera",
+    "key": "El sistema modular de estantes de Dieter Rams, de rieles y repisas metálicas que se pueden ampliar, mover y reordenar a medida que cambia el hogar.",
+    "more": "Rams lo diseñó en 1960 para la empresa de Niels Vitsœ, que lo fabricó desde el comienzo, y se lo asocia a menudo con Braun por el trabajo de Rams allí. Estantes, gabinetes y una mesa cuelgan de rieles de aluminio fijados a la pared, de modo que sus dueños pueden agregar o mover piezas cuando se mudan o cambian sus necesidades. Se pensó para viviendas pequeñas y cambiantes, no como un mueble fijo.",
+    "status": "Sigue en producción por Vitsœ.",
+    "short": "Estantes 606"
+   },
+   "refs": [],
+   "short": "606 Shelving System"
+  },
+  {
+   "id": "lettera-22",
+   "level": "essential",
+   "discipline": "product",
+   "type": "typewriter",
+   "title": "Lettera 22 typewriter",
+   "designers": [
+    "marcello-nizzoli"
+   ],
+   "maker": "Olivetti",
+   "year": 1950,
+   "date": "1950",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Aluminium alloy and steel parts, in a carrying case",
+   "tech": [
+    "aluminium-alloys"
+   ],
+   "key": "Marcello Nizzoli’s portable typewriter for Olivetti, launched in 1950 and weighing 3.7 kg, an iconic example of mid-century Italian industrial design.[1][2]",
+   "more": "Olivetti launched it in 1950 as a portable machine for writers, journalists, students and professionals; the company’s archive credits the design to Giuseppe Beccio and Marcello Nizzoli.[1] It won the Compasso d’Oro in 1954, an award whose citation also honoured Olivetti’s whole design effort.[2][3] Journalists such as Montanelli and Biagi used it throughout their careers.[1] The Centre Pompidou acquired a machine in 1994, and the archive says the model entered MoMA’s collection.[1][3] The Pompidou describes its housing as lacquered metal.[3]",
+   "status": "Out of production; many machines survive and the model is held in museum collections.",
+   "es": {
+    "title": "Máquina de escribir Lettera 22",
+    "date": "1950",
+    "materials": "Aleación de aluminio y piezas de acero, con estuche de transporte",
+    "key": "La máquina de escribir portátil de Marcello Nizzoli para Olivetti, lanzada en 1950 y de 3,7 kg, un ejemplo icónico del diseño industrial italiano de mediados de siglo.[1][2]",
+    "more": "Olivetti la lanzó en 1950 como máquina portátil para escritores, periodistas, estudiantes y profesionales; el archivo de la empresa atribuye el diseño a Giuseppe Beccio y Marcello Nizzoli.[1] Ganó el Compasso d’Oro en 1954, premio cuya motivación honró también el conjunto del trabajo de diseño de Olivetti.[2][3] Periodistas como Montanelli y Biagi la usaron a lo largo de sus carreras.[1] El Centre Pompidou adquirió un ejemplar en 1994 y el archivo afirma que el modelo entró en la colección del MoMA.[1][3] El Pompidou describe su carcasa como de metal lacado.[3]",
+    "status": "Fuera de producción; sobreviven muchas máquinas y el modelo está en colecciones de museos.",
+    "short": "Lettera 22"
+   },
+   "refs": [
+    {
+     "label": "Archivio Storico Olivetti, «Lettera 22»",
+     "url": "https://www.archiviostoricolivetti.it/en/lettera-22/",
+     "checks": "Lanzamiento en 1950; diseño de Giuseppe Beccio y Marcello Nizzoli; 3,7 kg; público de escritores, periodistas, estudiantes y profesionales; Montanelli y Biagi; Compasso d’Oro 1954; ingreso a la colección permanente del MoMA (afirmación del propio archivo, no verificada en MoMA).",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "ADI Design Museum, «Lettera 22 Portable typewriter»",
+     "url": "https://www.adidesignmuseum.org/en/collection/lettera-22-portable-typewriter/",
+     "checks": "Diseñador Marcello Nizzoli, fabricante Olivetti, Compasso d’Oro 1954; la motivación del premio reconoce la coherencia estilística de toda la producción de Olivetti; ejemplo icónico de diseño de mediados de siglo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Centre Pompidou, «Machine à écrire Lettera 22»",
+     "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cdqnBop",
+     "checks": "Nizzoli, 1950, Olivetti (Ivrea); carcasa de metal lacado; Compasso d’Oro 1954; adquirida por el museo en 1994 (inv. AM 1994-1-395).",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Lettera 22"
+  },
+  {
+   "id": "elea-9003",
+   "level": "normal",
+   "discipline": "product",
+   "type": "computer",
+   "title": "Olivetti Elea 9003 computer",
+   "designers": [
+    "ettore-sottsass"
+   ],
+   "maker": "Olivetti",
+   "year": 1959,
+   "date": "1959",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Metal cabinets",
+   "tech": [],
+   "key": "Olivetti’s first large transistor computer, whose cabinets and consoles Ettore Sottsass designed so that a complex machine looked orderly.",
+   "more": "The Elea 9003 was built by Olivetti’s electronics laboratory, led by Mario Tchou, and presented in 1959. Sottsass designed its outer cabinets, which he arranged as separate low units so the machine could be fitted into a room and its parts reached. It received the Compasso d’Oro in 1959, and Olivetti sold its electronics division to General Electric in 1964.",
+   "status": "Out of production; a few machines survive in museums.",
+   "es": {
+    "title": "Computador Olivetti Elea 9003",
+    "date": "1959",
+    "materials": "Gabinetes metálicos",
+    "key": "El primer gran computador transistorizado de Olivetti, cuyos gabinetes y consolas diseñó Ettore Sottsass para que una máquina compleja se viera ordenada.",
+    "more": "El Elea 9003 lo construyó el laboratorio de electrónica de Olivetti, dirigido por Mario Tchou, y se presentó en 1959. Sottsass diseñó sus gabinetes exteriores, que dispuso como unidades bajas separadas para que la máquina pudiera instalarse en una sala y se llegara fácilmente a sus partes. Recibió el Compasso d’Oro en 1959, y Olivetti vendió su división electrónica a General Electric en 1964.",
+    "status": "Fuera de producción; sobreviven unas pocas máquinas en museos.",
+    "short": "Olivetti Elea 9003"
+   },
+   "refs": [],
+   "short": "Olivetti Elea 9003"
+  },
+  {
+   "id": "valentine-typewriter",
+   "level": "normal",
+   "discipline": "product",
+   "type": "typewriter",
+   "title": "Valentine typewriter",
+   "designers": [
+    "ettore-sottsass"
+   ],
+   "maker": "Olivetti",
+   "year": 1969,
+   "date": "1969",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Moulded plastic casing, in bright red",
+   "tech": [
+    "thermoplastics",
+    "injection-moulding"
+   ],
+   "key": "A bright red portable typewriter by Ettore Sottsass and Perry King for Olivetti, made to be taken anywhere and not left in an office.",
+   "more": "Sottsass designed it with the English designer Perry King for Olivetti in 1969, in a red moulded plastic body with a matching case. It was meant as a companion that did not belong to the office, and Milton Glaser designed its poster. Its colour and playful look broke with the grey seriousness of the office machine.",
+   "status": "Out of production; it is held in museum collections.",
+   "es": {
+    "title": "Máquina de escribir Valentine",
+    "date": "1969",
+    "materials": "Carcasa de plástico moldeado, en rojo vivo",
+    "key": "Una máquina de escribir portátil de rojo intenso de Ettore Sottsass y Perry King para Olivetti, pensada para llevarla a cualquier parte y no dejarla en la oficina.",
+    "more": "Sottsass la diseñó con el inglés Perry King para Olivetti en 1969, con un cuerpo de plástico moldeado rojo y un estuche a juego. Se pensó como una compañera que no perteneciera a la oficina, y Milton Glaser diseñó su afiche. Su color y su aire lúdico rompieron con la seriedad gris de la máquina de oficina.",
+    "status": "Fuera de producción; está en colecciones de museos.",
+    "short": "Máquina Valentine"
+   },
+   "refs": [],
+   "short": "Valentine typewriter"
+  },
+  {
+   "id": "mirella-sewing-machine",
+   "level": "normal",
+   "discipline": "product",
+   "type": "sewing-machine",
+   "title": "Mirella sewing machine",
+   "designers": [
+    "marcello-nizzoli"
+   ],
+   "maker": "Necchi",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Enamelled metal body",
+   "tech": [],
+   "key": "Marcello Nizzoli’s sewing machine for Necchi, with a single smooth body that covers the mechanism.",
+   "more": "Nizzoli designed it for Necchi, the sewing-machine maker of Pavia, and it appeared in 1957. A continuous enamelled housing hides most of the working parts, so the machine looks like one clean form instead of a group of mechanical pieces. It received the Compasso d’Oro in 1957.",
+   "status": "Out of production; many machines survive and the model is held in museum collections.",
+   "es": {
+    "title": "Máquina de coser Mirella",
+    "date": "1957",
+    "materials": "Cuerpo metálico esmaltado",
+    "key": "La máquina de coser de Marcello Nizzoli para Necchi, de cuerpo liso y único que cubre el mecanismo.",
+    "more": "Nizzoli la diseñó para Necchi, el fabricante de máquinas de coser de Pavía, y apareció en 1957. Una carcasa esmaltada continua esconde la mayor parte de las piezas de trabajo, de modo que la máquina se ve como una sola forma limpia y no como un conjunto de piezas mecánicas. Recibió el Compasso d’Oro en 1957.",
+    "status": "Fuera de producción; sobreviven muchas máquinas y el modelo está en colecciones de museos.",
+    "short": "Máquina Mirella"
+   },
+   "refs": [],
+   "short": "Mirella sewing machine"
+  },
+  {
+   "id": "vespa",
+   "level": "essential",
+   "discipline": "product",
+   "type": "scooter",
+   "title": "Vespa 98",
+   "designers": [
+    "dascanio"
+   ],
+   "maker": "Piaggio",
+   "year": 1946,
+   "date": "1946",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Pressed steel body, small petrol engine",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "The scooter Corradino D’Ascanio, an aeronautical engineer, designed for Piaggio in 1946, patented that April as a 98 cc model.[1][2]",
+   "more": "Piaggio had made railway equipment and aircraft, and after wartime damage to its works its leaders sought an affordable product for a recovering Europe.[2] The result was the Vespa, introduced in 1946 and designed by the aeronautical engineer Corradino D’Ascanio.[2] D’Ascanio, who had pioneered helicopter technology, patented the 98 cc prototype on 23 April 1946.[1] The Piaggio Museum in Pontedera is devoted to it.[2]",
+   "status": "Still made by Piaggio in many later versions.",
+   "es": {
+    "title": "Vespa 98",
+    "date": "1946",
+    "materials": "Carrocería de acero estampado, motor pequeño a bencina",
+    "key": "La scooter que Corradino D’Ascanio, ingeniero aeronáutico, diseñó para Piaggio en 1946, patentada ese abril como modelo de 98 cc.[1][2]",
+    "more": "Piaggio había fabricado equipo ferroviario y aviones y, tras los daños de guerra en sus instalaciones, sus directivos buscaron un producto barato para una Europa en recuperación.[2] El resultado fue la Vespa, presentada en 1946 y diseñada por el ingeniero aeronáutico Corradino D’Ascanio.[2] D’Ascanio, que había sido pionero en tecnología de helicópteros, patentó el prototipo de 98 cc el 23 de abril de 1946.[1] El Museo Piaggio de Pontedera está dedicado a ella.[2]",
+    "status": "Sigue fabricándola Piaggio, en muchas versiones posteriores."
+   },
+   "refs": [
+    {
+     "label": "Domus, «Corradino d’Ascanio» (17 dic. 2011)",
+     "url": "https://www.domusweb.it/en/news/2011/12/17/corradino-d-ascanio.amp.html",
+     "checks": "D'Ascanio (1891–1981) pionero de helicópteros; patentó el 98 cc el 23 de abril de 1946.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "ERIH, «Piaggio Museum» (Pontedera)",
+     "url": "https://www.erih.net/i-want-to-go-there/site/piaggio-museum",
+     "checks": "Piaggio: ferrocarril y aviones; Vespa introducida en 1946, diseñada por el ingeniero aeronáutico D'Ascanio; daños de guerra y búsqueda de producto barato; museo en Pontedera.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "fiat-500",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Fiat 500 (Nuova 500)",
+   "designers": [],
+   "maker": "Fiat (Dante Giacosa)",
+   "year": 1957,
+   "date": "1957",
+   "production": {
+    "from": 1957,
+    "to": 1975,
+    "note": "Nuova 500 built until 1975"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Pressed steel body, air-cooled two-cylinder rear engine, fabric roof",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "The tiny rear-engined Fiat city car engineered by Dante Giacosa, launched in 1957 as an affordable car for Italian families.",
+   "more": "Fiat presented the Nuova 500 in July 1957 as a very small, cheap car with an air-cooled two-cylinder engine at the back and a body of pressed steel. Dante Giacosa led its engineering at Fiat. It sold in large numbers to workers and employees who were buying their first car, and became a symbol of Italy’s economic boom.",
+   "status": "Production ended in 1975; many survive in the hands of collectors, and Fiat launched a new 500 in 2007.",
+   "es": {
+    "title": "Fiat 500 (Nuova 500)",
+    "date": "1957",
+    "materials": "Carrocería de acero estampado, motor trasero de dos cilindros refrigerado por aire, techo de tela",
+    "key": "El diminuto auto de motor trasero de Fiat, ideado por Dante Giacosa y lanzado en 1957 como auto económico para las familias italianas.",
+    "more": "Fiat presentó la Nuova 500 en julio de 1957 como un auto muy pequeño y barato, con un motor de dos cilindros refrigerado por aire en la parte trasera y una carrocería de acero estampado. Dante Giacosa dirigió su ingeniería en Fiat. Se vendió en gran cantidad a obreros y empleados que compraban su primer auto, y se volvió un símbolo del auge económico de Italia.",
+    "status": "Su producción terminó en 1975; muchos ejemplares sobreviven en manos de coleccionistas, y Fiat lanzó una nueva 500 en 2007.",
+    "production": {
+     "note": "Nuova 500 fabricada hasta 1975"
+    }
+   },
+   "refs": [],
+   "movements": [
+    "italian-design"
+   ]
+  },
+  {
+   "id": "citroen-ds",
+   "level": "essential",
+   "discipline": "product",
+   "type": "car",
+   "title": "Citroën DS",
+   "designers": [
+    "bertoni"
+   ],
+   "maker": "Citroën",
+   "year": 1955,
+   "date": "1955",
+   "production": {
+    "from": 1955,
+    "to": 1975,
+    "note": "built until 1975"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Pressed steel body, hydropneumatic suspension",
+   "tech": [],
+   "key": "The streamlined Citroën saloon shown at the Paris motor show in 1955, styled by Flaminio Bertoni and known for its hydropneumatic suspension.[1][2][3]",
+   "more": "Citroën presented the DS at the Paris motor show in 1955, where orders were already being taken on 6 October.[1][2] Flaminio Bertoni, Citroën’s chief designer, was credited with the design,[3] and the car’s development traced back to work by Bertoni, the aviation engineer André Lefèbvre and the suspension engineer Paul Magès.[2] The hydropneumatic suspension corrected the ride height whatever the load,[1] and Roland Barthes wrote that the car looked as if it had fallen from the sky.[2] Production ran until 1975.[2][3]",
+   "status": "Production ended in 1975; the car is a favourite of collectors and is often shown in design museums.",
+   "es": {
+    "title": "Citroën DS",
+    "date": "1955",
+    "materials": "Carrocería de acero estampado, suspensión hidroneumática",
+    "key": "El sedán aerodinámico de Citroën presentado en el salón del automóvil de París en 1955, con línea de Flaminio Bertoni y famoso por su suspensión hidroneumática.[1][2][3]",
+    "more": "Citroën presentó el DS en el salón del automóvil de París en 1955, donde ya se tomaban pedidos el 6 de octubre.[1][2] Se atribuye el diseño a Flaminio Bertoni, jefe de diseño de Citroën,[3] y el desarrollo del auto se remonta al trabajo de Bertoni, el ingeniero aeronáutico André Lefèbvre y el ingeniero de suspensiones Paul Magès.[2] La suspensión hidroneumática corregía la altura de marcha cualquiera fuera la carga,[1] y Roland Barthes escribió que el auto parecía haber caído del cielo.[2] La producción se mantuvo hasta 1975.[2][3]",
+    "status": "Su producción terminó en 1975; es un favorito de los coleccionistas y se exhibe a menudo en museos de diseño.",
+    "production": {
+     "note": "fabricado hasta 1975"
+    }
+   },
+   "refs": [
+    {
+     "label": "Citromuseum, «DS 19 1955 Chassis n°32»",
+     "url": "https://www.citromuseum.com/en/2025/01/28/ds-19-1955-chassis-n32/",
+     "checks": "El 32.º DS pedido, en el Salón de París el 6 de octubre de 1955; suspensión hidroneumática con corrección de altura «cualquiera sea la carga»; diseño aerodinámico. ⚠ no nombra a Bertoni ni a Lefèbvre.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Studebaker National Museum, «The Citroën DS 19: Radically Different»",
+     "url": "https://studebakermuseum.org/the-citroen-ds-19-radically-different-2/",
+     "checks": "Debut en el Salón de París de 1955; producción 1955 a 1975; desarrollo ligado a Bertoni, el ingeniero aeronáutico Lefèbvre y Paul Magès; cita de Barthes («caído del cielo»). ⚠ la fuente no dice que Lefèbvre «dirigiera» el diseño técnico.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Louwman Museum, «Citroën DS 19»",
+     "url": "https://www.louwmanmuseum.nl/auto/citroen-ds-19/",
+     "checks": "DS 19 presentado en 1955; Bertoni, jefe de diseño de Citroën; producción hasta 1975 (unos 1,5 millones); suspensión hidroneumática.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "mole-armchair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Mole armchair",
+   "designers": [
+    "sergio-rodrigues"
+   ],
+   "maker": "OCA",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Solid jacaranda wood, leather cushions",
+   "tech": [],
+   "key": "Sergio Rodrigues’s squat armchair of jacaranda wood with thick leather cushions, designed in 1957 and a landmark of Brazilian modern furniture.[1][2]",
+   "more": "Rodrigues designed the Mole (‘soft’) armchair in 1957; the name refers to its relaxed, soft look.[1] For years it stood in the window of his firm OCA’s showroom in Ipanema, Rio de Janeiro, before it won recognition abroad.[1] A jacaranda frame carries overstuffed, tufted leather cushions over a sling of leather straps and buckles.[1][2] It won first prize at the IV Concorso Internazionale del Mobile in Cantù, Italy, in 1961,[1][2] and entered the MoMA collection in 1974.[2]",
+   "status": "Still made in Brazil.",
+   "es": {
+    "title": "Sillón Mole",
+    "date": "1957",
+    "materials": "Madera maciza de jacarandá, cojines de cuero",
+    "key": "El sillón bajo y robusto de Sergio Rodrigues, de madera de jacarandá con gruesos cojines de cuero, diseñado en 1957 y pieza emblemática del mueble moderno brasileño.[1][2]",
+    "more": "Rodrigues diseñó el sillón Mole («blando») en 1957; el nombre alude a su aspecto relajado y blando.[1] Durante años estuvo en la vitrina del local de su empresa OCA en Ipanema, Río de Janeiro, antes de ser reconocido en el extranjero.[1] Una estructura de jacarandá sostiene cojines de cuero abultados y acolchados sobre un entramado de correas y hebillas de cuero.[1][2] Ganó el primer premio del IV Concorso Internazionale del Mobile en Cantù, Italia, en 1961,[1][2] y entró a la colección del MoMA en 1974.[2]",
+    "status": "Se sigue fabricando en Brasil."
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, «Mole Armchair and Ottoman»",
+     "url": "https://www.metmuseum.org/art/collection/search/772912",
+     "checks": "Sergio Rodrigues; diseñado en 1957; jacarandá y cuero; la pieza estuvo años en la vitrina del local de OCA en Ipanema; primer premio en el IV Concorso Internazionale del Mobile de Cantù, 1961; cojines de cuero acolchados sobre correas y hebillas; nombre por su aspecto blando. ⚠ no menciona clavijas de madera ni «madera maciza».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "AP vía WTOP, «Brazilian designer Sergio Rodrigues dies at 86»",
+     "url": "https://wtop.com/news/2014/09/brazilian-designer-sergio-rodrigues-dies-at-86/",
+     "checks": "Mole de 1957, estructura de madera con cojines de cuero y correas; primer lugar en Cantù 1961; en la colección permanente del MoMA desde 1974; originalmente de jacarandá. ⚠ fuente periodística (obituario).",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "bowl-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Bowl Chair",
+   "designers": [
+    "lina-bo-bardi"
+   ],
+   "year": 1951,
+   "date": "1951",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Metal frame and ring, leather cushion",
+   "tech": [],
+   "key": "Lina Bo Bardi’s low seat of a hemispherical bowl set in a ring on a metal frame, with a loose cushion.",
+   "more": "Bo Bardi designed the Bowl Chair in 1951, the year she finished her own house in São Paulo. The seat is a half-sphere resting in a slim metal ring, and the cushion inside turns it into an armchair that can be tilted. Its very simple parts could be made with local workshop means.",
+   "status": "Reissued in recent years by the Italian maker Arper.",
+   "es": {
+    "title": "Bowl Chair",
+    "date": "1951",
+    "materials": "Estructura y aro de metal, cojín de cuero",
+    "key": "El asiento bajo de Lina Bo Bardi, un cuenco hemisférico apoyado en un aro sobre una estructura metálica, con un cojín suelto.",
+    "more": "Bo Bardi diseñó la Bowl Chair en 1951, el año en que terminó su propia casa en São Paulo. El asiento es una media esfera apoyada en un aro metálico delgado, y el cojín interior la convierte en un sillón que puede inclinarse. Sus partes muy simples podían hacerse con los medios de un taller local.",
+    "status": "Reeditada en los últimos años por la empresa italiana Arper."
+   },
+   "refs": []
+  },
+  {
+   "id": "cybersyn-opsroom",
+   "level": "essential",
+   "discipline": "product",
+   "type": "interior",
+   "title": "Cybersyn operations room",
+   "designers": [
+    "gui-bonsiepe"
+   ],
+   "maker": "INTEC",
+   "client": "CORFO",
+   "year": 1972,
+   "date": "1972",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Swivel chairs, wall screens and projected displays",
+   "tech": [
+    "telex-network"
+   ],
+   "key": "The hexagonal operations room of Chile’s Project Cybersyn, whose interface Gui Bonsiepe designed in Santiago for the Allende government.[1][2]",
+   "more": "Project Cybersyn was meant to link Chile’s factories to a central room in Santiago through telex machines, and the British scientist Stafford Beer was its principal architect.[1] The Industrial Design Area of the Chilean state technology institute, with Gui Bonsiepe, designed the hexagonal room in 1972–73, with seven swivel chairs fitted with buttons that controlled large wall screens.[1][2] The system was never fully finished, and the room was destroyed after the coup of 11 September 1973.[1]",
+   "status": "The room was destroyed after the 1973 coup; photographs and drawings survive.",
+   "es": {
+    "title": "Sala de operaciones de Cybersyn",
+    "date": "1972",
+    "materials": "Sillas giratorias, pantallas de pared y visualizaciones proyectadas",
+    "key": "La sala de operaciones hexagonal del Proyecto Cybersyn de Chile, cuya interfaz diseñó Gui Bonsiepe en Santiago para el gobierno de Allende.[1][2]",
+    "more": "El Proyecto Cybersyn debía conectar las fábricas de Chile con una sala central en Santiago mediante máquinas de télex, y el científico británico Stafford Beer fue su principal arquitecto.[1] El Área de Diseño Industrial del instituto tecnológico del Estado chileno, con Gui Bonsiepe, diseñó la sala hexagonal en 1972–73, con siete sillas giratorias provistas de botones que controlaban grandes pantallas de pared.[1][2] El sistema nunca se terminó del todo, y la sala fue destruida tras el golpe del 11 de septiembre de 1973.[1]",
+    "status": "La sala fue destruida tras el golpe de 1973; se conservan fotografías y dibujos.",
+    "short": "Sala Cybersyn"
+   },
+   "refs": [
+    {
+     "label": "Archis, «Project Cybersyn»",
+     "url": "https://archis.org/volume/project-cybersyn/",
+     "checks": "Sala diseñada por Gui Bonsiepe; siete sillas giratorias con botones que controlaban pantallas grandes; datos de unas 500 máquinas de télex en fábricas; Stafford Beer como arquitecto principal; proyecto nunca terminado del todo; sala destruida tras el golpe del 11 de septiembre de 1973. ⚠ fuente secundaria (revista de arquitectura).",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MIT News, «Designing a revolution» (exposición sobre Cybersyn)",
+     "url": "https://news.mit.edu/index%2Ephp/2023/designing-revolution-1002",
+     "checks": "Sala hexagonal de 72 m²; siete sillones con botones de control remoto; pantallas en las paredes; diseñada por el Área de Diseño Industrial del Instituto Tecnológico del Estado chileno en 1972-1973, con Gui Bonsiepe entre los diseñadores originales. ⚠ no menciona INTEC por nombre ni CORFO.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Cybersyn Opsroom"
+  },
+  {
+   "id": "sony-tr63",
+   "level": "normal",
+   "discipline": "product",
+   "type": "radio",
+   "title": "Sony TR-63 pocket radio",
+   "designers": [],
+   "maker": "Tokyo Tsushin Kogyo (Sony)",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Plastic case, transistors",
+   "tech": [],
+   "key": "Sony’s small transistor radio of 1957, the first the company exported in numbers, sold for listening alone and on the move.",
+   "more": "Tokyo Tsushin Kogyo, soon renamed Sony, launched the TR-63 in 1957 as a radio small enough to hold in the hand and powered by batteries. The transistor replaced the valve, which let it shrink to a plastic case. It was exported to the United States and helped establish Japan’s name for compact electronics.",
+   "status": "Original sets are sought by collectors and held in museums.",
+   "es": {
+    "title": "Radio de bolsillo Sony TR-63",
+    "date": "1957",
+    "materials": "Carcasa de plástico, transistores",
+    "key": "La pequeña radio a transistores de Sony de 1957, la primera que la empresa exportó en cantidad, hecha para escuchar a solas y en movimiento.",
+    "more": "Tokyo Tsushin Kogyo, pronto rebautizada Sony, lanzó la TR-63 en 1957 como una radio lo bastante pequeña para sostenerla en la mano y que funcionaba con pilas. El transistor reemplazó a la válvula, lo que permitió reducirla a una carcasa de plástico. Se exportó a Estados Unidos y ayudó a consolidar el nombre de Japón en la electrónica compacta.",
+    "status": "Los aparatos originales son buscados por coleccionistas y están en museos.",
+    "short": "Sony TR-63"
+   },
+   "refs": [],
+   "short": "Sony TR-63"
+  },
+  {
+   "id": "universale-4867",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Universale chair 4867",
+   "designers": [
+    "joe-colombo"
+   ],
+   "maker": "Kartell",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Injection-moulded ABS plastic",
+   "tech": [
+    "injection-moulding",
+    "thermoplastics"
+   ],
+   "key": "Joe Colombo’s stackable chair of moulded ABS for Kartell, one of the first full-size chairs moulded in one material by injection.",
+   "more": "Colombo designed the Universale for Kartell in the mid-1960s and it was shown in 1967. The seat and the legs are separate moulded parts that fit together, and the legs come in several lengths so that the same design can serve as a chair or a stool. It showed that plastic could make a serious chair in one material and one process.",
+   "status": "Reissued in recent years by Kartell.",
+   "es": {
+    "title": "Silla Universale 4867",
+    "date": "1967",
+    "materials": "Plástico ABS moldeado por inyección",
+    "key": "La silla apilable de ABS moldeado de Joe Colombo para Kartell, una de las primeras sillas de tamaño completo moldeadas por inyección en un solo material.",
+    "more": "Colombo diseñó la Universale para Kartell a mediados de los años sesenta y se mostró en 1967. El asiento y las patas son piezas moldeadas separadas que encajan entre sí, y las patas vienen en varios largos para que el mismo diseño sirva de silla o de taburete. Mostró que el plástico podía dar una silla seria en un solo material y un solo proceso.",
+    "status": "Reeditada en los últimos años por Kartell."
+   },
+   "refs": []
+  },
+  {
+   "id": "arco-lamp",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Arco lamp",
+   "designers": [
+    "castiglioni"
+   ],
+   "maker": "Flos",
+   "year": 1962,
+   "date": "1962",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Carrara marble base, stainless steel arc, aluminium reflector",
+   "tech": [
+    "stainless-steel"
+   ],
+   "key": "The floor lamp of the brothers Achille and Pier Giacomo Castiglioni, with a long steel arc that holds the light over a table from a marble base.",
+   "more": "Designed for Flos in 1962, the Arco carries its light on a stainless steel arc that reaches several metres from a heavy block of Carrara marble. It answered a domestic problem, how to light a dining table without hanging a lamp from the ceiling. The marble base has a hole so that it can be carried with a broom handle.",
+   "status": "Still in production by Flos.",
+   "es": {
+    "title": "Lámpara Arco",
+    "date": "1962",
+    "materials": "Base de mármol de Carrara, arco de acero inoxidable, reflector de aluminio",
+    "key": "La lámpara de pie de los hermanos Achille y Pier Giacomo Castiglioni, con un largo arco de acero que sostiene la luz sobre una mesa desde una base de mármol.",
+    "more": "Diseñada para Flos en 1962, la Arco lleva su luz en un arco de acero inoxidable que se extiende varios metros desde un pesado bloque de mármol de Carrara. Respondía a un problema doméstico: cómo iluminar una mesa de comedor sin colgar una lámpara del techo. La base de mármol tiene un agujero para poder cargarla con un palo de escoba.",
+    "status": "Sigue en producción por Flos."
+   },
+   "refs": []
+  },
+  {
+   "id": "superleggera-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Superleggera chair",
+   "designers": [
+    "gio-ponti"
+   ],
+   "maker": "Cassina",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Ash wood, woven rush seat",
+   "tech": [],
+   "key": "Gio Ponti’s very light chair for Cassina, a slim ash-wood development of the traditional Chiavari chair.",
+   "more": "Ponti designed the Superleggera (‘super light’) in 1957 for Cassina, taking the light chairs made in Chiavari, on the Ligurian coast, as his starting point. Its frame of thin ash members is so light that a person can lift it with one finger. It joined craft work with careful engineering and was made in the workshops of Cassina.",
+   "status": "Still in production by Cassina.",
+   "es": {
+    "title": "Silla Superleggera",
+    "date": "1957",
+    "materials": "Madera de fresno, asiento de junco tejido",
+    "key": "La silla muy liviana de Gio Ponti para Cassina, un desarrollo delgado en madera de fresno de la tradicional silla de Chiavari.",
+    "more": "Ponti diseñó la Superleggera («superliviana») en 1957 para Cassina, tomando como punto de partida las sillas livianas que se hacían en Chiavari, en la costa de Liguria. Su estructura de delgados elementos de fresno es tan liviana que una persona puede levantarla con un dedo. Unió el trabajo artesanal con una ingeniería cuidadosa y se fabricó en los talleres de Cassina.",
+    "status": "Sigue en producción por Cassina."
+   },
+   "refs": []
+  },
+  {
+   "id": "marshmallow-sofa",
+   "level": "normal",
+   "discipline": "product",
+   "type": "sofa",
+   "title": "Marshmallow sofa",
+   "designers": [
+    "george-nelson"
+   ],
+   "maker": "Herman Miller",
+   "year": 1956,
+   "date": "1956",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Foam discs covered in vinyl on a steel frame",
+   "tech": [
+    "polyurethane-foam"
+   ],
+   "key": "The sofa of round foam cushions in bright colours on a steel frame, made by Herman Miller from a design by George Nelson’s office.",
+   "more": "It was made by Herman Miller from 1956 and credited to George Nelson, though the designer Irving Harper of Nelson’s office is credited with the idea of the round cushions. Eighteen foam discs covered in vinyl sit on a slim steel frame. The playful, colourful look anticipated the humour of pop design, and it was sold as a fashionable piece for homes with rising incomes.",
+   "status": "Reissued by Vitra and in production again.",
+   "es": {
+    "title": "Sofá Marshmallow",
+    "date": "1956",
+    "materials": "Discos de espuma forrados en vinilo sobre estructura de acero",
+    "key": "El sofá de cojines redondos de espuma en colores vivos sobre una estructura de acero, fabricado por Herman Miller según un diseño de la oficina de George Nelson.",
+    "more": "Lo fabricó Herman Miller desde 1956 y se atribuye a George Nelson, aunque a Irving Harper, de la oficina de Nelson, se le reconoce la idea de los cojines redondos. Dieciocho discos de espuma forrados en vinilo se asientan sobre una delgada estructura de acero. Su aspecto lúdico y colorido anticipó el humor del diseño pop, y se vendió como pieza de moda para hogares con ingresos en alza.",
+    "status": "Reeditado por Vitra y de nuevo en producción."
+   },
+   "refs": [],
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "tupperware-1946",
+   "level": "essential",
+   "discipline": "product",
+   "type": "container",
+   "title": "Tupperware Wonderlier bowl",
+   "designers": [
+    "earl-tupper"
+   ],
+   "maker": "Tupperware",
+   "year": 1946,
+   "date": "1946",
+   "production": {
+    "from": 1946,
+    "to": null,
+    "note": "still in production"
+   },
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Polyethylene",
+   "tech": [],
+   "key": "Earl Tupper’s polyethylene bowl of 1946 with an airtight lid, later sold through home parties.[1][2][3]",
+   "more": "Tupper founded a company for industrial plastics in 1938 and, in 1946, launched nesting bowls with airtight lids; the Wonderlier bowl is listed among his early products.[2] He turned polyethylene slag, a waste product of oil refining, into household containers, and the lid was inspired by paint-can lids.[1][2] The first Tupperware parties began in 1948, and from 1951 Brownie Wise, vice president of Tupperware Home Parties, pushed selling only through the ‘Party Plan’ rather than in shops.[3] Hosts invited family and friends, and women worked as sellers.[1][3]",
+   "status": "Still produced by Tupperware; early pieces are held in museum collections.",
+   "es": {
+    "date": "1946",
+    "materials": "Polietileno",
+    "key": "El bol de polietileno de Earl Tupper de 1946, con tapa hermética, que luego se vendió en reuniones en casas.[1][2][3]",
+    "more": "Tupper fundó en 1938 una empresa de plásticos industriales y en 1946 lanzó boles apilables con tapa hermética; el bol Wonderlier figura entre sus primeros productos.[2] Convirtió la escoria de polietileno, un desecho del refinado de petróleo, en recipientes domésticos, y la tapa se inspiró en las de los tarros de pintura.[1][2] Las primeras reuniones Tupperware comenzaron en 1948 y, desde 1951, Brownie Wise, vicepresidenta de Tupperware Home Parties, impulsó vender solo mediante el «Party Plan» y no en tiendas.[3] Las anfitrionas invitaban a familiares y amigos, y mujeres trabajaban como vendedoras.[1][3]",
+    "status": "Sigue produciéndose por Tupperware; piezas tempranas están en colecciones de museos.",
+    "title": "Tupperware Wonderlier",
+    "production": {
+     "note": "sigue en producción"
+    },
+    "short": "Tupperware Wonderlier"
+   },
+   "refs": [
+    {
+     "label": "Smithsonian NMAH, «Tupperware bowl and cover» (nmah_1170501)",
+     "url": "https://www.si.edu/object/nmah_1170501",
+     "checks": "Tupper (1907–1983) y la escoria de polietileno; tapa inspirada en latas de pintura y sello hermético; Brownie Wise y las reuniones en casas, trabajo para mujeres. ⚠ el objeto es de hacia 1949.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopedia of Company Histories, «Tupperware Inc.» (encyclopedia.com)",
+     "url": "https://www.encyclopedia.com/reference/trade-magazines/tupperware-inc",
+     "checks": "Empresa de plásticos industriales en 1938; boles con tapa hermética en 1946; Wonderlier entre los primeros productos. ⚠ enciclopedia de empresas, fuente secundaria.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Hagley Museum and Library, «Tupperware: The Party’s Over?»",
+     "url": "https://hagley.org/node/4029",
+     "checks": "Primeras reuniones en 1948; Brownie Wise vicepresidenta 1951–58 y propuesta de vender solo por Party Plan; anfitriones invitan a amigos.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Tupperware Wonderlier"
+  },
+  {
+   "id": "noguchi-table-1947",
+   "level": "normal",
+   "discipline": "product",
+   "type": "table",
+   "title": "Noguchi coffee table",
+   "designers": [
+    "isamu-noguchi"
+   ],
+   "maker": "Herman Miller",
+   "year": 1947,
+   "date": "1947",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Wood base and glass top",
+   "tech": [],
+   "key": "Isamu Noguchi’s sculptural coffee table, two curved wooden pieces supporting a glass top, made by Herman Miller from 1947.",
+   "more": "Noguchi, a sculptor, designed the table as a piece that works both as sculpture and as furniture. Two identical curved wooden supports interlock to hold a heavy glass top, so that the base can be seen from every side. Herman Miller began to produce it in 1947, and it became one of the best known pieces of modern American furniture.",
+   "status": "Still in production by Herman Miller.",
+   "es": {
+    "date": "1947",
+    "materials": "Base de madera y tapa de vidrio",
+    "key": "La mesa de centro escultórica de Isamu Noguchi, dos piezas de madera curvas que sostienen una tapa de vidrio, producida por Herman Miller desde 1947.",
+    "more": "Noguchi, escultor, diseñó la mesa como una pieza que funciona a la vez como escultura y como mueble. Dos soportes de madera curvos e idénticos se encajan para sostener una gruesa tapa de vidrio, de modo que la base se ve desde todos los lados. Herman Miller empezó a producirla en 1947, y se volvió una de las piezas más conocidas del mueble moderno estadounidense.",
+    "status": "Sigue en producción por Herman Miller.",
+    "title": "Mesa de centro de Noguchi",
+    "short": "Mesa de Noguchi"
+   },
+   "refs": [],
+   "movements": [
+    "mid-century-modern"
+   ],
+   "short": "Noguchi table"
+  },
+  {
+   "id": "citroen-2cv-1948",
+   "level": "essential",
+   "discipline": "product",
+   "type": "car",
+   "title": "Citroën 2CV",
+   "designers": [
+    "bertoni"
+   ],
+   "maker": "Citroën",
+   "year": 1948,
+   "date": "1948",
+   "production": {
+    "from": 1948,
+    "to": 1990,
+    "note": "built in France and later in other countries"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Steel body, canvas roof, air-cooled two-cylinder engine",
+   "tech": [],
+   "key": "The small, cheap and rustic French car shown at the Paris motor show in 1948, planned before the war for rural people and built until 1990.[1][2]",
+   "more": "The 2CV began as the TPV (‘toute petite voiture’) project launched in 1936, and a working prototype existed in 1937.[1] Pierre Boulanger asked for ‘an umbrella with four wheels’ for rural France that could carry farmers and eggs across ploughed fields without damage.[2] Production was authorised in 1938 but the war prevented its debut.[2] It was shown at the Paris Motor Show on 7 October 1948 and built from 1949 to 1990, over 5.1 million units, the last in Portugal in July 1990.[1][2] It had an air-cooled flat-twin engine.[1]",
+   "status": "Widely preserved by collectors and museums.",
+   "es": {
+    "date": "1948",
+    "materials": "Carrocería de acero, capota de lona, motor bicilíndrico refrigerado por aire",
+    "key": "El coche francés pequeño, barato y rústico presentado en el Salón del Automóvil de París en 1948, pensado antes de la guerra para la gente del campo y fabricado hasta 1990.[1][2]",
+    "more": "El 2CV nació del proyecto TPV («toute petite voiture»), iniciado en 1936, y ya había un prototipo funcional en 1937.[1] Pierre Boulanger pidió «un paraguas con cuatro ruedas» para la Francia rural, capaz de llevar campesinos y huevos por campos arados sin dañarlos.[2] La producción se autorizó en 1938, pero la guerra impidió su estreno.[2] Se mostró en el Salón del Automóvil de París el 7 de octubre de 1948 y se fabricó de 1949 a 1990, más de 5,1 millones de unidades, la última en Portugal en julio de 1990.[1][2] Tenía un motor bicilíndrico plano refrigerado por aire.[1]",
+    "status": "Muy conservado por coleccionistas y museos.",
+    "title": "Citroën 2CV",
+    "production": {
+     "note": "fabricado en Francia y luego en otros países"
+    }
+   },
+   "refs": [
+    {
+     "label": "Stellantis Media (Citroën), «The 2 CV celebrates its 75th birthday»",
+     "url": "https://www.media.stellantis.com/em-en/citroen/press/historic-iconic-and-popular-the-2-cv-celebrates-its-75th-birthday",
+     "checks": "TPV desde 1936, prototipo en 1937; debut el 7 de octubre de 1948 en el Salón de París; 1949–1990, más de 5,1 millones; último en Portugal en julio de 1990; motor bicilíndrico plano refrigerado por aire. ⚠ comunicado del fabricante.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Motoring Research, «The Citroën 2CV story»",
+     "url": "https://www.motoringresearch.com/slideshow/the-citroen-2cv-story/",
+     "checks": "Encargo de Boulanger («paraguas con cuatro ruedas»), campesinos y huevos por campos arados; producción autorizada en 1938; guerra; Salón de 1948; fin en julio de 1990. ⚠ revista de motor, fuente secundaria.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "juhl-chieftain-1949",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Chieftain chair",
+   "designers": [
+    "finn-juhl"
+   ],
+   "maker": "Niels Vodder",
+   "year": 1949,
+   "date": "1949",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Wood frame, upholstered seat and back",
+   "tech": [],
+   "key": "Finn Juhl’s sculptural armchair of 1949, with a carved wooden frame that holds the seat and back apart as separate floating elements.",
+   "more": "Juhl designed it in 1949 and showed it at the Copenhagen Cabinetmakers’ Guild exhibition, where it was made by the cabinetmaker Niels Vodder. The seat and back rest on a wooden frame without touching its arms and legs, so the chair reads as sculpture as much as furniture. It shows how Danish furniture of the period grew out of close work between architect-designers and master cabinetmakers.",
+   "status": "Still in production by House of Finn Juhl.",
+   "movements": [
+    "scandinavian-design"
+   ],
+   "es": {
+    "title": "Sillón Chieftain de Finn Juhl",
+    "date": "1949",
+    "materials": "Estructura de madera, asiento y respaldo tapizados",
+    "key": "El sillón escultórico de Finn Juhl de 1949, con una estructura de madera tallada que separa el asiento y el respaldo como elementos flotantes.",
+    "more": "Juhl lo diseñó en 1949 y lo mostró en la exposición del gremio de ebanistas de Copenhague, donde lo fabricó el ebanista Niels Vodder. El asiento y el respaldo descansan sobre una estructura de madera sin tocar los brazos ni las patas, de modo que la silla se lee tanto como escultura como mueble. Muestra cómo el mueble danés de la época nació del trabajo cercano entre arquitectos-diseñadores y maestros ebanistas.",
+    "status": "Sigue en producción por House of Finn Juhl.",
+    "short": "Sillón Chieftain"
+   },
+   "refs": [],
+   "short": "Chieftain chair"
+  },
+  {
+   "id": "butaque-chair-1950",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Butaque chair",
+   "designers": [
+    "clara-porset"
+   ],
+   "year": 1950,
+   "date": "c. 1950",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Wood frame with a sling seat and back",
+   "tech": [],
+   "key": "Clara Porset’s modern version of the butaque, a low, reclining Caribbean seat, designed in Mexico for local production.",
+   "more": "Porset, born in Cuba and based in Mexico from the 1930s, took the butaque, a traditional low seat with a sloping back and a seat that cradles the body, and gave it a modern, light wooden frame. The design aimed at furniture that could be made in Mexico from local materials by local workshops. It is among the best known pieces of Latin American modern furniture.",
+   "status": "Examples survive in collections; the model has been produced again.",
+   "es": {
+    "title": "Butaque de Clara Porset",
+    "date": "c. 1950",
+    "materials": "Estructura de madera con asiento y respaldo en hamaca",
+    "key": "La versión moderna que hizo Clara Porset de la butaque, un asiento bajo y reclinado del Caribe, diseñada en México para producción local.",
+    "more": "Porset, nacida en Cuba y radicada en México desde los años treinta, tomó la butaque, un asiento bajo de respaldo inclinado que acoge el cuerpo, y le dio una estructura de madera moderna y liviana. El diseño buscaba un mueble que se pudiera fabricar en México con materiales y talleres locales. Es una de las piezas más conocidas del mueble moderno latinoamericano.",
+    "status": "Se conservan ejemplares en colecciones; el modelo se ha vuelto a producir.",
+    "short": "Butaque"
+   },
+   "refs": [],
+   "short": "Butaque chair"
+  },
+  {
+   "id": "bertoia-diamond-1952",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Bertoia Diamond chair",
+   "designers": [
+    "harry-bertoia"
+   ],
+   "maker": "Knoll",
+   "year": 1952,
+   "date": "1952",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Welded steel rod mesh, with a seat pad or full cover as options",
+   "tech": [],
+   "key": "Harry Bertoia’s lounge chair of welded steel mesh, a sculpture in which the metal lattice is both structure and seat.",
+   "more": "Bertoia, a sculptor who began working for Knoll in 1950, developed the Diamond chair in 1952 as one of a group of wire chairs. The seat is a lattice of welded steel rods bent into a diamond-shaped shell that sits on a base of rods. He remarked that chairs are like sculpture in being made largely of space; the chair is open and light enough to be seen through.",
+   "status": "Still in production by Knoll.",
+   "es": {
+    "title": "Silla Diamond de Bertoia",
+    "date": "1952",
+    "materials": "Malla de varillas de acero soldadas, con cojín o funda completa opcionales",
+    "key": "La silla de Harry Bertoia de malla de acero soldada, una escultura en la que la trama metálica es a la vez estructura y asiento.",
+    "more": "Bertoia, escultor que empezó a trabajar para Knoll en 1950, desarrolló la silla Diamond en 1952 dentro de un grupo de sillas de alambre. El asiento es una trama de varillas de acero soldadas y dobladas en una carcasa en forma de diamante que se apoya en una base de varillas. La silla es abierta y liviana, tanto que se ve a través de ella.",
+    "status": "Sigue en producción por Knoll.",
+    "short": "Diamond de Bertoia"
+   },
+   "refs": [],
+   "movements": [
+    "mid-century-modern"
+   ],
+   "short": "Bertoia Diamond"
+  },
+  {
+   "id": "ph5-lamp-1958",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "PH 5 lamp",
+   "designers": [
+    "poul-henningsen"
+   ],
+   "maker": "Louis Poulsen",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Metal shades",
+   "tech": [],
+   "key": "Poul Henningsen’s pendant lamp of three nested shades that hide the bulb and spread its light without glare.",
+   "more": "The PH 5 of 1958 belongs to the PH lamp series Henningsen began in 1926 with Louis Poulsen. Its shades are shaped and laid out so that the bulb cannot be seen from below and the light is reflected downward and outward in soft layers. It turned an idea of glare-free, evenly spread light into a form that is also recognisable as an object.",
+   "status": "Still in production by Louis Poulsen.",
+   "movements": [
+    "scandinavian-design"
+   ],
+   "es": {
+    "title": "Lámpara PH 5",
+    "date": "1958",
+    "materials": "Pantallas de metal",
+    "key": "La lámpara colgante de Poul Henningsen, de tres pantallas anidadas que ocultan la ampolleta y reparten su luz sin deslumbrar.",
+    "more": "La PH 5 de 1958 pertenece a la serie de lámparas PH que Henningsen inició en 1926 con Louis Poulsen. Sus pantallas están formadas y dispuestas de modo que la ampolleta no se ve desde abajo y la luz se refleja hacia abajo y hacia los lados en capas suaves. Convirtió la idea de una luz repartida y sin deslumbramiento en una forma que además se reconoce como objeto.",
+    "status": "Sigue en producción por Louis Poulsen."
+   },
+   "refs": []
+  },
+  {
+   "id": "mini-1959",
+   "level": "essential",
+   "discipline": "product",
+   "type": "car",
+   "title": "Austin Mini",
+   "designers": [
+    "alec-issigonis"
+   ],
+   "maker": "British Motor Corporation",
+   "year": 1959,
+   "date": "1959",
+   "production": {
+    "from": 1959,
+    "to": 2000,
+    "note": "original model, made in several versions by the British Motor Corporation and its successors"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Pressed steel body",
+   "tech": [],
+   "key": "Alec Issigonis’s small car with a transverse engine and wheels at the corners, which gave about 80 per cent of its footprint to people and luggage.[1][2]",
+   "more": "The Mini went into production in August 1959, marketed as the Austin 850, Austin Seven or Morris Mini Minor.[1][2] Issigonis combined a transverse 846 cc engine with front-wheel drive,[1] so there was no driveshaft, the floor could be flat and tiny 10-inch wheels stood at the four corners.[2] About 80 per cent of the car was passenger and cargo space.[1][2] The layout was later adopted by Volkswagen, Chrysler, General Motors, Ford and even Cadillac, and now dominates world car markets.[2] UK production lasted until 2000.[1][2]",
+   "status": "Many survive; the original model was made until 2000.",
+   "es": {
+    "title": "Austin Mini",
+    "date": "1959",
+    "materials": "Carrocería de acero estampado",
+    "key": "El auto pequeño de Alec Issigonis, con motor transversal y ruedas en las esquinas, que destinó cerca del 80 por ciento de su superficie a personas y equipaje.[1][2]",
+    "more": "El Mini entró en producción en agosto de 1959, comercializado como Austin 850, Austin Seven o Morris Mini Minor.[1][2] Issigonis combinó un motor transversal de 846 cc con tracción delantera,[1] de modo que no había eje de transmisión, el piso podía ser plano y diminutas ruedas de 10 pulgadas quedaban en las cuatro esquinas.[2] Cerca del 80 por ciento del auto era espacio para pasajeros y carga.[1][2] La disposición fue adoptada después por Volkswagen, Chrysler, General Motors, Ford e incluso Cadillac, y hoy domina los mercados mundiales.[2] La producción en el Reino Unido duró hasta 2000.[1][2]",
+    "status": "Sobreviven muchos ejemplares; el modelo original se fabricó hasta 2000.",
+    "production": {
+     "note": "modelo original, fabricado en varias versiones por la British Motor Corporation y sus sucesoras"
+    }
+   },
+   "refs": [
+    {
+     "label": "Museums Victoria Collections, «Morris (BMC) Mini»",
+     "url": "https://collections.museumsvictoria.com.au/articles/3601",
+     "checks": "Debut en agosto de 1959 como Austin 850, Austin Seven o Morris Mini Minor; Issigonis, motor transversal de 846 cc y tracción delantera; cerca del 80 % del auto era espacio de pasajeros; producción en el Reino Unido hasta 2000.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Studebaker National Museum, «The Mini: an automotive transformation»",
+     "url": "https://studebakermuseum.org/the-mini-an-automotive-transformation/",
+     "checks": "Producción desde agosto de 1959 hasta 2000; motor transversal sin eje de transmisión, piso plano, ruedas de 10 pulgadas en las cuatro esquinas; cerca del 80 % de la superficie para personas y carga; la disposición fue adoptada por VW, Chrysler, GM, Ford y Cadillac.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "cadillac-eldorado-1959",
+   "level": "essential",
+   "discipline": "product",
+   "type": "car",
+   "title": "Cadillac Eldorado (1959)",
+   "designers": [
+    "harley-earl"
+   ],
+   "maker": "General Motors",
+   "year": 1959,
+   "date": "1959",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Pressed steel body, chrome trim",
+   "tech": [],
+   "key": "The 1959 Cadillac Eldorado, with the soaring tailfins and twin tail lights that came to stand for American automotive styling in the annual-restyling tradition of GM’s Harley Earl.[1][2]",
+   "more": "The 1959 Cadillac came from the General Motors styling department. Harley Earl, at GM from 1927, renamed its Art and Color Section the Style Section in 1937 and pioneered annual updates to each model.[1] Earl is credited with putting fins on Cadillacs after World War II, taking inspiration from military aircraft, and he styled the twin tail lights of the 1948 Cadillac after the twin-boomed tail of the P-38 Lightning.[1] A Toronto Star Archives caption says he can be ‘credited (or blamed)’ for the 1959 tailfins.[2]",
+   "status": "Many survive in private collections and museums.",
+   "es": {
+    "title": "Cadillac Eldorado 1959",
+    "date": "1959",
+    "materials": "Carrocería de acero estampado, molduras cromadas",
+    "key": "El Cadillac Eldorado de 1959, con las altas aletas y las dobles luces traseras que llegaron a representar el «styling» automotriz estadounidense, en la tradición del rediseño anual de Harley Earl en GM.[1][2]",
+    "more": "El Cadillac de 1959 salió del departamento de estilo de General Motors. Harley Earl, en GM desde 1927, rebautizó en 1937 su Art and Color Section como Style Section y fue pionero de las actualizaciones anuales de cada modelo.[1] A Earl se le atribuye haber puesto aletas a los Cadillac tras la Segunda Guerra Mundial, inspirándose en aviones militares, y diseñó las dobles luces traseras del Cadillac de 1948 según la cola de doble botalón del P-38 Lightning.[1] Un pie de foto de los Archivos del Toronto Star dice que se le puede «atribuir (o culpar)» de las aletas del Cadillac de 1959.[2]",
+    "status": "Sobreviven muchos ejemplares en colecciones privadas y museos.",
+    "short": "Cadillac Eldorado"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Harley Earl»",
+     "url": "https://www.britannica.com/print/article/1518044",
+     "checks": "En GM desde 1927; en 1937 rebautizó la Art and Color Section como Style Section; actualizaciones anuales de cada modelo; puso aletas a los Cadillac tras la guerra, inspirado en aviones militares; luces dobles del Cadillac de 1948 según el P-38. ⚠ no menciona su retiro en 1958 ni el Eldorado 1959.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Toronto Star Archives (Archivo de Ontario), «Legendary GM designer Harley Earl can be credited or blamed»",
+     "url": "https://digitalarchiveontariotest.emuseum.com/objects/371955/legendary-gm-designer-harley-earl-can-be-credited-or-blamed",
+     "checks": "Pie de foto del Toronto Star (29 de agosto de 1989) que atribuye a Earl las aletas del Cadillac de 1959. ⚠ fuente débil: solo un pie de foto.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Cadillac Eldorado"
+  },
+  {
+   "id": "ibm-selectric-1961",
+   "level": "normal",
+   "discipline": "product",
+   "type": "typewriter",
+   "title": "IBM Selectric typewriter",
+   "designers": [
+    "eliot-noyes"
+   ],
+   "maker": "IBM",
+   "year": 1961,
+   "date": "1961",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Metal and plastic housing",
+   "tech": [],
+   "key": "IBM’s electric typewriter of 1961, which replaced the moving carriage with a spinning typeball, in a housing shaped under Eliot Noyes’s design programme.",
+   "more": "The Selectric printed with a single golf-ball-sized element that rotated and tilted to strike the page, while the paper stayed still, and the typeball could be changed to switch typefaces. Noyes, IBM’s design consultant from the 1950s, shaped its compact housing as part of a company-wide effort to give IBM products a coherent look. It was very widely used in offices.",
+   "status": "No longer made; many machines survive.",
+   "es": {
+    "title": "Máquina de escribir IBM Selectric",
+    "date": "1961",
+    "materials": "Carcasa de metal y plástico",
+    "key": "La máquina de escribir eléctrica de IBM de 1961, que reemplazó el carro móvil por una esfera de tipos giratoria, en una carcasa moldeada bajo el programa de diseño de Eliot Noyes.",
+    "more": "La Selectric imprimía con un solo elemento del tamaño de una pelota de golf que giraba y se inclinaba para golpear la hoja, mientras el papel quedaba quieto, y la esfera podía cambiarse para usar otra tipografía. Noyes, consultor de diseño de IBM desde los años cincuenta, dio forma a su carcasa compacta dentro de un esfuerzo de toda la empresa por dar un aspecto coherente a los productos IBM. Se usó muchísimo en oficinas.",
+    "status": "Ya no se fabrica; se conservan muchas máquinas.",
+    "short": "IBM Selectric"
+   },
+   "refs": [],
+   "short": "IBM Selectric"
+  },
+  {
+   "id": "polypropylene-chair-1963",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Polypropylene chair",
+   "designers": [
+    "robin-day"
+   ],
+   "maker": "Hille",
+   "year": 1963,
+   "date": "1963",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Injection-moulded polypropylene shell, steel tube legs",
+   "tech": [
+    "injection-moulding"
+   ],
+   "key": "Robin Day’s stacking chair with a one-piece injection-moulded polypropylene shell on tubular steel legs, introduced by Hille in 1963 and sold in the millions.[1]",
+   "more": "Day designed it in 1962–63 for S. Hille & Co.; the shell is a single moulding fixed to a tubular steel frame, and the chair was made to stack.[1] One tool could turn out about 4,000 shells a week, one every 90 seconds, which kept each chair cheap.[1] Over 14 million have been sold and it is still in production; it won the Design Centre Award in 1965.[1] The Design Museum’s MoDiP calls it the first chair made of polypropylene and thinks it was made in greater numbers than any other mass-produced chair.[2]",
+   "status": "Still in production.",
+   "es": {
+    "title": "Silla de polipropileno de Robin Day",
+    "date": "1963",
+    "materials": "Carcasa de polipropileno inyectado, patas de tubo de acero",
+    "key": "La silla apilable de Robin Day con carcasa de polipropileno inyectado de una pieza sobre patas de tubo de acero, lanzada por Hille en 1963 y vendida por millones.[1]",
+    "more": "Day la diseñó en 1962–63 para S. Hille & Co.; la carcasa es una sola pieza moldeada, fijada a una estructura de tubo de acero, y la silla se hizo para apilarse.[1] Una sola matriz podía producir unas 4.000 carcasas por semana, una cada 90 segundos, lo que abarataba cada silla.[1] Se han vendido más de 14 millones y sigue en producción; ganó el Design Centre Award en 1965.[1] El MoDiP la llama la primera silla hecha de polipropileno y estima que se fabricó en mayor número que cualquier otra silla producida en serie.[2]",
+    "status": "Sigue en producción.",
+    "short": "Silla polipropileno"
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Polypropylene chair», O21635",
+     "url": "https://collections.vam.ac.uk/item/O21635/",
+     "checks": "Diseñada en 1962–63 e introducida en 1963; S. Hille & Co.; carcasa inyectada de una pieza sobre base tubular de acero apilable; 4.000 carcasas por semana, una cada 90 s; más de 14 millones vendidos; Design Centre Award 1965; sigue en producción.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoDiP (Museum of Design in Plastics), «Robin Day»",
+     "url": "https://www.modip.ac.uk/exhibitions/spotlight/spotlight-designers/robin-day",
+     "checks": "Polyprop (1963) como «primera silla hecha de polipropileno»; consultor de Hille; sigue en producción; se cree fabricada en mayor número que cualquier otra silla producida en serie. ⚠ fuente de museo universitario.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Polypropylene chair"
+  },
+  {
+   "id": "brionvega-ts502-1964",
+   "level": "essential",
+   "discipline": "product",
+   "type": "radio",
+   "title": "Brionvega TS 502 radio",
+   "designers": [
+    "marco-zanuso",
+    "richard-sapper"
+   ],
+   "maker": "Brionvega",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Plastic housing",
+   "tech": [],
+   "key": "Zanuso and Sapper’s portable radio of 1964 that closes into a compact cube, its casing hiding the controls and speaker until it opens on a hinge.[1][2]",
+   "more": "Marco Zanuso and Richard Sapper designed the TS 502 for Brionvega in 1964.[1][2] Closed, it measures 13 x 22.5 x 13 cm; a hinge opens it through 180 degrees.[1][2] The casing hides the tuning knobs, speaker and switches, and the design drew on Movado watches that slid into a protective case.[2] The Museo Omero calls it one of the most iconic objects in Italian design history.[2] MoMA, which dates it 1963, holds a gift from the manufacturer.[3]",
+   "status": "Held in museum collections.",
+   "movements": [
+    "italian-design"
+   ],
+   "es": {
+    "title": "Radio Brionvega TS 502",
+    "date": "1964",
+    "materials": "Carcasa de plástico",
+    "key": "La radio portátil de Zanuso y Sapper de 1964 que se cierra en un cubo compacto, con una carcasa que oculta los controles y el parlante hasta que se abre sobre una bisagra.[1][2]",
+    "more": "Marco Zanuso y Richard Sapper diseñaron la TS 502 para Brionvega en 1964.[1][2] Cerrada mide 13 x 22,5 x 13 cm; una bisagra la abre 180 grados.[1][2] La carcasa oculta las perillas de sintonía, el parlante y los interruptores, y el diseño se inspiró en relojes Movado que se deslizaban dentro de un estuche protector.[2] El Museo Omero la llama uno de los objetos más emblemáticos de la historia del diseño italiano.[2] El MoMA, que la fecha en 1963, tiene un ejemplar donado por el fabricante.[3]",
+    "status": "Se conserva en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "Cooper Hewitt, «TS 502 portable radio»",
+     "url": "https://collection.cooperhewitt.org/objects/18648915",
+     "checks": "Fecha 1964; Sapper y Zanuso; Brionvega; ABS y metal cromado; medidas cerrada 13 x 22,5 x 13 cm; versión abierta. ⚠ sin mención de Movado.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Museo Omero, «Radio TS502»",
+     "url": "https://museoomero.it/en/opere/radio-ts502/",
+     "checks": "Creada en 1964 por Zanuso y Sapper, producida por Brionvega; cápsula que se abre en dos cubos casi perfectos con bisagra de 180°; carcasa oculta perillas, parlante e interruptores; inspiración en relojes Movado; «uno de los objetos más emblemáticos del diseño italiano».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «Radio (model TS 502)»",
+     "url": "https://www.moma.org/collection/works/4034",
+     "checks": "Zanuso y Sapper, Brionvega; ABS y aluminio; donación del fabricante. ⚠ MoMA fecha la obra en 1963, distinto de 1964 en Cooper Hewitt y Museo Omero.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "componibili-1967",
+   "level": "normal",
+   "discipline": "product",
+   "type": "storage",
+   "title": "Componibili storage unit",
+   "designers": [
+    "anna-castelli-ferrieri"
+   ],
+   "maker": "Kartell",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "ABS plastic, injection-moulded",
+   "tech": [
+    "injection-moulding"
+   ],
+   "key": "Anna Castelli Ferrieri’s round storage unit of stackable ABS modules, made by Kartell in bright colours.",
+   "more": "Castelli Ferrieri designed it for Kartell in 1967 as a set of round, injection-moulded ABS modules that stack into a column and need no assembly. Its drawers or doors, its colours and its modular form made plastic a material for everyday household storage. She worked for Kartell and married its founder, Giulio Castelli.",
+   "status": "Still in production by Kartell.",
+   "es": {
+    "title": "Mueble Componibili",
+    "date": "1967",
+    "materials": "Plástico ABS, moldeado por inyección",
+    "key": "El mueble redondo de Anna Castelli Ferrieri hecho de módulos apilables de ABS, producido por Kartell en colores vivos.",
+    "more": "Castelli Ferrieri lo diseñó para Kartell en 1967 como un conjunto de módulos redondos de ABS moldeado por inyección que se apilan en columna y no requieren ensamblaje. Sus cajones o puertas, sus colores y su forma modular hicieron del plástico un material para el almacenamiento doméstico cotidiano. Trabajó para Kartell y se casó con su fundador, Giulio Castelli.",
+    "status": "Sigue en producción por Kartell.",
+    "short": "Componibili"
+   },
+   "refs": [],
+   "short": "Componibili"
+  },
+  {
+   "id": "action-office-ii-1968",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture-system",
+   "title": "Action Office II",
+   "designers": [
+    "robert-propst"
+   ],
+   "maker": "Herman Miller",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Fabric-covered panels, work surfaces and storage components on a modular frame",
+   "tech": [],
+   "key": "Robert Propst’s modular office system of free-standing panels and work surfaces, produced by Herman Miller, the origin of the cubicle.",
+   "more": "Propst, who led research at Herman Miller, designed it as a system of panels, work surfaces and storage that could be arranged and rearranged around each worker, and the firm launched Action Office II in 1968. It was meant to give people some privacy and control over their space. Companies later adopted its panels in dense, fixed layouts, and the cubicle that resulted is often said to be far from Propst’s intention.",
+   "status": "Successors of the system are still sold by Herman Miller.",
+   "es": {
+    "title": "Action Office II",
+    "date": "1968",
+    "materials": "Paneles forrados en tela, superficies de trabajo y almacenamiento sobre una estructura modular",
+    "key": "El sistema modular de oficina de Robert Propst, de paneles y superficies de trabajo independientes producido por Herman Miller, origen del cubículo.",
+    "more": "Propst, que dirigía la investigación en Herman Miller, lo diseñó como un sistema de paneles, superficies de trabajo y almacenamiento que podía disponerse y reordenarse en torno a cada trabajador, y la empresa lanzó Action Office II en 1968. Buscaba dar algo de privacidad y control sobre el espacio. Luego las empresas adoptaron sus paneles en distribuciones densas y fijas, y el cubículo resultante suele decirse que estaba lejos de la intención de Propst.",
+    "status": "Herman Miller sigue vendiendo sucesores del sistema."
+   },
+   "refs": [],
+   "movements": [
+    "human-factors-ergonomics"
+   ]
+  },
+  {
+   "id": "up5-armchair-1969",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "UP series armchair",
+   "designers": [
+    "gaetano-pesce"
+   ],
+   "maker": "C&B Italia",
+   "year": 1969,
+   "date": "1969",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Moulded polyurethane foam with a stretch-fabric cover",
+   "tech": [
+    "polyurethane-foam"
+   ],
+   "movements": [
+    "radical-design"
+   ],
+   "key": "Gaetano Pesce’s armchair of moulded polyurethane foam, sold compressed in a flat package and expanding to shape when opened.",
+   "more": "Pesce designed the UP series in 1969 for C&B Italia, which became B&B Italia. The foam body had no internal frame and was vacuum-packed flat, then swelled to its full shape once the package was opened. The best-known model, the UP5, has a female figure and is often read as a comment on women’s condition, with its ball-shaped footstool as a ball and chain.",
+   "status": "Still produced by B&B Italia.",
+   "es": {
+    "title": "Sillón de la serie UP",
+    "date": "1969",
+    "materials": "Espuma de poliuretano moldeada con funda de tela elástica",
+    "key": "El sillón de espuma de poliuretano moldeada de Gaetano Pesce, vendido comprimido en un paquete plano que se expande hasta su forma al abrirse.",
+    "more": "Pesce diseñó la serie UP en 1969 para C&B Italia, que luego sería B&B Italia. El cuerpo de espuma no tenía estructura interna y se envasaba al vacío y plano, y se hinchaba hasta su forma completa al abrir el paquete. El modelo más conocido, el UP5, tiene figura femenina y suele leerse como un comentario sobre la condición de la mujer, con su puf esférico como bola y cadena.",
+    "status": "Sigue en producción por B&B Italia."
+   },
+   "refs": []
+  },
+  {
+   "id": "vw-golf-1974",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Volkswagen Golf Mk1",
+   "designers": [
+    "giorgetto-giugiaro"
+   ],
+   "maker": "Volkswagen",
+   "year": 1974,
+   "date": "1974",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Sheet steel body",
+   "tech": [],
+   "key": "Volkswagen’s compact front-wheel-drive hatchback, styled by Giorgetto Giugiaro, which replaced the Beetle.",
+   "more": "Launched in 1974, the Golf was Volkswagen’s successor to the rear-engined, air-cooled Beetle. It had a transverse water-cooled engine driving the front wheels and a sharp-edged, boxy body styled by Giugiaro’s Italdesign, with a hatchback rear door. It set the pattern for the compact family hatchback and has been made in many later generations.",
+   "status": "The model continues in later generations; first-generation cars survive with collectors.",
+   "es": {
+    "title": "Volkswagen Golf (primera generación)",
+    "date": "1974",
+    "materials": "Carrocería de chapa de acero",
+    "key": "El hatchback compacto de tracción delantera de Volkswagen, con diseño de Giorgetto Giugiaro, que reemplazó al Beetle.",
+    "more": "Lanzado en 1974, el Golf fue el sucesor de Volkswagen del Beetle, de motor trasero y refrigerado por aire. Tenía un motor transversal refrigerado por agua que movía las ruedas delanteras y una carrocería cuadrada de aristas marcadas, diseñada por Italdesign de Giugiaro, con portón trasero. Fijó el patrón del hatchback familiar compacto y se ha fabricado en muchas generaciones posteriores.",
+    "status": "El modelo continúa en generaciones posteriores; los autos de la primera generación se conservan entre coleccionistas.",
+    "short": "VW Golf Mk1"
+   },
+   "refs": [],
+   "short": "VW Golf Mk1"
+  },
+  {
+   "id": "cisitalia-202-1947",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Cisitalia 202",
+   "designers": [
+    "pininfarina"
+   ],
+   "maker": "Cisitalia; body by Pinin Farina",
+   "year": 1947,
+   "date": "1947",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Hand-formed metal bodywork on a steel chassis",
+   "tech": [],
+   "movements": [
+    "italian-design"
+   ],
+   "key": "A sports coupé with a continuous, flowing body by Pinin Farina, in which wings, bonnet and cabin merge into one sculpted shape.",
+   "more": "Pinin Farina built the bodywork on the Cisitalia 202 chassis in 1947, replacing separate wings and running boards with a single smooth surface. The car became the first automobile acquired by the Museum of Modern Art in New York, which showed it in the 1951 exhibition Eight Automobiles. It is often cited as an example of the Italian coachbuilders’ skill as a design culture.",
+   "status": "Examples survive in museums and private collections, including one at the Museum of Modern Art.",
+   "es": {
+    "title": "Cisitalia 202",
+    "date": "1947",
+    "materials": "Carrocería de metal formada a mano sobre chasis de acero",
+    "key": "Un cupé deportivo de carrocería continua y fluida de Pinin Farina, en que guardabarros, capó y cabina se funden en una sola forma esculpida.",
+    "more": "Pinin Farina construyó la carrocería sobre el chasis del Cisitalia 202 en 1947 y reemplazó los guardabarros y estribos separados por una sola superficie lisa. El auto fue el primero adquirido por el Museo de Arte Moderno de Nueva York, que lo mostró en la exposición Eight Automobiles de 1951. Se cita a menudo como ejemplo de la destreza de los carroceros italianos como cultura del proyecto.",
+    "status": "Se conservan ejemplares en museos y colecciones privadas, entre ellos uno en el Museo de Arte Moderno."
+   },
+   "refs": []
+  },
+  {
+   "id": "kilta-1953",
+   "level": "normal",
+   "discipline": "product",
+   "type": "tableware",
+   "title": "Kilta tableware",
+   "designers": [
+    "kaj-franck"
+   ],
+   "maker": "Arabia",
+   "year": 1953,
+   "date": "1953",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Glazed ceramic",
+   "tech": [],
+   "movements": [
+    "scandinavian-design"
+   ],
+   "key": "Kaj Franck’s tableware for Arabia, sold as separate, combinable and stackable pieces instead of fixed dinner sets.",
+   "more": "Franck designed Kilta for the Finnish firm Arabia as a small family of plain pieces that could be bought one at a time and used for several purposes. The simple forms and colours stacked easily, which suited small flats and modest households. The range was later reworked and renamed Teema, and it set a standard for democratic Scandinavian design.",
+   "status": "Teema, its successor, is still in production.",
+   "es": {
+    "title": "Vajilla Kilta",
+    "date": "1953",
+    "materials": "Cerámica esmaltada",
+    "key": "La vajilla de Kaj Franck para Arabia, vendida en piezas sueltas, combinables y apilables en vez de juegos cerrados.",
+    "more": "Franck diseñó Kilta para la empresa finlandesa Arabia como una pequeña familia de piezas sencillas que se podían comprar de a una y usar para varios fines. Las formas y colores simples se apilaban con facilidad, algo útil en departamentos pequeños y hogares modestos. La serie fue reelaborada más tarde y rebautizada Teema, y marcó un estándar del diseño democrático escandinavo.",
+    "status": "Su sucesora, Teema, sigue en producción."
+   },
+   "refs": []
+  },
+  {
+   "id": "braun-t3-1958",
+   "level": "normal",
+   "discipline": "product",
+   "type": "radio",
+   "title": "Braun T3 pocket radio",
+   "designers": [
+    "dieter-rams"
+   ],
+   "maker": "Braun",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Plastic housing with a perforated grille",
+   "tech": [],
+   "movements": [],
+   "key": "Dieter Rams’s transistor pocket radio for Braun, a plain box with a round dial and a grille of perforations.",
+   "more": "Transistors let radios shrink to pocket size, and Rams gave the T3 a minimal case in which the dial and the speaker perforations form the only decoration. The layout of round dial and grille is often cited as an antecedent of the iPod’s later design. The T3 belongs to the line of Braun products that made restraint a brand.",
+   "status": "Examples are kept in museum and private collections.",
+   "es": {
+    "title": "Radio de bolsillo Braun T3",
+    "date": "1958",
+    "materials": "Carcasa de plástico con rejilla perforada",
+    "key": "La radio de bolsillo a transistores de Dieter Rams para Braun, una caja simple con dial redondo y una rejilla de perforaciones.",
+    "more": "Los transistores permitieron reducir las radios al tamaño de un bolsillo, y Rams dio a la T3 una caja mínima en que el dial y las perforaciones del parlante son el único adorno. La disposición de dial redondo y rejilla se cita a menudo como antecedente del diseño posterior del iPod. La T3 pertenece a la línea de productos Braun que hizo de la sobriedad una marca.",
+    "status": "Se conservan ejemplares en colecciones de museos y privadas.",
+    "short": "Braun T3"
+   },
+   "refs": [],
+   "short": "Braun T3"
+  },
+  {
+   "id": "lego-brick-1958",
+   "level": "normal",
+   "discipline": "product",
+   "type": "object",
+   "title": "LEGO brick",
+   "designers": [],
+   "maker": "LEGO (Godtfred Kirk Christiansen)",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Moulded plastic",
+   "tech": [
+    "injection-moulding"
+   ],
+   "movements": [],
+   "key": "The LEGO brick in its 1958 form, a moulded plastic block with studs on top and tubes underneath that clamp it to any other brick.",
+   "more": "Godtfred Kirk Christiansen patented the coupling of studs and tubes in 1958, building on earlier LEGO bricks. Injection moulding made pieces so exact that any brick fits with any other, old or new, so the toy became an open system rather than a set of fixed models. The postwar growth of toy markets gave the system a wide audience.",
+   "status": "Still in production; the 1958 coupling remains the basis of the system.",
+   "es": {
+    "title": "Ladrillo LEGO",
+    "date": "1958",
+    "materials": "Plástico moldeado",
+    "key": "El ladrillo LEGO en su forma de 1958: un bloque de plástico moldeado con tetones arriba y tubos abajo que lo sujetan a cualquier otro ladrillo.",
+    "more": "Godtfred Kirk Christiansen patentó en 1958 el acoplamiento de tetones y tubos, a partir de ladrillos LEGO anteriores. El moldeo por inyección logró piezas tan exactas que cualquier ladrillo encaja con cualquier otro, antiguo o nuevo, y el juguete pasó a ser un sistema abierto y no un conjunto de modelos fijos. El crecimiento del mercado de juguetes en la posguerra dio al sistema un público amplio.",
+    "status": "Sigue en producción; el acoplamiento de 1958 es todavía la base del sistema."
+   },
+   "refs": []
+  },
+  {
+   "id": "ball-chair-1963",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Ball Chair",
+   "designers": [
+    "eero-aarnio"
+   ],
+   "maker": "Asko",
+   "year": 1963,
+   "date": "1963",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Fibreglass-reinforced polyester shell, upholstered interior",
+   "tech": [
+    "fibreglass-polyester"
+   ],
+   "movements": [
+    "pop-design"
+   ],
+   "key": "Eero Aarnio’s spherical armchair, a fibreglass shell on a pedestal with a cut-out opening, like a small room.",
+   "more": "Aarnio designed the Ball Chair in 1963, and it was produced by the Finnish firm Asko. Fibreglass-reinforced polyester could be moulded into a single hollow sphere, which a frame of wood or metal could not have given. Its bright colours and playful shape made it an icon of pop design.",
+   "status": "Still in production; examples are in museum collections.",
+   "es": {
+    "title": "Silla Ball (Globo)",
+    "date": "1963",
+    "materials": "Carcasa de poliéster reforzado con fibra de vidrio, interior tapizado",
+    "key": "El sillón esférico de Eero Aarnio: una carcasa de fibra de vidrio sobre un pedestal, con una abertura recortada, como una pequeña habitación.",
+    "more": "Aarnio diseñó la Ball Chair en 1963 y la produjo la empresa finlandesa Asko. El poliéster reforzado con fibra de vidrio se podía moldear en una sola esfera hueca, algo que una estructura de madera o metal no habría dado. Sus colores vivos y su forma lúdica la convirtieron en un icono del diseño pop.",
+    "status": "Sigue en producción; hay ejemplares en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "falkland-lamp-1964",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Falkland lamp",
+   "designers": [
+    "bruno-munari"
+   ],
+   "maker": "Danese",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Elastic knitted fabric tube, metal rings",
+   "tech": [],
+   "key": "Bruno Munari's lamp of elastic fabric stretched over metal rings, which folds away into a flat box.",
+   "more": "Munari designed it for Danese in 1964. A tube of stretch knitted fabric is held open by a series of rings of different sizes, giving a lantern-like shape. Taken out of its box it is hung from the ceiling, and it can be collapsed and packed again. It shows Munari's interest in simple, playful objects made from light industrial materials.",
+   "status": "Still in production by Danese.",
+   "es": {
+    "title": "Lámpara Falkland",
+    "date": "1964",
+    "materials": "Tubo de tela elástica de punto, anillos metálicos",
+    "key": "La lámpara de Bruno Munari hecha de tela elástica tendida sobre anillos metálicos, que se pliega en una caja plana.",
+    "more": "Munari la diseñó para Danese en 1964. Un tubo de tela de punto elástica se mantiene abierto con una serie de anillos de distintos tamaños, lo que da una forma de farol. Al sacarla de su caja se cuelga del techo, y se puede plegar y volver a guardar. Muestra el interés de Munari por los objetos simples y lúdicos hechos con materiales industriales livianos.",
+    "status": "Sigue en producción por Danese."
+   },
+   "refs": [],
+   "movements": [
+    "italian-design"
+   ]
+  },
+  {
+   "id": "engelbart-demo-1968",
+   "level": "normal",
+   "discipline": "product",
+   "type": "interface",
+   "title": "NLS and the computer mouse (\"Mother of All Demos\")",
+   "designers": [
+    "douglas-engelbart"
+   ],
+   "maker": "Stanford Research Institute",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Computer system with display, keyboard, chord keyset and mouse",
+   "tech": [],
+   "key": "The public demonstration in San Francisco of Douglas Engelbart's NLS system, which showed the mouse, hypertext and windows working together on one screen.",
+   "more": "Engelbart and his team at the Stanford Research Institute presented NLS in December 1968 at a computer conference in San Francisco. The system let one person edit linked text, work in several windows on a display and point with a mouse, in real time and with remote collaborators. The demo was later nicknamed the 'Mother of All Demos'. It put forward the idea of the computer as a tool for augmenting human work, and many of its elements became basic to interaction design.",
+   "status": "The demonstration survives as a film record; the original system no longer exists in use.",
+   "es": {
+    "title": "Sistema NLS y el ratón («la madre de todas las demos»)",
+    "date": "1968",
+    "materials": "Sistema informático con pantalla, teclado, teclado de acordes y ratón",
+    "key": "La demostración pública en San Francisco del sistema NLS de Douglas Engelbart, que mostró el ratón, el hipertexto y las ventanas funcionando juntos en una pantalla.",
+    "more": "Engelbart y su equipo del Stanford Research Institute presentaron NLS en diciembre de 1968 en un congreso de computación en San Francisco. El sistema permitía a una persona editar texto enlazado, trabajar en varias ventanas en una pantalla y señalar con un ratón, en tiempo real y con colaboradores a distancia. La demostración recibió después el apodo de «la madre de todas las demos». Planteó la idea del computador como herramienta para ampliar el trabajo humano, y muchos de sus elementos pasaron a ser básicos en el diseño de interacción.",
+    "status": "La demostración se conserva en registro fílmico; el sistema original ya no está en uso.",
+    "short": "NLS y el ratón"
+   },
+   "refs": [],
+   "short": "NLS and the mouse"
+  },
+  {
+   "id": "sacco-1968",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Sacco bean bag",
+   "designers": [],
+   "maker": "Piero Gatti, Cesare Paolini and Franco Teodoro for Zanotta",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Polystyrene beads in a flexible fabric or leather-like cover",
+   "tech": [],
+   "key": "A seat with no fixed shape, a bag filled with polystyrene beads that molds itself to the body of whoever sits on it.",
+   "more": "Piero Gatti, Cesare Paolini and Franco Teodoro designed it in 1968 for Zanotta. It has no frame, legs or back: the beads inside the bag shift so that each person gives it a different shape. It is often seen as an example of Italian radical and anti-design thinking, and of a more informal way of sitting. It has no 'right' posture, which challenged the idea of the chair as a fixed form.",
+   "status": "Still in production by Zanotta.",
+   "es": {
+    "title": "Puf Sacco",
+    "date": "1968",
+    "materials": "Bolitas de poliestireno dentro de una funda flexible de tela o similar al cuero",
+    "key": "Un asiento sin forma fija, una bolsa llena de bolitas de poliestireno que se amolda al cuerpo de quien se sienta.",
+    "more": "Piero Gatti, Cesare Paolini y Franco Teodoro lo diseñaron en 1968 para Zanotta. No tiene estructura, patas ni respaldo: las bolitas del interior se desplazan y cada persona le da una forma distinta. Suele verse como un ejemplo del pensamiento radical y antidiseño italiano, y de una manera más informal de sentarse. No tiene una postura «correcta», lo que cuestionó la idea de la silla como forma fija.",
+    "status": "Sigue en producción por Zanotta."
+   },
+   "movements": [
+    "radical-design"
+   ],
+   "refs": []
+  }
+ ]
+}

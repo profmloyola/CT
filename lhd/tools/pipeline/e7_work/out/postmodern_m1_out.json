@@ -1,0 +1,340 @@
+[
+ {
+  "rtype": "production",
+  "id": "generative-image-models",
+  "sub": "tools",
+  "start": 2022,
+  "end": 2026,
+  "cont": true,
+  "date": "2022 →",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "US",
+   "GB"
+  ],
+  "name": "Text-to-image generative models",
+  "short": "Text-to-image AI",
+  "key": "Programs such as DALL·E 2, Midjourney and Stable Diffusion, all opened to the public in 2022, create images from a written description.",
+  "origin": "OpenAI presented DALL·E 2 in April 2022, and the research lab Midjourney and the company Stability AI, with its open Stable Diffusion model, released their systems in the course of the same year. All three are trained on very large collections of images paired with text and produce a new image from a short prompt.",
+  "enabled": "A person can describe a picture in words and obtain several visual options in seconds, then refine them by changing the prompt or asking for variations. Illustration, concept art, mock-ups and cover images can be explored without drawing or photographing anything.",
+  "change": "Part of a designer's work shifts from making the image by hand to describing, selecting and editing it. The tools opened image-making to people without drawing skills, and they raised open questions about authorship and about the images the models were trained on.",
+  "economy": "Producing a first image became very quick and cheap, which put pressure on commissions for stock images and routine illustration; illustrators and photographers contested the use of their work as training material.",
+  "relations": "They belong to the context of generative artificial intelligence, and the cover of Cosmopolitan magazine of 2022, made with DALL·E 2, is an early example of their use in a mainstream publication.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Modelos generativos de texto a imagen",
+   "short": "IA de texto a imagen",
+   "date": "2022 →",
+   "key": "Programas como DALL·E 2, Midjourney y Stable Diffusion, abiertos al público en 2022, crean imágenes a partir de una descripción escrita.",
+   "origin": "OpenAI presentó DALL·E 2 en abril de 2022, y el laboratorio Midjourney y la empresa Stability AI, con su modelo abierto Stable Diffusion, lanzaron sus sistemas a lo largo del mismo año. Los tres se entrenan con colecciones muy grandes de imágenes emparejadas con texto y producen una imagen nueva a partir de una instrucción breve.",
+   "enabled": "Una persona puede describir una imagen con palabras y obtener varias opciones visuales en segundos, y luego afinarlas cambiando la instrucción o pidiendo variaciones. La ilustración, el arte conceptual, las maquetas y las imágenes de portada pueden explorarse sin dibujar ni fotografiar nada.",
+   "change": "Una parte del trabajo del diseñador pasa de hacer la imagen a mano a describirla, seleccionarla y editarla. Las herramientas abrieron la creación de imágenes a personas sin habilidad para dibujar y plantearon preguntas abiertas sobre la autoría y sobre las imágenes con que se entrenaron los modelos.",
+   "economy": "Producir una primera imagen se volvió muy rápido y barato, lo que presionó los encargos de imágenes de archivo y de ilustración rutinaria; ilustradores y fotógrafos cuestionaron el uso de su trabajo como material de entrenamiento.",
+   "relations": "Forman parte del contexto de la inteligencia artificial generativa, y la portada de la revista Cosmopolitan de 2022, hecha con DALL·E 2, es un ejemplo temprano de su uso en una publicación de gran circulación."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-bonsiepe-dependencia-1978",
+  "level": "normal",
+  "year": 1978,
+  "date": "1978",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "MX",
+   "CL",
+   "AR"
+  ],
+  "genre": "society",
+  "author": "Gui Bonsiepe",
+  "name": "Industrial design, technology and dependence",
+  "short": "Bonsiepe",
+  "key": "An essay by Gui Bonsiepe, a designer trained at Ulm who worked in Chile, on how design in countries on the periphery depends on imported technology and what designers can do about it.",
+  "ideas": [
+   "Design in Latin America cannot be understood apart from the technological dependence of its industry on the industrialised countries.",
+   "Copying products and styles from the centre does not answer local needs.",
+   "Design can be a tool for technological autonomy, if it is tied to local industry, materials and real needs.",
+   "The designer's role is political as well as technical: choosing which problems to solve is part of the work."
+  ],
+  "impact": "Bonsiepe, born in Germany, studied at the Ulm school and worked in Chile and other Latin American countries in the 1970s. The text is widely cited in Latin American discussion of design, development and the periphery.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [
+    "gui-bonsiepe"
+   ],
+   "works": []
+  },
+  "es": {
+   "author": "Gui Bonsiepe",
+   "name": "Diseño industrial, tecnología y dependencia",
+   "short": "Bonsiepe",
+   "date": "1978",
+   "key": "Un ensayo de Gui Bonsiepe, diseñador formado en Ulm que trabajó en Chile, sobre cómo el diseño en los países de la periferia depende de la tecnología importada y qué pueden hacer los diseñadores al respecto.",
+   "ideas": [
+    "El diseño en América Latina no se entiende sin la dependencia tecnológica de su industria respecto de los países industrializados.",
+    "Copiar productos y estilos del centro no responde a las necesidades locales.",
+    "El diseño puede ser una herramienta de autonomía tecnológica, si se liga a la industria, los materiales y las necesidades reales del lugar.",
+    "El papel del diseñador es político además de técnico: elegir qué problemas resolver es parte del trabajo."
+   ],
+   "impact": "Bonsiepe, nacido en Alemania, estudió en la escuela de Ulm y trabajó en Chile y otros países latinoamericanos en los años setenta. El texto se cita ampliamente en la discusión latinoamericana sobre diseño, desarrollo y periferia."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-hebdige-subculture-1979",
+  "level": "normal",
+  "year": 1979,
+  "date": "1979",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "genre": "society",
+  "author": "Dick Hebdige",
+  "name": "Subculture: The Meaning of Style",
+  "short": "Hebdige",
+  "key": "Dick Hebdige’s 1979 book, which reads the clothes and objects of British youth subcultures, above all the punks, as a language of resistance.",
+  "ideas": [
+   "Style in a subculture is a form of communication: clothes, music and objects carry meaning.",
+   "Subcultures take everyday objects and give them new meanings, a process of bricolage; the punks’ safety pin is the usual example.",
+   "Subcultural styles express rejection of, and tension with, the dominant culture.",
+   "The fashion and music industries tend to absorb a subculture’s style and sell it back."
+  ],
+  "impact": "Published in London by Methuen in 1979 and written in the tradition of British cultural studies, it studies mods, skinheads, rastas and punks. It became a basic text for the study of youth style, fashion and, later, streetwear.",
+  "links": {
+   "movements": [
+    "punk-fashion"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Dick Hebdige",
+   "name": "Subcultura: el significado del estilo",
+   "short": "Hebdige",
+   "date": "1979",
+   "key": "El libro de Dick Hebdige de 1979, que lee la ropa y los objetos de las subculturas juveniles británicas, sobre todo los punks, como un lenguaje de resistencia.",
+   "ideas": [
+    "El estilo de una subcultura es una forma de comunicación: la ropa, la música y los objetos portan significado.",
+    "Las subculturas toman objetos cotidianos y les dan nuevos significados, un proceso de bricolaje; el alfiler de gancho de los punks es el ejemplo habitual.",
+    "Los estilos subculturales expresan rechazo y tensión frente a la cultura dominante.",
+    "Las industrias de la moda y de la música tienden a absorber el estilo de una subcultura y a venderlo de vuelta."
+   ],
+   "impact": "Publicado en Londres por Methuen en 1979 y escrito en la tradición de los estudios culturales británicos, estudia a mods, skinheads, rastas y punks. Se volvió un texto básico para el estudio del estilo juvenil, la moda y, más tarde, el streetwear."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-forty-objects-desire-1986",
+  "level": "normal",
+  "year": 1986,
+  "date": "1986",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "genre": "history",
+  "author": "Adrian Forty",
+  "name": "Objects of Desire: Design and Society since 1750",
+  "short": "Forty",
+  "key": "Adrian Forty’s social history of design, which explains designed goods through the industries, markets and ideas that shaped them rather than through the genius of designers.",
+  "ideas": [
+   "Design is not the neutral result of a designer’s taste: it is shaped by the way goods are made, sold and used.",
+   "Designed objects carry ideas about the world, such as ideas of class, gender, hygiene or modernity.",
+   "Factory production, the division of labour and the growth of consumption changed what designers did and what they designed.",
+   "The history of design belongs with economic and social history."
+  ],
+  "impact": "Published in London by Thames & Hudson in 1986, it covers design from the mid-eighteenth century to the twentieth and has been widely read in design courses. It is close in spirit to this timeline’s own approach, which presents design as a response to its context.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Adrian Forty",
+   "name": "Objetos de deseo: diseño y sociedad desde 1750",
+   "short": "Forty",
+   "date": "1986",
+   "key": "La historia social del diseño de Adrian Forty, que explica los bienes diseñados por las industrias, los mercados y las ideas que los moldearon, y no por el genio de los diseñadores.",
+   "ideas": [
+    "El diseño no es el resultado neutro del gusto de un diseñador: lo moldea la manera en que los bienes se fabrican, se venden y se usan.",
+    "Los objetos diseñados portan ideas sobre el mundo, como ideas de clase, de género, de higiene o de modernidad.",
+    "La producción en fábrica, la división del trabajo y el crecimiento del consumo cambiaron lo que hacían los diseñadores y lo que diseñaban.",
+    "La historia del diseño pertenece junto a la historia económica y social."
+   ],
+   "impact": "Publicado en Londres por Thames & Hudson en 1986, abarca el diseño desde mediados del siglo XVIII hasta el siglo XX y se ha leído mucho en los cursos de diseño. Es cercano en espíritu al enfoque de esta línea de tiempo, que presenta el diseño como respuesta a su contexto."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-brundtland-1987",
+  "level": "normal",
+  "year": 1987,
+  "date": "1987",
+  "regions": [
+   "global"
+  ],
+  "countries": [],
+  "genre": "society",
+  "author": "World Commission on Environment and Development",
+  "name": "Our Common Future (Brundtland Report)",
+  "short": "Brundtland",
+  "key": "The 1987 report of the United Nations commission chaired by Gro Harlem Brundtland, which defined sustainable development and gave the idea its public standing.",
+  "ideas": [
+   "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own.",
+   "Environmental protection and economic development have to be treated together, not as opposites.",
+   "Poverty and environmental damage are linked, so the needs of the poor deserve priority.",
+   "Governments, industry and citizens share responsibility for changing patterns of production and consumption."
+  ],
+  "impact": "The commission was set up by the United Nations in 1983 and chaired by Norway’s Gro Harlem Brundtland; its report was published in 1987. Its definition became the common starting point for later environmental policy and for sustainable design.",
+  "links": {
+   "movements": [
+    "sustainable-design"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Comisión Mundial sobre el Medio Ambiente y el Desarrollo",
+   "name": "Nuestro futuro común (Informe Brundtland)",
+   "short": "Brundtland",
+   "date": "1987",
+   "key": "El informe de 1987 de la comisión de las Naciones Unidas presidida por Gro Harlem Brundtland, que definió el desarrollo sostenible y dio a la idea su lugar público.",
+   "ideas": [
+    "El desarrollo sostenible es el que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras de satisfacer las suyas.",
+    "La protección ambiental y el desarrollo económico deben tratarse juntos, no como opuestos.",
+    "La pobreza y el daño ambiental están ligados, por lo que las necesidades de los pobres merecen prioridad.",
+    "Gobiernos, industria y ciudadanos comparten la responsabilidad de cambiar los patrones de producción y consumo."
+   ],
+   "impact": "La comisión fue creada por las Naciones Unidas en 1983 y presidida por la noruega Gro Harlem Brundtland; su informe se publicó en 1987. Su definición se volvió el punto de partida común de la política ambiental posterior y del diseño sostenible."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "minimalism-fashion-product",
+  "level": "normal",
+  "disciplines": [
+   "fashion",
+   "product"
+  ],
+  "start": 1988,
+  "end": 2008,
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "DE",
+   "AT",
+   "US",
+   "GB",
+   "JP"
+  ],
+  "name": "Minimalism in fashion and product design",
+  "short": "Minimalism",
+  "key": "A reduced, quiet style of the 1990s in clothes and objects, from Jil Sander and Helmut Lang to Muji, Jasper Morrison and Naoto Fukasawa.",
+  "traits": [
+   "Plain, reduced forms with little or no ornament",
+   "Muted colours and careful attention to materials and cut",
+   "Discreet or absent logos",
+   "Everyday objects designed to be unobtrusive",
+   "Fashion and product design sharing one restrained look"
+  ],
+  "context": "It followed the 1980s, a decade of postmodern quotation, ornament and conspicuous logos. In fashion, designers such as Jil Sander, Helmut Lang and Calvin Klein made clean, spare clothes; in product design, Muji sold plain household goods under no brand name, and Morrison and Fukasawa designed objects that seek to go unnoticed. Japan’s designers, Fukasawa and Muji among them, were central to the product side.",
+  "shift": "From the citation, ornament and showy label of the 1980s to reduced form, material and function. Morrison and Fukasawa gave the idea a name in 2006 with their ‘Super Normal’ exhibition in Tokyo, which celebrated ordinary, well-made objects.",
+  "links": {
+   "movements": [],
+   "institutions": [
+    "inst-muji"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Minimalismo en moda y producto",
+   "short": "Minimalismo",
+   "key": "Un estilo reducido y silencioso de los años noventa en ropa y objetos, de Jil Sander y Helmut Lang a Muji, Jasper Morrison y Naoto Fukasawa.",
+   "traits": [
+    "Formas simples y reducidas, con poco o ningún ornamento",
+    "Colores apagados y atención cuidadosa a los materiales y al corte",
+    "Logos discretos o ausentes",
+    "Objetos cotidianos diseñados para pasar inadvertidos",
+    "Moda y diseño de producto con una misma apariencia sobria"
+   ],
+   "context": "Siguió a los años ochenta, una década de cita posmoderna, ornamento y logos ostentosos. En la moda, diseñadores como Jil Sander, Helmut Lang y Calvin Klein hicieron ropa limpia y escueta; en el diseño de producto, Muji vendía artículos domésticos simples sin marca, y Morrison y Fukasawa diseñaban objetos que buscan pasar inadvertidos. Los diseñadores japoneses, entre ellos Fukasawa y Muji, fueron centrales en el lado del producto.",
+   "shift": "De la cita, el ornamento y la etiqueta vistosa de los ochenta a la forma, el material y la función reducidos. Morrison y Fukasawa le dieron nombre a la idea en 2006 con su exposición «Super Normal» en Tokio, que celebró los objetos ordinarios y bien hechos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-isi-cepal",
+  "item": "th-bonsiepe-dependencia-1978",
+  "note": "The theory of dependence → design seen as a tool of technological autonomy for countries on the periphery.",
+  "es": {
+   "note": "La teoría de la dependencia → el diseño visto como herramienta de autonomía tecnológica para los países de la periferia."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-punk",
+  "item": "th-hebdige-subculture-1979",
+  "note": "Punk's recycled objects and open rejection of the mainstream → Hebdige reads its style as bricolage of signs and as resistance.",
+  "es": {
+   "note": "Los objetos reciclados del punk y su rechazo abierto a lo establecido → Hebdige lee su estilo como bricolaje de signos y como resistencia."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-industrial-revolution",
+  "item": "th-forty-objects-desire-1986",
+  "note": "Factory production, the division of labour and mass consumption → Forty explains design as shaped by them, not by designers' genius alone.",
+  "es": {
+   "note": "La producción en fábrica, la división del trabajo y el consumo masivo → Forty explica el diseño como moldeado por ellos, no solo por el genio de los diseñadores."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-climate-crisis",
+  "item": "th-brundtland-1987",
+  "note": "Environmental damage framed as a problem of development → a definition of sustainability that later design took as its starting point.",
+  "es": {
+   "note": "El daño ambiental planteado como problema de desarrollo → una definición de sostenibilidad que el diseño posterior tomó como punto de partida."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-postmodern-culture",
+  "item": "minimalism-fashion-product",
+  "note": "Reaction against 1980s quotation, ornament and loud logos → reduced form, plain materials and discreet labels in clothes and objects.",
+  "es": {
+   "note": "Reacción contra la cita, el ornamento y los logos ostentosos de los ochenta → forma reducida, materiales simples y etiquetas discretas en ropa y objetos."
+  },
+  "refs": []
+ }
+]

@@ -1,0 +1,50 @@
+{
+ "era": {
+  "id": "reform",
+  "start": 1851,
+  "end": 1914,
+  "name": "Reform",
+  "intro": "A reaction against poor industrial quality; the brand, advertising and the profession are born.",
+  "es": {
+   "name": "Reforma",
+   "intro": "Reacción contra la mala calidad industrial; nacen la marca, la publicidad y la profesión."
+  }
+ },
+ "tracks": [
+  {
+   "id": "political",
+   "label": "Political",
+   "es": {
+    "label": "Político"
+   }
+  },
+  {
+   "id": "economic",
+   "label": "Economic",
+   "es": {
+    "label": "Económico"
+   }
+  },
+  {
+   "id": "social",
+   "label": "Social",
+   "es": {
+    "label": "Social"
+   }
+  },
+  {
+   "id": "cultural",
+   "label": "Cultural",
+   "es": {
+    "label": "Cultural"
+   }
+  },
+  {
+   "id": "technological",
+   "label": "Technological",
+   "es": {
+    "label": "Tecnológico"
+   }
+  }
+ ]
+}

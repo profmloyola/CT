@@ -1,0 +1,277 @@
+[
+ {
+  "rtype": "production",
+  "id": "steam-press-machine-paper",
+  "sub": "processes",
+  "start": 1814,
+  "cont": true,
+  "date": "1814 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB",
+   "DE"
+  ],
+  "name": "Steam printing press and machine-made paper",
+  "short": "Steam press, paper",
+  "key": "The steam-driven cylinder press, first used to print The Times in 1814, and the paper-making machine of the early 1800s made printed matter much cheaper and more plentiful.",
+  "origin": "Friedrich Koenig, a German printer working in London with Andreas Bauer, built a steam-driven cylinder press, and The Times was printed on it on 29 November 1814. The continuous paper machine began with Nicholas-Louis Robert in France and was developed in England in the early 1800s by Bryan Donkin for the Fourdrinier brothers, who financed it.",
+  "enabled": "Presses that inked and printed faster than the hand press, and paper made in a long continuous roll instead of sheet by sheet. Together they allowed long print runs of newspapers, books and sheets of text in a day.",
+  "change": "Printed matter became cheap enough for a mass public, so printers and publishers had to design pages, headings and illustrations for large editions. Newspapers and illustrated weeklies could be made in quantity, and big sheets of paper opened the way to the large poster.",
+  "economy": "Newspapers such as The Times invested in steam presses to print more copies in less time. In the following decades, rags gave way to other raw materials for paper, lowering costs further.",
+  "relations": "The steam press and the paper machine lay behind the illustrated press of the 1840s, such as The Illustrated London News, and later behind the street poster.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Prensa de vapor y papel continuo",
+   "short": "Prensa y papel",
+   "date": "1814 →",
+   "key": "La prensa de cilindro movida a vapor, usada por primera vez para imprimir The Times en 1814, y la máquina de hacer papel de comienzos del siglo XIX abarataron y multiplicaron lo impreso.",
+   "origin": "Friedrich Koenig, un impresor alemán que trabajaba en Londres con Andreas Bauer, construyó una prensa de cilindro movida a vapor, y The Times se imprimió en ella el 29 de noviembre de 1814. La máquina de papel continuo partió con Nicholas-Louis Robert en Francia y la desarrolló en Inglaterra, a comienzos del siglo XIX, Bryan Donkin para los hermanos Fourdrinier, que la financiaron.",
+   "enabled": "Prensas que entintaban e imprimían más rápido que la prensa manual, y papel fabricado en un largo rollo continuo en vez de hoja por hoja. Juntos permitieron grandes tiradas de periódicos, libros y hojas de texto en un solo día.",
+   "change": "Lo impreso se abarató lo bastante para un público masivo, así que impresores y editores debieron diseñar páginas, titulares e ilustraciones para grandes ediciones. Diarios y semanarios ilustrados pudieron hacerse en cantidad, y los grandes pliegos de papel abrieron el camino al cartel de gran formato.",
+   "economy": "Diarios como The Times invirtieron en prensas de vapor para imprimir más ejemplares en menos tiempo. En las décadas siguientes, otras materias primas reemplazaron a los trapos en la fabricación de papel y bajaron aún más los costos.",
+   "relations": "La prensa de vapor y la máquina de papel estuvieron detrás de la prensa ilustrada de la década de 1840, como The Illustrated London News, y más tarde detrás del cartel callejero."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-smith-wealth-of-nations-1776",
+  "level": "normal",
+  "year": 1776,
+  "date": "1776",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "genre": "society",
+  "author": "Adam Smith",
+  "name": "The Wealth of Nations",
+  "short": "Smith",
+  "key": "Adam Smith’s book of 1776 on the causes of national wealth, which opened with the division of labour, illustrated by the making of pins.",
+  "ideas": [
+   "Dividing a job into simple tasks, each done by a different worker, raises output far above what the same workers could make alone.",
+   "His example is a pin factory, where drawing the wire, cutting it and making the head are separate operations.",
+   "The division of labour is limited by the extent of the market, so larger markets allow more specialisation.",
+   "Wealth comes from the labour of a nation and from its productivity, not from hoarding gold and silver.",
+   "Smith also warned that a worker confined to a few simple operations may lose intelligence and initiative."
+  ],
+  "impact": "Published in London in 1776, with several further editions in Smith’s lifetime, it became the founding book of modern economics. Its picture of work divided into repeated tasks gave later writers on manufacture a way to describe the factory, and the separation between those who plan a product and those who make it.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Adam Smith",
+   "name": "La riqueza de las naciones",
+   "short": "Smith",
+   "date": "1776",
+   "key": "El libro de Adam Smith de 1776 sobre las causas de la riqueza de las naciones, que se abre con la división del trabajo, ilustrada con la fabricación de alfileres.",
+   "ideas": [
+    "Dividir una tarea en operaciones simples, cada una a cargo de un trabajador distinto, eleva la producción muy por encima de lo que los mismos obreros harían por separado.",
+    "Su ejemplo es una fábrica de alfileres, donde estirar el alambre, cortarlo y hacer la cabeza son operaciones separadas.",
+    "La división del trabajo está limitada por la extensión del mercado, de modo que los mercados más grandes permiten más especialización.",
+    "La riqueza viene del trabajo de una nación y de su productividad, no de acumular oro y plata.",
+    "Smith advirtió también que un obrero confinado a unas pocas operaciones simples puede perder inteligencia e iniciativa."
+   ],
+   "impact": "Publicado en Londres en 1776, con varias ediciones más en vida de Smith, se convirtió en el libro fundador de la economía moderna. Su imagen del trabajo dividido en tareas repetidas dio a escritores posteriores sobre la manufactura una forma de describir la fábrica y la separación entre quienes planifican un producto y quienes lo fabrican."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-pugin-contrasts-1836",
+  "level": "normal",
+  "year": 1836,
+  "date": "1836",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "genre": "criticism",
+  "author": "Augustus Welby Northmore Pugin",
+  "name": "Contrasts",
+  "short": "Pugin",
+  "key": "Pugin’s book of 1836, which set medieval buildings beside modern ones in paired plates to argue that the Gothic city was morally and artistically superior.",
+  "ideas": [
+   "Paired plates put a medieval town or building beside its modern counterpart, to the modern one’s disadvantage.",
+   "The decline of architecture reflects a decline in faith and in the way society treats its poor.",
+   "Medieval Christian building is the model against which modern taste should be judged.",
+   "The industrial town, with its factories and institutions, is condemned as a loss rather than a progress."
+  ],
+  "impact": "Pugin, a convert to Catholicism since 1835, published it in 1836 and brought out an enlarged second edition in 1841. It was the first of his polemics for the Gothic and prepared the ground for True Principles (1841), where he turned the moral argument into rules for design.",
+  "links": {
+   "movements": [
+    "gothic-revival"
+   ],
+   "institutions": [],
+   "designers": [
+    "pugin"
+   ],
+   "works": []
+  },
+  "es": {
+   "author": "Augustus Welby Northmore Pugin",
+   "name": "Contrastes",
+   "short": "Pugin",
+   "date": "1836",
+   "key": "El libro de Pugin de 1836, que puso edificios medievales junto a modernos en láminas pareadas para sostener que la ciudad gótica era moral y artísticamente superior.",
+   "ideas": [
+    "Láminas pareadas ponen una ciudad o un edificio medieval junto a su equivalente moderno, en desmedro de este último.",
+    "La decadencia de la arquitectura refleja una decadencia de la fe y del trato de la sociedad a sus pobres.",
+    "La construcción cristiana medieval es el modelo con que debe juzgarse el gusto moderno.",
+    "La ciudad industrial, con sus fábricas e instituciones, se condena como una pérdida y no como un progreso."
+   ],
+   "impact": "Pugin, converso al catolicismo desde 1835, lo publicó en 1836 y sacó una segunda edición ampliada en 1841. Fue la primera de sus polémicas a favor del gótico y preparó el terreno para True Principles (1841), donde convirtió el argumento moral en reglas de diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "gothic-revival",
+  "level": "essential",
+  "disciplines": [
+   "architecture",
+   "product",
+   "graphic"
+  ],
+  "start": 1830,
+  "end": 1900,
+  "fadeIn": 2,
+  "fadeOut": 2,
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "FR",
+   "DE",
+   "US"
+  ],
+  "name": "Gothic Revival",
+  "short": "Gothic Revival",
+  "key": "A nineteenth-century return to medieval Gothic forms, led by Pugin in Britain, which began as picturesque taste and became a moral argument about honest building and craft.",
+  "traits": [
+   "Pointed arches, tracery and steep roofs",
+   "Gothic detail carried into furniture, wallpaper, tiles, metalwork and stained glass",
+   "Honesty of construction and of materials as a principle",
+   "Churches and public buildings as the main commissions",
+   "Medieval craft held up as a model against the machine"
+  ],
+  "context": "It grew from the Romantic taste for the medieval, already seen in Horace Walpole’s Strawberry Hill in the eighteenth century, and from religious revival in the churches. After fire destroyed the Palace of Westminster in 1834, its rebuilding in a Gothic style by Charles Barry, with Pugin designing the interiors and details, made the Gothic a national style.",
+  "shift": "From the Gothic as picturesque decoration to the Gothic as a system of principles. Pugin’s True Principles (1841) argued that a building should show its structure and fit its purpose, an idea that Ruskin and later William Morris and the Arts and Crafts took up.",
+  "es": {
+   "name": "Neogótico",
+   "short": "Neogótico",
+   "key": "Un retorno decimonónico a las formas del gótico medieval, encabezado por Pugin en Gran Bretaña, que partió como gusto pintoresco y se volvió un argumento moral sobre la construcción y el oficio honestos.",
+   "traits": [
+    "Arcos apuntados, tracería y techos empinados",
+    "Detalle gótico llevado al mueble, el papel mural, los azulejos, la metalistería y los vitrales",
+    "La honestidad de la construcción y de los materiales como principio",
+    "Iglesias y edificios públicos como principales encargos",
+    "El oficio medieval como modelo frente a la máquina"
+   ],
+   "context": "Nació del gusto romántico por lo medieval, ya visible en Strawberry Hill de Horace Walpole en el siglo XVIII, y de la renovación religiosa en las iglesias. Tras el incendio que destruyó el Palacio de Westminster en 1834, su reconstrucción en estilo gótico por Charles Barry, con Pugin a cargo de los interiores y los detalles, hizo del gótico un estilo nacional.",
+   "shift": "Del gótico como decoración pintoresca al gótico como sistema de principios. True Principles (1841), de Pugin, sostuvo que un edificio debe mostrar su estructura y responder a su función, idea que retomaron Ruskin y más tarde William Morris y el Arts and Crafts."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-romanticism-gothic",
+  "item": "gothic-revival",
+  "note": "The Romantic taste for the medieval past turned the Gothic from picturesque decoration into a style with principles, built and argued for by Pugin and others.",
+  "es": {
+   "note": "El gusto romántico por el pasado medieval convirtió el gótico de decoración pintoresca en un estilo con principios, construido y defendido por Pugin y otros."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-royal-society-of-arts",
+  "level": "normal",
+  "kind": "association",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "start": 1754,
+  "end": null,
+  "place": "London",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "name": "Royal Society of Arts",
+  "short": "Royal Society of Arts",
+  "key": "A London society founded in 1754 to encourage the arts, manufactures and commerce with public prizes, and a forerunner of the state’s efforts to improve industrial design.",
+  "more": "Founded in London in 1754 as the Society for the Encouragement of Arts, Manufactures and Commerce, it offered premiums for inventions, drawings and manufactures. Prince Albert became its president in 1843, and Henry Cole, a member, took part in its exhibitions of British manufactures in the late 1840s. Albert and Cole later organised the Great Exhibition of 1851 and its commission, and the society still exists as the RSA.",
+  "links": {
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Royal Society of Arts (Sociedad para el Fomento de las Artes, Manufacturas y Comercio)",
+   "short": "Royal Society of Arts",
+   "place": "Londres",
+   "key": "Una sociedad londinense fundada en 1754 para fomentar las artes, las manufacturas y el comercio con premios públicos, y antecedente de los esfuerzos del Estado por mejorar el diseño industrial.",
+   "more": "Fundada en Londres en 1754 como Society for the Encouragement of Arts, Manufactures and Commerce, ofrecía premios a inventos, dibujos y manufacturas. El príncipe Alberto fue su presidente desde 1843, y Henry Cole, socio suyo, participó en sus exposiciones de manufacturas británicas de fines de la década de 1840. Alberto y Cole organizaron después la Gran Exposición de 1851 y su comisión, y la sociedad sigue existiendo como la RSA."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-industrial-revolution",
+  "item": "inst-royal-society-of-arts",
+  "note": "New industry needed better models, so the Society offered public prizes for inventions and for designs applied to manufactures.",
+  "es": {
+   "note": "La nueva industria necesitaba mejores modelos, y la Sociedad ofreció premios públicos a inventos y a diseños aplicados a las manufacturas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-great-exhibition",
+  "item": "inst-royal-society-of-arts",
+  "note": "Albert, its president, and Cole, a member, built on the Society’s exhibitions of manufactures to plan the great public show of industry in 1851.",
+  "es": {
+   "note": "Alberto, su presidente, y Cole, socio, se apoyaron en las exposiciones de manufacturas de la Sociedad para planear en 1851 la gran muestra pública de la industria."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-division-of-labour",
+  "item": "th-smith-wealth-of-nations-1776",
+  "note": "Smith described and defended splitting work into simple tasks, the reorganisation that made the form of a product something decided before making.",
+  "es": {
+   "note": "Smith describió y defendió la división del trabajo en tareas simples, la reorganización que hizo de la forma del producto algo decidido antes de fabricarlo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-urbanisation-working-class",
+  "item": "th-pugin-contrasts-1836",
+  "note": "The poverty of the industrial city led Pugin to set the medieval town against it as a moral model for building.",
+  "es": {
+   "note": "La miseria de la ciudad industrial llevó a Pugin a oponerle la ciudad medieval como modelo moral para construir."
+  },
+  "refs": []
+ }
+]

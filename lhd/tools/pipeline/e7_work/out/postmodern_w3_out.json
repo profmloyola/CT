@@ -1,0 +1,241 @@
+[
+ {
+  "rtype": "work",
+  "id": "ikea-billy-1979",
+  "level": "normal",
+  "discipline": "product",
+  "type": "furniture",
+  "title": "Billy bookcase",
+  "designers": [],
+  "maker": "Gillis Lundgren for IKEA",
+  "year": 1979,
+  "date": "1979",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "SE"
+  ],
+  "materials": "Particleboard with a wood-veneer or foil finish",
+  "tech": [
+   "flat-pack"
+  ],
+  "key": "A plain bookcase designed by Gillis Lundgren for IKEA, sold flat-packed and assembled by the buyer, which became one of the best-selling pieces of furniture in the world.",
+  "more": "Billy was launched by IKEA in 1979 and designed by Gillis Lundgren, one of the company's first designers. It is a simple shelving unit of panels that arrives in a flat box and is put together at home, so it can be stored, shipped and sold cheaply in very large numbers. Its size and finishes have been adjusted over the years, but the basic idea has stayed the same.",
+  "status": "Still in production by IKEA.",
+  "es": {
+   "title": "Librero Billy",
+   "date": "1979",
+   "materials": "Aglomerado con acabado de chapa de madera o de lámina",
+   "key": "Un librero sencillo diseñado por Gillis Lundgren para IKEA, vendido en paquete plano y armado por el comprador, que se volvió uno de los muebles más vendidos del mundo.",
+   "more": "Billy fue lanzado por IKEA en 1979 y lo diseñó Gillis Lundgren, uno de los primeros diseñadores de la empresa. Es un estante sencillo de paneles que llega en una caja plana y se arma en casa, de modo que puede almacenarse, transportarse y venderse barato en cantidades muy grandes. Sus medidas y acabados se han ajustado con los años, pero la idea básica sigue igual.",
+   "status": "Sigue en producción por IKEA."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "grid-compass-1982",
+  "level": "normal",
+  "discipline": "product",
+  "type": "laptop",
+  "title": "GRiD Compass",
+  "designers": [
+   "bill-moggridge"
+  ],
+  "maker": "GRiD Systems",
+  "year": 1982,
+  "date": "1982",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Magnesium alloy case, electroluminescent display",
+  "tech": [],
+  "key": "The first laptop with a clamshell form, a screen folding down over the keyboard, designed by Bill Moggridge for GRiD Systems.",
+  "more": "Designed by Bill Moggridge for GRiD Systems and launched in 1982, the Compass folds its flat display down over the keyboard, making the computer a single portable case. It was expensive and aimed at professionals who needed to work away from the office. Moggridge later described the thinking behind it as interaction design.",
+  "status": "Examples survive in museum collections.",
+  "es": {
+   "title": "GRiD Compass",
+   "date": "1982",
+   "materials": "Carcasa de aleación de magnesio, pantalla electroluminiscente",
+   "key": "El primer portátil de forma de concha, con la pantalla abatible sobre el teclado, diseñado por Bill Moggridge para GRiD Systems.",
+   "more": "Diseñado por Bill Moggridge para GRiD Systems y lanzado en 1982, el Compass pliega su pantalla plana sobre el teclado y hace del computador una sola caja transportable. Era caro y estaba pensado para profesionales que necesitaban trabajar fuera de la oficina. Moggridge describió después el pensamiento detrás de él como diseño de interacción.",
+   "status": "Se conservan ejemplares en colecciones de museos."
+  },
+  "refs": [],
+  "movements": [
+   "interaction-design"
+  ]
+ },
+ {
+  "rtype": "work",
+  "id": "how-high-the-moon-1986",
+  "level": "normal",
+  "discipline": "product",
+  "type": "chair",
+  "title": "How High the Moon armchair",
+  "designers": [
+   "shiro-kuramata"
+  ],
+  "maker": "Vitra",
+  "year": 1986,
+  "date": "1986",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "materials": "Nickel-plated expanded steel mesh",
+  "tech": [],
+  "key": "Shiro Kuramata’s armchair of expanded metal mesh, a seat whose open volume looks almost weightless.",
+  "more": "Shiro Kuramata designed the armchair in 1986 as a seat made of steel mesh, with no solid surfaces, so that it reads as an outline in space. Its name comes from a jazz standard. It is among the best-known pieces of Japanese design of the 1980s, and Kuramata also took part in the Memphis group in Milan.",
+  "status": "Held in museum collections.",
+  "es": {
+   "title": "Sillón How High the Moon",
+   "date": "1986",
+   "materials": "Malla de acero expandido niquelado",
+   "key": "El sillón de malla de metal expandido de Shiro Kuramata, un asiento cuyo volumen abierto parece casi sin peso.",
+   "more": "Shiro Kuramata diseñó el sillón en 1986 como un asiento de malla de acero, sin superficies macizas, de modo que se lee como un contorno en el espacio. Su nombre viene de un clásico del jazz. Es una de las piezas más conocidas del diseño japonés de los años ochenta, y Kuramata participó además en el grupo Memphis de Milán.",
+   "status": "Se conserva en colecciones de museos."
+  },
+  "refs": [],
+  "movements": [
+   "memphis"
+  ]
+ },
+ {
+  "rtype": "work",
+  "id": "game-boy-1989",
+  "level": "normal",
+  "discipline": "product",
+  "type": "device",
+  "title": "Game Boy",
+  "designers": [
+   "gunpei-yokoi"
+  ],
+  "maker": "Nintendo",
+  "year": 1989,
+  "date": "1989",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "materials": "Plastic casing, monochrome LCD",
+  "tech": [],
+  "key": "Nintendo’s handheld console designed around cheap, proven components, which ran for a long time on batteries and sold in very large numbers.",
+  "more": "Launched by Nintendo in Japan in 1989, the Game Boy had a small monochrome screen and ran on AA batteries. Gunpei Yokoi, who led its design, favoured older, well-understood and inexpensive technology over the latest hardware. This kept the price low and made the console tough and long-lasting in use, and it became one of the best-selling electronic products of its time.",
+  "status": "Out of production; many units survive and are collected.",
+  "es": {
+   "title": "Game Boy",
+   "date": "1989",
+   "materials": "Carcasa de plástico, pantalla LCD monocroma",
+   "key": "La consola portátil de Nintendo, pensada en torno a componentes baratos y probados, que duraba mucho con pilas y se vendió en cantidades enormes.",
+   "more": "Lanzada por Nintendo en Japón en 1989, la Game Boy tenía una pantalla monocroma pequeña y funcionaba con pilas AA. Gunpei Yokoi, que lideró su diseño, prefería la tecnología más antigua, conocida y barata a los equipos más recientes. Eso mantuvo bajo el precio e hizo de la consola un aparato resistente y duradero, y se volvió uno de los productos electrónicos más vendidos de su época.",
+   "status": "Fuera de producción; se conservan muchas unidades y se coleccionan."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "muji-cd-player-1999",
+  "level": "normal",
+  "discipline": "product",
+  "type": "audio-player",
+  "title": "Muji wall-mounted CD player",
+  "designers": [
+   "naoto-fukasawa"
+  ],
+  "maker": "Muji",
+  "year": 1999,
+  "date": "1999",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "materials": "Plastic casing",
+  "tech": [],
+  "key": "Naoto Fukasawa’s wall-mounted CD player for Muji, switched on by pulling a cord like a bathroom exhaust fan.",
+  "more": "Designed by Naoto Fukasawa for Muji and launched in 1999, the player hangs on the wall and starts when its cord is pulled, so the disc spins in plain view. Its form borrows the gesture of a familiar household fixture. It is a reference point for Fukasawa’s idea of design without thought, in which a product fits what people already do by instinct.",
+  "status": "Held in museum collections.",
+  "es": {
+   "title": "Reproductor de CD de pared de Muji",
+   "date": "1999",
+   "materials": "Carcasa de plástico",
+   "key": "El reproductor de CD de pared de Naoto Fukasawa para Muji, que se enciende tirando de un cordón como un extractor de baño.",
+   "more": "Diseñado por Naoto Fukasawa para Muji y lanzado en 1999, el reproductor se cuelga en la pared y parte al tirar de su cordón, de modo que el disco gira a la vista. Su forma toma el gesto de un artefacto doméstico conocido. Es un punto de referencia de la idea de Fukasawa del diseño sin pensamiento, en que un producto calza con lo que la gente ya hace por instinto.",
+   "status": "Se conserva en colecciones de museos."
+  },
+  "refs": [],
+  "movements": [
+   "minimalism-fashion-product"
+  ]
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-globalisation",
+  "item": "ikea-billy-1979",
+  "note": "Selling worldwide called for goods that ship cheaply, so IKEA designed Billy as flat-packed panels, which cut transport volume and let one design be sold in many countries.",
+  "es": {
+   "note": "Para vender en todo el mundo se necesitaban bienes baratos de transportar, así que IKEA diseñó Billy como paneles en paquete plano, que reducen el volumen de transporte y permiten vender un mismo diseño en muchos países."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-personal-computer",
+  "item": "grid-compass-1982",
+  "note": "Once the computer left the desk, it needed a form that could be carried: Moggridge hinged the flat screen over the keyboard, making a single closed case.",
+  "es": {
+   "note": "Cuando el computador salió del escritorio necesitó una forma transportable: Moggridge abatió la pantalla plana sobre el teclado y logró una sola caja cerrada."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-knowledge-work",
+  "item": "grid-compass-1982",
+  "note": "Executives and technicians who worked with information needed to compute away from the office, so the Compass was built as a rugged, portable machine for them.",
+  "es": {
+   "note": "Ejecutivos y técnicos que trabajaban con información necesitaban computar fuera de la oficina, así que el Compass se hizo como una máquina portátil y robusta para ellos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-japan-consumer-economy",
+  "item": "how-high-the-moon-1986",
+  "note": "Japan’s booming economy of the 1980s paid for experimental design; Kuramata could make a near-immaterial mesh chair that took form and material beyond ordinary furniture.",
+  "es": {
+   "note": "El auge económico japonés de los años ochenta financió un diseño experimental; Kuramata pudo hacer un sillón de malla casi inmaterial que llevó la forma y el material más allá del mueble corriente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-microelectronics",
+  "item": "game-boy-1989",
+  "note": "Mature, cheap electronic components were available by 1989, so Yokoi built the console from them, giving a tough, low-priced device with long battery life.",
+  "es": {
+   "note": "En 1989 había componentes electrónicos maduros y baratos, y Yokoi construyó la consola con ellos, logrando un aparato resistente, de precio bajo y pilas de larga duración."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-japan-consumer-economy",
+  "item": "game-boy-1989",
+  "note": "Japanese consumer electronics was already sold around the world, and Nintendo used that reach to make a pocket console a global product.",
+  "es": {
+   "note": "La electrónica de consumo japonesa ya se vendía por el mundo, y Nintendo usó ese alcance para hacer de una consola de bolsillo un producto global."
+  },
+  "refs": []
+ }
+]

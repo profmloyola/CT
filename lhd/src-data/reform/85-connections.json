@@ -1,0 +1,202 @@
+{
+ "connections": [
+  {
+   "from": "th-nature-of-gothic",
+   "to": "william-morris",
+   "note": "Influence: Ruskin praised the free craftsman who carved in his own way, and Morris turned that idea into a critique of the industrial division of labour.",
+   "es": {
+    "note": "Influencia: Ruskin elogió al artesano libre que tallaba a su manera, y Morris convirtió esa idea en una crítica de la división industrial del trabajo."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-south-kensington",
+   "to": "christopher-dresser",
+   "note": "Influence: the Department of Science and Art at South Kensington taught Dresser ornament and botany, which he carried into his industrial design.",
+   "es": {
+    "note": "Influencia: el Departamento de Ciencia y Arte de South Kensington enseñó a Dresser ornamento y botánica, que él llevó a su diseño industrial."
+   },
+   "refs": []
+  },
+  {
+   "from": "ctx-japonisme",
+   "to": "art-nouveau",
+   "note": "Influence: Japanese prints offered flat line, asymmetry and cropping, which Art Nouveau took up for posters and objects.",
+   "es": {
+    "note": "Influencia: los grabados japoneses ofrecieron línea plana, asimetría y recorte, que el art nouveau tomó para carteles y objetos."
+   },
+   "refs": []
+  },
+  {
+   "from": "jules-cheret",
+   "to": "toulouse-lautrec",
+   "note": "Influence: Chéret showed that colour lithography could make street posters, and Lautrec adopted the format with a more synthetic line.",
+   "es": {
+    "note": "Influencia: Chéret mostró que la litografía en color podía hacer carteles de calle, y Lautrec adoptó el formato con una línea más sintética."
+   },
+   "refs": []
+  },
+  {
+   "from": "jules-cheret",
+   "to": "alfons-mucha",
+   "note": "Influence: Chéret's Parisian poster opened the market where Mucha succeeded with Sarah Bernhardt, using a decorative figure.",
+   "es": {
+    "note": "Influencia: el cartel parisino de Chéret abrió el mercado donde Mucha triunfó con Sarah Bernhardt, con una figura decorativa."
+   },
+   "refs": []
+  },
+  {
+   "from": "arts-and-crafts",
+   "to": "vienna-secession",
+   "note": "Influence: the 1900 Secession show displayed work by Mackintosh and English workshops, and Hoffmann and Moser adopted their idea of craft.",
+   "es": {
+    "note": "Influencia: la exposición de la Secesión de 1900 mostró obra de Mackintosh y de talleres ingleses, y Hoffmann y Moser adoptaron su idea de oficio."
+   },
+   "refs": []
+  },
+  {
+   "from": "charles-rennie-mackintosh",
+   "to": "josef-hoffmann",
+   "note": "Influence: the geometry of the Glasgow School, with grid and square, shaped the more rectilinear style of Hoffmann and the Wiener Werkstätte.",
+   "es": {
+    "note": "Influencia: la geometría de la Escuela de Glasgow, con retícula y cuadrado, marcó el estilo más rectilíneo de Hoffmann y de los Wiener Werkstätte."
+   },
+   "refs": []
+  },
+  {
+   "from": "peter-behrens",
+   "to": "gropius",
+   "note": "Influence: Gropius worked in Behrens's studio, where he met industrial architecture and design for a single company.",
+   "es": {
+    "note": "Influencia: Gropius trabajó en el taller de Behrens, donde conoció la arquitectura industrial y el diseño para una empresa."
+   },
+   "refs": []
+  },
+  {
+   "from": "peter-behrens",
+   "to": "le-corbusier",
+   "note": "Influence: Le Corbusier worked for some months with Behrens in Berlin and took up his idea of architecture for industry.",
+   "es": {
+    "note": "Influencia: Le Corbusier trabajó unos meses con Behrens en Berlín y retomó su idea de arquitectura para la industria."
+   },
+   "refs": []
+  },
+  {
+   "from": "peter-behrens",
+   "to": "mies-van-der-rohe",
+   "note": "Influence: Mies worked with Behrens and took from him rigorous proportion and sober detailing.",
+   "es": {
+    "note": "Influencia: Mies trabajó con Behrens, de quien tomó el rigor de proporción y la sobriedad en el detalle."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-werkbund",
+   "to": "inst-bauhaus",
+   "note": "Influence: the Werkbund joined art, industry and trade, a programme that Gropius, a member, carried into the Bauhaus of 1919.",
+   "es": {
+    "note": "Influencia: el Werkbund unió arte, industria y comercio, un programa que Gropius, miembro del grupo, llevó a la Bauhaus de 1919."
+   },
+   "refs": []
+  },
+  {
+   "from": "louis-sullivan",
+   "to": "frank-lloyd-wright",
+   "note": "Influence: Wright worked with Sullivan in Chicago and inherited his idea of form derived from use and from nature.",
+   "es": {
+    "note": "Influencia: Wright trabajó con Sullivan en Chicago y heredó su idea de forma derivada del uso y de la naturaleza."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-loos-ornament-and-crime",
+   "to": "le-corbusier",
+   "note": "Influence: Le Corbusier published Loos's texts in L'Esprit Nouveau and took up the critique of ornament as a basis of modern architecture.",
+   "es": {
+    "note": "Influencia: Le Corbusier publicó textos de Loos en L'Esprit Nouveau y retomó la crítica del ornamento como base de la arquitectura moderna."
+   },
+   "refs": []
+  },
+  {
+   "from": "jose-guadalupe-posada",
+   "to": "inst-tgp",
+   "note": "Influence: the printmakers of the Taller de Gráfica Popular recognised Posada as precedent for a political print made for the people.",
+   "es": {
+    "note": "Influencia: los grabadores del Taller de Gráfica Popular reconocieron a Posada como precedente de un grabado político hecho para el pueblo."
+   },
+   "refs": []
+  },
+  {
+   "from": "frank-lloyd-wright",
+   "to": "ctx-japonisme",
+   "note": "Influence: Japanese architecture seen in Chicago in 1893 shaped Wright's open-plan house with long eaves.",
+   "es": {
+    "note": "Influencia: la arquitectura japonesa vista en Chicago en 1893 influyó en la casa de planta abierta y alero largo de Wright."
+   },
+   "refs": []
+  },
+  {
+   "from": "william-morris",
+   "to": "inst-wiener-werkstatte",
+   "note": "Influence: the workshops of Morris and the Guild of Handicraft were the model of an artists' workshop that inspired the Wiener Werkstätte.",
+   "es": {
+    "note": "Influencia: los talleres de Morris y de la Guild of Handicraft fueron el modelo de taller de artistas que inspiró a los Wiener Werkstätte."
+   },
+   "refs": []
+  },
+  {
+   "from": "lira-popular",
+   "to": "inst-zig-zag",
+   "note": "Parallel, not influence: the Lira Popular and Zig-Zag show two sides of Chilean popular print, from the street broadside to the illustrated weekly.",
+   "es": {
+    "note": "Paralelo, no influencia: la Lira Popular y Zig-Zag muestran dos caras de la prensa popular chilena, del pliego de calle al semanario ilustrado."
+   },
+   "refs": []
+  },
+  {
+   "from": "ctx-taylorism",
+   "to": "ford-model-t",
+   "note": "Influence: the scientific study of work was applied to Model T production, whose cost fell with the assembly line.",
+   "es": {
+    "note": "Influencia: el estudio científico del trabajo se aplicó a la producción del Ford T, cuyo costo cayó con la cadena de montaje."
+   },
+   "refs": []
+  },
+  {
+   "from": "crinoline-cage-1856",
+   "to": "worth-haute-couture",
+   "note": "Empress Eugénie and Worth made the cage crinoline the emblem of the court gown.",
+   "es": {
+    "note": "La emperatriz Eugenia y Worth hicieron de la crinolina de aros el emblema del vestido de gala."
+   },
+   "refs": []
+  },
+  {
+   "from": "perkin-mauve-1856",
+   "to": "strawberry-thief",
+   "note": "Morris rejected aniline dyes as garish and returned to natural ones such as indigo.",
+   "es": {
+    "note": "Morris rechazó los tintes de anilina por estridentes y volvió a los naturales, como el índigo."
+   },
+   "refs": []
+  },
+  {
+   "from": "shirtwaist-blouse-1895",
+   "to": "butterick-patterns",
+   "note": "Paper patterns allowed the shirtwaist to be made at home.",
+   "es": {
+    "note": "Los patrones de papel permitieron hacer la shirtwaist en casa."
+   },
+   "refs": []
+  },
+  {
+   "from": "crane-babys-opera-1877",
+   "to": "under-the-window-1879",
+   "note": "Both were printed in colour by Edmund Evans for the same children’s book market, which Greenaway’s book extended after Crane’s.",
+   "es": {
+    "note": "Ambos los imprimió en color Edmund Evans para el mismo mercado de libros infantiles, que el libro de Greenaway prolongó después del de Crane."
+   },
+   "refs": []
+  }
+ ]
+}

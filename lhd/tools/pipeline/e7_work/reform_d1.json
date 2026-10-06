@@ -1,0 +1,219 @@
+[
+ {
+  "rtype": "designer",
+  "id": "cfa-voysey",
+  "name": "C. F. A. Voysey",
+  "born": 1857,
+  "died": 1941,
+  "kind": "person",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Arquitecto y diseñador del Arts and Crafts: casas blancas y sencillas, papeles pintados y muebles.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "mecanismo": "La casa de clase media busca luz y sencillez → interiores claros y muebles sin ornamento superfluo"
+   }
+  ],
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "item": "cfa-voysey",
+    "mecanismo": "La casa de clase media busca luz y sencillez → interiores claros y muebles sin ornamento superfluo"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "walter-crane",
+  "name": "Walter Crane",
+  "born": 1845,
+  "died": 1915,
+  "kind": "person",
+  "disciplines": [
+   "graphic",
+   "product"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Ilustrador y diseñador del Arts and Crafts, autor de libros infantiles y de gráfica socialista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-childrens-book-market",
+    "mecanismo": "La escolarización masiva crea un mercado de libros ilustrados en color"
+   }
+  ],
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-childrens-book-market",
+    "item": "walter-crane",
+    "mecanismo": "La escolarización masiva crea un mercado de libros ilustrados en color"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "will-bradley",
+  "name": "Will H. Bradley",
+  "born": 1868,
+  "died": 1962,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Principal cartelista e ilustrador del Art Nouveau estadounidense.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-poster-craze",
+    "mecanismo": "La moda del cartel llega a Estados Unidos → carteles y portadas para revistas literarias"
+   }
+  ],
+  "movements": [
+   "art-nouveau"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-poster-craze",
+    "item": "will-bradley",
+    "mecanismo": "La moda del cartel llega a Estados Unidos → carteles y portadas para revistas literarias"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "ludwig-hohlwein",
+  "name": "Ludwig Hohlwein",
+  "born": 1874,
+  "died": 1949,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Cartelista de Múnich, figura del Plakatstil; su obra posterior sirvió a la propaganda nazi.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "La publicidad de marcas pide carteles de gran impacto → color plano y figura sintética"
+   }
+  ],
+  "movements": [
+   "plakatstil"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-advertising-catalogue",
+    "item": "ludwig-hohlwein",
+    "mecanismo": "La publicidad de marcas pide carteles de gran impacto → color plano y figura sintética"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "gustav-stickley",
+  "name": "Gustav Stickley",
+  "born": 1858,
+  "died": 1942,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Difusor del Arts and Crafts en Estados Unidos con sus muebles Craftsman y su revista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "Revista y catálogo llevan el mueble artesanal a un público de clase media nacional"
+   }
+  ],
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-advertising-catalogue",
+    "item": "gustav-stickley",
+    "mecanismo": "Revista y catálogo llevan el mueble artesanal a un público de clase media nacional"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

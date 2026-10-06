@@ -1,0 +1,344 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-globalisation",
+   "track": "economic",
+   "start": 1980,
+   "end": null,
+   "cont": true,
+   "date": "1980 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "CN",
+    "JP"
+   ],
+   "name": "Globalisation and offshoring",
+   "short": "Globalisation",
+   "key": "The growth of world trade and the move of manufacturing to countries with lower costs, which separated where goods are designed from where they are made.",
+   "happened": "From the 1980s firms in rich countries increasingly moved production to East Asia and other regions with lower labour costs, and trade barriers fell. China opened its economy from 1978 and joined the World Trade Organization in 2001. Container shipping and, later, digital communication made it easier to run design in one country and manufacture in another.",
+   "effect": "Design and production separated: a product could be conceived in California or Milan and made in Shenzhen, so the designer's work centred on image, specification and brand rather than on the factory floor. The same objects and identities were meant to work in many markets at once, which pushed design towards global brands and shared visual languages.",
+   "es": {
+    "name": "Globalización y deslocalización",
+    "short": "Globalización",
+    "date": "1980 →",
+    "key": "El crecimiento del comercio mundial y el traslado de la manufactura a países de menores costos, que separó el lugar donde se diseñan los bienes del lugar donde se fabrican.",
+    "happened": "Desde los años ochenta las empresas de los países ricos trasladaron cada vez más su producción a Asia Oriental y a otras regiones de menores costos laborales, y bajaron las barreras comerciales. China abrió su economía desde 1978 e ingresó a la Organización Mundial del Comercio en 2001. El transporte en contenedores y, más tarde, la comunicación digital facilitaron dirigir el diseño en un país y la fabricación en otro.",
+    "effect": "El diseño y la producción se separaron: un producto podía concebirse en California o en Milán y fabricarse en Shenzhen, de modo que el trabajo del diseñador se centró en la imagen, la especificación y la marca más que en la fábrica. Los mismos objetos e identidades debían funcionar a la vez en muchos mercados, lo que empujó al diseño hacia las marcas globales y los lenguajes visuales compartidos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-branding",
+   "track": "economic",
+   "start": 1980,
+   "end": null,
+   "cont": true,
+   "date": "1980 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Global brands and branding",
+   "short": "Branding",
+   "key": "The rise of the brand as a company's main asset, so that identity, logo and image became a central task of design from the 1980s.",
+   "happened": "From the 1980s large firms increasingly treated their name and image as a core asset, and consultancies such as Wolff Olins in London and Landor in San Francisco specialised in corporate identity. Companies sold a lifestyle and an image across countries, and the logo, packaging and shops became the visible part of that image.",
+   "effect": "Graphic designers moved from making single posters to building identity systems of logo, colour, typography and rules that could be applied to every product and place. Design budgets shifted towards the brand, and critics such as Naomi Klein later argued that the logo had come to matter more than the product.",
+   "es": {
+    "name": "Marcas globales y branding",
+    "short": "Branding",
+    "date": "1980 →",
+    "key": "El ascenso de la marca como principal activo de una empresa, de modo que la identidad, el logo y la imagen se volvieron una tarea central del diseño desde los años ochenta.",
+    "happened": "Desde los años ochenta las grandes empresas trataron cada vez más su nombre y su imagen como un activo central, y consultoras como Wolff Olins en Londres y Landor en San Francisco se especializaron en identidad corporativa. Las compañías vendían un estilo de vida y una imagen en distintos países, y el logo, el envase y las tiendas eran la parte visible de esa imagen.",
+    "effect": "Los diseñadores gráficos pasaron de hacer carteles sueltos a construir sistemas de identidad de logo, color, tipografía y reglas aplicables a cada producto y lugar. Los presupuestos de diseño se desplazaron hacia la marca, y críticos como Naomi Klein sostuvieron después que el logo había llegado a importar más que el producto."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-crisis-2008",
+   "track": "economic",
+   "start": 2008,
+   "end": 2010,
+   "date": "2008–2010",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Financial crisis of 2008",
+   "short": "Crisis 2008",
+   "key": "The banking and credit crisis that began in the United States in 2007–08 and brought a worldwide recession.",
+   "happened": "The collapse of the US housing and mortgage market led to the failure of the investment bank Lehman Brothers in September 2008 and to a global financial crisis. Governments rescued banks, and many countries went into recession in 2009, with high unemployment in several of them.",
+   "effect": "Budgets for commercial design and architecture fell, and many young designers found fewer jobs in large firms. The crisis also fed distrust of banks and corporate brands, and encouraged designers to turn to self-initiated projects, small studios, social issues and thrift.",
+   "es": {
+    "name": "Crisis financiera de 2008",
+    "short": "Crisis de 2008",
+    "date": "2008–2010",
+    "key": "La crisis bancaria y de crédito que comenzó en Estados Unidos en 2007–08 y trajo una recesión mundial.",
+    "happened": "El colapso del mercado inmobiliario y de las hipotecas de Estados Unidos llevó a la quiebra del banco de inversión Lehman Brothers en septiembre de 2008 y a una crisis financiera global. Los gobiernos rescataron bancos y muchos países cayeron en recesión en 2009, con alto desempleo en varios de ellos.",
+    "effect": "Los presupuestos de diseño comercial y de arquitectura bajaron, y muchos diseñadores jóvenes encontraron menos empleos en las grandes empresas. La crisis alimentó también la desconfianza hacia los bancos y las marcas corporativas, y animó a los diseñadores a volcarse a proyectos propios, estudios pequeños, causas sociales y austeridad."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-nyc-fiscal-crisis",
+   "track": "economic",
+   "start": 1975,
+   "end": 1975,
+   "date": "1975",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "New York fiscal crisis",
+   "short": "NYC fiscal crisis",
+   "key": "The 1975 crisis in which New York City came close to bankruptcy, cut public services and turned to selling its image to attract business and tourists.",
+   "happened": "In 1975 New York City could no longer borrow to cover its deficit and came close to default. The city cut jobs and services under outside financial supervision, and its image of crime and decline hurt tourism and business.",
+   "effect": "The city and the state looked for ways to market New York to visitors and firms. In 1977 the state's economic development office commissioned an I Love New York campaign, with a logo by Milton Glaser, and the city's image became something to be designed and sold like a product.",
+   "es": {
+    "name": "Crisis fiscal de Nueva York",
+    "short": "Crisis de Nueva York",
+    "date": "1975",
+    "key": "La crisis de 1975 en que la ciudad de Nueva York estuvo cerca de la quiebra, recortó servicios públicos y recurrió a vender su imagen para atraer empresas y turistas.",
+    "happened": "En 1975 la ciudad de Nueva York ya no pudo endeudarse para cubrir su déficit y estuvo cerca del impago. La ciudad recortó empleos y servicios bajo supervisión financiera externa, y su imagen de delincuencia y decadencia dañó el turismo y los negocios.",
+    "effect": "La ciudad y el estado buscaron formas de promover Nueva York ante visitantes y empresas. En 1977 la oficina estatal de desarrollo económico encargó una campaña I Love New York, con un logo de Milton Glaser, y la imagen de la ciudad pasó a ser algo que se diseña y se vende como un producto."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-japan-consumer-economy",
+   "track": "economic",
+   "start": 1975,
+   "end": 1990,
+   "date": "1970–1990",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "name": "Japan's economic and consumer boom",
+   "short": "Japan boom",
+   "key": "The decades of rapid growth that made Japan one of the world's largest economies and a leading maker and buyer of consumer goods.",
+   "happened": "After the war Japan grew quickly, and by the late 1960s it had become one of the world's largest economies. In the 1970s and 1980s its electronics, car and fashion firms sold widely abroad, and a prosperous domestic market of department stores and shops bought fashion, design and consumer goods.",
+   "effect": "A wealthy home market gave room to new Japanese fashion and product design. Designers such as Rei Kawakubo and Yohji Yamamoto built their houses in Tokyo and took their work to Paris in 1981, and retail brands such as Muji, founded in 1980, offered an alternative to flashy branding.",
+   "es": {
+    "name": "Auge económico y de consumo de Japón",
+    "short": "Japón: auge",
+    "date": "1970–1990",
+    "key": "Las décadas de rápido crecimiento que hicieron de Japón una de las mayores economías del mundo y un gran fabricante y comprador de bienes de consumo.",
+    "happened": "Tras la guerra Japón creció rápido y a fines de los años sesenta ya era una de las mayores economías del mundo. En los años setenta y ochenta sus empresas de electrónica, automóviles y moda vendieron mucho en el exterior, y un próspero mercado interno de grandes tiendas y comercios compraba moda, diseño y bienes de consumo.",
+    "effect": "Un mercado interno rico dio espacio a la nueva moda y al diseño de producto japoneses. Diseñadores como Rei Kawakubo y Yohji Yamamoto levantaron sus casas en Tokio y llevaron su trabajo a París en 1981, y marcas de venta al detalle como Muji, fundada en 1980, ofrecieron una alternativa a la marca ostentosa."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-chile-market-economy",
+   "track": "economic",
+   "start": 1975,
+   "end": null,
+   "cont": true,
+   "date": "1975 →",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Market economy in Chile",
+   "short": "Chile market economy",
+   "key": "The free-market model adopted in Chile from the mid-1970s, which opened the economy to imports and private business and lasted beyond the dictatorship.",
+   "happened": "From the mid-1970s the military government, with economists known as the Chicago Boys, cut tariffs, privatised state firms and opened the economy to foreign trade. The model continued after the return to democracy in 1990, and Chile became an economy of imports, shopping malls and private services.",
+   "effect": "Local industry lost the protection that had supported national product design, and imported goods and chain stores took its place. Design in Chile turned towards services, retail, corporate identity and architecture for private clients, and the shopping mall became a main place where design met the public.",
+   "es": {
+    "name": "Economía de mercado en Chile",
+    "short": "Mercado en Chile",
+    "date": "1975 →",
+    "key": "El modelo de libre mercado adoptado en Chile desde mediados de los años setenta, que abrió la economía a las importaciones y a la empresa privada y siguió más allá de la dictadura.",
+    "happened": "Desde mediados de los años setenta el gobierno militar, con economistas conocidos como los Chicago Boys, bajó los aranceles, privatizó empresas del Estado y abrió la economía al comercio exterior. El modelo continuó tras el retorno a la democracia en 1990, y Chile pasó a ser una economía de importaciones, malls y servicios privados.",
+    "effect": "La industria local perdió la protección que había sostenido el diseño de producto nacional, y los bienes importados y las cadenas de tiendas ocuparon su lugar. El diseño en Chile se volcó hacia los servicios, el comercio, la identidad corporativa y la arquitectura para clientes privados, y el mall se volvió un lugar principal de encuentro entre el diseño y el público."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-platform-economy",
+   "track": "economic",
+   "start": 2008,
+   "end": 2026,
+   "cont": true,
+   "date": "2008 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [],
+   "name": "Platform economy",
+   "short": "Platforms",
+   "key": "Digital platforms such as app stores, ride-hailing and rental services became intermediaries of commerce and work from about 2008.",
+   "happened": "Apple opened its App Store in July 2008, and Google launched Android’s own store later that year. Uber (founded 2009) and Airbnb (founded 2008) built businesses on smartphone apps that matched users with drivers and hosts.",
+   "effect": "Designers began to work inside platform rules: an app had to fit the store’s guidelines and the screen of a phone, and interfaces for ordering, rating and paying became a main field of design. Products and services were increasingly conceived as flows within an app rather than as objects.",
+   "es": {
+    "name": "Economía de plataformas",
+    "short": "Plataformas",
+    "date": "2008 →",
+    "key": "Las plataformas digitales, como las tiendas de aplicaciones, el transporte por app y el arriendo de alojamiento, se volvieron intermediarias del comercio y del trabajo desde c. 2008.",
+    "happened": "Apple abrió su App Store en julio de 2008, y Google lanzó la tienda propia de Android más tarde ese año. Uber (fundada en 2009) y Airbnb (fundada en 2008) levantaron negocios sobre aplicaciones móviles que ponían en contacto a usuarios con conductores y anfitriones.",
+    "effect": "Los diseñadores empezaron a trabajar dentro de las reglas de las plataformas: una aplicación debía ajustarse a las pautas de la tienda y a la pantalla de un teléfono, y las interfaces para pedir, evaluar y pagar pasaron a ser un campo central del diseño. Productos y servicios se concibieron cada vez más como flujos dentro de una aplicación y no como objetos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-deindustrialisation-regeneration",
+   "track": "economic",
+   "start": 1975,
+   "end": 2010,
+   "cont": false,
+   "date": "1975–2010",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "FR",
+    "ES"
+   ],
+   "name": "Deindustrialisation and urban regeneration",
+   "short": "Deindustrialisation",
+   "key": "From the 1970s heavy industry declined in Europe and North America, and cities turned empty factories, docks and slaughterhouses into culture, parks and housing.",
+   "happened": "From the 1970s steelworks, shipyards, docks and factories in Western Europe and North America closed or moved elsewhere, leaving large empty sites in city centres and waterfronts. Local and national governments looked for new uses and new sources of income for these areas.",
+   "effect": "Designers worked on existing industrial buildings and sites instead of clean ground: a disused power station became the Tate Modern, and former slaughterhouses became the Parc de la Villette. Culture became a tool of economic renewal, which led cities to commission museums and public spaces as engines of regeneration.",
+   "es": {
+    "name": "Desindustrialización y regeneración urbana",
+    "short": "Desindustrialización",
+    "date": "1975–2010",
+    "key": "Desde la década de 1970 la industria pesada declinó en Europa y Norteamérica, y las ciudades convirtieron fábricas, muelles y mataderos vacíos en cultura, parques y vivienda.",
+    "happened": "Desde la década de 1970 acerías, astilleros, muelles y fábricas de Europa occidental y Norteamérica cerraron o se trasladaron, y dejaron grandes terrenos vacíos en centros y frentes de agua. Los gobiernos locales y nacionales buscaron nuevos usos y nuevas fuentes de ingresos para esas zonas.",
+    "effect": "Los diseñadores trabajaron sobre edificios y terrenos industriales existentes en vez de suelo limpio: una central eléctrica en desuso pasó a ser la Tate Modern y unos antiguos mataderos, el Parc de la Villette. La cultura se volvió una herramienta de renovación económica, y por eso las ciudades encargaron museos y espacios públicos como motores de regeneración."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-fast-fashion",
+   "track": "economic",
+   "start": 1990,
+   "end": 2026,
+   "cont": true,
+   "date": "1990 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "name": "Fast fashion",
+   "short": "Fast fashion",
+   "key": "From the 1990s some clothing firms, led by Zara, shortened the cycle from design to shop so that new styles reached stores every few weeks at low prices.",
+   "happened": "Retailers such as Zara, part of the Spanish group Inditex, organised design, production and distribution to renew their collections continuously in small batches, using what sold in the shops to decide what to make next. Garments became cheaper and were worn for a shorter time.",
+   "effect": "Fashion design became a fast, shop-driven process in which designers adapted runway trends to what customers were buying within weeks. The model also drew criticism for its environmental and labour costs, which led to movements such as Fashion Revolution.",
+   "es": {
+    "name": "Moda rápida",
+    "short": "Moda rápida",
+    "date": "1990 →",
+    "key": "Desde la década de 1990 algunas empresas de ropa, con Zara a la cabeza, acortaron el ciclo del diseño a la tienda para que estilos nuevos llegaran a los locales cada pocas semanas y a bajo precio.",
+    "happened": "Minoristas como Zara, del grupo español Inditex, organizaron el diseño, la producción y la distribución para renovar sus colecciones de forma continua en series pequeñas, y usaron lo que se vendía en las tiendas para decidir qué hacer después. La ropa se abarató y se usó por menos tiempo.",
+    "effect": "El diseño de moda pasó a ser un proceso rápido, guiado por la tienda, en el que los diseñadores adaptaban en pocas semanas las tendencias de pasarela a lo que compraban los clientes. El modelo también recibió críticas por sus costos ambientales y laborales, que dieron origen a movimientos como Fashion Revolution."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-asian-gulf-boom",
+   "track": "economic",
+   "start": 1990,
+   "end": 2026,
+   "cont": true,
+   "date": "1990 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "MY",
+    "AE",
+    "CN",
+    "AZ"
+   ],
+   "name": "East Asian and Gulf megacity boom",
+   "short": "Megacity boom",
+   "key": "From the 1990s fast economic growth and oil wealth in East Asia and the Gulf paid for record-breaking towers and landmark buildings that served as images of nations and cities.",
+   "happened": "Economic growth in East Asia in the 1990s and oil and property wealth in the Gulf and the Caucasus gave governments and developers the means to build on a very large scale. Cities such as Kuala Lumpur, Dubai, Beijing and Baku competed for attention with the tallest buildings and the most striking public commissions.",
+   "effect": "Skyscrapers and cultural buildings were designed as national and civic symbols, and foreign architects and engineers were often hired to do it. The 2008 Beijing Olympics were also used to present China’s rise to the world. Outside the West, these commissions became some of the most visible buildings of their time and fed back into global architecture.",
+   "es": {
+    "name": "Auge de las megaciudades de Asia oriental y el Golfo",
+    "short": "Auge de megaciudades",
+    "date": "1990 →",
+    "key": "Desde la década de 1990 el rápido crecimiento económico de Asia oriental y el petróleo del Golfo financiaron torres récord y edificios emblemáticos que sirvieron de imagen de naciones y ciudades.",
+    "happened": "El crecimiento económico de Asia oriental en los años noventa y la riqueza petrolera e inmobiliaria del Golfo y el Cáucaso dieron a gobiernos y promotores los medios para construir a escala enorme. Ciudades como Kuala Lumpur, Dubái, Pekín y Bakú compitieron por atención con los edificios más altos y los encargos públicos más llamativos.",
+    "effect": "Los rascacielos y los edificios culturales se diseñaron como símbolos nacionales y cívicos, y a menudo se contrató para ello a arquitectos e ingenieros extranjeros. Los Juegos Olímpicos de Pekín de 2008 se usaron además para presentar al mundo el ascenso de China. Fuera de Occidente, estos encargos se volvieron de los edificios más visibles de su época y influyeron de vuelta en la arquitectura global."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-luxury-conglomerates",
+   "track": "economic",
+   "start": 1987,
+   "end": null,
+   "date": "1987 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "IT"
+   ],
+   "name": "Luxury conglomerates and the global fashion system",
+   "short": "Luxury conglomerates",
+   "key": "The concentration of historic fashion houses in a few large groups from the late 1980s, which made the star designer and the global brand the centre of the fashion system.",
+   "happened": "In 1987 Louis Vuitton merged with Moët Hennessy to form LVMH, and in the following years French and Italian houses of long standing were bought and grouped under holding companies such as LVMH and the Gucci Group. The houses kept their names and their codes, but they now belonged to companies that managed them as international brands.",
+   "effect": "Groups hired young, well-known designers to renew old houses and to give each one a public face: Alexander McQueen went to Givenchy in 1996 and Marc Jacobs became creative director at Louis Vuitton in 1997, where he added ready-to-wear. The designer’s task became to reinterpret the house’s codes every season, as Karl Lagerfeld had done at Chanel since 1983, and the collection and the show became part of the brand’s spectacle.",
+   "es": {
+    "name": "Conglomerados del lujo y sistema global de la moda",
+    "short": "Conglomerados del lujo",
+    "date": "1987 →",
+    "key": "La concentración de casas de moda históricas en unos pocos grandes grupos desde fines de los años ochenta, que puso al diseñador estrella y a la marca global en el centro del sistema de la moda.",
+    "happened": "En 1987 Louis Vuitton se fusionó con Moët Hennessy para formar LVMH, y en los años siguientes casas francesas e italianas de larga trayectoria fueron compradas y reunidas bajo grupos como LVMH y el Gucci Group. Las casas conservaron sus nombres y sus códigos, pero pasaron a pertenecer a empresas que las administraban como marcas internacionales.",
+    "effect": "Los grupos contrataron a diseñadores jóvenes y conocidos para renovar casas antiguas y darle a cada una un rostro público: Alexander McQueen llegó a Givenchy en 1996 y Marc Jacobs fue director creativo de Louis Vuitton en 1997, donde sumó el prêt-à-porter. La tarea del diseñador pasó a ser reinterpretar cada temporada los códigos de la casa, como hacía Karl Lagerfeld en Chanel desde 1983, y la colección y el desfile se volvieron parte del espectáculo de la marca."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-rana-plaza",
+   "track": "economic",
+   "start": 2013,
+   "end": 2013,
+   "date": "2013",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "BD"
+   ],
+   "name": "Rana Plaza collapse",
+   "short": "Rana Plaza",
+   "key": "The collapse of a garment-factory building near Dhaka on 24 April 2013, which killed over a thousand workers and made the conditions of clothing production a public question.",
+   "happened": "On 24 April 2013 the Rana Plaza building in Savar, near Dhaka in Bangladesh, collapsed. It housed several garment factories that made clothes for foreign brands, and more than a thousand workers died. The disaster led to agreements on building and fire safety in Bangladeshi factories and to campaigns in the countries where the clothes were sold.",
+   "effect": "The collapse made visible who makes fashion and in what conditions, and put supply chains, traceability and sustainability on the agenda of fashion design. Brands were asked to say where and how their clothes were made, and the question reached designers and consumers alike, as in the Fashion Revolution campaign born that year and in the greater attention given to labels that already made responsibility part of their identity.",
+   "es": {
+    "name": "Derrumbe del Rana Plaza",
+    "short": "Rana Plaza",
+    "date": "2013",
+    "key": "El derrumbe de un edificio de fábricas de ropa cerca de Daca el 24 de abril de 2013, que mató a más de mil trabajadores y convirtió las condiciones de producción de la ropa en una cuestión pública.",
+    "happened": "El 24 de abril de 2013 se derrumbó el edificio Rana Plaza, en Savar, cerca de Daca, en Bangladés. Albergaba varias fábricas de ropa que producían para marcas extranjeras, y murieron más de mil trabajadores. El desastre llevó a acuerdos sobre seguridad de edificios y contra incendios en las fábricas bangladesíes y a campañas en los países donde se vendía la ropa.",
+    "effect": "El derrumbe hizo visible quién fabrica la moda y en qué condiciones, y puso las cadenas de suministro, la trazabilidad y la sustentabilidad en la agenda del diseño de moda. Se pidió a las marcas decir dónde y cómo se hacía su ropa, y la pregunta llegó a diseñadores y consumidores, como en la campaña Fashion Revolution nacida ese año y en la mayor atención que recibieron las marcas que ya hacían de la responsabilidad parte de su identidad."
+   },
+   "refs": []
+  }
+ ]
+}

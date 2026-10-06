@@ -1,0 +1,136 @@
+{
+ "production": [
+  {
+   "id": "chromolithography",
+   "sub": "processes",
+   "start": 1851,
+   "end": 1900,
+   "date": "1837–1900",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Chromolithography",
+   "short": "Chromolithography",
+   "key": "Colour printing from several lithographic stones, patented in France in 1837, which made large and cheap images in many colours possible.",
+   "origin": "Lithography, invented by Alois Senefelder around 1796, prints from a drawing made on a flat stone. Godefroy Engelmann patented a process of colour lithography in Mulhouse in 1837, in which a separate stone was drawn for each colour.",
+   "enabled": "A single image could be printed in many colours by passing the same sheet over several stones, one for each ink, and the process could be used at large sizes. It served for posters, labels, trade cards, calendars and illustrated prints.",
+   "change": "Colour became an ordinary part of the printed image in the street and in the shop. Designers had to think of the drawing as a set of flat areas of colour, one for each stone, which favoured bold outlines and simplified shapes in the posters of the 1880s and 1890s.",
+   "economy": "Steam presses and specialized workshops lowered the cost of a colour print, and printers could meet the demand of advertisers for posters, packaging and labels. The process became the standard way of printing colour advertising in the late nineteenth century.",
+   "relations": "Chromolithography is the basis of the colour posters of Jules Chéret, who set up his own press in Paris in the 1860s, and of the poster fashion that followed in the 1880s and 1890s.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "bass-triangle",
+     "cheret-posters",
+     "moulin-rouge-la-goulue",
+     "mucha-gismonda",
+     "michelin-bibendum"
+    ]
+   },
+   "es": {
+    "name": "Cromolitografía",
+    "short": "Cromolitografía",
+    "date": "1837–1900",
+    "key": "Impresión en color a partir de varias piedras litográficas, patentada en Francia en 1837, que hizo posibles imágenes grandes y baratas en muchos colores.",
+    "origin": "La litografía, inventada por Alois Senefelder hacia 1796, imprime a partir de un dibujo hecho sobre una piedra plana. Godefroy Engelmann patentó en Mulhouse en 1837 un procedimiento de litografía en color, en el que se dibujaba una piedra distinta para cada color.",
+    "enabled": "Una misma imagen podía imprimirse en muchos colores pasando la hoja por varias piedras, una por cada tinta, y el proceso servía para tamaños grandes. Se empleó en carteles, etiquetas, tarjetas comerciales, calendarios y láminas ilustradas.",
+    "change": "El color pasó a ser parte corriente de la imagen impresa en la calle y en la tienda. Los diseñadores debieron pensar el dibujo como un conjunto de áreas planas de color, una por piedra, lo que favoreció los contornos marcados y las formas simplificadas en los carteles de las décadas de 1880 y 1890.",
+    "economy": "Las prensas a vapor y los talleres especializados abarataron la estampa en color, y los impresores pudieron atender la demanda de los avisadores por carteles, envases y etiquetas. El proceso se volvió la forma habitual de imprimir publicidad en color a fines del siglo XIX.",
+    "relations": "La cromolitografía es la base de los carteles en color de Jules Chéret, que montó su propia imprenta en París en la década de 1860, y de la moda del cartel que siguió en las décadas de 1880 y 1890."
+   },
+   "refs": []
+  },
+  {
+   "id": "hot-metal-typesetting",
+   "sub": "processes",
+   "start": 1886,
+   "end": 1913,
+   "cont": true,
+   "date": "1886 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Hot-metal typesetting",
+   "short": "Linotype, Monotype",
+   "key": "Machines that cast type in molten metal as the operator typed on a keyboard, the Linotype from 1886 and the Monotype from the 1890s, replaced composition by hand.",
+   "origin": "Ottmar Mergenthaler, a German watchmaker in the United States, built the Linotype, first used by the New York Tribune in 1886. It cast a whole line of type at a time from a keyboard. Tolbert Lanston patented the Monotype in 1887, which cast single letters, and it was in commercial use from 1897.",
+   "enabled": "Text could be set many times faster than by hand with loose type, and the metal was melted down after printing and used again. The Linotype suited newspapers and the Monotype suited books and work with complex layouts.",
+   "change": "Text composition became a mechanical task of machine operators, and type designs now had to be made for the machines, with fixed matrices. Daily papers could grow in pages and were set in hours, which helped the illustrated press expand.",
+   "economy": "The machines cut the cost of composition and of newspapers, and newspapers and publishers of the early twentieth century adopted them widely. The work of the hand compositor changed and some of its crafts declined.",
+   "relations": "William Morris founded the Kelmscott Press in 1891 in part against machine composition, using hand-set type and a hand press, and the two approaches to the printed page were set against each other.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "zig-zag-magazine"
+    ]
+   },
+   "es": {
+    "name": "Linotipia y monotipia",
+    "short": "Linotipia, monotipia",
+    "date": "1886 →",
+    "key": "Máquinas que fundían la tipografía en metal caliente mientras el operador tecleaba, la Linotipia desde 1886 y la Monotipia desde la década de 1890, reemplazaron la composición a mano.",
+    "origin": "Ottmar Mergenthaler, un relojero alemán radicado en Estados Unidos, construyó la Linotipia, que usó por primera vez el New York Tribune en 1886. Fundía una línea completa de tipos a la vez desde un teclado. Tolbert Lanston patentó en 1887 la Monotipia, que fundía letras sueltas, y estuvo en uso comercial desde 1897.",
+    "enabled": "El texto podía componerse muchas veces más rápido que a mano con tipos sueltos, y el metal se fundía de nuevo después de imprimir y se reutilizaba. La Linotipia convenía a los diarios y la Monotipia a los libros y a los trabajos de composición compleja.",
+    "change": "La composición de textos pasó a ser una tarea mecánica de operarios de máquinas, y los diseños de tipos debieron hacerse ahora para las máquinas, con matrices fijas. Los diarios pudieron crecer en páginas y se componían en horas, lo que ayudó a expandir la prensa ilustrada.",
+    "economy": "Las máquinas rebajaron el costo de la composición y de los diarios, y los periódicos y editores de comienzos del siglo XX las adoptaron ampliamente. El trabajo del cajista cambió y algunos de sus oficios decayeron.",
+    "relations": "William Morris fundó la Kelmscott Press en 1891 en parte contra la composición mecánica, con tipos compuestos a mano y una prensa manual, y los dos modos de concebir la página impresa quedaron enfrentados."
+   },
+   "refs": []
+  },
+  {
+   "id": "halftone-photoengraving",
+   "sub": "processes",
+   "start": 1880,
+   "end": 1913,
+   "cont": true,
+   "date": "1880 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Halftone photoengraving",
+   "short": "Halftone",
+   "key": "A process that breaks a photograph into a grid of dots so it can be printed on a press with type, first used in a newspaper in New York in 1880.",
+   "origin": "Several inventors worked on printing photographs, among them Stephen Horgan, whose halftone picture of a New York shantytown appeared in the New York Daily Graphic in March 1880. Frederic Ives in Philadelphia and the Meisenbach firm in Germany improved the process in the 1880s, and the cross-line screen made it practical.",
+   "enabled": "The photograph was copied through a fine screen onto a metal plate, which was etched so that the tones became dots of different sizes. The plate could then be printed in the same press and at the same time as the type.",
+   "change": "Photographs could stand next to text on the same page, where before an artist had to redraw the image as an engraving. Magazines, newspapers and advertisements began to use photographs as a matter of course, and the layout of the page changed with them.",
+   "economy": "The process was cheaper and quicker than wood engraving and engravers lost much of their work. By the 1890s illustrated magazines and newspapers used it widely.",
+   "relations": "Halftone served the illustrated press and the photographs of snapshot cameras such as the Kodak, and also reproduced drawings: the black-and-white drawings of Aubrey Beardsley were printed by line-block processes of the same photomechanical family.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "beardsley-salome",
+     "zig-zag-magazine"
+    ]
+   },
+   "es": {
+    "name": "Fotograbado de medio tono",
+    "short": "Medio tono",
+    "date": "1880 →",
+    "key": "Un proceso que descompone una fotografía en una trama de puntos para imprimirla en una prensa junto con el texto, usado por primera vez en un diario de Nueva York en 1880.",
+    "origin": "Varios inventores trabajaron en la impresión de fotografías, entre ellos Stephen Horgan, cuya imagen en medio tono de un barrio de chozas de Nueva York apareció en el New York Daily Graphic en marzo de 1880. Frederic Ives en Filadelfia y la firma Meisenbach en Alemania perfeccionaron el proceso en la década de 1880, y la trama cruzada lo hizo práctico.",
+    "enabled": "La fotografía se copiaba a través de una trama fina sobre una plancha de metal, que se grababa al ácido de modo que los tonos se volvían puntos de distintos tamaños. La plancha podía imprimirse luego en la misma prensa y al mismo tiempo que el texto.",
+    "change": "Las fotografías pudieron ir junto al texto en la misma página, mientras que antes un artista debía redibujar la imagen como grabado. Revistas, diarios y avisos empezaron a usar fotografías como cosa corriente, y la composición de la página cambió con ellas.",
+    "economy": "El proceso era más barato y rápido que el grabado en madera y los grabadores perdieron buena parte de su trabajo. En la década de 1890 las revistas y los diarios ilustrados lo usaban ampliamente.",
+    "relations": "El medio tono sirvió a la prensa ilustrada y a las fotografías de cámaras populares como la Kodak, y también reprodujo dibujos: los dibujos en blanco y negro de Aubrey Beardsley se imprimieron con procesos de clisé de línea de la misma familia fotomecánica."
+   },
+   "refs": []
+  }
+ ]
+}

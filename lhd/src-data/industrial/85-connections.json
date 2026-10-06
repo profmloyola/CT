@@ -1,0 +1,166 @@
+{
+ "connections": [
+  {
+   "from": "ctx-neoclassical-antiquarianism",
+   "to": "neoclassicism",
+   "note": "The excavations at Pompeii and Herculaneum gave the Enlightenment public a catalogue of ancient forms, and designers turned that repertoire into a fashionable style.",
+   "es": {
+    "note": "Las excavaciones de Pompeya y Herculano dieron al público ilustrado un repertorio de formas antiguas, y los diseñadores lo convirtieron en un estilo de moda."
+   },
+   "refs": []
+  },
+  {
+   "from": "neoclassicism",
+   "to": "empire-regency",
+   "note": "Under Napoleon the neoclassical vocabulary was made heavier and loaded with emblems of power and military campaign, so the style served an imperial court.",
+   "es": {
+    "note": "Bajo Napoleón el vocabulario neoclásico se hizo más pesado y se cargó de emblemas de poder y de campaña militar, así que el estilo pasó a servir a una corte imperial."
+   },
+   "refs": []
+  },
+  {
+   "from": "empire-regency",
+   "to": "biedermeier",
+   "note": "After 1815 the middle-class home took the Empire style and stripped its ornament and symbols, leaving simpler lines suited to modest rooms.",
+   "es": {
+    "note": "Después de 1815 la casa burguesa tomó el estilo Imperio y le quitó ornamento y símbolos, dejando líneas más simples, adecuadas a salas modestas."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-pugin-true-principles",
+   "to": "historicism",
+   "note": "Pugin argued that Gothic was the true Christian form, which gave the medieval revival a moral basis beyond taste and made style a question of belief.",
+   "es": {
+    "note": "Pugin sostuvo que el gótico era la forma verdadera y cristiana, lo que dio al revival medieval una base moral más allá del gusto y convirtió el estilo en cuestión de fe."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-pugin-true-principles",
+   "to": "macro-modernism",
+   "note": "Pugin demanded that form express construction and function, a principle later reformers took up and which modernists extended to industrial materials.",
+   "es": {
+    "note": "Pugin exigió que la forma expresara la construcción y la función, un principio que reformadores posteriores retomaron y que los modernistas extendieron a los materiales industriales."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-journal-of-design",
+   "to": "inst-government-school-of-design",
+   "note": "The journal carried on the debate about design quality and manufacture that the Government School of Design had opened, extending it to a wider public.",
+   "es": {
+    "note": "La revista continuó el debate sobre la calidad del diseño y la manufactura que había abierto la Escuela de Diseño del Gobierno, y lo extendió a un público más amplio."
+   },
+   "refs": []
+  },
+  {
+   "from": "josiah-wedgwood",
+   "to": "matthew-boulton",
+   "note": "Wedgwood and Boulton, both of the Lunar Society, ran manufactories that commissioned designs from artists instead of leaving form to the workshop.",
+   "es": {
+    "note": "Wedgwood y Boulton, ambos de la Lunar Society, dirigieron manufacturas que encargaban diseños a artistas en vez de dejar la forma al taller."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-chippendale-director",
+   "to": "th-hepplewhite-guide",
+   "note": "Printed pattern books let workshops across the country copy fashionable models, so furniture style spread by engraving rather than by direct commission.",
+   "es": {
+    "note": "Los libros de modelos impresos permitieron a talleres de todo el país copiar modelos de moda, así que el estilo del mueble se difundió por grabado y no por encargo directo."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-hepplewhite-guide",
+   "to": "th-sheraton-drawing-book",
+   "note": "Sheraton continued the pattern-book genre with drawings of lighter neoclassical furniture, aimed at the same trade audience of cabinetmakers.",
+   "es": {
+    "note": "Sheraton continuó el género del libro de modelos con dibujos de muebles neoclásicos más livianos, dirigidos al mismo público de ebanistas."
+   },
+   "refs": []
+  },
+  {
+   "from": "john-baskerville",
+   "to": "giambattista-bodoni",
+   "note": "Bodoni admired Baskerville’s printing and pushed his letters further, with sharper contrast between thick and thin strokes and more open spacing.",
+   "es": {
+    "note": "Bodoni admiró la impresión de Baskerville y llevó sus letras más lejos, con un contraste más marcado entre trazos gruesos y finos y un espaciado más abierto."
+   },
+   "refs": []
+  },
+  {
+   "from": "punched-card-weaving",
+   "to": "ctx-personal-computer",
+   "note": "Cards punched with holes to command a loom were an early way of storing instructions for a machine, a principle later used to program computers by cards.",
+   "es": {
+    "note": "La tarjeta perforada que ordenaba al telar fue una forma temprana de guardar instrucciones para una máquina, principio que luego se usó para programar computadores con tarjetas."
+   },
+   "refs": []
+  },
+  {
+   "from": "ctx-egyptomania",
+   "to": "display-types",
+   "note": "After 1798 Egyptian fashion lent its name and appeal to the heavy letters of uniform stroke that printers made for posters, called ‘Egyptian’ types.",
+   "es": {
+    "note": "Tras 1798 la moda egipcia prestó su nombre y su atractivo a las letras gruesas de trazo uniforme que los impresores hacían para carteles, llamadas tipos «egipcios»."
+   },
+   "refs": []
+  },
+  {
+   "from": "ctx-industrial-revolution",
+   "to": "macro-modernism",
+   "note": "Factory production split designing from making and flooded the market with cheap goods, problems that Modernist designers later set out to solve.",
+   "es": {
+    "note": "La producción fabril separó el diseñar del fabricar e inundó el mercado de bienes baratos, problemas que los diseñadores modernistas se propusieron resolver después."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-thonet",
+   "to": "macro-modernism",
+   "note": "Thonet’s chairs of bent wood, made in series from standard parts, showed an industrial design that Modernists would defend a century later.",
+   "es": {
+    "note": "Las sillas de madera curvada de Thonet, hechas en serie con piezas estándar, mostraron un diseño industrial que los modernistas defenderían un siglo después."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-ackermann",
+   "to": "heideloff-gallery-of-fashion-1794",
+   "note": "Ackermann’s Repository carried on the coloured fashion plates that Heideloff’s Gallery of Fashion had begun in London, and widened their audience.",
+   "es": {
+    "note": "El Repository de Ackermann continuó las láminas de moda coloreadas que la Gallery of Fashion de Heideloff había iniciado en Londres, y amplió su público."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-conservatoire-arts-metiers",
+   "to": "jacquard-loom-1804",
+   "note": "The Conservatoire kept Jacquard’s loom among its collection of machines, which served as models for teaching the mechanical arts.",
+   "es": {
+    "note": "El Conservatoire conservó el telar de Jacquard en su colección de máquinas, que servía de modelo para enseñar las artes mecánicas."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-ruskin-seven-lamps-1849",
+   "to": "th-nature-of-gothic",
+   "note": "Ruskin developed the ideas of The Seven Lamps in ‘The Nature of Gothic’ (1853), which praised the free craftsman working on Gothic ornament.",
+   "es": {
+    "note": "Ruskin desarrolló las ideas de Las siete lámparas en «La naturaleza del gótico» (1853), que elogió al artesano libre que trabaja el ornamento gótico."
+   },
+   "refs": []
+  },
+  {
+   "from": "paisley-shawl-1820",
+   "to": "jacquard-loom-1804",
+   "note": "The Jacquard loom let the complex boteh designs, once demanding hand work, be woven at a middle price.",
+   "es": {
+    "note": "El telar Jacquard permitió tejer a precio medio los complejos diseños boteh, que antes exigían trabajo manual."
+   },
+   "refs": []
+  }
+ ]
+}

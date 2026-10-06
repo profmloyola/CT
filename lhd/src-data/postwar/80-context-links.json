@@ -1,0 +1,2866 @@
+{
+ "links": [
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "helvetica",
+   "note": "Booming US office and service firms wanted an image of efficiency without a house style, so they adopted a neutral grotesque like Helvetica.",
+   "es": {
+    "note": "Las empresas de oficinas y servicios en expansión querían una imagen de eficiencia sin estilo propio, y adoptaron una grotesca neutra como Helvetica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-phototypesetting",
+   "item": "helvetica",
+   "note": "Once phototypesetting spread in the 1960s, Helvetica’s adaptation to it made it cheap to set and crisp at any size, which helped it spread.",
+   "es": {
+    "note": "Con la fotocomposición de los años sesenta, la adaptación de Helvetica la hizo barata de componer y nítida en cualquier tamaño, lo que ayudó a difundirla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-phototypesetting",
+   "item": "univers",
+   "note": "Photosetting needed type built for the machine, so Frutiger planned Univers from the start as a 21-variant system, also made for the Lumitype.",
+   "es": {
+    "note": "La fotocomposición pedía tipos pensados para la máquina, así que Frutiger proyectó Univers desde el inicio como sistema de 21 variantes, hecho también para la Lumitype."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "univers",
+   "note": "Games for visitors of many languages needed a sober alphabet without local nuances, so Aicher chose Univers for Munich 1972.",
+   "es": {
+    "note": "Unos Juegos para visitantes de muchos idiomas requerían un alfabeto sobrio sin matices locales, y por eso Aicher eligió Univers para Múnich 1972."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "ibm-logo",
+   "note": "IBM grew by selling office machines and needed one coherent mark for all its products and buildings, so Rand redrew the wordmark in 1956.",
+   "es": {
+    "note": "IBM crecía vendiendo máquinas de oficina y necesitaba una marca única y coherente para productos y edificios, así que Rand redibujó el logotipo en 1956."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "ibm-logo",
+   "note": "New computing machines had to look reliable, so the wordmark was drawn in solid slab-serif capitals that suggested strength and dependability.",
+   "es": {
+    "note": "Las nuevas máquinas de computar debían parecer fiables, y el logotipo se dibujó con mayúsculas sólidas de serifas rectas que daban imagen de solidez y confianza."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reconstruction",
+   "item": "lufthansa-identity",
+   "note": "Refounded in 1953, Lufthansa wanted a modern image with no trace of the past, so it turned to the Ulm School of Design team for a new identity.",
+   "es": {
+    "note": "Refundada en 1953, Lufthansa quería una imagen moderna sin rastro del pasado, y recurrió al equipo de la escuela de diseño de Ulm para crear una nueva identidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "lufthansa-identity",
+   "note": "Jets and mass tourism meant crowds of travellers, so the airline needed one unified identity across aircraft, airports and printed matter.",
+   "es": {
+    "note": "Los reactores y el turismo masivo traían multitudes de viajeros, así que la aerolínea necesitó una identidad unificada en aviones, aeropuertos e impresos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "munich72-pictograms",
+   "note": "The Games were conceived as a total design project, so pictograms replaced text for visitors speaking many languages.",
+   "es": {
+    "note": "Los Juegos se concibieron como proyecto de diseño total, y por eso los pictogramas reemplazaron al texto para visitantes de muchos idiomas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "mexico68-identity",
+   "note": "The organizing committee used the Games to show a modern country, so it commissioned a full programme of logo, pictograms, posters and signage.",
+   "es": {
+    "note": "El comité organizador usó los Juegos para mostrar un país moderno, y por eso encargó un programa completo de logotipo, pictogramas, carteles y señalética."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "mexico68-identity",
+   "note": "Steady growth under stabilising development gave the state the means and confidence to fund a design programme of that scale.",
+   "es": {
+    "note": "El crecimiento sostenido del desarrollo estabilizador dio al Estado los medios y la confianza para financiar un programa de diseño de esa escala."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "tokyo64-pictograms",
+   "note": "Facing visitors who could not read Japanese, the committee created pictograms for sports and services, which other host cities later copied.",
+   "es": {
+    "note": "Ante visitantes que no leían japonés, el comité creó pictogramas de deportes y servicios, que luego copiaron otras ciudades sede."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-miracle",
+   "item": "tokyo64-pictograms",
+   "note": "The Games showed Japan’s industrial recovery to the world, so modern graphic design became part of the message.",
+   "es": {
+    "note": "Los Juegos mostraron al mundo la recuperación industrial de Japón, y el diseño gráfico moderno pasó a ser parte del mensaje."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "nyc-transit-standards",
+   "note": "Unimark carried the corporate identity programme method into public signage, so the subway got a manual, a grid and a single alphabet instead of ad hoc signs.",
+   "es": {
+    "note": "Unimark trasladó a la señalética pública el método de los programas de identidad corporativa, así que el metro tuvo manual, retícula y un solo alfabeto en vez de letreros sueltos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-rock-and-pop",
+   "item": "dylan-poster",
+   "note": "The poster came free inside a Dylan greatest-hits album, so it reached young rock listeners directly instead of through poster shops or advertising.",
+   "es": {
+    "note": "El cartel venía de regalo en un disco de éxitos de Dylan, así que llegó directo a un público joven de rock y no por tiendas de carteles ni publicidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "dylan-poster",
+   "note": "Youth counterculture wanted a psychedelic look; Glaser’s flat colours and flowing hair answered it, the opposite of sober corporate advertising.",
+   "es": {
+    "note": "La contracultura juvenil buscaba una estética psicodélica; los colores planos y la cabellera ondulada de Glaser la expresaron, opuesta a la sobria publicidad corporativa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "new-alphabet",
+   "note": "Computer screens of the time were coarse cathode-ray displays, so Crouwel built the letters only from straight lines to suit them.",
+   "es": {
+    "note": "Las pantallas de computador de la época eran de tubo de rayos catódicos y toscas, así que Crouwel hizo las letras solo con líneas rectas para ajustarse a ellas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "safety-poster-protect-child",
+   "note": "More cars and more accidents led to road-safety campaigns; Müller-Brockmann answered with a photograph and direct type instead of an illustration.",
+   "es": {
+    "note": "Más autos y más accidentes llevaron a campañas de seguridad vial; Müller-Brockmann respondió con una fotografía y tipografía directa en vez de una ilustración."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "uk-road-signs",
+   "note": "The first motorways and higher speeds demanded signs readable from afar, so Kinneir and Calvert unified them in one system with a single alphabet.",
+   "es": {
+    "note": "Las primeras autopistas y la mayor velocidad exigían señales legibles a distancia, así que Kinneir y Calvert las unificaron en un solo sistema con un único alfabeto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-unidad-popular-golpe",
+   "item": "larrea-covers",
+   "note": "The Unidad Popular’s cultural project and its record labels gave music a mass audience, and with it sleeves that needed an identity of their own.",
+   "es": {
+    "note": "El proyecto cultural de la Unidad Popular y sus sellos discográficos dieron público masivo a la música y, con él, a carátulas que necesitaban una identidad propia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-rock-and-pop",
+   "item": "larrea-covers",
+   "note": "The LP was the mass medium of young people’s music, so its sleeve became each group’s main image and the place to give it a visual identity.",
+   "es": {
+    "note": "El disco de larga duración era el soporte masivo de la música joven, así que su carátula pasó a ser la imagen principal de cada grupo y el lugar para darle identidad visual."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-unidad-popular-golpe",
+   "item": "brp-murals",
+   "note": "The 1970 campaign and the popular government needed walls painted fast and cheaply, so the brigades used collective work, flat shapes and slogans.",
+   "es": {
+    "note": "La campaña de 1970 y el gobierno popular necesitaban muros pintados rápido y barato, así que las brigadas usaron trabajo colectivo, formas planas y consignas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexican-muralism",
+   "item": "brp-murals",
+   "note": "Mexican muralism had made the public wall a medium of political art; the brigades took up that idea for Chilean streets.",
+   "es": {
+    "note": "El muralismo mexicano había hecho del muro público un medio de arte político; las brigadas retomaron esa idea para las calles chilenas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cuban-revolution",
+   "item": "icaic-ospaaal-posters",
+   "note": "The revolutionary state commissioned film and solidarity posters, printed in cheap screen print, which left designers great stylistic freedom.",
+   "es": {
+    "note": "El Estado revolucionario encargó carteles de cine y de solidaridad, impresos en serigrafía barata, lo que dio a los diseñadores gran libertad estética."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "icaic-ospaaal-posters",
+   "note": "In the conflict between blocs, the OSPAAAL issued posters in several languages for Third World movements, so the poster became an international medium.",
+   "es": {
+    "note": "En el conflicto entre bloques, la OSPAAAL difundió carteles en varios idiomas para los movimientos del Tercer Mundo, y el cartel pasó a ser un medio internacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "think-small",
+   "note": "In a market crowded with big cars and exaggerated advertising, the ad sold the Beetle with humour, candour and a spare layout.",
+   "es": {
+    "note": "En un mercado saturado de autos grandes y publicidad exagerada, el aviso vendió el Escarabajo con humor, sinceridad y un diseño austero."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "think-small",
+   "note": "It targeted suburban families who needed a cheap second car for daily use, so the ad stressed the small car’s economy.",
+   "es": {
+    "note": "Apuntaba a familias suburbanas que necesitaban un segundo auto barato para el uso diario, así que el aviso destacó la economía del auto pequeño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-may-68",
+   "item": "atelier-populaire-posters",
+   "note": "Students and artists occupying the Beaux-Arts needed posters for strikes and marches at once, so they screen-printed anonymous sheets fast, with blunt slogans.",
+   "es": {
+    "note": "Estudiantes y artistas que ocupaban las Beaux-Arts necesitaban carteles de inmediato para huelgas y marchas, y serigrafiaron hojas anónimas, rápidas y de consignas directas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "atelier-populaire-posters",
+   "note": "Young people questioned consumer society, so the Atelier rejected individual authorship and commercial advertising, and its posters went out unsigned.",
+   "es": {
+    "note": "Los jóvenes cuestionaban la sociedad de consumo, así que el Atelier rechazó la autoría individual y la publicidad comercial, y sus carteles circularon sin firma."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-tv-advertising",
+   "item": "westinghouse-logo",
+   "note": "Television ads needed marks read at a glance on small screens, so Rand replaced the old mark with a simple geometric symbol of a circle, dots and a W.",
+   "es": {
+    "note": "La publicidad televisiva pedía marcas legibles de un vistazo en pantallas pequeñas, y Rand reemplazó la marca antigua por un símbolo geométrico simple de círculo, puntos y una W."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "american-airlines-logo",
+   "note": "Airlines competing for a mass public of travellers renewed their marks; Vignelli gave American a simple modern identity easy to apply on aircraft and airports.",
+   "es": {
+    "note": "Las aerolíneas que competían por un público masivo de viajeros renovaron sus marcas; Vignelli dio a American una identidad moderna y simple, fácil de aplicar en aviones y aeropuertos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "chase-manhattan-logo",
+   "note": "Building its new headquarters in lower Manhattan, the bank wanted a modern mark, and Chermayeff & Geismar drew an abstract, neutral octagon in place of shields.",
+   "es": {
+    "note": "Al construir su nueva sede en el Bajo Manhattan, el banco quiso una marca moderna, y Chermayeff & Geismar dibujaron un octágono abstracto y neutro en vez de escudos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "blue-note-covers",
+   "note": "On the long-playing record the sleeve became the main advertisement for the music, so Blue Note had Reid Miles combine bold typography and photographs.",
+   "es": {
+    "note": "En el disco de larga duración la carátula pasó a ser el principal anuncio de la música, y Blue Note hizo que Reid Miles combinara tipografía audaz y fotografías."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "whole-earth-catalog",
+   "note": "Young communities wanted to live outside the consumer mainstream, so Brand’s catalogue gathered tools, books and know-how for them to build their own.",
+   "es": {
+    "note": "Las comunidades jóvenes querían vivir al margen del consumo convencional, y el catálogo de Brand reunió herramientas, libros y oficios para que armaran lo suyo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ecology",
+   "item": "whole-earth-catalog",
+   "note": "A new ecological awareness spread, and the catalogue’s cover of the whole Earth seen from space and its self-reliance spirit gave it a face.",
+   "es": {
+    "note": "Se extendió una nueva conciencia ecológica, y la portada del catálogo con la Tierra vista desde el espacio y su espíritu de autosuficiencia le dieron una imagen."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-war-economy",
+   "item": "dior-new-look",
+   "note": "After years of rationing and uniforms, the collection used many metres of cloth and a marked waist as a sign of recovered abundance.",
+   "es": {
+    "note": "Tras años de racionamiento y uniformes, la colección usó muchos metros de tela y la cintura marcada como signo de abundancia recuperada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "dior-trapeze",
+   "note": "Dior had become a global brand with licences, so each season needed a new silhouette that could be copied and sold in volume; the Trapeze dropped the waist.",
+   "es": {
+    "note": "Dior se había vuelto una marca global con licencias, así que cada temporada requería una silueta nueva, copiable y vendible en volumen; el Trapecio soltó la cintura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "chanel-suit",
+   "note": "Women wanted clothes that let them move, so Chanel cut a straight, comfortable suit; its easy cut anticipated ready-to-wear.",
+   "es": {
+    "note": "Las mujeres querían ropa en que moverse, y Chanel cortó un traje recto y cómodo; su corte fácil anticipó el prêt-à-porter."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "quant-miniskirt",
+   "note": "Young Londoners did not want to dress like their mothers, so Quant shortened hemlines far above the knee and used bright colours.",
+   "es": {
+    "note": "Las jóvenes londinenses no querían vestirse como sus madres, y Quant subió los dobladillos muy sobre la rodilla y usó colores fuertes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "quant-miniskirt",
+   "note": "Quant sold at her Chelsea boutique and mass-produced a line for shops, which took short skirts to a wide, young public.",
+   "es": {
+    "note": "Quant vendía en su boutique de Chelsea y producía en serie una línea para tiendas, lo que llevó las faldas cortas a un público amplio y joven."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "ysl-mondrian-dress",
+   "note": "With pop art blurring art, object and consumer goods, Saint Laurent turned a modern painting's colour blocks and black lines into a dress.",
+   "es": {
+    "note": "Con el arte pop borrando la frontera entre arte, objeto y consumo, Saint Laurent convirtió los bloques de color y las líneas negras de una pintura moderna en un vestido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-wave-feminism",
+   "item": "ysl-le-smoking",
+   "note": "As women demanded equality in public and working life, Saint Laurent took the male tuxedo, a menswear code, and made it women's evening dress.",
+   "es": {
+    "note": "Cuando las mujeres reclamaban igualdad en la vida pública y laboral, Saint Laurent tomó el esmoquin, un código masculino, y lo convirtió en traje de noche femenino."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "ysl-le-smoking",
+   "note": "Ready-to-wear moved fashion into shops, so Rive Gauche, opened in 1966, took ideas of this kind to buyers beyond the haute couture clientele.",
+   "es": {
+    "note": "Con el prêt-à-porter la moda pasó a las tiendas, y Rive Gauche, abierta en 1966, llevó propuestas de este tipo a un público más amplio que el de la alta costura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-space-race",
+   "item": "courreges-space-age",
+   "note": "Gagarin's flight and the American astronauts gave the public an image of suits, white boots and geometric shapes, which Courrèges brought to street clothes.",
+   "es": {
+    "note": "Los vuelos de Gagarin y de los astronautas estadounidenses dieron un imaginario de trajes, botas blancas y formas geométricas que Courrèges llevó a la ropa de calle."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-space-race",
+   "item": "cardin-cosmocorps",
+   "note": "The race to the Moon fed an image of the future; Cardin answered with tunics, helmets and geometric cuts, offered as clothes for women and men.",
+   "es": {
+    "note": "La carrera a la Luna alimentó un imaginario del futuro; Cardin respondió con túnicas, cascos y cortes geométricos, ofrecidos como ropa para mujeres y hombres."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "rive-gauche-boutique",
+   "note": "As fashion moved to the shop, Saint Laurent opened a ready-to-wear boutique at lower prices than couture, making the format respectable among great houses.",
+   "es": {
+    "note": "Al pasar la moda a la tienda, Saint Laurent abrió una boutique de ropa lista para llevar, a precios menores que la costura, y legitimó el formato entre las grandes casas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "rive-gauche-boutique",
+   "note": "A wider public with spending power wanted designer clothes without fittings or couture prices, so the house sold ready-made clothes in a shop.",
+   "es": {
+    "note": "Un público más amplio con poder de compra quería ropa de firma sin pruebas ni precios de costura, y la casa vendió ropa ya hecha en una tienda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "unikko-print",
+   "note": "In a Nordic welfare state aiming at good everyday goods for every home, Marimekko designed textiles as affordable, daily-use products.",
+   "es": {
+    "note": "En un Estado de bienestar nórdico que buscaba buenos bienes cotidianos para cada hogar, Marimekko pensó sus textiles como productos de uso diario y asequibles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "unikko-print",
+   "note": "With a growing mass market, large colourful prints could be sold as both clothing and household textiles to many buyers.",
+   "es": {
+    "note": "Con un mercado masivo en crecimiento, los estampados grandes y coloridos pudieron venderse como ropa y textiles para el hogar a muchos compradores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "paper-dress",
+   "note": "A paper-goods firm launched disposable dresses as a promotion and sold them as cheap, single-use fashion, built on a consumer culture of throwaway goods.",
+   "es": {
+    "note": "Una empresa de productos de papel lanzó vestidos desechables como promoción y los vendió como moda barata y de un solo uso, propia de una cultura de consumo de lo desechable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "paper-dress",
+   "note": "Pop art's bold prints and its play with consumer culture shaped the dresses' patterns, and their short life matched that culture's throwaway logic.",
+   "es": {
+    "note": "Los estampados llamativos del arte pop y su juego con la cultura de consumo marcaron los diseños de los vestidos, y su vida breve calzaba con la lógica de lo desechable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "eames-lcw",
+   "note": "The Eameses developed moulded plywood for Navy splints and other parts; after the war they applied that wartime technique to a chair.",
+   "es": {
+    "note": "Los Eames desarrollaron el terciado moldeado para tablillas y otras piezas de la Marina; tras la guerra aplicaron esa técnica bélica a una silla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "eames-lcw",
+   "note": "New postwar families needed light, modern furniture for small houses, and a moulded plywood chair made in series suited that need.",
+   "es": {
+    "note": "Las nuevas familias de posguerra necesitaban muebles livianos y modernos para casas pequeñas, y una silla de terciado moldeado hecha en serie respondía a eso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "eames-lounge",
+   "note": "With a growing corporate class of executives and professionals, the Eameses conceived a high-end lounge chair as a status piece.",
+   "es": {
+    "note": "Con una clase corporativa creciente de ejecutivos y profesionales, los Eames concibieron un sillón de lujo como pieza de estatus."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "eames-fiberglass",
+   "note": "Fibreglass-reinforced plastics, developed before and during the war, made it possible for the first time to mould a chair shell in one piece in series.",
+   "es": {
+    "note": "Los plásticos reforzados con fibra de vidrio, desarrollados antes y durante la guerra, permitieron por primera vez moldear en serie una carcasa de silla de una sola pieza."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "eames-aluminium",
+   "note": "As corporations built up their offices, the group was sold as high-end office and meeting-room seating, with a cast aluminium frame and stretched upholstery.",
+   "es": {
+    "note": "Con el auge de las oficinas corporativas, se vendió como silla de oficina y sala de reuniones de gama alta, con estructura de aluminio fundido y tapiz tensado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "tulip-chair",
+   "note": "A reinforced-plastic shell on a cast aluminium stem let the seat be formed in one piece, so the legs could be dropped.",
+   "es": {
+    "note": "Una carcasa de plástico reforzado sobre un pie de aluminio fundido permitió formar el asiento de una pieza y suprimir las patas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "tulip-chair",
+   "note": "Knoll sold it to offices and corporate dining rooms that wanted a clean, modern image, so a single-stem chair suited that look.",
+   "es": {
+    "note": "Knoll la vendió a oficinas y comedores corporativos que buscaban una imagen limpia y moderna, y una silla de un solo pie calzaba con ella."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "womb-chair",
+   "note": "Florence Knoll asked Saarinen for a chair one could sit in sideways and curl up in, suited to the informal living rooms of new homes.",
+   "es": {
+    "note": "Florence Knoll pidió a Saarinen un sillón en el que se pudiera sentar de lado y acurrucarse, pensado para el living informal de las casas nuevas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "ant-chair",
+   "note": "It was designed for the canteen of a Danish pharmaceutical firm, as stackable, cheap institutional furniture of the welfare state.",
+   "es": {
+    "note": "Se diseñó para el comedor de empleados de una empresa farmacéutica danesa, como mobiliario institucional apilable y barato del Estado de bienestar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "series-7-chair",
+   "note": "Fritz Hansen made it in large series for homes, offices and schools, which made it the best-selling chair of Danish design.",
+   "es": {
+    "note": "Fritz Hansen la fabricó en grandes series para hogares, oficinas y escuelas, con lo que se volvió la silla más vendida del diseño danés."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "egg-chair",
+   "note": "It was made for the lobby and rooms of the SAS hotel in Copenhagen, a hotel planned for air travellers.",
+   "es": {
+    "note": "Se creó para el vestíbulo y las habitaciones del hotel de la aerolínea SAS en Copenhague, un hotel pensado para viajeros aéreos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "egg-chair",
+   "note": "A shell moulded with foam and upholstery allowed a sculptural form that a wooden frame could not give.",
+   "es": {
+    "note": "Su carcasa moldeada con espuma y tapiz permitió una forma escultórica imposible con estructuras de madera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "wishbone-chair",
+   "note": "It joined cabinetmaker's craft to workshop production for a middle-class home market with a taste for plain design.",
+   "es": {
+    "note": "Combinó oficio de ebanista y producción en taller para un mercado doméstico de clase media con gusto por el diseño sobrio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "panton-chair",
+   "note": "New mouldable plastics made the first one-piece chair possible, with a continuous form and no joints.",
+   "es": {
+    "note": "Los nuevos plásticos moldeables permitieron la primera silla de una sola pieza, de forma continua y sin juntas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "panton-chair",
+   "note": "Its bright colour and sculptural form belong to the sixties pop taste, which celebrated synthetic materials and the artificial.",
+   "es": {
+    "note": "Su color brillante y su forma escultórica pertenecen al gusto pop de los sesenta, que celebraba el material sintético y lo artificial."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "flowerpot-lamp",
+   "note": "Its intense colours and toy-like form reflect the youth taste for the playful and the psychedelic in the home.",
+   "es": {
+    "note": "Sus colores intensos y su forma de juguete reflejan el gusto juvenil por lo lúdico y lo psicodélico en el interior doméstico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reconstruction",
+   "item": "ulm-stool",
+   "note": "It was the basic furniture of the HfG, a school founded to renew German culture after Nazism, and served as seat, table and shelf.",
+   "es": {
+    "note": "Fue el mueble básico de la HfG, escuela fundada para renovar la cultura alemana tras el nazismo, y sirvió de asiento, mesa y repisa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "braun-sk4",
+   "note": "As West German households gained income to buy radios and record players, Braun made a plain, orderly design its brand image, as in the SK 4 of 1956.",
+   "es": {
+    "note": "Al tener los hogares alemanes occidentales ingresos para comprar radios y tocadiscos, Braun hizo de un diseño sobrio y ordenado su imagen de marca, como en el SK 4 de 1956."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reconstruction",
+   "item": "braun-sk4",
+   "note": "Rebuilding Germany after Nazism made design a way to look modern and democratic; Braun’s tie with the Ulm school gave the SK 4 a rational, unornamented form.",
+   "es": {
+    "note": "La reconstrucción de Alemania tras el nazismo hizo del diseño una forma de verse moderna y democrática; el vínculo de Braun con Ulm dio al SK 4 una forma racional y sin ornamento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "braun-606",
+   "note": "As postwar housing meant small homes whose needs changed, Rams’s 606 used wall rails and movable parts instead of heavy fixed furniture.",
+   "es": {
+    "note": "Como la vivienda de posguerra eran casas pequeñas de necesidades cambiantes, el 606 de Rams usó rieles de pared y piezas movibles en vez de mueble pesado y fijo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "lettera-22",
+   "note": "In Italy’s boom Olivetti could export a light portable machine, so Nizzoli designed the Lettera 22 for writers, students and travelling professionals.",
+   "es": {
+    "note": "En el auge italiano Olivetti pudo exportar una máquina liviana y portátil, y Nizzoli diseñó la Lettera 22 para escritores, estudiantes y profesionales que viajaban."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "lettera-22",
+   "note": "In an Italy where exhibitions and prizes made design a cultural subject, the Lettera 22 was valued as industrial art and won the Compasso d’Oro in 1954.",
+   "es": {
+    "note": "En una Italia donde exposiciones y premios hacían del diseño un tema cultural, la Lettera 22 fue valorada como arte industrial y ganó el Compasso d’Oro en 1954."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "elea-9003",
+   "note": "As large computers gave firms a technological image, Sottsass arranged the Elea 9003 as low separate cabinets so a complex machine looked orderly.",
+   "es": {
+    "note": "Cuando los grandes computadores daban a las empresas una imagen tecnológica, Sottsass dispuso el Elea 9003 en gabinetes bajos y separados para que una máquina compleja se viera ordenada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "elea-9003",
+   "note": "Olivetti treated industrial design as part of its cultural project, and the Elea 9003 received the Compasso d’Oro in 1959.",
+   "es": {
+    "note": "Olivetti trataba el diseño industrial como parte de su proyecto cultural, y el Elea 9003 recibió el Compasso d’Oro en 1959."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "valentine-typewriter",
+   "note": "As Pop art took consumer goods as its subject, the Valentine’s bright red case broke the seriousness of the office machine and made it a playful object.",
+   "es": {
+    "note": "Cuando el arte pop tomó los bienes de consumo como tema, el rojo brillante de la Valentine rompió la seriedad de la máquina de oficina y la volvió un objeto lúdico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "valentine-typewriter",
+   "note": "Cheap moulded plastics let Olivetti make the Valentine’s body in an intense red and produce it more cheaply than a metal one.",
+   "es": {
+    "note": "Los plásticos moldeados baratos permitieron a Olivetti hacer la carcasa de la Valentine en un rojo intenso y producirla a menor costo que una de metal."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "mirella-sewing-machine",
+   "note": "As Italian families’ incomes rose, Necchi sold home sewing machines widely, and Nizzoli gave the Mirella one smooth housing over the mechanism.",
+   "es": {
+    "note": "Al subir los ingresos de las familias italianas, Necchi vendió ampliamente máquinas de coser domésticas, y Nizzoli dio a la Mirella una carcasa continua y limpia sobre el mecanismo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "vespa",
+   "note": "With the war over, Piaggio, an aircraft maker, turned its industry and technical staff to a cheap vehicle, the Vespa of 1946.",
+   "es": {
+    "note": "Terminada la guerra, Piaggio, fabricante de aviones, volcó su industria y su personal técnico a un vehículo barato, la Vespa de 1946."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "vespa",
+   "note": "Many Italians could not yet afford a car, so the Vespa offered them individual mobility in a cheap, easy-to-ride scooter.",
+   "es": {
+    "note": "Muchos italianos aún no podían comprar un coche, así que la Vespa les ofreció movilidad individual en una scooter barata y fácil de manejar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "fiat-500",
+   "note": "Rising Italian incomes created demand for a small, cheap car for worker and clerk families, which the Fiat 500 of 1957 met.",
+   "es": {
+    "note": "El alza de los ingresos italianos creó demanda de un coche pequeño y barato para familias de obreros y empleados, que el Fiat 500 de 1957 satisfizo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "fiat-500",
+   "note": "As the car became a household good, Fiat built the 500 in large numbers as a people’s car, with a pressed-steel body and a compact rear engine.",
+   "es": {
+    "note": "Al volverse el coche un bien de hogar, Fiat produjo el 500 en gran escala como coche popular, con carrocería de acero estampado y motor trasero compacto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "citroen-ds",
+   "note": "The DS showed European motorisation seeking comfort and status as well as basic transport, with a level ride from its hydropneumatic suspension.",
+   "es": {
+    "note": "El DS mostró una motorización europea que buscaba confort y estatus además de transporte básico, con una marcha nivelada gracias a su suspensión hidroneumática."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-age",
+   "item": "citroen-ds",
+   "note": "Jet airliners made speed the image of the modern; Citroën gave the DS a smooth aerodynamic body and hydropneumatic suspension, so a family car carried the look of aviation.",
+   "es": {
+    "note": "Los aviones a reacción hicieron de la velocidad la imagen de lo moderno; Citroën dio al DS una carrocería lisa y aerodinámica y suspensión hidroneumática, y un auto familiar adoptó la imagen de la aviación."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "mole-armchair",
+   "note": "Kubitschek’s drive for national modernity encouraged a Brazilian design identity, so Rodrigues built the Mole from native hardwood rather than copying European models.",
+   "es": {
+    "note": "El impulso de Kubitschek por una modernidad nacional alentó un diseño brasileño propio, y Rodrigues hizo la Mole con madera dura nativa en vez de copiar modelos europeos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "mole-armchair",
+   "note": "Fast-growing cities created a middle class in new flats that wanted modern furniture; the Mole answered with a modern chair made of local materials.",
+   "es": {
+    "note": "Las ciudades en rápido crecimiento crearon una clase media en departamentos nuevos que quería muebles modernos; la Mole respondió con una silla moderna hecha de materiales locales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "bowl-chair",
+   "note": "A modernising Brazil favoured modern furniture made locally, so Bo Bardi reduced the Bowl Chair to a simple metal frame and a leather cushion that workshops could make.",
+   "es": {
+    "note": "Un Brasil modernizador favoreció el mobiliario moderno de producción local, y Bo Bardi redujo la Bowl Chair a una estructura metálica simple y un cojín de cuero que los talleres podían fabricar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-unidad-popular-golpe",
+   "item": "cybersyn-opsroom",
+   "note": "Allende’s government sought to coordinate nationalised firms through an information system; the design of the operations room gave physical form to that idea.",
+   "es": {
+    "note": "El gobierno de Allende buscó coordinar las empresas nacionalizadas mediante un sistema de información; el diseño de la sala dio forma física a esa idea."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corfo",
+   "item": "cybersyn-opsroom",
+   "note": "CORFO administered the nationalised firms, which sent daily production data; the room was designed to receive and show that flow of figures.",
+   "es": {
+    "note": "La CORFO administraba las empresas nacionalizadas, que enviaban datos diarios de producción; la sala se diseñó para recibir y mostrar ese flujo de cifras."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "cybersyn-opsroom",
+   "note": "Central computers and telex offered a data network, so the room was designed as the place where officials could read that information and discuss it.",
+   "es": {
+    "note": "Los computadores centrales y el télex ofrecían una red de datos, así que la sala se diseñó como el lugar donde los funcionarios leían esa información y la discutían."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-transistor",
+   "item": "sony-tr63",
+   "note": "The transistor replaced the valve, so the TR-63 could be a small battery radio that fitted a pocket and was heard alone.",
+   "es": {
+    "note": "El transistor reemplazó a la válvula, y así la TR-63 pudo ser una radio pequeña, a pilas, que cabía en un bolsillo y se escuchaba a solas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-miracle",
+   "item": "sony-tr63",
+   "note": "Japan’s industrial growth sought export markets; Sony sold the TR-63 in the United States and showed that Japan could compete in electronics design.",
+   "es": {
+    "note": "El crecimiento industrial japonés buscó mercados de exportación; Sony vendió la TR-63 en Estados Unidos y mostró que Japón podía competir en diseño electrónico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "universale-4867",
+   "note": "Injection-moulded ABS became available, so Colombo made one of the first chairs from it, in snap-fitting parts.",
+   "es": {
+    "note": "El ABS moldeado por inyección pasó a estar disponible, y Colombo hizo con él una de las primeras sillas, en piezas que encajan."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "universale-4867",
+   "note": "Italian firms such as Kartell worked with designers, so plastic became a quality material and the Universale a serious chair rather than a cheap substitute.",
+   "es": {
+    "note": "Empresas italianas como Kartell trabajaron con diseñadores, de modo que el plástico pasó a ser un material de calidad y la Universale una silla seria, no un sucedáneo barato."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "arco-lamp",
+   "note": "Flos and designers worked together on objects that solved a domestic problem; the Arco lit a table without a ceiling fixture, with wit and craft.",
+   "es": {
+    "note": "Flos y los diseñadores trabajaron juntos en objetos que resolvían un problema doméstico; la Arco iluminaba una mesa sin colgar nada del techo, con humor y oficio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "superleggera-chair",
+   "note": "Ponti argued in Domus for joining craft and industry, so he refined the traditional Chiavari chair into a very light one that Cassina produced.",
+   "es": {
+    "note": "Ponti defendió en Domus unir oficio artesanal e industria, y refinó la silla tradicional de Chiavari hasta hacerla muy liviana, producida por Cassina."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "superleggera-chair",
+   "note": "Rising household incomes opened a market for designed furniture, which let Cassina make a refined chair like the Superleggera for sale.",
+   "es": {
+    "note": "El alza de los ingresos de los hogares abrió un mercado para el mueble de diseño, lo que permitió a Cassina producir y vender una silla refinada como la Superleggera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "marshmallow-sofa",
+   "note": "Higher incomes and a market that renewed products by look led Herman Miller to sell the playful Marshmallow as a fashion piece for better-off homes.",
+   "es": {
+    "note": "Mayores ingresos y un mercado que renovaba los productos por su aspecto llevaron a Herman Miller a vender el lúdico Marshmallow como pieza de moda para hogares más acomodados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "unite-habitation",
+   "note": "The French state commissioned a collective block to ease the postwar housing shortage, so Le Corbusier gave it interior streets, shared services and duplex flats.",
+   "es": {
+    "note": "El Estado francés encargó un bloque colectivo para aliviar la falta de vivienda de posguerra, y Le Corbusier lo dotó de calles interiores, servicios comunes y departamentos dúplex."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "ronchamp-chapel",
+   "note": "The earlier chapel on the hill was destroyed in the fighting of 1944, so Le Corbusier replaced it with a sculptural concrete sanctuary with thick walls.",
+   "es": {
+    "note": "La capilla anterior de la colina fue destruida en los combates de 1944, y Le Corbusier la reemplazó por un santuario de hormigón de forma escultórica y muros gruesos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "seagram-building",
+   "note": "Seagram wanted a headquarters that projected prestige, so Mies built a bronze-and-glass tower that became the model of the modern office skyscraper.",
+   "es": {
+    "note": "Seagram quiso una sede que proyectara prestigio, y Mies levantó una torre de bronce y vidrio que se volvió el modelo del rascacielos de oficinas moderno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "interbau-hansaviertel",
+   "note": "West Berlin gathered renowned architects to show its modern way of life against East Berlin's Stalinallee, so the district was designed as a showcase.",
+   "es": {
+    "note": "Berlín Occidental reunió a arquitectos de renombre para mostrar su modo de vida moderno frente a la Stalinallee del Este, y el barrio se proyectó como una vitrina."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "interbau-hansaviertel",
+   "note": "The war-devastated district was rebuilt as a showcase of modern housing, so its plan used slab blocks and towers instead of the old street fabric.",
+   "es": {
+    "note": "El barrio devastado por la guerra se reconstruyó como exposición de vivienda moderna, y su plan usó bloques y torres en lugar del antiguo tejido de calles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "eames-house",
+   "note": "Postwar demand in California led the Case Study House programme to seek modern, affordable housing models, and the Eameses answered with a prefabricated-parts house.",
+   "es": {
+    "note": "La demanda de posguerra en California llevó al programa Case Study House a buscar modelos de vivienda moderna y económica, y los Eames respondieron con una casa de piezas prefabricadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "eames-house",
+   "note": "Wartime industry had standardised steel components, so the Eameses built their house from industrial catalogue parts rather than custom ones.",
+   "es": {
+    "note": "La industria de guerra había estandarizado los componentes de acero, así que los Eames armaron su casa con piezas industriales de catálogo en vez de piezas a medida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reconstruction",
+   "item": "hfg-ulm-building",
+   "note": "The school began as a democratic re-education project backed by private and American funds, and Max Bill's building expressed it in exposed concrete.",
+   "es": {
+    "note": "La escuela nació como proyecto de reeducación democrática con apoyo privado y estadounidense, y el edificio de Max Bill expresó esa voluntad con hormigón a la vista."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "brasilia-plano-piloto",
+   "note": "President Kubitschek wanted the capital built inland within a few years as a symbol of a modern Brazil, so the plan was drawn from scratch on an open site.",
+   "es": {
+    "note": "El presidente Kubitschek quiso construir la capital en el interior en pocos años, como símbolo de un Brasil moderno, y el plan se trazó desde cero en un sitio despejado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "brasilia-plano-piloto",
+   "note": "Fast urban growth called for ordered cities, so the new capital was planned with separated functions and circulation designed around cars.",
+   "es": {
+    "note": "El crecimiento urbano acelerado pedía ciudades ordenadas, y la capital nueva se proyectó con funciones separadas y una circulación pensada para el auto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "alvorada-palace",
+   "note": "As the first monumental work of the new capital, it showed Niemeyer's curved concrete as the image of a modern Brazil.",
+   "es": {
+    "note": "Como primera obra monumental de la nueva capital, mostró el hormigón curvo de Niemeyer como imagen de un Brasil moderno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "brasilia-cathedral",
+   "note": "With a capital planned from zero amid fast urban growth, the cathedral closed the monumental axis with a hyperboloid concrete structure visible from the city.",
+   "es": {
+    "note": "En una capital proyectada desde cero en medio del crecimiento urbano acelerado, la catedral cerró el eje monumental con una estructura hiperboloide de hormigón visible desde la ciudad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "masp",
+   "note": "São Paulo’s growth made Avenida Paulista a public address, so the museum was conceived as open to the city, with a covered plaza beneath its raised volume.",
+   "es": {
+    "note": "El crecimiento de São Paulo hizo de la avenida Paulista un espacio público, así que el museo se pensó abierto a la ciudad, con una plaza cubierta bajo su volumen elevado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "masp",
+   "note": "Industrialisation in São Paulo created a wealthy bourgeoisie and the resources that sustained the museum and its collection.",
+   "es": {
+    "note": "La industrialización de São Paulo creó una burguesía y los recursos que sostuvieron el museo y su colección."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "casa-de-vidro",
+   "note": "São Paulo’s spread into new districts like Morumbi made it possible to try a modern glass house on a wooded slope.",
+   "es": {
+    "note": "La expansión de São Paulo hacia barrios nuevos como el Morumbi permitió ensayar una casa moderna de vidrio sobre una ladera boscosa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexican-muralism",
+   "item": "unam-central-library",
+   "note": "Walls were covered in coloured stone mosaics, merging public art with architecture in the tradition of muralism.",
+   "es": {
+    "note": "Los muros se cubrieron con mosaicos de piedra de colores, que integraron arte público y arquitectura en la tradición del muralismo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "museo-antropologia-mexico",
+   "note": "The state, with resources from sustained growth, built the museum as a monument to national identity.",
+   "es": {
+    "note": "El Estado, con recursos del crecimiento sostenido, construyó el museo como monumento a la identidad nacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexican-muralism",
+   "item": "museo-antropologia-mexico",
+   "note": "The museum built murals, reliefs and sculptures into its architecture, a tradition that muralism had made central in Mexico.",
+   "es": {
+    "note": "El museo integró murales, relieves y esculturas con la arquitectura, tradición que el muralismo había hecho central en México."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cuban-revolution",
+   "item": "cuba-escuelas-arte",
+   "note": "The new government commissioned art schools on a former golf club and, with steel and concrete scarce, built them with Catalan brick vaults.",
+   "es": {
+    "note": "El nuevo gobierno encargó escuelas de arte en un antiguo club de golf y, por falta de acero y hormigón, las resolvió con bóvedas catalanas de ladrillo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "pirelli-tower",
+   "note": "The boom in Milan made the tyre company’s skyscraper a symbol of Italian industrial pride.",
+   "es": {
+    "note": "El boom económico de Milán hizo del rascacielos de la empresa de neumáticos un símbolo del orgullo industrial italiano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "sas-royal-hotel",
+   "note": "The airline built a hotel and city terminal for its passengers and had building, furniture and cutlery designed as one whole.",
+   "es": {
+    "note": "La aerolínea construyó un hotel y terminal urbana para sus pasajeros, y encargó como un solo diseño el edificio, los muebles y los cubiertos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-age",
+   "item": "twa-terminal",
+   "note": "Commercial jets demanded new terminals, and Saarinen expressed flight in a curved concrete shell.",
+   "es": {
+    "note": "La llegada de los reactores comerciales exigió terminales nuevas, y Saarinen expresó el vuelo con una cáscara de hormigón curva."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "twa-terminal",
+   "note": "Mass air travel turned the terminal into a space of spectacle for middle-class travellers.",
+   "es": {
+    "note": "El turismo aéreo masivo hizo de la terminal un espacio de espectáculo para los viajeros de clase media."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-miracle",
+   "item": "nakagin-capsule-tower",
+   "note": "Growth in Tokyo and Japan’s economy created demand for small city flats for executives, met with interchangeable prefabricated capsules.",
+   "es": {
+    "note": "El crecimiento de Tokio y de la economía japonesa creó demanda de departamentos urbanos pequeños para ejecutivos, resuelta con cápsulas prefabricadas intercambiables."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-expo-67",
+   "item": "fuller-geodesic-dome",
+   "note": "Expo 67 gave the United States a world showcase, and Fuller’s dome showed a light, repeatable structure at large scale.",
+   "es": {
+    "note": "La exposición de Montreal dio a Estados Unidos un escaparate mundial, y el domo de Fuller mostró una estructura ligera y repetible a gran escala."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ecology",
+   "item": "fuller-geodesic-dome",
+   "note": "As the environmental cost of industry became a public issue, Fuller’s ‘spaceship Earth’ and resource-saving ideas lent his light dome a symbolic ecological meaning.",
+   "es": {
+    "note": "Al volverse público el costo ambiental de la industria, las ideas de Fuller sobre la «nave espacio Tierra» y el uso eficiente de recursos dieron a su liviano domo un sentido simbólico ecológico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "philips-pavilion",
+   "note": "Brussels 1958 set the pavilions of the two blocs against each other, so Philips used its own to show advanced electronic technology.",
+   "es": {
+    "note": "La exposición de Bruselas de 1958 enfrentó los pabellones de los dos bloques, y Philips usó el suyo para mostrar tecnología electrónica avanzada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "monumento-continuo",
+   "note": "Mass consumption spread one uniform urban model, so Superstudio answered with a single architecture covering the planet, an ironic critique of the homogeneous city.",
+   "es": {
+    "note": "El consumo masivo extendió un modelo urbano uniforme, y Superstudio respondió con una arquitectura única que cubre el planeta, crítica irónica de la ciudad homogénea."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-may-68",
+   "item": "monumento-continuo",
+   "note": "The political radicalisation of 1968 led young architects to use utopia as a weapon against functionalism, as in Superstudio’s planet-wide block.",
+   "es": {
+    "note": "La radicalización política de 1968 llevó a jóvenes arquitectos a usar la utopía como arma contra el funcionalismo, como el bloque planetario de Superstudio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "no-stop-city",
+   "note": "With consumption at the centre of life, Archizoom imagined the city as a factory or supermarket with no outside, pushing that logic to its limit.",
+   "es": {
+    "note": "Con el consumo en el centro de la vida, Archizoom imaginó la ciudad como fábrica o supermercado sin exterior, llevando esa lógica al límite."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "levittown",
+   "note": "Demand for housing from veterans and young families led Levitt & Sons to build thousands of identical houses in series, using assembly-line methods.",
+   "es": {
+    "note": "La demanda de vivienda de veteranos y familias jóvenes llevó a Levitt & Sons a construir miles de casas idénticas en serie, con métodos de cadena de montaje."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "levittown",
+   "note": "In a consumer economy, each Levittown house came with appliances and a television, and the suburb was sold as a consumer lifestyle, not just a dwelling.",
+   "es": {
+    "note": "En una economía de consumo, cada casa de Levittown traía electrodomésticos y televisor, y el suburbio se vendió como un estilo de vida de consumo, no solo como vivienda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "inst-cidi",
+   "note": "Import substitution created local factories that needed their own design, and the CIDI was set up to train and advise that industry.",
+   "es": {
+    "note": "La sustitución de importaciones creó fábricas locales que necesitaban diseño propio, y el CIDI se creó para formar y asesorar a esa industria."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "inst-esdi",
+   "note": "Developmentalist import-substitution policy called for industrial designers trained in the country, and the ESDI was created to supply them.",
+   "es": {
+    "note": "La política desarrollista de sustitución de importaciones pidió diseñadores industriales formados en el país, y la ESDI se creó para formarlos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-tv-advertising",
+   "item": "th-hidden-persuaders",
+   "note": "Television advertising and the study of consumer persuasion prompted Packard’s 1957 book on how advertisers appeal to hidden motives.",
+   "es": {
+    "note": "La publicidad televisiva y el estudio de la persuasión del consumidor motivaron el libro de Packard de 1957 sobre cómo los publicistas apelan a motivos ocultos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-tv-advertising",
+   "item": "corporate-identity-design",
+   "note": "Television commercials made brands recognisable in seconds, so firms needed simple marks and a coherent identity that read well on screen.",
+   "es": {
+    "note": "Los comerciales de televisión hicieron reconocibles las marcas en segundos, así que las empresas necesitaron marcas simples y una identidad coherente que se leyera bien en pantalla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-oil-crisis",
+   "item": "th-design-for-the-real-world",
+   "note": "The energy crisis made Papanek’s criticism of wasteful use of resources in design newly relevant.",
+   "es": {
+    "note": "La crisis energética dio nueva actualidad a la crítica de Papanek al derroche de recursos en el diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-expo-67",
+   "item": "buckminster-fuller",
+   "note": "A world’s fair showed lightweight structures at full scale, so Fuller’s geodesic dome for the US pavilion in Montreal became a familiar image of the technological future.",
+   "es": {
+    "note": "Una feria mundial mostró las estructuras livianas a escala real, así que la cúpula geodésica de Fuller para el pabellón de EE. UU. en Montreal se volvió una imagen conocida del futuro tecnológico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-transistor",
+   "item": "inst-sony",
+   "note": "Without valves, radios could shrink to pocket size, so Sony built its first transistor radios, the TR-55 and the pocket TR-63, and grew into a consumer-electronics firm.",
+   "es": {
+    "note": "Sin válvulas, las radios pudieron achicarse al tamaño de un bolsillo, así que Sony fabricó sus primeras radios de transistores, la TR-55 y la TR-63, y creció como empresa de electrónica de consumo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-oil-crisis",
+   "item": "pop-design",
+   "note": "The 1973 oil shock raised the price of the plastics made from crude oil and cooled the optimism about disposable, brightly coloured plastic objects that pop design had celebrated.",
+   "es": {
+    "note": "La crisis del petróleo de 1973 encareció los plásticos derivados del crudo y enfrió el optimismo por los objetos de plástico coloridos y desechables que el diseño pop había celebrado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-marshall-plan",
+   "item": "inst-fiat",
+   "note": "American recovery aid helped Italian industry re-equip after the war; Fiat modernised its plants and could then mass-produce small, cheap cars for a growing home market.",
+   "es": {
+    "note": "La ayuda estadounidense a la recuperación ayudó a reequipar la industria italiana tras la guerra; Fiat modernizó sus plantas y pudo producir en masa autos chicos y baratos para un mercado interno en crecimiento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "munich72-pictograms",
+   "note": "Mass tourism brought visitors of many languages, so signs that needed no text became useful; Aicher’s Munich 72 pictograms took that idea to a complete system.",
+   "es": {
+    "note": "El turismo de masas trajo visitantes de muchos idiomas, y las señales sin texto se hicieron útiles; los pictogramas de Aicher para Múnich 72 llevaron esa idea a un sistema completo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "dior-new-look",
+   "note": "After wartime rationing and uniforms, Dior’s 1947 collection answered with long, full skirts using many metres of cloth, a deliberate contrast with the austerity.",
+   "es": {
+    "note": "Tras el racionamiento y los uniformes de guerra, la colección de Dior de 1947 respondió con faldas largas y amplias de muchos metros de tela, un contraste deliberado con la austeridad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "unite-habitation",
+   "note": "War destruction left a housing shortage in France, so the state commissioned the Unité, a collective block with shared services, to house people at scale.",
+   "es": {
+    "note": "La destrucción de la guerra dejó a Francia sin viviendas, así que el Estado encargó la Unité, un bloque colectivo con servicios comunes, para alojar gente a gran escala."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-hip-hop",
+   "item": "off-white-the-ten-2017",
+   "note": "Hip hop made sneakers a code of identity and streetwear; Virgil Abloh, from that culture, reworked ten Nike icons in The Ten.",
+   "es": {
+    "note": "El hip hop hizo de las zapatillas un código de identidad y de streetwear; Virgil Abloh, desde esa cultura, reinterpretó diez íconos de Nike en The Ten."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-phototypesetting",
+   "item": "hermann-zapf",
+   "note": "Faces drawn for metal had to be redrawn for film once phototypesetting spread; Zapf adapted Optima and Palatino to the new setting and later worked on digital composition.",
+   "es": {
+    "note": "Al difundirse la fotocomposición, los tipos dibujados para metal debieron redibujarse para película; Zapf adaptó Optima y Palatino a la nueva composición y luego trabajó en composición digital."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "gerald-holtom",
+   "note": "Fear of nuclear war produced a mass movement that needed an emblem anyone could copy; Holtom combined the semaphore signals for N and D into a simple circle.",
+   "es": {
+    "note": "El miedo a la guerra nuclear creó un movimiento de masas que necesitaba un emblema fácil de copiar; Holtom combinó las señales de semáforo de N y D en un círculo simple."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "jan-lenica",
+   "note": "In the Soviet bloc culture was state-run and commercial advertising was scarce, so theatre, film and opera posters became an art field; Lenica worked in it.",
+   "es": {
+    "note": "En el bloque soviético la cultura era estatal y la publicidad comercial escasa, así que el cartel de teatro, cine y ópera pasó a ser campo de arte; Lenica trabajó en él."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "peter-blake",
+   "note": "Pop art took its images from mass culture; Blake composed them as collage, the method he used for the Sgt. Pepper cover.",
+   "es": {
+    "note": "El pop tomó sus imágenes de la cultura de masas; Blake las compuso como collage, el método de la carátula de Sgt. Pepper."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "jann-haworth",
+   "note": "Pop collage reused mass-culture images; Haworth contributed life-size cardboard figures and the composition of the Sgt. Pepper cover.",
+   "es": {
+    "note": "El collage pop reutilizó la imagen de masas; Haworth aportó las figuras de cartón a tamaño natural y la composición de la carátula de Sgt. Pepper."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "inst-case-study-houses",
+   "note": "Postwar housing demand pushed Arts & Architecture to commission model houses; the programme tested industrial materials as a way to build modern homes quickly.",
+   "es": {
+    "note": "La demanda de vivienda de posguerra llevó a Arts & Architecture a encargar casas modelo; el programa probó los materiales industriales como una forma de construir casas modernas con rapidez."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "inst-kartell",
+   "note": "Injection-moulding plastics such as ABS and polycarbonate let Kartell mould furniture in one piece, and its designers could treat plastic as a furniture material.",
+   "es": {
+    "note": "Los plásticos de inyección, como el ABS y el policarbonato, permitieron a Kartell moldear muebles en una sola pieza, y sus diseñadores pudieron tratar el plástico como material de mueble."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "inst-giorgini-florence-shows",
+   "note": "By showing Italian houses together in Florence, Giorgini gave Italian fashion a shared identity of its own, distinct from Paris, in a design culture built on craft and taste.",
+   "es": {
+    "note": "Al mostrar juntas a las casas italianas en Florencia, Giorgini dio a la moda italiana una identidad común propia, distinta de la de París, dentro de una cultura de diseño basada en el oficio y el gusto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "inst-giorgini-florence-shows",
+   "note": "Italy’s postwar recovery depended on exports; the Florence shows brought American buyers to Italian fashion and opened the US market to it.",
+   "es": {
+    "note": "La recuperación italiana de posguerra dependía de las exportaciones; los desfiles de Florencia llevaron compradores estadounidenses a la moda italiana y le abrieron el mercado de Estados Unidos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "inst-bienal-sao-paulo",
+   "note": "Brazil’s drive to modernise sought an international showcase; the Biennial gave art and design a place in that project and brought foreign work into view.",
+   "es": {
+    "note": "El impulso modernizador de Brasil buscó un escaparate internacional; la Bienal dio al arte y al diseño un lugar en ese proyecto y puso a la vista la obra extranjera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "inst-escuela-valparaiso",
+   "note": "Fast urban growth in the 1950s made architects ask what to build for Latin American cities; the school answered by teaching from the American territory, not from European models.",
+   "es": {
+    "note": "El rápido crecimiento urbano de los años cincuenta llevó a preguntarse qué construir para las ciudades latinoamericanas; la escuela respondió enseñando desde el territorio americano y no desde modelos europeos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "inst-team-10",
+   "note": "Postwar housing estates showed the limits of the functional city; Team 10 answered with an urbanism of community, street and human scale.",
+   "es": {
+    "note": "Los grandes conjuntos de vivienda de posguerra mostraron los límites de la ciudad funcional; el Team 10 respondió con un urbanismo de comunidad, calle y escala humana."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-italian-miracle",
+   "item": "inst-if-design-award",
+   "note": "The German economic miracle needed quality goods to stand out in markets; the Hannover seal of good design helped promote German industrial products.",
+   "es": {
+    "note": "El milagro económico alemán necesitaba que los bienes de calidad se distinguieran en los mercados; el sello de buen diseño de Hannover ayudó a promover los productos industriales alemanes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-professionalisation-design",
+   "item": "inst-red-dot",
+   "note": "The German promotion of good design for trade grew into an international seal; winning it became a mark of professional standing.",
+   "es": {
+    "note": "La promoción alemana del buen diseño para el comercio se convirtió en un sello internacional; ganarlo pasó a ser una marca de reconocimiento profesional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-space-race",
+   "item": "archigram",
+   "note": "Space-age imagery and pop consumer culture gave Archigram a language of capsules and plug-in parts, which led it to draw mobile cities and megastructures.",
+   "es": {
+    "note": "La imaginería de la era espacial y la cultura pop de consumo dio a Archigram un lenguaje de cápsulas y piezas enchufables, que lo llevó a dibujar ciudades móviles y megaestructuras."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "inst-salone-del-mobile",
+   "note": "Italian manufacturers and designers needed a shared stage to sell author-designed furniture abroad, and the Milan fair gave them one every year.",
+   "es": {
+    "note": "Los fabricantes y diseñadores italianos necesitaban un escenario común para vender mobiliario de autor en el extranjero, y la feria de Milán se lo dio cada año."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-tv-advertising",
+   "item": "inst-dad",
+   "note": "Television and print advertising grew into a creative industry, and D&AD gave its art directors and designers their own standards and prizes.",
+   "es": {
+    "note": "La publicidad televisiva e impresa creció hasta ser una industria creativa, y D&AD dio a sus directores de arte y diseñadores sus propios estándares y premios."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-professionalisation-design",
+   "item": "inst-dad",
+   "note": "As design became a profession, D&AD set a peer-judged awards system and a shared idea of standards of practice.",
+   "es": {
+    "note": "A medida que el diseño se volvió una profesión, D&AD instauró premios juzgados por pares y una idea común de estándares de práctica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "inst-xerox-parc",
+   "note": "A personal computer had to be understood by non-technical users, so PARC built an interface of windows and icons that replaced typed commands.",
+   "es": {
+    "note": "Un computador personal debía ser entendido por usuarios no técnicos, así que PARC construyó una interfaz de ventanas e íconos que reemplazó los comandos escritos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-unidad-popular-golpe",
+   "item": "inst-quimantu",
+   "note": "The Unidad Popular created a public publisher of cheap, mass-run books, so covers had to be low-cost, colourful and direct.",
+   "es": {
+    "note": "La Unidad Popular creó una editorial pública de libros baratos y de tirada masiva, así que las portadas debían ser de bajo costo, coloridas y directas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "inst-pentagram",
+   "note": "As global brands multiplied, firms needed identity consultants; Pentagram’s partners offered that service under a shared name.",
+   "es": {
+    "note": "Al multiplicarse las marcas globales, las empresas necesitaron consultores de identidad; los socios de Pentagram ofrecieron ese servicio bajo un nombre común."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "th-never-leave-well-enough-alone",
+   "note": "In a consumer market, the book argues that design sells: improving an object raises its sales, which justified the designer’s fee.",
+   "es": {
+    "note": "En un mercado de consumo, el libro sostiene que el diseño vende: mejorar un objeto aumenta sus ventas, lo que justificaba el pago al diseñador."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-miracle",
+   "item": "th-metabolism-1960",
+   "note": "Japan’s fast urban growth led the Metabolists to imagine megastructures with renewable modules that could grow with the city.",
+   "es": {
+    "note": "El rápido crecimiento urbano de Japón llevó a los metabolistas a imaginar megaestructuras con módulos renovables que pudieran crecer con la ciudad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reconstruction",
+   "item": "th-theory-design-machine-age",
+   "note": "Postwar rebuilding made functionalism the default language; Banham’s book re-examined its machine-age assumptions critically.",
+   "es": {
+    "note": "La reconstrucción de posguerra hizo del funcionalismo el lenguaje corriente; el libro de Banham examinó con ojo crítico sus supuestos de la era de la máquina."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-us-urban-renewal",
+   "item": "th-death-life-great-american-cities",
+   "note": "Renewal schemes and highways were razing neighbourhoods; Jacobs set against them the street and mixed uses as what makes cities work.",
+   "es": {
+    "note": "Los planes de renovación y las autopistas arrasaban barrios; Jacobs les opuso la calle y los usos mixtos como lo que hace funcionar una ciudad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "th-death-life-great-american-cities",
+   "note": "Renewal and big housing blocks were wiping out living neighbourhoods; Jacobs argued for streets and diversity in their place.",
+   "es": {
+    "note": "La renovación y los grandes bloques de vivienda borraban barrios vivos; Jacobs defendió en su lugar las calles y la diversidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "th-death-life-great-american-cities",
+   "note": "Suburban growth and the car were emptying city centres; Jacobs defended dense, walkable districts as the base of urban life.",
+   "es": {
+    "note": "El crecimiento suburbano y el automóvil vaciaban los centros; Jacobs defendió los barrios densos y caminables como base de la vida urbana."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ecology",
+   "item": "th-architecture-without-architects",
+   "note": "Ecological concern valued local building adapted to climate; the show presented vernacular forms as lessons in using site and materials.",
+   "es": {
+    "note": "La preocupación ecológica valoró la construcción local adaptada al clima; la muestra presentó las formas vernáculas como lecciones de uso del sitio y los materiales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "th-complexity-contradiction",
+   "note": "Pop art valued the everyday and the commercial, which led Venturi to defend ambiguity against Mies’s ‘less is more’.",
+   "es": {
+    "note": "El pop art valoró lo cotidiano y lo comercial, lo que llevó a Venturi a defender la ambigüedad frente al «menos es más» de Mies."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "th-complexity-contradiction",
+   "note": "As the functionalist language wore out, Venturi proposed an architecture of ambiguity, history and symbol.",
+   "es": {
+    "note": "Al agotarse el lenguaje funcionalista, Venturi propuso una arquitectura de ambigüedad, historia y símbolo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "th-architettura-della-citta",
+   "note": "Postwar reconstruction and big housing estates led Rossi to defend collective memory and the typology of the historic city.",
+   "es": {
+    "note": "La reconstrucción de posguerra y las grandes urbanizaciones llevaron a Rossi a defender la memoria colectiva y la tipología de la ciudad histórica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "th-architettura-della-citta",
+   "note": "Against the functional city, Rossi proposed type and permanence as what lasts in urban form.",
+   "es": {
+    "note": "Frente a la ciudad funcional, Rossi propuso el tipo y la permanencia como lo que perdura en la forma urbana."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "th-barthes-fashion-system",
+   "note": "With ready-to-wear spreading fashion through magazines, Barthes analysed the language of those magazines as the system that gives clothes meaning.",
+   "es": {
+    "note": "Con el prêt-à-porter difundiendo la moda por las revistas, Barthes analizó el lenguaje de esas revistas como el sistema que da sentido a la ropa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "th-life-between-buildings",
+   "note": "As cars came to dominate streets, Gehl began to measure how people use public space, and argued for projecting it at the scale of the pedestrian.",
+   "es": {
+    "note": "Al dominar el auto las calles, Gehl empezó a medir cómo la gente usa el espacio público y propuso proyectarlo a la escala del peatón."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "paulista-school",
+   "note": "Industrialisation and the growth of São Paulo favoured exposed concrete with large spans as a symbol of modernisation.",
+   "es": {
+    "note": "La industrialización y la expansión de São Paulo favorecieron un hormigón visto de gran luz como símbolo de modernización."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "postmodern-architecture",
+   "note": "Postmodern culture prized ornament, history and ironic quotation, so architects turned away from modern abstraction and put them back on the building.",
+   "es": {
+    "note": "La cultura posmoderna valoró el ornamento, la historia y la cita irónica, y los arquitectos dejaron la abstracción moderna para devolverlos al edificio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "postmodern-architecture",
+   "note": "With functionalism in crisis, architects looked for meaning and communication in the building itself, not only in its function.",
+   "es": {
+    "note": "Con el funcionalismo en crisis, los arquitectos buscaron significado y comunicación en el propio edificio, y no solo en su función."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "tendenza",
+   "note": "Against functionalism, the Tendenza read the city as a set of types, so design started from the lasting forms of the city and not from function.",
+   "es": {
+    "note": "Frente al funcionalismo, la Tendenza leyó la ciudad como un conjunto de tipos, y el proyecto partió de las formas duraderas de la ciudad y no de la función."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "high-tech-architecture",
+   "note": "Confidence in microelectronics and industry carried over into an aesthetic of components and flexible, changeable buildings.",
+   "es": {
+    "note": "La confianza en la microelectrónica y la industria pasó a una estética de componentes y de edificios flexibles y modificables."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-oil-crisis",
+   "item": "high-tech-architecture",
+   "note": "The energy crisis made efficiency a public concern and reinforced technology as the language of architecture.",
+   "es": {
+    "note": "La crisis energética hizo de la eficiencia una preocupación pública y reforzó la tecnología como lenguaje de la arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoliberalism",
+   "item": "high-tech-architecture",
+   "note": "The financial boom brought commissions for headquarters that were meant to show technology and flexibility.",
+   "es": {
+    "note": "El auge financiero trajo encargos de sedes que debían exhibir tecnología y flexibilidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "polish-poster-school",
+   "note": "With no commercial advertising and with state commissions, the poster became a space of artistic freedom.",
+   "es": {
+    "note": "Sin publicidad comercial y con encargos estatales, el cartel pasó a ser un espacio de libertad artística."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "human-factors-ergonomics",
+   "note": "Designing cockpits and controls for military aircraft meant measuring the body and its gestures, and that data later passed to civilian products.",
+   "es": {
+    "note": "Diseñar cabinas y controles de aviones militares obligó a medir el cuerpo y sus gestos, y esos datos pasaron después a los productos civiles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "mid-century-modern",
+   "note": "Millions of new suburban houses needed light, modular and cheap furniture, which favoured designs for series production.",
+   "es": {
+    "note": "Millones de casas suburbanas nuevas necesitaban mobiliario liviano, modular y barato, lo que favoreció diseños pensados para la producción en serie."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "mid-century-modern",
+   "note": "New materials such as moulded plastics and plywood made it possible to produce chairs and objects of organic form.",
+   "es": {
+    "note": "Materiales nuevos como los plásticos moldeados y la madera contrachapada permitieron producir sillas y objetos de formas orgánicas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "casa-barragan-1948",
+   "note": "Mexico’s urban boom drove modernisation and speculative development; Barragán, who developed Jardines del Pedregal, worked within that growth as architect and developer.",
+   "es": {
+    "note": "El auge urbano de México impulsó la modernización; Barragán, que desarrolló Jardines del Pedregal, trabajó dentro de ese crecimiento como arquitecto y promotor."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-decolonisation",
+   "item": "chandigarh-1951",
+   "note": "After the 1947 Partition left Lahore in Pakistan, India commissioned a new modern capital for Punjab; Le Corbusier’s Capitol gave the new state an image of progress.",
+   "es": {
+    "note": "Tras la Partición de 1947, que dejó Lahore en Pakistán, la India encargó una capital moderna para el Punjab; el Capitolio de Le Corbusier dio al nuevo Estado una imagen de progreso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-us-urban-renewal",
+   "item": "pruitt-igoe-1954",
+   "note": "The 1949 Housing Act funded slum clearance and public housing, leading St. Louis to build tall slab blocks on cleared land.",
+   "es": {
+    "note": "La ley de vivienda de 1949 financió la demolición de tugurios y la vivienda pública, y St. Louis levantó bloques altos en placa sobre terrenos despejados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "pruitt-igoe-1954",
+   "note": "As middle-class families left for the suburbs, the city lost residents and income, and the blocks were left to a poorer population with less money for upkeep.",
+   "es": {
+    "note": "Al irse las familias de clase media a los suburbios, la ciudad perdió habitantes e ingresos y los bloques quedaron con una población más pobre y menos dinero para mantenerlos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "yoyogi-gymnasium-1964",
+   "note": "The Tokyo Olympics of 1964 required large swimming and indoor halls, and Tange answered with long-span roofs hung from cables.",
+   "es": {
+    "note": "Los Juegos Olímpicos de Tokio de 1964 exigían grandes recintos de natación y bajo techo, y Tange respondió con techos de gran luz colgados de cables."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-miracle",
+   "item": "yoyogi-gymnasium-1964",
+   "note": "Rapid growth and the wish to show a modern Japan to the world made a bold structure affordable and desirable; Tange used it to express national ambition.",
+   "es": {
+    "note": "El rápido crecimiento y el deseo de mostrar al mundo un Japón moderno hicieron posible y deseable una estructura audaz; Tange la usó para expresar la ambición nacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "tlatelolco-1964",
+   "note": "Mexican growth supplied public funds and confidence for building housing in tall blocks on a large scale in the capital.",
+   "es": {
+    "note": "El crecimiento mexicano dio fondos públicos y confianza para construir vivienda en bloques altos a gran escala en la capital."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "tlatelolco-1964",
+   "note": "Migration to the capital created a housing deficit, which Pani met with a large estate of tall blocks that housed many families on one site.",
+   "es": {
+    "note": "La migración a la capital creó un déficit de vivienda, que Pani enfrentó con un gran conjunto de bloques altos que alojaba a muchas familias en un mismo terreno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "vanna-venturi-house-1964",
+   "note": "Pop art made everyday forms worth quoting; Venturi likewise used familiar shapes, such as the gable, and played with the facade as a sign.",
+   "es": {
+    "note": "El pop art volvió dignas de cita las formas cotidianas; Venturi usó de igual modo formas familiares, como el frontón, y jugó con la fachada como signo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "vanna-venturi-house-1964",
+   "note": "In a consumer society the commercial landscape became a source of forms; Venturi took from it the idea that architecture can communicate through signs and familiar images.",
+   "es": {
+    "note": "En una sociedad de consumo el paisaje comercial se volvió fuente de formas; Venturi tomó de él la idea de que la arquitectura puede comunicar con signos e imágenes familiares."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "plug-in-city-1964",
+   "note": "Pop art’s celebration of throwaway goods led Archigram to picture the city as a replaceable consumer product, with capsules that could be swapped.",
+   "es": {
+    "note": "El elogio del pop art a los objetos desechables llevó a Archigram a imaginar la ciudad como un producto de consumo reemplazable, con cápsulas intercambiables."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-space-race",
+   "item": "plug-in-city-1964",
+   "note": "The space race made capsules, service towers and cranes images of the future, which Archigram turned into plug-in living units for the city.",
+   "es": {
+    "note": "La carrera espacial convirtió las cápsulas, las torres de servicio y las grúas en imágenes del futuro, que Archigram transformó en unidades de vivienda enchufables para la ciudad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "aterro-flamengo-1965",
+   "note": "Rio’s rapid growth demanded large open space for its people, and landfill from the bay gave room for a great public park.",
+   "es": {
+    "note": "El rápido crecimiento de Río exigió un gran espacio abierto para su gente, y el relleno de la bahía dio lugar a un gran parque público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "unidad-vecinal-portales-1966",
+   "note": "Rural migration swelled Santiago and created a housing shortage; the neighbourhood unit answered with planned blocks and shared services for many families.",
+   "es": {
+    "note": "La migración del campo hizo crecer Santiago y creó déficit de vivienda; la unidad vecinal respondió con bloques planificados y servicios comunes para muchas familias."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "unidad-vecinal-portales-1966",
+   "note": "An industrialising state needed housing for its workers and employees, and public housing programmes turned to modern, repeatable neighbourhood designs.",
+   "es": {
+    "note": "Un Estado industrializador necesitaba vivienda para obreros y empleados, y los programas de vivienda pública recurrieron a diseños de barrio modernos y repetibles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-brazil-developmentalism",
+   "item": "fau-usp-1969",
+   "note": "Developmentalism expanded public universities and state building programmes, which gave architects large commissions where exposed concrete could be used on a monumental scale.",
+   "es": {
+    "note": "El desarrollismo amplió las universidades públicas y los programas de obra estatal, que dieron a los arquitectos grandes encargos donde el hormigón a la vista se usó a escala monumental."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "ciudad-abierta-1970",
+   "note": "Fast urban growth led the school to question the city it was producing and to test, on open land, a community that was built and lived in by its own members.",
+   "es": {
+    "note": "El crecimiento urbano acelerado llevó a la escuela a cuestionar la ciudad que se producía y a probar, en terreno abierto, una comunidad que sus propios miembros construían y habitaban."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "munich-olympic-park-1972",
+   "note": "An Olympic Games is a total design commission: venues, landscape and visual identity are planned as one, so the roof and park were conceived together for 1972.",
+   "es": {
+    "note": "Unos Juegos Olímpicos son un encargo de diseño total: recintos, paisaje e identidad visual se planifican como un conjunto, así que cubierta y parque se concibieron juntos para 1972."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reconstruction",
+   "item": "munich-olympic-park-1972",
+   "note": "West Germany wanted a democratic image opposed to the 1936 Games; this led to a light, transparent, open design instead of monumental stone architecture.",
+   "es": {
+    "note": "Alemania Occidental quiso una imagen democrática opuesta a los Juegos de 1936; ello llevó a un diseño liviano, transparente y abierto en lugar de una arquitectura monumental de piedra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "sydney-opera-house-1973",
+   "note": "Computers could now run the long calculations for the shells’ spherical geometry, so a form too complex for hand calculation could be analysed and built.",
+   "es": {
+    "note": "Los computadores permitieron hacer los largos cálculos de la geometría esférica de las cáscaras, de modo que una forma demasiado compleja para el cálculo a mano pudo analizarse y construirse."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "curitiba-rit-1974",
+   "note": "A fast-growing city with few resources could not afford a metro, so it planned a bus system with its own lanes that carried many passengers at low cost.",
+   "es": {
+    "note": "Una ciudad de crecimiento veloz y pocos recursos no podía costear un metro, así que planificó un sistema de buses con carriles propios que movía muchos pasajeros a bajo costo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "curitiba-rit-1974",
+   "note": "As cars filled streets, the city chose to give road space to efficient public transport instead of widening roads for private cars.",
+   "es": {
+    "note": "Cuando los autos llenaron las calles, la ciudad optó por dar espacio vial al transporte público eficiente en vez de ensanchar calzadas para autos particulares."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "bikini-1946",
+   "note": "The atomic tests at Bikini Atoll were in the news days earlier, so Réard borrowed the name to give a daring garment the same sense of shock.",
+   "es": {
+    "note": "Las pruebas atómicas en el atolón de Bikini eran noticia días antes, así que Réard tomó el nombre para dar a una prenda audaz la misma sensación de impacto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "bikini-1946",
+   "note": "Growing beach holidays made swimwear an everyday garment, and the bikini became a mass-market item as resorts spread.",
+   "es": {
+    "note": "Las vacaciones de playa en aumento hicieron del traje de baño una prenda cotidiana, y el bikini pasó a ser un artículo de consumo masivo al extenderse los balnearios."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "day-calyx-1951",
+   "note": "Reconstruction housing needed modern, affordable furnishings, and the Festival of Britain gave Day’s screen-printed Calyx a public stage as contemporary home design.",
+   "es": {
+    "note": "La vivienda de la reconstrucción necesitó textiles modernos y asequibles, y el Festival of Britain dio a Calyx, de Day, estampado en serigrafía, un escenario público como diseño doméstico contemporáneo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "girard-herman-miller-textiles-1952",
+   "note": "The boom in corporate offices created a large market for interiors, and Girard answered with colourful textiles meant to make them more humane.",
+   "es": {
+    "note": "El auge de las oficinas corporativas creó un gran mercado de interiores, y Girard respondió con textiles coloridos pensados para hacerlos más humanos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "dr-martens-1460-1960",
+   "note": "A workers’ and postmen’s boot became a uniform of mods, skinheads and punks, so a utilitarian shoe turned into a sign of youth identity.",
+   "es": {
+    "note": "Una bota de obreros y carteros pasó a ser uniforme de mods, skinheads y punks, y un calzado utilitario se volvió signo de identidad juvenil."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "dr-martens-1460-1960",
+   "note": "Punk took the boot as its symbolic footwear, adopting a workwear object and its toughness as a mark of the scene.",
+   "es": {
+    "note": "El punk adoptó la bota como calzado simbólico y tomó un objeto de trabajo y su dureza como marca de la escena."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "havaianas-1962",
+   "note": "Import substitution encouraged local industry: Alpargatas made a cheap sandal from locally available rubber for a mass market.",
+   "es": {
+    "note": "La sustitución de importaciones impulsó la industria local: Alpargatas hizo una sandalia barata con goma disponible en el país para un mercado masivo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-wave-feminism",
+   "item": "dvf-wrap-dress-1974",
+   "note": "Women entering paid work needed clothes they could put on alone; the wrap dress had no zips or buttons and went from office to evening.",
+   "es": {
+    "note": "Con más mujeres en el trabajo remunerado hacían falta prendas que se pusieran solas; el vestido cruzado, sin cierres ni botones, servía del trabajo a la noche."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "dvf-wrap-dress-1974",
+   "note": "Ready-to-wear made fashion accessible: the dress was produced in series in jersey, an easy fabric, and sold at a moderate price.",
+   "es": {
+    "note": "El prêt-à-porter acercó la moda: el vestido se produjo en serie en jersey, una tela fácil, y se vendió a precio moderado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-tv-advertising",
+   "item": "man-golden-arm-1955",
+   "note": "Television competed with cinema, so studios needed to hook the audience: title sequence and poster became a piece of identity for the film.",
+   "es": {
+    "note": "La televisión competía con el cine, así que los estudios debían captar al público: la secuencia de títulos y el cartel pasaron a ser una pieza de identidad de la película."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "peace-symbol-1958",
+   "note": "Fear of nuclear war led to mass protest, which needed an emblem simple enough to draw by hand on placards.",
+   "es": {
+    "note": "El miedo a la guerra nuclear produjo protesta masiva, que necesitaba un emblema lo bastante simple para dibujarlo a mano en pancartas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "peace-symbol-1958",
+   "note": "The youth movements of the 1960s adopted the symbol, turning a march emblem into a mass sign of protest.",
+   "es": {
+    "note": "Los movimientos juveniles de los sesenta adoptaron el símbolo y convirtieron un emblema de marcha en signo masivo de protesta."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "wozzeck-poster-1964",
+   "note": "Culture in Poland was run by the state, so posters were commissioned by cultural bodies, not sold as ads; designers like Lenica made author’s posters.",
+   "es": {
+    "note": "La cultura en Polonia dependía del Estado, así que los carteles los encargaban entes culturales y no se vendían como avisos; diseñadores como Lenica hicieron carteles de autor."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-rock-and-pop",
+   "item": "sgt-pepper-cover-1967",
+   "note": "The concept album replaced the single as the unit of rock, so the sleeve was designed as part of the work, with a collage and printed lyrics.",
+   "es": {
+    "note": "El álbum conceptual sustituyó al sencillo como unidad del rock, así que la funda se diseñó como parte de la obra, con collage y letras impresas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "sgt-pepper-cover-1967",
+   "note": "Pop art took images from mass culture, and Blake, a pop artist, built the sleeve as a collage of cut-outs and photographs of famous figures.",
+   "es": {
+    "note": "El pop art tomó imágenes de la cultura de masas, y Blake, artista pop, armó la funda como un collage de recortes y fotografías de figuras famosas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "sgt-pepper-cover-1967",
+   "note": "The youth counterculture of 1967, with its psychedelia and bright dress, led to a cover with flowers, a crowd of figures and colourful uniforms.",
+   "es": {
+    "note": "La contracultura juvenil de 1967, con su psicodelia y su ropa de colores, llevó a una portada con flores, una multitud de figuras y uniformes de colores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ecology",
+   "item": "recycling-symbol-1970",
+   "note": "Growing environmental concern and the first Earth Day led to a contest for a symbol, and the answer was a simple three-arrow loop.",
+   "es": {
+    "note": "La conciencia ecológica creciente y el primer Día de la Tierra llevaron a un concurso por un símbolo, y la respuesta fue un bucle simple de tres flechas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-unidad-popular-golpe",
+   "item": "quimantu-minilibros-1972",
+   "note": "The Unidad Popular policy of mass reading led to cheap pocket books with covers printed in flat, direct colour.",
+   "es": {
+    "note": "La política de lectura masiva de la Unidad Popular llevó a libros de bolsillo baratos con portadas impresas en colores planos y directos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "dot-symbol-signs-1974",
+   "note": "Travellers who shared no language crowded airports, so a set of 34 standard pictograms replaced words on signs.",
+   "es": {
+    "note": "Los viajeros sin idioma común llenaban los aeropuertos, así que un conjunto de 34 pictogramas normalizados reemplazó las palabras en las señales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "dot-symbol-signs-1974",
+   "note": "More traffic and busier transport terminals called for signs that can be read at a glance, which the simple pictograms provided.",
+   "es": {
+    "note": "Más tráfico y terminales de transporte más concurridas exigían señales legibles de un vistazo, lo que dieron los pictogramas simples."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-olympic-games",
+   "item": "dot-symbol-signs-1974",
+   "note": "The Olympic pictograms of Mexico 1968 and Munich 1972 (Aicher) were a recognised precedent for a standard symbol system for transport.",
+   "es": {
+    "note": "Los pictogramas olímpicos de México 1968 y Múnich 1972 (Aicher) fueron un antecedente reconocido de un sistema de símbolos normalizados para el transporte."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "tupperware-1946",
+   "note": "Postwar polyethylene allowed a flexible, airtight seal in a light container; Tupper took the idea of the seal from paint-can lids.",
+   "es": {
+    "note": "El polietileno de posguerra permitió un cierre hermético y flexible en un envase liviano; Tupper tomó la idea del cierre de las tapas de los tarros de pintura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "tupperware-1946",
+   "note": "Suburban housewives were a new market at home, so Tupperware was sold at parties in homes aimed at them.",
+   "es": {
+    "note": "Las dueñas de casa de los suburbios eran un nuevo mercado en el hogar, así que Tupperware se vendió en reuniones en casas dirigidas a ellas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "noguchi-table-1947",
+   "note": "The compact suburban home called for multifunctional pieces, and the table is at once a sculpture and a table.",
+   "es": {
+    "note": "La casa suburbana compacta pedía piezas multifuncionales, y la mesa es a la vez una escultura y una mesa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "citroen-2cv-1948",
+   "note": "The car was planned as a rustic, cheap vehicle for the countryside, with soft suspension and a canvas roof.",
+   "es": {
+    "note": "El coche se pensó como un vehículo rústico y barato para el campo, con suspensión blanda y capota de lona."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "juhl-chieftain-1949",
+   "note": "The craft culture of Danish cabinetmakers and their guild exhibitions, backed by welfare-state design, rewarded furniture of near-sculptural craft; the Chieftain chair is one.",
+   "es": {
+    "note": "La cultura artesanal de los ebanistas daneses y sus exposiciones del gremio, en el marco del Estado de bienestar, premió un mueble casi escultórico; el Chieftain lo es."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "butaque-chair-1950",
+   "note": "Growing housing and industry in Mexico called for modern furniture made locally; Porset answered with a light chair based on a familiar seat.",
+   "es": {
+    "note": "El auge de la vivienda y la industria en México pidió mobiliario moderno de producción local; Porset respondió con una silla liviana basada en un asiento conocido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "butaque-chair-1950",
+   "note": "Porset started from the butaque, a traditional Caribbean seat, so a popular form became the base of a modern chair.",
+   "es": {
+    "note": "Porset partió de la butaque, un asiento tradicional del Caribe, así que una forma popular fue la base de una silla moderna."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "bertoia-diamond-1952",
+   "note": "Corporate lobbies and offices with glass architecture asked for light, see-through seating; Bertoia’s open steel mesh gave a seat that does not block the space.",
+   "es": {
+    "note": "Los vestíbulos y oficinas corporativos de arquitectura de vidrio pidieron asientos livianos y visibles; la malla abierta de Bertoia dio un asiento que no tapa el espacio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "ph5-lamp-1958",
+   "note": "A Nordic culture of bright, comfortable homes and public design produced a lamp whose layered shades remove glare and spread the light.",
+   "es": {
+    "note": "Una cultura nórdica del hogar luminoso y cómodo y del diseño público produjo una lámpara cuyas pantallas en capas quitan el deslumbramiento y reparten la luz."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "mini-1959",
+   "note": "Demand for a small, cheap car led Issigonis to a transverse engine with front-wheel drive and wheels at the corners, freeing space for passengers.",
+   "es": {
+    "note": "La demanda de un auto pequeño y barato llevó a Issigonis a un motor transversal con tracción delantera y ruedas en las esquinas, que liberó espacio para los pasajeros."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-age",
+   "item": "cadillac-eldorado-1959",
+   "note": "The image of jet aircraft and the space age gave American stylists their vocabulary: tailfins and rocket-shaped lights were copied from them.",
+   "es": {
+    "note": "La imagen de los aviones a reacción y de la era espacial dio su vocabulario a los estilistas estadounidenses: de ahí se copiaron las aletas y las luces como cohete."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "cadillac-eldorado-1959",
+   "note": "Annual restyling made last year’s car look old, so that buyers would trade up; the 1959 Cadillac’s fins were an extreme case of that strategy.",
+   "es": {
+    "note": "El rediseño anual hacía parecer vieja la versión anterior para que el comprador cambiara de auto; las aletas del Cadillac de 1959 fueron un caso extremo de esa estrategia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "ibm-selectric-1961",
+   "note": "Mass office work needed fast, legible machines; the Selectric’s typeball and compact housing answered it.",
+   "es": {
+    "note": "El trabajo de oficina masivo requería máquinas rápidas y legibles; la esfera de tipos y la carcasa compacta de la Selectric respondieron a eso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "polypropylene-chair-1963",
+   "note": "Injection-moulded polypropylene let the shell be made in one cheap, strong piece, so a stackable chair could be made in very large numbers.",
+   "es": {
+    "note": "El polipropileno inyectado permitió fabricar la carcasa en una pieza barata y resistente, de modo que una silla apilable pudo hacerse en cantidades muy grandes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "polypropylene-chair-1963",
+   "note": "Its low cost put the chair in schools, halls and homes, making a plastic seat an everyday consumer good.",
+   "es": {
+    "note": "Su bajo costo la llevó a escuelas, salas y hogares, y convirtió el asiento de plástico en un bien de consumo cotidiano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-transistor",
+   "item": "brionvega-ts502-1964",
+   "note": "The transistor shrank the radio so far that it could fold into a cube carried by hand, which Zanuso and Sapper used as the form of the TS 502.",
+   "es": {
+    "note": "El transistor redujo tanto la radio que pudo plegarse en un cubo que se lleva a mano, forma que Zanuso y Sapper usaron para la TS 502."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "brionvega-ts502-1964",
+   "note": "The transistor radio became a young person’s object used outside the living room; the TS 502 made it a portable, colourful personal possession.",
+   "es": {
+    "note": "La radio a transistores se volvió objeto de los jóvenes, usado fuera de la sala; la TS 502 la hizo una posesión personal, portátil y colorida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "componibili-1967",
+   "note": "Injection-moulded ABS allowed round, stackable, coloured modules that need no assembly, so storage could be made in plastic.",
+   "es": {
+    "note": "El ABS moldeado por inyección permitió módulos redondos, apilables y de color que no requieren ensamblaje, y así el almacenamiento pudo hacerse de plástico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "action-office-ii-1968",
+   "note": "As offices expanded, firms needed reconfigurable workstations; Propst answered with movable panels and work surfaces that could be rearranged for employees.",
+   "es": {
+    "note": "Al expandirse las oficinas, las empresas necesitaron puestos reconfigurables; Propst respondió con paneles y superficies móviles que podían reordenarse para los empleados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "action-office-ii-1968",
+   "note": "Knowledge workers needed concentration and visual autonomy, so the system used panels to give each person a defined, semi-private work area.",
+   "es": {
+    "note": "Los trabajadores del conocimiento necesitaban concentración y autonomía visual, así que el sistema usó paneles para dar a cada persona un área de trabajo definida y semiprivada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "up5-armchair-1969",
+   "note": "Polyurethane foam could be moulded without a frame and compressed, so Pesce made the whole seat from foam and shipped it vacuum-packed flat.",
+   "es": {
+    "note": "La espuma de poliuretano podía moldearse sin estructura y comprimirse, así que Pesce hizo todo el asiento de espuma y lo despachó envasado al vacío y plano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "vw-golf-1974",
+   "note": "With the Beetle outdated, Volkswagen needed a new compact car; the Golf turned to front-wheel drive and a water-cooled engine.",
+   "es": {
+    "note": "Con el Beetle ya anticuado, Volkswagen necesitaba un nuevo coche compacto; el Golf adoptó tracción delantera y motor refrigerado por agua."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-oil-crisis",
+   "item": "vw-golf-1974",
+   "note": "Fuel prices rose just before launch, which favoured a compact, economical car like the Golf over larger models.",
+   "es": {
+    "note": "El alza de los combustibles justo antes del lanzamiento favoreció a un coche compacto y económico como el Golf frente a modelos más grandes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pret-a-porter",
+   "item": "balenciaga-sack-dress",
+   "note": "The loose 1957 line was spread by the press and quickly copied in ready-made clothing, so a couture silhouette without a waist became a mass-market chemise dress.",
+   "es": {
+    "note": "La línea suelta de 1957 la difundió la prensa y la confección en serie la copió pronto, así una silueta de alta costura sin cintura pasó a ser el vestido camisero masivo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-festival-of-britain",
+   "item": "day-calyx-1951",
+   "note": "The Festival put modern interiors before the public; Lucienne Day’s abstract Calyx fabric was shown there and became a symbol of the new British design.",
+   "es": {
+    "note": "El Festival mostró interiores modernos al público; la tela abstracta Calyx de Lucienne Day se exhibió allí y se volvió símbolo del nuevo diseño británico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-festival-of-britain",
+   "item": "inst-design-council",
+   "note": "The Festival needed a coherent modern display, so the Council of Industrial Design chose the exhibits, giving the state’s taste for modern design a public form.",
+   "es": {
+    "note": "El Festival requería una muestra moderna coherente, y el Council of Industrial Design eligió los objetos, dando forma pública al gusto estatal por el diseño moderno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-civil-rights",
+   "item": "icaic-ospaaal-posters",
+   "note": "Cuban solidarity posters treated the African American struggle as part of a worldwide fight against oppression, a theme the OSPAAAL took up in its screen-printed posters.",
+   "es": {
+    "note": "Los carteles cubanos de solidaridad vieron la lucha afroestadounidense como parte de una lucha mundial contra la opresión, tema que la OSPAAAL abordó en sus carteles serigráficos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-suez-crisis-1956",
+   "item": "mini-1959",
+   "note": "Petrol rationing after Suez made economy urgent, so BMC asked Issigonis for a very small car that carried four people: the Mini.",
+   "es": {
+    "note": "El racionamiento de bencina tras Suez volvió urgente el ahorro, así que BMC pidió a Issigonis un auto muy pequeño para cuatro personas: el Mini."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-fordism",
+   "item": "th-giedion-mechanization-1948",
+   "note": "Giedion studied the assembly line and the fitted kitchen as historical facts: mass production became a subject of design history, read through everyday objects rather than famous works.",
+   "es": {
+    "note": "Giedion estudió la cadena de montaje y la cocina equipada como hechos históricos: la producción en masa pasó a ser materia de la historia del diseño, leída en objetos cotidianos y no en obras famosas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "th-barthes-mythologies-1957",
+   "note": "As cars, plastics and advertising filled everyday life, Barthes read the new objects of consumption as signs and myths, giving critics a way to analyse what products say.",
+   "es": {
+    "note": "Cuando autos, plásticos y publicidad llenaron la vida cotidiana, Barthes leyó los nuevos objetos de consumo como signos y mitos, y dio a los críticos un modo de analizar lo que dicen los productos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "th-lynch-image-city-1960",
+   "note": "As cities were reshaped for cars and fast traffic, they grew harder to read; Lynch studied how residents orient themselves, a method later used for signs and urban design.",
+   "es": {
+    "note": "Al rehacerse las ciudades para el auto y el tráfico rápido, se volvieron más difíciles de leer; Lynch estudió cómo se orientan los residentes, método usado después en señales y diseño urbano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-migration-exile",
+   "item": "th-albers-interaction-color-1963",
+   "note": "Albers left Germany after the Nazis closed the Bauhaus and taught in the United States, where his Bauhaus colour teaching, at Black Mountain and Yale, became this book.",
+   "es": {
+    "note": "Albers dejó Alemania tras el cierre de la Bauhaus por los nazis y enseñó en Estados Unidos, donde su enseñanza del color de la Bauhaus, en Black Mountain y Yale, se volvió este libro."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "th-munari-arte-come-mestiere-1966",
+   "note": "In a Milan culture where architects, critics and firms debated design, Munari argued that the designer is an artist of everyday objects, so design was framed as culture, not only industry.",
+   "es": {
+    "note": "En una cultura donde arquitectos, críticos y empresas debatían el diseño, Munari sostuvo que el diseñador es un artista de lo cotidiano: el diseño se pensó como cultura y no solo como industria."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "th-simon-sciences-artificial-1969",
+   "note": "Computers and artificial intelligence led Simon to treat design as problem-solving by rules and search, which gave the design methods movement a theoretical base.",
+   "es": {
+    "note": "Computadores e inteligencia artificial llevaron a Simon a tratar el diseño como resolución de problemas mediante reglas y búsqueda, lo que dio base teórica al movimiento de métodos de diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ecology",
+   "item": "th-maldonado-speranza-1970",
+   "note": "As the environmental crisis became public, Maldonado argued that design must take responsibility for its surroundings, tying the design project to environment and society.",
+   "es": {
+    "note": "Cuando la crisis ambiental se hizo pública, Maldonado sostuvo que el diseño debe hacerse responsable de su entorno, y vinculó el proyecto de diseño con el ambiente y la sociedad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-us-urban-renewal",
+   "item": "th-rittel-webber-1973",
+   "note": "The troubled record of technical urban planning in the 1960s led Rittel and Webber to argue that social problems have no single solution, ending faith in purely technical methods.",
+   "es": {
+    "note": "El mal historial de la planificación urbana técnica en los años sesenta llevó a Rittel y Webber a sostener que los problemas sociales no tienen solución única, y acabó con la fe en lo técnico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-oil-crisis",
+   "item": "th-mari-autoprogettazione-1974",
+   "note": "As the 1973 crisis cooled the optimism of plastic furniture and criticism of consumption grew, Mari offered plans for furniture built from ordinary boards and nails instead of bought.",
+   "es": {
+    "note": "Cuando la crisis de 1973 enfrió el optimismo del mueble de plástico y creció la crítica al consumo, Mari ofreció planos de muebles construidos con tablas y clavos corrientes, en vez de comprados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-miracle",
+   "item": "metabolism",
+   "note": "Rapid growth of Japanese cities and confidence in the economy led young architects to propose megastructures that grow and change by parts, with replaceable units on fixed cores.",
+   "es": {
+    "note": "El rápido crecimiento de las ciudades japonesas y la confianza económica llevaron a jóvenes arquitectos a proponer megaestructuras que crecen por partes, con unidades reemplazables en núcleos fijos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-pop-art",
+   "item": "inst-independent-group",
+   "note": "Interest in American advertising and consumer goods, studied seriously rather than dismissed, gave rise to British pop art; Hamilton and Paolozzi came from the group.",
+   "es": {
+    "note": "El interés por la publicidad estadounidense y los bienes de consumo, estudiados en serio y no descartados, dio origen al arte pop británico; Hamilton y Paolozzi venían del grupo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "inst-independent-group",
+   "note": "Postwar abundance was analysed as culture, not just bad taste, so ads, packaging and products became legitimate subjects for designers and critics.",
+   "es": {
+    "note": "La abundancia de la posguerra se analizó como cultura y no solo como mal gusto, y así la publicidad, los envases y los productos pasaron a ser temas legítimos para diseñadores y críticos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "inst-di-tella",
+   "note": "Industrialisation and a firm with its own cultural foundation financed a centre for modern art and design in Buenos Aires, where graphic design was taught and practised.",
+   "es": {
+    "note": "La industrialización y una empresa con fundación cultural propia financiaron en Buenos Aires un centro de arte y diseño moderno, donde se enseñó y practicó el diseño gráfico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-professionalisation-design",
+   "item": "inst-icsid",
+   "note": "As national design societies multiplied, they federated in 1957, and the ICSID turned their separate claims into an international definition of the profession.",
+   "es": {
+    "note": "Al multiplicarse las sociedades nacionales de diseño, se federaron en 1957, y el ICSID convirtió sus reclamos separados en una definición internacional de la profesión."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "design-methods",
+   "note": "Operations research and computing suggested breaking a problem into steps and data, and design methodologists applied the same idea to the design process.",
+   "es": {
+    "note": "La investigación operativa y la computación sugirieron descomponer un problema en pasos y datos, y los metodólogos del diseño aplicaron la misma idea al proceso de diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "som",
+   "note": "Large companies commission glass headquarters as a corporate image, so the firm turns International Style glass slabs into the standard office tower.",
+   "es": {
+    "note": "Las grandes empresas encargan sedes de vidrio como imagen corporativa, y el despacho convierte las placas de vidrio del estilo internacional en la torre de oficinas estándar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "carlos-raul-villanueva",
+   "note": "Caracas grows fast and the oil-funded state invests in public works, so Villanueva plans a whole modern university campus that integrates art and architecture.",
+   "es": {
+    "note": "Caracas crece rápido y el Estado, con ingresos del petróleo, invierte en obras públicas, así que Villanueva planifica un campus universitario moderno completo que integra arte y arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "smithsons",
+   "note": "Postwar British reconstruction demands schools and housing built cheaply, so they design with exposed structure and materials as an ethic of honesty.",
+   "es": {
+    "note": "La reconstrucción británica de posguerra exige escuelas y viviendas baratas, y ellos proyectan con estructura y materiales a la vista como una ética de honestidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "felix-candela",
+   "note": "With cheap labour and costly steel in Mexico, he builds thin double-curved concrete shells that use little material and rely on skilled formwork.",
+   "es": {
+    "note": "Con mano de obra barata y acero caro en México, construye láminas delgadas de hormigón de doble curvatura que usan poco material y dependen de una buena obra de moldaje."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "eladio-dieste",
+   "note": "With steel and cement scarce but brick and labour available, he builds large vaults of reinforced brick instead of concrete or steel.",
+   "es": {
+    "note": "Con acero y cemento escasos pero ladrillo y mano de obra disponibles, construye grandes bóvedas de ladrillo armado en lugar de hormigón o acero."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-expo-67",
+   "item": "moshe-safdie",
+   "note": "The Montreal exhibition gives him the chance to build his modular housing thesis at full scale, as stacked prefabricated concrete units.",
+   "es": {
+    "note": "La exposición de Montreal le da la oportunidad de construir a escala real su tesis de vivienda modular, con unidades de hormigón prefabricadas apiladas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "paco-rabanne",
+   "note": "New plastics become available to industry, so he replaces fabric with plastic discs joined by metal rings and builds dresses instead of sewing them.",
+   "es": {
+    "note": "Los nuevos plásticos llegan a la industria, y él reemplaza la tela por discos de plástico unidos con anillas de metal y arma los vestidos en lugar de coserlos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "abram-games",
+   "note": "The War Office commissions posters that must work at a glance, so he reduces each message to one strong, simplified image.",
+   "es": {
+    "note": "El Ministerio de Guerra encarga carteles que deben funcionar de un vistazo, y él reduce cada mensaje a una sola imagen potente y sintetizada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-civil-rights",
+   "item": "emory-douglas",
+   "note": "The civil rights and Black Power struggle needs its own images, so he makes bold, cheap-to-print graphics for the party newspaper and posters.",
+   "es": {
+    "note": "La lucha por los derechos civiles y el Black Power necesita imágenes propias, y él hace gráfica audaz y barata de imprimir para el periódico y los afiches del partido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-phototypesetting",
+   "item": "herb-lubalin",
+   "note": "Phototypesetting frees letters from metal blocks, so he sets letters touching, ligatured and at any scale, as expressive typography.",
+   "es": {
+    "note": "La fotocomposición libera las letras de los bloques de metal, y él las compone pegadas, con ligaduras y a cualquier escala, como tipografía expresiva."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "pininfarina",
+   "note": "Craft coachbuilding in Italy rises to a design culture, as the maker shapes car bodies as sculpted, museum-recognised forms.",
+   "es": {
+    "note": "La carrocería artesanal italiana se eleva a cultura de diseño, pues el carrocero modela las carrocerías como formas escultóricas reconocidas por los museos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "kaj-franck",
+   "note": "Small homes and the welfare state need cheap, flexible tableware, so he designs combinable, stackable pieces bought one at a time.",
+   "es": {
+    "note": "Las viviendas pequeñas y el Estado de bienestar piden vajilla barata y flexible, y él diseña piezas combinables y apilables que se compran una a una."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "eero-aarnio",
+   "note": "Fibreglass-reinforced plastic could be moulded in one piece, which let Aarnio design the Ball Chair as a single sculpted sphere.",
+   "es": {
+    "note": "La fibra de vidrio permitía moldear el plástico en una sola pieza, y así Aarnio pudo diseñar la silla Ball como una esfera esculpida única."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "bruno-munari",
+   "note": "Small firms such as Danese published experimental objects, giving Munari a producer for his playful, low-volume designs.",
+   "es": {
+    "note": "Pequeñas empresas como Danese editaban objetos experimentales, y así Munari tuvo un productor para sus diseños lúdicos de tirada corta."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "douglas-engelbart",
+   "note": "Funding from the military agency ARPA for interactive computing research paid for Engelbart's NLS lab and the work on the mouse and screen interface.",
+   "es": {
+    "note": "El financiamiento de la agencia militar ARPA a la investigación en computación interactiva pagó el laboratorio NLS de Engelbart y el trabajo sobre el mouse y la interfaz de pantalla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "lever-house-1952",
+   "note": "Postwar corporations wanted headquarters that showed a modern, orderly image; Lever Brothers answered with a glass-walled slab on stilts and an open courtyard.",
+   "es": {
+    "note": "Las empresas de posguerra querían sedes que mostraran una imagen moderna y ordenada; Lever Brothers respondió con una torre de vidrio sobre pilotes y un patio abierto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "caracas-ciudad-universitaria-1953",
+   "note": "Rapid urban growth and state investment in Venezuela paid for a large modern campus, planned as a city of linked buildings with art built in.",
+   "es": {
+    "note": "El rápido crecimiento urbano y la inversión del Estado en Venezuela financiaron un gran campus moderno, planeado como una ciudad de edificios unidos con arte integrado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "hunstanton-school-1954",
+   "note": "British reconstruction had to build schools quickly on tight budgets, so the Smithsons used a plain steel frame and brick infill and left the services exposed.",
+   "es": {
+    "note": "La reconstrucción británica debía construir escuelas rápido y con poco dinero, así que los Smithson usaron una estructura de acero con relleno de ladrillo y dejaron las instalaciones a la vista."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexico-miracle",
+   "item": "los-manantiales-1958",
+   "note": "Abundant labour and costly steel in Mexico favoured thin concrete shells, whose straight-line forms could be shuttered by hand with timber boards.",
+   "es": {
+    "note": "La mano de obra abundante y el acero caro en México favorecieron los cascarones delgados de hormigón, cuyas formas de líneas rectas se moldeaban a mano con tablas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "atlantida-church-1960",
+   "note": "Steel and cement were scarce and costly in Uruguay, so Dieste built with local brick, reinforced to make thin undulating shells of great economy.",
+   "es": {
+    "note": "El acero y el cemento eran escasos y caros en Uruguay, así que Dieste construyó con ladrillo local, armado para formar cascarones ondulados muy delgados y económicos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-expo-67",
+   "item": "habitat-67",
+   "note": "Expo 67 served as a full-scale laboratory for industrialised housing, and Safdie used it to test stacked prefabricated concrete modules.",
+   "es": {
+    "note": "La Expo 67 fue un laboratorio a escala real de vivienda industrializada, y Safdie lo aprovechó para probar módulos prefabricados de hormigón apilados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation-1950",
+   "item": "previ-lima-1969",
+   "note": "The informal growth of Lima left a housing shortage; PREVI answered with houses planned as a first stage that families enlarge over time.",
+   "es": {
+    "note": "El crecimiento informal de Lima dejó un déficit de viviendas; PREVI respondió con casas pensadas como primera etapa que las familias amplían con el tiempo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "pucci-prints-1951",
+   "note": "Italian fashion was presented to American buyers as an alternative to Paris, and Pucci offered light, boldly printed silks as its casual new look.",
+   "es": {
+    "note": "La moda italiana se presentó a compradores estadounidenses como alternativa a París, y Pucci ofreció sedas livianas de estampados audaces como su nuevo aspecto informal."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "rabanne-12-dresses-1966",
+   "note": "Plastics and other industrial materials became available to couture, so Rabanne replaced cloth with plastic discs and metal rings, assembled with pliers instead of needle and thread.",
+   "es": {
+    "note": "Los plásticos y otros materiales industriales llegaron a la alta costura, y Rabanne reemplazó la tela por discos de plástico y anillas de metal, ensamblados con alicates y no con aguja e hilo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-festival-of-britain",
+   "item": "festival-britain-emblem-1951",
+   "note": "The Festival needed a single public image for its events, so it ran a competition, won by Games, whose Britannia on a compass rose carried an optimistic message on every poster and sign.",
+   "es": {
+    "note": "El Festival necesitaba una sola imagen pública para sus eventos y abrió un concurso que ganó Games, cuya Britannia sobre una rosa de los vientos llevó un mensaje optimista a cada cartel y señal."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-rock-and-pop",
+   "item": "fillmore-posters-1966",
+   "note": "Weekly rock concerts needed posters that matched the experience of the music, so artists distorted letters and used vibrating colours to be deciphered rather than read quickly.",
+   "es": {
+    "note": "Los conciertos semanales de rock pedían carteles a la altura de la experiencia de la música, y los artistas deformaron las letras y usaron colores vibrantes para descifrarlos y no leerlos rápido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "fillmore-posters-1966",
+   "note": "The counterculture rejected the orderly, clear style of corporate and Swiss graphics, so the posters used dense, swollen lettering that rewarded the initiated reader.",
+   "es": {
+    "note": "La contracultura rechazó el estilo ordenado y claro de la gráfica corporativa y suiza, y los carteles usaron letras densas e hinchadas que premiaban al lector iniciado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-civil-rights",
+   "item": "black-panther-graphics-1967",
+   "note": "The Black movement needed its own channel of communication, so the Party’s newspaper used bold, simple, cheap-to-print images that could be read quickly on the street.",
+   "es": {
+    "note": "El movimiento negro necesitaba su propio medio de comunicación, y el periódico del Partido usó imágenes audaces, simples y baratas de imprimir que se leían rápido en la calle."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "black-panther-graphics-1967",
+   "note": "Sixties protest created its own graphic language, and Douglas’s high-contrast, direct images gave the newspaper a recognisable voice of political dissent.",
+   "es": {
+    "note": "La protesta de los sesenta creó su propio lenguaje gráfico, y las imágenes directas y de alto contraste de Douglas dieron al periódico una voz reconocible de disidencia política."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-phototypesetting",
+   "item": "avant-garde-lubalin-1968",
+   "note": "Phototypesetting let letters touch and share strokes, unlike metal type, so Lubalin drew ligatures and tight spacing that became the Avant Garde logo and typeface.",
+   "es": {
+    "note": "La fotocomposición permitió que las letras se tocaran y compartieran trazos, a diferencia del tipo de metal, y Lubalin dibujó ligaduras y espaciado ajustado que dieron el logotipo y la tipografía Avant Garde."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "cisitalia-202-1947",
+   "note": "Italian coachbuilding, a craft of hand-shaped metal bodies, was treated as a design culture, so Pinin Farina gave the Cisitalia a single sculpted body in place of separate wings.",
+   "es": {
+    "note": "La carrocería italiana, un oficio de cuerpos de metal moldeados a mano, se trató como cultura del proyecto, y Pinin Farina dio al Cisitalia una sola carrocería esculpida en vez de guardabarros separados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nordic-welfare",
+   "item": "kilta-1953",
+   "note": "Small flats and modest households needed affordable tableware, so Franck designed multipurpose, stackable pieces sold separately instead of large fixed sets.",
+   "es": {
+    "note": "Los departamentos pequeños y hogares modestos necesitaban vajilla asequible, y Franck diseñó piezas multiuso y apilables, vendidas por separado en vez de grandes juegos cerrados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-transistor",
+   "item": "braun-t3-1958",
+   "note": "The transistor allowed a radio to fit in a pocket, so Rams reduced it to a minimal box whose only decoration is a round dial and a grille of perforations.",
+   "es": {
+    "note": "El transistor permitió que una radio cupiera en un bolsillo, y Rams la redujo a una caja mínima cuyo único adorno es un dial redondo y una rejilla de perforaciones."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "lego-brick-1958",
+   "note": "Injection moulding made plastic pieces with exact dimensions, so the brick’s studs and tubes could fit tightly and every brick connect to every other.",
+   "es": {
+    "note": "El moldeo por inyección permitió piezas de plástico de medidas exactas, de modo que los tetones y tubos del ladrillo ajustaran bien y todo ladrillo se conectara con cualquier otro."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "lego-brick-1958",
+   "note": "Postwar abundance widened the toy market, so a system of cheap, interchangeable pieces could reach many households and be extended by buying more bricks.",
+   "es": {
+    "note": "La abundancia de la posguerra amplió el mercado del juguete, y un sistema de piezas baratas e intercambiables pudo llegar a muchos hogares y ampliarse comprando más ladrillos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "ball-chair-1963",
+   "note": "Fibreglass-reinforced polyester can be moulded in one piece, so Aarnio could make the chair as a single hollow sphere instead of a frame with upholstery.",
+   "es": {
+    "note": "El poliéster reforzado con fibra de vidrio se puede moldear de una pieza, y así Aarnio pudo hacer la silla como una sola esfera hueca y no como una estructura con tapiz."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-italian-design-culture",
+   "item": "falkland-lamp-1964",
+   "note": "Small Italian editors of objects, such as Danese, let designers experiment with industrial materials; Munari used a stretch fabric tube and rings to make a lamp that packs flat.",
+   "es": {
+    "note": "Pequeñas editoras italianas de objetos, como Danese, dejaron a los diseñadores experimentar con materiales industriales; Munari usó tela elástica y anillos para una lámpara que se guarda plana."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mainframe-computing",
+   "item": "engelbart-demo-1968",
+   "note": "Mainframes ran work in batches; Engelbart's team asked what a computer would be like used live by one person, and designed a screen, mouse and windows for real-time interaction.",
+   "es": {
+    "note": "Los mainframes procesaban trabajos por lotes; el equipo de Engelbart se preguntó cómo sería un computador usado en vivo por una persona y diseñó pantalla, ratón y ventanas para la interacción en tiempo real."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cold-war",
+   "item": "engelbart-demo-1968",
+   "note": "Cold War research funding, including ARPA money for computing, paid for the lab where NLS was built, so interactive computing could be explored without a product to sell.",
+   "es": {
+    "note": "El financiamiento de investigación de la Guerra Fría, incluidos fondos de ARPA para computación, pagó el laboratorio donde se construyó NLS, y así se exploró la computación interactiva sin un producto que vender."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-youth-counterculture",
+   "item": "sacco-1968",
+   "note": "Young people's informal, hierarchy-free way of living asked for furniture to match; Sacco has no frame or upright posture, so each person sits as they like.",
+   "es": {
+    "note": "La vida informal y sin jerarquías de los jóvenes pidió muebles acordes; el Sacco no tiene estructura ni postura erguida, y cada persona se sienta como quiere."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "sacco-1968",
+   "note": "Expanded polystyrene beads, cheap and light, became available as a filling; they let the seat flow into any shape, replacing the frame and upholstery of a chair.",
+   "es": {
+    "note": "Las bolitas de poliestireno expandido, baratas y livianas, pasaron a usarse como relleno; permitieron que el asiento tomara cualquier forma, sin la estructura ni la tapicería de una silla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexican-muralism",
+   "item": "casa-barragan-1948",
+   "note": "Muralism made a modern art rooted in Mexican identity and colour a public ideal; Barragán carried that into architecture with intense coloured walls, local craft and a walled patio.",
+   "es": {
+    "note": "El muralismo hizo de un arte moderno arraigado en la identidad y el color de México un ideal público; Barragán lo llevó a la arquitectura con muros de color intenso, oficio local y patio cerrado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "eames-lounge",
+   "note": "Prosperous suburban families wanted comfortable modern furnishings for the living room; the Eameses offered a leather and plywood chair as a refined, modern club chair.",
+   "es": {
+    "note": "Las familias suburbanas acomodadas querían muebles modernos y cómodos para el living; los Eames ofrecieron un sillón de cuero y terciado como un sillón club moderno y refinado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cinema",
+   "item": "man-golden-arm-1955",
+   "note": "Cinema competed with television for audiences, so studios cared more about publicity; Bass turned the title sequence into an animated graphic piece that set the film's mood.",
+   "es": {
+    "note": "El cine competía con la televisión por el público y los estudios cuidaron más la promoción; Bass convirtió la secuencia de títulos en una pieza gráfica animada que fijaba el ánimo de la película."
+   },
+   "refs": []
+  }
+ ]
+}

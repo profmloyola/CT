@@ -1,0 +1,136 @@
+{
+ "production": [
+  {
+   "id": "creamware",
+   "sub": "materials",
+   "start": 1760,
+   "end": 1850,
+   "date": "1760–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Creamware (Queen's ware)",
+   "short": "Creamware",
+   "key": "Creamware, a light, cream-coloured, lead-glazed earthenware perfected in Staffordshire, became Europe's everyday tableware and Wedgwood's best-known product.",
+   "origin": "English potters in Staffordshire refined a pale, durable earthenware under a clear lead glaze in the 1740s and 1750s. Josiah Wedgwood improved the body and glaze in the early 1760s, and after royal patronage in the mid-1760s he marketed it as Queen's ware.",
+   "enabled": "A thin, even body with a smooth glaze that could be moulded, painted or printed with transfers and fired in large batches. It was cheaper than porcelain and more refined than older earthenware, so a single standard line could serve a wide market.",
+   "change": "Because the body was reliable, the design of the piece became a separate step: shapes, handles and borders were drawn, standardised and copied from a pattern. The plain, pale surface also suited the restrained neoclassical forms that Wedgwood favoured.",
+   "economy": "Creamware was made at Wedgwood's Etruria works, begun in 1769, and by other Staffordshire potters; it was exported widely across Europe and to the Americas, and in many places it displaced pewter and tin-glazed wares on the table.",
+   "relations": "Creamware ties the new factory system to the taste of a growing middle class: a mass-produced object that looked refined and was sold by illustrated catalogue.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-wedgwood"
+    ],
+    "designers": [
+     "josiah-wedgwood"
+    ],
+    "works": [
+     "queens-ware-1765"
+    ]
+   },
+   "es": {
+    "name": "Loza cremosa (Queen's ware)",
+    "short": "Loza cremosa",
+    "date": "1760–1850",
+    "key": "La loza cremosa, una loza liviana, de color crema y vidriado con plomo, perfeccionada en Staffordshire, se volvió la vajilla cotidiana de Europa y el producto más conocido de Wedgwood.",
+    "origin": "Los alfareros ingleses de Staffordshire refinaron en las décadas de 1740 y 1750 una loza clara y resistente bajo un vidriado transparente de plomo. Josiah Wedgwood mejoró la pasta y el vidriado a comienzos de la década de 1760 y, tras el apoyo real de mediados de esa década, la vendió como Queen's ware.",
+    "enabled": "Una pasta delgada y pareja, con un vidriado liso, que podía moldearse, pintarse o decorarse con calcomanías de transferencia y cocerse en tandas grandes. Era más barata que la porcelana y más fina que la loza antigua, de modo que una sola línea estándar podía atender un mercado amplio.",
+    "change": "Como la pasta era confiable, el diseño de la pieza pasó a ser un paso aparte: formas, asas y bordes se dibujaban, se estandarizaban y se copiaban de un modelo. La superficie lisa y clara también convenía a las formas neoclásicas sobrias que Wedgwood prefería.",
+    "economy": "La loza cremosa se fabricó en Etruria, la fábrica de Wedgwood iniciada en 1769, y en otras alfarerías de Staffordshire; se exportó por toda Europa y a América, y en muchos lugares desplazó de la mesa al peltre y a la loza estannífera.",
+    "relations": "La loza cremosa une el nuevo sistema de fábrica con el gusto de una clase media creciente: un objeto de producción en serie que parecía refinado y se vendía por catálogo ilustrado."
+   },
+   "refs": []
+  },
+  {
+   "id": "cast-iron",
+   "sub": "materials",
+   "start": 1779,
+   "end": 1850,
+   "date": "1779–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Cast iron",
+   "short": "Cast iron",
+   "key": "Cast iron, poured into moulds in the foundry, gave builders and makers strong, repeatable parts for bridges, columns, machines and furniture.",
+   "origin": "At Coalbrookdale in Shropshire, Abraham Darby I began smelting iron with coke in 1709, which later made cast iron cheaper and more plentiful. The Iron Bridge of 1779, cast by Abraham Darby III, showed that the metal could carry a large public structure.",
+   "enabled": "Iron could be poured into sand moulds to make columns, beams, rails, machine frames, railings and ornamental parts, all strong in compression and identical from one cast to the next. It was brittle in tension, so engineers learned to shape and join parts with that limit in mind.",
+   "change": "Designers started from the pattern for the mould, and decoration became part of the casting. The material also pushed structures toward slim columns and shallow arches that wood and stone could not match, and it was used for the frame of machines such as the Stanhope press.",
+   "economy": "Foundries in Shropshire, the Midlands and Scotland sold standard parts to builders and mills, and demand grew with railways and factory building.",
+   "relations": "Cast iron links industry and architecture: the same foundries cast machine frames, bridges and ornament, and the prefabricated iron building of the mid-century grew from them.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "ironbridge-1779",
+     "stanhope-press-1800"
+    ]
+   },
+   "es": {
+    "name": "Hierro fundido",
+    "short": "Hierro fundido",
+    "date": "1779–1850",
+    "key": "El hierro fundido, vertido en moldes en la fundición, dio a constructores y fabricantes piezas fuertes y repetibles para puentes, columnas, máquinas y muebles.",
+    "origin": "En Coalbrookdale, en Shropshire, Abraham Darby I empezó en 1709 a fundir hierro con coque, lo que más tarde hizo al hierro fundido más barato y abundante. El Puente de Hierro de 1779, fundido bajo Abraham Darby III, mostró que el metal podía sostener una gran obra pública.",
+    "enabled": "El hierro podía verterse en moldes de arena para hacer columnas, vigas, rieles, bastidores de máquinas, rejas y piezas ornamentales, todas resistentes a la compresión e idénticas de una colada a otra. Era frágil a la tracción, así que los ingenieros aprendieron a dar forma y unir las piezas teniendo en cuenta ese límite.",
+    "change": "Los diseñadores partían del modelo del molde, y la decoración pasó a formar parte de la fundición. El material también empujó las estructuras hacia columnas delgadas y arcos rebajados que la madera y la piedra no lograban, y se usó en el bastidor de máquinas como la prensa Stanhope.",
+    "economy": "Las fundiciones de Shropshire, las Midlands y Escocia vendían piezas estándar a constructores y fábricas, y la demanda creció con el ferrocarril y la construcción de fábricas.",
+    "relations": "El hierro fundido une industria y arquitectura: las mismas fundiciones hacían bastidores de máquinas, puentes y ornamento, y de ellas salió la construcción prefabricada en hierro de mediados de siglo."
+   },
+   "refs": []
+  },
+  {
+   "id": "wove-paper",
+   "sub": "materials",
+   "start": 1757,
+   "end": 1850,
+   "date": "1757–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Wove paper",
+   "short": "Wove paper",
+   "key": "Wove paper, made on a fine woven wire mould, has an even surface without the ribbed lines of laid paper, and suited sharp type and fine printing.",
+   "origin": "Wove paper was developed in England in the 1750s by the printer John Baskerville with the papermaker James Whatman, who produced the first sheets for him. Baskerville's Virgil of 1757 was printed on it.",
+   "enabled": "A mould covered with fine woven wire, in place of the older parallel wires and chain lines, left a smooth sheet with an even texture. Printers could then press type and plates cleanly and, with hot-pressing of the printed sheets, obtain crisp letters.",
+   "change": "The page became a flat, uniform field: designers of books could count on a regular surface and give more weight to the letterform and its spacing than to the paper's texture.",
+   "economy": "Wove paper cost more at first, but by the early nineteenth century it was widely made in Britain and was used for books, prints and, in time, for machine-made paper.",
+   "relations": "Together with Baskerville's types and ink, wove paper formed a system of printing in which the quality of the page came from the whole process, not from the printer's craft alone.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-ackermann"
+    ],
+    "designers": [
+     "john-baskerville"
+    ],
+    "works": [
+     "baskerville-virgil-1757"
+    ]
+   },
+   "es": {
+    "name": "Papel avitelado",
+    "short": "Papel avitelado",
+    "date": "1757–1850",
+    "key": "El papel avitelado, hecho en un molde de fina malla tejida, tiene una superficie pareja, sin las líneas marcadas del papel vergé, y convenía a la letra nítida y a la impresión fina.",
+    "origin": "El papel avitelado se desarrolló en Inglaterra en la década de 1750 por el impresor John Baskerville junto con el papelero James Whatman, quien produjo para él las primeras hojas. El Virgilio de Baskerville de 1757 se imprimió en este papel.",
+    "enabled": "Un molde cubierto de malla fina tejida, en lugar de los alambres paralelos y las vergas anteriores, dejaba una hoja lisa de textura pareja. Los impresores podían así presionar tipos y láminas con limpieza y, con el prensado en caliente de los pliegos impresos, obtener letras nítidas.",
+    "change": "La página se volvió un campo plano y uniforme: quienes diseñaban libros podían contar con una superficie regular y dar más peso a la letra y a su espaciado que a la textura del papel.",
+    "economy": "El papel avitelado fue más caro al principio, pero a comienzos del siglo XIX se fabricaba ampliamente en Gran Bretaña y se usó para libros, estampas y, con el tiempo, para el papel hecho a máquina.",
+    "relations": "Junto con los tipos y la tinta de Baskerville, el papel avitelado formó un sistema de impresión en que la calidad de la página venía de todo el proceso y no solo del oficio del impresor."
+   },
+   "refs": []
+  }
+ ]
+}

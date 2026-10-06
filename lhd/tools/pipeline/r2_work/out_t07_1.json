@@ -1,0 +1,136 @@
+[
+ {
+  "id": "quinta-monroy-2004",
+  "en": {
+   "key": "Elemental’s social housing in Iquique, finished in 2004, which gave each family half a good house and left the other half for them to build.[1][2]",
+   "more": "Built on the site of the last informal settlement in the centre of Iquique, it housed families who had occupied the land for about thirty years, with a state housing subsidy of US$7,500 per family as its budget.[1][2] Instead of small finished houses, Alejandro Aravena’s office Elemental built the half that would be hard for a family to build alone, including the structure, kitchen and bathroom, and left space for residents to complete the house as their means allowed.[2][3] Dezeen calls it the first of Elemental’s low-cost ‘incremental’ housing projects.[2]"
+  },
+  "es": {
+   "key": "La vivienda social de Elemental en Iquique, terminada en 2004, que dio a cada familia media casa buena y dejó la otra mitad para que la construyeran ellos.[1][2]",
+   "more": "Construida en el terreno del último campamento del centro de Iquique, alojó a familias que habían ocupado el lugar por cerca de treinta años, con un subsidio estatal de vivienda de 7.500 dólares por familia como presupuesto.[1][2] En vez de casas pequeñas terminadas, la oficina Elemental de Alejandro Aravena construyó la mitad que a una familia le costaría levantar sola, con la estructura, la cocina y el baño, y dejó espacio para que los vecinos completaran la casa según sus posibilidades.[2][3] Dezeen la llama el primer proyecto de vivienda «incremental» de bajo costo de Elemental.[2]"
+  },
+  "refs": [
+   {
+    "label": "Arquitectura Viva, «Quinta Monroy housing, Iquique»",
+    "url": "https://arquitecturaviva.com/works/viviendas-quinta-monroy-1",
+    "checks": "Obra de Elemental (Aravena) en Iquique, 2001-2004; sustituyó el último campamento del centro; subsidio de 7.500 dólares por familia; «media casa buena» ampliable por los vecinos. ⚠ habla de 93 viviendas, otras fuentes de unas 100 familias.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Dezeen, «Key projects by 2016 Pritzker Prize laureate Alejandro Aravena»",
+    "url": "https://www.dezeen.com/2016/01/13/key-projects-by-2016-pritzker-prize-laureate-alejandro-aravena-elemental/",
+    "checks": "Terminada en 2004 en Iquique; unas 100 familias que habían ocupado el sitio ilegalmente por 30 años; cita de Aravena sobre la «media casa» y el espacio para completarla; primer proyecto incremental de Elemental. ⚠ prensa de arquitectura, no archivo.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The New Republic, «Can Half a Good House Become a Home?»",
+    "url": "https://newrepublic.com/article/134223/can-half-good-house-become-home",
+    "checks": "Medias casas con cocina, baño, muros estructurales y escalera, que los vecinos ampliaron; subsidio de 7.500 dólares; proyecto dentro de un asentamiento informal. ⚠ periodismo, no fuente académica.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «best-known example of incremental housing» y «calling card for Elemental»: ninguna fuente lo dice así; lo reemplacé por lo que dice Dezeen.",
+   "Los materiales (hormigón armado y bloque) no están confirmados por las fuentes consultadas; no los toqué y no llevan marca.",
+   "El estado actual (habitada, ampliada) solo lo respalda en parte Dezeen (familias se quedaron y siguen mejorando); no toqué `status`.",
+   "Cifra de familias: 93 viviendas (Arquitectura Viva) vs unas 100 familias (Dezeen); evité dar número."
+  ]
+ },
+ {
+  "id": "seattle-library-2004",
+  "en": {
+   "key": "Rem Koolhaas’s faceted glass and steel library in downtown Seattle, opened in May 2004, designed as a library for the digital age and not only for books.[1][2]",
+   "more": "Designed by OMA, led by Rem Koolhaas and Joshua Prince-Ramus, with the Seattle firm Loschky Marquardt & Nesholm (LMN), it was built from 1999 to 2004 and opened in May 2004.[1][2] The 11-storey building is wrapped in a diamond-shaped grid of steel and glass that also braces it against wind and earthquakes.[1][2] Its programme is grouped into a few main volumes, with flexible spaces between them, and a ‘book spiral’ holds the non-fiction collection in continuous Dewey order.[1][2]"
+  },
+  "es": {
+   "key": "La biblioteca facetada de vidrio y acero de Rem Koolhaas en el centro de Seattle, inaugurada en mayo de 2004, pensada como una biblioteca para la era digital y no solo para libros.[1][2]",
+   "more": "Diseñada por OMA, liderada por Rem Koolhaas y Joshua Prince-Ramus, junto con la firma de Seattle Loschky Marquardt & Nesholm (LMN), se construyó entre 1999 y 2004 y se inauguró en mayo de 2004.[1][2] El edificio de 11 pisos está envuelto en una malla en rombos de acero y vidrio que además lo arriostra frente al viento y los sismos.[1][2] Su programa se agrupa en pocos volúmenes principales, con espacios flexibles entre ellos, y una «espiral de libros» guarda la colección de no ficción en orden Dewey continuo.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "HistoryLink, «Central Library, 2002-present, The Seattle Public Library»",
+    "url": "https://historylink.org/File/4303",
+    "checks": "OMA (Koolhaas) con LMN; abrió en mayo de 2004; 11 pisos; piel de acero en rombos y vidrio que da resistencia ante sismo y viento; espiral de libros en orden Dewey. ⚠ enciclopedia local, no académica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "SAH Archipedia, «Seattle Central Library»",
+    "url": "https://sah-archipedia.org/node/79327",
+    "checks": "OMA con Koolhaas y Joshua Prince-Ramus y Loschky, Marquardt y Nesholm; obra 1999-2004, abierta en mayo de 2004; malla en rombos de acero y vidrio; cinco volúmenes principales con espacios flexibles entre ellos; «biblioteca para la era digital».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «platforms of different uses» y «place for books, media and public activity»: las fuentes hablan de volúmenes con espacios flexibles y de biblioteca para la era digital; lo reescribí así.",
+   "Quité la mención a «volúmenes irregulares»: no confirmada con esa palabra (conservé «facetada» en key por la fachada angulada, ⚠ no textual).",
+   "Materiales («steel diamond-grid frame with glass skin») coinciden con las fuentes; `tech` cad-cam y `maker` no se verificaron."
+  ]
+ },
+ {
+  "id": "iphone-2007",
+  "en": {
+   "key": "Apple’s phone of 2007, which replaced the keyboard with a large multi-touch screen and set the pattern for the smartphone.[1][2]",
+   "more": "Steve Jobs presented the iPhone on 9 January 2007, and Apple said it would reach the United States in June 2007.[1] Apple described it as a mobile phone, a widescreen iPod and an internet device in one, operated with the fingers on a large multi-touch display, with a predictive touch keyboard instead of a physical one.[1] The V&A credits Jonathan Ive as designer and lists glass, aluminium and plastic as its materials.[2] The V&A notes that it was not the first smartphone but popularised touchscreen devices with internet access.[2]"
+  },
+  "es": {
+   "key": "El teléfono de Apple de 2007, que reemplazó el teclado por una gran pantalla multitáctil y fijó el modelo del smartphone.[1][2]",
+   "more": "Steve Jobs presentó el iPhone el 9 de enero de 2007, y Apple anunció que llegaría a Estados Unidos en junio de 2007.[1] Apple lo describió como un teléfono móvil, un iPod de pantalla ancha y un aparato de internet en uno, que se maneja con los dedos en una gran pantalla multitáctil, con un teclado táctil predictivo en lugar de uno físico.[1] El V&A atribuye el diseño a Jonathan Ive y consigna vidrio, aluminio y plástico como materiales.[2] El V&A señala que no fue el primer smartphone, pero popularizó los dispositivos táctiles con acceso a internet.[2]"
+  },
+  "refs": [
+   {
+    "label": "Apple Newsroom, «Apple Reinvents the Phone with iPhone» (9 de enero de 2007)",
+    "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+    "checks": "Anuncio el 9 de enero de 2007 en Macworld; teléfono, iPod de pantalla ancha y aparato de internet; gran pantalla multitáctil con los dedos y teclado táctil predictivo; disponible en EE.UU. en junio de 2007; construcción de aluminio y vidrio. ⚠ fuente de la propia empresa (primaria, con tono publicitario).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Victoria and Albert Museum, «iPhone, 1st generation»",
+    "url": "https://collections.vam.ac.uk/item/O1328358/iphone-1st-generation-apple-iphone-ive-jonathan/",
+    "checks": "Diseñador Jonathan Ive, Apple; presentado el 9 de enero de 2007; sin teclado, con pantalla multitáctil; vidrio, aluminio y plástico; no fue el primer smartphone pero popularizó los táctiles con internet.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «set the pattern» como afirmación atribuida: lo respalda solo en parte el V&A («popularizó»); se mantuvo en key por estilo, ⚠ interpretación.",
+   "Quité «Jonathan Ive led the design side»: el V&A solo lo consigna como diseñador.",
+   "Quité la App Store abierta en 2008: no la confirmó ninguna fuente abierta.",
+   "Fecha de venta: Apple solo dice «junio de 2007»; no confirmé el día."
+  ]
+ },
+ {
+  "id": "hope-poster-2008",
+  "en": {
+   "key": "Shepard Fairey’s stylised portrait of Barack Obama in red, beige and blue, with the word HOPE, made in January 2008 and spread as a grassroots poster in the 2008 US presidential campaign.[1][2]",
+   "more": "Fairey made the portrait in January 2008 with spray paint, collage and screenprinting, and distributed it on his own, by street posting and viral means, before the campaign was involved.[1] It was based on an Associated Press photograph he found through Google.[1] The campaign could not officially endorse the unofficial poster because of copyright clearance and instead commissioned him to make versions from photos it had the rights to use.[1] A mixed-media stencil collage of the portrait was acquired by the Smithsonian’s National Portrait Gallery in January 2009, through a donation from the collectors Heather and Tony Podesta.[2]"
+  },
+  "es": {
+   "key": "El retrato estilizado de Barack Obama de Shepard Fairey en rojo, beige y azul, con la palabra HOPE, hecho en enero de 2008 y difundido como afiche espontáneo en la campaña presidencial estadounidense de 2008.[1][2]",
+   "more": "Fairey hizo el retrato en enero de 2008 con aerosol, collage y serigrafía, y lo distribuyó por su cuenta, pegándolo en la calle y por vías virales, antes de que la campaña interviniera.[1] Se basaba en una fotografía de la Associated Press que encontró en Google.[1] La campaña no pudo respaldar oficialmente el afiche no oficial por la autorización de derechos de autor y en cambio le encargó versiones hechas con fotos cuyos derechos tenía.[1] Un collage de esténcil de técnica mixta del retrato fue adquirido por la National Portrait Gallery del Smithsonian en enero de 2009, por una donación de los coleccionistas Heather y Tony Podesta.[2]"
+  },
+  "refs": [
+   {
+    "label": "NPR, «Spreading The Hope: Street Artist Shepard Fairey»",
+    "url": "https://www.npr.org/transcripts/99466584",
+    "checks": "Hecho en enero de 2008 con aerosol, collage y serigrafía; distribución callejera y viral antes de la campaña; basado en una foto de AP hallada en Google; la campaña no pudo respaldarlo por derechos y le encargó versiones. ⚠ transcripción periodística; resumen vía WebFetch.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "France 24, «Washington museum acquires Obama portrait»",
+    "url": "https://www.france24.com/en/20090108-washington-museum-acquires-obama-portrait-",
+    "checks": "Adquirido por la National Portrait Gallery en enero de 2009 por donación de Heather y Tony Podesta; collage de esténcil de técnica mixta de 1,50 x 1,11 m; símbolo de la campaña. ⚠ agencia de noticias, no el museo.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité la disputa legal con la agencia dueña de la foto: las fuentes abiertas solo hablan de problemas de derechos de autor para la campaña, no de una disputa.",
+   "Quité «reworked by countless people», los correos y redes, y «versión con la palabra HOPE adoptada por la campaña»: no confirmados (la campaña encargó otras versiones).",
+   "Quité «afiches y calcomanías»: la fuente habla de pegado callejero.",
+   "`materials` (serigrafía y offset sobre papel; archivo digital) no coincide del todo con las fuentes (aerosol, collage, serigrafía; la copia NPG es collage de esténcil mixto); no lo cambié.",
+   "El año/`status` de originales en museos solo se respalda con la copia de la NPG."
+  ]
+ }
+]

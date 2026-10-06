@@ -1,0 +1,39 @@
+{
+ "escribir_links": [
+  {
+   "ctx": "ctx-mexican-muralism",
+   "item": "casa-barragan-1948",
+   "mecanismo": "La búsqueda de una modernidad mexicana propia → muros de color, materiales locales y patio",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "eames-lounge",
+   "mecanismo": "La casa suburbana acomodada busca confort moderno → sillón de cuero y contrachapado para el living",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-civil-rights",
+   "item": "icaic-ospaaal-posters",
+   "mecanismo": "La solidaridad tricontinental incluye la lucha afroestadounidense → carteles sobre ella",
+   "tipo": "contexto nuevo",
+   "nota": "Usa ctx-civil-rights (nuevo)."
+  },
+  {
+   "ctx": "ctx-cinema",
+   "item": "man-golden-arm-1955",
+   "mecanismo": "El cine compite con la televisión → los títulos de crédito se vuelven una obra gráfica animada",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-suez-crisis-1956",
+   "item": "mini-1959",
+   "mecanismo": "El racionamiento de combustible tras Suez → un auto mínimo y económico para cuatro personas",
+   "tipo": "contexto nuevo",
+   "nota": "Usa ctx-suez-crisis-1956 (nuevo)."
+  }
+ ]
+}

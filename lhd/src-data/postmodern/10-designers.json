@@ -1,0 +1,3145 @@
+{
+ "designers": [
+  {
+   "id": "zuzana-licko",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1961,
+   "dates": "n. 1961",
+   "countries": [
+    "US",
+    "SK"
+   ],
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "name": "Zuzana Licko",
+   "movements": [
+    "new-wave-typography"
+   ],
+   "institutions": [
+    "inst-emigre"
+   ],
+   "key": "Type designer who, with Rudy VanderLans, founded Emigre in 1984 and drew some of the first typefaces designed for the Macintosh screen.[1][2]",
+   "more": "Born in Bratislava in 1961,[1] she moved with her family to the United States as a child.[1][2] In 1984 she co-founded Emigre magazine with Rudy VanderLans in California.[1][2] She drew bitmap typefaces for the first Macintosh, such as Emperor, Oakland and Emigre,[2][3] which she turned to advantage by designing for the coarse resolution of the screen and the printer.[2][3] Her later typefaces, such as Mrs Eaves, were sold through Emigre.[1][2]",
+   "es": {
+    "dates": "n. 1961",
+    "key": "Diseñadora de tipos que, con Rudy VanderLans, fundó Emigre en 1984 y dibujó algunas de las primeras tipografías pensadas para la pantalla del Macintosh.[1][2]",
+    "more": "Nacida en Bratislava en 1961,[1] se instaló de niña con su familia en Estados Unidos.[1][2] En 1984 cofundó con Rudy VanderLans la revista Emigre en California.[1][2] Dibujó tipografías de mapa de bits para el primer Macintosh, como Emperor, Oakland y Emigre,[2][3] y sacó partido de la baja resolución de la pantalla y de la impresora diseñando para ellas.[2][3] Sus tipografías posteriores, como Mrs Eaves, se vendieron a través de Emigre.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Emigre, «Zuzana Licko»",
+     "url": "https://www.emigre.com/Designer/ZuzanaLicko",
+     "checks": "nació en 1961 en Bratislava, Checoslovaquia; emigró a EE. UU. con su familia en 1968; con Rudy VanderLans fundó Emigre en 1984; Mrs Eaves; usó el Macintosh. ⚠ No da fecha de muerte (viva); no menciona California ni la impresora matricial.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Emigre, «Critical Conditions and the Emigre Spirit»",
+     "url": "https://www.emigre.com/Essays/Emigre/CriticalConditionsandtheEmigreSpirit",
+     "checks": "nacida en Bratislava, emigró a los siete años; revista Emigre fundada en 1984; fuentes de mapa de bits Emperor, Oakland y Emigre para baja resolución de impresión; Mrs Eaves. ⚠ No habla de «primer Macintosh» ni de impresora matricial.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, «Zuzana Licko. Oakland. 1985»",
+     "url": "https://www.moma.org/collection/works/139320",
+     "checks": "Oakland (1985), tipografía de mapa de bits diseñada con el Macintosh 128K; Emigre fundada en 1984; las fuentes distribuidas por Emigre. ⚠ No menciona impresora matricial.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "david-carson",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1954,
+   "dates": "n. 1954",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "David Carson",
+   "movements": [
+    "new-wave-typography"
+   ],
+   "institutions": [],
+   "key": "American graphic designer and art director of Ray Gun magazine, whose layouts of overlapping, distorted type became the emblem of experimental typography in the 1990s.[1][2]",
+   "more": "Born in Corpus Christi, Texas, in 1954,[2] he came to graphic design after working as a teacher and surfer.[1][2] He art-directed the magazine Beach Culture and, from 1992, the music magazine Ray Gun,[1][3] where he set type in ways that often put visual impact before easy reading.[2] His book The End of Print appeared in 1995[1][2] and spread his style, which critics and designers debated heatedly.[1]",
+   "es": {
+    "dates": "n. 1954",
+    "key": "Diseñador gráfico y director de arte estadounidense de la revista Ray Gun, cuyas páginas de tipografía superpuesta y distorsionada fueron el emblema de la tipografía experimental de los años noventa.[1][2]",
+    "more": "Nacido en Corpus Christi, Texas, en 1954,[2] llegó al diseño gráfico tras trabajar como profesor y surfista.[1][2] Dirigió el arte de la revista Beach Culture y, desde 1992, el de la revista de música Ray Gun,[1][3] donde componía el texto de maneras que a menudo ponían el impacto visual antes que la lectura fácil.[2] Su libro The End of Print apareció en 1995[1][2] y difundió su estilo, que críticos y diseñadores discutieron con vehemencia.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «David Carson»",
+     "url": "https://www.britannica.com/biography/David-Carson",
+     "checks": "Corpus Christi, Texas; surfista competitivo y profesor de secundaria; director de arte de Beach Culture (1989) y de Ray Gun desde 1992; The End of Print (1995); debate crítico sobre sus composiciones fracturadas. ⚠ Da nacimiento en 1955, no 1954; no menciona sociología ni a Lewis Blackwell.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "AIGA, «2014 AIGA Medalist: David Carson»",
+     "url": "https://www.aiga.org/membership-community/aiga-awards/2014-aiga-medalist-david-carson",
+     "checks": "nacido en 1954 en Corpus Christi, Texas; profesor de secundaria; director de arte fundador de Ray Gun (1992); rompió reglas «casi desligando legibilidad y comunicación»; monografía The End of Print (1995). ⚠ No menciona sociología, surf ni Beach Culture.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Ray Gun»",
+     "url": "https://www.britannica.com/topic/Ray-Gun-American-magazine",
+     "checks": "Ray Gun, revista de música alternativa, contrató a Carson como director de arte en 1992; su circulación se triplicó en tres años. ⚠ No describe en detalle la composición tipográfica.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "neville-brody",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1957,
+   "dates": "n. 1957",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Neville Brody",
+   "movements": [
+    "new-wave-typography"
+   ],
+   "institutions": [],
+   "key": "British graphic designer who, as art director of The Face from 1981, gave the British style press a new look of its own typefaces and hard-edged layouts.",
+   "more": "Born in London in 1957, he studied at the London College of Printing. From 1981 he was art director of The Face, the music and style magazine, and later of Arena. His work grew out of the energy of post-punk London and gave music and fashion publishing custom lettering and bold layouts. He later founded the design studio Research Studios and signed the manifesto First Things First 2000.",
+   "es": {
+    "dates": "n. 1957",
+    "key": "Diseñador gráfico británico que, como director de arte de The Face desde 1981, dio a la prensa de estilo británica una imagen propia de tipografías a medida y diagramaciones tajantes.",
+    "more": "Nacido en Londres en 1957, estudió en el London College of Printing. Desde 1981 fue director de arte de The Face, la revista de música y estilo, y más tarde de Arena. Su trabajo surgió de la energía del Londres posterior al punk y dio a las publicaciones de música y moda letras a medida y diagramaciones audaces. Después fundó el estudio de diseño Research Studios y firmó el manifiesto First Things First 2000."
+   },
+   "refs": []
+  },
+  {
+   "id": "april-greiman",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1948,
+   "dates": "n. 1948",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "April Greiman",
+   "movements": [
+    "new-wave-typography"
+   ],
+   "institutions": [],
+   "key": "American graphic designer who, from her Los Angeles studio, was among the first to work with the Macintosh, and whose Design Quarterly 133 of 1986 was a poster made on screen.",
+   "more": "Born in New York in 1948, she studied at the Kansas City Art Institute and in Basel, and brought Swiss typographic training to the American West Coast. She ran a studio in Los Angeles and was an early adopter of the Macintosh computer in design. Her issue of Design Quarterly (no. 133, 1986) unfolded into a large poster built with a computer image of herself and was widely discussed as a sign of what the new tools allowed.",
+   "es": {
+    "dates": "n. 1948",
+    "key": "Diseñadora gráfica estadounidense que, desde su estudio de Los Ángeles, fue de las primeras en trabajar con el Macintosh y cuyo Design Quarterly 133 de 1986 fue un afiche hecho en pantalla.",
+    "more": "Nacida en Nueva York en 1948, estudió en el Kansas City Art Institute y en Basilea, y llevó la formación tipográfica suiza a la costa oeste estadounidense. Dirigió un estudio en Los Ángeles y fue una de las primeras en adoptar el computador Macintosh en el diseño. Su número de Design Quarterly (n.º 133, 1986) se desplegaba en un gran afiche construido con una imagen de computador de ella misma y se comentó mucho como señal de lo que permitían las nuevas herramientas."
+   },
+   "refs": []
+  },
+  {
+   "id": "paula-scher",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1948,
+   "dates": "n. 1948",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Paula Scher",
+   "movements": [],
+   "institutions": [],
+   "key": "American graphic designer, partner at Pentagram from 1991, known for the identity of the Public Theater in New York and for the Citibank logo.",
+   "more": "Born in 1948, she began as an art director of record covers at CBS Records in New York in the 1970s, where she worked with expressive typography. In 1991 she became a partner at Pentagram in New York. Her identity for the Public Theater, from 1994, built a visual language from bold, mixed typefaces, and in 1998 she designed the Citibank logo, an example of the branding of large corporations.",
+   "es": {
+    "dates": "n. 1948",
+    "key": "Diseñadora gráfica estadounidense, socia de Pentagram desde 1991, conocida por la identidad del Public Theater de Nueva York y por el logo de Citibank.",
+    "more": "Nacida en 1948, empezó como directora de arte de portadas de discos en CBS Records, en Nueva York, en los años setenta, donde trabajó con tipografía expresiva. En 1991 se hizo socia de Pentagram en Nueva York. Su identidad para el Public Theater, desde 1994, construyó un lenguaje visual con tipografías contundentes y mezcladas, y en 1998 diseñó el logo de Citibank, ejemplo del branding de las grandes corporaciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "stefan-sagmeister",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1962,
+   "dates": "n. 1962",
+   "countries": [
+    "AT",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Stefan Sagmeister",
+   "movements": [],
+   "institutions": [],
+   "key": "Austrian-born designer in New York whose 1999 poster for AIGA Detroit, with its text cut into his own skin, became a well-known example of personal, emotional graphic design.",
+   "more": "Born in Bregenz, Austria, in 1962, he studied in Vienna and then at Pratt Institute in New York. He opened his own studio, Sagmeister Inc., in New York in 1993 and designed album covers for musicians such as Lou Reed. For the 1999 AIGA Detroit poster, an assistant cut the lecture details into his body with a blade, and the photographs of it made the work famous. He later worked in partnership with Jessica Walsh.",
+   "es": {
+    "dates": "n. 1962",
+    "key": "Diseñador de origen austríaco en Nueva York cuyo afiche de 1999 para AIGA Detroit, con el texto cortado en su propia piel, se volvió un ejemplo conocido de diseño gráfico personal y emocional.",
+    "more": "Nacido en Bregenz, Austria, en 1962, estudió en Viena y luego en el Pratt Institute de Nueva York. Abrió su propio estudio, Sagmeister Inc., en Nueva York en 1993 y diseñó portadas de discos para músicos como Lou Reed. En el afiche de AIGA Detroit de 1999, una asistente cortó con una cuchilla en su cuerpo los datos de la charla, y las fotografías de ello hicieron famosa la obra. Más tarde trabajó en sociedad con Jessica Walsh."
+   },
+   "refs": []
+  },
+  {
+   "id": "shepard-fairey",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1970,
+   "dates": "n. 1970",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Shepard Fairey",
+   "movements": [],
+   "institutions": [],
+   "key": "American street artist and graphic designer, creator of the Obey Giant sticker campaign and of the 2008 Hope poster of Barack Obama.",
+   "more": "Born in Charleston, South Carolina, in 1970, he began in 1989 as a student at the Rhode Island School of Design with a sticker of the wrestler André the Giant, which grew into the Obey Giant campaign and a clothing brand. In 2008 he made the Hope poster of Barack Obama in red, beige and blue, which spread widely during the presidential campaign and became one of its best-known images.",
+   "es": {
+    "dates": "n. 1970",
+    "key": "Artista callejero y diseñador gráfico estadounidense, creador de la campaña de calcomanías Obey Giant y del afiche Hope de Barack Obama de 2008.",
+    "more": "Nacido en Charleston, Carolina del Sur, en 1970, empezó en 1989, siendo estudiante de la Rhode Island School of Design, con una calcomanía del luchador André the Giant, que creció hasta ser la campaña Obey Giant y una marca de ropa. En 2008 hizo el afiche Hope de Barack Obama en rojo, beige y azul, que se difundió ampliamente durante la campaña presidencial y se volvió una de sus imágenes más conocidas."
+   },
+   "refs": []
+  },
+  {
+   "id": "equipo-campana-del-no",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1988,
+   "dates": "1988",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Campaign team for the NO",
+   "movements": [],
+   "institutions": [],
+   "key": "Group of Chilean advertising people, artists and communicators who made the television slot and the graphic image of the NO campaign in the 1988 plebiscite.",
+   "more": "In the plebiscite of 5 October 1988, Chileans voted on whether General Pinochet would stay in power for another eight years. The campaign for the NO had a daily television slot of fifteen minutes, the franja, in the month before the vote. Its team chose a positive, joyful tone instead of centring on denunciation, with a rainbow as its sign and the slogan ‘Chile, la alegría ya viene’. The NO won with about 56 per cent of the votes.",
+   "es": {
+    "dates": "1988",
+    "key": "Grupo de publicistas, artistas y comunicadores chilenos que hizo la franja de televisión y la imagen gráfica de la campaña del NO en el plebiscito de 1988.",
+    "more": "En el plebiscito del 5 de octubre de 1988, los chilenos votaron si el general Pinochet seguía en el poder otros ocho años. La campaña del NO tuvo una franja diaria de televisión de quince minutos en el mes previo a la votación. Su equipo eligió un tono positivo y alegre, en vez de centrarse en la denuncia, con un arcoíris como signo y el lema «Chile, la alegría ya viene». El NO ganó con cerca de un 56 por ciento de los votos."
+   },
+   "refs": [],
+   "short": "NO campaign"
+  },
+  {
+   "id": "matthew-carter",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1937,
+   "dates": "n. 1937",
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Matthew Carter",
+   "movements": [],
+   "institutions": [],
+   "key": "British-born type designer of Bell Centennial for the telephone directories of 1978 and of Verdana and Georgia, typefaces made to be read on screen.",
+   "more": "Born in London in 1937, he trained in punchcutting in the Netherlands and worked for Linotype, where he designed Bell Centennial for the AT&T telephone directories, introduced in 1978. In 1981 he co-founded the digital type company Bitstream and in 1991 Carter & Cone. In the 1990s he designed Verdana and Georgia for Microsoft, typefaces drawn for legibility at small sizes on the screen.",
+   "es": {
+    "dates": "n. 1937",
+    "key": "Diseñador de tipos británico, autor de Bell Centennial para las guías telefónicas de 1978 y de Verdana y Georgia, tipografías hechas para leerse en pantalla.",
+    "more": "Nacido en Londres en 1937, se formó en el grabado de punzones en los Países Bajos y trabajó para Linotype, donde diseñó Bell Centennial para las guías telefónicas de AT&T, presentada en 1978. En 1981 cofundó la empresa de tipografía digital Bitstream y en 1991 Carter & Cone. En los años noventa diseñó Verdana y Georgia para Microsoft, tipografías dibujadas para ser legibles en tamaños pequeños en pantalla."
+   },
+   "refs": []
+  },
+  {
+   "id": "michele-de-lucchi",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1951,
+   "dates": "n. 1951",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Michele De Lucchi",
+   "movements": [
+    "memphis"
+   ],
+   "institutions": [
+    "inst-memphis-group"
+   ],
+   "key": "Italian architect and designer, a member of the Memphis group from 1981, whose First chair of 1983 is one of its best-known pieces.",
+   "more": "Born in Ferrara in 1951, he studied architecture in Florence and took part in the radical design groups of the late 1970s. He joined Ettore Sottsass’s Memphis group, which showed its first collection in Milan in 1981, and designed the First chair for it in 1983. He later worked for Olivetti and designed furniture and lamps for Italian makers, among them the Tolomeo lamp for Artemide, made with Giancarlo Fassina.",
+   "es": {
+    "dates": "n. 1951",
+    "key": "Arquitecto y diseñador italiano, miembro del grupo Memphis desde 1981, cuya silla First de 1983 es una de sus piezas más conocidas.",
+    "more": "Nacido en Ferrara en 1951, estudió arquitectura en Florencia y participó en los grupos de diseño radical de fines de los años setenta. Se unió al grupo Memphis de Ettore Sottsass, que presentó su primera colección en Milán en 1981, y diseñó para él la silla First en 1983. Más tarde trabajó para Olivetti y diseñó muebles y lámparas para fabricantes italianos, entre ellos la lámpara Tolomeo para Artemide, hecha con Giancarlo Fassina."
+   },
+   "refs": []
+  },
+  {
+   "id": "alessandro-mendini",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1931,
+   "died": 2019,
+   "dates": "1931–2019",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Alessandro Mendini",
+   "movements": [
+    "alchimia"
+   ],
+   "institutions": [
+    "inst-alessi"
+   ],
+   "key": "Italian architect, editor and designer who turned redecoration and irony into a method, from the Proust armchair to objects for Alessi.",
+   "more": "Born in Milan in 1931, he edited the magazines Casabella, Modo and Domus and was a central voice of Italian radical and postmodern design. He took part in Alchimia, the Milanese group of the late 1970s, and in 1978 showed the Proust armchair, a historic armchair covered in pointillist painting. For Alessi he designed the Anna G. corkscrew of 1994, an anthropomorphic object that became a catalogue product. He died in Milan in 2019.",
+   "es": {
+    "dates": "1931–2019",
+    "key": "Arquitecto, editor y diseñador italiano que hizo de la redecoración y la ironía un método, del sillón Proust a los objetos para Alessi.",
+    "more": "Nacido en Milán en 1931, dirigió las revistas Casabella, Modo y Domus y fue una voz central del diseño radical y posmoderno italiano. Participó en Alchimia, el grupo milanés de fines de los años setenta, y en 1978 mostró el sillón Proust, un sillón histórico cubierto con pintura puntillista. Para Alessi diseñó en 1994 el sacacorchos Anna G., un objeto antropomórfico que pasó a ser producto de catálogo. Murió en Milán en 2019."
+   },
+   "refs": []
+  },
+  {
+   "id": "philippe-starck",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1949,
+   "died": null,
+   "dates": "b. 1949",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Philippe Starck",
+   "movements": [],
+   "institutions": [
+    "inst-alessi"
+   ],
+   "key": "French designer who made the author a brand, working across interiors, furniture and everyday objects, best known for the Juicy Salif lemon squeezer.[1][2]",
+   "more": "Born in Paris in 1949,[1][2] he became widely known in the 1980s for interiors such as the Café Costes in Paris[1][3] and for work on the private apartments of President Mitterrand at the Élysée.[3] He designed for Italian firms such as Alessi and Kartell,[1][3] among them the Juicy Salif squeezer of 1990.[1][2] His name became a selling point in itself, and his work shows how in these years the signature of the designer began to weigh as much as the function of the object.",
+   "es": {
+    "dates": "n. 1949",
+    "key": "Diseñador francés que convirtió al autor en marca, con trabajos en interiores, mobiliario y objetos cotidianos, conocido sobre todo por el exprimidor Juicy Salif.[1][2]",
+    "more": "Nacido en París en 1949,[1][2] se hizo conocido en los años ochenta por interiores como el Café Costes de París[1][3] y por su trabajo en los departamentos privados del presidente Mitterrand en el Elíseo.[3] Diseñó para empresas italianas como Alessi y Kartell,[1][3] entre ellos el exprimidor Juicy Salif de 1990.[1][2] Su nombre pasó a ser un argumento de venta en sí mismo, y su obra muestra cómo en esos años la firma del diseñador empezó a pesar tanto como la función del objeto."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Philippe Starck»",
+     "url": "https://www.britannica.com/biography/Philippe-Starck",
+     "checks": "nació el 18 de enero de 1949 en París; interiores, mobiliario y objetos; Juicy Salif para Alessi; Louis Ghost para Kartell; Café Costes (1982). ⚠ No menciona a Mitterrand.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Juicy Salif Lemon Squeezer»",
+     "url": "https://www.metmuseum.org/art/collection/search/491871",
+     "checks": "Juicy Salif de 1990, fabricado por Alessi; Starck nacido en París en 1949.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA PS1, «Philippe Starck: Furniture and Objects» (1999)",
+     "url": "https://www.moma.org/calendar/exhibitions/4665",
+     "checks": "nacido en París en 1949; Café Costes (1984); encargos en el Palacio del Elíseo del presidente Mitterrand; colaboraciones con Alessi y Kartell. ⚠ No precisa que fueran los departamentos privados.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "ron-arad",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1951,
+   "died": null,
+   "dates": "b. 1951",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Ron Arad",
+   "movements": [],
+   "institutions": [],
+   "key": "Israeli-born designer based in London whose bent steel furniture sat between one-off sculpture and manufactured product.",
+   "more": "Born in Tel Aviv in 1951, he studied at the Architectural Association in London and in 1981 set up the studio One Off, where he made furniture such as the Rover Chair, built around a seat salvaged from a car. His Well Tempered Chair of 1986, of sheets of steel bent and bolted by hand, was later produced by Vitra. He often moved between small workshop series, gallery pieces and industrial production.",
+   "es": {
+    "dates": "n. 1951",
+    "key": "Diseñador nacido en Israel y radicado en Londres, cuyos muebles de acero doblado se movían entre la escultura única y el producto fabricado.",
+    "more": "Nacido en Tel Aviv en 1951, estudió en la Architectural Association de Londres y en 1981 fundó el estudio One Off, donde hizo muebles como la silla Rover, armada en torno a un asiento rescatado de un auto. Su silla Well Tempered de 1986, de láminas de acero dobladas y atornilladas a mano, fue producida después por Vitra. Se movió a menudo entre pequeñas series de taller, piezas de galería y producción industrial."
+   },
+   "refs": []
+  },
+  {
+   "id": "marc-newson",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1963,
+   "died": null,
+   "dates": "b. 1963",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Marc Newson",
+   "movements": [],
+   "institutions": [],
+   "key": "Australian-born designer known for smooth, fluid forms; his Lockheed Lounge of 1986 covered a sculpted body with riveted aluminium panels.",
+   "more": "Born in Sydney in 1963, he made the Lockheed Lounge in 1986, a chaise longue whose fluid form is covered with riveted aluminium panels in the manner of an aircraft fuselage. It was made in a few examples and sold as a gallery piece. He later moved to Europe and worked for firms such as Cappellini, on pieces like the Embryo chair, taking his organic, aerodynamic forms into industrial production.",
+   "es": {
+    "dates": "n. 1963",
+    "key": "Diseñador nacido en Australia, conocido por sus formas lisas y fluidas; su Lockheed Lounge de 1986 cubrió un cuerpo esculpido con paneles de aluminio remachados.",
+    "more": "Nacido en Sídney en 1963, hizo en 1986 el Lockheed Lounge, una chaise longue de forma fluida cubierta con paneles de aluminio remachados al modo de un fuselaje de avión. Se hizo en pocos ejemplares y se vendió como pieza de galería. Más tarde se trasladó a Europa y trabajó para empresas como Cappellini, en piezas como la silla Embryo, llevando sus formas orgánicas y aerodinámicas a la producción industrial."
+   },
+   "refs": []
+  },
+  {
+   "id": "jasper-morrison",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1959,
+   "died": null,
+   "dates": "b. 1959",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jasper Morrison",
+   "movements": [
+    "minimalism-fashion-product"
+   ],
+   "institutions": [
+    "inst-muji"
+   ],
+   "key": "British designer who answered the showy design of the 1980s with calm, ordinary-looking objects, among them the Air-Chair for Magis.",
+   "more": "Born in London in 1959, he studied design in Britain and in Berlin and set up his own office in London in 1986. In contrast to the expressive furniture of those years, he worked on plain, carefully proportioned objects for firms such as Cappellini, Vitra and Magis, for which he designed the plastic Air-Chair in 1999. In 2006 he showed the exhibition Super Normal in Tokyo with Naoto Fukasawa, a defence of the unobtrusive everyday object.",
+   "es": {
+    "dates": "n. 1959",
+    "key": "Diseñador británico que respondió al diseño vistoso de los años ochenta con objetos tranquilos y de apariencia corriente, entre ellos la silla Air-Chair para Magis.",
+    "more": "Nacido en Londres en 1959, estudió diseño en Gran Bretaña y en Berlín y abrió su propia oficina en Londres en 1986. Frente al mobiliario expresivo de esos años, trabajó objetos sencillos y de proporciones cuidadas para empresas como Cappellini, Vitra y Magis, para la cual diseñó en 1999 la silla plástica Air-Chair. En 2006 presentó en Tokio, con Naoto Fukasawa, la exposición Super Normal, una defensa del objeto cotidiano discreto."
+   },
+   "refs": []
+  },
+  {
+   "id": "jonathan-ive",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1967,
+   "died": null,
+   "dates": "b. 1967",
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america",
+    "global"
+   ],
+   "name": "Jonathan Ive",
+   "movements": [],
+   "institutions": [
+    "inst-apple"
+   ],
+   "key": "British designer who led Apple’s design team from the late 1990s and shaped the iMac, iPod and iPhone with simple, smooth forms.[1][2]",
+   "more": "Born in London in 1967,[1][2] he studied design at Newcastle Polytechnic and joined Apple in 1992;[1][2] by the late 1990s he headed its design team.[1][2] Under him Apple launched the iMac in 1998, the iPod in 2001 and the iPhone in 2007,[1][2] products whose simple forms and careful finishes became the face of the company.[1][3] He has acknowledged the influence of Dieter Rams.[3] He left Apple in 2019 to found the design firm LoveFrom.[1][3]",
+   "es": {
+    "dates": "n. 1967",
+    "key": "Diseñador británico que dirigió el equipo de diseño de Apple desde fines de los años noventa y dio forma al iMac, el iPod y el iPhone con formas simples y lisas.[1][2]",
+    "more": "Nacido en Londres en 1967,[1][2] estudió diseño en Newcastle Polytechnic y se incorporó a Apple en 1992;[1][2] hacia fines de los años noventa dirigía su equipo de diseño.[1][2] Bajo su dirección Apple lanzó el iMac en 1998, el iPod en 2001 y el iPhone en 2007,[1][2] productos cuyas formas simples y terminaciones cuidadas se volvieron el rostro de la empresa.[1][3] Ha reconocido la influencia de Dieter Rams.[3] Dejó Apple en 2019 para fundar la firma de diseño LoveFrom.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Jony Ive»",
+     "url": "https://www.britannica.com/biography/Jonathan-Ive",
+     "checks": "nació el 27 feb 1967 en Londres; estudió arte y diseño en Newcastle Polytechnic; Apple desde 1992; vicepresidente sénior de diseño industrial tras 1997; iMac 1998, iPod 2001, iPhone 2007; dejó Apple en 2019 y cofundó LoveFrom. ⚠ No menciona a Dieter Rams.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Design Museum, «Jonathan Ive»",
+     "url": "https://designmuseum.org/designers/jonathan-ive",
+     "checks": "nacido en Londres en 1967; Newcastle Polytechnic; entró a Apple en 1992; VP de diseño industrial en 1998; iMac (1998), iPod (2001), iPhone (2007); énfasis en simplicidad y cuidado del detalle. ⚠ No menciona LoveFrom ni Rams.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Dezeen, «Jony Ive's legacy as the most important designer of the last two decades is assured» (2019)",
+     "url": "https://www.dezeen.com/2019/06/28/jony-ive-legacy-apple-head-designer/",
+     "checks": "Ive en Apple desde 1992 hasta su salida en 2019 para fundar LoveFrom; iMac simbolizó el renacer de Apple; su obra influida por los principios de Dieter Rams. ⚠ Es una revista de diseño, no archivo ni museo; «ha reconocido» la influencia no está literal.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "hartmut-esslinger",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1944,
+   "died": null,
+   "dates": "b. 1944",
+   "countries": [
+    "DE",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Hartmut Esslinger",
+   "movements": [],
+   "institutions": [
+    "inst-frog-design",
+    "inst-apple"
+   ],
+   "key": "German industrial designer who founded frog design and gave Apple its Snow White design language in the 1980s.",
+   "more": "Born in Germany in 1944, he founded the design firm frog design in 1969 and worked for German companies before moving to the computer industry. From 1982 he worked for Apple, where the Snow White design language ordered the look of its products, including the Apple IIc of 1984. He also designed for Steve Jobs’s company NeXT. His work helped make a coherent product image a strategic asset of technology companies.",
+   "es": {
+    "dates": "n. 1944",
+    "key": "Diseñador industrial alemán que fundó frog design y dio a Apple su lenguaje de diseño Snow White en los años ochenta.",
+    "more": "Nacido en Alemania en 1944, fundó la firma de diseño frog design en 1969 y trabajó para empresas alemanas antes de pasar a la industria de los computadores. Desde 1982 trabajó para Apple, donde el lenguaje de diseño Snow White ordenó el aspecto de sus productos, entre ellos el Apple IIc de 1984. También diseñó para NeXT, la empresa de Steve Jobs. Su obra ayudó a convertir la imagen coherente de producto en un activo estratégico de las empresas tecnológicas."
+   },
+   "refs": []
+  },
+  {
+   "id": "james-dyson",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1947,
+   "died": null,
+   "dates": "b. 1947",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "James Dyson",
+   "movements": [],
+   "institutions": [],
+   "key": "British inventor and designer who developed the bagless cyclone vacuum cleaner and built a company on visible technology.",
+   "more": "Born in Cromer, England, in 1947, he studied at the Royal College of Art and made the Ballbarrow, a wheelbarrow with a ball instead of a wheel, in the 1970s. He then developed a bagless vacuum cleaner based on cyclonic separation, going through a very large number of prototypes. The Dyson DC01 reached the British market in 1993, and its clear bin showed the dust it collected. His company later extended the same approach to other household appliances.",
+   "es": {
+    "dates": "n. 1947",
+    "key": "Inventor y diseñador británico que desarrolló la aspiradora ciclónica sin bolsa y levantó una empresa sobre una tecnología a la vista.",
+    "more": "Nacido en Cromer, Inglaterra, en 1947, estudió en el Royal College of Art e hizo en los años setenta la Ballbarrow, una carretilla con una bola en lugar de rueda. Luego desarrolló una aspiradora sin bolsa basada en la separación ciclónica, tras pasar por una gran cantidad de prototipos. La Dyson DC01 llegó al mercado británico en 1993, y su depósito transparente mostraba el polvo recogido. Su empresa extendió después el mismo enfoque a otros electrodomésticos."
+   },
+   "refs": []
+  },
+  {
+   "id": "hermanos-campana",
+   "level": "essential",
+   "kind": "duo",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1953,
+   "died": null,
+   "dates": "Humberto b. 1953 · Fernando b. 1961",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Fernando and Humberto Campana",
+   "movements": [],
+   "institutions": [],
+   "key": "Brazilian brothers from São Paulo who turned scraps, rope and everyday materials into furniture that is both popular craft and gallery object.[1][2][3]",
+   "more": "Humberto Campana, born in 1953,[2] trained as a lawyer, and his brother Fernando, born in 1961,[2][3] as an architect;[3] both work in São Paulo.[3] Their Favela chair of 1991 is built of wood offcuts nailed together,[2] in a way that recalls the self-built houses of the favelas.[3] They later made the Vermelha chair (1998), wound by hand from rope,[1] and the Banquete chair (2006), covered in soft toys.[3] Their work joins Brazilian popular techniques to international design.[1][3]",
+   "es": {
+    "dates": "Humberto n. 1953 · Fernando n. 1961",
+    "key": "Hermanos brasileños de São Paulo que convirtieron retazos, cuerdas y materiales cotidianos en muebles que son a la vez artesanía popular y objeto de galería.[1][2][3]",
+    "more": "Humberto Campana, nacido en 1953,[2] se formó como abogado, y su hermano Fernando, nacido en 1961,[2][3] como arquitecto;[3] ambos trabajan en São Paulo.[3] Su silla Favela de 1991 se arma con recortes de madera clavados entre sí,[2] de un modo que recuerda las casas autoconstruidas de las favelas.[3] Más tarde hicieron la silla Vermelha (1998), enrollada a mano con cuerda,[1] y la silla Banquete (2006), cubierta de peluches.[3] Su obra une técnicas populares brasileñas con el diseño internacional.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, «Fernando Campana, Humberto Campana. Vermelha Chair» (1993)",
+     "url": "https://www.moma.org/collection/works/3202",
+     "checks": "la silla Vermelha, hecha con cuerda tejida a mano sobre estructura metálica, inspirada en la cultura callejera y las técnicas de tejido brasileñas; fabricada por Edra. ⚠ La fecha en MoMA es 1993, no 1998.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Favela Chair» (Humberto Campana)",
+     "url": "https://www.metmuseum.org/art/collection/search/499106",
+     "checks": "silla Favela de 1991 por Humberto (n. 1953) y Fernando (n. 1961) Campana; madera, clavos y cola con recortes de madera; adquirida en 2013 (Edra). ⚠ No confirma la formación de abogado.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Architectural Record, «Tribute: Fernando Campana (1961–2022)»",
+     "url": "https://www.architecturalrecord.com/articles/15946-tribute-brazilian-architect-and-designer-fernando-campana-1961-2022",
+     "checks": "Fernando nació en Brotas (estado de São Paulo), arquitecto titulado en 1984; Humberto se formó como abogado; estudio en São Paulo; Favela con restos de cajones que evoca las barriadas; Banquete con peluches. ⚠ Fecha Vermelha en 1993 y Banquete en 2002; Fernando murió el 16 de noviembre de 2022.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Campana"
+  },
+  {
+   "id": "vivienne-westwood",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1941,
+   "died": 2022,
+   "dates": "1941–2022",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Vivienne Westwood",
+   "movements": [],
+   "institutions": [],
+   "key": "British fashion designer who, with Malcolm McLaren, dressed British punk and later built a fashion of historical pastiche and political argument.[1][2]",
+   "more": "Born in Glossop, England, in 1941,[1] she ran a shop on the King’s Road in London with Malcolm McLaren, which was called SEX in 1974 and Seditionaries in 1976,[1][2] and from it came the clothes of British punk, with slogans, pins and torn cuts.[1][2] In 1981 she showed her Pirates collection, which drew on historical dress in a theatrical way.[1][2] She continued to use history, tailoring and provocation,[2][3] and in her later years she campaigned publicly on climate and political issues.[2] She died in London in 2022.[1]",
+   "es": {
+    "dates": "1941–2022",
+    "key": "Diseñadora de moda británica que, con Malcolm McLaren, vistió al punk británico y luego construyó una moda de pastiche histórico y argumento político.[1][2]",
+    "more": "Nacida en Glossop, Inglaterra, en 1941,[1] tuvo con Malcolm McLaren una tienda en la King’s Road de Londres, que se llamó SEX en 1974 y Seditionaries en 1976,[1][2] y de ella salió la ropa del punk británico, con consignas, alfileres y cortes rotos.[1][2] En 1981 presentó su colección Pirates, que recurría a la indumentaria histórica de manera teatral.[1][2] Siguió usando la historia, la sastrería y la provocación,[2][3] y en sus últimos años hizo campaña pública por causas climáticas y políticas.[2] Murió en Londres en 2022.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Vivienne Westwood»",
+     "url": "https://www.britannica.com/biography/Vivienne-Westwood",
+     "checks": "nació el 8 de abril de 1941 en Glossop, Derbyshire; murió el 29 de diciembre de 2022 en Londres; tienda SEX (1974) y Seditionaries (1976) con McLaren; ropa rasgada y con consignas; Pirates 1981; giro histórico. ⚠ No menciona alfileres ni la King’s Road.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "V&A, «Vivienne Westwood: punk, new romantic and beyond»",
+     "url": "https://www.vam.ac.uk/articles/vivienne-westwood-punk-new-romantic-and-beyond",
+     "checks": "SEX en 430 King’s Road, rebautizada Seditionaries en 1976; piezas punk con alfileres y cadenas; colección Pirate (1981) con siluetas históricas; sastrería y referencias históricas desde 1985; desde 2000 activismo por clima y libertades civiles. ⚠ No habla de «teatral».",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "V&A, «Vivienne Westwood» (colección)",
+     "url": "https://www.vam.ac.uk/collections/vivienne-westwood",
+     "checks": "piezas del periodo SEX y Seditionaries con McLaren, colecciones Pirates; la diseñadora reinterpreta estilos históricos; «tradicionalista, provocadora». ⚠ No trata el activismo.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "martin-margiela",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1957,
+   "died": null,
+   "dates": "b. 1957",
+   "countries": [
+    "BE",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Martin Margiela",
+   "movements": [
+    "deconstructivism"
+   ],
+   "institutions": [],
+   "key": "Belgian fashion designer who founded his Paris house in 1988 and worked with anonymity, deconstruction and unusual references, such as the Tabi boot.",
+   "more": "Born in Genk, Belgium, in 1957, he studied at the Royal Academy of Fine Arts in Antwerp and worked for Jean Paul Gaultier before founding Maison Martin Margiela in Paris in 1988. The house avoided showing the designer’s face and used plain white labels. Its Tabi boot, with a split toe, drew on traditional Japanese footwear. He was also a designer for Hermès in the late 1990s and early 2000s. His work shows fashion questioning its own conventions of seams, linings and authorship.",
+   "es": {
+    "dates": "n. 1957",
+    "key": "Diseñador de moda belga que fundó su casa en París en 1988 y trabajó con el anonimato, la deconstrucción y referencias inusuales, como la bota Tabi.",
+    "more": "Nacido en Genk, Bélgica, en 1957, estudió en la Real Academia de Bellas Artes de Amberes y trabajó para Jean Paul Gaultier antes de fundar Maison Martin Margiela en París en 1988. La casa evitó mostrar el rostro del diseñador y usó etiquetas blancas lisas. Su bota Tabi, de punta dividida, se inspiraba en el calzado tradicional japonés. También fue diseñador de Hermès a fines de los años noventa y comienzos de los 2000. Su obra muestra a la moda cuestionando sus propias convenciones de costuras, forros y autoría."
+   },
+   "refs": []
+  },
+  {
+   "id": "alexander-mcqueen",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1969,
+   "died": 2010,
+   "dates": "1969–2010",
+   "countries": [
+    "GB",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Alexander McQueen",
+   "movements": [],
+   "institutions": [],
+   "key": "British fashion designer known for theatrical, narrative runway shows and for tailoring that mixed craft with darkness and spectacle.",
+   "more": "Born in London in 1969, he trained in tailoring on Savile Row and then studied at Central Saint Martins, and showed his collection Highland Rape in 1995. From 1996 he was chief designer at Givenchy in Paris, while building his own label. His shows turned the runway into narrative and theatre, and his skull scarf became one of the best-known accessories of his brand. His last complete collection, Plato’s Atlantis, was shown in 2010 and streamed live online. He died in London in 2010.",
+   "es": {
+    "dates": "1969–2010",
+    "key": "Diseñador de moda británico conocido por desfiles teatrales y narrativos y por una sastrería que mezcló oficio, oscuridad y espectáculo.",
+    "more": "Nacido en Londres en 1969, se formó en sastrería en Savile Row y luego estudió en Central Saint Martins, y presentó su colección Highland Rape en 1995. Desde 1996 fue diseñador jefe de Givenchy en París, mientras construía su propia marca. Sus desfiles convirtieron la pasarela en relato y teatro, y su pañuelo de calaveras pasó a ser uno de los accesorios más conocidos de su marca. Su última colección completa, Plato’s Atlantis, se presentó en 2010 y se transmitió en vivo por internet. Murió en Londres en 2010."
+   },
+   "refs": []
+  },
+  {
+   "id": "rei-kawakubo",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1942,
+   "dates": "b. 1942",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Rei Kawakubo",
+   "movements": [],
+   "institutions": [],
+   "key": "Japanese designer, founder of Comme des Garçons, who showed black, asymmetric and deliberately torn clothes in Paris from 1981.[1][3]",
+   "more": "She founded the label Comme des Garçons in Tokyo around 1969 and presented it in Paris in 1981 together with Yohji Yamamoto.[1][3] Her collections questioned Western ideas of the fitted, flattering garment through black, volume and unfinished edges.[1][2][3] She also built the Dover Street Market stores, which sell fashion and art together.[1]",
+   "es": {
+    "dates": "n. 1942",
+    "key": "Diseñadora japonesa, fundadora de Comme des Garçons, que desde 1981 mostró en París ropa negra, asimétrica y deliberadamente rasgada.[1][3]",
+    "more": "Fundó la marca Comme des Garçons en Tokio hacia 1969 y la presentó en París en 1981 junto con Yohji Yamamoto.[1][3] Sus colecciones cuestionaron la idea occidental de la prenda ajustada y favorecedora mediante el negro, el volumen y los bordes sin terminar.[1][2][3] También creó las tiendas Dover Street Market, que venden moda y arte en un mismo lugar.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Rei Kawakubo»",
+     "url": "https://www.britannica.com/biography/Rei-Kawakubo",
+     "checks": "nació el 11 de octubre de 1942 en Tokio; fundó Comme des Garçons en 1969; llegó a París en 1981; prendas oscuras, sobredimensionadas y asimétricas que no seguían el cuerpo; Dover Street Market. ⚠ No dice que Dover Street Market venda moda y arte juntos.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Rei Kawakubo/Comme des Garçons: Art of the In-Between» (2017)",
+     "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+     "checks": "exposición de 2017 con unas 140 prendas desde principios de los años 80; temas como Fashion/Anti-Fashion y Clothes/Not Clothes. ⚠ No trata fundación, París 1981 ni Dover Street Market.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopedia.com, «Yamamoto, Yohji»",
+     "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/yamamoto-yohji",
+     "checks": "en 1981 Yamamoto presentó en París su primera colección de prêt-à-porter femenina junto a Rei Kawakubo, con ropa deconstruida «inacabada y rasgada»; negro dominante. ⚠ Fuente sobre Yamamoto, confirma solo la presentación conjunta.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Kawakubo"
+  },
+  {
+   "id": "yohji-yamamoto",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1943,
+   "dates": "b. 1943",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Yohji Yamamoto",
+   "movements": [],
+   "institutions": [],
+   "key": "Japanese designer who, with Rei Kawakubo, brought loose, dark, asymmetric tailoring to the Paris catwalks in 1981.[1][3]",
+   "more": "Born in Tokyo,[2] he began his Y’s label in the 1970s and showed in Paris from 1981.[1][2][3] His work favours black, wide cuts and drapes that do not follow the body’s outline.[1][3] He also made a long collaboration with the sportswear brand Adidas.[1]",
+   "es": {
+    "dates": "n. 1943",
+    "key": "Diseñador japonés que, junto con Rei Kawakubo, llevó a las pasarelas de París en 1981 un corte holgado, oscuro y asimétrico.[1][3]",
+    "more": "Nacido en Tokio,[2] comenzó su marca Y’s en la década de 1970 y desfiló en París desde 1981.[1][2][3] Su obra prefiere el negro, los cortes amplios y los drapeados que no siguen el contorno del cuerpo.[1][3] También mantuvo una larga colaboración con la marca deportiva Adidas.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopedia.com, «Yamamoto, Yohji»",
+     "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/yamamoto-yohji",
+     "checks": "nació el 3 de octubre de 1943 en Tokio; Y’s lanzada hacia 1972; en 1981 presentó en París junto a Rei Kawakubo; negro dominante, capas y volúmenes; diseñó zapatillas para Adidas en 2001 y luego la línea Y-3. ⚠ Solo desde 2001; «larga colaboración» es inferencia.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Bloomsbury Fashion Central, «Yohji Yamamoto»",
+     "url": "https://www.bloomsburyfashioncentral.com/products/fashion-photography-archive/article/yohji-yamamoto",
+     "checks": "nació en 1943 en Tokio; fundó su empresa en 1972 y lanzó Y’s con su primera colección en Tokio en 1977. ⚠ El resto del artículo está tras suscripción.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Dazed, «Yohji Yamamoto Expo» (exposición del V&A, 2011)",
+     "url": "https://www.dazeddigital.com/fashion/article/9944/1/yohji-yamamoto-expo",
+     "checks": "retrospectiva V&A 2011 a 30 años de su debut de 1981 en París junto a Comme des Garçons; paletas monocromas, siluetas asimétricas y proporciones sobredimensionadas. ⚠ Revista; no cubre Y’s ni Adidas.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Yamamoto"
+  },
+  {
+   "id": "jean-paul-gaultier",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1952,
+   "dates": "b. 1952",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jean Paul Gaultier",
+   "movements": [],
+   "institutions": [],
+   "key": "French designer who used the corset, the sailor’s stripe and street styles as playful fashion, and dressed Madonna’s 1990 tour.",
+   "more": "He presented his first collection in 1976 and became known for mixing haute couture with street culture and for showing men in skirts. His conical corset for Madonna’s Blond Ambition tour in 1990 turned underwear into outerwear and a pop emblem. His shows also used models of varied ages and bodies.",
+   "es": {
+    "dates": "n. 1952",
+    "key": "Diseñador francés que convirtió el corsé, la marinera a rayas y los estilos callejeros en moda lúdica, y vistió la gira de Madonna de 1990.",
+    "more": "Presentó su primera colección en 1976 y se hizo conocido por mezclar la alta costura con la cultura de la calle y por mostrar hombres con falda. Su corsé de conos para la gira Blond Ambition de Madonna en 1990 convirtió la ropa interior en ropa exterior y en emblema pop. Sus desfiles también incluyeron modelos de edades y cuerpos variados."
+   },
+   "refs": [],
+   "short": "Gaultier"
+  },
+  {
+   "id": "arpilleristas",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1974,
+   "died": 1990,
+   "dates": "1974–1990",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Arpilleristas chilenas",
+   "movements": [],
+   "institutions": [],
+   "key": "Chilean women who stitched scenes of repression and daily hardship onto burlap patches, turning textile craft into testimony under the dictatorship.",
+   "more": "From 1974, in workshops linked to the Church’s Vicaría de la Solidaridad, women sewed arpilleras from fabric scraps to denounce disappearances and poverty. The pieces were sold abroad and carried news of the repression beyond Chile. The collective work gave income and a shared voice to families of victims.",
+   "es": {
+    "dates": "1974–1990",
+    "key": "Mujeres chilenas que cosieron sobre arpillera escenas de la represión y de las penurias cotidianas, convirtiendo la artesanía textil en testimonio bajo la dictadura.",
+    "more": "Desde 1974, en talleres ligados a la Vicaría de la Solidaridad de la Iglesia, las mujeres cosieron arpilleras con retazos de tela para denunciar desapariciones y pobreza. Las piezas se vendieron en el extranjero y llevaron noticias de la represión más allá de Chile. El trabajo colectivo dio ingresos y una voz compartida a familias de víctimas."
+   },
+   "refs": [],
+   "short": "Arpilleristas"
+  },
+  {
+   "id": "alejandro-aravena",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1967,
+   "dates": "b. 1967",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Alejandro Aravena",
+   "movements": [],
+   "institutions": [
+    "inst-elemental"
+   ],
+   "key": "Chilean architect, head of Elemental, known for social housing designed so that families can finish and enlarge it themselves.[1][2]",
+   "more": "Born in Santiago in 1967,[1][2] he leads the office Elemental, founded in 2001.[1] His Quinta Monroy project in Iquique (2004) delivered half of each house and left space for residents to complete the rest.[1][2] He won the Pritzker Prize in 2016[1][2] and directed the architecture Biennale of Venice that same year.[1][2]",
+   "es": {
+    "dates": "n. 1967",
+    "key": "Arquitecto chileno, director de Elemental, conocido por viviendas sociales pensadas para que las familias las terminen y amplíen por sí mismas.[1][2]",
+    "more": "Nacido en Santiago en 1967,[1][2] dirige la oficina Elemental, fundada en 2001.[1] Su proyecto Quinta Monroy en Iquique (2004) entregó la mitad de cada casa y dejó espacio para que los vecinos completaran el resto.[1][2] Ganó el Premio Pritzker en 2016[1][2] y dirigió ese mismo año la Bienal de Arquitectura de Venecia.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Premio Pritzker, «Alejandro Aravena»",
+     "url": "https://www.pritzkerprize.com/laureates/ale-jan-dro-ara-ve-na",
+     "checks": "nació el 22 jun 1967 en Santiago de Chile; Elemental fundada en 2001; «half of a good house», espacio para que los residentes completen sus casas; Quinta Monroy, Iquique (2004); Pritzker 2016; director de la Bienal de Venecia 2016. ⚠ No da fecha de muerte (vive).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Alejandro Aravena»",
+     "url": "https://www.britannica.com/biography/Alejandro-Aravena",
+     "checks": "nació el 22 jun 1967 en Santiago; primer chileno en ganar el Pritzker (2016); Quinta Monroy en Iquique con concepto de media casa; director de la Bienal de Arquitectura de Venecia 2016. ⚠ No fecha la fundación de Elemental.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Aravena"
+  },
+  {
+   "id": "paulo-mendes-da-rocha",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1928,
+   "died": 2021,
+   "dates": "1928–2021",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Paulo Mendes da Rocha",
+   "movements": [
+    "paulista-school"
+   ],
+   "institutions": [],
+   "key": "Brazilian architect of the São Paulo school, who worked in raw concrete with large spans and open public ground.",
+   "more": "Born in Vitória in 1928, he worked mostly in São Paulo, where he taught for years. His buildings, such as the Brazilian Sculpture Museum (MuBE, 1988), use exposed concrete and a covered open space under big beams. He won the Pritzker Prize in 2006 and died in 2021.",
+   "es": {
+    "dates": "1928–2021",
+    "key": "Arquitecto brasileño de la escuela paulista, que trabajó con hormigón a la vista, grandes luces y suelo público abierto.",
+    "more": "Nacido en Vitória en 1928, trabajó sobre todo en São Paulo, donde enseñó durante años. Sus edificios, como el Museo Brasileño de la Escultura (MuBE, 1988), usan hormigón a la vista y un espacio abierto cubierto bajo grandes vigas. Ganó el Premio Pritzker en 2006 y murió en 2021."
+   },
+   "refs": [],
+   "short": "Mendes da Rocha"
+  },
+  {
+   "id": "rogelio-salmona",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1927,
+   "died": 2007,
+   "dates": "1927–2007",
+   "countries": [
+    "CO",
+    "FR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Rogelio Salmona",
+   "movements": [],
+   "institutions": [],
+   "key": "Colombian architect who built with brick, water and courtyards, joining modern form to local materials and the city’s public life.",
+   "more": "Born in Paris in 1927, he grew up in Colombia and worked mainly in Bogotá. His brick buildings use ramps, patios and water channels. The Virgilio Barco Library (2001) is among his best-known public works. He died in Bogotá in 2007.",
+   "es": {
+    "dates": "1927–2007",
+    "key": "Arquitecto colombiano que construyó con ladrillo, agua y patios, uniendo la forma moderna con materiales locales y la vida pública de la ciudad.",
+    "more": "Nacido en París en 1927, creció en Colombia y trabajó sobre todo en Bogotá. Sus edificios de ladrillo usan rampas, patios y canales de agua. La Biblioteca Virgilio Barco (2001) es una de sus obras públicas más conocidas. Murió en Bogotá en 2007."
+   },
+   "refs": [],
+   "short": "Salmona"
+  },
+  {
+   "id": "smiljan-radic",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1965,
+   "dates": "b. 1965",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Smiljan Radic",
+   "movements": [],
+   "institutions": [],
+   "key": "Chilean architect whose small, odd buildings mix rough materials and raw structure with a fairy-tale or ruined air.",
+   "more": "Born in Santiago in 1965, he works in Chile and abroad. His Mestizo restaurant in Santiago (2007) rests on large boulders under a light roof. He also designed the Serpentine Pavilion in London in 2014.",
+   "es": {
+    "dates": "n. 1965",
+    "key": "Arquitecto chileno cuyos edificios pequeños y singulares mezclan materiales toscos y estructura a la vista con un aire de cuento o de ruina.",
+    "more": "Nacido en Santiago en 1965, trabaja en Chile y en el extranjero. Su restaurante Mestizo en Santiago (2007) se apoya en grandes bloques de piedra bajo un techo liviano. También diseñó el Pabellón de la Serpentine en Londres en 2014."
+   },
+   "refs": [],
+   "short": "Radic"
+  },
+  {
+   "id": "frank-gehry",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1929,
+   "dates": "b. 1929",
+   "countries": [
+    "US",
+    "CA"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Frank Gehry",
+   "movements": [
+    "deconstructivism"
+   ],
+   "institutions": [
+    "inst-vitra-design-museum"
+   ],
+   "key": "Canadian-American architect whose curved, fragmented metal buildings, such as the Guggenheim Bilbao, made architecture a city attraction.[1][2]",
+   "more": "Born in Toronto in 1929,[3] he settled in Los Angeles and in 1978 remodelled his own house in Santa Monica with corrugated metal and chain-link.[1][2][3] The Guggenheim Museum Bilbao (1997) and the Walt Disney Concert Hall (2003) brought him worldwide fame.[1][2] He won the Pritzker Prize in 1989.[1][2]",
+   "es": {
+    "dates": "n. 1929",
+    "key": "Arquitecto canadiense-estadounidense cuyos edificios curvos y fragmentados de metal, como el Guggenheim de Bilbao, hicieron de la arquitectura un atractivo urbano.[1][2]",
+    "more": "Nacido en Toronto en 1929,[3] se instaló en Los Ángeles y en 1978 remodeló su propia casa en Santa Mónica con chapa ondulada y malla metálica.[1][2][3] El Museo Guggenheim de Bilbao (1997) y la Walt Disney Concert Hall (2003) le dieron fama mundial.[1][2] Ganó el Premio Pritzker en 1989.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Frank Gehry»",
+     "url": "https://www.britannica.com/biography/Frank-Gehry",
+     "checks": "arquitecto canadiense-estadounidense (1929–2025); casa de Santa Monica 1978 con chapa ondulada y malla; Guggenheim Bilbao 1997; Disney Hall 2003; Pritzker 1989. ⚠ La versión abierta no detalla lugar de nacimiento.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Premio Pritzker, «Frank Gehry» (laureado 1989)",
+     "url": "https://www.pritzkerprize.com/laureates/1989",
+     "checks": "nacido en Canadá en 1929; residencia Gehry (1978, Santa Monica); Guggenheim Bilbao 1997; Pritzker 1989. ⚠ No habla de atractivo urbano ni de muerte.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Academy of Achievement, «Frank O. Gehry»",
+     "url": "https://achievement.org/achiever/frank-gehry/",
+     "checks": "nació en Toronto el 28 de febrero de 1929; se mudó a Los Ángeles en 1947; reconstruyó su casa de Santa Monica con malla metálica y materiales corrugados; Guggenheim Bilbao 1997; murió el 5 de diciembre de 2025. ⚠ Fecha la Disney Hall en 2004 (Britannica: 2003).",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Gehry"
+  },
+  {
+   "id": "zaha-hadid",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1950,
+   "died": 2016,
+   "dates": "1950–2016",
+   "countries": [
+    "IQ",
+    "GB"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Zaha Hadid",
+   "movements": [
+    "deconstructivism"
+   ],
+   "institutions": [],
+   "key": "Iraqi-British architect whose sweeping, dynamic forms made her the first woman to win the Pritzker Prize, in 2004.[1][2]",
+   "more": "Born in Baghdad in 1950,[1][2] she studied at the Architectural Association in London[1][2] and worked with Rem Koolhaas’s office OMA.[1][2] Her first major built work was the Vitra fire station in Weil am Rhein (1993).[1][2] She founded her own London studio[1][2] and died in Miami in 2016.[1]",
+   "es": {
+    "dates": "1950–2016",
+    "key": "Arquitecta iraquí-británica cuyas formas amplias y dinámicas la hicieron la primera mujer en ganar el Premio Pritzker, en 2004.[1][2]",
+    "more": "Nacida en Bagdad en 1950,[1][2] estudió en la Architectural Association de Londres[1][2] y trabajó con la oficina OMA de Rem Koolhaas.[1][2] Su primera obra construida importante fue la estación de bomberos de Vitra en Weil am Rhein (1993).[1][2] Fundó su propio estudio en Londres[1][2] y murió en Miami en 2016.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Zaha Hadid»",
+     "url": "https://www.britannica.com/biography/Zaha-Hadid",
+     "checks": "nació el 31 de octubre de 1950 en Bagdad; murió el 31 de marzo de 2016 en Miami; arquitecta iraquí-británica; Architectural Association; OMA; estación de bomberos de Vitra (1993); estudio propio en Londres; primera mujer con el Pritzker (2004).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Pritzker Architecture Prize, «Zaha Hadid» (laureada 2004)",
+     "url": "https://www.pritzkerprize.com/laureates/2004",
+     "checks": "nacida en Bagdad en 1950; Architectural Association; se unió a OMA; práctica propia en Londres (1980); Vitra (1993); primera mujer Pritzker en 2004. ⚠ No trata su muerte.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Hadid"
+  },
+  {
+   "id": "michael-graves",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1934,
+   "died": 2015,
+   "dates": "1934–2015",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Michael Graves",
+   "movements": [
+    "macro-postmodernism",
+    "postmodern-architecture"
+   ],
+   "institutions": [
+    "inst-alessi"
+   ],
+   "key": "American architect and designer of postmodern buildings and household objects, from the Portland Building to Alessi’s kettle.",
+   "more": "Born in Indianapolis in 1934, he taught at Princeton for decades. His Portland Building (1982) used colour, ornament and symbolic forms in a public office block. He designed the 9093 kettle for Alessi in 1985 and later everyday products for the retailer Target. He died in Princeton in 2015.",
+   "es": {
+    "dates": "1934–2015",
+    "key": "Arquitecto y diseñador estadounidense de edificios y objetos domésticos posmodernos, del Edificio Portland a la tetera de Alessi.",
+    "more": "Nacido en Indianápolis en 1934, enseñó en Princeton durante décadas. Su Edificio Portland (1982) usó color, ornamento y formas simbólicas en un bloque de oficinas públicas. Diseñó la tetera 9093 para Alessi en 1985 y más tarde productos cotidianos para la cadena Target. Murió en Princeton en 2015."
+   },
+   "refs": [],
+   "short": "Graves"
+  },
+  {
+   "id": "rem-koolhaas",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1944,
+   "dates": "b. 1944",
+   "countries": [
+    "NL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Rem Koolhaas",
+   "movements": [
+    "deconstructivism"
+   ],
+   "institutions": [],
+   "key": "Dutch architect and writer, co-founder of OMA, who combined built projects with books on the modern city.[1][2]",
+   "more": "Born in Rotterdam in 1944,[2] he co-founded the Office for Metropolitan Architecture (OMA) in 1975.[2] He wrote Delirious New York (1978)[1][2] and later S,M,L,XL (1995).[1][2] His built work includes the Kunsthal in Rotterdam (1992)[1] and the Seattle Central Library (2004).[1] He won the Pritzker Prize in 2000.[1][2]",
+   "es": {
+    "dates": "n. 1944",
+    "key": "Arquitecto y escritor neerlandés, cofundador de OMA, que combinó obra construida con libros sobre la ciudad moderna.[1][2]",
+    "more": "Nacido en Róterdam en 1944,[2] cofundó la Office for Metropolitan Architecture (OMA) en 1975.[2] Escribió Delirious New York (1978)[1][2] y más tarde S,M,L,XL (1995).[1][2] Entre sus obras construidas están la Kunsthal de Róterdam (1992)[1] y la Biblioteca Central de Seattle (2004).[1] Ganó el Premio Pritzker en 2000.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Rem Koolhaas»",
+     "url": "https://www.britannica.com/biography/Rem-Koolhaas",
+     "checks": "arquitecto neerlandés de edificios y escritos; Seattle Public Library (2004); Kunsthal (1992); Delirious New York (1978) y S, M, L, XL (1995); Premio Pritzker 2000; fundó OMA. ⚠ No da el año de fundación de OMA ni lugar de nacimiento.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Pritzker Architecture Prize, «Rem Koolhaas» (laureado 2000)",
+     "url": "https://www.pritzkerprize.com/laureates/2000",
+     "checks": "nació en Róterdam en 1944; fundó OMA en 1975; Pritzker 2000; Delirious New York (1978) y S, M, L, XL con Bruce Mau. ⚠ Fecha la Kunsthal en 1993 (la ficha dice 1992); no menciona la biblioteca de Seattle.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Koolhaas"
+  },
+  {
+   "id": "renzo-piano",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1937,
+   "died": null,
+   "dates": "1937–",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Renzo Piano",
+   "movements": [
+    "high-tech-architecture"
+   ],
+   "institutions": [],
+   "key": "Italian architect who, with Richard Rogers, designed the Pompidou Centre in Paris and later led his own Genoa-based workshop, known for light, finely detailed buildings.",
+   "more": "Born in Genoa in 1937, he won the competition for the Pompidou Centre with Rogers in 1971; the building opened in 1977. He then worked on his own and founded the Renzo Piano Building Workshop, designing museums, airports and towers with careful attention to structure and light. He received the Pritzker Prize in 1998.",
+   "es": {
+    "dates": "1937–",
+    "key": "Arquitecto italiano que, junto con Richard Rogers, diseñó el Centro Pompidou de París y después dirigió su propio taller con sede en Génova, conocido por edificios livianos y de detalle refinado.",
+    "more": "Nacido en Génova en 1937, ganó con Rogers el concurso del Centro Pompidou en 1971; el edificio se inauguró en 1977. Luego trabajó por su cuenta y fundó el Renzo Piano Building Workshop, con el que proyectó museos, aeropuertos y torres con gran atención a la estructura y la luz. Recibió el premio Pritzker en 1998."
+   },
+   "refs": []
+  },
+  {
+   "id": "richard-rogers",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1933,
+   "died": 2021,
+   "dates": "1933–2021",
+   "countries": [
+    "GB",
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Richard Rogers",
+   "movements": [
+    "high-tech-architecture"
+   ],
+   "institutions": [],
+   "key": "British-Italian architect who co-designed the Pompidou Centre with Renzo Piano and, with Norman Foster, was a leading figure of British high-tech architecture.",
+   "more": "Born in Florence in 1933 and raised in Britain, he won the Pompidou Centre competition with Piano in 1971, with the building opening in 1977. He later designed the Lloyd’s building in London, completed in 1986, and in his later career championed dense, public-minded cities. He received the Pritzker Prize in 2007 and died in London in 2021.",
+   "es": {
+    "dates": "1933–2021",
+    "key": "Arquitecto británico-italiano que codiseñó el Centro Pompidou con Renzo Piano y, junto con Norman Foster, fue una figura central de la arquitectura high-tech británica.",
+    "more": "Nacido en Florencia en 1933 y criado en Gran Bretaña, ganó con Piano el concurso del Centro Pompidou en 1971, y el edificio se inauguró en 1977. Más tarde diseñó el edificio de Lloyd’s en Londres, terminado en 1986, y en su etapa final defendió ciudades densas y pensadas para lo público. Recibió el premio Pritzker en 2007 y murió en Londres en 2021."
+   },
+   "refs": []
+  },
+  {
+   "id": "charles-moore",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1925,
+   "died": 1993,
+   "dates": "1925–1993",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Charles Moore",
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "institutions": [],
+   "key": "American architect of the postmodern years, author of the Piazza d’Italia in New Orleans, whose playful buildings drew on history, place and popular imagery.",
+   "more": "Born in 1925, he taught at several American universities and was a founding partner in the firm behind the Sea Ranch housing in California. His Piazza d’Italia in New Orleans, completed in 1978, became one of the best-known postmodern works for its colourful, theatrical use of classical forms. He died in 1993.",
+   "es": {
+    "dates": "1925–1993",
+    "key": "Arquitecto estadounidense de los años posmodernos, autor de la Piazza d’Italia de Nueva Orleans, cuyos edificios lúdicos se nutrían de la historia, el lugar y las imágenes populares.",
+    "more": "Nacido en 1925, enseñó en varias universidades estadounidenses y fue socio fundador de la oficina detrás del conjunto de viviendas de Sea Ranch, en California. Su Piazza d’Italia de Nueva Orleans, terminada en 1978, se volvió una de las obras posmodernas más conocidas por su uso colorido y teatral de formas clásicas. Murió en 1993."
+   },
+   "refs": []
+  },
+  {
+   "id": "aldo-rossi",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1931,
+   "died": 1997,
+   "dates": "1931–1997",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Aldo Rossi",
+   "movements": [
+    "tendenza"
+   ],
+   "institutions": [],
+   "key": "Italian architect and theorist whose rationalist, typological approach to the city and its memory, set out in The Architecture of the City, shaped postmodern architecture.",
+   "more": "Born in Milan in 1931, he published L’architettura della città in 1966, arguing that the city’s lasting forms carry its collective memory. He built housing and cemeteries as well as the floating Teatro del Mondo for the 1979 Venice Biennale. He received the Pritzker Prize in 1990 and died in 1997.",
+   "es": {
+    "dates": "1931–1997",
+    "key": "Arquitecto y teórico italiano cuyo enfoque racionalista y tipológico de la ciudad y su memoria, expuesto en La arquitectura de la ciudad, marcó la arquitectura posmoderna.",
+    "more": "Nacido en Milán en 1931, publicó L’architettura della città en 1966, donde sostiene que las formas duraderas de la ciudad guardan su memoria colectiva. Construyó viviendas y cementerios, además del Teatro del Mondo flotante para la Bienal de Venecia de 1979. Recibió el premio Pritzker en 1990 y murió en 1997."
+   },
+   "refs": []
+  },
+  {
+   "id": "duany-plater-zyberk",
+   "level": "normal",
+   "kind": "duo",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1949,
+   "died": null,
+   "dates": "Duany b. 1949 · Plater-Zyberk b. 1950",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Andrés Duany and Elizabeth Plater-Zyberk",
+   "movements": [
+    "new-urbanism"
+   ],
+   "institutions": [],
+   "key": "American architects and town planners, founders of the firm DPZ and of the Congress for the New Urbanism, who designed the town of Seaside, Florida.",
+   "more": "Andrés Duany and Elizabeth Plater-Zyberk founded their firm in Miami in 1980. Their plan for Seaside, Florida, begun in the early 1980s, became the best-known example of New Urbanism, with walkable streets, a mix of uses and traditional building types. They were among the founders of the Congress for the New Urbanism in 1993.",
+   "es": {
+    "dates": "Duany n. 1949 · Plater-Zyberk n. 1950",
+    "key": "Arquitectos y urbanistas estadounidenses, fundadores de la oficina DPZ y del Congreso para el Nuevo Urbanismo, que diseñaron el pueblo de Seaside, en Florida.",
+    "more": "Andrés Duany y Elizabeth Plater-Zyberk fundaron su oficina en Miami en 1980. Su plan para Seaside, Florida, iniciado a comienzos de la década de 1980, se volvió el ejemplo más conocido del Nuevo Urbanismo, con calles caminables, mezcla de usos y tipos de edificio tradicionales. Estuvieron entre los fundadores del Congreso para el Nuevo Urbanismo en 1993."
+   },
+   "refs": [],
+   "short": "Duany & Plater-Zyberk"
+  },
+  {
+   "id": "james-stirling",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1926,
+   "died": 1992,
+   "dates": "1926–1992",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "James Stirling",
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "institutions": [],
+   "key": "British architect whose inventive, historically aware buildings, such as the Staatsgalerie in Stuttgart, made him a leading figure of the postmodern years.",
+   "more": "Born in Glasgow in 1926, he first made his name with university buildings in the 1960s, including the Leicester Engineering Building with James Gowan and the Cambridge History Faculty. His Staatsgalerie in Stuttgart, completed in 1984, mixed monumental classical references with bright modern details. He received the Pritzker Prize in 1981 and died in London in 1992.",
+   "es": {
+    "dates": "1926–1992",
+    "key": "Arquitecto británico cuyos edificios inventivos y atentos a la historia, como la Staatsgalerie de Stuttgart, lo convirtieron en una figura central de los años posmodernos.",
+    "more": "Nacido en Glasgow en 1926, se dio a conocer con edificios universitarios en los años sesenta, entre ellos el edificio de Ingeniería de Leicester, con James Gowan, y la Facultad de Historia de Cambridge. Su Staatsgalerie de Stuttgart, terminada en 1984, mezcló referencias clásicas monumentales con detalles modernos de colores vivos. Recibió el premio Pritzker en 1981 y murió en Londres en 1992."
+   },
+   "refs": []
+  },
+  {
+   "id": "philip-johnson",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1906,
+   "died": 2005,
+   "dates": "1906–2005",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Philip Johnson",
+   "movements": [],
+   "institutions": [],
+   "key": "American architect and curator who helped introduce the International Style to the United States and later turned toward historical references with the AT&T Building.[1][3]",
+   "more": "Born in New Haven in 1906, he organized the 1932 exhibition on modern architecture at the Museum of Modern Art with Henry-Russell Hitchcock and designed the Glass House in New Canaan in 1949.[1][2] His AT&T Building in New York, completed in 1984, with its broken pediment, became a symbol of postmodern architecture.[1][2][3] He received the first Pritzker Prize in 1979 and died in 2005.[1][2]",
+   "es": {
+    "dates": "1906–2005",
+    "key": "Arquitecto y curador estadounidense que ayudó a introducir el Estilo Internacional en Estados Unidos y que más tarde se volcó a las referencias históricas con el edificio AT&T.[1][3]",
+    "more": "Nacido en New Haven en 1906, organizó con Henry-Russell Hitchcock la exposición de 1932 sobre arquitectura moderna en el Museo de Arte Moderno y diseñó la Casa de Vidrio en New Canaan en 1949.[1][2] Su edificio AT&T en Nueva York, terminado en 1984, con su frontón quebrado, se volvió un símbolo de la arquitectura posmoderna.[1][2][3] Recibió el primer premio Pritzker en 1979 y murió en 2005.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Premio Pritzker, «Philip Johnson» (laureado 1979)",
+     "url": "https://www.pritzkerprize.com/laureates/1979",
+     "checks": "nació en 1906 y vivió hasta 2005; Glass House en New Canaan, 1949; acuñó «International School» para una exposición del MoMA; edificio AT&T 1984; primer Pritzker en 1979. ⚠ Da Cleveland, Ohio, como lugar de nacimiento (no New Haven).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Glass House, «Philip Johnson Biography»",
+     "url": "https://theglasshouse.org/learn/philip-johnson-biography/",
+     "checks": "nació el 8 de julio de 1906 en Cleveland, Ohio; murió el 25 de enero de 2005; copreparó con Hitchcock la exposición del MoMA de 1932; Glass House 1949; AT&T 1978–84; primer Pritzker 1979. ⚠ Lugar de nacimiento Cleveland, no New Haven.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Philip Johnson»",
+     "url": "https://www.britannica.com/biography/Philip-Johnson",
+     "checks": "defendió el Estilo Internacional y luego fue clave del posmodernismo; Glass House (1949), edificio AT&T (1984) con frontón quebrado; Pritzker 1979. ⚠ La versión abierta no da fechas de vida.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "norman-foster",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1935,
+   "died": null,
+   "dates": "1935–",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Norman Foster",
+   "movements": [
+    "high-tech-architecture"
+   ],
+   "institutions": [],
+   "key": "British architect, the best-known figure of high-tech architecture, whose firm has designed offices, airports and public buildings around the world.[1][2]",
+   "more": "Born in Manchester in 1935,[2] he founded Foster Associates in 1967.[1] His Hongkong and Shanghai Bank headquarters in Hong Kong, completed in 1986,[1] expressed its structure and services on the outside, and he later redesigned the Reichstag in Berlin with a glass dome.[1][2] He received the Pritzker Prize in 1999.[1][2]",
+   "es": {
+    "dates": "1935–",
+    "key": "Arquitecto británico, la figura más conocida de la arquitectura high-tech, cuya oficina ha proyectado oficinas, aeropuertos y edificios públicos en todo el mundo.[1][2]",
+    "more": "Nacido en Manchester en 1935,[2] fundó Foster Associates en 1967.[1] Su sede del Hongkong and Shanghai Bank en Hong Kong, terminada en 1986,[1] mostraba al exterior su estructura y sus instalaciones, y más tarde rediseñó el Reichstag de Berlín con una cúpula de vidrio.[1][2] Recibió el premio Pritzker en 1999.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Norman Foster»",
+     "url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+     "checks": "nació el 1 de junio de 1935 en Manchester; Foster Associates en 1967; HSBC Hong Kong (1986); Reichstag (1999); Pritzker 1999; estilo high-tech. ⚠ No describe la estructura exterior ni la cúpula de vidrio.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Premio Pritzker, «Norman Foster» (laureado 1999)",
+     "url": "https://www.pritzkerprize.com/laureates/1999",
+     "checks": "nació en Manchester en 1935; fundó Foster and Partners en Londres en 1967; obras en HSBC Hong Kong, aeropuerto de Chek Lap Kok, Reichstag; oficinas en más de veinte países; Pritzker 1999. ⚠ No da detalles de la cúpula ni de la estructura vista.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "rafael-moneo",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1937,
+   "died": null,
+   "dates": "1937–",
+   "countries": [
+    "ES"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Rafael Moneo",
+   "movements": [
+    "critical-regionalism"
+   ],
+   "institutions": [],
+   "key": "Spanish architect and teacher whose museums and public buildings join modern design with the memory of the existing city.",
+   "more": "Born in Tudela in 1937, he designed the National Museum of Roman Art in Mérida, completed in 1986, using brick arches that recall Roman construction. He also taught and wrote about architecture, and received the Pritzker Prize in 1996.",
+   "es": {
+    "dates": "1937–",
+    "key": "Arquitecto y docente español cuyos museos y edificios públicos unen el diseño moderno con la memoria de la ciudad existente.",
+    "more": "Nacido en Tudela en 1937, diseñó el Museo Nacional de Arte Romano de Mérida, terminado en 1986, con arcos de ladrillo que recuerdan la construcción romana. También enseñó y escribió sobre arquitectura, y recibió el premio Pritzker en 1996."
+   },
+   "refs": []
+  },
+  {
+   "id": "jean-nouvel",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1945,
+   "died": null,
+   "dates": "1945–",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jean Nouvel",
+   "movements": [],
+   "institutions": [],
+   "key": "French architect whose buildings treat light, transparency and the building’s skin as the main subject of the design.",
+   "more": "Born in Fumel in 1945, he became widely known for the Institut du monde arabe in Paris, completed in 1987, whose south facade has light-sensitive metal screens. He later designed the Fondation Cartier in Paris and many buildings abroad. He received the Pritzker Prize in 2008.",
+   "es": {
+    "dates": "1945–",
+    "key": "Arquitecto francés cuyos edificios tratan la luz, la transparencia y la piel del edificio como tema central del proyecto.",
+    "more": "Nacido en Fumel en 1945, se hizo ampliamente conocido por el Instituto del Mundo Árabe de París, terminado en 1987, cuya fachada sur lleva pantallas metálicas sensibles a la luz. Más tarde diseñó la Fondation Cartier en París y numerosos edificios en el extranjero. Recibió el premio Pritzker en 2008."
+   },
+   "refs": []
+  },
+  {
+   "id": "bernard-tschumi",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1944,
+   "died": null,
+   "dates": "1944–",
+   "countries": [
+    "CH",
+    "FR"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Bernard Tschumi",
+   "movements": [
+    "deconstructivism"
+   ],
+   "institutions": [],
+   "key": "Swiss-French architect and theorist, designer of the Parc de la Villette in Paris and one of the seven architects in the 1988 Deconstructivist Architecture exhibition.",
+   "more": "Born in Lausanne in 1944, he won the competition for the Parc de la Villette in Paris in 1983, laying out the park with a grid of red follies. He wrote influential texts on architecture and events, and later led the architecture school at Columbia University in New York.",
+   "es": {
+    "dates": "1944–",
+    "key": "Arquitecto y teórico franco-suizo, autor del Parc de la Villette de París y uno de los siete arquitectos de la exposición Deconstructivist Architecture de 1988.",
+    "more": "Nacido en Lausanne en 1944, ganó en 1983 el concurso del Parc de la Villette de París, que organizó con una retícula de «folies» rojas. Escribió textos influyentes sobre arquitectura y acontecimientos, y más tarde dirigió la escuela de arquitectura de la Universidad de Columbia, en Nueva York."
+   },
+   "refs": []
+  },
+  {
+   "id": "ieoh-ming-pei",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1917,
+   "died": 2019,
+   "dates": "1917–2019",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "I. M. Pei",
+   "movements": [],
+   "institutions": [],
+   "key": "Chinese-American architect known for museums and public buildings in clean geometric forms, above all the glass pyramid of the Louvre in Paris.",
+   "more": "Born in Guangzhou in 1917, he moved to the United States as a student and later founded his own firm in New York. He designed the East Building of the National Gallery of Art in Washington, opened in 1978, and the Louvre pyramid, completed in 1989. He received the Pritzker Prize in 1983 and died in 2019.",
+   "es": {
+    "dates": "1917–2019",
+    "key": "Arquitecto sino-estadounidense conocido por museos y edificios públicos de geometría limpia, sobre todo la pirámide de vidrio del Louvre en París.",
+    "more": "Nacido en Guangzhou en 1917, se trasladó a Estados Unidos como estudiante y más tarde fundó su propia oficina en Nueva York. Diseñó el Edificio Este de la Galería Nacional de Arte en Washington, inaugurado en 1978, y la pirámide del Louvre, terminada en 1989. Recibió el premio Pritzker en 1983 y murió en 2019."
+   },
+   "refs": []
+  },
+  {
+   "id": "tadao-ando",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1941,
+   "died": null,
+   "dates": "b. 1941",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Tadao Ando",
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "Japanese self-taught architect whose concrete buildings of pure geometry, light and silence made him a world reference of architectural minimalism.",
+   "more": "Born in Osaka in 1941, he trained without a formal architecture degree and opened his own office in Osaka in 1969. He became known for houses and churches in smooth, exposed concrete, such as the Row House in Sumiyoshi (1976) and the Church of the Light in Ibaraki (1989), where a cross-shaped opening lets in daylight. He received the Pritzker Prize in 1995.",
+   "es": {
+    "dates": "n. 1941",
+    "key": "Arquitecto japonés autodidacta cuyos edificios de hormigón, de geometría pura, luz y silencio, lo volvieron una referencia mundial del minimalismo arquitectónico.",
+    "more": "Nacido en Osaka en 1941, se formó sin un título formal de arquitectura y abrió su propia oficina en Osaka en 1969. Se hizo conocido por casas e iglesias de hormigón visto liso, como la Casa Row de Sumiyoshi (1976) y la Iglesia de la Luz en Ibaraki (1989), donde una abertura en forma de cruz deja entrar la luz del día. Recibió el premio Pritzker en 1995."
+   },
+   "refs": []
+  },
+  {
+   "id": "oriol-bohigas",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1925,
+   "died": 2021,
+   "dates": "1925–2021",
+   "countries": [
+    "ES"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Oriol Bohigas",
+   "key": "Catalan architect and urbanist who led the planning of the Olympic Village in Barcelona and shaped the city’s transformation around the 1992 Games.",
+   "more": "Born in Barcelona in 1925, he founded the practice MBM with Josep Martorell and David Mackay, which designed the Olympic Village of 1992. He was also a writer and critic on architecture and a defender of public space as the base of urban renewal in Barcelona. He died in Barcelona in 2021.",
+   "es": {
+    "dates": "1925–2021",
+    "key": "Arquitecto y urbanista catalán que dirigió el proyecto de la Villa Olímpica de Barcelona e impulsó la transformación de la ciudad en torno a los Juegos de 1992.",
+    "more": "Nacido en Barcelona en 1925, fundó con Josep Martorell y David Mackay el estudio MBM, que proyectó la Villa Olímpica de 1992. Fue también escritor y crítico de arquitectura y defensor del espacio público como base de la renovación urbana de Barcelona. Murió en Barcelona en 2021."
+   },
+   "refs": []
+  },
+  {
+   "id": "glenn-murcutt",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1936,
+   "died": null,
+   "dates": "b. 1936",
+   "countries": [
+    "AU"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Glenn Murcutt",
+   "movements": [
+    "critical-regionalism"
+   ],
+   "key": "Australian architect of light, small buildings adapted to climate and landscape, an example of critical regionalism outside Europe.",
+   "more": "Born in London in 1936 and raised in Australia, he has worked mostly alone on houses and small buildings in steel, glass and timber that respond to sun, wind and rain, with features such as louvres and corrugated metal roofs. The Marie Short House (1975) is an early example. He received the Pritzker Prize in 2002.",
+   "es": {
+    "dates": "n. 1936",
+    "key": "Arquitecto australiano de edificios livianos y pequeños, adaptados al clima y al paisaje, ejemplo de regionalismo crítico fuera de Europa.",
+    "more": "Nacido en Londres en 1936 y criado en Australia, ha trabajado sobre todo solo en casas y edificios pequeños de acero, vidrio y madera que responden al sol, el viento y la lluvia, con elementos como celosías y cubiertas de chapa ondulada. La Casa Marie Short (1975) es un ejemplo temprano. Recibió el premio Pritzker en 2002."
+   },
+   "refs": []
+  },
+  {
+   "id": "shigeru-ban",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1957,
+   "died": null,
+   "dates": "b. 1957",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Shigeru Ban",
+   "movements": [
+    "participatory-social-architecture"
+   ],
+   "key": "Japanese architect who builds with paper tubes and other humble materials, in permanent buildings and in emergency shelters for disaster victims.",
+   "more": "Born in Tokyo in 1957, he began using cardboard tubes as a structural material in the 1980s. After the Kobe earthquake of 1995 and other disasters, including Rwanda’s refugee camps, he designed low-cost temporary shelters and housing, and founded the Voluntary Architects’ Network. The Centre Pompidou-Metz (2010) is among his best-known museums. He received the Pritzker Prize in 2014.",
+   "es": {
+    "dates": "n. 1957",
+    "key": "Arquitecto japonés que construye con tubos de papel y otros materiales humildes, tanto en edificios permanentes como en refugios de emergencia para víctimas de desastres.",
+    "more": "Nacido en Tokio en 1957, empezó a usar tubos de cartón como material estructural en los años ochenta. Tras el terremoto de Kobe de 1995 y otros desastres, entre ellos los campamentos de refugiados de Ruanda, diseñó refugios y viviendas temporales de bajo costo, y fundó la Red de Arquitectos Voluntarios. El Centre Pompidou-Metz (2010) está entre sus museos más conocidos. Recibió el premio Pritzker en 2014."
+   },
+   "refs": []
+  },
+  {
+   "id": "peter-zumthor",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1943,
+   "died": null,
+   "dates": "b. 1943",
+   "countries": [
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Peter Zumthor",
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "Swiss architect whose buildings of stone, wood and concrete work through atmosphere, material and the experience of the body.",
+   "more": "Born in Basel in 1943, he trained as a cabinetmaker before studying design and architecture, and since 1979 has worked from Haldenstein in Graubünden. His best-known works include the thermal baths at Vals (1996) and the Kunsthaus Bregenz (1997). He received the Pritzker Prize in 2009.",
+   "es": {
+    "dates": "n. 1943",
+    "key": "Arquitecto suizo cuyos edificios de piedra, madera y hormigón trabajan con la atmósfera, la materia y la experiencia del cuerpo.",
+    "more": "Nacido en Basilea en 1943, se formó como ebanista antes de estudiar diseño y arquitectura, y desde 1979 trabaja desde Haldenstein, en los Grisones. Entre sus obras más conocidas están las termas de Vals (1996) y el Kunsthaus Bregenz (1997). Recibió el premio Pritzker en 2009."
+   },
+   "refs": []
+  },
+  {
+   "id": "cesar-pelli",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1926,
+   "died": 2019,
+   "dates": "1926–2019",
+   "countries": [
+    "AR",
+    "US"
+   ],
+   "regions": [
+    "north-america",
+    "latin-america"
+   ],
+   "name": "César Pelli",
+   "movements": [],
+   "key": "Argentine-born American architect of skyscrapers and large public buildings, among them the Petronas Towers in Kuala Lumpur.",
+   "more": "Born in Tucumán, Argentina, in 1926, he moved to the United States in 1952 and later worked from New Haven, Connecticut. He designed the Petronas Towers in Kuala Lumpur (1998), which were the tallest buildings in the world when completed, and the World Financial Center in New York. He died in New Haven in 2019.",
+   "es": {
+    "dates": "1926–2019",
+    "key": "Arquitecto argentino-estadounidense de rascacielos y grandes edificios públicos, entre ellos las Torres Petronas de Kuala Lumpur.",
+    "more": "Nacido en Tucumán, Argentina, en 1926, se trasladó a Estados Unidos en 1952 y trabajó después desde New Haven, Connecticut. Diseñó las Torres Petronas de Kuala Lumpur (1998), que al terminarse eran los edificios más altos del mundo, y el World Financial Center de Nueva York. Murió en New Haven en 2019."
+   },
+   "refs": []
+  },
+  {
+   "id": "daniel-libeskind",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1946,
+   "died": null,
+   "dates": "b. 1946",
+   "countries": [
+    "PL",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Daniel Libeskind",
+   "movements": [
+    "deconstructivism"
+   ],
+   "key": "Polish-born American architect of angular, symbolic buildings, among them the Jewish Museum in Berlin, who showed work at the MoMA’s 1988 deconstructivist exhibition.",
+   "more": "Born in Łódź, Poland, in 1946, he emigrated to the United States and trained as an architect after studying music. He was one of the seven architects in the 1988 ‘Deconstructivist Architecture’ show at the Museum of Modern Art. His Jewish Museum in Berlin opened in 2001, and he won the competition for the master plan of the World Trade Center site in New York.",
+   "es": {
+    "dates": "n. 1946",
+    "key": "Arquitecto polaco-estadounidense de edificios angulosos y simbólicos, entre ellos el Museo Judío de Berlín, que participó en la muestra deconstructivista del MoMA de 1988.",
+    "more": "Nacido en Łódź, Polonia, en 1946, emigró a Estados Unidos y se formó como arquitecto tras estudiar música. Fue uno de los siete arquitectos de la muestra «Deconstructivist Architecture» del Museo de Arte Moderno en 1988. Su Museo Judío de Berlín abrió en 2001, y ganó el concurso del plan maestro del sitio del World Trade Center en Nueva York."
+   },
+   "refs": []
+  },
+  {
+   "id": "alvaro-siza",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1933,
+   "died": null,
+   "dates": "b. 1933",
+   "countries": [
+    "PT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Álvaro Siza",
+   "movements": [
+    "critical-regionalism"
+   ],
+   "key": "Portuguese architect whose quiet, carefully sited buildings made him a leading figure of critical regionalism.",
+   "more": "Born in Matosinhos in 1933, he works mostly in and around Porto. His early Boa Nova Tea House (1963) in Leça da Palmeira fits modern forms into the rocks of the coast, and he later designed housing, universities and museums. He received the Pritzker Prize in 1992.",
+   "es": {
+    "dates": "n. 1933",
+    "key": "Arquitecto portugués cuyos edificios sobrios y cuidadosamente emplazados lo convirtieron en una figura principal del regionalismo crítico.",
+    "more": "Nacido en Matosinhos en 1933, trabaja sobre todo en Oporto y sus alrededores. Su temprana Casa de Té de Boa Nova (1963), en Leça da Palmeira, inserta formas modernas en las rocas de la costa, y más tarde proyectó viviendas, universidades y museos. Recibió el premio Pritzker en 1992."
+   },
+   "refs": []
+  },
+  {
+   "id": "herzog-de-meuron",
+   "level": "essential",
+   "kind": "duo",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1950,
+   "died": null,
+   "dates": "est. 1978",
+   "countries": [
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Herzog & de Meuron",
+   "movements": [],
+   "key": "Swiss practice of Jacques Herzog and Pierre de Meuron, whose Tate Modern and Beijing National Stadium made them authors of global landmark buildings.[1][2]",
+   "more": "Jacques Herzog and Pierre de Meuron, both born in 1950,[1][2] founded their office in Basel in 1978.[1][2] They are known for attention to surfaces and materials[1][2] and for large cultural buildings, including the conversion of Bankside power station into Tate Modern in London (2000)[2] and the National Stadium in Beijing (2008).[1] They received the Pritzker Prize in 2001.[1][2]",
+   "es": {
+    "dates": "fund. 1978",
+    "key": "Estudio suizo de Jacques Herzog y Pierre de Meuron, cuyos Tate Modern y Estadio Nacional de Pekín los hicieron autores de edificios emblemáticos globales.[1][2]",
+    "more": "Jacques Herzog y Pierre de Meuron, ambos nacidos en 1950,[1][2] fundaron su oficina en Basilea en 1978.[1][2] Son conocidos por su atención a las superficies y los materiales[1][2] y por grandes edificios culturales, entre ellos la transformación de la central eléctrica de Bankside en la Tate Modern de Londres (2000)[2] y el Estadio Nacional de Pekín (2008).[1] Recibieron el premio Pritzker en 2001.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Jacques Herzog and Pierre de Meuron»",
+     "url": "https://www.britannica.com/biography/Jacques-Herzog-and-Pierre-de-Meuron",
+     "checks": "ambos nacidos en Basilea en 1950 (Jacques 19 de abril, Pierre 8 de mayo); firma fundada en 1978; Pritzker 2001; experimentación con superficies y materiales; Estadio Nacional de Pekín (Juegos de 2008) y Tate Modern. ⚠ No da el año de apertura de Tate Modern.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Pritzker Architecture Prize, «Jacques Herzog and Pierre de Meuron» (laureados 2001)",
+     "url": "https://www.pritzkerprize.com/laureates/2001",
+     "checks": "nacidos en Basilea en 1950; práctica fundada en 1978; Pritzker 2001; conversión de la central de Bankside en Tate Modern, terminada en 2000; el jurado destaca su trabajo sobre la 'envoltura' del edificio. ⚠ No menciona el estadio de Pekín.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "toyo-ito",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1941,
+   "died": null,
+   "dates": "b. 1941",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Toyo Ito",
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "Japanese architect whose work explores lightness, transparency and fluid space, best known for the Sendai Mediatheque.",
+   "more": "Born in 1941 to Japanese parents in Seoul and raised in Japan, he opened his own office in Tokyo in the early 1970s. The Sendai Mediatheque (2001) has floor plates held up by clusters of steel tubes and a glass facade. He received the Pritzker Prize in 2013.",
+   "es": {
+    "dates": "n. 1941",
+    "key": "Arquitecto japonés cuya obra explora la ligereza, la transparencia y el espacio fluido, conocido sobre todo por la Mediateca de Sendai.",
+    "more": "Nacido en 1941 en Seúl, de padres japoneses, y criado en Japón, abrió su propia oficina en Tokio a comienzos de los años setenta. La Mediateca de Sendai (2001) tiene losas sostenidas por haces de tubos de acero y una fachada de vidrio. Recibió el premio Pritzker en 2013."
+   },
+   "refs": []
+  },
+  {
+   "id": "francis-kere",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1965,
+   "died": null,
+   "dates": "b. 1965",
+   "countries": [
+    "BF"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Francis Kéré",
+   "movements": [
+    "participatory-social-architecture"
+   ],
+   "key": "Architect from Burkina Faso who builds schools and public buildings with local communities and materials in the Sahel.",
+   "more": "Born in Gando, Burkina Faso, in 1965, he studied architecture in Berlin and founded his practice there. His first major work was the primary school in his home village of Gando (2001), built with clay and with the labour of the community. He received the Pritzker Prize in 2022.",
+   "es": {
+    "dates": "n. 1965",
+    "key": "Arquitecto de Burkina Faso que construye escuelas y edificios públicos junto con comunidades y materiales locales del Sahel.",
+    "more": "Nacido en Gando, Burkina Faso, en 1965, estudió arquitectura en Berlín y fundó allí su oficina. Su primera obra importante fue la escuela primaria de su aldea natal, Gando (2001), construida con arcilla y con el trabajo de la comunidad. Recibió el premio Pritzker en 2022."
+   },
+   "refs": []
+  },
+  {
+   "id": "sanaa",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1995,
+   "died": null,
+   "dates": "1995–",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "SANAA (Kazuyo Sejima and Ryue Nishizawa)",
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "Japanese architecture office founded in Tokyo in 1995 by Kazuyo Sejima and Ryue Nishizawa, known for light, transparent buildings and winner of the 2010 Pritzker Prize.",
+   "more": "Their buildings, such as the 21st Century Museum of Contemporary Art in Kanazawa, the Rolex Learning Center in Lausanne and the New Museum in New York, use thin structures, glass and white surfaces to dissolve the sense of mass. Their work made lightness and transparency a reference for Western architecture, as museums and universities in Europe and the United States commissioned them.",
+   "es": {
+    "dates": "1995–",
+    "key": "Oficina de arquitectura japonesa fundada en Tokio en 1995 por Kazuyo Sejima y Ryue Nishizawa, conocida por sus edificios livianos y transparentes y ganadora del Premio Pritzker 2010.",
+    "more": "Sus edificios, como el Museo de Arte Contemporáneo del Siglo XXI en Kanazawa, el Rolex Learning Center en Lausana y el New Museum en Nueva York, usan estructuras delgadas, vidrio y superficies blancas para disolver la sensación de masa. Su obra hizo de la ligereza y la transparencia una referencia para la arquitectura occidental, pues museos y universidades de Europa y Estados Unidos les encargaron proyectos."
+   },
+   "refs": [],
+   "short": "SANAA"
+  },
+  {
+   "id": "peter-eisenman",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1932,
+   "died": null,
+   "dates": "1932–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Peter Eisenman",
+   "movements": [
+    "deconstructivism"
+   ],
+   "key": "American architect and theorist, a formalist who explored architecture as a system of its own rules and designed the Memorial to the Murdered Jews of Europe in Berlin.",
+   "more": "Born in Newark in 1932, he wrote and taught on the autonomy of architectural form and was one of the architects included in the 1988 Deconstructivist Architecture exhibition at the MoMA. His Wexner Center in Columbus (1989) and the Berlin memorial, opened in 2005 as a field of concrete slabs, are among his best-known works.",
+   "es": {
+    "dates": "1932–",
+    "key": "Arquitecto y teórico estadounidense, formalista que exploró la arquitectura como un sistema con reglas propias y que diseñó el Memorial a los Judíos Asesinados de Europa en Berlín.",
+    "more": "Nacido en Newark en 1932, escribió y enseñó sobre la autonomía de la forma arquitectónica y fue uno de los arquitectos incluidos en la muestra Deconstructivist Architecture del MoMA en 1988. El Wexner Center de Columbus (1989) y el memorial de Berlín, inaugurado en 2005 como un campo de losas de hormigón, están entre sus obras más conocidas."
+   },
+   "refs": []
+  },
+  {
+   "id": "pezo-von-ellrichshausen",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 2002,
+   "died": null,
+   "dates": "2002–",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Pezo von Ellrichshausen",
+   "key": "Architecture office founded in Concepción, Chile, in 2002 by Mauricio Pezo and Sofia von Ellrichshausen, known for compact buildings of strict geometry.",
+   "more": "Working from Concepción, they have built mostly small houses and pavilions in southern Chile with simple geometric volumes in exposed concrete. Casa Poli (2005), on the coast at Coliumo, brought them international attention and exhibitions abroad.",
+   "es": {
+    "dates": "2002–",
+    "key": "Oficina de arquitectura fundada en Concepción, Chile, en 2002 por Mauricio Pezo y Sofia von Ellrichshausen, conocida por edificios compactos de geometría estricta.",
+    "more": "Trabajando desde Concepción, han construido sobre todo casas y pabellones pequeños en el sur de Chile, con volúmenes geométricos simples en hormigón a la vista. La Casa Poli (2005), en la costa de Coliumo, les dio atención internacional y exposiciones en el extranjero."
+   },
+   "refs": [],
+   "short": "Pezo–Ellrichshausen"
+  },
+  {
+   "id": "giancarlo-mazzanti",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1963,
+   "died": null,
+   "dates": "1963–",
+   "countries": [
+    "CO"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Giancarlo Mazzanti",
+   "movements": [
+    "participatory-social-architecture"
+   ],
+   "key": "Colombian architect, born in Bogotá in 1963, known for libraries, schools and other public facilities in Colombia.",
+   "more": "His office, El Equipo Mazzanti, has designed social facilities in Colombian cities, among them the España Library Park in Medellín (2007). He treats the public building as a tool for social inclusion in neighbourhoods with few services.",
+   "es": {
+    "dates": "1963–",
+    "key": "Arquitecto colombiano, nacido en Bogotá en 1963, conocido por bibliotecas, colegios y otros equipamientos públicos en Colombia.",
+    "more": "Su oficina, El Equipo Mazzanti, ha diseñado equipamientos sociales en ciudades colombianas, entre ellos el Parque Biblioteca España en Medellín (2007). Concibe el edificio público como una herramienta de inclusión social en barrios con pocos servicios."
+   },
+   "refs": []
+  },
+  {
+   "id": "wang-shu",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1963,
+   "died": null,
+   "dates": "1963–",
+   "countries": [
+    "CN"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Wang Shu",
+   "movements": [
+    "critical-regionalism"
+   ],
+   "key": "Chinese architect, born in 1963, winner of the 2012 Pritzker Prize for buildings that reuse old materials and draw on Chinese tradition.",
+   "more": "With his wife Lu Wenyu he founded the Amateur Architecture Studio in Hangzhou in 1997. His Ningbo History Museum (2008) is clad in bricks and tiles salvaged from demolished villages, a response to the rapid urbanisation of China. Through the Pritzker and international exhibitions his reuse of local materials became a reference outside Asia for a regionalism that rejects both imitation and erasure of the past.",
+   "es": {
+    "dates": "1963–",
+    "key": "Arquitecto chino, nacido en 1963, ganador del Premio Pritzker 2012 por edificios que reutilizan materiales antiguos y se apoyan en la tradición china.",
+    "more": "Junto con su esposa Lu Wenyu fundó en Hangzhou en 1997 el Amateur Architecture Studio. Su Museo de Historia de Ningbó (2008) está revestido con ladrillos y tejas recuperados de aldeas demolidas, una respuesta a la urbanización veloz de China. Por el Pritzker y las exposiciones internacionales, su reutilización de materiales locales se volvió una referencia fuera de Asia para un regionalismo que rechaza tanto la imitación como el borrado del pasado."
+   },
+   "refs": []
+  },
+  {
+   "id": "adrian-smith",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1944,
+   "died": null,
+   "dates": "1944–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Adrian Smith",
+   "movements": [],
+   "key": "American architect, born in 1944, who designed record-height skyscrapers while at Skidmore, Owings & Merrill, among them the Burj Khalifa in Dubai.",
+   "more": "He worked for decades at SOM in Chicago, where he was the design partner of the Burj Khalifa in Dubai, completed in 2010 and then the tallest building in the world. In 2006 he left to found his own firm, Adrian Smith + Gordon Gill, which also designs very tall towers.",
+   "es": {
+    "dates": "1944–",
+    "key": "Arquitecto estadounidense, nacido en 1944, que diseñó rascacielos de altura récord en Skidmore, Owings & Merrill, entre ellos el Burj Khalifa de Dubái.",
+    "more": "Trabajó décadas en SOM en Chicago, donde fue el socio de diseño del Burj Khalifa de Dubái, terminado en 2010 y entonces el edificio más alto del mundo. En 2006 se fue para fundar su propia oficina, Adrian Smith + Gordon Gill, que también proyecta torres muy altas."
+   },
+   "refs": []
+  },
+  {
+   "id": "lacaton-vassal",
+   "level": "normal",
+   "kind": "duo",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1955,
+   "died": null,
+   "dates": "",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Anne Lacaton and Jean-Philippe Vassal",
+   "movements": [
+    "green-architecture"
+   ],
+   "key": "French architecture office of Anne Lacaton and Jean-Philippe Vassal, winners of the 2021 Pritzker Prize, who argue for transforming existing buildings instead of demolishing them.",
+   "more": "Founded in Paris in 1987, they add space, light and balconies to existing housing blocks, as in the transformation of the Tour Bois-le-Prêtre in Paris with Frédéric Druot and Christophe Hutin (2011). Their position, that demolition is a waste of resources and of lives, reduced the impact of construction and reached a wide public with the Pritzker.",
+   "es": {
+    "dates": "",
+    "key": "Oficina de arquitectura francesa de Anne Lacaton y Jean-Philippe Vassal, ganadores del Premio Pritzker 2021, que defienden transformar los edificios existentes en vez de demolerlos.",
+    "more": "Fundada en París en 1987, agregan espacio, luz y balcones a bloques de vivienda existentes, como en la transformación de la Tour Bois-le-Prêtre en París con Frédéric Druot y Christophe Hutin (2011). Su postura, que demoler es un despilfarro de recursos y de vidas, redujo el impacto de la construcción y llegó a un público amplio con el Pritzker."
+   },
+   "refs": [],
+   "short": "Lacaton & Vassal"
+  },
+  {
+   "id": "stefano-boeri",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1956,
+   "died": null,
+   "dates": "1956–",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Stefano Boeri",
+   "movements": [
+    "green-architecture"
+   ],
+   "key": "Italian architect, born in Milan in 1956, author of the Bosco Verticale in Milan and promoter of urban forestation.",
+   "more": "His Bosco Verticale in Milan, two residential towers completed in 2014 with trees and shrubs on their balconies, became an image of green architecture. He has since proposed putting vegetation into cities as a way to cool them and improve air quality.",
+   "es": {
+    "dates": "1956–",
+    "key": "Arquitecto italiano, nacido en Milán en 1956, autor del Bosco Verticale de Milán e impulsor de la forestación urbana.",
+    "more": "Su Bosco Verticale de Milán, dos torres residenciales terminadas en 2014 con árboles y arbustos en los balcones, se volvió una imagen de la arquitectura verde. Desde entonces ha propuesto incorporar vegetación a las ciudades para refrescarlas y mejorar la calidad del aire."
+   },
+   "refs": []
+  },
+  {
+   "id": "giorgio-armani",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1934,
+   "died": 2025,
+   "dates": "1934–2025",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Giorgio Armani",
+   "key": "Italian fashion designer who founded his house in 1975 and made the soft, unstructured jacket the basis of the modern power suit.[1]",
+   "more": "Born in Piacenza in 1934,[2] he founded Giorgio Armani in Milan in 1975 with Sergio Galeotti.[1][3] His jackets without stiff lining and in muted colours changed men’s and women’s tailoring, and the suits he made for the film American Gigolo (1980) spread his style in the United States.[1]",
+   "es": {
+    "dates": "1934–2025",
+    "key": "Diseñador de moda italiano que fundó su casa en 1975 e hizo de la chaqueta blanda y sin estructura la base del traje de poder moderno.[1]",
+    "more": "Nacido en Piacenza en 1934,[2] fundó Giorgio Armani en Milán en 1975 con Sergio Galeotti.[1][3] Sus chaquetas sin forro rígido y de colores apagados cambiaron la sastrería de hombres y mujeres, y los trajes que hizo para la película American Gigolo (1980) difundieron su estilo en Estados Unidos.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Giorgio Armani»",
+     "url": "https://www.britannica.com/biography/Giorgio-Armani",
+     "checks": "nació el 11 de julio de 1934 en Piacenza; murió en septiembre de 2025 en Milán; fundó su casa en 1975 con Sergio Galeotti; chaquetas sin estructura; American Gigolo (1980). ⚠ No confirma «forro rígido», «colores apagados», «traje de poder» ni la difusión en EE. UU.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Art Newspaper, «Giorgio Armani, designer who changed how museums engage with fashion, has died aged 91»",
+     "url": "https://www.theartnewspaper.com/2025/09/05/giorgio-armani-designer-who-changed-how-museums-engage-with-fashion-has-died-aged-91",
+     "checks": "nació en Piacenza en 1934; fundó su marca en 1975 con Sergio Galeotti; murió a los 91 años en 2025. ⚠ No detalla chaquetas ni American Gigolo.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Guggenheim Bilbao, «Giorgio Armani»",
+     "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/giorgio-armani-2",
+     "checks": "nació en 1934 en Piacenza; empresa fundada en 1975 con Galeotti; asociado a American Gigolo. ⚠ No confirma Milán como lugar de fundación.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "issey-miyake",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1938,
+   "died": 2022,
+   "dates": "1938–2022",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Issey Miyake",
+   "key": "Japanese fashion designer who made textile innovation, such as pleated and one-piece cloth, the core of his clothes.",
+   "more": "Born in Hiroshima in 1938, he founded his own studio in Tokyo in 1970. His Pleats Please line (1993) used permanently pleated polyester, and A-POC (1998), with Dai Fujiwara, produced clothing from a tube of cloth cut by the buyer. His work showed Western fashion that garments could be conceived from the fabric and the process, not from the cut of European tailoring.",
+   "es": {
+    "dates": "1938–2022",
+    "key": "Diseñador de moda japonés que hizo de la innovación textil, como las telas plisadas y las prendas de una pieza, el centro de su ropa.",
+    "more": "Nacido en Hiroshima en 1938, fundó su propio estudio en Tokio en 1970. Su línea Pleats Please (1993) usó poliéster plisado de forma permanente, y A-POC (1998), con Dai Fujiwara, produjo ropa a partir de un tubo de tela que quien compra corta. Su obra mostró a la moda occidental que las prendas podían concebirse desde la tela y el proceso, y no desde el corte de la sastrería europea."
+   },
+   "refs": [],
+   "movements": [
+    "japanese-avant-garde-fashion"
+   ]
+  },
+  {
+   "id": "stella-mccartney",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1971,
+   "died": null,
+   "dates": "1971–",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Stella McCartney",
+   "key": "British fashion designer, born in London in 1971, who built her label around refusing leather and fur and promoting more sustainable materials.",
+   "more": "She launched her own house in 2001, in partnership with the Gucci group, and from the start made no leather or fur. She has since promoted alternative materials and a more responsible production in luxury fashion.",
+   "es": {
+    "dates": "1971–",
+    "key": "Diseñadora de moda británica, nacida en Londres en 1971, que construyó su marca sobre el rechazo del cuero y la piel y la promoción de materiales más sostenibles.",
+    "more": "Lanzó su propia casa en 2001, en sociedad con el grupo Gucci, y desde el comienzo no usó cuero ni piel. Desde entonces ha promovido materiales alternativos y una producción más responsable en la moda de lujo."
+   },
+   "refs": []
+  },
+  {
+   "id": "iris-van-herpen",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1984,
+   "died": null,
+   "dates": "1984–",
+   "countries": [
+    "NL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Iris van Herpen",
+   "key": "Dutch fashion designer who joined the haute couture calendar and made digital fabrication, including 3D printing, part of couture.",
+   "more": "She founded her own label in Amsterdam in 2007 and has shown on the Paris haute couture calendar since 2011. Her dresses combine hand craft with 3D printing, laser cutting and other digital methods, often in collaboration with architects and scientists. Born in 1984.",
+   "es": {
+    "dates": "1984–",
+    "key": "Diseñadora de moda neerlandesa que se incorporó al calendario de alta costura y convirtió la fabricación digital, incluida la impresión 3D, en parte de la costura.",
+    "more": "Fundó su propia casa en Ámsterdam en 2007 y presenta en el calendario de alta costura de París desde 2011. Sus vestidos combinan el trabajo manual con la impresión 3D, el corte láser y otros métodos digitales, a menudo en colaboración con arquitectos y científicos. Nació en 1984."
+   },
+   "refs": []
+  },
+  {
+   "id": "virgil-abloh",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion",
+    "graphic"
+   ],
+   "born": 1980,
+   "died": 2021,
+   "dates": "1980–2021",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Virgil Abloh",
+   "key": "American designer who took streetwear into luxury fashion, founding Off-White and becoming men’s artistic director at Louis Vuitton in 2018.",
+   "more": "Trained in civil engineering and architecture, he worked with Kanye West before founding the label Off-White in the early 2010s. In 2018 he became artistic director of menswear at Louis Vuitton, where he brought street codes into a luxury house. He died in 2021 at 41, having been born in 1980.",
+   "es": {
+    "dates": "1980–2021",
+    "key": "Diseñador estadounidense que llevó el streetwear a la moda de lujo, fundador de Off-White y director artístico de la ropa masculina de Louis Vuitton desde 2018.",
+    "more": "Formado en ingeniería civil y arquitectura, trabajó con Kanye West antes de fundar la marca Off-White a comienzos de la década de 2010. En 2018 pasó a ser director artístico de la línea masculina de Louis Vuitton, donde llevó los códigos de la calle a una casa de lujo. Murió en 2021, a los 41 años; había nacido en 1980."
+   },
+   "refs": [],
+   "movements": [
+    "streetwear"
+   ]
+  },
+  {
+   "id": "rob-janoff",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1954,
+   "died": null,
+   "dates": "1954–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Rob Janoff",
+   "institutions": [
+    "inst-apple"
+   ],
+   "key": "American graphic designer who drew Apple’s bitten-apple logo with the rainbow stripes in 1977.",
+   "more": "Working as art director at the Regis McKenna agency in Silicon Valley, he designed the apple-with-a-bite logo for Apple in 1977, first in rainbow colours. The mark replaced Apple’s earlier, more illustrative emblem and became one of the best-known logos in the world. Born in 1954.",
+   "es": {
+    "dates": "1954–",
+    "key": "Diseñador gráfico estadounidense que dibujó en 1977 el logotipo de la manzana mordida de Apple con franjas de arcoíris.",
+    "more": "Como director de arte de la agencia Regis McKenna en Silicon Valley, diseñó en 1977 el logotipo de la manzana mordida para Apple, al principio en colores de arcoíris. La marca reemplazó al emblema anterior de Apple, más ilustrativo, y se convirtió en uno de los logotipos más conocidos del mundo. Nació en 1954."
+   },
+   "refs": []
+  },
+  {
+   "id": "gilbert-baker",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1951,
+   "died": 2017,
+   "dates": "1951–2017",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Gilbert Baker",
+   "key": "American artist and activist who designed the rainbow flag for San Francisco in 1978.",
+   "more": "Baker, an artist and activist in San Francisco, designed the rainbow flag in 1978 for the city’s gay freedom celebration, first with eight coloured stripes. The flag later lost some stripes for reasons of production and became the common emblem of the LGBT movement. Born in 1951, he died in New York in 2017.",
+   "es": {
+    "dates": "1951–2017",
+    "key": "Artista y activista estadounidense que diseñó en 1978 la bandera arcoíris para San Francisco.",
+    "more": "Baker, artista y activista en San Francisco, diseñó la bandera arcoíris en 1978 para la celebración de la libertad gay de la ciudad, al principio con ocho franjas de colores. Más tarde la bandera perdió algunas franjas por razones de producción y se volvió el emblema común del movimiento LGBT. Nació en 1951 y murió en Nueva York en 2017."
+   },
+   "refs": []
+  },
+  {
+   "id": "javier-mariscal",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1950,
+   "died": null,
+   "dates": "1950–",
+   "countries": [
+    "ES"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Javier Mariscal",
+   "key": "Spanish designer and illustrator who drew Cobi, the mascot of the Barcelona 1992 Olympic Games.",
+   "more": "Born in Valencia in 1950 and based in Barcelona, Mariscal is an illustrator, graphic designer and furniture designer. He drew Cobi, a cubist-style dog, as the mascot of the 1992 Barcelona Olympics, a character used across merchandise and media. He later founded the studio Estudio Mariscal.",
+   "es": {
+    "dates": "1950–",
+    "key": "Diseñador e ilustrador español que dibujó a Cobi, la mascota de los Juegos Olímpicos de Barcelona 1992.",
+    "more": "Nacido en Valencia en 1950 y radicado en Barcelona, Mariscal es ilustrador, diseñador gráfico y diseñador de muebles. Dibujó a Cobi, un perro de estilo cubista, como mascota de los Juegos Olímpicos de Barcelona 1992, un personaje usado en todo tipo de productos y medios. Más tarde fundó el Estudio Mariscal."
+   },
+   "refs": []
+  },
+  {
+   "id": "erik-spiekermann",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1947,
+   "died": null,
+   "dates": "1947–",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Erik Spiekermann",
+   "key": "German typographer and designer of FF Meta who co-founded MetaDesign and FontShop.",
+   "more": "Born in 1947, he founded the design firm MetaDesign in Berlin in 1979 and, with Joan Spiekermann, the font retailer FontShop in 1989, which sold fonts by independent designers. He designed the typeface FF Meta, released by FontFont in the early 1990s, and wrote on typography and design. He later worked in his own studios.",
+   "es": {
+    "dates": "1947–",
+    "key": "Tipógrafo y diseñador alemán, autor de FF Meta y cofundador de MetaDesign y FontShop.",
+    "more": "Nacido en 1947, fundó el estudio MetaDesign en Berlín en 1979 y, con Joan Spiekermann, la tienda de tipografías FontShop en 1989, que vendía fuentes de diseñadores independientes. Diseñó la tipografía FF Meta, publicada por FontFont a comienzos de los años noventa, y escribió sobre tipografía y diseño. Más tarde trabajó en estudios propios."
+   },
+   "refs": []
+  },
+  {
+   "id": "shigetaka-kurita",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1972,
+   "died": null,
+   "dates": "1972–",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Shigetaka Kurita",
+   "key": "Japanese designer who drew the first set of emoji in 1999 for the mobile service of NTT Docomo.",
+   "more": "Kurita, born in 1972, worked on the i-mode mobile internet service of NTT Docomo in Japan. In 1999 he drew a set of 176 pictograms of 12 by 12 pixels so that short messages could carry weather, transport and feelings in little space. His set later entered the collection of the Museum of Modern Art and was a base for the emoji used worldwide.",
+   "es": {
+    "dates": "1972–",
+    "key": "Diseñador japonés que dibujó en 1999 el primer conjunto de emoji para el servicio móvil de NTT Docomo.",
+    "more": "Kurita, nacido en 1972, trabajó en el servicio de internet móvil i-mode de NTT Docomo en Japón. En 1999 dibujó un conjunto de 176 pictogramas de 12 por 12 píxeles para que los mensajes cortos pudieran llevar clima, transporte y sentimientos en poco espacio. Su conjunto entró después a la colección del Museo de Arte Moderno y fue la base de los emoji usados en todo el mundo."
+   },
+   "refs": []
+  },
+  {
+   "id": "tobias-frere-jones",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1970,
+   "died": null,
+   "dates": "1970–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Tobias Frere-Jones",
+   "key": "American type designer of Interstate and, with Jonathan Hoefler, of Gotham.",
+   "more": "Born in 1970, he drew the typeface Interstate in the 1990s, based on the lettering of American highway signs, and designed Gotham with Jonathan Hoefler at their foundry in New York in 2000, inspired by the signs of the city. Gotham became widely known through its use in public and political identities.",
+   "es": {
+    "dates": "1970–",
+    "key": "Diseñador de tipografías estadounidense, autor de Interstate y, con Jonathan Hoefler, de Gotham.",
+    "more": "Nacido en 1970, dibujó en los años noventa la tipografía Interstate, basada en las letras de las señales de las carreteras estadounidenses, y diseñó Gotham junto con Jonathan Hoefler en su fundición de Nueva York en 2000, inspirada en los rótulos de la ciudad. Gotham se hizo ampliamente conocida por su uso en identidades públicas y políticas."
+   },
+   "refs": []
+  },
+  {
+   "id": "rick-dickinson",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1957,
+   "died": 2018,
+   "dates": "1957–2018",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Rick Dickinson",
+   "key": "British industrial designer of the Sinclair home computers, including the ZX80, ZX81 and ZX Spectrum.",
+   "more": "Born in 1957, he worked for Sinclair Research in Cambridge, where he designed the cases and keyboards of the ZX81 and the ZX Spectrum of 1982, among other machines. His work gave cheap home computers a compact, recognisable look. He died in 2018.",
+   "es": {
+    "dates": "1957–2018",
+    "key": "Diseñador industrial británico de los computadores domésticos de Sinclair, entre ellos el ZX80, el ZX81 y el ZX Spectrum.",
+    "more": "Nacido en 1957, trabajó para Sinclair Research en Cambridge, donde diseñó las carcasas y los teclados del ZX81 y del ZX Spectrum de 1982, entre otras máquinas. Su trabajo dio a los computadores domésticos baratos un aspecto compacto y reconocible. Murió en 2018."
+   },
+   "refs": []
+  },
+  {
+   "id": "dietrich-lubs",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1938,
+   "died": null,
+   "dates": "1938–",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Dietrich Lubs",
+   "key": "German industrial designer at Braun, in the team of Dieter Rams, known for clocks, watches and calculators.",
+   "more": "Born in 1938, he joined Braun’s design department under Dieter Rams and designed many of the company’s clocks, watches and calculators, among them the ET 66 calculator of 1987, in the Braun tradition of plain, functional form. He is one of the designers who carried on Rams’s approach.",
+   "es": {
+    "dates": "1938–",
+    "key": "Diseñador industrial alemán de Braun, del equipo de Dieter Rams, conocido por sus relojes y calculadoras.",
+    "more": "Nacido en 1938, ingresó al departamento de diseño de Braun bajo Dieter Rams y diseñó muchos de los relojes y calculadoras de la empresa, entre ellos la calculadora ET 66 de 1987, dentro de la tradición Braun de forma simple y funcional. Es uno de los diseñadores que continuaron el enfoque de Rams."
+   },
+   "refs": []
+  },
+  {
+   "id": "tejo-remy",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1960,
+   "died": null,
+   "dates": "1960–",
+   "countries": [
+    "NL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Tejo Remy",
+   "key": "Dutch designer of the Rag Chair, a central figure of Droog Design.",
+   "more": "Born in 1960, he is linked with Droog Design, the Dutch group of the 1990s that favoured conceptual, ironic objects. His Rag Chair of 1991 was made of old clothes pressed into a block and bound with straps, and his chest of drawers ‘You can’t lay down your memory’ of the same year used reused drawers. Both express a design of recycling and memory.",
+   "es": {
+    "dates": "1960–",
+    "key": "Diseñador neerlandés de la Rag Chair, figura central del Droog Design.",
+    "more": "Nacido en 1960, está ligado al Droog Design, el grupo neerlandés de los años noventa que prefería objetos conceptuales e irónicos. Su Rag Chair de 1991 se hizo con ropa vieja comprimida en un bloque y atada con correas, y su cómoda «You can’t lay down your memory» del mismo año reutilizó cajones usados. Ambas expresan un diseño de reciclaje y memoria."
+   },
+   "refs": []
+  },
+  {
+   "id": "bill-stumpf",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1936,
+   "died": 2006,
+   "dates": "1936–2006",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Bill Stumpf",
+   "movements": [],
+   "institutions": [
+    "inst-herman-miller"
+   ],
+   "key": "American industrial designer who worked on office ergonomics for Herman Miller and co-designed the Aeron chair with Don Chadwick.",
+   "more": "He focused on how people sit and work in offices, and his furniture for Herman Miller drew on ergonomic research. With Don Chadwick he designed the Aeron chair, released in 1994.",
+   "es": {
+    "dates": "1936–2006",
+    "key": "Diseñador industrial estadounidense que trabajó en la ergonomía de la oficina para Herman Miller y codiseñó la silla Aeron con Don Chadwick.",
+    "more": "Se centró en cómo las personas se sientan y trabajan en las oficinas, y su mobiliario para Herman Miller se apoyó en la investigación ergonómica. Con Don Chadwick diseñó la silla Aeron, lanzada en 1994."
+   },
+   "refs": []
+  },
+  {
+   "id": "don-chadwick",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1936,
+   "died": null,
+   "dates": "n. 1936",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Don Chadwick",
+   "movements": [],
+   "institutions": [
+    "inst-herman-miller"
+   ],
+   "key": "American industrial designer who designed furniture for Herman Miller and co-designed the Aeron chair with Bill Stumpf.",
+   "more": "He has designed office and residential furniture for Herman Miller. With Bill Stumpf he designed the Aeron chair, released in 1994.",
+   "es": {
+    "dates": "n. 1936",
+    "key": "Diseñador industrial estadounidense que diseñó mobiliario para Herman Miller y codiseñó la silla Aeron con Bill Stumpf.",
+    "more": "Ha diseñado mobiliario de oficina y residencial para Herman Miller. Con Bill Stumpf diseñó la silla Aeron, lanzada en 1994."
+   },
+   "refs": []
+  },
+  {
+   "id": "denise-scott-brown",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1931,
+   "died": null,
+   "dates": "1931–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Denise Scott Brown",
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "key": "Architect and urban planner, partner of Robert Venturi and co-author of Learning from Las Vegas; the Pritzker Prize of 1991 went to Venturi alone, a central case in feminist architectural history.",
+   "more": "She grew up in South Africa and settled in the United States, where she worked and taught with Robert Venturi and led their joint practice's urban planning. With Venturi and Steven Izenour she wrote Learning from Las Vegas (1972), a study of the commercial strip that became a landmark of postmodern architecture. When the Pritzker Prize of 1991 was awarded to Venturi alone, her omission led to a long public debate about credit and gender in architecture.",
+   "es": {
+    "dates": "1931–",
+    "key": "Arquitecta y urbanista, socia de Robert Venturi y coautora de Learning from Las Vegas; el Pritzker de 1991 se concedió solo a Venturi, un caso central de la historiografía feminista de la arquitectura.",
+    "more": "Creció en Sudáfrica y se estableció en Estados Unidos, donde trabajó y enseñó con Robert Venturi y dirigió el área de planificación urbana de su estudio común. Con Venturi y Steven Izenour escribió Learning from Las Vegas (1972), un estudio de la franja comercial que se volvió un hito de la arquitectura posmoderna. Cuando el Pritzker de 1991 se otorgó solo a Venturi, su exclusión abrió un largo debate público sobre el crédito y el género en la arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "id": "diller-scofidio-renfro",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1979,
+   "died": null,
+   "dates": "1979–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Diller Scofidio + Renfro",
+   "movements": [
+    "landscape-urbanism"
+   ],
+   "key": "New York architecture studio best known for the High Line, the park built on a disused elevated railway, designed with James Corner Field Operations and Piet Oudolf.",
+   "more": "Elizabeth Diller and Ricardo Scofidio founded the practice in New York in 1979, and Charles Renfro later became a partner. Their work crosses architecture, installation and urban design. The High Line (New York, first section opened in 2009) turned an abandoned elevated freight line into a public park.",
+   "es": {
+    "dates": "1979–",
+    "key": "Estudio neoyorquino de arquitectura, conocido sobre todo por la High Line, el parque construido sobre una vía elevada en desuso, proyectado con James Corner Field Operations y Piet Oudolf.",
+    "more": "Elizabeth Diller y Ricardo Scofidio fundaron el estudio en Nueva York en 1979, y Charles Renfro se sumó después como socio. Su trabajo cruza la arquitectura, la instalación y el diseño urbano. La High Line (Nueva York, primer tramo inaugurado en 2009) convirtió una vía de carga elevada abandonada en un parque público."
+   },
+   "refs": [],
+   "short": "DS+R"
+  },
+  {
+   "id": "miuccia-prada",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1949,
+   "died": null,
+   "dates": "1949–",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Miuccia Prada",
+   "key": "Italian fashion designer who runs Prada and Miu Miu; her black nylon backpack of the 1980s turned an industrial fabric into a luxury good.",
+   "more": "Born in Milan in 1949, she took over the family leather-goods firm in the late 1970s. In the mid-1980s she made backpacks and bags in black nylon, a material associated with utility, which carried only a small metal logo plate. She founded the Miu Miu line in the 1990s.",
+   "es": {
+    "dates": "1949–",
+    "key": "Diseñadora de moda italiana al frente de Prada y Miu Miu; su mochila de nailon negro de los años ochenta convirtió un tejido industrial en objeto de lujo.",
+    "more": "Nacida en Milán en 1949, se hizo cargo de la empresa familiar de artículos de cuero a fines de los años setenta. A mediados de los ochenta hizo mochilas y bolsos de nailon negro, un material asociado a lo utilitario, que llevaban solo una pequeña placa metálica con el logo. En los noventa fundó la línea Miu Miu."
+   },
+   "refs": []
+  },
+  {
+   "id": "karl-lagerfeld",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1933,
+   "died": 2019,
+   "dates": "1933–2019",
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Karl Lagerfeld",
+   "key": "German-born designer, creative director of Chanel from 1983, a model of the designer who reinterprets a historic fashion house.",
+   "more": "Born in Hamburg in 1933, he worked in Paris for several houses, including Fendi, and also had a label under his own name. From 1983 he led Chanel, renewing the house's classic suits and codes for a new public. He died in 2019.",
+   "es": {
+    "dates": "1933–2019",
+    "key": "Diseñador de origen alemán, director creativo de Chanel desde 1983, modelo del diseñador que reinterpreta una casa de moda histórica.",
+    "more": "Nacido en Hamburgo en 1933, trabajó en París para varias casas, entre ellas Fendi, y tuvo además una marca con su nombre. Desde 1983 dirigió Chanel, y renovó los trajes y códigos clásicos de la casa para un público nuevo. Murió en 2019."
+   },
+   "refs": []
+  },
+  {
+   "id": "donna-karan",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1948,
+   "died": null,
+   "dates": "1948–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Donna Karan",
+   "key": "American fashion designer who built a modular wardrobe for the working woman, starting with her Seven Easy Pieces of 1985.",
+   "more": "Born in New York in 1948, she worked for Anne Klein before launching her own label in the mid-1980s. Her Seven Easy Pieces (1985) was a small set of interchangeable garments, built around a bodysuit, for a woman who works. She later added the DKNY line.",
+   "es": {
+    "dates": "1948–",
+    "key": "Diseñadora de moda estadounidense que construyó un guardarropa modular para la mujer que trabaja, desde sus Seven Easy Pieces de 1985.",
+    "more": "Nacida en Nueva York en 1948, trabajó para Anne Klein antes de lanzar su propia marca a mediados de los ochenta. Sus Seven Easy Pieces (1985) eran un pequeño conjunto de prendas intercambiables, en torno a un body, para la mujer que trabaja. Más tarde agregó la línea DKNY."
+   },
+   "refs": []
+  },
+  {
+   "id": "marc-jacobs",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1963,
+   "died": null,
+   "dates": "1963–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Marc Jacobs",
+   "key": "American fashion designer, author of the grunge collection for Perry Ellis and later creative director of Louis Vuitton.",
+   "more": "Born in New York in 1963, he presented a grunge-inspired collection for Perry Ellis in 1993, which brought street clothing of the Seattle music scene to the runway. He became creative director of Louis Vuitton in 1997 and also leads a label under his own name.",
+   "es": {
+    "dates": "1963–",
+    "key": "Diseñador de moda estadounidense, autor de la colección grunge para Perry Ellis y luego director creativo de Louis Vuitton.",
+    "more": "Nacido en Nueva York en 1963, presentó en 1993 una colección de inspiración grunge para Perry Ellis, que llevó a la pasarela la ropa callejera de la escena musical de Seattle. En 1997 fue director creativo de Louis Vuitton, y además dirige una marca con su nombre."
+   },
+   "refs": []
+  },
+  {
+   "id": "helmut-lang",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1956,
+   "died": null,
+   "dates": "1956–",
+   "countries": [
+    "AT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Helmut Lang",
+   "movements": [
+    "minimalism-fashion-product"
+   ],
+   "key": "Austrian fashion designer of the 1990s, known for a sober minimalism and for early use of the internet to present his work.",
+   "more": "Born in Vienna in 1956, he founded his label in the 1980s and showed in Paris, then in New York. His clothes used plain cuts and neutral colours, and made minimalism a reference of 1990s fashion. He was also among the designers who explored the web to show collections.",
+   "es": {
+    "dates": "1956–",
+    "key": "Diseñador de moda austríaco de los años noventa, conocido por un minimalismo sobrio y por usar tempranamente internet para presentar su trabajo.",
+    "more": "Nacido en Viena en 1956, fundó su marca en los años ochenta y presentó en París y luego en Nueva York. Su ropa usaba cortes simples y colores neutros, y convirtió el minimalismo en una referencia de la moda de los noventa. Fue también uno de los diseñadores que exploraron la web para mostrar colecciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "jamie-reid",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1947,
+   "died": 2023,
+   "dates": "1947–2023",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jamie Reid",
+   "movements": [
+    "punk-fashion"
+   ],
+   "key": "British artist and designer who made the graphics of the Sex Pistols, with collage and cut-out ransom-note lettering.",
+   "more": "Born in London in 1947, he designed the Sex Pistols' sleeves and posters. For God Save the Queen (1977) he covered a portrait of the Queen with cut-out lettering. His cheap, rough collage of cut paper and clashing colours became the look of punk graphics. He died in 2023.",
+   "es": {
+    "dates": "1947–2023",
+    "key": "Artista y diseñador británico autor de la gráfica de los Sex Pistols, con collage y letras recortadas al modo de nota de rescate.",
+    "more": "Nacido en Londres en 1947, diseñó las portadas y los afiches de los Sex Pistols. Para God Save the Queen (1977) cubrió un retrato de la reina con letras recortadas. Su collage barato y áspero, de papel recortado y colores chocantes, se volvió la apariencia de la gráfica punk. Murió en 2023."
+   },
+   "refs": []
+  },
+  {
+   "id": "wolfgang-weingart",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1941,
+   "died": 2021,
+   "dates": "1941–2021",
+   "countries": [
+    "DE",
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Wolfgang Weingart",
+   "movements": [
+    "new-wave-typography",
+    "basel-school-typography"
+   ],
+   "key": "German-born typographer who taught in Basel and broke the Swiss style from within, an origin of the typographic New Wave.",
+   "more": "Born in Germany in 1941, he trained as a typesetter and taught typography at the school of design in Basel from the late 1960s. He pushed Swiss typography beyond its rules with layered films, varied weights and spacing, and rule fragments. Many students from abroad carried his methods to their own countries. He died in 2021.",
+   "es": {
+    "dates": "1941–2021",
+    "key": "Tipógrafo de origen alemán que enseñó en Basilea y rompió el estilo suizo desde dentro, un origen de la Nueva Ola tipográfica.",
+    "more": "Nacido en Alemania en 1941, se formó como cajista y enseñó tipografía en la escuela de diseño de Basilea desde fines de los años sesenta. Llevó la tipografía suiza más allá de sus reglas, con películas superpuestas, pesos y espacios variados, y fragmentos de filetes. Muchos alumnos extranjeros llevaron sus métodos a sus propios países. Murió en 2021."
+   },
+   "refs": []
+  },
+  {
+   "id": "peter-saville",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1955,
+   "died": null,
+   "dates": "1955–",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Peter Saville",
+   "key": "British graphic designer of Factory Records, author of sleeves for Joy Division and New Order.",
+   "more": "Born in Manchester in 1955, he worked with Factory Records from its early years. He designed sleeves for Joy Division and New Order, often without the band's name or title on the front, using restrained typography and found images. His sleeves showed that a record cover could be an autonomous design object.",
+   "es": {
+    "dates": "1955–",
+    "key": "Diseñador gráfico británico de Factory Records, autor de portadas para Joy Division y New Order.",
+    "more": "Nacido en Manchester en 1955, trabajó con Factory Records desde sus primeros años. Diseñó portadas para Joy Division y New Order, a menudo sin el nombre de la banda ni el título al frente, con una tipografía sobria e imágenes encontradas. Sus portadas mostraron que la tapa de un disco podía ser un objeto de diseño autónomo."
+   },
+   "refs": []
+  },
+  {
+   "id": "toru-iwatani",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1955,
+   "died": null,
+   "dates": "1955–",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Toru Iwatani",
+   "key": "Japanese game designer who created Pac-Man at Namco, a character whose simple shape made it a global icon.",
+   "more": "Born in 1955, he worked at the Japanese company Namco, where he designed Pac-Man (1980). The game replaced the shooting of earlier arcade games with a round character who eats and flees, aimed at a wider public. Released in the United States under licence, it became one of the best-known images of video games in the West.",
+   "es": {
+    "dates": "1955–",
+    "key": "Diseñador de videojuegos japonés que creó Pac-Man en Namco, un personaje cuya forma simple lo volvió un ícono global.",
+    "more": "Nacido en 1955, trabajó en la empresa japonesa Namco, donde diseñó Pac-Man (1980). El juego reemplazó el disparo de los juegos de salón anteriores por un personaje redondo que come y huye, pensado para un público más amplio. Lanzado en Estados Unidos bajo licencia, se volvió una de las imágenes más conocidas de los videojuegos en Occidente."
+   },
+   "refs": []
+  },
+  {
+   "id": "katherine-mccoy",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1945,
+   "died": null,
+   "dates": "1945–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Katherine McCoy",
+   "movements": [
+    "new-wave-typography"
+   ],
+   "institutions": [
+    "inst-cranbrook"
+   ],
+   "key": "American designer and co-chair of the design department at Cranbrook Academy of Art, who brought post-structuralist theory into graphic design.",
+   "more": "Born in 1945, she led the graduate design programme at Cranbrook Academy of Art in Michigan from the early 1970s, with Michael McCoy. Her teaching and writing drew on French theory to treat a layout as a text with several readings. Her students became leading figures of experimental American graphic design.",
+   "es": {
+    "dates": "1945–",
+    "key": "Diseñadora estadounidense y codirectora del departamento de diseño de la Cranbrook Academy of Art, que llevó la teoría postestructuralista al diseño gráfico.",
+    "more": "Nacida en 1945, dirigió desde comienzos de los años setenta el posgrado de diseño de la Cranbrook Academy of Art, en Michigan, junto con Michael McCoy. Su docencia y sus escritos se apoyaron en la teoría francesa para tratar una composición como un texto de varias lecturas. Sus alumnos fueron figuras destacadas del diseño gráfico experimental estadounidense."
+   },
+   "refs": []
+  },
+  {
+   "id": "oliviero-toscani",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1942,
+   "died": 2025,
+   "dates": "1942–2025",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Oliviero Toscani",
+   "key": "Italian photographer who made the Benetton advertising campaigns, which brought social and political themes into mass advertising.",
+   "more": "He worked as a photographer for fashion and magazines before becoming the creative force behind Benetton's campaigns from the early 1980s. Those campaigns showed subjects such as racial diversity, war and illness instead of the clothes themselves. They were widely debated and made the brand's image depend on provocation and values rather than on the product.",
+   "es": {
+    "dates": "1942–2025",
+    "key": "Fotógrafo italiano que hizo las campañas publicitarias de Benetton, las cuales llevaron temas sociales y políticos a la publicidad masiva.",
+    "more": "Trabajó como fotógrafo de moda y de revistas antes de convertirse en la fuerza creativa de las campañas de Benetton desde comienzos de la década de 1980. Esas campañas mostraban temas como la diversidad racial, la guerra y la enfermedad en lugar de la ropa misma. Fueron muy discutidas e hicieron que la imagen de la marca dependiera de la provocación y de los valores más que del producto."
+   },
+   "refs": []
+  },
+  {
+   "id": "muriel-cooper",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1925,
+   "died": 1994,
+   "dates": "1925–1994",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Muriel Cooper",
+   "movements": [
+    "interaction-design"
+   ],
+   "key": "American designer who led design at MIT Press and later founded the Visible Language Workshop, exploring typography on the computer screen.",
+   "more": "She was design director of MIT Press, where she shaped a recognisable look for its books. In 1975 she co-founded the Visible Language Workshop at MIT, which later became part of the Media Lab. There she and her students experimented with dynamic, interactive typography and information displayed in navigable three-dimensional space.",
+   "es": {
+    "dates": "1925–1994",
+    "key": "Diseñadora estadounidense que dirigió el diseño de MIT Press y luego fundó el Visible Language Workshop, donde exploró la tipografía en la pantalla del computador.",
+    "more": "Fue directora de diseño de MIT Press, donde dio a sus libros una imagen reconocible. En 1975 cofundó en el MIT el Visible Language Workshop, que más tarde pasó a formar parte del Media Lab. Allí ella y sus estudiantes experimentaron con tipografía dinámica e interactiva y con información presentada en un espacio tridimensional navegable."
+   },
+   "refs": []
+  },
+  {
+   "id": "bill-moggridge",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1943,
+   "died": 2012,
+   "dates": "1943–2012",
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "name": "Bill Moggridge",
+   "movements": [
+    "interaction-design"
+   ],
+   "institutions": [
+    "inst-ideo"
+   ],
+   "key": "British designer of the GRiD Compass, an early laptop with a clamshell screen, and co-founder of IDEO, who helped establish the term interaction design.",
+   "more": "Born in London, he designed the GRiD Compass, a portable computer with a screen that folded over the keyboard, in the late 1970s and early 1980s. He is credited with helping to name and define interaction design, the design of how people use digital products. He was a co-founder of the design firm IDEO.",
+   "es": {
+    "dates": "1943–2012",
+    "key": "Diseñador británico del GRiD Compass, uno de los primeros portátiles con pantalla abatible, y cofundador de IDEO, que ayudó a establecer el término diseño de interacción.",
+    "more": "Nacido en Londres, diseñó el GRiD Compass, un computador portátil con una pantalla que se plegaba sobre el teclado, a fines de la década de 1970 y comienzos de la de 1980. Se le reconoce haber ayudado a nombrar y definir el diseño de interacción, el diseño de cómo las personas usan los productos digitales. Fue cofundador de la consultora de diseño IDEO."
+   },
+   "refs": []
+  },
+  {
+   "id": "shiro-kuramata",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1934,
+   "died": 1991,
+   "dates": "1934–1991",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Shiro Kuramata",
+   "movements": [
+    "memphis"
+   ],
+   "key": "Japanese designer of poetic furniture and interiors in glass, acrylic and metal mesh, who took part in the Memphis collections.",
+   "more": "Born in Tokyo, he worked as an interior and furniture designer, known for light, transparent pieces made of materials such as acrylic, glass and expanded metal. One of his best known pieces is the How High the Moon armchair of 1986, made of metal mesh. He was among the designers who contributed to the Memphis collections in Milan, which brought Japanese work into the Western postmodern debate.",
+   "es": {
+    "dates": "1934–1991",
+    "key": "Diseñador japonés de mobiliario e interiores poéticos en vidrio, acrílico y malla metálica, que participó en las colecciones de Memphis.",
+    "more": "Nacido en Tokio, trabajó como diseñador de interiores y de muebles, conocido por piezas livianas y transparentes hechas de materiales como acrílico, vidrio y metal expandido. Una de sus piezas más conocidas es el sillón How High the Moon de 1986, de malla metálica. Fue uno de los diseñadores que aportaron a las colecciones de Memphis en Milán, lo que llevó el trabajo japonés al debate posmoderno occidental."
+   },
+   "refs": []
+  },
+  {
+   "id": "gunpei-yokoi",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1941,
+   "died": 1997,
+   "dates": "1941–1997",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Gunpei Yokoi",
+   "key": "Japanese Nintendo designer of the Game & Watch and the Game Boy, who built them on cheap, well-tried components, an approach he called withered technology.",
+   "more": "He joined Nintendo and designed the Game & Watch handheld games from 1980, followed by the Game Boy in 1989. His design principle, often rendered as lateral thinking with withered technology, used mature and inexpensive components in new ways. Handheld consoles made this way reached a very large public, and his approach shaped how Japanese electronics were designed for the West.",
+   "es": {
+    "dates": "1941–1997",
+    "key": "Diseñador japonés de Nintendo que creó los Game & Watch y el Game Boy sobre componentes baratos y probados, un enfoque que llamó tecnología madura.",
+    "more": "Entró a Nintendo y diseñó los juegos portátiles Game & Watch desde 1980, y luego el Game Boy en 1989. Su principio de diseño, a menudo traducido como pensamiento lateral con tecnología madura, usaba componentes maduros y baratos de maneras nuevas. Las consolas portátiles hechas así llegaron a un público muy amplio, y su enfoque marcó cómo se diseñó la electrónica japonesa para Occidente."
+   },
+   "refs": []
+  },
+  {
+   "id": "naoto-fukasawa",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1956,
+   "died": null,
+   "dates": "1956–",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Naoto Fukasawa",
+   "movements": [
+    "minimalism-fashion-product"
+   ],
+   "institutions": [
+    "inst-muji"
+   ],
+   "key": "Japanese product designer known for his work for Muji and for Super Normal, the idea of ordinary objects, which he developed with Jasper Morrison.",
+   "more": "He is a Japanese product designer who has worked for Muji, where he designed a wall-mounted CD player among other products. With the British designer Jasper Morrison he organised the Super Normal exhibition of 2006, which argued for everyday objects that are quietly well made. His restrained approach to the object travelled from Japan into Western minimalist product design.",
+   "es": {
+    "dates": "1956–",
+    "key": "Diseñador de producto japonés conocido por su trabajo para Muji y por Super Normal, la idea de los objetos corrientes, que desarrolló junto a Jasper Morrison.",
+    "more": "Es un diseñador de producto japonés que ha trabajado para Muji, donde diseñó, entre otros productos, un reproductor de CD de pared. Junto al diseñador británico Jasper Morrison organizó la exposición Super Normal de 2006, que defendía los objetos cotidianos discretamente bien hechos. Su manera sobria de entender el objeto viajó de Japón al diseño de producto minimalista occidental."
+   },
+   "refs": []
+  }
+ ]
+}

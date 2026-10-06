@@ -1,0 +1,113 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-steam-power",
+   "track": "technological",
+   "start": 1769,
+   "end": 1850,
+   "date": "1769–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Steam power",
+   "short": "Steam power",
+   "key": "The steam engine, made efficient by James Watt and Matthew Boulton, freed manufacture from rivers and muscle and set the pace of the factory age.",
+   "happened": "James Watt patented his separate condenser in 1769, and from 1775 he built engines with Matthew Boulton in Birmingham. Rotary engines from the early 1780s let steam drive mills and workshops far from water, and by the 1810s steam also powered printing presses and, later, locomotives and ships.",
+   "effect": "Power-driven machines made large, regular runs cheap, so manufacturers had to decide what a product should look like before it was made in quantity. Steam also became a tool of design itself: Thonet used it to soften beech for bending in the 1830s, and steam-driven presses sped the printing of newspapers and books.",
+   "es": {
+    "name": "Máquina de vapor",
+    "short": "Vapor",
+    "date": "1769–1850",
+    "key": "La máquina de vapor, hecha eficiente por James Watt y Matthew Boulton, liberó a la manufactura de los ríos y de la fuerza muscular y marcó el ritmo de la era de la fábrica.",
+    "happened": "James Watt patentó su condensador separado en 1769 y desde 1775 construyó máquinas junto con Matthew Boulton en Birmingham. Las máquinas rotativas de comienzos de la década de 1780 permitieron que el vapor moviera molinos y talleres lejos del agua, y hacia la década de 1810 el vapor también movía prensas de imprimir y, más tarde, locomotoras y barcos.",
+    "effect": "Las máquinas con motor hicieron baratas las tiradas grandes y regulares, de modo que los fabricantes debían decidir cómo sería un producto antes de hacerlo en cantidad. El vapor se volvió además una herramienta del propio diseño: Thonet lo usó para ablandar el haya y curvarla en los años 1830, y las prensas a vapor aceleraron la impresión de diarios y libros."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-railways",
+   "track": "technological",
+   "start": 1825,
+   "end": 1850,
+   "date": "1825–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Railways",
+   "short": "Railways",
+   "key": "The first public steam railways, opened in Britain from 1825, made goods, people and printed matter move fast and on a timetable, and gave iron a new role in building.",
+   "happened": "The Stockton and Darlington Railway opened in 1825 and the Liverpool and Manchester Railway in 1830, and lines spread quickly across Britain and then the continent. Stations, bridges and viaducts were built in iron, brick and stone, and railway companies pushed for common timetables.",
+   "effect": "Cheaper and faster transport widened the markets for factory goods, books and periodicals, so a design made in one city could reach buyers far away. Railways also created new building types, such as stations and iron bridges, and boosted demand for cast and wrought iron.",
+   "es": {
+    "name": "Ferrocarril",
+    "short": "Ferrocarril",
+    "date": "1825–1850",
+    "key": "Los primeros ferrocarriles públicos a vapor, abiertos en Gran Bretaña desde 1825, hicieron que mercancías, personas e impresos se movieran rápido y con horario, y dieron al hierro un nuevo papel en la construcción.",
+    "happened": "El ferrocarril de Stockton a Darlington se abrió en 1825 y el de Liverpool a Manchester en 1830, y las líneas se extendieron rápido por Gran Bretaña y luego por el continente. Estaciones, puentes y viaductos se levantaron en hierro, ladrillo y piedra, y las compañías ferroviarias empujaron horarios comunes.",
+    "effect": "El transporte más barato y rápido amplió los mercados de los bienes de fábrica, los libros y las revistas, de modo que un diseño hecho en una ciudad podía llegar a compradores lejanos. El ferrocarril creó además tipos de edificio nuevos, como estaciones y puentes de hierro, y elevó la demanda de hierro fundido y forjado."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-iron-construction",
+   "track": "technological",
+   "start": 1779,
+   "end": 1850,
+   "date": "1779–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Cast iron and building",
+   "short": "Iron building",
+   "key": "From the Iron Bridge of 1779, cast and wrought iron went from a material for machines to a material for bridges, mills, markets and glasshouses.",
+   "happened": "The Iron Bridge over the Severn at Coalbrookdale, built in 1779 by the ironmaster Abraham Darby III, was the first major bridge of cast iron. Iron columns and beams were then used in mills, with the flax mill at Ditherington, Shrewsbury, finished in the 1790s as an early iron-framed building, and later in markets, stations and greenhouses.",
+   "effect": "Iron let builders span wide spaces with slim supports and, because parts were cast in standard moulds, repeat the same column or beam many times. The result was a new kind of architecture made of manufactured parts, whose later peak was the Crystal Palace of 1851.",
+   "es": {
+    "name": "Hierro fundido y construcción",
+    "short": "Hierro y obra",
+    "date": "1779–1850",
+    "key": "Desde el Puente de Hierro de 1779, el hierro fundido y forjado pasó de material de máquinas a material de puentes, fábricas, mercados e invernaderos.",
+    "happened": "El Puente de Hierro sobre el Severn en Coalbrookdale, construido en 1779 por el maestro del hierro Abraham Darby III, fue el primer gran puente de hierro fundido. Columnas y vigas de hierro se usaron luego en fábricas, entre ellas la hilandería de lino de Ditherington, en Shrewsbury, terminada en la década de 1790 como uno de los primeros edificios con estructura de hierro, y más tarde en mercados, estaciones e invernaderos.",
+    "effect": "El hierro permitió cubrir grandes luces con apoyos delgados y, como las piezas se fundían en moldes estándar, repetir la misma columna o viga muchas veces. El resultado fue una arquitectura nueva hecha de piezas manufacturadas, cuyo punto alto posterior fue el Crystal Palace de 1851."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-photography",
+   "track": "technological",
+   "start": 1839,
+   "end": null,
+   "date": "1839 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "name": "Photography",
+   "short": "Photography",
+   "key": "Photography, announced in 1839, gave a mechanical way to record the visible world and began to take over the job of copying images from engravers and lithographers.",
+   "happened": "In 1839 Louis Daguerre's daguerreotype was made public in Paris, and in Britain William Henry Fox Talbot presented his own process on paper, later refined as the calotype. In the 1840s portrait studios opened in the main European cities.",
+   "effect": "Photographs were soon used as models for prints, and engravers and lithographers began to work from them instead of from drawings. Over the following decades the new medium pushed printmakers away from simple reproduction and toward processes that could carry photographs onto the printed page. Later the camera itself became a tool of design: illustrated newspapers and magazines built their pages around photographs, and the avant-garde of the 1920s used unusual viewpoints and photomontage as part of graphic design.",
+   "es": {
+    "name": "Fotografía",
+    "short": "Fotografía",
+    "date": "1839 →",
+    "key": "La fotografía, anunciada en 1839, dio un modo mecánico de registrar el mundo visible y empezó a quitar a grabadores y litógrafos el trabajo de copiar imágenes.",
+    "happened": "En 1839 se dio a conocer en París el daguerrotipo de Louis Daguerre y en Gran Bretaña William Henry Fox Talbot presentó su propio proceso sobre papel, perfeccionado después como calotipo. En la década de 1840 se abrieron estudios de retrato en las principales ciudades europeas.",
+    "effect": "Las fotografías pronto sirvieron de modelo para estampas, y grabadores y litógrafos empezaron a trabajar a partir de ellas en lugar de dibujos. En las décadas siguientes el nuevo medio alejó a los grabadores de la simple reproducción y los empujó hacia procesos que pudieran llevar la fotografía a la página impresa. Más tarde la cámara misma se volvió herramienta de diseño: la prensa ilustrada armó sus páginas en torno a fotografías, y la vanguardia de los años veinte usó puntos de vista inusuales y el fotomontaje como parte del diseño gráfico."
+   },
+   "refs": []
+  }
+ ]
+}

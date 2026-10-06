@@ -1,0 +1,223 @@
+[
+ [
+  "masp",
+  "ok",
+  [
+   "Corregí «c. 70 metros» a 74 metros (Docomomo).",
+   "Quité «dos vigas rojas» y «cuatro pilares»: la fuente habla de cuatro vigas pretensadas y ninguna confirma el color rojo ni el número de pilares; dejé «vigas pretensadas».",
+   "Quité «las obras parecían flotar» y «el edificio se inauguró en 1968» pasó a «se levantó»: el museo dice que se trasladó a Paulista en 1968; la fecha de la inauguración oficial no se verificó.",
+   "Campo materials «Hormigón pretensado, vidrio»: consistente con las fuentes."
+  ]
+ ],
+ [
+  "pompidou-centre-1977",
+  "ok",
+  [
+   "Quité «para el Estado francés» y «en la explanada de Beaubourg»: no confirmados en las fuentes abiertas.",
+   "Quité las «escaleras mecánicas por fuera» y el vínculo de que el diseño «buscaba adaptarse a usos cambiantes»: las fuentes hablan de espacios libres y servicios en fachada, no de escaleras mecánicas; el código de color es por servicio (aire, agua, electricidad, circulación), no genérico «por función».",
+   "Reemplacé «se volvió el modelo de la arquitectura high-tech» por la descripción de Britannica; «atrajo multitudes desde el comienzo» pasó a «pronto fue uno de los más visitados».",
+   "status («cerrado por renovación desde 2025») no verificado; no se tocó."
+  ]
+ ],
+ [
+  "god-save-the-queen-1977",
+  "ok",
+  [
+   "Quité «mayo de 1977» y «publicado por Virgin Records»: ninguna fuente consultada lo dice (el campo maker queda sin tocar).",
+   "Quité «letras recortadas de tipografía de diario»: las fuentes dicen solo estilo carta de rescate; dejé ese término. materials («Fotografía y letras recortadas») no se tocó; las fuentes dan offset/litografía para el afiche.",
+   "Quité «una de las piezas más conocidas del diseño británico» y «el aspecto crudo de recortar y pegar pasó a representar la gráfica punk»: ninguna fuente abierta lo dice así.",
+   "Agregué el dato verificado de Peter Grugeon y de las prohibiciones comerciales (NPG)."
+  ]
+ ],
+ [
+  "emigre-magazine-1984",
+  "ok",
+  [
+   "Quité que partió «con obra de artistas y diseñadores emigrados» y el giro posterior «al diseño y la tipografía»: ninguna fuente lo confirma con claridad (Readymag solo lo insinúa).",
+   "Quité que «Licko dibujó» las fuentes para la revista y que se vendieron fuentes de ella: las fuentes confirman Emigre Fonts, no la autoría de Licko por fuente.",
+   "Quité «diagramaron en el computador tras la llegada del Macintosh» como secuencia; queda «uso pionero del Macintosh».",
+   "Los campos materials (offset, tabloide) y status («se conservan en bibliotecas») no verificados; sí hay colecciones en MoMA y Letterform Archive. Licko como único designer es discutible: la ficha lo da solo a ella y las fuentes atribuyen a ambos fundadores."
+  ]
+ ],
+ [
+  "macintosh-128k-1984",
+  "ok",
+  [
+   "Quité «junto con una impresora láser ayudó a iniciar la edición de escritorio» como causa directa: el Smithsonian solo dice que LaserWriter «permitió» la edición de escritorio; lo reformulé.",
+   "Cita [3] se usa para la carcasa y la disquetera; el CHM da dos fechas distintas (22 y 24 de enero), por lo que la fecha queda en «enero de 1984».",
+   "Quité «presentó el computador personal como un objeto amable» de las marcas: es interpretación sin fuente directa; se mantiene en key solo como resumen sin cifra (⚠ suavizar si se desea).",
+   "El campo materials («carcasa de plástico beige») no verificado: ninguna fuente abierta lo dice; status («máquinas originales en museos») consistente con el Smithsonian."
+  ]
+ ],
+ [
+  "att-building-1984",
+  "ok",
+  [
+   "Quité la comparación del frontón con un mueble Chippendale y la «gran entrada en arco» que recuerda edificios clásicos/renacentistas: ninguna fuente abierta lo confirma.",
+   "Quité «ruptura deliberada con la caja de vidrio del Estilo Internacional» y «referencia histórica como opción corporativa»: no confirmados; sustituí por la valoración de la LPC.",
+   "Cambié «primera torre posmoderna» a «reconocido como» (según la LPC). Fecha de designación discrepa por un día entre fuentes. Quité «para AT&T»: ninguna fuente abierta lo declara explícitamente. Materials: la fuente dice granito gris rosáceo / rosa Stony Creek, compatible; «sobre estructura de acero» no verificado, no se tocó."
+  ]
+ ],
+ [
+  "kettle-9093-1985",
+  "ok",
+  [
+   "Quité «mango azul»: el ejemplar del NGV tiene mango crema; la versión azul no la confirma ninguna fuente abierta.",
+   "Quité «un detalle casi de juguete» y «ejemplo de cómo la empresa vendía objetos de autor como emblemas de su marca»: interpretación sin fuente; sustituí por el juicio del museo.",
+   "«Poliamida» (materials) no confirmado: las fuentes dicen «plástico»; no se tocó el campo. «Acero inoxidable» confirmado. Año 1985: Groninger exacto, NGV «circa»."
+  ]
+ ],
+ [
+  "air-jordan-1-1985",
+  "ok",
+  [
+   "Quité «en colores llamativos», «se vendió bajo el nombre y la imagen del jugador», «la publicidad de Nike construyó un relato» y la creación posterior de Jordan Brand como marca aparte, y que se «sigue reeditando»: ninguna fuente abierta lo detalla.",
+   "Peter Moore y la «cámara de aire en el talón» solo los da Sotheby’s (la ubicación en el talón no se confirmó); atribuido con «según». Diseñador: la ficha deja designers vacío; no se tocó.",
+   "Fuente débil: no se encontró museo ni archivo que confirme a Peter Moore; recomiendo una segunda revisión (p. ej. Nike o la colección Smithsonian de publicidad de Nike)."
+  ]
+ ],
+ [
+  "hsbc-hong-kong-1986",
+  "ok",
+  [
+   "Quité «brought British high-tech structure to Asia» y «set a model for later corporate towers»: ninguna fuente consultada lo confirma; lo cambié por lo que dice Dezeen.",
+   "El inicio del proyecto en 1979 (campo date «1979–86») no lo confirmó ninguna fuente consultada; solo 1986 como terminación. No toqué date.",
+   "Las fuentes difieren en el número de pisos y la altura del atrio (Arup: 47 pisos y 40 m; Dezeen: 44 pisos y diez pisos de atrio), por lo que el texto no da cifras."
+  ]
+ ],
+ [
+  "parc-de-la-villette-1987",
+  "ok",
+  [
+   "Reemplacé «won the competition of 1982–83» por las fechas del propio parque (convocatoria mayo 1982, elección marzo 1983); las fuentes difieren (Dezeen 1983, socks-studio 1982).",
+   "Quité «built in stages in the 1980s»: la oficina de Tschumi fecha el proyecto 1982–1998 y la fuente oficial solo confirma la inauguración de 1987; no toqué date «1982–87».",
+   "Quité «became a reference of deconstructivist architecture» como afirmación propia; queda solo la exposición del MoMA de 1988 según Dezeen. El número de folies difiere entre fuentes (25, 26, 35), por lo que no se da."
+  ]
+ ],
+ [
+  "franja-del-no-1988",
+  "ok",
+  [
+   "Corregí «about 56 per cent» a 54,71 %: las fuentes dan 54,6–54,71 %.",
+   "Quité «General Pinochet» y «eight more years»: las fuentes hablan de continuidad del régimen militar y no confirman el plazo.",
+   "Quité «short pieces, songs», «language of advertising» y «Chile, la alegría ya viene» completo: solo se confirma «la alegría ya viene». Quité «in the month before the vote» por «27 días» (la fuente de archivo dice septiembre).",
+   "Pendiente en status: la conservación en archivos está probada por el archivo del MMDH; que el arcoíris se siga usando en la política chilena no está confirmado. El cliente «Comando por el NO» y el equipo diseñador tampoco se confirmaron; no se tocaron."
+  ]
+ ],
+ [
+  "church-of-the-light-1989",
+  "ok",
+  [
+   "Quité «reinforced-concrete box» y «bare»: las fuentes dicen hormigón (colado in situ según una referencia no usada), no «armado»; no toqué materials.",
+   "Quité «dark and austere interior», «silence» y que Ando fue «referente para arquitectos occidentales»: ninguna fuente lo confirma.",
+   "Fecha: Britannica da 1990 y Japan Architect 1989; mantuve 1989 y lo digo en el texto. Sin tocar year. Quité además «Ibaraki Kasugaoka Church» como cliente: no verificado (Japan Architect habla de una congregación protestante)."
+  ]
+ ],
+ [
+  "juicy-salif-1990",
+  "ok",
+  [
+   "Quité «often discussed as an object that put image above function» y «turned Starck’s name into a brand of its own»: las fuentes dicen «controvertido» y «escultórico», no eso.",
+   "Quité «squeezes lemons by pressing them on the ribbed dome» y «like a rocket»: las fuentes describen otro mecanismo (el jugo cae al vaso) y comparan con insecto o nave espacial.",
+   "status «Sigue en producción por Alessi»: no confirmado por museos; solo ficha de colección. No tocado."
+  ]
+ ],
+ [
+  "gaultier-cone-bra-1990",
+  "ok",
+  [
+   "Quité «pink satin» (key) y «satin over a corset structure» no se tocó en materials: ninguna fuente confirma el color ni el material; W menciona una versión de terciopelo morado. Anótese revisar materials.",
+   "Quité «Gaultier designed the stage costumes for the whole tour» como afirmación general: las fuentes solo confirman el sostén y los corsés; quité «the tour and its filming spread the image around the world» (no confirmado).",
+   "Corregí el origen: el motivo cónico no es solo de «sus colecciones de los años ochenta»; el FIT lo ubica en Barbès, 1984–85. Quité «turned underwear into a statement about femininity and power»: no confirmado (W solo habla de «declaración» en sentido general). status («sigue ligado») apoyado por W; «se conserva» no verificado, Madonna conserva sus piezas."
+  ]
+ ],
+ [
+  "first-website-1991",
+  "ok",
+  [
+   "Corregí la cronología: según CERN, el primer navegador, servidor y sitio existían ya hacia diciembre de 1990; 1991 es el anuncio a personas ajenas al CERN (agosto), no la creación. No toqué year/date 1991.",
+   "Quité «plain text with links, with no images and with layout left to the browser» y «how to make pages and links to other documents»: ninguna fuente consultada lo detalla. Mantuve el vínculo con 1991 solo como anuncio público.",
+   "status dice que el original no se conserva y que CERN restauró «una copia de una versión posterior»: CERN solo confirma el proyecto de recuperación de 2013; el resto no se confirmó y no se tocó (revisar status)."
+  ]
+ ],
+ [
+  "favela-chair-1991",
+  "ok",
+  [
+   "Corregí «strips of leftover wood»: según las fuentes son listones de cajones de fruta; quité «without a fixed plan» (solo se confirma el método intuitivo, dicho por Campana).",
+   "Quité «moved a vernacular way of building into the world of design galleries and collectors»: no confirmado.",
+   "Fechas de producción: las fuentes dan 2002 o 2003 para la versión de Edra; el texto lo dice así. status «Sigue en producción por Edra» no confirmado por museos; no tocado. El campo materials («pegados y clavados») queda coherente con las fuentes."
+  ]
+ ],
+ [
+  "ray-gun-1992",
+  "ok",
+  [
+   "Quité «let Carson work with digital tools» y «overlapping text and images, distorting letters»: ninguna fuente lo confirma; lo reemplacé por lo que dice la fuente (grillas fracturadas, tipografías chocadas).",
+   "Atribuí a la crítica (Eye) la división de opiniones y suavicé «lenguaje para sus jóvenes lectores».",
+   "No confirmado: el campo `tech` (postscript, photoshop), «layouts composed digitally» en materials, y el status «issues are collected by libraries and design archives»; no los toqué."
+  ]
+ ],
+ [
+  "vitra-fire-station-1993",
+  "ok",
+  [
+   "Suavicé «first completed building» a «una de las primeras obras construidas»: las fuentes consultadas dicen «among the first» o «major built project»; solo un sitio no usado la llama la primera.",
+   "Quité «soon stopped working as a fire station»: las fuentes solo confirman el uso actual como espacio de exposiciones y eventos.",
+   "«for Vitra» y client no confirmados explícitamente en las fuentes citadas; no toqué `client`."
+  ]
+ ],
+ [
+  "aeron-chair-1994",
+  "ok",
+  [
+   "Quité «woven» y «polyester» y «tensioned»: ninguna fuente confirma el tejido; la malla se describe solo como Pellicle (zonas de tensión variable en la versión actual).",
+   "Quité «emblem of the 1990s office»: no confirmado. Cambié «launched in 1994» por «designed in 1994»: las fuentes dicen diseño de 1994, no la fecha de lanzamiento.",
+   "Materials de la ficha (poliéster tejido, aluminio fundido y plástico) no confirmados exactamente (Brooklyn: aluminio y polímero reciclados); no los toqué."
+  ]
+ ],
+ [
+  "guggenheim-bilbao-1997",
+  "ok",
+  [
+   "Cambié «opened in October 1997» por «built until October 1997»: las fuentes confirman el término de obra en octubre de 1997 y la apertura en 1997, no el mes de apertura.",
+   "Quité «turned a museum into a tool for the revival of a declining industrial city» y «commissioned by the Basque authorities»: las fuentes dicen colaboración de instituciones vascas y la Fundación, y transformación de la ciudad, sin hablar de «declive».",
+   "«Steel structure», «curving» y el éxito turístico no confirmados; no toqué `materials` (la ficha dice estructura de acero)."
+  ]
+ ],
+ [
+  "imac-1998",
+  "ok",
+  [
+   "Quité «friendly and easy to plug in and use» y «the name stressed its internet connection»: ninguna fuente lo sostiene tal cual (solo la cita de Jobs).",
+   "Quité «Jonathan Ive led the design team»: las fuentes dicen que lo diseñó o que dirigía diseño industrial, no el equipo específico.",
+   "«Pop-culture object» no confirmado; el campo `tech` y `materials` (policarbonato) coinciden con el V&A."
+  ]
+ ],
+ [
+  "jewish-museum-berlin-1999",
+  "ok",
+  [
+   "Corregí «zinc-clad»: el museo dice titanio-zinc; dejé `materials` sin tocar.",
+   "Quité «avoid any monumental figure» y «telling the story of Jewish life»: no confirmados; los vacíos se describen como símbolo de pérdida del Holocausto.",
+   "Suavicé «descend underground»: la fuente habla de conexión subterránea desde el edificio antiguo."
+  ]
+ ],
+ [
+  "tate-modern-2000",
+  "ok",
+  [
+   "Quité «kept ... its chimney», «stood empty» y «Tate chose it»: no confirmados; la fuente dice que se convocó un concurso internacional.",
+   "Reemplacé «glazed light box» por «espacio de vidrio de dos pisos» según la fuente."
+  ]
+ ],
+ [
+  "gando-school-2001",
+  "ok",
+  [
+   "Quité «shown at MoMA in New York in 2010»: ninguna fuente consultada lo confirma.",
+   "Suavicé «the villagers made the clay bricks»: las fuentes dicen que participaron en la construcción con materiales locales; la ficha dice «clay», Archnet «tierra comprimida» (no toqué `materials`).",
+   "«Money he raised in Germany» queda como asociación de fondos con apoyo alemán."
+  ]
+ ]
+]

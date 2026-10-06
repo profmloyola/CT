@@ -1,0 +1,448 @@
+{
+ "institutions": [
+  {
+   "id": "inst-wedgwood",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1769,
+   "end": null,
+   "place": "Etruria, Staffordshire",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Wedgwood (Etruria)",
+   "short": "Wedgwood",
+   "key": "English pottery works that Josiah Wedgwood opened at Etruria in 1769, where he organised ceramic production by divided tasks and standardised pieces.",
+   "more": "Josiah Wedgwood had worked as a potter in Burslem since 1759 and built the new works and village of Etruria, near Stoke, with his partner Thomas Bentley. There he separated tasks among workers, set shop discipline and kept pieces uniform, so that design became a step prior to making. The firm sold creamware (Queen's ware) and later jasperware, promoting them with illustrated catalogues and showrooms in London. The company still operates today.",
+   "links": {
+    "designers": [
+     "josiah-wedgwood"
+    ],
+    "works": [
+     "queens-ware-1765",
+     "wedgwood-jasperware-1775"
+    ]
+   },
+   "es": {
+    "name": "Wedgwood (Etruria)",
+    "short": "Wedgwood",
+    "place": "Etruria, Staffordshire",
+    "key": "Manufactura de loza inglesa que Josiah Wedgwood abrió en Etruria en 1769, donde organizó la producción cerámica por tareas divididas y piezas estandarizadas.",
+    "more": "Josiah Wedgwood trabajaba como alfarero en Burslem desde 1759 y levantó la nueva fábrica y aldea de Etruria, cerca de Stoke, con su socio Thomas Bentley. Allí separó las tareas entre los operarios, impuso disciplina de taller y mantuvo uniformes las piezas, de modo que el diseño pasó a ser un paso previo a la fabricación. La firma vendió loza cremosa (Queen's ware) y más tarde jasperware, y las promovió con catálogos ilustrados y salas de exposición en Londres. La empresa sigue activa hoy."
+   },
+   "refs": [],
+   "wiki": "Wedgwood"
+  },
+  {
+   "id": "inst-soho-manufactory",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1766,
+   "end": 1850,
+   "place": "Handsworth, Birmingham",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Soho Manufactory of Boulton",
+   "short": "Soho Manufactory",
+   "key": "Large metalwork factory that Matthew Boulton opened near Birmingham in 1766 to make buttons, silverware, plated goods and ormolu under one roof.",
+   "more": "Boulton built the works at Soho, in Handsworth, as a purpose-designed factory where many trades worked together, with a showroom for visitors. It produced small metal goods, silver and Sheffield-plate wares and ormolu objects in neoclassical taste, often from models supplied by outside designers. Boulton later brought James Watt's steam engines to Soho, where they powered the works. Production there continued into the mid-nineteenth century.",
+   "links": {
+    "designers": [
+     "matthew-boulton"
+    ],
+    "works": [
+     "boulton-ormolu-vases-1770"
+    ]
+   },
+   "es": {
+    "name": "Soho Manufactory de Boulton",
+    "short": "Soho Manufactory",
+    "place": "Handsworth, Birmingham",
+    "key": "Gran fábrica de metales que Matthew Boulton abrió cerca de Birmingham en 1766 para producir botones, platería, objetos chapados y ormolú bajo un mismo techo.",
+    "more": "Boulton levantó la manufactura de Soho, en Handsworth, como una fábrica pensada para reunir muchos oficios, con una sala de exposición para visitantes. Produjo pequeños objetos de metal, platería, piezas de plaqué y objetos de ormolú de gusto neoclásico, a menudo a partir de modelos entregados por diseñadores externos. Más tarde Boulton llevó a Soho las máquinas de vapor de James Watt, que movieron la fábrica. La producción allí continuó hasta mediados del siglo XIX."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-conservatoire-arts-metiers",
+   "level": "normal",
+   "kind": "museum",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1794,
+   "end": null,
+   "place": "París",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Conservatoire des arts et métiers",
+   "short": "Conservatoire",
+   "key": "Paris institution created in 1794 by the revolutionary government to keep machines and instruments as models for teaching the mechanical arts.",
+   "more": "Founded during the French Revolution on a proposal by Abbé Grégoire, it gathered machines, tools and scientific instruments in a public collection meant to instruct craftsmen and manufacturers. It was installed in the former priory of Saint-Martin-des-Champs. It preserved Jacquard's loom and other machines as models for study. It continues today as a teaching institution and technical museum.",
+   "links": {
+    "works": [
+     "jacquard-loom-1804"
+    ]
+   },
+   "es": {
+    "name": "Conservatoire des arts et métiers",
+    "short": "Conservatoire",
+    "place": "París",
+    "key": "Institución parisina creada en 1794 por el gobierno revolucionario para conservar máquinas e instrumentos como modelos para enseñar las artes mecánicas.",
+    "more": "Fundada durante la Revolución Francesa por propuesta del abate Grégoire, reunió máquinas, herramientas e instrumentos científicos en una colección pública destinada a instruir a artesanos y fabricantes. Se instaló en el antiguo priorato de Saint-Martin-des-Champs. Conservó el telar de Jacquard y otras máquinas como modelos de estudio. Hoy sigue como institución de enseñanza y museo técnico."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-government-school-of-design",
+   "level": "essential",
+   "kind": "school",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1837,
+   "end": 1852,
+   "place": "Londres",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Government School of Design",
+   "short": "School of Design",
+   "key": "The first state-funded school of design in Britain, opened in London in 1837 to raise the quality of design in British manufactures.",
+   "more": "It grew out of a parliamentary committee of 1835–36 that worried British goods were falling behind French design. The school opened at Somerset House in 1837, taught drawing and ornament, and later opened branch schools in industrial towns. Its methods and aims were criticised by manufacturers, artists and teachers alike. Reorganised in the early 1850s under the Department of Practical Art, it is regarded as an ancestor of the Royal College of Art.",
+   "links": {},
+   "es": {
+    "name": "Government School of Design",
+    "short": "School of Design",
+    "place": "Londres",
+    "key": "Primera escuela de diseño financiada por el Estado en Gran Bretaña, abierta en Londres en 1837 para elevar la calidad del diseño de las manufacturas británicas.",
+    "more": "Nació de un comité parlamentario de 1835–36 preocupado de que los productos británicos quedaran atrás frente al diseño francés. La escuela abrió en Somerset House en 1837, enseñó dibujo y ornamento y más tarde abrió escuelas filiales en ciudades industriales. Sus métodos y fines fueron criticados por fabricantes, artistas y profesores. Reorganizada a comienzos de la década de 1850 bajo el Department of Practical Art, se considera antecesora del Royal College of Art."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-thonet",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1819,
+   "end": null,
+   "place": "Boppard y Viena",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "AT"
+   ],
+   "name": "Thonet",
+   "short": "Thonet",
+   "key": "Furniture firm that grew from Michael Thonet's workshop in Boppard in 1819 and became a mass producer of bentwood chairs from Vienna.",
+   "more": "Michael Thonet opened a cabinetmaking shop in Boppard in 1819 and experimented with bending wood by steam and glue-laminated layers. He moved to Vienna in 1842, and the firm took the name Gebrüder Thonet in 1853 with his sons. It built its chairs from few standard parts that could be shipped disassembled. The firm still makes bentwood furniture.",
+   "links": {
+    "designers": [
+     "michael-thonet"
+    ],
+    "works": [
+     "thonet-boppard-chair-1836",
+     "thonet-chair-14",
+     "cesca-chair",
+     "lc4-chaise-longue",
+     "stam-cantilever-chair",
+     "wassily-chair"
+    ]
+   },
+   "es": {
+    "name": "Thonet",
+    "short": "Thonet",
+    "place": "Boppard y Viena",
+    "key": "Empresa de muebles que creció desde el taller de Michael Thonet en Boppard en 1819 y llegó a producir en serie sillas de madera curvada desde Viena.",
+    "more": "Michael Thonet abrió un taller de ebanistería en Boppard en 1819 y experimentó con curvar la madera con vapor y con capas encoladas. Se trasladó a Viena en 1842 y la firma tomó el nombre Gebrüder Thonet en 1853 junto a sus hijos. Construyó sus sillas con pocas piezas estándar, que podían enviarse desarmadas. La empresa sigue fabricando muebles de madera curvada."
+   },
+   "refs": [],
+   "wiki": "Thonet"
+  },
+  {
+   "id": "inst-ackermann",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1795,
+   "end": 1828,
+   "place": "Londres",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Ackermann and his Repository of Arts",
+   "short": "Ackermann",
+   "key": "London print shop and publisher of Rudolph Ackermann, whose monthly Repository of Arts carried coloured fashion and furniture plates to a wide public.",
+   "more": "Rudolph Ackermann, born in Saxony, opened a print shop and drawing school on the Strand in London in the 1790s. From 1809 to 1828 he published the Repository of Arts, a monthly magazine with hand-coloured plates of fashions, furniture and interiors, plus samples of fabrics. He also promoted lithography in Britain and published illustrated books.",
+   "links": {
+    "works": [
+     "ackermann-fashion-plates-1809"
+    ]
+   },
+   "es": {
+    "name": "Ackermann y su Repository of Arts",
+    "short": "Ackermann",
+    "place": "Londres",
+    "key": "Tienda de estampas y editorial londinense de Rudolph Ackermann, cuyo Repository of Arts mensual llevó láminas coloreadas de moda y muebles a un público amplio.",
+    "more": "Rudolph Ackermann, nacido en Sajonia, abrió una tienda de estampas y escuela de dibujo en el Strand de Londres en la década de 1790. Entre 1809 y 1828 publicó el Repository of Arts, revista mensual con láminas coloreadas a mano de modas, muebles e interiores, además de muestras de telas. También impulsó la litografía en Gran Bretaña y publicó libros ilustrados."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-manufacture-de-jouy",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1760,
+   "end": 1843,
+   "place": "Jouy-en-Josas, near Versailles",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Oberkampf manufactory at Jouy",
+   "short": "Jouy",
+   "key": "The textile-printing works founded by Christophe-Philippe Oberkampf in 1760, famous for the printed cottons known as toiles de Jouy.",
+   "more": "Oberkampf, a German-born printer, set up the works in 1760, a year after France lifted its ban on printed cottons, to make in France the Indian-style printed cottons that had been imported from India. It grew into one of the main French makers of printed cotton, and its pictorial toiles in a single colour became a lasting model for furnishing fabrics. The works closed in 1843.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "toile-de-jouy-1783"
+    ]
+   },
+   "es": {
+    "name": "Manufactura Oberkampf de Jouy",
+    "short": "Jouy",
+    "place": "Jouy-en-Josas, cerca de Versalles",
+    "key": "La fábrica de estampado textil fundada por Christophe-Philippe Oberkampf en 1760, famosa por los algodones estampados conocidos como toiles de Jouy.",
+    "more": "Oberkampf, un estampador de origen alemán, instaló la fábrica en 1760, un año después de que Francia levantara su prohibición de los algodones estampados, para hacer en Francia los algodones estampados al estilo indio que antes se importaban de la India. Llegó a ser una de las principales fabricantes francesas de algodón estampado, y sus toiles pictóricas de un solo color se volvieron un modelo duradero para telas de decoración. La fábrica cerró en 1843."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-boulton-watt",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1775,
+   "end": 1895,
+   "place": "Soho, Birmingham",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Boulton & Watt",
+   "short": "Boulton & Watt",
+   "key": "The Birmingham partnership of Matthew Boulton and James Watt, formed in 1775 to build and sell Watt’s improved steam engines.",
+   "more": "Boulton, who ran the Soho Manufactory near Birmingham, joined Watt in 1775 and put his capital and his workshops behind Watt’s engine with a separate condenser, patented in 1769. The firm sold engines to mills, mines and waterworks, so that factory power no longer depended on rivers and waterwheels. It gave British industry a standard source of power and a model of the engineering firm.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "matthew-boulton"
+    ],
+    "works": [
+     "watt-rotative-engine-1781"
+    ]
+   },
+   "es": {
+    "name": "Boulton y Watt",
+    "short": "Boulton & Watt",
+    "place": "Soho, Birmingham",
+    "key": "La sociedad de Birmingham entre Matthew Boulton y James Watt, formada en 1775 para construir y vender las máquinas de vapor perfeccionadas de Watt.",
+    "more": "Boulton, que dirigía la Soho Manufactory cerca de Birmingham, se asoció con Watt en 1775 y puso su capital y sus talleres al servicio de la máquina de Watt con condensador separado, patentada en 1769. La empresa vendió máquinas a molinos, minas y obras de agua, de modo que la energía de las fábricas dejó de depender de ríos y ruedas hidráulicas. Dio a la industria británica una fuente de energía estándar y un modelo de empresa de ingeniería."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-academia-san-carlos",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "architecture",
+    "graphic"
+   ],
+   "start": 1783,
+   "end": null,
+   "place": "Mexico City",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "name": "Academia de San Carlos, Mexico",
+   "short": "San Carlos",
+   "key": "The royal academy of fine arts founded in Mexico City in 1783, the first of its kind in the Americas, which taught neoclassical architecture, sculpture and engraving.",
+   "more": "Founded by the Spanish Crown under Charles III as the Real Academia de San Carlos de Nueva España, it followed the model of the academies of Madrid and was meant to train artists and architects in the neoclassical canon. Jerónimo Antonio Gil came from Spain to direct engraving, and the sculptor and architect Manuel Tolsá, who arrived in 1791, became a leading figure of Mexican neoclassicism. It is today part of the Universidad Nacional Autónoma de México.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Academia de San Carlos de México",
+    "short": "San Carlos",
+    "place": "Ciudad de México",
+    "key": "La academia real de bellas artes fundada en Ciudad de México en 1783, la primera de su tipo en América, que enseñó arquitectura, escultura y grabado neoclásicos.",
+    "more": "Fundada por la Corona española bajo Carlos III como Real Academia de San Carlos de Nueva España, siguió el modelo de las academias de Madrid y debía formar artistas y arquitectos en el canon neoclásico. Jerónimo Antonio Gil llegó desde España a dirigir el grabado, y el escultor y arquitecto Manuel Tolsá, que llegó en 1791, fue una figura central del neoclasicismo mexicano. Hoy forma parte de la Universidad Nacional Autónoma de México."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-ecole-beaux-arts",
+   "level": "essential",
+   "kind": "school",
+   "disciplines": [
+    "architecture",
+    "graphic"
+   ],
+   "start": 1819,
+   "end": 1968,
+   "place": "Paris",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "École des Beaux-Arts, Paris",
+   "short": "Beaux-Arts",
+   "key": "The Paris school of fine arts that trained architects in the academic method of composition and sent its ideas around the world through foreign students.",
+   "more": "Formed in 1819 from the earlier royal academies of painting, sculpture and architecture, it taught architecture through ateliers led by patrons and through competitions, above all the Prix de Rome, whose winners studied at the French Academy in Rome. Students learned to compose plans on axes with symmetry and clear hierarchy of spaces. Many foreigners, among them Richard Morris Hunt, studied there and took the method to their countries. The architecture section was separated from the school in 1968.",
+   "links": {
+    "movements": [
+     "beaux-arts"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "opera-garnier-1875"
+    ]
+   },
+   "es": {
+    "name": "École des Beaux-Arts de París",
+    "short": "Beaux-Arts",
+    "place": "París",
+    "key": "La escuela de bellas artes de París que formó arquitectos en el método académico de composición y difundió sus ideas por el mundo mediante estudiantes extranjeros.",
+    "more": "Formada en 1819 a partir de las antiguas academias reales de pintura, escultura y arquitectura, enseñaba arquitectura mediante talleres dirigidos por patrones y mediante concursos, sobre todo el Premio de Roma, cuyos ganadores estudiaban en la Academia de Francia en Roma. Los alumnos aprendían a componer plantas con ejes, simetría y una clara jerarquía de espacios. Muchos extranjeros, entre ellos Richard Morris Hunt, estudiaron allí y llevaron el método a sus países. La sección de arquitectura se separó de la escuela en 1968."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-aa-school",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1847,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Architectural Association School of Architecture",
+   "short": "AA School",
+   "key": "The independent London school of architecture founded in 1847 by young architects who wanted a better training than office apprenticeship.",
+   "more": "It began in 1847 as an association of young architects and pupils who were dissatisfied with learning only by apprenticeship in an office, and it grew into a school of its own. It remained independent of the universities and later of the state. Zaha Hadid and Rem Koolhaas are among the architects who studied there.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "zaha-hadid"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Architectural Association (AA) de Londres",
+    "short": "AA School",
+    "place": "Londres",
+    "key": "La escuela independiente de arquitectura de Londres, fundada en 1847 por jóvenes arquitectos que querían una formación mejor que el aprendizaje en una oficina.",
+    "more": "Nació en 1847 como una asociación de jóvenes arquitectos y aprendices insatisfechos con aprender solo como ayudantes en una oficina, y creció hasta ser una escuela propia. Se mantuvo independiente de las universidades y más tarde del Estado. Zaha Hadid y Rem Koolhaas están entre los arquitectos que estudiaron allí."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-royal-society-of-arts",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1754,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Royal Society of Arts",
+   "short": "Royal Society of Arts",
+   "key": "A London society founded in 1754 to encourage the arts, manufactures and commerce with public prizes, and a forerunner of the state’s efforts to improve industrial design.",
+   "more": "Founded in London in 1754 as the Society for the Encouragement of Arts, Manufactures and Commerce, it offered premiums for inventions, drawings and manufactures. Prince Albert became its president in 1843, and Henry Cole, a member, took part in its exhibitions of British manufactures in the late 1840s. Albert and Cole later organised the Great Exhibition of 1851 and its commission, and the society still exists as the RSA.",
+   "links": {
+    "designers": [],
+    "works": [
+     "crystal-palace"
+    ]
+   },
+   "es": {
+    "name": "Royal Society of Arts (Sociedad para el Fomento de las Artes, Manufacturas y Comercio)",
+    "short": "Royal Society of Arts",
+    "place": "Londres",
+    "key": "Una sociedad londinense fundada en 1754 para fomentar las artes, las manufacturas y el comercio con premios públicos, y antecedente de los esfuerzos del Estado por mejorar el diseño industrial.",
+    "more": "Fundada en Londres en 1754 como Society for the Encouragement of Arts, Manufactures and Commerce, ofrecía premios a inventos, dibujos y manufacturas. El príncipe Alberto fue su presidente desde 1843, y Henry Cole, socio suyo, participó en sus exposiciones de manufacturas británicas de fines de la década de 1840. Alberto y Cole organizaron después la Gran Exposición de 1851 y su comisión, y la sociedad sigue existiendo como la RSA."
+   },
+   "refs": []
+  }
+ ]
+}

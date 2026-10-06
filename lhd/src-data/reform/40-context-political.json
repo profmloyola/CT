@@ -1,0 +1,183 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-mexican-revolution",
+   "track": "political",
+   "start": 1910,
+   "end": 1945,
+   "cont": true,
+   "date": "1910 →",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "name": "Mexican Revolution",
+   "short": "Mexican Revolution",
+   "key": "The revolution of 1910–1920 left a state that used schools, murals and cheap prints to build a national, popular culture.",
+   "happened": "The revolution that began in 1910 against Porfirio Díaz ended around 1920, after the constitution of 1917, with a state that made public education one of its priorities. In the early 1930s fewer than 30% of the schools of the capital were in good condition and about 30,000 children had no classroom.[1]",
+   "effect": "The state commissioned public art and buildings for a mass audience: murals, prints for the street and, in 1932, functional schools by Juan O’Gorman, plain buildings that gave the most service for the least money.[1][2]",
+   "wiki": "Mexican_Revolution",
+   "refs": [
+    {
+     "label": "Memórica (Gobierno de México), «Juan O’Gorman 1923-2023: las escuelas funcionalistas»",
+     "checks": "Situación escolar hacia 1932 (menos del 30 % de las escuelas en buen estado; unos 30.000 niños sin aula); escuelas funcionalistas de 1932 sin adornos. ⚠ Las fechas generales de la Revolución (1910, 1917, 1920) no se leyeron en una fuente directa.",
+     "date": "2026-10-03",
+     "url": "https://memoricamexico.gob.mx/es/memorica/Juan_OGorman_Sala3"
+    },
+    {
+     "label": "ICAA/MFAH, documento «Escuelas primarias 1932»",
+     "checks": "Documento sobre las escuelas primarias de 1932: máximo rendimiento por la mínima inversión.",
+     "date": "2026-10-03",
+     "url": "https://icaa.mfah.org/s/es/item/789180"
+    }
+   ],
+   "es": {
+    "name": "Revolución mexicana",
+    "short": "Revolución mexicana",
+    "date": "1910 →",
+    "key": "La revolución de 1910–1920 dejó un Estado que usó escuelas, murales y estampas baratas para construir una cultura nacional y popular.",
+    "happened": "La revolución que empezó en 1910 contra Porfirio Díaz terminó hacia 1920, tras la constitución de 1917, con un Estado que hizo de la educación pública una de sus prioridades. A comienzos de los años treinta, menos del 30 % de las escuelas de la capital estaba en buen estado y unos 30.000 niños no tenían aula.[1]",
+    "effect": "El Estado encargó arte y edificios públicos para un público masivo: murales, estampas para la calle y, en 1932, las escuelas funcionalistas de Juan O’Gorman, edificios sencillos que daban el máximo servicio con el mínimo gasto.[1][2]"
+   }
+  },
+  {
+   "id": "ctx-national-unifications",
+   "track": "political",
+   "start": 1861,
+   "end": 1871,
+   "cont": false,
+   "date": "1861–1871",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT",
+    "DE"
+   ],
+   "name": "Unifications of Italy and Germany",
+   "short": "Unifications",
+   "key": "The creation of the Kingdom of Italy in 1861 and the German Empire in 1871, which turned scattered states into large national markets and powers.",
+   "happened": "The Kingdom of Italy was proclaimed in 1861, with Rome joining as capital in 1871. The German Empire was proclaimed at Versailles in January 1871, uniting the German states under Prussian leadership. Both created single customs and legal areas where there had been many.",
+   "effect": "A unified Germany became a major industrial and exporting power, and in the following decades worries about the quality and national character of German goods fed organisations such as the Deutscher Werkbund, founded in 1907. The debate between standard types and individual artistic expression in the Werkbund in 1914 took place in this setting of national competition in industry and export.",
+   "es": {
+    "name": "Unificaciones de Italia y Alemania",
+    "short": "Unificaciones",
+    "date": "1861–1871",
+    "key": "La creación del Reino de Italia en 1861 y del Imperio alemán en 1871, que convirtió estados dispersos en grandes mercados y potencias nacionales.",
+    "happened": "El Reino de Italia se proclamó en 1861 y Roma se sumó como capital en 1871. El Imperio alemán se proclamó en Versalles en enero de 1871 y unió los estados alemanes bajo el liderazgo de Prusia. Ambos crearon áreas aduaneras y legales únicas donde antes había muchas.",
+    "effect": "La Alemania unificada se volvió una gran potencia industrial y exportadora, y en las décadas siguientes la preocupación por la calidad y el carácter nacional de los productos alemanes alimentó organizaciones como el Deutscher Werkbund, fundado en 1907. El debate entre tipos estándar y expresión artística individual en el Werkbund en 1914 se dio en este marco de competencia nacional en la industria y la exportación."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-british-empire-trade",
+   "track": "political",
+   "start": 1851,
+   "end": 1913,
+   "cont": false,
+   "date": "1850–1914",
+   "regions": [
+    "europe",
+    "global"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "British Empire and colonial trade",
+   "short": "Empire and trade",
+   "key": "Britain’s empire and its worldwide trade, which brought goods and patterns from India and the East into British shops, museums and homes.",
+   "happened": "In the second half of the nineteenth century Britain was the largest trading power and ruled a vast empire, with India under direct Crown rule from 1858. Colonial goods flowed to London, the India Museum and later the South Kensington Museum collected Indian objects, and Arthur Liberty opened his Regent Street shop in 1875 selling Eastern goods.",
+   "effect": "Indian, Persian and other Eastern textiles and objects became models for British designers and a fashionable taste among customers. Firms such as Liberty built their business on importing and then commissioning such goods, and museum collections gave designers like Owen Jones and Christopher Dresser patterns to study. The same trade also shaped how the East was seen: as a source of decorative models rather than as makers in their own right.",
+   "es": {
+    "name": "Imperio y comercio colonial británico",
+    "short": "Imperio y comercio",
+    "date": "1850–1914",
+    "key": "El imperio de Gran Bretaña y su comercio mundial, que llevó a tiendas, museos y hogares británicos objetos y motivos de la India y de Oriente.",
+    "happened": "En la segunda mitad del siglo XIX Gran Bretaña fue la mayor potencia comercial y gobernó un vasto imperio, con la India bajo dominio directo de la Corona desde 1858. Los bienes coloniales llegaban a Londres, el India Museum y luego el South Kensington Museum reunieron objetos indios, y Arthur Liberty abrió su tienda de Regent Street en 1875 para vender productos de Oriente.",
+    "effect": "Los textiles y objetos indios, persas y de otros lugares de Oriente se volvieron modelos para los diseñadores británicos y un gusto de moda entre los clientes. Empresas como Liberty basaron su negocio en importar y luego encargar esos productos, y las colecciones de los museos dieron a diseñadores como Owen Jones y Christopher Dresser motivos para estudiar. El mismo comercio condicionó además cómo se veía a Oriente: como fuente de modelos decorativos más que como creador por derecho propio."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-catalan-renaixenca",
+   "track": "political",
+   "start": 1860,
+   "end": 1910,
+   "cont": false,
+   "date": "1860–1910",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "name": "Catalan Renaixença",
+   "short": "Renaixença",
+   "key": "The cultural revival of Catalan language, history and identity, which gave Catalan architects and designers a national cause.",
+   "happened": "The Renaixença was a movement to restore Catalan as a literary language and to recover Catalonia’s medieval past, with the Jocs Florals poetry contest revived in Barcelona in 1859. Barcelona hosted a Universal Exhibition in 1888, and the Orfeó Català choral society, founded in 1891, was part of the same current.",
+   "effect": "Catalan identity became something to express in buildings and objects, and architects looked to medieval Catalan forms and to local crafts as a basis for a national style. Lluís Domènech i Montaner, who designed a café-restaurant for the 1888 exhibition and later the Palau de la Música Catalana for the Orfeó Català, was both a Catalanist politician and a leading architect of Modernisme.",
+   "es": {
+    "name": "Renaixença catalana",
+    "short": "Renaixença",
+    "date": "1860–1910",
+    "key": "El renacimiento cultural de la lengua, la historia y la identidad catalanas, que dio a arquitectos y diseñadores catalanes una causa nacional.",
+    "happened": "La Renaixença fue un movimiento para restaurar el catalán como lengua literaria y recuperar el pasado medieval de Cataluña, con los Jocs Florals, certamen de poesía, restablecidos en Barcelona en 1859. Barcelona fue sede de una Exposición Universal en 1888, y el Orfeó Català, sociedad coral fundada en 1891, formó parte de la misma corriente.",
+    "effect": "La identidad catalana pasó a ser algo que expresar en edificios y objetos, y los arquitectos miraron a las formas medievales catalanas y a los oficios locales como base de un estilo nacional. Lluís Domènech i Montaner, que diseñó un café-restaurante para la exposición de 1888 y más tarde el Palau de la Música Catalana para el Orfeó Català, fue a la vez político catalanista y uno de los grandes arquitectos del Modernisme."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-second-empire-paris",
+   "track": "political",
+   "start": 1852,
+   "end": 1870,
+   "date": "1852–1870",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Second Empire and the transformation of Paris",
+   "short": "Second Empire Paris",
+   "key": "The regime of Napoleon III, which rebuilt Paris through large public works and made monumental building a statement of imperial power.",
+   "happened": "Napoleon III became emperor in December 1852 and named Georges-Eugène Haussmann prefect of the Seine in 1853. Under them Paris was cut through with new boulevards, and the regime staged international exhibitions in 1855 and 1867. The empire ended with the defeat at Sedan in 1870.",
+   "effect": "The state used expropriation, public works and official competitions as tools of design: boulevards ordered traffic, hygiene and the view of the city, and the competition for the Opera (1861) made an opulent Beaux-Arts style the image of the court. The École des Beaux-Arts became the arbiter of taste for major public commissions.",
+   "es": {
+    "name": "Segundo Imperio y transformación de París",
+    "short": "París imperial",
+    "date": "1852–1870",
+    "key": "El régimen de Napoleón III, que reconstruyó París con grandes obras públicas e hizo de la construcción monumental una declaración del poder imperial.",
+    "happened": "Napoleón III se convirtió en emperador en diciembre de 1852 y nombró prefecto del Sena a Georges-Eugène Haussmann en 1853. Bajo ellos París fue atravesado por nuevos bulevares, y el régimen organizó exposiciones internacionales en 1855 y 1867. El imperio terminó con la derrota de Sedán en 1870.",
+    "effect": "El Estado usó la expropiación, las obras públicas y los concursos oficiales como herramientas de diseño: los bulevares ordenaron el tráfico, la higiene y la vista de la ciudad, y el concurso de la Ópera (1861) hizo de un estilo Beaux-Arts opulento la imagen de la corte. La École des Beaux-Arts se volvió árbitro del gusto en los grandes encargos públicos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-latam-centenaries-1910",
+   "track": "political",
+   "start": 1904,
+   "end": 1912,
+   "date": "1904–1912",
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Latin American independence centenaries",
+   "short": "Centenaries",
+   "key": "The celebrations of a hundred years of independence in several Latin American states, which led governments to commission monuments and cultural buildings.",
+   "happened": "Around 1910 several Latin American countries marked a century since the first moves toward independence, including Mexico, Chile and Argentina. Governments planned public works, monuments and cultural buildings for the occasion.",
+   "effect": "States used architecture to present themselves as modern nations, and many chose the Beaux-Arts language of European capitals. Examples are the Museo Nacional de Bellas Artes in Santiago and the Angel of Independence on the Paseo de la Reforma in Mexico City, both of 1910.",
+   "es": {
+    "name": "Centenarios de las independencias latinoamericanas",
+    "short": "Centenarios",
+    "date": "1904–1912",
+    "key": "Las celebraciones de cien años de independencia en varios Estados latinoamericanos, que llevaron a los gobiernos a encargar monumentos y edificios culturales.",
+    "happened": "Hacia 1910 varios países latinoamericanos, entre ellos México, Chile y Argentina, conmemoraron un siglo desde los primeros pasos hacia la independencia. Los gobiernos planearon obras públicas, monumentos y edificios culturales para la ocasión.",
+    "effect": "Los Estados usaron la arquitectura para presentarse como naciones modernas, y muchos eligieron el lenguaje Beaux-Arts de las capitales europeas. Ejemplos son el Museo Nacional de Bellas Artes de Santiago y el Ángel de la Independencia en el Paseo de la Reforma de Ciudad de México, ambos de 1910."
+   },
+   "refs": []
+  }
+ ]
+}

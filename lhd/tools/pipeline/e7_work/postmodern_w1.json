@@ -1,0 +1,501 @@
+[
+ {
+  "rtype": "work",
+  "id": "sainsbury-wing-1991",
+  "title": "Sainsbury Wing, National Gallery",
+  "title_es": "Ala Sainsbury de la National Gallery",
+  "year": 1991,
+  "discipline": "architecture",
+  "designers": [
+   "robert-venturi",
+   "denise-scott-brown"
+  ],
+  "maker": "Venturi, Scott Brown and Associates",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Ampliación posmoderna que dialoga con el edificio clásico; da obra propia a Scott Brown.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "La cita histórica y el contexto urbano vuelven a la arquitectura"
+   },
+   {
+    "tipo": "secundario",
+    "via": "postmodern-architecture",
+    "mecanismo": "Ejemplo maduro"
+   }
+  ],
+  "era": "postmodern",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-postmodern-culture",
+    "item": "sainsbury-wing-1991",
+    "mecanismo": "La cita histórica y el contexto urbano vuelven a la arquitectura"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "postmodern-architecture"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "high-line-2009",
+  "title": "High Line, New York",
+  "title_es": "High Line, Nueva York",
+  "year": 2009,
+  "discipline": "architecture",
+  "designers": [
+   "diller-scofidio-renfro"
+  ],
+  "maker": "James Corner Field Operations, Diller Scofidio + Renfro and Piet Oudolf",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Vía férrea elevada convertida en parque; obra de referencia del urbanismo del paisaje, que hoy no tiene ninguna obra.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "mecanismo": "Una infraestructura industrial abandonada se vuelve espacio público"
+   },
+   {
+    "tipo": "secundario",
+    "via": "landscape-urbanism",
+    "mecanismo": "Obra emblemática del movimiento"
+   }
+  ],
+  "era": "postmodern",
+  "date": "2009–2014",
+  "type": "garden",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "item": "high-line-2009",
+    "mecanismo": "Una infraestructura industrial abandonada se vuelve espacio público"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "landscape-urbanism"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "elbphilharmonie-2017",
+  "title": "Elbphilharmonie, Hamburg",
+  "title_es": "Elbphilharmonie, Hamburgo",
+  "year": 2017,
+  "discipline": "architecture",
+  "designers": [
+   "herzog-de-meuron"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sala de conciertos de vidrio sobre un almacén portuario; ancla certera de la última década.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-star-architecture",
+    "mecanismo": "Una ciudad portuaria apuesta por un edificio icónico para su regeneración"
+   }
+  ],
+  "era": "postmodern",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-star-architecture",
+    "item": "elbphilharmonie-2017",
+    "mecanismo": "Una ciudad portuaria apuesta por un edificio icónico para su regeneración"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "lagerfeld-chanel-1983",
+  "title": "Karl Lagerfeld at Chanel",
+  "title_es": "Karl Lagerfeld en Chanel",
+  "year": 1983,
+  "discipline": "fashion",
+  "designers": [
+   "karl-lagerfeld"
+  ],
+  "maker": "Chanel",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Relanzamiento de una casa histórica reinterpretando sus códigos (tweed, doble C, cadenas).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La casa de moda se gestiona como marca global"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-chanel",
+    "mecanismo": "Continúa los códigos de Chanel"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-branding",
+    "item": "lagerfeld-chanel-1983",
+    "mecanismo": "La casa de moda se gestiona como marca global"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "seven-easy-pieces-1985",
+  "title": "Seven Easy Pieces",
+  "title_es": "Seven Easy Pieces",
+  "year": 1985,
+  "discipline": "fashion",
+  "designers": [
+   "donna-karan"
+  ],
+  "maker": "Donna Karan New York",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Guardarropa modular de siete prendas para la mujer que trabaja; moda de poder de los ochenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "Mujeres en cargos directivos → guardarropa propio, flexible y profesional"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-feminisms",
+    "item": "seven-easy-pieces-1985",
+    "mecanismo": "Mujeres en cargos directivos → guardarropa propio, flexible y profesional"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "grunge-perry-ellis-1992",
+  "title": "Grunge collection for Perry Ellis",
+  "title_es": "Colección grunge para Perry Ellis",
+  "year": 1992,
+  "discipline": "fashion",
+  "designers": [
+   "marc-jacobs"
+  ],
+  "maker": "Perry Ellis",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Franela y ropa de segunda mano en la pasarela; la calle entra al lujo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mtv-club",
+    "mecanismo": "La música grunge difundida por MTV llega a la moda"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mtv-club",
+    "item": "grunge-perry-ellis-1992",
+    "mecanismo": "La música grunge difundida por MTV llega a la moda"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "body-meets-dress-1997",
+  "title": "Body Meets Dress, Dress Meets Body",
+  "title_es": "Body Meets Dress, Dress Meets Body",
+  "year": 1997,
+  "discipline": "fashion",
+  "designers": [
+   "rei-kawakubo"
+  ],
+  "maker": "Comme des Garçons",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Prendas con rellenos que deforman la silueta: crítica al cuerpo ideal.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "japanese-avant-garde-fashion",
+    "mecanismo": "Obra central de Kawakubo"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "Cuestiona la silueta femenina normativa"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-feminisms",
+    "item": "body-meets-dress-1997",
+    "mecanismo": "Cuestiona la silueta femenina normativa"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "japanese-avant-garde-fashion"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "helmut-lang-1998",
+  "title": "Helmut Lang minimalism and online show",
+  "title_es": "Minimalismo de Helmut Lang y desfile en línea",
+  "year": 1998,
+  "discipline": "fashion",
+  "designers": [
+   "helmut-lang"
+  ],
+  "maker": "Helmut Lang",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "AT",
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sastrería reducida y materiales técnicos; presentó una colección en internet en lugar de un desfile.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-internet-culture",
+    "mecanismo": "La web permite presentar la colección sin pasarela"
+   },
+   {
+    "tipo": "secundario",
+    "via": "minimalism-fashion-product",
+    "mecanismo": "Figura central del minimalismo"
+   }
+  ],
+  "era": "postmodern",
+  "type": "collection",
+  "duda": "Detalle de la presentación en línea de 1998: verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-internet-culture",
+    "item": "helmut-lang-1998",
+    "mecanismo": "La web permite presentar la colección sin pasarela"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "minimalism-fashion-product"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "sniffin-glue-1976",
+  "title": "Sniffin' Glue fanzine",
+  "title_es": "Fanzine Sniffin' Glue",
+  "year": 1976,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Mark Perry",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fanzine punk escrito a mano y fotocopiado: la gráfica «hazlo tú mismo».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "Cualquiera puede publicar → texto a mano, fotocopia y grapas"
+   }
+  ],
+  "era": "postmodern",
+  "date": "1976–1977",
+  "type": "magazine",
+  "tech": [
+   "photocopying"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-punk",
+    "item": "sniffin-glue-1976",
+    "mecanismo": "Cualquiera puede publicar → texto a mano, fotocopia y grapas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "god-save-the-queen-1977",
+  "title": "God Save the Queen (Sex Pistols)",
+  "title_es": "God Save the Queen (Sex Pistols)",
+  "year": 1977,
+  "discipline": "graphic",
+  "designers": [
+   "jamie-reid"
+  ],
+  "maker": "Virgin Records",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "La imagen gráfica del punk: retrato oficial de la reina intervenido con letras recortadas. El punk hoy no tiene obra gráfica en la línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "El punk rechaza el oficio → collage, letras recortadas y fotocopia"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "mecanismo": "Desempleo y crisis de la Gran Bretaña de los setenta → una gráfica de rabia contra la institución"
+   },
+   {
+    "tipo": "secundario",
+    "via": "westwood-punk-1976",
+    "mecanismo": "Misma escena (McLaren, Westwood, Reid)"
+   }
+  ],
+  "era": "postmodern",
+  "type": "cover",
+  "duda": "El segundo enlace directo es interpretativo: si no se sostiene, excepción C4c.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-punk",
+    "item": "god-save-the-queen-1977",
+    "mecanismo": "El punk rechaza el oficio → collage, letras recortadas y fotocopia"
+   },
+   {
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "item": "god-save-the-queen-1977",
+    "mecanismo": "Desempleo y crisis de la Gran Bretaña de los setenta → una gráfica de rabia contra la institución"
+   }
+  ],
+  "escribir_conexiones": [
+   {
+    "from": "god-save-the-queen-1977",
+    "to": "westwood-punk-1976",
+    "mecanismo": "Misma escena (McLaren, Westwood, Reid)"
+   }
+  ],
+  "campos": {}
+ }
+]

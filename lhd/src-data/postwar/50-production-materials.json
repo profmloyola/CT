@@ -1,0 +1,322 @@
+{
+ "production": [
+  {
+   "id": "fibreglass-polyester",
+   "sub": "materials",
+   "start": 1946,
+   "end": 1975,
+   "cont": true,
+   "date": "1946 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Fibreglass and polyester",
+   "short": "Fibreglass-polyester",
+   "key": "Polyester resin reinforced with glass fibre could be moulded by hand into large, strong, one-piece shells, and after the war it reached boats, cars and furniture.",
+   "origin": "Glass fibre was made on an industrial scale in the United States in the 1930s, and unsaturated polyester resins were developed around the same time. During the Second World War the combination was used for aircraft parts such as radomes, which showed that it could be moulded into complex shapes at low pressure.",
+   "enabled": "Shells of complex curved form in a single piece, made in a mould with little more than resin, glass mat and labour, without the heavy steel presses and dies that metal bodies needed. Short runs were affordable, so small firms could make boat hulls, car bodies and chairs.",
+   "change": "Furniture could be a continuous moulded shell instead of a frame with a seat fixed to it. The Eames fibreglass chairs of 1950 and Eero Saarinen’s Womb chair of 1948 took the seat and back as one sculpted form that follows the body.",
+   "relations": "Designers took up the material while it was still new and little tested: Charles and Ray Eames worked on it from 1950 with Herman Miller, and Saarinen used it for his Womb chair and, later, the seat of the Tulip chair. Its limits, such as the manual labour of lay-up and the fumes of the resin, led later designers to move to injection-moulded thermoplastics.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "eames-fiberglass",
+     "tulip-chair",
+     "womb-chair"
+    ]
+   },
+   "es": {
+    "name": "Fibra de vidrio y poliéster",
+    "short": "Fibra de vidrio",
+    "key": "La resina de poliéster reforzada con fibra de vidrio podía moldearse a mano en carcasas grandes, resistentes y de una sola pieza, y después de la guerra llegó a los botes, los autos y los muebles.",
+    "origin": "La fibra de vidrio se fabricó a escala industrial en Estados Unidos en los años treinta, y por la misma época se desarrollaron las resinas de poliéster insaturado. Durante la Segunda Guerra Mundial la combinación se usó en piezas de avión como los radomos, lo que mostró que podía moldearse en formas complejas a baja presión.",
+    "enabled": "Carcasas de forma curva compleja en una sola pieza, hechas en un molde con poco más que resina, fieltro de vidrio y mano de obra, sin las pesadas prensas y matrices de acero que exigían las carrocerías metálicas. Las tiradas cortas resultaban económicas, de modo que empresas pequeñas pudieron fabricar cascos de botes, carrocerías y sillas.",
+    "change": "El mueble pudo ser una carcasa moldeada continua en lugar de un armazón con un asiento fijado encima. Las sillas de fibra de vidrio de los Eames de 1950 y el sillón Womb de Eero Saarinen de 1948 tomaron asiento y respaldo como una sola forma esculpida que sigue el cuerpo.",
+    "relations": "Los diseñadores adoptaron el material cuando aún era nuevo y poco probado: Charles y Ray Eames trabajaron con él desde 1950 junto a Herman Miller, y Saarinen lo usó para su sillón Womb y, más tarde, para el asiento de la silla Tulip. Sus límites, como el trabajo manual del laminado y los vapores de la resina, llevaron a los diseñadores posteriores a pasarse a los termoplásticos moldeados por inyección.",
+    "date": "1946 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "polyurethane-foam",
+   "sub": "materials",
+   "start": 1950,
+   "end": 1975,
+   "cont": true,
+   "date": "1950 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "US"
+   ],
+   "name": "Polyurethane foam",
+   "short": "Polyurethane foam",
+   "key": "Polyurethane foam, a light and elastic cellular plastic, replaced horsehair, rubber latex and springs as the padding of seats and could be poured into any mould.",
+   "origin": "Polyurethane was first made in Germany in 1937 by a team led by Otto Bayer at IG Farben. Flexible foams were developed for industry in the following years, and in the 1950s they spread to furniture and car seats.",
+   "enabled": "Padding that could be cast or cut to almost any shape, light and cheap, and in a range of firmnesses. A foam body could be fixed over a thin inner shell and then covered in fabric or leather, without the layers of springs, webbing and stuffing of traditional upholstery.",
+   "change": "Upholstered furniture could take sculptural, continuous shapes, with soft curved volumes that a frame of springs could not produce. Arne Jacobsen’s Egg chair of 1958 and George Nelson’s Marshmallow sofa of 1956 belong to the years when foam first became available to furniture designers.",
+   "relations": "Foam also made upholstery faster to make and so cheaper, which fitted the growth of consumption in the 1950s and 1960s. Its weaknesses, such as ageing and crumbling over decades and the flammability of early types, were learned in use.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "egg-chair",
+     "marshmallow-sofa"
+    ]
+   },
+   "es": {
+    "name": "Espuma de poliuretano",
+    "short": "Espuma de poliuretano",
+    "key": "La espuma de poliuretano, un plástico celular liviano y elástico, reemplazó al crin, al látex de caucho y a los resortes como relleno de asientos y podía verterse en cualquier molde.",
+    "origin": "El poliuretano lo obtuvo por primera vez en Alemania, en 1937, un equipo dirigido por Otto Bayer en IG Farben. Las espumas flexibles se desarrollaron para la industria en los años siguientes y en la década de 1950 se extendieron a los muebles y a los asientos de autos.",
+    "enabled": "Un relleno que podía vaciarse o cortarse en casi cualquier forma, liviano, barato y en distintos grados de firmeza. El cuerpo de espuma podía fijarse sobre una carcasa interior delgada y cubrirse de tela o cuero, sin las capas de resortes, cinchas y relleno de la tapicería tradicional.",
+    "change": "El mueble tapizado pudo adoptar formas escultóricas y continuas, con volúmenes blandos y curvos que una estructura de resortes no lograba. El sillón Egg de Arne Jacobsen de 1958 y el sofá Marshmallow de George Nelson de 1956 pertenecen a los años en que la espuma llegó por primera vez a los diseñadores de muebles.",
+    "relations": "La espuma también hizo la tapicería más rápida de fabricar y, por tanto, más barata, lo que encajaba con el crecimiento del consumo de los años cincuenta y sesenta. Sus debilidades, como el envejecimiento y el desmoronamiento con las décadas y la inflamabilidad de los primeros tipos, se conocieron con el uso.",
+    "date": "1950 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "thermoplastics",
+   "sub": "materials",
+   "start": 1950,
+   "end": 1975,
+   "cont": true,
+   "date": "1950 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "IT",
+    "US",
+    "DE"
+   ],
+   "name": "Thermoplastics (ABS and polypropylene)",
+   "short": "Thermoplastics",
+   "key": "ABS and polypropylene, plastics that soften with heat and can be moulded again and again, became the cheap, colourful material of mass-produced objects.",
+   "origin": "ABS was developed in the United States in the 1940s and used commercially from the 1950s. Polypropylene was discovered in the early 1950s, and Giulio Natta in Italy worked out how to make it in a regular, usable form; Montecatini began producing it in 1957 under the name Moplen.",
+   "enabled": "Rigid, tough and light parts that could be coloured in the material itself and made by the thousand in injection moulds, with a good surface straight from the mould. Polypropylene was cheap and flexible enough to make hinges and thin walls.",
+   "change": "Plastic stopped being an imitation of other materials and became a material with its own look: bright colour, glossy surfaces and rounded, moulded forms. In Italy, firms such as Kartell worked with designers to turn household goods and chairs into objects of taste, and Joe Colombo’s Universale chair of 1967 is made of ABS.",
+   "relations": "Their great advantage was cost per piece once a mould existed, so they tied design to large series and to the investment that moulds required. Natta shared the Nobel Prize in Chemistry in 1963 with Karl Ziegler for work on polymers.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "panton-chair",
+     "valentine-typewriter",
+     "universale-4867"
+    ]
+   },
+   "es": {
+    "name": "Termoplásticos (ABS y polipropileno)",
+    "short": "Termoplásticos",
+    "key": "El ABS y el polipropileno, plásticos que se ablandan con el calor y pueden volver a moldearse una y otra vez, se volvieron el material barato y colorido de los objetos de producción en masa.",
+    "origin": "El ABS se desarrolló en Estados Unidos en los años cuarenta y se usó comercialmente desde la década de 1950. El polipropileno se descubrió a comienzos de los cincuenta y Giulio Natta, en Italia, encontró cómo obtenerlo en una forma regular y utilizable; Montecatini comenzó a producirlo en 1957 con el nombre Moplen.",
+    "enabled": "Piezas rígidas, resistentes y livianas, que podían teñirse en la masa y fabricarse por miles en moldes de inyección, con buena superficie directo del molde. El polipropileno era barato y lo bastante flexible para hacer bisagras y paredes delgadas.",
+    "change": "El plástico dejó de ser imitación de otros materiales y pasó a ser un material con aspecto propio: color vivo, superficies brillantes y formas redondeadas y moldeadas. En Italia, empresas como Kartell trabajaron con diseñadores para convertir objetos domésticos y sillas en objetos de buen gusto, y la silla Universale de Joe Colombo de 1967 es de ABS.",
+    "relations": "Su gran ventaja era el costo por pieza una vez hecho el molde, de modo que ataron el diseño a las series grandes y a la inversión que exigían los moldes. Natta compartió en 1963 el Premio Nobel de Química con Karl Ziegler por sus trabajos sobre polímeros.",
+    "date": "1950 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "synthetic-fibres",
+   "sub": "materials",
+   "start": 1950,
+   "end": 1975,
+   "cont": true,
+   "date": "1950 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Synthetic fibres (polyester and elastane)",
+   "short": "Synthetic fibres",
+   "key": "Polyester and elastane, fibres made from petrochemicals, gave clothes that did not crease, dried fast and stretched, and made cheap fashion possible.",
+   "origin": "Nylon, the first fully synthetic fibre, was introduced by DuPont in 1938 after the work of Wallace Carothers. Polyester was invented in Britain in the early 1940s by John Rex Whinfield and James Dickson, and sold from the 1950s under names such as Terylene and Dacron. DuPont introduced the elastic fibre later sold as Lycra, a form of elastane, in 1958.",
+   "enabled": "Fabrics that could be washed and worn without ironing, kept their pleats and could be blended with wool or cotton, and elastic yarns that let clothes follow the body without darts or fastenings.",
+   "change": "Clothing could be cut closer to the body, in bright colours and in new forms, and be cheap enough to be worn for a season. The young fashions of the 1960s, such as Mary Quant’s short skirts and tights, relied on fabrics that were easy to make in large quantities.",
+   "relations": "Synthetic fibres fitted the ready-to-wear industry: a washable, standard-quality cloth suited clothing made in series for a mass market. Later, polyester became a sign of cheapness as well as of convenience.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "quant-miniskirt"
+    ]
+   },
+   "es": {
+    "name": "Fibras sintéticas (poliéster y elastano)",
+    "short": "Fibras sintéticas",
+    "key": "El poliéster y el elastano, fibras hechas a partir de petroquímicos, dieron ropa que no se arrugaba, secaba rápido y se estiraba, y hicieron posible la moda barata.",
+    "origin": "El nailon, la primera fibra totalmente sintética, lo presentó DuPont en 1938 tras el trabajo de Wallace Carothers. El poliéster lo inventaron en Gran Bretaña a comienzos de los años cuarenta John Rex Whinfield y James Dickson, y se vendió desde los cincuenta con nombres como Terylene y Dacron. DuPont presentó en 1958 la fibra elástica vendida luego como Lycra, una forma de elastano.",
+    "enabled": "Telas que podían lavarse y usarse sin planchar, conservaban sus pliegues y se mezclaban con lana o algodón, e hilos elásticos que permitían a la ropa seguir el cuerpo sin pinzas ni cierres.",
+    "change": "La ropa pudo cortarse más ceñida al cuerpo, en colores vivos y formas nuevas, y ser lo bastante barata para usarla una temporada. Las modas juveniles de los años sesenta, como las faldas cortas y las medias de Mary Quant, dependían de telas fáciles de producir en grandes cantidades.",
+    "relations": "Las fibras sintéticas encajaban con la industria del prêt-à-porter: una tela lavable y de calidad uniforme convenía a la ropa hecha en serie para un mercado masivo. Más tarde, el poliéster pasó a ser tanto signo de baratura como de comodidad.",
+    "date": "1950 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "pvc-vinyl",
+   "sub": "materials",
+   "start": 1955,
+   "end": 1975,
+   "cont": true,
+   "date": "1955 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "name": "PVC and vinyl",
+   "short": "PVC and vinyl",
+   "key": "PVC, a plastic that can be made soft, shiny and waterproof, gave the fashion of the 1960s its look of the future and gave furniture and objects inflatable, wipe-clean skins.",
+   "origin": "Polyvinyl chloride was known since the nineteenth century, but it was hard and brittle until Waldo Semon at B.F. Goodrich found in 1926 that plasticisers could make it flexible. It was widely used from the 1930s onward, in cable insulation, floor coverings and raincoats, and in the 1950s and 1960s it became a common material for consumer goods.",
+   "enabled": "Thin sheet that was waterproof, brilliant in colour and could be welded or sewn, and film that could be inflated, printed and wiped clean. It could look like leather, rubber or glass at a fraction of the cost.",
+   "change": "For fashion designers it was a material with no tradition: it did not look like cloth, so it could signal a break with the past. Courrèges and Pierre Cardin used it in the 1960s for white boots, coats and geometric garments that evoked the space age.",
+   "relations": "Vinyl suited a fashion of the new and the artificial, close to the space race and to pop taste; it also served for upholstery and for furniture that could be inflated. Its use in clothing was limited by its lack of breathability and by the fact that it could not be repaired.",
+   "links": {
+    "movements": [
+     "space-age-fashion"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "courreges-space-age",
+     "cardin-cosmocorps"
+    ]
+   },
+   "es": {
+    "name": "PVC y vinilo",
+    "short": "PVC y vinilo",
+    "key": "El PVC, un plástico que puede hacerse blando, brillante e impermeable, dio a la moda de los años sesenta su aspecto de futuro y dio a muebles y objetos pieles inflables y fáciles de limpiar.",
+    "origin": "El cloruro de polivinilo se conocía desde el siglo XIX, pero era duro y quebradizo hasta que Waldo Semon, en B.F. Goodrich, descubrió en 1926 que los plastificantes podían volverlo flexible. Se usó mucho desde los años treinta en aislantes de cables, pisos e impermeables, y en los cincuenta y sesenta se volvió un material corriente de bienes de consumo.",
+    "enabled": "Láminas delgadas, impermeables y de color brillante, que podían soldarse o coserse, y películas que podían inflarse, imprimirse y limpiarse con un paño. Podía parecer cuero, caucho o vidrio a una fracción del costo.",
+    "change": "Para los diseñadores de moda era un material sin tradición: no se parecía a una tela, de modo que podía señalar una ruptura con el pasado. Courrèges y Pierre Cardin lo usaron en los años sesenta en botas blancas, abrigos y prendas geométricas que evocaban la era espacial.",
+    "relations": "El vinilo convenía a una moda de lo nuevo y lo artificial, cercana a la carrera espacial y al gusto pop; también sirvió para tapicería y para muebles inflables. Su uso en ropa estaba limitado por su falta de respirabilidad y porque no podía repararse.",
+    "date": "1955 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "prestressed-concrete",
+   "sub": "materials",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe",
+    "latin-america",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "BR",
+    "IT"
+   ],
+   "name": "Prestressed concrete and thin shells",
+   "short": "Prestressed concrete",
+   "key": "Concrete reinforced with steel, and from the 1930s prestressed so that it carries more with less material, became the structural material of postwar reconstruction and of its great monuments.",
+   "origin": "Reinforced concrete had been used since the late nineteenth century. The French engineer Eugène Freyssinet developed prestressing, in which steel cables or bars are tensioned inside the concrete so that it stays in compression, and patented it in 1928; after the Second World War it spread across Europe and beyond.",
+   "enabled": "Longer spans, thinner slabs and shells, and beams that could be made in a factory and lifted into place. Prestressing cut the amount of material and let concrete take shapes, such as cantilevers and curved shells, that ordinary reinforced concrete could do only with difficulty.",
+   "change": "Concrete became a visible material with its own expression, the rough surface of cast concrete as in Le Corbusier’s Unité d’Habitation in Marseille, and a medium for sculptural form: Oscar Niemeyer’s curves in Brasília, Eero Saarinen’s shell for the TWA terminal and Lina Bo Bardi’s suspended volume at MASP.",
+   "relations": "In reconstruction, concrete allowed housing to be built quickly and in quantity, with standard parts and unskilled labour; in Latin America it became the material of the modern state’s image. The same material was also criticised later for the monotony of mass housing blocks.",
+   "links": {
+    "movements": [
+     "brutalism-metabolism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "unite-habitation",
+     "brasilia-plano-piloto",
+     "alvorada-palace",
+     "brasilia-cathedral",
+     "masp",
+     "museo-antropologia-mexico",
+     "pirelli-tower",
+     "twa-terminal"
+    ]
+   },
+   "es": {
+    "name": "Hormigón pretensado y cáscaras delgadas",
+    "short": "Hormigón pretensado",
+    "key": "El hormigón reforzado con acero y, desde los años treinta, pretensado para que soporte más con menos material, se volvió el material estructural de la reconstrucción de posguerra y de sus grandes monumentos.",
+    "origin": "El hormigón armado se usaba desde fines del siglo XIX. El ingeniero francés Eugène Freyssinet desarrolló el pretensado, en que cables o barras de acero se tensan dentro del hormigón para que quede siempre comprimido, y lo patentó en 1928; después de la Segunda Guerra Mundial se extendió por Europa y más allá.",
+    "enabled": "Luces más largas, losas y cáscaras más delgadas, y vigas que podían hacerse en fábrica y subirse a su lugar. El pretensado redujo la cantidad de material y dejó al hormigón adoptar formas, como voladizos y cáscaras curvas, que el hormigón armado corriente lograba con dificultad.",
+    "change": "El hormigón pasó a ser un material visible con expresión propia, la superficie áspera del hormigón vaciado como en la Unité d’Habitation de Le Corbusier en Marsella, y un medio de forma escultórica: las curvas de Oscar Niemeyer en Brasilia, la cáscara de Eero Saarinen para la terminal de TWA y el volumen suspendido de Lina Bo Bardi en el MASP.",
+    "relations": "En la reconstrucción, el hormigón permitió construir viviendas rápido y en cantidad, con piezas estándar y mano de obra poco calificada; en América Latina se volvió el material de la imagen del Estado moderno. El mismo material fue también criticado más tarde por la monotonía de los bloques de vivienda masiva.",
+    "date": "1945 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "aluminium-alloys",
+   "sub": "materials",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "IT",
+    "DE"
+   ],
+   "name": "Aluminium alloys",
+   "short": "Aluminium alloys",
+   "key": "Light, rust-resistant aluminium alloys, expanded by wartime aircraft production, moved after 1945 into furniture, appliances and typewriters.",
+   "origin": "Aluminium has been produced industrially since the Hall–Héroult electrolytic process of 1886, and strong alloys such as duralumin appeared in the early twentieth century. The Second World War made it a main material of aircraft, and the capacity built for it looked for civilian uses once the war ended.",
+   "enabled": "Strong, light parts that could be cast, extruded or pressed, that did not rust and could be left bare, polished or anodised in colours. Extruded sections made rails and frames of constant profile cheaply.",
+   "change": "Designers could make furniture and equipment that looked light and technical, with thin frames and exposed metal: the Eames Aluminum Group of 1958, with cast aluminium frames and a stretched upholstery, and the Tulip chair’s cast aluminium base show it.",
+   "relations": "The material suited the postwar belief in the good design of light, honest, durable products; it was also expensive in energy, so it was used where lightness or finish justified the cost. Its link with aircraft gave it an image of progress.",
+   "links": {
+    "movements": [
+     "good-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "eames-aluminium",
+     "tulip-chair",
+     "braun-606",
+     "lettera-22"
+    ]
+   },
+   "es": {
+    "name": "Aleaciones de aluminio",
+    "short": "Aleaciones de aluminio",
+    "key": "Las aleaciones de aluminio, livianas y resistentes a la corrosión, ampliadas por la producción de aviones en la guerra, pasaron después de 1945 a muebles, artefactos y máquinas de escribir.",
+    "origin": "El aluminio se produce industrialmente desde el proceso electrolítico de Hall y Héroult de 1886, y a comienzos del siglo XX aparecieron aleaciones resistentes como el duraluminio. La Segunda Guerra Mundial lo convirtió en un material principal de los aviones, y la capacidad instalada para ello buscó usos civiles al terminar la guerra.",
+    "enabled": "Piezas resistentes y livianas, que podían fundirse, extruirse o prensarse, que no se oxidaban y podían dejarse a la vista, pulidas o anodizadas en colores. Los perfiles extruidos permitían hacer rieles y marcos de sección constante a bajo costo.",
+    "change": "Los diseñadores pudieron hacer muebles y equipos de aspecto liviano y técnico, con estructuras delgadas y metal a la vista: lo muestran el Aluminum Group de los Eames de 1958, con estructura de aluminio fundido y tapiz tensado, y el pie de aluminio fundido de la silla Tulip.",
+    "relations": "El material convenía a la creencia de posguerra en el buen diseño de productos livianos, honestos y durables; también era caro en energía, por lo que se usó donde la ligereza o el acabado justificaban el costo. Su vínculo con los aviones le dio una imagen de progreso.",
+    "date": "1945 →"
+   },
+   "refs": []
+  }
+ ]
+}

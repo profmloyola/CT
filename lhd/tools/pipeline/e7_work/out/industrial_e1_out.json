@@ -1,0 +1,22 @@
+[
+ {
+  "rtype": "link",
+  "ctx": "ctx-reading-public",
+  "item": "bodoni-manuale-1788",
+  "note": "A growing circle of readers and book collectors valued fine printing, so Bodoni issued a specimen book that presented his types themselves as objects of display.",
+  "es": {
+   "note": "Un círculo creciente de lectores y bibliófilos valoraba la impresión fina, así que Bodoni publicó un muestrario que presentaba sus propias letras como objeto de exhibición."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-middle-class-consumption",
+  "item": "brummell-tailoring-1810",
+  "note": "Distinction shifted from costly cloth to cut and cleanliness, a standard of dress that middle-class buyers could imitate without a court income.",
+  "es": {
+   "note": "La distinción pasó de la riqueza del tejido al corte y la limpieza, un modelo de vestir que la clase media podía imitar sin las rentas de la corte."
+  },
+  "refs": []
+ }
+]

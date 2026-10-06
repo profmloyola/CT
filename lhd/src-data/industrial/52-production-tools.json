@@ -1,0 +1,134 @@
+{
+ "production": [
+  {
+   "id": "iron-printing-press",
+   "sub": "tools",
+   "start": 1800,
+   "end": 1850,
+   "cont": false,
+   "date": "1800–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Iron printing press",
+   "short": "Iron press",
+   "key": "Presses with iron frames, first built by Earl Stanhope around 1800, printed with more force and a larger sheet than wooden presses, and opened the way to mechanised printing.",
+   "origin": "For centuries the printing press had been a wooden machine. Charles, third Earl Stanhope, had an all-iron press built in London around 1800, and other iron hand presses followed, among them the Columbian, made in the United States, and the Albion, made in London about 1820.",
+   "enabled": "An iron frame was stiffer than a wooden one, so a single pull of the lever could print a whole large sheet with an even impression. Later in the period the iron hand press was joined by cylinder presses driven by steam, such as Friedrich Koenig’s, which The Times used from 1814.",
+   "change": "Printers could set bigger pages, finer type and more detailed engravings, and print them in larger runs. This favoured the sharp, high-contrast letters of the time and the wide pages of newspapers and illustrated books.",
+   "economy": "Printed matter became cheaper to make and sell as presses got faster, which fed the growing demand of readers for newspapers, books and notices.",
+   "relations": "The new press was an instrument for graphic designers, who drew letters and layouts for the machine that would print them, and a model of how iron and steam were applied to a craft.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "stanhope-press-1800"
+    ]
+   },
+   "es": {
+    "name": "Prensa de hierro",
+    "short": "Prensa de hierro",
+    "date": "1800–1850",
+    "key": "Las prensas con armazón de hierro, construidas por primera vez por el conde Stanhope hacia 1800, imprimían con más fuerza y sobre un pliego más grande que las de madera, y abrieron el camino a la impresión mecanizada.",
+    "origin": "Durante siglos la prensa de imprimir fue una máquina de madera. Charles, tercer conde Stanhope, hizo construir en Londres una prensa toda de hierro hacia 1800, y le siguieron otras prensas manuales de hierro, entre ellas la Columbian, hecha en Estados Unidos, y la Albion, hecha en Londres hacia 1820.",
+    "enabled": "Un armazón de hierro era más rígido que uno de madera, de modo que un solo tirón de la palanca podía imprimir un pliego grande entero con una presión pareja. Más adelante en el período, a la prensa manual de hierro se sumaron las prensas de cilindro movidas a vapor, como la de Friedrich Koenig, que The Times usó desde 1814.",
+    "change": "Los impresores pudieron componer páginas más grandes, tipos más finos y grabados más detallados, y tirarlos en ediciones mayores. Esto favoreció las letras nítidas y de alto contraste de la época y las páginas anchas de los diarios y los libros ilustrados.",
+    "economy": "Lo impreso se hizo más barato de producir y de vender a medida que las prensas se aceleraban, lo que alimentó la demanda de diarios, libros y avisos de un público lector cada vez mayor.",
+    "relations": "La nueva prensa era un instrumento para los diseñadores gráficos, que dibujaban letras y páginas para la máquina que las imprimiría, y un modelo de cómo el hierro y el vapor se aplicaban a un oficio."
+   },
+   "refs": []
+  },
+  {
+   "id": "punched-card-weaving",
+   "sub": "tools",
+   "start": 1804,
+   "end": 1850,
+   "cont": false,
+   "date": "1804–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Punched cards for looms",
+   "short": "Punched cards",
+   "key": "Joseph Marie Jacquard’s loom of 1804 read patterns from a chain of punched cards, so that a weaver could produce complex figured fabrics without a helper pulling the cords.",
+   "origin": "Perforated paper and cards to guide looms had been tried in France in the 1720s by Basile Bouchon and Jean-Baptiste Falcon, and Vaucanson improved on them. Jacquard, from Lyon, joined these ideas into a device that he patented in 1804 and that could be fitted on existing looms.",
+   "enabled": "Each card stood for one row of the weave, and the holes decided which warp threads were lifted. A pattern could be woven again and again, or changed by swapping the set of cards, and a figured silk that once took two people could be woven by one.",
+   "change": "The pattern became a stored, reproducible set of instructions separate from the loom and the weaver’s hand. Designers drew the motif on squared paper, and it was then translated into cards, so that complex figured textiles became cheaper and more common.",
+   "economy": "The device spread through the silk industry of Lyon and then to other textile centres. Weavers who feared for their livelihood opposed it at first, and in time it was widely adopted.",
+   "relations": "It is the best-known case of a design stored as a set of instructions, an idea that Charles Babbage later took for his Analytical Engine and that computing used afterwards.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-conservatoire-arts-metiers"
+    ],
+    "designers": [
+     "joseph-marie-jacquard"
+    ],
+    "works": [
+     "jacquard-loom-1804"
+    ]
+   },
+   "es": {
+    "name": "Tarjetas perforadas para telares",
+    "short": "Tarjetas perforadas",
+    "date": "1804–1850",
+    "key": "El telar de Joseph Marie Jacquard de 1804 leía los dibujos en una cadena de tarjetas perforadas, de modo que un tejedor podía hacer telas figuradas complejas sin un ayudante que tirara de los cordeles.",
+    "origin": "En la Francia de la década de 1720, Basile Bouchon y Jean-Baptiste Falcon habían probado papel y tarjetas perforadas para guiar los telares, y Vaucanson las mejoró. Jacquard, de Lyon, reunió estas ideas en un dispositivo que patentó en 1804 y que podía montarse sobre telares ya existentes.",
+    "enabled": "Cada tarjeta representaba una pasada del tejido, y los agujeros decidían qué hilos de la urdimbre se levantaban. Un dibujo podía tejerse una y otra vez, o cambiarse al cambiar el juego de tarjetas, y una seda figurada que antes exigía a dos personas podía tejerla una sola.",
+    "change": "El dibujo pasó a ser un conjunto de instrucciones guardado y reproducible, separado del telar y de la mano del tejedor. Los diseñadores dibujaban el motivo en papel cuadriculado y luego se traducía a tarjetas, de modo que los textiles figurados complejos se hicieron más baratos y más comunes.",
+    "economy": "El dispositivo se extendió por la industria de la seda de Lyon y después a otros centros textiles. Los tejedores que temían por su sustento se opusieron al comienzo, y con el tiempo se adoptó ampliamente.",
+    "relations": "Es el caso más conocido de un diseño guardado como un conjunto de instrucciones, una idea que Charles Babbage tomó después para su máquina analítica y que luego usó la computación."
+   },
+   "refs": []
+  },
+  {
+   "id": "display-types",
+   "sub": "tools",
+   "start": 1803,
+   "end": 1850,
+   "cont": false,
+   "date": "1803–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Fat faces, Egyptians and sans serifs",
+   "short": "Display types",
+   "key": "From about 1800 British founders cast very heavy, wide and plain letters for posters and handbills: fat faces, slab-serif ‘Egyptians’ and the first sans serifs.",
+   "origin": "The fat face, a roman letter with extremely thick strokes, is linked to the London founder Robert Thorne from about 1803. Slab-serif letters with uniform strokes, called Egyptians or Antiques, appeared around 1815 in the specimens of Vincent Figgins, and in 1816 William Caslon IV showed a sans serif in his specimen under the name Egyptian. Heavy sans serifs, called Grotesques, followed in the 1830s.",
+   "enabled": "Big metal and wooden letters could be cast or cut in many sizes for single lines of text on a sheet, with a strength that the fine book types of the time did not have.",
+   "change": "Letters stopped being only a vehicle for continuous reading and became a way to catch the eye. Posters and handbills used contrast of size and weight within one sheet, and a letter could now be designed for display alone.",
+   "economy": "Merchants, theatres and auctioneers needed to be seen from a distance on crowded streets, and founders competed to offer new, bolder letters in their specimens.",
+   "relations": "These letters marked the beginning of the commercial poster and of display typography, and the sans serif they introduced was reworked by designers in the twentieth century.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "caslon-egyptian-1816"
+    ]
+   },
+   "es": {
+    "name": "Tipos gruesos, egipcios y de palo seco",
+    "short": "Tipos de exhibición",
+    "date": "1803–1850",
+    "key": "Desde cerca de 1800 los fundidores británicos produjeron letras muy gruesas, anchas y simples para carteles y volantes: los tipos gruesos, los «egipcios» de serifa rectangular y los primeros de palo seco.",
+    "origin": "El tipo grueso (fat face), una romana de trazos extremadamente gruesos, se asocia con el fundidor londinense Robert Thorne desde cerca de 1803. Las letras de serifa rectangular y trazo uniforme, llamadas egipcias o antiguas, aparecieron hacia 1815 en los especímenes de Vincent Figgins, y en 1816 William Caslon IV mostró en su espécimen una letra de palo seco con el nombre de Egyptian. Los palo seco gruesos, llamados grotescos, vinieron en la década de 1830.",
+    "enabled": "Letras grandes de metal y de madera podían fundirse o tallarse en muchos tamaños para líneas sueltas de texto en un pliego, con una fuerza que los finos tipos de libro de la época no tenían.",
+    "change": "Las letras dejaron de ser solo un vehículo para la lectura continua y pasaron a ser una forma de atraer la mirada. Los carteles y volantes usaron el contraste de tamaño y de peso dentro de una misma hoja, y una letra podía ahora diseñarse solo para exhibición.",
+    "economy": "Comerciantes, teatros y rematadores necesitaban verse de lejos en calles abarrotadas, y los fundidores competían por ofrecer en sus especímenes letras nuevas y más audaces.",
+    "relations": "Estas letras marcaron el comienzo del cartel comercial y de la tipografía de exhibición, y el palo seco que introdujeron fue retomado por los diseñadores en el siglo XX."
+   },
+   "refs": []
+  }
+ ]
+}

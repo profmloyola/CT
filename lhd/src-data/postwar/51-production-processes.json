@@ -1,0 +1,234 @@
+{
+ "production": [
+  {
+   "id": "injection-moulding",
+   "sub": "processes",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "IT"
+   ],
+   "name": "Injection moulding",
+   "short": "Injection moulding",
+   "key": "A process that forces molten plastic into a steel mould and gives finished parts in seconds; it made the one-piece plastic object, in thousands, the norm of postwar consumer goods.",
+   "origin": "John Wesley Hyatt patented an early injection machine in 1872 for celluloid. In the 1940s and 1950s the screw injection machine, which melts and pushes the plastic in one unit, made the process faster and more controllable, and it spread with the new thermoplastics.",
+   "enabled": "Parts of complex shape, with ribs, hinges, snaps and textures, made in one step with little waste and finished straight from the mould, in any colour. Once a steel mould existed, each piece cost very little.",
+   "change": "Designers could make a whole object, such as a chair or a typewriter case, from few parts and with continuous forms and no visible joints. The cost of the mould, in turn, tied the form to large series and to the technical rules of moulding, such as even wall thickness and draft angles.",
+   "relations": "Firms such as Kartell, Olivetti and Braun, and designers such as Joe Colombo, Ettore Sottsass and Verner Panton, built products around it: Colombo’s Universale chair of 1967, Sottsass’s Valentine typewriter of 1969 and Panton’s chair of 1967 depend on moulded plastic.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "panton-chair",
+     "valentine-typewriter",
+     "universale-4867"
+    ]
+   },
+   "es": {
+    "name": "Moldeo por inyección",
+    "short": "Moldeo por inyección",
+    "key": "Un proceso que fuerza plástico fundido dentro de un molde de acero y entrega piezas terminadas en segundos; hizo del objeto plástico de una pieza, por miles, la norma de los bienes de consumo de posguerra.",
+    "origin": "John Wesley Hyatt patentó en 1872 una de las primeras máquinas de inyección, para celuloide. En los años cuarenta y cincuenta la máquina de husillo, que funde y empuja el plástico en una sola unidad, hizo el proceso más rápido y controlable, y se difundió con los nuevos termoplásticos.",
+    "enabled": "Piezas de forma compleja, con nervaduras, bisagras, encajes y texturas, hechas en un solo paso, con poco desperdicio y terminadas directo del molde, en cualquier color. Una vez hecho el molde de acero, cada pieza costaba muy poco.",
+    "change": "Los diseñadores pudieron hacer un objeto completo, como una silla o la carcasa de una máquina de escribir, con pocas piezas y con formas continuas y sin juntas visibles. El costo del molde, a su vez, ató la forma a las series grandes y a las reglas técnicas del moldeo, como el espesor parejo de las paredes y los ángulos de desmoldeo.",
+    "relations": "Empresas como Kartell, Olivetti y Braun, y diseñadores como Joe Colombo, Ettore Sottsass y Verner Panton, construyeron productos en torno a él: la silla Universale de Colombo de 1967, la máquina de escribir Valentine de Sottsass de 1969 y la silla de Panton de 1967 dependen del plástico moldeado.",
+    "date": "1945 →"
+   },
+   "refs": []
+  },
+  {
+   "id": "flat-pack",
+   "sub": "processes",
+   "start": 1956,
+   "end": 1975,
+   "cont": true,
+   "date": "1956 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "SE"
+   ],
+   "name": "Flat-pack furniture",
+   "short": "Flat-pack",
+   "key": "Furniture designed to be shipped disassembled in a flat box and put together by the buyer, which cut transport costs and made modern furniture cheap.",
+   "origin": "According to IKEA, the idea began in 1956, when the designer Gillis Lundgren took the legs off a table so that it would fit into a car. The Swedish firm then made flat packing a principle of its range.",
+   "enabled": "Pieces made of a few flat panels and simple fittings that the buyer assembles at home, packed in thin boxes that stack on pallets and in shops.",
+   "change": "Designers had to think from the start about how a piece is packed and put together: fewer parts, flat panels, standard fittings, and joints that anyone can close without skill.",
+   "economy": "Smaller boxes meant less transport and less warehouse space, and part of the work of assembly passed to the customer, which lowered the price.",
+   "relations": "It is tied to the Swedish firm IKEA and to the idea of Scandinavian design for ordinary homes, in which good form was meant to be within reach of many buyers.",
+   "links": {
+    "movements": [
+     "scandinavian-design"
+    ],
+    "institutions": [
+     "inst-ikea"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Mueble en caja plana",
+    "short": "Caja plana",
+    "date": "1956 →",
+    "key": "Mueble pensado para despacharse desarmado en una caja plana y armarse en casa, lo que abarató el transporte y volvió accesible el mueble moderno.",
+    "origin": "Según IKEA, la idea nació en 1956, cuando el diseñador Gillis Lundgren sacó las patas de una mesa para que cupiera en un auto. La empresa sueca hizo después del embalaje plano un principio de su catálogo.",
+    "enabled": "Piezas hechas de pocos tableros planos y herrajes simples que el comprador arma en casa, empacadas en cajas delgadas que se apilan en paletas y en las tiendas.",
+    "change": "Los diseñadores debieron pensar desde el inicio en cómo se empaca y se arma una pieza: menos partes, tableros planos, herrajes estándar y uniones que cualquiera puede cerrar sin oficio.",
+    "economy": "Cajas más pequeñas significaban menos transporte y menos espacio de bodega, y parte del trabajo de montaje pasó al cliente, lo que bajó el precio.",
+    "relations": "Se asocia a la empresa sueca IKEA y a la idea del diseño escandinavo para hogares comunes, en que la buena forma debía estar al alcance de muchos compradores."
+   },
+   "refs": []
+  },
+  {
+   "id": "screen-printing",
+   "sub": "processes",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "name": "Screen printing",
+   "short": "Screen printing",
+   "key": "Printing by pushing ink through a stencilled mesh, cheap and suited to flat colour, which became the process of posters, art prints and protest graphics.",
+   "origin": "Stencil printing through a screen of silk was in commercial use in the early twentieth century and was taken up by American artists in the 1930s, who named it serigraphy to set it apart from commercial work.",
+   "enabled": "Short runs of posters with large areas of flat, opaque colour on many surfaces, made with little equipment, by a few people and at low cost.",
+   "change": "Graphics of bold flat colour and strong outlines became a common look in the 1960s: Andy Warhol made his paintings from photographs by screen printing from 1962, and the posters of the Atelier Populaire in Paris in May 1968 were first printed this way.",
+   "economy": "The equipment was cheap, so students, artists and small groups could print their own posters quickly, outside the large printing houses.",
+   "relations": "It is bound to the youth culture and political posters of the 1960s and to Pop art, where the look of the process was part of the message.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "icaic-ospaaal-posters",
+     "atelier-populaire-posters"
+    ]
+   },
+   "es": {
+    "name": "Serigrafía",
+    "short": "Serigrafía",
+    "date": "1945 →",
+    "key": "Impresión que empuja la tinta a través de una malla con plantilla, barata y apta para el color plano, que se volvió el proceso del cartel, la gráfica de arte y la de protesta.",
+    "origin": "La impresión con plantilla a través de una malla de seda se usaba comercialmente a comienzos del siglo XX y los artistas estadounidenses la adoptaron en los años treinta, llamándola serigrafía para distinguirla del trabajo comercial.",
+    "enabled": "Tiradas cortas de carteles con grandes superficies de color plano y opaco sobre muchos soportes, hechas con poco equipo, entre pocas personas y a bajo costo.",
+    "change": "La gráfica de color plano intenso y contornos fuertes se volvió un aspecto común en los años sesenta: Andy Warhol hizo sus cuadros a partir de fotografías mediante serigrafía desde 1962, y los carteles del Atelier Populaire de París en mayo de 1968 se imprimieron primero así.",
+    "economy": "El equipo era barato, así que estudiantes, artistas y grupos pequeños podían imprimir sus propios carteles con rapidez, fuera de las grandes imprentas.",
+    "relations": "Está ligada a la cultura juvenil y a los carteles políticos de los años sesenta y al arte pop, donde el aspecto del proceso era parte del mensaje."
+   },
+   "refs": []
+  },
+  {
+   "id": "modular-systems",
+   "sub": "processes",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "CH",
+    "DE"
+   ],
+   "name": "Modular systems and grids",
+   "short": "Modular systems",
+   "key": "Design built from repeated units and fixed grids of proportion, from shelving to page layouts, so that a few standard parts could give many results.",
+   "origin": "Modular thinking came from the interwar functionalists and from industrial standardisation, and after the war it was taught in schools such as the Ulm school of design and used by Swiss graphic designers.",
+   "enabled": "Furniture and buildings that could be extended or rearranged from standard parts, and printed pages organised on a grid of columns and rows that fixed where text and images went.",
+   "change": "The designer worked out a system first and then filled it, so that one grid could organise a whole series of publications, an identity or a product range with a coherent look.",
+   "economy": "Standard units cut the number of different parts to make and made large or repeated commissions faster and cheaper to produce.",
+   "relations": "It is the working method of Ulm functionalism and of the International Typographic Style, which presented the grid as an objective, rational order.",
+   "links": {
+    "movements": [
+     "ulm-functionalism",
+     "international-typographic-style"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "nyc-transit-standards",
+     "ulm-stool",
+     "braun-sk4",
+     "braun-606",
+     "eames-house",
+     "hfg-ulm-building"
+    ]
+   },
+   "es": {
+    "name": "Sistemas modulares y retículas",
+    "short": "Sistemas modulares",
+    "date": "1945 →",
+    "key": "Diseño construido con unidades repetidas y retículas fijas de proporción, desde estanterías hasta páginas, de modo que pocas piezas estándar dieran muchos resultados.",
+    "origin": "El pensamiento modular venía de los funcionalistas de entreguerras y de la estandarización industrial, y tras la guerra se enseñó en escuelas como la de diseño de Ulm y lo usaron los diseñadores gráficos suizos.",
+    "enabled": "Muebles y edificios que podían ampliarse o reordenarse a partir de piezas estándar, y páginas impresas organizadas en una retícula de columnas y filas que fijaba dónde iban el texto y las imágenes.",
+    "change": "El diseñador resolvía primero un sistema y luego lo llenaba, de modo que una misma retícula podía ordenar toda una serie de publicaciones, una identidad o una línea de productos con un aspecto coherente.",
+    "economy": "Las unidades estándar reducían la cantidad de piezas distintas por fabricar y hacían más rápidos y baratos los encargos grandes o repetidos.",
+    "relations": "Es el método de trabajo del funcionalismo de Ulm y del Estilo Tipográfico Internacional, que presentó la retícula como un orden objetivo y racional."
+   },
+   "refs": []
+  },
+  {
+   "id": "prefab-panels",
+   "sub": "processes",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Prefabricated panels",
+   "short": "Prefab panels",
+   "key": "Large concrete wall and floor panels cast in a factory and assembled on site, used to build housing quickly after the war.",
+   "origin": "Prefabrication had been tried between the wars, but after 1945 the housing shortage in war-damaged Europe pushed states to adopt it on a large scale. In France the engineer Raymond Camus patented a panel system in 1948 that was used for large estates.",
+   "enabled": "Housing blocks put up in a short time from standard panels lifted by crane, with the same repeated flat, façade and plan across a whole estate.",
+   "change": "Plans and façades were fitted to the size of the panel and the reach of the crane, so that repeated, plain, rectangular blocks became the look of postwar mass housing.",
+   "economy": "Factory casting and a repeated design let states build many homes at once with fewer skilled workers, which suited governments under pressure to house many people.",
+   "relations": "It belongs to the reconstruction housing programmes of postwar Europe and to the modernist idea of housing as an industrial product.",
+   "links": {
+    "movements": [
+     "brutalism-metabolism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "nakagin-capsule-tower"
+    ]
+   },
+   "es": {
+    "name": "Paneles prefabricados",
+    "short": "Paneles prefab",
+    "date": "1945 →",
+    "key": "Grandes paneles de hormigón para muros y losas, moldeados en fábrica y montados en obra, usados para levantar vivienda con rapidez tras la guerra.",
+    "origin": "La prefabricación se había ensayado entre guerras, pero después de 1945 la falta de vivienda en una Europa dañada por la guerra empujó a los Estados a adoptarla a gran escala. En Francia el ingeniero Raymond Camus patentó en 1948 un sistema de paneles que se usó en grandes conjuntos.",
+    "enabled": "Bloques de vivienda levantados en poco tiempo con paneles estándar izados por grúa, con el mismo departamento, fachada y planta repetidos en todo un conjunto.",
+    "change": "Las plantas y fachadas se ajustaron al tamaño del panel y al alcance de la grúa, de modo que los bloques repetidos, lisos y rectangulares se volvieron la imagen de la vivienda masiva de posguerra.",
+    "economy": "El moldeo en fábrica y un diseño repetido permitían a los Estados construir muchas viviendas a la vez con menos obreros calificados, lo que convenía a gobiernos presionados por alojar a mucha gente.",
+    "relations": "Pertenece a los programas de vivienda de la reconstrucción de la Europa de posguerra y a la idea moderna de la vivienda como producto industrial."
+   },
+   "refs": []
+  }
+ ]
+}

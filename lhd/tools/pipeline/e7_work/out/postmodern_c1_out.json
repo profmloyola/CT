@@ -1,0 +1,221 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-aids-crisis",
+  "track": "social",
+  "start": 1981,
+  "end": null,
+  "date": "1981 →",
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "countries": [
+   "US",
+   "GB",
+   "FR"
+  ],
+  "name": "AIDS crisis",
+  "short": "AIDS crisis",
+  "key": "The epidemic that began to be recognised in 1981 and the official indifference that met it, which produced an activist graphic culture in the United States and Europe.",
+  "happened": "The first cases of what became known as AIDS were reported in the United States in 1981, and the epidemic spread through the decade among communities that governments and much of the public were slow to defend. In 1987 the activist group ACT UP was founded in New York, and campaigns and organisations in Europe also began to demand treatment and information.",
+  "effect": "Design became a tool of protest and of public solidarity. Activists used the means of advertising, with strong images, short slogans and posters pasted in the street, to say what official campaigns did not, as in the pink triangle and slogan of 1987. A few years later the red ribbon (1991) showed the opposite pole: a sign so simple that anyone could wear it, which spread without a brand or an owner.",
+  "es": {
+   "name": "Crisis del sida",
+   "short": "Crisis del sida",
+   "date": "1981 →",
+   "key": "La epidemia que empezó a reconocerse en 1981 y la indiferencia oficial con que fue recibida, que produjo una cultura gráfica activista en Estados Unidos y Europa.",
+   "happened": "Los primeros casos de lo que se conoció como sida se informaron en Estados Unidos en 1981, y la epidemia se extendió durante la década entre comunidades que los gobiernos y buena parte del público tardaron en defender. En 1987 se fundó en Nueva York el grupo activista ACT UP, y también en Europa surgieron campañas y organizaciones que exigían tratamiento e información.",
+   "effect": "El diseño se volvió herramienta de protesta y de solidaridad pública. Los activistas usaron los medios de la publicidad, con imágenes fuertes, lemas breves y afiches pegados en la calle, para decir lo que las campañas oficiales no decían, como en el triángulo rosa y la consigna de 1987. Pocos años después el lazo rojo (1991) mostró el polo opuesto: un signo tan simple que cualquiera podía llevarlo, y que se difundió sin marca ni dueño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-luxury-conglomerates",
+  "track": "economic",
+  "start": 1987,
+  "end": null,
+  "date": "1987 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "IT"
+  ],
+  "name": "Luxury conglomerates and the global fashion system",
+  "short": "Luxury conglomerates",
+  "key": "The concentration of historic fashion houses in a few large groups from the late 1980s, which made the star designer and the global brand the centre of the fashion system.",
+  "happened": "In 1987 Louis Vuitton merged with Moët Hennessy to form LVMH, and in the following years French and Italian houses of long standing were bought and grouped under holding companies such as LVMH and the Gucci Group. The houses kept their names and their codes, but they now belonged to companies that managed them as international brands.",
+  "effect": "Groups hired young, well-known designers to renew old houses and to give each one a public face: Alexander McQueen went to Givenchy in 1996 and Marc Jacobs became creative director at Louis Vuitton in 1997, where he added ready-to-wear. The designer’s task became to reinterpret the house’s codes every season, as Karl Lagerfeld had done at Chanel since 1983, and the collection and the show became part of the brand’s spectacle.",
+  "es": {
+   "name": "Conglomerados del lujo y sistema global de la moda",
+   "short": "Conglomerados del lujo",
+   "date": "1987 →",
+   "key": "La concentración de casas de moda históricas en unos pocos grandes grupos desde fines de los años ochenta, que puso al diseñador estrella y a la marca global en el centro del sistema de la moda.",
+   "happened": "En 1987 Louis Vuitton se fusionó con Moët Hennessy para formar LVMH, y en los años siguientes casas francesas e italianas de larga trayectoria fueron compradas y reunidas bajo grupos como LVMH y el Gucci Group. Las casas conservaron sus nombres y sus códigos, pero pasaron a pertenecer a empresas que las administraban como marcas internacionales.",
+   "effect": "Los grupos contrataron a diseñadores jóvenes y conocidos para renovar casas antiguas y darle a cada una un rostro público: Alexander McQueen llegó a Givenchy en 1996 y Marc Jacobs fue director creativo de Louis Vuitton en 1997, donde sumó el prêt-à-porter. La tarea del diseñador pasó a ser reinterpretar cada temporada los códigos de la casa, como hacía Karl Lagerfeld en Chanel desde 1983, y la colección y el desfile se volvieron parte del espectáculo de la marca."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-rana-plaza",
+  "track": "economic",
+  "start": 2013,
+  "end": 2013,
+  "date": "2013",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "BD"
+  ],
+  "name": "Rana Plaza collapse",
+  "short": "Rana Plaza",
+  "key": "The collapse of a garment-factory building near Dhaka on 24 April 2013, which killed over a thousand workers and made the conditions of clothing production a public question.",
+  "happened": "On 24 April 2013 the Rana Plaza building in Savar, near Dhaka in Bangladesh, collapsed. It housed several garment factories that made clothes for foreign brands, and more than a thousand workers died. The disaster led to agreements on building and fire safety in Bangladeshi factories and to campaigns in the countries where the clothes were sold.",
+  "effect": "The collapse made visible who makes fashion and in what conditions, and put supply chains, traceability and sustainability on the agenda of fashion design. Brands were asked to say where and how their clothes were made, and the question reached designers and consumers alike, as in the Fashion Revolution campaign born that year and in the greater attention given to labels that already made responsibility part of their identity.",
+  "es": {
+   "name": "Derrumbe del Rana Plaza",
+   "short": "Rana Plaza",
+   "date": "2013",
+   "key": "El derrumbe de un edificio de fábricas de ropa cerca de Daca el 24 de abril de 2013, que mató a más de mil trabajadores y convirtió las condiciones de producción de la ropa en una cuestión pública.",
+   "happened": "El 24 de abril de 2013 se derrumbó el edificio Rana Plaza, en Savar, cerca de Daca, en Bangladés. Albergaba varias fábricas de ropa que producían para marcas extranjeras, y murieron más de mil trabajadores. El desastre llevó a acuerdos sobre seguridad de edificios y contra incendios en las fábricas bangladesíes y a campañas en los países donde se vendía la ropa.",
+   "effect": "El derrumbe hizo visible quién fabrica la moda y en qué condiciones, y puso las cadenas de suministro, la trazabilidad y la sustentabilidad en la agenda del diseño de moda. Se pidió a las marcas decir dónde y cómo se hacía su ropa, y la pregunta llegó a diseñadores y consumidores, como en la campaña Fashion Revolution nacida ese año y en la mayor atención que recibieron las marcas que ya hacían de la responsabilidad parte de su identidad."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-covid-19",
+  "track": "social",
+  "start": 2020,
+  "end": 2022,
+  "date": "2020–2022",
+  "regions": [
+   "global"
+  ],
+  "countries": [],
+  "name": "COVID-19 pandemic",
+  "short": "COVID-19 pandemic",
+  "key": "The pandemic that began in 2019 and spread worldwide in 2020, which closed public life for months and moved much of design practice, teaching and exhibition onto screens.",
+  "happened": "A new coronavirus, SARS-CoV-2, was identified at the end of 2019, and in March 2020 the World Health Organization described the outbreak as a pandemic. Governments imposed lockdowns, travel restrictions and bans on gatherings in many countries, and trade fairs, exhibitions, schools and offices closed or went online.",
+  "effect": "Design events that depended on physical meeting had to be cancelled or rethought: the Milan furniture fair of 2020 did not take place and its next edition, in 2021, was reformulated. Studios and schools worked remotely, and the public communication of health, with masks, distancing signs and images of the virus, became a large field of information design.",
+  "es": {
+   "name": "Pandemia de COVID-19",
+   "short": "Pandemia de COVID-19",
+   "date": "2020–2022",
+   "key": "La pandemia que comenzó en 2019 y se extendió por el mundo en 2020, que cerró la vida pública durante meses y trasladó a las pantallas buena parte de la práctica, la enseñanza y la exhibición del diseño.",
+   "happened": "Un nuevo coronavirus, el SARS-CoV-2, se identificó a fines de 2019, y en marzo de 2020 la Organización Mundial de la Salud calificó el brote de pandemia. Los gobiernos impusieron cuarentenas, restricciones de viaje y prohibiciones de reunión en muchos países, y las ferias, las exposiciones, las escuelas y las oficinas cerraron o pasaron a lo virtual.",
+   "effect": "Los eventos de diseño que dependían del encuentro físico debieron cancelarse o repensarse: la feria del mueble de Milán de 2020 no se realizó y su siguiente edición, en 2021, se reformuló. Los estudios y las escuelas trabajaron a distancia, y la comunicación pública de la salud, con mascarillas, señales de distanciamiento e imágenes del virus, se volvió un gran campo del diseño de información."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-generative-ai",
+  "track": "technological",
+  "start": 2022,
+  "end": null,
+  "date": "2022 →",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "US"
+  ],
+  "name": "Generative artificial intelligence",
+  "short": "Generative AI",
+  "key": "The family of models that, from 2022, produce images and text from written instructions, and which brought automation to creative work in design.",
+  "happened": "In 2022 several systems that generate images from a text description became available to the public, among them DALL·E 2 (April), Midjourney and Stable Diffusion. In November of the same year OpenAI released ChatGPT, a conversational assistant based on a language model, which reached a very wide audience within weeks.",
+  "effect": "The brief or the prompt became a new way of making an image, and part of the work of illustration and graphic design could be generated rather than drawn, which raised questions about authorship, the use of existing images for training and the value of craft. At the same time, writing in natural language became a new form of interface, so that interaction design had to consider dialogue as well as the screen.",
+  "es": {
+   "name": "Inteligencia artificial generativa",
+   "short": "IA generativa",
+   "date": "2022 →",
+   "key": "La familia de modelos que, desde 2022, producen imágenes y texto a partir de instrucciones escritas, y que llevó la automatización al trabajo creativo del diseño.",
+   "happened": "En 2022 varios sistemas que generan imágenes a partir de una descripción escrita quedaron al alcance del público, entre ellos DALL·E 2 (abril), Midjourney y Stable Diffusion. En noviembre del mismo año OpenAI lanzó ChatGPT, un asistente conversacional basado en un modelo de lenguaje, que alcanzó en pocas semanas a un público muy amplio.",
+   "effect": "La instrucción escrita pasó a ser una nueva manera de producir una imagen, y parte del trabajo de ilustración y diseño gráfico pudo generarse en lugar de dibujarse, lo que planteó preguntas sobre la autoría, el uso de imágenes existentes para el entrenamiento y el valor del oficio. A la vez, escribir en lenguaje natural se volvió una nueva forma de interfaz, de modo que el diseño de interacción debió considerar el diálogo además de la pantalla."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-aids-crisis",
+  "item": "red-ribbon-1991",
+  "sin_enlace": true,
+  "motivo": "El item red-ribbon-1991 no existe en src-data/ ni en ningun lote de la etapa 7 (ni en LISTAS-CIERRE); no se puede enlazar hasta que se cree la ficha."
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-luxury-conglomerates",
+  "item": "alexander-mcqueen",
+  "note": "Groups renewed historic houses with young designers: McQueen, with his own label, was named chief designer at Givenchy in 1996.",
+  "es": {
+   "note": "Los grupos renovaron casas históricas con jóvenes diseñadores: McQueen, que ya tenía su propia marca, fue nombrado diseñador jefe de Givenchy en 1996."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-luxury-conglomerates",
+  "item": "marc-jacobs",
+  "note": "Louis Vuitton, within LVMH, added ready-to-wear and made Jacobs its creative director in 1997, linking the house’s name to a designer.",
+  "es": {
+   "note": "Louis Vuitton, dentro de LVMH, sumó el prêt-à-porter y nombró director creativo a Jacobs en 1997, con lo que ligó el nombre de la casa a un diseñador."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-luxury-conglomerates",
+  "item": "lagerfeld-chanel-1983",
+  "note": "The historic house as a global brand: the designer reinterprets its codes each season and the collection renews the brand’s image.",
+  "es": {
+   "note": "La casa histórica como marca global: el diseñador reinterpreta sus códigos cada temporada y la colección renueva la imagen de la marca."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-rana-plaza",
+  "item": "inst-fashion-revolution",
+  "note": "The collapse showed who makes clothes; the campaign born that year turned it into a yearly question to brands about where and how garments are made.",
+  "es": {
+   "note": "El derrumbe mostró quién fabrica la ropa; la campaña nacida ese año lo convirtió en una pregunta anual a las marcas sobre dónde y cómo se hacen las prendas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-rana-plaza",
+  "item": "stella-mccartney-label-2001",
+  "note": "Brands that already defended responsible fashion, like McCartney’s, gained visibility after the collapse as sustainability became a public concern.",
+  "es": {
+   "note": "Las marcas que ya defendían una moda responsable, como la de McCartney, ganaron visibilidad tras el derrumbe, cuando la sustentabilidad pasó a ser un tema público."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-covid-19",
+  "item": "inst-salone-del-mobile",
+  "note": "Health restrictions led to the cancellation of the 2020 Milan fair and forced the 2021 edition to be reformulated.",
+  "es": {
+   "note": "Las restricciones sanitarias llevaron a cancelar la feria de Milán de 2020 y obligaron a reformular la edición de 2021."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-generative-ai",
+  "item": "interaction-design",
+  "note": "Conversational assistants (ChatGPT, November 2022) moved the interface from the graphical screen to dialogue in natural language.",
+  "es": {
+   "note": "Los asistentes conversacionales (ChatGPT, noviembre de 2022) llevaron la interfaz de la pantalla gráfica al diálogo en lenguaje natural."
+  },
+  "refs": []
+ }
+]

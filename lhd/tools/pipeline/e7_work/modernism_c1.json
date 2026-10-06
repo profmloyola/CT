@@ -1,0 +1,59 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-stalinism-socialist-realism",
+  "name": "Stalinism and socialist realism",
+  "name_es": "Estalinismo y realismo socialista",
+  "track": "political",
+  "start": 1932,
+  "end": 1953,
+  "date": "1932–1953",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "prioridad": "A",
+  "curso": "El decreto de 1932 sobre las organizaciones artísticas cierra la vanguardia soviética; explica el fin del constructivismo y el giro de la gráfica y la arquitectura.",
+  "explica": [
+   {
+    "id": "constructivism",
+    "mecanismo": "El Estado impone el realismo socialista y disuelve los grupos independientes → fin del constructivismo como programa"
+   },
+   {
+    "id": "ussr-in-construction",
+    "mecanismo": "La revista pasa a celebrar los planes de Stalin → el fotomontaje constructivista se pone al servicio del culto oficial"
+   },
+   {
+    "id": "gustav-klutsis",
+    "mecanismo": "El autor del fotomontaje político es víctima de la represión de 1938"
+   }
+  ],
+  "era": "modernism",
+  "nota": "Fecha de muerte de Klutsis (1938) y su causa: verificar en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-stalinism-socialist-realism",
+    "item": "constructivism",
+    "mecanismo": "El Estado impone el realismo socialista y disuelve los grupos independientes → fin del constructivismo como programa"
+   },
+   {
+    "ctx": "ctx-stalinism-socialist-realism",
+    "item": "ussr-in-construction",
+    "mecanismo": "La revista pasa a celebrar los planes de Stalin → el fotomontaje constructivista se pone al servicio del culto oficial"
+   },
+   {
+    "ctx": "ctx-stalinism-socialist-realism",
+    "item": "gustav-klutsis",
+    "mecanismo": "El autor del fotomontaje político es víctima de la represión de 1938"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

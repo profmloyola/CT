@@ -1,0 +1,239 @@
+[
+ [
+  "moulin-rouge-la-goulue",
+  "ok",
+  [
+   "Quité «opened in Montmartre in 1889» y «its owners commissioned»: ninguna fuente lo confirma; queda «recién abierto» (MoMA).",
+   "Quité «letters that he drew himself» y «Japanese prints he collected»: no confirmados; la influencia japonesa se atribuye a una fuente (Rockwell).",
+   "«Dark flat silhouette» de Valentin pasó a «línea oscura y tono gris plano», como dice la fuente.",
+   "El campo status no se tocó."
+  ]
+ ],
+ [
+  "wainwright-building-1891",
+  "ok",
+  [
+   "Quité «recessed the spandrels» y «eye reads height rather than stacked floors»: no confirmados; los paneles de terracota sí lo están.",
+   "Quité «red» brick (SAH habla de base de granito rojo, no ladrillo) y «base, shaft, top» como modelo exacto: SAH da zonas funcionales.",
+   "«Frame hidden» pasó a la relación pilares/columnas de SAH.",
+   "Fechas: SAH da 1890–1892 y la ciudad 1891; mantuve 1891 atribuido a la ficha municipal, sin tocar date.",
+   "Posible dato dudoso en la ficha: materials dice ladrillo rojo; no confirmado."
+  ]
+ ],
+ [
+  "hotel-tassel",
+  "ok",
+  [
+   "Quité «narrow plot» y «tendril-like curves continuing in the stair railing»: no confirmados; la UNESCO solo habla de la herrería.",
+   "Quité «industrial metal, normally hidden, became the decoration of a bourgeois home»: interpretación; la UNESCO habla de estructuras metálicas «a menudo integradas con sutileza».",
+   "«Often seen as first» pasó a «considerada» (Focus on Belgium)."
+  ]
+ ],
+ [
+  "mucha-gismonda",
+  "ok",
+  [
+   "«Over the Christmas period» pasó a «antes del Año Nuevo» y se precisó que Bernhardt rechazó otro cartel.",
+   "Quité «halo-like mosaic arch» como halo y «gold» como mosaico dorado: las fuentes hablan de tímpano con teselas bizantinas y oro en la paleta.",
+   "Quité «first Paris poster»: la fuente dice solo que era su primer cartel.",
+   "Quité «had Mucha design more posters»: las fuentes hablan de más encargos y contrato de seis años."
+  ]
+ ],
+ [
+  "kelmscott-chaucer",
+  "ok",
+  [
+   "Quité «a reply to the thin, mechanical printing Morris disliked»: ninguna fuente lo dice; lo reemplacé por la composición de páginas enfrentadas (McCune).",
+   "«A few on vellum» pasó a 13; «a few months» pasó a «unos seis meses» (TCD).",
+   "«Each page a unit» pasó a las páginas enfrentadas, como dice McCune.",
+   "No confirmé el material de las encuadernaciones (TCD solo menciona piel de cerdo como opción); campo materials sin tocar."
+  ]
+ ],
+ [
+  "akzidenz-grotesk-1896",
+  "ok",
+  [
+   "Las fuentes discrepan: 1896 (Eye, Devroye, Typeoff para el precursor) y 1898 (Devroye lo cita como alternativa; otras fuentes dan 1898). Conservé c. 1896 sin tocar year/date.",
+   "Quité «for jobbing printer’s work of advertisements, catalogues and forms»: ninguna fuente lo dice.",
+   "«Revived in the 1950s» no confirmado en esos términos; queda solo el renombre de Royal-Grotesk.",
+   "«Model for Helvetica and Univers» pasó a «influencia» (Devroye); Univers solo lo sostiene esa fuente.",
+   "El campo maker (H. Berthold AG) es aceptable pero la tipografía nació en parte en Bauer & Co.; no lo cambié."
+  ]
+ ],
+ [
+  "paris-metro-entrances",
+  "ok",
+  [
+   "Quité «enamelled» y «covered sheds»: la fuente dice lava esmaltada en MoMA (ok para materials) y habla de pabellones y marquesinas, no cobertizos.",
+   "Abbesses (en status) no apareció en ninguna fuente abierta: no lo cité; status sin tocar, pendiente de verificar.",
+   "«Some were later removed or replaced» pasó a las cifras de RATP (167 creadas, 88 existentes).",
+   "NGA fecha el modelo en 1902 y la fabricación 1902–1913; el year 1900 corresponde a la inauguración del metro."
+  ]
+ ],
+ [
+  "hill-house-chair",
+  "ok",
+  [
+   "Corregí la descripción: la silla es de travesaños (ladder-back) de respaldo alto, no «una losa» (slab) escultórica; ninguna fuente habla de losa.",
+   "Quité que esté «en el dormitorio»: solo lo sostenían fuentes no aptas (blog de empresa, página de curso).",
+   "Quité «one of the best-known pieces of his work»: no confirmado.",
+   "Material: Cassina da fresno teñido de negro (reedición); el campo materials dice madera ebonizada, no cambiado.",
+   "La ficha dice client «Walter Blackie» y year 1902; las fuentes dan casa 1902–04, silla 1902."
+  ]
+ ],
+ [
+  "priester-matches-1905",
+  "ok",
+  [
+   "Quité «in Berlin» y «printed by Hollerbaum & Schmidt» como dato de esta impresión: las fuentes solo dicen que Bernhard obtuvo un contrato con esa imprenta tras ganar; el campo maker no se tocó, pero no está confirmado que la imprimiera.",
+   "Reemplacé «cut a more elaborate design down to…» (relato habitual): ninguna fuente lo dice; las fuentes cuentan el rechazo y rescate del diseño.",
+   "«The first Sachplakat» pasó a «a founding example»: las fuentes dicen fundacional, no primero.",
+   "Quité que muchos diseñadores alemanes lo adoptaran: no confirmado. Técnica «colour lithograph» no verificada (campo materials sin tocar)."
+  ]
+ ],
+ [
+  "fortuny-delphos",
+  "ok",
+  [
+   "Quité que el Auriga fue hallado en Delfos «en la década de 1890»: ninguna fuente consultada lo confirma.",
+   "Quité que las mujeres de círculos artísticos lo usaran y que fuera modelo de vestidos plisados posteriores: no confirmado (el campo status no se tocó).",
+   "Corrección de fondo: el V&A (2021) y el Met atribuyen el invento del plisado y el diseño a Adèle Henriette Nigrin, con Fortuny; la ficha dice solo Fortuny (designers). Revisar el campo designers; no se modificó.",
+   "Fecha: V&A dice producción desde 1907, el Met dice 1909 como introducción; se conserva 1907 con atribución al V&A. Cuentas de vidrio en «costuras y mangas» y «seda plisada fina» no verificado en esa disposición; lo quité."
+  ]
+ ],
+ [
+  "behrens-aeg-logo",
+  "ok",
+  [
+   "«Introduced around 1908» pasó a una atribución al Kunstpalast (ventilador c. 1908 con el logotipo): ninguna fuente fecha la marca misma en 1908.",
+   "Quité «his own lettering» y la aparición en carteles, catálogos y papelería con esa tipografía: las fuentes hablan solo de gráfica e impresos en general.",
+   "Quité que la marca se redibujó y que AEG cambió de dueños (status): no verificado; campo no tocado."
+  ]
+ ],
+ [
+  "ford-model-t",
+  "ok",
+  [
+   "Quité «a car that ordinary people could buy and repair»: la fuente dice asequible para el hombre común; lo de repararlo no está confirmado.",
+   "Quité «first mass-produced automobile» (key): las fuentes dicen producción en masa, no «el primero»; ahora se atribuye solo el método.",
+   "«Sturdy» quitado (no confirmado). Cifra de 12½ horas es de ensamblado del chasis según The Henry Ford; la presenté como tiempo de salida de auto terminado tal como lo resume la fuente."
+  ]
+ ],
+ [
+  "poiret-high-waist",
+  "ok",
+  [
+   "Quité «dress reformers had been arguing against it for decades»: ninguna fuente lo dice; lo reemplacé por el hecho documentado (Paquin y Panem ya en 1906).",
+   "«Took their look from the empire and Directoire styles»: solo Britannica (Imperio, 1907) y FIT lo sostienen; Directorio queda atribuido a FIT y no a Poiret. «c. 1908» como fecha exacta de la línea no está confirmada por museo; se escribió «años en torno a 1908».",
+   "Contradicción entre fuentes: el Met dice que eliminó el corsé hacia 1906 y FIT dice que en 1906 aún usaba corsé en S; se presenta la discusión, no una cifra."
+  ]
+ ],
+ [
+  "aeg-turbine-hall",
+  "ok",
+  [
+   "«1909–10» pasó a «terminada en 1909»: las fuentes dan 1909 como finalización; no hay fuente del inicio ni de 1910 (el campo year no se tocó).",
+   "Quité «large hinged arches» (no confirmado) y «look like stone» (las fuentes dicen detalle de templo egipcio, decorativo).",
+   "Quité que la nave «presentó a la empresa como moderna y seria»: interpretación sin fuente."
+  ]
+ ],
+ [
+  "robie-house",
+  "ok",
+  [
+   "Quité «Hyde Park», «Roman brick», «steel beams» como materiales exactos, «built-in lights» y el vínculo con el arte japonés: ninguna fuente consultada lo confirma.",
+   "«1909–10» pasó a «completada en 1910»: las fuentes dan solo 1910; el campo year (1909) puede reflejar el inicio y queda sin tocar.",
+   "«Saved in the 1950s» pasó a amenazas de 1941 y 1957: la fuente no dice en qué año se salvó."
+  ]
+ ],
+ [
+  "posada-catrina",
+  "ok",
+  [
+   "Quité «Mexico City publisher»: las fuentes no dan la ciudad. Quité «French fashions», que pasó a «cultura europea», y «denied their own roots» (no confirmado).",
+   "Quité «later named Catrina»: Berkeley la cataloga ya como Catrina La Calavera Garbancera; el nombre no se fecha.",
+   "Fecha: Berkeley da 1910–1913 y The Grace Museum c. 1910; el campo year (1910) se conserva pero conviene mostrar «c. 1910–1913».",
+   "Quité «sombrero de plumas de dama» no verificado en la descripción; se mantiene solo en la key original como descripción visual de la imagen."
+  ]
+ ],
+ [
+  "palais-stoclet",
+  "ok",
+  [
+   "Quité la torre con figuras esculpidas y los «volúmenes escalonados»: ninguna fuente consultada los confirma.",
+   "Quité «cumbre del giro de la Secesión hacia la forma geométrica»; lo sustituí por lo que dice la UNESCO (una de las obras más logradas de la Secesión; anticipa el Art Déco).",
+   "«Financista» pasó a «banquero» (UNESCO).",
+   "Campo `materials`: dice «mármol de Thasos»; la UNESCO solo dice mármol blanco y un portal patrimonial dice mármol noruego Turilim (exterior): posible error de la ficha, no tocado.",
+   "El estado «sigue siendo una residencia privada» solo lo sostiene el portal Vielfalt der Moderne; campo `status` no tocado."
+  ]
+ ],
+ [
+  "fagus-factory",
+  "ok",
+  [
+   "Quité «pilares de ladrillo», «vidrio colgado delante de la estructura» y el nombre de Carl Benscheidt: ninguna fuente consultada lo confirma (el campo `client` queda sin verificar).",
+   "«Gropius con Adolf Meyer desde 1911» pasó a «construida en 1911»; la UNESCO fecha el diseño hacia 1910 (posible discrepancia con `year` 1911).",
+   "«Precursor de la Bauhaus» se atribuye a la UNESCO (anterior e influyente).",
+   "Campo `materials`/`tech` (ladrillo, estructura de acero): no verificado en las fuentes."
+  ]
+ ],
+ [
+  "looshaus",
+  "ok",
+  [
+   "Quité «frente a la Hofburg»: ninguna fuente consultada lo dice (queda sin verificar).",
+   "Quité «tiendas y oficinas abajo, viviendas arriba» y la relación con «Ornamento y delito» de 1908: no confirmados (la conferencia de diciembre de 1911 sí).",
+   "«Sastres» pasó a «casa de moda masculina» (menswear outfitter).",
+   "El nombre del cliente aparece como «Goldman & Salatsch» en el Wiki de Viena y «Goldmann» en la otra fuente; se mantuvo la grafía de la ficha.",
+   "«Hoy es un banco»: las fuentes dicen que Raiffeisenbank lo adquirió en 1987; campo `status` no tocado."
+  ]
+ ],
+ [
+  "zang-tumb-tuuum-1914",
+  "ok",
+  [
+   "Quité «rompe la sintaxis y la caja regular», «signos matemáticos» y «emblema de la tipografía futurista»: ninguna fuente consultada lo dice.",
+   "«Guerra de los Balcanes de 1912–13» pasó a «guerra de los Balcanes» y el sitio a 1912: las fuentes dan solo el año 1912 (octubre) para el sitio.",
+   "El campo `materials` («Tipografía sobre papel») es coherente con «libro con tipografía» (MoMA); la grafía de las fuentes es «Zang Tumb Tumb» y la ficha usa «Tuuum» (el NGA sí usa Tuuum)."
+  ]
+ ],
+ [
+  "tatlin-tower-1920",
+  "ok",
+  [
+   "Quité «superar la altura de la torre Eiffel»: ninguna fuente consultada la compara con la torre Eiffel (sí dicen más de 396 m y «la más alta del mundo»).",
+   "Quité «sede / edificio de oficinas de la Internacional Comunista» y la exhibición «en Petrogrado»: las fuentes dicen monumento, y la ficha de Tate fecha la maqueta en noviembre de 1920 sin que el resumen precise el lugar; la Britannica sitúa otra muestra en Moscú en diciembre de 1920.",
+   "Quité «solo se hicieron maquetas» y «símbolo de unión entre arte, ingeniería y revolución»: no confirmados; los dos textos discrepan en los volúmenes (cubo, pirámide, hemisferio, cilindro según Tate; cilindro, cono, cubo según Britannica).",
+   "Campos `client` («gobierno soviético») y `materials` («maqueta de madera y metal»): no confirmados por las fuentes; no tocados. La Britannica dice «encargado en 1919» sin decir por quién."
+  ]
+ ],
+ [
+  "bauhaus-exhibition-poster-1923",
+  "ok",
+  [
+   "Corregí la técnica: MoMA registra una litografía, no una impresión tipográfica (letterpress). Se propone `other.materials`; hay que actualizar también `es.materials` («Litografía sobre papel»).",
+   "Quité «formas geométricas simples y gruesas letras de bloque en pocos colores»: ninguna fuente describe el diseño del cartel.",
+   "Quité «lema» y «estado de Turingia»: las fuentes dan la conferencia «Arte y técnica: una nueva unidad» y un «gobierno local»; no nombran a Turingia.",
+   "Quité «identidad gráfica reconocible»: interpretación sin fuente."
+  ]
+ ],
+ [
+  "merz-magazine-1923",
+  "ok",
+  [
+   "Quité «mezcló el collage dadá con la nueva tipografía» y «caso claro de un artista que difunde nuevas ideas sobre la página» como afirmaciones generales; lo reemplacé por lo que dicen las fuentes.",
+   "Cifra de números: V&A habla de 24 numerados con tres no producidos y MoMA de 22; quedó reflejada la discrepancia en lugar de afirmar «24 números».",
+   "«Poemas y collages» de los números: no confirmado para toda la revista; solo se cita lo que dicen las fuentes (Merz 3 con collages).",
+   "El Lissitzky coeditó Merz 8/9 «Nasci» en abril–julio de 1924 (V&A); se mantuvo «1924» para el año."
+  ]
+ ],
+ [
+  "plan-voisin-1925",
+  "ok",
+  [
+   "Quité «torres cruciformes», «parques», «autopistas», «al norte del Sena» y «Rive Droite» en la frase de las torres: las fuentes sólidas consultadas no los dicen (solo un sitio de divulgación, no aceptado como fuente); quedan sin verificar.",
+   "Quité «Gabriel» Voisin y «gran maqueta»: las fuentes dicen solo «Voisin»; la maqueta no se confirma (el campo `status` y `materials` hablan de maqueta, no tocados).",
+   "«Torres idénticas» quitado; «formuló las ideas de la ciudad moderna que luego retomó la renovación urbana» pasó a la atribución al MoMA de influencia en el desarrollo urbano."
+  ]
+ ]
+]

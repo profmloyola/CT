@@ -1,0 +1,504 @@
+[
+ {
+  "rtype": "work",
+  "id": "rabanne-12-dresses-1966",
+  "title": "12 Unwearable Dresses in Contemporary Materials",
+  "title_es": "12 vestidos imposibles de llevar en materiales contemporáneos",
+  "year": 1966,
+  "discipline": "fashion",
+  "designers": [
+   "paco-rabanne"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Vestidos de discos de plástico unidos con anillas metálicas, montados con alicates.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "Materiales industriales sustituyen al tejido"
+   },
+   {
+    "tipo": "secundario",
+    "via": "space-age-fashion",
+    "mecanismo": "Moda de la era espacial"
+   }
+  ],
+  "era": "postwar",
+  "type": "collection",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-plastics",
+    "item": "rabanne-12-dresses-1966",
+    "mecanismo": "Materiales industriales sustituyen al tejido"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "space-age-fashion"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "festival-britain-emblem-1951",
+  "title": "Festival of Britain emblem",
+  "title_es": "Emblema del Festival de Gran Bretaña",
+  "year": 1951,
+  "discipline": "graphic",
+  "designers": [
+   "abram-games"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Emblema de Britannia sobre una rosa de los vientos, imagen del optimismo de la posguerra.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-festival-of-britain",
+    "mecanismo": "El festival encarga su imagen por concurso"
+   }
+  ],
+  "era": "postwar",
+  "type": "logo",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-festival-of-britain",
+    "item": "festival-britain-emblem-1951",
+    "mecanismo": "El festival encarga su imagen por concurso"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "fillmore-posters-1966",
+  "title": "San Francisco psychedelic concert posters",
+  "title_es": "Carteles psicodélicos de conciertos de San Francisco",
+  "year": 1966,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Wes Wilson, Victor Moscoso, Bonnie MacLean and others (Fillmore and Avalon Ballroom)",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Letras deformadas y colores vibrantes del rock psicodélico; capítulo fijo del diseño pop.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-rock-and-pop",
+    "mecanismo": "Conciertos semanales piden carteles que se lean como experiencia"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-youth-counterculture",
+    "mecanismo": "La contracultura rechaza la claridad suiza"
+   }
+  ],
+  "era": "postwar",
+  "date": "1966–1968",
+  "type": "poster",
+  "movements": [
+   "pop-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-rock-and-pop",
+    "item": "fillmore-posters-1966",
+    "mecanismo": "Conciertos semanales piden carteles que se lean como experiencia"
+   },
+   {
+    "ctx": "ctx-youth-counterculture",
+    "item": "fillmore-posters-1966",
+    "mecanismo": "La contracultura rechaza la claridad suiza"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "black-panther-graphics-1967",
+  "title": "The Black Panther newspaper graphics",
+  "title_es": "Gráfica del periódico The Black Panther",
+  "year": 1967,
+  "discipline": "graphic",
+  "designers": [
+   "emory-douglas"
+  ],
+  "maker": "Black Panther Party",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Gráfica política de alto contraste para un periódico de distribución masiva; hoy en todas las historias recientes.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-civil-rights",
+    "mecanismo": "El movimiento negro necesita su propio medio de comunicación"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-youth-counterculture",
+    "mecanismo": "La protesta de los sesenta produce su gráfica"
+   }
+  ],
+  "era": "postwar",
+  "date": "1967–1980",
+  "type": "print",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-civil-rights",
+    "item": "black-panther-graphics-1967",
+    "mecanismo": "El movimiento negro necesita su propio medio de comunicación"
+   },
+   {
+    "ctx": "ctx-youth-counterculture",
+    "item": "black-panther-graphics-1967",
+    "mecanismo": "La protesta de los sesenta produce su gráfica"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "avant-garde-lubalin-1968",
+  "title": "Avant Garde magazine and ITC Avant Garde Gothic",
+  "title_es": "Revista Avant Garde y tipografía ITC Avant Garde Gothic",
+  "year": 1968,
+  "discipline": "graphic",
+  "designers": [
+   "herb-lubalin"
+  ],
+  "maker": "Avant Garde (Ralph Ginzburg); ITC",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Logotipo de ligaduras convertido en tipografía (con Tom Carnase): tipografía expresiva de la fotocomposición.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-phototypesetting",
+    "mecanismo": "La fotocomposición permite letras que se tocan y ligaduras imposibles en metal"
+   }
+  ],
+  "era": "postwar",
+  "date": "1968–1970",
+  "type": "typeface",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-phototypesetting",
+    "item": "avant-garde-lubalin-1968",
+    "mecanismo": "La fotocomposición permite letras que se tocan y ligaduras imposibles en metal"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "cisitalia-202-1947",
+  "title": "Cisitalia 202",
+  "title_es": "Cisitalia 202",
+  "year": 1947,
+  "discipline": "product",
+  "designers": [
+   "pininfarina"
+  ],
+  "maker": "Cisitalia; body by Pinin Farina",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Primer automóvil en la colección del MoMA (1951): la carrocería como escultura continua.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La carrocería artesanal italiana como cultura del proyecto"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-moma",
+    "mecanismo": "Exposición «Eight Automobiles», 1951"
+   }
+  ],
+  "era": "postwar",
+  "type": "car",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "cisitalia-202-1947",
+    "mecanismo": "La carrocería artesanal italiana como cultura del proyecto"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "kilta-1953",
+  "title": "Kilta tableware",
+  "title_es": "Vajilla Kilta",
+  "year": 1953,
+  "discipline": "product",
+  "designers": [
+   "kaj-franck"
+  ],
+  "maker": "Arabia",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Vajilla de piezas sueltas y combinables (luego Teema): diseño democrático escandinavo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-nordic-welfare",
+    "mecanismo": "Departamentos pequeños y hogares modestos → piezas multiuso, apilables y vendidas por separado"
+   }
+  ],
+  "era": "postwar",
+  "type": "tableware",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-nordic-welfare",
+    "item": "kilta-1953",
+    "mecanismo": "Departamentos pequeños y hogares modestos → piezas multiuso, apilables y vendidas por separado"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "braun-t3-1958",
+  "title": "Braun T3 pocket radio",
+  "title_es": "Radio de bolsillo Braun T3",
+  "year": 1958,
+  "discipline": "product",
+  "designers": [
+   "dieter-rams"
+  ],
+  "maker": "Braun",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Radio de transistores de Rams, citada como antecedente del iPod.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-transistor",
+    "mecanismo": "El transistor permite una radio de bolsillo → caja mínima con rejilla de perforaciones"
+   },
+   {
+    "tipo": "secundario",
+    "via": "ipod-2001",
+    "mecanismo": "Conexión de diseño reconocida"
+   }
+  ],
+  "era": "postwar",
+  "type": "radio",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-transistor",
+    "item": "braun-t3-1958",
+    "mecanismo": "El transistor permite una radio de bolsillo → caja mínima con rejilla de perforaciones"
+   }
+  ],
+  "escribir_conexiones": [
+   {
+    "from": "braun-t3-1958",
+    "to": "ipod-2001",
+    "mecanismo": "Conexión de diseño reconocida"
+   }
+  ],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "lego-brick-1958",
+  "title": "LEGO brick",
+  "title_es": "Ladrillo LEGO",
+  "year": 1958,
+  "discipline": "product",
+  "designers": [],
+  "maker": "LEGO (Godtfred Kirk Christiansen)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DK"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sistema modular de plástico moldeado; uno de los objetos de diseño más influyentes.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "El moldeo por inyección permite piezas exactas que encajan siempre"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La abundancia de la posguerra amplía el mercado del juguete"
+   }
+  ],
+  "era": "postwar",
+  "type": "object",
+  "tech": [
+   "injection-moulding"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-plastics",
+    "item": "lego-brick-1958",
+    "mecanismo": "El moldeo por inyección permite piezas exactas que encajan siempre"
+   },
+   {
+    "ctx": "ctx-consumer-society",
+    "item": "lego-brick-1958",
+    "mecanismo": "La abundancia de la posguerra amplía el mercado del juguete"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "ball-chair-1963",
+  "title": "Ball Chair",
+  "title_es": "Silla Ball (Globo)",
+  "year": 1963,
+  "discipline": "product",
+  "designers": [
+   "eero-aarnio"
+  ],
+  "maker": "Asko",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sillón esférico de fibra de vidrio, icono del diseño pop.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "La fibra de vidrio permite una carcasa de una sola pieza"
+   },
+   {
+    "tipo": "secundario",
+    "via": "pop-design",
+    "mecanismo": "Icono pop"
+   }
+  ],
+  "era": "postwar",
+  "type": "chair",
+  "tech": [
+   "fibreglass-polyester"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-plastics",
+    "item": "ball-chair-1963",
+    "mecanismo": "La fibra de vidrio permite una carcasa de una sola pieza"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "pop-design"
+   ]
+  }
+ }
+]

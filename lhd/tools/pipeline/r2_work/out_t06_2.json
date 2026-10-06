@@ -1,0 +1,281 @@
+[
+ {
+  "id": "hsbc-hong-kong-1986",
+  "en": {
+   "key": "Norman Foster’s Hong Kong bank tower, completed in 1986, whose floors hang from eight masts and five double-storey steel trusses around an open atrium.[1][2]",
+   "more": "Designed by Foster’s office, with Ove Arup & Partners as structural engineers, for the Hongkong and Shanghai Banking Corporation and completed in 1986.[1][2] Eight masts carry five double-storey steel suspension trusses, which leaves a column-free ground level; a tall atrium is lit by a bank of mirrors that reflects sunlight down from a light scoop.[1] Dezeen describes it as a pioneer of high-tech architecture because the structure, normally hidden inside, is shown on the outside, and as the first major international project of Foster’s practice.[2]"
+  },
+  "es": {
+   "key": "La torre bancaria de Norman Foster en Hong Kong, terminada en 1986, cuyos pisos cuelgan de ocho mástiles y cinco cerchas de acero de doble piso en torno a un atrio abierto.[1][2]",
+   "more": "Proyectada por la oficina de Foster, con Ove Arup & Partners como ingenieros estructurales, para el Hongkong and Shanghai Banking Corporation y terminada en 1986.[1][2] Ocho mástiles sostienen cinco cerchas de suspensión de acero de doble piso, lo que deja libre de columnas el nivel del suelo; un atrio alto recibe luz de un banco de espejos que refleja hacia abajo el sol captado por un colector de luz.[1] Dezeen la describe como pionera de la arquitectura high-tech porque la estructura, que normalmente va oculta por dentro, se muestra por fuera, y como el primer gran proyecto internacional del estudio de Foster.[2]"
+  },
+  "refs": [
+   {
+    "label": "Arup, «HSBC Headquarters, 1 Queen’s Road Central»",
+    "url": "https://www.arup.com/en/projects/hsbc-headquarters-1-queens-road-central",
+    "checks": "Terminado en 1986 con Foster + Partners; ocho mástiles y cinco cerchas de suspensión de doble piso; nivel del suelo sin columnas; atrio con banco de espejos y colector de luz. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Dezeen, «Foster’s HSBC building in Hong Kong is a revolutionary high-tech skyscraper»",
+    "url": "https://www.dezeen.com/?p=1427465",
+    "checks": "Terminado en 1986; arquitecto Foster Associates, ingeniero estructural Ove Arup & Partners; estructura expuesta en el exterior; primer gran proyecto internacional de Foster; pionero del high-tech. ⚠ prensa de arquitectura, fuente secundaria.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «brought British high-tech structure to Asia» y «set a model for later corporate towers»: ninguna fuente consultada lo confirma; lo cambié por lo que dice Dezeen.",
+   "El inicio del proyecto en 1979 (campo date «1979–86») no lo confirmó ninguna fuente consultada; solo 1986 como terminación. No toqué date.",
+   "Las fuentes difieren en el número de pisos y la altura del atrio (Arup: 47 pisos y 40 m; Dezeen: 44 pisos y diez pisos de atrio), por lo que el texto no da cifras."
+  ]
+ },
+ {
+  "id": "parc-de-la-villette-1987",
+  "en": {
+   "key": "Bernard Tschumi’s Parisian park, opened in 1987 on the site of the old slaughterhouses, laid out as three overlapping systems of points, lines and surfaces, with red folies on a regular grid.[1][2][3]",
+   "more": "An international competition for the park was launched in May 1982 and Tschumi was selected in March 1983; it stands on the site of slaughterhouses that operated from 1867 to 1974.[1] Dezeen reports that he beat more than 470 entries and organised the park in three systems, points, lines and surfaces, with the points as red pavilions on a 120-metre grid.[2] Tschumi’s own office describes the folies as red enamelled steel structures and the park as based on culture rather than nature.[3] The park was inaugurated in October 1987.[1] It was included in MoMA’s 1988 Deconstructivist Architecture exhibition.[2]"
+  },
+  "es": {
+   "key": "El parque parisino de Bernard Tschumi, inaugurado en 1987 en el terreno de los antiguos mataderos, trazado como tres sistemas superpuestos de puntos, líneas y superficies, con folies rojas en una retícula regular.[1][2][3]",
+   "more": "El concurso internacional para el parque se convocó en mayo de 1982 y Tschumi fue elegido en marzo de 1983; se levanta en el terreno de mataderos que funcionaron de 1867 a 1974.[1] Dezeen señala que superó a más de 470 competidores y organizó el parque en tres sistemas, puntos, líneas y superficies, con los puntos como pabellones rojos en una retícula de 120 metros.[2] La oficina del propio Tschumi describe las folies como estructuras de acero esmaltado rojo y el parque como basado en la cultura y no en la naturaleza.[3] El parque fue inaugurado en octubre de 1987.[1] Formó parte de la exposición Deconstructivist Architecture del MoMA en 1988.[2]"
+  },
+  "refs": [
+   {
+    "label": "Parc de la Villette, folleto de bienvenida (historia del parque)",
+    "url": "https://www.lavillette.com/wp-content/uploads/files/Livret-Bienvenue/LA-VILLETTE-LivretsBienvenue_ENG_2025_.pdf",
+    "checks": "Mataderos 1867–1974; concurso internacional lanzado en mayo de 1982; Tschumi elegido en marzo de 1983; inauguración en octubre de 1987. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Dezeen, «Parc de la Villette by Bernard Tschumi»",
+    "url": "https://www.dezeen.com/2022/05/05/parc-de-la-villette-deconstructivism-bernard-tschumi/",
+    "checks": "Más de 470 competidores; tres sistemas de puntos, líneas y superficies; pabellones rojos en retícula de 120 m; exposición del MoMA de 1988. ⚠ da 1983 como año del concurso y 35 pabellones; prensa, fuente secundaria.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Tschumi Architects, «Parc de la Villette»",
+    "url": "https://tschumi.com/projects/3",
+    "checks": "Folies de acero esmaltado rojo; parque basado en la cultura más que en la naturaleza; retícula de puntos sobre trazados lineales; sitio de antiguos mataderos. ⚠ fechas del sitio: 1982–1998.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Reemplacé «won the competition of 1982–83» por las fechas del propio parque (convocatoria mayo 1982, elección marzo 1983); las fuentes difieren (Dezeen 1983, socks-studio 1982).",
+   "Quité «built in stages in the 1980s»: la oficina de Tschumi fecha el proyecto 1982–1998 y la fuente oficial solo confirma la inauguración de 1987; no toqué date «1982–87».",
+   "Quité «became a reference of deconstructivist architecture» como afirmación propia; queda solo la exposición del MoMA de 1988 según Dezeen. El número de folies difiere entre fuentes (25, 26, 35), por lo que no se da."
+  ]
+ },
+ {
+  "id": "franja-del-no-1988",
+  "en": {
+   "key": "The fifteen-minute daily television slot and rainbow symbol of the NO campaign in Chile’s 1988 plebiscite, which answered fear with a message of joy and hope.[1][2][3]",
+   "more": "In the plebiscite of 5 October 1988, Chileans voted on whether military rule would continue.[1][2] The NO had a slot of fifteen minutes every day for 27 days, from 10:45 p.m.[2] A study of the slot finds it saturated with messages of joy and hope, with politics largely absent, and reports an average audience of 4.5 million a night.[2] It included testimonies by actors and an appeal from Ricardo Lagos, and was presented by the journalist Patricio Bañados.[1] Its rainbow stood for the diversity of the opposition and hope after the dictatorship, and its slogan was ‘la alegría ya viene’.[3] The NO won with 54.71 per cent of the votes.[3]"
+  },
+  "es": {
+   "key": "La franja televisiva diaria de quince minutos y el signo del arcoíris de la campaña del NO en el plebiscito chileno de 1988, que respondió al miedo con un mensaje de alegría y esperanza.[1][2][3]",
+   "more": "En el plebiscito del 5 de octubre de 1988, los chilenos votaron si continuaba el régimen militar.[1][2] El NO tuvo una franja de quince minutos cada día durante 27 días, desde las 22:45 horas.[2] Un estudio de la franja la encuentra saturada de mensajes de alegría y esperanza, con la política casi ausente, y da una audiencia media de 4,5 millones por noche.[2] Incluyó testimonios de actores y un llamado de Ricardo Lagos, y la presentó el periodista Patricio Bañados.[1] Su arcoíris representaba la diversidad de la oposición y la esperanza tras la dictadura, y su lema fue «la alegría ya viene».[3] El NO ganó con un 54,71 por ciento de los votos.[3]"
+  },
+  "refs": [
+   {
+    "label": "Archivo del Museo de la Memoria y los Derechos Humanos, «Franja del “No”, 1988, capítulo 26»",
+    "url": "https://archivommdh.cl/index.php/cl-mmdh-00000097-000001-000026",
+    "checks": "Franja de 15 minutos emitida en septiembre de 1988 por todos los canales abiertos; presentada por Patricio Bañados; testimonios de actores y llamado de Ricardo Lagos; plebiscito de octubre contra la continuidad del régimen militar. ⚠ lectura vía resumen automático; da 54,6 % para el NO.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Revista Comunicación y Medios (U. de Chile), artículo sobre la franja del NO de 1988",
+    "url": "https://comunicacionymedios.uchile.cl/index.php/RCM/article/download/50432/52922/175583",
+    "checks": "15 minutos diarios por 27 días desde las 22:45; audiencia media de 4,5 millones; saturada de mensajes de alegría y esperanza; plebiscito el 5 de octubre de 1988. ⚠ no informa sobre el logotipo ni el equipo creativo.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Dialnet, artículo «La franja del NO de 1988»",
+    "url": "https://dialnet.unirioja.es/descarga/articulo/7639989.pdf",
+    "checks": "Arcoíris como diversidad de la oposición y esperanza tras la dictadura; lema «La alegría ya viene»; el NO ganó con 54,71 % el 5 de octubre de 1988. ⚠ lectura vía resumen automático; título del artículo no verificado.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «about 56 per cent» a 54,71 %: las fuentes dan 54,6–54,71 %.",
+   "Quité «General Pinochet» y «eight more years»: las fuentes hablan de continuidad del régimen militar y no confirman el plazo.",
+   "Quité «short pieces, songs», «language of advertising» y «Chile, la alegría ya viene» completo: solo se confirma «la alegría ya viene». Quité «in the month before the vote» por «27 días» (la fuente de archivo dice septiembre).",
+   "Pendiente en status: la conservación en archivos está probada por el archivo del MMDH; que el arcoíris se siga usando en la política chilena no está confirmado. El cliente «Comando por el NO» y el equipo diseñador tampoco se confirmaron; no se tocaron."
+  ]
+ },
+ {
+  "id": "church-of-the-light-1989",
+  "en": {
+   "key": "Tadao Ando’s small concrete church in Ibaraki, completed in 1989, where a cross cut into the wall behind the altar is the main source of light.[1][2][3]",
+   "more": "The church stands in Ibaraki, in the Osaka area, and was designed by Tadao Ando; Japan Architect gives its completion as 1989, while Britannica dates it 1990.[1][3] It is a concrete building in which a cross-shaped opening in the wall behind the altar produces a cross of light inside when daylight strikes the outside of the wall.[1] The cross cut-out is on the eastern facade and the concrete is cast in place.[3] Britannica presents it as a demonstration of how natural light can serve as a spiritual and aesthetic element, and it is still an active church.[1] MoMA holds Ando’s 1989 plan drawing of the building.[2]"
+  },
+  "es": {
+   "key": "La pequeña iglesia de hormigón de Tadao Ando en Ibaraki, terminada en 1989, donde una cruz abierta en el muro tras el altar es la principal fuente de luz.[1][2][3]",
+   "more": "La iglesia está en Ibaraki, en el área de Osaka, y fue proyectada por Tadao Ando; Japan Architect da su terminación en 1989, mientras Britannica la fecha en 1990.[1][3] Es un edificio de hormigón en que una abertura en forma de cruz en el muro tras el altar produce una cruz de luz en el interior cuando la luz del día da sobre el exterior del muro.[1] El corte en cruz está en la fachada oriental.[3] Britannica la presenta como una demostración de cómo la luz natural puede servir de elemento espiritual y estético, y sigue activa como iglesia.[1] El MoMA conserva el plano de 1989 del edificio, dibujado por Ando.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Church of Light»",
+    "url": "https://www.britannica.com/place/Church-of-Light",
+    "checks": "Ibaraki, suburbio de Osaka; Tadao Ando; hormigón; abertura cruciforme tras el altar que genera una cruz de luz; iglesia activa; valor de la luz natural. ⚠ fecha 1990, distinta de 1989; lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, Tadao Ando, «Church of the Light, Ibaraki, Osaka, Japan, Plan», 348.1996",
+    "url": "https://www.moma.org/collection/works/340",
+    "checks": "Plano de 1989, grafito sobre papel japonés, de Tadao Ando, para la obra en Ibaraki, Osaka. ⚠ fecha de un dibujo, no de la terminación.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Japan Architect, «Church of the Light»",
+    "url": "https://japanarch.com/churchoflight-eng",
+    "checks": "Terminación en 1989; Ibaraki, prefectura de Osaka; corte en cruz en la fachada oriental. ⚠ lectura vía resumen automático; no confirma la fecha de diseño.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «reinforced-concrete box» y «bare»: las fuentes dicen hormigón (colado in situ según una referencia no usada), no «armado»; no toqué materials.",
+   "Quité «dark and austere interior», «silence» y que Ando fue «referente para arquitectos occidentales»: ninguna fuente lo confirma.",
+   "Fecha: Britannica da 1990 y Japan Architect 1989; mantuve 1989 y lo digo en el texto. Sin tocar year. Quité además «Ibaraki Kasugaoka Church» como cliente: no verificado (Japan Architect habla de una congregación protestante)."
+  ]
+ },
+ {
+  "id": "juicy-salif-1990",
+  "en": {
+   "key": "Philippe Starck’s three-legged lemon squeezer for Alessi, designed in 1990, more a sculpture on the kitchen table than a utensil.[1][2]",
+   "more": "Starck designed it in 1990 for the Italian firm Alessi, which made it in Crusinallo.[1] It is cast and polished aluminium with nylon tips, an elongated inverted drop with vertical grooves, on three tall, spider-like legs.[1] The juice runs straight into a glass, with pips and pulp, instead of through a sieve.[1] The Met notes its insect-like, tripod look, which some compare to a spaceship, and calls it both functional and indisputably sculptural.[2] The V&A calls it one of Starck’s most influential and controversial designs and a best seller for Alessi.[1]"
+  },
+  "es": {
+   "key": "El exprimidor de tres patas de Philippe Starck para Alessi, diseñado en 1990, más una escultura sobre la mesa de la cocina que un utensilio.[1][2]",
+   "more": "Starck lo diseñó en 1990 para la empresa italiana Alessi, que lo fabricó en Crusinallo.[1] Es de aluminio fundido y pulido con puntas de nailon, una gota alargada invertida con ranuras verticales, sobre tres patas altas, como de araña.[1] El jugo cae directo al vaso, con semillas y pulpa, en vez de pasar por un colador.[1] El Met destaca su aspecto de insecto o trípode, que algunos comparan con una nave espacial, y lo llama a la vez funcional e indiscutiblemente escultórico.[2] El V&A lo llama uno de los diseños más influyentes y controvertidos de Starck y un éxito de ventas de Alessi.[1]"
+  },
+  "refs": [
+   {
+    "label": "V&A, «Juicy Salif lemon squeezer», Philippe Starck",
+    "url": "https://collections.vam.ac.uk/item/O1322194/juicy-salif-lemon-squeezer-starck-philippe",
+    "checks": "Diseñado en 1990 por Starck para Alessi, fabricado en Crusinallo; aluminio fundido y pulido con puntas de nailon; forma de gota invertida con ranuras y tres patas; el jugo cae al vaso sin colador; éxito de ventas; «influyente y controvertido». ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «“Juicy Salif” Lemon Squeezer»",
+    "url": "https://metmuseum.org/art/collection/search/491871",
+    "checks": "Starck, 1990, Alessi, aluminio fundido; tres patas finas, aspecto de insecto o trípode, comparado con una nave espacial; «funcional e indiscutiblemente escultórico».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «often discussed as an object that put image above function» y «turned Starck’s name into a brand of its own»: las fuentes dicen «controvertido» y «escultórico», no eso.",
+   "Quité «squeezes lemons by pressing them on the ribbed dome» y «like a rocket»: las fuentes describen otro mecanismo (el jugo cae al vaso) y comparan con insecto o nave espacial.",
+   "status «Sigue en producción por Alessi»: no confirmado por museos; solo ficha de colección. No tocado."
+  ]
+ },
+ {
+  "id": "gaultier-cone-bra-1990",
+  "en": {
+   "key": "The corset with pointed conical cups that Jean Paul Gaultier made for Madonna’s 1990 Blond Ambition tour, underwear worn as outerwear.[1][2][3]",
+   "more": "Gaultier showed a cone-bra corset dress, with exaggerated pointed cups inspired by 1950s bullet bras, in his Autumn/Winter 1984–85 collection Barbès.[1] Madonna wore Gaultier cone bras in her 1990 «Vogue» video and on the Blond Ambition tour, which, according to the Museum at FIT, furthered his reputation as the enfant terrible of Paris fashion.[1] W magazine calls the garments an exaggerated take on the mid-century bullet bra and says Madonna and Gaultier remain forever linked to them.[3] The 2014 Barbican exhibition showed the conical bra and corsets she wore on the 1990 tour.[2]"
+  },
+  "es": {
+   "key": "El corsé de copas cónicas puntiagudas que Jean Paul Gaultier hizo para la gira Blond Ambition de Madonna en 1990, ropa interior usada como ropa exterior.[1][2][3]",
+   "more": "Gaultier presentó un vestido corsé de copas cónicas, con copas puntiagudas exageradas inspiradas en los sostenes «bala» de los años cincuenta, en su colección otoño/invierno 1984–85 Barbès.[1] Madonna usó sostenes cónicos de Gaultier en su video «Vogue» de 1990 y en la gira Blond Ambition, lo que, según el Museum at FIT, afianzó su fama de enfant terrible de la moda parisina.[1] W magazine los llama una versión exagerada del sostén «bala» de mediados de siglo y dice que Madonna y Gaultier quedan para siempre ligados a ellos.[3] La exposición del Barbican de 2014 mostró el sostén cónico y los corsés que ella usó en la gira de 1990.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Museum at FIT, Fashion History Timeline, «1984 Gaultier cone bra»",
+    "url": "https://fashionhistory.fitnyc.edu/1984-gaultier-cone-bra/",
+    "checks": "Vestido corsé de copas cónicas en la colección Barbès, otoño/invierno 1984–85, inspirado en sostenes bala de los años cincuenta; Madonna lo llevó en el video «Vogue» y la gira de 1990; reputación de enfant terrible. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UAL Fashion Exhibition Making, «The Fashion World of Jean Paul Gaultier» (Barbican, 2014)",
+    "url": "https://fashionexhibitionmaking.arts.ac.uk/the-fashion-world-of-jean-paul-gaultier/",
+    "checks": "Exposición de 2014 con el sostén cónico y los corsés que Madonna usó en la gira mundial de 1990.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "W magazine, «Madonna archives cone bra»",
+    "url": "https://www.wmagazine.com/fashion/madonna-archives-cone-bra",
+    "checks": "Versión exagerada del sostén bala de mediados de siglo; Madonna y Gaultier «para siempre ligados»; Madonna conserva sus piezas. ⚠ prensa de moda, fuente secundaria.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «pink satin» (key) y «satin over a corset structure» no se tocó en materials: ninguna fuente confirma el color ni el material; W menciona una versión de terciopelo morado. Anótese revisar materials.",
+   "Quité «Gaultier designed the stage costumes for the whole tour» como afirmación general: las fuentes solo confirman el sostén y los corsés; quité «the tour and its filming spread the image around the world» (no confirmado).",
+   "Corregí el origen: el motivo cónico no es solo de «sus colecciones de los años ochenta»; el FIT lo ubica en Barbès, 1984–85. Quité «turned underwear into a statement about femininity and power»: no confirmado (W solo habla de «declaración» en sentido general). status («sigue ligado») apoyado por W; «se conserva» no verificado, Madonna conserva sus piezas."
+  ]
+ },
+ {
+  "id": "first-website-1991",
+  "en": {
+   "key": "The first web page, written by Tim Berners-Lee at CERN and dedicated to the World Wide Web project itself, hosted on his NeXT computer.[1][2]",
+   "more": "Berners-Lee submitted his proposal for the World Wide Web at CERN in 1989.[2] By Christmas 1990 he had defined HTML, HTTP and URLs and created the first browser, server and website, at info.cern.ch, on a NeXT computer.[2] The site was dedicated to the World Wide Web project itself.[1] In August 1991 he announced the software on Internet newsgroups, which took the project beyond the physics community.[2] On 30 April 1993 CERN put the web’s software in the public domain.[1][2] CERN launched a project in 2013 to recover the first page at info.cern.ch.[1]"
+  },
+  "es": {
+   "key": "La primera página web, escrita por Tim Berners-Lee en el CERN y dedicada al propio proyecto World Wide Web, alojada en su computador NeXT.[1][2]",
+   "more": "Berners-Lee presentó su propuesta de la World Wide Web en el CERN en 1989.[2] Para la Navidad de 1990 había definido HTML, HTTP y las URL y creado el primer navegador, servidor y sitio web, en info.cern.ch, en un computador NeXT.[2] El sitio estaba dedicado al propio proyecto World Wide Web.[1] En agosto de 1991 anunció el software en grupos de noticias de Internet, lo que llevó el proyecto más allá de la comunidad de la física.[2] El 30 de abril de 1993 el CERN puso el software de la web en el dominio público.[1][2] El CERN inició en 2013 un proyecto para recuperar la primera página en info.cern.ch.[1]"
+  },
+  "refs": [
+   {
+    "label": "CERN, «The birth of the Web»",
+    "url": "https://home.cern/about/birth-web",
+    "checks": "Web creada en 1989 por Berners-Lee; primer sitio alojado en su NeXT y dedicado al proyecto; software en dominio público el 30 de abril de 1993; proyecto de restauración de 2013 en info.cern.ch. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "CERN, Web30, «Web History»",
+    "url": "https://web30.web.cern.ch/web-history.html",
+    "checks": "Propuesta de 1989; hacia diciembre de 1990 primer navegador, servidor y sitio en info.cern.ch en un NeXT; agosto de 1991 anuncio en alt.hypertext; dominio público el 30 de abril de 1993. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí la cronología: según CERN, el primer navegador, servidor y sitio existían ya hacia diciembre de 1990; 1991 es el anuncio a personas ajenas al CERN (agosto), no la creación. No toqué year/date 1991.",
+   "Quité «plain text with links, with no images and with layout left to the browser» y «how to make pages and links to other documents»: ninguna fuente consultada lo detalla. Mantuve el vínculo con 1991 solo como anuncio público.",
+   "status dice que el original no se conserva y que CERN restauró «una copia de una versión posterior»: CERN solo confirma el proyecto de recuperación de 2013; el resto no se confirmó y no se tocó (revisar status)."
+  ]
+ },
+ {
+  "id": "favela-chair-1991",
+  "en": {
+   "key": "The Campana brothers’ chair of wood scraps assembled by hand in 1991, its look taken from the improvised houses of Brazilian favelas.[1][2][3]",
+   "more": "Fernando and Humberto Campana made the original in 1991 from scraps of wood from discarded fruit crates, nailed and glued by hand.[2][3] SFMOMA says only two original prototypes existed.[2] Fernando Campana explained that residents of São Paulo’s favelas build their homes intuitively, and that he tried to behave as they do in making the chair.[1][2] The Italian firm Edra later produced it; museum records date the production version to 2002–03 and note that it is more rectilinear than the prototype.[1][2]"
+  },
+  "es": {
+   "key": "La silla de los hermanos Campana hecha a mano en 1991 con retazos de madera, cuyo aspecto viene de las viviendas improvisadas de las favelas brasileñas.[1][2][3]",
+   "more": "Fernando y Humberto Campana hicieron el original en 1991 con retazos de madera de cajones de fruta desechados, clavados y pegados a mano.[2][3] El SFMOMA dice que solo existieron dos prototipos originales.[2] Fernando Campana explicó que los habitantes de las favelas de São Paulo construyen sus casas de forma intuitiva y que él trató de comportarse como ellos al hacer la silla.[1][2] La firma italiana Edra la produjo después; los registros de museos fechan la versión de producción en 2002–03 y señalan que es más rectilínea que el prototipo.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Museum of Fine Arts, Houston, «Favela chair»",
+    "url": "https://emuseum.mfah.org/catalogues/aia-online-catalogue/objects/65416/favela-chair",
+    "checks": "Prototipo de 1991; versión de producción de Edra diseñada en 2002 y producida en 2003, más rectilínea; inspiración en la expansión informal de São Paulo; cita de Fernando Campana sobre el método intuitivo de las favelas. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "SFMOMA Open Space, «Favela chair» (Darrin Alfred)",
+    "url": "https://openspace.sfmoma.org/2010/10/darrin-alfred-favela-chair/",
+    "checks": "Creada en 1991 por Fernando y Humberto Campana con listones de cajones de fruta; solo dos prototipos; la versión del museo es la de producción de Edra de 2002; inspiración en las favelas de São Paulo. ⚠ lectura vía resumen automático.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Architectural Record, «Tribute: Fernando Campana (1961–2022)»",
+    "url": "https://architecturalrecord.com/articles/15946-tribute-brazilian-architect-and-designer-fernando-campana-1961-2022",
+    "checks": "Silla de 1991 con retazos de madera de cajones de fruta, clavados y pegados a mano; Edra; estudio en São Paulo; inspiración en la construcción de las favelas. ⚠ prensa especializada.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «strips of leftover wood»: según las fuentes son listones de cajones de fruta; quité «without a fixed plan» (solo se confirma el método intuitivo, dicho por Campana).",
+   "Quité «moved a vernacular way of building into the world of design galleries and collectors»: no confirmado.",
+   "Fechas de producción: las fuentes dan 2002 o 2003 para la versión de Edra; el texto lo dice así. status «Sigue en producción por Edra» no confirmado por museos; no tocado. El campo materials («pegados y clavados») queda coherente con las fuentes."
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+{
+ "era": {
+  "id": "industrial",
+  "start": 1750,
+  "end": 1851,
+  "name": "Industrial Revolution",
+  "intro": "Mechanisation and division of labour: those who design are separated from those who make.",
+  "es": {
+   "name": "Revolución Industrial",
+   "intro": "Mecanización y división del trabajo: quien diseña se separa de quien fabrica."
+  }
+ },
+ "tracks": [
+  {
+   "id": "political",
+   "label": "Political",
+   "es": {
+    "label": "Político"
+   }
+  },
+  {
+   "id": "economic",
+   "label": "Economic",
+   "es": {
+    "label": "Económico"
+   }
+  },
+  {
+   "id": "social",
+   "label": "Social",
+   "es": {
+    "label": "Social"
+   }
+  },
+  {
+   "id": "cultural",
+   "label": "Cultural",
+   "es": {
+    "label": "Cultural"
+   }
+  },
+  {
+   "id": "technological",
+   "label": "Technological",
+   "es": {
+    "label": "Tecnológico"
+   }
+  }
+ ]
+}

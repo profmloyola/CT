@@ -1,0 +1,229 @@
+{
+ "connections": [
+  {
+   "from": "inst-hfg-ulm",
+   "to": "inst-braun",
+   "note": "Ulm teachers such as Gugelot and Aicher designed for Braun, so the school’s rational method passed into the company’s products: an influence through shared people.",
+   "es": {
+    "note": "Profesores de Ulm como Gugelot y Aicher diseñaron para Braun, así que el método racional de la escuela pasó a los productos de la empresa: influencia a través de personas comunes."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-hfg-ulm",
+   "to": "inst-esdi",
+   "note": "ESDI in Rio was organised on Ulm’s teaching model, with teachers trained there, so Ulm’s pedagogy was carried over directly: an influence.",
+   "es": {
+    "note": "La ESDI de Río se organizó según el modelo pedagógico de Ulm, con docentes formados allí, de modo que su pedagogía se trasladó directamente: una influencia."
+   },
+   "refs": []
+  },
+  {
+   "from": "tokyo64-pictograms",
+   "to": "munich72-pictograms",
+   "note": "Aicher started from the pictogram logic of Tokyo 1964 and built a more systematic set for Munich: a direct influence.",
+   "es": {
+    "note": "Aicher partió de la lógica de pictogramas de Tokio 1964 y construyó para Múnich un conjunto más sistemático: influencia directa."
+   },
+   "refs": []
+  },
+  {
+   "from": "mexico68-identity",
+   "to": "munich72-pictograms",
+   "note": "Mexico 68 showed that one identity could cover a whole event, which encouraged Munich’s total programme: an influence, not the sole cause.",
+   "es": {
+    "note": "México 68 mostró que una sola identidad podía cubrir un evento completo, lo que alentó el programa total de Múnich: una influencia, no la única causa."
+   },
+   "refs": []
+  },
+  {
+   "from": "unite-habitation",
+   "to": "brasilia-plano-piloto",
+   "note": "Le Corbusier’s principles of residential blocks and separated functions shaped Lúcio Costa’s plan: an influence of ideas.",
+   "es": {
+    "note": "Los principios de Le Corbusier sobre bloques residenciales y separación de funciones marcaron el plan de Lúcio Costa: una influencia de ideas."
+   },
+   "refs": []
+  },
+  {
+   "from": "eames-fiberglass",
+   "to": "panton-chair",
+   "note": "The Eameses’ one-piece plastic shell opened the way for Panton’s continuous plastic chair: an influence on what seemed possible.",
+   "es": {
+    "note": "La carcasa de plástico de una pieza de los Eames abrió el camino a la silla de plástico continua de Panton: una influencia sobre lo que parecía posible."
+   },
+   "refs": []
+  },
+  {
+   "from": "lettera-22",
+   "to": "valentine-typewriter",
+   "note": "Sottsass broke with Nizzoli’s sobriety for Olivetti and made the portable machine a pop object: a reaction, not a continuation.",
+   "es": {
+    "note": "Sottsass rompió con la sobriedad de Nizzoli para Olivetti y volvió la máquina portátil un objeto pop: una reacción, no una continuación."
+   },
+   "refs": []
+  },
+  {
+   "from": "dior-new-look",
+   "to": "dior-trapeze",
+   "note": "The young Saint Laurent loosened the New Look’s marked waist and opened the silhouette into the trapeze: a reaction to Dior’s own line.",
+   "es": {
+    "note": "El joven Saint Laurent soltó la cintura marcada del New Look y abrió la silueta en trapecio: una reacción a la propia línea de Dior."
+   },
+   "refs": []
+  },
+  {
+   "from": "no-stop-city",
+   "to": "monumento-continuo",
+   "note": "Both Florentine groups used critical utopia to show the absurdity of a homogeneous mass-consumption city: a parallel, not a direct cause.",
+   "es": {
+    "note": "Ambos grupos florentinos usaron la utopía crítica para mostrar el absurdo de la ciudad homogénea del consumo masivo: un paralelo, no una causa directa."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-gute-form",
+   "to": "ulm-functionalism",
+   "note": "Max Bill’s text on good form gave Ulm its first design principles: an influence at the school’s origin.",
+   "es": {
+    "note": "El texto de Max Bill sobre la buena forma dio a Ulm sus primeros principios de diseño: una influencia en el origen de la escuela."
+   },
+   "refs": []
+  },
+  {
+   "from": "helvetica",
+   "to": "univers",
+   "note": "Both 1957 grotesques answered the demand for a neutral sans serif and competed for corporate identities: a parallel, not an influence.",
+   "es": {
+    "note": "Ambas grotescas de 1957 respondieron a la demanda de una sans serif neutra y compitieron por las identidades corporativas: un paralelo, no una influencia."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-learning-from-las-vegas",
+   "to": "macro-postmodernism",
+   "note": "Venturi, Scott Brown and Izenour defended the commercial sign and the ornament that functionalism rejected: an influence on postmodernism.",
+   "es": {
+    "note": "Venturi, Scott Brown e Izenour defendieron el signo comercial y el ornamento que el funcionalismo rechazaba: una influencia en el posmodernismo."
+   },
+   "refs": []
+  },
+  {
+   "from": "inst-intec",
+   "to": "cybersyn-opsroom",
+   "note": "INTEC brought together the design team that gave industrial form to the project’s operations room: an institutional cause.",
+   "es": {
+    "note": "INTEC reunió al equipo de diseñadores que dio forma industrial a la sala de operaciones del proyecto: una causa institucional."
+   },
+   "refs": []
+  },
+  {
+   "from": "larrea-covers",
+   "to": "brp-murals",
+   "note": "The Unidad Popular sleeves and murals shared flat colours and a low-cost, mass-reach poster look: a parallel, not a copy.",
+   "es": {
+    "note": "Las carátulas y los murales de la Unidad Popular compartieron colores planos y una estética de cartel de bajo costo y alcance masivo: un paralelo, no una copia."
+   },
+   "refs": []
+  },
+  {
+   "from": "brutalism-metabolism",
+   "to": "unite-habitation",
+   "note": "The Metabolists took from Le Corbusier’s Unité the block as a city in height and turned it into renewable capsules: an influence.",
+   "es": {
+    "note": "Los metabolistas tomaron de la Unité de Le Corbusier la idea del bloque como ciudad en altura y la volvieron cápsulas renovables: una influencia."
+   },
+   "refs": []
+  },
+  {
+   "from": "courreges-space-age",
+   "to": "cardin-cosmocorps",
+   "note": "Both designers turned the space imagery into geometric lines and synthetic materials and disputed who started future fashion: a rivalry.",
+   "es": {
+    "note": "Ambos diseñadores tradujeron el imaginario espacial a líneas geométricas y materiales sintéticos y se disputaron quién inició la moda del futuro: una rivalidad."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-theory-design-machine-age",
+   "to": "th-pioneers-modern-movement",
+   "note": "Banham’s thesis, written under Pevsner, answers and corrects Pevsner’s account of the Modern Movement in Pioneers.",
+   "es": {
+    "note": "La tesis de Banham, escrita bajo la dirección de Pevsner, responde y corrige el relato de Pevsner sobre el movimiento moderno en Pioneers."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-complexity-contradiction",
+   "to": "th-learning-from-las-vegas",
+   "note": "Venturi’s defence of ambiguity and the everyday prepares the argument of Learning from Las Vegas (1972).",
+   "es": {
+    "note": "La defensa de Venturi de la ambigüedad y lo cotidiano prepara el argumento de Aprendiendo de Las Vegas (1972)."
+   },
+   "refs": []
+  },
+  {
+   "from": "chanel-255-bag-1955",
+   "to": "chanel-suit",
+   "note": "The 2.55 bag followed the 1954 suit; its shoulder chain left a woman’s hands free, in keeping with the suit’s ease of movement.",
+   "es": {
+    "note": "El bolso 2.55 siguió al traje de 1954; su cadena al hombro dejaba las manos libres, en la línea de comodidad del traje."
+   },
+   "refs": []
+  },
+  {
+   "from": "givenchy-breakfast-1961",
+   "to": "chanel-little-black-dress",
+   "note": "Givenchy’s black sheath for Hepburn reinterpreted the little black dress that Chanel had made fashionable in the 1920s.",
+   "es": {
+    "note": "La funda negra de Givenchy para Hepburn reinterpretó el pequeño vestido negro que Chanel había puesto de moda en los años veinte."
+   },
+   "refs": []
+  },
+  {
+   "from": "citroen-2cv-1948",
+   "to": "citroen-ds",
+   "note": "A counterpoint to the DS: the 2CV is a minimal people’s car while the DS is an advanced luxury one, and Bertoni’s body work is linked to both.",
+   "es": {
+    "note": "Un contrapunto del DS: el 2CV es un coche popular mínimo y el DS uno de lujo avanzado, y el trabajo de carrocería de Bertoni se vincula con ambos."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-giedion-mechanization-1948",
+   "to": "th-space-time-architecture",
+   "note": "Continues Giedion’s history of modernity: after architecture’s ‘new tradition’ in 1941, he turned to the anonymous history of machines and objects.",
+   "es": {
+    "note": "Continúa la historia de la modernidad de Giedion: tras la «nueva tradición» de la arquitectura en 1941, pasó a la historia anónima de las máquinas y los objetos."
+   },
+   "refs": []
+  },
+  {
+   "from": "farnsworth-house-1951",
+   "to": "glass-house-1949",
+   "note": "Johnson built his Glass House in New Canaan on the model of Mies’s glass pavilion, designed in the same years, which he knew well.",
+   "es": {
+    "note": "Johnson construyó su Casa de Vidrio en New Canaan según el modelo del pabellón de vidrio de Mies, proyectado en los mismos años y que conocía bien."
+   },
+   "refs": []
+  },
+  {
+   "from": "braun-t3-1958",
+   "to": "ipod-2001",
+   "note": "Braun’s pocket radio, with its round dial and perforated grille, is often cited as a design antecedent of the iPod.",
+   "es": {
+    "note": "La radio de bolsillo de Braun, con su dial redondo y su rejilla perforada, se cita a menudo como antecedente de diseño del iPod."
+   },
+   "refs": []
+  },
+  {
+   "from": "engelbart-demo-1968",
+   "to": "xerox-star-interface-1981",
+   "note": "Researchers at Xerox PARC developed the graphical interface from ideas shown in NLS, such as the mouse and windows; the Star later brought them to an office product.",
+   "es": {
+    "note": "Investigadores de Xerox PARC desarrollaron la interfaz gráfica a partir de ideas mostradas en NLS, como el ratón y las ventanas; la Star las llevó después a un producto de oficina."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "production": [
+  {
+   "id": "lithography",
+   "sub": "processes",
+   "start": 1796,
+   "end": 1850,
+   "date": "1796–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "FR",
+    "GB"
+   ],
+   "name": "Lithography",
+   "short": "Lithography",
+   "key": "Lithography, invented by Alois Senefelder in Bavaria in the 1790s, prints from a flat stone drawn with greasy crayon and gave artists a quick, direct way to multiply images.",
+   "origin": "Alois Senefelder, a playwright and actor in Munich, found around 1796 that a drawing made in greasy ink or crayon on limestone could be printed, because the greasy parts take ink and the wet stone repels it. He published a manual of the process in 1818, translated into English the next year by Rudolph Ackermann.",
+   "enabled": "An artist could draw directly on the stone in the manner of a pencil or brush, without cutting a metal plate, and a stone could produce many impressions. Colour could be added with one stone per colour, and in 1837 Godefroy Engelmann patented chromolithography in France.",
+   "change": "Images could be drawn rather than engraved, so posters, music covers, maps, fashion prints and trade labels became cheap to produce in quantity and in colour. Letters could be drawn freely too, which freed lettering from the limits of cast type.",
+   "economy": "Lithographic workshops opened in Munich, Paris and London, and Ackermann brought the process to London in the 1810s; by the 1840s printers across Europe made commercial work in it.",
+   "relations": "Lithography opened the road to the colour poster and the illustrated periodical, and it was later joined by photography as a way of copying images.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-ackermann"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Litografía",
+    "short": "Litografía",
+    "date": "1796–1850",
+    "key": "La litografía, inventada por Alois Senefelder en Baviera en la década de 1790, imprime desde una piedra plana dibujada con lápiz graso y dio a los artistas un modo rápido y directo de multiplicar imágenes.",
+    "origin": "Alois Senefelder, dramaturgo y actor en Múnich, descubrió hacia 1796 que un dibujo hecho con tinta o lápiz graso sobre piedra caliza podía imprimirse, porque las partes grasas toman la tinta y la piedra húmeda la rechaza. Publicó un manual del proceso en 1818, que Rudolph Ackermann tradujo al inglés al año siguiente.",
+    "enabled": "El artista podía dibujar directamente sobre la piedra como con un lápiz o un pincel, sin grabar una plancha de metal, y una piedra podía dar muchas impresiones. Se podía añadir color con una piedra por cada tinta, y en 1837 Godefroy Engelmann patentó la cromolitografía en Francia.",
+    "change": "Las imágenes pudieron dibujarse en lugar de grabarse, así que carteles, portadas de música, mapas, láminas de moda y etiquetas comerciales se abarataron en cantidad y en color. También las letras podían dibujarse con libertad, lo que liberó el rotulado de los límites del tipo fundido.",
+    "economy": "Se abrieron talleres litográficos en Múnich, París y Londres, y Ackermann llevó el proceso a Londres en la década de 1810; hacia la década de 1840 impresores de toda Europa hacían trabajo comercial con él.",
+    "relations": "La litografía abrió el camino al cartel en color y a la revista ilustrada, y más tarde se le sumó la fotografía como modo de copiar imágenes."
+   },
+   "refs": []
+  },
+  {
+   "id": "steam-bentwood",
+   "sub": "processes",
+   "start": 1836,
+   "end": 1850,
+   "date": "1836–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "AT"
+   ],
+   "name": "Steam-bent wood",
+   "short": "Steam bentwood",
+   "key": "Michael Thonet's experiments with bending beech by steam and glue in the 1830s and 1840s led to chairs made of few parts that could be shaped without carving.",
+   "origin": "Michael Thonet, a cabinetmaker in Boppard on the Rhine, began in the 1830s to bend wood in moulds, first with glued strips of veneer and then with heat and moisture. In 1842 he obtained a privilege in Austria and moved his workshop to Vienna.",
+   "enabled": "Wood softened by steam or by boiling could be bent around a form and held until it dried, so one piece could take a curve that a carver would otherwise have to cut from a thick block. The curved parts needed no joinery along the curve and were quick to repeat.",
+   "change": "Chair frames became lines: thin curved legs, backs and seats made from few elements, light and strong. Furniture was designed around the possibilities of bending, not around carved ornament, which suited the plain Biedermeier taste of the middle class.",
+   "economy": "The firm was soon exporting, and its growth in the 1850s rested on a system of standard parts and flat packing that is outside this period.",
+   "relations": "Steam bending is the technical base of Thonet's later bentwood chairs, and it shows how steam power, in this case as heat, changed the shape of an everyday object.",
+   "links": {
+    "movements": [
+     "biedermeier"
+    ],
+    "institutions": [
+     "inst-thonet"
+    ],
+    "designers": [
+     "michael-thonet"
+    ],
+    "works": [
+     "thonet-boppard-chair-1836"
+    ]
+   },
+   "es": {
+    "name": "Madera curvada al vapor",
+    "short": "Madera al vapor",
+    "date": "1836–1850",
+    "key": "Los experimentos de Michael Thonet para curvar haya con vapor y cola en los años 1830 y 1840 llevaron a sillas de pocas piezas que se daban forma sin tallar.",
+    "origin": "Michael Thonet, ebanista de Boppard, a orillas del Rin, empezó en la década de 1830 a curvar madera en moldes, primero con láminas de chapa encoladas y luego con calor y humedad. En 1842 obtuvo un privilegio en Austria y trasladó su taller a Viena.",
+    "enabled": "La madera ablandada con vapor o por cocción podía curvarse en torno a una horma y mantenerse hasta secar, de modo que una sola pieza tomaba una curva que de otro modo un tallador habría tenido que sacar de un bloque grueso. Las piezas curvas no necesitaban ensambles en la curva y eran rápidas de repetir.",
+    "change": "Los armazones de las sillas se volvieron líneas: patas, respaldos y asientos curvos y delgados, hechos de pocos elementos, livianos y resistentes. El mueble se diseñó en torno a las posibilidades del curvado y no en torno al ornamento tallado, lo que calzaba con el gusto sobrio biedermeier de la clase media.",
+    "economy": "La empresa pronto exportaba, y su crecimiento en la década de 1850 se apoyó en un sistema de piezas estándar y embalaje plano que queda fuera de este período.",
+    "relations": "El curvado al vapor es la base técnica de las sillas de madera curvada posteriores de Thonet, y muestra cómo la energía del vapor, aquí como calor, cambió la forma de un objeto cotidiano."
+   },
+   "refs": []
+  },
+  {
+   "id": "wood-engraving",
+   "sub": "processes",
+   "start": 1790,
+   "end": 1850,
+   "date": "1790–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Wood engraving",
+   "short": "Wood engraving",
+   "key": "Wood engraving, cut with a burin into the end grain of boxwood and popularised by Thomas Bewick, printed with type and made illustrated books cheap.",
+   "origin": "The Newcastle engraver Thomas Bewick developed the technique in the late eighteenth century, cutting into the hard end grain of boxwood blocks rather than the plank. His General History of Quadrupeds (1790) and his History of British Birds (1797 and 1804) made it widely known.",
+   "enabled": "The end-grain block is as hard as metal and can be cut in fine detail, and it is the same height as type, so a block can be locked into the same forme as the text and printed in one pass. A block yields very long print runs, and large images could be made from blocks bolted together.",
+   "change": "Illustrations moved off separate plates and into the text page, so designers of books and periodicals could place image and word together. The white-line technique, cutting light lines into a dark block, gave a new graphic language of tone.",
+   "economy": "Wood engraving was far cheaper than copper engraving for large editions, and by the 1840s illustrated periodicals such as the Illustrated London News, founded in 1842, depended on it.",
+   "relations": "The technique served a reading public that wanted cheap illustrated books and papers, and it was later used to copy photographs onto the block.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "thomas-bewick"
+    ],
+    "works": [
+     "bewick-quadrupeds-1790"
+    ]
+   },
+   "es": {
+    "name": "Grabado en madera de testa",
+    "short": "Grabado de testa",
+    "date": "1790–1850",
+    "key": "El grabado en madera de testa, tallado con buril en el corte transversal del boj y popularizado por Thomas Bewick, se imprimía junto con el texto y abarató el libro ilustrado.",
+    "origin": "El grabador de Newcastle Thomas Bewick desarrolló la técnica a fines del siglo XVIII, tallando en la dura testa de bloques de boj y no en la tabla. Su General History of Quadrupeds (1790) y su History of British Birds (1797 y 1804) la dieron a conocer ampliamente.",
+    "enabled": "El bloque de testa es duro como el metal y admite un detalle fino, y tiene la misma altura que el tipo, así que un bloque podía fijarse en la misma forma que el texto e imprimirse de una sola vez. Un bloque rinde tiradas muy largas, y con bloques unidos con pernos podían hacerse imágenes grandes.",
+    "change": "Las ilustraciones salieron de láminas aparte y entraron a la página de texto, de modo que quienes diseñaban libros y revistas podían disponer imagen y palabra juntas. La técnica de línea blanca, que talla líneas claras en un bloque oscuro, dio un nuevo lenguaje gráfico del tono.",
+    "economy": "El grabado en madera era mucho más barato que el grabado en cobre para tiradas grandes, y en la década de 1840 revistas ilustradas como el Illustrated London News, fundado en 1842, dependían de él.",
+    "relations": "La técnica sirvió a un público lector que quería libros y periódicos ilustrados baratos, y más tarde se usó para copiar fotografías sobre el bloque."
+   },
+   "refs": []
+  },
+  {
+   "id": "steam-press-machine-paper",
+   "sub": "processes",
+   "start": 1814,
+   "cont": true,
+   "date": "1814 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "DE"
+   ],
+   "name": "Steam printing press and machine-made paper",
+   "short": "Steam press, paper",
+   "key": "The steam-driven cylinder press, first used to print The Times in 1814, and the paper-making machine of the early 1800s made printed matter much cheaper and more plentiful.",
+   "origin": "Friedrich Koenig, a German printer working in London with Andreas Bauer, built a steam-driven cylinder press, and The Times was printed on it on 29 November 1814. The continuous paper machine began with Nicholas-Louis Robert in France and was developed in England in the early 1800s by Bryan Donkin for the Fourdrinier brothers, who financed it.",
+   "enabled": "Presses that inked and printed faster than the hand press, and paper made in a long continuous roll instead of sheet by sheet. Together they allowed long print runs of newspapers, books and sheets of text in a day.",
+   "change": "Printed matter became cheap enough for a mass public, so printers and publishers had to design pages, headings and illustrations for large editions. Newspapers and illustrated weeklies could be made in quantity, and big sheets of paper opened the way to the large poster.",
+   "economy": "Newspapers such as The Times invested in steam presses to print more copies in less time. In the following decades, rags gave way to other raw materials for paper, lowering costs further.",
+   "relations": "The steam press and the paper machine lay behind the illustrated press of the 1840s, such as The Illustrated London News, and later behind the street poster.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "illustrated-london-news-1842"
+    ]
+   },
+   "es": {
+    "name": "Prensa de vapor y papel continuo",
+    "short": "Prensa y papel",
+    "date": "1814 →",
+    "key": "La prensa de cilindro movida a vapor, usada por primera vez para imprimir The Times en 1814, y la máquina de hacer papel de comienzos del siglo XIX abarataron y multiplicaron lo impreso.",
+    "origin": "Friedrich Koenig, un impresor alemán que trabajaba en Londres con Andreas Bauer, construyó una prensa de cilindro movida a vapor, y The Times se imprimió en ella el 29 de noviembre de 1814. La máquina de papel continuo partió con Nicholas-Louis Robert en Francia y la desarrolló en Inglaterra, a comienzos del siglo XIX, Bryan Donkin para los hermanos Fourdrinier, que la financiaron.",
+    "enabled": "Prensas que entintaban e imprimían más rápido que la prensa manual, y papel fabricado en un largo rollo continuo en vez de hoja por hoja. Juntos permitieron grandes tiradas de periódicos, libros y hojas de texto en un solo día.",
+    "change": "Lo impreso se abarató lo bastante para un público masivo, así que impresores y editores debieron diseñar páginas, titulares e ilustraciones para grandes ediciones. Diarios y semanarios ilustrados pudieron hacerse en cantidad, y los grandes pliegos de papel abrieron el camino al cartel de gran formato.",
+    "economy": "Diarios como The Times invirtieron en prensas de vapor para imprimir más ejemplares en menos tiempo. En las décadas siguientes, otras materias primas reemplazaron a los trapos en la fabricación de papel y bajaron aún más los costos.",
+    "relations": "La prensa de vapor y la máquina de papel estuvieron detrás de la prensa ilustrada de la década de 1840, como The Illustrated London News, y más tarde detrás del cartel callejero."
+   },
+   "refs": []
+  }
+ ]
+}

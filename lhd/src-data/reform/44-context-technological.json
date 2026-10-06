@@ -1,0 +1,204 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-electricity",
+   "track": "technological",
+   "start": 1879,
+   "end": 1913,
+   "date": "1879 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "name": "Electricity and electric light",
+   "short": "Electric light",
+   "key": "Electric lighting, which Edison and Swan brought to a practical form around 1879–80, then spread through cities, factories and homes.",
+   "happened": "Thomas Edison in the United States and Joseph Swan in Britain produced practical incandescent lamps around 1879–80, and the first central power stations followed in the early 1880s. By 1913 electric light was common in the cities of Europe and North America, and electric motors and appliances began to reach factories and some homes.",
+   "effect": "Light no longer came from a flame that needed a particular fixture: lamps, shades and fittings had to be designed for the bulb and its wire, and designers took up the new light as a subject. Posters and shopfronts used it for advertising at night, and in industry the electric motor allowed machines to be placed according to the flow of work rather than a central shaft. The firm AEG, founded in Germany for electrical products, hired Peter Behrens in 1907 to design its products and image.",
+   "es": {
+    "name": "Electricidad y luz eléctrica",
+    "short": "Luz eléctrica",
+    "date": "1879 →",
+    "key": "La luz eléctrica, que Edison y Swan llevaron a una forma práctica hacia 1879–80, se difundió luego por ciudades, fábricas y hogares.",
+    "happened": "Thomas Edison en Estados Unidos y Joseph Swan en Gran Bretaña produjeron lámparas incandescentes prácticas hacia 1879–80, y las primeras centrales eléctricas siguieron a comienzos de la década de 1880. Hacia 1913 la luz eléctrica era común en las ciudades de Europa y Norteamérica, y los motores y artefactos eléctricos empezaban a llegar a las fábricas y a algunos hogares.",
+    "effect": "La luz ya no venía de una llama que necesitaba un soporte determinado: lámparas, pantallas y artefactos debían diseñarse para la ampolleta y su cable, y los diseñadores tomaron la nueva luz como tema. Carteles y vitrinas la usaron para anunciar de noche, y en la industria el motor eléctrico permitió ubicar las máquinas según el flujo de trabajo y no según un eje central. La empresa AEG, fundada en Alemania para productos eléctricos, contrató a Peter Behrens en 1907 para diseñar sus productos y su imagen."
+   },
+   "refs": [],
+   "cont": true
+  },
+  {
+   "id": "ctx-automobile",
+   "track": "technological",
+   "start": 1886,
+   "end": 1913,
+   "cont": true,
+   "date": "1886 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "FR",
+    "US"
+   ],
+   "name": "Automobile",
+   "short": "Automobile",
+   "key": "The motor car, born in Germany and France in the 1880s and 1890s, was at first a luxury for the few and by 1913 a new industry that demanded its own kind of design.",
+   "happened": "Karl Benz patented his three-wheeled Motorwagen in January 1886, and Gottlieb Daimler built a motor carriage the same year. French makers such as Panhard & Levassor and Peugeot developed the car in the 1890s, and in the United States Ford began producing the Model T in 1908.",
+   "effect": "The first cars borrowed the form of the horse carriage, and designers then had to work out the shape of a machine with an engine, a chassis and a body. The car also created whole families of new objects, from tyres and lamps to road signs and advertising mascots such as Michelin’s Bibendum of 1898, and it called for factories organized around one product.",
+   "es": {
+    "name": "Automóvil",
+    "short": "Automóvil",
+    "date": "1886 →",
+    "key": "El automóvil, nacido en Alemania y Francia en las décadas de 1880 y 1890, fue al principio un lujo para pocos y hacia 1913 una industria nueva que exigía su propio tipo de diseño.",
+    "happened": "Karl Benz patentó su Motorwagen de tres ruedas en enero de 1886 y Gottlieb Daimler construyó ese mismo año un carruaje a motor. Fabricantes franceses como Panhard & Levassor y Peugeot desarrollaron el auto en la década de 1890, y en Estados Unidos Ford empezó a producir el Model T en 1908.",
+    "effect": "Los primeros autos tomaron prestada la forma del carruaje de caballos, y luego los diseñadores tuvieron que resolver la forma de una máquina con motor, chasis y carrocería. El auto creó además familias enteras de objetos nuevos, desde neumáticos y faroles hasta señales de tránsito y mascotas publicitarias como el Bibendum de Michelin de 1898, y exigió fábricas organizadas en torno a un solo producto."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-safety-bicycle",
+   "track": "technological",
+   "start": 1885,
+   "end": 1913,
+   "cont": true,
+   "date": "1885 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Safety bicycle",
+   "short": "Safety bicycle",
+   "key": "The chain-driven bicycle with two wheels of equal size, introduced in Britain in 1885, replaced the high wheeler and made cycling a mass pastime, also for women.",
+   "happened": "John Kemp Starley’s Rover safety bicycle of 1885 had a chain drive to the rear wheel and two wheels of similar size, which made it far steadier than the high-wheeled penny-farthing. The pneumatic tyre, which Dunlop developed from 1888, made it more comfortable, and by the 1890s cycling was a craze in Europe and North America.",
+   "effect": "The bicycle gave designers a light frame of steel tube, a model of precision manufacture and a new kind of consumer. For women it made practical clothing a real question: skirts that tangled in the pedals led to the divided skirts and bloomers of cycling dress, tied to the dress reform movement. Several bicycle makers, among them Peugeot and Opel, later built motor cars.",
+   "es": {
+    "name": "Bicicleta de seguridad",
+    "short": "Bici de seguridad",
+    "date": "1885 →",
+    "key": "La bicicleta con cadena y dos ruedas del mismo tamaño, presentada en Gran Bretaña en 1885, reemplazó al biciclo alto y convirtió el ciclismo en un pasatiempo de masas, también para las mujeres.",
+    "happened": "La bicicleta de seguridad Rover de John Kemp Starley, de 1885, tenía transmisión por cadena a la rueda trasera y dos ruedas de tamaño parecido, lo que la hacía mucho más estable que el biciclo de rueda alta. El neumático, que Dunlop desarrolló desde 1888, la hizo más cómoda, y en la década de 1890 el ciclismo era una moda en Europa y Norteamérica.",
+    "effect": "La bicicleta dio a los diseñadores un cuadro liviano de tubo de acero, un modelo de fabricación de precisión y un nuevo tipo de consumidor. Para las mujeres hizo de la ropa práctica un problema real: las faldas que se enredaban en los pedales llevaron a las faldas divididas y los bloomers del traje de ciclista, ligados al movimiento de reforma del vestido. Varios fabricantes de bicicletas, entre ellos Peugeot y Opel, construyeron más tarde automóviles."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-snapshot-photography",
+   "track": "technological",
+   "start": 1888,
+   "end": 1913,
+   "cont": true,
+   "date": "1888 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Snapshot photography",
+   "short": "Snapshot photography",
+   "key": "George Eastman’s Kodak camera of 1888 and its roll film took photography out of the studio and put it in the hands of amateurs.",
+   "happened": "Eastman introduced the Kodak camera in 1888, sold loaded with film and sent back to the maker for developing and printing, under a slogan that told buyers to press the button and leave the rest to the company. Flexible roll film on a celluloid base followed in 1889, and the cheap Brownie camera of 1900 widened the market further.",
+   "effect": "Photographs of everyday life, travel and family became ordinary, and with the halftone process, which let photographs be printed with type, they filled newspapers, magazines and catalogues. Designers of print and advertising could now count on a public that was used to reading images made by the camera.",
+   "es": {
+    "name": "Fotografía popular",
+    "short": "Fotografía popular",
+    "date": "1888 →",
+    "key": "La cámara Kodak de George Eastman, de 1888, y su película en rollo sacaron la fotografía del estudio y la pusieron en manos de aficionados.",
+    "happened": "Eastman presentó la cámara Kodak en 1888, vendida ya cargada con película y devuelta al fabricante para el revelado y la copia, bajo un lema que invitaba al comprador a apretar el botón y dejar el resto a la empresa. La película flexible en rollo sobre base de celuloide llegó en 1889, y la económica cámara Brownie de 1900 amplió aún más el mercado.",
+    "effect": "Las fotografías de la vida cotidiana, los viajes y la familia se volvieron corrientes, y con el medio tono, que permitía imprimir fotografías junto con el texto, llenaron diarios, revistas y catálogos. Los diseñadores de impresos y publicidad pudieron contar con un público acostumbrado a leer imágenes hechas por la cámara."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-railways-steamships",
+   "track": "technological",
+   "start": 1851,
+   "end": 1910,
+   "date": "1840–1910",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "CL"
+   ],
+   "name": "Railways and steamships",
+   "short": "Railways, steamships",
+   "key": "Railways and steamships shrank distances between 1840 and 1910, and carried goods, people, catalogues and fashions across countries and oceans.",
+   "happened": "Railway networks grew across Britain, Europe and the United States from the 1840s, and a transcontinental line joined the American coasts in 1869. Steamships crossed the oceans on regular schedules, and in Chile the first railway, from Caldera to Copiapó, opened in 1851 and steamships of the Pacific Steam Navigation Company reached Valparaíso from 1840.",
+   "effect": "Goods, newspapers, catalogues and fashions could now reach distant buyers, which opened national and international markets to the same designed products. Railway stations and iron-and-glass sheds became new building types, and excursion trains brought crowds to events such as the Great Exhibition of 1851.",
+   "es": {
+    "name": "Ferrocarril y vapor",
+    "short": "Ferrocarril y vapor",
+    "date": "1840–1910",
+    "key": "El ferrocarril y el barco a vapor acortaron las distancias entre 1840 y 1910, y llevaron mercancías, personas, catálogos y modas a través de países y océanos.",
+    "happened": "Las redes ferroviarias crecieron por Gran Bretaña, Europa y Estados Unidos desde la década de 1840, y en 1869 una línea transcontinental unió las costas norteamericanas. Los barcos a vapor cruzaban los océanos con itinerarios regulares, y en Chile se abrió en 1851 el primer ferrocarril, de Caldera a Copiapó, y desde 1840 los vapores de la Pacific Steam Navigation Company llegaban a Valparaíso.",
+    "effect": "Las mercancías, los diarios, los catálogos y las modas podían llegar ahora a compradores lejanos, lo que abrió mercados nacionales e internacionales a los mismos productos diseñados. Las estaciones y los galpones de hierro y vidrio se volvieron nuevos tipos de edificio, y los trenes de excursión llevaron multitudes a eventos como la Gran Exposición de 1851."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-synthetic-chemistry",
+   "track": "technological",
+   "start": 1856,
+   "end": 1914,
+   "date": "1856–1914",
+   "regions": [
+    "europe"
+   ],
+   "name": "Synthetic dyes and organic chemistry",
+   "short": "Synthetic dyes",
+   "key": "Coal-tar chemistry that produced the first synthetic dyes and plastics, changing what colours and materials designers could use.",
+   "happened": "In 1856 William Henry Perkin, then a student in London, made the first synthetic dye, mauve, from coal-tar chemicals. Chemical firms soon produced many more dyes, and organic chemistry also led to the first plastics, such as Parkesine (1862) and celluloid (1870), made from nitrocellulose.",
+   "effect": "Textiles gained cheap, strong colours that natural dyes could not match, and designers such as William Morris reacted by returning to natural dyes and older printing methods. Celluloid, a mouldable nitrocellulose plastic, offered a new industrial material for objects and for photographic film.",
+   "es": {
+    "name": "Tintes sintéticos y química orgánica",
+    "short": "Tintes sintéticos",
+    "date": "1856–1914",
+    "key": "La química del alquitrán de hulla, que produjo los primeros tintes y plásticos sintéticos y cambió los colores y materiales a disposición de los diseñadores.",
+    "happened": "En 1856 William Henry Perkin, entonces estudiante en Londres, obtuvo el primer tinte sintético, el malva, a partir de compuestos del alquitrán de hulla. Pronto las empresas químicas produjeron muchos más tintes, y la química orgánica llevó además a los primeros plásticos, como la parkesina (1862) y el celuloide (1870), hechos de nitrocelulosa.",
+    "effect": "El textil ganó colores baratos e intensos que los tintes naturales no igualaban, y diseñadores como William Morris reaccionaron volviendo a los tintes naturales y a técnicas de estampado antiguas. El celuloide, un plástico moldeable de nitrocelulosa, ofreció un material industrial nuevo para objetos y para la película fotográfica."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-telephone",
+   "track": "technological",
+   "start": 1876,
+   "end": 1945,
+   "date": "1876–1945",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "The telephone network",
+   "short": "Telephone network",
+   "key": "The growth of telephone networks from Bell's 1876 patent, which turned the telephone into a mass household and office object.",
+   "happened": "Alexander Graham Bell patented the telephone in 1876. Subscriber networks spread through cities in Europe and North America, and by the 1920s and 1930s telephone makers such as Ericsson and Western Electric were producing standard sets for homes and offices.",
+   "effect": "As the network grew, makers needed a simple set that any subscriber could use daily, which led to designs that combined the parts into one body. Standardized sets in new materials such as Bakelite and moulded plastics made the telephone a designed mass product.",
+   "es": {
+    "name": "La red telefónica",
+    "short": "Red telefónica",
+    "date": "1876–1945",
+    "key": "El crecimiento de las redes telefónicas desde la patente de Bell de 1876, que convirtió el teléfono en un objeto masivo de hogares y oficinas.",
+    "happened": "Alexander Graham Bell patentó el teléfono en 1876. Las redes de abonados se extendieron por las ciudades de Europa y Norteamérica, y hacia las décadas de 1920 y 1930 fabricantes como Ericsson y Western Electric producían aparatos estándar para casas y oficinas.",
+    "effect": "Al crecer la red, los fabricantes necesitaron un aparato simple que cualquier abonado pudiera usar a diario, lo que llevó a diseños que reunían las piezas en un solo cuerpo. Los aparatos estandarizados, en materiales nuevos como la baquelita y los plásticos moldeados, hicieron del teléfono un producto masivo diseñado."
+   },
+   "refs": []
+  }
+ ]
+}

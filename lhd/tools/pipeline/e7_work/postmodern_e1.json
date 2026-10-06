@@ -1,0 +1,39 @@
+{
+ "escribir_links": [
+  {
+   "ctx": "ctx-hip-hop",
+   "item": "air-jordan-1-1985",
+   "mecanismo": "La cultura hip hop convierte la zapatilla en signo de estilo → el modelo de un deportista pasa a la calle",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "macintosh-128k-1984",
+   "mecanismo": "El trabajo de oficina con pantallas → un computador que cualquiera usa sin aprender comandos",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "seattle-library-2004",
+   "mecanismo": "La ciudad apuesta por un edificio público icónico para su centro → biblioteca como espacio cívico",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "vitra-fire-station-1993",
+   "mecanismo": "La empresa convierte su sede en colección de arquitectura de autor",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "westwood-punk-1976",
+   "mecanismo": "El desempleo juvenil de la Gran Bretaña de los setenta → ropa de rechazo hecha con desechos y alfileres",
+   "tipo": "enlace",
+   "nota": ""
+  }
+ ]
+}

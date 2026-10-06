@@ -1,0 +1,123 @@
+[
+ {
+  "rtype": "designer",
+  "id": "eero-aarnio",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1932,
+  "died": null,
+  "dates": "1932–",
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Eero Aarnio",
+  "movements": [
+   "pop-design"
+  ],
+  "key": "Finnish designer of the playful plastic furniture of the 1960s, best known for the Ball Chair and the Pastil Chair.",
+  "more": "He designed the Ball Chair in 1963, a fibreglass sphere with an upholstered interior that a person sits inside. The Pastil and Bubble chairs followed, all moulded in plastic in rounded, bright forms. His furniture became a symbol of pop design and of the optimism of the plastics age.",
+  "es": {
+   "dates": "1932–",
+   "key": "Diseñador finlandés del mueble lúdico de plástico de los años sesenta, conocido sobre todo por la silla Ball y la silla Pastil.",
+   "more": "Diseñó la silla Ball en 1963, una esfera de fibra de vidrio con interior tapizado en la que la persona se sienta dentro. Después vinieron las sillas Pastil y Bubble, todas moldeadas en plástico, de formas redondeadas y colores vivos. Su mobiliario se volvió un símbolo del diseño pop y del optimismo de la era del plástico."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "bruno-munari",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "born": 1907,
+  "died": 1998,
+  "dates": "1907–1998",
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Bruno Munari",
+  "movements": [
+   "italian-design"
+  ],
+  "key": "Italian artist, designer and theorist whose lamps, objects and children's books made play and experiment part of design.",
+  "more": "He began as a Futurist-influenced artist and later worked across graphic design, product design and books. He made experimental objects such as the Falkland lamp and the 'useless machines', and wrote and designed children's books. He also taught and wrote about method and visual education, and Danese produced many of his objects.",
+  "es": {
+   "dates": "1907–1998",
+   "key": "Artista, diseñador y teórico italiano cuyas lámparas, objetos y libros infantiles hicieron del juego y la experimentación una parte del diseño.",
+   "more": "Comenzó como artista cercano al futurismo y luego trabajó en diseño gráfico, de producto y libros. Hizo objetos experimentales como la lámpara Falkland y las «máquinas inútiles», y escribió y diseñó libros infantiles. También enseñó y escribió sobre método y educación visual, y Danese produjo muchos de sus objetos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "douglas-engelbart",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1925,
+  "died": 2013,
+  "dates": "1925–2013",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Douglas Engelbart",
+  "movements": [
+   "interaction-design"
+  ],
+  "key": "American engineer who invented the computer mouse and led the NLS system, whose 1968 demonstration showed interactive computing to a wide audience.",
+  "more": "At the Stanford Research Institute he led the team that built NLS, an interactive system with windows, hypertext links and the mouse. In December 1968 he presented it live in what became known as 'the mother of all demos'. His idea of computers as tools to augment human intellect shaped later interface and interaction design.",
+  "es": {
+   "dates": "1925–2013",
+   "key": "Ingeniero estadounidense que inventó el mouse del computador y dirigió el sistema NLS, cuya demostración de 1968 mostró la computación interactiva a un público amplio.",
+   "more": "En el Stanford Research Institute dirigió el equipo que construyó NLS, un sistema interactivo con ventanas, enlaces de hipertexto y el mouse. En diciembre de 1968 lo presentó en vivo en la que se conoció como «la madre de todas las demos». Su idea de los computadores como herramientas para ampliar el intelecto humano marcó el diseño posterior de interfaces y de interacción."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-plastics",
+  "item": "eero-aarnio",
+  "note": "Fibreglass-reinforced plastic could be moulded in one piece, which let Aarnio design the Ball Chair as a single sculpted sphere.",
+  "es": {
+   "note": "La fibra de vidrio permitía moldear el plástico en una sola pieza, y así Aarnio pudo diseñar la silla Ball como una esfera esculpida única."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-design-culture",
+  "item": "bruno-munari",
+  "note": "Small firms such as Danese published experimental objects, giving Munari a producer for his playful, low-volume designs.",
+  "es": {
+   "note": "Pequeñas empresas como Danese editaban objetos experimentales, y así Munari tuvo un productor para sus diseños lúdicos de tirada corta."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-cold-war",
+  "item": "douglas-engelbart",
+  "note": "Funding from the military agency ARPA for interactive computing research paid for Engelbart's NLS lab and the work on the mouse and screen interface.",
+  "es": {
+   "note": "El financiamiento de la agencia militar ARPA a la investigación en computación interactiva pagó el laboratorio NLS de Engelbart y el trabajo sobre el mouse y la interfaz de pantalla."
+  },
+  "refs": []
+ }
+]

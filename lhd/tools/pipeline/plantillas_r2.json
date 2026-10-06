@@ -1,0 +1,68 @@
+{
+ "_nota": "Plantillas de prompt de la R2, una por tipo de lote. `prep_r2.py` las rellena ({tanda}, {k}, {n}, {unidad}, {fecha}) y escribe prompt_<tanda>_<k>.txt junto a cada in_*.json; `prep_r2.py --plantillas` imprime todas en Markdown (así se copian a CONTINUAR-R2.md; la prueba test_r2_tools.py comprueba que coinciden). Son la única fuente: no editar CONTINUAR-R2.md a mano en esa sección.",
+ "comun": {
+  "apertura": "Eres investigador del proyecto LHD (Línea de Historia del Diseño). Lee tools/pipeline/r2_work/in_{tanda}_{k}.json ({n} {unidad}). {tarea}",
+  "reglas": [
+   "Busca en la web fuentes primarias o de alta calidad (museos, archivos, universidades, editoriales académicas, Britannica, fundaciones, instituciones oficiales). NO uses Wikipedia, wikis (Fandom, Wikiwand, Grokipedia…), blogs ni tiendas. Una fuente de fabricante o de revista se acepta solo si no hay otra y se marca con ⚠ al comienzo de `checks`.",
+   "Usa únicamente URL que hayas abierto tú y que sustenten la afirmación: nunca adivinadas, sin «:443» ni espacios. Fecha de cada fuente: la de hoy ({fecha}, formato AAAA-MM-DD).",
+   "Cada marca [n] del texto corresponde a refs[n-1]; EN y ES llevan exactamente las mismas marcas; toda fuente de `refs` se cita al menos una vez. La marca va después del signo de puntuación (…texto.[1]) y fuera de los corchetes dobles [[id|texto]].",
+   "Cada ref es {\"label\",\"url\",\"checks\",\"date\"}: `label` = institución y título de la página; `checks` = qué afirmaciones concretas sostiene (cifras, fechas, nombres).",
+   "Lo que ninguna fuente abierta sostenga se quita o se suaviza, y lo anotas en `issues` (una línea por cambio). Nunca inventes datos ni fuentes.",
+   "Si un dato de la ficha parece erróneo o dudoso (fechas, autoría, material, cliente, estado, país…) NO lo cambies: descríbelo en `issues` con las fuentes que lo contradicen o lo dudan y su valor corregido, si lo hay. `other` queda vacío salvo instrucción expresa.",
+   "Si se agotan las búsquedas o el límite de la sesión, deja fuera el registro que no alcances a completar y dilo al final; no lo rellenes con datos sin fuente.",
+   "Escribe el resultado en tools/pipeline/r2_work/out_{tanda}_{k}.json (nombre único; nunca reutilices el de otra salida) y, si puedes, corre `cd tools/pipeline && python3 check_r2.py r2_work/out_{tanda}_{k}.json` y corrige los ERROR. No uses validate_out.py. Al final informa cuántos registros completaste y cuáles quedaron fuera."
+  ]
+ },
+ "tipos": {
+  "obras": {
+   "unidad": "obras ★",
+   "tarea": "Para cada obra verifica con fuentes la ficha (fechas, autoría, lugar, técnica, hechos del texto) y reescribe `key` y `more` con marcas [n]; 2 a 3 fuentes por obra, una al menos institucional.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"more\"},\"es\":{\"key\",\"more\"},\"refs\":[…],\"other\":{},\"issues\":[]} (sin `rtype`). `key` ≤ 230 caracteres sin contar las marcas."
+  },
+  "diseñadores": {
+   "unidad": "diseñadores ★",
+   "tarea": "Para cada diseñador confirma fechas de vida, país y obra principal y reescribe `key` y `more` con marcas [n]; 2 a 3 fuentes, una al menos institucional o enciclopédica de calidad (Britannica, museo, fundación).",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"more\"[,\"dates\"]},\"es\":{mismos campos},\"refs\":[…],\"other\":{},\"issues\":[]}. `name` y `short` no se traducen ni se tocan; `dates` solo si una fuente corrige las fechas de vida y se anota en `issues`."
+  },
+  "movimientos": {
+   "unidad": "movimientos ★",
+   "tarea": "Para cada movimiento verifica con fuentes sus rasgos, su contexto y el cambio que introdujo, y reescribe `key`, `traits`, `context` y `shift` con marcas [n]; 3 a 4 fuentes (al menos una académica o de museo). Modelo de formato: `macro-modernism` en data/all.json.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"traits\":[…],\"context\",\"shift\"},\"es\":{mismos campos},\"refs\":[…],\"other\":{},\"issues\":[]}. `traits` es una lista; cada elemento puede llevar marcas. No incluyas `name` ni `short`."
+  },
+  "instituciones": {
+   "unidad": "instituciones ★",
+   "tarea": "Para cada institución verifica fundación, lugar, fundadores y papel en la historia del diseño (sitio oficial o archivo propio sirve para fechas y datos internos; para su importancia usa una fuente externa), y reescribe `key` y `more` con marcas [n]; 2 a 3 fuentes.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"more\"},\"es\":{\"key\",\"more\"},\"refs\":[…],\"other\":{},\"issues\":[]}."
+  },
+  "teorias": {
+   "unidad": "teorías ★ (textos teóricos)",
+   "tarea": "Para cada teoría verifica autor, fecha, lugar y contenido: si existe el texto original digitalizado (archivo, biblioteca digital, Internet Archive de una institución, Project Gutenberg), úsalo como una de las fuentes y contrasta `ideas` y `impact` con él. Reescribe `key`, `ideas` y `impact` con marcas [n]; 2 a 3 fuentes.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"ideas\":[…],\"impact\"},\"es\":{mismos campos},\"refs\":[…],\"other\":{},\"issues\":[]}. `ideas` es una lista (4 a 6 ideas); no incluyas `name`, `short` ni `author`."
+  },
+  "contextos": {
+   "unidad": "hechos de contexto",
+   "tarea": "Para cada hecho de contexto verifica cifras, fechas, nombres y lugares, y reescribe `key`, `happened` y `effect` con marcas [n] en cada cifra, fecha o nombre; 2 a 3 fuentes. `effect` explica qué cambió para el diseño y no pasa de 480 caracteres.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"happened\",\"effect\"},\"es\":{mismos campos},\"refs\":[…],\"other\":{},\"issues\":[]}."
+  },
+  "productivos": {
+   "unidad": "elementos productivos (materiales, procesos, herramientas)",
+   "tarea": "Para cada elemento productivo verifica origen, fechas, inventores, lugares y cifras, y reescribe `key`, `origin`, `enabled`, `change` (y `economy` y `relations` si existen) con marcas [n]; 2 a 3 fuentes.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"key\",\"origin\",\"enabled\",\"change\"[,\"economy\",\"relations\"]},\"es\":{mismos campos},\"refs\":[…],\"other\":{},\"issues\":[]}. Incluye `economy` y `relations` solo si el elemento los tiene."
+  },
+  "ensayos": {
+   "unidad": "ensayos",
+   "tarea": "Verifica cada afirmación de hecho que el propio ensayo hace (fechas, nombres, cifras, causas, atribuciones) y pon marcas [n] con su lista `refs`. NO revises las fichas que el ensayo cita con [[id|texto]]: eso no es parte de esta tarea. Lo que no se sostenga se quita o se suaviza y se anota en `issues`; no agregues afirmaciones nuevas sin fuente. El texto del ensayo es un conjunto de párrafos independientes.",
+   "salida": "Lista de objetos {\"id\",\"en\":{\"paras\":[…]},\"es\":{\"paras\":[…]},\"refs\":[…],\"issues\":[]}. `paras` conserva el orden y el número de párrafos del original (EN y ES igual número); los enlaces [[id|texto]] y [[id]] se conservan idénticos en EN y ES (mismo id en el mismo párrafo) y las marcas [n] van fuera de ellos. Un solo `refs` por ensayo, numerado de corrido en todo el texto. No cambies `title` ni `subtitle`."
+  },
+  "enlaces": {
+   "unidad": "enlaces de contexto de fichas ★",
+   "tarea": "Cada enlace dice que un hecho de contexto (`ctx`) llevó a una decisión o rasgo de una ficha de diseño (`item`) y da el mecanismo en `note`. Encuentra una fuente que sostenga EL MECANISMO (qué cambió en el contexto → qué cambió en el diseño), no solo cada extremo por separado. Reescribe `note` con marcas [n] (≤ 240 caracteres sin marcas).",
+   "salida": "Lista de objetos {\"ctx\",\"item\",\"en\":{\"note\"},\"es\":{\"note\"},\"refs\":[…],\"issues\":[]}. Si ninguna fuente sostiene el mecanismo ni siquiera de forma suavizada, usa en cambio {\"ctx\",\"item\",\"drop\":true,\"issues\":[\"motivo y qué fuentes consultaste\"]}: el enlace NO se borra, solo se propone quitarlo en la hoja de incidencias. Los campos `ctx_*` e `item_*` del lote son solo contexto para ti: no los devuelvas."
+  },
+  "conexiones": {
+   "unidad": "conexiones de fichas ★",
+   "tarea": "Cada conexión dice que el elemento `from` influyó en el elemento `to` y da el mecanismo en `note`. Encuentra una fuente que sostenga EL MECANISMO (la influencia o la transmisión, no solo cada extremo por separado). Reescribe `note` con marcas [n] (≤ 240 caracteres sin marcas).",
+   "salida": "Lista de objetos {\"from\",\"to\",\"en\":{\"note\"},\"es\":{\"note\"},\"refs\":[…],\"issues\":[]}. Si ninguna fuente sostiene la conexión ni siquiera suavizada, usa {\"from\",\"to\",\"drop\":true,\"issues\":[\"motivo y qué fuentes consultaste\"]}: la conexión NO se borra, solo se propone quitarla en la hoja de incidencias. Los campos `from_*` y `to_*` del lote son solo contexto: no los devuelvas."
+  }
+ }
+}

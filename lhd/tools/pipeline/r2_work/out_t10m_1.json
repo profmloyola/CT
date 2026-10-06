@@ -1,0 +1,556 @@
+[
+ {
+  "id": "neoclassicism",
+  "en": {
+   "key": "A style that took its forms from ancient Greece and Rome, with symmetry, simple geometric forms and restrained ornament, in architecture, furniture, ceramics and printing.[3]",
+   "traits": [
+    "Forms taken from ancient Greek and Roman art and architecture[1][3]",
+    "Symmetry, simple geometric forms and clear proportions[3]",
+    "Restrained ornament compared with earlier styles[3]",
+    "Light, elegant interiors and furniture in the Adam style,[4] and sharp, high-contrast Bodoni type[6]",
+    "Taste backed by archaeology and the ideas of the Enlightenment[1][3]"
+   ],
+   "context": "It grew in the eighteenth century with the discoveries at Herculaneum and Pompeii, whose illustrated publications circulated across Europe,[1] with Grand Tour travellers who brought back antiquities,[2] and with Johann Joachim Winckelmann's 1755 writing on the supremacy of Greek art.[1] Enlightenment taste preferred reason and order to the excesses of the Rococo.[3]",
+   "shift": "From the Rococo's curves and asymmetry to an ornament drawn from antiquity and ordered by symmetry.[3] Designers such as Robert Adam,[4] Josiah Wedgwood[5] and Giambattista Bodoni[6] applied the same vocabulary to interiors, ceramics and books."
+  },
+  "es": {
+   "key": "Un estilo que tomó sus formas de la Grecia y la Roma antiguas, con simetría, formas geométricas simples y ornamento sobrio, en la arquitectura, el mueble, la cerámica y la imprenta.[3]",
+   "traits": [
+    "Formas tomadas del arte y la arquitectura griegos y romanos antiguos[1][3]",
+    "Simetría, formas geométricas simples y proporciones claras[3]",
+    "Ornamento sobrio en comparación con los estilos anteriores[3]",
+    "Interiores y muebles ligeros y elegantes en el estilo Adam,[4] y tipos nítidos y de alto contraste como los de Bodoni[6]",
+    "Gusto apoyado en la arqueología y en las ideas de la Ilustración[1][3]"
+   ],
+   "context": "Creció en el siglo XVIII con los descubrimientos de Herculano y Pompeya, cuyas publicaciones ilustradas circularon por Europa,[1] con los viajeros del Grand Tour que traían antigüedades[2] y con el escrito de Johann Joachim Winckelmann de 1755 sobre la supremacía del arte griego.[1] El gusto ilustrado prefería la razón y el orden a los excesos del rococó.[3]",
+   "shift": "De las curvas y la asimetría del rococó a un ornamento sacado de la Antigüedad y ordenado por la simetría.[3] Diseñadores como Robert Adam,[4] Josiah Wedgwood[5] y Giambattista Bodoni[6] aplicaron el mismo vocabulario a interiores, cerámica y libros."
+  },
+  "refs": [
+   {
+    "label": "The Metropolitan Museum of Art, Heilbrunn Timeline: Neoclassicism",
+    "url": "https://www.metmuseum.org/essays/neoclassicism",
+    "checks": "Confirma que las ruinas recién descubiertas de Herculano y Pompeya se difundieron en ilustraciones por Europa, la obra de Winckelmann sobre la supremacía del arte griego (1755) y la publicación de Robert Adam sobre Diocleciano (1764). ⚠ No menciona la Ilustración, el rococó, Wedgwood ni Bodoni.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Grand Tour",
+    "url": "https://www.metmuseum.org/essays/the-grand-tour",
+    "checks": "Confirma que los viajeros del Grand Tour visitaron Pompeya y Herculano, compraron antigüedades para llevarlas a casa y que el viaje ayudó a fomentar los ideales neoclásicos; menciona a Winckelmann residente en Roma.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Neoclassical architecture",
+    "url": "https://www.britannica.com/art/Neoclassical-architecture",
+    "checks": "Confirma que fue una reacción a los excesos del rococó, vinculada a los valores ilustrados de razón y orden, con simplicidad de formas geométricas, detalle griego o romano y ornamentación más sobria. ⚠ No cubre mueble, cerámica ni imprenta.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Robert Adam",
+    "url": "https://www.britannica.com/biography/Robert-Adam",
+    "checks": "Confirma a Robert Adam (1728-1792) y su hermano James como diseñadores del estilo neoclásico ligero y elegante que lleva su nombre, con influencia en interiores y mobiliario (Syon House, 1762-69).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Wedgwood ware",
+    "url": "https://www.britannica.com/art/Wedgwood-ware",
+    "checks": "Confirma que la manufactura de Josiah Wedgwood en Staffordshire, activa desde la década de 1760, fue pionera de formas neoclásicas y clásicas en cerámica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Bodoni",
+    "url": "https://www.britannica.com/topic/Bodoni",
+    "checks": "Confirma a Giambattista Bodoni (1740-1813), impresor de Parma, y su tipo de contraste extremo entre trazos gruesos y finos (1790). ⚠ No lo llama neoclásico expresamente.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité de los rasgos 'urnas, guirnaldas, palmetas' (ninguna fuente abierta lo confirma) y cambié 'muebles esbeltos' por 'interiores y muebles ligeros y elegantes' (Britannica sobre Adam).",
+   "Suavicé 'a mediados del siglo XVIII' a 'en el siglo XVIII' porque las fuentes no dan fechas de las excavaciones; Winckelmann se fecha en 1755 (Met).",
+   "'Ilustración' y 'rococó' sólo los sustenta Britannica (arquitectura neoclásica), no el Met."
+  ]
+ },
+ {
+  "id": "beaux-arts",
+  "en": {
+   "key": "The academic style taught at the École des Beaux-Arts, with monumental buildings composed on axes and symmetry and rich classical ornament.[1][2]",
+   "traits": [
+    "Composition on axes, with symmetry and clear hierarchy of spaces[1][2]",
+    "Extensive classical ornament and detail[1]",
+    "Grand stairs, vestibules and halls planned as a route through the building[2]",
+    "Public buildings as civic monuments[1]"
+   ],
+   "context": "It grew out of the teaching of the École des Beaux-Arts in Paris[2] and became an emblem of Second Empire taste, as in Charles Garnier's Paris Opera (begun 1861).[3] Foreign students, above all Americans such as Richard Morris Hunt, the first American trained at the École,[4] took it to the United States, where it shaped civic architecture and the 1893 World's Columbian Exposition in Chicago.[5]",
+   "shift": "From the architect as an individual designer to a shared method of composition that could be taught and applied to any large public programme.[2] Around 1935 its system began to lose ground to a curriculum stemming from functionalism and the Bauhaus,[6] but it had set the model of the monumental urban ensemble.[2] It reached the Americas through foreign students trained in Paris.[4]"
+  },
+  "es": {
+   "key": "El estilo académico enseñado en la École des Beaux-Arts, de edificios monumentales compuestos con ejes y simetría y rico ornamento clásico.[1][2]",
+   "traits": [
+    "Composición con ejes, simetría y clara jerarquía de espacios[1][2]",
+    "Abundante ornamento y detalle clásicos[1]",
+    "Grandes escaleras, vestíbulos y salas planeados como recorrido por el edificio[2]",
+    "Edificios públicos como monumentos cívicos[1]"
+   ],
+   "context": "Nació de la enseñanza de la École des Beaux-Arts de París[2] y se volvió un emblema del gusto del Segundo Imperio, como en la Ópera de París de Charles Garnier (iniciada en 1861).[3] Estudiantes extranjeros, sobre todo estadounidenses como Richard Morris Hunt, el primer estadounidense formado en la École,[4] lo llevaron a Estados Unidos, donde marcó la arquitectura cívica y la Exposición Colombina Mundial de Chicago de 1893.[5]",
+   "shift": "Del arquitecto como diseñador individual a un método de composición compartido, que podía enseñarse y aplicarse a cualquier gran programa público.[2] Hacia 1935 su sistema empezó a perder terreno ante un currículo derivado del funcionalismo y la Bauhaus,[6] pero había fijado el modelo del conjunto urbano monumental.[2] Llegó a América a través de estudiantes extranjeros formados en París.[4]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, Beaux-Arts style (summary)",
+    "url": "https://www.britannica.com/summary/Second-Empire-style",
+    "checks": "Confirma que es un estilo desarrollado en la École des Beaux-Arts de París, con edificios imponentes, plantas simétricas con salas dispuestas axialmente, abundante ornamento clásico y adopción para edificios públicos; cita la Ópera de París.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, The Architecture of the École des Beaux-Arts (catálogo, 1975)",
+    "url": "https://www.moma.org/documents/moma_catalogue_2483_300300503.pdf",
+    "checks": "Confirma la composición en torno a ejes mayores y menores, la jerarquía de espacios según uso e importancia, la Ópera de Garnier como ejemplo, a Hunt como primer estudiante estadounidense en la École (1846) y la Exposición de 1893 como conjunto urbano monumental.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Charles Garnier",
+    "url": "https://www.britannica.com/biography/Charles-Garnier",
+    "checks": "Confirma que la Ópera de París se empezó en 1861 (terminada en 1875) y que es emblema del gusto del Segundo Imperio.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Richard Morris Hunt",
+    "url": "https://www.britannica.com/biography/Richard-Morris-Hunt",
+    "checks": "Confirma que Hunt estudió en Europa (1843-54), sobre todo en la École des Beaux-Arts, donde fue el primer estadounidense formado, y que implantó en EE. UU. la tradición Beaux-Arts.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, World's Columbian Exposition",
+    "url": "https://www.britannica.com/event/Worlds-Columbian-Exposition",
+    "checks": "Confirma la Exposición de Chicago de 1893 con fachadas clásicas de la 'White City' y principios Beaux-Arts de planificación, que renovó el interés por la arquitectura clásica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, École des Beaux-Arts",
+    "url": "https://www.britannica.com/topic/Ecole-des-Beaux-Arts",
+    "checks": "Confirma que hacia 1935 el sistema de diseño de la escuela perdió influencia ante un currículo alemán derivado del funcionalismo y la Bauhaus. ⚠ No trata a los estudiantes estadounidenses.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité 'bibliotecas, estaciones' y 'imagen oficial del Segundo Imperio' (no confirmados); uso 'arquitectura cívica' y 'emblema del gusto del Segundo Imperio' (Britannica).",
+   "'Los modernos lo rechazaron por académico' no está en las fuentes; lo reemplacé por la pérdida de influencia hacia 1935 frente a Bauhaus/funcionalismo (Britannica).",
+   "El ficha dice 'primer estadounidense' sólo para Hunt: Britannica y MoMA concuerdan (MoMA fecha su ingreso en 1846)."
+  ]
+ },
+ {
+  "id": "gothic-revival",
+  "en": {
+   "key": "A nineteenth-century return to medieval Gothic forms, led by Pugin in Britain, which began as picturesque taste and became a moral argument about honest building.[1][4]",
+   "traits": [
+    "Pointed arches, tracery and steep roofs",
+    "Gothic detail carried into furniture, wallpaper, tiles, metalwork and stained glass[1][3]",
+    "Honesty of construction and of materials as a principle[4][5]",
+    "Churches and public buildings as the main commissions[1]",
+    "Medieval models for design, joined by Pugin to work with manufacturers and industry[5]"
+   ],
+   "context": "It grew from the Romantic taste for the medieval and from religious revival,[1] already seen in Horace Walpole's Strawberry Hill in the eighteenth century.[2] After fire destroyed the Palace of Westminster in 1834, its rebuilding in a Gothic style was led by Charles Barry, with Pugin designing the interiors and decorative details from 1844.[3]",
+   "shift": "From the Gothic as picturesque decoration to the Gothic as a system of principles. Pugin's True Principles (1841)[4] held that a building should have no features not necessary for convenience, construction or propriety,[5] an idea that Ruskin took up[4] and that helped shape the Arts and Crafts.[6]"
+  },
+  "es": {
+   "key": "Un retorno decimonónico a las formas del gótico medieval, encabezado por Pugin en Gran Bretaña, que partió como gusto pintoresco y se volvió un argumento moral sobre la construcción honesta.[1][4]",
+   "traits": [
+    "Arcos apuntados, tracería y techos empinados",
+    "Detalle gótico llevado al mueble, el papel mural, los azulejos, la metalistería y los vitrales[1][3]",
+    "La honestidad de la construcción y de los materiales como principio[4][5]",
+    "Iglesias y edificios públicos como principales encargos[1]",
+    "Modelos medievales para el diseño, que Pugin unió al trabajo con fabricantes y con la industria[5]"
+   ],
+   "context": "Nació del gusto romántico por lo medieval y de la renovación religiosa,[1] ya visibles en Strawberry Hill de Horace Walpole en el siglo XVIII.[2] Tras el incendio que destruyó el Palacio de Westminster en 1834, su reconstrucción en estilo gótico estuvo a cargo de Charles Barry, con Pugin diseñando los interiores y los detalles decorativos desde 1844.[3]",
+   "shift": "Del gótico como decoración pintoresca al gótico como sistema de principios. True Principles (1841), de Pugin,[4] sostuvo que un edificio no debe tener rasgos que no sean necesarios por conveniencia, construcción o propiedad,[5] idea que retomó Ruskin[4] y que ayudó a dar forma al Arts and Crafts.[6]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, Gothic Revival",
+    "url": "https://www.britannica.com/art/Gothic-Revival",
+    "checks": "Confirma el estilo (c. 1750-1880) inspirado en la arquitectura medieval, Pugin y Barry en las Casas del Parlamento (1837-60) y su extensión a mueble, papel mural, azulejos y vitrales; el índice cita lo romántico y la renovación religiosa. ⚠ Sin detalle sobre esas causas.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Strawberry Hill",
+    "url": "https://www.britannica.com/topic/Strawberry-Hill",
+    "checks": "Confirma que Horace Walpole adquirió Strawberry Hill en 1747 y la transformó en una mansión de estilo medieval, ejemplo del neogótico en el siglo XVIII.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UK Parliament, Heritage Collections: The architects Barry, Pugin and Scott",
+    "url": "https://heritagecollections.parliament.uk/stories/the-architects-barry-pugin-and-scott/",
+    "checks": "Confirma el incendio de 1834, a Barry como ganador del concurso y arquitecto principal, y a Pugin diseñando desde 1844 interiores, papel mural, azulejos y mobiliario. ⚠ No dice que el edificio haya hecho del gótico un estilo nacional.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, A.W.N. Pugin",
+    "url": "https://www.britannica.com/biography/A-W-N-Pugin",
+    "checks": "Confirma True Principles of Pointed or Christian Architecture (1841), que Ruskin lo usó de base, la colaboración con Barry en el Parlamento y su énfasis en la honestidad y la función.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Bard Graduate Center, A. W. N. Pugin and the Progress of Design as Applied to Manufacture",
+    "url": "https://www.bgc.bard.edu/research/articles/13/a-w-n-pugin-and",
+    "checks": "Confirma los principios de True Principles (1841): sin rasgos innecesarios por conveniencia, construcción o propiedad; ornamento como enriquecimiento de la construcción. Muestra que Pugin aceptaba la industria, no la oponía al oficio medieval.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "V&A, Arts and Crafts: an introduction",
+    "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+    "checks": "Confirma que Ruskin y Pugin moldearon la filosofía del movimiento Arts and Crafts. ⚠ No nombra a Morris respecto de Pugin.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité 'hizo del gótico un estilo nacional' (ninguna fuente abierta lo confirma) y 'oficio medieval como modelo frente a la máquina': Bard Graduate Center muestra que Pugin aceptaba la industria; cambié ese rasgo.",
+   "'Ruskin y más tarde William Morris retomaron' lo suavicé: Britannica confirma a Ruskin; V&A dice que Pugin influyó en Arts and Crafts sin citar a Morris.",
+   "Pugin diseñó interiores desde 1844 (Parlamento), dato añadido de la fuente; no cambia fechas de la ficha."
+  ]
+ },
+ {
+  "id": "arts-and-crafts",
+  "en": {
+   "key": "A British movement of designers and craftspeople who, following Ruskin and Morris, defended handwork, honest materials and the unity of art and life against industry.[1][2]",
+   "traits": [
+    "Respect for handwork and the skill of the maker[1][2]",
+    "Materials and construction left honest and visible,[3] without unnecessary ornament",
+    "Inspiration from medieval techniques and from nature[2]",
+    "Design of the whole home: furniture, textiles, metalwork and books[2]",
+    "A belief that manufacturing should be humane and meaningful for the maker and the user[1]"
+   ],
+   "context": "It grew in Britain out of Ruskin's criticism of industrial labour in The Nature of Gothic (1853).[4] Philip Webb worked with Morris on Red House, commissioned in 1859 and completed in 1860,[3] and Morris, Marshall, Faulkner & Co., founded in 1861,[3] made handcrafted furniture, textiles and metalwork.[2] The name comes from the Arts and Crafts Exhibition Society, founded in London in 1887, whose first show was held in 1888.[1] Similar ideas took root in the United States, where Gustav Stickley began The Craftsman in 1901[6] and Frank Lloyd Wright lectured on the art and craft of the machine at Hull House in 1901.[5]",
+   "shift": "From machine-made imitations of historical styles to design that shows how it was made and is planned for the whole house.[2] Morris and his circle made handwork a moral and social question,[1] a conviction that spread internationally in the 1890s,[2] although followers such as Wright came to accept the machine.[5]"
+  },
+  "es": {
+   "key": "Un movimiento británico de diseñadores y artesanos que, siguiendo a Ruskin y a Morris, defendió el trabajo manual, los materiales honestos y la unidad del arte y la vida frente a la industria.[1][2]",
+   "traits": [
+    "Respeto por el trabajo manual y la destreza de quien hace[1][2]",
+    "Materiales y construcción honestos y a la vista,[3] sin ornamento innecesario",
+    "Inspiración en técnicas medievales y en la naturaleza[2]",
+    "Diseño de todo el hogar: muebles, textiles, metalistería y libros[2]",
+    "La creencia de que la manufactura debe ser humana y significativa para quien hace y quien usa[1]"
+   ],
+   "context": "Creció en Gran Bretaña a partir de la crítica de Ruskin al trabajo industrial en La naturaleza de lo gótico (1853).[4] Philip Webb trabajó con Morris en la Casa Roja, encargada en 1859 y terminada en 1860,[3] y Morris, Marshall, Faulkner & Co., fundada en 1861,[3] hizo muebles, textiles y metalistería artesanales.[2] El nombre viene de la Arts and Crafts Exhibition Society, fundada en Londres en 1887, cuya primera muestra fue en 1888.[1] Ideas parecidas arraigaron en Estados Unidos, donde Gustav Stickley comenzó The Craftsman en 1901[6] y Frank Lloyd Wright dio una conferencia sobre el arte y el oficio de la máquina en Hull House en 1901.[5]",
+   "shift": "De las imitaciones hechas a máquina de estilos históricos a un diseño que muestra cómo fue hecho y que se planifica para toda la casa.[2] Morris y su círculo hicieron del trabajo manual una cuestión moral y social,[1] convicción que se extendió internacionalmente en la década de 1890,[2] aunque seguidores como Wright terminaron aceptando la máquina.[5]"
+  },
+  "refs": [
+   {
+    "label": "V&A, Arts and Crafts: an introduction",
+    "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+    "checks": "Confirma la cita de Ruskin sobre la mano, la cabeza y el corazón, la fundación de la Arts and Crafts Exhibition Society en Londres en 1887 como origen del nombre y su primera exposición en 1888, y a Morris como figura central del trabajo manual. ⚠ No habla de EE. UU.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Arts and Crafts movement",
+    "url": "https://www.britannica.com/art/Arts-and-Crafts-movement",
+    "checks": "Confirma a Morris, su firma de 1861 con Webb, Brown y Burne-Jones que hacía metalistería, textiles, muebles y libros, el rescate de técnicas medievales y la expansión internacional en la década de 1890. ⚠ No menciona vitrales ni papel mural.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "National Trust, Red House: history",
+    "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+    "checks": "Confirma que la Casa Roja, hecha con Philip Webb, fue encargada en 1859 y terminada en 1860, sin ornamento innecesario, y que inspiró la fundación de Morris, Marshall, Faulkner & Co. en 1861.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Cambridge University Press, 'The Nature of Gothic' (P. D. Anthony, John Ruskin's Labour)",
+    "url": "https://www.cambridge.org/core/books/john-ruskins-labour/nature-of-gothic/07CFB5EC663F581D519E134857941DA9",
+    "checks": "Confirma que The Nature of Gothic (1853) es crítica del trabajo industrial y que influyó en Morris y Burne-Jones.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Frank Lloyd Wright Foundation, The Art & Craft of the Machine",
+    "url": "https://franklloydwright.org/the-art-craft-of-the-machine/",
+    "checks": "Confirma que Wright dio la conferencia 'The Art and Craft of the Machine' en Hull House, Chicago, en 1901, y que veía la máquina como aliada de la democracia.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Stickley Museum, History",
+    "url": "https://www.stickleymuseum.org/history/",
+    "checks": "Confirma que Gustav Stickley lanzó la revista The Craftsman en 1901, que difundió la filosofía Arts and Crafts de Morris y Ruskin.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Cambié 'vitrales, muebles y papel mural' por 'muebles, textiles y metalistería' (Britannica); vitrales y papel mural no se confirmaron en fuentes abiertas.",
+   "'Philip Webb diseñó la Casa Roja para Morris' lo suavicé a 'trabajó con Morris' (National Trust: colaboraron). 'Moldeó escuelas de diseño posteriores' se reemplazó por 'se extendió internacionalmente en la década de 1890' (Britannica) y 'cuestión política' por 'social'.",
+   "Dato de ficha: start 1861 es la firma de Morris; el origen intelectual (Ruskin 1853, Red House 1859-60) es anterior, no se cambia."
+  ]
+ },
+ {
+  "id": "illustrated-poster",
+  "en": {
+   "key": "The colour lithographic poster, begun by Chéret in 1866,[1] that made street advertising an art form, from Chéret and Toulouse-Lautrec in Paris to the Beggarstaffs in Britain.[3][4]",
+   "traits": [
+    "Large areas of flat colour[2]",
+    "Image and lettering drawn together, with prominent hand-lettered titles[2]",
+    "Bold silhouette readable at a distance[4]",
+    "Drawn by artists, printed by lithography[2]",
+    "Posters collected, with a 'poster mania' among collectors in the 1890s[3]"
+   ],
+   "context": "Colour lithography was brought to the poster in Paris by Jules Chéret from 1866,[1][2] and the French press freedom law of 1881 was followed by wider use of posters in the street.[3] By the 1890s Henri de Toulouse-Lautrec, Alphonse Mucha and others were designing posters for theatres, cabarets and consumer goods,[3] and collectors and dealers followed.[3]",
+   "shift": "The poster went from an ornate, text-heavy notice to bold images with large areas of colour and few words, made by an artist for a street audience.[2] In Britain the Beggarstaffs, William Nicholson and James Pryde, used simplified flat-colour designs in the 1890s,[4] and in the United States the modern poster emerged in the same decade, with artists such as Will Bradley.[5][6]"
+  },
+  "es": {
+   "key": "El cartel litográfico a color, iniciado por Chéret en 1866,[1] que hizo de la publicidad callejera una forma de arte, de Chéret y Toulouse-Lautrec en París a los Beggarstaffs en Gran Bretaña.[3][4]",
+   "traits": [
+    "Grandes áreas de color plano[2]",
+    "Imagen y letra dibujadas juntas, con títulos rotulados a mano bien visibles[2]",
+    "Silueta marcada, legible a distancia[4]",
+    "Dibujado por artistas, impreso en litografía[2]",
+    "Carteles coleccionados, con una 'manía del cartel' entre coleccionistas en la década de 1890[3]"
+   ],
+   "context": "La litografía a color fue llevada al cartel en París por Jules Chéret desde 1866,[1][2] y a la ley francesa de libertad de prensa de 1881 siguió un uso más amplio de carteles en la calle.[3] En la década de 1890 Henri de Toulouse-Lautrec, Alphonse Mucha y otros diseñaban carteles para teatros, cabarés y bienes de consumo,[3] y siguieron coleccionistas y marchantes.[3]",
+   "shift": "El cartel pasó de ser un aviso recargado y lleno de texto a imágenes audaces con grandes áreas de color y pocas palabras, hechas por un artista para un público de calle.[2] En Gran Bretaña los Beggarstaffs, William Nicholson y James Pryde, usaron diseños simplificados de color plano en la década de 1890,[4] y en Estados Unidos el cartel moderno surgió en la misma década, con artistas como Will Bradley.[5][6]"
+  },
+  "refs": [
+   {
+    "label": "V&A, A short history of the poster",
+    "url": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+    "checks": "Confirma que a Jules Chéret (1836-1932) se le atribuyen los primeros carteles litográficos en color, en 1866, con proceso de tres piedras. ⚠ No cubre la ley de 1881 ni a los Beggarstaffs.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Jules Chéret",
+    "url": "https://www.britannica.com/biography/Jules-Cheret",
+    "checks": "Confirma su taller litográfico de 1866 en París, su trabajo directo sobre la piedra, áreas de color plano, grandes figuras centrales y títulos rotulados a mano, más de 1.000 carteles para teatros, music halls y productos, y su influencia en Toulouse-Lautrec y Mucha.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Musée d'Orsay, exposición 'L'art est dans la rue' (2025)",
+    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/presentation/art-street",
+    "checks": "Confirma el auge del cartel ilustrado a color en París desde la litografía de gran formato de los años 1860, a Chéret como padre del cartel moderno, a Toulouse-Lautrec y Mucha como autores, la 'manía del cartel' coleccionista de los 1890 y la ley de libertad de prensa de 1881. ⚠ No dice que la ley facilitara el pegado de carteles; solo que los carteles se politizaron después.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "University of Cambridge / Fitzwilliam Museum, Beggarstaffs: William Nicholson & James Pryde",
+    "url": "https://www.cam.ac.uk/stories/beggarstaffs",
+    "checks": "Confirma a William Nicholson (1872-1949) y James Pryde (1866-1941) como los 'Beggarstaffs' en los años 1890, con diseños simplificados de color plano y siluetas, hechos en collage y estarcido.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Will Bradley",
+    "url": "https://www.britannica.com/biography/Will-Bradley",
+    "checks": "Confirma a Bradley como diseñador estadounidense de portadas, tipografías y carteles en los años 1890. ⚠ No confirma influencia de los Beggarstaffs sobre él.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, The Art of the Literary Poster (Allison Rudnick, 2024)",
+    "url": "https://www.metmuseum.org/met-publications/the-art-of-the-literary-poster",
+    "checks": "Confirma que el cartel moderno surgió en los años 1890 como cultura visual popular en EE. UU., con Will H. Bradley entre sus autores.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha dice 'desde la década de 1880' y start 1880; las fuentes sitúan los primeros carteles en color de Chéret en 1866, por lo que lo escribí así sin cambiar start/end.",
+   "La ley de 1881 'facilitó el pegado de afiches' no se confirma (Orsay solo dice que después los carteles se usaron políticamente); lo suavicé.",
+   "Quité que Bradley 'adoptó el enfoque de los Beggarstaffs': ninguna fuente lo sostiene; solo que ambos trabajaron en carteles en los 1890."
+  ]
+ },
+ {
+  "id": "chicago-school",
+  "en": {
+   "key": "The Chicago architects who, after the fire of 1871,[4] developed the steel-framed commercial skyscraper with large windows and light façades.[1][5]",
+   "traits": [
+    "Steel or iron skeleton carrying the weight of the building[2]",
+    "Fireproof cladding of terracotta[5]",
+    "Large windows set in a regular grid[5]",
+    "Façades that show the frame beneath",
+    "Tall commercial buildings for offices and department stores[1]"
+   ],
+   "context": "After the Great Fire of 1871 destroyed the centre of Chicago,[4] business owners rebuilt at first in four-storey brick, stone and iron, and the first skyscrapers, with steel frames and elevators, came 10 to 15 years later.[4] William Le Baron Jenney's Home Insurance Building (1884-85) is generally considered the first tall building carried by an iron and steel skeleton,[2] and Burnham & Root,[1] Holabird & Roche[5] and Adler & Sullivan[3] also built here. The World's Columbian Exposition of 1893, in classical style, led to a resurgence of interest in classical architecture.[7]",
+   "shift": "From thick load-bearing walls to a metal skeleton with a light skin, so that the façade became a curtain over the frame.[2] Louis Sullivan, a leading designer of the school,[3] wrote in 1896 that form ever follows function,[6] and Chicago has been called the 'birthplace of modern architecture'.[1]"
+  },
+  "es": {
+   "key": "Los arquitectos de Chicago que, tras el incendio de 1871,[4] desarrollaron el rascacielos comercial de estructura de acero con grandes ventanas y fachadas livianas.[1][5]",
+   "traits": [
+    "Esqueleto de acero o hierro que soporta el peso del edificio[2]",
+    "Revestimiento incombustible de terracota[5]",
+    "Grandes ventanas dispuestas en una retícula regular[5]",
+    "Fachadas que muestran la estructura que hay debajo",
+    "Edificios comerciales altos para oficinas y grandes almacenes[1]"
+   ],
+   "context": "Después de que el Gran Incendio de 1871 destruyó el centro de Chicago,[4] los dueños de negocios reconstruyeron al principio en ladrillo, piedra y hierro de cuatro pisos, y los primeros rascacielos, con estructura de acero y ascensores, llegaron de 10 a 15 años después.[4] El Home Insurance Building de William Le Baron Jenney (1884-85) se considera en general el primer edificio alto sostenido por un esqueleto de hierro y acero,[2] y aquí construyeron también Burnham & Root,[1] Holabird & Roche[5] y Adler & Sullivan.[3] La Exposición Colombina Mundial de 1893, de estilo clásico, provocó un resurgir del interés por la arquitectura clásica.[7]",
+   "shift": "De los gruesos muros portantes a un esqueleto metálico con una piel liviana, de modo que la fachada pasó a ser una cortina sobre la estructura.[2] Louis Sullivan, uno de los principales diseñadores de la escuela,[3] escribió en 1896 que la forma sigue siempre a la función,[6] y Chicago ha sido llamada 'cuna de la arquitectura moderna'.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, Chicago school",
+    "url": "https://www.britannica.com/art/Chicago-school-architecture",
+    "checks": "Confirma a Burnham, Jenney, Root y Adler y Sullivan como integrantes, edificios como Montauk (1882), Auditorium (1887-89), Monadnock (1891) y Carson Pirie Scott (1898-1904), y que Chicago fue llamada 'cuna de la arquitectura moderna'.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, William Le Baron Jenney",
+    "url": "https://www.britannica.com/biography/William-Le-Baron-Jenney",
+    "checks": "Confirma el Home Insurance Building (1884-85) como el primer edificio alto de esqueleto interno de hierro y acero en lugar de muros portantes.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Louis Sullivan",
+    "url": "https://www.britannica.com/biography/Louis-Sullivan",
+    "checks": "Confirma a Sullivan (1856-1924) y su sociedad con Dankmar Adler (1879-95), su asociación a la Escuela de Chicago y a la idea de que la forma refleja el propósito.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Chicago Architecture Center, The Great Chicago Fire of 1871",
+    "url": "https://www.architecture.org/online-resources/architecture-encyclopedia/the-great-chicago-fire-of-1871",
+    "checks": "Confirma el incendio de 8-10 de octubre de 1871, la reconstrucción inmediata en ladrillo, piedra y hierro de cuatro pisos y que los primeros rascacielos de acero y ascensores llegaron 10-15 años después. ⚠ Desmiente que el incendio produjera de inmediato rascacielos.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Chicago Architecture Center, Marquette Building",
+    "url": "https://www.architecture.org/online-resources/buildings-of-chicago/marquette-building",
+    "checks": "Confirma el Marquette Building (1895) de Holabird & Roche con estructura de acero, revestimiento de terracota y 'grandes ventanas de Chicago' para luz y aire.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Jon Ochshorn (Cornell University), Sullivan's Eagle: Form and Function Artistically Considered",
+    "url": "https://jonochshorn.com/scholarship/writings/sullivans-eagle/",
+    "checks": "Confirma que Sullivan publicó 'form ever follows function' en 'The Tall Office Building Artistically Considered', Lippincott's Magazine, marzo de 1896.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, World's Columbian Exposition",
+    "url": "https://www.britannica.com/event/Worlds-Columbian-Exposition",
+    "checks": "Confirma la Exposición de 1893 con fachadas clásicas que renovaron el interés por la arquitectura clásica en EE. UU.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha decía que la reconstrucción 'necesitó edificios altos e incombustibles' y que 'acero y ascensor los hicieron posibles'; el Chicago Architecture Center dice que el incendio no generó rascacielos de inmediato (llegaron 10-15 años después); lo reescribí.",
+   "'Louis Sullivan, principal teórico' lo suavicé a 'uno de los principales diseñadores'; 'modelo para edificios altos en otros lugares' lo cambié por la cita de Britannica sobre 'cuna de la arquitectura moderna'.",
+   "Britannica fecha el Home Insurance Building en 1884-85; la ficha dice 1885. 'Fachadas que muestran la estructura' queda sin fuente."
+  ]
+ },
+ {
+  "id": "art-nouveau",
+  "en": {
+   "key": "An international style of the 1890s and 1900s built on flowing lines and natural forms, known as Jugendstil in Germany and modernista in Spain, in buildings, posters, glass and furniture.[1][4]",
+   "traits": [
+    "Whiplash curves and sinuous organic lines[1][3]",
+    "Plant and flower motifs and forms taken from nature[3][4]",
+    "Ornament integrated throughout, from architecture to silverware[4]",
+    "Iron and glass used in unconventional forms[5]",
+    "Local variants under many names[1][4]"
+   ],
+   "context": "It emerged in the 1890s in Brussels and Paris,[1] among architects such as Victor Horta and Hector Guimard[1] and in the gallery of Siegfried Bing, whose Paris shop gave the style its name.[2] It took other names elsewhere: Jugendstil in Germany, Secession in Austria, modernista in Spain.[1][5] The Paris exposition of 1900 showed it to a very wide public.[1][3]",
+   "shift": "From the revival of past styles to an ornament drawn from living forms and meant to be 'new art'.[3] Ornament became integrated across design from architecture to silverware,[4] and iron and glass were shaped into dramatic, unconventional forms.[5]"
+  },
+  "es": {
+   "key": "Un estilo internacional de las décadas de 1890 y 1900 basado en líneas fluidas y formas de la naturaleza, llamado Jugendstil en Alemania y modernista en España, en edificios, carteles, vidrio y muebles.[1][4]",
+   "traits": [
+    "Curvas de látigo y líneas orgánicas sinuosas[1][3]",
+    "Motivos de plantas y flores y formas tomadas de la naturaleza[3][4]",
+    "Ornamento integrado en todo, de la arquitectura a la platería[4]",
+    "Hierro y vidrio usados en formas poco convencionales[5]",
+    "Variantes locales con muchos nombres[1][4]"
+   ],
+   "context": "Surgió en la década de 1890 en Bruselas y París,[1] entre arquitectos como Victor Horta y Hector Guimard[1] y en la galería de Siegfried Bing, cuyo local parisino dio nombre al estilo.[2] Tomó otros nombres en otros lugares: Jugendstil en Alemania, Secesión en Austria, modernista en España.[1][5] La exposición de París de 1900 lo mostró a un público muy amplio.[1][3]",
+   "shift": "De la reedición de estilos del pasado a un ornamento sacado de formas vivas y pensado como 'arte nuevo'.[3] El ornamento se integró en todo el diseño, de la arquitectura a la platería,[4] y el hierro y el vidrio se modelaron en formas dramáticas y poco convencionales.[5]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, Art Nouveau",
+    "url": "https://www.britannica.com/art/Art-Nouveau",
+    "checks": "Confirma un movimiento ornamental de c. 1890-1910 con línea larga, sinuosa y orgánica, origen en Bruselas y París en los años 1890 (Horta, Guimard), nombres Jugendstil, Secesión y modernismo, y la Exposición de París de 1900.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Siegfried Bing",
+    "url": "https://www.britannica.com/biography/Siegfried-Bing",
+    "checks": "Confirma que la galería parisina de Bing, 'L'Art Nouveau', dio nombre al estilo.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, Heilbrunn Timeline: Art Nouveau",
+    "url": "https://www.metmuseum.org/essays/art-nouveau",
+    "checks": "Confirma el 'arte nuevo' inspirado en formas naturales, líneas sinuosas y curvas de látigo, la Exposición Universal de 1900 en París y nombres como Jugendstil. ⚠ No lista 'modernisme'.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "V&A, Art Nouveau: an international style",
+    "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+    "checks": "Confirma los nombres regionales (Art Nouveau en Francia vía Bing, Jugendstil y Sezessionstil, modernista en España), motivos orgánicos integrados 'de la arquitectura a la platería', y la Exposición de 1900.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Western architecture: Art Nouveau",
+    "url": "https://www.britannica.com/art/Western-architecture/Art-Nouveau",
+    "checks": "Confirma Jugendstil, Sezessionstil, Modernista, Horta y Guimard, y el hierro y el vidrio como materiales característicos en formas dramáticas.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha dice 'modernisme en Cataluña' y 'Modern Style en Gran Bretaña'; las fuentes hablan de 'Modernista' en España y no confirman 'Modern Style'. Quité lo segundo y cambié Cataluña por España, sin tocar countries/start/end.",
+   "'A comienzos de la década de 1890' lo suavicé a 'en la década de 1890' (Britannica).",
+   "'Diseñar un interior completo, de la fachada al tirador' y 'técnicas artesanales e industriales mezcladas' no se confirmaron; los sustituí por lo que dicen V&A y Britannica."
+  ]
+ },
+ {
+  "id": "vienna-secession",
+  "en": {
+   "key": "Viennese artists who left the established artists' association in 1897[1][2] and brought an ornamental, increasingly geometric modern style to exhibitions, magazines and applied arts.[1][4]",
+   "traits": [
+    "Square and grid geometry, later the 'square style' of the Wiener Werkstätte[4]",
+    "Ornamental design influenced by Art Nouveau, against academic convention[1]",
+    "Own exhibition building and 23 exhibitions between 1897 and 1905[2]",
+    "Graphic work and the magazine Ver Sacrum as art[1][3]",
+    "Craft and design placed beside painting"
+   ],
+   "context": "The Secession was founded in 1897 by artists around Gustav Klimt who broke from the conservative Künstlerhaus.[1][2][3] Its building by Joseph Maria Olbrich was completed in 1898,[1][2] and its magazine Ver Sacrum, launched in 1898, carried the group's graphic work.[3] Josef Hoffmann and Koloman Moser, who were involved with the Secession,[1] founded the Wiener Werkstätte in 1903.[4]",
+   "shift": "Design moved toward ornamental, flatter and more geometric forms,[1][4] and craft and applied arts were set beside painting. The Wiener Werkstätte, founded by Hoffmann and Moser in 1903 to preserve handcraft, carried this approach into jewellery, textiles and furniture.[4]"
+  },
+  "es": {
+   "key": "Artistas vieneses que dejaron la asociación oficial de artistas en 1897[1][2] y llevaron un estilo moderno ornamental y cada vez más geométrico a exposiciones, revistas y artes aplicadas.[1][4]",
+   "traits": [
+    "Geometría de cuadrados y retícula, luego el 'estilo cuadrado' de la Wiener Werkstätte[4]",
+    "Diseño ornamental influido por el Art Nouveau, frente a la convención académica[1]",
+    "Edificio propio de exposiciones y 23 exposiciones entre 1897 y 1905[2]",
+    "Obra gráfica y la revista Ver Sacrum como arte[1][3]",
+    "Oficio y diseño junto a la pintura"
+   ],
+   "context": "La Secesión se fundó en 1897 por artistas en torno a Gustav Klimt que rompieron con el conservador Künstlerhaus.[1][2][3] Su edificio, de Joseph Maria Olbrich, se completó en 1898,[1][2] y su revista Ver Sacrum, lanzada en 1898, difundió la obra gráfica del grupo.[3] Josef Hoffmann y Koloman Moser, que participaron en la Secesión,[1] fundaron la Wiener Werkstätte en 1903.[4]",
+   "shift": "El diseño avanzó hacia formas ornamentales, más planas y geométricas,[1][4] y el oficio y las artes aplicadas se pusieron junto a la pintura. La Wiener Werkstätte, fundada por Hoffmann y Moser en 1903 para preservar el trabajo artesanal, llevó este enfoque a joyas, textiles y muebles.[4]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, Vienna Sezession",
+    "url": "https://www.britannica.com/topic/Vienna-Sezession",
+    "checks": "Confirma la fundación en 1897 por Klimt y otros, la ruptura con el Künstlerhaus, el edificio de Olbrich (1898), la revista Ver Sacrum, estética ornamental de influencia Art Nouveau y la participación de Hoffmann (luego Wiener Werkstätte) y Moser.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Google Arts & Culture, Gustav Klimt and the Secession",
+    "url": "https://artsandculture.google.com/story/gustav-klimt-and-the-secession/NgUhK-7sIQ8ruw?hl=en",
+    "checks": "Confirma la reunión inaugural del 3 de abril de 1897, a Klimt como primer presidente, el edificio de Olbrich terminado en 1898, 23 exposiciones entre 1897 y 1905 y la revista Ver Sacrum.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "History Today, The Vienna Secession is Founded",
+    "url": "https://www.historytoday.com/archive/months-past/vienna-secession-founded",
+    "checks": "Confirma que el 3 de abril de 1897 artistas liderados por Klimt se separaron del Künstlerhaus y que Ver Sacrum se lanzó en 1898.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, Wiener Werkstätte",
+    "url": "https://www.britannica.com/topic/Wiener-Werkstatte",
+    "checks": "Confirma que la Wiener Werkstätte fue fundada en Viena en 1903 por Koloman Moser y Josef Hoffmann para preservar el oficio, con su estética geométrica del 'estilo cuadrado'.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité 'exposiciones diseñadas como un todo', 'patrón plano con línea fina' y 'las artes aplicadas recibieron el mismo rango que la pintura' como afirmaciones sin fuente; reformulé con lo confirmado (edificio propio, 23 exposiciones, estética ornamental). 'Oficio y diseño junto a la pintura' queda sin marca.",
+   "'Geométrico y más sobrio' lo suavicé: Britannica describe la Secesión como ornamental; la geometría cuadrada se confirma sobre la Wiener Werkstätte.",
+   "Hoffmann y Moser como 'miembros': Britannica sólo dice que participaron; el cambio mantiene la fecha de 1903 de la Werkstätte."
+  ]
+ }
+]

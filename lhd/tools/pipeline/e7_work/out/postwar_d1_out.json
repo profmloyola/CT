@@ -1,0 +1,473 @@
+[
+ {
+  "rtype": "designer",
+  "id": "som",
+  "level": "normal",
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1936,
+  "died": null,
+  "dates": "1936–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Skidmore, Owings & Merrill (SOM)",
+  "movements": [
+   "international-style"
+  ],
+  "key": "American architecture firm, founded in Chicago in 1936, that turned the International Style into the standard look of the corporate office tower, with Lever House in New York as its early landmark.",
+  "more": "Louis Skidmore and Nathaniel Owings founded the firm in Chicago in 1936, and John Merrill joined a few years later. Gordon Bunshaft designed Lever House (New York, c.1952), a glass curtain-wall slab that companies copied as an image of modernity. The firm grew into a large practice that produced offices and towers across the world.",
+  "es": {
+   "dates": "1936–",
+   "key": "Despacho de arquitectura estadounidense, fundado en Chicago en 1936, que convirtió el estilo internacional en la imagen habitual de la torre de oficinas corporativa; la Lever House de Nueva York fue su primer hito.",
+   "more": "Louis Skidmore y Nathaniel Owings fundaron el despacho en Chicago en 1936, y John Merrill se les unió pocos años después. Gordon Bunshaft proyectó la Lever House (Nueva York, c. 1952), una placa con muro cortina de vidrio que las empresas copiaron como imagen de modernidad. El despacho se convirtió en una gran oficina que levantó edificios y torres en todo el mundo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-corporate-office-boom",
+  "item": "som",
+  "note": "Large companies commission glass headquarters as a corporate image, so the firm turns International Style glass slabs into the standard office tower.",
+  "es": {
+   "note": "Las grandes empresas encargan sedes de vidrio como imagen corporativa, y el despacho convierte las placas de vidrio del estilo internacional en la torre de oficinas estándar."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "carlos-raul-villanueva",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1900,
+  "died": 1975,
+  "dates": "1900–1975",
+  "countries": [
+   "VE"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "name": "Carlos Raúl Villanueva",
+  "movements": [
+   "macro-modernism"
+  ],
+  "key": "Venezuelan architect of the Ciudad Universitaria de Caracas, a World Heritage site and a major work of the modern «synthesis of the arts».",
+  "more": "He designed the Ciudad Universitaria de Caracas from the 1940s onward, a modern campus that integrates architecture with works by artists. Alexander Calder's acoustic «clouds» in the Aula Magna are among its best-known pieces. UNESCO inscribed the campus on the World Heritage List in 2000.",
+  "es": {
+   "dates": "1900–1975",
+   "key": "Arquitecto venezolano de la Ciudad Universitaria de Caracas, Patrimonio Mundial y una gran obra de la «síntesis de las artes» moderna.",
+   "more": "Proyectó la Ciudad Universitaria de Caracas desde la década de 1940, un campus moderno que integra la arquitectura con obras de artistas. Las «nubes» acústicas de Alexander Calder en el Aula Magna son de sus piezas más conocidas. La Unesco inscribió el campus en la Lista del Patrimonio Mundial en 2000."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-latam-urbanisation-1950",
+  "item": "carlos-raul-villanueva",
+  "note": "Caracas grows fast and the oil-funded state invests in public works, so Villanueva plans a whole modern university campus that integrates art and architecture.",
+  "es": {
+   "note": "Caracas crece rápido y el Estado, con ingresos del petróleo, invierte en obras públicas, así que Villanueva planifica un campus universitario moderno completo que integra arte y arquitectura."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "smithsons",
+  "level": "normal",
+  "kind": "duo",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1923,
+  "died": 2003,
+  "dates": "Alison 1928–1993, Peter 1923–2003",
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Alison and Peter Smithson",
+  "movements": [
+   "brutalism-metabolism"
+  ],
+  "institutions": [
+   "inst-team-10",
+   "inst-independent-group"
+  ],
+  "key": "British architect couple who founded the New Brutalism and took part in Team 10 and the Independent Group.",
+  "more": "Alison and Peter Smithson became known for the Hunstanton School in Norfolk (c.1954), an early work of the New Brutalism with exposed structure and materials. They belonged to the Independent Group in London and to Team 10, which questioned the rationalism of the older modern masters. Their writing and projects shaped British architecture after the Second World War.",
+  "es": {
+   "dates": "Alison 1928–1993, Peter 1923–2003",
+   "key": "Pareja de arquitectos británicos que fundó el Nuevo Brutalismo y participó en el Team 10 y en el Independent Group.",
+   "more": "Alison y Peter Smithson se dieron a conocer con la escuela de Hunstanton, en Norfolk (c. 1954), obra temprana del Nuevo Brutalismo con estructura y materiales a la vista. Formaron parte del Independent Group en Londres y del Team 10, que cuestionó el racionalismo de los maestros modernos anteriores. Sus textos y proyectos marcaron la arquitectura británica de posguerra."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-housing-reconstruction",
+  "item": "smithsons",
+  "note": "Postwar British reconstruction demands schools and housing built cheaply, so they design with exposed structure and materials as an ethic of honesty.",
+  "es": {
+   "note": "La reconstrucción británica de posguerra exige escuelas y viviendas baratas, y ellos proyectan con estructura y materiales a la vista como una ética de honestidad."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "felix-candela",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1910,
+  "died": 1997,
+  "dates": "1910–1997",
+  "countries": [
+   "ES",
+   "MX"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "name": "Félix Candela",
+  "key": "Spanish-born architect and builder who made thin concrete shell roofs in Mexico, a canonical body of work in structural design.",
+  "more": "Candela left Spain after the Civil War and settled in Mexico in 1939. He specialised in thin reinforced-concrete shells shaped as hyperbolic paraboloids, such as the Los Manantiales restaurant in Xochimilco (c.1958). His shells covered large spans with very little material.",
+  "es": {
+   "dates": "1910–1997",
+   "key": "Arquitecto y constructor nacido en España que levantó delgadas cubiertas de cascarón de hormigón en México, obra canónica del diseño estructural.",
+   "more": "Candela salió de España tras la Guerra Civil y se instaló en México en 1939. Se especializó en cascarones delgados de hormigón armado con forma de paraboloide hiperbólico, como el restaurante Los Manantiales en Xochimilco (c. 1958). Sus láminas cubrían grandes luces con muy poco material."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mexico-miracle",
+  "item": "felix-candela",
+  "note": "With cheap labour and costly steel in Mexico, he builds thin double-curved concrete shells that use little material and rely on skilled formwork.",
+  "es": {
+   "note": "Con mano de obra barata y acero caro en México, construye láminas delgadas de hormigón de doble curvatura que usan poco material y dependen de una buena obra de moldaje."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "eladio-dieste",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1917,
+  "died": 2000,
+  "dates": "1917–2000",
+  "countries": [
+   "UY"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "name": "Eladio Dieste",
+  "key": "Uruguayan engineer of reinforced brick, a world reference for appropriate building technique.",
+  "more": "Dieste developed «cerámica armada», brick masonry reinforced with steel, to build thin self-supporting vaults and walls. His Church of Cristo Obrero in Atlántida (c.1960) is among his best-known works. He used local brick and labour to span large industrial and public spaces economically.",
+  "es": {
+   "dates": "1917–2000",
+   "key": "Ingeniero uruguayo de la cerámica armada, referencia mundial de la técnica constructiva apropiada.",
+   "more": "Dieste desarrolló la «cerámica armada», albañilería de ladrillo reforzada con acero, para construir bóvedas y muros delgados y autoportantes. Su iglesia de Cristo Obrero en Atlántida (c. 1960) es una de sus obras más conocidas. Usó ladrillo y mano de obra locales para cubrir con economía grandes espacios industriales y públicos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-isi-cepal",
+  "item": "eladio-dieste",
+  "note": "With steel and cement scarce but brick and labour available, he builds large vaults of reinforced brick instead of concrete or steel.",
+  "es": {
+   "note": "Con acero y cemento escasos pero ladrillo y mano de obra disponibles, construye grandes bóvedas de ladrillo armado en lugar de hormigón o acero."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "moshe-safdie",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1938,
+  "died": null,
+  "dates": "1938–",
+  "countries": [
+   "CA"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Moshe Safdie",
+  "key": "Israeli-Canadian architect, author of Habitat 67, a manifesto of prefabricated housing in stacked modules.",
+  "more": "Safdie designed Habitat 67 in Montreal for the 1967 World Exhibition, a housing complex of prefabricated concrete boxes stacked in a staggered pattern. It started from his student thesis on modular housing. The project made him internationally known.",
+  "es": {
+   "dates": "1938–",
+   "key": "Arquitecto israelí-canadiense, autor de Habitat 67, manifiesto de la vivienda prefabricada en módulos apilados.",
+   "more": "Safdie proyectó Habitat 67 en Montreal para la Exposición Universal de 1967, un conjunto de viviendas hecho de cajas de hormigón prefabricadas apiladas de forma escalonada. Partió de su tesis de estudiante sobre vivienda modular. El proyecto lo hizo conocido en todo el mundo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-expo-67",
+  "item": "moshe-safdie",
+  "note": "The Montreal exhibition gives him the chance to build his modular housing thesis at full scale, as stacked prefabricated concrete units.",
+  "es": {
+   "note": "La exposición de Montreal le da la oportunidad de construir a escala real su tesis de vivienda modular, con unidades de hormigón prefabricadas apiladas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "paco-rabanne",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "born": 1934,
+  "died": 2023,
+  "dates": "1934–2023",
+  "countries": [
+   "ES",
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Paco Rabanne",
+  "movements": [
+   "space-age-fashion"
+  ],
+  "key": "Spanish-born fashion designer of the space age who dressed women in plastic and metal.",
+  "more": "Born in Spain, Rabanne worked in Paris and in 1966 showed dresses made of unconventional materials, among them plastic discs joined with metal rings. His clothes were assembled with pliers instead of being sewn. They became a symbol of space-age fashion in the 1960s.",
+  "es": {
+   "dates": "1934–2023",
+   "key": "Modista de la era espacial, nacido en España, que vistió con plástico y metal.",
+   "more": "Nacido en España, Rabanne trabajó en París y en 1966 presentó vestidos hechos de materiales no convencionales, entre ellos discos de plástico unidos con anillas de metal. Sus prendas se armaban con alicates en lugar de coserse. Se volvieron un símbolo de la moda de la era espacial en los años sesenta."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-plastics",
+  "item": "paco-rabanne",
+  "note": "New plastics become available to industry, so he replaces fabric with plastic discs joined by metal rings and builds dresses instead of sewing them.",
+  "es": {
+   "note": "Los nuevos plásticos llegan a la industria, y él reemplaza la tela por discos de plástico unidos con anillas de metal y arma los vestidos en lugar de coserlos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "abram-games",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1914,
+  "died": 1996,
+  "dates": "1914–1996",
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Abram Games",
+  "key": "British poster designer of the Second World War and of the 1951 Festival of Britain.",
+  "more": "Games worked as an official War Office poster artist during the Second World War, producing posters for the army. He designed the emblem of the Festival of Britain in 1951. His posters aimed to say as much as possible with the fewest elements.",
+  "es": {
+   "dates": "1914–1996",
+   "key": "Cartelista británico de la Segunda Guerra Mundial y del Festival de Gran Bretaña de 1951.",
+   "more": "Games trabajó como cartelista oficial del Ministerio de Guerra durante la Segunda Guerra Mundial, con afiches para el ejército. Diseñó el emblema del Festival de Gran Bretaña de 1951. Sus afiches buscaban decir lo máximo con los menos elementos posibles."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-second-world-war",
+  "item": "abram-games",
+  "note": "The War Office commissions posters that must work at a glance, so he reduces each message to one strong, simplified image.",
+  "es": {
+   "note": "El Ministerio de Guerra encarga carteles que deben funcionar de un vistazo, y él reduce cada mensaje a una sola imagen potente y sintetizada."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "emory-douglas",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1943,
+  "died": null,
+  "dates": "1943–",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Emory Douglas",
+  "key": "Minister of Culture of the Black Panther Party and the author of its graphic work.",
+  "more": "Douglas became the Black Panther Party's Minister of Culture in the late 1960s. He made the illustrations and layouts of its newspaper, The Black Panther, in bold, simple graphics. His work gave the movement its own visual language.",
+  "es": {
+   "dates": "1943–",
+   "key": "Ministro de Cultura del Partido Pantera Negra y autor de su gráfica.",
+   "more": "Douglas fue ministro de Cultura del Partido Pantera Negra desde fines de los años sesenta. Hizo las ilustraciones y la diagramación de su periódico, The Black Panther, con una gráfica audaz y simple. Su trabajo dio al movimiento un lenguaje visual propio."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-civil-rights",
+  "item": "emory-douglas",
+  "note": "The civil rights and Black Power struggle needs its own images, so he makes bold, cheap-to-print graphics for the party newspaper and posters.",
+  "es": {
+   "note": "La lucha por los derechos civiles y el Black Power necesita imágenes propias, y él hace gráfica audaz y barata de imprimir para el periódico y los afiches del partido."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "herb-lubalin",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1918,
+  "died": 1981,
+  "dates": "1918–1981",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Herb Lubalin",
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "key": "American master of expressive typography, associated with Avant Garde, U&lc and ITC.",
+  "more": "Lubalin was a New York art director and typographer. He designed the magazine Avant Garde with Ralph Ginzburg and drew the logo that led to the ITC Avant Garde typeface. He also gave direction to U&lc, the publication of the International Typeface Corporation.",
+  "es": {
+   "dates": "1918–1981",
+   "key": "Maestro estadounidense de la tipografía expresiva, asociado a Avant Garde, U&lc e ITC.",
+   "more": "Lubalin fue director de arte y tipógrafo en Nueva York. Diseñó la revista Avant Garde con Ralph Ginzburg y dibujó el logotipo del que nació la tipografía ITC Avant Garde. También dirigió U&lc, la publicación de la International Typeface Corporation."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-phototypesetting",
+  "item": "herb-lubalin",
+  "note": "Phototypesetting frees letters from metal blocks, so he sets letters touching, ligatured and at any scale, as expressive typography.",
+  "es": {
+   "note": "La fotocomposición libera las letras de los bloques de metal, y él las compone pegadas, con ligaduras y a cualquier escala, como tipografía expresiva."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "pininfarina",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1893,
+  "died": 1966,
+  "dates": "1893–1966",
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Battista «Pinin» Farina",
+  "movements": [
+   "italian-design"
+  ],
+  "key": "Turin coachbuilder whose Cisitalia 202 was the first car in the MoMA collection.",
+  "more": "Battista Farina, called Pinin, founded his coachbuilding firm in Turin in 1930. He designed the bodywork of the Cisitalia 202 (c.1947), which the Museum of Modern Art in New York later acquired. The firm became a pillar of Italian car design.",
+  "es": {
+   "dates": "1893–1966",
+   "key": "Carrocero turinés cuyo Cisitalia 202 fue el primer automóvil de la colección del MoMA.",
+   "more": "Battista Farina, llamado Pinin, fundó su taller de carrocería en Turín en 1930. Diseñó la carrocería del Cisitalia 202 (c. 1947), que el Museo de Arte Moderno de Nueva York adquirió más tarde. La empresa se volvió un pilar del diseño automotor italiano."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-design-culture",
+  "item": "pininfarina",
+  "note": "Craft coachbuilding in Italy rises to a design culture, as the maker shapes car bodies as sculpted, museum-recognised forms.",
+  "es": {
+   "note": "La carrocería artesanal italiana se eleva a cultura de diseño, pues el carrocero modela las carrocerías como formas escultóricas reconocidas por los museos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "kaj-franck",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1911,
+  "died": 1989,
+  "dates": "1911–1989",
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Kaj Franck",
+  "movements": [
+   "scandinavian-design"
+  ],
+  "key": "Finnish designer of everyday tableware and glass, the «conscience» of Finnish design.",
+  "more": "Franck worked for Arabia and Nuutajärvi, and designed the Kilta tableware (c.1952), pieces that were combinable, stackable and sold individually. He argued for simple, durable objects for ordinary use. His work set a moral standard in Finnish design.",
+  "es": {
+   "dates": "1911–1989",
+   "key": "Diseñador finlandés de vajilla y vidrio de uso diario, la «conciencia» del diseño finlandés.",
+   "more": "Franck trabajó para Arabia y Nuutajärvi, y diseñó la vajilla Kilta (c. 1952), piezas combinables, apilables y vendidas por separado. Defendió objetos simples y durables para el uso común. Su obra fijó un estándar ético en el diseño finlandés."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-nordic-welfare",
+  "item": "kaj-franck",
+  "note": "Small homes and the welfare state need cheap, flexible tableware, so he designs combinable, stackable pieces bought one at a time.",
+  "es": {
+   "note": "Las viviendas pequeñas y el Estado de bienestar piden vajilla barata y flexible, y él diseña piezas combinables y apilables que se compran una a una."
+  },
+  "refs": []
+ }
+]

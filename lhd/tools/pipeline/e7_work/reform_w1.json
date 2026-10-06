@@ -1,0 +1,386 @@
+[
+ {
+  "rtype": "work",
+  "id": "wainwright-building-1891",
+  "title": "Wainwright Building",
+  "title_es": "Edificio Wainwright",
+  "year": 1891,
+  "discipline": "architecture",
+  "designers": [
+   "louis-sullivan"
+  ],
+  "maker": "Adler & Sullivan",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "El rascacielos canónico de Sullivan: estructura de acero expresada en vertical, base-fuste-remate. Falta en la línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-industrial-revolution",
+    "mecanismo": "El acero barato y el ascensor hacen rentable la oficina en altura → Sullivan da forma a la estructura"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-trademark-branding",
+    "mecanismo": "La gran empresa necesita una sede reconocible → el edificio de oficinas como imagen"
+   },
+   {
+    "tipo": "secundario",
+    "via": "chicago-school",
+    "mecanismo": "Obra central de la escuela de Chicago"
+   }
+  ],
+  "era": "reform",
+  "date": "1890–1891",
+  "type": "skyscraper",
+  "movements": [
+   "chicago-school"
+  ],
+  "tech": [
+   "iron-steel-frame",
+   "safety-elevator"
+  ],
+  "duda": "El segundo enlace directo es discutible; si no se sostiene, excepción C4c.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-second-industrial-revolution",
+    "item": "wainwright-building-1891",
+    "mecanismo": "El acero barato y el ascensor hacen rentable la oficina en altura → Sullivan da forma a la estructura"
+   },
+   {
+    "ctx": "ctx-trademark-branding",
+    "item": "wainwright-building-1891",
+    "mecanismo": "La gran empresa necesita una sede reconocible → el edificio de oficinas como imagen"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "chicago-school"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "voysey-orchard-1899",
+  "title": "The Orchard, Chorleywood",
+  "title_es": "The Orchard, Chorleywood",
+  "year": 1899,
+  "discipline": "architecture",
+  "designers": [
+   "cfa-voysey"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Casa del propio Voysey: el Arts and Crafts doméstico que Muthesius dio a conocer en Alemania.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "mecanismo": "La casa de clase media busca luz, sencillez y limpieza"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Ejemplo doméstico del movimiento"
+   }
+  ],
+  "era": "reform",
+  "type": "house",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-bourgeois-home-hygiene",
+    "item": "voysey-orchard-1899",
+    "mecanismo": "La casa de clase media busca luz, sencillez y limpieza"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "arts-and-crafts"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "ernst-ludwig-house-1901",
+  "title": "Ernst Ludwig House, Darmstadt",
+  "title_es": "Casa Ernst Ludwig, Darmstadt",
+  "year": 1901,
+  "discipline": "architecture",
+  "designers": [
+   "joseph-maria-olbrich"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Edificio de talleres de la colonia de Darmstadt y escenario de la exposición de 1901.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-national-unifications",
+    "mecanismo": "Mecenazgo ducal para dar prestigio a un Estado alemán"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-darmstadt-colony",
+    "mecanismo": "Edificio central de la colonia"
+   }
+  ],
+  "era": "reform",
+  "type": "building",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-national-unifications",
+    "item": "ernst-ludwig-house-1901",
+    "mecanismo": "Mecenazgo ducal para dar prestigio a un Estado alemán"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "crane-babys-opera-1877",
+  "title": "The Baby's Opera",
+  "title_es": "The Baby's Opera",
+  "year": 1877,
+  "discipline": "graphic",
+  "designers": [
+   "walter-crane"
+  ],
+  "maker": "Edmund Evans (printer)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Libro ilustrado clásico de la época dorada del libro infantil victoriano (Crane, Greenaway, Caldecott).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-childrens-book-market",
+    "mecanismo": "La escolarización y la impresión en color crean el libro infantil ilustrado"
+   },
+   {
+    "tipo": "secundario",
+    "via": "under-the-window-1879",
+    "mecanismo": "Mismo impresor y mismo mercado"
+   }
+  ],
+  "era": "reform",
+  "type": "book",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-childrens-book-market",
+    "item": "crane-babys-opera-1877",
+    "mecanismo": "La escolarización y la impresión en color crean el libro infantil ilustrado"
+   }
+  ],
+  "escribir_conexiones": [
+   {
+    "from": "crane-babys-opera-1877",
+    "to": "under-the-window-1879",
+    "mecanismo": "Mismo impresor y mismo mercado"
+   }
+  ],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "bradley-chap-book-1894",
+  "title": "Posters and covers for The Chap-Book",
+  "title_es": "Carteles y portadas para The Chap-Book",
+  "year": 1894,
+  "discipline": "graphic",
+  "designers": [
+   "will-bradley"
+  ],
+  "maker": "Stone & Kimball, Chicago",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Art Nouveau estadounidense; Meggs le dedica un apartado.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-poster-craze",
+    "mecanismo": "La fiebre del cartel llega a las revistas literarias de Chicago y Nueva York"
+   },
+   {
+    "tipo": "secundario",
+    "via": "art-nouveau",
+    "mecanismo": "Versión estadounidense del estilo"
+   }
+  ],
+  "era": "reform",
+  "date": "1894–1896",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-poster-craze",
+    "item": "bradley-chap-book-1894",
+    "mecanismo": "La fiebre del cartel llega a las revistas literarias de Chicago y Nueva York"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "art-nouveau"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "hohlwein-posters-1908",
+  "title": "Posters by Ludwig Hohlwein",
+  "title_es": "Carteles de Ludwig Hohlwein",
+  "year": 1908,
+  "discipline": "graphic",
+  "designers": [
+   "ludwig-hohlwein"
+  ],
+  "maker": null,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Segunda figura del Plakatstil, con manchas de color y figuras sintéticas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "Las marcas de consumo de Múnich encargan carteles de lectura inmediata"
+   },
+   {
+    "tipo": "secundario",
+    "via": "plakatstil",
+    "mecanismo": "Figura central"
+   }
+  ],
+  "era": "reform",
+  "date": "c. 1906–1914",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-advertising-catalogue",
+    "item": "hohlwein-posters-1908",
+    "mecanismo": "Las marcas de consumo de Múnich encargan carteles de lectura inmediata"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "plakatstil"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "stickley-craftsman-1901",
+  "title": "Craftsman furniture and The Craftsman",
+  "title_es": "Muebles Craftsman y la revista The Craftsman",
+  "year": 1901,
+  "discipline": "product",
+  "designers": [
+   "gustav-stickley"
+  ],
+  "maker": "Craftsman Workshops",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "El Arts and Crafts en Estados Unidos (estilo «Mission»).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "Revista y venta por catálogo llevan el mueble sólido a todo el país"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Versión estadounidense"
+   }
+  ],
+  "era": "reform",
+  "date": "1901–1916",
+  "type": "furniture",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-advertising-catalogue",
+    "item": "stickley-craftsman-1901",
+    "mecanismo": "Revista y venta por catálogo llevan el mueble sólido a todo el país"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "arts-and-crafts"
+   ]
+  }
+ }
+]

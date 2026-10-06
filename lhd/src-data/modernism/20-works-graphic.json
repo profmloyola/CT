@@ -1,0 +1,2726 @@
+{
+ "works": [
+  {
+   "id": "johnston-typeface",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Johnston typeface",
+   "designers": [
+    "edward-johnston"
+   ],
+   "maker": "Underground Electric Railways of London",
+   "client": "Frank Pick",
+   "year": 1916,
+   "date": "1916",
+   "production": {
+    "from": 1916,
+    "to": null,
+    "note": "redrawn as New Johnston in 1979; still the typeface of Transport for London"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Wood and metal type, enamel signs",
+   "tech": [],
+   "key": "The sans-serif alphabet Edward Johnston drew for the London Underground in 1916,[1][5] made to be the standard lettering of the whole company.[2]",
+   "more": "Frank Pick commissioned it in 1913:[2][3] he wanted letters with ‘the bold simplicity of the authentic lettering of the finest periods’ and yet ‘belonging unmistakably to the 20th Century’.[3] Johnston delivered the capitals in June 1916 and the lower case and numerals in July;[2] Eric Gill, who had been influenced by his teaching, briefly assisted on the project.[4] From 1917 it appeared on posters, notices and printed matter, and later on station signs,[1][2] giving the network a single voice.[2] It was also the acknowledged model for Gill Sans.[4]",
+   "where": [
+    {
+     "label": "London Transport Museum",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online"
+    }
+   ],
+   "status": "Still in use, redrawn, as the corporate typeface of Transport for London.",
+   "wiki": "Johnston_(typeface)",
+   "es": {
+    "title": "Tipografía Johnston",
+    "date": "1916",
+    "materials": "Tipos de madera y metal, letreros esmaltados",
+    "key": "El alfabeto sin serifa que Edward Johnston dibujó para el metro de Londres en 1916,[1][5] hecho para ser la letra estándar de toda la compañía.[2]",
+    "more": "Frank Pick la encargó en 1913:[2][3] quería letras con «la simplicidad audaz de la rotulación auténtica de los mejores períodos», pero que fueran «inconfundiblemente propias del siglo XX».[3] Johnston entregó las mayúsculas en junio de 1916 y las minúsculas y los números en julio;[2] Eric Gill, influido por su enseñanza, colaboró brevemente en el proyecto.[4] Desde 1917 apareció en carteles, avisos e impresos, y más tarde en los letreros de las estaciones,[1][2] y dio a la red una voz única.[2] Fue además el modelo reconocido de la Gill Sans.[4]",
+    "status": "Sigue en uso, redibujada, como tipografía corporativa de Transport for London.",
+    "production": {
+     "note": "redibujada como New Johnston en 1979; sigue siendo la tipografía de Transport for London"
+    }
+   },
+   "refs": [
+    {
+     "label": "London Transport Museum, «Edward Johnston: the man behind London’s lettering»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/people/edward-johnston-man-behind-londons-lettering",
+     "checks": "encuentro con Pick en 1913; mayúsculas presentadas en 1916; letra sin serifa; uso primero en carteles (bloques de madera) y luego en letreros de estaciones; Gill entre quienes recibieron la influencia de su enseñanza; revisión de Eiichi Kono en 1979",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "TfL Archives (Google Arts & Culture), «The Johnston Typeface»",
+     "url": "https://artsandculture.google.com/story/the-johnston-typeface-tfl-archives/uwWBjPm-RDgkdw?hl=en",
+     "checks": "encargo de 1913 como letra de bloque estándar de la compañía; mayúsculas entregadas en junio de 1916, minúsculas y números en julio de 1916; desde junio de 1917 en carteles, avisos e impresos; la letra como hilo conductor de toda la organización; New Johnston 1979–1983 (Kono)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "It’s Nice That, «London Underground’s typeface…» (2022)",
+     "url": "https://www.itsnicethat.com/articles/johnston-sans-london-underground-typeface-220116",
+     "checks": "cita del encargo de Pick («the bold simplicity of the authentic lettering of the finest periods… unmistakably of the 20th Century»); encargo en 1913; diseños terminados en 1916. ⚠ fuente secundaria (revista de diseño)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Typotheque, Ben Archer, «Eric Gill got it wrong; a re-evaluation of Gill Sans»",
+     "url": "https://www.typotheque.com/articles/re-evaluation-of-gill-sans",
+     "checks": "Gill colaboró brevemente en la letra de Johnston de 1916 y la reconoció como modelo de la Gill Sans. ⚠ fuente secundaria (artículo de fundición tipográfica)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Edward Johnston, diseño de alfabeto para el metro de Londres, E.48-1936",
+     "url": "https://collections.vam.ac.uk/item/O1025233/design-for-lettering-typography-johnston-edward",
+     "checks": "dibujo de 1916 del alfabeto sin serifa para el Underground Railway, pluma y tinta",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "kitchener-poster",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Lord Kitchener Wants You",
+   "short": "Kitchener",
+   "designers": [],
+   "maker": "Alfred Leete",
+   "client": "London Opinion",
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Lithograph and letterpress on paper",
+   "tech": [],
+   "key": "Alfred Leete’s image of Lord Kitchener pointing at the viewer,[1] first a magazine cover in September 1914 and then a recruiting poster.[2][3][4]",
+   "more": "Leete drew it for the cover of the magazine London Opinion in September 1914.[3][4] The design was then turned into a poster reading ‘Britons, [Kitchener] wants you. Join your country’s army!’, printed with London Opinion’s credit,[1] and the Parliamentary Recruiting Committee took it up for its campaign.[2] It is often remembered as the ‘Your country needs you’ poster,[5] although those words are not on the ‘Britons’ version.[1] Britain relied on volunteers until conscription was introduced in January 1916,[6] and the direct gaze and pointing finger turned the poster into a personal appeal.[1][3] The image appeared after the first great rush of volunteers: by the end of August 1914 some 30,000 men a day were already enlisting.[7]",
+   "where": [
+    {
+     "label": "Imperial War Museum, London",
+     "url": "https://www.iwm.org.uk/collections/item/object/16577"
+    }
+   ],
+   "status": "A few original prints survive in museums; the image is endlessly reproduced and parodied.",
+   "wiki": "Lord_Kitchener_Wants_You",
+   "es": {
+    "title": "Lord Kitchener te quiere",
+    "short": "Kitchener",
+    "date": "1914",
+    "materials": "Litografía y tipografía sobre papel",
+    "key": "La imagen de Alfred Leete de Lord Kitchener señalando a quien mira,[1] primero portada de revista en septiembre de 1914 y luego cartel de reclutamiento.[2][3][4]",
+    "more": "Leete la dibujó para la portada de la revista London Opinion de septiembre de 1914.[3][4] El diseño se convirtió luego en un cartel que decía «Británicos, [Kitchener] los quiere. ¡Únanse al ejército de su país!», impreso con el crédito de London Opinion,[1] y el Comité Parlamentario de Reclutamiento lo adoptó para su campaña.[2] Se le suele recordar como el cartel de «Tu país te necesita»,[5] aunque esas palabras no están en la versión «Británicos».[1] Gran Bretaña dependió de voluntarios hasta que la conscripción se impuso en enero de 1916,[6] y la mirada directa y el dedo que apunta hicieron del cartel un llamado personal.[1][3] La imagen apareció después de la primera gran oleada de voluntarios: a fines de agosto de 1914 ya se alistaban unos 30.000 hombres por día.[7]",
+    "status": "Se conservan pocos ejemplares originales en museos; la imagen se reproduce y parodia sin fin."
+   },
+   "refs": [
+    {
+     "label": "Imperial War Museums, «Britons. Join Your Country’s Army!», Art.IWM PST 2734",
+     "url": "https://www.iwm.org.uk/collections/item/object/16577",
+     "checks": "Alfred Leete, 1914; Kitchener señalando al espectador; texto «BRITONS… WANTS YOU… JOIN YOUR COUNTRY’S ARMY!» (sin «Your country needs you»); crédito de London Opinion; impresor Victoria House Printing Co.; litografía y tipografía sobre papel",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Your Country Needs You», póster del ejército británico (1997), E.507-1998",
+     "url": "https://collections.vam.ac.uk/item/O141284/your-country-needs-you-poster-the-british-army/",
+     "checks": "la imagen de Leete de 1914 apareció primero en la portada de London Opinion y luego la adoptó el Parliamentary Recruiting Committee; reclutamiento voluntario antes de la conscripción de 1916",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Australian War Memorial, «Britons. Join your country’s army», reproducción de 1968, C99556",
+     "url": "https://www.awm.gov.au/collection/C99556",
+     "checks": "publicada primero en la portada de London Opinion en 1914 y distribuida hasta 1916; figura que apunta al espectador como recurso eficaz",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Country Life, «Curious Questions: Who created the ‘Your Country Needs YOU’ poster?»",
+     "url": "https://www.countrylife.co.uk/luxury/art-and-antiques/curious-questions-who-created-the-your-country-needs-you-poster-223980",
+     "checks": "la portada de London Opinion es de septiembre de 1914. ⚠ fuente secundaria (revista); el día exacto (5 de septiembre) no se confirmó",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "National Army Museum, «Herbert Kitchener: The taskmaster»",
+     "url": "https://www.nam.ac.uk/explore/herbert-kitchener-taskmaster",
+     "checks": "Kitchener pidió voluntarios para sus «New Armies» y quedó inmortalizado en el cartel «Your Country Needs You» de Leete",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "UK Parliament, Living Heritage, «Conscription: the First World War»",
+     "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscription/",
+     "checks": "campaña de voluntarios de Kitchener; Military Service Act de enero de 1916 impuso la conscripción",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "National Army Museum, «Follow Me! Your Country Needs You», cartel del PRC, 1981-09-24-1",
+     "url": "https://collection.nam.ac.uk/detail.php?acc=1981-09-24-1",
+     "checks": "hacia fines de agosto de 1914 se alistaban unos 30.000 hombres por día",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "i-want-you-poster",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "I Want You for U.S. Army",
+   "short": "I Want You",
+   "designers": [],
+   "maker": "James Montgomery Flagg",
+   "client": "United States Army",
+   "year": 1917,
+   "date": "1917",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "James Montgomery Flagg’s Uncle Sam pointing at the viewer, printed in more than four million copies when the United States entered the war.[1][2][3]",
+   "more": "The image first appeared on the cover of Leslie’s Weekly on 6 July 1916,[1] under the title ‘What Are You Doing for Preparedness?’; Flagg adapted the pointing finger from Alfred Leete’s 1914 British recruiting poster ‘Your Country Needs You’.[2] After the United States declared war in April 1917 it became a recruiting poster;[1] more than four million copies were printed during the war.[2][3]",
+   "where": [
+    {
+     "label": "Library of Congress, Washington",
+     "url": "https://www.loc.gov/exhibitions/world-war-i-american-experiences/about-this-exhibition/over-here/raising-an-army/i-want-you/"
+    }
+   ],
+   "status": "Original prints in libraries and museums; the image is still used by the US Army.",
+   "wiki": "Uncle_Sam",
+   "es": {
+    "title": "Te quiero a ti para el Ejército",
+    "short": "Te quiero a ti",
+    "date": "1917",
+    "materials": "Litografía sobre papel",
+    "key": "El Tío Sam de James Montgomery Flagg señalando a quien mira, impreso en más de cuatro millones de ejemplares cuando Estados Unidos entró en la guerra.[1][2][3]",
+    "more": "La imagen apareció primero en la portada de Leslie’s Weekly el 6 de julio de 1916,[1] con el título «¿Qué haces tú para estar preparado?»; Flagg adaptó el dedo que señala del cartel británico de reclutamiento de Alfred Leete de 1914, «Your Country Needs You».[2] Después de que Estados Unidos declarara la guerra en abril de 1917 se convirtió en cartel de reclutamiento;[1] durante la guerra se imprimieron más de cuatro millones de ejemplares.[2][3]",
+    "status": "Ejemplares originales en bibliotecas y museos; el Ejército de Estados Unidos aún usa la imagen."
+   },
+   "refs": [
+    {
+     "label": "Library of Congress, World War I: American Artists View the Great War (exposición en línea)",
+     "url": "https://www.loc.gov/exhibits/american-artists-view-the-great-war/online-exhibition.html",
+     "checks": "Flagg presentó su Tío Sam en la portada de Leslie’s Illustrated Weekly Newspaper del 6 de julio de 1916; usó de nuevo la imagen en el cartel de reclutamiento I Want You for U.S. Army de 1917. ⚠ No menciona el número de ejemplares ni la fecha de la declaración de guerra.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fine Arts Museums of San Francisco, I Want You for U.S. Army",
+     "url": "https://www.famsf.org/artworks/i-want-you-for-us-army",
+     "checks": "Flagg, 1917, litografía en color; impreso cuatro millones de veces durante la Primera Guerra Mundial; debutó en la portada de Leslie’s en julio de 1916 bajo el título «What Are You Doing for Preparedness?»; Flagg adaptó el dedo acusador del cartel británico de Alfred Leete de 1914 «Your Country Needs You».",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Pritzker Military Museum & Library, American Icons of the Great War: I Want You for U.S. Army",
+     "url": "https://www.pritzkermilitary.org/explore/museum/past-exhibits/american-icons-great-war/i-want-you-us-army",
+     "checks": "Autor (Flagg); más de cuatro millones de ejemplares impresos para la Primera Guerra Mundial. ⚠ Fecha la portada de Leslie’s el 6 de julio de 1917, error que contradicen la Library of Congress y el FAMSF (1916); no se usa para esa fecha.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "red-wedge-poster",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Beat the Whites with the Red Wedge",
+   "short": "Red Wedge",
+   "designers": [
+    "el-lissitzky"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1919,
+   "date": "1919–1920",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "El Lissitzky’s civil-war poster[1][3] in which a red triangle pierces a white circle:[4] abstract geometry used as political propaganda.[3][4]",
+   "more": "Published in Vitebsk by the UNOVIS group during the Russian Civil War,[1][3] it shows the Bolsheviks, the red wedge, breaking into the supporters of the old order, the White movement, shown as the white circle,[4] with a few words broken up along the forms.[4] Sources date it to 1919 or 1920.[1][2][3] It applied the abstract geometry of Suprematism, the movement Malevich led in UNOVIS, to mass agitation.[4][5] Lissitzky later moved to Berlin, where he worked closely with Western artists.[5]",
+   "where": [
+    {
+     "label": "Museum of Fine Arts, Boston",
+     "url": "https://collections.mfa.org/objects/314484"
+    }
+   ],
+   "status": "Original prints and later reprints in museum collections.",
+   "wiki": "Beat_the_Whites_with_the_Red_Wedge",
+   "es": {
+    "title": "Golpea a los blancos con la cuña roja",
+    "short": "Cuña roja",
+    "date": "1919–1920",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de la guerra civil de El Lisitski[1][3] en que un triángulo rojo atraviesa un círculo blanco:[4] geometría abstracta usada como propaganda política.[3][4]",
+    "more": "Publicado en Vítebsk por el grupo UNOVIS durante la guerra civil rusa,[1][3] muestra a los bolcheviques, la cuña roja, irrumpiendo en los partidarios del viejo orden, el movimiento blanco, representado por el círculo blanco,[4] con unas pocas palabras repartidas a lo largo de las formas.[4] Las fuentes lo fechan en 1919 o 1920.[1][2][3] Llevó la geometría abstracta del suprematismo, el movimiento que Malevich dirigía en UNOVIS, a la agitación de masas.[4][5] Más tarde Lisitski se trasladó a Berlín, donde trabajó de cerca con artistas occidentales.[5]",
+    "status": "Ejemplares originales y reimpresiones posteriores en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "Sotheby’s, Prints, Nueva York 2012, lote 131, El Lissitzky, «Beat the Whites with the Red Wedge»",
+     "url": "https://www.sothebys.com/en/auctions/ecatalogue/2012/prints-n08849/lot.131.html",
+     "checks": "litografía en rojo y negro; publicada por UNOVIS en Vítebsk; impresiones de 1919–20; pocos ejemplares conocidos; otro ejemplar en el MFA Boston. ⚠ catálogo de subasta",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museum of Fine Arts, Boston, reproducción del ejemplar 2000.1069 (mfaprints.org)",
+     "url": "https://mfaprints.org/products/2000-1069",
+     "checks": "ejemplar del MFA fechado en 1920; litografía en color, rojo y negro sobre papel. La ficha de collections.mfa.org no se pudo leer",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "EBSCO Research Starters, «El Lissitzky»",
+     "url": "https://www.ebsco.com/research-starters/history/el-lissitzky",
+     "checks": "cartel de propaganda de 1919 como respuesta a la guerra civil rusa",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Artur Kamczycki, «El Lissitzky, his Beat the Whites with the Red Wedge and their Jewish Inspirations», en Russian Émigré Culture (Cambridge Scholars, 2013)",
+     "url": "https://www.academia.edu/35375836/El_Lissitzky_his_Beat_the_Whites_with_the_Red_Wedge_and_their_Jewish_Inspirations",
+     "checks": "triángulo agudo que perfora el círculo; blanco = partidarios del viejo orden (movimiento blanco), rojo = bolcheviques; palabras dispuestas formando otra cuña; formas geométricas simples como Malevich",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, post, «The Many Lives of El Lissitzky’s Proun 19D (1920 or 1921)»",
+     "url": "https://post.moma.org/the-many-lives-of-el-lissitzkys-proun-19d-1920-or-1921/",
+     "checks": "UNOVIS fundado en Vítebsk en 1919 y dirigido por Malevich; Lissitzky en UNOVIS hasta 1922; traslado a Berlín (hacia 1921–22) y colaboración con artistas occidentales como Van Doesburg y Schwitters",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "suprematism"
+   ]
+  },
+  {
+   "id": "de-stijl-magazine",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "De Stijl magazine",
+   "designers": [
+    "van-doesburg"
+   ],
+   "maker": "Theo van Doesburg",
+   "client": null,
+   "year": 1917,
+   "date": "1917–1932",
+   "production": {
+    "from": 1917,
+    "to": 1932,
+    "note": "appeared irregularly in its last years"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Letterpress on paper",
+   "tech": [],
+   "key": "The magazine Theo van Doesburg founded in Leiden in October 1917,[1][2] which spread De Stijl’s ideas across Europe.[1]",
+   "more": "Van Doesburg edited it;[3] its cover carried a title vignette by Vilmos Huszár, also one of the founders,[4][5] and the group that started it included Piet Mondrian, Bart van der Leck, Antony Kok and J. J. P. Oud.[6] It printed the group’s 1918 manifesto in Dutch, French, German and English.[2][3] It played a key role at home and abroad,[1] but in its last years it appeared irregularly;[7] a final memorial issue came out in January 1932, after Van Doesburg’s death in 1931.[2][7]",
+   "where": [
+    {
+     "label": "Cambridge University Library",
+     "url": "https://languagecollections-blog.lib.cam.ac.uk/2017/10/13/celebrating-100-years-of-de-stijl/"
+    }
+   ],
+   "status": "Original issues in libraries and museums; facsimile reprints exist.",
+   "es": {
+    "title": "Revista De Stijl",
+    "date": "1917–1932",
+    "materials": "Impresión tipográfica sobre papel",
+    "key": "La revista que Theo van Doesburg fundó en Leiden en octubre de 1917,[1][2] que difundió las ideas de De Stijl por Europa.[1]",
+    "more": "Van Doesburg la editó;[3] su portada llevaba una viñeta con el título de Vilmos Huszár, también fundador,[4][5] y el grupo que la inició incluía a Piet Mondrian, Bart van der Leck, Antony Kok y J. J. P. Oud.[6] Publicó el manifiesto del grupo de 1918 en neerlandés, francés, alemán e inglés.[2][3] Tuvo un papel clave dentro y fuera del país,[1] pero en sus últimos años apareció de manera irregular;[7] un último número en su memoria salió en enero de 1932, tras la muerte de Van Doesburg en 1931.[2][7]",
+    "status": "Números originales en bibliotecas y museos; existen reediciones facsimilares.",
+    "production": {
+     "note": "apareció de manera irregular en sus últimos años"
+    }
+   },
+   "refs": [
+    {
+     "label": "Museum De Lakenhal (Leiden), De Stijl",
+     "url": "https://www.lakenhal.nl/en/story/de-stijl",
+     "checks": "Van Doesburg fundó la revista De Stijl en Leiden en 1917; tuvo un papel clave en el país y en el extranjero. ⚠ Dice que el último número es de 1931 (otras fuentes: enero de 1932).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Bulletin «De Stijl, 1917–1928» (1952), PDF",
+     "url": "https://www.moma.org/documents/moma_catalogue_1798_300159061.pdf",
+     "checks": "Revista lanzada en octubre de 1917 en Leiden; primer manifiesto en noviembre de 1918; último número (n.º 90) en enero de 1932, en memoria de Van Doesburg, muerto en marzo del año anterior.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "National Galleries of Scotland, glosario: De Stijl",
+     "url": "https://www.nationalgalleries.org/art-and-artists/glossary-terms/de-stijl-style",
+     "checks": "Revista editada por Theo van Doesburg de 1917 a 1932; manifiesto de 1918 publicado en neerlandés, francés, alemán e inglés.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Historical Marker Database, placa «De Stijl en Leiden» (Kort Galgewater 3)",
+     "url": "https://www.hmdb.org/m.asp?m=216890",
+     "checks": "Primer número en 1917 por iniciativa de Van Doesburg; Vilmos Huszár, uno de los fundadores, diseñó la viñeta de la portada. ⚠ Transcripción de una placa municipal.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Stedelijk Museum Amsterdam, Making History: De Stijl at the Stedelijk Museum",
+     "url": "https://www.stedelijk.nl/en/digdeeper/making-history-de-stijl-stedelijk-museum",
+     "checks": "Portada del primer número con viñeta de Vilmos Huszár, 1917 (impresión tipográfica); el último número, publicado en 1932 por su viuda Nelly, se dedicó a Van Doesburg. ⚠ No dice que la viñeta sea un grabado en madera.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "University of Iowa (Cheryl Pagan), biografía de Theo van Doesburg",
+     "url": "https://myweb.uiowa.edu/cpagan/van_doesburg/bio.html",
+     "checks": "Fundadores de la revista en 1917: Van Doesburg, Mondrian, Bart van der Leck, Antony Kok, Vilmos Huszár y J. J. P. Oud. ⚠ Página académica personal; no detalla el contenido del primer número.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Koninklijke Bibliotheek, blog «De Stijl keert terug»",
+     "url": "https://www.kb.nl/blogs/de-stijl-keert-terug",
+     "checks": "Van Doesburg como redactor que la difundió; los últimos años fueron desordenados (sin número fijo de entregas); tras su muerte (1931) salió un número In Memoriam en enero de 1932. ⚠ No da tiraje.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "books-poster",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Books poster",
+   "designers": [
+    "rodchenko"
+   ],
+   "maker": null,
+   "client": "Lengiz",
+   "year": 1924,
+   "date": "1924",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Photomontage, printed in colour",
+   "tech": [
+    "photomontage"
+   ],
+   "key": "Rodchenko’s advertising poster for the state publisher Lengiz, in which Lilya Brik shouts ‘Books in all branches of knowledge’.[1][2]",
+   "more": "Made for the Leningrad branch of the state publishing house,[1] it combines a photograph of Lilya Brik, her hand cupped to her mouth, with diagonal blocks of text that seem to fly out of her mouth. It shows Constructivism working for commercial publicity under the New Economic Policy, and is one of the most copied posters of the century.",
+   "where": [],
+   "status": "Original prints in Russian collections; widely reproduced.",
+   "es": {
+    "title": "Cartel ¡Libros!",
+    "date": "1924",
+    "materials": "Fotomontaje impreso a color",
+    "key": "El cartel publicitario de Ródchenko para la editorial estatal Lengiz, en que Lilia Brik grita «Libros de todas las ramas del saber».[1][2]",
+    "more": "Hecho para la sede de Leningrado de la editorial del Estado,[1] combina una fotografía de Lilia Brik, con la mano junto a la boca, con bloques diagonales de texto que parecen salir de su boca. Muestra al constructivismo trabajando para la publicidad comercial bajo la Nueva Política Económica, y es uno de los carteles más copiados del siglo.",
+    "status": "Ejemplares originales en colecciones rusas; muy reproducido."
+   },
+   "refs": [
+    {
+     "label": "Circa Art Magazine, pie de figura «Aleksandr Rodchenko, Lengiz. Books on all the branches of knowledge»",
+     "checks": "«Advertising poster for the Leningrad Department of Gosizdat (State Publishing House) (1924)». ⚠ Revista de arte, no ficha de museo: buscar una ficha de museo en A6.",
+     "date": "2026-10-03",
+     "url": "https://circaartmagazine.net/the-moonlight-of-fantasy-the-russian-revolution-now-part-two/aleksandr-rodchenko-books-on-all-the-branches-of-knowledge-1924/"
+    },
+    {
+     "label": "Frye Art Museum, «Books (Please)! In All Branches of Knowledge»",
+     "checks": "Registro de catálogo: cartel de 1924, impreso en 1967 (reproducción). Solo confirma título y fecha de diseño.",
+     "date": "2026-10-03",
+     "url": "https://fryemuseum.org/node/2063"
+    }
+   ]
+  },
+  {
+   "id": "futura",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Futura",
+   "designers": [
+    "paul-renner"
+   ],
+   "maker": "Bauer Type Foundry",
+   "client": null,
+   "year": 1927,
+   "date": "1927",
+   "production": {
+    "from": 1927,
+    "to": null,
+    "note": "cast in metal, then adapted to phototypesetting and digital type"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Metal type",
+   "tech": [],
+   "key": "Paul Renner’s geometric sans-serif, launched by the Bauer foundry in 1927[2][4] as ‘the typeface of our time’.[1][2]",
+   "more": "According to Bauer Types, the current holder of the name, Renner began work on it in 1924.[3] He built the letters from circles, triangles and squares[1] while correcting them by eye so that they looked even.[2][3] The Bauer foundry in Frankfurt released it in 1927,[2][4] competing with other geometric sans-serifs such as Erbar.[2] Its name came out of the New Frankfurt project,[5] and through the advertising boom it was quickly expanded into a family and became a successful export.[4][5]",
+   "where": [],
+   "status": "Still widely used as a typeface.",
+   "wiki": "Futura_(typeface)",
+   "es": {
+    "title": "Futura",
+    "date": "1927",
+    "materials": "Tipos de metal",
+    "key": "La letra geométrica sin serifa de Paul Renner, lanzada por la fundición Bauer en 1927[2][4] como «la tipografía de nuestro tiempo».[1][2]",
+    "more": "Según Bauer Types, actual titular del nombre, Renner empezó a trabajar en ella en 1924.[3] Construyó las letras a partir de círculos, triángulos y cuadrados,[1] corrigiéndolas a ojo para que se vieran parejas.[2][3] La fundición Bauer de Frankfurt la lanzó en 1927,[2][4] en competencia con otras sin serifa geométricas como la Erbar.[2] Su nombre surgió en el contexto del Nuevo Frankfurt[5] y, con el auge de la publicidad, se amplió pronto en una familia y se volvió un producto de exportación exitoso.[4][5]",
+    "status": "Sigue muy usada como tipografía.",
+    "production": {
+     "note": "fundida en metal y luego adaptada a la fotocomposición y a la tipografía digital"
+    }
+   },
+   "refs": [
+    {
+     "label": "Museum Angewandte Kunst, Frankfurt, folleto «Futura. Die Schrift unserer Zeit im Urteil des Fachmanns» (Bauersche Gießerei)",
+     "url": "https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/0d5cc3a5-e6f8-424e-9258-7deeef78bde3",
+     "checks": "Paul Renner; sin serifa construida con formas geométricas (círculo, triángulo, cuadrado); editada por la fundición Bauer de Frankfurt; lema «la tipografía de nuestro tiempo»",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Paul Shaw, «Blue Pencil no. 60—Die Schrift unserer Zeit» (2022)",
+     "url": "https://www.paulshawletterdesign.com/2022/09/blue-pencil-no-60-die-schrift-unserer-zeit/",
+     "checks": "catálogo Futura de la Bauersche Giesserei, Frankfurt, 1927; lema «Die Schrift unserer Zeit»; correcciones ópticas de peso; Renner frente a la Erbar Grotesk (1926). ⚠ fuente secundaria (historiador del diseño, blog)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauer Types, «Futura®»",
+     "url": "https://bauertypes.com/fonts/futura/",
+     "checks": "el proyecto empezó en 1924; lanzamiento en 1927; correcciones ópticas para la legibilidad. ⚠ titular actual de la marca: se atribuye en el texto",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Letterform Archive, «Typefaces Inspired by the Bauhaus»",
+     "url": "https://letterformarchive.org/news/bauhaus-typefaces-part-two/",
+     "checks": "Futura lanzada en 1927 por la Bauersche Gießerei; éxito inmediato y ampliaciones de la familia",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Creative Review, «Futura at 90» (extracto de Eisele, Naegele y Ludwig, Futura: The Typeface, Laurence King, 2017)",
+     "url": "https://www.creativereview.co.uk/futura-at-90/",
+     "checks": "el nombre surgió en el contexto del Nuevo Frankfurt; auge de la publicidad alemana; ampliada como familia por Bauer, se volvió un producto de exportación exitoso",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "gill-sans",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Gill Sans",
+   "designers": [
+    "eric-gill",
+    "stanley-morison"
+   ],
+   "maker": "Monotype Corporation",
+   "client": null,
+   "year": 1928,
+   "date": "1928",
+   "production": {
+    "from": 1928,
+    "to": null,
+    "note": "adopted by the LNER railway"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Metal type",
+   "tech": [],
+   "key": "Eric Gill’s sans-serif for Monotype,[1] influenced by the lettering Edward Johnston drew for the London Underground, on which Gill had worked with him.[2]",
+   "more": "It grew from the lettering Gill painted in 1926 for Douglas Cleverdon’s bookshop in Bristol.[3][4] Stanley Morison of Monotype saw it the following year and asked Gill to develop it into a full typeface;[4] it was released in 1928, and the family kept growing in the following years.[1][3] The LNER railway adopted it, and so did Penguin Books.[1]",
+   "where": [
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O1419737/monotype-gill-sans-leaflet-leaflet/"
+    },
+    {
+     "label": "Science Museum Group, London",
+     "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8716698/pattern-for-gill-sans-typeface-series-number-262-pattern"
+    }
+   ],
+   "status": "Still widely used as a typeface.",
+   "wiki": "Gill_Sans",
+   "es": {
+    "title": "Gill Sans",
+    "date": "1928",
+    "materials": "Tipos de metal",
+    "key": "La sin serifa de Eric Gill para Monotype,[1] influida por las letras que Edward Johnston dibujó para el metro de Londres, en las que Gill había trabajado con él.[2]",
+    "more": "Nació de las letras que Gill pintó en 1926 para la librería de Douglas Cleverdon en Bristol.[3][4] Stanley Morison, de Monotype, las vio al año siguiente y le pidió desarrollarlas como una tipografía completa;[4] salió en 1928, y la familia siguió creciendo en los años siguientes.[1][3] La adoptaron el ferrocarril LNER y la editorial Penguin.[1]",
+    "status": "Sigue muy usada como tipografía.",
+    "production": {
+     "note": "adoptada por el ferrocarril LNER"
+    }
+   },
+   "refs": [
+    {
+     "label": "V&A, Monotype Gill Sans leaflet",
+     "url": "https://collections.vam.ac.uk/item/O1419737/monotype-gill-sans-leaflet-leaflet/",
+     "checks": "Monotype encargó a Eric Gill una sin serifa legible en distintos formatos y tamaños; el peso regular original se publicó en 1928 y creció en una gran familia; la adoptaron el London and North Eastern Railway y Penguin Books. ⚠ Sin años para LNER ni Penguin.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Week, «99 years of the Johnston typeface»",
+     "url": "https://www.designweek.co.uk/99-years-of-the-johnston-typeface/",
+     "checks": "Johnston trabajó al inicio en su tipografía con su alumno Eric Gill, quien después creó la Gill Sans, «influida por Johnston». ⚠ Prensa especializada (fuente secundaria).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Eye Magazine, blog «Signature typeface»",
+     "url": "https://eyemagazine.com/blog/post/signature-typeface",
+     "checks": "Inspirada en las letras que Gill hizo en 1926 para la fachada de la librería de Douglas Cleverdon en Bristol; Gill Sans Titling (serie 231) salió en 1928; redonda e itálica (serie 262) en 1930. ⚠ Revista especializada.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bristol24/7, «The origins of the Gill Sans typeface on a Bristol shopfront»",
+     "url": "https://www.bristol247.com/news-and-features/features/origins-gill-sans-typeface-bristol-shopfront/",
+     "checks": "Gill pintó el letrero en 1926; Stanley Morison, de Monotype, lo vio un año después y le pidió desarrollarlo como tipografía completa. ⚠ Prensa local (fuente secundaria).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "die-neue-typographie-book",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Die neue Typographie",
+   "designers": [
+    "tschichold"
+   ],
+   "maker": "Bildungsverband der Deutschen Buchdrucker",
+   "client": null,
+   "year": 1928,
+   "date": "1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Letterpress book",
+   "tech": [
+    "din-standards"
+   ],
+   "key": "Tschichold’s handbook of 1928,[1] itself designed according to its rules: a standard DIN A5 format, sans-serif type and a functional layout without ornament.[2]",
+   "more": "Published in Berlin by the printers’ educational association,[1][2] the book gave rules and practical models for letterheads, envelopes, posters and advertisements,[2][3] based on standard DIN paper sizes,[2] with examples by Lissitzky, Moholy-Nagy, Bayer and others.[3][4] As an object it is a demonstration of the method it describes.[2] It was translated into English only in 1995.[3]",
+   "where": [
+    {
+     "label": "MoMA Library, New York",
+     "url": "https://www.moma.org/research/library/"
+    }
+   ],
+   "status": "Original copies in libraries; reprinted and translated.",
+   "es": {
+    "title": "Die neue Typographie",
+    "date": "1928",
+    "materials": "Libro en impresión tipográfica",
+    "key": "El manual de Tschichold de 1928,[1] diseñado a su vez según sus propias reglas: formato normalizado DIN A5, letra sin serifa y una diagramación funcional sin ornamento.[2]",
+    "more": "Publicado en Berlín por la asociación educativa de los impresores,[1][2] el libro daba reglas y modelos prácticos de membretes, sobres, carteles y avisos,[2][3] basados en los formatos DIN normalizados,[2] con ejemplos de Lisitski, Moholy-Nagy, Bayer y otros.[3][4] Como objeto es una demostración del método que describe.[2] Se tradujo al inglés recién en 1995.[3]",
+    "status": "Ejemplares originales en bibliotecas; reeditado y traducido."
+   },
+   "refs": [
+    {
+     "label": "Bard Graduate Center, exposición «Jan Tschichold and the New Typography»",
+     "url": "https://exhibitions.bgc.bard.edu/tschichold/",
+     "checks": "publicado en 1928 por el Bildungsverband der deutschen Buchdrucker, Berlín; manual con pautas para el diseño gráfico en el nuevo estilo",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Kristof Van Gansen, «“Bold German graphic design”: Arts et métiers graphiques and New Typography», InVisible Culture, n.º 23",
+     "url": "https://www.invisibleculturejournal.com/pub/bold-german-graphic-design/release/1",
+     "checks": "editorial del Bildungsverband; formato DIN A5, letra sin serifa y diagramación funcional sin ornamento; pautas y ejemplos para membretes, tarjetas, revistas, libros y carteles; formatos de papel normalizados",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Modernism101, ficha de librería, Die neue Typographie (1928), primera edición",
+     "url": "https://modernism101.com/products-page/graphic-design/tschichold-jan-die-neue-typographie-berlin-verlag-des-bildungsverbandes-der-deutschen-buchdrucker-1928-first-edition-erstes-bis-funftes-tausend-duplicate/",
+     "checks": "capítulos sobre membretes, sobres, carteles y avisos; ejemplos de Bayer y otros; traducción inglesa de Ruari McLean (University of California Press, 1995). ⚠ fuente secundaria (librería)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Merrill C. Berman Collection, «Jan Tschichold: Designer, Theorist, Collector»",
+     "url": "https://mcbcollection.com/jan-tschichold-designer-theorist-collector",
+     "checks": "Berlín, Bildungsverband, 1928; reproducciones de Baumberger, Bayer, Heartfield, Lissitzky y Moholy-Nagy",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "normandie-poster",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Normandie poster",
+   "short": "Normandie",
+   "designers": [
+    "cassandre"
+   ],
+   "maker": "Alliance Graphique",
+   "client": "Compagnie Générale Transatlantique",
+   "year": 1935,
+   "date": "1935",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [
+    "airbrush"
+   ],
+   "key": "Cassandre’s poster for the French Line’s new liner,[1][2] seen head-on from below so that its bow fills the sheet with scale and speed.[4]",
+   "more": "The Normandie made its maiden voyage from Le Havre to New York in May 1935.[3][4] Cassandre showed the ship in a low, almost symmetrical frontal view, its hull rising like a monument above a tiny flock of birds, with smooth gradients of colour.[4] MoMA acquired a copy the same year.[1]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/6091"
+    }
+   ],
+   "status": "Original prints in museum collections; reprinted several times.",
+   "es": {
+    "title": "Cartel del Normandie",
+    "short": "Normandie",
+    "date": "1935",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de Cassandre para el nuevo transatlántico de la French Line,[1][2] visto de frente y desde abajo para que su proa llene la hoja de escala y velocidad.[4]",
+    "more": "El Normandie hizo su viaje inaugural de El Havre a Nueva York en mayo de 1935.[3][4] Cassandre mostró el barco en una vista frontal baja y casi simétrica, con el casco alzándose como un monumento sobre una pequeña bandada de pájaros, con degradados suaves de color.[4] El MoMA adquirió un ejemplar ese mismo año.[1]",
+    "status": "Ejemplares originales en colecciones de museos; reimpreso varias veces."
+   },
+   "refs": [
+    {
+     "label": "MoMA, A. M. Cassandre, Normandie, 1935 (obra 6091)",
+     "url": "https://www.moma.org/collection/works/6091",
+     "checks": "Autor, fecha (1935), litografía, 99,7 × 61,9 cm; número de inventario 288.1935 (ingresó en 1935, donación anónima).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Virginia Museum of Fine Arts, Poster (Normandie, Cie Gle Transatlantique, French Line)",
+     "url": "https://www.vmfa.museum/artworks/poster-77551",
+     "checks": "Cassandre, 1935, litografía; impresor Alliance Graphique, L. Danel, París; cliente Compagnie Générale Transatlantique (French Line). ⚠ Su texto dice que el barco «zarpó por primera vez de Saint-Nazaire en 1932», confusión con la botadura; no se usa para ese dato.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Great Ocean Liners, SS Normandie",
+     "url": "https://www.greatoceanliners.com/ss-normandie",
+     "checks": "Viaje inaugural: 29 de mayo de 1935; Le Havre, puerto de matrícula. ⚠ Sitio divulgativo (fuente secundaria).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "King & McGaw, «Art Deco travel posters by A.M. Cassandre»",
+     "url": "https://www.kingandmcgaw.com/stories/cassandre-art-deco-travel-posters",
+     "checks": "Perspectiva geométrica extrema desde abajo que acentúa las proporciones del barco; el cartel anuncia la ruta Le Havre–Southampton–Nueva York. ⚠ Editor de reproducciones (fuente secundaria); no menciona pájaros ni degradados.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "times-new-roman",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Times New Roman",
+   "designers": [
+    "stanley-morison"
+   ],
+   "maker": "Monotype Corporation",
+   "client": "The Times",
+   "year": 1932,
+   "date": "1932",
+   "production": {
+    "from": 1932,
+    "to": null,
+    "note": "used by The Times from 3 October 1932; sold by Monotype from 1933"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Metal type",
+   "tech": [],
+   "key": "The compact, legible newspaper typeface The Times commissioned after Stanley Morison’s 1929 critique of the paper’s design;[1][2] Morison directed it and Victor Lardent drew the letters.[2]",
+   "more": "In 1929 Morison published an article criticising the design of The Times, and the paper commissioned him to renew it.[1][2] He directed the project, basing the type on an older face, Plantin,[3] and Victor Lardent, an artist in the newspaper’s advertising department, drew the letters.[2][3] The text type was finished in the spring of 1931.[1] It first appeared on 3 October 1932,[1][2] was reserved to the paper for one year and was promoted by Monotype from 1933.[1][2] A minority claim, published in 1994 and rebutted by other historians, attributes its design to an earlier type by William Starling Burgess.[4]",
+   "where": [],
+   "status": "Still in use; installed on most computers.",
+   "wiki": "Times_New_Roman",
+   "es": {
+    "title": "Times New Roman",
+    "date": "1932",
+    "materials": "Tipos de metal",
+    "key": "La tipografía de diario compacta y legible que The Times encargó tras la crítica de Stanley Morison al diseño del diario en 1929;[1][2] Morison dirigió el proyecto y Victor Lardent dibujó las letras.[2]",
+    "more": "En 1929 Morison publicó un artículo que criticaba el diseño de The Times, y el diario le encargó renovarlo.[1][2] Él dirigió el proyecto, basando la letra en una anterior, la Plantin,[3] y Victor Lardent, dibujante del departamento de publicidad del diario, dibujó las letras.[2][3] La letra de texto quedó terminada en la primavera de 1931.[1] Apareció por primera vez el 3 de octubre de 1932,[1][2] fue exclusiva del diario durante un año y Monotype la promovió desde 1933.[1][2] Una tesis minoritaria, publicada en 1994 y refutada por otros historiadores, atribuye su diseño a un tipo anterior de William Starling Burgess.[4]",
+    "status": "Sigue en uso; viene instalada en la mayoría de los computadores.",
+    "production": {
+     "note": "usada por The Times desde el 3 de octubre de 1932; vendida por Monotype desde 1933"
+    }
+   },
+   "refs": [
+    {
+     "label": "Eye Magazine, «Stanley Morison: changing the Times»",
+     "url": "https://eyemagazine.com/feature/article/stanley-morison-changing-the-times",
+     "checks": "artículo crítico de Morison sobre el diseño de The Times (1929); diseño del tipo de texto terminado en la primavera de 1931; estreno el 3 de octubre de 1932; equilibrio entre legibilidad y economía; número especial de The Monotype Recorder que promueve la letra (1933). ⚠ No menciona Plantin ni el cargo de Lardent.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsche Nationalbibliothek, Deutsches Buch- und Schriftmuseum, «Font Design – Times»",
+     "url": "https://mediengeschichte.dnb.de/DBSMZBN/Content/EN/FontDesign/05-times-en.html",
+     "checks": "encargo a Morison para renovar el diseño del diario; Morison como asesor y Victor Lardent como dibujante; uso exclusivo por The Times durante un año desde el 3 de octubre de 1932; letra clara, legible y económica en espacio.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "HistoryofInformation.com, «The Times New Roman Typeface Debuts»",
+     "url": "https://historyofinformation.com/detail.php?id=2057",
+     "checks": "Plantin como base del diseño, revisada para legibilidad y economía; Lardent trabajaba en el departamento de publicidad de The Times; estreno el 3 de octubre de 1932. ⚠ fuente secundaria (cita a Driver 2009).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "American Printing History Association, Printing History OS 37 (índice)",
+     "url": "https://printinghistory.org/product/old-series-37/",
+     "checks": "existencia de la tesis de Mike Parker («Starling Burgess, Type Designer?», Printing History 31/32, 1994) y de su refutación por Berliner, Barker, Rimmer y Dreyfus. ⚠ El índice no nombra Times New Roman de forma explícita.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "tube-map-1933",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "map",
+   "title": "London Tube map",
+   "designers": [
+    "harry-beck"
+   ],
+   "maker": "Underground Electric Railways of London",
+   "client": null,
+   "year": 1933,
+   "date": "1933",
+   "production": {
+    "from": 1933,
+    "to": null,
+    "note": "first pocket edition of 750,000 copies, January 1933"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Printed paper",
+   "tech": [],
+   "key": "Harry Beck’s diagram of the London Underground, which shows connections instead of geography, using only horizontal, vertical and 45-degree lines.[1][3]",
+   "more": "Beck, a draughtsman for the Underground, drew it in 1931 during a spell out of work.[1] He based it on the order of stations, the direction of the lines and where they cross, not on real distances,[1] so that passengers could understand the network more quickly.[2] He enlarged the crowded centre, evened out the spacing[1][2] and marked interchanges with diamonds.[3] Rejected at first,[1][2] it was tested as a pocket map in January 1933[1][3] and was an immediate success.[2] Many other urban railways later borrowed the idea for their own maps.[2]",
+   "where": [
+    {
+     "label": "London Transport Museum",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321"
+    }
+   ],
+   "status": "Original copies in museums; its logic survives in the current Tube map.",
+   "wiki": "Tube_map",
+   "es": {
+    "title": "Mapa del metro de Londres",
+    "date": "1933",
+    "materials": "Papel impreso",
+    "key": "El diagrama del metro de Londres de Harry Beck, que muestra las conexiones y no la geografía, con líneas solo horizontales, verticales y a 45 grados.[1][3]",
+    "more": "Beck, dibujante del metro, lo dibujó en 1931 durante un período sin trabajo.[1] Lo basó en el orden de las estaciones, la dirección de las líneas y sus cruces, no en las distancias reales,[1] para que los pasajeros entendieran la red más rápido.[2] Agrandó el centro saturado, emparejó las distancias[1][2] y marcó las combinaciones con rombos.[3] Rechazado al principio,[1][2] se probó como mapa de bolsillo en enero de 1933[1][3] y fue un éxito inmediato.[2] Muchas otras redes urbanas tomaron después la idea para sus propios mapas.[2]",
+    "status": "Ejemplares originales en museos; su lógica sobrevive en el mapa actual del metro.",
+    "production": {
+     "note": "primera edición de bolsillo de 750.000 ejemplares, enero de 1933"
+    },
+    "short": "Mapa del metro"
+   },
+   "short": "Tube map",
+   "refs": [
+    {
+     "label": "London Transport Museum, «Transforming the Tube map: Harry Beck’s iconic design»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/design/transforming-tube-map-harry-becks-iconic-design",
+     "checks": "dibujante del Underground desde 1924; diseño hecho en 1931 durante un período sin trabajo; basado en la secuencia de estaciones, la dirección de las líneas y sus cruces, no en la geografía; solo líneas horizontales, verticales y a 45°; centro ampliado y estaciones equidistantes; devuelto al principio; primer mapa de bolsillo en enero de 1933; primera tirada de 750.000 ejemplares, suficiente hasta el verano",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "London Transport Museum, «Mapping London: the iconic Tube map»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/design/mapping-london-iconic-tube-map",
+     "checks": "dibujante temporal; centro denso ampliado; rechazado al principio por demasiado revolucionario; prueba como mapa de bolsillo en 1933, éxito inmediato; adoptado por otras redes (Nueva York, Sídney, San Petersburgo)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "London Transport Museum, mapa de bolsillo de H. C. Beck, enero de 1933, 1999/321",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321",
+     "checks": "primera edición de bolsillo del diagrama de Beck, enero de 1933; ángulos de 45° y rombos para las combinaciones; código de tirada 750M-1-33; papel impreso",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "isotype-charts",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "infographic",
+   "title": "Society and Economy atlas",
+   "short": "Isotype atlas",
+   "designers": [
+    "neurath-isotype"
+   ],
+   "maker": "Bibliographisches Institut",
+   "client": null,
+   "year": 1930,
+   "date": "1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT",
+    "DE"
+   ],
+   "materials": "Printed colour plates",
+   "tech": [],
+   "key": "The atlas Gesellschaft und Wirtschaft, 100 plates of pictorial statistics made by the Vienna museum team:[1][3] the major work of what was later called Isotype.[2][3]",
+   "more": "Published in Leipzig in 1930,[1] it showed population, the economy, colonies, work and religions across the world[1] with rows of identical pictograms, each standing for a fixed quantity.[2] Otto Neurath directed it,[1] Marie Reidemeister worked out how to turn the data into self-explanatory charts,[1][2] and Gerd Arntz designed the symbols.[2][3] The method, developed at Vienna’s Social and Economic Museum since 1925,[1] is a basis of today’s information graphics.[2]",
+   "where": [
+    {
+     "label": "University of Reading, Isotype collection",
+     "url": "https://www.isotyperevisited.org/Ihara_Society_and_Economy.pdf"
+    }
+   ],
+   "status": "Copies of the atlas in libraries and in the Isotype collection at the University of Reading.",
+   "wiki": "Isotype_(picture_language)",
+   "es": {
+    "title": "Atlas Sociedad y economía",
+    "short": "Atlas Isotype",
+    "date": "1930",
+    "materials": "Láminas impresas a color",
+    "key": "El atlas Gesellschaft und Wirtschaft, 100 láminas de estadística pictórica hechas por el equipo del museo de Viena:[1][3] la obra mayor de lo que luego se llamó Isotype.[2][3]",
+    "more": "Publicado en Leipzig en 1930,[1] mostraba la población, la economía, las colonias, el trabajo y las religiones en el mundo[1] con hileras de pictogramas iguales, cada uno equivalente a una cantidad fija.[2] Otto Neurath lo dirigió,[1] Marie Reidemeister resolvió cómo convertir los datos en gráficos que se explicaran solos[1][2] y Gerd Arntz diseñó los símbolos.[2][3] El método, desarrollado desde 1925 en el Museo Social y Económico de Viena,[1] es una base de la infografía actual.[2]",
+    "status": "Ejemplares del atlas en bibliotecas y en la colección Isotype de la Universidad de Reading."
+   },
+   "refs": [
+    {
+     "label": "Isotype Revisited (Univ. of Reading), Ihara: Society and Economy (PDF)",
+     "url": "https://www.isotyperevisited.org/Ihara_Society_and_Economy.pdf",
+     "checks": "publicado en Leipzig por el Bibliographisches Institut en 1930; 100 láminas (incluidas dos explicativas) y 30 páginas de texto; Neurath dirigió todo; Reidemeister como «transformadora»; Arntz y los símbolos; Museo de la Sociedad y la Economía fundado en enero de 1925; temas: población, economía, colonias, trabajo, religiones. ⚠ El nombre «Isotype» no aparece en este texto.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Isotype Revisited (Univ. of Reading), «The significance of Isotype»",
+     "url": "https://isotyperevisited.org/1975/01/the-significance-of-isotype.php",
+     "checks": "el nombre Isotype se acuñó a mediados de los años treinta; Reidemeister hizo todas las transformaciones del atlas de 1930; Arntz diseñó los símbolos (desde 1928); regla de que cada signo vale una cantidad fija; influencia en la infografía actual.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Gerd Arntz Web Archive (Gemeentemuseum Den Haag), biografía",
+     "url": "https://www.gerdarntz.org/content/gerd-arntz.html",
+     "checks": "100 estadísticas visuales «Gesellschaft und Wirtschaft», 1930; Arntz diseñó los pictogramas del método «más tarde conocido como ISOTYPE»; museo de Neurath en Viena.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "penguin-covers",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Penguin covers",
+   "designers": [],
+   "maker": "inst-penguin-books",
+   "client": null,
+   "year": 1935,
+   "date": "1935",
+   "production": {
+    "from": 1935,
+    "to": null,
+    "note": "Edward Young’s three-band grid was used, with revisions, until the early 1960s"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Letterpress on paper covers",
+   "tech": [],
+   "key": "Edward Young’s three-band covers for Penguin, colour-coded by kind of book,[1][2] which gave cheap paperbacks a recognisable identity.[3]",
+   "more": "For the launch on 30 July 1935,[4] Young, a 21-year-old junior employee,[1][2] drew the penguin logo at London Zoo[1][2] and designed a horizontal grid of coloured bands with the title and author in Gill Sans on the central band:[1][3] orange for fiction, green for crime, blue for biography.[1][3] The covers carried no pictures;[1] the series, not the single book, was the brand. In the late 1940s Jan Tschichold refined the system.[1][3]",
+   "where": [
+    {
+     "label": "Design Museum, London",
+     "url": "https://designmuseum.org/penguin-books"
+    }
+   ],
+   "status": "Original books in libraries; the design is still reissued and reinterpreted by Penguin.",
+   "wiki": "Penguin_Books",
+   "es": {
+    "title": "Portadas de Penguin",
+    "date": "1935",
+    "materials": "Impresión tipográfica sobre cubiertas de papel",
+    "key": "Las portadas de tres franjas de Edward Young para Penguin, con colores según el tipo de libro,[1][2] que dieron a los libros de bolsillo baratos una identidad reconocible.[3]",
+    "more": "Para el lanzamiento del 30 de julio de 1935,[4] Young, un empleado de 21 años,[1][2] dibujó el logotipo del pingüino en el zoológico de Londres[1][2] y diseñó una retícula horizontal de franjas de color con el título y el autor en Gill Sans sobre la franja central:[1][3] naranja para la ficción, verde para el policial, azul para la biografía.[1][3] Las portadas no llevaban imágenes;[1] la marca era la serie, no el libro aislado. A fines de los años cuarenta, Jan Tschichold perfeccionó el sistema.[1][3]",
+    "status": "Libros originales en bibliotecas; Penguin sigue reeditando y reinterpretando el diseño.",
+    "production": {
+     "note": "la retícula de tres franjas de Edward Young se usó, con ajustes, hasta comienzos de los años sesenta"
+    },
+    "short": "Portadas Penguin"
+   },
+   "short": "Penguin covers",
+   "refs": [
+    {
+     "label": "Design Museum, London: Penguin Books",
+     "url": "https://designmuseum.org/penguin-books",
+     "checks": "Edward Young, «office junior», dibujó los pingüinos en el zoológico de Londres; Lane pidió una retícula horizontal con colores según el género; naranja ficción, verde policial, azul biografía; portadas sin ilustraciones; Tschichold llegó en 1946 y se quedó tres años. ⚠ No menciona la fecha del 30 de julio ni Gill Sans.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Penguin Books UK, historia del logotipo (2020)",
+     "url": "https://www.penguin.co.uk/articles/2020/09/penguin-books-logo-history-edward-young-allen-lane",
+     "checks": "Young tenía 21 años y era empleado de The Bodley Head; dibujó los pingüinos en el zoológico de Londres en 1935; franja de tres bandas horizontales con colores según el género; Tschichold rediseñó el logotipo en 1946. (Fuente del editor.)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bernard Quaritch, catálogo «The first 30 years of Penguin» (PDF)",
+     "url": "https://www.quaritch.com/wp-content/uploads/2014/05/quaritch046.pdf",
+     "checks": "lanzamiento en el verano de 1935 a seis peniques; Young dio forma al logotipo y a la idea de Lane de franjas horizontales; tipografía Gill Sans; naranja ficción, azul biografía, verde policial; la portada distinguía a Penguin de la competencia ilustrada; Tschichold en los años cuarenta unificó portada, lomo y contraportada.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoneyWeek, «30 July 1935: Penguin sparks the paperback revolution»",
+     "url": "https://moneyweek.com/331639/30-july-1935-penguin-sparks-the-paperback-revolution",
+     "checks": "fecha de lanzamiento: 30 de julio de 1935; colores por categoría. ⚠ fuente secundaria (prensa).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "power-poster",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Power poster",
+   "short": "Power",
+   "designers": [
+    "mcknight-kauffer"
+   ],
+   "maker": "Vincent Brooks, Day & Son",
+   "client": "Underground Electric Railways of London",
+   "year": 1930,
+   "date": "1930–1931",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "Kauffer’s poster Power, the Nerve Centre of London’s Underground, in which a fist and a turbine merge with the Underground roundel.[1]",
+   "more": "Designed in 1930[1] and printed in 1931 by Vincent Brooks, Day & Son for Frank Pick’s Underground,[2] it advertises not a destination but the electric energy that moves the system: a muscular arm thrusts through a turbine wheel that is also the company’s symbol, with blue currents flowing from a power station.",
+   "where": [
+    {
+     "label": "London Transport Museum",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/posters/item/1983-4-2996"
+    },
+    {
+     "label": "Cooper Hewitt, New York",
+     "url": "https://collection.cooperhewitt.org/objects/18448065/"
+    }
+   ],
+   "status": "Original prints in museum collections.",
+   "es": {
+    "title": "Cartel Power",
+    "short": "Power",
+    "date": "1930–1931",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de Kauffer Power, el centro nervioso del metro de Londres, en que un puño y una turbina se funden con el logotipo circular del metro.[1]",
+    "more": "Diseñado en 1930[1] e impreso en 1931 por Vincent Brooks, Day & Son para el metro de Frank Pick,[2] no anuncia un destino sino la energía eléctrica que mueve el sistema: un brazo musculoso atraviesa una rueda de turbina que es también el símbolo de la empresa, con corrientes azules que salen de una central eléctrica.",
+    "status": "Ejemplares originales en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "MoMA, Power, The Nerve Centre of London’s Underground (1930)",
+     "checks": "Título y fecha de diseño: 1930.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/6859"
+    },
+    {
+     "label": "London Transport Museum, «Power – the Nerve Centre of London’s Underground»",
+     "checks": "Fecha 1931; impresor Vincent Brooks, Day & Son.",
+     "date": "2026-10-03",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/posters/item/1983-4-2996"
+    }
+   ]
+  },
+  {
+   "id": "adolf-superman",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Adolf the Superman",
+   "designers": [
+    "heartfield"
+   ],
+   "maker": "Arbeiter-Illustrierte-Zeitung",
+   "client": null,
+   "year": 1932,
+   "date": "1932",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Photomontage printed in photogravure",
+   "tech": [
+    "photomontage",
+    "offset-gravure"
+   ],
+   "key": "Heartfield’s photomontage of Hitler with a chest X-ray revealing a gullet of gold coins:[2] ‘Adolf the Superman swallows gold and spouts tin’.[1][2]",
+   "more": "Published in the communist magazine AIZ on 17 July 1932,[1][3] during the campaign for the Reichstag elections,[1] it denounced the funding of the Nazi party by big industry.[2] The montage joined a photograph of Hitler speaking with an X-ray image of a chest and a column of coins;[2] it was also pasted up as a large poster on Berlin streets.[1][2] Heartfield had to flee Germany the following year.[4]",
+   "where": [
+    {
+     "label": "Akademie der Künste, Berlin: Heartfield archive",
+     "url": "https://heartfield.adk.de/node/3763"
+    }
+   ],
+   "status": "Original magazine issues and montage materials in archives and museums.",
+   "es": {
+    "title": "Adolf, el superhombre",
+    "date": "1932",
+    "materials": "Fotomontaje impreso en huecograbado",
+    "key": "El fotomontaje de Heartfield de Hitler con una radiografía del tórax que deja ver un esófago de monedas de oro:[2] «Adolf, el superhombre, traga oro y escupe hojalata».[1][2]",
+    "more": "Publicado en la revista comunista AIZ el 17 de julio de 1932,[1][3] durante la campaña para las elecciones al Reichstag,[1] denunciaba el financiamiento del partido nazi por la gran industria.[2] El montaje unió una fotografía de Hitler hablando con una radiografía de un tórax y una columna de monedas;[2] también se pegó como gran cartel en las calles de Berlín.[1][2] Heartfield tuvo que huir de Alemania al año siguiente.[4]",
+    "status": "Números originales de la revista y materiales del montaje en archivos y museos."
+   },
+   "refs": [
+    {
+     "label": "Akademie der Künste, Berlin, archivo Heartfield: «Adolf, der Übermensch: Schluckt Gold und redet Blech»",
+     "url": "https://heartfield.adk.de/node/3763",
+     "checks": "AIZ, año XI, n.º 29, 17 de julio de 1932, pp. 675/676; huecograbado (Kupfertiefdruck); financiado por Harry Graf Kessler y difundido como cartel de gran formato en Berlín durante la campaña para las elecciones al Reichstag; título original.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Adolf the Superman Swallows Gold and Spouts Tin»",
+     "url": "https://www.britannica.com/topic/Adolf-the-Superman-Swallows-Gold-and-Spouts-Tin",
+     "checks": "1932; foto de Hitler hablando con una radiografía de tórax superpuesta que muestra un esófago de monedas de oro y monedas en el estómago; Hitler como títere de los grandes industriales; exhibido ampliamente como cartel en Berlín.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museum of Fine Arts, Houston, «Adolf the Superman: Swallows Gold and Spouts Junk»",
+     "url": "https://emuseum.mfah.org/objects/11479/adolf-the-superman-swallows-gold-and-spouts-junk",
+     "checks": "1932; rotograbado; publicado en la revista AIZ, ligada al Partido Comunista. ⚠ No dice que AIZ fuera semanal.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Merrill C. Berman Collection, John Heartfield",
+     "url": "https://mcbcollection.com/john-heartfield",
+     "checks": "poco después de la llegada de Hitler al poder en 1933 Heartfield huyó de Berlín a Praga, donde siguió haciendo portadas para AIZ.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "konstruktivisten-poster",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Konstruktivisten poster",
+   "short": "Konstruktivisten",
+   "designers": [
+    "tschichold"
+   ],
+   "maker": null,
+   "client": "Kunsthalle Basel",
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Photolithograph on paper",
+   "tech": [],
+   "key": "Tschichold’s poster for the 1937 Constructivists exhibition at the Kunsthalle Basel,[1] an exile’s late, refined use of the New Typography.[1][2]",
+   "more": "The exhibition at the Kunsthalle Basel, from 16 January to 14 February 1937,[2][3] showed Van Doesburg, Lissitzky, Moholy-Nagy, Mondrian and others.[3] Tschichold, living near Basel since his flight from Germany in 1933,[1][2] composed the poster with a circle, thin lines and sans-serif type on a broad field, a calm asymmetry that MoMA calls the ultimate expression of principles he had refined over a decade.[1]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/6746"
+    }
+   ],
+   "status": "Original prints in museum collections.",
+   "es": {
+    "title": "Cartel Konstruktivisten",
+    "short": "Konstruktivisten",
+    "date": "1937",
+    "materials": "Fotolitografía sobre papel",
+    "key": "El cartel de Tschichold para la exposición Constructivistas de la Kunsthalle de Basilea en 1937,[1] un uso tardío y refinado de la Nueva Tipografía en el exilio.[1][2]",
+    "more": "La exposición de la Kunsthalle de Basilea, del 16 de enero al 14 de febrero de 1937,[2][3] mostró a Van Doesburg, Lisitski, Moholy-Nagy, Mondrian y otros.[3] Tschichold, que vivía junto a Basilea desde su huida de Alemania en 1933,[1][2] compuso el cartel con un círculo, líneas finas y letras sin serifa sobre un campo amplio, una asimetría serena que el MoMA describe como la expresión última de los principios que había refinado durante una década.[1]",
+    "status": "Ejemplares originales en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "MoMA, Jan Tschichold, Die Konstruktivisten, 1937 (373.1950)",
+     "url": "https://www.moma.org/collection/works/6746",
+     "checks": "autor, fecha (1937), fotolitografía, cartel para la Kunsthalle Basel; hecho tras huir de la Alemania nazi, entre varios diseños para el museo suizo; «composición sutil» y «expresión última de principios refinados durante una década». ⚠ La descripción de círculo, líneas finas y letras sin serifa se hace a partir de la reproducción, no del texto.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Typolexikon.de, «Jan Tschichold»",
+     "url": "https://www.typolexikon.de/tschichold-jan/",
+     "checks": "detención y emigración en 1933 a Riehen, junto a Basilea; trabajo en Basilea, carteles para la Kunsthalle; exposición «konstruktivisten» del 16.1 al 14.2.1937 y su cartel como última obra de vanguardia. ⚠ fuente secundaria (léxico).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AbeBooks, catálogo «Konstruktivisten», Kunsthalle Basel, 1937 (ficha de librería)",
+     "url": "https://www.abebooks.com/first-edition/Konstruktivisten-Constructivists-doesburg-domela-eggeling-gabo/18337079614/bd",
+     "checks": "título del catálogo con los artistas expuestos (Van Doesburg, Domela, Eggeling, Gabo, Lissitzky, Moholy-Nagy, Mondrian, Pevsner, Taeuber, Vantongerloo, Vordemberge…) y fechas 16 de enero a 14 de febrero de 1937. ⚠ fuente secundaria (ficha comercial).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ussr-in-construction",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "USSR in Construction",
+   "designers": [
+    "rodchenko",
+    "stepanova",
+    "el-lissitzky"
+   ],
+   "maker": "State publishing house",
+   "client": null,
+   "year": 1930,
+   "date": "1930–1941",
+   "production": {
+    "from": 1930,
+    "to": 1941,
+    "note": "monthly, in Russian, English, French, German and later Spanish"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Printed magazine with photographs and fold-outs",
+   "tech": [
+    "photomontage",
+    "leica-35mm",
+    "offset-gravure"
+   ],
+   "key": "A large-format Soviet propaganda magazine of photographs[2] that showcased Soviet industrialisation to the world,[1][3] with issues designed by avant-garde artists.[2][4][5]",
+   "more": "Founded by the writer Maxim Gorky,[1] it published photo-essays on industry, collective farms and transport in several languages.[1][3] Some issues were designed by Rodchenko and Stepanova[4] and others by El Lissitzky with Sophie Lissitzky-Küppers,[5] using montage and fold-outs.[1] It was also a mask: the 1933 issue designed by Rodchenko glorified the White Sea Canal, built by forced labour.[2][3]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/82673"
+    }
+   ],
+   "status": "Original issues in libraries and museums.",
+   "wiki": "USSR_in_Construction",
+   "es": {
+    "title": "La URSS en construcción",
+    "date": "1930–1941",
+    "materials": "Revista impresa con fotografías y desplegables",
+    "key": "Una revista soviética de propaganda, de gran formato y hecha de fotografías,[2] que mostró al mundo la industrialización soviética,[1][3] con números diseñados por artistas de vanguardia.[2][4][5]",
+    "more": "Fundada por el escritor Máximo Gorki,[1] publicó reportajes fotográficos sobre la industria, las granjas colectivas y el transporte en varios idiomas.[1][3] Algunos números los diseñaron Ródchenko y Stepánova[4] y otros El Lisitski con Sophie Lissitzky-Küppers,[5] con montajes y desplegables.[1] También fue una máscara: el número de 1933 diseñado por Ródchenko glorificó el canal del mar Blanco, construido con trabajo forzado.[2][3]",
+    "status": "Números originales en bibliotecas y museos.",
+    "production": {
+     "note": "mensual, en ruso, inglés, francés, alemán y después español"
+    },
+    "short": "URSS en construcción"
+   },
+   "short": "USSR in Construction",
+   "refs": [
+    {
+     "label": "Wende Museum, «USSR in Construction»",
+     "url": "https://wendemuseum.org/collection/ussr-in-construction/",
+     "checks": "fundada por Máximo Gorki; publicada de 1930 a 1941 (último número en 1949); en ruso, francés, inglés, alemán y luego español; fotomontajes y desplegables de varias páginas; temas: granjas colectivas, industria pesada, transporte, educación, salud; imagen de modernización rápida.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Ródchenko, SSSR na stroike n.º 12, 1933: El canal del mar Blanco-Báltico (852.2001.C1-36)",
+     "url": "https://www.moma.org/collection/works/26505",
+     "checks": "número de 1933 de Ródchenko sobre el canal del mar Blanco-Báltico; revista ilustrada mensual; fotograbado; páginas de 41,7 × 29,7 cm (gran formato); editorial Izobrazitel'noe iskusstvo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Academia.edu, «The Visual Economy of Forced Labor: Alexander Rodchenko and the White Sea-Baltic Canal»",
+     "url": "https://www.academia.edu/1030602/The_Visual_Economy_of_Forced_Labor_Alexander_Rodchenko_and_the_White_Sea-Baltic_Canal",
+     "checks": "el canal como obra de trabajo forzado administrada por la policía secreta; fotos de Ródchenko de 1933 publicadas en la revista; revista en ruso, inglés, francés y alemán para mostrar los logros de la industrialización. ⚠ artículo académico leído en resumen.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Ródchenko y Stepánova, diagramación del número 7 dedicado a Maiakovski, 1940 (2534.2001)",
+     "url": "https://www.moma.org/collection/works/82673",
+     "checks": "números diseñados por Ródchenko y Stepánova.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, El Lisitski y Sophie Lisitski, URSS en Construction n.º 10, 1934 (852.2001.F)",
+     "url": "https://www.moma.org/collection/works/26508",
+     "checks": "números diseñados por El Lisitski con Sophie Lissitzky-Küppers (edición francesa, 1934).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "el-peneca-covers",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "El Peneca covers",
+   "designers": [
+    "core-silva-ossa"
+   ],
+   "maker": "inst-zig-zag",
+   "client": null,
+   "year": 1932,
+   "date": "1932–1950",
+   "production": {
+    "from": 1932,
+    "to": 1950,
+    "note": "weekly; the magazine reached about 180,000 copies around 1940[1]"
+   },
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Ink drawings printed in colour",
+   "tech": [],
+   "key": "The covers Coré drew for the Chilean children’s weekly El Peneca from 1932 until his death in 1950.[2]",
+   "more": "El Peneca, published by Zig-Zag since 1908, was edited from 1921 by Elvira Santa Cruz Ossa, ‘Roxane’, who wanted it cheap enough for every child; its print run reached about 180,000 copies around 1940.[1] Her nephew Mario Silva Ossa, Coré, drew its covers and serials for eighteen years with a precise, dramatic line; the poets Miguel Arteche, Enrique Lihn and Jorge Teillier enjoyed his drawings as children, and they left a mark on their poetry.[2]",
+   "where": [
+    {
+     "label": "Biblioteca Nacional de Chile: cover for El Peneca no. 1524, 1938",
+     "url": "https://www.bibliotecanacionaldigital.gob.cl/bnd/649/w3-article-620077.html"
+    },
+    {
+     "label": "Memoria Chilena",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-748.html"
+    }
+   ],
+   "status": "Original artwork in the Biblioteca Nacional de Chile; issues digitised.",
+   "es": {
+    "title": "Portadas de El Peneca",
+    "date": "1932–1950",
+    "materials": "Dibujos a tinta impresos a color",
+    "key": "Las portadas que Coré dibujó para el semanario infantil chileno El Peneca desde 1932 hasta su muerte en 1950.[2]",
+    "more": "El Peneca, publicado por Zig-Zag desde 1908, lo dirigió desde 1921 Elvira Santa Cruz Ossa, «Roxane», que lo quería lo bastante barato para todos los niños; su tiraje llegó a unos 180.000 ejemplares hacia 1940.[1] Su sobrino Mario Silva Ossa, Coré, dibujó sus portadas y series durante dieciocho años con un trazo preciso y dramático; los poetas Miguel Arteche, Enrique Lihn y Jorge Teillier disfrutaron sus dibujos de niños, y estos dejaron huella en su poesía.[2]",
+    "status": "Originales en la Biblioteca Nacional de Chile; números digitalizados.",
+    "production": {
+     "note": "semanal; la revista llegó a unos 180.000 ejemplares hacia 1940[1]"
+    },
+    "short": "El Peneca"
+   },
+   "short": "El Peneca",
+   "refs": [
+    {
+     "label": "Memoria Chilena, «El Peneca (1908-1960)»",
+     "checks": "Roxane desde 1921; portadas de Coré; 180.000 ejemplares hacia 1940.",
+     "date": "2026-10-03",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3397.html"
+    },
+    {
+     "label": "Memoria Chilena, «Mario Silva Ossa (1913-1950)»",
+     "checks": "Sobrino de Roxane; en El Peneca desde 1932 durante dieciocho años; Arteche, Lihn y Teillier disfrutaron sus dibujos de niños, que dejaron huella en su poesía.",
+     "date": "2026-10-03",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-748.html"
+    }
+   ]
+  },
+  {
+   "id": "zig-zag-books-amster",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Zig-Zag book design",
+   "short": "Zig-Zag books",
+   "designers": [
+    "mauricio-amster"
+   ],
+   "maker": "inst-zig-zag",
+   "client": null,
+   "year": 1940,
+   "date": "1940–1947",
+   "production": {
+    "from": 1940,
+    "to": 1947,
+    "note": "collections such as Biblioteca Zig-Zag, in pocket series by colour"
+   },
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Printed books",
+   "tech": [],
+   "key": "The books Mauricio Amster designed as art director of Zig-Zag in the 1940s,[1][2] the start of a body of work that renewed the composition and layout of Chilean books.[3]",
+   "more": "After arriving on the Winnipeg in 1939, Amster worked for magazines such as Qué hubo en la semana,[1][3] and around 1940 became art director of Zig-Zag;[1] in 1940 he also co-founded the publisher Cruz del Sur with Arturo Soria.[1] At Zig-Zag he laid out up to three or four books a day.[1][2] His main contribution was the composition and layout of books,[3] in which he valued ‘the beauty of the whole’ over individual letters.[1]",
+   "where": [
+    {
+     "label": "Memoria Chilena",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-96016.html"
+    }
+   ],
+   "status": "Original books in the Biblioteca Nacional de Chile.",
+   "es": {
+    "title": "Libros de Zig-Zag de Amster",
+    "short": "Libros Zig-Zag",
+    "date": "1940–1947",
+    "materials": "Libros impresos",
+    "key": "Los libros que Mauricio Amster diseñó como director artístico de Zig-Zag en los años cuarenta,[1][2] el comienzo de una obra que renovó la composición y diagramación del libro chileno.[3]",
+    "more": "Tras llegar en el Winnipeg en 1939, Amster trabajó para revistas como Qué hubo en la semana,[1][3] y hacia 1940 pasó a ser director artístico de Zig-Zag;[1] en 1940 además cofundó la editorial Cruz del Sur con Arturo Soria.[1] En Zig-Zag diagramaba hasta tres o cuatro libros por día.[1][2] Su aporte principal fue la composición y diagramación de libros,[3] en la que valoraba «la belleza del conjunto» por sobre cada letra.[1]",
+    "status": "Libros originales en la Biblioteca Nacional de Chile.",
+    "production": {
+     "note": "colecciones como la Biblioteca Zig-Zag, en series de bolsillo por color"
+    }
+   },
+   "refs": [
+    {
+     "label": "Memoria Chilena, Biblioteca Nacional de Chile, «Mauricio Amster (1907-1980)»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3608.html",
+     "checks": "llegada en el Winnipeg y trabajo en la revista Qué hubo en la semana; José María Souvirón lo invita como director artístico de Zig-Zag hacia 1940; hasta «3 ó 4 libros por día»; cofunda Cruz del Sur en 1940 con Arturo Soria; «la belleza del conjunto». ⚠ El año 1939 de la llegada no aparece citado textualmente en el resumen.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fundación La Fuente, «Las lecciones de Mauricio Amster»",
+     "url": "https://www.fundacionlafuente.cl/blog/las-lecciones-de-mauricio-amster/",
+     "checks": "director artístico de Zig-Zag, hasta tres libros por día. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Biblioteca Nacional de Chile, «Exposición sobre Mauricio Amster»",
+     "url": "https://www.bibliotecanacional.gob.cl/noticias/exposicion-sobre-mauricio-amster?_noredirect=1",
+     "checks": "llegada en el Winnipeg con refugiados españoles; comienzo en Zig-Zag; colaboración con Cruz del Sur y otras editoriales; su aporte principal en la composición y diagramación de libros; transformación de la edición chilena.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "tgp-posters",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "print",
+   "title": "Taller de Gráfica Popular prints",
+   "short": "TGP prints",
+   "designers": [
+    "leopoldo-mendez"
+   ],
+   "maker": "inst-tgp",
+   "client": null,
+   "year": 1937,
+   "date": "from 1937",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Linocut, woodcut and lithograph on paper",
+   "tech": [],
+   "key": "The popular posters, flyers and prints of the Mexican workshop founded in 1937,[1][2] made individually or collectively for education campaigns and the fight against fascism.[1]",
+   "more": "The TGP produced its work in linocut, woodcut and lithograph,[1][2] with individual or collective authorship,[1] as posters, loose sheets and flyers that worked as portable murals for working people.[1] A 1938 leaflet by Leopoldo Méndez addressed teachers threatened by armed groups and urged them to fight with ‘the powerful weapon of illustrated propaganda prints’.[3] It supported the educational and health programmes of Cárdenas’s government.[1]",
+   "where": [
+    {
+     "label": "Philadelphia Museum of Art: Méndez leaflet, 1938",
+     "url": "https://www.philamuseum.org/objects/196023"
+    },
+    {
+     "label": "Art Institute of Chicago",
+     "url": "https://www.artic.edu/artists/72887/taller-de-grafica-popular-mexico-city-mexico"
+    }
+   ],
+   "status": "Original prints in museum collections.",
+   "wiki": "Taller_de_Gráfica_Popular",
+   "es": {
+    "title": "Estampas del Taller de Gráfica Popular",
+    "short": "Estampas del TGP",
+    "date": "desde 1937",
+    "materials": "Linóleo, xilografía y litografía sobre papel",
+    "key": "Los carteles, volantes y estampas populares del taller mexicano fundado en 1937,[1][2] hechos individual o colectivamente para campañas educativas y la lucha contra el fascismo.[1]",
+    "more": "El TGP producía en linóleo, madera y litografía,[1][2] con autoría individual o colectiva,[1] en carteles, hojas sueltas y volantes que funcionaban como murales portátiles para el pueblo trabajador.[1] Un volante de Leopoldo Méndez de 1938 se dirigía a los maestros amenazados por grupos armados y los llamaba a luchar con «el arma poderosa de las estampas de propaganda ilustradas».[3] Apoyó los programas educativos y de salud del gobierno de Cárdenas.[1]",
+    "status": "Estampas originales en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "Afterall, «The Taller de Gráfica Popular: Collectivity, Popular Prints and Transient Muralism»",
+     "url": "https://www.afterall.org/articles/the-taller-de-grafica-popular-collectivity-popular-prints-and-transient-muralism/",
+     "checks": "fundación en 1937 en Ciudad de México (Méndez, Arenal, O’Higgins); linóleo y madera; autoría individual y colectiva según sus estatutos; carteles, hojas sueltas y volantes como murales portátiles para el pueblo trabajador; retórica antifascista; vínculo con las campañas educativas y de salud de Cárdenas.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Taller de Gráfica Popular»",
+     "url": "https://www.britannica.com/topic/Taller-de-Grafica-Popular",
+     "checks": "fundación en 1937 con Méndez como artista principal; xilografía y litografía; centro de trabajo colectivo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Philadelphia Museum of Art, Leopoldo Méndez, volante del TGP, 1938 (196023)",
+     "url": "https://www.philamuseum.org/objects/196023",
+     "checks": "volante de Méndez de 1938 dirigido al maestro amenazado por las «guardias blancas asesinas», que lo llama a luchar con «el arma poderosa de las estampas de propaganda ilustradas».",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "republican-posters",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Spanish Republican posters",
+   "short": "Republican posters",
+   "designers": [],
+   "maker": "Carles Fontserè, Josep Renau",
+   "client": "Trade unions and the government of the Spanish Republic",
+   "year": 1936,
+   "date": "1936–1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Colour lithographs and photomontage",
+   "tech": [
+    "photomontage"
+   ],
+   "key": "Two posters of the Spanish Civil War: Carles Fontserè’s Llibertat! (1936)[1][2] and Josep Renau’s The Commissar, Nerve of Our People’s Army (1937).[3][4]",
+   "more": "Institutions, parties and unions commissioned most Republican posters, one of the most effective means of communication of the war.[1] Fontserè’s Llibertat! shows a reaper raising a sickle, the Catalan symbol of the defence of freedoms, in a direct visual language.[1][2] Renau, a graphic designer who was the Republic’s director-general of fine arts from 1936,[3] used photomontage, as in his poster on the political commissars of the army.[3][4] After the war both went into exile: Fontserè to France, Mexico and New York,[2] and Renau to Mexico.[3]",
+   "where": [
+    {
+     "label": "MNAC, Barcelona: Fontserè, Llibertat!",
+     "url": "https://www.museunacional.cat/ca/colleccio/llibertat/carles-fontsere/250446-000"
+    },
+    {
+     "label": "MNAC, Barcelona: Renau, El comisario",
+     "url": "https://www.museunacional.cat/es/colleccio/el-comisario-nervio-de-nuestro-ejercito-popular/josep-renau/250442-000"
+    }
+   ],
+   "status": "Original prints in museum collections.",
+   "es": {
+    "title": "Carteles republicanos",
+    "short": "Carteles republicanos",
+    "date": "1936–1937",
+    "materials": "Litografías a color y fotomontaje",
+    "key": "Dos carteles de la Guerra Civil española: ¡Llibertat! de Carles Fontserè (1936)[1][2] y El comisario, nervio de nuestro ejército popular de Josep Renau (1937).[3][4]",
+    "more": "Instituciones, partidos y sindicatos encargaron la mayoría de los carteles republicanos, una de las herramientas de comunicación más eficaces de la guerra.[1] ¡Llibertat! de Fontserè muestra a un segador que alza la hoz, símbolo catalán de la defensa de las libertades, con un lenguaje directo.[1][2] Renau, diseñador gráfico que fue director general de Bellas Artes de la República desde 1936,[3] usó el fotomontaje, como en su cartel sobre los comisarios políticos del ejército.[3][4] Tras la guerra ambos se exiliaron: Fontserè en Francia, México y Nueva York,[2] y Renau en México.[3]",
+    "status": "Ejemplares originales en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "VilaWeb, «L’Arxiu Nacional de Catalunya exposa el cartellisme més compromès de Carles Fontserè»",
+     "url": "https://www.vilaweb.cat/noticies/larxiu-nacional-de-catalunya-exposa-el-cartellisme-mes-compromes-de-carles-fontsere/",
+     "checks": "¡Llibertat! con el segador que alza la hoz, símbolo catalán de la defensa de las libertades, en lenguaje directo; la mayoría de los carteles eran encargos de instituciones, partidos y sindicatos; el cartel como una de las herramientas de comunicación más eficaces. ⚠ prensa; no da el año 1936 de forma explícita.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bonart, «Fontserè, un creador a l’exili»",
+     "url": "https://www.bonart.cat/ca/n/18456/fontsere-un-creador-a-lexili",
+     "checks": "¡Llibertat! (figura que alza la hoz); carteles para CNT, FAI y POUM; exilio en Francia (París), México y Nueva York desde 1949. ⚠ revista de arte.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "IVAM, «Josep Renau»",
+     "url": "https://ivam.es/en/author/josep-renau/7029eb67-a22e-4903-9eb8-b8d64ed1aeb8/",
+     "checks": "director general de Bellas Artes al estallar la guerra (1936); fotomontajes desde 1934; uno de los principales cartelistas republicanos; título El comisario, nervio de nuestro ejército popular; exilio en México desde 1939.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Universidad de Alicante, blog «Josep Renau», «Fotomontaje: El comisario, nervio de nuestro ejército popular»",
+     "url": "https://blogs.ua.es/joseprenau/2013/01/26/fotomontaje-el-comisario-nervio-de-nuestro-ejercito-popular/",
+     "checks": "fotomontaje de 1937 para el Partido Comunista (registro de ARTIUM). ⚠ blog universitario.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "bauhausbucher",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Bauhaus Books",
+   "designers": [
+    "moholy-nagy"
+   ],
+   "maker": "Albert Langen Verlag, Munich",
+   "client": null,
+   "year": 1925,
+   "date": "1925–1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Letterpress and halftone printing on paper; paper and cloth bindings",
+   "tech": [],
+   "key": "The book series that Gropius and Moholy-Nagy edited to spread the ideas of the Bauhaus and the avant-gardes;[1][2] Moholy-Nagy designed its typography.[1]",
+   "more": "Planned from 1923,[1][2] its programme grew to more than 50 volumes on art, science and technology;[1] it reached 14 volumes between 1925 and 1930,[1][2] published by Albert Langen in Munich.[1][2] Moholy-Nagy was its editor and designer, helped by Lucia Moholy;[1] covers were also designed by Farkas Molnár and Herbert Bayer.[1] Besides Bauhaus teachers such as Klee, Kandinsky and Gropius, it published Mondrian, Van Doesburg and Malevich, and Moholy-Nagy’s own Painting, Photography, Film.[1][2]",
+   "where": [
+    {
+     "label": "Bauhaus Kooperation: the Bauhausbücher",
+     "url": "https://bauhauskooperation.de/wissen/publikationen/publikationen-zum-bauhaus/bauhausbuecher"
+    },
+    {
+     "label": "bauhaus-bookshelf: scans of the 14 volumes",
+     "url": "https://www.bauhaus-bookshelf.org/bauhaus-books_1925-1933-for-download.html"
+    }
+   ],
+   "status": "Originals in libraries and archives; facsimile editions in print.",
+   "wiki": "Bauhausbücher",
+   "es": {
+    "title": "Libros de la Bauhaus",
+    "date": "1925–1930",
+    "materials": "Impresión tipográfica y en medios tonos sobre papel; encuadernaciones en papel y tela",
+    "key": "La serie de libros que Gropius y Moholy-Nagy editaron para difundir las ideas de la Bauhaus y de las vanguardias;[1][2] Moholy-Nagy diseñó su tipografía.[1]",
+    "more": "Planificada desde 1923,[1][2] su programa llegó a más de 50 volúmenes sobre arte, ciencia y técnica;[1] se publicaron 14 entre 1925 y 1930,[1][2] en la editorial Albert Langen de Múnich.[1][2] Moholy-Nagy fue su editor y diseñador, con la ayuda de Lucia Moholy;[1] también diseñaron portadas Farkas Molnár y Herbert Bayer.[1] Junto a profesores de la Bauhaus como Klee, Kandinsky y Gropius, publicó a Mondrian, Van Doesburg y Malévich, y Pintura, fotografía, cine del propio Moholy-Nagy.[1][2]",
+    "status": "Originales en bibliotecas y archivos; hay ediciones facsimilares disponibles."
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, «Bauhausbücher»",
+     "url": "https://bauhauskooperation.de/wissen/publikationen/publikationen-zum-bauhaus/bauhausbuecher",
+     "checks": "planificada por Gropius y Moholy-Nagy desde el otoño de 1923 para presentar la Bauhaus y las posiciones de artistas internacionales; primero 31 títulos y luego 54; 14 volúmenes entre 1925 y 1930 en Albert Langen, Múnich; Moholy-Nagy editor y diseñador, con tipografía suya; ayuda de Lucia Moholy; portadas de Farkas Molnár (vol. 1) y Herbert Bayer (vol. 13); volúmenes de Klee, Kandinsky, Mondrian, Van Doesburg, Malévich y «Malerei Photographie Film» de Moholy-Nagy; temas de arte, ciencia y técnica.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "bauhaus-bookshelf.org, los 14 volúmenes para descargar",
+     "url": "https://www.bauhaus-bookshelf.org/bauhaus-books_1925-1933-for-download.html",
+     "checks": "Gropius y Moholy-Nagy iniciaron la serie; programa provisional de diciembre de 1923; 14 volúmenes, el último en 1930; Albert Langen la asumió en 1925. ⚠ sitio de un particular, con escaneos de los libros.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "nkf-catalogue",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "NKF catalogue",
+   "designers": [
+    "piet-zwart"
+   ],
+   "maker": null,
+   "client": "N.V. Nederlandsche Kabelfabriek (NKF), Delft",
+   "year": 1928,
+   "date": "1927–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Letterpress and photographs on paper, A4, 80 pages",
+   "tech": [],
+   "key": "An 80-page product catalogue for a Delft cable maker[3][5] in which Zwart turned cables and technical data into asymmetric pages of photographs, type and colour.[1][3]",
+   "more": "Zwart made advertising for NKF from 1923,[3] first trade advertisements whose spare asymmetry broke the right-angled grid,[4] and then this catalogue, printed in letterpress in 1928 after two years of work.[1][2] He called himself a ‘typotect’, a builder with type:[4] he combined enlarged photographs of cables and their cross-sections with brief texts,[1] experimental type compositions, montages and bold fields of colour,[3][5] arranged asymmetrically.[3] The catalogue became a reference of the new typography applied to industrial publicity.[4][5]",
+   "where": [
+    {
+     "label": "Rijksmuseum, Amsterdam",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/Catalogus-van-de-NV-Nederlandsche-Kabelfabriek-Delft--8516deb6543dbdd512a8a4ec670632b1"
+    },
+    {
+     "label": "Letterform Archive: inside the NKF catalogue",
+     "url": "https://letterformarchive.org/news/inside-nkf-piet-zwarts-avant-garde-catalog-for-standard-cables-1927-1928/"
+    }
+   ],
+   "status": "Copies in museum and archive collections; facsimile published by Letterform Archive.",
+   "wiki": "Piet_Zwart",
+   "es": {
+    "title": "Catálogo de NKF",
+    "date": "1927–1928",
+    "materials": "Impresión tipográfica y fotografías sobre papel, A4, 80 páginas",
+    "key": "Un catálogo de productos de 80 páginas para un fabricante de cables de Delft,[3][5] en el que Zwart convirtió cables y datos técnicos en páginas asimétricas de fotografías, tipografía y color.[1][3]",
+    "more": "Zwart hizo publicidad para NKF desde 1923,[3] primero avisos para revistas técnicas cuya asimetría austera rompía la retícula ortogonal[4] y luego este catálogo, impreso en tipografía en 1928 tras dos años de trabajo.[1][2] Se llamaba a sí mismo «tipotecto», un constructor con tipos:[4] combinó fotografías ampliadas de cables y sus cortes con textos breves,[1] composiciones tipográficas experimentales, montajes y campos de color contundentes,[3][5] dispuestos en forma asimétrica.[3] El catálogo se volvió una referencia de la nueva tipografía aplicada a la publicidad industrial.[4][5]",
+    "status": "Ejemplares en colecciones de museos y archivos; edición facsimilar publicada por Letterform Archive."
+   },
+   "refs": [
+    {
+     "label": "Rijksmuseum, Catalogus van de N.V. Nederlandsche Kabelfabriek Delft (RP-F-2012-107)",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/Catalogus-van-de-NV-Nederlandsche-Kabelfabriek-Delft--8516deb6543dbdd512a8a4ec670632b1",
+     "checks": "fecha 1928; Zwart trabajó dos años en el catálogo (desde 1926); papel brillante, fotos ampliadas de cables y cortes con textos breves; ejemplo temprano de tipografía moderna.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Piet Zwart, NKF: N.V. Nederlandsche Kabelfabriek Delft, 1928 (612.1977.1)",
+     "url": "https://www.moma.org/collection/works/7741",
+     "checks": "fecha 1928; impresión tipográfica (letterpress); 29,8 × 42 cm abierto; imprenta N.V. Drukkerij Trio, La Haya.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Reviewed, «NKF: Piet Zwart’s Avant-Garde Catalog for Standard Cables, 1927–1928»",
+     "url": "https://designreviewed.com/artefacts/nkf-piet-zwarts-avant-garde-catalog-for-standard-cables-1927-1928-letterform-archive-2024/",
+     "checks": "80 páginas; avisos de Zwart para NKF desde 1923 con composición asimétrica y fotomontaje; fotos, composiciones tipográficas, montajes y campos de color; fechas 1927–1928; facsímil de Letterform Archive (2024). ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Letterform Archive, «Piet Zwart: Brand Architect»",
+     "url": "https://letterformarchive.org/news/piet-zwart-brand-architect-exhibition/",
+     "checks": "Zwart se llamaba «typotekt»; sus avisos asimétricos para NKF rompían la retícula de 90 grados; facsímil de 8,25 × 11,5 pulgadas (≈ A4) a cuatro colores; «obra maestra fundacional de la tipografía moderna».",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Dutch Design Daily, «Piet Zwart’s catalog for electrical cable manufacturer NKF»",
+     "url": "https://dutchdesigndaily.com/stories/piet-zwarts-catalog-for-electrical-cable-manufacturer-nkf/",
+     "checks": "catálogo de 80 páginas, 1927/1928; fotos, composiciones tipográficas, montajes y campos de color; recibido como epítome de la Nueva Tipografía. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "thuringia-banknotes",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "banknote",
+   "title": "Thuringia banknotes",
+   "short": "Thuringia notes",
+   "designers": [
+    "bayer"
+   ],
+   "maker": null,
+   "client": "Thüringische Staatsbank",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Letterpress on paper",
+   "tech": [],
+   "key": "Emergency banknotes that Herbert Bayer, then a Bauhaus student, designed in 1923 for the State Bank of Thuringia at the height of hyperinflation.[1][2]",
+   "more": "Commissioned on 8 August 1923, they dropped coats of arms and ornate lettering for geometric forms, strong colours and sans-serif figures.[2] Their values ran from one million to one billion marks, and the printing colour changed every few days through primary, secondary and tertiary hues.[2]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/8045"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge: Emergency Money",
+     "url": "https://museumderdinge.org/thing-of-the-month/emergency-money/"
+    }
+   ],
+   "refs": [
+    {
+     "label": "MoMA, Herbert Bayer, 10 billetes para el Banco del Estado de Turingia (1923)",
+     "checks": "Diseño de Bayer, 1923, para el Banco del Estado de Turingia; juego de diez billetes.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/8045"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «Emergency Money»",
+     "checks": "Encargo del 8 ago 1923 en plena hiperinflación; diseño geométrico, colores y letra sin serifa; valores de un millón a mil millones; rotación de colores.",
+     "date": "2026-10-03",
+     "url": "https://museumderdinge.org/thing-of-the-month/emergency-money/"
+    }
+   ],
+   "es": {
+    "title": "Billetes de Turingia",
+    "date": "1923",
+    "materials": "Tipografía sobre papel",
+    "key": "Billetes de emergencia que Herbert Bayer, entonces estudiante de la Bauhaus, diseñó en 1923 para el Banco del Estado de Turingia en plena hiperinflación.[1][2]",
+    "more": "Encargados el 8 de agosto de 1923, dejaron de lado escudos y letras ornamentadas a favor de formas geométricas, colores intensos y cifras sin serifa.[2] Sus valores iban de un millón a mil millones de marcos, y el color de impresión cambiaba cada pocos días entre tonos primarios, secundarios y terciarios.[2]",
+    "short": "Billetes de Turingia"
+   }
+  },
+  {
+   "id": "underground-roundel",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Underground roundel",
+   "short": "Roundel",
+   "designers": [
+    "edward-johnston"
+   ],
+   "maker": "Underground Electric Railways of London",
+   "client": "Frank Pick",
+   "year": 1916,
+   "date": "1916–1917",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Enamel signs, print",
+   "tech": [],
+   "key": "Edward Johnston’s redesign of the London Underground ‘bullseye’ (1916, registered 1917): a red ring crossed by a blue bar with the station name in his own sans-serif.[1]",
+   "more": "The bullseye had appeared in 1908 as a solid red disc. Frank Pick asked Johnston to make it work on print and signs alike: Johnston turned the disc into a ring, set the name in white on the bar in his typeface and drew its proportions from the letters. It was protected as a trademark in 1917 and came to stand for London itself.[1]",
+   "where": [
+    {
+     "label": "Design Museum: London Transport",
+     "url": "https://designmuseum.org/london-transport"
+    }
+   ],
+   "status": "Still the symbol of Transport for London.",
+   "wiki": "Roundel_(London_Transport)",
+   "refs": [
+    {
+     "label": "Design Museum, «London Transport»",
+     "checks": "Bullseye de 1908; encargo de Pick; rediseño de Johnston de 1916; marca registrada en 1917; símbolo de Londres.",
+     "date": "2026-10-03",
+     "url": "https://designmuseum.org/london-transport"
+    }
+   ],
+   "es": {
+    "title": "Logotipo del metro de Londres",
+    "date": "1916–1917",
+    "materials": "Letreros esmaltados, impresos",
+    "key": "El rediseño que hizo Edward Johnston del «bullseye» del metro de Londres (1916, registrado en 1917): un anillo rojo cruzado por una barra azul con el nombre de la estación en su propia letra sin serifa.[1]",
+    "more": "El «bullseye» había aparecido en 1908 como un disco rojo lleno. Frank Pick pidió a Johnston que funcionara igual en impresos y letreros: Johnston convirtió el disco en un anillo, puso el nombre en blanco sobre la barra con su tipografía y sacó sus proporciones de las letras. Se protegió como marca en 1917 y terminó representando a la propia ciudad de Londres.[1]",
+    "short": "Logotipo del metro",
+    "status": "Sigue siendo el símbolo de Transport for London."
+   }
+  },
+  {
+   "id": "malik-jackets",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Malik-Verlag jackets",
+   "short": "Malik jackets",
+   "designers": [
+    "heartfield"
+   ],
+   "maker": null,
+   "client": "Malik-Verlag",
+   "year": 1921,
+   "date": "from 1921",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Printed paper with photomontage",
+   "tech": [],
+   "key": "The book jackets John Heartfield designed for Malik-Verlag, the left-wing publishing house he ran with his brother Wieland Herzfelde.[1]",
+   "more": "His jackets ran from front to back cover, as on Upton Sinclair’s novel ‘100%’ (1921), and made the cover an image in its own right; readers often bought the books for their covers.[1]",
+   "where": [
+    {
+     "label": "Akademie der Künste: John Heartfield archive",
+     "url": "https://heartfield.adk.de/"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Archivo John Heartfield, «Heartfield Book Art 1912–1924»",
+     "checks": "Sobrecubiertas de Malik en los años veinte; 100% (1921); los clientes compraban los libros por las tapas. ⚠ Sitio de la familia; la fecha del primer fotomontaje en tapas queda para A6 (Akademie der Künste).",
+     "date": "2026-10-03",
+     "url": "https://www.johnheartfield.com/John-Heartfield-Exhibition/john-heartfield-art/heartfield-book-art-1924"
+    }
+   ],
+   "es": {
+    "title": "Sobrecubiertas de Malik",
+    "date": "desde 1921",
+    "materials": "Papel impreso con fotomontaje",
+    "key": "Las sobrecubiertas que John Heartfield diseñó para Malik-Verlag, la editorial de izquierda que dirigía con su hermano Wieland Herzfelde.[1]",
+    "more": "Sus sobrecubiertas seguían de la tapa a la contratapa, como la de la novela «100%» de Upton Sinclair (1921), e hicieron de la tapa una imagen en sí misma; los lectores a menudo compraban los libros por sus tapas.[1]",
+    "short": "Tapas de Malik"
+   },
+   "movements": [
+    "dada"
+   ]
+  },
+  {
+   "id": "vienna-museum-charts",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "infographic",
+   "title": "Vienna museum charts",
+   "short": "Vienna charts",
+   "designers": [
+    "neurath-isotype"
+   ],
+   "maker": "Gesellschafts- und Wirtschaftsmuseum in Wien",
+   "client": null,
+   "year": 1925,
+   "date": "1925–1934",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Cut-out pictograms, painted panels and prints",
+   "tech": [],
+   "key": "The picture-statistics charts made from 1925 for Otto Neurath’s Social and Economic Museum in Vienna, the origin of Isotype.[1][2]",
+   "more": "Neurath founded the museum in 1925 to make social and economic facts understandable to all through simple graphics.[2] In its charts a sign stood for a fixed quantity, and more signs meant more of it; Gerd Arntz and Marie Reidemeister shaped the method, renamed Isotype in 1935.[1] The museum’s work ended after February 1934.[2]",
+   "where": [
+    {
+     "label": "Universität Wien: Isotype",
+     "url": "https://isotype.univie.ac.at/en/abstract/"
+    },
+    {
+     "label": "Wien Geschichte Wiki: Gesellschafts- und Wirtschaftsmuseum",
+     "url": "https://www.geschichtewiki.wien.gv.at/%C3%96sterreichisches_Gesellschafts-_und_Wirtschafts-Museum"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Universidad de Viena, «Isotype: Origin, development, and legacy»",
+     "checks": "Método vienés desde 1925; regla del signo; Arntz y Reidemeister; nombre Isotype en 1935.",
+     "date": "2026-10-03",
+     "url": "https://isotype.univie.ac.at/en/abstract/"
+    },
+    {
+     "label": "Wien Geschichte Wiki, «Österreichisches Gesellschafts- und Wirtschafts-Museum»",
+     "checks": "Fundación en 1925; fin tras febrero de 1934.",
+     "date": "2026-10-03",
+     "url": "https://www.geschichtewiki.wien.gv.at/%C3%96sterreichisches_Gesellschafts-_und_Wirtschafts-Museum"
+    }
+   ],
+   "es": {
+    "title": "Cuadros del museo de Viena",
+    "date": "1925–1934",
+    "materials": "Pictogramas recortados, paneles pintados e impresos",
+    "key": "Los cuadros de estadística en imágenes hechos desde 1925 para el Museo de la Sociedad y la Economía de Otto Neurath, en Viena, origen de Isotype.[1][2]",
+    "more": "Neurath fundó el museo en 1925 para que todos pudieran entender los datos sociales y económicos mediante gráficos simples.[2] En sus cuadros un signo valía una cantidad fija, y más signos significaban más; Gerd Arntz y Marie Reidemeister dieron forma al método, llamado Isotype desde 1935.[1] El trabajo del museo terminó después de febrero de 1934.[2]",
+    "short": "Cuadros de Viena"
+   }
+  },
+  {
+   "id": "incidentes-melodicos",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Incidentes melódicos",
+   "short": "Incidentes",
+   "designers": [
+    "leopoldo-mendez"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1944,
+   "date": "1944",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Printed book with relief prints",
+   "tech": [],
+   "key": "Leopoldo Méndez’s prints for Juan de la Cabada’s book of tales ‘Incidentes melódicos del mundo irracional’ (1944).[1][2]",
+   "more": "Méndez illustrated the stories, drawn from popular and indigenous tradition, with prints in and out of the text; the prints were also issued as a portfolio. MoMA and the Met keep copies.[1][2]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/19354"
+    },
+    {
+     "label": "The Metropolitan Museum of Art",
+     "url": "https://www.metmuseum.org/art/collection/search/347005"
+    }
+   ],
+   "refs": [
+    {
+     "label": "MoMA, Leopoldo Méndez, Incidentes melódicos del mundo irracional (1944)",
+     "checks": "Libro ilustrado de 1944; láminas dentro del texto; carpeta de grabados. ⚠ El origen popular e indígena de los relatos, por confirmar.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/19354"
+    },
+    {
+     "label": "Met, Juan de la Cabada, Incidentes melódicos del mundo irracional",
+     "checks": "Ejemplar del libro de Juan de la Cabada.",
+     "date": "2026-10-03",
+     "url": "https://www.metmuseum.org/art/collection/search/347005"
+    }
+   ],
+   "es": {
+    "title": "Incidentes melódicos",
+    "date": "1944",
+    "materials": "Libro impreso con grabados",
+    "key": "Los grabados de Leopoldo Méndez para el libro de relatos de Juan de la Cabada «Incidentes melódicos del mundo irracional» (1944).[1][2]",
+    "more": "Méndez ilustró los relatos, tomados de la tradición popular e indígena, con grabados dentro y fuera del texto; los grabados también se publicaron como carpeta. El MoMA y el Met guardan ejemplares.[1][2]",
+    "short": "Incidentes"
+   }
+  },
+  {
+   "id": "cartilla-antifascista",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Antifascist School Primer",
+   "short": "Antifascist primer",
+   "designers": [
+    "mauricio-amster"
+   ],
+   "maker": null,
+   "client": "Ministerio de Instrucción Pública",
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Printed book with photographs and photomontage",
+   "tech": [],
+   "key": "The 1937 reading primer of the Spanish Republic, designed by Mauricio Amster with photographs and photomontages, to teach soldiers to read at the front.[1][2]",
+   "more": "Published in Valencia by the Ministry of Public Instruction for the Militias of Culture, it taught reading through whole slogans rather than isolated letters.[2] The first edition of 25,000 copies used photographs by José Val del Omar and José Calandín; the second, of 100,000, photographs by Walter Reuter.[1]",
+   "where": [
+    {
+     "label": "Instituto Cervantes: Cartilla escolar antifascista",
+     "url": "https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/el-instituto-cervantes-inaugura-una-muestra-sobre-la"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Instituto Cervantes, muestra «Cartilla escolar antifascista» (2022)",
+     "checks": "Diseño de Amster; Valencia, 1937; ediciones de 25.000 y 100.000; fotógrafos.",
+     "date": "2026-10-03",
+     "url": "https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/el-instituto-cervantes-inaugura-una-muestra-sobre-la"
+    },
+    {
+     "label": "Universidad de La Laguna, «Las Milicias de la Cultura»",
+     "checks": "Ministerio de Instrucción Pública; Milicias de la Cultura; método por frases.",
+     "date": "2026-10-03",
+     "url": "https://www.ull.es/eventos/la-educacion-en-la-ii-republica/las-milicias-de-la-cultura/"
+    }
+   ],
+   "es": {
+    "title": "Cartilla escolar antifascista",
+    "date": "1937",
+    "materials": "Libro impreso con fotografías y fotomontajes",
+    "key": "La cartilla de lectura de 1937 de la República española, diseñada por Mauricio Amster con fotografías y fotomontajes, para enseñar a leer a los soldados en el frente.[1][2]",
+    "more": "Publicada en Valencia por el Ministerio de Instrucción Pública para las Milicias de la Cultura, enseñaba a leer con frases completas y no con letras sueltas.[2] La primera edición, de 25.000 ejemplares, usó fotos de José Val del Omar y José Calandín; la segunda, de 100.000, fotos de Walter Reuter.[1]",
+    "short": "Cartilla antifascista"
+   }
+  },
+  {
+   "id": "plan-great-works-poster",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Plan of Great Works",
+   "short": "Great Works poster",
+   "designers": [
+    "gustav-klutsis"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1930,
+   "date": "1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Lithograph",
+   "tech": [],
+   "key": "Gustav Klutsis’s 1930 photomontage poster ‘Let’s Fulfil the Plan of Great Works’, for the first Five-Year Plan.[1][2]",
+   "more": "Klutsis held that photomontage was more comprehensible to the masses than drawing or painting.[2] From 1931 the state publisher Izogiz centralised poster production and raised print runs from 25,000–30,000 to 100,000–250,000 copies.[2]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/6487"
+    }
+   ],
+   "refs": [
+    {
+     "label": "MoMA, Gustav Klutsis, Let’s Fulfill the Plan of Great Works (1930)",
+     "checks": "Título y fecha (1930); litografía; colección de MoMA.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/6487"
+    },
+    {
+     "label": "Harvard, Russia Global, «Klutsis propaganda poster»",
+     "checks": "Opinión de Klutsis sobre el fotomontaje; centralización en Izogiz y tirajes.",
+     "date": "2026-10-03",
+     "url": "https://russiaglobal.omeka.fas.harvard.edu/exhibits/show/objects/politics/klutsis"
+    }
+   ],
+   "es": {
+    "title": "El plan de las grandes obras",
+    "date": "1930",
+    "materials": "Litografía",
+    "key": "El cartel de fotomontaje de Gustav Klutsis «Cumplamos el plan de las grandes obras» (1930), para el primer Plan Quinquenal.[1][2]",
+    "more": "Klutsis sostenía que el fotomontaje era más comprensible para las masas que el dibujo o la pintura.[2] Desde 1931 la editorial estatal Izogiz centralizó la producción de carteles y elevó los tirajes de 25.000–30.000 a 100.000–250.000 ejemplares.[2]",
+    "short": "Grandes obras"
+   }
+  },
+  {
+   "id": "rea-posters",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Rural Electrification posters",
+   "short": "REA posters",
+   "designers": [
+    "lester-beall"
+   ],
+   "maker": null,
+   "client": "Rural Electrification Administration",
+   "year": 1937,
+   "date": "1937–1941",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Lithograph",
+   "tech": [],
+   "key": "Lester Beall’s posters for the US Rural Electrification Administration, with one-word titles such as ‘Light’, ‘Running Water’ and ‘Radio’, aimed at farm families.[1]",
+   "more": "The REA, created in 1935 under the New Deal, brought electricity to the countryside, where about 10% of homes had it against 90% in the cities.[1] Beall made three series between 1937 and 1941; six posters were shown at MoMA in November 1937.[1][2]",
+   "where": [
+    {
+     "label": "MoMA: Lester Beall and the REA",
+     "url": "https://www.moma.org/explore/inside_out/2012/03/22/lester-beall-and-the-rural-electrification-administration/"
+    }
+   ],
+   "refs": [
+    {
+     "label": "MoMA, «Lester Beall and the Rural Electrification Administration» (2012)",
+     "checks": "Títulos de los carteles; REA de 1935; 10 % frente a 90 %; tres series; exposición de 1937; litografías de 40 × 30 pulgadas.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/explore/inside_out/2012/03/22/lester-beall-and-the-rural-electrification-administration/"
+    },
+    {
+     "label": "MoMA, comunicado de prensa del 15 nov 1937",
+     "checks": "Exposición de noviembre de 1937.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/413/releases/MOMA_1937_0053_1937-11-15_371115-38.pdf"
+    }
+   ],
+   "es": {
+    "title": "Carteles de la electrificación rural",
+    "date": "1937–1941",
+    "materials": "Litografía",
+    "key": "Los carteles de Lester Beall para la Administración de Electrificación Rural de Estados Unidos, con títulos de una palabra como «Luz», «Agua corriente» y «Radio», dirigidos a familias campesinas.[1]",
+    "more": "La REA, creada en 1935 dentro del New Deal, llevó la electricidad al campo, donde la tenía cerca del 10 % de las casas frente al 90 % en las ciudades.[1] Beall hizo tres series entre 1937 y 1941; seis carteles se expusieron en el MoMA en noviembre de 1937.[1][2]",
+    "short": "Carteles de la REA"
+   }
+  },
+  {
+   "id": "harpers-bazaar-brodovitch",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Harper’s Bazaar",
+   "short": "Harper’s Bazaar",
+   "designers": [
+    "alexey-brodovitch"
+   ],
+   "maker": null,
+   "client": "Harper’s Bazaar",
+   "year": 1934,
+   "date": "1934–1958",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed magazine",
+   "tech": [],
+   "key": "Alexey Brodovitch’s art direction of Harper’s Bazaar from 1934 to 1958, which made the fashion magazine a field of modern layout and photography.[1]",
+   "more": "A Russian émigré who had worked in Paris from 1920, he brought European modernism to an American mass magazine and trained photographers such as Irving Penn.[1] He was dismissed in 1958.[1]",
+   "where": [
+    {
+     "label": "Art Institute of Chicago: Irving Penn Archives",
+     "url": "https://archive.artic.edu/irvingpennarchives/1973"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Art Institute of Chicago, archivo Irving Penn, «Alexey Brodovitch»",
+     "checks": "Director de arte de 1934 a 1958 (despedido); París desde 1920; Penn. ⚠ «Modernismo europeo» es una síntesis, no una cita.",
+     "date": "2026-10-03",
+     "url": "https://archive.artic.edu/irvingpennarchives/1973"
+    }
+   ],
+   "es": {
+    "title": "Harper’s Bazaar",
+    "date": "1934–1958",
+    "materials": "Revista impresa",
+    "key": "La dirección de arte de Alexey Brodovitch en Harper’s Bazaar entre 1934 y 1958, que hizo de la revista de moda un campo de diagramación y fotografía modernas.[1]",
+    "more": "Emigrado ruso que había trabajado en París desde 1920, llevó el modernismo europeo a una revista masiva estadounidense y formó a fotógrafos como Irving Penn.[1] Fue despedido en 1958.[1]",
+    "short": "Harper’s Bazaar"
+   }
+  },
+  {
+   "id": "wpa-posters",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Federal Art Project posters",
+   "short": "WPA posters",
+   "designers": [],
+   "maker": "WPA Federal Art Project",
+   "client": null,
+   "year": 1936,
+   "date": "1936–1943",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Silkscreen",
+   "tech": [],
+   "key": "The posters of the New Deal’s Federal Art Project, which employed jobless artists to print public-information campaigns by silkscreen.[1]",
+   "more": "Its poster divisions worked in seventeen states and Washington, D.C., from 1936 to 1943, with New York the largest.[1] In 1936 Anthony Velonis adapted silkscreen to mass production; some 35,000 designs gave more than two million posters, of which about 2,000 survive.[1]",
+   "where": [
+    {
+     "label": "Library of Congress: WPA Posters",
+     "url": "https://www.loc.gov/static/collections/works-progress-administration-posters/about-this-collection/overview.html"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Library of Congress, «The Poster Divisions» (WPA)",
+     "checks": "Divisiones de carteles 1936–1943; 17 estados y el Distrito de Columbia; Velonis y la serigrafía; 35.000 diseños; más de 2 millones de carteles; unos 2.000 conservados.",
+     "date": "2026-10-03",
+     "url": "https://www.loc.gov/static/collections/works-progress-administration-posters/about-this-collection/overview.html"
+    }
+   ],
+   "es": {
+    "title": "Carteles del Federal Art Project",
+    "date": "1936–1943",
+    "materials": "Serigrafía",
+    "key": "Los carteles del Federal Art Project del New Deal, que empleó a artistas sin trabajo para imprimir campañas de información pública en serigrafía.[1]",
+    "more": "Sus divisiones de carteles trabajaron en diecisiete estados y en Washington D. C. entre 1936 y 1943; la de Nueva York fue la mayor.[1] En 1936 Anthony Velonis adaptó la serigrafía a la producción en serie; unos 35.000 diseños dieron más de dos millones de carteles, de los que se conservan unos 2.000.[1]",
+    "short": "Carteles WPA"
+   }
+  },
+  {
+   "id": "zang-tumb-tuuum-1914",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Zang Tumb Tuuum",
+   "designers": [
+    "filippo-marinetti"
+   ],
+   "maker": "Edizioni futuriste di Poesia",
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Letterpress on paper",
+   "tech": [],
+   "movements": [
+    "futurism-typography"
+   ],
+   "key": "Marinetti’s 1914 book of ‘words in freedom’, drawn from his experience as a war correspondent at the siege of Adrianople, with bold text at varying angles, sizes and alignments.[1][2]",
+   "more": "MoMA describes it as Marinetti’s first published collection of parole in libertà, a poetry both verbal and visual, created in 1912 and published in 1914.[1] It documents his own experience covering the siege of Adrianople in the Balkan War.[1] It was published in Milan by Edizioni Futuriste di Poesia, with typography by Cesare Cavanna.[1] Its title evokes the sounds of mechanised war, such as shelling and explosions.[1] In the National Gallery of Art copy, text in different sizes and orientations conveys movement, and onomatopoeia gives a sense of sound and energy.[2]",
+   "status": "Copies are kept in libraries and museums.",
+   "es": {
+    "title": "Zang Tumb Tuuum",
+    "date": "1914",
+    "materials": "Tipografía sobre papel",
+    "key": "El libro de «palabras en libertad» de Marinetti de 1914, nacido de su experiencia como corresponsal de guerra en el sitio de Adrianópolis, con texto en negrita de ángulos, tamaños y alineaciones variados.[1][2]",
+    "more": "El MoMA lo describe como la primera colección publicada de parole in libertà de Marinetti, una poesía a la vez verbal y visual, creada en 1912 y publicada en 1914.[1] Documenta su experiencia directa cubriendo el sitio de Adrianópolis en la guerra de los Balcanes.[1] Fue publicado en Milán por Edizioni Futuriste di Poesia, con tipografía de Cesare Cavanna.[1] Su título evoca los sonidos de la guerra mecanizada, como los cañonazos y las explosiones.[1] En el ejemplar de la National Gallery of Art, el texto de tamaños y orientaciones distintos transmite movimiento, y la onomatopeya da sensación de sonido y energía.[2]",
+    "status": "Se conservan ejemplares en bibliotecas y museos."
+   },
+   "refs": [
+    {
+     "label": "MoMA, «Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà»",
+     "url": "https://www.moma.org/collection/works/31450",
+     "checks": "Marinetti; Edizioni Futuriste di «Poesia», Milán; 1914; libro tipográfico con tipografía de Cesare Cavanna; primera colección publicada de parole in libertà; creada en 1912, publicada en 1914; corresponsal de guerra en el sitio de Adrianópolis en la guerra de los Balcanes; título evoca los sonidos de la guerra mecanizada. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "National Gallery of Art, «Zang Tumb Tuuum: Adrianopoli Ottobre 1912»",
+     "url": "https://www.nga.gov/artworks/143903-zang-tumb-tuuum-adrianopoli-ottobre-1912-parole-liberta",
+     "checks": "Volumen de 1914 de Edizioni Futuriste di «Poesia»; texto en negrita con ángulos, tamaños y alineaciones variados; onomatopeya que transmite movimiento y energía; sitio de 1912 de Adrianópolis y Marinetti corresponsal. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "klaxon-1922",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Klaxon",
+   "designers": [],
+   "maker": "Modernist group of São Paulo",
+   "year": 1922,
+   "date": "1922",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Printed paper",
+   "tech": [],
+   "key": "The São Paulo magazine of 1922–23 that spread Brazilian modernism after the Modern Art Week.",
+   "more": "Klaxon appeared in São Paulo in May 1922, a few months after the Modern Art Week, and ran for nine issues. Written by the modernist writers around Mário de Andrade, it served as the group’s voice, with a manifesto against academic and conventional literature. It carried the new ideas to a wider public in a magazine whose layout was itself modern.",
+   "status": "Surviving issues are kept in Brazilian libraries and archives; facsimile editions exist.",
+   "es": {
+    "title": "Klaxon",
+    "date": "1922",
+    "materials": "Papel impreso",
+    "key": "La revista paulista de 1922–23 que difundió el modernismo brasileño tras la Semana de Arte Moderna.",
+    "more": "Klaxon apareció en São Paulo en mayo de 1922, pocos meses después de la Semana de Arte Moderna, y duró nueve números. Escrita por los escritores modernistas reunidos en torno a Mário de Andrade, fue la voz del grupo, con un manifiesto contra la literatura académica y convencional. Llevó las nuevas ideas a un público más amplio en una revista cuya diagramación era también moderna.",
+    "status": "Se conservan números en bibliotecas y archivos brasileños; existen ediciones facsimilares."
+   },
+   "refs": []
+  },
+  {
+   "id": "pro-eto-1923",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Pro Eto (About This)",
+   "designers": [
+    "el-lissitzky"
+   ],
+   "maker": "Gosizdat",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU",
+    "DE"
+   ],
+   "materials": "Letterpress and photomechanical reproduction on paper",
+   "tech": [],
+   "key": "El Lissitzky’s book design for Vladimir Mayakovsky’s love poem, in which photomontage and typographic composition carry the story.",
+   "more": "Mayakovsky’s long poem ‘About This’ was published in 1923 with a cover and illustrations by Lissitzky built from photomontage, with photographs of the poet and of Lilya Brik, to whom it is dedicated. The pages mix photographic fragments, rules and type, so that image and text are composed together rather than separately. It is one of the best-known examples of the typophoto approach of the Russian avant-garde.",
+   "status": "Original copies survive in library and museum collections.",
+   "es": {
+    "title": "Pro Eto",
+    "materials": "Tipografía y reproducción fotomecánica sobre papel",
+    "key": "El diseño de El Lissitzky para el poema de amor de Vladimir Mayakovsky, en que el fotomontaje y la composición tipográfica llevan el relato.",
+    "more": "El largo poema «Acerca de esto» de Mayakovsky se publicó en 1923 con una portada e ilustraciones de Lissitzky hechas con fotomontaje, con fotografías del poeta y de Lilya Brik, a quien está dedicado. Las páginas mezclan fragmentos fotográficos, filetes y tipografía, de modo que imagen y texto se componen juntos y no por separado. Es uno de los ejemplos más conocidos del enfoque tipofotográfico de la vanguardia rusa.",
+    "status": "Se conservan ejemplares originales en bibliotecas y colecciones de museos.",
+    "date": "1923"
+   },
+   "refs": []
+  },
+  {
+   "id": "bauhaus-exhibition-poster-1923",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Bauhaus Exhibition poster",
+   "designers": [
+    "joost-schmidt"
+   ],
+   "maker": "Staatliches Bauhaus Weimar",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "Joost Schmidt’s poster for the Bauhaus exhibition in Weimar in 1923, a lithograph that reflects the school’s new typography.[1][2]",
+   "more": "MoMA’s copy is a lithograph of 66.7 by 47.3 cm printed by von Reineck & Klein, Weimar, a gift of Walter Gropius.[1] The exhibition ran from July to September 1923 and was the first public Bauhaus exhibition, at which Gropius gave the lecture ‘Art and Technology: A New Unity’.[3] It was both a showcase of the school’s teaching and achievements and a report to the local government that funded the school.[2] Schmidt (1893–1948), a sculpture student who later became a Bauhaus teacher and head of the printing and advertising workshop, shows in it the influence of his teacher Oskar Schlemmer.[2]",
+   "status": "Original prints survive in museum and archive collections.",
+   "es": {
+    "title": "Cartel de la exposición Bauhaus",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de Joost Schmidt para la exposición de la Bauhaus en Weimar en 1923, una litografía que refleja la nueva tipografía de la escuela.[1][2]",
+    "more": "El ejemplar del MoMA es una litografía de 66,7 por 47,3 cm impresa por von Reineck & Klein, Weimar, donación de Walter Gropius.[1] La exposición se realizó de julio a septiembre de 1923 y fue la primera exposición pública de la Bauhaus, en la que Gropius dio la conferencia «Arte y técnica: una nueva unidad».[3] Fue a la vez una vitrina de la enseñanza y los logros de la escuela y un informe al gobierno local que la financiaba.[2] Schmidt (1893–1948), estudiante de escultura que luego fue profesor de la Bauhaus y jefe del taller de impresión y publicidad, muestra en él la influencia de su maestro Oskar Schlemmer.[2]",
+    "status": "Se conservan impresos originales en colecciones de museos y archivos.",
+    "date": "1923",
+    "short": "Cartel Bauhaus 1923"
+   },
+   "refs": [
+    {
+     "label": "MoMA, «Joost Schmidt. Staatliches Bauhaus Ausstellung. 1923»",
+     "url": "https://www.moma.org/collection/works/6235",
+     "checks": "Litografía de Joost Schmidt, 1923; 66,7 × 47,3 cm; impresor von Reineck & Klein, Weimar; donación de Walter Gropius; anuncia la exposición Bauhaus de 1923. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "German History in Documents and Images, «Poster for Bauhaus Exhibition in Weimar (1923)»",
+     "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/poster-for-bauhaus-exhibition-in-weimar-1923",
+     "checks": "Joost Schmidt (1893–1948), estudiante de escultura, luego profesor y jefe del taller de impresión y publicidad; refleja la nueva tipografía de la Bauhaus; influencia de Schlemmer; exposición de julio a septiembre de 1923 que fue vitrina y a la vez informe al gobierno local que financiaba la escuela. ⚠ no describe formas ni colores del cartel; resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA Magazine, «Having a Wonderful Time at the Bauhaus Exhibition in Weimar, 1923»",
+     "url": "https://www.moma.org/explore/inside_out/2015/06/25/having-a-wonderful-time-at-the-bauhaus-exhibition-in-weimar-1923-3/",
+     "checks": "Exposición de julio a septiembre de 1923 en Weimar, la primera exposición pública de la Bauhaus; conferencia de Gropius «Arte y técnica: una nueva unidad». ⚠ resumen automático; no habla del cartel.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Bauhaus 1923 poster"
+  },
+  {
+   "id": "universal-alphabet-1925",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Universal alphabet",
+   "designers": [
+    "bayer"
+   ],
+   "client": "Bauhaus Dessau",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Drawings and printed specimens",
+   "tech": [],
+   "key": "Herbert Bayer’s lowercase-only alphabet of 1925, drawn from geometric shapes to be simple, uniform and machine-like.",
+   "more": "Bayer designed it at the Bauhaus in Dessau as a single alphabet without capital letters, with letters reduced to circles, arcs and straight strokes. It was a proposal for a rational, universal script rather than a typeface cast in metal at the time. It matched the Bauhaus habit of printing in lowercase.",
+   "status": "Known from Bayer’s drawings and printed specimens; digital revivals exist.",
+   "es": {
+    "title": "Alfabeto universal",
+    "materials": "Dibujos y muestras impresas",
+    "key": "El alfabeto solo en minúsculas de Herbert Bayer de 1925, dibujado con formas geométricas para ser simple, uniforme y de aspecto maquinal.",
+    "more": "Bayer lo diseñó en la Bauhaus de Dessau como un alfabeto único, sin mayúsculas, con letras reducidas a círculos, arcos y trazos rectos. Era una propuesta de escritura racional y universal más que una tipografía fundida en metal en esa época. Coincidía con la costumbre de la Bauhaus de imprimir en minúsculas.",
+    "status": "Se conoce por los dibujos de Bayer y por muestras impresas; existen reediciones digitales.",
+    "date": "1925"
+   },
+   "refs": []
+  },
+  {
+   "id": "intransigeant-poster-1925",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "L'Intransigeant poster",
+   "designers": [
+    "cassandre"
+   ],
+   "client": "L'Intransigeant",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "A. M. Cassandre’s poster of 1925 for the Paris newspaper L’Intransigeant, which joins image and lettering into one bold, quickly read design.",
+   "more": "Cassandre made it for the Paris evening newspaper in 1925, the year of the Paris decorative arts exhibition, and it helped to establish his name as a poster artist. The newspaper’s name is part of the image rather than a caption added below. Flat areas of colour and simplified forms let it be read at a glance from a moving street.",
+   "status": "Original prints survive in museum collections; the image is often reproduced.",
+   "es": {
+    "title": "Cartel de L'Intransigeant",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de A. M. Cassandre de 1925 para el diario parisino L’Intransigeant, que une imagen y letra en un diseño audaz de lectura rápida.",
+    "more": "Cassandre lo hizo para el vespertino parisino en 1925, año de la exposición de artes decorativas de París, y contribuyó a darle nombre como cartelista. El nombre del diario forma parte de la imagen y no es un pie añadido debajo. Las áreas planas de color y las formas simplificadas permiten leerlo de un vistazo desde la calle en movimiento.",
+    "status": "Se conservan impresos originales en colecciones de museos; la imagen se reproduce con frecuencia.",
+    "date": "1925",
+    "short": "Cartel Intransigeant"
+   },
+   "refs": [],
+   "short": "L’Intransigeant poster"
+  },
+  {
+   "id": "elementare-typographie-1925",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Elementare Typographie",
+   "designers": [
+    "tschichold"
+   ],
+   "movements": [
+    "new-typography"
+   ],
+   "maker": "Bildungsverband der Deutschen Buchdrucker",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Letterpress on paper",
+   "tech": [],
+   "key": "The October 1925 special issue of Typographische Mitteilungen, edited by Jan Tschichold, which presented the new typography to German printers.",
+   "more": "Tschichold edited and designed this special issue of the printers’ journal Typographische Mitteilungen in Leipzig, with contributions by Moholy-Nagy, Lissitzky, Bayer and others. It set out asymmetric layout, sans-serif type and standard paper formats as a practical programme for printers. Its ideas were developed in his book Die neue Typographie of 1928.",
+   "status": "Copies survive in libraries and museum collections.",
+   "es": {
+    "title": "Elementare Typographie",
+    "materials": "Tipografía sobre papel",
+    "key": "El número especial de octubre de 1925 de Typographische Mitteilungen, editado por Jan Tschichold, que presentó la nueva tipografía a los impresores alemanes.",
+    "more": "Tschichold editó y diseñó este número especial de la revista de los impresores Typographische Mitteilungen, en Leipzig, con aportes de Moholy-Nagy, Lissitzky, Bayer y otros. Planteó la composición asimétrica, la letra sin serifa y los formatos de papel normalizados como un programa práctico para impresores. Sus ideas se desarrollaron en su libro Die neue Typographie de 1928.",
+    "status": "Se conservan ejemplares en bibliotecas y colecciones de museos.",
+    "date": "1925"
+   },
+   "refs": []
+  },
+  {
+   "id": "man-with-movie-camera-poster-1929",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Man with a Movie Camera poster",
+   "designers": [
+    "stenberg-brothers"
+   ],
+   "client": "VUFKU",
+   "year": 1929,
+   "date": "1929",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "The Stenberg brothers’ constructivist poster for Dziga Vertov’s film of 1929, with a large-scale, distorted image in place of a film still.",
+   "more": "Georgii and Vladimir Stenberg designed many Soviet film posters in the 1920s, using photomontage-like composition, unusual scale and distorted perspective. This one advertises Vertov’s experimental film Man with a Movie Camera, released in 1929. It shows how constructivist ideas reached the street through the cinema poster.",
+   "status": "Original prints survive in museum collections; the image is widely reproduced.",
+   "es": {
+    "title": "Cartel de El hombre de la cámara",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel constructivista de los hermanos Stenberg para la película de Dziga Vertov de 1929, con una imagen de gran escala y deformada en lugar de un fotograma.",
+    "more": "Georgii y Vladimir Stenberg diseñaron muchos carteles de cine soviéticos en los años veinte, con una composición cercana al fotomontaje, escalas inusuales y perspectiva deformada. Este anuncia la película experimental de Vertov El hombre de la cámara, estrenada en 1929. Muestra cómo las ideas constructivistas llegaron a la calle por medio del cartel de cine.",
+    "status": "Se conservan impresos originales en colecciones de museos; la imagen se reproduce mucho.",
+    "date": "1929",
+    "short": "Cartel Hombre-cámara"
+   },
+   "refs": [],
+   "short": "Movie Camera poster"
+  },
+  {
+   "id": "we-can-do-it-1943",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "We Can Do It!",
+   "designers": [],
+   "maker": "J. Howard Miller",
+   "client": "Westinghouse Electric",
+   "year": 1943,
+   "date": "1943",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset lithograph on paper",
+   "tech": [],
+   "key": "J. Howard Miller’s 1943 wartime poster of a woman worker flexing her arm, made to lift morale in Westinghouse factories.",
+   "more": "Miller made it for Westinghouse Electric’s war production committee in 1943 as an internal morale poster, displayed in the company’s plants for a short time. It was not a public recruiting poster and was little known during the war. Decades later the image was rediscovered and linked to ‘Rosie the Riveter’, becoming a symbol of women’s work in wartime industry.",
+   "status": "Original prints survive in collections; the image is endlessly reproduced.",
+   "es": {
+    "title": "¡Podemos hacerlo!",
+    "materials": "Litografía offset sobre papel",
+    "key": "El cartel de guerra de J. Howard Miller de 1943, con una obrera que muestra el brazo, hecho para levantar la moral en las fábricas de Westinghouse.",
+    "more": "Miller lo hizo en 1943 para el comité de producción de guerra de Westinghouse Electric como cartel interno de moral, exhibido por poco tiempo en las plantas de la empresa. No era un cartel público de reclutamiento y fue poco conocido durante la guerra. Décadas después la imagen se redescubrió y se asoció a «Rosie la remachadora», hasta convertirse en símbolo del trabajo de las mujeres en la industria de guerra.",
+    "status": "Se conservan impresos originales en colecciones; la imagen se reproduce sin fin.",
+    "date": "1943"
+   },
+   "refs": []
+  },
+  {
+   "id": "dlia-golosa-1923",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "For the Voice (Dlia golosa)",
+   "designers": [
+    "el-lissitzky"
+   ],
+   "maker": "State Publishing House, Berlin",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU",
+    "DE"
+   ],
+   "materials": "Letterpress printing from typographic type and rules",
+   "tech": [],
+   "movements": [
+    "constructivism"
+   ],
+   "key": "El Lissitzky’s typographic design for a book of Vladimir Mayakovsky’s poems, built from type and rules and made to be read aloud.",
+   "more": "Lissitzky designed it in Berlin in 1923 for the Russian state publisher, and it was printed there. He composed the pages from letters, rules and other ordinary pieces of the printer’s case, so that type became image. A thumb index of tabs lets the reader find each poem quickly, since the poems were meant to be read aloud.",
+   "status": "Copies survive in libraries and museums; it has been reprinted in facsimile.",
+   "es": {
+    "title": "Para la voz (Dlia golosa)",
+    "date": "1923",
+    "materials": "Impresión tipográfica con tipos y filetes",
+    "key": "El diseño tipográfico de El Lissitzky para un libro de poemas de Vladimir Maiakovski, construido con tipos y filetes y pensado para leerse en voz alta.",
+    "more": "Lissitzky lo diseñó en Berlín en 1923 para la editorial estatal rusa, y se imprimió allí. Compuso las páginas con letras, filetes y otras piezas corrientes de la caja tipográfica, de modo que la tipografía se volvió imagen. Un índice de pestañas permite encontrar rápido cada poema, porque los poemas estaban pensados para leerse en voz alta.",
+    "status": "Se conservan ejemplares en bibliotecas y museos; se ha reeditado en facsímil.",
+    "short": "Dlia golosa"
+   },
+   "refs": [],
+   "short": "Dlia golosa"
+  },
+  {
+   "id": "merz-magazine-1923",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "magazine",
+   "title": "Merz",
+   "designers": [
+    "kurt-schwitters"
+   ],
+   "maker": null,
+   "year": 1923,
+   "date": "1923–1932",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Letterpress printing on paper",
+   "tech": [],
+   "movements": [
+    "dada"
+   ],
+   "key": "Kurt Schwitters’s magazine from Hanover, published from 1923 to 1932, with numbering up to 24, though three numbers never appeared, and aligned at first with Dada.[1][3]",
+   "more": "The first issue centred on ‘Holland Dada’ with contributions from Hans Arp, Theo van Doesburg and Francis Picabia.[1] MoMA calls the magazine the decisive site of Schwitters’s collaborations with the international avant-garde and a kind of manifesto for his movement.[3] Merz 8/9 of April–July 1924, titled Nasci, was co-edited by Schwitters and El Lissitzky and shows typographic innovation influenced by Constructivism and De Stijl.[1] Later issues included children’s books and a phonetic sonata.[1] Merz 3 of 1923 was a portfolio of lithographs and collage prints published by Schwitters’s own press, Merzverlag, in Hanover;[2] MoMA counts twenty-two issues in all.[2]",
+   "status": "Issues are held in libraries and museums.",
+   "es": {
+    "title": "Merz",
+    "date": "1923–1932",
+    "materials": "Impresión tipográfica sobre papel",
+    "key": "La revista de Kurt Schwitters desde Hannover, publicada de 1923 a 1932, con numeración hasta el 24, aunque tres números nunca salieron, y alineada al comienzo con el dadá.[1][3]",
+    "more": "El primer número se centró en «Holland Dada», con contribuciones de Hans Arp, Theo van Doesburg y Francis Picabia.[1] El MoMA la llama el lugar decisivo de las colaboraciones de Schwitters con la vanguardia internacional y una especie de manifiesto de su movimiento.[3] Merz 8/9, de abril a julio de 1924, titulado Nasci, fue coeditado por Schwitters y El Lissitzky y muestra innovación tipográfica influida por el constructivismo y De Stijl.[1] Números posteriores incluyeron libros infantiles y una sonata fonética.[1] Merz 3, de 1923, fue una carpeta de litografías y estampas con collage publicada por la propia editorial de Schwitters, Merzverlag, en Hannover;[2] el MoMA cuenta veintidós números en total.[2]",
+    "status": "Se conservan números en bibliotecas y museos."
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Merz» (periódico de Kurt Schwitters)",
+     "url": "https://collections.vam.ac.uk/item/O1543844/merz-periodical-kurt-schwitters/",
+     "checks": "Hannover, 1923–1932; 24 números numerados, pero los 10, 22 y 23 anunciados y no producidos; primer número «Holland Dada» con Arp, van Doesburg y Picabia; Merz 8/9 «Nasci» (abril–julio de 1924) coeditado con El Lissitzky, con influencia constructivista y de De Stijl; libros infantiles y sonata fonética. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «Kurt Schwitters. Plate 2 from Merz 3. 1923»",
+     "url": "https://www.moma.org/collection/works/91117",
+     "checks": "Merz 3 (1923): carpeta de litografías y estampas tipográficas con collage, publicada por Merzverlag en Hannover; entre 1923 y 1932 Schwitters publicó veintidós números esporádicos (cifra distinta a la del V&A). ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «The Electro-Library: European Avant-Garde Magazines from the 1920s»",
+     "url": "https://www.moma.org/slideshows/43/799",
+     "checks": "Merz publicada en Hannover desde 1923; «lugar decisivo» de sus colaboraciones con la vanguardia internacional y «una especie de manifiesto» de su movimiento; primeros números de estética dadá. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "matter-swiss-posters-1935",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Swiss tourism posters",
+   "designers": [
+    "herbert-matter"
+   ],
+   "maker": "Swiss National Tourist Office",
+   "year": 1935,
+   "date": "1934–1936",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Photolithograph on paper",
+   "tech": [],
+   "movements": [
+    "new-vision"
+   ],
+   "key": "Herbert Matter’s photomontage posters for Swiss tourism, which used close-up photographs and dramatic scale to sell mountains and winter sport.",
+   "more": "Matter made the series in the mid-1930s for the Swiss National Tourist Office, combining photographs with bold changes of scale and cropping. The posters replaced the painted landscape with the photographic image as the main selling tool. They link the New Vision photography of the 1920s with the Swiss graphic design that followed.",
+   "status": "Prints are held in museum collections.",
+   "es": {
+    "title": "Carteles turísticos suizos",
+    "date": "1934–1936",
+    "materials": "Fotolitografía sobre papel",
+    "key": "Los carteles de fotomontaje de Herbert Matter para el turismo suizo, que usaron fotografías en primer plano y una escala dramática para vender montañas y deportes de invierno.",
+    "more": "Matter hizo la serie a mediados de los años treinta para la Oficina Nacional Suiza de Turismo, combinando fotografías con cambios audaces de escala y encuadre. Los carteles reemplazaron el paisaje pintado por la imagen fotográfica como principal herramienta de venta. Unen la fotografía de la Nueva Visión de los años veinte con el diseño gráfico suizo que vino después.",
+    "status": "Se conservan ejemplares en colecciones de museos.",
+    "short": "Carteles de Suiza"
+   },
+   "refs": [],
+   "short": "Swiss tourism posters"
+  },
+  {
+   "id": "lustig-new-directions-1941",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Book jackets for New Directions",
+   "designers": [
+    "alvin-lustig"
+   ],
+   "maker": "New Directions",
+   "year": 1941,
+   "date": "c. 1941–1955",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset lithography on paper",
+   "tech": [],
+   "movements": [
+    "new-york-school-graphic"
+   ],
+   "key": "Alvin Lustig’s abstract jackets for the modern literature published by New Directions, a model of American book design.",
+   "more": "Starting in 1941, Lustig designed jackets and books for the publisher New Directions, which printed experimental and modern writers. Instead of illustrating the story, he built each cover from abstract forms and simple type, in a way close to modern painting. The series showed American publishers that a book cover could be modern design.",
+   "status": "Original jackets are held in libraries and museums.",
+   "es": {
+    "title": "Sobrecubiertas para New Directions",
+    "date": "c. 1941–1955",
+    "materials": "Offset sobre papel",
+    "key": "Las sobrecubiertas abstractas de Alvin Lustig para la literatura moderna que publicaba New Directions, un modelo del diseño editorial estadounidense.",
+    "more": "Desde 1941, Lustig diseñó sobrecubiertas y libros para la editorial New Directions, que publicaba autores modernos y experimentales. En vez de ilustrar el relato, construyó cada portada con formas abstractas y tipografía sencilla, de un modo cercano a la pintura moderna. La serie mostró a los editores estadounidenses que una portada podía ser diseño moderno.",
+    "status": "Se conservan sobrecubiertas originales en bibliotecas y museos.",
+    "short": "Sobrecubiertas ND"
+   },
+   "refs": [],
+   "short": "New Directions jackets"
+  }
+ ]
+}

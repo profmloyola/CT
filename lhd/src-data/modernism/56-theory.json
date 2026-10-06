@@ -1,0 +1,1503 @@
+{
+ "theories": [
+  {
+   "id": "th-de-stijl-manifesto",
+   "level": "normal",
+   "year": 1918,
+   "date": "1918",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "genre": "manifesto",
+   "author": "Theo van Doesburg and others",
+   "name": "De Stijl Manifesto I",
+   "short": "Van Doesburg",
+   "key": "The founding manifesto of De Stijl, published in November 1918 at the close of the First World War[3] and signed by three painters, two architects, a poet and a sculptor;[3] it was printed in four languages.[1]",
+   "ideas": [
+    "There is an old consciousness of time, tied to the individual, and a new one, tied to the universal.[2]",
+    "The war is destroying the old world and its contents: individual domination in every state.[2]",
+    "The new art has brought forward what the new consciousness contains: a balance between the universal and the individual.[2]",
+    "Traditions, dogmas and the domination of the individual oppose this, and the founders call on all who believe in reforming art and culture to remove these obstacles.[2]",
+    "Artists everywhere are invited to cooperate with the monthly magazine: by joining, by sending articles or reproductions, or by translating.[2]"
+   ],
+   "impact": "Published in De Stijl, second year, no. 1, in November 1918, with Dutch, French, English and German versions,[1] it was launched to promote the group’s activity beyond the Dutch borders and to gather artists and sympathisers.[3] The signatories were Van Doesburg, Robert van ’t Hoff, Vilmos Huszár, Antony Kok, Piet Mondrian, Georges Vantongerloo and Jan Wils;[2] Rietveld, who did not sign, joined the group later.[3]",
+   "links": {
+    "movements": [
+     "de-stijl"
+    ],
+    "institutions": [],
+    "designers": [
+     "van-doesburg",
+     "rietveld"
+    ],
+    "works": [
+     "de-stijl-magazine"
+    ]
+   },
+   "sources": [
+    {
+     "label": "Manifesto I · De Stijl, vol. 2, 1918 · DBNL, Dutch text",
+     "es": "Manifiesto I · De Stijl, año 2, 1918 · DBNL, texto en neerlandés",
+     "url": "https://www.dbnl.org/tekst/_sti001stij02_01/_sti001stij02_01_0079.php"
+    },
+    {
+     "label": "Manifesto I · English version printed in the same issue · DBNL",
+     "es": "Manifiesto I · versión inglesa publicada en el mismo número · DBNL",
+     "url": "https://www.dbnl.org/tekst/_sti001stij02_01/_sti001stij02_01_0081.php"
+    }
+   ],
+   "wiki": "De_Stijl",
+   "es": {
+    "author": "Theo van Doesburg y otros",
+    "name": "Manifiesto I de De Stijl",
+    "short": "Van Doesburg",
+    "date": "1918",
+    "key": "El manifiesto fundacional de De Stijl, publicado en noviembre de 1918, al cierre de la Primera Guerra Mundial,[3] y firmado por tres pintores, dos arquitectos, un poeta y un escultor;[3] se imprimió en cuatro idiomas.[1]",
+    "ideas": [
+     "Hay una conciencia del tiempo vieja, ligada a lo individual, y una nueva, ligada a lo universal.[2]",
+     "La guerra está destruyendo el viejo mundo y su contenido: el dominio del individuo en cada Estado.[2]",
+     "El arte nuevo ha puesto a la vista lo que contiene la conciencia nueva: un equilibrio entre lo universal y lo individual.[2]",
+     "Las tradiciones, los dogmas y el dominio del individuo se oponen a ello, y los fundadores llaman a todos los que creen en reformar el arte y la cultura a eliminar esos obstáculos.[2]",
+     "Se invita a los artistas de todas partes a cooperar con la revista mensual: adhiriendo, enviando artículos o reproducciones, o traduciendo.[2]"
+    ],
+    "impact": "Publicado en De Stijl, año 2, n.º 1, en noviembre de 1918, con versiones en neerlandés, francés, inglés y alemán,[1] se lanzó para promover la actividad del grupo más allá de las fronteras neerlandesas y reunir a artistas y simpatizantes.[3] Lo firmaron Van Doesburg, Robert van ’t Hoff, Vilmos Huszár, Antony Kok, Piet Mondrian, Georges Vantongerloo y Jan Wils;[2] Rietveld, que no firmó, se sumó al grupo después.[3]"
+   },
+   "refs": [
+    {
+     "label": "DBNL, De Stijl 1 1917–1920, índice del año 2 (n.º 1, noviembre de 1918)",
+     "url": "https://www.dbnl.org/tekst/_sti001stij02_01/",
+     "checks": "El año 2 de la revista, n.º 1, es de noviembre de 1918; el manifiesto figura en cuatro versiones: neerlandés («Manifest I van ‘De Stijl’, 1918»), francés, inglés («Manifest I of ‘The Style’, 1918») y alemán («Manifest I von ‘Der Stil’, 1918»).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "DBNL, De Stijl, Manifest I of ‘The Style’, 1918 (versión inglesa del mismo número)",
+     "url": "https://www.dbnl.org/tekst/_sti001stij02_01/_sti001stij02_01_0081.php",
+     "checks": "Texto del manifiesto: conciencia vieja (individual) y nueva (universal); la guerra destruye el viejo mundo; el arte nuevo trae un equilibrio entre lo universal y lo individual; tradiciones, dogmas y dominio del individuo se oponen; llamado a eliminar esos obstáculos; cooperación enviando datos, artículos o reproducciones, o traduciendo; los siete firmantes (Van Doesburg, Van ’t Hoff, Huszár, Kok, Mondrian, Vantongerloo, Wils).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "H. L. C. Jaffé, De Stijl 1917–1931: The Dutch Contribution to Modern Art (DBNL, PDF)",
+     "url": "https://www.dbnl.org/tekst/jaff001stij01_01/jaff001stij01_01.pdf",
+     "checks": "Manifiesto publicado en noviembre de 1918, al cierre de la Primera Guerra Mundial; firmado por los pintores Van Doesburg, Mondrian y Huszár, los arquitectos Van ’t Hoff y Wils, el poeta Kok y el escultor Vantongerloo; lanzado para promover la actividad de De Stijl más allá de las fronteras neerlandesas y reunir artistas y simpatizantes. ⚠ Leída mediante resumen automático; la fecha de ingreso de Rietveld (1919) no se comprobó en otra fuente (el catálogo de MoMA de 1952 lo sitúa en 1918).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-gropius-bauhaus-programme",
+   "level": "essential",
+   "year": 1919,
+   "date": "1919",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "pedagogy",
+   "author": "Walter Gropius",
+   "name": "Bauhaus programme",
+   "short": "Gropius",
+   "key": "The founding manifesto and programme of the Bauhaus, April 1919: it names building as the final aim of all the arts and calls artists back to craft.[1][2]",
+   "ideas": [
+    "Building is the ultimate aim of all the visual arts.[1][2]",
+    "The artist is an exalted craftsman;[1][2] training starts in workshops, not in the academic studio.",
+    "There should be no class barrier between artist and craftsman.[2]",
+    "Teaching follows the guild model of master, journeyman and apprentice.[2]"
+   ],
+   "impact": "The four-page leaflet,[1] with Lyonel Feininger’s woodcut of a cathedral on the cover,[1][2] set out the school’s early teaching. The Bauhaus had no architecture department until 1927, and by 1923 Gropius had shifted the slogan toward ‘art and technology, a new unity’.",
+   "links": {
+    "movements": [
+     "bauhaus-movement"
+    ],
+    "institutions": [
+     "inst-bauhaus"
+    ],
+    "designers": [
+     "gropius"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "Programme of the Staatliches Bauhaus · German History in Documents and Images",
+     "es": "Programa de la Bauhaus estatal · German History in Documents and Images",
+     "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/cathedral-title-page-by-lyonel-feininger-for-walter-gropius-bauhaus-manifesto-and-program-april-1-1919"
+    },
+    {
+     "label": "Programm des Staatlichen Bauhauses · Thuringian State Archive, Weimar: record page",
+     "es": "Programm des Staatlichen Bauhauses · Archivo Estatal de Turingia, Weimar: ficha del documento",
+     "url": "https://staatsarchive.thulb.uni-jena.de/receive/ThHStAW_file_00000230"
+    }
+   ],
+   "wiki": "Bauhaus",
+   "es": {
+    "author": "Walter Gropius",
+    "name": "Programa de la Bauhaus",
+    "short": "Gropius",
+    "date": "1919",
+    "key": "El manifiesto y programa fundacional de la Bauhaus, de abril de 1919: nombra la construcción como el fin último de todas las artes y llama a los artistas a volver al oficio.[1][2]",
+    "ideas": [
+     "La construcción es el fin último de todas las artes visuales.[1][2]",
+     "El artista es un artesano elevado;[1][2] la formación comienza en talleres, no en el taller académico.",
+     "No debe haber barrera de clase entre artista y artesano.[2]",
+     "La enseñanza sigue el modelo gremial de maestro, oficial y aprendiz.[2]"
+    ],
+    "impact": "El folleto de cuatro páginas,[1] con el grabado de una catedral de Lyonel Feininger en la portada,[1][2] fijó la enseñanza inicial de la escuela. La Bauhaus no tuvo departamento de arquitectura hasta 1927, y hacia 1923 Gropius había desplazado el lema hacia «arte y técnica, una nueva unidad»."
+   },
+   "refs": [
+    {
+     "label": "German History in Documents and Images (GHDI), Gropius/Feininger, Bauhaus Manifesto and Program, 1 April 1919",
+     "url": "https://ghdi.ghi-dc.org/sub_image.cfm?image_id=4314",
+     "checks": "Fecha (1 de abril de 1919, Weimar); folleto de cuatro páginas; xilografía de una catedral de Lyonel Feininger en la portada; frases «el fin último de todas las artes visuales es el edificio completo» y «el artista es un artesano elevado». ⚠ Página leída mediante resumen automático: las citas textuales se deben recomprobar contra el texto completo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "bauhaus imaginista, «The Bauhaus Manifesto (re-cap)»",
+     "url": "https://www.bauhaus-imaginista.org/articles/1771/bauhaus-manifesto-re-cap/",
+     "checks": "Publicado en abril de 1919; la catedral de Feininger remite al taller gótico y a una asociación de trabajo igualitaria; «el fin último de todo arte es la construcción»; «arquitectos, escultores, pintores, todos debemos volver a los oficios»; formación jerárquica de aprendiz, oficial y maestro joven; «igualdad absoluta» entre quienes trabajan, «todos son artesanos». ⚠ Leída mediante resumen automático; ⚠ la frase exacta sobre la «barrera de clase» entre artista y artesano no se vio textual. No dice nada sobre el departamento de arquitectura de 1927 ni sobre el lema de 1923.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-productivist-programme",
+   "level": "normal",
+   "year": 1922,
+   "date": "1922",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "genre": "manifesto",
+   "author": "Alexander Rodchenko and Varvara Stepanova, for the First Working Group of Constructivists",
+   "name": "Constructivist programme",
+   "short": "Rodchenko · Stepanova",
+   "key": "The programme of the First Working Group of Constructivists, formed in Moscow in 1921,[2] printed in 1922 under the names of Rodchenko and Stepanova.[1]",
+   "ideas": [
+    "The group declares ‘uncompromising war on art’ and rejects the artistic culture of the past.[1]",
+    "Its only ideology is scientific communism, based on the theory of historical materialism.[1]",
+    "Work rests on three disciplines: tectonics, faktura (the material consciously worked and expediently used) and construction, which the Constructivists set against composition.[1][2]",
+    "‘Material’ is understood broadly, to include time, space, volume, plane, colour, line and light.[1]",
+    "Experimental activity ‘removed from life’ must give way to practical work in production, such as publications and exhibitions with Soviet production centres.[1][2]"
+   ],
+   "impact": "The group announced itself in March 1921 as the Working Group of Constructivists, with Karl Ioganson, Rodchenko, Stepanova, Aleksei Gan, Konstantin Medunetsky and the brothers Georgii and Vladimir Stenberg, and worked within the INKhUK institute, founded in 1920.[2] Afterwards Rodchenko made propaganda posters, book covers and state advertising,[3] and gave up easel painting for photography, posters and typographic design;[5] Stepanova worked in graphics, textiles and clothing, with workers’ clothing mass-produced at the First State Textile Printing Factory in 1923–24,[3] after the official call of 1923 for textile designers.[4] The text is dated 1922 in the English reprint consulted.[1]",
+   "links": {
+    "movements": [
+     "constructivism"
+    ],
+    "institutions": [
+     "inst-vkhutemas"
+    ],
+    "designers": [
+     "rodchenko",
+     "stepanova"
+    ],
+    "works": [
+     "books-poster"
+    ]
+   },
+   "sources": [
+    {
+     "label": "About the text · First Working Group of Constructivists · Wikipedia",
+     "es": "Sobre el texto · Primer Grupo de Trabajo de Constructivistas · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_Working_Group_of_Constructivists"
+    }
+   ],
+   "wiki": "First_Working_Group_of_Constructivists",
+   "es": {
+    "author": "Aleksandr Ródchenko y Varvara Stepánova, para el Primer Grupo de Trabajo de Constructivistas",
+    "name": "Programa constructivista",
+    "short": "Ródchenko · Stepánova",
+    "date": "1922",
+    "key": "El programa del Primer Grupo de Trabajo de Constructivistas, formado en Moscú en 1921,[2] impreso en 1922 con los nombres de Ródchenko y Stepánova.[1]",
+    "ideas": [
+     "El grupo declara «guerra sin cuartel al arte» y rechaza la cultura artística del pasado.[1]",
+     "Su única ideología es el comunismo científico, basado en la teoría del materialismo histórico.[1]",
+     "El trabajo se apoya en tres disciplinas: tectónica, factura (el material trabajado con conciencia y empleado con propósito) y construcción, que los constructivistas oponen a la composición.[1][2]",
+     "El «material» se entiende en sentido amplio: incluye tiempo, espacio, volumen, plano, color, línea y luz.[1]",
+     "La actividad experimental «alejada de la vida» debe dar paso al trabajo práctico en la producción, como publicaciones y exposiciones con centros de producción soviéticos.[1][2]"
+    ],
+    "impact": "El grupo se anunció en marzo de 1921 como Grupo de Trabajo de Constructivistas, con Karl Ioganson, Ródchenko, Stepánova, Alekséi Gan, Konstantín Medunetski y los hermanos Gueorgui y Vladímir Stenberg, y trabajó dentro del instituto INKhUK, fundado en 1920.[2] Después Ródchenko hizo carteles de propaganda, cubiertas de libros y publicidad estatal,[3] y dejó la pintura de caballete por la fotografía, el cartel y el diseño tipográfico;[5] Stepánova trabajó en gráfica, textiles y ropa, con ropa de trabajo producida en serie por la Primera Fábrica Estatal de Estampado Textil en 1923–24,[3] tras el llamado oficial de 1923 a diseñar telas.[4] El texto aparece fechado en 1922 en la reimpresión inglesa consultada.[1]"
+   },
+   "refs": [
+    {
+     "label": "«Program of the First Working Group of Constructivists» (traducción inglesa, 1922), lectura de curso, Maria Buszek, Kansas City Art Institute",
+     "url": "https://mariabuszek.com/mariabuszek/kcai/Design%20History/Design_readings/ConstrManifesto.pdf",
+     "checks": "Texto del programa, fechado 1922 y atribuido a Ródchenko y Stepánova: «única ideología: el comunismo científico basado en la teoría del materialismo histórico»; rechazo de la «actividad experimental alejada de la vida»; tectónica, factura y construcción; el «material» incluye tiempo, espacio, volumen, plano, color, línea y luz; tareas ideológica, práctica (publicar y organizar exposiciones con centros de producción soviéticos) y agitadora («guerra sin cuartel al arte»). ⚠ Sitio de un curso; no indica la edición de la que toma la traducción, y el resumen automático no mostró el texto completo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Maria Gough, introducción «Made in Moscow» (University of California Press, PDF)",
+     "url": "https://content.ucpress.edu/title/9780520226180/9780520226180_gough_intro.pdf",
+     "checks": "En marzo de 1921 Ioganson, Ródchenko, Stepánova, Gan, Medunetski y los hermanos Georgii y Vladimir Stenberg se anuncian como Grupo de Trabajo de Constructivistas; el INKhUK se fundó en 1920; los constructivistas querían erradicar la composición; hacia fines de 1921 exigen trabajo práctico en la producción. ⚠ Título y autora del libro deducidos de la URL; lectura por resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Constructivism»",
+     "url": "https://www.rem.routledge.com/articles/overview/constructivism",
+     "checks": "Ródchenko hizo carteles de propaganda, cubiertas de libros y publicidad estatal; Stepánova desarrolló un estilo para gráfica, textiles y ropa, con ropa de trabajo producida en serie por la Primera Fábrica Estatal de Estampado Textil en 1923–1924. ⚠ Esta fuente da otra lista de miembros del grupo (Gan, Popova, Ródchenko, Stepánova, Vesnin); se sigue la de Gough.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Victoria and Albert Museum, Printed Flannel, Varvara Stepanova (C. 1924)",
+     "url": "https://collections.vam.ac.uk/item/O1371413/printed-flannel-varvara-stepanova/",
+     "checks": "En 1921 el constructivismo había renunciado formalmente a la pintura de uso solo decorativo; Stepánova respondió en 1923 al llamado oficial a diseñar telas; enseñó con Ródchenko y Popova en el VKhUTEMAS; diseño de franela de 1924.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica (Kids), Alexander Rodchenko",
+     "url": "https://kids.britannica.com/students/article/Alexander-Rodchenko/313261",
+     "checks": "Ródchenko renunció a la pintura de caballete en los años veinte y pasó a la fotografía, el cartel, el libro y la tipografía, el mobiliario y la escenografía; encabezó la facción productivista.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-vers-une-architecture",
+   "level": "essential",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "genre": "architecture",
+   "author": "Le Corbusier",
+   "name": "Towards an Architecture",
+   "short": "Le Corbusier",
+   "key": "Le Corbusier’s polemical book of 1923, which held up ships, aeroplanes and cars as models for a new architecture.[1]",
+   "ideas": [
+    "The engineer’s aesthetic is in full bloom while architecture declines; the engineer, inspired by the law of economy and guided by calculation, works in accord with the laws of the universe.[1]",
+    "Architecture works with three elements, volume, surface and plan, ordered by regulating lines.[1]",
+    "The house should be mass-produced: ‘a machine for living in’.[1]",
+    "Ships, aeroplanes and cars show what industry achieves by selection and standards; the aeroplane is ‘a product of high selection’.[1]",
+    "The choice is ‘architecture or revolution’.[1]"
+   ],
+   "impact": "Gathered from the articles Le Corbusier signed in L’Esprit Nouveau, the review he founded with Amédée Ozenfant and Paul Dermée,[2][4] it was published by Crès in Paris in 1923, in the collection ‘L’Esprit Nouveau’,[1] and appeared in English in 1927.[3] It met with ‘dazzling success’.[2]",
+   "links": {
+    "movements": [
+     "international-style"
+    ],
+    "institutions": [],
+    "designers": [
+     "le-corbusier"
+    ],
+    "works": [
+     "esprit-nouveau-pavilion",
+     "villa-savoye"
+    ]
+   },
+   "sources": [
+    {
+     "label": "About the text · Toward an Architecture · Wikipedia",
+     "es": "Sobre el texto · Hacia una arquitectura · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Toward_an_Architecture"
+    }
+   ],
+   "wiki": "Toward_an_Architecture",
+   "es": {
+    "author": "Le Corbusier",
+    "name": "Hacia una arquitectura",
+    "short": "Le Corbusier",
+    "date": "1923",
+    "key": "El libro polémico de Le Corbusier de 1923, que propuso barcos, aviones y autos como modelos de una nueva arquitectura.[1]",
+    "ideas": [
+     "La estética del ingeniero está en pleno florecimiento mientras la arquitectura retrocede; el ingeniero, inspirado por la ley de economía y guiado por el cálculo, actúa de acuerdo con las leyes del universo.[1]",
+     "La arquitectura trabaja con tres elementos, volumen, superficie y planta, ordenados por trazados reguladores.[1]",
+     "La casa debe producirse en serie: «una máquina para habitar».[1]",
+     "Barcos, aviones y autos muestran lo que logra la industria con selección y estándares; el avión es «un producto de alta selección».[1]",
+     "La elección es «arquitectura o revolución».[1]"
+    ],
+    "impact": "Reunido a partir de los artículos que Le Corbusier firmó en L’Esprit Nouveau, la revista que fundó con Amédée Ozenfant y Paul Dermée,[2][4] lo publicó Crès en París en 1923, en la colección «L’Esprit Nouveau»,[1] y apareció en inglés en 1927.[3] Tuvo un «éxito deslumbrante».[2]"
+   },
+   "refs": [
+    {
+     "label": "Fondation Le Corbusier, Vers une architecture (1923)",
+     "url": "https://www.fondationlecorbusier.fr/en/work-book/vers-une-architecture-le-corbusier-1923/",
+     "checks": "Éditions Crès, colección «L’Esprit Nouveau», París, 1923; texto: «Esthétique de l’Ingénieur, Architecture…», el ingeniero guiado por la ley de economía y el cálculo, tres recordatorios (volumen, superficie, plano), trazados reguladores, «Des yeux qui ne voient pas» (barcos, aviones, autos; «L’avion est un produit de haute sélection»), «La maison est une machine à habiter», producción en serie y «architecture ou révolution». ⚠ No da la fecha de la traducción inglesa ni la cita «problema bien planteado».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Moderna Museet, biografía de Le Corbusier",
+     "url": "https://www.modernamuseet.se/en/stockholm/exhibitions/moment-le-corbusier/biography/",
+     "checks": "Le Corbusier, Ozenfant y Paul Dermée fundaron la revista L’Esprit nouveau; en 1920 adoptó el seudónimo y publicó «Tres recordatorios a los arquitectos»; esos ensayos se reunieron en Vers une architecture, «un libro que tuvo un éxito deslumbrante» (1923). ⚠ Da 1919 para la fundación de la revista; la Fondation Le Corbusier da 1920.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Internet Archive, Le Corbusier, Towards a New Architecture (Praeger, 1970, reimpresión de la edición de 1927)",
+     "url": "https://archive.org/details/towardsnewarc00leco",
+     "checks": "Registro bibliográfico: traducción inglesa de Vers une architecture; Praeger, Nueva York, 1970, «reprint of the 1927 ed.». ⚠ Solo el registro, sin consultar el texto.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondation Le Corbusier, cronología 1917–1922",
+     "url": "https://www.fondationlecorbusier.fr/en/biography/1917-1922/",
+     "checks": "En 1920 se funda L’Esprit Nouveau con Ozenfant y Paul Dermée; Charles-Édouard Jeanneret adopta el seudónimo Le Corbusier para firmar sus artículos de arquitectura en esa revista.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-topography-typography",
+   "level": "normal",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "RU"
+   ],
+   "genre": "typography",
+   "author": "El Lissitzky",
+   "name": "Topography of Typography",
+   "short": "Lissitzky",
+   "key": "Eight short theses by El Lissitzky, printed in Kurt Schwitters’s magazine Merz in July 1923 as ‘some theses from the forthcoming book’ by Lissitzky, on how the printed page should work optically.[1]",
+   "ideas": [
+    "Words on the printed sheet are seen, not heard.[1]",
+    "Conventional words convey concepts; with letters the concept should be given form.[1]",
+    "Economy of expression: optics instead of phonetics.[1]",
+    "The book space, built with the typesetting material by the laws of ‘typographic mechanics’, must answer the tensions of the content, and new blocks (clichés) bring in the new optics; the continuous sequence of pages makes the ‘bioscopic book’.[1]",
+    "The new book demands a new writer: inkwell and quill are dead; the printed sheet overcomes space and time.[1]"
+   ],
+   "impact": "The text has been called foundational for many in the New Typography.[2] In the same year Lissitzky designed Mayakovsky’s For the Voice,[3] and Tschichold’s 1925 special issue ‘elementare typographie’ gathered work by Lissitzky and others.[4]",
+   "links": {
+    "movements": [
+     "new-typography",
+     "constructivism"
+    ],
+    "institutions": [],
+    "designers": [
+     "el-lissitzky",
+     "tschichold"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "Merz no. 4, Hanover 1923 · Internet Archive, University of Maryland copy",
+     "es": "Merz n.º 4, Hannover 1923 · Internet Archive, ejemplar de la Universidad de Maryland",
+     "url": "https://archive.org/details/rare-093134"
+    }
+   ],
+   "wiki": "El_Lissitzky",
+   "es": {
+    "author": "El Lisitski",
+    "name": "Topografía de la tipografía",
+    "short": "Lisitski",
+    "date": "1923",
+    "key": "Ocho tesis breves de El Lisitski, publicadas en la revista Merz de Kurt Schwitters en julio de 1923 como «algunas tesis del libro próximo» de Lisitski, sobre cómo debe funcionar ópticamente la página impresa.[1]",
+    "ideas": [
+     "Las palabras de la hoja impresa se ven, no se oyen.[1]",
+     "Las palabras convencionales comunican conceptos; con las letras debe darse forma al concepto.[1]",
+     "Economía de expresión: óptica en lugar de fonética.[1]",
+     "El espacio del libro, construido con el material de composición según las leyes de la «mecánica tipográfica», debe responder a las tensiones del contenido, y los nuevos clichés traen la nueva óptica; la sucesión continua de páginas forma el «libro bioscópico».[1]",
+     "El libro nuevo exige un escritor nuevo: tintero y pluma de ganso han muerto; la hoja impresa supera el espacio y el tiempo.[1]"
+    ],
+    "impact": "Se ha dicho que el texto fue fundacional para muchos en la Nueva Tipografía.[2] Ese mismo año Lisitski diseñó Para la voz, de Maiakovski,[3] y el número especial «elementare typographie» de Tschichold, de 1925, reunió obra de Lisitski y otros.[4]"
+   },
+   "refs": [
+    {
+     "label": "Internet Archive, Merz n.º 4 (Hannover, julio de 1923), ejemplar de la Universidad de Maryland, texto completo",
+     "url": "https://archive.org/stream/rare-093134/rare-093134_djvu.txt",
+     "checks": "Merz n.º 4, julio de 1923, editor Kurt Schwitters; «Topographie der Typographie», con la nota «algunas tesis del libro de El Lissitzky que aparecerá próximamente»; las ocho tesis numeradas (palabras vistas, no oídas; letras que dan forma al concepto; economía de expresión, óptica en vez de fonética; espacio del libro según las tensiones del contenido; clichés de la nueva óptica; sucesión continua de páginas, el libro «bioscópico»; el libro nuevo exige un escritor nuevo; la hoja impresa supera espacio y tiempo). ⚠ Texto OCR; transcripción leída por resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Canadian Typography Archive, «The Topology of Typography», El Lissitzky (traducción de Glenn Goluska, 1983)",
+     "url": "https://www.canadiantypography.ca/en/archives/item/the-topology-of-typography-el-lissitzky-37",
+     "checks": "Título original «Topographie der Typographie», en Merz n.º 4 (Hannover, 1923); traducción de Goluska de 1983; juicio de que estas ideas fueron «fundacionales para muchos en la Nueva Tipografía». ⚠ Fuente secundaria (archivo de una traducción).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, El Lissitzky, For the Voice (Dlia golosa), 1923",
+     "url": "https://www.moma.org/collection/works/14473",
+     "checks": "Libro de trece poemas de Maiakovski diseñado por Lisitski, Moscú-Berlín, 1923, Gosizdat; tipos de varios tamaños en rojo y negro; índice de pulgar para leer en voz alta.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Merrill C. Berman Collection, Jan Tschichold: diseñador, teórico, coleccionista",
+     "url": "https://mcbcollection.com/jan-tschichold-designer-theorist-collector",
+     "checks": "«Elementare Typographie» (1925) fue un número especial de Typographische Mitteilungen con obra de Lisitski y Moholy-Nagy, entre otros. ⚠ No dice que se reprodujeran las tesis de «Topographie der Typographie».",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-painting-photography-film",
+   "level": "normal",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "method",
+   "author": "László Moholy-Nagy",
+   "name": "Painting, Photography, Film",
+   "short": "Moholy-Nagy",
+   "key": "Moholy-Nagy’s Bauhaus book of 1925,[1] which treated photography and film as new means of vision in their own right, not as imitations of painting.[2]",
+   "ideas": [
+    "Photography and film open a ‘new vision’: used productively, and not only to reproduce, they show the world in a new way.[2][3]",
+    "The camera shows what the eye does not: views from above and below, diagonal perspectives, X-rays, and photograms made without a camera, with light as a new means of design.[2]",
+    "Painting evolves towards ‘Lichtgestaltung’, composition with light.[2]",
+    "Photography should be integrated with typography in the ‘typophoto’, the visually most exact form of communication.[2]"
+   ],
+   "impact": "Volume 8 of the Bauhaus books, designed by Moholy-Nagy himself,[2][4] it appeared in 1925,[1] and a second, revised edition came out in 1927 with Albert Langen in Munich.[2] Its ideas belong to the ‘new vision’, whose most important exhibition was Film und Foto, held in Stuttgart in 1929.[3]",
+   "links": {
+    "movements": [
+     "new-vision",
+     "bauhaus-movement"
+    ],
+    "institutions": [
+     "inst-bauhaus",
+     "inst-new-bauhaus"
+    ],
+    "designers": [
+     "moholy-nagy"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "Malerei, Fotografie, Film · 2nd edition, 1927 · Internet Archive",
+     "es": "Malerei, Fotografie, Film · 2.ª edición, 1927 · Internet Archive",
+     "url": "https://archive.org/details/moholy-nagy-1927-malerei-fotographie-film"
+    }
+   ],
+   "wiki": "László_Moholy-Nagy",
+   "es": {
+    "author": "László Moholy-Nagy",
+    "name": "Pintura, fotografía, cine",
+    "short": "Moholy-Nagy",
+    "date": "1925",
+    "key": "El libro de la Bauhaus de Moholy-Nagy de 1925,[1] que trató la fotografía y el cine como medios de visión propios y no como imitaciones de la pintura.[2]",
+    "ideas": [
+     "La fotografía y el cine abren una «nueva visión»: usados de manera productiva, y no solo para reproducir, muestran el mundo de otro modo.[2][3]",
+     "La cámara muestra lo que el ojo no ve: vistas desde arriba y desde abajo, perspectivas diagonales, rayos X y fotogramas hechos sin cámara, con la luz como nuevo medio de diseño.[2]",
+     "La pintura evoluciona hacia la «Lichtgestaltung», la composición con luz.[2]",
+     "La fotografía debe integrarse con la tipografía en el «tipofoto», la forma de comunicación visualmente más exacta.[2]"
+    ],
+    "impact": "Volumen 8 de los libros de la Bauhaus, diseñado por el propio Moholy-Nagy,[2][4] apareció en 1925[1] y tuvo una segunda edición revisada en 1927, con Albert Langen en Múnich.[2] Sus ideas pertenecen a la «nueva visión», cuya exposición más importante fue Film und Foto, en Stuttgart, en 1929.[3]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-843",
+     "checks": "«Seine Bücher ‹Malerei, Photographie, Film› und ‹Von Material zu Architektur› erschienen 1925 und 1929»; colaboró con Gropius en la edición de los Bauhausbücher.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Internet Archive, Moholy-Nagy, Malerei, Fotographie, Film, 2.ª edición, 1927 (Bauhausbücher 8), texto completo",
+     "url": "https://archive.org/stream/moholy-nagy-1927-malerei-fotographie-film/Moholy-Nagy%20-%201927%20-%20Malerei%2C%20Fotographie%2C%20Film_djvu.txt",
+     "checks": "Portada: Bauhausbücher 8, «zweite veränderte Auflage», 1927, Albert Langen Verlag, Múnich; diseño y tipografía del propio Moholy-Nagy; texto sobre el «Typofoto», el fotograma sin cámara («das Licht als ein neues Gestaltungsmittel»), los rayos X, las vistas desde arriba y desde abajo y la pintura como «Lichtgestaltung». ⚠ Texto OCR leído por resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, The New Vision of Photography",
+     "url": "https://www.metmuseum.org/essays/the-new-vision-of-photography",
+     "checks": "Moholy-Nagy describió estas innovaciones como una «nueva visión» (fotogramas, fotomontajes, combinación de fotografía y tipografía); la exposición Film und Foto (Stuttgart, mayo–julio de 1929, cerca de mil obras) fue la más importante de las exposiciones de la Nueva Visión. ⚠ No menciona el libro de 1925.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, curso preliminar de Moholy-Nagy",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/training/preliminary-course/laszlo-moholy-nagys-preliminary-course",
+     "checks": "Fue coorganizador y diseñador gráfico de los libros de la Bauhaus desde 1924 y de la revista bauhaus desde 1926.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-new-typography",
+   "level": "essential",
+   "year": 1928,
+   "date": "1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "typography",
+   "author": "Jan Tschichold",
+   "name": "The New Typography",
+   "short": "Tschichold",
+   "key": "Tschichold’s handbook of 1928, which turned the avant-garde’s typographic experiments into practical guidelines for printers.[1][2]",
+   "ideas": [
+    "To communicate efficiently, a text must be as clear as possible, since printed matter is only glanced over.[2]",
+    "Asymmetry replaces symmetry, as more logical and optically effective, and ornament is rejected.[2]",
+    "Sans-serif types are favoured because they meet the demand for clarity and purity.[2]",
+    "DIN formats should be used for printed matter.[2]",
+    "Photography is an essential typographic tool, and contrasts of size and weight, the position of the text and white space as an active element organise the page.[2]"
+   ],
+   "impact": "Published by the printers’ educational association in Berlin,[1][2] it followed Tschichold’s special issue ‘elementare typographie’ of 1925[1][2] and was aimed at printers and designers.[2] In 1933 the Nazis arrested him, calling him a ‘cultural Bolshevik’, and he fled to Switzerland,[3] going to Basel in the autumn after about four weeks in custody;[4] there he reconsidered his earlier dogmatism.[3]",
+   "links": {
+    "movements": [
+     "new-typography"
+    ],
+    "institutions": [],
+    "designers": [
+     "tschichold"
+    ],
+    "works": [
+     "die-neue-typographie-book"
+    ]
+   },
+   "sources": [
+    {
+     "label": "About the text · Jan Tschichold · Wikipedia",
+     "es": "Sobre el texto · Jan Tschichold · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jan_Tschichold"
+    }
+   ],
+   "wiki": "Jan_Tschichold",
+   "es": {
+    "author": "Jan Tschichold",
+    "name": "La nueva tipografía",
+    "short": "Tschichold",
+    "date": "1928",
+    "key": "El manual de Tschichold de 1928, que convirtió los experimentos tipográficos de la vanguardia en pautas prácticas para impresores.[1][2]",
+    "ideas": [
+     "Para comunicar con eficacia, un texto debe ser lo más claro posible, porque lo impreso solo se mira de pasada.[2]",
+     "La asimetría reemplaza a la simetría, por ser más lógica y ópticamente más eficaz, y se rechaza el ornamento.[2]",
+     "Se prefieren los tipos sin serifa porque responden a la exigencia de claridad y pureza.[2]",
+     "Deben usarse los formatos DIN para los impresos.[2]",
+     "La fotografía es una herramienta tipográfica esencial, y los contrastes de tamaño y peso, la posición del texto y el blanco como elemento activo ordenan la página.[2]"
+    ],
+    "impact": "Publicado por la asociación educativa de los impresores en Berlín,[1][2] siguió al número especial «elementare typographie» de Tschichold de 1925[1][2] y se dirigía a impresores y diseñadores.[2] En 1933 los nazis lo detuvieron, acusándolo de «bolchevique cultural», y huyó a Suiza;[3] tras unas cuatro semanas de custodia, se fue a Basilea en el otoño;[4] allí reconsideró su dogmatismo anterior.[3]"
+   },
+   "refs": [
+    {
+     "label": "Bard Graduate Center, exposición Jan Tschichold",
+     "url": "https://exhibitions.bgc.bard.edu/tschichold/",
+     "checks": "«Elementare typographie» (1925), número especial de Typographische Mitteilungen con una lista de diez puntos; Die neue Typographie (1928), manual más completo con pautas para distintos diseños gráficos; ambas publicadas por el Bildungsverband der deutschen Buchdrucker, Berlín.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Invisible Culture, «Bold German Graphic Design»",
+     "url": "https://www.invisibleculturejournal.com/pub/bold-german-graphic-design/release/1",
+     "checks": "Subtítulo «manual para el diseño moderno»; editada por el Bildungsverband de los impresores alemanes, de ahí su público; formato DIN A5, sin serifa y sin ornamento; el texto debía ser lo más claro posible porque se leía de un vistazo; preferencia por la asimetría, por los tipos sin serifa («claridad y pureza»), uso de formatos DIN, la fotografía como herramienta tipográfica esencial, contrastes de tamaño y peso, el blanco como elemento activo; se apoya en «elementare typographie» (1925). ⚠ Artículo académico en línea; leído por resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Jan Tschichold",
+     "url": "https://www.britannica.com/biography/Jan-Tschichold",
+     "checks": "«Elementare typographie» (1925) y Die neue Typographie (1928); los nazis lo detuvieron en 1933 como «bolchevique cultural» y huyó a Suiza; en Suiza reconsideró su dogmatismo y vio que algunas reglas absolutas de la tipografía moderna estaban demasiado cerca del espíritu fascista. ⚠ Leída por resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Klingspor Museum, Jan Tschichold (biografía, PDF)",
+     "url": "https://www.klingspor-museum.de/KlingsporKuenstler/Schriftdesigner/Tschichold/JTschichold.pdf",
+     "checks": "«Mitte März 1933 wird Tschichold für vier Wochen in Schutzhaft genommen. Im Herbst 1933 geht er nach Basel»; Die neue Typographie, Berlín, 1928 en su bibliografía.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-meyer-bauen",
+   "level": "normal",
+   "year": 1928,
+   "date": "1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "architecture",
+   "author": "Hannes Meyer",
+   "name": "bauen",
+   "short": "Meyer",
+   "key": "Hannes Meyer’s short manifesto of 1928, published in the Bauhaus magazine in the year he became director, which reduced building to function and economy.[1][2]",
+   "ideas": [
+    "All things in this world are a product of the formula: function times economy.[1]",
+    "Building is a biological process, and only organisation: social, technical, economic and psychic.[1]",
+    "All art is composition and therefore contrary to purpose; all life is function and therefore unartistic.[1]",
+    "Building is no longer the single task of the architect’s ambition: it is collaborative work of workers with inventors.[1]"
+   ],
+   "impact": "Written in lower case as ‘bauen’, it appeared in bauhaus magazine no. 4, 1928.[1] Meyer directed the school from 1 April 1928 to 1 August 1930, with the slogan ‘the people’s needs instead of the need for luxury’,[2] and under him the school took up social housing and cooperative building, as at the ADGB school in Bernau and the Dessau-Törten estate.[2]",
+   "links": {
+    "movements": [
+     "new-objectivity",
+     "bauhaus-movement"
+    ],
+    "institutions": [
+     "inst-bauhaus"
+    ],
+    "designers": [
+     "hannes-meyer"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "About the author · Hannes Meyer · Wikipedia",
+     "es": "Sobre el autor · Hannes Meyer · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hannes_Meyer"
+    }
+   ],
+   "wiki": "Hannes_Meyer",
+   "es": {
+    "author": "Hannes Meyer",
+    "name": "bauen",
+    "short": "Meyer",
+    "date": "1928",
+    "key": "El breve manifiesto de Hannes Meyer de 1928, publicado en la revista de la Bauhaus en el año en que asumió la dirección, que redujo la construcción a función y economía.[1][2]",
+    "ideas": [
+     "Todas las cosas de este mundo son producto de la fórmula: función por economía.[1]",
+     "Construir es un proceso biológico, y solo organización: social, técnica, económica y psíquica.[1]",
+     "Todo arte es composición y, por tanto, contrario al fin; toda vida es función y, por tanto, no artística.[1]",
+     "Construir ya no es una tarea individual de la ambición del arquitecto: es trabajo colectivo de trabajadores con inventores.[1]"
+    ],
+    "impact": "Escrito en minúsculas como «bauen», apareció en la revista bauhaus n.º 4 de 1928.[1] Meyer dirigió la escuela del 1 de abril de 1928 al 1 de agosto de 1930, con el lema «las necesidades del pueblo en lugar de las del lujo»,[2] y con él la escuela se volcó a la vivienda social y la construcción cooperativa, como en la escuela ADGB de Bernau y el conjunto de Dessau-Törten.[2]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Bookshelf, bauhaus, revista, n.º 4, 1928 (ejemplar de la Universidad de Heidelberg)",
+     "url": "https://www.bauhaus-bookshelf.org/bauhaus_zeitschrift_4-1928.html",
+     "checks": "Número 4 de 1928 de la revista bauhaus, con editor Hannes Meyer; texto «bauen» en minúsculas: «alle dinge dieser welt sind ein produkt der formel: (funktion mal ökonomie)», «bauen ist ein biologischer vorgang», «bauen ist nur organisation: soziale, technische, ökonomische, psychische organisation», «alle kunst ist komposition und mithin zweckwidrig. alles leben ist funktion und daher unkünstlerisch», «bauen ist keine einzelaufgabe des architekten-ehrgeizes mehr», «bauen ist gemeinschaftsarbeit von werktätigen mit erfindern». ⚠ La página no indica el mes; leída por resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Hannes Meyer",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1437",
+     "checks": "Director de la Bauhaus del 1 de abril de 1928 al 1 de agosto de 1930; lema «Volksbedarf statt Luxusbedarf» («las necesidades del pueblo en lugar de las del lujo»); vivienda social y construcción cooperativa (escuela ADGB de Bernau, 1928–30; ampliación de Dessau-Törten, 1929–30); meta de «reducir la influencia del artista»; cursos de fotografía y urbanismo.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-crystal-goblet",
+   "level": "normal",
+   "year": 1930,
+   "date": "1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "typography",
+   "author": "Beatrice Warde",
+   "name": "The Crystal Goblet",
+   "short": "Warde",
+   "key": "Beatrice Warde’s lecture of 1930, which compared good typography to a clear crystal glass that shows the wine instead of hiding it.[1][2]",
+   "ideas": [
+    "Printing should be invisible: the reader should see the text, not the type.[1]",
+    "A plain crystal goblet is better than an ornate gold cup, because it reveals the wine.[1]",
+    "Legibility and the content come before the designer’s display.[1][2]",
+    "Type is a tool of communication, judged by how well it serves reading.[1]"
+   ],
+   "impact": "Warde, publicity manager of Monotype from 1929,[3] gave it as ‘Printing Should Be Invisible’ to the British Typographers’ Guild in London on 7 October 1930.[2][3] It has been reprinted many times as ‘The Crystal Goblet’[3] and remains an influential statement of typography as a clear vehicle for the text.[2]",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "stanley-morison",
+     "eric-gill"
+    ],
+    "works": [
+     "times-new-roman"
+    ]
+   },
+   "sources": [
+    {
+     "label": "About the author · Beatrice Warde · Wikipedia",
+     "es": "Sobre la autora · Beatrice Warde · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Beatrice_Warde"
+    }
+   ],
+   "wiki": "Beatrice_Warde",
+   "es": {
+    "author": "Beatrice Warde",
+    "name": "La copa de cristal",
+    "short": "Warde",
+    "date": "1930",
+    "key": "La conferencia de Beatrice Warde de 1930, que comparó la buena tipografía con una copa de cristal transparente que muestra el vino en vez de ocultarlo.[1][2]",
+    "ideas": [
+     "La impresión debe ser invisible: quien lee debe ver el texto, no la letra.[1]",
+     "Una copa de cristal sencilla es mejor que una copa de oro adornada, porque deja ver el vino.[1]",
+     "La legibilidad y el contenido van antes que el lucimiento de quien diseña.[1][2]",
+     "La letra es una herramienta de comunicación y se juzga por lo bien que sirve a la lectura.[1]"
+    ],
+    "impact": "Warde, jefa de publicidad de Monotype desde 1929,[3] la dictó con el título «Printing Should Be Invisible» ante el gremio de tipógrafos británicos en Londres el 7 de octubre de 1930.[2][3] Se ha reimpreso muchas veces como «The Crystal Goblet»[3] y sigue siendo una declaración influyente de la tipografía como vehículo transparente del texto.[2]"
+   },
+   "refs": [
+    {
+     "label": "Beatrice Warde, «The Crystal Goblet, or Why Printing Should Be Invisible» (texto, copia en City Tech, CUNY OpenLab)",
+     "url": "https://openlab.citytech.cuny.edu/langecomd3504fa2019/files/2018/10/Warde_CrystalGoblet.pdf",
+     "checks": "texto de Warde fechado en 1930; copa de oro labrada frente a copa de cristal «fina como una burbuja»; la frase «Type well used is invisible as type»; la imprenta importa ante todo como medio para hacer algo. ⚠ La copia no trae nota bibliográfica: las ediciones de 1932, 1937 y 1955 no se pudieron confirmar.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "theoreti.ca, «Beatrice Warde: The Crystal Goblet»",
+     "url": "https://theoreti.ca/?p=2408",
+     "checks": "conferencia dada en Londres en 1930 con el título «Printing Should be Invisible»; la claridad se prefiere a la decoración; el diseño moderno pregunta «¿qué debe hacer?». ⚠ sitio de comentario, no académico",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Feminism and Graphic Design, «Beatrice Warde and The Crystal Goblet»",
+     "url": "https://feminismandgraphicdesign.blogspot.com/2012/03/beatrice-warde-and-crystal-goblet.html",
+     "checks": "discurso «Printing Should Be Invisible» ante el British Typographers’ Guild en el St Bride Institute de Londres el 7 de octubre de 1930; editora del Monotype Recorder desde 1927 y jefa de publicidad desde 1929; reimpreso muchas veces. ⚠ blog; fecha exacta sin segunda fuente",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-horizons",
+   "level": "normal",
+   "year": 1932,
+   "date": "1932",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Norman Bel Geddes",
+   "name": "Horizons",
+   "short": "Bel Geddes",
+   "key": "Norman Bel Geddes’s illustrated book of 1932, a visionary treatise on industrial design that popularized streamlining.[2][3]",
+   "ideas": [
+    "Industrial design can remake transport, housing, factories and theatres, from a design philosophy based on use.[3]",
+    "Streamlining, the application of aerodynamic principles, is a guide for the design of vehicles and other products.[3]",
+    "Visionary projects, such as floating airports, aircraft large enough to work as aerial hotels and ocean liners for 2,000 people, show what industry could build.[1]",
+    "Presented in the Depression, these schemes were meant as hopeful antidotes to the economic gloom: ‘we enter a new era’.[1]"
+   ],
+   "impact": "Published by Little, Brown in Boston in November 1932, in the depths of the Depression,[1][2] it is described by a bookseller as having popularized streamlining as a principle that shaped architecture and design for about three decades.[3] Bel Geddes’s best-known project, the Futurama, came later, at the 1939–40 New York World’s Fair.[4]",
+   "links": {
+    "movements": [
+     "streamline-moderne"
+    ],
+    "institutions": [],
+    "designers": [
+     "bel-geddes",
+     "loewy",
+     "dreyfuss"
+    ],
+    "works": [
+     "chrysler-airflow"
+    ]
+   },
+   "sources": [
+    {
+     "label": "Horizons, 1932 · Internet Archive, Prelinger Library",
+     "es": "Horizons, 1932 · Internet Archive, Prelinger Library",
+     "url": "https://archive.org/details/horizons00geddrich"
+    }
+   ],
+   "wiki": "Norman_Bel_Geddes",
+   "es": {
+    "author": "Norman Bel Geddes",
+    "name": "Horizons",
+    "short": "Bel Geddes",
+    "date": "1932",
+    "key": "El libro ilustrado de Norman Bel Geddes de 1932, un tratado visionario sobre el diseño industrial que popularizó la aerodinámica.[2][3]",
+    "ideas": [
+     "El diseño industrial puede rehacer el transporte, la vivienda, las fábricas y los teatros, a partir de una filosofía de diseño basada en el uso.[3]",
+     "La aerodinámica (streamlining), aplicación de principios aerodinámicos, es una guía para diseñar vehículos y otros productos.[3]",
+     "Proyectos visionarios, como aeropuertos flotantes, aviones tan grandes que funcionarían como hoteles aéreos y transatlánticos para 2.000 personas, muestran lo que la industria podría construir.[1]",
+     "Presentados en plena Depresión, esos proyectos querían ser antídotos esperanzadores contra el pesimismo económico: «entramos en una nueva era».[1]"
+    ],
+    "impact": "Publicado por Little, Brown en Boston en noviembre de 1932, en lo peor de la Depresión,[1][2] un librero lo describe como el libro que popularizó la aerodinámica como principio que marcó la arquitectura y el diseño durante unas tres décadas.[3] El proyecto más conocido de Bel Geddes, el Futurama, vino después, en la Feria Mundial de Nueva York de 1939–40.[4]"
+   },
+   "refs": [
+    {
+     "label": "Harry Ransom Center (Universidad de Texas), Norman Bel Geddes Database, entrada «Horizons»",
+     "url": "https://research.hrc.utexas.edu/NBGPublic/details.cfm?id=203",
+     "checks": "publicado por Little, Brown en noviembre de 1932; proyectos de transporte (aeropuertos flotantes, autos voladores aerodinámicos, aviones tan grandes como hoteles aéreos, transatlánticos para 2.000 personas); presentados como antídotos esperanzadores ante la Depresión; frase «we enter a new era»",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Internet Archive, Horizons (Boston: Little, Brown, 1932), Prelinger Library",
+     "url": "https://archive.org/details/horizons00geddrich",
+     "checks": "ficha bibliográfica: Boston, Little, Brown and Company, 1932, xix + 293 páginas; subtítulo temático «Horizons in industrial design»",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Cary Collection, «Horizons, 1932, Bel Geddes»",
+     "url": "https://thecarycollection.com/products/horizons-1932-bel-geddes-norman",
+     "checks": "tratado con sus máximas y visiones de diseño para transporte, vivienda, fábricas y teatros; según la descripción, popularizó el principio de la aerodinámica (streamlining), con influencia de unas tres décadas. ⚠ descripción de un librero",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Modernism101.com, «Horizons» y «Magic Motorways» (descripción de librero)",
+     "url": "https://modernism101.com/products-page/industrial-design/bel-geddes-norman-horizons-magic-motorways-boston-new-york-1932-1940-an-uncirculated-set/",
+     "checks": "el Futurama fue el proyecto más conocido de Bel Geddes, posterior a Horizons, en la Feria Mundial de Nueva York de 1939–40. ⚠ librero; no confirma que fuera para General Motors",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-art-and-industry",
+   "level": "normal",
+   "year": 1934,
+   "date": "1934",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "Herbert Read",
+   "name": "Art and Industry",
+   "short": "Read",
+   "key": "Herbert Read’s book of 1934 on the principles of industrial design, which argued that machine-made objects could have the abstract qualities of art.[1][2]",
+   "ideas": [
+    "Machine-made objects can have the abstract aesthetic qualities of art, and the abstract artist working in industry is ‘the designer’.[1]",
+    "Aesthetic value is not just practical function: in 1934 Read held that art implies values more varied than those set by practical necessity.[1]",
+    "Designers should be trained for industry; Read endorsed the Bauhaus and the ideals of Gropius, and proposed a school with the productive capacities of a factory.[1]",
+    "Photographs of new industrial products placed beside ancient artefacts were meant to show that these functional objects share abstract qualities.[1]"
+   ],
+   "impact": "Published by Faber & Faber in London in October 1934, with a layout by Herbert Bayer,[1] it was seen at the time as perhaps the most important discussion of design,[1] and it defended the Bauhaus model for industrial design.[1]",
+   "links": {
+    "movements": [
+     "bauhaus-movement"
+    ],
+    "institutions": [
+     "inst-bauhaus"
+    ],
+    "designers": [
+     "bayer"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "About the author · Herbert Read · Wikipedia",
+     "es": "Sobre el autor · Herbert Read · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Herbert_Read"
+    }
+   ],
+   "wiki": "Herbert_Read",
+   "es": {
+    "author": "Herbert Read",
+    "name": "Arte e industria",
+    "short": "Read",
+    "date": "1934",
+    "key": "El libro de Herbert Read de 1934 sobre los principios del diseño industrial, que sostuvo que los objetos hechos a máquina podían tener las cualidades abstractas del arte.[1][2]",
+    "ideas": [
+     "Los objetos hechos a máquina pueden tener las cualidades estéticas abstractas del arte, y el artista abstracto que trabaja en la industria es «el diseñador».[1]",
+     "El valor estético no se reduce a la función práctica: en 1934 Read sostenía que el arte implica valores más variados que los fijados por la necesidad práctica.[1]",
+     "Hay que formar diseñadores para la industria; Read respaldó la Bauhaus y los ideales de Gropius, y propuso una escuela con las capacidades productivas de una fábrica.[1]",
+     "Fotografías de productos industriales nuevos junto a artefactos antiguos buscaban mostrar que esos objetos funcionales comparten cualidades abstractas.[1]"
+    ],
+    "impact": "Publicado por Faber & Faber en Londres en octubre de 1934, con una diagramación de Herbert Bayer,[1] se vio en su momento como quizás la discusión más importante del diseño,[1] y defendió el modelo de la Bauhaus para el diseño industrial.[1]"
+   },
+   "refs": [
+    {
+     "label": "Robin Kinross, Herbert Read’s Art and Industry: a history (Lund Humphries, 1988; PDF en Monoskop)",
+     "url": "https://monoskop.org/images/7/74/Kinross_Robin_1988_Herbert_Reads_Art_and_Industry_A_History.pdf",
+     "checks": "publicado por Faber & Faber en octubre de 1934; visto en su momento como «quizás la discusión más importante del diseño»; el artista abstracto que trabaja en la industria («el diseñador»); los valores estéticos no se reducen a la necesidad práctica (Read cambió de posición hacia 1941); fotografías de objetos industriales junto a artefactos antiguos; respaldo a los ideales de Gropius y a una escuela con las capacidades productivas de la fábrica; diagramación de Herbert Bayer (dos columnas, fotos integradas, números de página al margen). ⚠ leído mediante resumen automático: las citas deben cotejarse con el PDF",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Dictionary of Art Historians, «Read, Herbert, Sir»",
+     "url": "https://arthistorians.info/readh/",
+     "checks": "Art and Industry: the Principles of Industrial Design, 1934, entre sus textos más influyentes, de su etapa en Edimburgo; no resume el contenido",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-pioneers-modern-movement",
+   "level": "normal",
+   "year": 1936,
+   "date": "1936",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "history",
+   "author": "Nikolaus Pevsner",
+   "name": "Pioneers of the Modern Movement",
+   "short": "Pevsner",
+   "key": "Nikolaus Pevsner’s history of 1936, which traced modern design from William Morris to Walter Gropius.[1][2]",
+   "ideas": [
+    "Modern design has a lineage: Morris and Arts and Crafts, Art Nouveau and engineering architecture, which Gropius brought to its culmination.[2][3]",
+    "Morris’s social and cultural ideas laid the foundation of the modern style; with Gropius its character was finally determined.[1]",
+    "Nineteenth-century engineering, based on iron, showed the way the architects later followed.[3]",
+    "Modern design is the natural expression of the age of science, industry and the machine.[3]"
+   ],
+   "impact": "Written in English by an art historian born in Leipzig who had to seek a post abroad after the Nazi restrictions of 1933,[1][4] and published by Faber & Faber in London in 1936,[1][2] it was described as the first attempt to trace the lines of thought leading to modern architecture.[2] The Museum of Modern Art in New York issued a revised edition in 1949 as Pioneers of Modern Design.[1][2]",
+   "links": {
+    "movements": [
+     "bauhaus-movement"
+    ],
+    "institutions": [
+     "inst-bauhaus"
+    ],
+    "designers": [
+     "gropius"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "About the author · Nikolaus Pevsner · Wikipedia",
+     "es": "Sobre el autor · Nikolaus Pevsner · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nikolaus_Pevsner"
+    }
+   ],
+   "wiki": "Nikolaus_Pevsner",
+   "es": {
+    "author": "Nikolaus Pevsner",
+    "name": "Pioneros del movimiento moderno",
+    "short": "Pevsner",
+    "date": "1936",
+    "key": "La historia de Nikolaus Pevsner de 1936, que trazó el diseño moderno desde William Morris hasta Walter Gropius.[1][2]",
+    "ideas": [
+     "El diseño moderno tiene un linaje: Morris y el Arts and Crafts, el art nouveau y la arquitectura de ingeniería, que Gropius llevó a su culminación.[2][3]",
+     "Las ideas sociales y culturales de Morris sentaron la base del estilo moderno; con Gropius se definió por fin su carácter.[1]",
+     "La ingeniería del siglo XIX, basada en el hierro, mostró el camino que luego siguieron los arquitectos.[3]",
+     "El diseño moderno es la expresión natural de la era de la ciencia, la industria y la máquina.[3]"
+    ],
+    "impact": "Escrito en inglés por un historiador del arte nacido en Leipzig que tuvo que buscar un puesto fuera de Alemania tras las restricciones nazis de 1933,[1][4] y publicado por Faber & Faber en Londres en 1936,[1][2] se lo describió como el primer intento de trazar las líneas de pensamiento que llevan a la arquitectura moderna.[2] El Museum of Modern Art de Nueva York publicó en 1949 una edición revisada con el título Pioneers of Modern Design.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Peter Faulkner, «Pevsner’s Morris», Journal of the William Morris Society 17:1",
+     "url": "https://morrissociety.org/wp-content/uploads/17.1.Faulkner.pdf",
+     "checks": "publicado en inglés por Faber and Faber en 1936; para Pevsner las ideas sociales y culturales de Morris «sentaron la base del estilo moderno» y con Gropius se definió su carácter; Pevsner nació en Leipzig en 1902 y tuvo que buscar un puesto fuera tras las restricciones nazis de 1933; edición del MoMA de 1949 con el título Pioneers of Modern Design",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fundación Docomomo Ibérico, «The origins of modern architecture according to Nikolaus Pevsner»",
+     "url": "https://docomomoiberico.com/en/encyclopedia/el-origen-de-la-arquitectura-moderna-segun-nikolaus-pevsner/",
+     "checks": "Faber & Faber, Londres, 1936; «el primer intento de trazar las líneas de pensamiento que llevan a la arquitectura moderna»; recorrido de Morris a Gropius; edición revisada del MoMA de 1949 con el título Pioneers of Modern Design",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Thomas Henry, «Modernism & Meaning: Nikolaus Pevsner and the Pioneers of the Modern Movement» (trabajo de seminario)",
+     "url": "https://www.thomashenry.nl/Pevsner%20-%20Pioneers%20-%20Thomas%20Henry%202.0.pdf",
+     "checks": "tres fuentes del estilo moderno: Morris y el Arts and Crafts, el art nouveau y la arquitectura de ingeniería (basada en el hierro); Gropius como culminación; el modernismo como «expresión natural de la era de la ciencia, la industria y la máquina». ⚠ trabajo de seminario, no publicación académica",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopedia.com, «Sir Nikolaus Pevsner»",
+     "url": "https://www.encyclopedia.com/people/literature-and-arts/architecture-biographies/sir-nikolaus-pevsner",
+     "checks": "emigró a Inglaterra cuando Hitler llegó al poder (otra entrada dice que llegó a Gran Bretaña en 1934); el libro es de 1936 y se reeditó como Pioneers of Modern Design. ⚠ las entradas no coinciden en el año de llegada",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-international-picture-language",
+   "level": "normal",
+   "year": 1936,
+   "date": "1936",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "AT",
+    "NL"
+   ],
+   "genre": "method",
+   "author": "Otto Neurath",
+   "name": "International Picture Language",
+   "short": "Neurath",
+   "key": "Otto Neurath’s short book of 1936, written in Basic English, which set out the rules of Isotype for showing facts with pictures.[1][5]",
+   "ideas": [
+    "Simplified pictures can communicate across language and age barriers.[3]",
+    "One symbol stands for a fixed quantity; more of something is shown with more symbols of the same size, not bigger ones.[2][3]",
+    "Symbols are simplified, repeatable units.[3]",
+    "Turning data into pictures is a task of its own, done by a ‘transformer’.[2][3]"
+   ],
+   "impact": "Published by Kegan Paul in London,[1][2] it summed up the method developed since 1925 at Vienna’s Social and Economic Museum,[2][5] which was renamed Isotype in 1935,[4] after the team moved into exile in The Hague in 1934.[4][5] The work was collective: Marie Neurath was the ‘transformer’ and Gerd Arntz gave the symbols their refined style.[2][3]",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "neurath-isotype"
+    ],
+    "works": [
+     "isotype-charts"
+    ]
+   },
+   "sources": [
+    {
+     "label": "International Picture Language, 1936 · Internet Archive, Duke University Libraries",
+     "es": "International Picture Language, 1936 · Internet Archive, bibliotecas de la Universidad de Duke",
+     "url": "https://archive.org/details/internationalpic00neur"
+    }
+   ],
+   "wiki": "Isotype_(picture_language)",
+   "es": {
+    "author": "Otto Neurath",
+    "name": "Lenguaje pictórico internacional",
+    "short": "Neurath",
+    "date": "1936",
+    "key": "El breve libro de Otto Neurath de 1936, escrito en inglés básico, que expuso las reglas de Isotype para mostrar hechos con imágenes.[1][5]",
+    "ideas": [
+     "Las imágenes simplificadas pueden comunicar por encima de las barreras de idioma y de edad.[3]",
+     "Un símbolo representa una cantidad fija; más de algo se muestra con más símbolos del mismo tamaño, no con símbolos más grandes.[2][3]",
+     "Los símbolos son unidades simplificadas y repetibles.[3]",
+     "Convertir datos en imágenes es una tarea propia, a cargo de un «transformador».[2][3]"
+    ],
+    "impact": "Publicado por Kegan Paul en Londres,[1][2] resumió el método desarrollado desde 1925 en el Museo Social y Económico de Viena,[2][5] que se renombró Isotype en 1935,[4] después de que el equipo se trasladara al exilio en La Haya en 1934.[4][5] El trabajo fue colectivo: Marie Neurath era la «transformadora» y Gerd Arntz dio a los símbolos su estilo refinado.[2][3]"
+   },
+   "refs": [
+    {
+     "label": "Internet Archive (Duke University Libraries), International Picture Language: The First Rules of Isotype, 1936",
+     "url": "https://archive.org/details/internationalpic00neur",
+     "checks": "ficha: Otto Neurath, Londres, K. Paul, Trench, Trubner & Co., 1936, 117 páginas; escrito en Basic English",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Isotype Revisited, «Isotype: representing social facts pictorially» (PDF)",
+     "url": "https://isotyperevisited.org/Isotype_representing_social_facts_pictorially.pdf",
+     "checks": "museo Gesellschafts- und Wirtschaftsmuseum abierto en 1925 en Viena, donde surgió el método; regla: mayor cantidad con más símbolos del mismo tamaño, no con símbolos más grandes; Marie Neurath como «transformadora»; Gerd Arntz refinó los pictogramas; International Picture Language (Londres: Kegan Paul, 1936) codificó los principios",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Isotype Revisited, «Introduction» (Universidad de Reading)",
+     "url": "https://isotyperevisited.org/2012/08/introduction.php",
+     "checks": "pictogramas simplificados y repetibles para comunicar a través de barreras de idioma y edad; regla de no agrandar el pictograma; Marie Neurath como «transformadora»; Gerd Arntz aportó la identidad visual",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Universidad de Viena, proyecto Isotype: Origin, development, and legacy (resumen)",
+     "url": "https://isotype.univie.ac.at/en/abstract/",
+     "checks": "Neurath dirigía el Museo Social y Económico (método de Viena); el método se renombró en 1935 como Isotype; tras el fin de la democracia en Austria el equipo huyó a los Países Bajos; Gerd Arntz siguió en La Haya",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, «Signs of the Times: A Reminder about Isotype»",
+     "url": "https://www.cooperhewitt.org/2024/01/12/a-reminder-about-isotype/",
+     "checks": "Isotype desarrollado en Viena en el museo entre 1925 y 1934 y trasladado a La Haya en 1934; International Picture Language, 1936, en inglés, con principios y reglas y casi 40 ejemplos ilustrados",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-space-time-architecture",
+   "level": "normal",
+   "year": 1941,
+   "date": "1941",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "CH"
+   ],
+   "genre": "history",
+   "author": "Sigfried Giedion",
+   "name": "Space, Time and Architecture",
+   "short": "Giedion",
+   "key": "Sigfried Giedion’s history of 1941, which presented modern architecture as a new tradition rooted in 19th-century engineering.[1]",
+   "ideas": [
+    "Modern architecture is a ‘new tradition’ with roots in nineteenth-century engineering, especially iron construction.[1]",
+    "A ‘space-time’ conception links Cubist painting and modern architecture, such as Le Corbusier’s villas, which can only be fully grasped from several viewpoints.[1]",
+    "History should seek the ‘constituent facts’ that show a process in motion, not compile every fact.[1][2]",
+    "Architects such as Gropius, Le Corbusier and Aalto continue that tradition.[2]"
+   ],
+   "impact": "Based on Giedion’s Charles Eliot Norton lectures at Harvard in 1938–39 and published by Harvard University Press in 1941,[1][2] it is an influential account of modern architecture.[1] Giedion was secretary-general of CIAM from 1928.[1]",
+   "links": {
+    "movements": [
+     "international-style"
+    ],
+    "institutions": [],
+    "designers": [
+     "gropius",
+     "le-corbusier",
+     "aalto-alvar-aino"
+    ],
+    "works": []
+   },
+   "sources": [
+    {
+     "label": "About the text · Space, Time and Architecture · Wikipedia",
+     "es": "Sobre el texto · Espacio, tiempo y arquitectura · Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Space,_Time_and_Architecture"
+    }
+   ],
+   "wiki": "Space,_Time_and_Architecture",
+   "es": {
+    "author": "Sigfried Giedion",
+    "name": "Espacio, tiempo y arquitectura",
+    "short": "Giedion",
+    "date": "1941",
+    "key": "La historia de Sigfried Giedion de 1941, que presentó la arquitectura moderna como una nueva tradición arraigada en la ingeniería del siglo XIX.[1]",
+    "ideas": [
+     "La arquitectura moderna es una «nueva tradición» con raíces en la ingeniería del siglo XIX, sobre todo en la construcción de hierro.[1]",
+     "Una concepción del «espacio-tiempo» une la pintura cubista y la arquitectura moderna, como las villas de Le Corbusier, que solo se captan del todo desde varios puntos de vista.[1]",
+     "La historia debe buscar los hechos «constituyentes» que muestran un proceso en movimiento, no compilarlo todo.[1][2]",
+     "Arquitectos como Gropius, Le Corbusier y Aalto continúan esa tradición.[2]"
+    ],
+    "impact": "Basado en las conferencias Charles Eliot Norton que Giedion dictó en Harvard en 1938–39 y publicado por Harvard University Press en 1941,[1][2] es un relato influyente de la arquitectura moderna.[1] Giedion fue secretario general de los CIAM desde 1928.[1]"
+   },
+   "refs": [
+    {
+     "label": "Tesis de la Middle East Technical University, «Sigfried Giedion’s Space, Time and Architecture: an …» (PDF)",
+     "url": "https://etd.lib.metu.edu.tr/upload/12609934/index.pdf",
+     "checks": "conferencias Charles Eliot Norton en Harvard 1938–39 que dieron origen al libro publicado por Harvard University Press en 1941; subtítulo «The Growth of a New Tradition»; hechos «constituyentes» frente a «transitorios»; ingeniería del siglo XIX (hierro, hormigón armado); espacio-tiempo ligado al cubismo y a las villas de Le Corbusier; Giedion secretario general de los CIAM desde 1928. ⚠ tesis; leída mediante resumen automático",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archidose, «Space, Time and Architecture» (blog de arquitectura)",
+     "url": "https://archidose.blogspot.com/2019/03/space-time-and-architecture.html",
+     "checks": "conferencias de Harvard 1938–39 y primera edición de 1941; la historia como «una visión de un proceso vivo en movimiento» y no una compilación de hechos; entre los arquitectos destacados, Gropius, Le Corbusier y Aalto. ⚠ blog",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "th-flugel-psychology-clothes",
+   "level": "normal",
+   "year": 1930,
+   "date": "1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "society",
+   "author": "J. C. Flügel",
+   "name": "The Psychology of Clothes",
+   "short": "Flügel",
+   "key": "The British psychologist J. C. Flügel’s 1930 psychoanalytic study of dress, which named the ‘great masculine renunciation’ of colour and ornament.",
+   "ideas": [
+    "Clothes serve three motives: decoration, modesty and protection, of which decoration is the strongest.",
+    "From the late eighteenth century men gave up bright colours and rich ornament in their dress, which Flügel called the ‘great masculine renunciation’.",
+    "After that renunciation, men’s clothes aimed at usefulness and sobriety, and beauty was left to women’s fashion.",
+    "Dress is shaped by unconscious feelings, such as the wish to attract and the feeling of shame."
+   ],
+   "impact": "Published in London in 1930 by the Hogarth Press, it was one of the first books to treat dress as a subject for psychology, and its idea of the masculine renunciation has been widely taken up in later writing on fashion.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "brummell-tailoring-1810"
+    ]
+   },
+   "es": {
+    "author": "J. C. Flügel",
+    "name": "Psicología del vestido",
+    "short": "Flügel",
+    "date": "1930",
+    "key": "El estudio psicoanalítico del vestido del psicólogo británico J. C. Flügel, de 1930, que nombró la «gran renuncia masculina» al color y al ornamento.",
+    "ideas": [
+     "La ropa responde a tres motivos: la decoración, el pudor y la protección, de los cuales la decoración es el más fuerte.",
+     "Desde fines del siglo XVIII los hombres renunciaron a los colores vivos y al ornamento rico en su vestimenta, lo que Flügel llamó la «gran renuncia masculina».",
+     "Tras esa renuncia, la ropa masculina buscó la utilidad y la sobriedad, y la belleza quedó en manos de la moda femenina.",
+     "El vestido está moldeado por sentimientos inconscientes, como el deseo de atraer y el sentimiento de vergüenza."
+    ],
+    "impact": "Publicado en Londres en 1930 por la Hogarth Press, fue uno de los primeros libros que trató el vestido como tema de la psicología, y su idea de la renuncia masculina se ha retomado ampliamente en escritos posteriores sobre moda."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-work-of-art-mechanical",
+   "level": "essential",
+   "year": 1935,
+   "date": "1935",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "genre": "criticism",
+   "author": "Walter Benjamin",
+   "name": "The Work of Art in the Age of Mechanical Reproduction",
+   "short": "Benjamin",
+   "key": "Walter Benjamin’s essay of 1935–36, which argued that photography and film strip the artwork of its ‘aura’ and change how the masses see art.",
+   "ideas": [
+    "Reproduction lets a work be copied in numbers, so the original loses its ‘aura’, its presence in one place and time.",
+    "Mechanical reproduction detaches the work from tradition and ritual and puts it in front of a mass public.",
+    "The value of art shifts from cult value to exhibition value.",
+    "Film and photography train a distracted, collective way of perceiving, unlike the contemplation of a painting.",
+    "Fascism makes politics into an aesthetic spectacle; communism, he answers, should politicise art."
+   ],
+   "impact": "Written in exile in Paris, a French version appeared in 1936 in the journal of the Institute for Social Research. It became a classic of media and image theory, widely read in design, photography and art schools.",
+   "links": {
+    "movements": [
+     "new-vision"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Walter Benjamin",
+    "name": "La obra de arte en la época de su reproductibilidad técnica",
+    "short": "Benjamin",
+    "date": "1935",
+    "key": "El ensayo de Walter Benjamin de 1935–36, que sostuvo que la fotografía y el cine despojan a la obra de su «aura» y cambian la manera en que las masas ven el arte.",
+    "ideas": [
+     "La reproducción permite copiar una obra en cantidad, así que el original pierde su «aura», su presencia en un solo lugar y tiempo.",
+     "La reproducción técnica separa la obra de la tradición y el ritual y la pone ante un público masivo.",
+     "El valor del arte pasa del valor de culto al valor de exhibición.",
+     "El cine y la fotografía educan una percepción distraída y colectiva, distinta de la contemplación de una pintura.",
+     "El fascismo convierte la política en espectáculo estético; el comunismo, responde, debe politizar el arte."
+    ],
+    "impact": "Escrito en el exilio en París, una versión francesa apareció en 1936 en la revista del Instituto de Investigación Social. Se volvió un clásico de la teoría de los medios y la imagen, muy leído en escuelas de diseño, fotografía y arte."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-charter-of-athens",
+   "level": "essential",
+   "year": 1943,
+   "date": "1943",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GR"
+   ],
+   "genre": "architecture",
+   "author": "Le Corbusier (CIAM)",
+   "name": "Charter of Athens",
+   "short": "Le Corbusier",
+   "key": "The doctrine of the functional city, drawn from the CIAM congress of 1933 and published in Le Corbusier’s edition in 1943.",
+   "ideas": [
+    "The city has four key functions: dwelling, work, recreation and circulation.",
+    "These functions should be separated into distinct zones of the city.",
+    "Sun, air and green space are basic needs, and housing should be planned to provide them.",
+    "Traffic routes should be separated and arranged by speed."
+   ],
+   "impact": "The text came out of the fourth CIAM congress, held in 1933 on a ship sailing between Marseille and Athens, and was edited and published by Le Corbusier in 1943. It guided much postwar urban planning, and was later criticised for its rigid zoning.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-ciam"
+    ],
+    "designers": [
+     "le-corbusier"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Le Corbusier (CIAM)",
+    "name": "Carta de Atenas",
+    "short": "Le Corbusier",
+    "date": "1943",
+    "key": "La doctrina de la ciudad funcional, extraída del congreso del CIAM de 1933 y publicada en la edición de Le Corbusier en 1943.",
+    "ideas": [
+     "La ciudad tiene cuatro funciones clave: habitar, trabajar, recrearse y circular.",
+     "Esas funciones deben separarse en zonas distintas de la ciudad.",
+     "El sol, el aire y el espacio verde son necesidades básicas, y la vivienda debe planificarse para darlos.",
+     "Las vías de tránsito deben separarse y ordenarse según la velocidad."
+    ],
+    "impact": "El texto salió del cuarto congreso del CIAM, celebrado en 1933 en un barco que navegó entre Marsella y Atenas, y Le Corbusier lo editó y publicó en 1943. Guió buena parte del urbanismo de posguerra y fue criticado después por su zonificación rígida."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-werkbund-debate",
+   "level": "essential",
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "method",
+   "author": "Hermann Muthesius and Henry van de Velde",
+   "name": "The Muthesius–Van de Velde debate",
+   "short": "Muthesius–Van de Velde",
+   "key": "The dispute at the Werkbund meeting in Cologne in 1914 between Hermann Muthesius, who wanted standard types, and Henry van de Velde, who defended the artist’s individual creation.",
+   "ideas": [
+    "Muthesius argued that German design should move toward standardisation, with types made for series production.",
+    "Van de Velde answered that the artist creates freely and will not accept a rule or a standard type.",
+    "The question was whether industrial design needs the individual artist or the common type.",
+    "The debate opened a quarrel over art and industry that ran through twentieth-century design."
+   ],
+   "impact": "It took place at the Werkbund’s annual meeting in July 1914, during the Cologne exhibition, where Muthesius put forward theses on standardisation and Van de Velde and his supporters, Gropius among them, opposed them. The outbreak of war weeks later cut the dispute short.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-werkbund"
+    ],
+    "designers": [
+     "henry-van-de-velde",
+     "peter-behrens"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Hermann Muthesius y Henry van de Velde",
+    "name": "El debate Muthesius–Van de Velde",
+    "short": "Muthesius–Van de Velde",
+    "date": "1914",
+    "key": "La disputa en la reunión del Werkbund en Colonia en 1914 entre Hermann Muthesius, que quería tipos estándar, y Henry van de Velde, que defendía la creación individual del artista.",
+    "ideas": [
+     "Muthesius sostuvo que el diseño alemán debía avanzar hacia la estandarización, con tipos hechos para la producción en serie.",
+     "Van de Velde respondió que el artista crea con libertad y no aceptará una regla ni un tipo estándar.",
+     "La pregunta era si el diseño industrial necesita al artista individual o al tipo común.",
+     "El debate abrió una disputa entre arte e industria que recorrió el diseño del siglo XX."
+    ],
+    "impact": "Ocurrió en la reunión anual del Werkbund de julio de 1914, durante la exposición de Colonia, donde Muthesius presentó tesis sobre la estandarización y Van de Velde y quienes lo apoyaban, entre ellos Gropius, se opusieron. El estallido de la guerra semanas después cortó la disputa."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-sant-elia-manifesto-1914",
+   "level": "normal",
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "genre": "manifesto",
+   "author": "Antonio Sant'Elia",
+   "name": "Manifesto of Futurist Architecture",
+   "short": "Sant'Elia",
+   "key": "The 1914 Futurist manifesto that imagined the modern city as a huge, noisy building site of machines, lifts and traffic on several levels, with no place for the past.",
+   "ideas": [
+    "The Futurist house should be like a gigantic machine, built with new materials such as iron, glass, cement and reinforced concrete.",
+    "Decoration should be abandoned: the beauty of the new architecture lies in its lines, its use and its newness.",
+    "Lifts, power stations and roads on several levels are part of the look of the new city, not something to hide.",
+    "Each generation should build its own city, and buildings should be short-lived and easy to replace."
+   ],
+   "impact": "Signed by Antonio Sant'Elia in Milan in 1914 and tied to the Futurist movement led by Marinetti, it came with drawings of his imagined ‘New City’ (Città Nuova), which were never built. Its image of a dense, many-levelled city of machines was later remembered by architects of the megastructure and high-tech generations.",
+   "links": {
+    "movements": [
+     "futurism-typography"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Antonio Sant'Elia",
+    "name": "Manifiesto de la arquitectura futurista",
+    "short": "Sant'Elia",
+    "date": "1914",
+    "key": "El manifiesto futurista de 1914 que imaginó la ciudad moderna como una enorme obra ruidosa de máquinas, ascensores y tránsito en varios niveles, sin lugar para el pasado.",
+    "ideas": [
+     "La casa futurista debe ser como una gigantesca máquina, construida con materiales nuevos como el hierro, el vidrio, el cemento y el hormigón armado.",
+     "Hay que abandonar la decoración: la belleza de la nueva arquitectura está en sus líneas, su uso y su novedad.",
+     "Los ascensores, las centrales eléctricas y las calles en varios niveles forman parte del aspecto de la nueva ciudad y no hay que esconderlos.",
+     "Cada generación debe construir su propia ciudad, y los edificios deben ser efímeros y fáciles de reemplazar."
+    ],
+    "impact": "Firmado por Antonio Sant'Elia en Milán en 1914 y ligado al movimiento futurista que lideraba Marinetti, venía con dibujos de su imaginada «Ciudad Nueva» (Città Nuova), que nunca se construyó. Su imagen de una ciudad densa y de muchos niveles hecha de máquinas fue recordada después por los arquitectos de las generaciones de la megaestructura y el high-tech."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-international-style-1932",
+   "level": "essential",
+   "year": 1932,
+   "date": "1932",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Henry-Russell Hitchcock and Philip Johnson",
+   "name": "The International Style: Architecture since 1922",
+   "short": "Hitchcock & Johnson",
+   "key": "The 1932 book and Museum of Modern Art exhibition that named the new European architecture ‘the International Style’ and gave it a short list of rules.",
+   "ideas": [
+    "Modern architecture of the 1920s had formed a single style, not a set of separate national movements.",
+    "Architecture should be conceived as volume, an enclosed space, rather than as mass.",
+    "Regularity and balance in the composition replace axial symmetry.",
+    "Good proportion, the materials and the technical perfection of the building replace applied ornament."
+   ],
+   "impact": "Written by the historian Henry-Russell Hitchcock and the architect Philip Johnson for the exhibition ‘Modern Architecture: International Exhibition’ at the Museum of Modern Art in New York in 1932, with Alfred Barr, it presented the work of Le Corbusier, Gropius, Mies van der Rohe, Oud and others to an American public as a style. The label stuck, although it left out much of the social aims of the European architects.",
+   "links": {
+    "movements": [
+     "international-style"
+    ],
+    "institutions": [
+     "inst-moma"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Henry-Russell Hitchcock y Philip Johnson",
+    "name": "El estilo internacional: arquitectura desde 1922",
+    "short": "Hitchcock y Johnson",
+    "date": "1932",
+    "key": "El libro y la exposición de 1932 del Museo de Arte Moderno que llamaron «estilo internacional» a la nueva arquitectura europea y le dieron una breve lista de reglas.",
+    "ideas": [
+     "La arquitectura moderna de los años veinte había formado un solo estilo, y no un conjunto de movimientos nacionales separados.",
+     "La arquitectura debe concebirse como volumen, un espacio cerrado, y no como masa.",
+     "La regularidad y el equilibrio de la composición reemplazan la simetría axial.",
+     "La buena proporción, los materiales y la perfección técnica del edificio reemplazan el ornamento aplicado."
+    ],
+    "impact": "Escrito por el historiador Henry-Russell Hitchcock y el arquitecto Philip Johnson para la exposición «Modern Architecture: International Exhibition» del Museo de Arte Moderno de Nueva York en 1932, con Alfred Barr, presentó la obra de Le Corbusier, Gropius, Mies van der Rohe, Oud y otros a un público estadounidense como un estilo. La etiqueta se impuso, aunque dejó fuera buena parte de los fines sociales de los arquitectos europeos."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-kepes-language-of-vision-1944",
+   "level": "normal",
+   "year": 1944,
+   "date": "1944",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "pedagogy",
+   "author": "György Kepes",
+   "name": "Language of Vision",
+   "short": "Kepes",
+   "key": "György Kepes’s 1944 book on visual perception and the organisation of form, a teaching manual that carried the Bauhaus approach to American graphic design.",
+   "ideas": [
+    "Seeing is an active process of organising what the eye receives, and the designer works with that organisation.",
+    "Basic visual elements such as line, shape, colour and texture can be studied and taught as a language.",
+    "Visual forms are shaped by the laws of perception, such as figure and ground, rhythm and the grouping of shapes.",
+    "Painting, photography, advertising and design draw on the same visual language and should be taught together."
+   ],
+   "impact": "Kepes, a Hungarian who had worked with Moholy-Nagy in Berlin and London, taught at the New Bauhaus in Chicago, and the book came out there in 1944 with many illustrations from art, photography and advertising. It became a standard text in design schools in the United States, where Kepes later taught at MIT.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-new-bauhaus"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "György Kepes",
+    "name": "El lenguaje de la visión",
+    "short": "Kepes",
+    "date": "1944",
+    "key": "El libro de György Kepes de 1944 sobre la percepción visual y la organización de la forma, un manual de enseñanza que llevó el enfoque de la Bauhaus al diseño gráfico estadounidense.",
+    "ideas": [
+     "Ver es un proceso activo de organizar lo que recibe el ojo, y el diseñador trabaja con esa organización.",
+     "Los elementos visuales básicos, como la línea, la forma, el color y la textura, pueden estudiarse y enseñarse como un lenguaje.",
+     "Las formas visuales se rigen por las leyes de la percepción, como figura y fondo, el ritmo y la agrupación de formas.",
+     "La pintura, la fotografía, la publicidad y el diseño recurren a un mismo lenguaje visual y deben enseñarse juntos."
+    ],
+    "impact": "Kepes, húngaro que había trabajado con Moholy-Nagy en Berlín y Londres, enseñaba en la Nueva Bauhaus de Chicago, y el libro salió allí en 1944 con muchas ilustraciones de arte, fotografía y publicidad. Se volvió un texto de referencia en las escuelas de diseño de Estados Unidos, donde Kepes enseñó después en el MIT."
+   },
+   "refs": []
+  }
+ ]
+}

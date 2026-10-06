@@ -1,0 +1,572 @@
+{
+ "institutions": [
+  {
+   "id": "inst-south-kensington",
+   "level": "essential",
+   "kind": "museum",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1852,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "South Kensington Museum",
+   "short": "South Kensington",
+   "key": "The London museum of manufactures and art founded in 1852 from the Great Exhibition’s legacy, which became the Victoria and Albert Museum and set out to improve British design through collections and teaching.",
+   "more": "It grew from the Museum of Manufactures, set up at Marlborough House in 1852 after the Great Exhibition of 1851, and moved to South Kensington in the later 1850s under Henry Cole. Alongside its collections it ran the Government School of Design’s successor, the national art training system. It was renamed the Victoria and Albert Museum in 1899. Its aim was to give manufacturers and students good examples of design to study.",
+   "links": {
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "South Kensington Museum",
+    "short": "South Kensington",
+    "key": "El museo londinense de manufacturas y arte fundado en 1852 con el legado de la Gran Exposición, que pasó a ser el Victoria and Albert Museum y buscó mejorar el diseño británico con colecciones y enseñanza.",
+    "more": "Nació del Museo de Manufacturas, instalado en Marlborough House en 1852 tras la Gran Exposición de 1851, y se trasladó a South Kensington a fines de la década de 1850 bajo Henry Cole. Junto a sus colecciones dirigió el sistema nacional de formación artística, sucesor de la Escuela de Diseño del Gobierno. Pasó a llamarse Victoria and Albert Museum en 1899. Su propósito era dar a fabricantes y estudiantes buenos ejemplos de diseño para estudiar.",
+    "place": "Londres"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-morris-and-co",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1861,
+   "end": 1940,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Morris & Co.",
+   "short": "Morris & Co.",
+   "key": "The decorating firm founded by William Morris and friends in 1861, which made wallpapers, textiles, stained glass and furniture and became the working model of the Arts and Crafts movement.",
+   "more": "It began as Morris, Marshall, Faulkner & Co. in 1861, with Morris, Philip Webb and Edward Burne-Jones among its partners, and was reorganised under Morris’s sole control as Morris & Co. in 1875. It produced wallpapers, printed and woven textiles, tapestries, stained glass and furniture, many to Morris’s own patterns. Its work was costly because it was made largely by hand, which Morris himself regretted. The firm continued after his death in 1896 until 1940.",
+   "links": {
+    "designers": [],
+    "works": [
+     "strawberry-thief",
+     "morris-chair"
+    ],
+    "movements": [
+     "arts-and-crafts"
+    ]
+   },
+   "es": {
+    "name": "Morris & Co.",
+    "short": "Morris & Co.",
+    "key": "La empresa decoradora fundada por William Morris y sus amigos en 1861, que hizo papeles murales, textiles, vitrales y muebles y se volvió el modelo práctico del movimiento Arts and Crafts.",
+    "more": "Comenzó como Morris, Marshall, Faulkner & Co. en 1861, con Morris, Philip Webb y Edward Burne-Jones entre sus socios, y se reorganizó bajo el control único de Morris como Morris & Co. en 1875. Produjo papeles murales, textiles estampados y tejidos, tapices, vitrales y muebles, muchos con diseños del propio Morris. Su trabajo era caro porque se hacía en gran parte a mano, algo que el mismo Morris lamentaba. La empresa continuó tras su muerte en 1896 hasta 1940.",
+    "place": "Londres"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-liberty",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "fashion"
+   ],
+   "start": 1875,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Liberty & Co.",
+   "short": "Liberty",
+   "key": "The London shop founded by Arthur Lasenby Liberty in 1875 that sold Japanese and Eastern goods and later its own fabrics and dress, and helped spread the Aesthetic taste.",
+   "more": "Arthur Lasenby Liberty opened the shop on Regent Street in 1875, selling Japanese and other Eastern goods, and soon added fabrics, furnishings and dress. It commissioned designs from artists and architects, and its printed cottons and silks became linked with the Aesthetic and Art Nouveau tastes. Liberty also had a strong effect abroad: in Italy the Art Nouveau style came to be called ‘stile Liberty’.",
+   "links": {
+    "designers": [],
+    "works": [
+     "liberty-artistic-dress"
+    ]
+   },
+   "es": {
+    "name": "Liberty & Co.",
+    "short": "Liberty",
+    "key": "La tienda londinense fundada por Arthur Lasenby Liberty en 1875 que vendió objetos japoneses y orientales y luego telas y vestidos propios, y ayudó a difundir el gusto esteticista.",
+    "more": "Arthur Lasenby Liberty abrió la tienda en Regent Street en 1875, con venta de objetos japoneses y de otros países de Oriente, y pronto sumó telas, mobiliario y vestidos. Encargó diseños a artistas y arquitectos, y sus algodones y sedas estampados quedaron asociados al gusto esteticista y al Art Nouveau. Liberty tuvo también gran efecto fuera: en Italia el Art Nouveau llegó a llamarse «stile Liberty».",
+    "place": "Londres"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-kelmscott-press",
+   "level": "essential",
+   "kind": "publication",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1891,
+   "end": 1898,
+   "place": "Hammersmith, London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Kelmscott Press",
+   "short": "Kelmscott Press",
+   "key": "The private press founded by William Morris in 1891 to print finely made books, which renewed interest in book design and began the private press movement.",
+   "more": "Morris set up the press in 1891, near his home at Hammersmith, and designed its own types, ornaments and borders, working with the engraver and printer Emery Walker’s advice and with illustrators including Edward Burne-Jones. The best known book is the Works of Geoffrey Chaucer, completed in 1896. The press closed in 1898, after Morris’s death, and its example led to many private presses in Britain and abroad.",
+   "links": {
+    "designers": [],
+    "works": [
+     "kelmscott-chaucer"
+    ]
+   },
+   "es": {
+    "name": "Kelmscott Press",
+    "short": "Kelmscott Press",
+    "key": "La imprenta privada fundada por William Morris en 1891 para imprimir libros de gran factura, que renovó el interés por el diseño del libro e inició el movimiento de las imprentas privadas.",
+    "more": "Morris fundó la imprenta en 1891, cerca de su casa de Hammersmith, y diseñó sus propios tipos, ornamentos y orlas, con el consejo del grabador e impresor Emery Walker y con ilustradores como Edward Burne-Jones. El libro más conocido es las Obras de Geoffrey Chaucer, terminado en 1896. La imprenta cerró en 1898, tras la muerte de Morris, y su ejemplo llevó a muchas imprentas privadas en Gran Bretaña y fuera de ella.",
+    "place": "Hammersmith, Londres"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-wiener-werkstatte",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic",
+    "fashion"
+   ],
+   "start": 1903,
+   "end": 1932,
+   "place": "Vienna",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "name": "Wiener Werkstätte",
+   "short": "Wiener Werkstätte",
+   "key": "The Viennese workshop cooperative founded in 1903 by Josef Hoffmann, Koloman Moser and the industrialist Fritz Waerndorfer to make well-designed handmade objects of every kind.",
+   "more": "Hoffmann, Moser and the financier Fritz Waerndorfer founded it in 1903, inspired by the English Arts and Crafts movement and by Charles Rennie Mackintosh’s work shown in Vienna. Its workshops made metalwork, furniture, jewellery, textiles, fashion and graphic work in a geometric style, often marked with the maker’s monogram. It was always expensive and had financial troubles, and it closed in 1932.",
+   "links": {
+    "designers": [
+     "josef-hoffmann"
+    ],
+    "works": [
+     "ww-metalwork"
+    ],
+    "movements": [
+     "vienna-secession"
+    ]
+   },
+   "es": {
+    "name": "Wiener Werkstätte",
+    "short": "Wiener Werkstätte",
+    "key": "La cooperativa de talleres vienesa fundada en 1903 por Josef Hoffmann, Koloman Moser y el industrial Fritz Waerndorfer para hacer objetos bien diseñados y hechos a mano de todo tipo.",
+    "more": "Hoffmann, Moser y el financista Fritz Waerndorfer la fundaron en 1903, inspirados por el movimiento inglés Arts and Crafts y por la obra de Charles Rennie Mackintosh mostrada en Viena. Sus talleres hicieron metalistería, muebles, joyas, textiles, moda y trabajos gráficos de estilo geométrico, a menudo con el monograma del autor. Siempre fue cara y tuvo problemas financieros, y cerró en 1932.",
+    "place": "Viena"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-werkbund",
+   "level": "essential",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "graphic",
+    "architecture"
+   ],
+   "start": 1907,
+   "end": 1934,
+   "place": "Munich, Berlin",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Deutscher Werkbund",
+   "short": "Werkbund",
+   "key": "The German association of architects, designers and manufacturers founded in Munich in 1907 to improve the quality of industrial products and tie design to industry.",
+   "more": "It was founded in Munich in October 1907 by twelve artists and twelve firms, among them Hermann Muthesius, Peter Behrens and Henry van de Velde. It sought good form and quality in manufactured goods through cooperation between designers and industry. Its 1914 Cologne exhibition was the scene of the debate between Muthesius, who favoured standard types, and Van de Velde, who defended the artist’s individual freedom. It was closed in 1934 under the Nazis and refounded after the war.",
+   "links": {
+    "designers": [],
+    "works": [],
+    "movements": [
+     "macro-modernism"
+    ],
+    "institutions": [
+     "inst-bauhaus"
+    ]
+   },
+   "es": {
+    "name": "Deutscher Werkbund",
+    "short": "Werkbund",
+    "key": "La asociación alemana de arquitectos, diseñadores y fabricantes fundada en Múnich en 1907 para mejorar la calidad de los productos industriales y unir el diseño con la industria.",
+    "more": "Se fundó en Múnich en octubre de 1907 por doce artistas y doce empresas, entre ellos Hermann Muthesius, Peter Behrens y Henry van de Velde. Buscó buena forma y calidad en los bienes fabricados mediante la cooperación entre diseñadores e industria. Su exposición de Colonia de 1914 fue el escenario del debate entre Muthesius, partidario de los tipos estándar, y Van de Velde, que defendió la libertad individual del artista. Fue cerrada en 1934 bajo los nazis y refundada tras la guerra.",
+    "place": "Múnich, Berlín"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-aeg",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic",
+    "architecture"
+   ],
+   "start": 1883,
+   "end": null,
+   "place": "Berlin",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "AEG",
+   "short": "AEG",
+   "key": "The Berlin electrical firm, founded in 1883 and renamed AEG in 1887, which in 1907 hired Peter Behrens to design its buildings, products and graphics, an early case of a unified corporate design.",
+   "more": "Emil Rathenau founded it in 1883 as the Deutsche Edison-Gesellschaft, and it took the name Allgemeine Elektricitäts-Gesellschaft in 1887. In 1907 it appointed Peter Behrens as artistic adviser, and he designed its turbine factory in Berlin, its logo, lettering, catalogues, lamps and kettles. Walter Gropius and Mies van der Rohe worked in Behrens’s office in these years.",
+   "links": {
+    "designers": [
+     "peter-behrens"
+    ],
+    "works": [
+     "aeg-kettle",
+     "aeg-arc-lamp",
+     "aeg-turbine-hall",
+     "behrens-aeg-logo"
+    ]
+   },
+   "es": {
+    "name": "AEG",
+    "short": "AEG",
+    "key": "La empresa eléctrica berlinesa, fundada en 1883 y llamada AEG desde 1887, que en 1907 contrató a Peter Behrens para diseñar sus edificios, productos y gráfica, un caso temprano de diseño corporativo unificado.",
+    "more": "Emil Rathenau la fundó en 1883 como Deutsche Edison-Gesellschaft, y tomó el nombre Allgemeine Elektricitäts-Gesellschaft en 1887. En 1907 nombró a Peter Behrens asesor artístico, quien diseñó su fábrica de turbinas en Berlín, su logotipo, su tipografía, catálogos, lámparas y hervidores. Walter Gropius y Mies van der Rohe trabajaron en el estudio de Behrens en esos años.",
+    "place": "Berlín"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-ford-motor",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1903,
+   "end": null,
+   "place": "Detroit, Dearborn",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Ford Motor Company",
+   "short": "Ford",
+   "key": "The American car maker founded in 1903 whose Model T and moving assembly line made mass production a model for industry and design.",
+   "more": "Henry Ford and partners founded the company in Detroit in 1903. It launched the Model T in 1908 and introduced the moving assembly line at Highland Park in 1913, which cut the time needed to build a car and brought its price down. The firm’s methods were studied around the world and became a reference for later talk of mass production in design and architecture.",
+   "links": {
+    "designers": [],
+    "works": [
+     "ford-model-t"
+    ]
+   },
+   "es": {
+    "name": "Ford Motor Company",
+    "short": "Ford",
+    "key": "La automotriz estadounidense fundada en 1903 cuyo Model T y cuya cadena de montaje móvil hicieron de la producción en masa un modelo para la industria y el diseño.",
+    "more": "Henry Ford y sus socios fundaron la empresa en Detroit en 1903. Lanzó el Model T en 1908 e introdujo la cadena de montaje móvil en Highland Park en 1913, que redujo el tiempo necesario para construir un auto y bajó su precio. Los métodos de la firma se estudiaron en todo el mundo y fueron referencia de la posterior idea de producción en masa en el diseño y la arquitectura.",
+    "place": "Detroit, Dearborn"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-glasgow-school-of-art",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1851,
+   "end": null,
+   "place": "Glasgow",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Glasgow School of Art",
+   "short": "Glasgow School of Art",
+   "key": "The Scottish art school founded in 1845 whose building by Charles Rennie Mackintosh, begun in 1897, is its best-known landmark.",
+   "more": "It began in 1845 as the Glasgow Government School of Design, and the start year is set to 1851 only to fit the period of this timeline. Charles Rennie Mackintosh studied there in evening classes. His design for the new school building won a competition and was built in two phases, the first opened around 1899 and the second completed in 1909. The building was badly damaged by fires in 2014 and 2018.",
+   "links": {
+    "designers": [
+     "charles-rennie-mackintosh"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Escuela de Arte de Glasgow",
+    "short": "Escuela de Glasgow",
+    "place": "Glasgow",
+    "key": "La escuela de arte escocesa fundada en 1845, cuyo edificio proyectado por Charles Rennie Mackintosh, iniciado en 1897, es su hito más conocido.",
+    "more": "Comenzó en 1845 como la Glasgow Government School of Design, y el año de inicio se fija en 1851 solo para ajustarse al período de esta línea de tiempo. Charles Rennie Mackintosh estudió allí en clases nocturnas. Su diseño para el nuevo edificio ganó un concurso y se construyó en dos etapas: la primera se inauguró hacia 1899 y la segunda se terminó en 1909. El edificio sufrió graves incendios en 2014 y 2018."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-chambre-syndicale",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1868,
+   "end": null,
+   "place": "Paris",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Chambre syndicale de la couture parisienne",
+   "short": "Chambre syndicale",
+   "key": "The Paris trade association of couture houses, founded in 1868, which defended its members’ models against copying and set the rules of haute couture.",
+   "more": "Founded in 1868 in Paris to bring together the couture houses, it defended their original models against copying and regulated the trade, from the apprenticeship system to the calendar of collections. In the twentieth century French law came to protect the name ‘haute couture’, and the Chambre decided which houses could use it. It continues today within the Fédération de la Haute Couture et de la Mode.",
+   "links": {
+    "designers": [],
+    "works": [
+     "worth-haute-couture"
+    ]
+   },
+   "es": {
+    "name": "Cámara sindical de la costura parisina",
+    "short": "Cámara sindical",
+    "place": "París",
+    "key": "La asociación parisina de casas de costura, fundada en 1868, que defendió los modelos de sus miembros contra la copia y fijó las reglas de la alta costura.",
+    "more": "Fundada en 1868 en París para reunir a las casas de costura, defendió sus modelos originales contra la copia y reguló el oficio, desde el sistema de aprendizaje hasta el calendario de las colecciones. En el siglo XX la ley francesa pasó a proteger el nombre «alta costura», y la Cámara decidía qué casas podían usarlo. Hoy continúa dentro de la Fédération de la Haute Couture et de la Mode."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-aces",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1887,
+   "end": 1987,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Arts and Crafts Exhibition Society",
+   "short": "Arts & Crafts Society",
+   "key": "The London society founded in 1887 to exhibit the work of designer-craftsmen, whose name gave the Arts and Crafts movement its title.",
+   "more": "Formed in London in 1887 by designers and craftsmen who found that the Royal Academy gave little room to the applied arts, it held its first exhibition in 1888. The name ‘Arts and Crafts’ is credited to the bookbinder T. J. Cobden-Sanderson. Walter Crane was its first president, and William Morris took part in its shows. By putting furniture, textiles and metalwork on the walls like paintings, it gave the craftsman’s signed work the standing of art.",
+   "links": {
+    "designers": [
+     "william-morris"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Arts and Crafts Exhibition Society",
+    "short": "Arts & Crafts Society",
+    "place": "Londres",
+    "key": "La sociedad londinense fundada en 1887 para exponer la obra de diseñadores-artesanos, cuyo nombre dio título al movimiento Arts and Crafts.",
+    "more": "Formada en Londres en 1887 por diseñadores y artesanos que veían poco espacio para las artes aplicadas en la Royal Academy, realizó su primera exposición en 1888. El nombre «Arts and Crafts» se atribuye al encuadernador T. J. Cobden-Sanderson. Walter Crane fue su primer presidente, y William Morris participó en sus muestras. Al exhibir muebles, textiles y metalistería como si fueran cuadros, dio a la obra firmada del artesano la categoría de arte."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-vogue",
+   "level": "essential",
+   "kind": "publication",
+   "disciplines": [
+    "fashion",
+    "graphic"
+   ],
+   "start": 1892,
+   "end": null,
+   "place": "New York",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Vogue",
+   "short": "Vogue",
+   "key": "The fashion magazine founded in New York in 1892 and bought by Condé Nast in 1909, which became the main window through which fashion reached its readers.",
+   "more": "Arthur Baldwin Turnure founded Vogue in New York in 1892 as a weekly for high society. Condé Nast bought it in 1909 and turned it into a magazine of fashion for women. British Vogue followed in 1916 and French Vogue in 1920. Its illustrated covers and, later, its photography set how fashion was shown and seen.",
+   "links": {
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Vogue",
+    "short": "Vogue",
+    "place": "Nueva York",
+    "key": "La revista de moda fundada en Nueva York en 1892 y comprada por Condé Nast en 1909, que se volvió la principal vitrina por la que la moda llegaba a sus lectoras.",
+    "more": "Arthur Baldwin Turnure fundó Vogue en Nueva York en 1892 como semanario para la alta sociedad. Condé Nast la compró en 1909 y la convirtió en una revista de moda para mujeres. La Vogue británica siguió en 1916 y la francesa en 1920. Sus portadas ilustradas y, más tarde, su fotografía fijaron cómo se mostraba y se veía la moda."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-ibm",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic",
+    "architecture"
+   ],
+   "start": 1911,
+   "end": null,
+   "place": "New York State",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "IBM",
+   "short": "IBM",
+   "key": "The American office-machine and computer company, formed in 1911, whose design programme under consultant Eliot Noyes became a reference for corporate design.",
+   "more": "Formed in 1911 as the Computing-Tabulating-Recording Company, it took the name International Business Machines in 1924. From 1956 Eliot Noyes was its design consultant, and he brought in designers such as Paul Rand for the graphic identity and Charles Eames and Eero Saarinen for films, exhibits and buildings. Noyes himself designed the Selectric typewriter of 1961. Machines, buildings and graphics were meant to look like one company.",
+   "links": {
+    "designers": [
+     "eliot-noyes"
+    ],
+    "works": [
+     "ibm-selectric-1961",
+     "thinkpad-700c-1992",
+     "ibm-logo"
+    ]
+   },
+   "es": {
+    "name": "IBM",
+    "short": "IBM",
+    "place": "Estado de Nueva York",
+    "key": "La empresa estadounidense de máquinas de oficina y computadores, formada en 1911, cuyo programa de diseño con el consultor Eliot Noyes se volvió un referente del diseño corporativo.",
+    "more": "Formada en 1911 como Computing-Tabulating-Recording Company, adoptó el nombre International Business Machines en 1924. Desde 1956 Eliot Noyes fue su consultor de diseño, y llamó a diseñadores como Paul Rand para la identidad gráfica y a Charles Eames y Eero Saarinen para películas, exposiciones y edificios. El propio Noyes diseñó la máquina de escribir Selectric de 1961. Máquinas, edificios y gráfica debían verse como una sola empresa."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-darmstadt-colony",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "architecture",
+    "product",
+    "graphic"
+   ],
+   "start": 1899,
+   "end": 1914,
+   "place": "Darmstadt",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Darmstadt Artists’ Colony",
+   "short": "Darmstadt colony",
+   "key": "The artists’ colony founded by Grand Duke Ernst Ludwig of Hesse on the Mathildenhöhe in 1899, where architects and artists built houses, furnishings and exhibitions as a total work of art.",
+   "more": "Ernst Ludwig invited a group of artists to live and work on the Mathildenhöhe hill, among them the Austrian architect Joseph Maria Olbrich and the German Peter Behrens. The colony held exhibitions there, beginning in 1901, in which the houses, interiors and objects were themselves the show. Olbrich designed most of the main buildings, including the studio building known as the Ernst Ludwig House, while Behrens built and furnished his own house. The colony wound down around 1914.",
+   "links": {
+    "movements": [],
+    "designers": [
+     "joseph-maria-olbrich"
+    ],
+    "works": [
+     "ernst-ludwig-house-1901"
+    ]
+   },
+   "es": {
+    "name": "Colonia de Artistas de Darmstadt (Mathildenhöhe)",
+    "short": "Colonia de Darmstadt",
+    "place": "Darmstadt",
+    "key": "La colonia de artistas fundada por el gran duque Ernesto Luis de Hesse en la Mathildenhöhe en 1899, donde arquitectos y artistas construyeron casas, mobiliario y exposiciones como obra de arte total.",
+    "more": "Ernesto Luis invitó a un grupo de artistas a vivir y trabajar en la colina de la Mathildenhöhe, entre ellos el arquitecto austríaco Joseph Maria Olbrich y el alemán Peter Behrens. La colonia realizó allí exposiciones, desde 1901, en las que las casas, los interiores y los objetos eran la propia muestra. Olbrich proyectó la mayoría de los edificios principales, entre ellos el edificio de talleres conocido como Casa Ernesto Luis, mientras que Behrens construyó y amobló su propia casa. La colonia se fue apagando hacia 1914."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-maison-art-nouveau",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1895,
+   "end": 1905,
+   "place": "Paris",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Maison de l'Art Nouveau (Siegfried Bing)",
+   "short": "Maison Art Nouveau",
+   "key": "Siegfried Bing’s Paris gallery, opened in 1895, which showed new decorative arts and gave Art Nouveau its name.",
+   "more": "Bing, a dealer who had made his name selling Japanese art, opened the shop in Paris in December 1895 and commissioned furniture, glass, ceramics and objects from designers such as Henry van de Velde and Louis Comfort Tiffany. It gave the style its name, and he showed an Art Nouveau pavilion at the Paris exposition of 1900. The gallery closed in about 1904–05.",
+   "links": {
+    "movements": [
+     "art-nouveau"
+    ],
+    "designers": [],
+    "works": [
+     "bloemenwerf-chair-1895",
+     "tiffany-lamps"
+    ]
+   },
+   "es": {
+    "name": "Maison de l'Art Nouveau (Siegfried Bing)",
+    "short": "Maison Art Nouveau",
+    "place": "París",
+    "key": "La galería parisina de Siegfried Bing, abierta en 1895, que mostró las nuevas artes decorativas y dio su nombre al Art Nouveau.",
+    "more": "Bing, un marchante que se había hecho un nombre vendiendo arte japonés, abrió la tienda en París en diciembre de 1895 y encargó muebles, vidrio, cerámica y objetos a diseñadores como Henry van de Velde y Louis Comfort Tiffany. Dio su nombre al estilo, y en la exposición de París de 1900 presentó un pabellón Art Nouveau. La galería cerró hacia 1904–05."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,577 @@
+{
+ "production": [
+  {
+   "id": "tubular-steel",
+   "sub": "materials",
+   "start": 1925,
+   "end": 1945,
+   "cont": true,
+   "date": "1925 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Tubular steel",
+   "short": "Tubular steel",
+   "key": "Bent steel tube, light, strong and plated with nickel or chrome, became the material of modern furniture from the mid-1920s.[1][3][4]",
+   "origin": "Seamless steel tube had been improved by the Mannesmann process of 1886,[5] and tubular steel was already used in bicycle handlebars.[4] At the Bauhaus in Dessau, Marcel Breuer made his first tubular-steel chair in 1925,[1][2] inspired, by his own account, by the handlebars and frame of his Adler bicycle.[2][3][4]",
+   "enabled": "Thin, strong frames of bent tube, including chairs without back legs that rest on a cantilever,[6] and frames bolted together from a few lengths of tube that could be taken apart.[3] Standard-Möbel, founded in Berlin in 1926 to make them, aimed at series production,[7] although in practice most tubular-steel chairs were still made by hand in small batches.[3]",
+   "change": "Furniture could now look light and open: Breuer argued that metal furniture belonged to a more modern room, one of airy elements that neither hinder movement nor the view through the room,[7] and its smooth, cleanable surface fitted the ideas of hygiene of the time.[7]",
+   "economy": "Thonet, the great maker of bentwood chairs,[8] signed with Breuer in 1928 and bought his firm Standard-Möbel in 1929;[6] according to Thonet itself, it was the largest manufacturer of tubular-steel furniture in the world in the 1930s.[6]",
+   "relations": "The cantilever chair was developed by several designers at once: Mart Stam made a chair without back legs from ten pieces of gas pipe in 1926,[6] Mies van der Rohe turned the idea into a curved, flexible model in Stuttgart in 1927,[6] and Breuer designed his Cesca chair in 1928,[8] in a race that the Design Museum says Stam won.[9]",
+   "links": {
+    "movements": [
+     "bauhaus-movement",
+     "new-objectivity"
+    ],
+    "institutions": [
+     "inst-bauhaus",
+     "inst-weissenhof"
+    ],
+    "designers": [
+     "breuer",
+     "mies-van-der-rohe",
+     "lilly-reich",
+     "perriand",
+     "eileen-gray"
+    ],
+    "works": [
+     "wassily-chair",
+     "mr10-chair",
+     "cesca-chair",
+     "lc4-chaise-longue",
+     "e1027-table"
+    ]
+   },
+   "wiki": "Wassily_Chair",
+   "es": {
+    "name": "Tubo de acero",
+    "short": "Tubo de acero",
+    "date": "1925 →",
+    "key": "El tubo de acero doblado, liviano, resistente y niquelado o cromado, se volvió el material del mueble moderno desde mediados de la década de 1920.[1][3][4]",
+    "origin": "El tubo de acero sin costura se había perfeccionado con el proceso Mannesmann de 1886,[5] y el tubo de acero ya se usaba en los manubrios de bicicleta.[4] En la Bauhaus de Dessau, Marcel Breuer hizo su primera silla de tubo de acero en 1925,[1][2] inspirado, según él mismo, en el manubrio y el cuadro de su bicicleta Adler.[2][3][4]",
+    "enabled": "Estructuras delgadas y resistentes de tubo doblado, incluidas sillas sin patas traseras que se apoyan en voladizo,[6] y armazones atornillados a partir de unos pocos tramos de tubo, que podían desarmarse.[3] Standard-Möbel, fundada en Berlín en 1926 para fabricarlas, apuntaba a la producción en serie,[7] aunque en la práctica la mayoría de las sillas de tubo de acero se seguían haciendo a mano, en tandas pequeñas.[3]",
+    "change": "El mueble pudo verse ahora liviano y abierto: Breuer sostenía que el mueble metálico pertenecía a una habitación más moderna, hecha de elementos aéreos que no estorban el movimiento ni la vista a través del espacio,[7] y su superficie lisa y fácil de limpiar encajaba con las ideas de higiene de la época.[7]",
+    "economy": "Thonet, el gran fabricante de sillas de madera curvada,[8] firmó con Breuer en 1928 y compró su empresa Standard-Möbel en 1929;[6] según la propia Thonet, en los años treinta era el mayor fabricante de muebles de tubo de acero del mundo.[6]",
+    "relations": "La silla en voladizo la desarrollaron varios diseñadores a la vez: Mart Stam hizo en 1926 una silla sin patas traseras con diez piezas de tubo de gas,[6] Mies van der Rohe convirtió la idea en un modelo curvo y flexible en Stuttgart en 1927,[6] y Breuer diseñó su silla Cesca en 1928,[8] en una carrera que, según el Design Museum, ganó Stam.[9]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Marcel Breuer»",
+     "url": "https://www.britannica.com/biography/Marcel-Breuer",
+     "checks": "en 1925, inspirado en el manubrio de una bicicleta, Breuer inventó la silla de tubo metálico; su versión original es la silla Wassily",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Centre Pompidou, «Focus on… the Wassily club chair of Marcel Breuer»",
+     "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-the-wassily-club-chair-of-marcel-breuer",
+     "checks": "silla creada en 1925, mientras Breuer dirigía el taller de carpintería de la Bauhaus en Dessau; inspirada en el manubrio de su bicicleta Adler; tubo de acero liviano y durable",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Club chair model B3, Marcel Breuer",
+     "url": "https://collections.vam.ac.uk/item/O114197/club-chair-model-b3-armchair-breuer-marcel-lajos/",
+     "checks": "diseñada en 1925–26 y fabricada en 1927–28; tubo de acero sin costura tomado del diámetro del tubo de su bicicleta; acero niquelado y atornillado, desarmable; en la práctica la mayoría de las sillas de tubo se hacían a mano en tandas pequeñas",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Marcel Breuer, Club chair (B3 / Wassily), 1927–28",
+     "url": "https://www.moma.org/collection/works/2851",
+     "checks": "Breuer decía haberse inspirado en el manubrio de tubo de acero de su bicicleta, resistente, liviano y fabricado en serie; prototipo de 1925 en la Bauhaus de Dessau; en un año diseñadores de todas partes experimentaban con tubo de acero; el ejemplar del MoMA es de acero tubular cromado",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Seamless tubing»",
+     "url": "https://www.britannica.com/technology/seamless-tubing",
+     "checks": "el proceso Mannesmann, Alemania, 1886, como mejora fundamental del tubo sin costura. ⚠ No dice nada sobre bicicletas",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Thonet, «As if drawn into the room: Thonet and tubular steel»",
+     "url": "https://www.thonet.de/en/magazine/history-brand/detail/thonet-and-tubular-steel",
+     "checks": "Mart Stam, silla sin patas traseras con diez piezas de tubo de gas en 1926; Mies van der Rohe la convirtió en 1927, en Stuttgart, en el primer modelo en voladizo curvo y flexible; contrato Thonet–Breuer en 1928; Thonet compró Standard-Möbel (fundada en 1926) en 1929; en los años treinta, mayor fabricante de muebles de tubo de acero del mundo. ⚠ Afirmaciones de la propia empresa",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Thonet, «Thonet and the Bauhaus»",
+     "url": "https://www.thonet.de/en/magazine/history-brand/detail/thonet-and-the-bauhaus",
+     "checks": "Breuer inició el mueble de tubo hacia 1925; Standard-Möbel creada en Berlín en 1926 por Breuer y Kálmán Lengyel para fabricarlo; cita de Breuer sobre el mueble metálico como parte de una habitación más moderna, ligera, que no estorba el movimiento ni la vista; superficie lisa y limpiable ligada a la higiene; Thonet adquiere Standard-Möbel en 1929. ⚠ Página leída mediante resumen automático; empresa interesada",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Model B32 chair (Cesca), Marcel Breuer",
+     "url": "https://collections.vam.ac.uk/item/O114123/model-b32-chair-breuer-marcel-lajos/",
+     "checks": "silla diseñada por Breuer en 1928 y fabricada por Thonet desde 1930, de tubo de acero cromado con asiento y respaldo de haya curvada y caña; evoca la tradición de la madera curvada de Thonet",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Design Museum, «Chairs of the 1920s»",
+     "url": "https://designmuseum.org/design/chairs-1920s",
+     "checks": "Breuer y Mies, en Alemania, y Le Corbusier, Jeanneret y Perriand, en París, experimentaron con tubo de acero; la «carrera» por la primera silla en voladizo la ganó Mart Stam; el acero cromado era acabado habitual en los modelos MR10, B302 y B32",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "moulded-plywood",
+   "sub": "materials",
+   "start": 1930,
+   "end": 1945,
+   "cont": true,
+   "date": "1930s →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI",
+    "EE",
+    "GB"
+   ],
+   "name": "Moulded plywood",
+   "short": "Moulded plywood",
+   "key": "Thin layers of wood glued and bent in moulds gave furniture curved, springy forms without metal.[2]",
+   "origin": "Moulded plywood seats had been made since the late 19th century, for example by the Luther factory in Estonia.[1] In the early 1930s Alvar Aalto and Otto Korhonen, technical manager of a furniture factory near Turku, developed laminated birch frames and bent plywood seats.[2][3]",
+   "enabled": "Light, slightly elastic furniture made from a few standardised parts, in birch, a wood abundant in Finland.[2][3]",
+   "change": "It offered a more ‘human’ modernism: Aalto took Breuer’s tubular-steel club chair as a starting point but chose birch for its natural qualities and a more organic form,[2] and in Britain buyers preferred the warm look of wood to that of metal furniture.[4]",
+   "economy": "Artek, founded in 1935, was set up to produce Aalto’s furniture in series.[2][3]",
+   "relations": "Breuer, chief designer of Isokon in London from January 1936,[5] made his Long Chair of 1936 with a laminated birch frame and a bent plywood seat, the seats first sent from Estonia,[4] where the Luther factory moulded them.[1] In 1937 Aalto’s patent agents challenged the chair, and the two sides agreed to keep off each other’s designs.[5] Charles and Ray Eames, influenced by Aalto,[2] showed their moulded plywood furniture at the Museum of Modern Art in June 1946, after presenting it to distributors in 1945.[6]",
+   "links": {
+    "movements": [
+     "international-style"
+    ],
+    "institutions": [
+     "inst-artek"
+    ],
+    "designers": [
+     "aalto-alvar-aino",
+     "breuer"
+    ],
+    "works": [
+     "paimio-chair",
+     "stool-60"
+    ]
+   },
+   "wiki": "Molded_plywood",
+   "es": {
+    "name": "Terciado moldeado",
+    "short": "Terciado moldeado",
+    "date": "años 1930 →",
+    "key": "Capas finas de madera encoladas y curvadas en moldes dieron al mueble formas curvas y elásticas sin metal.[2]",
+    "origin": "Desde fines del siglo XIX se fabricaban asientos de terciado, o contrachapado, moldeado, por ejemplo en la fábrica Luther, en Estonia.[1] A comienzos de los años treinta Alvar Aalto y Otto Korhonen, jefe técnico de una fábrica de muebles cerca de Turku, desarrollaron estructuras de abedul laminado y asientos de terciado curvado.[2][3]",
+    "enabled": "Muebles livianos y algo elásticos, hechos con pocas piezas estandarizadas, en abedul, una madera abundante en Finlandia.[2][3]",
+    "change": "Ofreció un modernismo más «humano»: Aalto tomó como punto de partida el sillón de tubo de acero de Breuer, pero eligió el abedul por sus cualidades naturales y una forma más orgánica,[2] y en Gran Bretaña el público prefería la apariencia cálida de la madera a la del mueble metálico.[4]",
+    "economy": "Artek, fundada en 1935, se creó para producir en serie los muebles de Aalto.[2][3]",
+    "relations": "Breuer, diseñador jefe de Isokon en Londres desde enero de 1936,[5] hizo su Long Chair de 1936 con un armazón de abedul laminado y un asiento de terciado curvado, con los asientos enviados primero desde Estonia,[4] donde los moldeaba la fábrica Luther.[1] En 1937 los agentes de patentes de Aalto cuestionaron la silla, y ambas partes acordaron no invadir los diseños del otro.[5] Charles y Ray Eames, influidos por Aalto,[2] presentaron sus muebles de terciado moldeado en el Museum of Modern Art en junio de 1946, tras mostrarlos a distribuidores en 1945.[6]"
+   },
+   "refs": [
+    {
+     "label": "Estonian World, «A look at Estonia through plywood: the material of the modern world»",
+     "url": "https://estonianworld.com/culture/look-estonia-plywood-material-modern-world/",
+     "checks": "la fábrica A. M. Luther (Luterma), en Estonia, fabricó las sillas de asiento moldeado de Gardner & Co (patente de Nueva York, años 1870); en los años treinta moldeó en tandas los asientos de las Short Chairs de Breuer, enviados a Gran Bretaña. ⚠ Medio divulgativo; no da año exacto de inicio de Luther",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Alvar Aalto, Paimio lounge chair (model 41), 1932",
+     "url": "https://www.moma.org/collection/works/92879",
+     "checks": "silla de 1932 en abedul laminado curvado y terciado curvado; Aalto partió del sillón de tubo de acero de Breuer pero eligió el abedul por sus cualidades naturales, para una forma más orgánica; Artek se fundó en 1935 para producir sus muebles en serie; influyó en los Eames",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, «Alvar Aalto, furniture and glass» (catálogo de exposición, PDF)",
+     "url": "https://assets.moma.org/documents/moma_catalogue_1792_300062713.pdf",
+     "checks": "Otto Korhonen, jefe técnico de una fábrica de muebles cerca de Turku, ejecutó los diseños de Aalto; el abedul laminado y el terciado curvado, materiales abundantes en Finlandia; Artek (1935) para producción en serie con piezas estandarizadas; antecedente de los asientos moldeados de Luther. ⚠ Leído mediante resumen automático",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Long Chair, Marcel Breuer (Isokon)",
+     "url": "https://collections.vam.ac.uk/item/O22774/long-chair-reclining-chair-breuer/",
+     "checks": "silla de 1936 con armazón de abedul laminado y asiento/respaldo de terciado curvado; los asientos se enviaban primero desde Estonia; el público británico prefería la apariencia cálida de la madera a la del mueble metálico",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Disegno Journal, «Aalto vs. Breuer»",
+     "url": "https://disegnojournal.com/newsfeed/aalto-vs-breuer",
+     "checks": "Isokon fundada en 1935; Breuer, diseñador jefe desde enero de 1936; en 1937 los agentes de patentes de Aalto cuestionaron la Long Chair y ambas partes acordaron no invadir los diseños del otro",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Eames Office, Molded Plywood Group (1946)",
+     "url": "https://www.eamesoffice.com/the-work/molded-plywood-group/",
+     "checks": "muebles de terciado moldeado presentados en junio de 1946 en el MoMA, tras mostrarlos a posibles distribuidores en 1945; moldeo de curva compuesta. ⚠ Sitio de la oficina Eames (parte interesada)",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "bakelite",
+   "sub": "materials",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "name": "Bakelite",
+   "short": "Bakelite",
+   "key": "The first fully synthetic plastic, moulded under heat and pressure, became the material of radios, telephones and electrical fittings.[2]",
+   "origin": "Leo Baekeland, a Belgian-born chemist working in New York, filed for his patent in 1907 and announced Bakelite in 1909.[1][2][3][4] Its use spread after the First World War as radio became popular,[1][7] and the firm, merged since 1922 into the Bakelite Corporation,[3] sold it under the slogan ‘the material of a thousand uses’.[1][4]",
+   "enabled": "Hard, heat-resistant, insulating casings, compression-moulded under great pressure, over 1,000 tons for the Ekco AD65 case, into light, compact geometric forms.[2][5][6][7]",
+   "change": "Radio stopped being a piece of furniture: for the AD65 of 1932, Wells Coates designed a circular Bakelite case instead of a wooden cabinet, a form that set the conventions for radios for years,[5][6] although the maker still chose a brown meant to evoke burr walnut, and the brown version sold better than the black.[5]",
+   "relations": "Bakelite filled with wood flour was usually dark, black, brown, red or green,[7] and when the patents expired in 1926–27 Catalin introduced lighter, coloured cast phenolic resins.[1][7]",
+   "links": {
+    "movements": [
+     "streamline-moderne",
+     "art-deco"
+    ],
+    "institutions": [],
+    "designers": [
+     "dreyfuss"
+    ],
+    "works": [
+     "dbh-1001-telephone",
+     "model-302-telephone"
+    ]
+   },
+   "wiki": "Bakelite",
+   "es": {
+    "name": "Baquelita",
+    "short": "Baquelita",
+    "date": "años 1920 →",
+    "key": "El primer plástico totalmente sintético, moldeado con calor y presión, se volvió el material de radios, teléfonos y accesorios eléctricos.[2]",
+    "origin": "Leo Baekeland, químico nacido en Bélgica y radicado en Nueva York, pidió su patente en 1907 y anunció la baquelita en 1909.[1][2][3][4] Su uso se difundió tras la Primera Guerra Mundial con la popularidad de la radio,[1][7] y la empresa, fusionada desde 1922 en la Bakelite Corporation,[3] la vendía con el lema «el material de los mil usos».[1][4]",
+    "enabled": "Carcasas duras, resistentes al calor y aislantes, moldeadas por compresión a gran presión, de más de 1.000 toneladas en el caso de la Ekco AD65, en formas geométricas livianas y compactas.[2][5][6][7]",
+    "change": "La radio dejó de ser un mueble: para la AD65 de 1932, Wells Coates diseñó una carcasa circular de baquelita en lugar de un gabinete de madera, una forma que fijó las convenciones de las radios por años,[5][6] aunque el fabricante eligió además un café pensado para evocar la nogal, y la versión café se vendió mejor que la negra.[5]",
+    "relations": "La baquelita con carga de harina de madera solía ser oscura: negra, café, roja o verde,[7] y cuando vencieron las patentes, en 1926–27, Catalin introdujo resinas fenólicas coladas más claras y de colores.[1][7]"
+   },
+   "refs": [
+    {
+     "label": "The Henry Ford, «Bakelite, the Material of a Thousand Uses»",
+     "url": "https://www.thehenryford.org/collections-and-research/digital-collections/expert-sets/105857/",
+     "checks": "Baekeland, químico belga, presentó patentes en 1907 y lo introdujo públicamente en 1909; usos eléctricos (interruptores, auriculares de teléfono, partes de auto); lema «el material de los mil usos»; auge de la radio tras la Primera Guerra Mundial; vencimiento de patentes en 1926–27 y resinas fenólicas de color de Catalin",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "American Chemical Society, «Leo Hendrick Baekeland and the Invention of Bakelite»",
+     "url": "https://www.acs.org/education/whatischemistry/landmarks/bakelite.html",
+     "checks": "patente de 1907, anuncio de 1909; fabricada con calor y presión; primer plástico totalmente sintético; aislante; usos en radios, teléfonos y componentes eléctricos. ⚠ Página leída mediante resumen automático",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian, National Museum of American History, Leo H. Baekeland Papers",
+     "url": "https://si.edu/object/archives/sova-nmah-ac-0005",
+     "checks": "Baekeland desarrolló el material hasta 1907 y lo anunció a la comunidad científica en 1909; General Bakelite Company (1910); fusión en 1922 con Condensite y Redmanol para formar la Bakelite Corporation; Nepera Chemical en Yonkers, Nueva York",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Science Museum, «Bakelite®: The First Synthetic Plastic»",
+     "url": "https://blog.sciencemuseum.org.uk/bakelite-the-first-synthetic-plastic/",
+     "checks": "Baekeland, químico nacido en Bélgica; patente concedida el 7 de diciembre de 1909; lema «The material of 1000 uses»; teléfonos y radios entre los usos",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Ekco AD-65 radio, Wells Coates",
+     "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells-obe/",
+     "checks": "diseñada en 1932 y fabricada por E. K. Cole en 1934; carcasa de baquelita moldeada por compresión, en café oscuro pensado para evocar la nogal; presión de más de 1.000 toneladas; forma circular que fijó convenciones para las radios; la versión café vendió más que la negra",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Wells Coates, Radio (model AD-65), 1932",
+     "url": "https://www.moma.org/collection/works/185452",
+     "checks": "Ekco adoptó temprano la baquelita, plástico sintético moldeable industrialmente; formas geométricas moldeadas, livianas y compactas; el diseño dejaba a la vista altavoz y perillas en lugar de ocultarlos",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museum of Design in Plastics (MoDiP), «Phenol formaldehyde»",
+     "url": "https://www.modip.ac.uk/plastics/materials/phenol-formaldehyde",
+     "checks": "fenol-formaldehído desarrollado en 1907, difusión amplia después de 1915; con carga de harina de madera es «normalmente oscuro: negro, tonos de verde, rojo y café»; la resina líquida (Catalin) admite más colores; carcasas de radio y reloj, componentes eléctricos",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "stainless-steel",
+   "sub": "materials",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "name": "Stainless steel",
+   "short": "Stainless steel",
+   "key": "Steel alloyed with chromium that does not rust or need plating, used from the late 1920s in kitchens and buildings.[1][3][4]",
+   "origin": "Krupp engineers patented an austenitic stainless steel in 1912, sold as Nirosta,[1][2] and Harry Brearley in England obtained a chromium steel in 1913.[2][4] Its wider use came at the end of the 1920s: a prestigious installation at the Savoy Hotel in London in 1929 raised public awareness of it.[1]",
+   "enabled": "Bright metal surfaces that resisted corrosion and were ductile and easy to form,[2] and that could be used outdoors, as in the Chrysler Building,[3] and in food preparation.[4]",
+   "change": "Shining, permanent metal became a symbol of the machine age. For the Chrysler Building in New York, the architect William Van Alen chose Nirosta stainless steel for its ‘bright, silvery appearance’ and used it in the spire, ornaments, window frames and crown.[3]",
+   "economy": "According to a British industry history, about 25,000 tons of stainless steel were made and sold in the United States in 1929.[1]",
+   "relations": "No work in this list is mainly made of stainless steel; its role here is that of an emblem of Art Deco and Streamline architecture and transport.",
+   "links": {
+    "movements": [
+     "art-deco",
+     "streamline-moderne"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "wiki": "Stainless_steel",
+   "es": {
+    "name": "Acero inoxidable",
+    "short": "Acero inoxidable",
+    "date": "años 1920 →",
+    "key": "Acero aleado con cromo que no se oxida ni necesita recubrimiento, usado desde fines de los años veinte en cocinas y edificios.[1][3][4]",
+    "origin": "Ingenieros de Krupp patentaron en 1912 un acero inoxidable austenítico, vendido como Nirosta,[1][2] y Harry Brearley, en Inglaterra, obtuvo en 1913 un acero al cromo.[2][4] Su uso más amplio llegó a fines de los años veinte: una instalación de prestigio en el Savoy Hotel de Londres, en 1929, aumentó su conocimiento público.[1]",
+    "enabled": "Superficies metálicas brillantes que resistían la corrosión y eran dúctiles y fáciles de conformar,[2] y que podían usarse a la intemperie, como en el edificio Chrysler,[3] y en la preparación de alimentos.[4]",
+    "change": "El metal brillante y permanente se volvió símbolo de la era de la máquina. Para el edificio Chrysler de Nueva York, el arquitecto William Van Alen eligió acero inoxidable Nirosta por su «apariencia brillante y plateada» y lo usó en la aguja, los ornamentos, los marcos de ventana y el coronamiento.[3]",
+    "economy": "Según una historia de la industria británica, en 1929 se fabricaron y vendieron en Estados Unidos unas 25.000 toneladas de acero inoxidable.[1]",
+    "relations": "Ninguna obra de esta lista está hecha principalmente de acero inoxidable; aquí cumple el papel de emblema de la arquitectura y el transporte art déco y aerodinámicos."
+   },
+   "refs": [
+    {
+     "label": "British Stainless Steel Association, «Stainless steel: a history»",
+     "url": "https://www.bsstainless.com/stainless-steel-a-history",
+     "checks": "Krupp, Maurer y Strauss, patente de acero inoxidable austenítico (Nirosta) en 1912; instalación en el Savoy Hotel de Londres en 1929 aumentó el conocimiento público; en 1929 se fabricaron y vendieron 25.000 toneladas en EE. UU. ⚠ Asociación de la industria (parte interesada)",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Corrosionpedia, «12 Things You Need to Know About Austenitic Stainless Steel»",
+     "url": "https://www.corrosionpedia.com/12-things-you-need-to-know-about-austenitic-stainless-steel/2/6815",
+     "checks": "Krupp patentó en 1912 el acero austenítico bajo la marca Nirosta, resistente a la corrosión por ácidos, dúctil y fácil de conformar; Brearley, 1913, cromo. ⚠ Sitio técnico comercial; da «Enno» Strauss mientras BSSA da «Benno»",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Clinton Aluminum, «Stainless Steel Uses in Monuments and Sculptures»",
+     "url": "https://clintonaluminum.com/stainless-steel-uses-in-monuments-and-sculptures/",
+     "checks": "en el edificio Chrysler se usó por primera vez comercialmente el acero Nirosta; William Van Alen lo eligió por su «apariencia brillante y plateada» y lo usó en la aguja, ornamentos, marcos de ventana y coronamiento. ⚠ Sitio de un proveedor; fecha dada solo como «años treinta»; da 1912 para Brearley (otras fuentes dicen 1913)",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "RG Smith Company, «The History of Stainless Steel»",
+     "url": "https://www.rgscontractors.com/the-history-of-stainless-steel/",
+     "checks": "Krupp patentó en 1912 un acero austenítico; Brearley, en Inglaterra, acuñó «rustless steel», luego «stainless»; usos en preparación de alimentos, medicina y transporte. ⚠ Sitio de un contratista; no menciona Sheffield ni el tipo martensítico",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "chrome-plating",
+   "sub": "materials",
+   "start": 1924,
+   "end": 1945,
+   "cont": true,
+   "date": "1924 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "name": "Chrome plating",
+   "short": "Chrome plating",
+   "key": "A thin electroplated layer of chromium that gives metal a hard, mirror-like and rust-resistant finish.",
+   "origin": "After research from 1920, Colin G. Fink and C. H. Eldridge at Columbia University developed a commercial process in 1924.",
+   "enabled": "A brilliant, durable finish on tubular steel,[3][4] suited to the ideals of hygiene of the time.[4]",
+   "change": "The chrome shine became the look of modern furniture: the Design Museum calls chromium-plated steel a standard finish of the chairs of the 1920s, such as the MR10, B302 and B32, whose appeal came from the contrast of polished tube, warm wood and translucent cane.[3]",
+   "relations": "Early tubular-steel chairs were nickel-plated, as the V&A’s Breuer B3, designed in 1925–26,[1] while the Cesca of 1928 is chrome-plated;[2] chrome was the usual finish by the end of the 1920s.[3]",
+   "links": {
+    "movements": [
+     "streamline-moderne",
+     "art-deco"
+    ],
+    "institutions": [],
+    "designers": [
+     "breuer",
+     "mies-van-der-rohe"
+    ],
+    "works": [
+     "cesca-chair",
+     "mr10-chair",
+     "lc4-chaise-longue",
+     "chrysler-airflow"
+    ]
+   },
+   "wiki": "Chrome_plating",
+   "es": {
+    "name": "Cromado",
+    "short": "Cromado",
+    "date": "1924 →",
+    "key": "Una capa delgada de cromo aplicada por electrólisis que da al metal un acabado duro, de espejo y resistente al óxido.",
+    "origin": "Tras investigaciones desde 1920, Colin G. Fink y C. H. Eldridge, en la Universidad de Columbia, desarrollaron un proceso comercial en 1924.",
+    "enabled": "Un acabado brillante y durable sobre tubo de acero,[3][4] ajustado a los ideales de higiene de la época.[4]",
+    "change": "El brillo del cromo se volvió el aspecto del mueble moderno: el Design Museum llama al acero cromado un acabado habitual de las sillas de los años veinte, como las MR10, B302 y B32, cuyo atractivo venía del contraste entre el tubo pulido, la madera cálida y la caña translúcida.[3]",
+    "relations": "Las primeras sillas de tubo de acero eran niqueladas, como la B3 de Breuer del V&A, diseñada en 1925–26,[1] mientras que la Cesca de 1928 es cromada;[2] el cromo fue el acabado habitual hacia fines de los años veinte.[3]"
+   },
+   "refs": [
+    {
+     "label": "V&A, Club chair model B3, Marcel Breuer",
+     "url": "https://collections.vam.ac.uk/item/O114197/club-chair-model-b3-armchair-breuer-marcel-lajos/",
+     "checks": "la silla B3, diseñada en 1925–26 y fabricada en 1927–28, es de tubo de acero niquelado",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Model B32 chair (Cesca), Marcel Breuer",
+     "url": "https://collections.vam.ac.uk/item/O114123/model-b32-chair-breuer-marcel-lajos/",
+     "checks": "silla de 1928 de «tubo de acero cromado» con asiento y respaldo de haya curvada y caña",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Design Museum, «Chairs of the 1920s»",
+     "url": "https://designmuseum.org/design/chairs-1920s",
+     "checks": "el acero cromado era acabado habitual en los modelos MR10, B302 y B32; el atractivo de la B32 vino del contraste entre el tubo pulido, la madera cálida y la caña translúcida",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Marcel Breuer, Cesca side chair",
+     "url": "https://www.moma.org/collection/works/4462",
+     "checks": "silla de 1928 de tubo de acero cromado, madera y caña; sillas ligadas a ideales de higiene y a producción en serie. ⚠ Página leída mediante resumen automático",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "nylon",
+   "sub": "materials",
+   "start": 1935,
+   "end": 1945,
+   "cont": true,
+   "date": "1935 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Nylon",
+   "short": "Nylon",
+   "key": "The first fully synthetic fibre, developed by Wallace Carothers’s team at DuPont and launched to the public in women’s stockings in 1939–40.[1][2]",
+   "origin": "Wallace Carothers, hired by DuPont in 1928, led the research into long-chain polymers that led to nylon;[1] DuPont announced it on 27 October 1938, after eleven years of research,[2] and showed the stockings at the 1939 World’s Fair.[1] The first public sale took place in Wilmington, Delaware, on 24 October 1939, where 4,000 pairs sold out in three hours,[2][3] and sales across the United States began on 15 May 1940.[1][2]",
+   "enabled": "A strong, elastic and washable thread that could replace silk, 90 per cent of whose raw supply in the United States came from Japan,[2][3] in stockings, and that was also used for parachutes, ropes, netting and tyre cord.[1]",
+   "change": "Fashion now depended on chemistry as well as on cut: a fibre made entirely in the laboratory reached the public as women’s stockings,[1] and within two years it held twenty per cent of the stocking market, displacing silk and rayon.[1]",
+   "economy": "Four million pairs went on sale in May 1940, at about 1.15 dollars a pair, and sold out in two days;[3] from 11 February 1942 DuPont directed all nylon production to military needs.[2]",
+   "relations": "Nylon displaced silk and rayon in stockings;[1] stockings returned to the shops in 1945 amid the ‘nylon riots’,[3] and by 1949 synthetic fibres dominated the market.[2]",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "nylon-stockings"
+    ]
+   },
+   "wiki": "Nylon",
+   "es": {
+    "name": "Nailon",
+    "short": "Nailon",
+    "date": "1935 →",
+    "key": "La primera fibra totalmente sintética, desarrollada por el equipo de Wallace Carothers en DuPont y lanzada al público en medias de mujer en 1939–40.[1][2]",
+    "origin": "Wallace Carothers, contratado por DuPont en 1928, dirigió la investigación de polímeros de cadena larga que llevó al nailon;[1] DuPont lo anunció el 27 de octubre de 1938, tras once años de investigación,[2] y mostró las medias en la Feria Mundial de 1939.[1] La primera venta pública fue en Wilmington, Delaware, el 24 de octubre de 1939, donde 4.000 pares se agotaron en tres horas,[2][3] y las ventas en todo Estados Unidos comenzaron el 15 de mayo de 1940.[1][2]",
+    "enabled": "Un hilo resistente, elástico y lavable que podía reemplazar en las medias a la seda, cuya oferta de materia prima en Estados Unidos venía en un 90 % de Japón,[2][3] y que se usó también en paracaídas, cuerdas, redes y cuerda de neumáticos.[1]",
+    "change": "La moda pasó a depender de la química además del corte: una fibra hecha enteramente en el laboratorio llegó al público como medias de mujer,[1] y en dos años tenía el veinte por ciento del mercado de medias, desplazando a la seda y al rayón.[1]",
+    "economy": "En mayo de 1940 salieron a la venta cuatro millones de pares, a unos 1,15 dólares el par, y se agotaron en dos días;[3] desde el 11 de febrero de 1942 DuPont destinó toda la producción de nailon a usos militares.[2]",
+    "relations": "El nailon desplazó a la seda y al rayón en las medias;[1] las medias volvieron a las tiendas en 1945 entre las «nylon riots»,[3] y hacia 1949 las fibras sintéticas dominaban el mercado.[2]"
+   },
+   "refs": [
+    {
+     "label": "Smithsonian, National Museum of American History, medias experimentales de nailon, c. 1937",
+     "url": "https://www.si.edu/object/experimental-stockings:nmah_1200996",
+     "checks": "Carothers contratado por DuPont en 1928 y a cargo de la investigación de polímeros de cadena larga; primera fibra producida enteramente en laboratorio; presentada al público como medias en la Feria Mundial de 1939; venta comercial el 15 de mayo de 1940; en dos años, 20% del mercado de medias, desplazando a la seda y al rayón; usos militares: paracaídas, cuerdas, redes, cuerda de neumático",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Science History Institute, «Synthetic Threads»",
+     "url": "https://www.sciencehistory.org/stories/magazine/synthetic-threads/",
+     "checks": "anuncio de DuPont el 27 de octubre de 1938 tras 11 años de investigación; primera venta pública el 24 de octubre de 1939 en Wilmington, 4.000 pares agotados en tres horas; venta nacional desde mayo de 1940; Japón daba el 90% de la seda cruda de EE. UU.; el 11 de febrero de 1942 DuPont destinó todo el nailon a usos militares; hacia 1949 las fibras sintéticas dominaban el mercado. ⚠ No menciona 1935, nailon 6,6 ni «64 millones»",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «Stocking Series, Part 1: Wartime Rationing and Nylon Riots»",
+     "url": "https://www.smithsonianmag.com/arts-culture/stocking-series-part-1-wartime-rationing-and-nylon-riots-25391066/",
+     "checks": "24 de octubre de 1939 en Wilmington, 4.000 pares en tres horas; cuatro millones de pares a la venta el 15–16 de mayo de 1940, a unos 1,15 dólares, agotados en dos días; el nailon, más durable y lavable que la seda; en 1945 volvieron las medias y las «nylon riots». ⚠ Fuente secundaria; da 15–16 de mayo y no el 15",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "rayon",
+   "sub": "materials",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "IT",
+    "FR"
+   ],
+   "name": "Rayon",
+   "short": "Rayon",
+   "key": "Artificial silk made from cellulose, a semi-synthetic fibre of chemically modified plant fibres,[1] which by the 1930s was used in stockings alongside silk.[2]",
+   "origin": "Hilaire de Chardonnet patented an artificial silk in 1885, and Cross and Bevan the viscose process in 1894; Courtaulds made viscose commercially from 1905. The name ‘rayon’ was adopted in 1924, and production boomed in the United States, Britain and Italy.",
+   "enabled": "Cheap, shiny fabrics with a fluid drape for dresses, linings, underwear and stockings.",
+   "change": "Silky, flowing clothes stopped being a luxury; the loose dresses of the 1920s and the draped styles of the 1930s could be copied for ordinary buyers.",
+   "relations": "Before nylon, stockings were made of silk or rayon,[2] and nylon displaced both.[3]",
+   "links": {
+    "movements": [
+     "art-deco"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "nylon-stockings"
+    ]
+   },
+   "wiki": "Rayon",
+   "es": {
+    "name": "Rayón",
+    "short": "Rayón",
+    "date": "años 1920 →",
+    "key": "Seda artificial hecha de celulosa, una fibra semisintética de fibras vegetales modificadas químicamente,[1] que en los años treinta se usaba en medias junto a la seda.[2]",
+    "origin": "Hilaire de Chardonnet patentó una seda artificial en 1885, y Cross y Bevan el proceso de la viscosa en 1894; Courtaulds fabricó viscosa comercialmente desde 1905. El nombre «rayón» se adoptó en 1924, y la producción creció con fuerza en Estados Unidos, Gran Bretaña e Italia.",
+    "enabled": "Telas baratas y brillantes, de caída fluida, para vestidos, forros, ropa interior y medias.",
+    "change": "La ropa sedosa y fluida dejó de ser un lujo; los vestidos sueltos de los años veinte y los drapeados de los treinta pudieron copiarse para compradoras comunes.",
+    "relations": "Antes del nailon, las medias se hacían de seda o de rayón,[2] y el nailon desplazó a ambas.[3]"
+   },
+   "refs": [
+    {
+     "label": "Science History Institute, «Synthetic Threads»",
+     "url": "https://www.sciencehistory.org/stories/magazine/synthetic-threads/",
+     "checks": "el rayón es una fibra semisintética hecha de fibras vegetales modificadas químicamente, como el algodón; el nailon ofrecía durabilidad y suministro estable. ⚠ Solo una mención del rayón; nada sobre Chardonnet, viscosa, Courtaulds ni los años veinte",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «Stocking Series, Part 1: Wartime Rationing and Nylon Riots»",
+     "url": "https://www.smithsonianmag.com/arts-culture/stocking-series-part-1-wartime-rationing-and-nylon-riots-25391066/",
+     "checks": "en los años treinta las medias se hacían de seda o rayón. ⚠ Fuente secundaria; una sola mención",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian, National Museum of American History, medias experimentales de nailon, c. 1937",
+     "url": "https://www.si.edu/object/experimental-stockings:nmah_1200996",
+     "checks": "el nailon, en dos años, desplazó a la seda y al rayón en las medias",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ]
+}

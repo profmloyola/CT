@@ -1,0 +1,2968 @@
+{
+ "works": [
+  {
+   "id": "red-blue-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Red and Blue Chair",
+   "designers": [
+    "rietveld"
+   ],
+   "maker": "Gerrit Rietveld’s workshop",
+   "client": null,
+   "year": 1918,
+   "date": "c. 1918 · painted c. 1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Painted wood",
+   "tech": [],
+   "key": "Rietveld’s armchair of standard wooden battens and boards,[1][3] a three-dimensional manifesto of De Stijl once it was painted in primary colours.[1][3]",
+   "more": "Rietveld made the first version, unpainted, around 1917–18[2] from simple battens and two flat boards,[3][4] each part visible and joined with wooden dowels;[3] he used standard sizes of timber so that it could in principle be made in series.[1] Around 1923 he painted it red, blue, yellow and black, the colours of De Stijl.[1][3] It is less a comfortable seat than a study in how a chair can be built from separate elements in space.[1][3]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/4044"
+    },
+    {
+     "label": "MoMA, New York: unpainted prototype, 1917–18",
+     "url": "https://www.moma.org/collection/works/3894"
+    }
+   ],
+   "status": "Originals in museum collections; reissued in production by Cassina.",
+   "wiki": "Red_and_Blue_Chair",
+   "es": {
+    "title": "Silla Roja y Azul",
+    "date": "c. 1918 · pintada c. 1923",
+    "materials": "Madera pintada",
+    "key": "El sillón de Rietveld hecho de listones y tablas de madera estándar,[1][3] un manifiesto tridimensional de De Stijl una vez pintado en colores primarios.[1][3]",
+    "more": "Rietveld hizo la primera versión, sin pintar, hacia 1917–18[2] con listones simples y dos tablas planas,[3][4] cada pieza a la vista y unida con espigas de madera;[3] usó medidas estándar de madera para que en principio pudiera fabricarse en serie.[1] Hacia 1923 la pintó de rojo, azul, amarillo y negro, los colores de De Stijl.[1][3] Más que un asiento cómodo es un estudio de cómo una silla puede construirse con elementos separados en el espacio.[1][3]",
+    "status": "Originales en colecciones de museos; reeditada en producción por Cassina."
+   },
+   "refs": [
+    {
+     "label": "MoMA, Gerrit Rietveld, Red Blue Chair, 487.1953",
+     "url": "https://www.moma.org/collection/works/4044",
+     "checks": "diseño de 1918, pintado de rojo, amarillo, azul y negro hacia 1923; madera pintada; tamaños estándar de madera para facilitar la fabricación en serie; principios de De Stijl, planos verticales y horizontales; el mueble más allá de la comodidad física («comodidad del espíritu»).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Prototype for Red/Blue Chair, 462.1983",
+     "url": "https://www.moma.org/collection/works/3894",
+     "checks": "prototipo de 1917–18 en madera sin pintar.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Stedelijk Museum Amsterdam, Rood-blauwe stoel",
+     "url": "https://www.stedelijk.nl/en/collection/4720-gerrit-rietveld-rood-blauwe-stoel",
+     "checks": "estructura de haya maciza unida con espigas de madera; asiento y respaldo de contrachapado pintado; cada elemento queda independiente; líneas y planos en el espacio; colores primarios desde 1923; los primeros ejemplares iban teñidos de café o negro; diseño 1919–1923 según el museo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centraal Museum Utrecht, Rood-blauwe leunstoel",
+     "url": "https://www.centraalmuseum.nl/en/collection/rsa/12577-rood-blauwe-leunstoel-gerrit-thomas-rietveld",
+     "checks": "el ebanista G. A. van de Groenekan participó en la fabricación; uso de contrachapado (escaso en la época). ⚠ No da fechas ni colores en lo leído.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "coca-cola-bottle",
+   "level": "essential",
+   "discipline": "product",
+   "type": "bottle",
+   "title": "Coca-Cola contour bottle",
+   "short": "Coca-Cola bottle",
+   "designers": [],
+   "maker": "Root Glass Company",
+   "client": "The Coca-Cola Company",
+   "year": 1915,
+   "date": "1915",
+   "production": {
+    "from": 1916,
+    "to": null,
+    "note": "made under licence by several glassworks"
+   },
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Green glass",
+   "tech": [],
+   "key": "The fluted, curved bottle designed in 1915 so that Coca-Cola could be recognised by touch in the dark or when broken.[1][2]",
+   "more": "Facing many imitators, according to the company, Coca-Cola asked glassmakers in 1915 for a distinctive bottle.[1][4] At the Root Glass Company in Terre Haute, Indiana, Earl R. Dean, with Alexander Samuelson and Clyde Edwards, drew a shape inspired by a cacao pod.[3][4] Patented in November 1915,[1][2] it was adopted by bottlers in 1916,[1][4] and according to Coca-Cola most bottlers were using it by 1920.[4] It was an early case of packaging as a trademark, and in 1961 the shape itself became a registered trademark.[1][4]",
+   "where": [
+    {
+     "label": "Smithsonian, National Museum of American History",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1461961"
+    }
+   ],
+   "status": "Still in production; a registered trademark shape.",
+   "wiki": "Contour_bottle",
+   "es": {
+    "title": "Botella de Coca-Cola",
+    "date": "1915",
+    "materials": "Vidrio verde",
+    "key": "La botella acanalada y curva diseñada en 1915 para que la Coca-Cola se reconociera al tacto en la oscuridad o aun rota.[1][2]",
+    "more": "Ante muchas imitaciones, según la empresa, Coca-Cola pidió en 1915 a las vidrierías una botella distintiva.[1][4] En la Root Glass Company de Terre Haute, Indiana, Earl R. Dean, con Alexander Samuelson y Clyde Edwards, dibujó una forma inspirada en una vaina de cacao.[3][4] Patentada en noviembre de 1915,[1][2] los embotelladores la adoptaron en 1916,[1][4] y según Coca-Cola hacia 1920 ya la usaba la mayoría de ellos.[4] Fue un caso temprano del envase como marca, y en 1961 la forma misma quedó registrada como marca.[1][4]",
+    "status": "Sigue en producción; su forma es una marca registrada.",
+    "production": {
+     "note": "fabricada bajo licencia por varias vidrierías"
+    },
+    "short": "Botella de Coca-Cola"
+   },
+   "refs": [
+    {
+     "label": "National Archives (EE. UU.), blog Prologue: «The Coca-Cola Bottle: Celebrating 100 Years of an American Icon»",
+     "url": "https://prologue.blogs.archives.gov/2015/06/08/the-coca-cola-bottle-celebrating-100-years-of-an-american-icon/",
+     "checks": "concurso de 1915 entre vidrierías por una botella distinta a la vista y al tacto; forma inspirada en la vaina de cacao; patente de diseño n.º 48.160 de la Root Glass Company de Terre Haute, 16 nov. 1915; aceptada por Coca-Cola en 1916; marca registrada en 1961",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "High Museum of Art, exposición «The Coca-Cola Bottle: An American Icon at 100»",
+     "url": "https://high.org/exhibition/the-coca-cola-bottle-an-american-icon-at-100/",
+     "checks": "encargo de 1915: botella reconocible al tacto en la oscuridad y aun rota; ilustración de vaina de cacao; patente del 16 nov. 1915",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Discover Indiana (proyecto de historia pública), «Birthplace of the Coca-Cola Contour Bottle»",
+     "url": "https://discoverindianahistory.org/items/show/614",
+     "checks": "Earl R. Dean, de la Root Glass Company (Terre Haute), dibujó la forma inspirada en una vaina de cacao; patente a nombre de Alexander Samuelson. ⚠ fuente secundaria; no confirma el oficio de «moldista»",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Coca-Cola Company, «The History of the Coca-Cola Contour Bottle»",
+     "url": "https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle",
+     "checks": "imitaciones (Koka-Nola, Toka-Cola…) como motivo del encargo; equipo Root: C. J. y William Root, Samuelson, Dean y Clyde Edwards; patente 16 nov. 1915; elección por embotelladores a comienzos de 1916; «hacia 1920 la mayoría de los embotelladores» la usaba; acuerdo inicial con seis vidrierías; marca en 1961. ⚠ fuente de la empresa",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "wagenfeld-lamp",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Wagenfeld lamp",
+   "designers": [
+    "wagenfeld"
+   ],
+   "maker": "inst-bauhaus",
+   "client": null,
+   "year": 1924,
+   "date": "1923–1924",
+   "production": {
+    "from": 1924,
+    "to": null,
+    "note": "small series in the Bauhaus workshop; licensed to Schwintzer & Graff from 1928; reissued by Tecnolumen"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Nickel-plated metal, clear and opal glass",
+   "tech": [],
+   "key": "The table lamp of the Bauhaus metal workshop, designed by Wilhelm Wagenfeld with Karl J. Jucker from simple geometric parts.[1][2]",
+   "more": "Made after Moholy-Nagy turned the workshop toward prototypes for industry,[1][2] it combines a disc base, a cylindrical stem and a hemispherical opal-glass shade.[1][2] There were two versions: one with a glass base and stem, credited to Jucker and Wagenfeld, and one in metal, credited to Wagenfeld alone.[2] It looked industrial but had to be assembled by hand, so it sold poorly at first;[1] it later became an emblem of the school.[1][2]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/4056"
+    },
+    {
+     "label": "V&A, London: MT8 table lamp",
+     "url": "https://collections.vam.ac.uk/item/O116634/mt8-table-lamp-wagenfeld-wilhelm/"
+    }
+   ],
+   "status": "Originals in museum collections; reissued by Tecnolumen.",
+   "es": {
+    "title": "Lámpara Wagenfeld",
+    "date": "1923–1924",
+    "materials": "Metal niquelado, vidrio transparente y opalino",
+    "key": "La lámpara de mesa del taller de metal de la Bauhaus, diseñada por Wilhelm Wagenfeld con Karl J. Jucker a partir de piezas geométricas simples.[1][2]",
+    "more": "Hecha después de que Moholy-Nagy orientara el taller hacia prototipos para la industria,[1][2] combina una base en disco, un fuste cilíndrico y una pantalla semiesférica de vidrio opalino.[1][2] Hubo dos versiones: una con base y fuste de vidrio, atribuida a Jucker y Wagenfeld, y otra de metal, atribuida solo a Wagenfeld.[2] Parecía industrial pero había que armarla a mano, por lo que al principio se vendió poco;[1] más tarde se volvió un emblema de la escuela.[1][2]",
+    "status": "Originales en colecciones de museos; reeditada por Tecnolumen.",
+    "production": {
+     "note": "serie pequeña en el taller de la Bauhaus; licencia a Schwintzer & Graff desde 1928; reedición de Tecnolumen"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Wilhelm Wagenfeld y Carl Jakob Jucker, Table lamp, 1923–1924",
+     "url": "https://www.moma.org/collection/works/4056",
+     "checks": "autores Wagenfeld y Jucker; taller de metal de la Bauhaus; base circular, fuste cilíndrico, pantalla de vidrio opaco; hecha tras la reorganización de Moholy-Nagy en 1923 y el giro a la producción en serie; en 1924 se vendió mal porque se armaba a mano; hoy es un ícono",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, MT8 table lamp (Wilhelm Wagenfeld), ca. 1924",
+     "url": "https://collections.vam.ac.uk/item/O116634/mt8-table-lamp-wagenfeld-wilhelm/",
+     "checks": "versión de metal MT8 solo de Wagenfeld; versión de vidrio MT9 de Jucker y Wagenfeld; base circular, columna cilíndrica, pantalla semiesférica de vidrio lechoso; influencia de Moholy-Nagy; producción desde la primavera de 1924 (al menos 80 de metal y 45 de vidrio hacia el otoño); en Dessau y bajo licencia de Schwintzer & Graff desde 1928; «uno de los clásicos más populares»",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "brandt-tea-infuser",
+   "level": "essential",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "Brandt tea infuser",
+   "designers": [
+    "marianne-brandt"
+   ],
+   "maker": "inst-bauhaus",
+   "client": null,
+   "year": 1924,
+   "date": "1924",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Silver, nickel silver or silver-plated brass; ebony",
+   "tech": [],
+   "key": "Marianne Brandt’s small tea infuser of 1924,[1][2][3] built from a hemisphere, a disc, a cylinder and a cross:[4] the teapot reduced to geometry.[1][2]",
+   "more": "Brandt made it as a student in the Bauhaus metal workshop,[2][3] the first woman admitted there.[4] It brewed a strong tea extract to be diluted in the cup,[1] and every part has a clear geometric form:[1][2] a hemispherical body on a cross-shaped stand, a disc lid,[4] a semicircular ebony handle.[1] It was hand-made in a few examples,[2][4] yet it looks like a model for industrial production.[2]",
+   "where": [
+    {
+     "label": "The Met, New York",
+     "url": "https://www.metmuseum.org/art/collection/search/491299"
+    },
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/2438"
+    }
+   ],
+   "status": "A few originals in museum collections.",
+   "es": {
+    "title": "Infusor de té de Brandt",
+    "date": "1924",
+    "materials": "Plata, alpaca o latón plateado; ébano",
+    "key": "El pequeño infusor de té de Marianne Brandt de 1924,[1][2][3] hecho de una semiesfera, un disco, un cilindro y una cruz:[4] la tetera reducida a geometría.[1][2]",
+    "more": "Brandt lo hizo como estudiante en el taller de metal de la Bauhaus,[2][3] la primera mujer admitida allí.[4] Preparaba un extracto de té concentrado que se diluía en la taza,[1] y cada parte tiene una forma geométrica clara:[1][2] un cuerpo semiesférico sobre un soporte en cruz, una tapa en disco,[4] un asa semicircular de ébano.[1] Se hizo a mano en pocos ejemplares,[2][4] pero parece un modelo para la producción industrial.[2]",
+    "status": "Pocos originales en colecciones de museos.",
+    "short": "Infusor Brandt"
+   },
+   "short": "Brandt infuser",
+   "refs": [
+    {
+     "label": "The Met, Marianne Brandt, Tea Infuser and Strainer, 2000.63a–c",
+     "url": "https://www.metmuseum.org/art/collection/search/491299",
+     "checks": "hacia 1924; plata y ébano; unos 7–8 cm de alto; preparaba un extracto concentrado que se diluía en cada taza; las partes de la tetera reinterpretadas como formas geométricas abstractas; asa de ébano en forma de D, alta.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Marianne Brandt, Teapot, 1924",
+     "url": "https://www.moma.org/collection/works/2438",
+     "checks": "1924; alpaca (nickel silver) y ébano; taller de metal de la Bauhaus bajo Moholy-Nagy; Brandt rompió barreras de género; formas elementales; forjado a mano, no en serie, pero pensado para cumplir criterios si se producía en cantidad (cita de Brandt).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, Tea Infuser (MT 49)",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/works/metal/tea-infuser-mt-49",
+     "checks": "1924, primer año de estudios de Brandt; plata y ébano; formada en el taller de metal por Moholy-Nagy.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Sotheby’s, catálogo 2007, lote 56 (Marianne Brandt, MT 49)",
+     "url": "https://www.sothebys.com/en/auctions/ecatalogue/2007/deutscher-werkbund-to-bauhaus-an-important-collection-of-german-design-n08459/lot.56.html",
+     "checks": "ejemplar en latón plateado y ébano; formas de semiesfera, base en cruz, disco y cilindro; hecho a mano (marcas de martillo); solo siete ejemplares documentados; Brandt, primera mujer admitida en el taller de metal. ⚠ catálogo de subasta; resumen automático.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "wassily-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Wassily chair",
+   "designers": [
+    "breuer"
+   ],
+   "maker": "Standard-Möbel, Thonet",
+   "client": null,
+   "year": 1925,
+   "date": "1925–1926",
+   "production": {
+    "from": 1926,
+    "to": null,
+    "note": "made as B3 by Standard-Möbel and Thonet; by Knoll since 1968"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Bent tubular steel, nickel- or chrome-plated; canvas or Eisengarn fabric",
+   "tech": [
+    "tubular-steel",
+    "chrome-plating"
+   ],
+   "key": "Marcel Breuer’s club armchair of bent steel tube and stretched fabric, the first tubular-steel chair, designed at the Bauhaus in 1925.[1][2][3]",
+   "more": "Inspired by his bicycle,[1][2][3] Breuer built the chair of bent steel tube with fabric stretched between the tubes for seat, back and arms.[1][5] The strong fabric, Eisengarn (‘iron yarn’),[2][3] was made in the Bauhaus weaving workshop by Margaretha Reichardt for Breuer’s tubular-steel furniture.[4] It turned the heavy upholstered club chair into a transparent outline in steel,[1][5] in a material suited to industrial production,[2] although most tubular-steel furniture was still made by hand in small batches.[1] It was not designed for Kandinsky, though he admired it; the name ‘Wassily’ was given by the Italian maker Gavina, which reissued the chair around 1960.[1][3][5]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/2851"
+    }
+   ],
+   "status": "Still in production by Knoll; originals in museum collections.",
+   "wiki": "Wassily_Chair",
+   "es": {
+    "title": "Silla Wassily",
+    "date": "1925–1926",
+    "materials": "Tubo de acero curvado, niquelado o cromado; lona o tela Eisengarn",
+    "key": "El sillón de Marcel Breuer de tubo de acero curvado y tela tensada, la primera silla de tubo de acero, diseñada en la Bauhaus en 1925.[1][2][3]",
+    "more": "Inspirado en su bicicleta,[1][2][3] Breuer construyó la silla con tubo de acero curvado y tela tensada entre los tubos para el asiento, el respaldo y los brazos.[1][5] La tela resistente, el Eisengarn («hilo de hierro»),[2][3] la hizo Margaretha Reichardt en el taller de tejido de la Bauhaus para los muebles de tubo de acero de Breuer.[4] Convirtió el pesado sillón tapizado en un contorno transparente de acero,[1][5] en un material apto para la producción industrial,[2] aunque la mayoría de los muebles de tubo de acero se seguía haciendo a mano en pequeñas series.[1] No se diseñó para Kandinsky, aunque él la admiraba; el nombre «Wassily» se lo dio el fabricante italiano Gavina, que la reeditó hacia 1960.[1][3][5]",
+    "status": "Sigue en producción por Knoll; originales en colecciones de museos.",
+    "production": {
+     "note": "fabricada como B3 por Standard-Möbel y Thonet; por Knoll desde 1968"
+    }
+   },
+   "refs": [
+    {
+     "label": "V&A, Club chair, model B3, W.2-2005",
+     "url": "https://collections.vam.ac.uk/item/O114197/club-chair-model-b3-armchair-breuer-marcel-adios/",
+     "checks": "diseño 1925–1926; primera silla de tubo de acero; inspirada en el cuadro de su bicicleta; diseñada siendo maestro en la Bauhaus; tela tensada entre los tubos y transparencia visual; la mayoría de los muebles de tubo se hacían a mano en pequeñas series; Gavina (Bolonia) la fabricó hacia 1960 como «Wassily» en homenaje al elogio de Kandinsky; Standard-Möbel o Thonet como fabricantes",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Harvard Art Museums, Club Chair (B3), 225909",
+     "url": "https://harvardartmuseums.org/collections/object/225909",
+     "checks": "diseño 1925; inspirada en el manubrio de su bicicleta; tubo de acero apto para la producción industrial; tela Eisengarn («hilo de hierro»); acero niquelado; Standard-Möbel, comprada por Thonet en 1929",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, «Focus on… the Wassily club chair of Marcel Breuer»",
+     "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-the-wassily-club-chair-of-marcel-breuer",
+     "checks": "1925, en la Bauhaus de Dessau; inspirada en el manubrio de su bicicleta Adler; acero niquelado y tela Eisengarn; Kandinsky la admiró, pero el nombre «Wassily» lo usó décadas después el fabricante italiano Gavina",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Margaretha Reichardt",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1010",
+     "checks": "Reichardt hizo la tela resistente «Eisengarn» usada para tapizar los muebles de tubo de acero de Breuer; estudió en la Bauhaus desde abril de 1926 (⚠ por eso no consta que la primera versión de 1925 llevara su tela)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Club chair (model B3 / Wassily), 229.1934",
+     "url": "https://www.moma.org/collection/works/2851",
+     "checks": "Breuer; tubo de acero cromado y lona; atribuida a Standard-Möbel; el sillón club reducido a su contorno en acero; el apodo viene de la admiración de Kandinsky",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "mr10-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "MR10 chair",
+   "designers": [
+    "mies-van-der-rohe",
+    "lilly-reich"
+   ],
+   "maker": "Berliner Metallgewerbe Josef Müller",
+   "client": null,
+   "year": 1927,
+   "date": "1927",
+   "production": {
+    "from": 1927,
+    "to": null,
+    "note": "later made by Bamberg Metallwerkstätten and Thonet; still produced"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Chrome-plated or lacquered steel tube; cane, leather or fabric",
+   "tech": [
+    "tubular-steel",
+    "chrome-plating"
+   ],
+   "key": "Mies van der Rohe’s cantilevered tubular-steel side chair, shown at the 1927 Weissenhof exhibition,[1][3] developed in collaboration with Lilly Reich.[2][6]",
+   "more": "It took up Mart Stam’s idea of a chair without back legs[2] but replaced his rigid gas-pipe joints[4] with a large, springy curve at the front, so that the seat gives slightly under the sitter.[3] The seat and back were usually of woven cane, sometimes of leather.[1][3] With arms it was the MR20.[5] It was one of the chairs that made the cantilever a symbol of modern furniture.",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/1584"
+    },
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O176184/mr-chair-chair-mies-van-der/"
+    }
+   ],
+   "status": "Still in production; originals in museum collections.",
+   "wiki": "Weissenhof_chair",
+   "es": {
+    "title": "Silla MR10",
+    "date": "1927",
+    "materials": "Tubo de acero cromado o lacado; ratán, cuero o tela",
+    "key": "La silla en voladizo de tubo de acero de Mies van der Rohe, presentada en la exposición Weissenhof de 1927,[1][3] desarrollada en colaboración con Lilly Reich.[2][6]",
+    "more": "Retomó la idea de Mart Stam de una silla sin patas traseras[2] pero reemplazó sus uniones rígidas de tubo de gas[4] por una gran curva elástica al frente, de modo que el asiento cede levemente bajo quien se sienta.[3] El asiento y el respaldo solían ser de ratán tejido, a veces de cuero.[1][3] Con brazos era la MR20.[5] Fue una de las sillas que hicieron del voladizo un símbolo del mueble moderno.",
+    "status": "Sigue en producción; originales en colecciones de museos.",
+    "production": {
+     "note": "fabricada luego por Bamberg Metallwerkstätten y Thonet; aún se produce"
+    }
+   },
+   "refs": [
+    {
+     "label": "Saint Louis Art Museum, Side Chair (MR 10), 1927",
+     "url": "https://www.slam.org/collection/objects/19647/",
+     "checks": "MR 10, 1927; Berliner Metallgewerbe Joseph Müller; acero niquelado y rejilla; presentada en la Weissenhof en 1927; aún se produce",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, «MR» Armchair, 1927 (Mies van der Rohe y Lilly Reich)",
+     "url": "https://www.metmuseum.org/art/collection/search/482117",
+     "checks": "acredita a Mies y a Lilly Reich; presentada en Stuttgart en 1927; desarrollada a partir de una silla en voladizo de Mart Stam; en producción desde entonces",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, MR chair (Mies van der Rohe)",
+     "url": "https://collections.vam.ac.uk/item/O176184/mr-chair-chair-mies-van-der/",
+     "checks": "bastidor de una pieza; asiento y respaldo de rejilla (también de cuero); patente de Mies sobre el «voladizo elástico» (resilient cantilever); debut en la Weissenhof de 1927; fabricada por Jo. Müller y luego por Thonet",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Thonet, «Thonet and the Bauhaus»",
+     "url": "https://www.thonet.de/en/magazine/history-brand/detail/thonet-and-the-bauhaus",
+     "checks": "la silla de Stam: tubos de gas unidos con codos a 90 grados. ⚠ fuente del fabricante",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, MR20 Armchair (Mies van der Rohe), 1927",
+     "url": "https://collections.vam.ac.uk/item/O129264/mr20-armchair-armchair-mies-van-der/",
+     "checks": "MR20 = sillón en voladizo con brazos, asiento y respaldo de rejilla",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Museum, «Chairs – 1920s»",
+     "url": "https://designmuseum.org/design/chairs-1920s",
+     "checks": "Mies colaboró con Lilly Reich en el desarrollo de muebles durante los años veinte. ⚠ dice «MR10 con asiento textil y MR20 con rejilla», que no coincide con otras fuentes",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "e1027-table",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "E-1027 table",
+   "designers": [
+    "eileen-gray"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1927,
+   "date": "1927",
+   "production": {
+    "from": 1927,
+    "to": null,
+    "note": "a few made in the 1920s; produced under licence since the 1970s"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Tubular steel, glass",
+   "tech": [
+    "tubular-steel"
+   ],
+   "key": "Eileen Gray’s adjustable side table for her house E-1027,[1][2] whose open ring base slides under a bed or sofa.[1]",
+   "more": "Designed for the house she built with Jean Badovici at Roquebrune-Cap-Martin,[2] it has a round glass top on a tubular-steel frame whose height can be adjusted,[1][2][3] and an open, C-shaped base.[1] One story says it was meant for her sister, who liked breakfast in bed.[1] It shows Gray’s attention to everyday use within the new language of steel and glass.",
+   "where": [],
+   "status": "Produced under licence; early examples are rare.",
+   "wiki": "Adjustable_Table_E_1027",
+   "es": {
+    "title": "Mesa E-1027",
+    "date": "1927",
+    "materials": "Tubo de acero, vidrio",
+    "key": "La mesa auxiliar regulable de Eileen Gray para su casa E-1027,[1][2] cuya base en anillo abierto se desliza bajo una cama o un sofá.[1]",
+    "more": "Diseñada para la casa que construyó con Jean Badovici en Roquebrune-Cap-Martin,[2] tiene una cubierta redonda de vidrio sobre una estructura de tubo de acero de altura regulable,[1][2][3] y una base abierta en forma de C.[1] Se cuenta que estaba pensada para su hermana, a quien le gustaba tomar desayuno en la cama.[1] Muestra la atención de Gray al uso diario dentro del nuevo lenguaje del acero y el vidrio.",
+    "status": "Producida bajo licencia; los ejemplares tempranos son escasos.",
+    "production": {
+     "note": "pocas en los años veinte; producida bajo licencia desde los años setenta"
+    }
+   },
+   "refs": [
+    {
+     "label": "German Design Council, «Design icons: Adjustable Table E1027»",
+     "url": "https://www.german-design-council.de/en/design-perspectives/article-detail/design-icons-adjustable-table-e1027",
+     "checks": "1927; mesa de velador para la casa E 1027 de Gray; tubo de acero cromado y cubierta redonda de vidrio; altura regulable con pasador y cadena; base semicircular que se acerca bajo otros muebles; uso junto a cama, sillón o sofá; «se dice» que la diseñó para su hermana Thora, a quien le gustaba desayunar en la cama; ClassiCon la produce bajo licencia desde los años setenta",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cap Moderne (sitio patrimonial), «La villa E-1027»",
+     "url": "https://capmoderne.com/en/lieu/la-villa-e-1027/",
+     "checks": "Gray construyó la villa con Jean Badovici entre 1926 y 1929 en Roquebrune-Cap-Martin; mesa circular cromada «llamada E-1027» de altura regulable con una cadena, diseñada para la casa",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Eileen Gray, Adjustable Table, diseñada 1927 (ejemplar de 1976)",
+     "url": "https://www.moma.org/collection/works/4339",
+     "checks": "1927; tubo de acero cromado, chapa de acero y vidrio; altura regulable de 54 a 93 cm; ejemplar de 1976 de Aram Designs, Londres",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "cesca-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Cesca chair",
+   "designers": [
+    "breuer"
+   ],
+   "maker": "Thonet",
+   "client": null,
+   "year": 1928,
+   "date": "1928",
+   "production": {
+    "from": 1929,
+    "to": null,
+    "note": "made by Thonet as B32; later also by Knoll"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Chrome-plated steel tube, bentwood, cane",
+   "tech": [
+    "tubular-steel",
+    "chrome-plating"
+   ],
+   "key": "Breuer’s cantilever chair of chromed tube with a bentwood frame and cane seat,[1][2] one of the most refined of the early cantilever chairs.[5]",
+   "more": "Designed in 1928 and sold by Thonet as model B32,[1][2] it joined industrial steel tube to the traditional materials of the Thonet bentwood chair.[2] The cantilever principle led to a famous dispute: a German court ruled in 1932 that the artistic copyright in the cantilever chair belonged to Mart Stam,[2][3] who had made the first one in 1926.[4] According to Knoll, the name ‘Cesca’, after Breuer’s daughter Francesca, was added later.[6]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/4462"
+    }
+   ],
+   "status": "Still in production by Thonet and Knoll.",
+   "wiki": "Cesca_chair",
+   "es": {
+    "title": "Silla Cesca",
+    "date": "1928",
+    "materials": "Tubo de acero cromado, madera curvada, rejilla",
+    "key": "La silla en voladizo de Breuer de tubo cromado con marco de madera curvada y asiento de rejilla,[1][2] una de las más refinadas entre las primeras sillas en voladizo.[5]",
+    "more": "Diseñada en 1928 y vendida por Thonet como modelo B32,[1][2] unió el tubo de acero industrial con los materiales tradicionales de la silla de madera curvada de Thonet.[2] El principio del voladizo llevó a una disputa famosa: un tribunal alemán resolvió en 1932 que el derecho de autor artístico sobre la silla en voladizo correspondía a Mart Stam,[2][3] que había hecho la primera en 1926.[4] Según Knoll, el nombre «Cesca», por la hija de Breuer, Francesca, se agregó después.[6]",
+    "status": "Sigue en producción por Thonet y Knoll.",
+    "production": {
+     "note": "fabricada por Thonet como B32; después también por Knoll"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Marcel Breuer, Cesca Side Chair (model B32), 1928",
+     "url": "https://www.moma.org/collection/works/4462",
+     "checks": "1928; modelo B32; tubo de acero cromado, madera y rejilla; Gebrüder Thonet",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Model B32 (Marcel Breuer)",
+     "url": "https://collections.vam.ac.uk/item/O114123/model-b32-chair-breuer-marcel-lajos/",
+     "checks": "diseñada en 1928 y fabricada después de 1930 por Gebrüder Thonet; tubo cromado, haya curvada y rejilla, que evocan la madera curvada de Thonet del siglo XIX; pleito de Anton Lorenz (licenciatario de Stam) contra Thonet: en 1932 Lorenz obtuvo el derecho exclusivo sobre las sillas de dos patas, incluida la B32, y el nombre de Stam reemplazó al de Breuer en los catálogos; producción reanudada en 1962–1963 con el nombre de Breuer",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "smow blog, «Design Calendar: June 1st 1932 – Mart Stam Awarded Artistic Copyright for the Cubic Cantilever Chair»",
+     "url": "https://www.smow.com/blog/2016/06/smow-blog-design-calendar-june-1st-1932-mart-stam-awarded-artistic-copyright-cubic-cantilever-chair/",
+     "checks": "fallo del Reichsgericht (Leipzig), 1 de junio de 1932, Lorenz contra Thonet: derecho de autor artístico de Stam sobre la silla en voladizo cúbica, con citas del fallo. ⚠ fuente secundaria (blog de una tienda)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Chair (Model S33), Mart Stam",
+     "url": "https://collections.vam.ac.uk/item/O371727/chair-stam-mart/",
+     "checks": "silla en voladizo diseñada por Mart Stam en 1926",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Museum, «Chairs – 1920s»",
+     "url": "https://designmuseum.org/design/chairs-1920s",
+     "checks": "la B32 de Breuer es «la más refinada y resuelta» de las primeras sillas en voladizo de fines de los años veinte",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Knoll, Cesca Chair (página de producto)",
+     "url": "https://www.knoll.com/shop/en_us/dining-dining-chairs/cesca-chair/2020.html",
+     "checks": "1928; originalmente B32, luego llamada «Cesca» por Francesca, la hija de Breuer. ⚠ fuente del fabricante actual; no dice desde cuándo la produce Knoll",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "lc4-chaise-longue",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "LC4 chaise longue",
+   "designers": [
+    "perriand",
+    "le-corbusier"
+   ],
+   "maker": "Thonet",
+   "client": null,
+   "year": 1928,
+   "date": "1928",
+   "production": {
+    "from": 1930,
+    "to": null,
+    "note": "made by Thonet as B306; by Cassina since 1965"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Chrome-plated steel tube, painted steel base, hide or fabric",
+   "tech": [
+    "tubular-steel",
+    "chrome-plating"
+   ],
+   "key": "The adjustable reclining chair designed in 1928 by Charlotte Perriand, Le Corbusier and Pierre Jeanneret,[1][2] a ‘relaxing machine’ of steel and leather.[1][2][5]",
+   "more": "Perriand, who joined the studio of Le Corbusier and Pierre Jeanneret in 1927, developed it with them;[3] it was shown at the 1929 Salon d’Automne.[2][3][6] A curved tubular cradle rests on a separate base and can be slid to any angle, from sitting to lying flat.[2] Thonet made it as B306 from 1930;[2][4] Cassina has produced it since 1965, under the name LC4.[4][6]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/2796"
+    }
+   ],
+   "status": "Still in production by Cassina.",
+   "wiki": "Chaise_Longue_(Le_Corbusier)",
+   "es": {
+    "title": "Chaise longue LC4",
+    "date": "1928",
+    "materials": "Tubo de acero cromado, base de acero pintado, piel o tela",
+    "key": "El sillón reclinable regulable diseñado en 1928 por Charlotte Perriand, Le Corbusier y Pierre Jeanneret,[1][2] una «máquina para descansar» de acero y cuero.[1][2][5]",
+    "more": "Perriand, que se integró en 1927 al estudio de Le Corbusier y Pierre Jeanneret, la desarrolló con ellos;[3] se presentó en el Salón de Otoño de 1929.[2][3][6] Una cuna curva de tubo descansa sobre una base separada y puede deslizarse a cualquier ángulo, de sentado a tendido.[2] Thonet la fabricó como B306 desde 1930;[2][4] Cassina la produce desde 1965, con el nombre LC4.[4][6]",
+    "status": "Sigue en producción por Cassina.",
+    "production": {
+     "note": "fabricada por Thonet como B306; por Cassina desde 1965"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Chaise Longue (LC/4), 1928",
+     "url": "https://www.moma.org/collection/works/2796",
+     "checks": "1928; Le Corbusier, Pierre Jeanneret y Charlotte Perriand; acero cromado, tela y cuero; Thonet Frères, París",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Chaise longue, 1928»",
+     "url": "https://www.fondationlecorbusier.fr/oeuvre-mobilier/chaise-longue-le-corbusier-pierre-jeanneret-charlotte-perriand-1928/",
+     "checks": "1928, los tres autores; expuesta en el Salón de Otoño de 1929 como «equipamiento interior de una vivienda»; Thonet desde 1930 (B306); Heidi Weber en 1959, Cassina desde 1964, con derechos exclusivos desde 1965; cuna sobre base separada, se ajusta a distintos ángulos sin mecanismo; «machine à repos»; sillón, reposera y mecedora",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "DASH (TU Delft), «Equipement intérieur d’une habitation»",
+     "url": "https://journals.open.tudelft.nl/dash/article/view/4970",
+     "checks": "Perriand llegó en 1927 al estudio de Le Corbusier y Pierre Jeanneret, y los tres empezaron a desarrollar una serie de muebles; instalación en el Salón de Otoño de 1929",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, ficha pedagógica Perriand: Chaise longue B 306",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-perriand/popup03.html",
+     "checks": "B 306, 1928/1932; base en H de acero lacado y estructura de acero cromado; editada por Thonet de 1930 a 1936 y por Cassina desde 1965",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Chaise longue (Le Corbusier, Jeanneret, Perriand)",
+     "url": "https://collections.vam.ac.uk/item/O34133/chaise-longue-le-corbusier/",
+     "checks": "los tres autores; Thonet, 1928–1929; tubo cromado, base de chapa pintada, piel; nunca se fabricó en grandes cantidades",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cassina, «4 Chaise longue à réglage continu»",
+     "url": "https://www.cassina.com/ww/en/products/lc4-durable.html",
+     "checks": "creada en 1928, expuesta en el Salón de Otoño de 1929; Cassina la produce desde 1965 (código lc4). ⚠ fuente del fabricante; hoy la vende como «4», no como «LC4»",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "barcelona-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Barcelona chair",
+   "designers": [
+    "mies-van-der-rohe",
+    "lilly-reich"
+   ],
+   "maker": "Berliner Metallgewerbe Josef Müller",
+   "client": "German Reich",
+   "year": 1929,
+   "date": "1929",
+   "production": {
+    "from": 1929,
+    "to": null,
+    "note": "made in small numbers in Germany until the mid-1930s; by Knoll after the Second World War"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "ES"
+   ],
+   "materials": "Chrome-plated flat steel bars, leather cushions",
+   "tech": [
+    "chrome-plating"
+   ],
+   "key": "The stately armless chair of crossed steel bars and leather[1] designed by Mies van der Rohe and Lilly Reich for the German pavilion in Barcelona.[2]",
+   "more": "Made for the 1929 Barcelona exhibition as a ‘monumental’ seat for the opening presided over by the King and Queen of Spain,[1][2][3] it had an X-shaped frame of flat steel bars, at first bolted and chromed, with leather cushions;[1][3][4] only two were placed in the pavilion.[1][4] Reich, artistic director of the German section, shared in its design.[2] Made by hand despite its machine look,[3][4] it went into series production after the war at Knoll, which welds the frame[3][4] and, since 1964, makes it in stainless steel.[4]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/4369"
+    }
+   ],
+   "status": "Still in production by Knoll.",
+   "wiki": "Barcelona_chair",
+   "es": {
+    "title": "Silla Barcelona",
+    "date": "1929",
+    "materials": "Pletinas de acero cromado, cojines de cuero",
+    "key": "La señorial silla sin brazos de pletinas de acero cruzadas y cuero[1] que Mies van der Rohe y Lilly Reich diseñaron para el pabellón alemán de Barcelona.[2]",
+    "more": "Hecha para la exposición de Barcelona de 1929 como asiento «monumental» para la inauguración presidida por los reyes de España,[1][2][3] tenía una estructura en X de pletinas de acero, al principio atornilladas y cromadas, con cojines de cuero;[1][3][4] en el pabellón se pusieron solo dos.[1][4] Reich, directora artística de la sección alemana, participó en su diseño.[2] Hecha a mano pese a su aspecto de máquina,[3][4] después de la guerra pasó a producirse en serie en Knoll, que suelda la estructura[3][4] y, desde 1964, la hace en acero inoxidable.[4]",
+    "status": "Sigue en producción por Knoll.",
+    "production": {
+     "note": "fabricada en pequeñas cantidades en Alemania hasta mediados de los años treinta; por Knoll desde la posguerra"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Barcelona Chair, 552.1953",
+     "url": "https://www.moma.org/collection/works/4369",
+     "checks": "diseñada en 1929 para el pabellón alemán de la exposición de Barcelona; el rey de España presidiría la inauguración; cita de Mies: la silla tenía que ser «monumental»; dos pletinas de acero cromado a cada lado en X; solo dos para el pabellón; tapiz de cuero; el ejemplar de 1953 es de Knoll en acero inoxidable",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fundació Mies van der Rohe, The Pavilion",
+     "url": "https://miesbcn.com/the-pavilion/",
+     "checks": "Lilly Reich nombrada «directora artística» de la sección alemana en 1928; Mies y Reich diseñaron la silla especialmente para el pabellón; recepción oficial presidida por Alfonso XIII y Victoria Eugenia",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museum of Fine Arts, Houston, Chair, Model MR 90",
+     "url": "https://emuseum.mfah.org/objects/38124/chair-model-mr-90",
+     "checks": "fabricante Berliner Metallgewerbe Josef Müller; dos sillas en X para el rey y la reina de España en la inauguración; ensamblada a mano con tornillos y uniones a media madera, distinta de las versiones soldadas posteriores; acero cromado y cuero",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Knoll, «Design Deconstructed: The Barcelona Chair»",
+     "url": "https://www.knoll.com/knollnewsdetail/design-deconstructed-barcelona-chair",
+     "checks": "según Knoll (fabricante actual): solo dos sillas originales; estructura atornillada y cromada; hechas a mano en el taller de Josef Müller en Berlín; los especialistas ponen en duda que fuera un objeto pensado para el rey; Knoll la suelda y la hace en acero inoxidable desde 1964; ⚠ Knoll da 1947 como inicio de su producción",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "gestetner-duplicator",
+   "level": "normal",
+   "discipline": "product",
+   "type": "machine",
+   "title": "Gestetner duplicator",
+   "designers": [
+    "loewy"
+   ],
+   "maker": "Gestetner Ltd",
+   "client": "Sigmund Gestetner",
+   "year": 1929,
+   "date": "1929",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "materials": "Metal, wood, rubber",
+   "tech": [],
+   "key": "Loewy’s first industrial design:[2] a smooth casing that hid the moving parts of an office copying machine.[1][3]",
+   "more": "Sigmund Gestetner asked Loewy to improve his duplicator.[3] In three days, for 2,000 dollars,[1][3] Loewy covered the existing machine with modelling clay and shaped a single, clean housing over its tangle of gears,[1][3] and replaced its protruding legs with a cabinet base.[2][3] It became the classic case of ‘styling’: improving a product’s appeal by redesigning its shell rather than its mechanism.",
+   "where": [
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O322014/gestetner-duplicator-duplicator-loewy-raymond-fernand/"
+    }
+   ],
+   "status": "Examples in museum collections.",
+   "es": {
+    "title": "Duplicadora Gestetner",
+    "date": "1929",
+    "materials": "Metal, madera, caucho",
+    "key": "El primer diseño industrial de Loewy:[2] una carcasa lisa que ocultaba las piezas móviles de una máquina de copiar para oficinas.[1][3]",
+    "more": "Sigmund Gestetner pidió a Loewy mejorar su duplicadora.[3] En tres días, por 2.000 dólares,[1][3] Loewy cubrió la máquina existente con plasticina y modeló una carcasa única y limpia sobre su maraña de engranajes,[1][3] y reemplazó sus patas salientes por una base tipo mueble.[2][3] Se volvió el caso clásico del styling: mejorar el atractivo de un producto rediseñando su envoltura y no su mecanismo.",
+    "status": "Ejemplares en colecciones de museos.",
+    "short": "Gestetner"
+   },
+   "short": "Gestetner",
+   "refs": [
+    {
+     "label": "V&A, Gestetner Duplicator (Model 66), Raymond Loewy, 1929, W.47-1981",
+     "url": "https://collections.vam.ac.uk/item/O322014/gestetner-duplicator-duplicator-loewy-raymond-fernand/",
+     "checks": "1929; Gestetner Ltd; Loewy cubrió el modelo existente con arcilla para modelar una forma nueva; carcasa negra lisa; «tres días y 2.000 dólares»; siguió en producción después de la Segunda Guerra Mundial",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Hagley Museum and Library, «Gestetner Cyclostyle office duplication machine design by Raymond Loewy»",
+     "url": "https://www.hagley.org/librarynews/gestetner-cyclostyle-office-duplication-machine-design-raymond-loewy",
+     "checks": "rediseño de 1929 (Model 66); agregó una base de mueble y una carcasa, y mejoró la seguridad; «el primer proyecto comercial de diseño industrial» de Loewy",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "EBSCO Research Starters, «Loewy Pioneers American Industrial Design»",
+     "url": "https://www.ebsco.com/research-starters/history/loewy-pioneers-american-industrial-design",
+     "checks": "encargo de Sigmund Gestetner en 1929; plazo de tres días; 2.000 dólares si le gustaba (500 si no); carcasa de arcilla que ocultaba el mecanismo salvo los mandos; base tipo mueble que eliminó las patas salientes; 40 años en producción. ⚠ fuente secundaria (obra de consulta)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "paimio-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Paimio chair",
+   "designers": [
+    "aalto-alvar-aino"
+   ],
+   "maker": "Oy Huonekalu-ja Rakennustyötehdas",
+   "client": "Paimio Sanatorium",
+   "year": 1931,
+   "date": "1931–1932",
+   "production": {
+    "from": 1932,
+    "to": null,
+    "note": "sold by Artek since 1935 as armchair 41"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Bent laminated birch, moulded plywood, lacquer",
+   "tech": [
+    "moulded-plywood"
+   ],
+   "key": "The Aaltos’ armchair for the Paimio tuberculosis sanatorium,[4] a single curved sheet of plywood hung between two loops of laminated birch.[2][3]",
+   "more": "Designed for the sanatorium the Aaltos built in 1929–33,[5] its angled back was meant to ease patients’ breathing.[2][3] The springy plywood seat and the closed birch frames grew out of Alvar Aalto’s research into new ways of forming plywood with his friend Otto Korhonen,[4] whose furniture factory in Turku made the chair.[1][4] It offered an alternative to tubular steel in a warm, local material,[2][3][4] and Artek has sold it since 1935.[2][4] In 2026 the sanatorium was inscribed on the UNESCO World Heritage List among the works of Alvar Aalto.[5]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/4385"
+    }
+   ],
+   "status": "Still in production by Artek; originals in museum collections.",
+   "es": {
+    "title": "Silla Paimio",
+    "date": "1931–1932",
+    "materials": "Abedul laminado curvado, terciado moldeado, laca",
+    "key": "El sillón de los Aalto para el sanatorio antituberculoso de Paimio,[4] una sola lámina curva de terciado colgada entre dos bucles de abedul laminado.[2][3]",
+    "more": "Diseñado para el sanatorio que los Aalto construyeron en 1929–33,[5] su respaldo inclinado buscaba facilitar la respiración de los pacientes.[2][3] El asiento elástico de terciado y los marcos cerrados de abedul nacieron de la investigación de Alvar Aalto sobre nuevas formas de moldear el terciado con su amigo Otto Korhonen,[4] cuya fábrica de muebles en Turku hizo la silla.[1][4] Ofreció una alternativa al tubo de acero en un material cálido y local,[2][3][4] y Artek lo vende desde 1935.[2][4] En 2026 el sanatorio se inscribió en la Lista del Patrimonio Mundial de la UNESCO entre las obras de Alvar Aalto.[5]",
+    "status": "Sigue en producción por Artek; originales en colecciones de museos.",
+    "production": {
+     "note": "vendido por Artek desde 1935 como sillón 41"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Paimio lounge chair (model 41), 711.1943",
+     "url": "https://www.moma.org/collection/works/4385",
+     "checks": "fecha 1932; abedul laminado y terciado moldeado lacado; fabricante Oy Huonekalu-ja Rakennustyötehdas Ab, Turku",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Paimio lounge chair (model 41), 710.1943.1",
+     "url": "https://www.moma.org/collection/works/92879",
+     "checks": "dos bucles cerrados de madera laminada con el asiento entre ellos; respaldo inclinado para respirar mejor; abedul local en vez del tubo de acero de Breuer; Artek desde 1935",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Sainsbury Centre, Armchair 41 «Paimio», 31517",
+     "url": "https://sainsburycentre.ac.uk/art-and-objects/31517-armchair-41-paimio/",
+     "checks": "dos lados de abedul laminado curvados en circuito cerrado; asiento de una sola lámina de terciado, elástico; respaldo para facilitar la respiración de los pacientes; reacción contra la frialdad del tubo de acero; ⚠ fecha 1930",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Modernism and the natural world: the designs of Alvar Aalto and Aino Aalto»",
+     "url": "https://www.vam.ac.uk/articles/modernism-and-the-natural-world-the-designs-of-alvar-aalto-andaino-aalto",
+     "checks": "sanatorio para tuberculosos al este de Turku; Aalto y su amigo Otto Korhonen investigaron nuevos métodos para moldear terciado; sillones fabricados por la empresa de Korhonen y desde 1935 por Artek; madera en vez del tubo de acero",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Alvar Aalto Foundation, «Aalto Works series inscribed on the UNESCO World Heritage List»",
+     "url": "https://www.alvaraalto.fi/en/news/aalto-works-series-inscribed-on-the-unesco-world-heritage-list/",
+     "checks": "inscripción del 26 de julio de 2026; serie de trece sitios; Sanatorio de Paimio, 1929–33",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "stool-60",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Stool 60",
+   "designers": [
+    "aalto-alvar-aino"
+   ],
+   "maker": "Oy Huonekalu-ja Rakennustyötehdas",
+   "client": null,
+   "year": 1933,
+   "date": "1933",
+   "production": {
+    "from": 1933,
+    "to": null,
+    "note": "sold by Artek since 1935"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Solid birch, birch plywood",
+   "tech": [
+    "moulded-plywood"
+   ],
+   "key": "Aalto’s three-legged stacking stool,[1][2] whose bent ‘L-leg’ is screwed straight under the round seat without any joint.[3]",
+   "more": "Used as extra seating in the lecture hall of the Viipuri library,[2] it solved the joint between leg and seat by bending the top of a solid birch leg: the wood was sawn, glued with thin layers and bent into an L.[2][3] Four parts and a few screws make a stool that stacks into towers.[2][3] The L-leg became the basis of many later Aalto pieces.[3]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/1883"
+    }
+   ],
+   "status": "Still in production by Artek.",
+   "wiki": "Model_60_stacking_stool",
+   "es": {
+    "title": "Taburete 60",
+    "date": "1933",
+    "materials": "Abedul macizo, terciado de abedul",
+    "key": "El taburete apilable de tres patas de Aalto,[1][2] cuya «pata en L» curvada se atornilla directamente bajo el asiento redondo sin ningún ensamble.[3]",
+    "more": "Usado como asiento adicional en la sala de conferencias de la biblioteca de Viipuri,[2] resolvió la unión entre pata y asiento curvando la parte superior de una pata de abedul macizo: la madera se aserraba, se encolaba con láminas finas y se doblaba en L.[2][3] Cuatro piezas y unos pocos tornillos forman un taburete que se apila en torres.[2][3] La pata en L fue la base de muchas piezas posteriores de Aalto.[3]",
+    "status": "Sigue en producción por Artek.",
+    "production": {
+     "note": "vendido por Artek desde 1935"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Alvar Aalto, Stacking Stools (model 60), 1933",
+     "url": "https://www.moma.org/collection/works/1883",
+     "checks": "1933; abedul; Oy Huonekalu-ja Rakennustyötehdas Ab, Turku; taburetes apilables",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Alvar Aalto Foundation, «Stool 60»",
+     "url": "https://www.alvaraalto.fi/en/work/stool-60/",
+     "checks": "Alvar Aalto, 1933; usados como asientos extra en la sala de conferencias de la biblioteca de Viipuri; técnica de la pata en L: cortes de sierra en un extremo, láminas finas encoladas en los cortes y curvado a 90° con calor y vapor; tres patas; se apilan en torres; fabricante Huonekalutehdas Korhonen",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Alvar Aalto Museo / Google Arts & Culture, «A Stool Makes History»",
+     "url": "https://artsandculture.google.com/story/a-stool-makes-history-alvar-aalto-museo/zgURBYs-WBwA8A?hl=en",
+     "checks": "1933; pata atornillada bajo el asiento por su extremo curvo, sin ensambles hechos a mano; tres patas para que sea apilable; asiento circular; abedul macizo; variantes posteriores (pata en Y de 1946, en X/abanico de 1954); Artek fundada en 1935; patente del método de curvado",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "moka-express",
+   "level": "essential",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "Moka Express",
+   "designers": [],
+   "maker": "Alfonso Bialetti",
+   "client": null,
+   "year": 1933,
+   "date": "1933",
+   "production": {
+    "from": 1933,
+    "to": null,
+    "note": "mass-produced by Bialetti mainly after 1945"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Cast aluminium, Bakelite handle",
+   "tech": [
+    "bakelite"
+   ],
+   "key": "Alfonso Bialetti’s octagonal aluminium coffee maker of 1933,[1][2] which brought strong, café-style coffee into the home.[1]",
+   "more": "Bialetti, who ran a small aluminium-casting workshop at Crusinallo, near Omegna,[2] designed a stovetop pot in which steam pressure pushes water up through the coffee.[1] Cast in aluminium, it has a faceted body that, according to Bialetti, is easy to grip.[1][2] According to the company, it became a mass product after the war, when his son Renato relaunched it, and its mechanism has hardly changed.[2]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/118645"
+    }
+   ],
+   "status": "Still in production by Bialetti.",
+   "wiki": "Moka_pot",
+   "es": {
+    "title": "Moka Express",
+    "date": "1933",
+    "materials": "Aluminio fundido, mango de baquelita",
+    "key": "La cafetera octogonal de aluminio de Alfonso Bialetti de 1933,[1][2] que llevó al hogar un café fuerte como el de los bares.[1]",
+    "more": "Bialetti, que tenía un pequeño taller de fundición de aluminio en Crusinallo, cerca de Omegna,[2] diseñó una cafetera para la cocina en que la presión del vapor hace subir el agua a través del café.[1] Fundida en aluminio, tiene un cuerpo facetado que, según Bialetti, es fácil de tomar.[1][2] Según la empresa, se volvió un producto masivo después de la guerra, cuando su hijo Renato la relanzó, y su mecanismo casi no ha cambiado.[2]",
+    "status": "Sigue en producción por Bialetti.",
+    "production": {
+     "note": "producida en masa por Bialetti sobre todo después de 1945"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Alfonso Bialetti, Moka Express, 431.2008",
+     "url": "https://www.moma.org/collection/works/118645",
+     "checks": "diseño de Alfonso Bialetti, 1933; funcionamiento: el agua calentada en la cámara inferior genera presión que la empuja a través del café molido; el aluminio como buen conductor; surgió como alternativa económica para hacer espresso en casa. ⚠ El ejemplar es de 2008 (aluminio y plástico), no confirma el mango de baquelita original.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bialetti (fabricante actual), «An idea… with a mustache. Do you know who invented the Moka?»",
+     "url": "https://www.bialetti.com/it_en/inspiration/post/An-idea-with-a-mustache-do-you-know-who-invented-the-moka",
+     "checks": "⚠ fuente del fabricante: 1933; pequeño taller de Alfonso Bialetti en Crusinallo; aprendió la fundición de aluminio en Francia; forma octogonal elegida para tomarla bien y por estética; su hijo Renato la relanzó y difundió después de la Segunda Guerra Mundial (ferias de Milán desde 1948); mecanismo casi sin cambios desde 1933.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "zig-zag-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Zig-Zag chair",
+   "designers": [
+    "rietveld"
+   ],
+   "maker": "Metz & Co",
+   "client": null,
+   "year": 1934,
+   "date": "1934",
+   "production": {
+    "from": 1934,
+    "to": null,
+    "note": "Metz & Co into the 1950s; Cassina since 1973"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Solid wood boards, bolts, reinforcing blocks",
+   "tech": [],
+   "key": "Rietveld’s chair of four wooden boards joined in a Z,[1][2][3] a wooden version of the cantilever chair he had first tried in tubular steel.[4]",
+   "more": "Rietveld first wanted to make the chair from a single piece of material.[2] With four flat boards joined by dovetails and bolts and strengthened by small blocks,[2][3][5] he created a cantilever in wood, without back legs.[3][5] Sold from the mid-1930s by the Amsterdam firm Metz & Co,[3][4] it shows his interest in simple furniture that could be easily mass-produced.[3]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/3477"
+    },
+    {
+     "label": "Museum of Fine Arts, Houston",
+     "url": "https://emuseum.mfah.org/objects/89088/zigzag-chair"
+    }
+   ],
+   "status": "Still in production by Cassina.",
+   "wiki": "Zig-Zag_Chair",
+   "es": {
+    "title": "Silla Zig-Zag",
+    "date": "1934",
+    "materials": "Tablas de madera maciza, pernos, tacos de refuerzo",
+    "key": "La silla de Rietveld hecha de cuatro tablas unidas en Z,[1][2][3] una versión en madera de la silla en voladizo que antes había probado en tubo de acero.[4]",
+    "more": "Rietveld quería primero hacer la silla de una sola pieza de material.[2] Con cuatro tablas planas unidas con colas de milano y pernos, y reforzadas con pequeños tacos,[2][3][5] logró un voladizo en madera, sin patas traseras.[3][5] Vendida desde mediados de los años treinta por la firma Metz & Co de Ámsterdam,[3][4] muestra su interés por muebles simples, fáciles de producir en serie.[3]",
+    "status": "Sigue en producción por Cassina.",
+    "production": {
+     "note": "Metz & Co hasta los años cincuenta; Cassina desde 1973"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Gerrit Rietveld, Zig-Zag Chair, 405.1988",
+     "url": "https://www.moma.org/collection/works/3477",
+     "checks": "diseño de Gerrit Rietveld, 1934; roble y herrajes de bronce; taller de Rietveld, Utrecht.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Zig-Zag Chair (Rietveld; G. A. van der Groenekan, 1970)",
+     "url": "https://collections.vam.ac.uk/item/O142934/zig-zag-chair-chair-rietveld-gerrit/",
+     "checks": "diseño de 1934; cuatro tablas unidas a inglete y apernadas; cola de milano entre asiento y respaldo; bloques de refuerzo en la tabla diagonal; Rietveld quería hacerla de una sola pieza de material; forma en Z sin patas tradicionales.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Stedelijk Museum Amsterdam, Gerrit Rietveld, Zigzagstoel",
+     "url": "https://www.stedelijk.nl/en/collection/10288-gerrit-rietveld-zigzagstoel",
+     "checks": "diseño ca. 1932–1933, producción ca. 1935–1971; Metz & Co de Ámsterdam la produjo desde mediados de los años treinta hasta los cincuenta; olmo, tuercas y pernos de bronce; cuatro tablas, sin patas; investigación de Rietveld sobre sillas fáciles de producir en serie.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Sotheby’s, Important Design, Nueva York 2018, lote 184 (catálogo de subasta)",
+     "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-design-n09957/lot.184.html",
+     "checks": "Rietveld exploró en 1933 una silla zigzag en voladizo de tubo de acero antes de las de madera; las primeras de madera (ca. 1934–1936) las hizo Gerard van de Groenekan, no Metz & Co; colas de milano entre asiento y respaldo; Metz & Co la mostró desde 1937. ⚠ fuente secundaria (catálogo comercial).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cassina, Zig Zag (fabricante actual)",
+     "url": "https://www.cassina.com/ww/en/products/zig-zag.html",
+     "checks": "diseño de 1934; cuatro piezas planas de madera; colas de milano; «una de las primeras sillas en voladizo de madera maciza»; año de producción Cassina: 1973. ⚠ fuente del fabricante.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "coldspot-refrigerator",
+   "level": "essential",
+   "discipline": "product",
+   "type": "appliance",
+   "title": "Coldspot refrigerator",
+   "designers": [
+    "loewy"
+   ],
+   "maker": "Seeger Refrigerator Company",
+   "client": "Sears, Roebuck and Co.",
+   "year": 1934,
+   "date": "1934",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Enamelled pressed steel, porcelain interior, aluminium shelves",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "The refrigerator Raymond Loewy restyled for Sears in 1934,[1][2][3] a smooth white box that turned a household machine into a desirable object.[2]",
+   "more": "Sears engaged Loewy in 1934 to redesign its Coldspot, working with the engineer Herman Price.[1] He replaced a squarish cabinet covered in mouldings and raised on spindly legs[4] with a streamlined white design,[1][2][3] with better hardware and rustproof aluminium shelves.[1][3][4] Sears’s archive and Smithsonian Magazine date the redesign to 1934,[1][2] though some books give 1935.[4] Sales more than tripled in a year,[1][4] the classic proof that design could raise sales.[4]",
+   "where": [
+    {
+     "label": "Sears Archives",
+     "url": "https://www.searsarchives.claeys.co/brands/coldspot.html"
+    }
+   ],
+   "status": "Surviving examples in private and museum collections.",
+   "wiki": "Coldspot",
+   "es": {
+    "title": "Refrigerador Coldspot",
+    "date": "1934",
+    "materials": "Acero estampado esmaltado, interior de porcelana, repisas de aluminio",
+    "key": "El refrigerador que Raymond Loewy rediseñó para Sears en 1934,[1][2][3] una caja blanca y lisa que convirtió una máquina doméstica en un objeto deseable.[2]",
+    "more": "Sears contrató a Loewy en 1934 para rediseñar su Coldspot, junto al ingeniero Herman Price.[1] Reemplazó un mueble cuadrado, lleno de molduras y montado sobre patas delgadas,[4] por un diseño aerodinámico y blanco,[1][2][3] con mejores herrajes y repisas de aluminio inoxidables.[1][3][4] El archivo de Sears y Smithsonian Magazine fechan el rediseño en 1934,[1][2] aunque algunos libros dan 1935.[4] Las ventas se triplicaron con creces en un año,[1][4] la prueba clásica de que el diseño podía aumentar las ventas.[4]",
+    "status": "Ejemplares conservados en colecciones privadas y de museos.",
+    "short": "Coldspot"
+   },
+   "short": "Coldspot",
+   "refs": [
+    {
+     "label": "Sears Archives, «Coldspot: 1928–1976»",
+     "url": "https://www.searsarchives.claeys.co/brands/coldspot.html",
+     "checks": "Sears contrató a Loewy en 1934 para rediseñar el Coldspot; trabajó con el ingeniero Herman Price; diseño aerodinámico; primeras repisas de aluminio; las ventas subieron más de 300 % en un año",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Smithsonian Magazine, «Meet the Product Designer Who Made Mid-Century America Look Clean and Stylish»",
+     "url": "https://www.smithsonianmag.com/innovation/meet-product-designer-who-made-mid-century-america-look-clean-and-stylish-180972270/",
+     "checks": "1934, para Sears; «un reluciente santuario blanco»; ventas de 15.000 a 275.000 unidades en cinco años",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "USPS, «Pioneers of American Industrial Design», comunicado de 2011",
+     "url": "https://about.usps.com/news/national-releases/2011/pr11_078_pioneers.pdf",
+     "checks": "rediseño de 1934 para Sears; repisas de aluminio inoxidables y aspecto aerodinámico",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "W. Lidwell y G. Manacsa, Deconstructing Product Design (Rockport, 2009), cap. «Coldspot Refrigerator»",
+     "url": "https://www.oreilly.com/library/view/deconstructing-product-design/9781592533459/xhtml/ch018.html",
+     "checks": "fecha 1935; cita de Loewy sobre el modelo anterior, una caja mal proporcionada llena de molduras, con patas delgadas y herrajes baratos; triplicó las ventas en un año; prueba de que el diseño mejora las ventas; ⚠ solo se leyó el extracto público",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "chrysler-airflow",
+   "level": "essential",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "Chrysler Airflow",
+   "designers": [],
+   "maker": "Chrysler Corporation",
+   "client": null,
+   "year": 1934,
+   "date": "1934",
+   "production": {
+    "from": 1934,
+    "to": 1937,
+    "note": "fewer than 29,600 built"
+   },
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel",
+   "tech": [
+    "steel-body-pressing",
+    "chrome-plating"
+   ],
+   "key": "One of the first mass-produced cars shaped with wind-tunnel tests,[1][4][5] advanced in engineering and a commercial failure.[1][2][3]",
+   "more": "The engineer Carl Breer, with Fred Zeder and Owen Skelton,[2][4] tested about fifty models[5] in a wind tunnel that Chrysler set up on the advice of Orville Wright.[2][4][5] The result had a light body built on a welded steel skeleton, a forerunner of unit construction;[2][3] the engine was moved forward over the front axle and the passengers sat between the axles, for a smoother ride.[2][5] Launched at the New York Auto Show in January 1934,[2][4][5] its rounded front and ‘waterfall’ grille put buyers off;[1][3][5] a conventional Chrysler outsold it, and it was dropped after 1937.[1][2][3][5]",
+   "where": [],
+   "status": "Surviving cars in private collections and car museums.",
+   "wiki": "Chrysler_Airflow",
+   "es": {
+    "title": "Chrysler Airflow",
+    "date": "1934",
+    "materials": "Acero",
+    "key": "Uno de los primeros autos de serie con forma probada en túnel de viento,[1][4][5] avanzado en ingeniería y un fracaso comercial.[1][2][3]",
+    "more": "El ingeniero Carl Breer, con Fred Zeder y Owen Skelton,[2][4] probó unas cincuenta maquetas[5] en un túnel de viento que Chrysler instaló por consejo de Orville Wright.[2][4][5] El resultado tenía una carrocería liviana sobre un esqueleto de acero soldado, precursora de la carrocería autoportante;[2][3] el motor se adelantó sobre el eje delantero y los pasajeros iban entre los ejes, para una marcha más suave.[2][5] Lanzado en el Salón del Automóvil de Nueva York en enero de 1934,[2][4][5] su frente redondeado y su parrilla «en cascada» espantaron a los compradores;[1][3][5] un Chrysler convencional lo superó en ventas y se dejó de fabricar después de 1937.[1][2][3][5]",
+    "status": "Autos conservados en colecciones privadas y museos del automóvil.",
+    "production": {
+     "note": "menos de 29.600 unidades"
+    }
+   },
+   "refs": [
+    {
+     "label": "The Henry Ford, 1937 Chrysler Airflow Sedan, 86653",
+     "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/86653",
+     "checks": "diseñado con ayuda de un túnel de viento; Airflow presentado para 1934; los clientes rechazaron su aspecto poco convencional; Chrysler lo canceló después de 1937",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Revs Institute, 1934 Chrysler Airflow CV-8",
+     "url": "https://revsinstitute.org/vehicle/1934-chrysler-airflow-cv-8",
+     "checks": "Carl Breer con Fred Zeder y Owen Skelton; consultaron a Orville Wright y probaron maquetas en túnel de viento; construcción liviana precursora de la carrocería autoportante; motor sobre el eje delantero y pasajeros entre las ruedas para mejor marcha; presentado en el Salón de Nueva York de 1934; ventas lentas y fin en 1937",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Studebaker National Museum, 1934 Chrysler Airflow",
+     "url": "https://studebakermuseum.org/1934-chrysler-airflow/",
+     "checks": "Breer dio forma a la carrocería con un túnel de viento; esqueleto de tubo cuadrado soldado al chasis, un temprano «unibody»; el público lo rechazó por radical; pocas ventas y fin en 1937; ⚠ da 8.389 unidades (Chrysler Airflow 1934)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Popular Science, «In 1934, Chrysler bet big on teardrop-shaped cars»",
+     "url": "https://www.popsci.com/technology/teardrop-car-design/",
+     "checks": "Orville Wright sugirió construir un túnel de viento; decenas de maquetas; lanzado en enero de 1934; el auto de serie más aerodinámico hasta entonces; parrillas cada vez más convencionales; descontinuado en 1937; ⚠ fuente secundaria (prensa)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ate Up With Motor, «Changing Winds: The 1934–1937 Chrysler Airflow»",
+     "url": "https://ateupwithmotor.com/model-histories/chrysler-desoto-airflow-history/",
+     "checks": "túnel de viento instalado en 1928 con ayuda de Orville Wright; unas 50 maquetas probadas hacia 1931; motor sobre el eje delantero; Salón de Nueva York de enero de 1934; parrilla «en cascada»; un Chrysler convencional lo superó en ventas; ⚠ fuente secundaria (historia de modelos, no académica)",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "streamline-moderne"
+   ]
+  },
+  {
+   "id": "dymaxion-car",
+   "level": "normal",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "Dymaxion car",
+   "designers": [
+    "buckminster-fuller"
+   ],
+   "maker": "Starling Burgess",
+   "client": null,
+   "year": 1933,
+   "date": "1933",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Aluminium body over a wooden frame",
+   "tech": [],
+   "key": "Buckminster Fuller’s three-wheeled teardrop car of 1933,[1][2] built with the yacht designer Starling Burgess,[2] which never went into production.[3][5]",
+   "more": "Built in Bridgeport, Connecticut,[1][2] it had a long aluminium body shaped like a teardrop, a Ford V8 engine at the rear,[2] front-wheel drive and rear-wheel steering.[1][2] In 1932 the sculptor Isamu Noguchi made plaster models of the design.[3][4] Three prototypes were built in 1933–34;[1][3] on 27 October 1933 the first one overturned in a fatal crash near the Chicago World’s Fair.[1][2]",
+   "where": [],
+   "status": "One prototype survives in the National Automobile Museum, Reno.",
+   "wiki": "Dymaxion_car",
+   "es": {
+    "title": "Auto Dymaxion",
+    "date": "1933",
+    "materials": "Carrocería de aluminio sobre armazón de madera",
+    "key": "El auto de tres ruedas en forma de gota de Buckminster Fuller, de 1933,[1][2] construido con el diseñador de yates Starling Burgess,[2] que nunca se fabricó en serie.[3][5]",
+    "more": "Construido en Bridgeport, Connecticut,[1][2] tenía una larga carrocería de aluminio en forma de gota, motor Ford V8 trasero,[2] tracción delantera y dirección en la rueda trasera.[1][2] En 1932 el escultor Isamu Noguchi hizo maquetas de yeso del diseño.[3][4] Se construyeron tres prototipos en 1933–34;[1][3] el 27 de octubre de 1933 el primero volcó en un accidente mortal cerca de la Feria Mundial de Chicago.[1][2]",
+    "status": "Un prototipo se conserva en el National Automobile Museum de Reno."
+   },
+   "refs": [
+    {
+     "label": "Lane Motor Museum, Dymaxion (replica) 1933",
+     "url": "https://www.lanemotormuseum.org/collection/cars/item/dymaxion-replica-1933/",
+     "checks": "taller en Bridgeport, Connecticut, desde marzo de 1933; motor Ford V8 de 85 hp; tracción delantera y dirección en la rueda trasera; tres prototipos (1933–1934); accidente del auto n.º 1 el 27 de octubre de 1933; el n.º 2 es el único sobreviviente, en el National Automobile Museum de Reno. ⚠ Lo describe como motor central y dice que murieron dos de tres ocupantes (Slate: murió el conductor).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Alec Nevala-Lee, «The Dymaxion Car: The True History…», Slate, 2022 (adaptado de su biografía Inventor of the Future)",
+     "url": "https://slate.com/technology/2022/08/the-dymaxion-car-the-true-history-of-buckminster-fullers-failed-automobile.html",
+     "checks": "Starling Burgess, diseñador de yates y aviones; construcción en Bridgeport; tres ruedas (dos delante, una atrás); motor Ford con la transmisión invertida para ponerlo atrás; dirección trasera; carrocería de aluminio lacado sobre armazón de madera; accidente fatal el 27 de octubre de 1933 cerca de la Feria Mundial de Chicago; la prensa siguió siendo favorable 18 meses. ⚠ fuente secundaria (periodismo basado en una biografía).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Sotheby’s, Important 20th Century Design, 2008, lote 145: Fuller y Noguchi, maqueta del Dymaxion (catálogo de subasta)",
+     "url": "https://www.sothebys.com/en/auctions/ecatalogue/2008/important-20th-century-design-n08502/lot.145.html",
+     "checks": "maqueta de yeso de Noguchi, ca. 1932, según bocetos de Fuller; tres prototipos con motores Ford y dirección trasera; accidente fatal en 1933; proyecto abandonado. ⚠ fuente secundaria; no menciona túnel de viento.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Domus, «Fuller and Noguchi: story of a friendship», 2011",
+     "url": "https://www.domusweb.it/en/interviews/2011/09/01/fuller-and-noguchi-story-of-a-friendship.html",
+     "checks": "pie de foto: grupo de maquetas de yeso del Dymaxion Car hechas por Isamu Noguchi, 1932.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Art Institute of Chicago, R. Buckminster Fuller, Dymaxion Car, Section",
+     "url": "https://www.artic.edu/artworks/192890/dymaxion-car-section",
+     "checks": "presentado en Chicago en 1933 (Century of Progress); el costo hizo inviable la producción en serie. ⚠ Habla de «chasis de aluminio» y de tracción trasera, en contra de Slate y del Lane Motor Museum; no se usa para eso.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "tatra-77",
+   "level": "normal",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "Tatra 77",
+   "designers": [],
+   "maker": "Ringhoffer-Tatra",
+   "client": null,
+   "year": 1934,
+   "date": "1934",
+   "production": {
+    "from": 1934,
+    "to": 1938,
+    "note": "255 built"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CZ"
+   ],
+   "materials": "Steel and magnesium alloys",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "The first serially built streamlined car,[1][2][3] made in Czechoslovakia in 1934 with a rear air-cooled V8 engine.[1][2]",
+   "more": "Designed by Hans Ledwinka’s team with Erich Übelacker,[1] and drawing on the aerodynamic work of Paul Jaray,[2] it had a long teardrop body with a central fin and a flat floor.[1] Only about 255 were built,[1][2][3] but its rear-engine layout, continued in the cheaper Tatra 97, influenced the Volkswagen; after a long dispute, Volkswagen paid compensation in 1961.[1]",
+   "where": [],
+   "status": "Surviving cars in Czech technical museums and private collections.",
+   "wiki": "Tatra_77",
+   "es": {
+    "title": "Tatra 77",
+    "date": "1934",
+    "materials": "Acero y aleaciones de magnesio",
+    "key": "El primer auto aerodinámico fabricado en serie,[1][2][3] hecho en Checoslovaquia en 1934 con un motor V8 trasero enfriado por aire.[1][2]",
+    "more": "Diseñado por el equipo de Hans Ledwinka con Erich Übelacker,[1] y basado en los estudios aerodinámicos de Paul Jaray,[2] tenía una larga carrocería en forma de gota con una aleta central y piso plano.[1] Se fabricaron solo unas 255 unidades,[1][2][3] pero su disposición de motor trasero, continuada en el Tatra 97, más barato, influyó en el Volkswagen; tras una larga disputa, Volkswagen pagó una indemnización en 1961.[1]",
+    "status": "Autos conservados en museos técnicos checos y colecciones privadas.",
+    "production": {
+     "note": "255 unidades"
+    }
+   },
+   "refs": [
+    {
+     "label": "Český rozhlas Plus, «Rok 1934: Tatra představuje revoluční model 77»",
+     "url": "https://plus.rozhlas.cz/rok-1934-tatra-predstavuje-revolucni-model-77-7564607",
+     "checks": "presentado en marzo de 1934; primer auto aerodinámico fabricado en serie del mundo; equipo de Hans Ledwinka y Erich Übelacker; motor V8 trasero enfriado por aire; limusina de cinco metros con aleta trasera, piso plano; 255 unidades (77 y 77a) hasta 1938; el Escarabajo se inspiró en el Tatra 97, más barato; tras las disputas, Volkswagen pagó tres millones de marcos en 1961. ⚠ No precisa que Übelacker se encargara de la carrocería. ⚠ fuente secundaria (radio pública).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Southward Car Museum (Nueva Zelanda), Tatra T77A",
+     "url": "https://www.southwardcarmuseum.co.nz/vehicles/tatra-t77a",
+     "checks": "primer auto de serie de diseño realmente aerodinámico; V8 de 3380 cc enfriado por aire; Hans Ledwinka y Paul Jaray, ingeniero aerodinámico de los zepelines; chasis central de tubo de acero; amplio uso de aleaciones de magnesio; 255 unidades; T77 de 1934, T77A de 1935. ⚠ No dice que la aerodinámica de Jaray estuviera patentada.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "FSI VUT Brno, «Národní technické muzeum zrestaurovalo vůz Tatra 77a»",
+     "url": "https://www.fme.vutbr.cz/fakulta/zfsi/73134",
+     "checks": "primer automóvil de serie con carrocería aerodinámica; unas 255 unidades, de las que se conocen unas veinte; un 77a de 1937 en el Museo Técnico Nacional (NTM), declarado monumento cultural.",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "streamline-moderne"
+   ]
+  },
+  {
+   "id": "dbh-1001-telephone",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Ericsson DBH 1001 telephone",
+   "short": "DBH 1001 telephone",
+   "designers": [],
+   "maker": "Elektrisk Bureau, Ericsson",
+   "client": null,
+   "year": 1931,
+   "date": "1931",
+   "production": {
+    "from": 1931,
+    "to": null,
+    "note": "made until 1962"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NO",
+    "SE"
+   ],
+   "materials": "Moulded Bakelite, sheet metal, textile cord",
+   "tech": [
+    "bakelite"
+   ],
+   "key": "A one-piece Bakelite desk telephone designed in Norway in 1931 by the artist Jean Heiberg with the engineer Johan Christian Bjerknes.[1][2][3]",
+   "more": "Made for Elektrisk Bureau in Oslo, largely owned by Ericsson,[1][2] its body and handset cradle were moulded as a single Bakelite shell;[2][3] according to the Norwegian Museum of Science and Technology, moulding cut the time to make a case from about a week to seven minutes.[2][3] Its licence was sold to telephone services in Britain and the United States,[2] and its compact, rounded form influenced Henry Dreyfuss’s Bell telephones of 1937.[3]",
+   "where": [
+    {
+     "label": "Cooper Hewitt, New York",
+     "url": "https://collection.cooperhewitt.org/objects/18638713/"
+    },
+    {
+     "label": "Ericsson history",
+     "url": "https://www.ericsson.com/en/about-us/history/products/the-telephones/the-bakelite-telephone-1931"
+    }
+   ],
+   "status": "Examples in museum collections.",
+   "wiki": "Ericsson_DBH_1001_telephone",
+   "es": {
+    "title": "Teléfono Ericsson DBH 1001",
+    "short": "Teléfono DBH 1001",
+    "date": "1931",
+    "materials": "Baquelita moldeada, chapa metálica, cordón textil",
+    "key": "Un teléfono de escritorio de baquelita de una sola pieza diseñado en Noruega en 1931 por el artista Jean Heiberg con el ingeniero Johan Christian Bjerknes.[1][2][3]",
+    "more": "Hecho para Elektrisk Bureau de Oslo, en gran parte propiedad de Ericsson,[1][2] su cuerpo y la horquilla del auricular se moldearon como una sola carcasa de baquelita;[2][3] según el Museo Noruego de Ciencia y Tecnología, el moldeo redujo el tiempo de fabricación de una caja de una semana a unos siete minutos.[2][3] Su licencia se vendió a servicios telefónicos de Gran Bretaña y Estados Unidos,[2] y su forma compacta y redondeada influyó en los teléfonos Bell de Henry Dreyfuss de 1937.[3]",
+    "status": "Ejemplares en colecciones de museos.",
+    "production": {
+     "note": "fabricado hasta 1962"
+    }
+   },
+   "refs": [
+    {
+     "label": "Cooper Hewitt (Smithsonian), Ericsson DBH 1001, 1992-118-1",
+     "url": "https://www.si.edu/object/ericsson-dbh-1001:chndm_1992-118-1",
+     "checks": "1931; Jean Heiberg (1884–1976) y Johan Christian Bjerknes (1889–1983); fabricante Norsk Elektrisk Bureau, Oslo; baquelita, chapa metálica, cordón de fibra; auricular de una pieza sobre la horquilla en la parte superior del cuerpo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Norsk Teknisk Museum, «Norwegian design became Swedish adventure»",
+     "url": "https://www.tekniskmuseum.no/en/news/norwegian-design-became-swedish-adventure",
+     "checks": "Bjerknes, jefe de diseño de Elektrisk Bureau; Heiberg, artista formado con Matisse, dio forma a la caja; LM Ericsson poseía gran parte de Elektrisk Bureau; producción desde fines de 1931; caja completamente moldeada en baquelita; tiempo de fabricación de 7 días a 7 minutos; licencias vendidas a servicios telefónicos de Suecia, Gran Bretaña y Estados Unidos; modelo internacional.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cooper Hewitt, «Phone Finds Its Iconic Form», 2015",
+     "url": "https://www.cooperhewitt.org/2015/11/30/phone-finds-its-iconic-form/",
+     "checks": "el ingeniero Bjerknes para la mecánica y el artista Heiberg para la carcasa; horquilla moldeada integrada; de una semana a menos de diez minutos; influyó en la serie 300 de Henry Dreyfuss para Bell (1937); variantes en producción hasta 1962. ⚠ No menciona el teléfono del GPO de 1936.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "model-302-telephone",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Model 302 telephone",
+   "designers": [
+    "dreyfuss"
+   ],
+   "maker": "Western Electric",
+   "client": "Bell System",
+   "year": 1937,
+   "date": "1937",
+   "production": {
+    "from": 1937,
+    "to": 1955,
+    "note": "a common desk telephone of the Bell System"
+   },
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Die-cast zinc, later thermoplastic",
+   "tech": [
+    "bakelite"
+   ],
+   "key": "The Bell desk telephone of 1937,[1][2] styled by Henry Dreyfuss with Bell Laboratories engineers.[2][4]",
+   "more": "Part of the 300 series,[3] it came from Dreyfuss’s work with the engineers of Bell Telephone Laboratories, with whom he had worked since 1930; the museum record also credits George R. Lum.[2][4] Its sidewalls rise from a square base to cradle the handset;[1] its housing was cast in zinc alloy and later made in thermoplastic.[1][2] It followed the European one-piece telephones, especially Jean Heiberg’s 1931 telephone for Ericsson, the DBH 1001.[1][3]",
+   "where": [
+    {
+     "label": "Cooper Hewitt, New York",
+     "url": "https://collection.cooperhewitt.org/objects/18649321/"
+    },
+    {
+     "label": "Yale University Art Gallery",
+     "url": "https://artgallery.yale.edu/collections/objects/77632"
+    }
+   ],
+   "status": "Examples in museum collections; still collected and used.",
+   "wiki": "Model_302_telephone",
+   "es": {
+    "title": "Teléfono modelo 302",
+    "date": "1937",
+    "materials": "Zinc fundido a presión, luego termoplástico",
+    "key": "El teléfono de escritorio de Bell de 1937,[1][2] con forma de Henry Dreyfuss junto a ingenieros de los Laboratorios Bell.[2][4]",
+    "more": "Parte de la serie 300,[3] nació del trabajo de Dreyfuss con los ingenieros de Bell Telephone Laboratories, con quienes colaboraba desde 1930; el registro del museo atribuye también el diseño a George R. Lum.[2][4] Sus paredes suben desde una base cuadrada para sostener el auricular;[1] la carcasa se fundió en aleación de zinc y más tarde se hizo en termoplástico.[1][2] Siguió a los teléfonos europeos de una pieza, en especial el teléfono de 1931 de Jean Heiberg para Ericsson, el DBH 1001.[1][3]",
+    "status": "Ejemplares en colecciones de museos; aún se coleccionan y usan.",
+    "production": {
+     "note": "un teléfono de escritorio común del Bell System"
+    },
+    "short": "Modelo 302"
+   },
+   "short": "Model 302",
+   "refs": [
+    {
+     "label": "Cooper Hewitt, Model 302 Telephone, 1994-73-2",
+     "url": "https://collection.cooperhewitt.org/objects/18649321/",
+     "checks": "ca. 1937; Henry Dreyfuss; Western Electric para Bell; metal fundido y esmaltado, acero; paredes que suben desde una base rectangular para sostener el auricular; se parece al teléfono de 1931 de Jean Heiberg para Ericsson; metal hasta 1946.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cooper Hewitt, «The 302», 2013",
+     "url": "https://www.cooperhewitt.org/2013/10/24/the-302/",
+     "checks": "Dreyfuss trabajaba con Bell Telephone Laboratories desde 1930 y logró colaborar con sus ingenieros; el resultado fue el 302 de 1937; carcasa de aleación de zinc fundida; termoplástico (Tenite) desde 1941.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cooper Hewitt, «Phone Finds Its Iconic Form», 2015",
+     "url": "https://www.cooperhewitt.org/2015/11/30/phone-finds-its-iconic-form/",
+     "checks": "serie 300 de Henry Dreyfuss para Bell, de 1937, influida por el Ericsson DBH 1001.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Smithsonian, registro del Cooper Hewitt, Model 302 Telephone (1994-73-2)",
+     "url": "https://www.si.edu/object/model-302-telephone:chndm_1994-73-2",
+     "checks": "ca. 1937; atribuido a George R. Lum (1889–1989) con Henry Dreyfuss; Western Electric para Bell Telephone Laboratories.",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "human-factors-ergonomics"
+   ]
+  },
+  {
+   "id": "savoy-vase",
+   "level": "normal",
+   "discipline": "product",
+   "type": "object",
+   "title": "Savoy vase",
+   "designers": [
+    "aalto-alvar-aino"
+   ],
+   "maker": "Karhula, Iittala",
+   "client": null,
+   "year": 1936,
+   "date": "1936",
+   "production": {
+    "from": 1937,
+    "to": null,
+    "note": "made by Karhula and later Iittala as model 3031"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Mould-blown glass",
+   "tech": [],
+   "key": "Alvar Aalto’s glass vase of 1936 with a free, undulating outline,[2][4] shown at the 1937 Paris exhibition[1][3] and still made today.[5][6]",
+   "more": "Entered in a competition of the Karhula-Iittala glassworks in 1936 and shown at the 1937 Paris exhibition,[1][3] it was also used at the Savoy restaurant in Helsinki, from which it took its name.[1][3] Its wavy form, often compared to Finnish lakes,[5] contrasted with the geometric modernism of the time.[4] Museums credit it to Alvar Aalto;[1][2][4][6] Aino Aalto worked with him on the furnishings of the Savoy restaurant.[5]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/84130"
+    },
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O3507/savoy-vase-aalto-alvar/"
+    }
+   ],
+   "status": "Still in production by Iittala.",
+   "wiki": "Aalto_Vase",
+   "es": {
+    "title": "Jarrón Savoy",
+    "date": "1936",
+    "materials": "Vidrio soplado en molde",
+    "key": "El jarrón de vidrio de Alvar Aalto de 1936, de contorno libre y ondulante,[2][4] presentado en la exposición de París de 1937[1][3] y todavía en producción.[5][6]",
+    "more": "Presentado a un concurso de la vidriera Karhula-Iittala en 1936 y exhibido en la exposición de París de 1937,[1][3] se usó también en el restaurante Savoy de Helsinki, del que tomó su nombre.[1][3] Su forma ondulada, a menudo comparada con los lagos finlandeses,[5] contrastaba con el modernismo geométrico de la época.[4] Los museos lo atribuyen a Alvar Aalto;[1][2][4][6] Aino Aalto trabajó con él en el mobiliario del restaurante Savoy.[5]",
+    "status": "Sigue en producción por Iittala.",
+    "production": {
+     "note": "fabricado por Karhula y luego por Iittala como modelo 3031"
+    }
+   },
+   "refs": [
+    {
+     "label": "V&A, Savoy vase, C.226-1987",
+     "url": "https://collections.vam.ac.uk/item/O3507/savoy-vase-aalto-alvar/",
+     "checks": "diseñador Alvar Aalto; Karhula; vidrio soplado en molde; concurso Karhula-Iittala de 1936 (primer premio); presentación en la exposición de París de 1937; encargo Ahlström para el restaurante Savoy; ejemplar marcado «Karhula 22 IX 37»",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Alvar Aalto, Vase (model 3031), 1936",
+     "url": "https://www.moma.org/collection/works/84130",
+     "checks": "fecha 1936; fabricante Karhula-Iittala; vidrio soplado en molde; forma biomórfica; denominación «model 3031»; la ficha leída acredita solo a Alvar Aalto (⚠ el título indexado por el buscador decía «Alvar Aalto, Aino Aalto»)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Alvar Aalto Foundation, Aalto vase",
+     "url": "https://www.alvaraalto.fi/en/work/aalto-vase/",
+     "checks": "concurso de Karhula-Iittala en 1936; Pabellón finlandés de París 1937; nombre tomado del restaurante Savoy de Helsinki, donde se usa desde 1937; producción Karhula-Iittala 1937–1949 (n.º de producto 9750) e Iittala desde 1949",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cooper Hewitt, Savoy Vase",
+     "url": "https://collection.cooperhewitt.org/objects/18634859/",
+     "checks": "Alvar Aalto; c. 1936; Karhula-Iittala; forma ondulante inspirada en el paisaje finlandés, que se aleja de la contención geométrica (⚠ formulado como «classical geometric restraint», no «modernismo geométrico»)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Jan Michl, «Alvar Aalto: Savoy Vase (1936)»",
+     "url": "https://www.janmichl.com/eng.aalto.html",
+     "checks": "comparación frecuente con los lagos finlandeses (y su crítica); Iittala sigue produciéndolo; Alvar y Aino Aalto diseñaron el mobiliario del restaurante Savoy (⚠ texto de un historiador del diseño en su sitio personal)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "NGV, Savoy vase, Alvar Aalto / Iittala",
+     "url": "https://www.ngv.vic.gov.au/explore/collection/work/13970/",
+     "checks": "diseñado en 1936; Alvar Aalto; Iittala; sigue en producción",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "kdf-wagen",
+   "level": "essential",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "KdF-Wagen",
+   "designers": [
+    "porsche"
+   ],
+   "maker": "Volkswagenwerk",
+   "client": "Nazi German state",
+   "year": 1938,
+   "date": "1938",
+   "production": {
+    "from": 1938,
+    "to": 1945,
+    "note": "only a few hundred civilian cars before 1945; mass production came after the war"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Pressed steel body on a platform chassis",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "The ‘people’s car’ promoted by Hitler and developed by Ferdinand Porsche’s office,[1][3] named in 1938 after the Nazi leisure organisation Strength through Joy.[2]",
+   "more": "In 1934 the German car industry association gave Porsche’s office the contract for a cheap car for four adults;[1][3] it had an air-cooled engine at the rear.[4][5] Erwin Komenda shaped the rounded body,[4][5] drawing on earlier small-car ideas, including Porsche’s rear-engined design for NSU and the Tatra T97.[4] The factory’s foundation stone was laid in May 1938, and more than 330,000 Germans paid into a savings scheme, but none of them received a car: the factory made military vehicles with forced labour.[2][3] After 1945 it became the Volkswagen Beetle.[4]",
+   "where": [],
+   "status": "Prewar examples are very rare; the design continued as the Volkswagen Beetle until 2003.",
+   "wiki": "Volkswagen_Beetle",
+   "es": {
+    "title": "KdF-Wagen",
+    "date": "1938",
+    "materials": "Carrocería de acero estampado sobre chasis de plataforma",
+    "key": "El «auto del pueblo» impulsado por Hitler y desarrollado por la oficina de Ferdinand Porsche,[1][3] bautizado en 1938 con el nombre de la organización nazi de ocio Fuerza a través de la Alegría.[2]",
+    "more": "En 1934 la asociación de la industria automotriz alemana dio a la oficina de Porsche el contrato de un auto barato para cuatro adultos;[1][3] tenía motor trasero enfriado por aire.[4][5] Erwin Komenda dio forma a la carrocería redondeada,[4][5] a partir de ideas anteriores de autos pequeños, incluidos el diseño de motor trasero de Porsche para NSU y el Tatra T97.[4] La primera piedra de la fábrica se puso en mayo de 1938, y más de 330.000 alemanes pagaron un plan de ahorro, pero ninguno recibió un auto: la fábrica hizo vehículos militares con trabajo forzado.[2][3] Después de 1945 se convirtió en el Volkswagen Escarabajo.[4]",
+    "status": "Los ejemplares de preguerra son muy escasos; el diseño siguió como Volkswagen Escarabajo hasta 2003.",
+    "production": {
+     "note": "solo unos cientos de autos civiles antes de 1945; la producción en masa llegó después de la guerra"
+    }
+   },
+   "refs": [
+    {
+     "label": "Volkswagen AG, Crónica corporativa, «1934 to 1937»",
+     "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1934-to-1937-the-german-peoples-car-as-a-communal-project-of-the-german-automotive-industry-17353",
+     "checks": "memorándum de Porsche de enero de 1934: vehículo para cuatro adultos; el RDA encargó el proyecto a la oficina de Porsche el 22 de junio de 1934; Hitler lo apoyó públicamente; precio objetivo 990 RM; prototipos desde 1935",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Volkswagen AG, Crónica corporativa, «1937 to 1945»",
+     "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1937-to-1945-founding-of-the-company-and-integration-into-the-war-economy-17354",
+     "checks": "colocación de la primera piedra el 26 de mayo de 1938, donde Hitler bautizó el auto «KdF-Wagen» por Kraft durch Freude; plan de ahorro desde agosto de 1938, unos 336.000 ahorrantes, ningún auto entregado a civiles; producción de vehículos militares; unos 20.000 trabajadores forzados, dos tercios de la plantilla en 1944; solo 630 sedanes KdF para jerarcas",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsches Historisches Museum, LeMO, «Volkswagen»",
+     "url": "https://www.dhm.de/lemo/kapitel/ns-regime/industrie-und-wirtschaft/volkswagen",
+     "checks": "encargo del RDA a Porsche en junio de 1934; interés de Hitler por la motorización masiva; primera piedra el 26 de mayo de 1938; casi 340.000 ahorrantes y solo unos cientos de autos; producción bélica desde 1940; trabajo forzado",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museums Victoria, «Volkswagen ‘Beetle’ Motor Car, 1930s–2010s»",
+     "url": "https://collections.museumsvictoria.com.au/articles/3566",
+     "checks": "diseño de Ferdinand Porsche y Erwin Komenda; inspirado en un proyecto anterior de motor trasero de Porsche para NSU y en el Tatra T97; después de 1945 la producción civil siguió como el Escarabajo",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "fahr(T)raum Mattsee, «The original Beetle: a KdF car from the year 1942»",
+     "url": "https://www.fahrtraum.at/en/the-original-beetle-at-fahrtraum-mattsee-a-kdf-car-from-the-year-1942/",
+     "checks": "Erwin Komenda desarrolló la forma aerodinámica de superficies redondeadas; contrato de la oficina de Porsche con el RDA el 22 de junio de 1934; motor bóxer enfriado por aire; ⚠ museo privado",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "kandem-lamp",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Kandem lamp",
+   "designers": [
+    "marianne-brandt"
+   ],
+   "maker": "Körting & Mathiesen",
+   "client": null,
+   "year": 1928,
+   "date": "1928",
+   "production": {
+    "from": 1928,
+    "to": null,
+    "note": "one of the Bauhaus’s greatest commercial successes"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Lacquered steel",
+   "tech": [],
+   "key": "A bedside lamp with a tilting shade, designed by Marianne Brandt and Hin Bredendieck for industrial production.[1][2][3]",
+   "more": "It came out of a collaboration between the Bauhaus metal workshop and the Leipzig lighting firm Körting & Mathiesen, sold under the brand name Kandem.[2][3] Brandt and the student Hin Bredendieck designed a compact lamp of lacquered steel with an adjustable shade.[1][2][3][4] Unlike earlier workshop pieces, it was truly made by industry in large numbers.[3]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/2463"
+    }
+   ],
+   "status": "Originals in museum collections and on the antiques market.",
+   "es": {
+    "title": "Lámpara Kandem",
+    "date": "1928",
+    "materials": "Acero lacado",
+    "key": "Una lámpara de velador con pantalla orientable, diseñada por Marianne Brandt y Hin Bredendieck para la producción industrial.[1][2][3]",
+    "more": "Nació de una colaboración entre el taller de metal de la Bauhaus y la empresa de iluminación Körting & Mathiesen de Leipzig, que la vendió con la marca Kandem.[2][3] Brandt y el estudiante Hin Bredendieck diseñaron una lámpara compacta de acero lacado con pantalla regulable.[1][2][3][4] A diferencia de piezas anteriores del taller, la fabricó de verdad la industria en grandes cantidades.[3]",
+    "status": "Originales en colecciones de museos y en el mercado de antigüedades.",
+    "production": {
+     "note": "uno de los mayores éxitos comerciales de la Bauhaus"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Kandem Bedside Table Lamp, 191.1958",
+     "url": "https://www.moma.org/collection/works/2463",
+     "checks": "Marianne Brandt y Hin Bredendieck; 1928; Körting & Mathiesen, Leipzig; acero lacado; lámpara de velador",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, Lampe Kandem n° 702, AM 1998-1-21",
+     "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/coX7nq",
+     "checks": "Brandt y Bredendieck; 1928; Körting & Mathiesen; chapa de acero lacada; pantalla móvil; diseñada en el taller de metal de la Bauhaus (⚠ la ficha dice «à Berlin», un error: el taller estaba en Dessau)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ketterer Kunst, diccionario: Kandem",
+     "url": "https://www.kettererkunst.com/dict/kandem.php",
+     "checks": "Kandem = Körting & Mathiesen, Leipzig; colaboración con la Bauhaus desde c. 1928, organizada por Brandt; Bredendieck entre los estudiantes del taller de metal; lámpara de velador de 1928; más de 50.000 lámparas Bauhaus vendidas en pocos años (⚠ fuente secundaria: casa de subastas)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Nasjonalmuseet, Kandem 702, OK-2002-0064",
+     "url": "https://www.nasjonalmuseet.no/en/collection/object/OK-2002-0064",
+     "checks": "Brandt y Bredendieck; Körting & Mathiesen AG, Leipzig; 1928; acero lacado; lámpara de velador",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "jeep",
+   "level": "normal",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "Jeep",
+   "designers": [],
+   "maker": "American Bantam, Willys-Overland, Ford",
+   "client": "United States Army",
+   "year": 1941,
+   "date": "1940–1941",
+   "production": {
+    "from": 1941,
+    "to": 1945,
+    "note": "about 640,000 built by Willys and Ford during the war"
+   },
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "The small four-wheel-drive army vehicle designed to a military specification in 1940[1][2] and standardised as the Willys MB in 1941.[1][4]",
+   "more": "In July 1940 the US Army asked for a light reconnaissance vehicle within weeks.[1][2] Karl Probst, an engineer hired by the small American Bantam company, drew the design in about two days (17–19 July 1940);[2] Willys-Overland and Ford developed versions from it, and the Willys MB became the standard model, also built by Ford.[1][2][4] More than 600,000 were made during the war.[1][3] Its simple construction let soldiers repair it in the field;[3] the Army’s specification already asked for a fold-down windscreen.[2]",
+   "where": [],
+   "status": "Many survive in museums and private collections; it gave rise to the civilian Jeep.",
+   "wiki": "Willys_MB",
+   "es": {
+    "title": "Jeep",
+    "date": "1940–1941",
+    "materials": "Acero",
+    "key": "El pequeño vehículo militar de doble tracción diseñado según una especificación del ejército en 1940[1][2] y estandarizado como Willys MB en 1941.[1][4]",
+    "more": "En julio de 1940 el Ejército de Estados Unidos pidió un vehículo liviano de reconocimiento en pocas semanas.[1][2] Karl Probst, un ingeniero contratado por la pequeña American Bantam, dibujó el diseño en unos dos días (17–19 de julio de 1940);[2] Willys-Overland y Ford desarrollaron versiones a partir de él, y el Willys MB se volvió el modelo estándar, fabricado también por Ford.[1][2][4] Se produjeron más de 600.000 durante la guerra.[1][3] Su construcción simple permitía a los soldados repararlo en terreno;[3] la especificación del ejército ya pedía un parabrisas abatible.[2]",
+    "status": "Muchos se conservan en museos y colecciones privadas; dio origen al Jeep civil.",
+    "production": {
+     "note": "unos 640.000 fabricados por Willys y Ford durante la guerra"
+    }
+   },
+   "refs": [
+    {
+     "label": "National Museum of World War II Aviation, Ford GPW",
+     "url": "https://www.worldwariiaviation.org/aircraft/ford-gpw",
+     "checks": "requisitos del Ejército del 11 de julio de 1940, enviados a 135 fabricantes; Bantam y Willys, luego Ford; contrato de producción para Willys; Ford contratado desde octubre de 1941 (GPW, diseño Willys bajo licencia); Willys 363.000 y Ford unos 280.000 durante la guerra",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Gale (blog), «Karl K. Probst and the Birth of the Jeep»",
+     "url": "https://blog.gale.com/karl-k-probst-and-the-birth-of-the-jeep/",
+     "checks": "pedido del Cuerpo de Intendencia en julio de 1940 con plazo de 49 días para el prototipo; Probst empezó el 17 de julio y terminó el diseño el viernes 19; la especificación pedía parabrisas abatible; cada empresa ajustó el diseño y el de Willys fue el oficial (⚠ fuente secundaria; su cifra «cerca de 600.000» de Ford y Willys difiere de otras)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Heritage Museums & Gardens, 1942 Willys MB Jeep",
+     "url": "https://heritagemuseumsandgardens.org/hmg/1942-willys-jeep/",
+     "checks": "diseño final con aportes de Bantam, Willys-Overland y Ford; cerca de 650.000 fabricados para la guerra; construcción simple que permitía la reparación en terreno",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museum of the American G.I., Willys MB Jeep (1941–1945)",
+     "url": "https://americangimuseum.org/collections/restored-vehicles/truck-%C2%BC-ton-4x4-willys-mb-jeep-1941-1945/",
+     "checks": "Willys MB 1941–1945; producido por Willys-Overland (MB) y Ford (GP) con diferencias menores; 361.339 Willys MB",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "utility-furniture",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Utility Furniture",
+   "designers": [],
+   "maker": "Board of Trade, Utility Furniture Scheme",
+   "client": null,
+   "year": 1942,
+   "date": "1942–1943",
+   "production": {
+    "from": 1943,
+    "to": 1952,
+    "note": "sold only with coupons to newly married couples and bombed-out families"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Oak or mahogany and hardboard, used sparingly",
+   "tech": [],
+   "key": "The simple, standard furniture the British government allowed to be made during the Second World War, when timber was scarce.[1][2]",
+   "more": "Set up by the Board of Trade in 1942, the scheme fixed a small range of designs, about 30 pieces in the first catalogue of 1943, that factories had to follow.[1][3][4][5] The furniture was launched on 1 January 1943; the first designs were by Edwin Clinch and H. J. Cutler, two designers from High Wycombe, while Herman Lebus sat on the advisory committee.[2][5] Gordon Russell joined the committee in 1942 and later chaired its design panel.[2] Plain, solid and economical, with a nod to the Arts and Crafts style, the furniture could be bought only with a permit and coupons by newly married couples and people whose homes had been bombed.[2][3] The scheme lasted through the post-war years of austerity until 1952.[3][5]",
+   "where": [
+    {
+     "label": "V&A, London: Utility chair",
+     "url": "https://collections.vam.ac.uk/item/O184522/chair-utility/"
+    },
+    {
+     "label": "Imperial War Museum: Utility Furniture catalogue, 1943",
+     "url": "https://www.iwm.org.uk/collections/item/object/1502017274"
+    }
+   ],
+   "status": "Examples in museums and in use in British homes.",
+   "wiki": "Utility_furniture",
+   "es": {
+    "title": "Mobiliario Utility",
+    "date": "1942–1943",
+    "materials": "Roble o caoba y tablero de fibra, usados con economía",
+    "key": "Los muebles simples y estándar que el gobierno británico permitió fabricar durante la Segunda Guerra Mundial, cuando escaseaba la madera.[1][2]",
+    "more": "Creado por el Board of Trade en 1942, el plan fijó una pequeña gama de diseños, unas 30 piezas en el primer catálogo de 1943, que las fábricas debían seguir.[1][3][4][5] Los muebles salieron a la venta el 1 de enero de 1943; los primeros diseños fueron de Edwin Clinch y H. J. Cutler, dos diseñadores de High Wycombe, mientras Herman Lebus formaba parte del comité asesor.[2][5] Gordon Russell se integró al comité en 1942 y luego presidió su panel de diseño.[2] Sencillos, sólidos y económicos, con un guiño al estilo Arts and Crafts, solo podían comprarse con permiso y cupones por parejas recién casadas y personas cuyas casas habían sido bombardeadas.[2][3] El plan se mantuvo durante los años de austeridad de la posguerra, hasta 1952.[3][5]",
+    "status": "Ejemplares en museos y en uso en hogares británicos.",
+    "production": {
+     "note": "vendido solo con cupones a parejas recién casadas y familias bombardeadas"
+    }
+   },
+   "refs": [
+    {
+     "label": "V&A, silla infantil Utility, MISC.549-1985",
+     "url": "https://collections.vam.ac.uk/item/O184522/chair-utility/",
+     "checks": "racionamiento británico en la guerra (incluidos muebles); el plan Utility regulaba la fabricación para evitar desperdicio; la madera era de los materiales más escasos; marca CC41",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Gordon Russell Design Museum, «Furniture Wars» (PDF)",
+     "url": "https://www.gordonrusselldesignmuseum.org/wp-content/uploads/2017/02/furniture-wars.pdf",
+     "checks": "comité asesor del Board of Trade; Gordon Russell se integró en 1942 y luego presidió el panel de diseño; los primeros diseños fueron de H. J. Cutler y Edwin Clinch (High Wycombe); lanzamiento el 1 de enero de 1943; permiso de compra para bombardeados y quienes se casaban; escasez de madera. ⚠ no menciona a Herman Lebus como diseñador ni el fin del racionamiento",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Amgueddfa Cymru – Museum Wales, «Rationing furniture during the Second World War»",
+     "url": "https://museum.wales/blog/2168/Rationing-furniture-during-the-Second-World-War-/",
+     "checks": "primer catálogo de 1943 con unas 30 piezas; guiño al estilo Arts and Crafts; sistema de unidades y permiso; prioridad a quienes perdieron su casa y a parejas jóvenes; el plan siguió hasta 1952. ⚠ fecha el diseño de la colección en 1941",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Imperial War Museums, catálogo «Utility furniture», Board of Trade, 1943",
+     "url": "https://www.iwm.org.uk/collections/item/object/1502017274",
+     "checks": "catálogo de la primera edición de muebles Utility, con precios, publicado por el Board of Trade en 1943",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Harris Lebus (sitio histórico de la empresa), «Utility furniture»",
+     "url": "https://harrislebus.com/utility-furniture/",
+     "checks": "comité creado por el Board of Trade en 1942; Herman Lebus fue miembro del comité (no diseñador); diseños aprobados publicados en el catálogo de 1943; el plan cerró en 1952. ⚠ fuente secundaria (sitio de la empresa); dice que el racionamiento de muebles terminó en 1952",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "light-prop",
+   "level": "normal",
+   "discipline": "product",
+   "type": "object",
+   "title": "Light Prop",
+   "short": "Light Prop",
+   "designers": [
+    "moholy-nagy"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1930,
+   "date": "1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Aluminium, steel, nickel-plated brass, plastic, wood, electric motor",
+   "tech": [],
+   "key": "László Moholy-Nagy’s ‘Light Prop for an Electric Stage’, a motor-driven construction of metal, glass and plastic made to throw moving light and shadow.[1]",
+   "more": "Shown in 1930 at an exhibition of German design, it is among the earliest electrically powered kinetic sculptures; Moholy-Nagy built it to produce lighting and motion effects for the stage, the result of his experiments at the Bauhaus.[1]",
+   "where": [
+    {
+     "label": "Harvard Art Museums",
+     "url": "https://harvardartmuseums.org/art/299819"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Harvard Art Museums, Light Prop for an Electric Stage (1930)",
+     "checks": "Fecha (1930), materiales, exposición de diseño alemán de 1930, efectos escénicos; clasificada como escultura cinética.",
+     "date": "2026-10-03",
+     "url": "https://harvardartmuseums.org/art/299819"
+    }
+   ],
+   "es": {
+    "title": "Modulador de luz",
+    "date": "1930",
+    "materials": "Aluminio, acero, latón niquelado, plástico, madera, motor eléctrico",
+    "key": "El «Modulador de luz para un escenario eléctrico» de László Moholy-Nagy, una construcción de metal, vidrio y plástico movida por un motor para proyectar luces y sombras en movimiento.[1]",
+    "more": "Presentado en 1930 en una exposición de diseño alemán, está entre las primeras esculturas cinéticas movidas por electricidad; Moholy-Nagy lo construyó para producir efectos de luz y movimiento en el escenario, como resultado de sus experimentos en la Bauhaus.[1]",
+    "short": "Modulador de luz"
+   }
+  },
+  {
+   "id": "kubus-containers",
+   "level": "normal",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "Kubus containers",
+   "short": "Kubus",
+   "designers": [
+    "wagenfeld"
+   ],
+   "maker": "Vereinigte Lausitzer Glaswerke",
+   "client": null,
+   "year": 1938,
+   "date": "1938",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Press-moulded glass",
+   "tech": [],
+   "key": "Wilhelm Wagenfeld’s stackable glass storage containers of 1938,[1] designed to keep food in the refrigerator.[2]",
+   "more": "Made by press-moulding at the Vereinigte Lausitzer Glaswerke,[1] the pieces nest and stack together, and the clear glass shows what is inside;[2] versions stayed in production from about 1950 to 1960.[1]",
+   "where": [
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O249831/kubus-geschirr-storage-container-wagenfeld-wilhelm/"
+    }
+   ],
+   "wiki": "Wilhelm_Wagenfeld",
+   "refs": [
+    {
+     "label": "V&A, Kubus-Geschirr (1938)",
+     "checks": "Diseño de 1938 para Vereinigte Lausitzer Glaswerke; vidrio prensado; producción c. 1950–1960.",
+     "date": "2026-10-03",
+     "url": "https://collections.vam.ac.uk/item/O249831/kubus-geschirr-storage-container-wagenfeld-wilhelm/"
+    },
+    {
+     "label": "Cooper Hewitt, «Kubus: A Stylish 1930s Fridge Accessory» (2018)",
+     "checks": "Diseño de 1938 para guardar alimentos en el refrigerador; diez recipientes que se encajan y apilan; «growing popularity of refrigerators».",
+     "date": "2026-10-03",
+     "url": "https://www.cooperhewitt.org/2018/11/13/kubus-a-stylish-1930s-fridge-accessory/"
+    }
+   ],
+   "es": {
+    "title": "Vajilla Kubus",
+    "date": "1938",
+    "materials": "Vidrio prensado",
+    "key": "Los recipientes de vidrio apilables de Wilhelm Wagenfeld, de 1938,[1] pensados para guardar alimentos en el refrigerador.[2]",
+    "more": "Hechos en vidrio prensado en las Vereinigte Lausitzer Glaswerke,[1] los recipientes se encajan y se apilan, y el vidrio transparente deja ver lo que contienen;[2] algunas versiones siguieron en producción entre 1950 y 1960, aproximadamente.[1]",
+    "short": "Kubus"
+   }
+  },
+  {
+   "id": "bar-sous-le-toit",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Bar sous le toit",
+   "short": "Bar sous le toit",
+   "designers": [
+    "perriand"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1927,
+   "date": "1927",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Metal and industrial materials",
+   "tech": [],
+   "key": "Charlotte Perriand’s metal bar and furniture for her own attic flat, shown at the 1927 Salon d’Automne.[1]",
+   "more": "Made with the industrial materials that modern designers were testing, it won praise for an atmosphere at once luxurious and relaxed. Its success led Le Corbusier and Pierre Jeanneret to take her on as an associate in 1928, in charge of ‘lockers, seats and tables’.[1]",
+   "where": [
+    {
+     "label": "Centre Pompidou: Charlotte Perriand",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-perriand/ENS-perriand.htm"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Centre Pompidou, dossier pedagógico «Charlotte Perriand»",
+     "checks": "Salón de Otoño de 1927; mobiliario metálico de su departamento de Saint-Sulpice; elogios; asociada desde 1928 a cargo de casilleros, asientos y mesas.",
+     "date": "2026-10-03",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-perriand/ENS-perriand.htm"
+    }
+   ],
+   "es": {
+    "title": "Bar bajo el techo",
+    "date": "1927",
+    "materials": "Metal y materiales industriales",
+    "key": "El bar y los muebles de metal de Charlotte Perriand para su propio departamento-taller en el altillo de Saint-Sulpice, presentados en el Salón de Otoño de 1927.[1]",
+    "more": "Hecho con los materiales industriales que probaban los diseñadores modernos, fue elogiado por una atmósfera a la vez lujosa y relajada. Su éxito llevó a Le Corbusier y Pierre Jeanneret a incorporarla como asociada en 1928, a cargo de los «casilleros, asientos y mesas».[1]",
+    "short": "Bar bajo el techo"
+   }
+  },
+  {
+   "id": "patriot-radio",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Patriot radio",
+   "short": "Patriot radio",
+   "designers": [
+    "bel-geddes"
+   ],
+   "maker": null,
+   "client": "Emerson Radio and Phonograph Corporation",
+   "year": 1939,
+   "date": "1939–1940",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Catalin, cellulose acetate",
+   "tech": [],
+   "key": "Norman Bel Geddes’s ‘Patriot’ radio for Emerson, a stars-and-stripes case in green, red and white plastics.[1]",
+   "more": "Designed in 1939, it wrapped an ordinary radio set in a patriotic case of coloured Catalin and cellulose acetate, making it an optimistic emblem of American technology, industry and identity.[1]",
+   "where": [
+    {
+     "label": "The Metropolitan Museum of Art",
+     "url": "https://www.metmuseum.org/art/collection/search/490786"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Met, Norman Bel Geddes, Patriot (c. 1940)",
+     "checks": "Diseño de 1939, ejemplar de c. 1940; Emerson; plásticos; emblema de la tecnología y la identidad estadounidenses.",
+     "date": "2026-10-03",
+     "url": "https://www.metmuseum.org/art/collection/search/490786"
+    }
+   ],
+   "es": {
+    "title": "Radio Patriot",
+    "date": "1939–1940",
+    "materials": "Catalina, acetato de celulosa",
+    "key": "La radio «Patriot» de Norman Bel Geddes para Emerson, con una caja de barras y estrellas en plásticos verde, rojo y blanco.[1]",
+    "more": "Diseñada en 1939, envolvió una radio común en una caja patriótica de catalina y acetato de celulosa de colores, y la convirtió en un emblema optimista de la tecnología, la industria y la identidad estadounidenses.[1]",
+    "short": "Radio Patriot"
+   }
+  },
+  {
+   "id": "isokon-long-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Isokon Long Chair",
+   "short": "Isokon chair",
+   "designers": [
+    "breuer"
+   ],
+   "maker": "Isokon Furniture Company",
+   "client": null,
+   "year": 1936,
+   "date": "1936",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Laminated birch, bent plywood",
+   "tech": [],
+   "key": "Marcel Breuer’s reclining chair in laminated birch and bent plywood, made in London by Isokon in 1936.[1]",
+   "more": "Breuer designed it during his brief stay in England for Jack Pritchard’s Isokon company. It derives from his aluminium chair of 1932–33, but its plywood, influenced by Aalto’s furniture, suited the British taste for the warmth of wood over metal.[1]",
+   "where": [
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O22774/long-chair-reclining-chair-breuer/"
+    }
+   ],
+   "wiki": "Isokon_Long_Chair",
+   "refs": [
+    {
+     "label": "V&A, Long Chair (1936)",
+     "checks": "1936; Isokon; Pritchard; origen en la silla de aluminio de 1932–33; influencia de Aalto; gusto británico por la madera.",
+     "date": "2026-10-03",
+     "url": "https://collections.vam.ac.uk/item/O22774/long-chair-reclining-chair-breuer/"
+    }
+   ],
+   "es": {
+    "title": "Sillón Isokon",
+    "date": "1936",
+    "materials": "Abedul laminado, terciado curvado",
+    "key": "El sillón reclinable de Marcel Breuer en abedul laminado y terciado curvado, fabricado en Londres por Isokon en 1936.[1]",
+    "more": "Breuer lo diseñó durante su breve estadía en Inglaterra para la empresa Isokon de Jack Pritchard. Deriva de su silla de aluminio de 1932–33, pero su terciado, influido por los muebles de Aalto, se ajustó al gusto británico por la calidez de la madera frente al metal.[1]",
+    "short": "Sillón Isokon"
+   }
+  },
+  {
+   "id": "stam-cantilever-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Stam cantilever chair",
+   "short": "Stam chair",
+   "designers": [
+    "mart-stam"
+   ],
+   "maker": "Thonet",
+   "client": null,
+   "year": 1926,
+   "date": "1926–1927",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL",
+    "DE"
+   ],
+   "materials": "Gas pipes and fittings; later cold-bent steel tube",
+   "tech": [],
+   "key": "Mart Stam’s chair without back legs, developed from a gas-pipe prototype built in Rotterdam in 1926 and shown at the Weissenhof exhibition in 1927: the start of the cantilever chair.[2][3]",
+   "more": "At Weissenhof Stam furnished his terraced house with two black-lacquered versions.[3] According to Thonet, he sought a clear form that suited modern buildings; the idea spread at once in tubular steel, and Thonet still makes the chair as the S 33.[1]",
+   "where": [
+    {
+     "label": "Thonet: S 33",
+     "url": "https://www.thonet.de/en/magazine/history-brand/detail/like-sitting-on-air-cantilever-chair-s-33"
+    },
+    {
+     "label": "Weissenhofmuseum",
+     "url": "https://weissenhofmuseum.de/en/siedlung/die-ausstellung-1927/"
+    }
+   ],
+   "wiki": "Cantilever_chair",
+   "refs": [
+    {
+     "label": "Thonet, «Like sitting on air: S 33»",
+     "checks": "Thonet (fabricante actual) atribuye a Stam la búsqueda de una forma clara para los edificios modernos; difusión en tubo de acero; S 33.",
+     "date": "2026-10-03",
+     "url": "https://www.thonet.de/en/magazine/history-brand/detail/like-sitting-on-air-cantilever-chair-s-33"
+    },
+    {
+     "label": "Weissenhofmuseum, «The 1927 Exhibition»",
+     "checks": "Exposición Weissenhof de 1927.",
+     "date": "2026-10-03",
+     "url": "https://weissenhofmuseum.de/en/siedlung/die-ausstellung-1927/"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «Cantilever chair B 64 / S 64» (objeto del mes, mayo de 2021)",
+     "checks": "Prototipo de la primera silla sin patas traseras hecho con tubos de gas en Róterdam en 1926; dos versiones lacadas en negro en su casa de la Weissenhofsiedlung (1927).",
+     "date": "2026-10-03",
+     "url": "https://museumderdinge.org/thing-of-the-month/cantilever-chair-b-64-s-64-by-marcel-breuer-mart-stam/"
+    }
+   ],
+   "es": {
+    "title": "Silla en voladizo de Stam",
+    "date": "1926–1927",
+    "materials": "Tubos de gas y conectores; luego tubo de acero curvado en frío",
+    "key": "La silla sin patas traseras de Mart Stam, desarrollada a partir de un prototipo de tubos de gas hecho en Róterdam en 1926 y presentada en la exposición Weissenhof de 1927: el comienzo de la silla en voladizo.[2][3]",
+    "more": "En Weissenhof, Stam amobló su casa en hilera con dos versiones lacadas en negro.[3] Según Thonet, buscaba una forma clara que se ajustara a los edificios modernos; la idea se difundió de inmediato en tubo de acero, y Thonet todavía fabrica la silla como S 33.[1]",
+    "short": "Silla de Stam"
+   }
+  },
+  {
+   "id": "campari-soda-bottle",
+   "level": "normal",
+   "discipline": "product",
+   "type": "bottle",
+   "title": "Campari Soda bottle",
+   "short": "Campari Soda",
+   "designers": [
+    "fortunato-depero"
+   ],
+   "maker": null,
+   "client": "Davide Campari-Milano",
+   "year": 1932,
+   "date": "1932",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Frosted glass with embossed lettering",
+   "tech": [],
+   "key": "Fortunato Depero’s cone-shaped bottle for Campari Soda, the first ready-mixed single-serve aperitif, launched in 1932 without a paper label.[1]",
+   "more": "The frosted glass carried the maker’s name in relief at its base, so the shape itself was the brand. The cone recurs in Depero’s Futurist advertising for Campari, and the bottle was made by the Bordoni glassworks.[1]",
+   "where": [
+    {
+     "label": "Domus: Depero’s Campari Soda bottle",
+     "url": "https://www.domusweb.it/en/design/2022/02/23/depero-campari-soda-bottle.html"
+    }
+   ],
+   "status": "Still in production.",
+   "wiki": "Campari_Soda",
+   "refs": [
+    {
+     "label": "Domus, «The story of Depero’s Campari Soda bottle» (2022)",
+     "checks": "1932; primer aperitivo individual premezclado; vidrio esmerilado; nombre en relieve; sin etiqueta; cono en sus carteles; vidriería Bordoni.",
+     "date": "2026-10-03",
+     "url": "https://www.domusweb.it/en/design/2022/02/23/depero-campari-soda-bottle.html"
+    }
+   ],
+   "es": {
+    "title": "Botella de Campari Soda",
+    "date": "1932",
+    "materials": "Vidrio esmerilado con letras en relieve",
+    "key": "La botella cónica de Fortunato Depero para Campari Soda, el primer aperitivo individual listo para beber, lanzada en 1932 sin etiqueta de papel.[1]",
+    "more": "El vidrio esmerilado llevaba el nombre del fabricante en relieve en la base, de modo que la forma misma era la marca. El cono se repite en la publicidad futurista de Depero para Campari, y la botella la fabricó la vidriería Bordoni.[1]",
+    "short": "Campari Soda",
+    "status": "Sigue en producción."
+   }
+  },
+  {
+   "id": "bkf-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "BKF chair",
+   "short": "BKF",
+   "designers": [
+    "grupo-austral"
+   ],
+   "maker": "Artek-Pascoe, Knoll",
+   "client": null,
+   "year": 1938,
+   "date": "1938",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "AR"
+   ],
+   "materials": "Painted wrought iron and leather",
+   "tech": [],
+   "key": "The lounge chair of Antonio Bonet, Juan Kurchan and Jorge Ferrari Hardoy, a leather sling on an iron frame, designed in Buenos Aires in 1938.[1][2]",
+   "more": "Named after its designers’ initials, it reached the United States through Edgar Kaufmann Jr., who sent the first two to Fallingwater and to MoMA. Artek-Pascoe made it from 1941 to 1948 and Knoll later; countless copies made it known as the Butterfly chair.[1]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/4393"
+    }
+   ],
+   "wiki": "Butterfly_chair",
+   "refs": [
+    {
+     "label": "MoMA, B.K.F. chair (1938)",
+     "checks": "1938; Buenos Aires; hierro forjado pintado y cuero; Kaufmann; Artek-Pascoe 1941–1948; Knoll; copias; nombres.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/4393"
+    },
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Grupo Austral (1939–1950)»",
+     "checks": "Los tres diseñadores y su paso por el estudio de Le Corbusier.",
+     "date": "2026-10-03",
+     "url": "https://www.rem.routledge.com/articles/grupo-austral-1939-1950"
+    }
+   ],
+   "es": {
+    "title": "Sillón BKF",
+    "date": "1938",
+    "materials": "Hierro forjado pintado y cuero",
+    "key": "El sillón de Antonio Bonet, Juan Kurchan y Jorge Ferrari Hardoy, un cuero colgado de una estructura de hierro, diseñado en Buenos Aires en 1938.[1][2]",
+    "more": "Lleva las iniciales de sus diseñadores. Llegó a Estados Unidos gracias a Edgar Kaufmann Jr., que envió los dos primeros a Fallingwater y al MoMA. Artek-Pascoe lo fabricó entre 1941 y 1948 y después Knoll; sus innumerables copias lo hicieron conocido como Butterfly chair.[1]",
+    "short": "BKF"
+   }
+  },
+  {
+   "id": "pyrex-1915",
+   "level": "normal",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "Pyrex",
+   "designers": [],
+   "maker": "Corning Glass Works",
+   "year": 1915,
+   "date": "1915",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Borosilicate glass",
+   "tech": [],
+   "key": "Corning’s heat-resistant borosilicate glass, launched in 1915 as ovenware, which took a laboratory material into the home kitchen.",
+   "more": "Corning Glass Works introduced Pyrex baking dishes in 1915, made of a borosilicate glass that withstood oven heat and sudden temperature changes. The same kind of glass was used for laboratory ware, and the First World War interrupted supplies of German laboratory glass. The clear dish let cooks see the food, and the material brought laboratory ideas of cleanliness into the kitchen.",
+   "status": "The Pyrex brand is still sold as ovenware.",
+   "es": {
+    "title": "Pyrex",
+    "materials": "Vidrio de borosilicato",
+    "key": "El vidrio de borosilicato resistente al calor de Corning, lanzado en 1915 como vajilla de horno, que llevó un material de laboratorio a la cocina del hogar.",
+    "more": "Corning Glass Works presentó en 1915 las fuentes de horno Pyrex, hechas de un vidrio de borosilicato que resistía el calor del horno y los cambios bruscos de temperatura. Un vidrio de este tipo se usaba en material de laboratorio, y la Primera Guerra Mundial interrumpió el suministro del vidrio alemán de laboratorio. La fuente transparente dejaba ver la comida, y el material llevó a la cocina las ideas de limpieza del laboratorio.",
+    "status": "La marca Pyrex se sigue vendiendo como vajilla de horno.",
+    "date": "1915"
+   },
+   "refs": []
+  },
+  {
+   "id": "ruhlmann-hotel-du-collectionneur-1925",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Ruhlmann Hôtel du Collectionneur furniture",
+   "designers": [
+    "emile-jacques-ruhlmann"
+   ],
+   "maker": "Ruhlmann et Laurent",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Rare woods, ivory",
+   "tech": [],
+   "key": "Émile-Jacques Ruhlmann’s luxury furniture for the Hôtel d’un Collectionneur at the 1925 Paris exhibition, the high point of French Art Deco cabinetmaking.",
+   "more": "For the 1925 Paris exhibition of decorative arts Ruhlmann furnished the Hôtel d’un Collectionneur pavilion, designed by the architect Pierre Patout. His pieces were made in his own workshops from rare woods and ivory, with elegant curves and fine joinery, for a wealthy clientele. They stand opposite the functionalist, mass-produced furniture shown by the modern movement in the same years.",
+   "status": "The pavilion was temporary and no longer exists; surviving pieces are in museum collections.",
+   "es": {
+    "title": "Mobiliario del Hôtel du Collectionneur de Ruhlmann",
+    "materials": "Maderas raras, marfil",
+    "key": "El mobiliario de lujo de Émile-Jacques Ruhlmann para el Hôtel d’un Collectionneur de la exposición de París de 1925, cumbre de la ebanistería art déco francesa.",
+    "more": "Para la exposición de artes decorativas de París de 1925, Ruhlmann amobló el pabellón Hôtel d’un Collectionneur, diseñado por el arquitecto Pierre Patout. Sus piezas se hacían en sus propios talleres con maderas raras y marfil, con curvas elegantes y fina ensambladura, para una clientela adinerada. Se contraponen al mobiliario funcionalista y de producción en serie que mostraba el movimiento moderno en esos mismos años.",
+    "status": "El pabellón era temporal y ya no existe; las piezas que sobreviven están en colecciones de museos.",
+    "date": "1925",
+    "short": "Mobiliario Ruhlmann"
+   },
+   "refs": [],
+   "short": "Ruhlmann furniture"
+  },
+  {
+   "id": "leica-i-1925",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Leica I",
+   "designers": [
+    "oskar-barnack"
+   ],
+   "maker": "Ernst Leitz",
+   "client": "Ernst Leitz",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Metal body, glass lens, 35 mm film",
+   "tech": [
+    "leica-35mm"
+   ],
+   "key": "Oskar Barnack’s compact camera, put on sale by Leitz in 1925, which used 35 mm cine film to make a small camera for quick, discreet photographs.",
+   "more": "Barnack, who worked at Ernst Leitz in Wetzlar, had built a prototype camera for 35 mm cine film some years earlier, and Leitz began series production of the Leica I in 1925. The small body and the double-width frame on cine film made it easy to carry and to use without drawing attention. Its format became the model for later 35 mm cameras and for photojournalism.",
+   "status": "Surviving cameras are in collections; Leica still makes cameras.",
+   "es": {
+    "title": "Leica I",
+    "materials": "Cuerpo metálico, lente de vidrio, película de 35 mm",
+    "key": "La cámara compacta de Oskar Barnack, puesta a la venta por Leitz en 1925, que usó película de cine de 35 mm para hacer una cámara pequeña de fotos rápidas y discretas.",
+    "more": "Barnack, que trabajaba en Ernst Leitz en Wetzlar, había construido unos años antes un prototipo de cámara para película de cine de 35 mm, y Leitz comenzó en 1925 la producción en serie de la Leica I. El cuerpo pequeño y el fotograma de doble ancho sobre película de cine la hacían fácil de llevar y de usar sin llamar la atención. Su formato se volvió el modelo de las cámaras de 35 mm posteriores y del fotoperiodismo.",
+    "status": "Se conservan cámaras en colecciones; Leica sigue fabricando cámaras.",
+    "date": "1925"
+   },
+   "refs": []
+  },
+  {
+   "id": "rodchenko-workers-club-1925",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Rodchenko Workers' Club",
+   "designers": [
+    "rodchenko"
+   ],
+   "maker": "",
+   "client": "Soviet Union",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "movements": [
+    "constructivism"
+   ],
+   "materials": "Painted wood",
+   "tech": [],
+   "key": "Alexander Rodchenko’s set of furniture for a workers’ reading and meeting room, shown in the Soviet pavilion at the 1925 Paris exhibition.",
+   "more": "Rodchenko designed the interior of a workers’ club for the Soviet pavilion at the 1925 Paris exhibition: tables, chairs, a reading area and a Lenin corner, in simple painted wood. The furniture was made to be folded or transformed so that one room could serve for reading, chess and meetings. It put the Constructivist idea of the useful, collective object into a room that visitors could walk through.",
+   "status": "The original furniture is not preserved; reconstructions have been shown in museums.",
+   "es": {
+    "title": "Club obrero de Ródchenko",
+    "date": "1925",
+    "materials": "Madera pintada",
+    "key": "El conjunto de muebles de Alexander Ródchenko para una sala obrera de lectura y reunión, mostrado en el pabellón soviético de la exposición de París de 1925.",
+    "more": "Ródchenko diseñó el interior de un club obrero para el pabellón soviético de la exposición de París de 1925: mesas, sillas, un rincón de lectura y un rincón de Lenin, en madera pintada y de líneas simples. Los muebles se pensaron plegables o transformables para que una misma sala sirviera para leer, jugar ajedrez y reunirse. Llevó la idea constructivista del objeto útil y colectivo a una sala por la que el visitante podía caminar.",
+    "status": "El mobiliario original no se conserva; se han mostrado reconstrucciones en museos.",
+    "short": "Club obrero"
+   },
+   "refs": [],
+   "short": "Workers’ Club"
+  },
+  {
+   "id": "clarice-cliff-bizarre-1927",
+   "level": "normal",
+   "discipline": "product",
+   "type": "ceramics",
+   "title": "Clarice Cliff Bizarre ware",
+   "designers": [
+    "clarice-cliff"
+   ],
+   "maker": "A. J. Wilkinson Ltd (Newport Pottery)",
+   "client": "",
+   "year": 1927,
+   "date": "1927",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "movements": [
+    "art-deco"
+   ],
+   "materials": "Glazed earthenware, hand-painted in enamel colours",
+   "tech": [],
+   "key": "Clarice Cliff’s brightly painted earthenware, made from 1927 at a Staffordshire pottery and sold widely as affordable everyday tableware.",
+   "more": "Cliff began the Bizarre line in 1927 at the Newport Pottery in Burslem, part of A. J. Wilkinson Ltd. Plain pottery was covered in geometric patterns and strong colours, painted by hand by a team of young women. The shapes were often angular, in the taste of the 1925 Paris exhibition, yet the ware stayed cheap enough for ordinary households.",
+   "status": "Widely collected today; many pieces survive in museums and private collections.",
+   "es": {
+    "title": "Vajilla Bizarre de Clarice Cliff",
+    "date": "1927",
+    "materials": "Loza esmaltada, pintada a mano con esmaltes de colores",
+    "key": "La loza de colores vivos de Clarice Cliff, producida desde 1927 en una alfarería de Staffordshire y vendida ampliamente como vajilla cotidiana asequible.",
+    "more": "Cliff inició la línea Bizarre en 1927 en la Newport Pottery de Burslem, parte de A. J. Wilkinson Ltd. Sobre loza simple se pintaron a mano patrones geométricos y colores intensos, obra de un equipo de mujeres jóvenes. Las formas eran a menudo angulosas, al gusto de la exposición de París de 1925, pero la vajilla seguía siendo barata para los hogares corrientes.",
+    "status": "Muy coleccionada hoy; se conservan muchas piezas en museos y colecciones privadas.",
+    "short": "Vajilla Bizarre"
+   },
+   "refs": [],
+   "short": "Bizarre ware"
+  },
+  {
+   "id": "lc2-armchair-1928",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "LC2 Grand Confort armchair",
+   "designers": [
+    "le-corbusier",
+    "perriand",
+    "pierre-jeanneret"
+   ],
+   "maker": "",
+   "client": "",
+   "year": 1928,
+   "date": "1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Chrome-plated tubular steel frame, leather-covered cushions",
+   "tech": [
+    "tubular-steel"
+   ],
+   "key": "The armchair designed in 1928 by Le Corbusier, Charlotte Perriand and Pierre Jeanneret, with removable cushions held inside an exposed tubular-steel frame.[1][2]",
+   "more": "Designed in 1928 by Le Corbusier, Perriand and Pierre Jeanneret,[1][2] it separates a visible tubular-metal structure from the cushions; Perriand called it a ‘cushion basket’ in her memoir.[2] According to Cassina, the designers conceived it as ‘household equipment’ and it debuted at the Salon d’Automne of the following year.[3] A French encyclopedia confirms leather Grand Confort armchairs in the three designers’ 1929 stand of ‘interior equipment of a dwelling’.[4] Cassina says it has made the chair since 1965.[3]",
+   "status": "Still in production by Cassina.",
+   "es": {
+    "title": "Sillón LC2 Grand Confort",
+    "date": "1928",
+    "materials": "Estructura de tubo de acero cromado, cojines forrados en cuero",
+    "key": "El sillón diseñado en 1928 por Le Corbusier, Charlotte Perriand y Pierre Jeanneret, con cojines removibles dentro de una estructura de tubo de acero a la vista.[1][2]",
+    "more": "Diseñado en 1928 por Le Corbusier, Perriand y Pierre Jeanneret,[1][2] separa una estructura visible de tubo metálico de los cojines; Perriand lo llamó «canasto de cojines» en sus memorias.[2] Según Cassina, los diseñadores lo concibieron como «equipamiento del hogar» y se estrenó en el Salón de Otoño del año siguiente.[3] Una enciclopedia francesa confirma sillones Grand Confort de cuero en el stand de 1929 de los tres, sobre el «equipamiento interior de una vivienda».[4] Cassina afirma que fabrica la silla desde 1965.[3]",
+    "status": "Sigue en producción por Cassina.",
+    "short": "Sillón LC2"
+   },
+   "refs": [
+    {
+     "label": "MoMA, «Easy Chair (Fauteuil Grand Confort)», 337.1960.a-f",
+     "url": "https://www.moma.org/collection/works/3328",
+     "checks": "Diseño en 1928; autores Le Corbusier, Pierre Jeanneret y Charlotte Perriand; tubo de acero cromado, crin, plumón y cuero.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Fauteuil Grand Confort, petit modèle, 1928»",
+     "url": "https://www.fondationlecorbusier.fr/en/work-furniture/fauteuil-grand-confort-petit-modele-le-corbusier-pierre-jeanneret-charlotte-perriand-1928/",
+     "checks": "Fecha 1928; estructura de tubo metálico con cojines removibles; cita de Perriand «cushion basket».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Cassina, «LC2 Fauteuil Grand Confort» (página del fabricante)",
+     "url": "https://www.cassina.com/gb/en/products/lc2-fauteuil-grand-confort-durable-deux-places.html",
+     "checks": "Creado en 1928; presentado en el Salón de Otoño al año siguiente; «household equipment»; producción por Cassina desde 1965. ⚠ fuente del fabricante: se atribuye.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Universalis, «Le monde nouveau de Charlotte Perriand»",
+     "url": "https://www.universalis.fr/encyclopedie/le-monde-nouveau-de-charlotte-perriand-exposition/2-vers-une-synthese-des-arts/",
+     "checks": "Stand «Équipement intérieur d'une habitation» de los tres en el Salón de Otoño de 1929, con fauteuils grand confort de cuero. ⚠ no da 1928 ni habla de tubo de acero.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "LC2 armchair"
+  },
+  {
+   "id": "traction-avant-1934",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Citroën Traction Avant",
+   "designers": [
+    "bertoni"
+   ],
+   "maker": "Citroën",
+   "client": "",
+   "year": 1934,
+   "date": "1934",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Pressed steel monocoque body",
+   "tech": [
+    "steel-body-pressing"
+   ],
+   "key": "Citroën’s 1934 saloon, a mass-produced car with front-wheel drive and a low, load-bearing steel body without a separate chassis.",
+   "more": "Launched by Citroën in 1934, the Traction Avant joined front-wheel drive with a body that carried its own load, so it could sit low with no running boards. The engineer André Lefèbvre led the design and Flaminio Bertoni shaped the body. It stayed in production until 1957.",
+   "status": "Many survive and are kept by collectors and museums.",
+   "es": {
+    "title": "Citroën Traction Avant",
+    "date": "1934",
+    "materials": "Carrocería monocasco de acero estampado",
+    "key": "El sedán de Citroën de 1934, un auto de serie con tracción delantera y una carrocería baja de acero autoportante, sin chasis separado.",
+    "more": "Lanzado por Citroën en 1934, el Traction Avant unió la tracción delantera con una carrocería que soportaba su propia carga, de modo que pudo ir baja y sin estribos. El ingeniero André Lefèbvre dirigió el proyecto y Flaminio Bertoni modeló la carrocería. Se produjo hasta 1957.",
+    "status": "Se conservan muchos ejemplares en manos de coleccionistas y museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "gg1-locomotive-1935",
+   "level": "normal",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "Pennsylvania Railroad GG1",
+   "designers": [
+    "loewy"
+   ],
+   "maker": "Pennsylvania Railroad",
+   "client": "Pennsylvania Railroad",
+   "year": 1935,
+   "date": "1935",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "movements": [
+    "streamline-moderne"
+   ],
+   "materials": "Welded steel shell",
+   "tech": [],
+   "key": "The Pennsylvania Railroad’s electric locomotive, whose smooth welded shell was restyled by Raymond Loewy in 1934–35.",
+   "more": "The GG1 was an electric locomotive for the Pennsylvania Railroad, built from 1934 and in service from 1935. After the prototype appeared, Raymond Loewy redesigned its shell, replacing the riveted body with a smooth welded one. The railroad used the sleek look to attract passengers in the Depression.",
+   "status": "Several examples are preserved in museums.",
+   "es": {
+    "title": "Locomotora GG1 del Pennsylvania Railroad",
+    "date": "1935",
+    "materials": "Carcasa de acero soldado",
+    "key": "La locomotora eléctrica del Pennsylvania Railroad, cuya carcasa lisa y soldada fue rediseñada por Raymond Loewy en 1934–35.",
+    "more": "La GG1 fue una locomotora eléctrica del Pennsylvania Railroad, construida desde 1934 y en servicio desde 1935. Tras aparecer el prototipo, Raymond Loewy rediseñó su carcasa y cambió el cuerpo remachado por uno liso y soldado. La empresa usó el aspecto elegante para atraer pasajeros durante la Depresión.",
+    "status": "Se conservan varios ejemplares en museos.",
+    "short": "Locomotora GG1"
+   },
+   "refs": [],
+   "short": "GG1 locomotive"
+  },
+  {
+   "id": "faaborg-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Faaborg chair",
+   "designers": [
+    "kaare-klint"
+   ],
+   "maker": "Rud. Rasmussen",
+   "client": "Faaborg Museum",
+   "year": 1914,
+   "date": "1914",
+   "production": {
+    "from": 1915,
+    "to": null,
+    "note": "made by Rud. Rasmussen and, since 2011, by Carl Hansen & Søn"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Mahogany, woven cane",
+   "tech": [],
+   "key": "Kaare Klint’s light museum chair of 1914,[1][2] often called the first classic of modern Danish furniture.[3]",
+   "more": "The architect Carl Petersen engaged the 26-year-old Klint to help him furnish his new Faaborg Museum,[2][3] which opened in 1915.[3] The chair, made in an edition of 18 with seven matching stools, had to be light enough for visitors to move it in front of the works without drawing attention from the art and the mosaic floors.[1][2] It has a mahogany frame and a woven cane back, with a rational, unornamented form that draws on classical models.[3]",
+   "where": [
+    {
+     "label": "Carl Hansen & Søn: KK96620",
+     "url": "https://www.carlhansen.com/en/en/collection/chairs/dining-chairs/kk96620"
+    }
+   ],
+   "status": "Still in production; originals in the Faaborg Museum.",
+   "es": {
+    "title": "Silla Faaborg",
+    "date": "1914",
+    "materials": "Caoba, ratán tejido",
+    "key": "La liviana silla de museo de Kaare Klint de 1914,[1][2] a menudo llamada el primer clásico del mueble moderno danés.[3]",
+    "more": "El arquitecto Carl Petersen contrató a Klint, de 26 años, para que lo ayudara a amoblar su nuevo Museo de Faaborg,[2][3] que abrió en 1915.[3] La silla, hecha en una edición de 18 con siete taburetes del mismo estilo, debía ser lo bastante liviana para que los visitantes la movieran frente a las obras, sin quitar atención al arte ni a los pisos de mosaico.[1][2] Tiene estructura de caoba y respaldo de ratán tejido, con una forma racional, sin ornamento, que se inspira en modelos clásicos.[3]",
+    "status": "Sigue en producción; originales en el Museo de Faaborg.",
+    "production": {
+     "note": "fabricada por Rud. Rasmussen y, desde 2011, por Carl Hansen & Søn"
+    }
+   },
+   "refs": [
+    {
+     "label": "Faaborg Museum, «Kaare Klint’s Furniture»",
+     "url": "https://www.faaborgmuseum.dk/en/art-and-artists/kaare-klints-furniture/",
+     "checks": "diseñada en 1914 en colaboración con Carl Petersen; edición de 18 sillas y 7 taburetes; liviana para que los visitantes la movieran sin distraer de las obras ni de los pisos de mosaico; obra icónica del mueble danés.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Faaborg Museum, «Museets møbler»",
+     "url": "https://www.faaborgmuseum.dk/udforsk-kunsten/kaare-klints-mobler/",
+     "checks": "Klint contratado por el arquitecto Carl Petersen para ayudarle a diseñar los muebles del museo; dibujada en 1914; muebles fáciles de mover en las salas; 18 ejemplares y siete taburetes.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AnOther Magazine, «How the Faaborg Chair Became an Icon of Modernist Design»",
+     "url": "https://www.anothermag.com/design-living/10603/how-the-faaborg-chair-became-an-icon-of-modernist-design",
+     "checks": "«primer clásico del diseño moderno danés»; Klint de 26 años; museo abierto en 1915; silla liviana para ponerla frente a las obras; caoba y respaldo de ratán tejido; influencias clásicas sin ornamento; hecha por Rud. Rasmussen y por Carl Hansen desde que compró ese taller en 2011. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "anglepoise-lamp",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Anglepoise lamp",
+   "designers": [
+    "carwardine"
+   ],
+   "maker": "Herbert Terry & Sons",
+   "client": null,
+   "year": 1932,
+   "date": "1932 · model 1227 in 1935",
+   "production": {
+    "from": 1935,
+    "to": null,
+    "note": "domestic model 1227 from 1935; still produced"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Steel, aluminium, Bakelite, cast-iron base",
+   "tech": [
+    "bakelite"
+   ],
+   "key": "A desk lamp whose jointed arm, balanced by springs, stays in any position,[1][2] invented by the engineer George Carwardine.[1][2]",
+   "more": "Carwardine, a specialist in vehicle suspension,[1][2] applied for a patent in July 1932 for an arm balanced by springs, working like human muscles.[2] The first version, with four springs, was for workshops;[1] after he licensed it to the spring makers Herbert Terry & Sons in 1934,[1][2] they launched the three-spring domestic model 1227 in 1935.[1][2] It is a design that comes from engineering, not from style.",
+   "where": [
+    {
+     "label": "V&A, London: Anglepoise 1227",
+     "url": "https://collections.vam.ac.uk/item/O301712/anglepoise-lamp-1227-carwardine-george/"
+    },
+    {
+     "label": "Design Museum, London",
+     "url": "https://designmuseum.org/design/anglepoise"
+    }
+   ],
+   "status": "Still in production as the Original 1227.",
+   "wiki": "Anglepoise_lamp",
+   "es": {
+    "title": "Lámpara Anglepoise",
+    "date": "1932 · modelo 1227 en 1935",
+    "materials": "Acero, aluminio, baquelita, base de fundición",
+    "key": "Una lámpara de escritorio cuyo brazo articulado, equilibrado por resortes, se queda en cualquier posición,[1][2] inventada por el ingeniero George Carwardine.[1][2]",
+    "more": "Carwardine, especialista en suspensiones de vehículos,[1][2] pidió en julio de 1932 una patente para un brazo equilibrado por resortes, que funciona como los músculos humanos.[2] La primera versión, de cuatro resortes, era para talleres;[1] tras cederla bajo licencia en 1934 a los fabricantes de resortes Herbert Terry & Sons,[1][2] estos lanzaron en 1935 el modelo doméstico 1227, de tres resortes.[1][2] Es un diseño que viene de la ingeniería, no del estilo.",
+    "status": "Sigue en producción como Original 1227.",
+    "production": {
+     "note": "modelo doméstico 1227 desde 1935; aún se produce"
+    },
+    "short": "Anglepoise"
+   },
+   "short": "Anglepoise",
+   "refs": [
+    {
+     "label": "V&A, Anglepoise Lamp 1227 (George Carwardine, Herbert Terry & Sons)",
+     "url": "https://collections.vam.ac.uk/item/O301712/anglepoise-lamp-1227-carwardine-george/",
+     "checks": "Carwardine (1887–1947) trabajó en suspensiones de automóviles (Cardine Accessories, Horstmann); patente original de cuatro resortes; 1227 como versión mejorada de tres resortes; primeras versiones negras industriales para talleres y acabados especiales para el mercado doméstico; licencia exclusiva a Herbert Terry & Sons en enero de 1934; materiales: acero, aluminio, baquelita, bloque de fundición en la base. ⚠ El ejemplar del V&A es de 1938 y cita la patente 433,617 de 1934 (la de tres resortes), no la de 1932.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Museum, London, Anglepoise",
+     "url": "https://designmuseum.org/design/anglepoise",
+     "checks": "Carwardine, ingeniero automotriz especialista en suspensiones; patente del 7 de julio de 1932; brazo equilibrado por resortes que se queda en la posición elegida, comparado con los músculos; licencia a Herbert Terry & Sons, fabricante de resortes de Redditch; modelo 1227 lanzado en 1935. ⚠ No confirma que los resortes estén «cerca de la base» (se quitó).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "baby-brownie",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Baby Brownie",
+   "short": "Baby Brownie",
+   "designers": [
+    "walter-dorwin-teague"
+   ],
+   "maker": "Eastman Kodak",
+   "client": null,
+   "year": 1934,
+   "date": "1934",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Moulded Bakelite",
+   "tech": [
+    "bakelite"
+   ],
+   "key": "Walter Dorwin Teague’s small Bakelite camera for Kodak, sold for one dollar from 1934.[1]",
+   "more": "Camera prices had risen in the 1930s; Teague designed a cubic two-piece moulded case that kept the price of the first Brownie, one dollar. More than four million were sold, and the camera created a lasting market for Kodak’s 127 film.[1]",
+   "where": [
+    {
+     "label": "Cooper Hewitt: Baby Brownie",
+     "url": "https://www.cooperhewitt.org/2016/08/30/21213/"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Cooper Hewitt, «A Camera Worth A Thousand Words: Eastman Kodak’s Baby Brownie»",
+     "checks": "Producción 1934–1941; baquelita; caja en dos piezas; un dólar; más de 4 millones; película 127.",
+     "date": "2026-10-03",
+     "url": "https://www.cooperhewitt.org/2016/08/30/21213/"
+    }
+   ],
+   "es": {
+    "title": "Cámara Baby Brownie",
+    "date": "1934",
+    "materials": "Baquelita moldeada",
+    "key": "La pequeña cámara de baquelita de Walter Dorwin Teague para Kodak, vendida a un dólar desde 1934.[1]",
+    "more": "Los precios de las cámaras habían subido en los años treinta; Teague diseñó una caja cúbica moldeada en dos piezas que mantuvo el precio de la primera Brownie: un dólar. Se vendieron más de cuatro millones, y la cámara creó un mercado duradero para la película 127 de Kodak.[1]",
+    "short": "Baby Brownie"
+   },
+   "movements": [
+    "streamline-moderne"
+   ]
+  },
+  {
+   "id": "suprematist-teapot-1923",
+   "level": "normal",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "Suprematist teapot",
+   "designers": [
+    "kazimir-malevich"
+   ],
+   "maker": "State Porcelain Factory, Petrograd",
+   "year": 1923,
+   "date": "1923",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Porcelain",
+   "tech": [],
+   "movements": [
+    "suprematism"
+   ],
+   "key": "Kazimir Malevich’s teapot of 1923, a Suprematist design of stacked geometric forms made at the former Imperial Porcelain Factory.",
+   "more": "After the revolution the former Imperial Porcelain Factory in Petrograd became the State Porcelain Factory and took on avant-garde artists. Malevich designed the teapot there in 1923 as a Suprematist object, composed of cubes, cylinders and a long spout. It shows his geometry moving from painting to a domestic object.",
+   "status": "Examples are held in museum collections.",
+   "es": {
+    "title": "Tetera suprematista",
+    "date": "1923",
+    "materials": "Porcelana",
+    "key": "La tetera de Kazimir Malevich de 1923, un diseño suprematista de formas geométricas apiladas hecho en la antigua Fábrica Imperial de Porcelana.",
+    "more": "Después de la revolución, la antigua Fábrica Imperial de Porcelana de Petrogrado pasó a ser la Fábrica Estatal de Porcelana y acogió a artistas de vanguardia. Malevich diseñó allí la tetera en 1923 como un objeto suprematista, compuesto de cubos, cilindros y un pico largo. Muestra su geometría pasando de la pintura a un objeto doméstico.",
+    "status": "Se conservan ejemplares en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "volksempfanger-1933",
+   "level": "normal",
+   "discipline": "product",
+   "type": "radio",
+   "title": "Volksempfänger VE 301",
+   "designers": [],
+   "maker": "Walter Maria Kersting (design); several German manufacturers",
+   "year": 1933,
+   "date": "1933",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Bakelite case, electronic components",
+   "tech": [
+    "bakelite"
+   ],
+   "key": "The cheap ‘people’s receiver’ radio of 1933, designed by Walter Maria Kersting so that the Nazi regime could bring its broadcasts into every home.",
+   "more": "Shown at the Berlin radio exhibition of 1933, the VE 301 was a small, simple set in a bakelite case, made by several German firms to a common design and sold cheaply. Its name refers to 30 January 1933, the day Hitler came to power. Its simple circuit mainly received local stations, which suited a regime that wanted its own broadcasts heard in every home.",
+   "status": "Many sets survive in museums and private collections.",
+   "es": {
+    "title": "Volksempfänger VE 301 (receptor del pueblo)",
+    "date": "1933",
+    "materials": "Caja de baquelita, componentes electrónicos",
+    "key": "La radio barata «receptor del pueblo» de 1933, diseñada por Walter Maria Kersting para que el régimen nazi llevara sus transmisiones a cada hogar.",
+    "more": "Presentado en la exposición de radio de Berlín de 1933, el VE 301 era un aparato pequeño y sencillo en caja de baquelita, fabricado por varias empresas alemanas con un diseño común y vendido barato. Su nombre alude al 30 de enero de 1933, el día en que Hitler llegó al poder. Su circuito simple recibía sobre todo emisoras locales, algo que convenía a un régimen que quería que sus propias transmisiones se oyeran en cada hogar.",
+    "status": "Se conservan muchos aparatos en museos y colecciones privadas.",
+    "short": "Volksempfänger"
+   },
+   "refs": [],
+   "short": "Volksempfänger"
+  }
+ ]
+}

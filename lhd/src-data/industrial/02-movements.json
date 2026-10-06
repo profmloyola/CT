@@ -1,0 +1,565 @@
+{
+ "movements": [
+  {
+   "id": "neoclassicism",
+   "level": "essential",
+   "disciplines": [
+    "architecture",
+    "product",
+    "graphic"
+   ],
+   "start": 1750,
+   "end": 1830,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "GB",
+    "IT",
+    "DE",
+    "US"
+   ],
+   "name": "Neoclassicism",
+   "short": "Neoclassicism",
+   "key": "A style that took its forms from ancient Greece and Rome, with symmetry, simple geometric forms and restrained ornament, in architecture, furniture, ceramics and printing.[3]",
+   "traits": [
+    "Forms taken from ancient Greek and Roman art and architecture[1][3]",
+    "Symmetry, simple geometric forms and clear proportions[3]",
+    "Restrained ornament compared with earlier styles[3]",
+    "Light, elegant interiors and furniture in the Adam style,[4] and sharp, high-contrast Bodoni type[6]",
+    "Taste backed by archaeology and the ideas of the Enlightenment[1][3]"
+   ],
+   "context": "It grew in the eighteenth century with the discoveries at Herculaneum and Pompeii, whose illustrated publications circulated across Europe,[1] with Grand Tour travellers who brought back antiquities,[2] and with Johann Joachim Winckelmann's 1755 writing on the supremacy of Greek art.[1] Enlightenment taste preferred reason and order to the excesses of the Rococo.[3]",
+   "shift": "From the Rococo's curves and asymmetry to an ornament drawn from antiquity and ordered by symmetry.[3] Designers such as Robert Adam,[4] Josiah Wedgwood[5] and Giambattista Bodoni[6] applied the same vocabulary to interiors, ceramics and books.",
+   "es": {
+    "name": "Neoclasicismo",
+    "short": "Neoclasicismo",
+    "key": "Un estilo que tomó sus formas de la Grecia y la Roma antiguas, con simetría, formas geométricas simples y ornamento sobrio, en la arquitectura, el mueble, la cerámica y la imprenta.[3]",
+    "traits": [
+     "Formas tomadas del arte y la arquitectura griegos y romanos antiguos[1][3]",
+     "Simetría, formas geométricas simples y proporciones claras[3]",
+     "Ornamento sobrio en comparación con los estilos anteriores[3]",
+     "Interiores y muebles ligeros y elegantes en el estilo Adam,[4] y tipos nítidos y de alto contraste como los de Bodoni[6]",
+     "Gusto apoyado en la arqueología y en las ideas de la Ilustración[1][3]"
+    ],
+    "context": "Creció en el siglo XVIII con los descubrimientos de Herculano y Pompeya, cuyas publicaciones ilustradas circularon por Europa,[1] con los viajeros del Grand Tour que traían antigüedades[2] y con el escrito de Johann Joachim Winckelmann de 1755 sobre la supremacía del arte griego.[1] El gusto ilustrado prefería la razón y el orden a los excesos del rococó.[3]",
+    "shift": "De las curvas y la asimetría del rococó a un ornamento sacado de la Antigüedad y ordenado por la simetría.[3] Diseñadores como Robert Adam,[4] Josiah Wedgwood[5] y Giambattista Bodoni[6] aplicaron el mismo vocabulario a interiores, cerámica y libros."
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline: Neoclassicism",
+     "url": "https://www.metmuseum.org/essays/neoclassicism",
+     "checks": "Confirma que las ruinas recién descubiertas de Herculano y Pompeya se difundieron en ilustraciones por Europa, la obra de Winckelmann sobre la supremacía del arte griego (1755) y la publicación de Robert Adam sobre Diocleciano (1764). ⚠ No menciona la Ilustración, el rococó, Wedgwood ni Bodoni.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Grand Tour",
+     "url": "https://www.metmuseum.org/essays/the-grand-tour",
+     "checks": "Confirma que los viajeros del Grand Tour visitaron Pompeya y Herculano, compraron antigüedades para llevarlas a casa y que el viaje ayudó a fomentar los ideales neoclásicos; menciona a Winckelmann residente en Roma.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Neoclassical architecture",
+     "url": "https://www.britannica.com/art/Neoclassical-architecture",
+     "checks": "Confirma que fue una reacción a los excesos del rococó, vinculada a los valores ilustrados de razón y orden, con simplicidad de formas geométricas, detalle griego o romano y ornamentación más sobria. ⚠ No cubre mueble, cerámica ni imprenta.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Robert Adam",
+     "url": "https://www.britannica.com/biography/Robert-Adam",
+     "checks": "Confirma a Robert Adam (1728-1792) y su hermano James como diseñadores del estilo neoclásico ligero y elegante que lleva su nombre, con influencia en interiores y mobiliario (Syon House, 1762-69).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Wedgwood ware",
+     "url": "https://www.britannica.com/art/Wedgwood-ware",
+     "checks": "Confirma que la manufactura de Josiah Wedgwood en Staffordshire, activa desde la década de 1760, fue pionera de formas neoclásicas y clásicas en cerámica.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Bodoni",
+     "url": "https://www.britannica.com/topic/Bodoni",
+     "checks": "Confirma a Giambattista Bodoni (1740-1813), impresor de Parma, y su tipo de contraste extremo entre trazos gruesos y finos (1790). ⚠ No lo llama neoclásico expresamente.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "empire-regency",
+   "level": "normal",
+   "disciplines": [
+    "architecture",
+    "product",
+    "fashion"
+   ],
+   "start": 1799,
+   "end": 1830,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "name": "Empire and Regency style",
+   "short": "Empire & Regency",
+   "key": "The neoclassical style of Napoleon’s France and of Britain’s Regency, heavier and more archaeological than before, with Roman, Greek and Egyptian motifs and symbols of power.",
+   "traits": [
+    "Heavier, more archaeological forms in furniture and interiors",
+    "Roman, Greek and Egyptian motifs",
+    "Symbols of power: eagles, laurel, bees, the letter N",
+    "Dark, polished woods with gilt bronze mounts",
+    "High-waisted dresses with a straight, light line"
+   ],
+   "context": "The style took shape under the Consulate and the Empire in France, from 1799, with Charles Percier and Pierre Fontaine as the favoured architects and decorators of Napoleon, and a taste for Egypt after the campaign of 1798. In Britain it is linked to the Regency of the Prince of Wales, from 1811, and to designers such as Thomas Hope, whose Household Furniture of 1807 set out classical models for the home.",
+   "shift": "From the lighter neoclassicism of the late eighteenth century to a more rigid, archaeological and symbolic vocabulary that served the display of power. Percier and Fontaine published their designs to spread the style beyond the court.",
+   "es": {
+    "name": "Estilo Imperio y Regencia",
+    "short": "Imperio y Regencia",
+    "key": "El estilo neoclásico de la Francia de Napoleón y de la Regencia británica, más pesado y arqueológico que antes, con motivos romanos, griegos y egipcios y símbolos de poder.",
+    "traits": [
+     "Formas más pesadas y arqueológicas en muebles e interiores",
+     "Motivos romanos, griegos y egipcios",
+     "Símbolos de poder: águilas, laurel, abejas, la letra N",
+     "Maderas oscuras y pulidas con aplicaciones de bronce dorado",
+     "Vestidos de talle alto, de línea recta y liviana"
+    ],
+    "context": "El estilo tomó forma bajo el Consulado y el Imperio en Francia, desde 1799, con Charles Percier y Pierre Fontaine como arquitectos y decoradores favoritos de Napoleón, y con un gusto por Egipto tras la campaña de 1798. En Gran Bretaña se liga a la Regencia del príncipe de Gales, desde 1811, y a diseñadores como Thomas Hope, cuyo Household Furniture de 1807 propuso modelos clásicos para el hogar.",
+    "shift": "Del neoclasicismo más liviano de fines del siglo XVIII a un vocabulario más rígido, arqueológico y simbólico, al servicio de la exhibición del poder. Percier y Fontaine publicaron sus diseños para difundir el estilo más allá de la corte."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "neoclassicism"
+    ]
+   }
+  },
+  {
+   "id": "historicism",
+   "level": "normal",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1750,
+   "end": 1900,
+   "fadeIn": 3,
+   "fadeOut": 3,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "DE",
+    "FR",
+    "US"
+   ],
+   "name": "Historicism",
+   "short": "Historicism",
+   "key": "The use of styles of the past, above all the Gothic, as models for new buildings and objects, chosen for what they stood for.",
+   "traits": [
+    "Revival of past styles: Gothic, Renaissance, Baroque and others",
+    "Gothic arches, tracery and pointed forms in buildings and furniture",
+    "A style chosen for its associations: nation, religion, tradition",
+    "Ornament copied from historical sources and pattern books",
+    "Several styles used side by side"
+   ],
+   "context": "From the mid-eighteenth century a taste for the medieval grew with Romanticism, and writers and collectors such as Horace Walpole, at Strawberry Hill, built Gothic fantasies. In the nineteenth century the Gothic was given a national and religious meaning, as in the rebuilt Palace of Westminster and in the writings of A. W. N. Pugin.",
+   "shift": "From a single style taken as universal to a choice among many styles of the past, each with its own meaning. The question of which style suited a building or a nation became part of design, and the answers were later contested by reformers.",
+   "es": {
+    "name": "Historicismos (neogótico y otros revivals)",
+    "short": "Historicismos",
+    "key": "El uso de estilos del pasado, sobre todo el gótico, como modelos para edificios y objetos nuevos, elegidos por lo que representaban.",
+    "traits": [
+     "Resurgimiento de estilos pasados: gótico, renacimiento, barroco y otros",
+     "Arcos, tracerías y formas apuntadas góticas en edificios y muebles",
+     "Un estilo elegido por sus asociaciones: nación, religión, tradición",
+     "Ornamento copiado de fuentes históricas y libros de modelos",
+     "Varios estilos usados lado a lado"
+    ],
+    "context": "Desde mediados del siglo XVIII creció un gusto por lo medieval junto con el romanticismo, y escritores y coleccionistas como Horace Walpole, en Strawberry Hill, construyeron fantasías góticas. En el siglo XIX el gótico recibió un sentido nacional y religioso, como en el Palacio de Westminster reconstruido y en los escritos de A. W. N. Pugin.",
+    "shift": "De un único estilo tomado por universal a una elección entre muchos estilos del pasado, cada uno con su significado. La pregunta de qué estilo convenía a un edificio o a una nación pasó a formar parte del diseño, y los reformadores discutieron después las respuestas."
+   },
+   "refs": []
+  },
+  {
+   "id": "biedermeier",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1815,
+   "end": 1848,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT",
+    "DE"
+   ],
+   "name": "Biedermeier",
+   "short": "Biedermeier",
+   "key": "The domestic style of the middle classes of Austria and the German states between 1815 and 1848, with simple, comfortable furniture in light woods and little ornament.",
+   "traits": [
+    "Simple, rounded forms and little ornament",
+    "Light native woods, such as cherry and birch, with veneer",
+    "Comfortable furniture for the family sitting room",
+    "Clear lines taken from the Empire style",
+    "Well-made pieces for the middle-class home"
+   ],
+   "context": "After 1815 the German states and Austria lived under the Restoration, with press censorship and little public political life, and middle-class families turned to the home. The name came later, from a satirical figure of the good-natured, unambitious citizen, and was applied to the style in retrospect.",
+   "shift": "From the formal, symbolic vocabulary of the Empire style to simpler, more comfortable furniture sized for the middle-class home. Workshops in Vienna and other cities made well-built pieces for a growing market of ordinary households.",
+   "es": {
+    "name": "Biedermeier",
+    "short": "Biedermeier",
+    "key": "El estilo doméstico de las clases medias de Austria y los estados alemanes entre 1815 y 1848, con muebles simples y cómodos en maderas claras y poco ornamento.",
+    "traits": [
+     "Formas simples y redondeadas, con poco ornamento",
+     "Maderas claras del país, como cerezo y abedul, con chapa",
+     "Muebles cómodos para la sala familiar",
+     "Líneas claras tomadas del estilo Imperio",
+     "Piezas bien hechas para el hogar de clase media"
+    ],
+    "context": "Después de 1815 los estados alemanes y Austria vivieron bajo la Restauración, con censura de prensa y poca vida política pública, y las familias de clase media se volcaron al hogar. El nombre vino después, de un personaje satírico del ciudadano bonachón y sin ambiciones, y se aplicó al estilo en retrospectiva.",
+    "shift": "Del vocabulario formal y simbólico del estilo Imperio a un mueble más simple y cómodo, a la medida del hogar de clase media. Talleres de Viena y de otras ciudades hicieron piezas bien construidas para un mercado creciente de hogares comunes."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "empire-regency"
+    ]
+   }
+  },
+  {
+   "id": "shaker-design",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1790,
+   "end": 1860,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Shaker design",
+   "short": "Shaker design",
+   "key": "The plain, useful furniture and buildings of the Shaker religious communities in the United States, made without carving or applied ornament.",
+   "traits": [
+    "No carving, veneer or applied ornament",
+    "Light furniture of turned posts and slats, hung on wall pegs",
+    "Careful joinery and proportion",
+    "Fitted cupboards, drawers and built-in storage",
+    "Workshops that mixed hand work with machines"
+   ],
+   "context": "The Shakers were a religious group that lived in self-supporting communities in the northeastern United States, where the first ones were founded in the 1780s. Their rules asked for order and plainness in daily life, and their workshops made furniture, boxes and tools for their own use and, from the nineteenth century, for sale to the public. Their most productive years were the first half of the century, and their numbers declined after the Civil War.",
+   "shift": "From furniture as a sign of rank, rich in ornament, to furniture valued for use and simple making. The Shakers set this plainness by community rule and not by fashion, and they sold their work to outsiders, who came to see it as a model of honest design.",
+   "es": {
+    "name": "Diseño shaker",
+    "short": "Diseño shaker",
+    "key": "El mobiliario y los edificios sencillos y útiles de las comunidades religiosas shaker de Estados Unidos, hechos sin talla ni adorno aplicado.",
+    "traits": [
+     "Sin talla, chapa ni adorno aplicado",
+     "Muebles livianos de montantes torneados y travesaños, colgados de clavijas",
+     "Ensambles y proporciones cuidados",
+     "Armarios, cajones y almacenaje empotrados",
+     "Talleres que combinaban trabajo manual y máquinas"
+    ],
+    "context": "Los shakers eran un grupo religioso que vivía en comunidades autosuficientes en el noreste de Estados Unidos, donde se fundaron las primeras en la década de 1780. Sus reglas pedían orden y sencillez en la vida diaria, y sus talleres hacían muebles, cajas y herramientas para su propio uso y, desde el siglo XIX, para vender al público. Sus años más productivos fueron la primera mitad del siglo, y su número decayó después de la Guerra Civil.",
+    "shift": "Del mueble como signo de rango, rico en adornos, al mueble valorado por su uso y su hechura simple. Los shakers fijaron esta sencillez por regla de comunidad y no por moda, y vendieron su obra a gente de fuera, que llegó a verla como modelo de diseño honesto."
+   },
+   "refs": [],
+   "links": {
+    "works": [
+     "shaker-ladderback-chair-1800"
+    ]
+   }
+  },
+  {
+   "id": "english-landscape-garden",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1750,
+   "end": 1800,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "English landscape garden",
+   "short": "Landscape garden",
+   "key": "An English way of laying out country estates as an idealised natural landscape, with lawns, lakes and clumps of trees in place of the geometric garden.",
+   "traits": [
+    "Curving paths, lakes and open lawns instead of straight axes",
+    "Clumps of trees and gentle slopes arranged like a painting",
+    "Temples, ruins and bridges placed as points of interest along the walk",
+    "The ha-ha, a sunken ditch that hides the boundary and lets the park flow into the countryside"
+   ],
+   "context": "It grew on English country estates in the early eighteenth century, with designers such as Charles Bridgeman and William Kent, and then Lancelot ‘Capability’ Brown, and with gardens such as Stowe and Stourhead. It owed much to Enlightenment ideas of nature and to later taste for the picturesque and for ruins.",
+   "shift": "From the formal French garden of straight lines and clipped hedges to a landscape designed to look natural. The style spread over Europe as the ‘English garden’ and made the design of a whole landscape part of an architect’s work.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Jardín paisajista inglés",
+    "short": "Jardín paisajista",
+    "key": "Una manera inglesa de trazar las fincas de campo como un paisaje natural idealizado, con praderas, lagos y arboledas en lugar del jardín geométrico.",
+    "traits": [
+     "Caminos curvos, lagos y praderas abiertas en lugar de ejes rectos",
+     "Arboledas y suaves lomas dispuestas como una pintura",
+     "Templos, ruinas y puentes puestos como puntos de interés a lo largo del paseo",
+     "El ha-ha, una zanja hundida que oculta el límite y deja fluir el parque hacia el campo"
+    ],
+    "context": "Creció en las fincas rurales inglesas a comienzos del siglo XVIII, con diseñadores como Charles Bridgeman y William Kent, y luego Lancelot «Capability» Brown, y con jardines como Stowe y Stourhead. Debió mucho a las ideas ilustradas sobre la naturaleza y al gusto posterior por lo pintoresco y las ruinas.",
+    "shift": "Del jardín formal francés de líneas rectas y setos recortados a un paisaje proyectado para parecer natural. El estilo se extendió por Europa como «jardín inglés» e hizo del diseño de todo un paisaje parte del trabajo del arquitecto."
+   },
+   "refs": []
+  },
+  {
+   "id": "revolutionary-architecture",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1770,
+   "end": 1800,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Revolutionary architecture",
+   "short": "Revolutionary arch.",
+   "key": "The visionary French architecture of Boullée and Ledoux, built of pure geometric solids at a monumental scale and stripped of ornament.",
+   "traits": [
+    "Pure solids: sphere, cube, cylinder and pyramid",
+    "Monumental scale and bare walls without ornament",
+    "Buildings whose form states their purpose",
+    "Many projects drawn but never built"
+   ],
+   "context": "It arose in France in the decades before and after the Revolution of 1789, among architects trained in the academic tradition. Étienne-Louis Boullée drew the huge spherical Cenotaph for Newton in 1784, and Claude-Nicolas Ledoux built the Royal Saltworks at Arc-et-Senans, begun in 1775, and designed an ideal town around it.",
+   "shift": "From the ornamented orders of the Baroque to elementary geometry as a language that could express a building’s purpose and moral meaning. Boullée and Ledoux were rediscovered in the twentieth century as forerunners of the modern movement.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Arquitectura revolucionaria (Boullée, Ledoux)",
+    "short": "Arq. revolucionaria",
+    "key": "La arquitectura visionaria francesa de Boullée y Ledoux, hecha de sólidos geométricos puros a escala monumental y despojada de ornamento.",
+    "traits": [
+     "Sólidos puros: esfera, cubo, cilindro y pirámide",
+     "Escala monumental y muros desnudos sin ornamento",
+     "Edificios cuya forma declara su función",
+     "Muchos proyectos dibujados pero nunca construidos"
+    ],
+    "context": "Surgió en Francia en las décadas anteriores y posteriores a la Revolución de 1789, entre arquitectos formados en la tradición académica. Étienne-Louis Boullée dibujó en 1784 el enorme Cenotafio de Newton, esférico, y Claude-Nicolas Ledoux construyó las Salinas Reales de Arc-et-Senans, iniciadas en 1775, y proyectó una ciudad ideal en torno a ellas.",
+    "shift": "De los órdenes ornamentados del Barroco a la geometría elemental como lenguaje capaz de expresar el uso y el sentido moral de un edificio. Boullée y Ledoux fueron redescubiertos en el siglo XX como precursores del movimiento moderno."
+   },
+   "refs": []
+  },
+  {
+   "id": "beaux-arts",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1830,
+   "end": 1930,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "name": "Beaux-Arts architecture",
+   "short": "Beaux-Arts",
+   "key": "The academic style taught at the École des Beaux-Arts, with monumental buildings composed on axes and symmetry and rich classical ornament.[1][2]",
+   "traits": [
+    "Composition on axes, with symmetry and clear hierarchy of spaces[1][2]",
+    "Extensive classical ornament and detail[1]",
+    "Grand stairs, vestibules and halls planned as a route through the building[2]",
+    "Public buildings as civic monuments[1]"
+   ],
+   "context": "It grew out of the teaching of the École des Beaux-Arts in Paris[2] and became an emblem of Second Empire taste, as in Charles Garnier's Paris Opera (begun 1861).[3] Foreign students, above all Americans such as Richard Morris Hunt, the first American trained at the École,[4] took it to the United States, where it shaped civic architecture and the 1893 World's Columbian Exposition in Chicago.[5]",
+   "shift": "From the architect as an individual designer to a shared method of composition that could be taught and applied to any large public programme.[2] Around 1935 its system began to lose ground to a curriculum stemming from functionalism and the Bauhaus,[6] but it had set the model of the monumental urban ensemble.[2] It reached the Americas through foreign students trained in Paris.[4]",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-ecole-beaux-arts"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Arquitectura Beaux-Arts",
+    "short": "Beaux-Arts",
+    "key": "El estilo académico enseñado en la École des Beaux-Arts, de edificios monumentales compuestos con ejes y simetría y rico ornamento clásico.[1][2]",
+    "traits": [
+     "Composición con ejes, simetría y clara jerarquía de espacios[1][2]",
+     "Abundante ornamento y detalle clásicos[1]",
+     "Grandes escaleras, vestíbulos y salas planeados como recorrido por el edificio[2]",
+     "Edificios públicos como monumentos cívicos[1]"
+    ],
+    "context": "Nació de la enseñanza de la École des Beaux-Arts de París[2] y se volvió un emblema del gusto del Segundo Imperio, como en la Ópera de París de Charles Garnier (iniciada en 1861).[3] Estudiantes extranjeros, sobre todo estadounidenses como Richard Morris Hunt, el primer estadounidense formado en la École,[4] lo llevaron a Estados Unidos, donde marcó la arquitectura cívica y la Exposición Colombina Mundial de Chicago de 1893.[5]",
+    "shift": "Del arquitecto como diseñador individual a un método de composición compartido, que podía enseñarse y aplicarse a cualquier gran programa público.[2] Hacia 1935 su sistema empezó a perder terreno ante un currículo derivado del funcionalismo y la Bauhaus,[6] pero había fijado el modelo del conjunto urbano monumental.[2] Llegó a América a través de estudiantes extranjeros formados en París.[4]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Beaux-Arts style (summary)",
+     "url": "https://www.britannica.com/summary/Second-Empire-style",
+     "checks": "Confirma que es un estilo desarrollado en la École des Beaux-Arts de París, con edificios imponentes, plantas simétricas con salas dispuestas axialmente, abundante ornamento clásico y adopción para edificios públicos; cita la Ópera de París.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, The Architecture of the École des Beaux-Arts (catálogo, 1975)",
+     "url": "https://www.moma.org/documents/moma_catalogue_2483_300300503.pdf",
+     "checks": "Confirma la composición en torno a ejes mayores y menores, la jerarquía de espacios según uso e importancia, la Ópera de Garnier como ejemplo, a Hunt como primer estudiante estadounidense en la École (1846) y la Exposición de 1893 como conjunto urbano monumental.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Charles Garnier",
+     "url": "https://www.britannica.com/biography/Charles-Garnier",
+     "checks": "Confirma que la Ópera de París se empezó en 1861 (terminada en 1875) y que es emblema del gusto del Segundo Imperio.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Richard Morris Hunt",
+     "url": "https://www.britannica.com/biography/Richard-Morris-Hunt",
+     "checks": "Confirma que Hunt estudió en Europa (1843-54), sobre todo en la École des Beaux-Arts, donde fue el primer estadounidense formado, y que implantó en EE. UU. la tradición Beaux-Arts.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, World's Columbian Exposition",
+     "url": "https://www.britannica.com/event/Worlds-Columbian-Exposition",
+     "checks": "Confirma la Exposición de Chicago de 1893 con fachadas clásicas de la 'White City' y principios Beaux-Arts de planificación, que renovó el interés por la arquitectura clásica.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, École des Beaux-Arts",
+     "url": "https://www.britannica.com/topic/Ecole-des-Beaux-Arts",
+     "checks": "Confirma que hacia 1935 el sistema de diseño de la escuela perdió influencia ante un currículo alemán derivado del funcionalismo y la Bauhaus. ⚠ No trata a los estudiantes estadounidenses.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "gothic-revival",
+   "level": "essential",
+   "disciplines": [
+    "architecture",
+    "product",
+    "graphic"
+   ],
+   "start": 1830,
+   "end": 1900,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "DE",
+    "US"
+   ],
+   "name": "Gothic Revival",
+   "short": "Gothic Revival",
+   "key": "A nineteenth-century return to medieval Gothic forms, led by Pugin in Britain, which began as picturesque taste and became a moral argument about honest building.[1][4]",
+   "traits": [
+    "Pointed arches, tracery and steep roofs",
+    "Gothic detail carried into furniture, wallpaper, tiles, metalwork and stained glass[1][3]",
+    "Honesty of construction and of materials as a principle[4][5]",
+    "Churches and public buildings as the main commissions[1]",
+    "Medieval models for design, joined by Pugin to work with manufacturers and industry[5]"
+   ],
+   "context": "It grew from the Romantic taste for the medieval and from religious revival,[1] already seen in Horace Walpole's Strawberry Hill in the eighteenth century.[2] After fire destroyed the Palace of Westminster in 1834, its rebuilding in a Gothic style was led by Charles Barry, with Pugin designing the interiors and decorative details from 1844.[3]",
+   "shift": "From the Gothic as picturesque decoration to the Gothic as a system of principles. Pugin's True Principles (1841)[4] held that a building should have no features not necessary for convenience, construction or propriety,[5] an idea that Ruskin took up[4] and that helped shape the Arts and Crafts.[6]",
+   "es": {
+    "name": "Neogótico",
+    "short": "Neogótico",
+    "key": "Un retorno decimonónico a las formas del gótico medieval, encabezado por Pugin en Gran Bretaña, que partió como gusto pintoresco y se volvió un argumento moral sobre la construcción honesta.[1][4]",
+    "traits": [
+     "Arcos apuntados, tracería y techos empinados",
+     "Detalle gótico llevado al mueble, el papel mural, los azulejos, la metalistería y los vitrales[1][3]",
+     "La honestidad de la construcción y de los materiales como principio[4][5]",
+     "Iglesias y edificios públicos como principales encargos[1]",
+     "Modelos medievales para el diseño, que Pugin unió al trabajo con fabricantes y con la industria[5]"
+    ],
+    "context": "Nació del gusto romántico por lo medieval y de la renovación religiosa,[1] ya visibles en Strawberry Hill de Horace Walpole en el siglo XVIII.[2] Tras el incendio que destruyó el Palacio de Westminster en 1834, su reconstrucción en estilo gótico estuvo a cargo de Charles Barry, con Pugin diseñando los interiores y los detalles decorativos desde 1844.[3]",
+    "shift": "Del gótico como decoración pintoresca al gótico como sistema de principios. True Principles (1841), de Pugin,[4] sostuvo que un edificio no debe tener rasgos que no sean necesarios por conveniencia, construcción o propiedad,[5] idea que retomó Ruskin[4] y que ayudó a dar forma al Arts and Crafts.[6]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Gothic Revival",
+     "url": "https://www.britannica.com/art/Gothic-Revival",
+     "checks": "Confirma el estilo (c. 1750-1880) inspirado en la arquitectura medieval, Pugin y Barry en las Casas del Parlamento (1837-60) y su extensión a mueble, papel mural, azulejos y vitrales; el índice cita lo romántico y la renovación religiosa. ⚠ Sin detalle sobre esas causas.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Strawberry Hill",
+     "url": "https://www.britannica.com/topic/Strawberry-Hill",
+     "checks": "Confirma que Horace Walpole adquirió Strawberry Hill en 1747 y la transformó en una mansión de estilo medieval, ejemplo del neogótico en el siglo XVIII.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "UK Parliament, Heritage Collections: The architects Barry, Pugin and Scott",
+     "url": "https://heritagecollections.parliament.uk/stories/the-architects-barry-pugin-and-scott/",
+     "checks": "Confirma el incendio de 1834, a Barry como ganador del concurso y arquitecto principal, y a Pugin diseñando desde 1844 interiores, papel mural, azulejos y mobiliario. ⚠ No dice que el edificio haya hecho del gótico un estilo nacional.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, A.W.N. Pugin",
+     "url": "https://www.britannica.com/biography/A-W-N-Pugin",
+     "checks": "Confirma True Principles of Pointed or Christian Architecture (1841), que Ruskin lo usó de base, la colaboración con Barry en el Parlamento y su énfasis en la honestidad y la función.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Bard Graduate Center, A. W. N. Pugin and the Progress of Design as Applied to Manufacture",
+     "url": "https://www.bgc.bard.edu/research/articles/13/a-w-n-pugin-and",
+     "checks": "Confirma los principios de True Principles (1841): sin rasgos innecesarios por conveniencia, construcción o propiedad; ornamento como enriquecimiento de la construcción. Muestra que Pugin aceptaba la industria, no la oponía al oficio medieval.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "V&A, Arts and Crafts: an introduction",
+     "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+     "checks": "Confirma que Ruskin y Pugin moldearon la filosofía del movimiento Arts and Crafts. ⚠ No nombra a Morris respecto de Pugin.",
+     "date": "2026-10-06"
+    }
+   ]
+  }
+ ]
+}

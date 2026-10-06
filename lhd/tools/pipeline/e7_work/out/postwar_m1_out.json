@@ -1,0 +1,677 @@
+[
+ {
+  "rtype": "production",
+  "id": "photocopying",
+  "sub": "tools",
+  "start": 1959,
+  "cont": true,
+  "date": "1959 →",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "name": "Xerography and the photocopier",
+  "short": "Photocopier",
+  "key": "Plain-paper copying, introduced in the Xerox 914 of 1959, let anyone reproduce a page in seconds and became a basic tool of offices, artists and do-it-yourself publishing.",
+  "origin": "The American lawyer and inventor Chester Carlson made the first xerographic image in Astoria, New York, in 1938, and the Haloid Company of Rochester later developed the process. Its Xerox 914, shown in 1959 and delivered from 1960, was the first successful office copier that worked on ordinary paper.",
+  "enabled": "A page, a drawing or a pasted-up layout could be copied in seconds, on plain paper, by a clerk or a designer, with no stencil, printing plate or darkroom. Copies of copies were possible too, and the machine could enlarge or reduce in later models.",
+  "change": "Printing stopped being a separate trade for many small jobs: a layout cut and pasted by hand could become a leaflet, a zine or a poster the same day. The rough, high-contrast look of copied black and white became a deliberate graphic choice.",
+  "economy": "Xerox, as Haloid later renamed itself, mostly leased its machines and charged by the copy, so offices could use them without buying one. Copying shops and office machines then put cheap short runs within reach of students, artists, activists and small groups.",
+  "relations": "It sits beside the mimeograph and the offset press as a means of cheap reproduction, and it became the usual tool of punk fanzines such as Sniffin’ Glue (London, 1976), of artists’ books and of political leaflets.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Xerografía y fotocopiadora",
+   "short": "Fotocopiadora",
+   "date": "1959 →",
+   "key": "La copia en papel común, introducida con la Xerox 914 de 1959, permitió a cualquiera reproducir una página en segundos y se volvió una herramienta básica de oficinas, artistas y de la edición «hazlo tú mismo».",
+   "origin": "El abogado e inventor estadounidense Chester Carlson obtuvo la primera imagen xerográfica en Astoria, Nueva York, en 1938, y la empresa Haloid, de Rochester, desarrolló después el proceso. Su Xerox 914, presentada en 1959 y entregada desde 1960, fue la primera copiadora de oficina exitosa que funcionaba con papel común.",
+   "enabled": "Una página, un dibujo o una diagramación pegada a mano podían copiarse en segundos, en papel común, por un oficinista o un diseñador, sin matriz, plancha de impresión ni cuarto oscuro. También se podían hacer copias de copias, y los modelos posteriores ampliaban y reducían.",
+   "change": "Para muchos trabajos pequeños, imprimir dejó de ser un oficio aparte: una diagramación cortada y pegada a mano podía convertirse el mismo día en un volante, un fanzine o un afiche. El aspecto áspero y de alto contraste del blanco y negro copiado pasó a ser una elección gráfica deliberada.",
+   "economy": "Xerox, como pasó a llamarse Haloid, arrendaba sobre todo sus máquinas y cobraba por copia, de modo que las oficinas podían usarlas sin comprar una. Después, las copisterías y las máquinas de oficina dejaron los tirajes cortos y baratos al alcance de estudiantes, artistas, activistas y grupos pequeños.",
+   "relations": "Se ubica junto al mimeógrafo y la prensa offset como medio de reproducción barata, y se volvió la herramienta habitual de los fanzines punk como Sniffin’ Glue (Londres, 1976), de los libros de artista y de los volantes políticos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-giedion-mechanization-1948",
+  "level": "normal",
+  "year": 1948,
+  "date": "1948",
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "genre": "history",
+  "author": "Sigfried Giedion",
+  "name": "Mechanization Takes Command",
+  "short": "Giedion",
+  "key": "Sigfried Giedion’s 1948 history of how mechanization changed everyday life, told through anonymous objects such as the assembly line, the fitted kitchen and patented furniture.",
+  "ideas": [
+   "History can be written from anonymous, everyday objects and not only from famous works and architects.",
+   "Mechanization is a force that reshapes the household, food, work and furniture, and it has to be understood in its effects on people.",
+   "The study follows mechanization from the nineteenth century to the assembly line and the mechanized household.",
+   "Design belongs to the history of technology and culture as much as to the history of art."
+  ],
+  "impact": "Published in New York by Oxford University Press in 1948, with the subtitle ‘A Contribution to Anonymous History’, it followed Giedion’s Space, Time and Architecture (1941). It is often named as a founding work of the history of design.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Sigfried Giedion",
+   "name": "La mecanización toma el mando",
+   "short": "Giedion",
+   "date": "1948",
+   "key": "La historia de 1948 de Sigfried Giedion sobre cómo la mecanización cambió la vida cotidiana, contada a través de objetos anónimos como la cadena de montaje, la cocina equipada y el mueble patentado.",
+   "ideas": [
+    "La historia puede escribirse a partir de objetos anónimos y cotidianos, y no solo de obras y arquitectos famosos.",
+    "La mecanización es una fuerza que transforma el hogar, la alimentación, el trabajo y el mobiliario, y debe entenderse por sus efectos en las personas.",
+    "El estudio sigue la mecanización desde el siglo XIX hasta la cadena de montaje y el hogar mecanizado.",
+    "El diseño pertenece a la historia de la técnica y de la cultura tanto como a la historia del arte."
+   ],
+   "impact": "Publicado en Nueva York por Oxford University Press en 1948, con el subtítulo «una contribución a la historia anónima», siguió a Espacio, tiempo y arquitectura (1941) de Giedion. Suele citarse como una obra fundadora de la historia del diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-fordism",
+  "item": "th-giedion-mechanization-1948",
+  "note": "Giedion studied the assembly line and the fitted kitchen as historical facts: mass production became a subject of design history, read through everyday objects rather than famous works.",
+  "es": {
+   "note": "Giedion estudió la cadena de montaje y la cocina equipada como hechos históricos: la producción en masa pasó a ser materia de la historia del diseño, leída en objetos cotidianos y no en obras famosas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "connection",
+  "from": "th-giedion-mechanization-1948",
+  "to": "th-space-time-architecture",
+  "note": "Continues Giedion’s history of modernity: after architecture’s ‘new tradition’ in 1941, he turned to the anonymous history of machines and objects.",
+  "es": {
+   "note": "Continúa la historia de la modernidad de Giedion: tras la «nueva tradición» de la arquitectura en 1941, pasó a la historia anónima de las máquinas y los objetos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-barthes-mythologies-1957",
+  "level": "normal",
+  "year": 1957,
+  "date": "1957",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "genre": "criticism",
+  "author": "Roland Barthes",
+  "name": "Mythologies",
+  "short": "Barthes",
+  "key": "Roland Barthes’s 1957 collection of short essays that read everyday things, from the Citroën DS to plastic and soap powders, as signs that carry myths.",
+  "ideas": [
+   "Everyday objects and images carry meanings that present a particular culture as if it were natural.",
+   "The essays take in wrestling, advertising, food, toys, plastic and the new Citroën.",
+   "Myth is a kind of speech: any object can become a sign once society gives it a meaning.",
+   "Reading objects as signs is a task of criticism."
+  ],
+  "impact": "Published by Éditions du Seuil in Paris in 1957, it gathered pieces Barthes had written for the press in the mid-1950s and added the theoretical essay ‘Myth Today’. It opened the semiotic reading of consumer objects and advertising, and appeared in English in 1972.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": [
+    "citroen-ds"
+   ]
+  },
+  "es": {
+   "author": "Roland Barthes",
+   "name": "Mitologías",
+   "short": "Barthes",
+   "date": "1957",
+   "key": "La colección de 1957 de breves ensayos de Roland Barthes que leen las cosas cotidianas, del Citroën DS al plástico y los detergentes, como signos que portan mitos.",
+   "ideas": [
+    "Los objetos y las imágenes cotidianas portan significados que presentan una cultura particular como si fuera natural.",
+    "Los ensayos abarcan el catch, la publicidad, la comida, los juguetes, el plástico y el nuevo Citroën.",
+    "El mito es una forma de habla: cualquier objeto puede volverse signo cuando la sociedad le da un sentido.",
+    "Leer los objetos como signos es una tarea de la crítica."
+   ],
+   "impact": "Publicado por Éditions du Seuil en París en 1957, reunió textos que Barthes había escrito para la prensa a mediados de los años cincuenta y agregó el ensayo teórico «El mito, hoy». Abrió la lectura semiótica de los objetos de consumo y de la publicidad, y apareció en inglés en 1972."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-consumer-society",
+  "item": "th-barthes-mythologies-1957",
+  "note": "As cars, plastics and advertising filled everyday life, Barthes read the new objects of consumption as signs and myths, giving critics a way to analyse what products say.",
+  "es": {
+   "note": "Cuando autos, plásticos y publicidad llenaron la vida cotidiana, Barthes leyó los nuevos objetos de consumo como signos y mitos, y dio a los críticos un modo de analizar lo que dicen los productos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-lynch-image-city-1960",
+  "level": "normal",
+  "year": 1960,
+  "date": "1960",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "architecture",
+  "author": "Kevin Lynch",
+  "name": "The Image of the City",
+  "short": "Lynch",
+  "key": "Kevin Lynch’s 1960 study of how people picture and find their way through a city, which gave planners and designers a vocabulary of paths, edges, districts, nodes and landmarks.",
+  "ideas": [
+   "A city’s legibility, how easily its parts can be recognised and organised into a pattern, shapes how people experience it.",
+   "People build a mental image of the city from five elements: paths, edges, districts, nodes and landmarks.",
+   "The study drew on interviews and sketch maps of residents in Boston, Jersey City and Los Angeles.",
+   "Planners and designers can shape cities so that they are easier to read."
+  ],
+  "impact": "Published by the MIT Press and Harvard University Press in 1960, it came out of research at the Massachusetts Institute of Technology. Its terms became common in urban design and in wayfinding and signage design.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Kevin Lynch",
+   "name": "La imagen de la ciudad",
+   "short": "Lynch",
+   "date": "1960",
+   "key": "El estudio de 1960 de Kevin Lynch sobre cómo las personas se representan una ciudad y se orientan en ella, que dio a urbanistas y diseñadores un vocabulario de sendas, bordes, barrios, nodos e hitos.",
+   "ideas": [
+    "La legibilidad de una ciudad, la facilidad con que sus partes se reconocen y se ordenan en un esquema, condiciona cómo la viven las personas.",
+    "Las personas construyen una imagen mental de la ciudad a partir de cinco elementos: sendas, bordes, barrios, nodos e hitos.",
+    "El estudio se apoyó en entrevistas y mapas dibujados por residentes de Boston, Jersey City y Los Ángeles.",
+    "Urbanistas y diseñadores pueden dar forma a las ciudades para que sean más fáciles de leer."
+   ],
+   "impact": "Publicado por MIT Press y Harvard University Press en 1960, nació de una investigación en el Instituto de Tecnología de Massachusetts. Sus términos se volvieron comunes en el diseño urbano y en el diseño de orientación y señalética."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-motorisation",
+  "item": "th-lynch-image-city-1960",
+  "note": "As cities were reshaped for cars and fast traffic, they grew harder to read; Lynch studied how residents orient themselves, a method later used for signs and urban design.",
+  "es": {
+   "note": "Al rehacerse las ciudades para el auto y el tráfico rápido, se volvieron más difíciles de leer; Lynch estudió cómo se orientan los residentes, método usado después en señales y diseño urbano."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-albers-interaction-color-1963",
+  "level": "normal",
+  "year": 1963,
+  "date": "1963",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "pedagogy",
+  "author": "Josef Albers",
+  "name": "Interaction of Color",
+  "short": "Albers",
+  "key": "Josef Albers’s 1963 colour manual, which teaches by experiment how a colour changes with the colours around it, and which remains in use in art and design schools.",
+  "ideas": [
+   "Colour is deceptive: the same colour looks different depending on its surroundings.",
+   "Colour is learned by experiment and observation with coloured papers, not by memorising theory.",
+   "The effects of colour contrast, transparency and spacing can be studied in exercises.",
+   "The book grew out of Albers’s teaching at Yale and earlier at Black Mountain College."
+  ],
+  "impact": "Published by Yale University Press in 1963, first as a boxed folio with original silkscreen prints, it condensed the colour course Albers had taught since the Bauhaus. Later editions made it widely available.",
+  "links": {
+   "movements": [],
+   "institutions": [
+    "inst-black-mountain"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Josef Albers",
+   "name": "La interacción del color",
+   "short": "Albers",
+   "date": "1963",
+   "key": "El manual de color de Josef Albers de 1963, que enseña mediante experimentos cómo un color cambia según los colores que lo rodean, y que sigue en uso en escuelas de arte y diseño.",
+   "ideas": [
+    "El color engaña: un mismo color se ve distinto según su entorno.",
+    "El color se aprende mediante experimentos y observación con papeles de color, no memorizando teoría.",
+    "Los efectos del contraste, la transparencia y el espaciado de los colores pueden estudiarse con ejercicios.",
+    "El libro nació de la enseñanza de Albers en Yale y antes en Black Mountain College."
+   ],
+   "impact": "Publicado por Yale University Press en 1963, primero como un folio en caja con serigrafías originales, condensó el curso de color que Albers enseñaba desde la Bauhaus. Ediciones posteriores lo difundieron ampliamente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-migration-exile",
+  "item": "th-albers-interaction-color-1963",
+  "note": "Albers left Germany after the Nazis closed the Bauhaus and taught in the United States, where his Bauhaus colour teaching, at Black Mountain and Yale, became this book.",
+  "es": {
+   "note": "Albers dejó Alemania tras el cierre de la Bauhaus por los nazis y enseñó en Estados Unidos, donde su enseñanza del color de la Bauhaus, en Black Mountain y Yale, se volvió este libro."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-munari-arte-come-mestiere-1966",
+  "level": "normal",
+  "year": 1966,
+  "date": "1966",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "genre": "criticism",
+  "author": "Bruno Munari",
+  "name": "Design as Art (Arte come mestiere)",
+  "short": "Munari",
+  "key": "Bruno Munari’s 1966 book that argues for the designer as an artist of everyday life, working on ordinary objects and communication rather than on isolated masterpieces.",
+  "ideas": [
+   "The designer is an artist who works on the objects and messages of everyday life.",
+   "Art should not be separated from daily life, nor reserved for museums and collectors.",
+   "Design needs method and a clear idea of the problem, not only taste.",
+   "Small things well made, such as a chair, a lamp or a poster, matter as much as great works."
+  ],
+  "impact": "Published by Laterza in Bari in 1966, it was translated into English as Design as Art in 1971. It is a classic text of Italian design culture, written by a designer who worked in graphics, toys and objects.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [
+    "bruno-munari"
+   ],
+   "works": []
+  },
+  "es": {
+   "author": "Bruno Munari",
+   "name": "El arte como oficio",
+   "short": "Munari",
+   "date": "1966",
+   "key": "El libro de 1966 de Bruno Munari que defiende al diseñador como artista de la vida cotidiana, que trabaja en objetos corrientes y en la comunicación y no en obras maestras aisladas.",
+   "ideas": [
+    "El diseñador es un artista que trabaja en los objetos y mensajes de la vida cotidiana.",
+    "El arte no debe separarse de la vida diaria ni reservarse a los museos y coleccionistas.",
+    "El diseño necesita método y una idea clara del problema, no solo gusto.",
+    "Las cosas pequeñas bien hechas, como una silla, una lámpara o un afiche, importan tanto como las grandes obras."
+   ],
+   "impact": "Publicado por Laterza en Bari en 1966, se tradujo al inglés como Design as Art en 1971. Es un texto clásico de la cultura del diseño italiano, escrito por un diseñador que trabajó en gráfica, juguetes y objetos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-design-culture",
+  "item": "th-munari-arte-come-mestiere-1966",
+  "note": "In a Milan culture where architects, critics and firms debated design, Munari argued that the designer is an artist of everyday objects, so design was framed as culture, not only industry.",
+  "es": {
+   "note": "En una cultura donde arquitectos, críticos y empresas debatían el diseño, Munari sostuvo que el diseñador es un artista de lo cotidiano: el diseño se pensó como cultura y no solo como industria."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-ruder-typographie-1967",
+  "level": "normal",
+  "year": 1967,
+  "date": "1967",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "genre": "typography",
+  "author": "Emil Ruder",
+  "name": "Typographie",
+  "short": "Ruder",
+  "key": "Emil Ruder’s 1967 typography manual from the Basel school, which set out a rigorous teaching of type, white space and legibility and became a pillar of the Swiss style.",
+  "ideas": [
+   "Typography serves the reader: its first task is to communicate and be legible.",
+   "The white space around and inside letters is as much a part of the design as the black of the type.",
+   "Good typography comes from discipline, exercises and attention to detail.",
+   "The typographer works with contrasts of size, weight and form in a clear structure."
+  ],
+  "impact": "Published in Teufen, Switzerland, by Arthur Niggli in 1967, and subtitled as a textbook of design, it came from Ruder’s teaching at the Basel school of design. With Josef Müller-Brockmann’s work it is among the main references of the Swiss typographic style.",
+  "links": {
+   "movements": [
+    "basel-school-typography"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Emil Ruder",
+   "name": "Typographie",
+   "short": "Ruder",
+   "date": "1967",
+   "key": "El manual de tipografía de Emil Ruder de 1967, de la Escuela de Basilea, que expuso una enseñanza rigurosa de la letra, el espacio en blanco y la legibilidad, y se volvió un pilar del estilo suizo.",
+   "ideas": [
+    "La tipografía sirve al lector: su primera tarea es comunicar y ser legible.",
+    "El espacio en blanco alrededor y dentro de las letras es tan parte del diseño como el negro de la tipografía.",
+    "La buena tipografía nace de la disciplina, los ejercicios y la atención al detalle.",
+    "El tipógrafo trabaja con contrastes de tamaño, peso y forma dentro de una estructura clara."
+   ],
+   "impact": "Publicado en Teufen, Suiza, por Arthur Niggli en 1967, y subtitulado como libro de enseñanza del diseño, nació de la docencia de Ruder en la escuela de diseño de Basilea. Junto con la obra de Josef Müller-Brockmann es una de las principales referencias del estilo tipográfico suizo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-simon-sciences-artificial-1969",
+  "level": "normal",
+  "year": 1969,
+  "date": "1969",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "method",
+  "author": "Herbert A. Simon",
+  "name": "The Sciences of the Artificial",
+  "short": "Simon",
+  "key": "Herbert Simon’s 1969 book that defines design as the devising of actions to turn existing situations into preferred ones, a basis of design methods and later of design thinking.",
+  "ideas": [
+   "Artificial things, made by people, can be studied as a science of design.",
+   "Design is the devising of courses of action that change existing situations into preferred ones.",
+   "People solve problems with bounded rationality: they search for solutions that are good enough.",
+   "Complex systems can be understood as hierarchies of simpler parts."
+  ],
+  "impact": "Published by the MIT Press in 1969 and revised in later editions, it came from the work of an economist and computer scientist on decision-making and artificial intelligence. It became a core text of the design methods movement.",
+  "links": {
+   "movements": [
+    "design-methods"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Herbert A. Simon",
+   "name": "Las ciencias de lo artificial",
+   "short": "Simon",
+   "date": "1969",
+   "key": "El libro de 1969 de Herbert Simon que define el diseño como la concepción de acciones para convertir situaciones existentes en preferidas, base de los métodos de diseño y, más tarde, del design thinking.",
+   "ideas": [
+    "Las cosas artificiales, hechas por las personas, pueden estudiarse como una ciencia del diseño.",
+    "El diseño es la concepción de cursos de acción que cambian situaciones existentes en preferidas.",
+    "Las personas resuelven problemas con racionalidad limitada: buscan soluciones suficientemente buenas.",
+    "Los sistemas complejos pueden entenderse como jerarquías de partes más simples."
+   ],
+   "impact": "Publicado por MIT Press en 1969 y revisado en ediciones posteriores, surgió del trabajo de un economista y científico de la computación sobre toma de decisiones e inteligencia artificial. Se volvió un texto central del movimiento de métodos de diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mainframe-computing",
+  "item": "th-simon-sciences-artificial-1969",
+  "note": "Computers and artificial intelligence led Simon to treat design as problem-solving by rules and search, which gave the design methods movement a theoretical base.",
+  "es": {
+   "note": "Computadores e inteligencia artificial llevaron a Simon a tratar el diseño como resolución de problemas mediante reglas y búsqueda, lo que dio base teórica al movimiento de métodos de diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-maldonado-speranza-1970",
+  "level": "normal",
+  "year": 1970,
+  "date": "1970",
+  "regions": [
+   "europe",
+   "latin-america"
+  ],
+  "countries": [
+   "IT",
+   "AR"
+  ],
+  "genre": "criticism",
+  "author": "Tomás Maldonado",
+  "name": "La speranza progettuale (Design, Nature, and Revolution)",
+  "short": "Maldonado",
+  "key": "Tomás Maldonado’s 1970 book on design, environment and society, in which a former rector of Ulm argued that design must answer for its effects on the world.",
+  "ideas": [
+   "Design should be understood in relation to the environment and society and not only to the market.",
+   "Consumer society and industrial production create problems that design cannot ignore.",
+   "A responsible design project needs critical thought and a social purpose.",
+   "The designer cannot be neutral about the consequences of what is produced."
+  ],
+  "impact": "Published in Turin by Einaudi in 1970 under the subtitle ‘Ambiente e società’, it appeared in English as Design, Nature, and Revolution in 1972. Maldonado, born in Buenos Aires, taught at the Ulm school and was its rector in the mid-1960s.",
+  "links": {
+   "movements": [],
+   "institutions": [
+    "inst-hfg-ulm"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Tomás Maldonado",
+   "name": "La esperanza proyectual",
+   "short": "Maldonado",
+   "date": "1970",
+   "key": "El libro de 1970 de Tomás Maldonado sobre diseño, ambiente y sociedad, en el que un antiguo rector de Ulm sostuvo que el diseño debe responder por sus efectos en el mundo.",
+   "ideas": [
+    "El diseño debe entenderse en relación con el ambiente y la sociedad y no solo con el mercado.",
+    "La sociedad de consumo y la producción industrial crean problemas que el diseño no puede ignorar.",
+    "Un proyecto de diseño responsable necesita pensamiento crítico y un propósito social.",
+    "El diseñador no puede ser neutral ante las consecuencias de lo que se produce."
+   ],
+   "impact": "Publicado en Turín por Einaudi en 1970 con el subtítulo «Ambiente e società», apareció en inglés como Design, Nature, and Revolution en 1972. Maldonado, nacido en Buenos Aires, fue profesor de la escuela de Ulm y su rector a mediados de los años sesenta."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-ecology",
+  "item": "th-maldonado-speranza-1970",
+  "note": "As the environmental crisis became public, Maldonado argued that design must take responsibility for its surroundings, tying the design project to environment and society.",
+  "es": {
+   "note": "Cuando la crisis ambiental se hizo pública, Maldonado sostuvo que el diseño debe hacerse responsable de su entorno, y vinculó el proyecto de diseño con el ambiente y la sociedad."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-rittel-webber-1973",
+  "level": "normal",
+  "year": 1973,
+  "date": "1973",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "method",
+  "author": "Horst Rittel and Melvin Webber",
+  "name": "Dilemmas in a General Theory of Planning",
+  "short": "Rittel and Webber",
+  "key": "Horst Rittel and Melvin Webber’s 1973 paper that named ‘wicked problems’, social problems with no definitive formulation or final solution, and ended the confidence of early design methods.",
+  "ideas": [
+   "Planning problems are ‘wicked’: they cannot be defined once and solved by a technical procedure.",
+   "Every wicked problem is in some sense unique and a symptom of another problem.",
+   "Solutions are not true or false but better or worse, and each attempt has consequences.",
+   "The planner’s optimism in technical, step-by-step methods is therefore misplaced."
+  ],
+  "impact": "Published in the journal Policy Sciences in 1973, it was written by Rittel, a design theorist who taught at Berkeley, and Webber, a planner there. It is among the most cited texts in design and planning theory.",
+  "links": {
+   "movements": [
+    "design-methods"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Horst Rittel and Melvin Webber",
+   "name": "Dilemas de una teoría general de la planificación",
+   "short": "Rittel and Webber",
+   "date": "1973",
+   "key": "El artículo de 1973 de Horst Rittel y Melvin Webber que dio nombre a los «problemas perversos», problemas sociales sin formulación definitiva ni solución final, y puso fin a la confianza de los primeros métodos de diseño.",
+   "ideas": [
+    "Los problemas de planificación son «perversos»: no pueden definirse de una vez ni resolverse con un procedimiento técnico.",
+    "Cada problema perverso es en algún sentido único y síntoma de otro problema.",
+    "Las soluciones no son verdaderas o falsas, sino mejores o peores, y cada intento tiene consecuencias.",
+    "Por eso el optimismo del planificador en los métodos técnicos paso a paso está fuera de lugar."
+   ],
+   "impact": "Publicado en la revista Policy Sciences en 1973, lo escribieron Rittel, un teórico del diseño que enseñaba en Berkeley, y Webber, urbanista de la misma universidad. Es uno de los textos más citados de la teoría del diseño y la planificación."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-us-urban-renewal",
+  "item": "th-rittel-webber-1973",
+  "note": "The troubled record of technical urban planning in the 1960s led Rittel and Webber to argue that social problems have no single solution, ending faith in purely technical methods.",
+  "es": {
+   "note": "El mal historial de la planificación urbana técnica en los años sesenta llevó a Rittel y Webber a sostener que los problemas sociales no tienen solución única, y acabó con la fe en lo técnico."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-mari-autoprogettazione-1974",
+  "level": "normal",
+  "year": 1974,
+  "date": "1974",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "genre": "manifesto",
+  "author": "Enzo Mari",
+  "name": "Autoprogettazione",
+  "short": "Mari",
+  "key": "Enzo Mari’s 1974 project of furniture plans that anyone could build from rough boards and nails, a critique of consumption and a forerunner of open design.",
+  "ideas": [
+   "People can make their own furniture from simple boards and nails, following drawings.",
+   "Making a piece shows people how it is built and what design involves.",
+   "The project criticises consumer society and the industry that sells furniture.",
+   "The plans were meant to be shared freely and not produced by a firm."
+  ],
+  "impact": "Presented by Mari in Milan in 1974 as a set of drawings for furniture to be built at home, it was later published as a book and reissued in the 2000s. It is often cited as an early model of open and do-it-yourself design.",
+  "links": {
+   "movements": [
+    "radical-design"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Enzo Mari",
+   "name": "Autoproyectación",
+   "short": "Mari",
+   "date": "1974",
+   "key": "El proyecto de 1974 de Enzo Mari de planos de muebles que cualquiera podía construir con tablas en bruto y clavos, una crítica al consumo y un antecedente del diseño abierto.",
+   "ideas": [
+    "Las personas pueden hacer sus propios muebles con tablas simples y clavos, siguiendo dibujos.",
+    "Hacer una pieza enseña cómo se construye y en qué consiste el diseño.",
+    "El proyecto critica la sociedad de consumo y la industria que vende muebles.",
+    "Los planos estaban pensados para compartirse libremente y no para que los produjera una empresa."
+   ],
+   "impact": "Presentado por Mari en Milán en 1974 como un conjunto de dibujos de muebles para construir en casa, se publicó después como libro y se reeditó en los años 2000. Suele citarse como un modelo temprano de diseño abierto y «hazlo tú mismo»."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-oil-crisis",
+  "item": "th-mari-autoprogettazione-1974",
+  "note": "As the 1973 crisis cooled the optimism of plastic furniture and criticism of consumption grew, Mari offered plans for furniture built from ordinary boards and nails instead of bought.",
+  "es": {
+   "note": "Cuando la crisis de 1973 enfrió el optimismo del mueble de plástico y creció la crítica al consumo, Mari ofreció planos de muebles construidos con tablas y clavos corrientes, en vez de comprados."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "metabolism",
+  "level": "normal",
+  "disciplines": [
+   "architecture"
+  ],
+  "start": 1960,
+  "end": 1975,
+  "fadeIn": 1,
+  "fadeOut": 2,
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "name": "Metabolism",
+  "short": "Metabolism",
+  "key": "A Japanese group of architects who, from 1960, imagined cities and buildings that grow and renew themselves by replacing parts, like living organisms.",
+  "traits": [
+   "Cities and buildings conceived as organisms that grow and change",
+   "Permanent structures with replaceable units or capsules",
+   "Megastructures, towers and floating or marine cities",
+   "Prefabricated, mass-produced parts",
+   "Confidence in technology and in fast urban growth"
+  ],
+  "context": "It formed in Japan after the war, when cities rebuilt from wartime destruction were growing very fast. A group of young architects and a critic, among them Kiyonori Kikutake, Kisho Kurokawa, Fumihiko Maki and Noboru Kawazoe, presented the Metabolism manifesto at the World Design Conference in Tokyo in 1960. Some had worked with or studied under Kenzo Tange, who proposed a plan for Tokyo Bay that same year.",
+  "shift": "From the fixed building to the structure that can be extended and renewed by parts. Kurokawa’s Nakagin Capsule Tower (1972) put the idea into a built work, and several Metabolists designed pavilions for Expo 70 in Osaka. The ideas of capsules and megastructures reached Western architects through the 1960 conference and publications, and belong to the same family as those of Archigram.",
+  "es": {
+   "name": "Metabolismo",
+   "short": "Metabolismo",
+   "key": "Un grupo japonés de arquitectos que, desde 1960, imaginó ciudades y edificios que crecen y se renuevan reemplazando partes, como los organismos vivos.",
+   "traits": [
+    "Ciudades y edificios concebidos como organismos que crecen y cambian",
+    "Estructuras permanentes con unidades o cápsulas reemplazables",
+    "Megaestructuras, torres y ciudades flotantes o marinas",
+    "Partes prefabricadas y producidas en serie",
+    "Confianza en la tecnología y en el rápido crecimiento urbano"
+   ],
+   "context": "Se formó en el Japón de posguerra, cuando las ciudades reconstruidas tras la destrucción de la guerra crecían muy rápido. Un grupo de jóvenes arquitectos y un crítico, entre ellos Kiyonori Kikutake, Kisho Kurokawa, Fumihiko Maki y Noboru Kawazoe, presentó el manifiesto del Metabolismo en la Conferencia Mundial de Diseño de Tokio en 1960. Algunos habían trabajado o estudiado con Kenzo Tange, que ese mismo año propuso un plan para la bahía de Tokio.",
+   "shift": "Del edificio fijo a la estructura que puede ampliarse y renovarse por partes. La Torre Cápsula Nakagin de Kurokawa (1972) llevó la idea a una obra construida, y varios metabolistas diseñaron pabellones para la Expo 70 de Osaka. Las ideas de cápsulas y megaestructuras llegaron a los arquitectos occidentales por la conferencia de 1960 y por publicaciones, y pertenecen a la misma familia que las de Archigram."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-japan-miracle",
+  "item": "metabolism",
+  "note": "Rapid growth of Japanese cities and confidence in the economy led young architects to propose megastructures that grow and change by parts, with replaceable units on fixed cores.",
+  "es": {
+   "note": "El rápido crecimiento de las ciudades japonesas y la confianza económica llevaron a jóvenes arquitectos a proponer megaestructuras que crecen por partes, con unidades reemplazables en núcleos fijos."
+  },
+  "refs": []
+ }
+]

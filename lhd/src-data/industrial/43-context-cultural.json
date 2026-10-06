@@ -1,0 +1,154 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-enlightenment",
+   "track": "cultural",
+   "start": 1751,
+   "end": 1789,
+   "cont": false,
+   "date": "1751–1789",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "name": "The Enlightenment and the Encyclopédie",
+   "short": "Enlightenment",
+   "key": "A movement that valued reason, observation and useful knowledge, and spread its ideas through the Encyclopédie and other printed works.",
+   "happened": "Writers and scientists in France, Britain and elsewhere argued that nature and society could be understood through reason and observation. The Encyclopédie, edited by Denis Diderot and Jean le Rond d'Alembert, appeared from 1751, with volumes of plates on the trades and techniques issued in the 1760s and 1770s. Academies, salons, journals and public museums spread this outlook among a growing educated public.",
+   "effect": "The Enlightenment gave dignity to the mechanical arts and to the description of how things are made, and its taste for clarity and order favoured plain, rational forms. It shaped illustrated reference books, the exact scientific plate, and public institutions such as museums and collections of machines intended to teach.",
+   "es": {
+    "name": "Ilustración y Encyclopédie",
+    "short": "Ilustración",
+    "date": "1751–1789",
+    "key": "Un movimiento que valoró la razón, la observación y el saber útil, y difundió sus ideas por medio de la Encyclopédie y otras obras impresas.",
+    "happened": "Escritores y científicos de Francia, Gran Bretaña y otros países sostuvieron que la naturaleza y la sociedad podían comprenderse mediante la razón y la observación. La Encyclopédie, dirigida por Denis Diderot y Jean le Rond d'Alembert, apareció desde 1751, y sus volúmenes de láminas sobre los oficios y las técnicas se publicaron en los años 1760 y 1770. Academias, salones, revistas y museos públicos difundieron esta mirada entre un público culto en crecimiento.",
+    "effect": "La Ilustración dio dignidad a las artes mecánicas y a la descripción de cómo se hacen las cosas, y su gusto por la claridad y el orden favoreció las formas simples y racionales. Marcó los libros ilustrados de consulta, la lámina científica exacta y las instituciones públicas, como museos y colecciones de máquinas pensadas para enseñar."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-neoclassical-antiquarianism",
+   "track": "cultural",
+   "start": 1750,
+   "end": 1830,
+   "cont": false,
+   "date": "1750–1830",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT",
+    "GR",
+    "GB",
+    "FR"
+   ],
+   "name": "Rediscovery of Antiquity",
+   "short": "Antiquity",
+   "key": "Excavations at Herculaneum and Pompeii and published studies of Greek and Roman remains gave designers a detailed repertory of ancient forms.",
+   "happened": "Digging began at Herculaneum in 1738 and at Pompeii in 1748, and the finds were made known through lavish publications. Johann Joachim Winckelmann praised Greek art in his writings from 1755, and Stuart and Revett's Antiquities of Athens (first volume 1762) recorded Greek buildings with measured drawings. Travellers on the Grand Tour, the Society of Dilettanti and engravers such as Piranesi spread images of antiquity.",
+   "effect": "Architects and makers could copy ancient temples, vases, furniture and ornament with new precision, and clients wanted interiors and objects that showed knowledge of the ancient world. This fed the architecture and interiors of Robert Adam, the reliefs and vases of Wedgwood, and the Empire furniture of Percier and Fontaine.",
+   "es": {
+    "name": "Redescubrimiento de la Antigüedad",
+    "short": "Antigüedad",
+    "date": "1750–1830",
+    "key": "Las excavaciones de Herculano y Pompeya y los estudios publicados sobre ruinas griegas y romanas dieron a los diseñadores un repertorio detallado de formas antiguas.",
+    "happened": "Las excavaciones comenzaron en Herculano en 1738 y en Pompeya en 1748, y los hallazgos se dieron a conocer en lujosas publicaciones. Johann Joachim Winckelmann elogió el arte griego en sus escritos desde 1755, y Antiquities of Athens, de Stuart y Revett (primer volumen de 1762), registró edificios griegos con dibujos medidos. Los viajeros del Grand Tour, la Society of Dilettanti y grabadores como Piranesi difundieron imágenes de la Antigüedad.",
+    "effect": "Arquitectos y artesanos pudieron copiar templos, vasos, muebles y ornamentos antiguos con una precisión nueva, y los clientes querían interiores y objetos que mostraran conocimiento del mundo antiguo. Esto alimentó la arquitectura y los interiores de Robert Adam, los relieves y vasos de Wedgwood y los muebles Imperio de Percier y Fontaine."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-romanticism-gothic",
+   "track": "cultural",
+   "start": 1750,
+   "end": 1850,
+   "cont": false,
+   "date": "1750–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "DE"
+   ],
+   "name": "Romanticism and Gothic taste",
+   "short": "Gothic taste",
+   "key": "Romantic writers and antiquarians looked to the medieval past, nature and feeling, and made the Gothic a style tied to national history.",
+   "happened": "Horace Walpole began remodelling Strawberry Hill in a Gothic manner from the late 1740s and published the novel The Castle of Otranto in 1764. Gothic novels, medieval poetry, antiquarian studies of cathedrals and the ruins that Romantic painters favoured spread an interest in the Middle Ages. In Britain and Germany the Gothic came to be seen as a national and Christian tradition, in contrast to the classical styles.",
+   "effect": "Gothic forms moved from picturesque ornament to serious architecture, as in the rebuilding of the Palace of Westminster after 1834, and into furniture, wallpaper, tiles and church fittings. The taste opened a way for revivals of past styles, which designers could choose among for the meaning they carried.",
+   "es": {
+    "name": "Romanticismo y gusto gótico",
+    "short": "Gusto gótico",
+    "date": "1750–1850",
+    "key": "Escritores y anticuarios románticos miraron al pasado medieval, la naturaleza y el sentimiento, y convirtieron el gótico en un estilo ligado a la historia nacional.",
+    "happened": "Horace Walpole comenzó a remodelar Strawberry Hill en estilo gótico a fines de los años 1740 y publicó la novela El castillo de Otranto en 1764. Las novelas góticas, la poesía medieval, los estudios anticuarios de catedrales y las ruinas que preferían los pintores románticos difundieron el interés por la Edad Media. En Gran Bretaña y Alemania el gótico llegó a verse como una tradición nacional y cristiana, frente a los estilos clásicos.",
+    "effect": "Las formas góticas pasaron del adorno pintoresco a la arquitectura seria, como en la reconstrucción del Palacio de Westminster tras 1834, y llegaron a muebles, papeles pintados, baldosas y mobiliario de iglesias. Este gusto abrió el camino a los revivals de estilos pasados, entre los que los diseñadores podían elegir por el significado que llevaban."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-periodical-press",
+   "track": "cultural",
+   "start": 1750,
+   "end": 1850,
+   "cont": false,
+   "date": "1750–1850",
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "AR",
+    "CL"
+   ],
+   "name": "The periodical press",
+   "short": "Periodical press",
+   "key": "Newspapers, magazines and gazettes became regular, widely read and often illustrated, and carried news, opinion, advertising and fashion to wide audiences.",
+   "happened": "Newspapers multiplied in Europe, and The Times of London began in 1785 under another name. Steam-driven presses, first used for The Times in 1814, raised the number of copies that could be printed. Illustrated magazines and fashion journals appeared, and in Latin America the first periodicals, such as the Gaceta de Buenos Aires (1810) and La Aurora de Chile (1812), accompanied the independence movements.",
+   "effect": "The press was a new channel for design: advertising, headings and fashion plates spread styles quickly across cities and countries. Printers needed bolder display types and faster ways of reproducing images, and journals gave political causes in Europe and Latin America a printed public voice.",
+   "es": {
+    "name": "Prensa periódica",
+    "short": "Prensa periódica",
+    "date": "1750–1850",
+    "key": "Diarios, revistas y gacetas se hicieron regulares, muy leídos y a menudo ilustrados, y llevaron noticias, opinión, avisos y moda a públicos amplios.",
+    "happened": "Los periódicos se multiplicaron en Europa, y The Times de Londres comenzó en 1785 con otro nombre. Las prensas a vapor, usadas por primera vez en The Times en 1814, elevaron el número de ejemplares que se podían imprimir. Aparecieron revistas ilustradas y publicaciones de moda y, en América Latina, los primeros periódicos, como la Gaceta de Buenos Aires (1810) y La Aurora de Chile (1812), acompañaron los movimientos de independencia.",
+    "effect": "La prensa fue un canal nuevo para el diseño: los avisos, los títulos y las láminas de moda difundieron estilos rápidamente entre ciudades y países. Los impresores necesitaron tipos de exhibición más audaces y formas más rápidas de reproducir imágenes, y los periódicos dieron a causas políticas de Europa y América Latina una voz pública impresa."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-egyptomania",
+   "track": "cultural",
+   "start": 1798,
+   "end": 1830,
+   "cont": false,
+   "date": "1798–1830",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "name": "Egyptomania after Napoleon's campaign",
+   "short": "Egyptomania",
+   "key": "Napoleon's expedition to Egypt and the publications that followed it made Egyptian motifs fashionable in architecture, furniture and printing.",
+   "happened": "Napoleon led an expedition to Egypt in 1798 that included scholars and artists. Vivant Denon published his Voyage in 1802, and the large Description de l'Égypte began to appear in 1809. In Britain the Battle of the Nile (1798) also stirred public interest, and the Egyptian Hall in Piccadilly opened in 1812. Champollion's decipherment of hieroglyphs followed in 1822.",
+   "effect": "Sphinxes, lotus and palmette ornament, and Egyptian forms entered Empire and Regency furniture, silver, ceramics and interiors. The name \"Egyptian\" was also given to the heavy slab-serif letters of the early nineteenth century, a sign of how fashionable the label was in the trade.",
+   "es": {
+    "name": "Egiptomanía tras la campaña de Napoleón",
+    "short": "Egiptomanía",
+    "date": "1798–1830",
+    "key": "La expedición de Napoleón a Egipto y las publicaciones que la siguieron pusieron de moda los motivos egipcios en la arquitectura, el mobiliario y la imprenta.",
+    "happened": "Napoleón dirigió en 1798 una expedición a Egipto que incluyó a eruditos y artistas. Vivant Denon publicó su Voyage en 1802, y la gran Description de l'Égypte comenzó a aparecer en 1809. En Gran Bretaña, la batalla del Nilo (1798) también despertó el interés público, y el Egyptian Hall de Piccadilly abrió en 1812. El desciframiento de los jeroglíficos por Champollion llegó en 1822.",
+    "effect": "Esfinges, ornamento de loto y palmeta y formas egipcias entraron en el mobiliario, la platería, la cerámica y los interiores de estilo Imperio y Regencia. El nombre «egipcio» se aplicó además a las gruesas letras de remate rectangular de comienzos del siglo XIX, señal de lo de moda que era la etiqueta en el oficio."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+[
+ {
+  "id": "bodoni-manuale-1788",
+  "instruccion": "La obra pasa a ser la edición de 1818 (2 vols., publicada por la viuda; `posthumous: true`). Reescribir key, more y status para esa edición; mencionar que la primera muestra es de 1788."
+ },
+ {
+  "id": "brutalism-metabolism",
+  "instruccion": "Pasa a llamarse Brutalismo (el metabolismo es un movimiento aparte). Reescribir key, traits, context y shift solo para el brutalismo (Le Corbusier, los Smithson, Banham, Brasil)."
+ },
+ {
+  "id": "futurism-typography",
+  "instruccion": "Pasa a llamarse Futurismo (desde 1909): ampliar key, traits, context y shift a arquitectura (Sant’Elia), moda (TuTa), objeto (Depero) y manifiesto. CONSERVAR las frases que ya tienen marcas [n] y sus refs."
+ },
+ {
+  "id": "punk-fashion",
+  "instruccion": "Pasa a llamarse Punk (moda y gráfica): ampliar key y traits con la gráfica (Jamie Reid, fanzines, fotocopia)."
+ },
+ {
+  "id": "ctx-gothic-revival",
+  "instruccion": "Pasa a llamarse «Medievalismo romántico y renovación religiosa»: ajustar key, happened y effect para que el contexto no se confunda con el nuevo movimiento gothic-revival."
+ },
+ {
+  "id": "jatiya-sangsad-dhaka-1982",
+  "instruccion": "Ahora tiene designers [louis-kahn], year 1962 y date «1962–1982»: revisar que key y more sean coherentes (proyecto de 1962, terminado en 1982)."
+ },
+ {
+  "id": "werkbund-cologne-1914",
+  "instruccion": "Ahora year 1914: revisar que el texto no diga 1913."
+ },
+ {
+  "id": "international-style",
+  "instruccion": "start 1925: revisar key y context (el nombre es de 1932, pero el movimiento abarca desde mediados de los años veinte)."
+ },
+ {
+  "id": "postmodern-architecture",
+  "instruccion": "start 1964: incluir la Casa Vanna Venturi como obra fundadora en key o context si corresponde."
+ },
+ {
+  "id": "landscape-urbanism",
+  "instruccion": "start 1982: mencionar el concurso del Parc de la Villette como origen."
+ },
+ {
+  "id": "critical-speculative-design",
+  "instruccion": "Sin cambios de texto; solo verificar que la ficha no prometa obras que la línea no tiene."
+ }
+]

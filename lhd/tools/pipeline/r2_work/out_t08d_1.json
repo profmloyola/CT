@@ -1,0 +1,297 @@
+[
+ {
+  "id": "antoni-gaudi",
+  "en": {
+   "key": "Catalan architect whose buildings in Barcelona drew on curves and forms taken from nature.[1][2]",
+   "more": "Gaudí worked mostly in Barcelona, where he designed Casa Batlló, Casa Milà and the Park Güell,[1][3] and he devoted most of his career to the Sagrada Família.[1][2] He applied his style to architecture, gardens, sculpture and decorative arts, including ceramics and ironwork.[3] His structures drew on natural forms and on catenary and ruled-surface geometry.[2] He died in Barcelona in 1926 after being hit by a tram.[1][4]"
+  },
+  "es": {
+   "key": "Arquitecto catalán cuyos edificios en Barcelona se valieron de curvas y de formas tomadas de la naturaleza.[1][2]",
+   "more": "Gaudí trabajó sobre todo en Barcelona, donde diseñó la Casa Batlló, la Casa Milà y el Park Güell,[1][3] y dedicó la mayor parte de su carrera a la Sagrada Familia.[1][2] Aplicó su estilo a la arquitectura, los jardines, la escultura y las artes decorativas, con cerámica y herrería incluidas.[3] Sus estructuras se inspiraron en formas naturales y en la geometría de la catenaria y de las superficies regladas.[2] Murió en Barcelona en 1926, atropellado por un tranvía.[1][4]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Antoni Gaudí»",
+    "url": "https://www.britannica.com/biography/Antoni-Gaudi",
+    "checks": "1852–1926; murió en Barcelona el 10 de junio de 1926; Casa Batlló, Casa Milà, Park Güell y Sagrada Família; formas naturales y unidad orgánica. ⚠ Nace en Reus; la página no menciona el atropello, el mobiliario ni el año 1883.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Sagrada Família (sitio oficial), «Antoni Gaudí»",
+    "url": "https://sagradafamilia.org/en/antoni-gaudi",
+    "checks": "1852–1926; inspiración en la naturaleza; catenaria y superficies regladas; dedicó sus últimos 12 años exclusivamente a la Sagrada Família. ⚠ No da el año 1883.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UNESCO, «Works of Antoni Gaudí»",
+    "url": "https://whc.unesco.org/en/list/320/",
+    "checks": "Park Güell, Casa Milà, Casa Batlló, Sagrada Família y otras obras; estilo aplicado a arquitectura, jardines, escultura y artes decorativas, con cerámica y herrería.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "National Tramway Museum, «Tram Tragedy: 100 Years Since the Death of Antoni Gaudí»",
+    "url": "https://tramway.co.uk/tramway-anniversaries/tram-tragedy-100-years-since-the-death-of-antoni-gaudi/",
+    "checks": "atropellado por un tranvía de Barcelona el 7 de junio de 1926; murió el 10 de junio de 1926 en Barcelona.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité el año 1883 de la Sagrada Familia (ninguna fuente abierta lo confirma), «proyectó edificios junto con su mobiliario» (solo se confirma artes decorativas, cerámica y herrería) y «huesos, escamas y tallos» (solo formas naturales en general).",
+   "Suavicé «reemplazaron las líneas rectas y los estilos históricos»: las fuentes solo confirman formas orgánicas y curvas.",
+   "Fechas 1852–1926 confirmadas. Britannica y la Sagrada Família dan Reus como lugar de nacimiento (la ficha no lo menciona)."
+  ]
+ },
+ {
+  "id": "jose-guadalupe-posada",
+  "en": {
+   "key": "Mexican engraver who made thousands of illustrated broadsides for the popular press of Mexico City, famous for his skeletons.[1][2]",
+   "more": "Born in Aguascalientes,[1][2] he worked as a lithographer and cartoon illustrator for publishers such as Antonio Vanegas Arroyo,[3] illustrating broadsides, song covers and satire.[1][2] He often showed skeletons, among them the figure later known as La Catrina.[1][3] He worked in engraving and etching on type metal as well as lithography.[1][3] He spent his last years in Mexico City and died in 1913, and later Mexican and Chicano artists claimed him as a precedent.[2]"
+  },
+  "es": {
+   "key": "Grabador mexicano que hizo miles de hojas sueltas ilustradas para la prensa popular de Ciudad de México, famoso por sus calaveras.[1][2]",
+   "more": "Nacido en Aguascalientes,[1][2] trabajó como litógrafo e ilustrador de caricaturas para editores como Antonio Vanegas Arroyo,[3] ilustrando hojas sueltas, cubiertas de canciones y sátiras.[1][2] Con frecuencia mostró esqueletos, entre ellos la figura conocida después como La Catrina.[1][3] Trabajó en grabado y aguafuerte sobre metal tipográfico, además de la litografía.[1][3] Pasó sus últimos años en Ciudad de México y murió en 1913, y más tarde artistas mexicanos y chicanos lo reconocieron como precedente.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «José Guadalupe Posada»",
+    "url": "https://www.britannica.com/biography/Jose-Guadalupe-Posada",
+    "checks": "nacido en Aguascalientes; miles de ilustraciones de hojas sueltas y cubiertas de libros y canciones; grabado y aguafuerte sobre metal tipográfico; calaveras y La Calavera Catrina; muerte en 1913. ⚠ Da 1851 como año de nacimiento; no da lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Smithsonian American Art Museum, «José Guadalupe Posada»",
+    "url": "https://americanart.si.edu/exhibitions/chicano-graphics/online/changemakers/jose-posada",
+    "checks": "1852–1913; nacido en Aguascalientes, últimos años en Ciudad de México; unas veinte mil estampas; hojas sueltas satíricas con calaveras; La Catrina; influyó en artistas mexicanos y chicanos. ⚠ No indica expresamente el lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UC Berkeley Library, «Art of Posada»",
+    "url": "https://exhibits.lib.berkeley.edu/spotlight/art-of-posada/catalog/28-1374",
+    "checks": "colaboró con la casa editora de Antonio Vanegas Arroyo; litógrafo e ilustrador; La Calavera Catrina (aguafuerte sobre zinc, 1910–1913). ⚠ Da 1851 como año de nacimiento.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Dato dudoso: Britannica y Berkeley dan 1851 como nacimiento, el Smithsonian 1852 (igual que la ficha). No se cambió la ficha.",
+   "Quité «desde la década de 1880», «baratas» y «esqueletos vestidos como gente común» (no confirmados) y suavicé «murió en Ciudad de México» a «pasó sus últimos años en Ciudad de México» (ninguna fuente da el lugar de muerte).",
+   "«Grabadores mexicanos» pasó a «artistas mexicanos y chicanos», como dice el Smithsonian."
+  ]
+ },
+ {
+  "id": "louis-sullivan",
+  "en": {
+   "key": "American architect of the Chicago school who gave the steel-framed tall building a form of its own and rich plant-based ornament.[1][3]",
+   "more": "Born in Boston, he practised in Chicago, where he worked in partnership with Dankmar Adler from 1879 to 1895.[1] He designed tall buildings such as the Wainwright and the Guaranty and the Carson Pirie Scott department store,[1] using ornament drawn from plants, above all at street level.[2][3] The Carson Pirie Scott store, built in 1899 and 1903–04,[2] has wide windows and a lavishly decorated corner entrance.[2][3] Frank Lloyd Wright worked in his office.[1] He died in Chicago in 1924.[1]"
+  },
+  "es": {
+   "key": "Arquitecto estadounidense de la escuela de Chicago que dio al edificio alto de estructura de acero una forma propia y un rico ornamento de motivos vegetales.[1][3]",
+   "more": "Nacido en Boston, ejerció en Chicago, donde trabajó en sociedad con Dankmar Adler de 1879 a 1895.[1] Proyectó edificios altos como el Wainwright y el Guaranty y el gran almacén Carson Pirie Scott,[1] con ornamento inspirado en plantas, sobre todo a nivel de calle.[2][3] El almacén Carson Pirie Scott, construido en 1899 y 1903–04,[2] tiene ventanas anchas y una entrada de esquina profusamente decorada.[2][3] Frank Lloyd Wright trabajó en su oficina.[1] Murió en Chicago en 1924.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Louis Sullivan»",
+    "url": "https://www.britannica.com/biography/Louis-Sullivan",
+    "checks": "nació el 3 de septiembre de 1856 en Boston; murió el 14 de abril de 1924 en Chicago; sociedad con Dankmar Adler 1879–1895; Wainwright, Guaranty, Carson Pirie Scott; escuela de Chicago; Wright trabajó en su oficina.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Smarthistory, «Sullivan, Carson Pirie Scott Building»",
+    "url": "https://smarthistory.org/sullivan-carson-pirie-scott-building/",
+    "checks": "construido en dos fases (1899 y 1903–04); ventanas de exhibición muy anchas; decoración de hierro fundido con motivos florales en la base; entrada redondeada en la esquina; estructura de acero.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Chicago Architecture Center, «Sullivan Center»",
+    "url": "https://www.architecture.org/online-resources/buildings-of-chicago/sullivan-center",
+    "checks": "Carson Pirie Scott (1899–1903); estructura de acero; hierro fundido con motivos foliados a nivel de calle; ornamento inspirado en plantas de la pradera; rotonda de esquina con ornamento botánico.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Suavicé «buscó un estilo para el edificio de oficinas en altura y para el gran almacén» y «cubrió sus superficies con ornamento»: las fuentes confirman el ornamento vegetal sobre todo en la planta baja del almacén.",
+   "Fechas 1856–1924 y lugares (Boston, Chicago) confirmados por Britannica.",
+   "Quedó sin fuente directa que Wright «dio forma propia al edificio alto»; se apoya solo en Britannica y el Chicago Architecture Center para la escuela de Chicago y el rascacielos."
+  ]
+ },
+ {
+  "id": "alfons-mucha",
+  "en": {
+   "key": "Czech artist whose decorative poster for Sarah Bernhardt in 1894 made him a leading figure of Paris Art Nouveau.[1][2]",
+   "more": "Born in Ivancice, Moravia, in 1860,[1][2] Mucha settled in Paris in the 1890s.[2] His poster for Sarah Bernhardt in Gismonda, in 1894, brought him fame and a six-year contract with the actress.[1][2] He made posters, decorative panels and jewellery and shop designs with idealized women framed by flowing hair and ornament,[1][2] and took part in the 1900 Paris World Exhibition for the Austro-Hungarian government.[2] He later returned to Czechoslovakia, where he worked on the Slav Epic, and he died in Prague in 1939.[1][2]"
+  },
+  "es": {
+   "key": "Artista checo cuyo cartel decorativo para Sarah Bernhardt en 1894 lo hizo una figura central del Art Nouveau parisino.[1][2]",
+   "more": "Nacido en Ivancice, Moravia, en 1860,[1][2] Mucha se instaló en París en la década de 1890.[2] Su cartel para Sarah Bernhardt en Gismonda, en 1894, le dio fama y un contrato de seis años con la actriz.[1][2] Hizo carteles, paneles decorativos y diseños de joyas y de tiendas con mujeres idealizadas enmarcadas por cabello suelto y ornamento,[1][2] y participó en la Exposición Universal de París de 1900 por encargo del gobierno austrohúngaro.[2] Más tarde volvió a Checoslovaquia, donde trabajó en la Epopeya eslava, y murió en Praga en 1939.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Alphonse Mucha»",
+    "url": "https://www.britannica.com/biography/Alphonse-Mucha",
+    "checks": "nació el 24 de julio de 1860 en Ivančice, Moravia; murió el 14 de julio de 1939 en Praga; carteles para Sarah Bernhardt desde Gismonda (1894); Epopeya eslava; se instaló en Checoslovaquia después de 1922.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museo Mucha (Praga), «Alfons Mucha, biografía»",
+    "url": "https://www.mucha.cz/en/biography",
+    "checks": "nacido en Ivančice, muerto en Praga (1860–1939); cartel de Gismonda 1894 y contrato de seis años con Bernhardt; paneles Las cuatro estaciones, diseño de Fouquet (joyería), Documents décoratifs; encargo austrohúngaro para la Exposición de 1900. ⚠ No confirma el pabellón de Bosnia-Herzegovina.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «decoró el pabellón de Bosnia-Herzegovina»: las fuentes abiertas solo confirman su participación en la Exposición de 1900 por encargo austrohúngaro.",
+   "«Bohemia» pasó a «Checoslovaquia» según Britannica; «envases» se sustituyó por «diseños de tiendas» (Fouquet), que sí consta.",
+   "Fechas y lugares 1860–1939 confirmados."
+  ]
+ },
+ {
+  "id": "victor-horta",
+  "en": {
+   "key": "Belgian architect whose Hôtel Tassel of 1893 in Brussels is regarded as among the first Art Nouveau buildings, with curving lines and open interior spaces.[1][2][3]",
+   "more": "Horta studied in Ghent and Brussels and trained under Alphonse Balat.[1] In the Hôtel Tassel (1892–93) he combined curving lines, glass and steel in an octagonal staircase hall.[2][3] He went on to design the Hôtel Solvay and his own house,[1][2] and the Maison du Peuple, the first building in Belgium with a largely iron and glass facade.[1] Born in Ghent in 1861, he died in 1947.[1]"
+  },
+  "es": {
+   "key": "Arquitecto belga cuyo Hôtel Tassel de 1893 en Bruselas se considera uno de los primeros edificios del art nouveau, con líneas curvas y espacios interiores abiertos.[1][2][3]",
+   "more": "Horta estudió en Gante y Bruselas y se formó con Alphonse Balat.[1] En el Hôtel Tassel (1892–93) combinó líneas curvas, vidrio y acero en un hall octogonal de escalera.[2][3] Después proyectó el Hôtel Solvay y su propia casa,[1][2] y la Maison du Peuple, el primer edificio de Bélgica con una fachada en gran parte de hierro y vidrio.[1] Nació en Gante en 1861 y murió en 1947.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Victor, Baron Horta»",
+    "url": "https://www.britannica.com/biography/Victor-Baron-Horta",
+    "checks": "1861–1947; nacido en Gante; en Bruselas desde 1881, formado con Alphonse Balat; Hôtel Tassel entre los primeros ejemplos continentales de Art Nouveau; Hôtel Solvay; casa propia; Maison du Peuple, primera fachada belga mayormente de hierro y vidrio. ⚠ No indica el lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UNESCO, «Major Town Houses of the Architect Victor Horta (Brussels)»",
+    "url": "https://whc.unesco.org/en/list/1005/",
+    "checks": "Hôtel Tassel (1893), Hôtel Solvay, Hôtel van Eetvelde y Maison et Atelier Horta; planta abierta, difusión de la luz, elementos curvos integrados con la estructura; acero y vidrio.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Hôtel Tassel»",
+    "url": "https://www.britannica.com/place/Hotel-Tassel",
+    "checks": "Bruselas, 1892–1893; primera obra independiente de Horta; uno de los primeros ejemplos continentales de Art Nouveau; hall octogonal con escalera; líneas curvas; vidrio y acero.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «París» de la formación (no confirmado) y suavicé «columnas y barandas de hierro a la vista» a «líneas curvas, vidrio y acero» (lo que consta).",
+   "Quité «murió en Bruselas»: ninguna fuente abierta da el lugar de muerte. Fechas 1861–1947 y Gante confirmadas.",
+   "Las fuentes fechan el Tassel en 1892–93 (Britannica) o 1893 (UNESCO); la ficha dice 1893–94 en «more»; usé 1892–93 sin alterar la ficha de key (1893)."
+  ]
+ },
+ {
+  "id": "toulouse-lautrec",
+  "en": {
+   "key": "French painter whose lithograph posters of Montmartre cabarets, such as the Moulin Rouge, made him famous.[1][2]",
+   "more": "Born in Albi in 1864,[1] Toulouse-Lautrec chronicled the nightlife of Montmartre in Paris, its cabarets, dancers and performers.[1] His first poster, for the Moulin Rouge with La Goulue, appeared in 1891 and launched his career as a poster artist.[1][2] It is a four-colour lithograph printed on three sheets.[2] He died in 1901 at Malromé.[1]"
+  },
+  "es": {
+   "key": "Pintor francés cuyos carteles litográficos de los cabarés de Montmartre, como el Moulin Rouge, lo hicieron famoso.[1][2]",
+   "more": "Nacido en Albi en 1864,[1] Toulouse-Lautrec retrató la vida nocturna de Montmartre, en París, con sus cabarés, bailarinas y artistas.[1] Su primer cartel, para el Moulin Rouge con La Goulue, apareció en 1891 y lanzó su carrera como cartelista.[1][2] Es una litografía a cuatro colores impresa en tres hojas.[2] Murió en 1901 en Malromé.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Henri de Toulouse-Lautrec»",
+    "url": "https://www.britannica.com/biography/Henri-de-Toulouse-Lautrec",
+    "checks": "nació el 24 de noviembre de 1864 en Albi; murió el 9 de septiembre de 1901 en Malromé; vida nocturna parisina y Montmartre; cartel de La Goulue (1891). ⚠ La página no habla de color plano ni de grabados japoneses.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Moulin Rouge: La Goulue»",
+    "url": "https://www.metmuseum.org/art/collection/search/333990",
+    "checks": "cartel litográfico de 1891 a cuatro colores en tres hojas; impreso en París por Affiches Américaines; lanzó su carrera de cartelista; La Goulue y Valentin le Désossé.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «color plano y contornos marcados» y «una manera que debe mucho a los grabados japoneses» (no confirmados); la clave se reformuló en torno a la fama del cartel.",
+   "Quité «vivió en Montmartre» (solo consta que lo retrató). Fechas y lugares 1864–1901 confirmados; la ficha dice «propiedad familiar», no verificado.",
+   "Tampoco se confirma que sea su «primer cartel» en sentido estricto; el Met habla de su irrupción en el cartel con esta obra."
+  ]
+ },
+ {
+  "id": "hector-guimard",
+  "en": {
+   "key": "French architect and designer of the Castel Béranger and of the cast-iron Paris Métro entrances, the best-known French Art Nouveau works.[1][2]",
+   "more": "Guimard designed the apartment building Castel Béranger in Paris[1][3] and then the entrances to the Paris Métro, following a competition in 1899 and built from 1900.[2][3] He drew on plant-like forms and on cast iron.[1][3] He emigrated to the United States in 1938.[3] Born in Lyon in 1867, he died in New York in 1942.[1][3]"
+  },
+  "es": {
+   "key": "Arquitecto francés autor del Castel Béranger y de las entradas de hierro fundido del metro de París, las obras art nouveau francesas más conocidas.[1][2]",
+   "more": "Guimard proyectó el edificio de departamentos Castel Béranger en París[1][3] y luego las entradas del metro de París, tras un concurso en 1899 y construidas desde 1900.[2][3] Se valió de formas de aire vegetal y de hierro fundido.[1][3] Emigró a Estados Unidos en 1938.[3] Nació en Lyon en 1867 y murió en Nueva York en 1942.[1][3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Hector Guimard»",
+    "url": "https://www.britannica.com/biography/Hector-Guimard",
+    "checks": "1867–1942; nacido en Lyon; Castel Béranger; entradas del metro de hierro fundido con diseño vegetal; emigró a Nueva York en 1938 y murió allí en 1942. ⚠ Fecha el Castel Béranger en 1894–98, no 1895–98.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Musée d'Orsay, «Hector Guimard and the Genesis of the Metro»",
+    "url": "https://www.musee-orsay.fr/en/whats-on/exhibitions/hector-guimard-and-genesis-metro",
+    "checks": "Guimard (1867–1942); entradas del metro tras el concurso de 1899; diseños casi orgánicos; símbolo de París.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Cooper Hewitt, «Hector Guimard: Art Nouveau to Modernism»",
+    "url": "https://www.cooperhewitt.org/2023/02/09/hector-guimard-art-nouveau-to-modernism/",
+    "checks": "nació el 10 de marzo de 1867 en Lyon; murió el 20 de mayo de 1942 en Nueva York; Castel Béranger con curvas art nouveau; estaciones del metro 1900–1912 de hierro fundido y formas orgánicas; partió en septiembre de 1938.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Dato dudoso: la ficha fecha el Castel Béranger en 1895–98; Britannica da 1894–98. No se cambió la ficha; en el texto omití las fechas del edificio.",
+   "Quité «incluidas sus herrerías», «la línea abierta en 1900» (se usa «construidas desde 1900») y «piezas producidas en serie» (no confirmado).",
+   "Fechas y lugares 1867–1942 (Lyon, Nueva York) confirmados."
+  ]
+ },
+ {
+  "id": "frank-lloyd-wright",
+  "en": {
+   "key": "American architect who built long, low houses with wide projecting eaves and called his approach organic architecture.[1][4]",
+   "more": "Born in Wisconsin,[1][2] he worked for six years in the Adler and Sullivan office in Chicago before leaving in 1893.[2] His Prairie houses, such as the Robie House (1909),[4] stressed horizontal lines and wide projecting roofs,[2][4] and he also designed the Larkin Building in Buffalo (1903).[3] He enriched his interiors with furnishings, light fixtures and art glass.[4] He died in Phoenix, Arizona, in 1959.[1]"
+  },
+  "es": {
+   "key": "Arquitecto estadounidense que levantó casas largas y bajas de aleros amplios y voladizos, y llamó a su enfoque arquitectura orgánica.[1][4]",
+   "more": "Nacido en Wisconsin,[1][2] trabajó seis años en la oficina de Adler y Sullivan en Chicago antes de irse en 1893.[2] Sus casas de la pradera, como la Casa Robie (1909),[4] destacaban las líneas horizontales y los techos de amplios aleros,[2][4] y también diseñó el Edificio Larkin en Buffalo (1903).[3] Enriqueció sus interiores con mobiliario, luminarias y vitrales artísticos.[4] Murió en Phoenix, Arizona, en 1959.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Frank Lloyd Wright»",
+    "url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+    "checks": "nació el 8 de junio de 1867 en Richland Center, Wisconsin; murió el 9 de abril de 1959 en Phoenix, Arizona; estilo de la pradera; arquitectura orgánica; Robie House.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Frank Lloyd Wright Foundation, «About Frank Lloyd Wright»",
+    "url": "https://franklloydwright.org/frank-lloyd-wright/",
+    "checks": "nació en Richland Center, Wisconsin, en 1867; seis años en Adler y Sullivan y salida en 1893; estilo de la pradera con líneas horizontales; arquitectura orgánica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Frank Lloyd Wright Foundation, «Larkin Company Administration Building»",
+    "url": "https://franklloydwright.org/site/larkin-company-administration-building/",
+    "checks": "edificio Larkin en Buffalo, 1903, diseñado por Wright; demolido en 1950.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Frank Lloyd Wright Building Conservancy, «Robie House»",
+    "url": "https://savewright.org/building/robie-house/",
+    "checks": "Chicago, 1909; casa de la pradera, larga y baja, techo de cuatro aguas con aleros amplios y voladizos; mobiliario, luminarias y vitrales diseñados para el interior.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «planta abierta», «espacios que fluyen unos en otros» y «para el Medio Oeste» (no confirmados en las fuentes abiertas), y «independizarse en 1893» pasó a «irse [de la oficina de Sullivan] en 1893».",
+   "Fechas y lugares 1867–1959 confirmados; nació en Richland Center, Wisconsin."
+  ]
+ }
+]

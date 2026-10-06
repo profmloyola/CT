@@ -1,0 +1,1963 @@
+{
+ "designers": [
+  {
+   "id": "rietveld",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1888,
+   "died": 1964,
+   "dates": "1888–1964",
+   "countries": [
+    "NL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Gerrit Rietveld",
+   "movements": [
+    "de-stijl",
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Dutch cabinetmaker and architect who built De Stijl in three dimensions, from the Red and Blue Chair to the Schröder House.[1][4]",
+   "more": "Trained in his father’s furniture workshop in Utrecht,[1] he opened his own in 1917[1][2] and made the first, unpainted version of the Red and Blue Chair around 1918;[1] he joined De Stijl in 1919.[1][3] In 1924 he designed the Schröder House with its owner, Truus Schröder-Schräder.[1][4] He was a founding member of CIAM in 1928,[3] and in the 1930s he designed the Zig-Zag chair (1934)[3] and cheap crate furniture sold by the shop Metz & Co.[2][5] Born in Utrecht in 1888, he died there in 1964.[1]",
+   "wiki": "Gerrit_Rietveld",
+   "es": {
+    "dates": "1888–1964",
+    "key": "Ebanista y arquitecto neerlandés que construyó De Stijl en tres dimensiones, desde la silla Roja y Azul hasta la Casa Schröder.[1][4]",
+    "more": "Formado en el taller de muebles de su padre en Utrecht,[1] abrió el suyo en 1917[1][2] e hizo hacia 1918 la primera versión, sin pintar, de la silla Roja y Azul;[1] se unió a De Stijl en 1919.[1][3] En 1924 diseñó la Casa Schröder con su propietaria, Truus Schröder-Schräder.[1][4] Fue miembro fundador de los CIAM en 1928,[3] y en los años treinta diseñó la silla Zig-Zag (1934)[3] y muebles baratos de cajón que vendía la tienda Metz & Co.[2][5] Nació en Utrecht en 1888 y murió allí en 1964.[1]"
+   },
+   "refs": [
+    {
+     "label": "Huygens ING, Biografisch Woordenboek van Nederland, «Rietveld, Gerrit Thomas (1888-1964)»",
+     "url": "https://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn5/rietveld",
+     "checks": "nacido en Utrecht el 24-6-1888 y muerto en Utrecht el 25-6-1964; mueblista y arquitecto; aprendiz en el taller de muebles de su padre en Utrecht; taller propio en 1917; prototipo sin pintar del sillón hacia 1918, versión de color años después; colaborador de De Stijl desde 1919; Casa Schröder (1924) en estrecha colaboración con Truus Schröder-Schräder. No menciona CIAM, Zig-Zag ni Metz.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «‘Crate’ chair», Gerrit Rietveld",
+     "url": "https://collections.vam.ac.uk/item/O115054/crate-chair-armchair-rietveld-gerrit-thomas/",
+     "checks": "primer taller en la Adriaen van Ostadelaan, Utrecht, en 1917; muebles de cajón de 1934 para gente con poco dinero; vendidos por los almacenes Metz & Co de Ámsterdam; fechas 1888–1964.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Zig-Zag Chair», Gerrit Rietveld",
+     "url": "https://collections.vam.ac.uk/item/O142934/zig-zag-chair-chair-rietveld-gerrit/",
+     "checks": "silla Zig-Zag diseñada en 1934; Rietveld miembro de De Stijl desde 1919 y cofundador de los CIAM en 1928; fechas 1888–1964. ⚠ no dice que la Zig-Zag fuera barata ni que la vendiera Metz.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Rietveld Schröderhuis (Centraal Museum), «Biography of the house»",
+     "url": "https://www.rietveldschroderhuis.nl/en/explore/biography-of-the-house",
+     "checks": "casa construida en 1924–25 en Utrecht; Rietveld mueblista que con esta casa se estableció como arquitecto; creación conjunta con Truus Schröder.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Het Nieuwe Instituut, «Rietveld’s Crate Furniture in Production»",
+     "url": "https://nieuweinstituut.nl/en/articles/rietveld-kratmeubelen",
+     "checks": "primera colección de cajón en 1934; vendida por Metz & Co desde 1935 como «muebles de fin de semana»; respuesta a la necesidad de muebles baratos durante la Gran Depresión.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "marianne-brandt",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1893,
+   "died": 1983,
+   "dates": "1893–1983",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Marianne Brandt",
+   "movements": [
+    "bauhaus-movement",
+    "new-vision"
+   ],
+   "institutions": [
+    "inst-bauhaus"
+   ],
+   "key": "German designer and photographer, one of the very few women in the Bauhaus metal workshop, whose lamps and teaware became icons of the school.[1][2]",
+   "more": "Trained as a painter, she entered the Bauhaus in Weimar in 1923[1] and, encouraged by Moholy-Nagy, joined the metal workshop, where women were rarely admitted.[1][2] She designed the small tea infuser of about 1924[3] and, with Hin Bredendieck, lamps produced by Körting & Mathiesen under the Kandem name.[1][4] She headed the workshop from 1928 to 1929,[1] then worked briefly for Gropius and led design at the Ruppelwerk metal factory in Gotha until 1932.[1] She also made photomontages and photographs.[1] Born in Chemnitz in 1893, she died in Kirchberg, Saxony, in 1983.[1]",
+   "wiki": "Marianne_Brandt",
+   "es": {
+    "dates": "1893–1983",
+    "key": "Diseñadora y fotógrafa alemana, una de las muy pocas mujeres del taller de metal de la Bauhaus, cuyas lámparas y piezas para té se volvieron íconos de la escuela.[1][2]",
+    "more": "Formada como pintora, entró a la Bauhaus de Weimar en 1923[1] y, alentada por Moholy-Nagy, se unió al taller de metal, donde pocas veces se admitía a mujeres.[1][2] Diseñó el pequeño infusor de té de hacia 1924[3] y, con Hin Bredendieck, lámparas que Körting & Mathiesen fabricó con la marca Kandem.[1][4] Dirigió el taller entre 1928 y 1929,[1] luego trabajó brevemente para Gropius y dirigió el diseño de la fábrica de metal Ruppelwerk en Gotha hasta 1932.[1] También hizo fotomontajes y fotografías.[1] Nació en Chemnitz en 1893 y murió en Kirchberg (Sajonia) en 1983.[1]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía «Brandt, Marianne»",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-145",
+     "checks": "nacida el 1-10-1893 en Chemnitz y muerta el 18-6-1983 en Kirchberg (Sajonia); formación en pintura (Mackensen, Weise) en la escuela de bellas artes de Weimar; entra a la Bauhaus de Weimar en 1923, curso preliminar con Albers y Moholy-Nagy; taller de metal con Moholy-Nagy; «Leiterin der Metallwerkstatt» de mayo de 1928 al 1-7-1929; en la oficina de Gropius de julio a diciembre de 1929; luego dirige hasta 1932 el diseño del Ruppelwerk de Gotha; lámparas para producción en serie desde 1928 con Körting & Mathiesen y con Hin Bredendieck; numerosas fotografías y fotomontajes. ⚠ no dice que fuera la primera mujer del taller.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Marianne Brandt, «Teapot», 1924",
+     "url": "https://www.moma.org/collection/works/2438",
+     "checks": "Moholy-Nagy, maestro de forma del taller de metal desde 1923, la animó a trabajar el metal cuando casi todas las alumnas eran relegadas al textil; deja la Bauhaus en 1929; sus lámparas se fabricaron en serie.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Met, Marianne Brandt, «Tea Infuser and Strainer», ca. 1924",
+     "url": "https://www.metmuseum.org/art/collection/search/491299",
+     "checks": "infusor de té de hacia 1924, plata y ébano, pieza pequeña. ⚠ da como fechas «Chemnitz 1893–1984 Kirchberg» (año de muerte distinto).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Marianne Brandt y Hin Bredendieck, «Kandem Bedside Table Lamp», 1928",
+     "url": "https://www.moma.org/collection/works/2463",
+     "checks": "lámpara Kandem de 1928 de Brandt y Hin Bredendieck, fabricada por Körting & Mathiesen, Leipzig.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "wagenfeld",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1900,
+   "died": 1990,
+   "dates": "1900–1990",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Wilhelm Wagenfeld",
+   "movements": [
+    "bauhaus-movement"
+   ],
+   "institutions": [
+    "inst-bauhaus"
+   ],
+   "key": "German designer trained in the Bauhaus metal workshop who became a pioneer of well-designed, mass-produced household glass and metalware.[1][2]",
+   "more": "As a student in the metal workshop in 1923–24 he designed, with Karl J. Jucker, the glass and metal table lamp later known as the Wagenfeld lamp.[2][3] He then taught at the Bauhaus’s successor school in Weimar.[1][2] From 1935 he was artistic director of the Lausitz glassworks,[1][4] where he designed the stackable Kubus storage containers (1938).[4][5] He refused to join the Nazi party and was later sent to the Eastern Front (the NDB gives 1944; other sources differ).[1] Born in Bremen in 1900, he died in Stuttgart in 1990.[1][2]",
+   "wiki": "Wilhelm_Wagenfeld",
+   "es": {
+    "dates": "1900–1990",
+    "key": "Diseñador alemán formado en el taller de metal de la Bauhaus que fue pionero del vidrio y el metal domésticos bien diseñados y fabricados en serie.[1][2]",
+    "more": "Como estudiante del taller de metal, en 1923–24 diseñó con Karl J. Jucker la lámpara de mesa de vidrio y metal luego conocida como lámpara Wagenfeld.[2][3] Después enseñó en la escuela sucesora de la Bauhaus en Weimar.[1][2] Desde 1935 fue director artístico de las vidrierías de Lusacia,[1][4] donde diseñó los recipientes apilables Kubus (1938).[4][5] Se negó a afiliarse al partido nazi y fue enviado después al frente oriental (la NDB da 1944; otras fuentes difieren).[1] Nació en Bremen en 1900 y murió en Stuttgart en 1990.[1][2]"
+   },
+   "short": "Wagenfeld",
+   "refs": [
+    {
+     "label": "Neue Deutsche Biographie (Deutsche Biographie), «Wagenfeld, Wilhelm»",
+     "url": "https://www.deutsche-biographie.de/pnd118770594.html",
+     "checks": "nacido el 15-4-1900 en Bremen y muerto el 28-5-1990 en Stuttgart; taller de metal de la Bauhaus con Moholy-Nagy desde 1923; sus diseños, «incunables de la modernidad industrial»; desde 1926 primeros tipos para producción en serie en el taller de metal de Weimar; director artístico de las Vereinigte Lausitzer Glaswerke desde 1935; su negativa a entrar al NSDAP llevó a que lo enviaran al frente oriental en 1944; prisionero de guerra en 1945.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía «Wagenfeld, Wilhelm»",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-Wagenfeld-Wilhelm-1349",
+     "checks": "fechas 15-4-1900 Bremen – 28-5-1990 Stuttgart; Bauhaus 1922–1925, taller de metal; lámpara de 1924; asistente y luego director del taller de metal de la Staatliche Hochschule für Handwerk und Baukunst de Weimar (1928), hasta 1930; director artístico en Weißwasser 1935–1947; servicio militar en 1944.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Wilhelm Wagenfeld y Carl Jakob Jucker, «Table lamp», 1923–1924",
+     "url": "https://www.moma.org/collection/works/4056",
+     "checks": "lámpara de mesa de Wagenfeld y Jucker, 1923–24, metal cromado y vidrio, del taller de metal de la Bauhaus reorganizado por Moholy-Nagy.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Wilhelm Wagenfeld Stiftung, «Biografie 1931–1946»",
+     "url": "https://wilhelm-wagenfeld-stiftung.de/wilhelm_wagenfeld/biografie_1900_1930/biografie_1931_1946/",
+     "checks": "dirección artística de las Vereinigte Lausitzer Glaswerke de Weißwasser desde 1935; Vorratsgeschirr «Kubus» 1938/39; llamado al servicio militar en 1942 y de nuevo en 1944; prisión estadounidense y luego rusa en 1945. ⚠ no menciona la negativa a afiliarse al partido.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, «Kubus-Geschirr» storage container, C.63-1993",
+     "url": "https://collections.vam.ac.uk/item/O249831/kubus-geschirr-storage-container-wagenfeld-wilhelm/",
+     "checks": "diseñado en 1938 por Wagenfeld para las Vereinigte Lausitzer Glaswerke; vidrio prensado; recipientes apilables en juego.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "eileen-gray",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1878,
+   "died": 1976,
+   "dates": "1878–1976",
+   "countries": [
+    "FR",
+    "IE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Eileen Gray",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Irish designer and architect in Paris who moved from luxury lacquer to modern furniture and built the house E-1027.[1][2]",
+   "more": "From 1906 she worked in Paris with the Japanese lacquer craftsman Seizo Sugawara, making lacquer furniture,[1][2] and in 1922 she opened the gallery Jean Désert in Paris.[1][2] Largely self-taught as an architect,[1] she built the house E-1027 at Roquebrune-Cap-Martin (1926–29) with Jean Badovici,[2][3] with furniture such as the E-1027 table and the Bibendum chair,[1][2] and then, in the early 1930s, her own house, Tempe à Pailla.[1][2] Le Corbusier later painted murals in E-1027 without her consent,[2] and her authorship was long overshadowed.[1][2] Born near Enniscorthy, Ireland, in 1878, she died in Paris in 1976.[1]",
+   "wiki": "Eileen_Gray",
+   "es": {
+    "dates": "1878–1976",
+    "key": "Diseñadora y arquitecta irlandesa en París que pasó de la laca de lujo al mueble moderno y construyó la casa E-1027.[1][2]",
+    "more": "Desde 1906 trabajó en París con el artesano japonés de la laca Seizo Sugawara, haciendo muebles de laca,[1][2] y en 1922 abrió la galería Jean Désert en París.[1][2] Arquitecta en gran parte autodidacta,[1] construyó la casa E-1027 en Roquebrune-Cap-Martin (1926–29) con Jean Badovici,[2][3] con muebles como la mesa E-1027 y el sillón Bibendum,[1][2] y luego, a comienzos de los años treinta, su propia casa, Tempe à Pailla.[1][2] Más tarde Le Corbusier pintó murales en la E-1027 sin su consentimiento,[2] y su autoría quedó por mucho tiempo opacada.[1][2] Nació cerca de Enniscorthy (Irlanda) en 1878 y murió en París en 1976.[1]"
+   },
+   "refs": [
+    {
+     "label": "Design Museum (Londres), «Eileen Gray»",
+     "url": "https://designmuseum.org/designers/eileen-gray",
+     "checks": "nacida en 1878 cerca de Enniscorthy (Wexford, Irlanda); muerta el 31-10-1976 en París; desde 1906 trabajó con el lacador japonés Seizo Sugawara en París; galería Jean Désert abierta en 1922 (cerrada en 1930); arquitecta en gran parte autodidacta, colaboró con Badovici desde 1924; E-1027 (1927–29); Tempe à Pailla (1932); sillón Bibendum y mesa E-1027; «relegada a la oscuridad» la mayor parte de su carrera.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AWARE – Archives of Women Artists, «Eileen Gray»",
+     "url": "https://awarewomenartists.com/en/artiste/eileen-gray/",
+     "checks": "1878–1976 (muerte en París); estudió con Seizo Sugawara desde 1906 y compartieron taller (biombo Le Destin, 1914); Jean Désert en 1922; E-1027 construida en 1926–29 en Roquebrune-Cap-Martin con Jean Badovici; Tempe à Pailla en Menton, 1931; Le Corbusier pintó murales en la E-1027 en 1937 sin su permiso, lo que ella vio como vandalismo; sillón Bibendum; obra ignorada hasta los años setenta.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre des monuments nationaux, Cap Moderne, «History of Cap Moderne: Eileen Gray and Le Corbusier at Cap Martin»",
+     "url": "https://capmoderne.monuments-nationaux.fr/en/discover/history-of-cap-moderne-eileen-gray-and-le-corbusier-at-cap-martin",
+     "checks": "Gray y Badovici encuentran el terreno de Cap Martin en 1925; E-1027 terminada en 1929. ⚠ dice que Le Corbusier pintó los muros «con el acuerdo de su anfitrión» (Badovici), sin mencionar a Gray.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "perriand",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1903,
+   "died": 1999,
+   "dates": "1903–1999",
+   "countries": [
+    "FR",
+    "JP"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Charlotte Perriand",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "French designer who led furniture and interiors in Le Corbusier’s studio from 1927 to 1937 and co-designed its tubular-steel classics.[1][2][3]",
+   "more": "After studying decorative arts in Paris,[2] she showed a metal ‘bar under the roof’ at the 1927 Salon d’Automne and joined Le Corbusier’s studio.[1][2] There, with Le Corbusier and Pierre Jeanneret, she co-designed the 1928 chairs, including the chaise longue known as LC4 and the Grand Confort armchair.[2][3] In 1940 she went to Japan as an adviser on industrial design and was stranded in Indochina until 1946.[2] Born in Paris in 1903, she died there in 1999.[1]",
+   "wiki": "Charlotte_Perriand",
+   "es": {
+    "dates": "1903–1999",
+    "key": "Diseñadora francesa que dirigió el mobiliario y los interiores del estudio de Le Corbusier entre 1927 y 1937 y codiseñó sus clásicos de tubo de acero.[1][2][3]",
+    "more": "Tras estudiar artes decorativas en París,[2] mostró en el Salón de Otoño de 1927 un «bar bajo el techo» de metal y entró al estudio de Le Corbusier.[1][2] Allí, con Le Corbusier y Pierre Jeanneret, codiseñó los asientos de 1928, entre ellos la chaise longue conocida como LC4 y el sillón Grand Confort.[2][3] En 1940 viajó a Japón como asesora de diseño industrial y quedó retenida en Indochina hasta 1946.[2] Nació en París en 1903 y murió allí en 1999.[1]"
+   },
+   "short": "Perriand",
+   "refs": [
+    {
+     "label": "Centre Pompidou, ficha de persona «Charlotte Perriand»",
+     "url": "https://www.centrepompidou.fr/fr/ressources/personne/cKx9dgn",
+     "checks": "nacida en París en 1903 y muerta en París en 1999; en 1927, tras su participación con el «Bar sous le toit» en el Salón de Otoño, se vuelve asociada de Le Corbusier y Pierre Jeanneret; viaje a Japón como consejera de artes industriales; regreso hacia 1946.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, dossier pedagógico «Charlotte Perriand»",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-perriand/ENS-perriand.htm",
+     "checks": "estudios en la Union centrale des arts décoratifs; «Bar sous le toit», mobiliario metálico, Salón de Otoño de 1927; asociada en el taller de Le Corbusier y Jeanneret (da 1928–1937); sillón Grand Confort y chaise longue; 1940 «conseillère de l’art industriel» en Japón; tras la entrada de Japón en la guerra pasa a Indochina; regresa a Francia en 1946. ⚠ da 1928 como año de ingreso, no 1927.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Chaise longue, Le Corbusier, Pierre Jeanneret, Charlotte Perriand, 1928»",
+     "url": "https://www.fondationlecorbusier.fr/oeuvre-mobilier/chaise-longue-le-corbusier-pierre-jeanneret-charlotte-perriand-1928/",
+     "checks": "chaise longue de 1928 de Le Corbusier, Jeanneret y Perriand; serie con el fauteuil grand confort; expuesta en el Salón de Otoño de 1929; editada por Thonet en 1930.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "loewy",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "born": 1893,
+   "died": 1986,
+   "dates": "1893–1986",
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Raymond Loewy",
+   "movements": [
+    "streamline-moderne"
+   ],
+   "institutions": [],
+   "key": "French-born American industrial designer who made streamlined styling a selling tool, from duplicators to refrigerators and locomotives.[1][3]",
+   "more": "After serving in the French army in the First World War, he arrived in New York in 1919 and worked as a window dresser and fashion illustrator.[1][3] His first industrial commission was the redesign of the Gestetner duplicator in 1929.[2] In the 1930s he designed the Sears Coldspot refrigerator and locomotives for the Pennsylvania Railroad, and in the early 1940s the Lucky Strike pack.[1][3] He became an American citizen in 1938.[4] Born in Paris in 1893, he died in Monaco in 1986.[1]",
+   "wiki": "Raymond_Loewy",
+   "es": {
+    "dates": "1893–1986",
+    "key": "Diseñador industrial estadounidense de origen francés que hizo del estilo aerodinámico una herramienta de venta, de duplicadoras a refrigeradores y locomotoras.[1][3]",
+    "more": "Tras servir en el ejército francés en la Primera Guerra Mundial, llegó a Nueva York en 1919 y trabajó como decorador de vitrinas e ilustrador de moda.[1][3] Su primer encargo industrial fue el rediseño de la duplicadora Gestetner en 1929.[2] En los años treinta diseñó el refrigerador Coldspot de Sears y locomotoras para el Pennsylvania Railroad, y a comienzos de los cuarenta el paquete de Lucky Strike.[1][3] Se nacionalizó estadounidense en 1938.[4] Nació en París en 1893 y murió en Mónaco en 1986.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Raymond Loewy»",
+     "url": "https://www.britannica.com/biography/Raymond-Loewy",
+     "checks": "nacimiento (5 nov. 1893, París) y muerte (14 jul. 1986, Mónaco); servicio en el ejército francés en la Primera Guerra Mundial; llegada a EE. UU. en 1919; ilustrador de moda (Vogue) y vitrinas de grandes tiendas de Nueva York; refrigerador de Sears de 1934; locomotoras y coches para el Pennsylvania Railroad; envase de Lucky Strike (sin año); estilo aerodinámico",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Hagley Museum and Library, «Gestetner Cyclostyle office duplication machine design by Raymond Loewy»",
+     "url": "https://www.hagley.org/librarynews/gestetner-cyclostyle-office-duplication-machine-design-raymond-loewy",
+     "checks": "rediseño de la carcasa de la Gestetner en 1929; su primer proyecto comercial de diseño industrial",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "EBSCO Research Starters, «Loewy Pioneers American Industrial Design»",
+     "url": "https://www.ebsco.com/research-starters/history/loewy-pioneers-american-industrial-design",
+     "checks": "ejército francés (de soldado a capitán); llegada a Nueva York en 1919; ilustrador de revistas de moda y diseñador de vitrinas; Coldspot de Sears (1934); locomotoras GG-1 (1934) y S-1 (1938) del Pennsylvania Railroad; nuevo envase rojo y blanco de Lucky Strike, que fecha en 1941 (⚠ fuente secundaria; el texto decía 1940)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AACA Museum, «Raymond Loewy: A Retrospective»",
+     "url": "https://www.aacamuseum.org/exhibit/raymond-loewy-a-retrospective/",
+     "checks": "se nacionalizó estadounidense en 1938; fechas 5 nov. 1893 – 14 jul. 1986",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "bel-geddes",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1893,
+   "died": 1958,
+   "dates": "1893–1958",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Norman Bel Geddes",
+   "movements": [
+    "streamline-moderne"
+   ],
+   "institutions": [],
+   "key": "American stage designer turned industrial designer, the great visionary and publicist of streamlining.[1][4]",
+   "more": "He designed sets for the Metropolitan Opera and more than a hundred theatre productions before opening an industrial design office in 1927.[1][2] His book Horizons (1932) presented streamlined cars, ocean liners and giant airliners.[3][4] His Futurama for General Motors at the 1939 New York World’s Fair, a huge model of America around 1960, was one of the fair’s most popular exhibits.[2][4] He trained Henry Dreyfuss.[5] Born in Adrian, Michigan, in 1893, he died in New York in 1958.[2]",
+   "wiki": "Norman_Bel_Geddes",
+   "es": {
+    "dates": "1893–1958",
+    "key": "Escenógrafo estadounidense convertido en diseñador industrial, el gran visionario y propagandista de la aerodinámica.[1][4]",
+    "more": "Diseñó escenografías para la Metropolitan Opera y para más de cien obras de teatro antes de abrir una oficina de diseño industrial en 1927.[1][2] Su libro Horizons (1932) presentó autos y transatlánticos aerodinámicos y enormes aviones de pasajeros.[3][4] Su Futurama para General Motors en la Feria Mundial de Nueva York de 1939, una gran maqueta de Estados Unidos hacia 1960, fue una de las muestras más populares de la feria.[2][4] Formó a Henry Dreyfuss.[5] Nació en Adrian, Michigan, en 1893 y murió en Nueva York en 1958.[2]"
+   },
+   "short": "Bel Geddes",
+   "refs": [
+    {
+     "label": "Harry Ransom Center, Norman Bel Geddes Theater and Industrial Design Papers, nota biográfica",
+     "url": "https://research.hrc.utexas.edu/fasearch/html/belgeddes.bio.html",
+     "checks": "fechas 1893–1958; más de cien obras de teatro, cine y espectáculos «de la ópera al circo»; The Miracle (1924); comenzó su trabajo de diseño industrial en 1927; su oficina trabajó en Futurama para General Motors en la Feria de 1939",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Norman Bel Geddes»",
+     "url": "https://www.britannica.com/biography/Norman-Bel-Geddes",
+     "checks": "nacimiento (27 abr. 1893, Adrian, Michigan) y muerte (8 may. 1958, Nueva York); escenografías para la Metropolitan Opera (1918); Futurama de General Motors en la Feria de Nueva York (1939–40)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Harry Ransom Center, Norman Bel Geddes Database, Job 237: Horizons",
+     "url": "https://research.hrc.utexas.edu/NBGPublic/details.cfm?id=203",
+     "checks": "Horizons publicado por Little, Brown en noviembre de 1932; autos voladores aerodinámicos, aviones tan grandes como hoteles aéreos, transatlánticos para 2.000 personas, aeropuertos flotantes (⚠ no menciona trenes)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Harry Ransom Center, comunicado «I Have Seen the Future» (2012)",
+     "url": "https://www.hrc.utexas.edu/press/releases/2012/i-have-seen-the-future.html",
+     "checks": "popularizó el estilo aerodinámico con Horizons (1932); Futurama, una de las atracciones más populares de la feria; maqueta inmensa de Estados Unidos hacia 1960, vista por 27.500 personas al día",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Industrial Designers Society of America, perfil «Henry Dreyfuss, FIDSA»",
+     "url": "https://www.idsa.org/profile/henry-dreyfuss/",
+     "checks": "Dreyfuss terminó en 1924 su formación como aprendiz de Norman Bel Geddes",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "dreyfuss",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1904,
+   "died": 1972,
+   "dates": "1904–1972",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Henry Dreyfuss",
+   "movements": [
+    "streamline-moderne"
+   ],
+   "institutions": [],
+   "key": "American industrial designer who put the user’s body and comfort at the centre of design, from telephones to locomotives.[1][2]",
+   "more": "He trained in stage design with Norman Bel Geddes and opened his own office in 1929.[1][2] His desk telephone for Bell, introduced in 1937, his Hoover vacuum cleaner (1936) and the streamlined Hudson locomotive of the 20th Century Limited (1938) made him famous.[1][2] He designed the Democracity exhibit at the 1939 New York World’s Fair, and after the war he pioneered the use of human measurements in design.[1][2] Born in New York in 1904, he died in South Pasadena, California, in 1972.[2]",
+   "wiki": "Henry_Dreyfuss",
+   "es": {
+    "dates": "1904–1972",
+    "key": "Diseñador industrial estadounidense que puso el cuerpo y la comodidad de quien usa en el centro del diseño, de los teléfonos a las locomotoras.[1][2]",
+    "more": "Se formó en escenografía con Norman Bel Geddes y abrió su propia oficina en 1929.[1][2] Su teléfono de escritorio para Bell, lanzado en 1937, su aspiradora Hoover (1936) y la locomotora aerodinámica Hudson del 20th Century Limited (1938) lo hicieron famoso.[1][2] Diseñó la muestra Democracity para la Feria Mundial de Nueva York de 1939, y después de la guerra fue pionero en usar medidas humanas en el diseño.[1][2] Nació en Nueva York en 1904 y murió en South Pasadena, California, en 1972.[2]"
+   },
+   "refs": [
+    {
+     "label": "Industrial Designers Society of America, perfil «Henry Dreyfuss, FIDSA»",
+     "url": "https://www.idsa.org/profile/henry-dreyfuss/",
+     "checks": "aprendiz de Norman Bel Geddes hasta 1924; abrió su oficina en 1929; teléfono modelo 300 de Bell (1937); aspiradora Hoover Model 150 (1936); locomotoras del Twentieth Century Limited (1938); Democracity en la Perisfera de la Feria de 1939; The Measure of Man (1960), datos ergonómicos",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Henry Dreyfuss»",
+     "url": "https://www.britannica.com/biography/Henry-Dreyfuss",
+     "checks": "nacimiento (2 mar. 1904, Nueva York) y muerte (5 oct. 1972, South Pasadena, California); oficina en 1929; trabajo para Bell desde 1930; aspiradoras Hoover y locomotora J-3 Hudson; Designing for People (1955) y The Measure of Man (1960)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "porsche",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1875,
+   "died": 1951,
+   "dates": "1875–1951",
+   "countries": [
+    "AT",
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Ferdinand Porsche",
+   "movements": [],
+   "institutions": [],
+   "key": "Austrian-German automotive engineer whose design office developed the Volkswagen for the Nazi regime.[1][2]",
+   "more": "Born in Maffersdorf, Bohemia, in 1875, he was chief designer at Austro-Daimler and technical director at Daimler before opening his own engineering office in Stuttgart in 1931.[1][2][3] In 1934 Hitler commissioned from him a ‘people’s car’; his team, including Karl Rabe and the body designer Erwin Komenda, developed the KdF-Wagen, drawing, according to Porsche, on the office’s earlier small cars for Zündapp and NSU.[1][3][4] He joined the Nazi party and the SS, built military vehicles and used forced labour; he was imprisoned in France after the war.[1][2][4] He died in Stuttgart in 1951.[2]",
+   "wiki": "Ferdinand_Porsche",
+   "es": {
+    "dates": "1875–1951",
+    "key": "Ingeniero automotriz austro-alemán cuya oficina de diseño desarrolló el Volkswagen para el régimen nazi.[1][2]",
+    "more": "Nacido en Maffersdorf, Bohemia, en 1875, fue jefe de diseño de Austro-Daimler y director técnico de Daimler antes de abrir su propia oficina de ingeniería en Stuttgart en 1931.[1][2][3] En 1934 Hitler le encargó un «auto del pueblo»; su equipo, con Karl Rabe y el diseñador de carrocerías Erwin Komenda, desarrolló el KdF-Wagen a partir, según Porsche, de los autos pequeños que la oficina había hecho antes para Zündapp y NSU.[1][3][4] Se afilió al partido nazi y a las SS, construyó vehículos militares y usó trabajo forzado; tras la guerra estuvo preso en Francia.[1][2][4] Murió en Stuttgart en 1951.[2]"
+   },
+   "short": "Porsche",
+   "refs": [
+    {
+     "label": "Deutsches Patent- und Markenamt (DPMA), «Ferdinand Porsche» (serie Milestones)",
+     "url": "https://www.dpma.de/english/our_office/publications/milestones/automobiles/ferdinandporsche/index.html",
+     "checks": "nacimiento (3 sept. 1875, Maffersdorf, Bohemia); jefe de diseño de Austro-Daimler (1906–1923) y director técnico de Daimler-Motoren-Gesellschaft en Stuttgart; empresa propia en 1931; encargo de Hitler del Volkswagen en 1934; ciudadanía alemana, afiliación al NSDAP y a las SS (con rango de general); pidió trabajadores forzados para la Volkswagenwerk sabiendo sus condiciones (⚠ no da el año de afiliación)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Ferdinand Porsche»",
+     "url": "https://www.britannica.com/biography/Ferdinand-Porsche",
+     "checks": "nacimiento en Maffersdorf (1875) y muerte en Stuttgart (30 ene. 1951); Austro-Daimler y Daimler (1923); firma propia en 1931; diseño inicial del Volkswagen en 1934; vehículos militares (tanque Tiger); preso de los franceses tras la guerra",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Porsche Newsroom, Christophorus 398, «How It All Began» (2021)",
+     "url": "https://newsroom.porsche.com/christophorus/en/2021/398/ferdinand-porsche-engineering.html",
+     "checks": "oficina inscrita en Stuttgart el 25 abr. 1931; Karl Rabe, ingeniero jefe; Erwin Komenda, carrocerías; Tipo 12 para Zündapp (1932) y Tipo 32 para NSU como antecedentes; encargo del Volkswagen en 1934 (⚠ fuente de la empresa)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Volkswagen Group, Chronicle «1937 to 1945»",
+     "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1937-to-1945-founding-of-the-company-and-integration-into-the-war-economy-17354",
+     "checks": "Hitler bautiza el auto de Porsche como «KdF-Wagen» (1938); Porsche, director de la empresa; vehículos militares (Kübelwagen); uso creciente de trabajo forzado desde 1940",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "buckminster-fuller",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1895,
+   "died": 1983,
+   "dates": "1895–1983",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Buckminster Fuller",
+   "movements": [],
+   "institutions": [
+    "inst-black-mountain"
+   ],
+   "key": "American inventor and designer who imagined houses and vehicles as light, efficient industrial products under the name Dymaxion.[1][2]",
+   "more": "After a building business failed in 1927, he designed the Dymaxion House (1927–29), a factory-made dwelling hung from a central mast, and in 1933 the three-wheeled Dymaxion car.[1][2][3][4] In the 1930s he also designed a prefabricated bathroom, and in 1943 a world map.[1][2][5][7] After the war he developed the geodesic dome, which he first tried to build with students at Black Mountain College in 1948.[1][6][7] Born in Milton, Massachusetts, in 1895, he died in Los Angeles in 1983.[1]",
+   "wiki": "Buckminster_Fuller",
+   "es": {
+    "dates": "1895–1983",
+    "key": "Inventor y diseñador estadounidense que imaginó casas y vehículos como productos industriales livianos y eficientes bajo el nombre Dymaxion.[1][2]",
+    "more": "Tras la quiebra de un negocio de construcción en 1927, diseñó la Casa Dymaxion (1927–29), una vivienda fabricada en serie y colgada de un mástil central, y en 1933 el auto Dymaxion de tres ruedas.[1][2][3][4] En los años treinta diseñó además un baño prefabricado, y en 1943 un mapa del mundo.[1][2][5][7] Después de la guerra desarrolló la cúpula geodésica, que intentó levantar por primera vez con estudiantes del Black Mountain College en 1948.[1][6][7] Nació en Milton, Massachusetts, en 1895 y murió en Los Ángeles en 1983.[1]"
+   },
+   "short": "Fuller",
+   "refs": [
+    {
+     "label": "Buckminster Fuller Institute, «Biography»",
+     "url": "https://www.bfi.org/about-fuller/biography/",
+     "checks": "nacimiento (12 jul. 1895, Milton, Massachusetts) y muerte (1 jul. 1983, Los Ángeles); quiebra de la empresa de construcción en 1927; Casa Dymaxion barata, fabricada en serie y transportable por aire; auto Dymaxion de tres ruedas; baño Dymaxion prefabricado; mapa Dymaxion (patente 1946); cúpula geodésica después de 1947",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "TIME, «Design: The Dymaxion American» (archivo, 1964)",
+     "url": "https://time.com/archive/6813253/design-the-dymaxion-american/",
+     "checks": "habitaciones colgadas de un mástil central; casa fabricada en serie; tres prototipos del auto Dymaxion entre 1933 y 1935; baño Dymaxion desarrollado con Phelps Dodge (⚠ fuente periodística; sin año del baño)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, R. Buckminster Fuller, «Prefabricated Dymaxion Bathroom» (Inventions: Twelve Around One, 1981)",
+     "url": "https://www.moma.org/collection/works/493107",
+     "checks": "proyecto Casa Dymaxion fechado 1927–29 (⚠ leído en resumen automático, en la sección «Explore more»)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Lane Motor Museum, «1933 Dymaxion Replica»",
+     "url": "https://www.lanemotormuseum.org/audio-video/1933-dymaxion-replica-on-display-feb-26/",
+     "checks": "tres autos Dymaxion de tres ruedas producidos entre 1933 y 1934",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ICA Commission on Map Design, «MapCarte 49/365: Dymaxion map by R. Buckminster Fuller, 1943»",
+     "url": "https://mapdesign.icaci.org/2014/02/mapcarte-49365-dymaxion-map-by-r-buckminster-fuller-1943/",
+     "checks": "mapa Dymaxion publicado por primera vez en Life, 1 mar. 1943",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Black Mountain College Museum + Arts Center, «R. Buckminster Fuller»",
+     "url": "https://www.blackmountaincollege.org/buckminster-fuller/",
+     "checks": "intentó levantar su cúpula geodésica en el Black Mountain College en el verano de 1948 y se desplomó («supine dome»); volvió en 1949 con estudiantes; fechas 1895 Milton – 1983 Los Ángeles",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Whitney Museum, comunicado de la exposición Buckminster Fuller (2 abr. 2008)",
+     "url": "https://whitneymedia.org/assets/generic_file/698/april_2_2008.pdf",
+     "checks": "trabajó en la casa y el auto Dymaxion; el baño Dymaxion se exhibió en MoMA en 1939 («Art in Our Time»); en 1949 levantó la primera cúpula geodésica",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "coco-chanel",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1883,
+   "died": 1971,
+   "dates": "1883–1971",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Coco Chanel",
+   "movements": [
+    "art-deco"
+   ],
+   "institutions": [
+    "inst-chanel"
+   ],
+   "key": "French couturier who helped free women’s clothes from the corset with simple, comfortable garments in jersey.[2]",
+   "more": "Gabrielle Chanel began as a milliner[2] and opened boutiques in Deauville (1912) and Biarritz (1915), selling relaxed sportswear in jersey.[1] In 1926 American Vogue compared her little black dress to the Ford,[2] and in 1931 Samuel Goldwyn brought her to Hollywood to dress his stars.[4] She closed her salon in 1939, when France declared war on Germany.[2] During the occupation she had a relationship with Hans Günther von Dincklage and agreed to gather information for German military intelligence, the Abwehr, in exchange for her nephew’s release.[3] Her comeback collection was shown in 1953–54.[2]",
+   "wiki": "Coco_Chanel",
+   "es": {
+    "dates": "1883–1971",
+    "key": "Modista francesa que ayudó a liberar la ropa de mujer del corsé con prendas simples y cómodas de jersey.[2]",
+    "more": "Gabrielle Chanel comenzó como sombrerera[2] y abrió tiendas en Deauville (1912) y Biarritz (1915), donde vendía ropa deportiva y holgada de jersey.[1] En 1926 la Vogue estadounidense comparó su pequeño vestido negro con el Ford,[2] y en 1931 Samuel Goldwyn la llevó a Hollywood para vestir a sus estrellas.[4] Cerró su salón en 1939, cuando Francia declaró la guerra a Alemania.[2] Durante la ocupación mantuvo una relación con Hans Günther von Dincklage y aceptó reunir información para la inteligencia militar alemana, la Abwehr, a cambio de la liberación de su sobrino.[3] Su colección de regreso se presentó en 1953–54.[2]"
+   },
+   "refs": [
+    {
+     "label": "Chanel, «The House of Chanel: 1910s»",
+     "checks": "Boutique de Deauville en 1912, con ropa deportiva de jersey; casa de Biarritz en 1915.",
+     "date": "2026-10-03",
+     "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/"
+    },
+    {
+     "label": "Met, ensayo «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+     "checks": "La ropa de Chanel permitió dejar el corsé y liberó a las mujeres para las actividades prácticas de la guerra.",
+     "date": "2026-10-03",
+     "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel"
+    },
+    {
+     "label": "PBS, Antiques Roadshow, «Coco Chanel: Fashion Designer, Nazi Informant»",
+     "checks": "Relación con Hans Günther von Dincklage; acuerdo con la Abwehr a cambio de la liberación de su sobrino André; viaje a Madrid en 1941.",
+     "date": "2026-10-03",
+     "url": "https://www.pbs.org/wgbh/roadshow/articles/coco-chanel-fashion-designer-nazi-informant"
+    },
+    {
+     "label": "Screen Chic, «Behind the Seams: Coco Chanel and 1931’s Tonight or Never»",
+     "checks": "Contrato con Goldwyn en 1931, de un millón de dólares según se dice. ⚠ Blog especializado; buscar una fuente académica en A6.",
+     "date": "2026-10-03",
+     "url": "https://www.screenchic.com/post/behind-the-seams-coco-chanel-and-1931-s-tonight-or-never"
+    }
+   ]
+  },
+  {
+   "id": "schiaparelli",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1890,
+   "died": 1973,
+   "dates": "1890–1973",
+   "countries": [
+    "FR",
+    "IT",
+    "US"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Elsa Schiaparelli",
+   "movements": [
+    "surrealism-design"
+   ],
+   "institutions": [
+    "inst-schiaparelli"
+   ],
+   "key": "Italian couturier in Paris whose witty, Surrealist fashions made clothes a field of collaboration with avant-garde artists.[2][5]",
+   "more": "Born in Rome, she lived in the United States from 1916 to 1922 before settling in Paris.[1][2] Her trompe-l’œil sweaters of 1927 launched her house.[1][2] In the 1930s she used visible coloured zips and new synthetic materials, and worked with Salvador Dalí on the Lobster dress (1937) and the Skeleton dress (1938), and with Jean Cocteau and Alberto Giacometti.[1][2][3][4] She spent the war years in New York.[1][2] She died in Paris in 1973.[1][5]",
+   "wiki": "Elsa_Schiaparelli",
+   "es": {
+    "dates": "1890–1973",
+    "key": "Modista italiana en París cuya moda ingeniosa y surrealista hizo de la ropa un campo de colaboración con artistas de vanguardia.[2][5]",
+    "more": "Nacida en Roma, vivió en Estados Unidos de 1916 a 1922 antes de instalarse en París.[1][2] Sus suéteres en trampantojo de 1927 lanzaron su casa.[1][2] En los años treinta usó cierres de colores a la vista y nuevos materiales sintéticos, y trabajó con Salvador Dalí en el vestido langosta (1937) y el vestido esqueleto (1938), y con Jean Cocteau y Alberto Giacometti.[1][2][3][4] Pasó los años de la guerra en Nueva York.[1][2] Murió en París en 1973.[1][5]"
+   },
+   "short": "Schiaparelli",
+   "refs": [
+    {
+     "label": "V&A, «Elsa Schiaparelli: a timeline»",
+     "url": "https://www.vam.ac.uk/articles/elsa-schiaparelli-a-timeline",
+     "checks": "nacimiento en Roma, 10 sept. 1890; se traslada a Nueva York en 1916 y a París en 1922; primeras colecciones de suéteres con lazos en trampantojo (1927); Giacometti en el salón de 1935; abrigo bordado con Cocteau (1937); años de la guerra en Nueva York; muerte en París (1973)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopedia.com (Contemporary Fashion), «Elsa Schiaparelli»",
+     "url": "https://www.encyclopedia.com/people/literature-and-arts/fashion-biographies/elsa-schiaparelli",
+     "checks": "primera modista en usar cierres de colores vivos (deportiva desde 1930, vestidos de noche en 1935); materiales nuevos como el rhodophane y rayón; suéter de lazo en trampantojo (1927); diseños de Cocteau y Giacometti; Nueva York 1916–1922 y de 1940 a 1945 (⚠ fuente secundaria)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Philadelphia Museum of Art, material educativo «Shocking! The Art and Fashion of Elsa Schiaparelli»",
+     "url": "https://legacyweb.philamuseum.org/doc_downloads/education/ex_resources/schiaparelli.pdf",
+     "checks": "vestido de noche con estampado de langosta, colaboración con Dalí, verano/otoño 1937; nacimiento en Roma (1890) y muerte (1973)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, The Skeleton Dress, Elsa Schiaparelli",
+     "url": "https://collections.vam.ac.uk/item/O65687/the-skeleton-dress-evening-dress-elsa-schiaparelli/",
+     "checks": "vestido esqueleto de la colección Circus (febrero de 1938), con Dalí; cierres de plástico a la vista; Cocteau como colaborador",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Elsa Schiaparelli»",
+     "url": "https://www.britannica.com/biography/Elsa-Schiaparelli",
+     "checks": "nacimiento (10 sept. 1890, Roma) y muerte (13 nov. 1973, París); modas surrealistas de los años treinta",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "vionnet",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1876,
+   "died": 1975,
+   "dates": "1876–1975",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Madeleine Vionnet",
+   "movements": [
+    "art-deco"
+   ],
+   "institutions": [],
+   "key": "French couturier who mastered the bias cut, making dresses that follow the body without corsets or darts.[1][2][3]",
+   "more": "After working for Callot Sœurs and Jacques Doucet, she opened her house in 1912, closed it during the war and reopened it afterwards, moving to the avenue Montaigne in 1923.[1][2][3] She draped fabric on a small wooden mannequin and cut it on the bias, producing fluid dresses.[2][3] She fought against copying by registering her designs, and closed her house in 1939.[1][3] Born in Chilleurs-aux-Bois (Loiret) in 1876, she died in Paris in 1975.[1][2]",
+   "wiki": "Madeleine_Vionnet",
+   "es": {
+    "dates": "1876–1975",
+    "key": "Modista francesa que dominó el corte al bies, con vestidos que siguen el cuerpo sin corsé ni pinzas.[1][2][3]",
+    "more": "Tras trabajar para Callot Sœurs y Jacques Doucet, abrió su casa en 1912, la cerró durante la guerra y la reabrió después, trasladándose a la avenue Montaigne en 1923.[1][2][3] Drapeaba la tela sobre un pequeño maniquí de madera y la cortaba al bies, logrando vestidos fluidos.[2][3] Luchó contra las copias registrando sus diseños, y cerró su casa en 1939.[1][3] Nacida en Chilleurs-aux-Bois (Loiret) en 1876, murió en París en 1975.[1][2]"
+   },
+   "short": "Vionnet",
+   "refs": [
+    {
+     "label": "The Bowes Museum, «The Ambitious Fashion Designer» (Madeleine Vionnet)",
+     "url": "https://thebowesmuseum.org.uk/the-ambitious-fashion-designer/",
+     "checks": "nacimiento 22-6-1876 en Loiret; muerte en París en 1975; trabajo en Callot Sœurs; casa propia en 1912, cerrada en 1914 y reabierta tras la guerra; local más grande en 1923; corte al bies; luchó por leyes de derechos de autor en la moda; se retiró al estallar la Segunda Guerra Mundial. ⚠ no nombra la avenue Montaigne",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopedia.com, «Vionnet, Madeleine (1876–1975)», Women in World History",
+     "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/vionnet-madeleine-1876-1975",
+     "checks": "nacimiento en 1876 en Chilleurs-aux-Bois; Callot Sœurs y Doucet (desde 1907); casa en 1912, cerrada en la Primera Guerra y reabierta en 1918; maniquíes de madera a un cuarto de escala; corte al bies. ⚠ da el cierre definitivo en 1940",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "University of the Arts London, Exhibiting Fashion: «Madeleine Vionnet: Puriste de la Mode» (MAD, 2009)",
+     "url": "https://fashionexhibitionmaking.arts.ac.uk/madeleine-vionnet-puriste-de-la-mode-madeleine-vionnet-fashion-purist/",
+     "checks": "Callot Sœurs; Doucet (1906) y vestidos sin corsé; casa en 1912 en la rue de Rivoli; cierre en 1914 y reapertura en 1918; 50 avenue Montaigne en 1923; muñeca de madera pequeña; corte al bies en todo el vestido; álbumes fotográficos de registro de modelos; cierre de la casa en 1939. ⚠ «sin pinzas» no confirmado",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "sonia-delaunay",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion",
+    "graphic"
+   ],
+   "born": 1885,
+   "died": 1979,
+   "dates": "1885–1979",
+   "countries": [
+    "FR",
+    "ES",
+    "PT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Sonia Delaunay",
+   "movements": [
+    "art-deco"
+   ],
+   "institutions": [],
+   "key": "Ukrainian-born French artist who carried her painting of ‘simultaneous’ colour contrasts into clothing, textiles and graphic design.[1][3]",
+   "more": "Born Sara Stern in the Russian Empire, she worked in Paris with her husband Robert Delaunay on the theory of simultaneous contrast.[1][2][3] In 1913 she made a ‘simultaneous dress’ for the Bal Bullier dance hall.[3][4] During the war she lived in Spain and Portugal and opened a shop in Madrid.[1][2][4] Back in Paris in 1921 she set up her Atelier Simultané, designing fabrics and clothes, and in 1925 showed a Boutique Simultanée with the furrier Jacques Heim at the Paris exhibition.[1][2][3] She died in Paris in 1979.[1][2]",
+   "wiki": "Sonia_Delaunay",
+   "es": {
+    "dates": "1885–1979",
+    "key": "Artista francesa nacida en Ucrania que llevó su pintura de contrastes de color «simultáneos» a la ropa, los textiles y el diseño gráfico.[1][3]",
+    "more": "Nacida Sara Stern en el Imperio ruso, trabajó en París con su esposo Robert Delaunay sobre la teoría del contraste simultáneo.[1][2][3] En 1913 hizo un «vestido simultáneo» para el salón de baile Bal Bullier.[3][4] Durante la guerra vivió en España y Portugal y abrió una tienda en Madrid.[1][2][4] De vuelta en París en 1921 instaló su Atelier Simultané, donde diseñaba telas y ropa, y en 1925 presentó una Boutique Simultánea con el peletero Jacques Heim en la exposición de París.[1][2][3] Murió en París en 1979.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "AWARE – Archives of Women Artists, «Sonia Delaunay»",
+     "url": "https://awarewomenartists.com/en/artiste/sonia-delaunay/",
+     "checks": "nacimiento como Sarah Stern en 1885 en Ucrania; muerte en París en 1979; matrimonio con Robert Delaunay (1910) y orfismo; vivieron en Portugal y España 1914–1921; Casa Sonia en Madrid (1918–1921); regreso a París en 1921; taller Simultané (1924); exposición de 1925",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Musée d'Art Moderne de Paris, dossier de prensa «Sonia Delaunay. Les couleurs de l'abstraction» (2014), cronología",
+     "url": "https://www.mam.paris.fr/sites/default/files/documents/dp_delaunay_0.pdf",
+     "checks": "nacimiento de Sara Élievna Stern en 1885 (Odesa según esta cronología); muerte en París el 5-12-1979; Madrid 1914 y Portugal 1915; Casa Sonia en Madrid 1918; regreso definitivo a Francia en 1921; atelier Simultané en 1924; boutique Simultané con el peletero Heim en la exposición de 1925",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopedia.com, «Delaunay, Sonia», Encyclopedia of Clothing and Fashion",
+     "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/delaunay-sonia",
+     "checks": "pinturas «Contrastes simultanés» (1912); primeros vestidos simultáneos en 1913 para el Bal Bullier; Casa Sonia en España; regreso a París en 1921; Atelier Simultané (lo fecha al año siguiente, 1922); Boutique Simultané con el peletero Jacques Heim en la exposición de 1925. ⚠ diseño gráfico no confirmado",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museo Nacional Thyssen-Bornemisza, «Vestidos simultáneos (Tres mujeres, formas, colores)»",
+     "url": "https://www.museothyssen.org/en/collection/artists/delaunay-sonia/simultaneous-dresses-three-women-forms-colours",
+     "checks": "primer vestido simultáneo (1913) para bailar tango en el Bal Bullier; Casa Sonia en Madrid (1919); Boutique Simultané en París (1924)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "anni-albers",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1899,
+   "died": 1994,
+   "dates": "1899–1994",
+   "countries": [
+    "DE",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Anni Albers",
+   "movements": [
+    "bauhaus-movement"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-black-mountain"
+   ],
+   "key": "German-American textile artist who turned Bauhaus weaving into a field of research on structure, material and function.[1][2]",
+   "more": "Born Annelise Fleischmann in Berlin in 1899, she entered the Bauhaus in 1922 and joined the weaving workshop in 1923.[1][2] For her diploma, awarded in 1930, she made a sound-absorbing, light-reflecting wall covering of cellophane and cotton for the trade union school in Bernau designed by Hannes Meyer.[1][2] She ran the workshop briefly in 1931.[1][2] In November 1933 she emigrated to the United States with her husband Josef Albers, who had been hired to teach at Black Mountain College.[1][2] She died in Orange, Connecticut, in 1994.[1][2]",
+   "wiki": "Anni_Albers",
+   "es": {
+    "dates": "1899–1994",
+    "key": "Artista textil germano-estadounidense que convirtió el tejido de la Bauhaus en un campo de investigación sobre estructura, material y función.[1][2]",
+    "more": "Nacida Annelise Fleischmann en Berlín en 1899, entró a la Bauhaus en 1922 y se incorporó al taller de tejido en 1923.[1][2] Para su diploma, otorgado en 1930, hizo un revestimiento mural de celofán y algodón que absorbía el sonido y reflejaba la luz, para la escuela sindical de Bernau proyectada por Hannes Meyer.[1][2] Dirigió brevemente el taller en 1931.[1][2] En noviembre de 1933 emigró a Estados Unidos con su esposo Josef Albers, contratado para enseñar en el Black Mountain College.[1][2] Murió en Orange, Connecticut, en 1994.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Josef and Anni Albers Foundation, Chronology",
+     "url": "https://www.albersfoundation.org/alberses/chronology",
+     "checks": "nombre de nacimiento Annelise Fleischmann; nacimiento 12 jun. 1899 en Berlín-Charlottenburg; muerte 9 may. 1994 en Orange, Connecticut; entrada a la Bauhaus (21 abr. 1922); taller de tejido desde 1923; diploma en 1930 por el revestimiento mural del auditorio de Bernau; directora interina del taller en otoño de 1931; llegada a Nueva York el 24 nov. 1933. ⚠ No dice que las mujeres fueran encaminadas al tejido.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Anni Albers",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-11",
+     "checks": "fechas y lugares de nacimiento y muerte; entrada en 1922 (Weimar); taller de tejido desde 1923; diploma de 1930: cortina de algodón y celofán que absorbe el sonido y refleja la luz, para el auditorio de la escuela sindical de Hannes Meyer en Bernau; asume la dirección del taller en 1931 al irse Gunta Stölzl; emigración en 1933 a EE. UU., con Josef Albers contratado por el Black Mountain College. ⚠ La caracterización de la key («campo de investigación sobre estructura, material y función») es interpretativa y no aparece literal.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "gunta-stolzl",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1897,
+   "died": 1983,
+   "dates": "1897–1983",
+   "countries": [
+    "DE",
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Gunta Stölzl",
+   "movements": [
+    "bauhaus-movement"
+   ],
+   "institutions": [
+    "inst-bauhaus"
+   ],
+   "key": "German weaver who led the Bauhaus weaving workshop and was the only woman named a Bauhaus ‘young master’.[1]",
+   "more": "She volunteered as a Red Cross nurse in 1917 and entered the Bauhaus in Weimar in autumn 1919.[1] After serving as technical director of the weaving workshop in Dessau from 1925, she became its head in 1927 and its ‘young master’ in 1928,[1] turning it toward fabrics for industrial production as well as unique tapestries. In 1931 she had to leave the Bauhaus because of an intrigue inside the weaving workshop;[1] she then founded a hand-weaving business in Zurich.",
+   "wiki": "Gunta_Stölzl",
+   "es": {
+    "dates": "1897–1983",
+    "key": "Tejedora alemana que dirigió el taller de tejido de la Bauhaus y fue la única mujer nombrada «joven maestra» de la Bauhaus.[1]",
+    "more": "Fue enfermera voluntaria de la Cruz Roja en 1917 y entró a la Bauhaus de Weimar en el otoño de 1919.[1] Tras ser directora técnica del taller de tejido de Dessau desde 1925, fue su jefa en 1927 y su «joven maestra» en 1928,[1] y lo orientó hacia telas para la producción industrial además de tapices únicos. En 1931 tuvo que dejar la Bauhaus por una intriga dentro del taller de tejido;[1] luego fundó un taller de tejido a mano en Zúrich."
+   },
+   "refs": [
+    {
+     "label": "AWARE, «Gunta Stölzl»",
+     "checks": "Enfermera de la Cruz Roja en 1917; Bauhaus desde el otoño de 1919; jefa del taller en 1927 y Jungmeister en 1928; salida en 1931 por una intriga en el taller. ⚠ Dessau 1925 y Zúrich no se leyeron en esta fuente (A6).",
+     "date": "2026-10-03",
+     "url": "https://awarewomenartists.com/en/artiste/gunta-stolzl/"
+    }
+   ]
+  },
+  {
+   "id": "ferragamo",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1898,
+   "died": 1960,
+   "dates": "1898–1960",
+   "countries": [
+    "IT",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Salvatore Ferragamo",
+   "movements": [],
+   "institutions": [],
+   "key": "Italian shoemaker who made shoes for Hollywood stars and invented the cork wedge heel when steel was scarce under Fascism.[1]",
+   "more": "Born in Bonito, near Naples, in 1898, he emigrated to the United States in 1914 and opened the Hollywood Boot Shop, making shoes for films and stars and studying anatomy to make them comfortable.[1] Back in Italy in 1927 he set up a workshop in Florence.[1] Under the sanctions and autarky of the mid-1930s he replaced the steel arch support with cork, creating the wedge heel (patented in 1937), and in 1938 made the Rainbow platform sandal for Judy Garland.[1][2]",
+   "wiki": "Salvatore_Ferragamo",
+   "es": {
+    "dates": "1898–1960",
+    "key": "Zapatero italiano que hizo zapatos para las estrellas de Hollywood e inventó el taco de cuña de corcho cuando el acero escaseaba bajo el fascismo.[1]",
+    "more": "Nacido en Bonito, cerca de Nápoles, en 1898, emigró a Estados Unidos en 1914 y abrió la Hollywood Boot Shop, donde hacía zapatos para películas y estrellas y estudió anatomía para que fueran cómodos.[1] De vuelta en Italia en 1927 instaló un taller en Florencia.[1] Bajo las sanciones y la autarquía de mediados de los años treinta reemplazó la plantilla de acero por corcho, creando el taco de cuña (patentado en 1937), y en 1938 hizo la sandalia de plataforma Rainbow para Judy Garland.[1][2]"
+   },
+   "short": "Ferragamo",
+   "refs": [
+    {
+     "label": "Fondazione Ferragamo, «Salvatore Ferragamo» (biografía)",
+     "url": "https://fondazione.ferragamo.com/en/salvatore-ferragamo",
+     "checks": "nacimiento en 1898 en Bonito, cerca de Nápoles; emigró a los 16 años (≈1914); Hollywood Boot Shop en 1923 y zapatos para el cine; estudio de anatomía en USC desde 1916; regreso a Italia y Florencia en 1927; plantilla con alma de acero, sanciones de la Sociedad de las Naciones (oct. 1935), acero requisado, primera cuña de corcho (patentada en 1937); muerte en el verano de 1960 (sin lugar)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museo Ferragamo vía Google Arts & Culture, «Rainbow wedge sandal»",
+     "url": "https://artsandculture.google.com/asset/rainbow-wedge-sandal-salvatore-ferragamo/RgEoU9E-D3ZivQ?hl=en",
+     "checks": "sandalia de 1938 para Judy Garland; cabritilla, suela y taco de corcho en capas forrados de gamuza",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "lacoste",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1904,
+   "died": 1996,
+   "dates": "1904–1996",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "René Lacoste",
+   "movements": [],
+   "institutions": [],
+   "key": "French tennis champion who designed a short-sleeved knitted shirt for play and turned it into, according to the company, the first garment with a visible brand logo.[1][2]",
+   "more": "Nicknamed ‘the crocodile’, he won seven Grand Slam titles and the Davis Cup with France in 1927 and 1928.[1] According to the company, his friend Robert George embroidered a crocodile on his blazer, and he played in a light short-sleeved shirt of cotton piqué instead of the usual heavy long-sleeved shirt.[2] Retired from tennis in 1929,[1] in 1933 he founded a company with André Gillier to manufacture it, with the crocodile embroidered on the chest.[2] Born in Paris in 1904, he died in Saint-Jean-de-Luz in 1996.[1]",
+   "wiki": "René_Lacoste",
+   "es": {
+    "dates": "1904–1996",
+    "key": "Campeón de tenis francés que diseñó una camisa de punto de manga corta para jugar y la convirtió, según la empresa, en la primera prenda con el logo de la marca a la vista.[1][2]",
+    "more": "Apodado «el cocodrilo», ganó siete títulos de Grand Slam y la Copa Davis con Francia en 1927 y 1928.[1] Según la empresa, su amigo Robert George bordó un cocodrilo en su chaqueta, y jugaba con una camisa ligera de manga corta de piqué de algodón en lugar de la habitual camisa pesada de manga larga.[2] Retirado del tenis en 1929,[1] en 1933 fundó una empresa con André Gillier para fabricarla, con el cocodrilo bordado en el pecho.[2] Nacido en París en 1904, murió en Saint-Jean-de-Luz en 1996.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «René Lacoste»",
+     "url": "https://www.britannica.com/biography/Rene-Lacoste",
+     "checks": "nacimiento en París el 2-7-1904; muerte en Saint-Jean-de-Luz el 12-10-1996; apodo «el cocodrilo»; Wimbledon 1925 y 1928, Francia 1925, 1927 y 1929, EE. UU. 1926–27 (siete títulos); primera Copa Davis de Francia en 1927 y dominio posterior; retiro tras 1929; empresa de ropa con el cocodrilo",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Lacoste (corporativo), «Our History»",
+     "url": "https://corporate.lacoste.com/our-history/",
+     "checks": "según la empresa: origen del apodo (1923); Robert George bordó un cocodrilo en sus chaquetas; camisa ligera de «petit piqué»; fundación en 1933 con André Gillier; primera marca con logo visible en la prenda, en el pecho. ⚠ fuente de la marca; no nombra «La Chemise Lacoste» ni dice que Gillier fuera fabricante de punto",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "schutte-lihotzky",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1897,
+   "died": 2000,
+   "dates": "1897–2000",
+   "countries": [
+    "AT",
+    "DE",
+    "RU",
+    "TR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Margarete Schütte-Lihotzky",
+   "movements": [
+    "new-objectivity"
+   ],
+   "institutions": [
+    "inst-neues-frankfurt"
+   ],
+   "key": "Austrian architect, regarded as Austria’s first woman architect, who designed the Frankfurt Kitchen and housing for New Frankfurt.[1][2]",
+   "more": "She studied at Vienna’s School of Applied Arts from 1915 and worked for the Viennese settlers’ movement.[1][2] Ernst May brought her to Frankfurt in 1926, where she planned the Frankfurt Kitchen.[1][2] In 1930 she went with May’s team to the Soviet Union and in 1938 to Istanbul.[1][2] Back in Vienna as a member of the communist resistance against the Nazis, she was arrested in January 1941 and held until April 1945.[1][2] Born in Vienna in 1897, she died there in 2000.[1]",
+   "wiki": "Margarete_Schütte-Lihotzky",
+   "es": {
+    "dates": "1897–2000",
+    "key": "Arquitecta austriaca, considerada la primera arquitecta de Austria, que diseñó la Cocina de Frankfurt y viviendas para el Nuevo Frankfurt.[1][2]",
+    "more": "Estudió en la Escuela de Artes Aplicadas de Viena desde 1915 y trabajó para el movimiento de colonos vieneses.[1][2] Ernst May la llevó a Frankfurt en 1926, donde planificó la Cocina de Frankfurt.[1][2] En 1930 partió con el equipo de May a la Unión Soviética y en 1938 a Estambul.[1][2] De vuelta en Viena como miembro de la resistencia comunista contra los nazis, fue detenida en enero de 1941 y permaneció presa hasta abril de 1945.[1][2] Nacida en Viena en 1897, murió en la misma ciudad en 2000.[1]"
+   },
+   "short": "Schütte-Lihotzky",
+   "refs": [
+    {
+     "label": "Österreichische Nationalbibliothek, Frauen in Bewegung 1848–1938, «Schütte-Lihotzky, Margarete»",
+     "url": "https://fraueninbewegung.onb.ac.at/node/1899",
+     "checks": "nacimiento en Viena el 23-1-1897 y muerte en Viena el 18-1-2000; estudios en la k.k. Kunstgewerbeschule 1915–1919; «primera arquitecta de Austria»; movimiento de colonos de Viena; Ernst May la llevó a Frankfurt en 1926; Cocina de Frankfurt; Unión Soviética desde 1930 con arquitectos de Frankfurt; Estambul en 1938; resistencia comunista; detenida en enero de 1941, presa hasta 1945",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Universität für angewandte Kunst Wien, Collection and Archive, «Margarete Schütte-Lihotzky: Pioneering Architect. Visionary Activist.»",
+     "url": "https://kunstsammlungundarchiv.at/en/collection-art-architecture-design/projects/margarete-schuette-lihotzky-pioneering-architect-visionary-activist/",
+     "checks": "fechas 1897–2000; ingreso a la Kunstgewerbeschule en 1915; oficina de construcción de Frankfurt en 1926 y Cocina de Frankfurt; Unión Soviética en 1930; Estambul en 1938; regreso a Viena en diciembre de 1940 para la resistencia; detenida el 22-1-1941; liberada por tropas de EE. UU. el 29-4-1945",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ernst-may",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1886,
+   "died": 1970,
+   "dates": "1886–1970",
+   "countries": [
+    "DE",
+    "RU",
+    "KE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Ernst May",
+   "movements": [
+    "new-objectivity"
+   ],
+   "institutions": [
+    "inst-neues-frankfurt"
+   ],
+   "key": "German architect and planner who led the New Frankfurt housing programme and made standardised social housing a model for Europe.[1][2]",
+   "more": "After building rural housing in Silesia, he became Frankfurt’s head of city planning in 1925.[1][2] In five years his office built estates such as Römerstadt and Praunheim, hired Margarete Schütte-Lihotzky and tested prefabricated panels; in 1929 he hosted the CIAM congress on the minimum dwelling.[1][2] From 1930 to 1933 he planned new cities in the Soviet Union, and he then settled in East Africa.[1][2][3] Born in Frankfurt in 1886, he died in Hamburg in 1970.[1][2][3]",
+   "wiki": "Ernst_May",
+   "es": {
+    "dates": "1886–1970",
+    "key": "Arquitecto y urbanista alemán que dirigió el programa de vivienda del Nuevo Frankfurt e hizo de la vivienda social estandarizada un modelo para Europa.[1][2]",
+    "more": "Tras construir vivienda rural en Silesia, en 1925 pasó a ser jefe de urbanismo de Frankfurt.[1][2] En cinco años su oficina construyó conjuntos como Römerstadt y Praunheim, contrató a Margarete Schütte-Lihotzky y probó paneles prefabricados; en 1929 acogió el congreso de los CIAM sobre la vivienda mínima.[1][2] De 1930 a 1933 planificó ciudades nuevas en la Unión Soviética, y luego se instaló en África oriental.[1][2][3] Nacido en Frankfurt en 1886, murió en Hamburgo en 1970.[1][2][3]"
+   },
+   "refs": [
+    {
+     "label": "Frankfurter Personenlexikon, «May, Ernst»",
+     "url": "https://frankfurter-personenlexikon.de/node/462",
+     "checks": "nacimiento en Frankfurt el 27-7-1886 y muerte en Hamburgo el 11-9-1970; director técnico de la Schlesische Heimstätte en Breslau desde 1921; Stadtbaurat de Frankfurt desde el 1-9-1925 hasta octubre de 1930; más de 20 conjuntos y unas 15 000 viviendas; Römerstadt y Praunheim; cocinas de Schütte-Lihotzky; construcción con prefabricados de hormigón; anfitrión del II CIAM (1929) sobre la vivienda para el mínimo vital; Unión Soviética 1930–1933; Tanganica en 1934 y Kenia desde 1937. ⚠ no menciona a Landmann",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsche Biographie (NDB), «May, Ernst»",
+     "url": "https://www.deutsche-biographie.de/pnd118732218.html",
+     "checks": "nacimiento en Frankfurt (1886) y muerte en Hamburgo (1970); trabajo en Silesia 1919–1921 y Schlesische Heimstätte; nombramiento en Frankfurt en 1925 como jefe de la oficina de construcción y vivienda; cofundador del CIAM y congreso de 1929 en Frankfurt sobre la vivienda mínima; invitación soviética en 1930; África oriental 1934–1954",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Künste im Exil (Deutsche Nationalbibliothek), «Ernst May»",
+     "url": "https://kuenste-im-exil.de/KIE/Content/EN/Persons/may-ernst-en.html",
+     "checks": "nacimiento en Frankfurt el 27-7-1886 y muerte en Hamburgo el 11-9-1970; trabajo en la URSS; Tanganica (1934) y Kenia; regreso a Alemania en 1953",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "hannes-meyer",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1889,
+   "died": 1954,
+   "dates": "1889–1954",
+   "countries": [
+    "CH",
+    "DE",
+    "RU",
+    "MX"
+   ],
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "name": "Hannes Meyer",
+   "movements": [
+    "new-objectivity",
+    "bauhaus-movement"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-tgp"
+   ],
+   "key": "Swiss architect who directed the Bauhaus from 1928 to 1930 and turned it toward the needs of the people rather than luxury.[1][2]",
+   "more": "He headed the new architecture department of the Bauhaus from 1927 and succeeded Gropius as director in 1928, building the balcony-access houses of the Dessau-Törten estate and the trade union school in Bernau.[1][2] Accused of communist politics, he was dismissed in August 1930 and went to the Soviet Union with a group of former students.[1][2] From 1939 to 1949 he worked in Mexico, first in urban planning; in 1942 he set up the publishing house La Estampa Mexicana, linked to the Taller de Gráfica Popular, which he managed from 1946.[3] Born in Basel in 1889, he died in Crocifisso di Savosa, Switzerland, in 1954.[1][2]",
+   "wiki": "Hannes_Meyer",
+   "es": {
+    "dates": "1889–1954",
+    "key": "Arquitecto suizo que dirigió la Bauhaus de 1928 a 1930 y la orientó hacia las necesidades del pueblo en lugar del lujo.[1][2]",
+    "more": "Dirigió el nuevo departamento de arquitectura de la Bauhaus desde 1927 y sucedió a Gropius como director en 1928; construyó las casas de galería del barrio Dessau-Törten y la escuela sindical de Bernau.[1][2] Acusado de hacer política comunista, fue destituido en agosto de 1930 y partió a la Unión Soviética con un grupo de exestudiantes.[1][2] De 1939 a 1949 trabajó en México, primero en urbanismo; en 1942 impulsó la editorial La Estampa Mexicana, ligada al Taller de Gráfica Popular, que dirigió desde 1946.[3] Nacido en Basilea en 1889, murió en Crocifisso di Savosa (Suiza) en 1954.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de Hannes Meyer",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1437",
+     "checks": "nacimiento (18.11.1889, Basilea) y muerte (19.7.1954, Crocifisso di Savosa); jefe de arquitectura desde abril de 1927; director 1.4.1928–1.8.1930; destitución por «maquinaciones comunistas»; lema «necesidades del pueblo en vez de lujo»; casas de galería de Dessau-Törten (1929–30); escuela ADGB de Bernau (1928–30); emigración a la URSS en 1930 con un grupo de exestudiantes; Freidorf (1919–21); apoyo al TGP; regreso a Suiza en 1949",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Denkmal Bundesschule Bernau, biografía de Hannes Meyer",
+     "url": "https://www.bauhaus-denkmal-bernau.de/en/trade-union-school/unesco-world-heritage/biography-of-hannes-meyer.html",
+     "checks": "nacimiento y muerte (lugar y fecha); maestro de arquitectura 1927; director 1928–30; escuela de Bernau; Törten; despido de 1930 por diferencias políticas; viaje a la URSS con siete estudiantes; México desde 1939 (instituto de urbanismo)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "bauhaus imaginista, Raquel Franklin, «Of Art and Politics»",
+     "url": "https://www.bauhaus-imaginista.org/articles/2771/of-art-and-politics/?0bbf55ceffc3073699d40c945ada9faf=028ec0baa4862386e1bb3995ce8b4b41",
+     "checks": "llegada a México (2.6.1939) y salida (1.9.1949); Instituto de Planificación y Urbanismo del IPN, expulsión en 1941; en 1942 ideó la editorial La Estampa Mexicana; la gestionó desde 1946 (tras Georg Stibi); cooperativa ligada al Taller de Gráfica Popular",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "bruno-taut",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1880,
+   "died": 1938,
+   "dates": "1880–1938",
+   "countries": [
+    "DE",
+    "JP",
+    "TR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Bruno Taut",
+   "movements": [
+    "new-objectivity"
+   ],
+   "institutions": [
+    "inst-weissenhof"
+   ],
+   "key": "German architect who moved from visionary glass architecture to the colourful social housing estates of Berlin.[1][2]",
+   "more": "Known before the war for the Glass Pavilion at the 1914 Werkbund exhibition in Cologne, he became city architect of Magdeburg in 1921, where he had façades painted in bright colours.[1][2] As chief architect of the housing association GEHAG from 1924 he built some 12,000 dwellings in Berlin, including the Horseshoe Estate.[1][2] After a stay in the Soviet Union he fled Nazi Germany in 1933, lived in Japan and died in Istanbul in 1938.[1][2] He was born in Königsberg, East Prussia, in 1880.[1][2]",
+   "wiki": "Bruno_Taut",
+   "es": {
+    "dates": "1880–1938",
+    "key": "Arquitecto alemán que pasó de la arquitectura visionaria de vidrio a los coloridos conjuntos de vivienda social de Berlín.[1][2]",
+    "more": "Conocido antes de la guerra por el Pabellón de Cristal de la exposición del Werkbund de Colonia de 1914, fue arquitecto municipal de Magdeburgo desde 1921, donde hizo pintar fachadas con colores vivos.[1][2] Como arquitecto jefe de la asociación de vivienda GEHAG desde 1924 construyó unas 12.000 viviendas en Berlín, entre ellas la Colonia de la Herradura.[1][2] Tras una estancia en la Unión Soviética, huyó de la Alemania nazi en 1933, vivió en Japón y murió en Estambul en 1938.[1][2] Había nacido en Königsberg (Prusia Oriental) en 1880.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Deutsches Historisches Museum, LeMO, biografía de Bruno Taut",
+     "url": "https://www.dhm.de/lemo/biografie/bruno-taut",
+     "checks": "nacimiento (4.5.1880, Königsberg) y muerte (24.12.1938, Estambul); Glashaus del Werkbund, Colonia 1914; Stadtbaurat de Magdeburgo 1921–24 y «Magdeburgo colorido»; color como componente de la arquitectura; unas 12.000 viviendas en Berlín 1924–31, entre ellas la Hufeisensiedlung; oficina en Moscú 1932; huida en 1933 vía Suiza a Japón; Turquía (Academia de Bellas Artes de Estambul). ⚠ GEHAG no nombrada en el resumen leído",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Bruno Taut",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1470",
+     "checks": "nacimiento y muerte (lugar y fecha); pabellón de vidrio 1914; Magdeburgo 1921; arquitecto jefe de GEHAG 1924–31 («más de 10.000 viviendas»); Hufeisensiedlung; fachadas pintadas en Magdeburgo; Moscú 1932–33; salida de Berlín el 1.3.1933; Japón (Sendai); Estambul",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "melnikov",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1890,
+   "died": 1974,
+   "dates": "1890–1974",
+   "countries": [
+    "RU",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Konstantin Melnikov",
+   "movements": [
+    "constructivism"
+   ],
+   "institutions": [],
+   "key": "Soviet avant-garde architect who built the Soviet pavilion in Paris in 1925 and a series of bold workers’ clubs in Moscow.[2][3]",
+   "more": "Known in Spanish as Konstantín Mélnikov. Trained in painting and architecture in Moscow, he designed the Makhorka pavilion (1923) and the Soviet pavilion at the 1925 Paris exhibition.[2][3] In the late 1920s he built six workers’ clubs, including the Rusakov Club (1927–28), as well as the Bakhmetevsky bus garage and his own house of two interlocking cylinders (1927–29) in Moscow.[2][3] Accused of formalism at the 1937 congress of Soviet architects, he was pushed out of practice.[2] Born in Moscow in 1890, he died there in 1974.[1]",
+   "wiki": "Konstantin_Melnikov",
+   "es": {
+    "dates": "1890–1974",
+    "key": "Arquitecto soviético de vanguardia que construyó el pabellón soviético de París en 1925 y una serie de audaces clubes obreros en Moscú.[2][3]",
+    "more": "En español, Konstantín Mélnikov. Formado en pintura y arquitectura en Moscú, diseñó el pabellón Majorka (1923) y el pabellón soviético de la exposición de París de 1925.[2][3] A fines de los años veinte construyó seis clubes obreros, entre ellos el Club Rusakov (1927–28), además del garaje de buses Bajmetevski y su propia casa de dos cilindros entrelazados (1927–29) en Moscú.[2][3] Acusado de formalismo en el congreso de arquitectos soviéticos de 1937, fue apartado del ejercicio profesional.[2] Nacido en Moscú en 1890, murió allí en 1974.[1]"
+   },
+   "short": "Melnikov",
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Konstantin Melnikov»",
+     "url": "https://www.britannica.com/biography/Konstantin-Melnikov",
+     "checks": "nacimiento (22.7/3.8.1890, Moscú) y muerte (28.11.1974, Moscú); vínculo con el constructivismo",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopedia.com, «Konstantin Stepanovich Melnikov» (Encyclopedia of World Biography; Encyclopedia of Russian History)",
+     "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/konstantin-stepanovich-melnikov",
+     "checks": "formación en la Escuela de Pintura, Escultura y Arquitectura de Moscú (pintura y luego arquitectura); pabellón Majorka 1923; pabellón soviético de París 1925; serie de seis clubes obreros; Club Rusakov (1927–29); casa de dos cilindros entrelazados (1927–29); denuncia por formalismo en el Primer Congreso de Arquitectos Soviéticos (1937) y fin de su carrera activa",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "TASS, «Remembering Russian architect Konstantin Melnikov on his 130th birth anniversary»",
+     "url": "https://tass.com/society/1185181",
+     "checks": "pabellón Majorka 1923 como primera obra; pabellón de París 1925; Club Rusakov 1927–28; garaje de buses Bajmetevski (proyecto 1926); casa cilíndrica terminada en 1929; nacimiento en Moscú. ⚠ agencia de noticias",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ginzburg",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1892,
+   "died": 1946,
+   "dates": "1892–1946",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Moisei Ginzburg",
+   "movements": [
+    "constructivism"
+   ],
+   "institutions": [
+    "inst-vkhutemas"
+   ],
+   "key": "Soviet architect and theorist of Constructivist architecture who designed the Narkomfin communal housing building in Moscow.[1][3]",
+   "more": "Known in Spanish as Moiséi Guinzburg. Trained in Milan and Riga, he taught at Vkhutemas in the 1920s and wrote Style and Epoch (1924), the theoretical basis of the Constructivist architects.[1][2] As leader of the Constructivist group OSA he studied new housing types for collective life; with Ignaty Milinis he built the Narkomfin Building (1928–30), a ‘social condenser’ with shared facilities.[1][3]",
+   "wiki": "Moisei_Ginzburg",
+   "es": {
+    "dates": "1892–1946",
+    "key": "Arquitecto y teórico soviético de la arquitectura constructivista que diseñó el edificio de viviendas comunales Narkomfin en Moscú.[1][3]",
+    "more": "En español, Moiséi Guinzburg. Formado en Milán y Riga, enseñó en el VKhUTEMAS en los años veinte y escribió Estilo y época (1924), base teórica de los arquitectos constructivistas.[1][2] Como líder del grupo constructivista OSA estudió nuevos tipos de vivienda para la vida colectiva; con Ignati Milinis construyó el edificio Narkomfin (1928–30), un «condensador social» con servicios compartidos.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Garage Museum of Contemporary Art, «Moisei Ginzburg. Style and Epoch. Issues in Modern Architecture»",
+     "url": "https://garagemca.org/en/programs/publishing/moisei-ginzburg-style-and-epoch-issues-in-modern-architecture-garage-strelka",
+     "checks": "fechas de vida 1892–1946 (solo años); estudios en Milán y en el Politécnico de Riga (y Bellas Artes de París); docencia en el VKhUTEMAS tras llegar a Moscú a comienzos de los años veinte; Estilo y época como manifiesto del movimiento; revista SA 1926–30; Narkomfin 1928–1930. ⚠ lugares de nacimiento y muerte no confirmados",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fontanka Publishing, «Style and Epoch»",
+     "url": "https://www.fontanka.co.uk/style-and-epoch",
+     "checks": "primera edición en 1924; base filosófica del grupo de arquitectos constructivistas",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Wasmuth & Zohlen, «Moisej J. Ginzburg, Ignatij F. Milinis: Narkomfin, Moscow 1928–1930» (ed. D. Udovički-Selb)",
+     "url": "https://wasmuth-verlag.de/shop/architektur-stadtplanung/architekturgeschichte/moisej-j-ginzburg-ignatij-f-milinis-narkomfin-moscow-1928-1930/",
+     "checks": "Narkomfin de Ginzburg y Milinis, 1928–1930 (la descripción dice también 1928–1931); «condensador social»; liderazgo de Ginzburg en la OSA; experimentación con nuevas formas de habitar 1926–30. ⚠ la página da a Ginzburg el año 1896 (errata)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "juan-ogorman",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1905,
+   "died": 1982,
+   "dates": "1905–1982",
+   "countries": [
+    "MX"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Juan O’Gorman",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Mexican architect and painter who built the first functionalist houses in Mexico, among them the studios of Diego Rivera and Frida Kahlo.[1][3]",
+   "more": "In 1929 he built a house for his father in San Ángel, considered the first functionalist house in Mexico.[1] In 1931–32 he designed the nearby house-studios of Diego Rivera and Frida Kahlo, and in 1932 he designed more than twenty functional primary schools for the Ministry of Public Education.[1][2][3] Later he gave up architecture and devoted himself mainly to painting and murals, such as the mosaic of the UNAM Central Library (1950–51).[3][4] Born in Mexico City in 1905, he died there in 1982.[3][4]",
+   "wiki": "Juan_O'Gorman",
+   "es": {
+    "dates": "1905–1982",
+    "key": "Arquitecto y pintor mexicano que construyó las primeras casas funcionalistas de México, entre ellas los estudios de Diego Rivera y Frida Kahlo.[1][3]",
+    "more": "En 1929 construyó una casa para su padre en San Ángel, considerada la primera casa funcionalista de México.[1] En 1931–32 diseñó cerca de allí las casas-estudio de Diego Rivera y Frida Kahlo, y en 1932 proyectó más de veinte escuelas primarias funcionales para la Secretaría de Educación Pública.[1][2][3] Más tarde dejó la arquitectura y se dedicó sobre todo a la pintura y los murales, como el mosaico de la Biblioteca Central de la UNAM (1950–51).[3][4] Nacido en Ciudad de México en 1905, murió allí en 1982.[3][4]"
+   },
+   "refs": [
+    {
+     "label": "INBAL, boletín «Se cumplen 90 años de la primera casa funcionalista en México»",
+     "url": "https://inba.gob.mx/prensa/12234/se-cumplen-90-anos-de-la-primera-casa-funcionalista-en-mexico-",
+     "checks": "casa para su padre Cecil Crawford O’Gorman en San Ángel (1929) como «la primera casa funcionalista en México»; casas-estudio de Diego Rivera y Frida Kahlo (1931–1932) en San Ángel; fechas 1905–1982",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Memórica (Gobierno de México), «Juan O’Gorman 1923-2023 – Arquitectura escolar, 1932»",
+     "url": "https://memoricamexico.gob.mx/es/memorica/Juan_OGorman_Sala1",
+     "checks": "encargo de la SEP en 1932 a los 27 años; 21 construcciones del proyecto escolar de 1932 (sobreviven 11)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Gaceta UNAM, «Conmemoran 43 aniversario luctuoso de Juan O’Gorman»",
+     "url": "https://www.gaceta.unam.mx/conmemoran-43-aniversario-luctuoso-de-juan-ogorman/",
+     "checks": "nacimiento (6.7.1905, Ciudad de México) y muerte (18.1.1982); primero en México en postular y hacer arquitectura funcional; en 1932 Narciso Bassols lo nombra jefe de edificios de la SEP; casa-estudio de Rivera; murales, entre ellos la Biblioteca Central de CU (1950–51)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Revista Código, «Juan O’Gorman, el arquitecto que se volvió pintor»",
+     "url": "https://revistacodigo.com/a-100-anos-de-juan-ogorman-el-arquitecto-que-se-volvio-pintor/",
+     "checks": "casa de 1929 como primera obra racionalista de América Latina; escuelas 1932–34 («al menos tres docenas» primarias y técnicas); hacia 1943 la pintura pasa a ser su ocupación habitual y deja la arquitectura; vida 1905–1982 en Ciudad de México. ⚠ fuente secundaria (revista)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "warchavchik",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1896,
+   "died": 1972,
+   "dates": "1896–1972",
+   "countries": [
+    "BR",
+    "IT"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Gregori Warchavchik",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Architect born in Odessa who settled in São Paulo in 1923 and built the first modernist house in Brazil.[1][3]",
+   "more": "After studying in Rome, he arrived in São Paulo in 1923.[1][2] In 1925 he published the manifesto ‘On modern architecture’.[1][2] His Casa Modernista on rua Santa Cruz (1927–28), with furniture he designed himself, is considered the first modernist house in Brazil.[1][3] He was invited to the CIAM as a South American delegate and in the early 1930s worked in partnership with Lúcio Costa in Rio de Janeiro.[1][2] Born in Odessa in 1896, he died in São Paulo in 1972.[1]",
+   "wiki": "Gregori_Warchavchik",
+   "es": {
+    "dates": "1896–1972",
+    "key": "Arquitecto nacido en Odesa que se instaló en São Paulo en 1923 y construyó la primera casa modernista de Brasil.[1][3]",
+    "more": "Tras estudiar en Roma, llegó a São Paulo en 1923.[1][2] En 1925 publicó el manifiesto «Acerca de la arquitectura moderna».[1][2] Su Casa Modernista de la rua Santa Cruz (1927–28), con muebles que él mismo diseñó, se considera la primera casa modernista de Brasil.[1][3] Fue invitado a los CIAM como delegado sudamericano y a comienzos de los años treinta trabajó en sociedad con Lúcio Costa en Río de Janeiro.[1][2] Nacido en Odesa en 1896, murió en São Paulo en 1972.[1]"
+   },
+   "short": "Warchavchik",
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Gregori Warchavchik»",
+     "url": "https://enciclopedia.itaucultural.org.br/pessoa226676/gregori-warchavchik",
+     "checks": "nacimiento (2.4.1896, Odesa) y muerte (27.7.1972, São Paulo); egresado del Istituto Superiore di Belle Arti (1920); llegada a São Paulo en 1923; texto de 1925 en Il Piccolo, traducido en el Correio da Manhã; casa de la rua Santa Cruz (1928) con diseño de terminaciones y mobiliario; delegado sudamericano de los CIAM por invitación de Le Corbusier; sociedad con Lúcio Costa (casas obreras de Gamboa, 1933)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "CAU/BR, «Gregori Warchavchik, o ucraniano que fundou a arquitetura moderna no Brasil»",
+     "url": "https://caubr.gov.br/gregori-warchavchik-o-ucraniano-que-fundou-a-arquitetura-moderna-no-brasil/",
+     "checks": "nacimiento en Odesa (1896) y muerte (1972); estudios en Roma; llegada a São Paulo en 1923; manifiesto «Acerca da Arquitetura Moderna» (1925) en el Correio da Manhã; invitación de Le Corbusier como representante sudamericano en los CIAM; docencia en la ENBA de Río desde 1931 y oficina con Lúcio Costa",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museu da Cidade de São Paulo, «Casa Modernista»",
+     "url": "https://www.museudacidade.prefeitura.sp.gov.br/sobre-mcsp/casa-modernista/",
+     "checks": "proyecto 1927, construcción 1928; «primera obra de arquitectura moderna implantada en Brasil»; residencia propia con Mina Klabin; fechas 1896–1972",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "sert",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1902,
+   "died": 1983,
+   "dates": "1902–1983",
+   "countries": [
+    "ES",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Josep Lluís Sert",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Catalan architect of the Spanish Republic who designed its pavilion at the 1937 Paris exhibition and then worked in exile in the United States.[1][2]",
+   "more": "Known in Spanish as José Luis Sert. After working in Le Corbusier’s studio in Paris, he co-founded the GATCPAC group of modern architects in Barcelona in 1930 and built the Casa Bloc workers’ housing and an anti-tuberculosis dispensary.[1][2][3] With Luis Lacasa he designed the Spanish Republic’s pavilion in Paris in 1937.[1][2][3] He went into exile in the United States in 1939,[2] and later led the CIAM and Harvard’s design school.[1][2] Born in Barcelona in 1902, he died there in 1983.[1][3]",
+   "wiki": "Josep_Lluís_Sert",
+   "es": {
+    "dates": "1902–1983",
+    "key": "Arquitecto catalán de la República española que diseñó su pabellón en la exposición de París de 1937 y luego trabajó exiliado en Estados Unidos.[1][2]",
+    "more": "En castellano, José Luis Sert. Tras trabajar en el estudio de Le Corbusier en París, cofundó en 1930 en Barcelona el grupo de arquitectos modernos GATCPAC y construyó las viviendas obreras de la Casa Bloc y un dispensario antituberculoso.[1][2][3] Con Luis Lacasa diseñó el pabellón de la República española en París en 1937.[1][2][3] Se exilió en Estados Unidos en 1939,[2] y más tarde dirigió los CIAM y la escuela de diseño de Harvard.[1][2] Nacido en Barcelona en 1902, murió allí en 1983.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Museo Reina Sofía, repositorio Guernica, «Josep Lluís Sert»",
+     "url": "https://guernica.museoreinasofia.es/en/agente/josep-lluis-sert-5302",
+     "checks": "nacimiento y muerte en Barcelona (1902–1983); trabajo en el taller de Le Corbusier (dice 1928); GATCPAC dos años después; Casa Bloc (1932–36); Dispensario Central Antituberculoso (1934–38); pabellón de 1937 con Luis Lacasa; presidente de los CIAM 1948–56; decano en Harvard 1953–69. ⚠ da el exilio en 1941",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fundació Joan Miró, «Josep Lluís Sert»",
+     "url": "https://www.fmirobcn.org/en/foundation/josep-lluis-sert/",
+     "checks": "fechas 1902–1983; paso por el taller de Le Corbusier; cofundador del GATCPAC; bloque de la calle Muntaner y dispensario antituberculoso; pabellón de la República de 1937 con Lacasa; exilio en EE. UU. a fines de junio de 1939; decano de la GSD de Harvard 1953–69",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Arquitectura Catalana (COAC), «Josep Lluís Sert»",
+     "url": "https://www.arquitecturacatalana.cat/en/authors/josep-lluis-sert",
+     "checks": "nacimiento en Barcelona (3.7.1902) y muerte en Barcelona (1983); título en 1928; miembro fundador del GATCPAC; Casa Bloc (1932–39); dispensario (1933–38); pabellón de 1937 con Lacasa; traslado a EE. UU. por la Guerra Civil",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "liubov-popova",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion",
+    "graphic"
+   ],
+   "born": 1889,
+   "died": 1924,
+   "dates": "1889–1924",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Liubov Popova",
+   "short": "Popova",
+   "movements": [
+    "constructivism"
+   ],
+   "institutions": [],
+   "key": "Russian Constructivist painter who designed printed fabrics for a state factory in 1923–24, aiming them at women in towns and villages.[1]",
+   "more": "From probably autumn 1923 she and Varvara Stepanova worked at the First State Textile Printing Factory in Moscow, where she produced dozens of designs, from pure geometry to patterns with Soviet symbols.[1] She died in May 1924; her fabrics were shown with her paintings in a posthumous exhibition that December.[1]",
+   "wiki": "Lyubov_Popova",
+   "refs": [
+    {
+     "label": "Tate Papers 14, «Liubov Popova: From Painting to Textile Design»",
+     "checks": "Trabajo en la fábrica desde otoño de 1923; decenas de diseños; muerte en mayo de 1924; muestra póstuma de diciembre de 1924. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design"
+    }
+   ],
+   "es": {
+    "dates": "1889–1924",
+    "key": "Pintora constructivista rusa que diseñó telas estampadas para una fábrica estatal en 1923–24, pensadas para las mujeres de ciudades y aldeas.[1]",
+    "more": "Probablemente desde el otoño de 1923 trabajó con Varvara Stepánova en la Primera Fábrica Estatal de Estampados de Moscú, donde hizo decenas de diseños, desde la geometría pura hasta motivos con símbolos soviéticos.[1] Murió en mayo de 1924; sus telas se expusieron junto a sus pinturas en una muestra póstuma en diciembre de ese año.[1]"
+   }
+  },
+  {
+   "id": "mart-stam",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1899,
+   "died": 1986,
+   "dates": "1899–1986",
+   "countries": [
+    "NL",
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Mart Stam",
+   "short": "Stam",
+   "movements": [
+    "new-objectivity"
+   ],
+   "institutions": [
+    "inst-weissenhof"
+   ],
+   "key": "Dutch architect who built the prototype of the first chair without back legs from gas pipes in 1926 and showed the chair at the Weissenhof exhibition in 1927.[3]",
+   "more": "According to Thonet, from 1925 he experimented with gas pipes joined by fittings until he arrived at the cantilever principle, which spread quickly in tubular steel.[1] He also worked as a draftsman on the Van Nelle factory in Rotterdam from 1926 to 1928.[2]",
+   "wiki": "Mart_Stam",
+   "refs": [
+    {
+     "label": "Thonet, «Like sitting on air: S 33»",
+     "checks": "Thonet: experimentos con tubos de gas desde 1925. ⚠ Fabricante actual; las fechas de vida no se leyeron en esta fuente (A6).",
+     "date": "2026-10-03",
+     "url": "https://www.thonet.de/en/magazine/history-brand/detail/like-sitting-on-air-cantilever-chair-s-33"
+    },
+    {
+     "label": "Vielfalt der Moderne, «Rotterdam: Van Nelle Factory»",
+     "checks": "Stam dibujante en Van Nelle (1926–1928).",
+     "date": "2026-10-03",
+     "url": "https://vielfaltdermoderne.de/en/van-nelle-factory/"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «Cantilever chair B 64 / S 64» (objeto del mes, mayo de 2021)",
+     "checks": "Prototipo de la primera silla sin patas traseras hecho con tubos de gas en Róterdam en 1926; dos versiones lacadas en negro en su casa de la Weissenhofsiedlung (1927).",
+     "date": "2026-10-03",
+     "url": "https://museumderdinge.org/thing-of-the-month/cantilever-chair-b-64-s-64-by-marcel-breuer-mart-stam/"
+    }
+   ],
+   "es": {
+    "dates": "1899–1986",
+    "key": "Arquitecto neerlandés que construyó con tubos de gas, en 1926, el prototipo de la primera silla sin patas traseras y la presentó en la exposición Weissenhof de 1927.[3]",
+    "more": "Según Thonet, desde 1925 experimentó con tubos de gas unidos por conectores hasta llegar al principio del voladizo, que se difundió rápidamente en tubo de acero.[1] También trabajó como dibujante en la fábrica Van Nelle de Róterdam entre 1926 y 1928.[2]"
+   }
+  },
+  {
+   "id": "gustav-klutsis",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1895,
+   "died": 1938,
+   "dates": "1895–1938",
+   "countries": [
+    "RU",
+    "LV"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Gustav Klutsis",
+   "short": "Klutsis",
+   "movements": [
+    "constructivism"
+   ],
+   "institutions": [
+    "inst-vkhutemas"
+   ],
+   "key": "Latvian-born[3] Soviet designer who made photomontage the language of the posters of the first Five-Year Plan.[1][2]",
+   "more": "He held that photomontage was ‘more truthful, more lifelike, more comprehensible to the masses’ than painting or drawing, and saw his posters as a ‘weapon of class struggle and construction’.[2] He was arrested in 1938 and killed shortly after at Butovo, near Moscow.[3]",
+   "wiki": "Gustav_Klutsis",
+   "refs": [
+    {
+     "label": "MoMA, Gustav Klutsis, Let’s Fulfill the Plan of Great Works (1930)",
+     "checks": "Cartel de 1930 del Plan.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/6487"
+    },
+    {
+     "label": "Harvard, Russia Global, «Klutsis propaganda poster»",
+     "checks": "Citas de Klutsis sobre el fotomontaje y sus carteles.",
+     "date": "2026-10-03",
+     "url": "https://russiaglobal.omeka.fas.harvard.edu/exhibits/show/objects/politics/klutsis"
+    },
+    {
+     "label": "International Center of Photography, «Gustav Klutsis»",
+     "checks": "Nacido en Letonia en 1895; arrestado en 1938 y asesinado poco después en Butovo, cerca de Moscú.",
+     "date": "2026-10-03",
+     "url": "https://www.icp.org/browse/archive/constituents/gustav-klutsis"
+    }
+   ],
+   "es": {
+    "dates": "1895–1938",
+    "key": "Diseñador soviético nacido en Letonia[3] que hizo del fotomontaje el lenguaje de los carteles del primer Plan Quinquenal.[1][2]",
+    "more": "Sostenía que el fotomontaje era «más verdadero, más vivo, más comprensible para las masas» que la pintura o el dibujo, y veía sus carteles como un «arma de la lucha de clases y de la construcción».[2] Fue arrestado en 1938 y asesinado poco después en Butovo, cerca de Moscú.[3]"
+   }
+  },
+  {
+   "id": "lester-beall",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1903,
+   "died": 1969,
+   "dates": "1903–1969",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Lester Beall",
+   "short": "Beall",
+   "movements": [],
+   "institutions": [],
+   "key": "American graphic designer whose posters for the Rural Electrification Administration brought European modernism to New Deal public information.[1]",
+   "more": "Between 1937 and 1941 he made three series of posters for the REA; six were shown at MoMA in November 1937, where Alfred Barr praised their ‘vigorous design’ and ‘boldness of symbolism’.[1][2]",
+   "wiki": "Lester_Beall",
+   "refs": [
+    {
+     "label": "MoMA, «Lester Beall and the Rural Electrification Administration» (2012)",
+     "checks": "Tres series para la REA (1937–1941). ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/explore/inside_out/2012/03/22/lester-beall-and-the-rural-electrification-administration/"
+    },
+    {
+     "label": "MoMA, comunicado de prensa del 15 nov 1937",
+     "checks": "Exposición de 1937 y palabras de Barr.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/413/releases/MOMA_1937_0053_1937-11-15_371115-38.pdf"
+    }
+   ],
+   "es": {
+    "dates": "1903–1969",
+    "key": "Diseñador gráfico estadounidense cuyos carteles para la Administración de Electrificación Rural llevaron el modernismo europeo a la información pública del New Deal.[1]",
+    "more": "Entre 1937 y 1941 hizo tres series de carteles para la REA; seis se expusieron en el MoMA en noviembre de 1937, donde Alfred Barr elogió su «diseño vigoroso» y su «audacia simbólica».[1][2]"
+   }
+  },
+  {
+   "id": "fortunato-depero",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "born": 1892,
+   "died": 1960,
+   "dates": "1892–1960",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Fortunato Depero",
+   "short": "Depero",
+   "movements": [
+    "futurism-typography"
+   ],
+   "institutions": [],
+   "key": "Italian Futurist artist who put his art at the service of advertising and designed the Campari Soda bottle in 1932.[1]",
+   "more": "For Davide Campari’s company he made posters and the cone-shaped bottle of the first ready-mixed aperitif. In a manifesto of 1931 he rejected ‘pure’ art in favour of useful, advertising art.[1]",
+   "wiki": "Fortunato_Depero",
+   "refs": [
+    {
+     "label": "Domus, «The story of Depero’s Campari Soda bottle» (2022)",
+     "checks": "Botella de 1932; carteles para Campari; manifiesto de 1931. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.domusweb.it/en/design/2022/02/23/depero-campari-soda-bottle.html"
+    }
+   ],
+   "es": {
+    "dates": "1892–1960",
+    "key": "Artista futurista italiano que puso su arte al servicio de la publicidad y diseñó la botella de Campari Soda en 1932.[1]",
+    "more": "Para la empresa de Davide Campari hizo carteles y la botella cónica del primer aperitivo listo para beber. En un manifiesto de 1931 rechazó el arte «puro» en favor de un arte útil y publicitario.[1]"
+   }
+  },
+  {
+   "id": "alexey-brodovitch",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1898,
+   "died": 1971,
+   "dates": "1898–1971",
+   "countries": [
+    "RU",
+    "FR",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Alexey Brodovitch",
+   "short": "Brodovitch",
+   "movements": [],
+   "institutions": [],
+   "key": "Russian-born art director of Harper’s Bazaar from 1934 to 1958, who made the fashion magazine a field of modern layout and photography.[1]",
+   "more": "After the First World War and the Russian Civil War he moved to Paris in 1920 and worked there as a designer before emigrating to the United States. He trained a generation of photographers, among them Irving Penn.[1]",
+   "wiki": "Alexey_Brodovitch",
+   "refs": [
+    {
+     "label": "Art Institute of Chicago, archivo Irving Penn, «Alexey Brodovitch»",
+     "checks": "Llegada a París en 1920; Harper’s Bazaar de 1934 a 1958; relación con Irving Penn. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://archive.artic.edu/irvingpennarchives/1973"
+    }
+   ],
+   "es": {
+    "dates": "1898–1971",
+    "key": "Director de arte de Harper’s Bazaar entre 1934 y 1958, nacido en Rusia, que hizo de la revista de moda un campo de diagramación y fotografía modernas.[1]",
+    "more": "Tras la Primera Guerra Mundial y la guerra civil rusa se instaló en París en 1920 y trabajó allí como diseñador antes de emigrar a Estados Unidos. Formó a una generación de fotógrafos, entre ellos Irving Penn.[1]"
+   }
+  },
+  {
+   "id": "jean-prouve",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1901,
+   "died": 1984,
+   "dates": "1901–1984",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jean Prouvé",
+   "short": "Prouvé",
+   "movements": [],
+   "institutions": [],
+   "key": "French metalworker and constructor who made light, prefabricated metal buildings and furniture.[1]",
+   "more": "With the architects Eugène Beaudouin and Marcel Lods and the engineer Vladimir Bodiansky he built the Maison du Peuple at Clichy (1935–38), a pioneering demonstration of metal in architecture. Decades later he chaired the jury of the Centre Pompidou competition.[1]",
+   "wiki": "Jean_Prouvé",
+   "refs": [
+    {
+     "label": "Docomomo France, «Maison du Peuple de Clichy»",
+     "checks": "Prouvé como constructor en Clichy; jurado del Pompidou. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.docomomo.fr/batiment/maison-du-peuple-de-clichy"
+    }
+   ],
+   "es": {
+    "dates": "1901–1984",
+    "key": "Constructor y forjador francés que hizo edificios y muebles livianos y prefabricados de metal.[1]",
+    "more": "Con los arquitectos Eugène Beaudouin y Marcel Lods y el ingeniero Vladimir Bodiansky construyó la Casa del Pueblo de Clichy (1935–38), una demostración pionera del metal en la arquitectura. Décadas después presidió el jurado del concurso del Centro Pompidou.[1]"
+   }
+  },
+  {
+   "id": "giuseppe-terragni",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1904,
+   "died": 1943,
+   "dates": "1904–1943",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Giuseppe Terragni",
+   "short": "Terragni",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Italian rationalist architect whose Casa del Fascio in Como (1932–36) became an icon of modern architecture.[1]",
+   "more": "He worked in Como within the Italian rationalist movement, which sought a modern architecture accepted by the fascist state; the regime later favoured the classicism of Marcello Piacentini.[1]",
+   "wiki": "Giuseppe_Terragni",
+   "refs": [
+    {
+     "label": "Domus, «Terragni′s Casa del fascio in Como: a metamorphosis»",
+     "checks": "Casa del Fascio (1932–1936); el régimen prefirió a Piacentini. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.domusweb.it/en/from-the-archive/gallery/2022/04/01/terragni-and-the-casa-del-fascio-in-como-a-metamorphosis-on-domus.html"
+    }
+   ],
+   "es": {
+    "dates": "1904–1943",
+    "key": "Arquitecto racionalista italiano cuya Casa del Fascio de Como (1932–36) se volvió un ícono de la arquitectura moderna.[1]",
+    "more": "Trabajó en Como dentro del racionalismo italiano, que buscaba una arquitectura moderna aceptada por el Estado fascista; el régimen terminó prefiriendo el clasicismo de Marcello Piacentini.[1]"
+   }
+  },
+  {
+   "id": "oscar-niemeyer",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1907,
+   "died": 2012,
+   "dates": "1907–2012",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Oscar Niemeyer",
+   "short": "Niemeyer",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Brazilian architect who worked in Lúcio Costa’s team on the Ministry of Education in Rio and designed the Pampulha complex in 1940.[1][2]",
+   "more": "Trained in Le Corbusier’s ideas, he joined Costa’s team for the Ministry of Education and Health (1936–45). For the mayor Juscelino Kubitschek he designed the buildings around the Pampulha lake in Belo Horizonte, with Roberto Burle Marx and Cândido Portinari.[1][2] He later designed the main buildings of Brasília.",
+   "wiki": "Oscar_Niemeyer",
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Ministério da Educação e Saúde (MES)»",
+     "checks": "Niemeyer en el equipo de Lúcio Costa para el MES. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://enciclopedia.itaucultural.org.br/instituicoes/70502-ministerio-da-educacao-e-saude-mes"
+    },
+    {
+     "label": "Prefeitura de Belo Horizonte, «Conjunto Moderno da Pampulha»",
+     "checks": "Pampulha (1940) con Burle Marx y Portinari, para Kubitschek.",
+     "date": "2026-10-03",
+     "url": "https://portalbelohorizonte.com.br/filmcommission/cenarios-da-cidade/conjunto-moderno-da-pampulha"
+    }
+   ],
+   "es": {
+    "dates": "1907–2012",
+    "key": "Arquitecto brasileño que trabajó en el equipo de Lúcio Costa en el Ministerio de Educación de Río y diseñó el conjunto de Pampulha en 1940.[1][2]",
+    "more": "Formado en las ideas de Le Corbusier, integró el equipo de Costa para el Ministerio de Educación y Salud (1936–45). Para el alcalde Juscelino Kubitschek diseñó los edificios en torno al lago de Pampulha, en Belo Horizonte, con Roberto Burle Marx y Cândido Portinari.[1][2] Más tarde diseñó los principales edificios de Brasilia."
+   }
+  },
+  {
+   "id": "grupo-austral",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1913,
+   "died": 1989,
+   "dates": "Antonio Bonet 1913–1989 · Juan Kurchan 1913–1975 · Jorge Ferrari Hardoy 1914–1977",
+   "countries": [
+    "AR",
+    "ES"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Grupo Austral",
+   "short": "Grupo Austral",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "The group of the Catalan architect Antonio Bonet and the Argentinians Juan Kurchan and Jorge Ferrari Hardoy, who brought the ideas of Le Corbusier and CIAM to Buenos Aires.[1]",
+   "more": "The three met in 1936 in Le Corbusier’s Paris office and moved to Buenos Aires in 1938, where they worked on furniture, buildings and city plans until about 1950; few of their urban proposals were built.[1] Their BKF chair of 1938 became a worldwide success.[2]",
+   "wiki": "Grupo_Austral",
+   "refs": [
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Grupo Austral (1939–1950)»",
+     "checks": "Integrantes; encuentro en el estudio de Le Corbusier (1936); Buenos Aires (1938); actividad hasta c. 1950. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.rem.routledge.com/articles/grupo-austral-1939-1950"
+    },
+    {
+     "label": "MoMA, B.K.F. chair (1938)",
+     "checks": "Sillón BKF (1938) y su difusión.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/4393"
+    }
+   ],
+   "es": {
+    "dates": "Antonio Bonet 1913–1989 · Juan Kurchan 1913–1975 · Jorge Ferrari Hardoy 1914–1977",
+    "key": "El grupo del arquitecto catalán Antonio Bonet y de los argentinos Juan Kurchan y Jorge Ferrari Hardoy, que llevó a Buenos Aires las ideas de Le Corbusier y los CIAM.[1]",
+    "more": "Los tres se conocieron en 1936 en el estudio de Le Corbusier en París y se instalaron en Buenos Aires en 1938, donde trabajaron en muebles, edificios y planes urbanos hasta cerca de 1950; pocas de sus propuestas urbanas se construyeron.[1] Su sillón BKF de 1938 fue un éxito mundial.[2]"
+   }
+  },
+  {
+   "id": "lucio-costa",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1902,
+   "died": 1998,
+   "dates": "1902–1998",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Lúcio Costa",
+   "short": "Costa",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "Brazilian architect who led the team that built the Ministry of Education and Health in Rio (1936–45), with Le Corbusier as adviser.[1]",
+   "more": "Born in Toulon in 1902, he became director of the national school of fine arts after the 1930 revolution and brought in modern teachers. In 1935 the minister Gustavo Capanema asked him to lead the ministry project; his team included Oscar Niemeyer. In 1957 he won the competition for the plan of Brasília.[1]",
+   "wiki": "Lúcio_Costa",
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Lucio Costa»",
+     "checks": "Toulon 1902 – Río de Janeiro 1998; director de la ENBA tras la Revolución de 1930, con profesores modernos; Capanema lo invitó en 1935 a dirigir el proyecto del MES, con Niemeyer y Le Corbusier; plan de Brasilia (1957).",
+     "date": "2026-10-03",
+     "url": "https://enciclopedia.itaucultural.org.br/pessoas/4763-lucio-costa"
+    }
+   ],
+   "es": {
+    "dates": "1902–1998",
+    "key": "Arquitecto brasileño que dirigió el equipo que construyó el Ministerio de Educación y Salud en Río (1936–45), con Le Corbusier como asesor.[1]",
+    "more": "Nacido en Toulon en 1902, tras la revolución de 1930 dirigió la Escuela Nacional de Bellas Artes y llevó a ella profesores modernos. En 1935 el ministro Gustavo Capanema le pidió dirigir el proyecto del ministerio; en su equipo estaba Oscar Niemeyer. En 1957 ganó el concurso para el plan de Brasilia.[1]"
+   }
+  }
+ ]
+}

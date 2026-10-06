@@ -1,0 +1,204 @@
+[
+ {
+  "id": "cybersyn-opsroom",
+  "en": {
+   "key": "The hexagonal operations room of Chile’s Project Cybersyn, whose interface Gui Bonsiepe designed in Santiago for the Allende government.[1][2]",
+   "more": "Project Cybersyn was meant to link Chile’s factories to a central room in Santiago through telex machines, and the British scientist Stafford Beer was its principal architect.[1] The Industrial Design Area of the Chilean state technology institute, with Gui Bonsiepe, designed the hexagonal room in 1972–73, with seven swivel chairs fitted with buttons that controlled large wall screens.[1][2] The system was never fully finished, and the room was destroyed after the coup of 11 September 1973.[1]"
+  },
+  "es": {
+   "key": "La sala de operaciones hexagonal del Proyecto Cybersyn de Chile, cuya interfaz diseñó Gui Bonsiepe en Santiago para el gobierno de Allende.[1][2]",
+   "more": "El Proyecto Cybersyn debía conectar las fábricas de Chile con una sala central en Santiago mediante máquinas de télex, y el científico británico Stafford Beer fue su principal arquitecto.[1] El Área de Diseño Industrial del instituto tecnológico del Estado chileno, con Gui Bonsiepe, diseñó la sala hexagonal en 1972–73, con siete sillas giratorias provistas de botones que controlaban grandes pantallas de pared.[1][2] El sistema nunca se terminó del todo, y la sala fue destruida tras el golpe del 11 de septiembre de 1973.[1]"
+  },
+  "refs": [
+   {
+    "label": "Archis, «Project Cybersyn»",
+    "url": "https://archis.org/volume/project-cybersyn/",
+    "checks": "Sala diseñada por Gui Bonsiepe; siete sillas giratorias con botones que controlaban pantallas grandes; datos de unas 500 máquinas de télex en fábricas; Stafford Beer como arquitecto principal; proyecto nunca terminado del todo; sala destruida tras el golpe del 11 de septiembre de 1973. ⚠ fuente secundaria (revista de arquitectura).",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MIT News, «Designing a revolution» (exposición sobre Cybersyn)",
+    "url": "https://news.mit.edu/index%2Ephp/2023/designing-revolution-1002",
+    "checks": "Sala hexagonal de 72 m²; siete sillones con botones de control remoto; pantallas en las paredes; diseñada por el Área de Diseño Industrial del Instituto Tecnológico del Estado chileno en 1972-1973, con Gui Bonsiepe entre los diseñadores originales. ⚠ no menciona INTEC por nombre ni CORFO.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «nationalised firms» y la mención de CORFO/INTEC como cliente y fabricante: ninguna fuente consultada los confirma (los campos maker/client no se tocaron; revisar).",
+   "Quité «so that officials could read the data at a glance and discuss it seated»: no confirmado; solo se mantiene lo de las sillas con botones y pantallas.",
+   "Suavicé «advised on it» a «principal architect» según la fuente. «El gobierno de Allende» en key sin fuente directa de Santiago/Allende más allá del contexto del proyecto.",
+   "status «photographs and drawings survive»: solo se confirmó destrucción de la sala; fotografías sin fuente directa consultada (theglassroom.org las menciona pero no se registró). El campo year 1972 coincide con 1972–73 de la fuente; materials sin tocar (fibra de vidrio según MIT: sillones de fibra de vidrio)."
+  ]
+ },
+ {
+  "id": "sydney-opera-house-1973",
+  "en": {
+   "key": "The performing arts centre on Sydney Harbour, designed by the Danish architect Jørn Utzon, whose white sail-like shells became a symbol of the city and of twentieth-century architecture.[1][2]",
+   "more": "Utzon won the international competition, judged in January 1957.[2] The roof shells were made as segments of a single sphere, so that the ribs and prefabricated parts could be repeated, and the engineers at Ove Arup relied on electronic digital computers to analyse them.[3][4] Utzon resigned in 1966 and other Sydney architects finished the building under Arup’s supervision, which was completed in 1973.[1][2] UNESCO inscribed it in 2007 as a great architectural work of the twentieth century.[1]"
+  },
+  "es": {
+   "key": "El centro de artes escénicas de la bahía de Sídney, diseñado por el arquitecto danés Jørn Utzon, cuyas cáscaras blancas, a modo de velas, se volvieron símbolo de la ciudad y de la arquitectura del siglo XX.[1][2]",
+   "more": "Utzon ganó el concurso internacional, fallado en enero de 1957.[2] Las cáscaras del techo se hicieron como segmentos de una misma esfera, para poder repetir las costillas y las piezas prefabricadas, y los ingenieros de Ove Arup recurrieron a computadores digitales electrónicos para analizarlas.[3][4] Utzon renunció en 1966 y otros arquitectos de Sídney terminaron el edificio bajo la supervisión de Arup, que se completó en 1973.[1][2] La UNESCO lo inscribió en 2007 como una gran obra arquitectónica del siglo XX.[1]"
+  },
+  "refs": [
+   {
+    "label": "UNESCO, Centro del Patrimonio Mundial, «Sydney Opera House»",
+    "url": "https://whc.unesco.org/en/list/166",
+    "checks": "Concurso internacional de 1957 ganado por Utzon; cáscaras de geometría esférica y elementos prefabricados; renuncia en 1966 y edificio inaugurado en 1973; revestimiento cerámico, base de granito; inscrito en 2007 como gran obra arquitectónica del siglo XX.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Sydney Opera House»",
+    "url": "https://www.britannica.com/print/article/577499",
+    "checks": "Concurso internacional (1956), entrada de Utzon elegida en enero de 1957; Utzon renunció en 1966; Hall, Littlemore y Todd continuaron bajo Ove Arup and Partners; terminado en septiembre de 1973; Patrimonio Mundial 2007. ⚠ fecha del concurso: 1956 el concurso, enero de 1957 el fallo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Arup, «Sydney Opera House»",
+    "url": "https://www.arup.com/projects/sydney-opera-house",
+    "checks": "Diez cáscaras de hormigón prefabricado derivadas de segmentos de una esfera de 75 m de diámetro; nervios prefabricados producidos en serie; más de un millón de baldosas cerámicas. ⚠ Arup es la empresa de los ingenieros (fuente interesada).",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Institution of Structural Engineers, «Sydney Opera House – 50 years on»",
+    "url": "https://www.istructe.org/resources/case-study/sydney-opera-house-50-years-on/",
+    "checks": "Uso extensivo de computadores digitales electrónicos para hacer posible la estructura; todos los techos mayores como segmentos de una misma esfera; más de doscientas costillas con una docena de perfiles. ⚠ no confirma las fechas de 1966.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «first drawn freely and then reworked»: las fuentes dicen solo que la solución final fue esférica, no el proceso previo.",
+   "Corregí «won the competition in 1957»: Britannica da concurso de 1956 y fallo en enero de 1957; se escribió «judged in January 1957». El campo date «1957–1973» se mantiene.",
+   "Quité «Its form influenced later sculptural civic buildings»: ninguna fuente lo sostiene tal cual (UNESCO solo habla de «enduring influence on architecture»).",
+   "Quité «others finished the interiors»: Britannica dice que otros arquitectos continuaron y completaron la obra; se ajustó. Status «sigue en uso» confirmado solo por UNESCO como centro activo; materials sin tocar (UNESCO: azulejos cerámicos, base de granito; «cáscaras de hormigón» OK)."
+  ]
+ },
+ {
+  "id": "dvf-wrap-dress-1974",
+  "en": {
+   "key": "Diane von Furstenberg’s jersey wrap dress, which became an emblem of freedom and empowerment for women in the 1970s and after.[1][2]",
+   "more": "Von Furstenberg’s wrap dress, whose fiftieth anniversary was marked in 2024, was her best-known creation and, in the words of the Skirball Cultural Center, came to epitomize freedom and empowerment for women.[1] The Metropolitan Museum calls it the climax of the American sportswear tradition of wrapping, a sensation of the 1970s made in bold, stretchy synthetic fabrics.[2]"
+  },
+  "es": {
+   "key": "El vestido cruzado de jersey de Diane von Furstenberg, que se volvió emblema de libertad y empoderamiento de las mujeres en los años setenta y después.[1][2]",
+   "more": "El vestido cruzado de Von Furstenberg, cuyo cincuentenario se celebró en 2024, fue su creación más conocida y, en palabras del Skirball Cultural Center, llegó a encarnar la libertad y el empoderamiento de las mujeres.[1] El Museo Metropolitano lo llama el clímax de la tradición deportiva estadounidense de los cruzados, una sensación de los años setenta hecha con telas sintéticas elásticas y de colores intensos.[2]"
+  },
+  "refs": [
+   {
+    "label": "Skirball Cultural Center, «Diane von Furstenberg: Woman Before Fashion»",
+    "url": "https://www.skirball.org/museum/diane-von-furstenberg-woman-fashion",
+    "checks": "La exposición coincide con el 50.º aniversario del vestido cruzado (es decir, 1974); «creación icónica»; llegó a encarnar libertad y empoderamiento de las mujeres en EE. UU. y más allá. ⚠ no confirma el año exacto de lanzamiento, el jersey ni las ventas.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, Costume Institute, «Diane von Furstenberg, Wrap dress, 1975–76» (1997.487)",
+    "url": "https://www.metmuseum.org/art/collection/search/79701",
+    "checks": "«Clímax de la tradición deportiva estadounidense de los cruzados en los años setenta, con la sensación del vestido cruzado de Von Furstenberg»; telas sintéticas y elásticas de colores intensos; la casa se fundó en 1972; ejemplar de 1975–76 en mezcla de algodón y rayón. ⚠ no es un ejemplar de 1974 ni de jersey.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «launched in 1974 in New York», «comfortable», «put on alone», «day to evening», «moderate price» y «sold in the hundreds of thousands»: ninguna fuente fiable consultada lo confirma (solo blogs/tiendas en las búsquedas). El año 1974 se apoya solo en el cincuentenario de 2024 (Skirball); campos year/date no tocados.",
+   "Quité «symbol of the working woman»: las fuentes hablan de libertad y empoderamiento; lo reformulé así.",
+   "El campo materials «Printed jersey» no está confirmado (el Met cataloga un ejemplar en algodón/rayón); sin tocar. Status «La marca DVF lo sigue fabricando» sin fuente (no registrada).",
+   "Faltan fuentes sólidas sobre el lanzamiento y las ventas; conviene una segunda pasada (p. ej. Britannica completa, que no se pudo abrir)."
+  ]
+ },
+ {
+  "id": "westwood-punk-1976",
+  "en": {
+   "key": "Clothes sold from the King’s Road shop of Malcolm McLaren and Vivienne Westwood, with slogans, zips and straps, that became the look of London punk.[1][2]",
+   "more": "McLaren and Westwood ran a shop at 430 King’s Road, Chelsea, which sold fetish wear as SEX from 1974 and was renamed Seditionaries in 1976.[1] They made slogan T-shirts and bondage trousers with zippered seams, removable panels and straps, and the Sex Pistols, managed by McLaren, wore their designs.[1] The V&A holds a 1976 bondage ensemble of parachute shirt, trousers, loincloth, belt and kilt.[3] For the Met, the bondage trousers are one of the most iconic garments of punk style, still in production today.[2]"
+  },
+  "es": {
+   "key": "Ropa vendida en la tienda de Malcolm McLaren y Vivienne Westwood en King’s Road, con consignas, cierres y correas, que se volvió la imagen del punk londinense.[1][2]",
+   "more": "McLaren y Westwood llevaban una tienda en el 430 de King’s Road, en Chelsea, que vendía ropa fetichista como SEX desde 1974 y pasó a llamarse Seditionaries en 1976.[1] Hicieron camisetas con consignas y pantalones bondage con costuras con cierre, paneles removibles y correas, y los Sex Pistols, que manejaba McLaren, vistieron sus diseños.[1] El V&A conserva un conjunto bondage de 1976 con camisa paracaídas, pantalón, taparrabos, cinturón y falda escocesa.[3] Para el Met, los pantalones bondage son una de las prendas más icónicas del estilo punk, aún en producción hoy.[2]"
+  },
+  "refs": [
+   {
+    "label": "V&A, «Vivienne Westwood: punk, new romantic and beyond»",
+    "url": "https://www.vam.ac.uk/articles/vivienne-westwood-punk-new-romantic-and-beyond",
+    "checks": "Tienda en el 430 de King’s Road, Chelsea; SEX (1974) con ropa fetichista; renombrada Seditionaries: Clothes for Heroes (1976); pantalones bondage con cierres, paneles y correas; camisetas con consignas; los Sex Pistols, manejados por McLaren, usaron los diseños. ⚠ resumen automático de la página.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Vivienne Westwood, Bondage ensemble» (colección)",
+    "url": "https://www.metmuseum.org/art/collection/search/98568",
+    "checks": "Conjunto bondage 1976–80, algodón y metal, de Westwood y McLaren, vendido por Seditionaries; pantalones de algodón militar con correas entre las rodillas; «una de las prendas más icónicas del estilo punk, todavía en producción». ",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "V&A, «Bondage ensemble» (T.84:1 to 6-2002)",
+    "url": "https://collections.vam.ac.uk/item/O68604/bondage-ensemble-mclaren-malcolm/",
+    "checks": "Conjunto negro de 1976 de McLaren y Westwood: camisa paracaídas, pantalón bondage, taparrabos, cinturón y falda de lana; materiales algodón, lana, metal y cuero; no expuesto.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «rips», «torn and safety-pinned tops», «taking fetish and work clothes out of their context», «young people around the shop» y «spread the punk look beyond music»: no confirmados por las fuentes (el V&A solo menciona alfileres de gancho como motivo gráfico de camisetas).",
+   "Reemplacé «in 1976 was called Seditionaries after earlier names including SEX»: las fuentes dan SEX 1974 y Seditionaries 1976 (el nombre previo Let It Rock/Too Fast to Live no se cita por no estar en el texto original).",
+   "Status «piezas originales en museos» sustentado por V&A y Met; «la marca de Westwood reedita algunos diseños» solo respaldado por el Met en forma de «aún en producción»; sin tocar el campo. materials de la ficha incluye caucho y muselina: no confirmados (V&A: algodón, lana, metal, cuero); sin tocar.",
+   "El título ES está en inglés («Westwood and McLaren punk clothes») en la ficha: parece un error de traducción, no lo toqué."
+  ]
+ },
+ {
+  "id": "arpilleras-1974",
+  "en": {
+   "key": "Small scenes sewn from scraps of cloth by women in Chile, which told of life under the dictatorship and were sent abroad as testimony.[1][2]",
+   "more": "The arpilleras arose soon after the coup of 1973, made by mothers, wives and daughters of the detained and disappeared.[1] Workshops grew markedly with the support of the Vicaría de la Solidaridad, which began work in January 1976 and bought the finished pieces.[1][2] The women applied scraps of cloth onto a burlap or cotton backing, with scenes of arrests and disappearances, unemployment, soup kitchens and protest.[1][2] The pieces were sold and smuggled abroad, bringing income to the families.[1][2]"
+  },
+  "es": {
+   "key": "Pequeñas escenas cosidas con retazos por mujeres en Chile, que contaron la vida bajo la dictadura y salieron al extranjero como testimonio.[1][2]",
+   "more": "Las arpilleras surgieron poco después del golpe de 1973, hechas por madres, esposas e hijas de detenidos desaparecidos.[1] Los talleres crecieron notablemente con el apoyo de la Vicaría de la Solidaridad, que comenzó a funcionar en enero de 1976 y compraba las piezas terminadas.[1][2] Las mujeres aplicaban retazos de tela sobre un soporte de arpillera o algodón, con escenas de detenciones y desapariciones, cesantía, ollas comunes y protesta.[1][2] Las piezas se vendían y salían clandestinamente al extranjero, y dejaban ingresos a las familias.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Museo de la Memoria y los Derechos Humanos, «Arpilleras» (2.ª ed.)",
+    "url": "https://manager.mmdh.cl/uploads/ARPILLERAS_2ed_0ea80a9623.pdf",
+    "checks": "Surgen poco después del golpe de 1973, hechas por madres, esposas e hijas de detenidos desaparecidos; la Vicaría comenzó en enero de 1976 y los talleres aumentaron con su apoyo; retazos aplicados sobre yute o algodón; temas (detenciones, desapariciones, ollas comunes, cesantía, manifestaciones); exportadas clandestinamente, ingresos familiares. ⚠ lectura mediante resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Crafts Council, «Sewing protest: The Santiago Arpilleras»",
+    "url": "https://www.craftscouncil.org.uk/stories/sewing-protest-the-santiago-arpilleras",
+    "checks": "Talleres hacia 1975 organizados por la Agrupación de Familiares de Detenidos Desaparecidos; la Vicaría (1976) organizó talleres, dio materiales y compró las piezas; sacos de arpillera como base; venta internacional por las redes de la Iglesia y envío clandestino; escenas de pobreza, detención y desaparición. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «from c. 1974» y «desde 1976 muchas trabajaron en talleres»: las fuentes dan «poco después del golpe» y «hacia 1975» para los primeros talleres, y 1976 solo como inicio de la Vicaría; el campo date «c. 1974–1990» quedó sin tocar (los años 1974 y 1990 no están confirmados).",
+   "Quité «lost their jobs» como origen y «hambre»: reemplazado por temas que las fuentes sí citan. «Embroidered»: el Museo de la Memoria distingue la técnica de aplicación del bordado tradicional; Crafts Council habla de piezas bordadas; mantuve «aplicados» solo.",
+   "Status («se conservan en museos y archivos; la técnica sigue practicándose») sin fuente consultada; sin tocar. materials dice «bordados sobre arpillera»: sin tocar. Smarthistory fecha las arpilleras en los años 1980, lo que contradice al Museo de la Memoria; se descartó por no ser fuente confiable en esa fecha."
+  ]
+ },
+ {
+  "id": "i-love-ny-1977",
+  "en": {
+   "key": "Milton Glaser’s logo of the letters I and NY with a red heart between them, made for New York State’s tourism campaign of the late 1970s.[1]",
+   "more": "Glaser’s logo was part of New York State’s ‘I Love New York’ campaign, created with the agency Wells, Rich, Greene, in an effort to renew the state’s image and economy.[1] The state holds the trademark.[1] After the attacks of 11 September 2001 he made ‘I ♥ NY More Than Ever’, with a bruised heart marked dark at its lower left edge.[1]"
+  },
+  "es": {
+   "key": "El logotipo de Milton Glaser con las letras I y NY y un corazón rojo en medio, hecho para la campaña turística del estado de Nueva York de fines de los años setenta.[1]",
+   "more": "El logotipo de Glaser fue parte de la campaña «I Love New York» del estado de Nueva York, creada con la agencia Wells, Rich, Greene, para renovar la imagen y la economía del estado.[1] El estado tiene la marca registrada.[1] Tras los atentados del 11 de septiembre de 2001 hizo «I ♥ NY More Than Ever», con un corazón magullado y marcado en oscuro en su borde inferior izquierdo.[1]"
+  },
+  "refs": [
+   {
+    "label": "Museum of the City of New York, «Milton Glaser and I ♥ New York»",
+    "url": "https://www.mcny.org/story/milton-glaser-and-i-heart-new-york",
+    "checks": "Logo dibujado a fines de los años setenta; parte de la campaña de imagen y revitalización económica del estado de Nueva York (Wells, Rich, Greene); marca registrada del estado; versión de 2001 «More Than Ever» con un corazón magullado y una marca oscura en el borde inferior izquierdo. ⚠ no confirma 1977, el trabajo gratuito, American Typewriter ni la crisis financiera de la ciudad.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «1977» del texto (queda en year/date sin tocar): la fuente dice solo «fines de los setenta».",
+   "Quité «sin cobrar», «American Typewriter… suena a habla cotidiana», «el corazón hace de verbo» y «la crisis financiera»: no confirmados. «Sigue usándolo el estado» e «imitado sin fin» sin fuente.",
+   "Solo una fuente: se agotó el límite de uso antes de abrir MoMA y el 9/11 Memorial; conviene una segunda pasada."
+  ]
+ }
+]

@@ -1,0 +1,551 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-fordism",
+   "track": "economic",
+   "start": 1914,
+   "end": 1945,
+   "cont": true,
+   "date": "1914 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Fordism",
+   "short": "Fordism",
+   "key": "Henry Ford’s model of a moving assembly line, standard products and high wages, which made mass production the model for the century.",
+   "happened": "Ford introduced the moving assembly line at Highland Park in 1913[1] and the five-dollar day in January 1914.[2] The price of the Model T fell from 850 dollars to as little as 260 over its production run, and more than 15 million were built between 1908 and 1927.[2]",
+   "effect": "Mass production became the declared model of modern design: Le Corbusier conceived his Citrohan house (1920–22) as a ‘machine for living in’ by analogy with industrial production, and named it after Citroën cars.[3] In Germany, where Ford’s book appeared in translation in 1923, employers, unions and conservatives each found something to admire in Fordism, and the Nazi ‘people’s car’ project of the 1930s took Ford’s Dearborn factory and the Model T as its model.[4]",
+   "wiki": "Fordism",
+   "es": {
+    "name": "Fordismo",
+    "short": "Fordismo",
+    "date": "1914 →",
+    "key": "El modelo de Henry Ford de cadena de montaje móvil, productos estándar y salarios altos, que hizo de la producción en masa el modelo del siglo.",
+    "happened": "Ford introdujo la cadena de montaje móvil en Highland Park en 1913[1] y el salario de cinco dólares diarios en enero de 1914.[2] El precio del Model T bajó de 850 dólares a hasta 260 durante su producción, y entre 1908 y 1927 se fabricaron más de 15 millones.[2]",
+    "effect": "La producción en masa se volvió el modelo declarado del diseño moderno: Le Corbusier concibió su casa Citrohan (1920–22) como una «máquina de habitar», por analogía con la producción industrial, y la bautizó en homenaje a los autos Citroën.[3] En Alemania, donde el libro de Ford apareció traducido en 1923, empresarios, sindicatos y conservadores encontraron cada uno algo que admirar en el fordismo, y el proyecto nazi del auto «del pueblo» de los años treinta tomó como modelo la fábrica de Dearborn y el Model T.[4]"
+   },
+   "refs": [
+    {
+     "label": "Ford Motor Company, «Assembly Line Revolution»",
+     "url": "https://corporate.ford.com/articles/history/moving-assembly-line/",
+     "checks": "Línea de montaje móvil introducida en 1913 en la planta de Highland Park. ⚠ La página da precios del Model T de 825 dólares (1908) y 260 (1925), distintos de los de The Henry Ford; por eso no se usan sus cifras.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Henry Ford, «Henry Ford: Assembly Line»",
+     "url": "https://www.thehenryford.org/collections/explore/sets/detail/henry-ford-assembly-line",
+     "checks": "Salario de cinco dólares por jornada de ocho horas anunciado en enero de 1914 (antes, 2,34 por nueve horas); el precio del Model T bajó de 850 dólares a hasta 260 durante su producción; más de 15 millones de Model T entre 1908 y 1927.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondation Le Corbusier / Le Corbusier World Heritage, «1917–1928»",
+     "url": "https://lecorbusier-worldheritage.org/1917-1928/",
+     "checks": "Maison Citrohan (1920–1922) concebida como «máquina de habitar» por analogía con la producción industrial; nombre en homenaje a los autos Citroën; vivienda estandarizada. ⚠ La página no habla de Ford.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stefan Link, «Rethinking the Ford-Nazi Connection», Zeithistorische Forschungen 8 (2011)",
+     "url": "https://zeithistorische-forschungen.de/sites/default/files/medien/material/2009-2/Link_2011.pdf?language=en",
+     "checks": "La Alemania de Weimar se «enamoró» del fordismo cuando My Life and Work salió en alemán a comienzos de 1923; empresarios, sindicatos y conservadores veían en Ford algo para cada uno (p. 139); el Volkswagen nazi tomó como modelo la fábrica de Dearborn y el Model T (p. 146). ⚠ Leído mediante resumen automático; comprobar las citas antes de publicarlas.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-german-rationalisation",
+   "track": "economic",
+   "start": 1921,
+   "end": 1929,
+   "date": "1920s",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "German rationalisation",
+   "short": "Rationalisation",
+   "key": "A national campaign to make German industry efficient after the war through standards, time studies and American methods.",
+   "happened": "The RKW, a national board for efficiency in industry and crafts, was founded in Berlin on 10 June 1921 on the initiative of the economics ministry.[1] Ford’s methods drew German employers from 1923, when his book appeared in German.[2] City housing programmes applied Taylor’s scientific management: Frankfurt had about 10,000 standard kitchens made for its municipal estates between 1925 and 1930.[3] Industrial standards such as DIN spread in the same years, after the currency was stabilised in 1923–24.",
+   "effect": "Efficiency became a design value in its own right: the Frankfurt Kitchen was planned on taylorised work processes and measured movements, and was made in three standard sizes.[3][4] Standardisation was also seen by Bauhaus and Werkbund activists as a way to level differences between classes.[4]",
+   "wiki": "Scientific_management",
+   "es": {
+    "name": "Racionalización alemana",
+    "short": "Racionalización",
+    "date": "años 1920",
+    "key": "Una campaña nacional para volver eficiente la industria alemana tras la guerra, mediante normas, estudios de tiempos y métodos estadounidenses.",
+    "happened": "El RKW, organismo nacional para la eficiencia en la industria y la artesanía, se fundó en Berlín el 10 de junio de 1921 por iniciativa del Ministerio de Economía.[1] Los métodos de Ford atrajeron a los empresarios alemanes desde 1923, cuando su libro apareció en alemán.[2] Los programas municipales de vivienda aplicaron la gestión científica de Taylor: Frankfurt hizo fabricar unas 10.000 cocinas estándar para sus conjuntos municipales entre 1925 y 1930.[3] Las normas industriales como las DIN se difundieron en los mismos años, tras la estabilización de la moneda en 1923–24.",
+    "effect": "La eficiencia se volvió un valor de diseño en sí mismo: la Cocina de Frankfurt se planificó sobre procesos de trabajo taylorizados y movimientos medidos, y se fabricó en tres tamaños estándar.[3][4] Para los activistas del Bauhaus y del Werkbund, además, la estandarización era una manera de nivelar las diferencias de clase.[4]"
+   },
+   "refs": [
+    {
+     "label": "RKW Kompetenzzentrum, «Die Geschichte des RKW»",
+     "url": "https://www.rkw-kompetenzzentrum.de/das-rkw/das-rkw/die-geschichte-des-rkw/",
+     "checks": "El RKW se fundó el 10 de junio de 1921 en Berlín, por iniciativa del Ministerio de Economía, como «Reichskuratorium für Wirtschaftlichkeit in Industrie und Handwerk»; objetivo: recuperar la competitividad alemana tras la guerra. ⚠ La página no menciona a Taylor, Ford, las normas DIN ni la estabilización de la moneda.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stefan Link, «Rethinking the Ford-Nazi Connection», Zeithistorische Forschungen 8 (2011)",
+     "url": "https://zeithistorische-forschungen.de/sites/default/files/medien/material/2009-2/Link_2011.pdf?language=en",
+     "checks": "Con la traducción alemana de My Life and Work (comienzos de 1923) Weimar se «enamoró» del fordismo; los empresarios buscaban en él la racionalización (p. 139). ⚠ Leído mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Frankfurt Kitchen (Schütte-Lihotzky)",
+     "url": "https://collections.vam.ac.uk/item/O121079/frankfurt-kitchen-kitchen-schutte-lihotzky-margarete/",
+     "checks": "Cocina diseñada en 1926–1927 con la gestión científica de Taylor y los estudios de movimientos de Christine Frederick; unas 10.000 cocinas fabricadas para las viviendas municipales de Frankfurt (1925–1930); tres tamaños.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museum der Dinge, «The Frankfurt Kitchen»",
+     "url": "https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/",
+     "checks": "Cocina «planificada a partir de procesos de trabajo taylorizados»; traslado de procesos de trabajo industriales racionalizados al hogar; la estandarización como posición ideológica de los activistas del Bauhaus y el Werkbund, para nivelar las diferencias de clase.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-consumer-credit",
+   "track": "economic",
+   "start": 1920,
+   "end": 1929,
+   "date": "1920s",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Mass consumption and credit",
+   "short": "Consumer credit",
+   "key": "Buying on instalments let American households acquire cars, radios and appliances, and turned the home into a market.",
+   "happened": "General Motors set up its own credit company, GMAC, in 1919.[1] By 1930 most appliances, radios and furniture sold in the United States, and more than two-thirds of all automobiles, were bought on the instalment plan.[2] In 1927, the year Ford stopped making the Model T, Chevrolet outsold Ford.[3][4] GM, under Alfred Sloan, had been making annual model changes since 1925.[4]",
+   "effect": "When most people could buy, competition moved to appearance: styling, colour and the annual model became sales tools, and GM’s marketing stressed ‘style, comfort, and status’ more than price.[4] GM hired the designer Harley Earl, whose 1927 LaSalle offered 482 colour combinations, and put him at the head of a new Art and Colour Section.[5]",
+   "wiki": "Roaring_Twenties",
+   "es": {
+    "name": "Consumo masivo y crédito",
+    "short": "Crédito al consumo",
+    "date": "años 1920",
+    "key": "La compra a plazos permitió a los hogares estadounidenses adquirir autos, radios y artefactos, y convirtió el hogar en un mercado.",
+    "happened": "General Motors creó su propia compañía de crédito, GMAC, en 1919.[1] Hacia 1930 la mayoría de los artefactos, radios y muebles vendidos en Estados Unidos, y más de dos tercios de los autos, se compraban a plazos.[2] En 1927, el año en que Ford dejó de fabricar el Model T, Chevrolet vendió más que Ford.[3][4] GM, bajo Alfred Sloan, hacía cambios anuales de modelo desde 1925.[4]",
+    "effect": "Cuando la mayoría podía comprar, la competencia se trasladó a la apariencia: el estilo, el color y el modelo anual se volvieron herramientas de venta, y el marketing de GM destacaba el «estilo, la comodidad y el estatus» más que el precio.[4] GM contrató al diseñador Harley Earl, cuyo LaSalle de 1927 ofrecía 482 combinaciones de color, y lo puso al frente de una nueva Art and Colour Section.[5]"
+   },
+   "refs": [
+    {
+     "label": "Federal Reserve Bank of Richmond, Econ Focus 2016 Q1, reseña de libro sobre historia del crédito",
+     "url": "https://www.richmondfed.org/publications/research/econ_focus/2016/q1/book_review",
+     "checks": "General Motors creó su financiera propia, GMAC, en 1919, para dar crédito a los compradores de autos nuevos y competir con Ford. ⚠ Texto de reseña; no da porcentajes.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "American RadioWorks (American Public Media), «The American Dream and Consumer Credit»",
+     "url": "https://americanradioworks.publicradio.org/features/americandream/b1.html",
+     "checks": "GMAC creada en 1919 (35 % de pie y el resto en cuotas en un año); hacia 1930 la mayoría de los artefactos, radios y muebles se compraba a plazos, incluidos más de dos tercios de los autos. ⚠ Fuente periodística, no académica.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "American Business History Center, «A Century of Automobile Industry History in Charts»",
+     "url": "https://americanbusinesshistory.org/a-century-of-automobile-industry-history-in-charts/",
+     "checks": "En 1927 Chevrolet vendió más que Ford; Ford cerró la fábrica para desarrollar el Model A. ⚠ Fuente divulgativa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "EBSCO Research Starters, «American automobile industry in the 1920s»",
+     "url": "https://www.ebsco.com/research-starters/history/american-automobile-industry-1920s/",
+     "checks": "Producción del Model T hasta 1927; GM superó a Ford en ventas hacia 1927; Alfred Sloan introdujo los cambios anuales de modelo desde 1925 y vendía «estilo, comodidad y estatus» más que precio. ⚠ Enciclopedia divulgativa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Heritage Museums & Gardens, «1927 LaSalle Sport Phaeton»",
+     "url": "https://heritagemuseumsandgardens.org/hmg/1927-lasalle-sport-phaeton/",
+     "checks": "GM contrató a Harley Earl para diseñar el LaSalle; 482 combinaciones de color con la nueva pintura de DuPont; GM creó una «Art and Colour Section» y puso a Earl a la cabeza.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-great-depression",
+   "track": "economic",
+   "start": 1929,
+   "end": 1939,
+   "date": "1929–1939",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "GB",
+    "CL"
+   ],
+   "name": "Great Depression",
+   "short": "Great Depression",
+   "key": "The world economic crisis that began with the Wall Street crash of October 1929 and lasted through the 1930s.",
+   "happened": "Share prices collapsed in late October 1929.[1] International commerce contracted and tight money tipped economies around the world into recession.[1] Chile, which depended on nitrate and copper exports, was judged by the League of Nations to be the country hardest hit, since 80 percent of government revenue came from those exports.[2]",
+   "effect": "Manufacturers facing saturated markets turned to industrial designers to make their products look new and desirable,[3][4] and the consultant designer became a profession in the United States.[4] Governments responded with public works and plans to industrialise: the New Deal’s Works Progress Administration (1935) put millions of unemployed Americans to work,[5] and in Chile the state created the Production Development Corporation, Corfo, in 1939.[2]",
+   "wiki": "Great_Depression",
+   "es": {
+    "name": "Gran Depresión",
+    "short": "Gran Depresión",
+    "date": "1929–1939",
+    "key": "La crisis económica mundial que empezó con el crac de Wall Street de octubre de 1929 y duró toda la década de 1930.",
+    "happened": "Las acciones se desplomaron a fines de octubre de 1929.[1] El comercio internacional se contrajo y la política monetaria restrictiva hundió en la recesión a economías de todo el mundo.[1] Chile, que dependía de las exportaciones de salitre y cobre, fue considerado por la Sociedad de las Naciones el país más golpeado, pues el 80 % de los ingresos fiscales venía de esas exportaciones.[2]",
+    "effect": "Frente a mercados saturados, los fabricantes recurrieron a diseñadores industriales para que sus productos se vieran nuevos y deseables,[3][4] y el diseñador consultor se volvió una profesión en Estados Unidos.[4] Los gobiernos respondieron con obras públicas y planes de industrialización: la Works Progress Administration (1935) del New Deal dio trabajo a millones de desempleados estadounidenses,[5] y en Chile el Estado creó la Corporación de Fomento de la Producción, Corfo, en 1939.[2]"
+   },
+   "refs": [
+    {
+     "label": "Federal Reserve History, «Stock Market Crash of 1929»",
+     "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+     "checks": "Caídas del 28 y 29 de octubre de 1929 (Dow −13 % y −12 %); por el patrón oro, la política monetaria restrictiva hundió a economías de todo el mundo en recesión y el comercio internacional se contrajo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Library of Congress, Country Studies: Chile, «Evolution of the Economy» (vía countrystudies.us)",
+     "url": "https://countrystudies.us/chile/57.htm",
+     "checks": "Según la Sociedad de las Naciones, Chile fue el país más golpeado por la Depresión porque el 80 % de los ingresos fiscales venía de las exportaciones de cobre y salitre; en 1930 el PIB cayó 14 %; el Estado creó Corfo en 1939. ⚠ Sitio espejo de los Country Studies de la Biblioteca del Congreso.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Design, 1925–50»",
+     "url": "https://metmuseum.org/toah/hd/dsgn2/hd_dsgn2.htm",
+     "checks": "En la Gran Depresión las empresas recurrieron a diseñadores como Dreyfuss y Loewy para crear productos atractivos y estimular la demanda.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "PBS, American Experience, «Streamliners: the designers»",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/",
+     "checks": "La profesión de diseñador industrial nació del crac de 1929: las empresas sobrevivientes, ante mercados saturados y competencia intensa, contrataron diseñadores consultores (Teague, Bel Geddes, Dreyfuss, Loewy).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Library of Congress, Works Progress Administration Posters, «Overview»",
+     "url": "https://www.loc.gov/static/collections/works-progress-administration-posters/about-this-collection/overview.html",
+     "checks": "En 1935 Roosevelt creó la WPA, dentro del New Deal, para dar trabajo a millones de desempleados.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-planned-obsolescence",
+   "track": "economic",
+   "start": 1932,
+   "date": "1932",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Planned obsolescence",
+   "short": "Obsolescence",
+   "key": "The idea of making products wear out or go out of fashion so that people buy again, proposed as a cure for the Depression.",
+   "happened": "In 1932 Bernard London, reported to be a real-estate broker active in New York financial circles, published the pamphlet Ending the Depression Through Planned Obsolescence, which proposed a legal lifespan for goods.[1] It was never adopted. The same year, Roy Sheldon and Egmont Arens published Consumer Engineering: A New Technique for Prosperity, which argued that buying things, not wearing them out, creates prosperity and presented ‘obsoletism’, replacement driven by style.[1]",
+   "effect": "What spread was not London’s law but obsolescence of style: yearly redesigns and fashionable forms that made last year’s model look old, as in General Motors’ annual model changes from 1925.[2] Designers were hired partly to give products a new look that would stimulate demand.[3]",
+   "wiki": "Planned_obsolescence",
+   "es": {
+    "name": "Obsolescencia planificada",
+    "short": "Obsolescencia",
+    "date": "1932",
+    "key": "La idea de hacer que los productos se gasten o pasen de moda para que la gente vuelva a comprar, propuesta como remedio para la Depresión.",
+    "happened": "En 1932 Bernard London, que según se informa era corredor de propiedades y actuaba en los círculos financieros de Nueva York, publicó el folleto Ending the Depression Through Planned Obsolescence, que proponía fijar por ley la vida útil de los bienes.[1] Nunca se adoptó. El mismo año, Roy Sheldon y Egmont Arens publicaron Consumer Engineering: A New Technique for Prosperity, que sostenía que lo que da prosperidad es comprar cosas y no gastarlas, y presentaba la «obsolescencia de moda» (obsoletism), el reemplazo impulsado por el estilo.[1]",
+    "effect": "Lo que se difundió no fue la ley de London sino la obsolescencia de estilo: rediseños anuales y formas de moda que hacían ver viejo el modelo del año anterior, como los cambios anuales de modelo de General Motors desde 1925.[2] En parte se contrató a diseñadores para dar a los productos una apariencia nueva que estimulara la demanda.[3]"
+   },
+   "refs": [
+    {
+     "label": "Pierre-Emmanuel Moyse, «The Uneasy Case of Programmed Obsolescence», UNB Law Journal",
+     "url": "https://journals.lib.unb.ca/index.php/unblj/article/download/34216/1882530039/1882540737",
+     "checks": "London publicó en 1932 el folleto Ending the Depression Through Planned Obsolescence; se dice que era un corredor de propiedades nacido en Rusia, activo en círculos financieros de Nueva York; proponía que el gobierno fijara la «vida útil» de los productos; en 1932 Sheldon y Arens publicaron Consumer Engineering: A New Technique for Prosperity («obsoletism»; «wearing things out does not produce prosperity, but buying things does»). ⚠ Leído mediante resumen automático; comprobar las citas antes de publicarlas. El artículo no dice que la propuesta de London se haya aprobado.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "EBSCO Research Starters, «American automobile industry in the 1920s»",
+     "url": "https://www.ebsco.com/research-starters/history/american-automobile-industry-1920s/",
+     "checks": "Sloan instituyó los cambios anuales de modelo desde 1925 y vendía «estilo, comodidad y estatus» más que precio. ⚠ Enciclopedia divulgativa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Design, 1925–50»",
+     "url": "https://metmuseum.org/toah/hd/dsgn2/hd_dsgn2.htm",
+     "checks": "En la Depresión las empresas recurrieron a diseñadores como Dreyfuss y Loewy para crear productos atractivos y estimular la demanda.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-five-year-plan",
+   "track": "economic",
+   "start": 1928,
+   "end": 1932,
+   "date": "1928–1932",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "First Five-Year Plan",
+   "short": "Five-Year Plan",
+   "key": "Stalin’s programme of forced industrialisation and collectivisation of farming, from October 1928 to the end of 1932.",
+   "happened": "The plan built huge projects such as the steel city of Magnitogorsk and the Dnieper dam, and moved millions of peasants to the cities; it was declared fulfilled in four years and three months.",
+   "effect": "Propaganda had to show the plan’s progress at home and abroad, so photomontage, posters and illustrated magazines were put at its service: USSR in Construction, from 1930, was published in several languages to project an image of rapid modernisation,[1] and Gustav Klutsis argued that photomontage was ‘more comprehensible to the masses’ than painting.[2] The period of open experiment ended at the same time: a decree of 23 April 1932 dissolved the independent arts organisations and put commissions, sales and exhibitions under party control, and Socialist Realism was decreed the official art form in 1934.[3]",
+   "wiki": "First_five-year_plan_(Soviet_Union)",
+   "es": {
+    "name": "Primer Plan Quinquenal",
+    "short": "Plan Quinquenal",
+    "date": "1928–1932",
+    "key": "El programa de Stalin de industrialización forzada y colectivización del campo, desde octubre de 1928 hasta fines de 1932.",
+    "happened": "El plan construyó proyectos enormes, como la ciudad del acero de Magnitogorsk y la represa del Dniéper, y trasladó a millones de campesinos a las ciudades; se declaró cumplido en cuatro años y tres meses.",
+    "effect": "La propaganda tenía que mostrar los avances del plan dentro y fuera del país, y por eso el fotomontaje, los carteles y las revistas ilustradas se pusieron a su servicio: La URSS en construcción, desde 1930, se publicó en varios idiomas para proyectar una imagen de modernización rápida,[1] y Gustav Klutsis sostenía que el fotomontaje era «más comprensible para las masas» que la pintura.[2] El período de experimentación abierta terminó por esos mismos años: un decreto del 23 de abril de 1932 disolvió las organizaciones artísticas independientes y puso los encargos, las ventas y las exposiciones bajo control del partido, y en 1934 se decretó el realismo socialista como arte oficial.[3]"
+   },
+   "refs": [
+    {
+     "label": "Wende Museum, «USSR in Construction»",
+     "url": "https://wendemuseum.org/collection/ussr-in-construction/",
+     "checks": "Revista publicada de 1930 a 1941, en varios idiomas; trató de granjas colectivas, industria pesada, transporte, educación y salud; diseñada para proyectar una imagen de modernización rápida, unidad nacional y progreso socialista. ⚠ La página no menciona el Plan Quinquenal.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Harvard, Russia Global, «Gustav Klutsis, propaganda poster»",
+     "url": "https://russiaglobal.omeka.fas.harvard.edu/exhibits/show/objects/politics/klutsis",
+     "checks": "Klutsis defendía el fotomontaje como «más veraz, más vivo y más comprensible para las masas»; carteles de propaganda impresos por editoriales estatales centralizadas. ⚠ La página no detalla el Plan Quinquenal.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "EBSCO Research Starters, «Soviet Union bans abstract art»",
+     "url": "https://www.ebsco.com/research-starters/arts-and-entertainment/soviet-union-bans-abstract-art",
+     "checks": "Decreto del 23 de abril de 1932 que disolvió las demás organizaciones artísticas y centralizó encargos, ventas y exposiciones bajo el partido; el realismo socialista, nombrado por Stalin, se decretó en 1934. ⚠ La página no habla del Plan Quinquenal.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-war-economy",
+   "track": "economic",
+   "start": 1939,
+   "end": 1945,
+   "date": "1939–1945",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "DE"
+   ],
+   "name": "War economy and rationing",
+   "short": "War economy",
+   "key": "During the Second World War states controlled raw materials, factories and consumption, and rationed goods such as clothing and furniture.",
+   "happened": "Britain’s Utility Scheme set specifications for clothing from 1941, within raw-material restrictions and rationing,[1] and for furniture from 1942–43, when timber was diverted to the war effort.[2][3] In the United States, the War Production Board’s Regulation L-85 rationed natural fibres in 1942, and nylon stockings stopped being made so that nylon could go to parachutes.[5]",
+   "effect": "Scarcity imposed simple, standard designs that used little material and could be made by any factory: Utility furniture was limited to about 100 designs made by some 700 producers,[2] in ‘simple but agreeable designs’.[4] It also made designers part of national planning: Gordon Russell chaired the design panel that helped form the Council for Industrial Design.[2] The war also pushed mass production of military vehicles: about 660,000 Jeeps were built by Willys, Ford and Bantam.[6]",
+   "wiki": "Rationing_in_the_United_Kingdom",
+   "es": {
+    "name": "Economía de guerra y racionamiento",
+    "short": "Economía de guerra",
+    "date": "1939–1945",
+    "key": "Durante la Segunda Guerra Mundial los Estados controlaron materias primas, fábricas y consumo, y racionaron bienes como la ropa y los muebles.",
+    "happened": "El plan Utility británico fijó especificaciones para la ropa desde 1941, dentro de las restricciones de materias primas y del racionamiento,[1] y para los muebles desde 1942–43, cuando la madera se desvió al esfuerzo bélico.[2][3] En Estados Unidos, la Regulación L-85 de la War Production Board racionó las fibras naturales en 1942, y se dejaron de fabricar medias de nailon para que el nailon fuera a los paracaídas.[5]",
+    "effect": "La escasez impuso diseños simples y estándar, que usaban poco material y podía fabricar cualquier taller: los muebles Utility se limitaron a unos 100 diseños, hechos por unos 700 productores,[2] en «diseños simples pero agradables».[4] También hizo de quienes diseñan parte de la planificación nacional: Gordon Russell presidió el panel de diseño que ayudó a formar el Council for Industrial Design.[2] La guerra impulsó además la producción en masa de vehículos militares: se fabricaron unos 660.000 Jeeps, por Willys, Ford y Bantam.[6]"
+   },
+   "refs": [
+    {
+     "label": "V&A, abrigo de Digby Morton para la Incorporated Society of London Fashion Designers (1942)",
+     "url": "https://collections.vam.ac.uk/item/O155933/coat-morton-digby/",
+     "checks": "Plan Utility británico desde 1941 para ropa, dentro de las restricciones de materias primas y el racionamiento; límites en botones, puños y bastas; símbolo CC41.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Gordon Russell Design Museum, «Furniture and the Second World War» (PDF)",
+     "url": "https://www.gordonrusselldesignmuseum.org/wp-content/uploads/2017/02/furniture-wars.pdf",
+     "checks": "Plan Utility de muebles establecido en 1942 y lanzado el 1 de enero de 1943; materias primas desviadas al esfuerzo bélico; unos 100 diseños estándar, hechos por unos 700 productores; Gordon Russell presidió el panel de diseño, que contribuyó a formar el Council for Industrial Design; permisos de compra con cupones. ⚠ Leído mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, silla infantil Utility (1942–1948)",
+     "url": "https://collections.vam.ac.uk/item/O184522/chair-utility/",
+     "checks": "La madera era uno de los materiales más escasos y los muebles una de las clases de bienes más controladas; marca CC41.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museum Wales, «Rationing furniture during the Second World War»",
+     "url": "https://museum.wales/blog/2168/Rationing-furniture-during-the-Second-World-War-/",
+     "checks": "El plan Utility del Board of Trade buscaba muebles «de construcción sólida, en diseños simples pero agradables y a precios razonables»; primer catálogo (1943) con unas 30 piezas simples que ahorraban material. ⚠ Da 1941 como año de creación; otras fuentes dicen 1942.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian, National Museum of American History, «Dressing for War»",
+     "url": "https://americanhistory.si.edu/explore/exhibitions/price-of-freedom/online/world-war-ii/mobilizing-war/dressing-for-war",
+     "checks": "La Regulación L-85 de la War Production Board (1942) racionó las fibras naturales; se dejó de fabricar medias de nailon para hacer paracaídas; límites de color, largo de faldas y puños.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian, National Museum of American History, Jeep (objeto nmah_841492)",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_841492",
+     "checks": "Unos 660.000 Jeeps fabricados en la Segunda Guerra Mundial por Willys-Overland, Ford y American Bantam.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-advertising-boom",
+   "track": "economic",
+   "start": 1920,
+   "end": 1939,
+   "date": "1920s–1930s",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "FR",
+    "DE",
+    "IT"
+   ],
+   "name": "Advertising boom",
+   "short": "Advertising boom",
+   "key": "Mass production needed mass selling: advertisers and agencies turned to modern artists to make products and brands stand out.",
+   "happened": "In the 1920s and 1930s advertising agencies grew into large firms that sold modern life as much as products.[1] In Europe, companies and public bodies commissioned modern artists directly: London’s Underground for its posters, the Bauer foundry for the launch of Futura, Campari for posters and, in 1932, the bottle of Campari Soda.[2][3][4]",
+   "effect": "Posters, packaging, typefaces and magazines became tools of competition: firms hired designers whose bold, simple forms could stop a passer-by, and some designs, such as Depero’s Campari Soda bottle (1932), carried the brand without a label.[3][4]",
+   "wiki": "History_of_advertising",
+   "refs": [
+    {
+     "label": "Roland Marchand, Advertising the American Dream (1985), JSTOR",
+     "checks": "Las agencias estadounidenses y la publicidad como venta de la vida moderna (1920–1940). ⚠ Libro citado por su ficha; no leído en esta revisión.",
+     "date": "2026-10-03",
+     "url": "https://www.jstor.org/stable/jj.6047952"
+    },
+    {
+     "label": "Design Museum, «London Transport»",
+     "checks": "Frank Pick encargó a artistas y diseñadores la identidad y los carteles del metro de Londres.",
+     "date": "2026-10-03",
+     "url": "https://designmuseum.org/london-transport"
+    },
+    {
+     "label": "Museum Angewandte Kunst Frankfurt, folleto «Futura. Die Schrift unserer Zeit»",
+     "checks": "Folleto de Bauer que presentó la Futura (1927) como «la tipografía de nuestro tiempo».",
+     "date": "2026-10-03",
+     "url": "https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/0d5cc3a5-e6f8-424e-9258-7deeef78bde3"
+    },
+    {
+     "label": "Domus, «The story of Depero’s Campari Soda bottle» (2022)",
+     "checks": "Campari trabajó con artistas en su publicidad (Depero); botella de 1932 sin etiqueta de papel.",
+     "date": "2026-10-03",
+     "url": "https://www.domusweb.it/en/design/2022/02/23/depero-campari-soda-bottle.html"
+    }
+   ],
+   "es": {
+    "name": "Auge de la publicidad",
+    "short": "Auge de la publicidad",
+    "date": "años 1920–1930",
+    "key": "La producción en masa pidió venta en masa: anunciantes y agencias recurrieron a artistas modernos para que productos y marcas se destacaran.",
+    "happened": "En los años veinte y treinta las agencias de publicidad se volvieron grandes empresas que vendían la vida moderna tanto como los productos.[1] En Europa, empresas y organismos públicos encargaron directamente a artistas modernos: el metro de Londres sus carteles, la fundición Bauer el lanzamiento de la Futura, Campari sus carteles y, en 1932, la botella de Campari Soda.[2][3][4]",
+    "effect": "Carteles, envases, tipografías y revistas se volvieron herramientas de competencia: las empresas contrataron a diseñadores cuyas formas simples y contundentes podían detener a un transeúnte, y algunos diseños, como la botella de Campari Soda de Depero (1932), llevaban la marca sin etiqueta.[3][4]"
+   }
+  },
+  {
+   "id": "ctx-nep",
+   "track": "economic",
+   "start": 1921,
+   "end": 1928,
+   "date": "1921–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "New Economic Policy",
+   "short": "NEP",
+   "key": "After the civil war, Lenin’s New Economic Policy brought back private trade and a consumer market to Soviet Russia.",
+   "happened": "In 1921 the Soviet state allowed private trade and small private businesses again; the policy ended with the first Five-Year Plan of 1928. State enterprises had to sell to consumers in a market.[1]",
+   "effect": "Constructivists turned to advertising and consumer goods: Rodchenko’s ‘Advertising Constructor’ agency made posters for state enterprises,[3] and probably from autumn 1923 Popova and Stepanova designed printed fabrics for the First State Textile Printing Factory, aimed at women in towns and villages.[1][2]",
+   "wiki": "New_Economic_Policy",
+   "refs": [
+    {
+     "label": "Tate Papers 14, «Liubov Popova: From Painting to Textile Design»",
+     "checks": "Trabajo de Popova y Stepanova en la fábrica, probablemente desde el otoño de 1923; la NEP creó un mercado de consumo; telas para mujeres del campo y de barrios obreros. ⚠ Las fechas 1921 y 1928 de la NEP van sin marca: falta una fuente directa (A6).",
+     "date": "2026-10-03",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design"
+    },
+    {
+     "label": "V&A, franela estampada de Varvara Stepanova (1924)",
+     "checks": "Franela estampada de Stepanova para la fábrica Tsindel (1924).",
+     "date": "2026-10-03",
+     "url": "https://collections.vam.ac.uk/item/O1371413"
+    },
+    {
+     "label": "MoMA, Rodchenko, Reklam-Konstruktor (Advertising Constructor) Agency, maqueta de cartel para el cacao de la Dirección del Té (c. 1924)",
+     "checks": "Agencia «Reklam-Konstruktor» de Ródchenko; maqueta de cartel publicitario para una empresa estatal, c. 1924.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/217713"
+    }
+   ],
+   "es": {
+    "name": "Nueva Política Económica",
+    "short": "NEP",
+    "date": "1921–1928",
+    "key": "Tras la guerra civil, la Nueva Política Económica de Lenin devolvió el comercio privado y un mercado de consumo a la Rusia soviética.",
+    "happened": "En 1921 el Estado soviético volvió a permitir el comercio privado y los pequeños negocios; la política terminó con el primer Plan Quinquenal, en 1928. Las empresas estatales tuvieron que vender a los consumidores en un mercado.[1]",
+    "effect": "Los constructivistas se volcaron a la publicidad y a los bienes de consumo: la agencia «Constructor de Publicidad» de Ródchenko hizo carteles para empresas estatales,[3] y probablemente desde el otoño de 1923 Popova y Stepánova diseñaron telas estampadas para la Primera Fábrica Estatal de Estampados, pensadas para mujeres de ciudades y aldeas.[1][2]"
+   }
+  },
+  {
+   "id": "ctx-corfo",
+   "track": "economic",
+   "start": 1939,
+   "date": "1939",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "CORFO",
+   "short": "CORFO",
+   "key": "Chile’s state development agency, created in 1939 to rebuild after the Chillán earthquake and to industrialise the country.",
+   "happened": "Law 6,334 of 29 April 1939, passed by the Popular Front government of Pedro Aguirre Cerda after the earthquake of January 1939, created the Corporación de Fomento de la Producción. It later founded the state electricity, steel and oil companies.",
+   "effect": "It opened Chile’s policy of state-led industrialisation to replace imports; its effects on Chilean industrial design came mostly after 1945. In this period it belongs to the same modernising state project that took in the Spanish refugees of 1939.",
+   "wiki": "CORFO",
+   "es": {
+    "name": "CORFO",
+    "short": "CORFO",
+    "date": "1939",
+    "key": "La agencia estatal de fomento de Chile, creada en 1939 para reconstruir tras el terremoto de Chillán e industrializar el país.",
+    "happened": "La Ley 6.334, del 29 de abril de 1939, dictada por el gobierno del Frente Popular de Pedro Aguirre Cerda tras el terremoto de enero de 1939, creó la Corporación de Fomento de la Producción. Más tarde fundó las empresas estatales de electricidad, acero y petróleo.",
+    "effect": "Inauguró la política chilena de industrialización dirigida por el Estado para sustituir importaciones; sus efectos en el diseño industrial chileno llegaron sobre todo después de 1945. En este período forma parte del mismo proyecto estatal modernizador que acogió a los refugiados españoles de 1939."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-professionalisation-design",
+   "track": "economic",
+   "start": 1915,
+   "end": 1975,
+   "cont": false,
+   "date": "1915–1975",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [],
+   "name": "Professionalisation and promotion of design",
+   "short": "Professionalisation",
+   "key": "The growth of associations, state councils and prizes that turned design into a recognised profession and a tool for selling goods.",
+   "happened": "From the Design and Industries Association, founded in Britain in 1915, designers, manufacturers and governments built organisations to promote design. In the following decades came state bodies such as Britain’s Council of Industrial Design (1944), professional societies and design prizes.",
+   "effect": "Associations gave industry and designers a shared forum, and state councils and prizes presented good design as a way to improve products and win export markets. Design became a profession with its own bodies, standards and awards, and a prize or a seal of approval became a commercial argument.",
+   "es": {
+    "name": "Profesionalización y promoción del diseño",
+    "short": "Profesionalización",
+    "date": "1915–1975",
+    "key": "El crecimiento de asociaciones, consejos estatales y premios que hicieron del diseño una profesión reconocida y una herramienta para vender productos.",
+    "happened": "Desde la Design and Industries Association, fundada en Gran Bretaña en 1915, diseñadores, fabricantes y gobiernos crearon organizaciones para promover el diseño. En las décadas siguientes llegaron organismos estatales como el Council of Industrial Design británico (1944), sociedades profesionales y premios de diseño.",
+    "effect": "Las asociaciones dieron a la industria y a los diseñadores un foro común, y los consejos estatales y los premios presentaron el buen diseño como una forma de mejorar los productos y ganar mercados de exportación. El diseño pasó a ser una profesión con sus propios organismos, normas y premios, y un galardón o sello se volvió un argumento comercial."
+   },
+   "refs": []
+  }
+ ]
+}

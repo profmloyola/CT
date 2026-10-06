@@ -1,0 +1,1106 @@
+{
+ "movements": [
+  {
+   "id": "de-stijl",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1917,
+   "end": 1931,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "name": "De Stijl",
+   "short": "De Stijl",
+   "key": "A Dutch group that reduced form to straight lines, right angles and primary colours, and applied it to painting, furniture, typography and architecture.[1][4]",
+   "traits": [
+    "Horizontal and vertical lines only[4][8]",
+    "Red, yellow and blue with black, white and grey[1][4]",
+    "Asymmetric balance of rectangular planes[1][4]",
+    "Furniture and buildings made of rectilinear planes[5][6]",
+    "One language for painting, design and architecture[1][4]"
+   ],
+   "context": "It formed in the Netherlands, neutral during the First World War,[2] around the magazine De Stijl founded by Theo van Doesburg, whose first issue appeared in October 1917.[1][2] Its 1918 manifesto saw the war as the destruction of the old, individualist world and called for the universal and for an international unity in life, art and culture.[3] The group ended with Van Doesburg’s death in March 1931.[2][8]",
+   "shift": "From decoration to a system of elementary forms that could be applied to any object or building.[1][4] Van Doesburg moved to Weimar in 1921 and gave his own De Stijl course there, close to the Bauhaus, which carried the group’s ideas to its students.[2][7]",
+   "wiki": "De_Stijl",
+   "es": {
+    "name": "De Stijl",
+    "short": "De Stijl",
+    "key": "Un grupo neerlandés que redujo la forma a líneas rectas, ángulos rectos y colores primarios, y la aplicó a la pintura, el mobiliario, la tipografía y la arquitectura.[1][4]",
+    "traits": [
+     "Solo líneas horizontales y verticales[4][8]",
+     "Rojo, amarillo y azul con negro, blanco y gris[1][4]",
+     "Equilibrio asimétrico de planos rectangulares[1][4]",
+     "Muebles y edificios hechos de planos rectilíneos[5][6]",
+     "Un mismo lenguaje para pintura, diseño y arquitectura[1][4]"
+    ],
+    "context": "Se formó en los Países Bajos, neutrales en la Primera Guerra Mundial,[2] en torno a la revista De Stijl, que fundó Theo van Doesburg y cuyo primer número salió en octubre de 1917.[1][2] Su manifiesto de 1918 vio en la guerra la destrucción del viejo mundo individualista y pidió lo universal y una unidad internacional en la vida, el arte y la cultura.[3] El grupo terminó con la muerte de Van Doesburg en marzo de 1931.[2][8]",
+    "shift": "De la decoración a un sistema de formas elementales aplicable a cualquier objeto o edificio.[1][4] Van Doesburg se instaló en Weimar en 1921 y dio allí su propio curso De Stijl, cerca de la Bauhaus, que llevó las ideas del grupo a sus estudiantes.[2][7]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, De Stijl",
+     "url": "https://www.britannica.com/topic/De-Stijl-art",
+     "checks": "Grupo establecido en 1917 con Mondrian y Van Doesburg, entre otros; Van Doesburg lanzó la revista De Stijl (1917–32); Mondrian redujo la pintura a líneas rectas, planos, rectángulos y los colores primarios con neutros (negro, gris, blanco); influyó en la pintura, las artes decorativas (muebles), la tipografía y la arquitectura; su estética llegó a la Bauhaus y al Estilo Internacional. ⚠ Da 1917–32 para la revista.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate Etc., «Avant-garde apostle: Theo van Doesburg»",
+     "url": "https://www.tate.org.uk/tate-etc/issue-18-spring-2010/avant-garde-apostle",
+     "checks": "El primer número de De Stijl apareció en octubre de 1917; su país seguía neutral en la guerra; Van Doesburg se instaló cerca de la Bauhaus (Weimar) y creó su propio curso De Stijl (1921–22); murió el 7 de marzo de 1931 en Davos. ⚠ Resumen leído, no el texto completo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "DBNL, De Stijl, año 2 (1918), «Manifest I»",
+     "url": "https://www.dbnl.org/tekst/_sti001stij02_01/_sti001stij02_01_0079.php",
+     "checks": "Texto primario de 1918: «la guerra destruye el viejo mundo»; lo viejo se dirige a lo individual y lo nuevo a lo universal; solidaridad con quienes luchan por una unidad internacional en la vida, el arte y la cultura; firmantes (Van Doesburg, Mondrian, Huszár, Kok, Van ’t Hoff, Vantongerloo, Wils). ⚠ Traducción del neerlandés hecha a partir de un resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Centre Pompidou, recurso pedagógico «Mondrian / De Stijl»",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-mondrian/ENS-mondrian-en.html",
+     "checks": "Revista en 1917 y manifiesto en 1918; neutralidad de los Países Bajos; colores primarios con negro, blanco y gris; solo líneas horizontales y verticales; equilibrio asimétrico («balance in dissymmetry»); ambición de un lenguaje artístico universal; aplicación a arquitectura, mobiliario, tipografía y artes gráficas; Van Doesburg en la Bauhaus (1921–22).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Gerrit Rietveld, Red Blue Chair, 1918–1923",
+     "url": "https://www.moma.org/collection/works/4044",
+     "checks": "Silla de madera pintada; Rietveld manejó volúmenes rectilíneos y la interacción de planos verticales y horizontales; colores primarios y negro, añadidos hacia 1923.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Rietveld Schröderhuis (Centraal Museum), página principal",
+     "url": "https://www.rietveldschroderhuis.nl/en",
+     "checks": "Casa proyectada en 1924 en Utrecht; ilustra De Stijl con líneas horizontales y verticales limpias y todos los colores primarios junto al blanco, el gris y el negro; tabiques corredizos en lugar de muros fijos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Letterform Archive, «Timeline» de la exposición Bauhaus",
+     "url": "https://exhibitions.letterformarchive.org/bauhaus/timeline",
+     "checks": "1921: Van Doesburg se instala en Weimar; no enseñó en la Bauhaus, pero introdujo entre artistas y estudiantes locales la objetividad, la producción industrial y una paleta limitada. ⚠ Contradice a Britannica (biografía), que dice que enseñó en la Bauhaus en 1921–23.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, glosario «De Stijl»",
+     "url": "https://www.tate.org.uk/art/art-terms/d/de-stijl",
+     "checks": "Fundado en 1917 por Mondrian y Van Doesburg; geometría estricta de horizontales y verticales; arquitectos como Rietveld y Oud; Mondrian se retiró en 1923; Van Doesburg mantuvo la publicación hasta 1931.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "constructivism",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1921,
+   "end": 1932,
+   "fadeIn": 3,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "Constructivism",
+   "short": "Constructivism",
+   "key": "Soviet artists who rejected conventional aesthetics and took their work into posters, books, textiles, clothing and buildings.[1][2][7][9]",
+   "traits": [
+    "Art as construction with industrial materials[2][3]",
+    "Geometric forms, diagonals and stark colour[1][5]",
+    "Photomontage and bold typography[5][9]",
+    "Design for propaganda, advertising and everyday use[1][5][7]",
+    "The artist as engineer and constructor[3]"
+   ],
+   "context": "Its roots go back to Vladimir Tatlin’s abstract counter-reliefs of 1914–15.[1] The First Working Group of Constructivists was formed in March 1921 at INKhUK in Moscow,[1][8] in the Soviet state born of the 1917 Revolution. State schools such as Vkhutemas, founded by Lenin’s decree of 18 December 1920,[6] and advertising for state enterprises under the New Economic Policy[5] gave it work, until a decree of 23 April 1932 dissolved the independent art organisations.[4]",
+   "shift": "From the artist as painter to the artist as constructor working for production:[2][3] in 1923 Liubov Popova and Varvara Stepanova left easel painting to design textiles for a Moscow state factory,[7] and graphic design, clothing and architecture became fields of the avant-garde.[1]",
+   "wiki": "Constructivism_(art)",
+   "es": {
+    "name": "Constructivismo",
+    "short": "Constructivismo",
+    "key": "Artistas soviéticos que rechazaron la estética convencional y llevaron su trabajo a carteles, libros, textiles, ropa y edificios.[1][2][7][9]",
+    "traits": [
+     "El arte como construcción con materiales industriales[2][3]",
+     "Formas geométricas, diagonales y colores contundentes[1][5]",
+     "Fotomontaje y tipografía contundente[5][9]",
+     "Diseño para la propaganda, la publicidad y el uso diario[1][5][7]",
+     "El artista como ingeniero y constructor[3]"
+    ],
+    "context": "Sus raíces se remontan a los contrarrelieves abstractos de Vladímir Tatlin de 1914–15.[1] El Primer Grupo de Trabajo de Constructivistas se formó en marzo de 1921 en el INKhUK de Moscú,[1][8] en el Estado soviético nacido de la Revolución de 1917. Escuelas estatales como el VKhUTEMAS, fundado por decreto de Lenin el 18 de diciembre de 1920,[6] y la publicidad para empresas estatales de la Nueva Política Económica[5] le dieron trabajo, hasta que un decreto del 23 de abril de 1932 disolvió las organizaciones artísticas independientes.[4]",
+    "shift": "Del artista como pintor al artista como constructor que trabaja para la producción:[2][3] en 1923 Liubov Popova y Varvara Stepanova dejaron la pintura de caballete para diseñar textiles para una fábrica estatal de Moscú,[7] y el diseño gráfico, la ropa y la arquitectura pasaron a ser campos de la vanguardia.[1]"
+   },
+   "refs": [
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Constructivism»",
+     "url": "https://www.rem.routledge.com/articles/overview/constructivism",
+     "checks": "Contrarrelieves de Tatlin (1914–15); Primer Grupo de Trabajo de Constructivistas, fundado en el INKhUK de Moscú en marzo de 1921; diseño gráfico y propaganda (Lissitzky, Golpea a los blancos con la cuña roja, 1920) con «líneas diagonales de fuerza»; Stepanova diseñó ropa de trabajo, ropa deportiva y textiles; Monumento a la Tercera Internacional (1919–20); publicidad de la NEP y la revista LEF (1923–25); decreto de 1932 que disolvió los grupos artísticos independientes. ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, glosario «Constructivism»",
+     "url": "https://www.tate.org.uk/art/art-terms/c/constructivism",
+     "checks": "Movimiento austero de arte abstracto con materiales industriales, iniciado por Tatlin hacia 1915; hacia 1921 los artistas rusos adoptaron el nombre; en 1923 definieron la «formación material del objeto» frente a la combinación estética y trataron el arte como producción industrial; fue reprimido a fines de la década en la URSS. ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Constructivism»",
+     "url": "https://www.britannica.com/art/Constructivism-art",
+     "checks": "Materiales industriales modernos (plástico, acero, vidrio), tecnología y funcionalismo; sus miembros fueron llamados «artistas-ingenieros». ⚠ Da 1913 como inicio (reliefs de Tatlin) y deriva el nombre del Manifiesto Realista de Gabo y Pevsner (1920), lo que difiere de la fecha de 1921 usada en la ficha.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "EBSCO Research Starters, «Soviet Union Bans Abstract Art»",
+     "url": "https://www.ebsco.com/research-starters/arts-and-entertainment/soviet-union-bans-abstract-art",
+     "checks": "El 23 de abril de 1932 el Comité Central emitió el decreto «sobre la reconstrucción de las organizaciones literarias y artísticas», que disolvió las demás organizaciones de apoyo a las artes; eliminó las asociaciones independientes, entre ellas las del constructivismo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Art Story, «Constructivism»",
+     "url": "https://www.theartstory.org/movement/constructivism/",
+     "checks": "Contrarrelieves de Tatlin de 1914–15; VKhUTEMAS formó técnicos; en la NEP, Ródchenko, Stepánova y Maiakovski hicieron publicidad para cooperativas estatales con tipografía contundente, colores vivos y formas geométricas; cartel de Lissitzky de 1919 con diagonales y colores intensos; el régimen apoyó el realismo socialista a comienzos de los años treinta. ⚠ Fuente secundaria (sitio educativo).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "VKhUTEMAS (sitio del centenario), «The History»",
+     "url": "https://www.vkhutemas.ru/en/the-history/",
+     "checks": "Fundado en Moscú por decreto de Lenin el 18 de diciembre de 1920 para formar artistas para la industria; facultades industriales de polígrafo, textil, cerámica, madera y metal; profesores como Ródchenko, Tatlin y Lissitzky.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate Papers, «Liubov Popova: From Painting to Textile Design»",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design",
+     "checks": "En 1923 Popova y Stepanova empezaron a diseñar telas para la Primera Fábrica Estatal de Estampado Textil de Moscú; en 1921 Popova escribió que la organización de los elementos artísticos debía aplicarse a los elementos materiales de la vida cotidiana.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Rodchenko, exposición de 1998, «New cultural…»",
+     "url": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/texts/new_cultural.html",
+     "checks": "Primer Grupo de Trabajo de Constructivistas formado en marzo de 1921, con su plataforma; Ródchenko enseñó en VKhUTEMAS desde fines de 1920 hasta su cierre en 1930. ⚠ No trata la NEP ni la publicidad.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "British Library, blog europeo, «Love, Art and Rejection: Mayakovsky’s Pro eto»",
+     "url": "https://blogs.bl.uk/european/2019/07/love-art-and-rejection-mayakovskys-pro-eto.html",
+     "checks": "Libro Pro eto (1923) de Maiakovski con fotomontajes de Ródchenko; publicado antes en LEF; integración de fotografía y tipografía como ejemplo de principios constructivistas.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "bauhaus-movement",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1919,
+   "end": 1933,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Bauhaus",
+   "short": "Bauhaus",
+   "key": "A way of teaching and designing that joined craft, art and industry, aiming at well-made prototypes for mass production.[1][2]",
+   "traits": [
+    "Geometric forms without applied ornament[1]",
+    "Primary colours and sans-serif, often lower-case lettering[1]",
+    "Tubular steel and other industrial materials[1][3]",
+    "Workshops where art, craft and industry meet[2][3]",
+    "Design for housing and daily use[1][3]"
+   ],
+   "context": "It took shape in Germany after the First World War, when Walter Gropius founded the Staatliches Bauhaus in Weimar in 1919 by merging two existing art schools.[2][3] In 1923 the school turned toward industrial production;[3] it moved to Dessau in 1925[2][4] and to Berlin in 1932, and was closed in 1933 under Nazi pressure.[1][4] Exile then spread its teaching to Britain and the United States.[1][4]",
+   "shift": "From the hand-made one-off to the prototype for industrial production.[1][3] In 1923 Gropius redirected the school under the motto ‘Art and Technology – A New Unity’.[3]",
+   "wiki": "Bauhaus",
+   "es": {
+    "name": "Bauhaus",
+    "short": "Bauhaus",
+    "key": "Una manera de enseñar y diseñar que unió oficio, arte e industria, en busca de prototipos bien hechos para la producción en serie.[1][2]",
+    "traits": [
+     "Formas geométricas sin ornamento aplicado[1]",
+     "Colores primarios y letras sin serifa, a menudo en minúscula[1]",
+     "Tubo de acero y otros materiales industriales[1][3]",
+     "Talleres donde se encuentran arte, oficio e industria[2][3]",
+     "Diseño para la vivienda y el uso diario[1][3]"
+    ],
+    "context": "Se formó en la Alemania posterior a la Primera Guerra Mundial, cuando Walter Gropius fundó la Staatliches Bauhaus en Weimar en 1919 al fusionar dos escuelas de arte existentes.[2][3] En 1923 la escuela giró hacia la producción industrial;[3] se trasladó a Dessau en 1925[2][4] y a Berlín en 1932, y cerró en 1933 por presión nazi.[1][4] Luego el exilio llevó su enseñanza a Gran Bretaña y Estados Unidos.[1][4]",
+    "shift": "De la pieza única hecha a mano al prototipo para la producción industrial.[1][3] En 1923 Gropius reorientó la escuela bajo el lema «Arte y técnica, una nueva unidad».[3]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Bauhaus»",
+     "url": "https://www.britannica.com/topic/Bauhaus",
+     "checks": "Gropius la fundó en 1919 en Weimar con la meta de unir oficio, arte e industria y crear prototipos para la producción en serie; se trasladó a Dessau en 1925 y a Berlín en 1932 y cerró en 1933 por presión nazi; formas geométricas sin ornamento, acero tubular, tipografía sans-serif en minúscula, colores primarios, soluciones de vivienda; profesores y alumnos se dispersaron por Gran Bretaña y Estados Unidos. ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Getty Research Institute, «History of the Bauhaus»",
+     "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/history/",
+     "checks": "Fundada el 1 de abril de 1919 en Weimar con Gropius, después de la Primera Guerra Mundial y por fusión de dos escuelas de arte existentes; unir las artes plásticas y aplicadas mediante la arquitectura y el diseño; Dessau en 1925 por presión de las fuerzas conservadoras, Berlín en 1932, cierre por las autoridades nazis en 1933.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, «Walter Gropius»",
+     "url": "https://bauhauskooperation.com/magazine/knowledge/walter-gropius",
+     "checks": "1919: Gropius fundó la Staatliches Bauhaus Weimar; 1923: exposición «Arte y técnica, una nueva unidad» y giro hacia la producción industrial; traslado a Dessau (1925–26); edificio de Dessau y conjunto de Dessau-Törten (1926–28), con métodos racionalizados de construcción de viviendas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus-Archiv Berlin, «14 Years of Bauhaus»",
+     "url": "https://www.bauhaus.de/en/discover/article/14-years-of-bauhaus/",
+     "checks": "Traslado a Dessau en 1925 (el concejo municipal asumió la escuela); Berlín en 1932 como institución privada de Mies tras las ganancias nazis; edificio registrado y sellado por la policía el 11 de abril de 1933 y cierre votado por el cuerpo docente el 20 de julio de 1933; Albers y Moholy-Nagy a EE. UU. y Gropius a Gran Bretaña y luego a EE. UU.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "art-deco",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1920,
+   "end": 1939,
+   "fadeIn": 3,
+   "fadeOut": 4,
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "FR",
+    "US",
+    "GB",
+    "BR",
+    "MX"
+   ],
+   "name": "Art Deco",
+   "short": "Art Deco",
+   "key": "The modern decorative style of the interwar years, from Paris luxury to New York skyscrapers, which joined bold geometry with glamour.[1][3]",
+   "traits": [
+    "Sharp geometric patterns and streamlined forms[3]",
+    "Ornament that is geometric or stylised from representational forms[1]",
+    "Luxury handcrafted materials beside new ones: lacquer and ebony with chrome and Bakelite[1][2]",
+    "Glamour, luxury and faith in progress[3]",
+    "Posters with geometric forms and lettering integrated into the image, as in Cassandre’s work[4]"
+   ],
+   "context": "It grew out of French decorative arts of the years before the 1920s and was presented internationally at the 1925 Exposition internationale des arts décoratifs et industriels modernes in Paris,[2][3] reaching cinema, ocean liners and skyscrapers.[1][3] At the time it was called ‘style moderne’;[1][3] the name Art Deco, derived from the title of that exhibition,[2] was coined only in the 1960s[1] and popularised by Bevis Hillier’s 1968 book.[3]",
+   "shift": "It made modern forms elegant and glamorous, but kept ornament, geometric or stylised;[1][3] it became the dominant style in the United States in the 1930s[1] and its popularity waned by 1939.[3]",
+   "wiki": "Art_Deco",
+   "es": {
+    "name": "Art déco",
+    "short": "Art déco",
+    "key": "El estilo decorativo moderno de entreguerras, del lujo parisino a los rascacielos de Nueva York, que unió la geometría audaz con el glamour.[1][3]",
+    "traits": [
+     "Patrones geométricos nítidos y formas aerodinámicas[3]",
+     "Ornamento geométrico o estilizado a partir de formas representativas[1]",
+     "Materiales de lujo hechos a mano junto a otros nuevos: laca y ébano con cromo y baquelita[1][2]",
+     "Glamour, lujo y fe en el progreso[3]",
+     "Carteles con formas geométricas y letras integradas en la imagen, como en Cassandre[4]"
+    ],
+    "context": "Surgió de las artes decorativas francesas de los años anteriores a 1920 y se presentó internacionalmente en la Exposición internacional de artes decorativas e industriales modernas de París de 1925,[2][3] llegando al cine, los transatlánticos y los rascacielos.[1][3] En su época se le llamaba «style moderne»;[1][3] el nombre art déco, derivado del título de esa exposición,[2] se acuñó recién en los años sesenta[1] y lo popularizó el libro de Bevis Hillier de 1968.[3]",
+    "shift": "Hizo elegantes y glamorosos los modernos, pero conservó el ornamento, geométrico o estilizado;[1][3] se volvió el estilo dominante en Estados Unidos en los años treinta[1] y su popularidad decayó hacia 1939.[3]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Art Deco»",
+     "url": "https://www.britannica.com/art/Art-Deco",
+     "checks": "Surgió en Europa occidental en los años 1910–20 y fue dominante en EE. UU. en los años treinta; «formas simples y limpias, a menudo con aspecto aerodinámico; ornamento geométrico o estilizado a partir de formas representativas»; materiales variados (laca, ébano, cromo, baquelita); originalmente «style moderne», nombre acuñado décadas más tarde, en los años sesenta; impulso de la Exposición de París de 1925; cine, transatlánticos, rascacielos (Chrysler Building, 1930). ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Exposition Internationale des Arts Décoratifs et Industriels Modernes»",
+     "url": "https://www.britannica.com/place/Exposition-Internationale-des-Arts-Decoratifs-et-Industriels-Modernes",
+     "checks": "París, 1925; el nombre Art Deco deriva del nombre de esta exposición, donde el estilo se exhibió por primera vez; mezcla de objetos de lujo hechos a mano y de producción masiva; aumentó la popularidad del estilo durante unos quince años.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "New York Public Library, «Art Deco: 95 Years and Thriving»",
+     "url": "https://www.nypl.org/blog/2020/11/09/art-deco-95-years-and-thriving",
+     "checks": "Surgió de la tradición francesa de artes decorativas anterior a los años veinte y se presentó internacionalmente en la exposición de 1925; elegancia, riqueza y sofisticación; llamado «style moderne» o «Jazz Moderne»; Bevis Hillier popularizó el nombre en su libro de 1968; patrones geométricos nítidos y formas aerodinámicas en rascacielos, cine, transatlánticos y objetos; la Depresión y la guerra lo hicieron decaer hacia 1939. ⚠ Blog de biblioteca; leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "King & McGaw, «Art Deco travel posters by A.M. Cassandre»",
+     "url": "https://www.kingandmcgaw.com/stories/cassandre-art-deco-travel-posters",
+     "checks": "Cassandre (1901–1968): carteles con formas geométricas, perspectivas extremas e integración de tipografía e imagen (Nord Express, 1927; Wagon-Bar, 1932; Normandie, 1935). ⚠ Vendedor de reproducciones; solo respalda el rasgo de los carteles.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "new-typography",
+   "level": "normal",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1923,
+   "end": 1939,
+   "fadeIn": 2,
+   "fadeOut": 4,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "NL",
+    "RU",
+    "CH",
+    "PL",
+    "CZ"
+   ],
+   "name": "New Typography",
+   "short": "New Typography",
+   "key": "A modern approach to printed design that replaced traditional symmetrical layouts with asymmetry, sans-serif type, photographs and standard formats.[1][2]",
+   "traits": [
+    "Asymmetric layouts[1][2]",
+    "Sans-serif types[1][2]",
+    "Photographs and photomontage combined with type[1][6]",
+    "Standard DIN paper formats[1]",
+    "Maximum clarity: the form of the printed piece subordinated to its function[1]"
+   ],
+   "context": "Moholy-Nagy, who arrived at the Bauhaus in 1923, used the tools of mass production to remake its typographic image[5] and contributed to the catalogue of its 1923 exhibition;[1] El Lissitzky’s ‘Topography of Typography’ appeared in Merz the same year.[1][4] Tschichold’s 1925 ‘elementare typographie’ and his 1928 handbook Die neue Typographie turned these ideas into a programme.[2][3] It emerged from the Central European avant-gardes and suited the rationalising, standardising spirit of the time.[1] In 1933 Tschichold was arrested as a ‘cultural Bolshevik’ and fled to Switzerland;[2] his 1928 book is seen as the groundwork of the Swiss Style.[5]",
+   "shift": "It brought the avant-garde into everyday printing: Tschichold’s handbook addressed printers, compositors and designers,[2] and in 1928–31 he took part in a circle of ‘new advertising designers’ founded to spread the new typography.[6] Form was to serve function and clarity rather than decoration.[1]",
+   "wiki": "Jan_Tschichold",
+   "es": {
+    "name": "Nueva Tipografía",
+    "short": "Nueva Tipografía",
+    "key": "Un enfoque moderno del diseño impreso que reemplazó la composición simétrica tradicional por la asimetría, las letras sin serifa, la fotografía y los formatos normalizados.[1][2]",
+    "traits": [
+     "Composición asimétrica[1][2]",
+     "Letras sin serifa[1][2]",
+     "Fotografía y fotomontaje combinados con la letra[1][6]",
+     "Formatos de papel normalizados DIN[1]",
+     "Máxima claridad: la forma del impreso subordinada a su función[1]"
+    ],
+    "context": "Moholy-Nagy, que llegó a la Bauhaus en 1923, usó las herramientas de la producción en masa para renovar su imagen tipográfica[5] y participó en el catálogo de su exposición de 1923;[1] «Topografía de la tipografía» de El Lisitski apareció en Merz el mismo año.[1][4] El «elementare typographie» de Tschichold (1925) y su manual Die neue Typographie (1928) convirtieron esas ideas en programa.[2][3] Surgió de las vanguardias centroeuropeas y se ajustaba al espíritu racionalizador y normalizador de la época.[1] En 1933 Tschichold fue arrestado como «bolchevique cultural» y huyó a Suiza;[2] su libro de 1928 se considera la base del Estilo Suizo.[5]",
+    "shift": "Llevó la vanguardia a la imprenta cotidiana: el manual de Tschichold se dirigía a impresores, cajistas y diseñadores,[2] y entre 1928 y 1931 participó en un círculo de «nuevos diseñadores publicitarios» fundado para difundir la nueva tipografía.[6] La forma debía servir a la función y a la claridad, no a la decoración.[1]"
+   },
+   "refs": [
+    {
+     "label": "Kristof Van Gansen, «“Bold German graphic design”: Arts et métiers graphiques and New Typography», InVisible Culture 23",
+     "url": "https://www.invisibleculturejournal.com/pub/bold-german-graphic-design/release/1",
+     "checks": "Definición: «máxima claridad, sometiendo la forma del impreso a su función»; composición asimétrica, letra sin serifa, fotografía y formatos normalizados (DIN); Moholy-Nagy (catálogo de la exposición Bauhaus, 1923), Lissitzky (1923) y Tschichold (artículos de 1925 y Die neue Typographie, 1928); surgió de las vanguardias centroeuropeas y de la racionalización y estandarización. ⚠ Leído mediante resumen; el título ‘la nueva tipografía’ en el catálogo de 1923 no se confirmó textualmente.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Jan Tschichold»",
+     "url": "https://www.britannica.com/biography/Jan-Tschichold",
+     "checks": "La exposición de la Bauhaus de 1923 en Weimar lo marcó: rechazó los tipos tradicionales y la composición simétrica por la sans-serif geométrica; número «elementare typographie» (1925) de Typographische Mitteilungen; Die neue Typographie (1928), manual para impresores, cajistas y diseñadores; en 1933 fue arrestado como «bolchevique cultural» y huyó a Suiza.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bard Graduate Center, «Jan Tschichold and the New Typography»",
+     "url": "https://exhibitions.bgc.bard.edu/tschichold/",
+     "checks": "«Elementare Typographie» (1925), número especial de Typographische Mitteilungen con diez puntos; Die neue Typographie (1928), manual práctico que desarrolla esos puntos para el diseño gráfico.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Canadian Typography, «The Topology of Typography», El Lissitzky",
+     "url": "https://www.canadiantypography.ca/en/archives/item/the-topology-of-typography-el-lissitzky-37",
+     "checks": "«Topographie der Typographie», publicado en Merz n.º 4 (Hannover, 1923); las palabras impresas «se ven, no se oyen». ⚠ Fuente secundaria (archivo sobre una edición de 1983).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Letterform Archive, «Timeline» de la exposición Bauhaus",
+     "url": "https://exhibitions.letterformarchive.org/bauhaus/timeline",
+     "checks": "1923: Moholy-Nagy llega a dirigir el curso preliminar y usa las herramientas de la producción en masa para renovar la imagen tipográfica de la Bauhaus; 1928: Tschichold, cinco años después de visitar la exposición de 1923, sintetiza ideas de la Bauhaus y del constructivismo en The New Typography, base del Estilo Tipográfico Internacional o Estilo Suizo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Merrill C. Berman Collection, «Jan Tschichold: Designer, Theorist, Collector»",
+     "url": "https://mcbcollection.com/jan-tschichold-designer-theorist-collector",
+     "checks": "Libro de 1928 con textos teóricos y consejos prácticos, ilustrado con obras de Baumberger, Bayer, Heartfield, Lissitzky y Moholy-Nagy; Ring «neue Werbegestalter» (1928–31) para difundir la nueva tipografía; Foto-Auge (1929) con Franz Roh; exilio en Suiza en 1933.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "new-objectivity",
+   "level": "normal",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1924,
+   "end": 1933,
+   "fadeIn": 2,
+   "fadeOut": 1,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "AT",
+    "NL",
+    "CH",
+    "CZ"
+   ],
+   "name": "New Objectivity",
+   "short": "New Objectivity",
+   "key": "The sober, functional ‘new building’ of Weimar Germany, devoted to social housing, standard types and plain construction.[1][3][6]",
+   "traits": [
+    "Flat roofs and white façades[1][2]",
+    "Rows of houses and flats built in series, with gardens, light, air and sun[1][2]",
+    "Standardised door frames, windows, stairs, fittings and kitchens[2][6]",
+    "Affordable serial construction instead of the cramped tenements of the nineteenth century[1][2]",
+    "Colour used on façades and doors, as by Bruno Taut[2][5]"
+   ],
+   "context": "Known in German as Neue Sachlichkeit[3] or Neues Bauen,[1] it flourished while city governments and housing cooperatives built social housing on a large scale to ease the post-war housing shortage:[1] Bruno Taut was chief architect of the Berlin cooperative GEHAG from 1924 to 1931,[5] the Hufeisensiedlung in Britz was built from 1925,[1][2] and Ernst May’s Neues Frankfurt, launched in 1925 under Mayor Ludwig Landmann, built about 12,000 dwellings by 1930 and wound down around 1933.[4]",
+   "shift": "It made mass social housing a central task of modern architecture and design.[3][4] The Frankfurt Kitchen, designed in 1926 as a standard prototype, shows how the dwelling’s equipment became a design problem too.[6]",
+   "wiki": "New_Objectivity_(architecture)",
+   "es": {
+    "name": "Nueva Objetividad",
+    "short": "Nueva Objetividad",
+    "key": "La «nueva construcción» sobria y funcional de la Alemania de Weimar, dedicada a la vivienda social, los tipos estándar y la construcción sencilla.[1][3][6]",
+    "traits": [
+     "Techos planos y fachadas blancas[1][2]",
+     "Hileras de casas y departamentos construidos en serie, con jardín, luz, aire y sol[1][2]",
+     "Marcos de puertas, ventanas, escaleras, accesorios y cocinas normalizados[2][6]",
+     "Construcción en serie y asequible en lugar de los conventillos hacinados del siglo XIX[1][2]",
+     "Color en las fachadas y las puertas, como en Bruno Taut[2][5]"
+    ],
+    "context": "Conocida en alemán como Neue Sachlichkeit[3] o Neues Bauen,[1] floreció mientras los gobiernos municipales y las cooperativas de vivienda construían vivienda social a gran escala para aliviar la falta de vivienda de la posguerra:[1] Bruno Taut fue arquitecto jefe de la cooperativa berlinesa GEHAG entre 1924 y 1931,[5] la Hufeisensiedlung de Britz se construyó desde 1925[1][2] y el Neues Frankfurt de Ernst May, lanzado en 1925 bajo el alcalde Ludwig Landmann, levantó unas 12.000 viviendas hasta 1930 y se fue apagando hacia 1933.[4]",
+    "shift": "Hizo de la vivienda social masiva una tarea central de la arquitectura y el diseño modernos.[3][4] La Cocina de Frankfurt, diseñada en 1926 como prototipo estándar, muestra cómo el equipamiento de la vivienda pasó a ser también un problema de diseño.[6]"
+   },
+   "refs": [
+    {
+     "label": "Landesdenkmalamt Berlin, «Die Hufeisensiedlung in Britz»",
+     "url": "https://www.berlin.de/landesdenkmalamt/aktivitaeten/artikel.1471070.php",
+     "checks": "Hufeisensiedlung de Taut y Wagner (1925–1930), 1.964 viviendas, que respondió a la falta de vivienda de la posguerra con «viviendas modernas y asequibles con luz, aire y sol» frente a los conventillos; principios del Neues Bauen: construcción estandarizada, techos planos, rechazo de los patrones decimonónicos. ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Welterbe Siedlungen der Berliner Moderne, «Hufeisensiedlung Britz»",
+     "url": "https://welterbe-siedlungen-berlin.de/hufeisensiedlung/",
+     "checks": "Construcción 1925–1931; marcos de puertas, ventanas y escaleras normalizados para reducir costos; fachadas blancas con loggias celestes, hasta ocho colores en las puertas, techos planos, jardines; lema «Licht, Luft und Sonne»; construcción en serie sin monotonía. ⚠ Da 1925–1931; Landesdenkmalamt da 1925–1930.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Deutsche Stiftung Denkmalschutz, «Ernst-May-Haus»",
+     "url": "https://www.denkmalschutz.de/denkmal/ernst-may-haus.html",
+     "checks": "Römerstadt (1927–1929) dentro de «Das Neue Frankfurt»; cerca de 15.000 viviendas, «el programa de construcción más extenso de la República de Weimar»; Neue Sachlichkeit; Cocina de Frankfurt de Schütte-Lihotzky; hileras curvas y huertos en terrazas. ⚠ Leído mediante resumen; la fuente original solo se leyó así.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "hessenschau, «100 Jahre Neues Frankfurt»",
+     "url": "https://www.hessenschau.de/kultur/100-jahre-neues-frankfurt-wie-ein-mega-bauprogramm-frankfurt-seit-100-jahren-praegt-v1,100-jahre-das-neue-frankfurt-programm-100.html",
+     "checks": "Neues Frankfurt lanzado en 1925 bajo el alcalde Ludwig Landmann, con Ernst May como arquitecto de la ciudad; grave crisis de vivienda; unas 12.000 viviendas en más de 20 conjuntos entre 1925 y 1930; principios estandarizados; la iniciativa concluyó hacia 1933. ⚠ Periodismo regional; leído mediante resumen. Difiere del número de la DSD (15.000).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Bruno Taut",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1470",
+     "checks": "Arquitecto jefe de la cooperativa GEHAG (Berlín) entre 1924 y 1931, con más de 10.000 viviendas; Hufeisensiedlung; en Magdeburgo (1921–24) impulsó la campaña «Magdeburgo colorido» con unas 80 fachadas pintadas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «The Frankfurt Kitchen»",
+     "url": "https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/",
+     "checks": "Margarete Schütte-Lihotzky diseñó la cocina en 1926 como prototipo estándar; era uno de los modelos que el Werkbund y la Bauhaus propagaron para la «nueva vida»; el programa de Neues Frankfurt buscaba llevar a las clases bajas los estándares técnicos e higiénicos de la época (agua corriente, gas y electricidad).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "international-style",
+   "level": "essential",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1925,
+   "end": 1945,
+   "cont": true,
+   "fadeIn": 2,
+   "fadeOut": 0,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "FR",
+    "NL",
+    "FI"
+   ],
+   "name": "International Style",
+   "short": "International Style",
+   "key": "The name MoMA gave in 1932 to the modern architecture that had taken shape since the mid-1920s, presented as a shared formal style rather than a social programme.",
+   "traits": [
+    "Architecture as volume enclosed by thin planes, not as mass",
+    "Regularity instead of axial symmetry",
+    "No applied ornament",
+    "White walls, ribbon windows, flat roofs and open plans",
+    "Steel, glass and reinforced concrete"
+   ],
+   "context": "The buildings it grouped had appeared from the mid-1920s, such as Gropius’s Bauhaus building in Dessau (1925–26), so the movement dates from then even though its name is later. Henry-Russell Hitchcock and Philip Johnson’s exhibition Modern Architecture: International Exhibition opened at MoMA on 9 February 1932 and ran until 23 March,[1] with a book titled The International Style. In the Depression, and with European architects arriving as exiles, it introduced American clients to the work of Le Corbusier, Mies, Gropius and others.",
+   "shift": "It turned the European modern movement into an exportable style, separating its look from its social aims; after 1945 it became the language of corporate and public building worldwide.",
+   "wiki": "International_Style",
+   "es": {
+    "name": "Estilo Internacional",
+    "short": "Estilo Internacional",
+    "key": "El nombre que el MoMA dio en 1932 a la arquitectura moderna que se venía formando desde mediados de los años veinte, presentada como un estilo formal común más que como un programa social.",
+    "traits": [
+     "La arquitectura como volumen cerrado por planos delgados, no como masa",
+     "Regularidad en lugar de simetría axial",
+     "Sin ornamento aplicado",
+     "Muros blancos, ventanas corridas, techos planos y plantas libres",
+     "Acero, vidrio y hormigón armado"
+    ],
+    "context": "Los edificios que reunió habían aparecido desde mediados de los años veinte, como la Bauhaus de Gropius en Dessau (1925–26), de modo que el movimiento arranca entonces aunque su nombre sea posterior. La exposición de Henry-Russell Hitchcock y Philip Johnson, Modern Architecture: International Exhibition, se inauguró en el MoMA el 9 de febrero de 1932 y duró hasta el 23 de marzo,[1] junto con un libro titulado The International Style. En plena Depresión, y con arquitectos europeos llegando como exiliados, presentó a los clientes estadounidenses la obra de Le Corbusier, Mies, Gropius y otros.",
+    "shift": "Convirtió el movimiento moderno europeo en un estilo exportable, separando su aspecto de sus fines sociales; después de 1945 se volvió el lenguaje de los edificios corporativos y públicos en todo el mundo."
+   },
+   "refs": [
+    {
+     "label": "MoMA, «Modern Architecture: International Exhibition» (1932)",
+     "url": "https://www.moma.org/calendar/exhibitions/2044",
+     "checks": "Título de la exposición; fechas: 9 de febrero–23 de marzo de 1932, en el MoMA de Nueva York; 67 participantes (entre ellos J. J. P. Oud, Henry Wright, Van der Vlugt); catálogo de 204 páginas. ⚠ La página no trae el texto curatorial: no confirma los organizadores (Hitchcock y Johnson), el libro The International Style, el nombre del estilo ni la lista de arquitectos; el catálogo da «Feb. 10».",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "streamline-moderne",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1930,
+   "end": 1945,
+   "cont": true,
+   "fadeIn": 2,
+   "fadeOut": 0,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "FR",
+    "GB",
+    "DE",
+    "CZ"
+   ],
+   "name": "Streamline Moderne",
+   "short": "Streamline",
+   "key": "The style of the 1930s that applied the curved, tapered forms of aerodynamics to vehicles and to everyday objects that never moved.[1]",
+   "traits": [
+    "Rounded, tapered forms[1]",
+    "Long horizontal lines and ‘speed whiskers’",
+    "Smooth, seamless casings hiding the mechanism[3]",
+    "Chrome, Bakelite and polished metal",
+    "Nautical details: portholes and rails"
+   ],
+   "context": "It drew on the forms that reduce resistance in air and water and spread in the United States after the 1929 crash, when manufacturers turned to industrial designers to make their products stand out.[1][3] Bel Geddes’s book Horizons (1932) popularised the streamlined look,[2] Chicago’s Century of Progress (1933–34) was a turning point for streamlined vehicles,[1] and his Futurama at New York’s World’s Fair (1939–40) gave Depression-era Americans an optimistic image of the future.[2]",
+   "shift": "Industrial design took shape as a profession in the United States, with figures such as Loewy, Bel Geddes, Dreyfuss and Teague,[1][2] and styling became a sales tool: Loewy said that ‘the loveliest curve I know is the sales curve’.[3] Streamlining was also applied to objects with no aerodynamic need, such as pencil sharpeners and bathroom scales.[1]",
+   "wiki": "Streamline_Moderne",
+   "es": {
+    "name": "Streamline Moderne",
+    "short": "Streamline",
+    "key": "El estilo de los años treinta que aplicó las formas curvas y afiladas de la aerodinámica a vehículos y a objetos cotidianos que nunca se movían.[1]",
+    "traits": [
+     "Formas redondeadas y afiladas[1]",
+     "Largas líneas horizontales y «líneas de velocidad»",
+     "Carcasas lisas y continuas que ocultan el mecanismo[3]",
+     "Cromo, baquelita y metal pulido",
+     "Detalles náuticos: ojos de buey y barandas"
+    ],
+    "context": "Se apoyó en las formas que reducen la resistencia en el aire y el agua y se difundió en Estados Unidos tras el crac de 1929, cuando los fabricantes recurrieron a diseñadores industriales para que sus productos destacaran.[1][3] El libro Horizons (1932) de Bel Geddes popularizó el aspecto aerodinámico,[2] la Century of Progress de Chicago (1933–34) fue un punto de inflexión para los vehículos aerodinámicos[1] y su Futurama en la Feria Mundial de Nueva York (1939–40) dio a los estadounidenses de la Depresión una imagen optimista del futuro.[2]",
+    "shift": "El diseño industrial se consolidó como profesión en Estados Unidos, con figuras como Loewy, Bel Geddes, Dreyfuss y Teague,[1][2] y el estilo se volvió una herramienta de venta: Loewy decía que «la curva más bella que conozco es la curva de ventas».[3] El streamlining también se aplicó a objetos sin necesidad aerodinámica, como sacapuntas y balanzas de baño.[1]"
+   },
+   "refs": [
+    {
+     "label": "PBS American Experience, «Industrial Designers and Streamliners»",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/",
+     "checks": "El streamlining nació de formas eficientes (peces, aves) de contornos curvos y afilados que reducen la resistencia; tras el crac de 1929 los fabricantes buscaron diseñadores para diferenciar productos; Exposición Century of Progress de Chicago (1933–34); fracaso comercial del Dymaxion y del Airflow y éxito del Zephyr; Loewy, Bel Geddes, Dreyfuss y Teague; se aplicó a objetos sin necesidad aerodinámica (sacapuntas, plumas, batidoras, balanzas). ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Harry Ransom Center, comunicado «I Have Seen the Future» (2012)",
+     "url": "https://www.hrc.utexas.edu/press/releases/2012/i-have-seen-the-future.html",
+     "checks": "Norman Bel Geddes (1893–1958), figura fundadora del diseño industrial, popularizó la estética aerodinámica con Horizons (1932); Futurama en la Feria Mundial de Nueva York de 1939–40 para General Motors, con más de 35.000 pies cuadrados de maquetas, dio a los estadounidenses de la Depresión una visión optimista del futuro.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «Meet the Product Designer Who Made Mid-Century America Look Clean and Stylish»",
+     "url": "https://www.smithsonianmag.com/innovation/meet-product-designer-who-made-mid-century-america-look-clean-and-stylish-180972270/",
+     "checks": "En la Depresión los fabricantes recurrieron a diseñadores para vender más; Loewy rediseñó en 1929 el duplicador Gestetner con una carcasa que ocultaba el mecanismo; su lema «la curva más bella que conozco es la curva de ventas»; refrigerador de Sears de 1934. ⚠ Revista; leído mediante resumen.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "new-vision",
+   "level": "normal",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1925,
+   "end": 1939,
+   "fadeIn": 2,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "RU",
+    "CZ"
+   ],
+   "name": "New Vision",
+   "short": "New Vision",
+   "key": "A movement in photography and graphic design that used the camera to see the world in new ways: from above, from below, in close-up and in montage.[1]",
+   "traits": [
+    "Steep angles from above and below[1]",
+    "Fragmentary close-ups and tilted horizons[1]",
+    "Photograms made without a camera[1][3]",
+    "Photomontage, double exposure and combination printing[1]",
+    "The photograph as an independent medium[1]"
+   ],
+   "context": "Moholy-Nagy championed it as the photography of a technological culture,[1] and set out his ideas in his Bauhaus book Malerei, Photographie, Film (1925).[2] The Film und Foto exhibition in Stuttgart in 1929, with about 1,000 works from Europe, the Soviet Union and the United States, presented it internationally.[1]",
+   "shift": "Photography became a central element of modern graphic design: Tschichold co-edited Foto-Auge with Franz Roh in 1929 to stress its role,[4] and Moholy-Nagy promoted photographic experiment as an educator at the Bauhaus.[1][2]",
+   "wiki": "Neues_Sehen",
+   "es": {
+    "name": "Nueva Visión",
+    "short": "Nueva Visión",
+    "key": "Un movimiento de la fotografía y el diseño gráfico que usó la cámara para ver el mundo de maneras nuevas: desde arriba, desde abajo, en primer plano y en montaje.[1]",
+    "traits": [
+     "Ángulos pronunciados desde arriba y desde abajo[1]",
+     "Primeros planos fragmentarios y horizontes inclinados[1]",
+     "Fotogramas hechos sin cámara[1][3]",
+     "Fotomontaje, doble exposición e impresión combinada[1]",
+     "La fotografía como medio independiente[1]"
+    ],
+    "context": "Moholy-Nagy la defendió como la fotografía de una cultura tecnológica[1] y expuso sus ideas en su libro de la Bauhaus Malerei, Photographie, Film (1925).[2] La exposición Film und Foto de Stuttgart, en 1929, con unas 1.000 obras de Europa, la Unión Soviética y Estados Unidos, la presentó internacionalmente.[1]",
+    "shift": "La fotografía se volvió un elemento central del diseño gráfico moderno: Tschichold editó Foto-Auge con Franz Roh en 1929 para subrayar su papel,[4] y Moholy-Nagy promovió la experimentación fotográfica como docente de la Bauhaus.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, «New Vision Photography»",
+     "url": "https://www.metmuseum.org/essays/the-new-vision-of-photography",
+     "checks": "Moholy-Nagy impulsó la «nueva visión» desde una cultura tecnológica, con puntos de vista inesperados; ángulos extremos desde arriba y abajo, horizontes inclinados, primeros planos fragmentarios, fotogramas, fotomontaje, doble exposición e impresión combinada; la fotografía como medio independiente; centros en Alemania, Francia y Rusia; exposición Film und Foto, Stuttgart 1929, con unas 1.000 obras de Europa, la URSS y EE. UU. ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-843",
+     "checks": "Maestro de la Bauhaus (1923–1928); textos teóricos como Malerei, Photographie, Film (1925) y Von Material zu Architektur (1929); fotomontaje, cine experimental y Licht-Raum-Modulator; New Bauhaus de Chicago (1937).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «László Moholy-Nagy»",
+     "url": "https://www.britannica.com/biography/Laszlo-Moholy-Nagy",
+     "checks": "Moholy-Nagy, pintor y fotógrafo que trabajó con la luz; experimentó con fotogramas; dirigió el taller de metal de la Bauhaus; los 14 Bauhausbücher con Gropius. ⚠ Resumen: no trata Malerei, Photographie, Film.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Merrill C. Berman Collection, «Jan Tschichold: Designer, Theorist, Collector»",
+     "url": "https://mcbcollection.com/jan-tschichold-designer-theorist-collector",
+     "checks": "Foto-Auge (1929), editado por Tschichold con Franz Roh, destaca el papel esencial de la fotografía en el diseño moderno.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "surrealism-design",
+   "level": "normal",
+   "disciplines": [
+    "fashion",
+    "product"
+   ],
+   "start": 1930,
+   "end": 1939,
+   "fadeIn": 3,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Surrealism in design",
+   "short": "Surrealism",
+   "key": "In the 1930s Surrealist artists and designers carried visual play and displaced everyday objects into fashion, accessories and interiors.[1][2]",
+   "traits": [
+    "Trompe-l’œil, as in Schiaparelli’s bow-knot sweaters[3]",
+    "Everyday objects displaced: a shoe as a hat, a lobster on a dress[1][2]",
+    "Fragmented body imagery and impossible juxtapositions[1]",
+    "Collaboration between couturiers and artists[2][3]",
+    "Fashion, perfume and accessories as vehicles of Surrealism[3][4]"
+   ],
+   "context": "Surrealism emerged in 1924, and by the 1930s it had spread beyond the avant-garde into commercial design, from fashion and objects to interiors.[1] Elsa Schiaparelli became its leading interpreter in fashion[1][4] and worked with Salvador Dalí[2] and Jean Cocteau;[3] Alberto Giacometti, with Jean-Michel Frank, took part in decorating her new Paris salon in 1935,[3] and Leonor Fini designed the bottle of her perfume Shocking in 1937.[3]",
+   "shift": "Fashion became a field of collaboration with avant-garde artists,[2][3] and displacement and visual play entered the design of objects, graphics and interiors.[1]",
+   "wiki": "Elsa_Schiaparelli",
+   "es": {
+    "name": "Surrealismo aplicado",
+    "short": "Surrealismo",
+    "key": "En los años treinta artistas y diseñadores surrealistas llevaron el juego visual y los objetos cotidianos desplazados a la moda, los accesorios y los interiores.[1][2]",
+    "traits": [
+     "Trampantojo, como en los suéteres con lazos de Schiaparelli[3]",
+     "Objetos cotidianos desplazados: un zapato como sombrero, una langosta en un vestido[1][2]",
+     "Imágenes fragmentadas del cuerpo y yuxtaposiciones imposibles[1]",
+     "Colaboración entre modistos y artistas[2][3]",
+     "Moda, perfume y accesorios como vehículos del surrealismo[3][4]"
+    ],
+    "context": "El surrealismo surgió en 1924 y en los años treinta salió del ámbito de la vanguardia hacia el diseño comercial, de la moda y los objetos a los interiores.[1] Elsa Schiaparelli se volvió su principal intérprete en la moda[1][4] y trabajó con Salvador Dalí[2] y Jean Cocteau;[3] Alberto Giacometti, con Jean-Michel Frank, participó en la decoración de su nuevo salón de París en 1935,[3] y Leonor Fini diseñó el frasco de su perfume Shocking en 1937.[3]",
+    "shift": "La moda se volvió un campo de colaboración con artistas de vanguardia,[2][3] y el desplazamiento y el juego visual entraron al diseño de objetos, gráfica e interiores.[1]"
+   },
+   "refs": [
+    {
+     "label": "V&A, «Surrealism and design»",
+     "url": "https://www.vam.ac.uk/articles/surrealism-and-design",
+     "checks": "El surrealismo surgió en 1924; en los años treinta salió del ámbito de la vanguardia y llegó al diseño comercial; Schiaparelli, principal intérprete de la moda surrealista, con Dalí y Cocteau; el Sombrero-zapato como «desplazamiento»; interiores (Monkton House de Edward James); teatro, ballet y gráfica; combinaciones de objetos extrañas, imágenes fragmentadas del cuerpo y formas biomórficas. ⚠ Leído mediante resumen; da 1938 para el Sombrero-zapato.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Philadelphia Museum of Art, recurso educativo «Shocking! The Art and Fashion of Elsa Schiaparelli»",
+     "url": "https://legacyweb.philamuseum.org/doc_downloads/education/ex_resources/schiaparelli.pdf",
+     "checks": "Amistad y colaboración de Schiaparelli con Dalí, Man Ray, Duchamp y Cocteau; principio de desplazamiento (un objeto sacado de su entorno); Sombrero-zapato y chaqueta-escritorio (1936); vestido con langosta (1937) con Dalí. ⚠ Da 1936 para el Sombrero-zapato; V&A [1] da 1938.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, «Elsa Schiaparelli: a timeline»",
+     "url": "https://www.vam.ac.uk/articles/elsa-schiaparelli-a-timeline",
+     "checks": "1927: primeras colecciones de suéteres tejidos a mano con lazos en trampantojo; 1935: Jean-Michel Frank y Alberto Giacometti decoran su nuevo salón de Place Vendôme; 1937: perfume Shocking, con el frasco diseñado por Leonor Fini, y abrigo bordado en colaboración con Jean Cocteau. ⚠ No trata a Dalí ni la langosta.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Elsa Schiaparelli»",
+     "url": "https://www.britannica.com/biography/Elsa-Schiaparelli",
+     "checks": "«Famosa por sus modas surrealistas de los años treinta»; excentricidad con sencillez; bolso en forma de teléfono; ampliación a joyas, perfumes y otros productos hacia 1935; casa de alta costura en París desde fines de los años veinte. ⚠ Da 1947 para el rosa Shocking, contra V&A [3] (1937).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "rationalismo-italiano",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1926,
+   "end": 1943,
+   "fadeIn": 1,
+   "fadeOut": 1,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Italian Rationalism",
+   "short": "Rationalism",
+   "key": "An Italian architectural movement that began with the Gruppo 7 in 1926 and sought a modern, rational architecture under the Fascist regime.",
+   "traits": [
+    "Simple geometric volumes and plain facades",
+    "Steel and reinforced-concrete frames",
+    "Rational planning that follows function",
+    "Dialogue with Italian classical tradition",
+    "Public buildings as symbols of the regime"
+   ],
+   "context": "It began in 1926 with the Gruppo 7, a group of young architects in Milan that included Giuseppe Terragni. They wanted a modern architecture that fitted Italian tradition. Mussolini’s regime needed buildings that expressed a modern state, and some rationalists got major public commissions. The movement ended around the fall of Fascism in 1943.",
+   "shift": "From the decorated revival styles to an architecture of clear geometry and structure that also drew on classical order. Terragni’s Casa del Fascio in Como, built in the 1930s, is its best-known building.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "giuseppe-terragni"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Racionalismo italiano",
+    "short": "Racionalismo",
+    "key": "Un movimiento arquitectónico italiano que nació con el Gruppo 7 en 1926 y buscó una arquitectura moderna y racional bajo el régimen fascista.",
+    "traits": [
+     "Volúmenes geométricos simples y fachadas lisas",
+     "Estructuras de acero y hormigón armado",
+     "Planificación racional que sigue la función",
+     "Diálogo con la tradición clásica italiana",
+     "Edificios públicos como símbolos del régimen"
+    ],
+    "context": "Nació en 1926 con el Gruppo 7, un grupo de jóvenes arquitectos de Milán que incluía a Giuseppe Terragni. Querían una arquitectura moderna que encajara con la tradición italiana. El régimen de Mussolini necesitaba edificios que expresaran un Estado moderno, y algunos racionalistas recibieron grandes encargos públicos. El movimiento terminó hacia la caída del fascismo en 1943.",
+    "shift": "De los estilos historicistas decorados a una arquitectura de geometría y estructura claras que también se apoyaba en el orden clásico. La Casa del Fascio de Terragni en Como, construida en los años treinta, es su edificio más conocido."
+   },
+   "refs": []
+  },
+  {
+   "id": "american-sportswear",
+   "level": "normal",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1930,
+   "end": 1960,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "American sportswear",
+   "short": "Sportswear",
+   "key": "A style of casual, practical, affordable women’s clothing made in the United States, built on separates and ready-to-wear and best shown by Claire McCardell.",
+   "traits": [
+    "Separates that can be mixed and matched",
+    "Comfortable, practical cuts for active everyday life",
+    "Ready-to-wear made in series",
+    "Simple, casual lines instead of formal couture",
+    "Everyday fabrics such as cotton and jersey"
+   ],
+   "context": "American designers worked in a ready-to-wear industry centred in New York and sold through department stores. During the Second World War Paris was cut off from the United States and fabric was restricted, which gave American designers new room and favoured simple, functional clothes.",
+   "shift": "From copying Paris couture to designing for the daily life of American women, with clothes that were easy to wear, buy and combine. Claire McCardell’s Popover dress of 1942 is a defining example.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "mccardell-popover-1942"
+    ]
+   },
+   "es": {
+    "name": "Sportswear americano",
+    "short": "Sportswear",
+    "key": "Un estilo de ropa femenina casual, práctica y asequible hecho en Estados Unidos, basado en prendas combinables y confección en serie, y mejor representado por Claire McCardell.",
+    "traits": [
+     "Prendas separadas que se pueden combinar",
+     "Cortes cómodos y prácticos para la vida cotidiana activa",
+     "Ropa hecha en serie",
+     "Líneas simples e informales en lugar de la alta costura formal",
+     "Telas cotidianas como el algodón y el jersey"
+    ],
+    "context": "Los diseñadores estadounidenses trabajaban en una industria de confección centrada en Nueva York y vendida a través de grandes tiendas. Durante la Segunda Guerra Mundial París quedó aislada de Estados Unidos y las telas se restringieron, lo que dio nuevo espacio a los diseñadores estadounidenses y favoreció la ropa simple y funcional.",
+    "shift": "De copiar la alta costura de París a diseñar para la vida diaria de las mujeres estadounidenses, con ropa fácil de usar, comprar y combinar. El vestido Popover de Claire McCardell, de 1942, es un ejemplo definitivo."
+   },
+   "refs": []
+  },
+  {
+   "id": "dada",
+   "level": "essential",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1916,
+   "end": 1924,
+   "regions": [
+    "europe"
+   ],
+   "name": "Dada",
+   "short": "Dada",
+   "key": "An anti-war art movement born in Zurich in 1916 whose collage, photomontage and broken typography became a source of experimental graphic design.",
+   "traits": [
+    "Rejection of war, reason and bourgeois taste",
+    "Photomontage and collage",
+    "Text broken up, in mixed sizes and directions",
+    "Chance, provocation and the absurd",
+    "Performances, magazines and manifestos as a medium"
+   ],
+   "context": "It began in 1916 at the Cabaret Voltaire in Zurich, among artists who had taken refuge from the First World War, and spread to Berlin, Hanover, Cologne and Paris. In Berlin it took a political edge after the war. Its members published magazines, leaflets and manifestos, so printed matter was one of its main media.",
+   "shift": "From the orderly page to one where type of different sizes and directions collides with images cut from the press. Photomontage, developed in Berlin by artists such as John Heartfield, Raoul Hausmann and Hannah Höch, gave graphic design a new way to make political arguments.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "heartfield"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Dadá",
+    "short": "Dadá",
+    "key": "Un movimiento artístico antibélico nacido en Zúrich en 1916, cuyo collage, fotomontaje y tipografía quebrada fueron una fuente del diseño gráfico experimental.",
+    "traits": [
+     "Rechazo de la guerra, la razón y el gusto burgués",
+     "Fotomontaje y collage",
+     "Texto fragmentado, en tamaños y direcciones mezclados",
+     "Azar, provocación y absurdo",
+     "Performances, revistas y manifiestos como medio"
+    ],
+    "context": "Comenzó en 1916 en el Cabaret Voltaire de Zúrich, entre artistas refugiados de la Primera Guerra Mundial, y se extendió a Berlín, Hannover, Colonia y París. En Berlín tomó un filo político después de la guerra. Sus miembros publicaron revistas, volantes y manifiestos, de modo que lo impreso fue uno de sus medios principales.",
+    "shift": "De la página ordenada a otra donde tipos de distintos tamaños y direcciones chocan con imágenes recortadas de la prensa. El fotomontaje, desarrollado en Berlín por artistas como John Heartfield, Raoul Hausmann y Hannah Höch, dio al diseño gráfico una nueva manera de argumentar políticamente."
+   },
+   "refs": []
+  },
+  {
+   "id": "concrete-art-design",
+   "level": "normal",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "start": 1944,
+   "end": 1965,
+   "regions": [
+    "latin-america",
+    "europe"
+   ],
+   "name": "Concrete art and design",
+   "short": "Concrete art",
+   "key": "A geometric current, shaped by Max Bill in Switzerland and taken up in Brazil and Argentina, that applied pure form and mathematical order to art, graphics and industrial design.",
+   "traits": [
+    "Pure geometry and mathematical order",
+    "Art built from its own elements, not from nature",
+    "Clear, rational composition",
+    "Art and industrial design treated as one field",
+    "Brazilian and Argentine groups with their own development"
+   ],
+   "context": "The Swiss artist and designer Max Bill took up the term ‘concrete art’ in the 1930s and 1940s, drawing on earlier abstract art. His ideas reached South America, where artists in Argentina and Brazil formed groups and, in Brazil in the 1950s, a concrete movement. The modernising mood of post-war Brazil favoured a rational, geometric language.",
+   "shift": "From art as representation to composition with elementary geometric means, which could also serve posters, typography and objects. In Brazil this geometry fed the graphic and industrial design of a country that was industrialising.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "max-bill"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Arte concreto y diseño concreto",
+    "short": "Arte concreto",
+    "key": "Una corriente geométrica, impulsada por Max Bill en Suiza y adoptada en Brasil y Argentina, que aplicó forma pura y orden matemático al arte, la gráfica y el diseño industrial.",
+    "traits": [
+     "Geometría pura y orden matemático",
+     "Arte construido con sus propios elementos, no desde la naturaleza",
+     "Composición clara y racional",
+     "Arte y diseño industrial tratados como un solo campo",
+     "Grupos brasileños y argentinos con desarrollo propio"
+    ],
+    "context": "El artista y diseñador suizo Max Bill retomó el término «arte concreto» en los años treinta y cuarenta, a partir del arte abstracto anterior. Sus ideas llegaron a Sudamérica, donde artistas de Argentina y Brasil formaron grupos y, en Brasil, en los años cincuenta, un movimiento concreto. El ánimo modernizador del Brasil de posguerra favoreció un lenguaje racional y geométrico.",
+    "shift": "Del arte como representación a la composición con medios geométricos elementales, que también podían servir a carteles, tipografía y objetos. En Brasil esa geometría alimentó el diseño gráfico e industrial de un país que se industrializaba."
+   },
+   "refs": []
+  },
+  {
+   "id": "suprematism",
+   "level": "normal",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1915,
+   "end": 1935,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "Suprematism",
+   "short": "Suprematism",
+   "key": "A Russian abstract movement led by Kazimir Malevich that reduced painting to pure geometric forms, and whose vocabulary passed to Soviet graphic design, ceramics and architecture.",
+   "traits": [
+    "Pure geometric forms: square, circle, cross, rectangle",
+    "A few flat colours on a white ground",
+    "Forms that seem to float and tilt in an undefined space",
+    "Abstraction without reference to objects",
+    "Painting that leads to design and architecture"
+   ],
+   "context": "It was announced by Malevich at the exhibition ‘0.10’ in Petrograd in December 1915, where he showed his Black Square, and it formed in the Russian avant-garde at the height of the First World War. After the 1917 revolution its followers, including El Lissitzky, took it to the new Soviet schools and workshops. Its public life faded in the 1930s, when abstract art lost official favour in the USSR.",
+   "shift": "From painting about objects to a system of pure forms that could be built and printed. Lissitzky developed it in his Prouns and in books and posters, and from the 1920s it reached ceramics and architectural models, and later European and American graphic design.",
+   "links": {
+    "designers": [
+     "el-lissitzky"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Suprematismo",
+    "short": "Suprematismo",
+    "key": "Un movimiento abstracto ruso liderado por Kazimir Malévich que redujo la pintura a formas geométricas puras, y cuyo vocabulario pasó al diseño gráfico, la cerámica y la arquitectura soviéticos.",
+    "traits": [
+     "Formas geométricas puras: cuadrado, círculo, cruz, rectángulo",
+     "Pocos colores planos sobre fondo blanco",
+     "Formas que parecen flotar e inclinarse en un espacio indefinido",
+     "Abstracción sin referencia a objetos",
+     "Una pintura que conduce al diseño y a la arquitectura"
+    ],
+    "context": "Lo anunció Malévich en la exposición «0,10» de Petrogrado en diciembre de 1915, donde mostró su Cuadrado negro, y se formó en la vanguardia rusa en plena Primera Guerra Mundial. Tras la revolución de 1917, sus seguidores, entre ellos El Lissitzky, lo llevaron a las nuevas escuelas y talleres soviéticos. Su vida pública se apagó en los años treinta, cuando el arte abstracto perdió el favor oficial en la URSS.",
+    "shift": "De una pintura sobre objetos a un sistema de formas puras que podía construirse e imprimirse. Lissitzky lo desarrolló en sus Proun y en libros y carteles, y desde los años veinte llegó a la cerámica y a las maquetas de arquitectura, y más tarde al diseño gráfico europeo y estadounidense."
+   },
+   "refs": []
+  },
+  {
+   "id": "new-york-school-graphic",
+   "level": "normal",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1940,
+   "end": 1970,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "American modernism in graphic design (New York School)",
+   "short": "New York School",
+   "key": "The American version of European graphic modernism, more intuitive and playful, which mixed avant-garde form with advertising and publishing in New York from about 1940.",
+   "traits": [
+    "European modern form adapted to advertising and publishing",
+    "Visual ideas, wit and humour instead of strict grids",
+    "Simple, memorable symbols and trademarks",
+    "Free use of photography, drawing and collage",
+    "Designer as an author of ideas, not only of layouts"
+   ],
+   "context": "European emigrants, many of them driven out by Nazism, brought the avant-garde to New York in the 1930s and 1940s, where it met a large advertising industry and a lively publishing market. After the Second World War, the growth of consumer society gave graphic designers many commissions from companies and magazines.",
+   "shift": "From the doctrinal, systematic modernism of the European avant-garde to a looser style in which an idea, a joke or a striking image mattered as much as the system. Paul Rand is its best-known figure, and designers such as Saul Bass, Alvin Lustig, Herb Lubalin and Milton Glaser worked in related ways.",
+   "links": {
+    "designers": [
+     "paul-rand"
+    ],
+    "works": [],
+    "institutions": [
+     "inst-push-pin"
+    ]
+   },
+   "es": {
+    "name": "Modernismo gráfico estadounidense (Escuela de Nueva York)",
+    "short": "Escuela de Nueva York",
+    "key": "La versión estadounidense del modernismo gráfico europeo, más intuitiva y lúdica, que mezcló la forma de vanguardia con la publicidad y la edición en Nueva York desde c. 1940.",
+    "traits": [
+     "Forma moderna europea adaptada a la publicidad y la edición",
+     "Ideas visuales, ingenio y humor en vez de retículas estrictas",
+     "Símbolos y marcas simples y memorables",
+     "Uso libre de la fotografía, el dibujo y el collage",
+     "El diseñador como autor de ideas, no solo de diagramaciones"
+    ],
+    "context": "Emigrados europeos, muchos de ellos expulsados por el nazismo, llevaron la vanguardia a Nueva York en los años treinta y cuarenta, donde se encontró con una gran industria publicitaria y un mercado editorial activo. Tras la Segunda Guerra Mundial, el auge de la sociedad de consumo dio a los diseñadores gráficos muchos encargos de empresas y revistas.",
+    "shift": "Del modernismo doctrinario y sistemático de la vanguardia europea a un estilo más libre, en que una idea, una broma o una imagen llamativa importaban tanto como el sistema. Paul Rand es su figura más conocida, y diseñadores como Saul Bass, Alvin Lustig, Herb Lubalin y Milton Glaser trabajaron de modos afines."
+   },
+   "refs": []
+  }
+ ]
+}

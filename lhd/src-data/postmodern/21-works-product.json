@@ -1,0 +1,1427 @@
+{
+ "works": [
+  {
+   "id": "carlton-bookcase-1981",
+   "level": "essential",
+   "discipline": "product",
+   "type": "shelf",
+   "title": "Carlton bookcase",
+   "designers": [
+    "ettore-sottsass"
+   ],
+   "maker": "Memphis",
+   "year": 1981,
+   "date": "1981",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Wood covered in plastic laminate",
+   "tech": [
+    "plastic-laminate"
+   ],
+   "key": "Ettore Sottsass’s bright, branching bookcase for Memphis, more a totem of stacked shelves and patterns than a plain storage unit.[1][2]",
+   "more": "Sottsass made it in 1981 for Memphis Milano.[1] It was part of the first Memphis collection of 1981, which had 52 pieces.[2] The work merges a room divider, a bookcase and a storage chest, with slanted shelving that holds books better than upright shelves.[1] Its vivid colours and seemingly random play of solids and voids echo avant-garde art, over an underlying geometric system of triangles.[1] The Musée des Arts Décoratifs describes it as a “domestic totem”, assembled like a house of cards over five levels.[2] It questioned functionality and defended eclectic materials such as plastic laminate.[2]",
+   "status": "Still made by Memphis Milano.",
+   "es": {
+    "title": "Librero Carlton",
+    "date": "1981",
+    "materials": "Madera revestida en laminado plástico",
+    "key": "El colorido librero ramificado de Ettore Sottsass para Memphis, más un tótem de repisas y patrones que un simple mueble de guardar.[1][2]",
+    "more": "Sottsass lo hizo en 1981 para Memphis Milano.[1] Formó parte de la primera colección de Memphis de 1981, que tenía 52 piezas.[2] La obra reúne separador de ambientes, librero y baúl, con repisas inclinadas que sostienen los libros mejor que las verticales.[1] Sus colores vivos y su juego aparentemente azaroso de llenos y vacíos evocan el arte de vanguardia, sobre un sistema geométrico subyacente de triángulos.[1] El Musée des Arts Décoratifs lo describe como un «tótem doméstico», armado como un castillo de naipes en cinco niveles.[2] Cuestionó la funcionalidad y defendió la variedad de materiales, como el laminado plástico.[2]",
+    "status": "Sigue fabricándose por Memphis Milano."
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, «Carlton Room Divider», Ettore Sottsass",
+     "url": "https://www.metmuseum.org/art/collection/search/486989",
+     "checks": "Sottsass para Memphis Milano, 1981; madera, laminado plástico (MDF); separador, librero y baúl; repisas inclinadas; colores vivos, sistema de triángulos; ingresó al museo en 1997. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Musée des Arts Décoratifs, «Ettore Sottsass, Carlton bookcase, Italy, 1981»",
+     "url": "https://madparis.fr/Ettore-Sottsass-1917-2007-Carlton-bookcase-Italy-1981",
+     "checks": "1981; parte de la primera colección de Memphis (52 piezas); cinco niveles como castillo de naipes, «tótem doméstico»; cuestiona la funcionalidad, defiende la diversidad de materiales como el laminado plástico. ⚠ resumen automático; indica chapa de madera y laminado, el Met MDF y laminado.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "memphis"
+   ]
+  },
+  {
+   "id": "first-chair-1983",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "First chair",
+   "designers": [
+    "michele-de-lucchi"
+   ],
+   "maker": "Memphis",
+   "year": 1983,
+   "date": "1983",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Painted metal and wood",
+   "tech": [],
+   "key": "Michele De Lucchi’s playful chair for Memphis, built from simple geometric parts in strong colours rather than from the logic of a seat.",
+   "more": "De Lucchi designed it in 1983 for Memphis, the Milan group of which he was a member. It joins basic shapes such as a circle and a sphere to a light frame, and it looks more like a small figure than a conventional chair. Its geometry and colour have little to do with the functionalist idea that form follows use.",
+   "status": "Produced by Memphis; still in the catalogue as a design classic.",
+   "es": {
+    "title": "Silla First",
+    "date": "1983",
+    "materials": "Metal y madera pintados",
+    "key": "La juguetona silla de Michele De Lucchi para Memphis, armada con formas geométricas simples en colores intensos, más que con la lógica de un asiento.",
+    "more": "De Lucchi la diseñó en 1983 para Memphis, el grupo milanés del que formaba parte. Une formas básicas, como un círculo y una esfera, a una estructura liviana, y se parece más a una pequeña figura que a una silla convencional. Su geometría y su color tienen poco que ver con la idea funcionalista de que la forma sigue al uso.",
+    "status": "Producida por Memphis; sigue en el catálogo como clásico del diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "proust-armchair-1978",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Proust armchair",
+   "designers": [
+    "alessandro-mendini"
+   ],
+   "maker": "Studio Alchimia",
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Baroque-style wooden armchair with upholstery painted in dots",
+   "tech": [],
+   "key": "Alessandro Mendini’s ‘redecorated’ historic armchair, covered in painted dots in the manner of pointillist painting.",
+   "more": "In 1978 Mendini took a baroque-style armchair and covered it, frame and fabric, with painted dots recalling the pointillist painters. He did not draw a new chair but redecorated an existing one, a deliberate quotation that he presented with Studio Alchimia in Milan. It became an emblem of the ironic, decorative turn of Italian design in the late 1970s, and later versions have been made by Cappellini.",
+   "status": "Versions are still made by Cappellini.",
+   "es": {
+    "title": "Sillón Proust",
+    "date": "1978",
+    "materials": "Sillón de madera de estilo barroco con tapiz pintado a puntos",
+    "key": "El sillón histórico «redecorado» de Alessandro Mendini, cubierto de puntos pintados al modo de la pintura puntillista.",
+    "more": "En 1978 Mendini tomó un sillón de estilo barroco y lo cubrió, estructura y tela, con puntos pintados que recuerdan a los pintores puntillistas. No dibujó una silla nueva sino que redecoró una existente, una cita deliberada que presentó con Studio Alchimia en Milán. Se volvió un emblema del giro irónico y decorativo del diseño italiano de fines de los años setenta, y Cappellini ha hecho versiones posteriores.",
+    "status": "Cappellini sigue haciendo versiones."
+   },
+   "refs": []
+  },
+  {
+   "id": "kettle-9093-1985",
+   "level": "essential",
+   "discipline": "product",
+   "type": "kettle",
+   "title": "Kettle 9093",
+   "designers": [
+    "michael-graves"
+   ],
+   "maker": "Alessi",
+   "year": 1985,
+   "date": "1985",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "IT"
+   ],
+   "materials": "Stainless steel, polyamide handle",
+   "tech": [],
+   "key": "Michael Graves’s stainless-steel kettle for Alessi, with a little bird on the spout that whistles when the water boils.[1][2]",
+   "more": "The American architect Graves designed it in 1985 for the Italian firm Alessi, which made it.[1][2] A bird-shaped whistle sounds when the water boils, and the Groninger Museum describes the kettle as elegant but at the same time playful and fun.[1] The example in the National Gallery of Victoria has a cream plastic handle and bird whistle and a black plastic ball on the lid.[2] According to the Groninger Museum, it became one of the best-selling Alessi objects in the world.[1]",
+   "status": "Still in production by Alessi.",
+   "es": {
+    "title": "Tetera 9093",
+    "date": "1985",
+    "materials": "Acero inoxidable, mango de poliamida",
+    "key": "La tetera de acero inoxidable de Michael Graves para Alessi, con un pajarito en el pico que silba cuando el agua hierve.[1][2]",
+    "more": "El arquitecto estadounidense Graves la diseñó en 1985 para la empresa italiana Alessi, que la fabricó.[1][2] Un silbato en forma de pájaro suena cuando el agua hierve, y el Groninger Museum describe la tetera como elegante y a la vez lúdica y divertida.[1] El ejemplar del National Gallery of Victoria tiene mango y silbato de pájaro de plástico crema y una bola negra de plástico en la tapa.[2] Según el Groninger Museum, se volvió uno de los objetos de Alessi más vendidos del mundo.[1]",
+    "status": "Sigue en producción por Alessi."
+   },
+   "refs": [
+    {
+     "label": "Groninger Museum, «Whistling bird teakettle (9093)» (1986.0391)",
+     "url": "https://grm-collections.adlibhosting.com/ais6/Details/museum/5280",
+     "checks": "Diseño de Michael Graves, fabricante Alessi, 1985; acero inoxidable y plástico; silbato en forma de pájaro; «elegante y a la vez lúdico»; uno de los objetos de Alessi más vendidos del mundo.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "National Gallery of Victoria, «Kettle 9093» (2017.1170.a-c)",
+     "url": "https://ngv.vic.gov.au/explore/collection/work/127705",
+     "checks": "Graves para Alessi, hacia 1985; acero inoxidable 18/10; mango y silbato de pájaro de plástico crema, bola de tapa negra. ⚠ fecha «circa 1985»; la tetera de ese ejemplar tiene mango crema, no azul.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "anna-g-corkscrew-1994",
+   "level": "normal",
+   "discipline": "product",
+   "type": "other",
+   "title": "Anna G corkscrew",
+   "designers": [
+    "alessandro-mendini"
+   ],
+   "maker": "Alessi",
+   "year": 1994,
+   "date": "1994",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Thermoplastic resin, steel",
+   "tech": [],
+   "key": "Alessandro Mendini’s corkscrew for Alessi in the shape of a smiling woman figure, a mass-produced object with a human face.",
+   "more": "Mendini designed it in 1994 for Alessi. Its body is a stylised woman figure whose arms rise as the screw is turned, so that opening a bottle becomes a small gesture of play. It was sold as a catalogue product and made the anthropomorphic object a popular success for Alessi.",
+   "status": "Still in production by Alessi.",
+   "es": {
+    "title": "Sacacorchos Anna G",
+    "date": "1994",
+    "materials": "Resina termoplástica, acero",
+    "key": "El sacacorchos de Alessandro Mendini para Alessi con forma de figura femenina sonriente, un objeto de producción masiva con rostro humano.",
+    "more": "Mendini lo diseñó en 1994 para Alessi. Su cuerpo es una figura femenina estilizada cuyos brazos se levantan al girar el tirabuzón, de modo que abrir una botella se vuelve un pequeño gesto de juego. Se vendió como producto de catálogo e hizo del objeto antropomórfico un éxito popular de Alessi.",
+    "status": "Sigue en producción por Alessi."
+   },
+   "refs": []
+  },
+  {
+   "id": "juicy-salif-1990",
+   "level": "essential",
+   "discipline": "product",
+   "type": "other",
+   "title": "Juicy Salif",
+   "designers": [
+    "philippe-starck"
+   ],
+   "maker": "Alessi",
+   "year": 1990,
+   "date": "1990",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT",
+    "FR"
+   ],
+   "materials": "Cast aluminium",
+   "tech": [],
+   "key": "Philippe Starck’s three-legged lemon squeezer for Alessi, designed in 1990, more a sculpture on the kitchen table than a utensil.[1][2]",
+   "more": "Starck designed it in 1990 for the Italian firm Alessi, which made it in Crusinallo.[1] It is cast and polished aluminium with nylon tips, an elongated inverted drop with vertical grooves, on three tall, spider-like legs.[1] The juice runs straight into a glass, with pips and pulp, instead of through a sieve.[1] The Met notes its insect-like, tripod look, which some compare to a spaceship, and calls it both functional and indisputably sculptural.[2] The V&A calls it one of Starck’s most influential and controversial designs and a best seller for Alessi.[1]",
+   "status": "Still in production by Alessi.",
+   "es": {
+    "title": "Exprimidor Juicy Salif",
+    "date": "1990",
+    "materials": "Aluminio fundido",
+    "key": "El exprimidor de tres patas de Philippe Starck para Alessi, diseñado en 1990, más una escultura sobre la mesa de la cocina que un utensilio.[1][2]",
+    "more": "Starck lo diseñó en 1990 para la empresa italiana Alessi, que lo fabricó en Crusinallo.[1] Es de aluminio fundido y pulido con puntas de nailon, una gota alargada invertida con ranuras verticales, sobre tres patas altas, como de araña.[1] El jugo cae directo al vaso, con semillas y pulpa, en vez de pasar por un colador.[1] El Met destaca su aspecto de insecto o trípode, que algunos comparan con una nave espacial, y lo llama a la vez funcional e indiscutiblemente escultórico.[2] El V&A lo llama uno de los diseños más influyentes y controvertidos de Starck y un éxito de ventas de Alessi.[1]",
+    "status": "Sigue en producción por Alessi."
+   },
+   "refs": [
+    {
+     "label": "V&A, «Juicy Salif lemon squeezer», Philippe Starck",
+     "url": "https://collections.vam.ac.uk/item/O1322194/juicy-salif-lemon-squeezer-starck-philippe",
+     "checks": "Diseñado en 1990 por Starck para Alessi, fabricado en Crusinallo; aluminio fundido y pulido con puntas de nailon; forma de gota invertida con ranuras y tres patas; el jugo cae al vaso sin colador; éxito de ventas; «influyente y controvertido». ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «“Juicy Salif” Lemon Squeezer»",
+     "url": "https://metmuseum.org/art/collection/search/491871",
+     "checks": "Starck, 1990, Alessi, aluminio fundido; tres patas finas, aspecto de insecto o trípode, comparado con una nave espacial; «funcional e indiscutiblemente escultórico».",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "well-tempered-chair-1986",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Well Tempered Chair",
+   "designers": [
+    "ron-arad"
+   ],
+   "maker": "Vitra",
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Tempered sheet steel, bolts",
+   "tech": [],
+   "key": "Ron Arad’s armchair of bent, tempered steel sheets, a hand-worked piece that sits between a one-off and a product.",
+   "more": "Arad, an Israeli-born designer working in London, made it in 1986 from sheets of tempered steel bent into large, springy curves and joined with bolts. The steel gives the chair a slight flex that the name plays on, and the whole piece shows the metal as if it were a soft cushion. It was made in very small numbers and later produced in a limited series by Vitra.",
+   "status": "Made in a limited series; examples are in museum collections.",
+   "es": {
+    "title": "Silla Well Tempered",
+    "date": "1986",
+    "materials": "Chapa de acero templado, pernos",
+    "key": "El sillón de Ron Arad de láminas de acero templado dobladas, una pieza trabajada a mano a medio camino entre la obra única y el producto.",
+    "more": "Arad, diseñador nacido en Israel que trabajaba en Londres, lo hizo en 1986 con láminas de acero templado dobladas en grandes curvas elásticas y unidas con pernos. El acero da a la silla una ligera flexibilidad con la que juega el nombre, y toda la pieza muestra el metal como si fuera un cojín blando. Se fabricó en cantidades muy pequeñas y luego Vitra la produjo en serie limitada.",
+    "status": "Hecha en serie limitada; hay ejemplares en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "lockheed-lounge-1986",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Lockheed Lounge",
+   "designers": [
+    "marc-newson"
+   ],
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "AU"
+   ],
+   "materials": "Fibreglass and foam core, riveted aluminium panels",
+   "tech": [],
+   "key": "Marc Newson’s fluid lounge chair covered in riveted aluminium panels, like the skin of an aircraft.",
+   "more": "Newson, an Australian designer, made it in 1986 in Sydney, shaping a flowing body and covering it with hand-beaten aluminium panels fixed with rivets. The riveted skin recalls aircraft construction, and the name refers to the American aircraft maker Lockheed. He made only a few pieces by hand at first, and the lounge became his best-known early work.",
+   "status": "Very few were made by hand; later editions are limited.",
+   "es": {
+    "title": "Lockheed Lounge",
+    "date": "1986",
+    "materials": "Fibra de vidrio y núcleo de espuma, paneles de aluminio remachados",
+    "key": "La fluida chaise longue de Marc Newson cubierta de paneles de aluminio remachados, como el fuselaje de un avión.",
+    "more": "Newson, diseñador australiano, la hizo en 1986 en Sídney, dando forma a un cuerpo fluido y cubriéndolo con paneles de aluminio martillados a mano y fijados con remaches. La piel remachada recuerda la construcción de aviones, y el nombre alude al fabricante aeronáutico estadounidense Lockheed. Al principio hizo a mano solo unas pocas piezas, y la chaise longue se volvió su obra temprana más conocida.",
+    "status": "Se hicieron a mano muy pocas; las ediciones posteriores son limitadas."
+   },
+   "refs": []
+  },
+  {
+   "id": "air-chair-1999",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Air-Chair",
+   "designers": [
+    "jasper-morrison"
+   ],
+   "maker": "Magis",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "IT"
+   ],
+   "materials": "Gas-injection-moulded polypropylene",
+   "tech": [
+    "injection-moulding"
+   ],
+   "key": "Jasper Morrison’s light, stackable chair, moulded in one piece of plastic for the Italian maker Magis.",
+   "more": "Morrison designed it for Magis in 1999 as a plain chair in a single injection-moulded shell with a frame of slim legs and a ribbed seat. It is light and stackable and was made in several colours, so it suited homes, cafés and public spaces. Its reduced, unassuming form is typical of Morrison’s everyday-object approach.",
+   "status": "Still in production by Magis.",
+   "es": {
+    "title": "Silla Air-Chair",
+    "materials": "Polipropileno moldeado por inyección de gas",
+    "key": "La silla ligera y apilable de Jasper Morrison, moldeada en una sola pieza de plástico para el fabricante italiano Magis.",
+    "more": "Morrison la diseñó para Magis en 1999 como una silla sencilla, de una sola carcasa moldeada por inyección, con patas delgadas y un asiento nervado. Es liviana y apilable y se hizo en varios colores, por lo que sirve en casas, cafés y espacios públicos. Su forma reducida y sin pretensiones es típica del enfoque de Morrison hacia los objetos cotidianos.",
+    "status": "Sigue en producción por Magis.",
+    "date": "1999"
+   },
+   "refs": [],
+   "movements": [
+    "minimalism-fashion-product"
+   ]
+  },
+  {
+   "id": "swatch-1983",
+   "level": "essential",
+   "discipline": "product",
+   "type": "watch",
+   "title": "Swatch watch",
+   "designers": [],
+   "maker": "Swatch (SMH)",
+   "year": 1983,
+   "date": "1983",
+   "regions": [
+    "europe",
+    "global"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Quartz movement in a moulded plastic case",
+   "tech": [
+    "injection-moulding"
+   ],
+   "key": "The cheap, colourful Swiss quartz watch launched in 1983, made of far fewer parts than a conventional watch and sold as a fashion accessory.[1][2]",
+   "more": "The Swatch was introduced on 1 March 1983 in Zurich, in 12 models priced between 39 and 50 Swiss francs.[2] Engineers Elmar Mock and Jacques Müller made the foundational sketch,[3] and Ernst Thomke presented it at a press conference.[3] It had a plastic case and an ETA quartz movement,[3] and 51 parts where conventional quartz watches had about 91; the plastic case also served as the mounting plate.[1] It came as Japanese quartz competition was pushing the Swiss watchmakers ASUAG and SSIH towards liquidation, and Nicolas Hayek merged them into SMH and championed the launch.[2] It was sold as a fashion accessory, updated every six months with new variants.[2] Early buyers often bought a second watch in a different colour.[3]",
+   "status": "The Swatch brand is still sold today.",
+   "es": {
+    "title": "Reloj Swatch",
+    "materials": "Mecanismo de cuarzo en caja de plástico moldeado",
+    "key": "El barato y colorido reloj suizo de cuarzo lanzado en 1983, hecho con muchas menos piezas que un reloj convencional y vendido como accesorio de moda.[1][2]",
+    "more": "El Swatch se presentó el 1 de marzo de 1983 en Zúrich, en 12 modelos con precios entre 39 y 50 francos suizos.[2] Los ingenieros Elmar Mock y Jacques Müller hicieron el bosquejo fundacional,[3] y Ernst Thomke lo presentó en una conferencia de prensa.[3] Tenía una caja de plástico y un mecanismo de cuarzo ETA,[3] y 51 piezas donde los relojes de cuarzo convencionales tenían unas 91; la caja de plástico servía además de placa de montaje.[1] Surgió cuando la competencia japonesa de cuarzo empujaba a los relojeros suizos ASUAG y SSIH a la liquidación, y Nicolas Hayek los fusionó en SMH e impulsó el lanzamiento.[2] Se vendió como accesorio de moda, renovado cada seis meses con nuevas variantes.[2] Los primeros compradores solían comprar un segundo reloj de otro color.[3]",
+    "status": "La marca Swatch se sigue vendiendo hoy.",
+    "date": "1983"
+   },
+   "refs": [
+    {
+     "label": "swissinfo.ch, «Swatch clocks up a quarter of a century»",
+     "url": "https://www.swissinfo.ch/eng/swatch-clocks-up-a-quarter-of-a-century/6474224",
+     "checks": "Lanzamiento el 1 de marzo de 1983; 51 piezas frente a unas 91 de un reloj de cuarzo convencional; la caja de plástico como protección y placa de montaje; crisis suiza frente a la competencia asiática. ⚠ medio periodístico; resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "swissinfo.ch, «The Swatch celebrates its 20th birthday»",
+     "url": "https://www.swissinfo.ch/eng/the-swatch-celebrates-its-20th-birthday/3183378",
+     "checks": "Presentado en Zúrich el 1 de marzo de 1983, 12 modelos de 39 a 50 francos; Hayek fusionó ASUAG y SSIH en SMH; venta como accesorio de moda y renovación semestral. ⚠ da «100 a 51 piezas», cifra distinta a la de la nota de 2008 (91); se usa la de 2008. Medio periodístico.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Europa Star, «From the archives: our first look at the Swatch»",
+     "url": "https://www.europastar.com/the-watch-files/archives-heritage/1004094117-from-the-archives-our-first-look-at-the-swatch.html",
+     "checks": "Presentación por Ernst Thomke el 1 de marzo de 1983; Mock y Müller hicieron el bosquejo fundacional; caja de plástico y mecanismo de cuarzo ETA; compradores que adquirían un segundo reloj de otro color. ⚠ revista del sector; resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "apple-iic-1984",
+   "level": "normal",
+   "discipline": "product",
+   "type": "computer",
+   "title": "Apple IIc",
+   "designers": [
+    "hartmut-esslinger"
+   ],
+   "maker": "Apple Computer",
+   "year": 1984,
+   "date": "1984",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Moulded plastic case",
+   "tech": [
+    "injection-moulding"
+   ],
+   "key": "Apple’s compact, portable-looking home computer of 1984, the first product in the Snow White design language created with frog design.",
+   "more": "Introduced in April 1984, the Apple IIc packed the Apple II into a slim off-white case with a built-in disk drive and a carrying handle. Hartmut Esslinger’s firm frog design shaped it as the first product of the Snow White language, which Apple used across its products in the following years. It was a closed machine without expansion slots, aimed at homes and schools.",
+   "status": "Discontinued in the 1990s; collected today.",
+   "es": {
+    "title": "Apple IIc",
+    "materials": "Carcasa de plástico moldeado",
+    "key": "El computador doméstico compacto de Apple de 1984, primer producto del lenguaje de diseño Snow White creado con frog design.",
+    "more": "Presentado en abril de 1984, el Apple IIc metió el Apple II en una carcasa delgada de color hueso, con unidad de disco incorporada y asa para transportarlo. La empresa de Hartmut Esslinger, frog design, lo configuró como el primer producto del lenguaje Snow White, que Apple usó en sus productos de los años siguientes. Era una máquina cerrada, sin ranuras de expansión, pensada para hogares y colegios.",
+    "status": "Descontinuado en los años noventa; hoy es objeto de colección.",
+    "date": "1984"
+   },
+   "refs": []
+  },
+  {
+   "id": "imac-1998",
+   "level": "essential",
+   "discipline": "product",
+   "type": "computer",
+   "title": "iMac",
+   "designers": [
+    "jonathan-ive"
+   ],
+   "maker": "Apple Computer",
+   "year": 1998,
+   "date": "1998",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Translucent polycarbonate shell",
+   "tech": [
+    "polycarbonate-shell"
+   ],
+   "key": "Apple’s all-in-one computer of 1998 in translucent Bondi Blue plastic, whose rounded design by Jonathan Ive and USB-only ports made it a symbol of Apple’s recovery.[1][3]",
+   "more": "Steve Jobs introduced the iMac on 6 May 1998, and it was available from August.[3] It joined screen and computer in one all-in-one case,[3] rounded and translucent,[1][2] with an integrated handle.[2] It had no floppy drive and used USB ports only,[1][3] and Jobs presented it as the marriage of the excitement of the Internet with the simplicity of the Macintosh.[3] Jonathan Ive designed it,[1][2] later models came in other colours,[1][2] and it became the best-selling consumer computer of 1998, helping Apple’s recovery.[1][3]",
+   "status": "The iMac line continues, in very different designs.",
+   "es": {
+    "title": "iMac",
+    "materials": "Carcasa de policarbonato translúcido",
+    "key": "El computador todo en uno de Apple de 1998, en plástico translúcido azul Bondi, cuyo diseño redondeado de Jonathan Ive y sus puertos solo USB lo volvieron símbolo de la recuperación de Apple.[1][3]",
+    "more": "Steve Jobs presentó el iMac el 6 de mayo de 1998 y estuvo disponible desde agosto.[3] Unió pantalla y computador en una sola carcasa,[3] redondeada y translúcida,[1][2] con asa integrada.[2] No tenía disquetera y usaba solo puertos USB,[1][3] y Jobs lo presentó como el matrimonio entre la emoción de internet y la simplicidad del Macintosh.[3] Jonathan Ive lo diseñó,[1][2] los modelos posteriores vinieron en otros colores,[1][2] y fue el computador de consumo más vendido de 1998, lo que ayudó a recuperar a Apple.[1][3]",
+    "status": "La línea iMac continúa, con diseños muy distintos.",
+    "date": "1998"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «iMac»",
+     "url": "https://www.britannica.com/technology/iMac",
+     "checks": "Presentado por Jobs en 1998; diseño de Jony Ive, colores translúcidos y exterior redondeado; solo puertos USB; el más vendido hacia fin de año; modelos posteriores en cinco colores; Apple revitalizada.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Victoria and Albert Museum, «iMac G3»",
+     "url": "https://collections.vam.ac.uk/item/O158296/imac-g3-personal-computer-ive-jonathan/",
+     "checks": "Diseñado en 1998 por Jonathan Ive; carcasa de policarbonato translúcido azul y blanco; asa integrada; versión Bondi Blue de 1998 y otros cinco colores. ⚠ no menciona USB.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "AppleInsider, «On May 6, 1998 the iMac changed Apple»",
+     "url": "https://appleinsider.com/articles/18/05/06/20-years-ago-the-imac-changed-the-world",
+     "checks": "Presentado por Jobs el 6 de mayo de 1998; a la venta en agosto; todo en uno, USB, sin disquetera; cita «marriage of the excitement of the Internet with the simplicity of Macintosh». ⚠ prensa especializada, no archivo.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "ipod-2001",
+   "level": "normal",
+   "discipline": "product",
+   "type": "audio-player",
+   "title": "iPod",
+   "designers": [
+    "jonathan-ive"
+   ],
+   "maker": "Apple Computer",
+   "year": 2001,
+   "date": "2001",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Plastic and polished stainless steel, with a hard disk",
+   "tech": [],
+   "key": "Apple’s pocket music player of 2001, with a scroll wheel and white earphones that became the emblem of portable digital music.",
+   "more": "Announced in October 2001, the first iPod held about a thousand songs on a small hard disk and was controlled with a mechanical scroll wheel and a few buttons. Apple’s design team under Jonathan Ive gave it a white front and a polished steel back. Its white earphones and advertising made it a recognisable emblem of the brand, and later models widened the range.",
+   "status": "Discontinued by Apple in 2022.",
+   "es": {
+    "title": "iPod",
+    "materials": "Plástico y acero inoxidable pulido, con disco duro",
+    "key": "El reproductor de música de bolsillo de Apple de 2001, con rueda de desplazamiento y auriculares blancos que se volvieron emblema de la música digital portátil.",
+    "more": "Anunciado en octubre de 2001, el primer iPod guardaba unas mil canciones en un pequeño disco duro y se manejaba con una rueda mecánica y unos pocos botones. El equipo de diseño de Apple, con Jonathan Ive, le dio un frente blanco y una trasera de acero pulido. Sus auriculares blancos y su publicidad lo hicieron un emblema reconocible de la marca, y los modelos posteriores ampliaron la gama.",
+    "status": "Apple lo descontinuó en 2022.",
+    "date": "2001"
+   },
+   "refs": []
+  },
+  {
+   "id": "iphone-2007",
+   "level": "essential",
+   "discipline": "product",
+   "type": "phone",
+   "title": "iPhone",
+   "designers": [
+    "jonathan-ive"
+   ],
+   "maker": "Apple Inc.",
+   "year": 2007,
+   "date": "2007",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Aluminium, glass and plastic",
+   "tech": [
+    "multitouch"
+   ],
+   "key": "Apple’s phone of 2007, which replaced the keyboard with a large multi-touch screen and set the pattern for the smartphone.[1][2]",
+   "more": "Steve Jobs presented the iPhone on 9 January 2007, and Apple said it would reach the United States in June 2007.[1] Apple described it as a mobile phone, a widescreen iPod and an internet device in one, operated with the fingers on a large multi-touch display, with a predictive touch keyboard instead of a physical one.[1] The V&A credits Jonathan Ive as designer and lists glass, aluminium and plastic as its materials.[2] The V&A notes that it was not the first smartphone but popularised touchscreen devices with internet access.[2]",
+   "status": "Sold today in many later generations.",
+   "es": {
+    "title": "iPhone",
+    "materials": "Aluminio, vidrio y plástico",
+    "key": "El teléfono de Apple de 2007, que reemplazó el teclado por una gran pantalla multitáctil y fijó el modelo del smartphone.[1][2]",
+    "more": "Steve Jobs presentó el iPhone el 9 de enero de 2007, y Apple anunció que llegaría a Estados Unidos en junio de 2007.[1] Apple lo describió como un teléfono móvil, un iPod de pantalla ancha y un aparato de internet en uno, que se maneja con los dedos en una gran pantalla multitáctil, con un teclado táctil predictivo en lugar de uno físico.[1] El V&A atribuye el diseño a Jonathan Ive y consigna vidrio, aluminio y plástico como materiales.[2] El V&A señala que no fue el primer smartphone, pero popularizó los dispositivos táctiles con acceso a internet.[2]",
+    "status": "Se sigue vendiendo en muchas generaciones posteriores.",
+    "date": "2007"
+   },
+   "refs": [
+    {
+     "label": "Apple Newsroom, «Apple Reinvents the Phone with iPhone» (9 de enero de 2007)",
+     "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+     "checks": "Anuncio el 9 de enero de 2007 en Macworld; teléfono, iPod de pantalla ancha y aparato de internet; gran pantalla multitáctil con los dedos y teclado táctil predictivo; disponible en EE.UU. en junio de 2007; construcción de aluminio y vidrio. ⚠ fuente de la propia empresa (primaria, con tono publicitario).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Victoria and Albert Museum, «iPhone, 1st generation»",
+     "url": "https://collections.vam.ac.uk/item/O1328358/iphone-1st-generation-apple-iphone-ive-jonathan/",
+     "checks": "Diseñador Jonathan Ive, Apple; presentado el 9 de enero de 2007; sin teclado, con pantalla multitáctil; vidrio, aluminio y plástico; no fue el primer smartphone pero popularizó los táctiles con internet.",
+     "date": "2026-10-06"
+    }
+   ],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "macbook-air-2008",
+   "level": "normal",
+   "discipline": "product",
+   "type": "laptop",
+   "title": "MacBook Air",
+   "designers": [
+    "jonathan-ive"
+   ],
+   "maker": "Apple Inc.",
+   "year": 2008,
+   "date": "2008",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Machined aluminium",
+   "tech": [
+    "cnc-unibody"
+   ],
+   "key": "Apple’s very thin laptop of 2008 in an aluminium case, which gave up the optical drive to be as light as possible.",
+   "more": "Steve Jobs introduced it in January 2008 as the thinnest laptop in the world, taking it out of an office envelope. Its aluminium case tapers toward the front, and it left out the optical disc drive to save space and weight. Jonathan Ive led the design, and the model became the reference for the thin laptop.",
+   "status": "The MacBook Air line is still made.",
+   "es": {
+    "title": "MacBook Air",
+    "materials": "Aluminio mecanizado",
+    "key": "El notebook muy delgado de Apple de 2008, en carcasa de aluminio, que renunció a la unidad óptica para ser lo más liviano posible.",
+    "more": "Steve Jobs lo presentó en enero de 2008 como el notebook más delgado del mundo, sacándolo de un sobre de oficina. Su carcasa de aluminio se afina hacia el frente y prescindió de la unidad de discos ópticos para ahorrar espacio y peso. Jonathan Ive dirigió el diseño, y el modelo se volvió la referencia del notebook delgado.",
+    "status": "La línea MacBook Air se sigue fabricando.",
+    "date": "2008"
+   },
+   "refs": []
+  },
+  {
+   "id": "sony-walkman-1979",
+   "level": "essential",
+   "discipline": "product",
+   "type": "audio-player",
+   "title": "Sony Walkman TPS-L2",
+   "designers": [],
+   "maker": "Sony",
+   "year": 1979,
+   "date": "1979",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Plastic and metal case, stereo cassette player",
+   "tech": [],
+   "key": "Sony’s small stereo cassette player of 1979, played through headphones, which started a new trend of listening to your own music on the move.[1][2]",
+   "more": "Launched in Tokyo in July 1979,[3] the TPS-L2 was a compact stereo cassette player made by Sony in 1979 with its recording function removed.[1][2] It had an extra jack so two people could listen at once.[2] It was developed at the request of co-founder Masaru Ibuka, who wanted a stereo player he could carry in his pocket,[2] and Akio Morita convinced the board of its commercial potential.[3] Abroad it first sold as Soundabout, Stowaway or Freestyle,[2] and Morita chose Walkman as the single name in April 1980.[1] Sony sold 50 million Walkmans in ten years, and the product made portable music a consumer priority.[3]",
+   "status": "Original units are collected today; the Walkman name continued on later devices.",
+   "es": {
+    "title": "Sony Walkman TPS-L2",
+    "materials": "Carcasa de plástico y metal, reproductor de casete estéreo",
+    "key": "El pequeño reproductor de casetes estéreo de Sony de 1979, que se escuchaba con audífonos y que inició una nueva tendencia: oír la música propia en movimiento.[1][2]",
+    "more": "Lanzado en Tokio en julio de 1979,[3] el TPS-L2 era un reproductor de casetes estéreo compacto, fabricado por Sony en 1979 sin función de grabación.[1][2] Tenía una salida extra para que dos personas escucharan a la vez.[2] Se desarrolló a pedido del cofundador Masaru Ibuka, que quería un reproductor estéreo para llevar en el bolsillo,[2] y Akio Morita convenció al directorio de su potencial comercial.[3] En el extranjero se vendió primero como Soundabout, Stowaway o Freestyle,[2] y Morita eligió Walkman como nombre único en abril de 1980.[1] Sony vendió 50 millones de Walkman en diez años, y el producto hizo de la música portátil una prioridad del consumidor.[3]",
+    "status": "Los aparatos originales son objeto de colección; el nombre Walkman siguió en modelos posteriores.",
+    "date": "1979"
+   },
+   "refs": [
+    {
+     "label": "V&A, Stowaway TPS-L2 personal stereo, Sony, O58358",
+     "url": "https://collections.vam.ac.uk/item/O58358/stowaway-tps-l2-personal-stereo-sony",
+     "checks": "Diseñado y producido por Sony en 1979; Ibuka pidió el reproductor de bolsillo; Morita fijó «Walkman» como nombre universal en abril de 1980; sin función de grabación; Sony America propuso otros nombres. ⚠ el resumen automático escribió «Nasaru» por Masaru.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "V&A, Stowaway TPS-L2 personal stereo, Sony Corporation, O1328406",
+     "url": "https://collections.vam.ac.uk/item/O1328406/stowaway-tps-l2-personal-stereo-sony-corporation",
+     "checks": "Hecho a pedido de Ibuka; modificación del Pressman TCM-5000 con sonido estéreo y sin grabación; segunda salida de audífonos; nombres regionales Soundabout (EE. UU.), Stowaway (R. U.), Freestyle (Suecia); nueva tendencia de escuchar música en movimiento.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "EBSCO Research Starters, «Sony Introduces the Walkman»",
+     "url": "https://www.ebsco.com/research-starters/history/sony-introduces-walkman",
+     "checks": "Debut en julio de 1979 en Tokio; Morita convenció al directorio; 50 millones de unidades en diez años; la música portátil como prioridad del consumidor. ⚠ fuente secundaria; dice que se comercializó inicialmente como «Soundabout».",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "dyson-dc01-1993",
+   "level": "normal",
+   "discipline": "product",
+   "type": "appliance",
+   "title": "Dyson DC01 vacuum cleaner",
+   "short": "Dyson DC01",
+   "designers": [
+    "james-dyson"
+   ],
+   "maker": "Dyson",
+   "year": 1993,
+   "date": "1993",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Moulded plastics, transparent dust bin, cyclone chambers",
+   "tech": [],
+   "key": "James Dyson’s bagless vacuum cleaner, which used cyclonic separation and a transparent bin that showed the dust it collected.",
+   "more": "Dyson developed the cyclonic principle over several years in the 1980s, and the DC01 was launched in Britain in 1993 under his own company, after he failed to interest established makers. Without a bag, the machine showed its working: the dust collected in a clear bin, which became its main visual feature. It was sold on its technology and its look as much as on price, and Dyson later built his firm on the same cyclone idea.",
+   "status": "Superseded by later Dyson models; the cyclonic principle remains the basis of the brand.",
+   "es": {
+    "title": "Aspiradora Dyson DC01",
+    "short": "Dyson DC01",
+    "date": "1993",
+    "materials": "Plásticos moldeados, recipiente transparente para el polvo, cámaras ciclónicas",
+    "key": "La aspiradora sin bolsa de James Dyson, que separaba el polvo por ciclones y tenía un recipiente transparente que mostraba lo recogido.",
+    "more": "Dyson desarrolló el principio ciclónico durante varios años de la década de 1980, y la DC01 salió a la venta en Gran Bretaña en 1993 con su propia empresa, tras no lograr interesar a los fabricantes establecidos. Sin bolsa, la máquina mostraba su funcionamiento: el polvo se acumulaba en un recipiente transparente, que se volvió su rasgo visual principal. Se vendió tanto por su tecnología y su aspecto como por su precio, y Dyson construyó después su empresa sobre la misma idea del ciclón.",
+    "status": "Reemplazada por modelos posteriores de Dyson; el principio ciclónico sigue siendo la base de la marca."
+   },
+   "refs": []
+  },
+  {
+   "id": "oxo-good-grips-1990",
+   "level": "normal",
+   "discipline": "product",
+   "type": "tool",
+   "title": "OXO Good Grips kitchen tools",
+   "short": "OXO Good Grips",
+   "designers": [],
+   "maker": "OXO International",
+   "year": 1990,
+   "date": "1990",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Thick rubber-like handles with fins, stainless steel",
+   "tech": [],
+   "key": "A line of kitchen tools with large, soft, non-slip handles, launched in 1990 and conceived so that people with weak or arthritic hands could use them.",
+   "more": "Sam Farber, who founded OXO International, started the line after watching his wife Betsey struggle with ordinary kitchen tools because of arthritis; the New York firm Smart Design developed the first tools, including the vegetable peeler. The handles were thick and soft and had fins that gave a grip even when wet. Although made for people with limited grip, the tools sold to everyone, which made them a standard example of inclusive design.",
+   "status": "Still in production; OXO has since extended the Good Grips name to many other products.",
+   "es": {
+    "title": "Utensilios OXO Good Grips",
+    "short": "OXO Good Grips",
+    "date": "1990",
+    "materials": "Mangos gruesos de goma flexible con aletas, acero inoxidable",
+    "key": "Una línea de utensilios de cocina con mangos grandes, blandos y antideslizantes, lanzada en 1990 y pensada para que pudieran usarla personas con manos débiles o artríticas.",
+    "more": "Sam Farber, fundador de OXO International, empezó la línea al ver cómo su esposa Betsey tenía dificultades con los utensilios de cocina comunes a causa de la artritis; la firma neoyorquina Smart Design desarrolló las primeras herramientas, entre ellas el pelador de verduras. Los mangos eran gruesos y blandos y tenían aletas que daban agarre incluso con las manos mojadas. Aunque se hicieron para quienes tienen poca fuerza de agarre, los utensilios se vendieron a todo el mundo, y por eso son un ejemplo clásico de diseño inclusivo.",
+    "status": "Sigue en producción; OXO ha extendido desde entonces el nombre Good Grips a muchos otros productos."
+   },
+   "refs": [],
+   "movements": [
+    "universal-design"
+   ]
+  },
+  {
+   "id": "fairphone-2013",
+   "level": "normal",
+   "discipline": "product",
+   "type": "electronics",
+   "title": "Fairphone",
+   "designers": [],
+   "maker": "Fairphone",
+   "year": 2013,
+   "date": "2013",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Plastic casing, Android smartphone electronics",
+   "tech": [],
+   "key": "The first smartphone of the Dutch social enterprise Fairphone, which tried to make a phone with more traceable materials and a longer working life.",
+   "more": "Fairphone began in Amsterdam as a campaign about conflict minerals before becoming a company, and its first phone, funded by customers’ pre-orders, reached buyers in 2013. The company set out to make the supply chain more visible and to design a phone that could be repaired and kept longer, against the habit of replacing phones every year or two. Later models developed the same ideas further, with parts that users can replace.",
+   "status": "No longer made; later Fairphone models continue the project.",
+   "es": {
+    "title": "Fairphone",
+    "date": "2013",
+    "materials": "Carcasa de plástico, electrónica de teléfono inteligente con Android",
+    "key": "El primer teléfono inteligente de la empresa social neerlandesa Fairphone, que buscó hacer un teléfono con materiales más rastreables y una vida útil más larga.",
+    "more": "Fairphone nació en Ámsterdam como una campaña sobre minerales de conflicto antes de convertirse en empresa, y su primer teléfono, financiado con preventas de los propios clientes, llegó a los compradores en 2013. La empresa se propuso hacer más visible la cadena de suministro y diseñar un teléfono que pudiera repararse y conservarse más tiempo, frente a la costumbre de cambiarlo cada uno o dos años. Los modelos posteriores desarrollaron las mismas ideas, con piezas que el usuario puede reemplazar.",
+    "status": "Ya no se fabrica; los modelos posteriores de Fairphone continúan el proyecto."
+   },
+   "refs": [],
+   "movements": [
+    "sustainable-design"
+   ]
+  },
+  {
+   "id": "favela-chair-1991",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Favela chair",
+   "designers": [
+    "hermanos-campana"
+   ],
+   "year": 1991,
+   "date": "1991",
+   "regions": [
+    "latin-america",
+    "global"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Scraps of wood glued and nailed together",
+   "tech": [
+    "scrap-materials"
+   ],
+   "key": "The Campana brothers’ chair of wood scraps assembled by hand in 1991, its look taken from the improvised houses of Brazilian favelas.[1][2][3]",
+   "more": "Fernando and Humberto Campana made the original in 1991 from scraps of wood from discarded fruit crates, nailed and glued by hand.[2][3] SFMOMA says only two original prototypes existed.[2] Fernando Campana explained that residents of São Paulo’s favelas build their homes intuitively, and that he tried to behave as they do in making the chair.[1][2] The Italian firm Edra later produced it; museum records date the production version to 2002–03 and note that it is more rectilinear than the prototype.[1][2]",
+   "status": "Still in production by Edra.",
+   "es": {
+    "title": "Silla Favela",
+    "date": "1991",
+    "materials": "Retazos de madera pegados y clavados",
+    "key": "La silla de los hermanos Campana hecha a mano en 1991 con retazos de madera, cuyo aspecto viene de las viviendas improvisadas de las favelas brasileñas.[1][2][3]",
+    "more": "Fernando y Humberto Campana hicieron el original en 1991 con retazos de madera de cajones de fruta desechados, clavados y pegados a mano.[2][3] El SFMOMA dice que solo existieron dos prototipos originales.[2] Fernando Campana explicó que los habitantes de las favelas de São Paulo construyen sus casas de forma intuitiva y que él trató de comportarse como ellos al hacer la silla.[1][2] La firma italiana Edra la produjo después; los registros de museos fechan la versión de producción en 2002–03 y señalan que es más rectilínea que el prototipo.[1][2]",
+    "status": "Sigue en producción por Edra."
+   },
+   "refs": [
+    {
+     "label": "Museum of Fine Arts, Houston, «Favela chair»",
+     "url": "https://emuseum.mfah.org/catalogues/aia-online-catalogue/objects/65416/favela-chair",
+     "checks": "Prototipo de 1991; versión de producción de Edra diseñada en 2002 y producida en 2003, más rectilínea; inspiración en la expansión informal de São Paulo; cita de Fernando Campana sobre el método intuitivo de las favelas. ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "SFMOMA Open Space, «Favela chair» (Darrin Alfred)",
+     "url": "https://openspace.sfmoma.org/2010/10/darrin-alfred-favela-chair/",
+     "checks": "Creada en 1991 por Fernando y Humberto Campana con listones de cajones de fruta; solo dos prototipos; la versión del museo es la de producción de Edra de 2002; inspiración en las favelas de São Paulo. ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Architectural Record, «Tribute: Fernando Campana (1961–2022)»",
+     "url": "https://architecturalrecord.com/articles/15946-tribute-brazilian-architect-and-designer-fernando-campana-1961-2022",
+     "checks": "Silla de 1991 con retazos de madera de cajones de fruta, clavados y pegados a mano; Edra; estudio en São Paulo; inspiración en la construcción de las favelas. ⚠ prensa especializada.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "vermelha-chair-1998",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Vermelha chair",
+   "designers": [
+    "hermanos-campana"
+   ],
+   "year": 1998,
+   "date": "1998",
+   "regions": [
+    "latin-america",
+    "global"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Red rope wound by hand around a metal frame",
+   "tech": [],
+   "key": "The Campana brothers’ armchair of red cord wound by hand around a metal frame.",
+   "more": "Its tangled mass of red rope is wound by hand around a metal frame, so that each chair differs slightly. The Campana brothers drew on hand techniques of popular craft and gave them a form that sits between a seat and a sculpture. It was later produced by the Italian firm Edra.",
+   "status": "Still in production by Edra.",
+   "es": {
+    "title": "Silla Vermelha",
+    "date": "1998",
+    "materials": "Cuerda roja enrollada a mano sobre una estructura metálica",
+    "key": "El sillón de los hermanos Campana hecho con cuerda roja enrollada a mano sobre una estructura metálica.",
+    "more": "Su maraña de cuerda roja se enrolla a mano sobre una estructura metálica, de modo que cada silla difiere un poco de otra. Los hermanos Campana recurrieron a técnicas manuales de la artesanía popular y les dieron una forma a medio camino entre asiento y escultura. Más tarde la produjo la firma italiana Edra.",
+    "status": "Sigue en producción por Edra."
+   },
+   "refs": []
+  },
+  {
+   "id": "banquete-chair-2006",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Banquete chair",
+   "designers": [
+    "hermanos-campana"
+   ],
+   "year": 2006,
+   "date": "2006",
+   "regions": [
+    "latin-america",
+    "global"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Second-hand stuffed toys fixed to a metal frame",
+   "tech": [
+    "scrap-materials"
+   ],
+   "key": "The Campana brothers’ chair covered in second-hand stuffed toys, which joins a popular plaything with a gallery object.",
+   "more": "A metal frame is covered in stuffed animals, which are fixed to it so that the chair looks like a heap of toys. The Campana brothers again worked with discarded, humble material, as they had with the Favela chair, and gave it to the Italian firm Edra to produce. The piece plays on the sentimental value of toys and the seriousness of collectible design.",
+   "status": "Still in production by Edra.",
+   "es": {
+    "title": "Silla Banquete",
+    "date": "2006",
+    "materials": "Peluches de segunda mano fijados a una estructura metálica",
+    "key": "La silla de los hermanos Campana cubierta de peluches de segunda mano, que une un juguete popular con un objeto de galería.",
+    "more": "Una estructura metálica se cubre de animales de peluche, fijados de modo que la silla parece un montón de juguetes. Los hermanos Campana volvieron a trabajar con material descartado y humilde, como en la silla Favela, y lo entregaron a la firma italiana Edra para su producción. La pieza juega con el valor sentimental de los juguetes y la seriedad del diseño de colección.",
+    "status": "Sigue en producción por Edra."
+   },
+   "refs": []
+  },
+  {
+   "id": "zx-spectrum-1982",
+   "level": "normal",
+   "discipline": "product",
+   "type": "computer",
+   "title": "Sinclair ZX Spectrum",
+   "short": "ZX Spectrum",
+   "designers": [
+    "rick-dickinson"
+   ],
+   "maker": "Sinclair Research",
+   "year": 1982,
+   "date": "1982",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Black plastic case, rubber keyboard",
+   "tech": [],
+   "key": "The cheap home microcomputer from Sinclair Research, with a black plastic case, a rubber keyboard and a rainbow stripe, designed by Rick Dickinson.",
+   "more": "Sinclair Research launched the ZX Spectrum in 1982 in Cambridge as a low-priced home computer. Rick Dickinson designed its slim black case, with a rubber keyboard that kept the cost down, and a stripe of four colours in the corner. It brought computing to many British homes and became the base of a large games industry.",
+   "status": "Many machines survive with collectors and in museums, and new versions and emulations exist.",
+   "es": {
+    "title": "Sinclair ZX Spectrum",
+    "short": "ZX Spectrum",
+    "date": "1982",
+    "materials": "Carcasa de plástico negro, teclado de goma",
+    "key": "El microordenador doméstico barato de Sinclair Research, con carcasa de plástico negro, teclado de goma y una franja arcoíris, diseñado por Rick Dickinson.",
+    "more": "Sinclair Research lanzó el ZX Spectrum en 1982 en Cambridge como computador doméstico de bajo precio. Rick Dickinson diseñó su carcasa negra y delgada, con un teclado de goma que abarataba el costo, y una franja de cuatro colores en la esquina. Llevó la informática a muchos hogares británicos y fue la base de una gran industria de videojuegos.",
+    "status": "Se conservan muchas máquinas con coleccionistas y en museos, y existen versiones nuevas y emulaciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "macintosh-128k-1984",
+   "level": "essential",
+   "discipline": "product",
+   "type": "computer",
+   "title": "Macintosh 128K",
+   "short": "Macintosh",
+   "designers": [],
+   "maker": "Apple Computer",
+   "year": 1984,
+   "date": "January 1984",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Beige plastic case, 9-inch black-and-white screen, built-in floppy drive",
+   "tech": [],
+   "key": "Apple’s compact all-in-one computer of 1984, with a graphical interface and a mouse, which presented the personal computer as a friendly object.[1][2]",
+   "more": "Apple introduced the Macintosh in January 1984.[1][2] Screen, drive and electronics sat in a single compact case with a carrying handle and a built-in 9-inch screen and floppy drive.[2][3] Its graphical interface let users click icons with a one-button mouse.[1][2] Apple later introduced the LaserWriter printer, which made desktop publishing possible.[1]",
+   "status": "Original machines are preserved in museums and private collections.",
+   "es": {
+    "title": "Macintosh 128K",
+    "short": "Macintosh",
+    "date": "enero de 1984",
+    "materials": "Carcasa de plástico beige, pantalla blanco y negro de 9 pulgadas, disquetera integrada",
+    "key": "El computador compacto todo en uno de Apple de 1984, con interfaz gráfica y mouse, que presentó el computador personal como un objeto amable.[1][2]",
+    "more": "Apple presentó el Macintosh en enero de 1984.[1][2] Pantalla, disquetera y electrónica iban en una sola carcasa compacta con asa para llevarla, pantalla integrada de 9 pulgadas y disquetera incorporada.[2][3] Su interfaz gráfica permitía hacer clic en íconos con un mouse de un botón.[1][2] Apple introdujo después la impresora LaserWriter, que hizo posible la edición de escritorio.[1]",
+    "status": "Se conservan máquinas originales en museos y colecciones privadas."
+   },
+   "refs": [
+    {
+     "label": "Smithsonian National Museum of American History, «Apple Macintosh Microcomputer»",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_334371",
+     "checks": "Presentado en enero de 1984; pantalla monocroma de 9 pulgadas; interfaz gráfica con íconos; mouse de un botón; 128K de RAM; LaserWriter que habilitó la edición de escritorio.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Computer History Museum, «A Computer for the Rest of Us»",
+     "url": "https://computerhistory.org/blog/a-computer-for-the-rest-of-us/",
+     "checks": "Presentado en 1984; carcasa compacta todo en uno con asa; pantalla de 9 pulgadas; disquetera de 3,5 pulgadas integrada; interfaz gráfica con mouse. ⚠ da el 24 de enero.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Computer History Museum, «January 22: Apple Computer Launches the Macintosh»",
+     "url": "https://www.computerhistory.org/tdih/January/22/",
+     "checks": "Lanzamiento en enero de 1984; «primer computador exitoso con mouse e interfaz gráfica». ⚠ da el 22 de enero (el otro texto del CHM da el 24): por eso se deja «enero de 1984».",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "braun-et66-1987",
+   "level": "normal",
+   "discipline": "product",
+   "type": "calculator",
+   "title": "Braun ET 66 calculator",
+   "designers": [
+    "dietrich-lubs"
+   ],
+   "maker": "Braun",
+   "year": 1987,
+   "date": "1987",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Plastic housing, coloured plastic keys, solar cell and display",
+   "tech": [],
+   "key": "The pocket calculator designed by Dietrich Lubs for Braun in 1987, which sorted its keys by function and colour in the manner of the Rams school.",
+   "more": "Lubs designed the ET 66 at Braun, where Dieter Rams led the design department. Its black body carries a grid of keys whose colours tell the user what each does, so the layout explains itself without text. It continues Braun’s earlier calculators and its restrained language of the ‘good design’ associated with Rams, in an age when other makers were turning to colour and playfulness.",
+   "status": "Survives in design collections and among collectors; no longer in regular production.",
+   "es": {
+    "title": "Calculadora Braun ET 66",
+    "date": "1987",
+    "materials": "Carcasa de plástico, teclas de plástico de colores, celda solar y pantalla",
+    "key": "La calculadora de bolsillo que Dietrich Lubs diseñó para Braun en 1987, con teclas ordenadas por función y color al modo de la escuela de Rams.",
+    "more": "Lubs diseñó la ET 66 en Braun, donde Dieter Rams dirigía el departamento de diseño. Su cuerpo negro lleva una trama de teclas cuyos colores indican qué hace cada una, de modo que la disposición se explica sin texto. Continúa las calculadoras anteriores de Braun y su lenguaje sobrio del «buen diseño» asociado a Rams, en una época en que otros fabricantes recurrían al color y al juego.",
+    "status": "Se conserva en colecciones de diseño y entre coleccionistas; ya no se fabrica de forma regular.",
+    "short": "Braun ET 66"
+   },
+   "refs": [],
+   "short": "Braun ET 66"
+  },
+  {
+   "id": "rag-chair-1991",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Rag chair",
+   "designers": [
+    "tejo-remy"
+   ],
+   "movements": [],
+   "maker": "Tejo Remy",
+   "year": 1991,
+   "date": "1991",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Discarded clothes and textiles compressed and held with steel straps",
+   "tech": [
+    "scrap-materials"
+   ],
+   "key": "Tejo Remy’s armchair of old clothes pressed into a block and bound with straps, a founding piece of Dutch Droog Design.",
+   "more": "Remy made it from layers of discarded clothing pressed together and held by metal straps, so the seat is also a pile of used garments. Each chair differs because the clothes differ. It became one of the best-known pieces associated with Droog Design, which presented Dutch work of this kind from 1993, and it treated waste as a material and as a quiet comment on consumption.",
+   "status": "Pieces are held in museum collections and the design is still made to order.",
+   "es": {
+    "title": "Rag Chair",
+    "date": "1991",
+    "materials": "Ropa y telas desechadas, comprimidas y sujetas con flejes de acero",
+    "key": "El sillón de Tejo Remy hecho de ropa vieja prensada en un bloque y atada con flejes, una pieza fundadora del Droog Design neerlandés.",
+    "more": "Remy la hizo con capas de ropa desechada prensadas y sujetas con flejes metálicos, de modo que el asiento es también un montón de prendas usadas. Cada silla es distinta porque la ropa lo es. Se volvió una de las piezas más conocidas asociadas al Droog Design, que presentó desde 1993 obra neerlandesa de este tipo, y trató el desecho como material y como comentario silencioso sobre el consumo.",
+    "status": "Hay piezas en colecciones de museos y el diseño sigue haciéndose por encargo."
+   },
+   "refs": []
+  },
+  {
+   "id": "thinkpad-700c-1992",
+   "level": "normal",
+   "discipline": "product",
+   "type": "laptop",
+   "title": "IBM ThinkPad 700C",
+   "designers": [
+    "richard-sapper"
+   ],
+   "maker": "IBM",
+   "year": 1992,
+   "date": "1992",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "materials": "Black plastic case, colour LCD screen",
+   "tech": [],
+   "key": "The first ThinkPad, a plain black laptop designed by Richard Sapper for IBM that set the look of the business notebook.",
+   "more": "Sapper, the German designer who worked as IBM’s consultant, gave the 700C a matte black, rectangular body with no decoration, and it carried the red TrackPoint pointing nub in the middle of the keyboard. The sober box suited office use and travel, and later ThinkPads kept its character. It was released in 1992 and sold as a serious tool rather than a toy.",
+   "status": "Original units survive in museum and private collections; the ThinkPad line continues.",
+   "es": {
+    "title": "IBM ThinkPad 700C",
+    "date": "1992",
+    "materials": "Carcasa de plástico negro, pantalla LCD a color",
+    "key": "El primer ThinkPad, un portátil negro y sobrio que Richard Sapper diseñó para IBM y que fijó el aspecto del cuaderno de empresa.",
+    "more": "Sapper, el diseñador alemán que trabajaba como consultor de IBM, dio al 700C un cuerpo rectangular negro mate sin adornos, con el puntero rojo TrackPoint en medio del teclado. La caja sobria convenía a la oficina y al viaje, y los ThinkPad posteriores conservaron su carácter. Salió en 1992 y se vendió como herramienta seria, no como juguete.",
+    "status": "Se conservan unidades originales en museos y colecciones privadas; la línea ThinkPad continúa."
+   },
+   "refs": []
+  },
+  {
+   "id": "freitag-messenger-1993",
+   "level": "normal",
+   "discipline": "product",
+   "type": "bag",
+   "title": "Freitag messenger bag",
+   "designers": [],
+   "maker": "Markus and Daniel Freitag",
+   "year": 1993,
+   "date": "1993",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Used truck tarpaulin, bicycle inner tube, car seat belts",
+   "tech": [
+    "scrap-materials"
+   ],
+   "key": "The messenger bag that the brothers Markus and Daniel Freitag made in Zurich from used truck tarpaulin, bicycle inner tube and seat belts.",
+   "more": "The Freitag brothers, graphic designers in Zurich, sewed the first bag in 1993 from tarpaulin of trucks that passed their flat. Because each tarpaulin has its own print, wear and colour, no two bags are alike. The firm Freitag grew from it and still makes bags this way, treating waste as a source of identity rather than hiding it.",
+   "status": "Still made by Freitag in Zurich.",
+   "es": {
+    "title": "Bolso Freitag",
+    "date": "1993",
+    "materials": "Lona de camión usada, cámara de bicicleta, cinturones de seguridad de auto",
+    "key": "El bolso mensajero que los hermanos Markus y Daniel Freitag hicieron en Zúrich con lona de camión usada, cámara de bicicleta y cinturones de seguridad.",
+    "more": "Los hermanos Freitag, diseñadores gráficos en Zúrich, cosieron el primer bolso en 1993 con lona de camiones que pasaban frente a su departamento. Como cada lona tiene su propio estampado, desgaste y color, no hay dos bolsos iguales. De ahí nació la empresa Freitag, que sigue haciendo bolsos así y trata el desecho como fuente de identidad, sin esconderlo.",
+    "status": "Sigue fabricándose por Freitag en Zúrich."
+   },
+   "refs": [],
+   "movements": [
+    "sustainable-design"
+   ]
+  },
+  {
+   "id": "aeron-chair-1994",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Aeron chair",
+   "designers": [
+    "bill-stumpf",
+    "don-chadwick"
+   ],
+   "movements": [
+    "human-factors-ergonomics"
+   ],
+   "maker": "Herman Miller",
+   "year": 1994,
+   "date": "1994",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Woven polyester mesh, die-cast aluminium and plastic frame",
+   "tech": [],
+   "key": "The office chair designed by Bill Stumpf and Don Chadwick for Herman Miller in 1994, which replaced foam upholstery with a Pellicle mesh and came in three sizes.[1][2]",
+   "more": "Stumpf and Chadwick designed it for Herman Miller in 1994.[1][3] Its seat and back are Pellicle mesh, in the current version with eight zones of varying tension, that supports the body without foam and lets it breathe.[2] The chair is adjustable, with a rotating column and seat-angle adjustment.[1][2] It is made in three sizes, A, B and C.[2] It entered the permanent collection of the Museum of Modern Art before it went into production,[3] and the Brooklyn Museum calls it an early masterpiece of ergonomic furniture design.[1]",
+   "status": "Still in production by Herman Miller.",
+   "es": {
+    "title": "Silla Aeron",
+    "date": "1994",
+    "materials": "Malla de poliéster tejida, estructura de aluminio fundido y plástico",
+    "key": "La silla de oficina que Bill Stumpf y Don Chadwick diseñaron para Herman Miller en 1994, que reemplazó la tapicería de espuma por una malla Pellicle y se ofrecía en tres tamaños.[1][2]",
+    "more": "Stumpf y Chadwick la diseñaron para Herman Miller en 1994.[1][3] Su asiento y respaldo son de malla Pellicle, en la versión actual con ocho zonas de tensión distinta, que sostiene el cuerpo sin espuma y lo deja respirar.[2] La silla es ajustable, con columna giratoria y regulación del ángulo del asiento.[1][2] Se hace en tres tamaños, A, B y C.[2] Entró a la colección permanente del Museo de Arte Moderno antes de salir a producción,[3] y el Brooklyn Museum la llama una obra maestra temprana del diseño ergonómico de muebles.[1]",
+    "status": "Sigue en producción por Herman Miller."
+   },
+   "refs": [
+    {
+     "label": "Brooklyn Museum, «Aeron Chair»",
+     "url": "https://www.brooklynmuseum.org/objects/169418",
+     "checks": "Diseñada por Don Chadwick y Bill Stumpf, fabricante Herman Miller, 1994; ajustes (columna giratoria, ángulo del asiento); «obra maestra temprana del diseño ergonómico». ⚠ materiales según el museo: aluminio reciclado y polímero reciclado.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Herman Miller, «Aeron Chairs brochure»",
+     "url": "https://www.hermanmiller.com/content/dam/hermanmiller/documents/product_literature/brochures/apac/aeron_chairs_brochure_en-apc.pdf",
+     "checks": "Creada en 1994 por Stumpf y Chadwick; tres tamaños A, B y C; malla 8Z Pellicle de ocho zonas de tensión, sin espuma, que respira. ⚠ fuente del fabricante; describe la versión actual.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Herman Miller, «Designer Don Chadwick»",
+     "url": "https://www.hermanmiller.com/designers/chadwick/",
+     "checks": "Aeron codiseñada con Stumpf en 1994; entró a la colección permanente del MoMA antes de producirse. ⚠ fuente del fabricante.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "toyota-prius-1997",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Toyota Prius",
+   "designers": [],
+   "movements": [
+    "sustainable-design"
+   ],
+   "maker": "Toyota",
+   "year": 1997,
+   "date": "1997",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Steel body with petrol engine, electric motor and battery",
+   "tech": [],
+   "key": "The first mass-produced hybrid car, launched by Toyota in Japan in 1997, with a rounded, aerodynamic body that made its economy visible.",
+   "more": "Toyota put the Prius on sale in Japan in December 1997, combining a petrol engine with an electric motor, and it reached other markets from 2000. Its tall, rounded profile was shaped for low drag. Its sales outside Japan pushed Western makers to develop hybrids of their own, and the Prius shape became a sign of ‘green’ driving that others imitated or reacted against.",
+   "status": "The Prius is still made by Toyota in later generations.",
+   "es": {
+    "title": "Toyota Prius",
+    "date": "1997",
+    "materials": "Carrocería de acero con motor a gasolina, motor eléctrico y batería",
+    "key": "El primer auto híbrido de producción en serie, lanzado por Toyota en Japón en 1997, con una carrocería redondeada y aerodinámica que hacía visible su economía.",
+    "more": "Toyota puso a la venta el Prius en Japón en diciembre de 1997, con un motor a gasolina combinado con uno eléctrico, y llegó a otros mercados desde 2000. Su perfil alto y redondeado se moldeó para reducir el arrastre. Sus ventas fuera de Japón empujaron a los fabricantes occidentales a desarrollar híbridos propios, y la forma del Prius se volvió una señal de conducción «verde» que otros imitaron o rechazaron.",
+    "status": "El Prius sigue fabricándose por Toyota en generaciones posteriores."
+   },
+   "refs": []
+  },
+  {
+   "id": "louis-ghost-2002",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Louis Ghost chair",
+   "designers": [
+    "philippe-starck"
+   ],
+   "maker": "Kartell",
+   "year": 2002,
+   "date": "2002",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Injection-moulded transparent polycarbonate",
+   "tech": [
+    "polycarbonate-shell"
+   ],
+   "key": "Philippe Starck’s transparent armchair for Kartell, an 18th-century French form moulded in one piece of polycarbonate.",
+   "more": "Starck designed it for the Italian firm Kartell in 2002, taking the outline of a historic French armchair and making it in clear polycarbonate. The whole seat is injection-moulded as a single piece, so a period shape appears in a modern plastic. It showed that plastic could be treated as a quality material in author-led design, and it became one of Kartell’s best-selling chairs.",
+   "status": "Still in production by Kartell.",
+   "es": {
+    "title": "Silla Louis Ghost",
+    "date": "2002",
+    "materials": "Policarbonato transparente moldeado por inyección",
+    "key": "El sillón transparente de Philippe Starck para Kartell, una forma francesa del siglo XVIII moldeada en una sola pieza de policarbonato.",
+    "more": "Starck lo diseñó para la firma italiana Kartell en 2002, tomando el contorno de un sillón francés histórico y haciéndolo en policarbonato transparente. Todo el asiento se moldea por inyección en una sola pieza, de modo que una forma de época aparece en un plástico moderno. Mostró que el plástico podía tratarse como material de calidad en el diseño de autor, y se convirtió en una de las sillas más vendidas de Kartell.",
+    "status": "Sigue en producción por Kartell."
+   },
+   "refs": []
+  },
+  {
+   "id": "ikea-billy-1979",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Billy bookcase",
+   "designers": [],
+   "maker": "Gillis Lundgren for IKEA",
+   "year": 1979,
+   "date": "1979",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "SE"
+   ],
+   "materials": "Particleboard with a wood-veneer or foil finish",
+   "tech": [
+    "flat-pack"
+   ],
+   "key": "A plain bookcase designed by Gillis Lundgren for IKEA, sold flat-packed and assembled by the buyer, which became one of the best-selling pieces of furniture in the world.",
+   "more": "Billy was launched by IKEA in 1979 and designed by Gillis Lundgren, one of the company's first designers. It is a simple shelving unit of panels that arrives in a flat box and is put together at home, so it can be stored, shipped and sold cheaply in very large numbers. Its size and finishes have been adjusted over the years, but the basic idea has stayed the same.",
+   "status": "Still in production by IKEA.",
+   "es": {
+    "title": "Librero Billy",
+    "date": "1979",
+    "materials": "Aglomerado con acabado de chapa de madera o de lámina",
+    "key": "Un librero sencillo diseñado por Gillis Lundgren para IKEA, vendido en paquete plano y armado por el comprador, que se volvió uno de los muebles más vendidos del mundo.",
+    "more": "Billy fue lanzado por IKEA en 1979 y lo diseñó Gillis Lundgren, uno de los primeros diseñadores de la empresa. Es un estante sencillo de paneles que llega en una caja plana y se arma en casa, de modo que puede almacenarse, transportarse y venderse barato en cantidades muy grandes. Sus medidas y acabados se han ajustado con los años, pero la idea básica sigue igual.",
+    "status": "Sigue en producción por IKEA."
+   },
+   "refs": []
+  },
+  {
+   "id": "grid-compass-1982",
+   "level": "normal",
+   "discipline": "product",
+   "type": "laptop",
+   "title": "GRiD Compass",
+   "designers": [
+    "bill-moggridge"
+   ],
+   "maker": "GRiD Systems",
+   "year": 1982,
+   "date": "1982",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Magnesium alloy case, electroluminescent display",
+   "tech": [],
+   "key": "The first laptop with a clamshell form, a screen folding down over the keyboard, designed by Bill Moggridge for GRiD Systems.",
+   "more": "Designed by Bill Moggridge for GRiD Systems and launched in 1982, the Compass folds its flat display down over the keyboard, making the computer a single portable case. It was expensive and aimed at professionals who needed to work away from the office. Moggridge later described the thinking behind it as interaction design.",
+   "status": "Examples survive in museum collections.",
+   "es": {
+    "title": "GRiD Compass",
+    "date": "1982",
+    "materials": "Carcasa de aleación de magnesio, pantalla electroluminiscente",
+    "key": "El primer portátil de forma de concha, con la pantalla abatible sobre el teclado, diseñado por Bill Moggridge para GRiD Systems.",
+    "more": "Diseñado por Bill Moggridge para GRiD Systems y lanzado en 1982, el Compass pliega su pantalla plana sobre el teclado y hace del computador una sola caja transportable. Era caro y estaba pensado para profesionales que necesitaban trabajar fuera de la oficina. Moggridge describió después el pensamiento detrás de él como diseño de interacción.",
+    "status": "Se conservan ejemplares en colecciones de museos."
+   },
+   "refs": [],
+   "movements": [
+    "interaction-design"
+   ]
+  },
+  {
+   "id": "how-high-the-moon-1986",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "How High the Moon armchair",
+   "designers": [
+    "shiro-kuramata"
+   ],
+   "maker": "Vitra",
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Nickel-plated expanded steel mesh",
+   "tech": [],
+   "key": "Shiro Kuramata’s armchair of expanded metal mesh, a seat whose open volume looks almost weightless.",
+   "more": "Shiro Kuramata designed the armchair in 1986 as a seat made of steel mesh, with no solid surfaces, so that it reads as an outline in space. Its name comes from a jazz standard. It is among the best-known pieces of Japanese design of the 1980s, and Kuramata also took part in the Memphis group in Milan.",
+   "status": "Held in museum collections.",
+   "es": {
+    "title": "Sillón How High the Moon",
+    "date": "1986",
+    "materials": "Malla de acero expandido niquelado",
+    "key": "El sillón de malla de metal expandido de Shiro Kuramata, un asiento cuyo volumen abierto parece casi sin peso.",
+    "more": "Shiro Kuramata diseñó el sillón en 1986 como un asiento de malla de acero, sin superficies macizas, de modo que se lee como un contorno en el espacio. Su nombre viene de un clásico del jazz. Es una de las piezas más conocidas del diseño japonés de los años ochenta, y Kuramata participó además en el grupo Memphis de Milán.",
+    "status": "Se conserva en colecciones de museos.",
+    "short": "How High the Moon"
+   },
+   "refs": [],
+   "movements": [
+    "memphis"
+   ],
+   "short": "How High the Moon"
+  },
+  {
+   "id": "game-boy-1989",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Game Boy",
+   "designers": [
+    "gunpei-yokoi"
+   ],
+   "maker": "Nintendo",
+   "year": 1989,
+   "date": "1989",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Plastic casing, monochrome LCD",
+   "tech": [],
+   "key": "Nintendo’s handheld console designed around cheap, proven components, which ran for a long time on batteries and sold in very large numbers.",
+   "more": "Launched by Nintendo in Japan in 1989, the Game Boy had a small monochrome screen and ran on AA batteries. Gunpei Yokoi, who led its design, favoured older, well-understood and inexpensive technology over the latest hardware. This kept the price low and made the console tough and long-lasting in use, and it became one of the best-selling electronic products of its time.",
+   "status": "Out of production; many units survive and are collected.",
+   "es": {
+    "title": "Game Boy",
+    "date": "1989",
+    "materials": "Carcasa de plástico, pantalla LCD monocroma",
+    "key": "La consola portátil de Nintendo, pensada en torno a componentes baratos y probados, que duraba mucho con pilas y se vendió en cantidades enormes.",
+    "more": "Lanzada por Nintendo en Japón en 1989, la Game Boy tenía una pantalla monocroma pequeña y funcionaba con pilas AA. Gunpei Yokoi, que lideró su diseño, prefería la tecnología más antigua, conocida y barata a los equipos más recientes. Eso mantuvo bajo el precio e hizo de la consola un aparato resistente y duradero, y se volvió uno de los productos electrónicos más vendidos de su época.",
+    "status": "Fuera de producción; se conservan muchas unidades y se coleccionan."
+   },
+   "refs": []
+  },
+  {
+   "id": "muji-cd-player-1999",
+   "level": "normal",
+   "discipline": "product",
+   "type": "audio-player",
+   "title": "Muji wall-mounted CD player",
+   "designers": [
+    "naoto-fukasawa"
+   ],
+   "maker": "Muji",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Plastic casing",
+   "tech": [],
+   "key": "Naoto Fukasawa’s wall-mounted CD player for Muji, switched on by pulling a cord like a bathroom exhaust fan.",
+   "more": "Designed by Naoto Fukasawa for Muji and launched in 1999, the player hangs on the wall and starts when its cord is pulled, so the disc spins in plain view. Its form borrows the gesture of a familiar household fixture. It is a reference point for Fukasawa’s idea of design without thought, in which a product fits what people already do by instinct.",
+   "status": "Held in museum collections.",
+   "es": {
+    "title": "Reproductor de CD de pared de Muji",
+    "date": "1999",
+    "materials": "Carcasa de plástico",
+    "key": "El reproductor de CD de pared de Naoto Fukasawa para Muji, que se enciende tirando de un cordón como un extractor de baño.",
+    "more": "Diseñado por Naoto Fukasawa para Muji y lanzado en 1999, el reproductor se cuelga en la pared y parte al tirar de su cordón, de modo que el disco gira a la vista. Su forma toma el gesto de un artefacto doméstico conocido. Es un punto de referencia de la idea de Fukasawa del diseño sin pensamiento, en que un producto calza con lo que la gente ya hace por instinto.",
+    "status": "Se conserva en colecciones de museos.",
+    "short": "Reproductor CD Muji"
+   },
+   "refs": [],
+   "movements": [
+    "minimalism-fashion-product"
+   ],
+   "short": "Muji CD player"
+  }
+ ]
+}

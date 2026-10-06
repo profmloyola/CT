@@ -1,0 +1,119 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-american-system",
+  "track": "economic",
+  "start": 1800,
+  "end": 1880,
+  "date": "c. 1800–1880",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "name": "American system of manufactures",
+  "short": "American system",
+  "key": "The American method of making goods from standardized, interchangeable parts with machine tools, first developed in arms manufacture and later extended to other products.",
+  "happened": "In the early nineteenth century the United States national armories at Springfield and Harpers Ferry worked toward firearms whose parts could be exchanged between pieces, using gauges and specialized machine tools. Private arms makers and, later, makers of clocks, sewing machines and other goods took up these methods, and by the mid-century British observers were describing them as an American system.",
+  "effect": "Designing for interchangeable parts meant fixing standard components and shapes that machines could repeat and that owners could repair or replace. This approach lies behind products such as the sewing machine and the typewriter, and it prepared the ground for Ford's Model T and for the assembly line of Fordism.",
+  "es": {
+   "name": "Sistema estadounidense de manufactura (piezas intercambiables)",
+   "short": "Sistema estadounidense",
+   "date": "c. 1800–1880",
+   "key": "El método estadounidense de fabricar bienes con piezas estandarizadas e intercambiables y máquinas-herramienta, desarrollado primero en la fabricación de armas y extendido después a otros productos.",
+   "happened": "A comienzos del siglo XIX las armerías nacionales de Springfield y Harpers Ferry trabajaron por lograr armas de fuego cuyas piezas pudieran intercambiarse entre unidades, con calibres y máquinas-herramienta especializadas. Fabricantes privados de armas y, más tarde, de relojes, máquinas de coser y otros bienes adoptaron esos métodos, y a mediados de siglo observadores británicos los describían como un sistema estadounidense.",
+   "effect": "Diseñar para piezas intercambiables obligó a fijar componentes y formas estándar que las máquinas pudieran repetir y que los dueños pudieran reparar o reemplazar. Este enfoque está detrás de productos como la máquina de coser y la máquina de escribir, y preparó el terreno para el Model T de Ford y la cadena de montaje del fordismo."
+  },
+  "refs": []
+ },
+ {
+  "id": "ctx-photography",
+  "track": "technological",
+  "start": 1839,
+  "end": null,
+  "date": "1839 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "GB"
+  ],
+  "name": "Photography",
+  "short": "Photography",
+  "key": "Photography, announced in 1839, gave a mechanical way to record the visible world and began to take over the job of copying images from engravers and lithographers.",
+  "happened": "In 1839 Louis Daguerre's daguerreotype was made public in Paris, and in Britain William Henry Fox Talbot presented his own process on paper, later refined as the calotype. In the 1840s portrait studios opened in the main European cities.",
+  "effect": "Photographs were soon used as models for prints, and engravers and lithographers began to work from them instead of from drawings. Over the following decades the new medium pushed printmakers away from simple reproduction and toward processes that could carry photographs onto the printed page. Later the camera itself became a tool of design: illustrated newspapers and magazines built their pages around photographs, and the avant-garde of the 1920s used unusual viewpoints and photomontage as part of graphic design.",
+  "es": {
+   "name": "Fotografía",
+   "short": "Fotografía",
+   "date": "1839 →",
+   "key": "La fotografía, anunciada en 1839, dio un modo mecánico de registrar el mundo visible y empezó a quitar a grabadores y litógrafos el trabajo de copiar imágenes.",
+   "happened": "En 1839 se dio a conocer en París el daguerrotipo de Louis Daguerre y en Gran Bretaña William Henry Fox Talbot presentó su propio proceso sobre papel, perfeccionado después como calotipo. En la década de 1840 se abrieron estudios de retrato en las principales ciudades europeas.",
+   "effect": "Las fotografías pronto sirvieron de modelo para estampas, y grabadores y litógrafos empezaron a trabajar a partir de ellas en lugar de dibujos. En las décadas siguientes el nuevo medio alejó a los grabadores de la simple reproducción y los empujó hacia procesos que pudieran llevar la fotografía a la página impresa. Más tarde la cámara misma se volvió herramienta de diseño: la prensa ilustrada armó sus páginas en torno a fotografías, y la vanguardia de los años veinte usó puntos de vista inusuales y el fotomontaje como parte del diseño gráfico."
+  },
+  "refs": [],
+  "rtype": "context"
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-american-system",
+  "item": "singer-sewing-machine",
+  "note": "Armory-style standard parts let makers build sewing machines in quantity as a uniform product; Singer's agents sold it on instalments, bringing it into homes.",
+  "es": {
+   "note": "Las piezas estándar al estilo de las armerías permitieron fabricar máquinas de coser en cantidad como producto uniforme; los agentes de Singer la vendían a plazos y la llevaron a los hogares."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-american-system",
+  "item": "remington-no1",
+  "note": "Remington, an arms and sewing-machine maker, brought factory methods built on precise, repeatable parts to the typewriter that Sholes had developed.",
+  "es": {
+   "note": "Remington, fabricante de armas y máquinas de coser, llevó a la máquina de escribir de Sholes métodos de fábrica basados en piezas precisas y repetibles."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-american-system",
+  "item": "ford-model-t",
+  "note": "A century of interchangeable-parts practice reached its peak when Ford designed a single model whose standard parts could be built on a moving assembly line.",
+  "es": {
+   "note": "Un siglo de práctica con piezas intercambiables llegó a su cima cuando Ford diseñó un modelo único cuyas piezas estándar podían fabricarse en una cadena de montaje móvil."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-photography",
+  "item": "new-vision",
+  "note": "Once the camera was available as an instrument, avant-garde designers used it to show unusual views (from above, from below, close-up) and made photographs a material of layout.",
+  "es": {
+   "note": "Con la cámara disponible como instrumento, los diseñadores de vanguardia la usaron para mostrar vistas inusuales (en picado, contrapicado, primer plano) y volvieron la foto material de diagramación."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-photography",
+  "item": "th-painting-photography-film",
+  "note": "After decades of photography, Moholy-Nagy treated light as a medium in itself; this led to the 'typophoto', which joined photograph and typography in one message.",
+  "es": {
+   "note": "Tras décadas de fotografía, Moholy-Nagy trató la luz como medio en sí mismo; de ahí la «tipofoto», que unía fotografía y tipografía en un solo mensaje."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-photography",
+  "item": "kodak-no1",
+  "note": "Photography had required chemicals and skill; Eastman put it in a simple box camera sold loaded with film, with a service that developed the pictures, so anyone could use it.",
+  "es": {
+   "note": "La fotografía exigía química y oficio; Eastman la puso en una cámara de caja simple, vendida con película y con un servicio de revelado, para que cualquiera pudiera usarla."
+  },
+  "refs": []
+ }
+]

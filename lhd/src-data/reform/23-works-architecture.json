@@ -1,0 +1,1538 @@
+{
+ "works": [
+  {
+   "id": "crystal-palace",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Crystal Palace",
+   "designers": [
+    "joseph-paxton"
+   ],
+   "maker": "Fox, Henderson & Co",
+   "client": "Royal Commission for the Great Exhibition",
+   "year": 1851,
+   "date": "1851",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Cast iron, wrought iron, timber, glass",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "Joseph Paxton’s vast hall of iron and glass in Hyde Park, built from prefabricated parts to house the Great Exhibition of 1851.[1][2]",
+   "more": "Time was short for the Great Exhibition building, and the Royal Commissioners accepted Paxton’s design after all the other architects’ schemes had been rejected.[3] Paxton, head gardener at Chatsworth, based it on the Lily House there[3] and proposed prefabricated elements of sheet glass and iron, built within six months.[2] Fox, Henderson and Co made the ironwork, according to Graces Guide in about nine months, mostly at Smethwick.[4] The building was taken down and rebuilt at Sydenham Hill in 1852–54,[1] where fire destroyed most of it on 30 November–1 December 1936.[1]",
+   "status": "Destroyed by fire in 1936; only the site and some fragments remain.",
+   "es": {
+    "title": "Palacio de Cristal",
+    "date": "1851",
+    "materials": "Hierro fundido, hierro forjado, madera, vidrio",
+    "key": "El enorme pabellón de hierro y vidrio de Joseph Paxton en Hyde Park, levantado con piezas prefabricadas para albergar la Gran Exposición de 1851.[1][2]",
+    "more": "El tiempo apremiaba para el edificio de la Gran Exposición, y los comisionados reales aceptaron el diseño de Paxton tras rechazar los proyectos de todos los demás arquitectos.[3] Paxton, jardinero jefe de Chatsworth, lo basó en la Lily House de allí[3] y propuso elementos prefabricados de vidrio laminado y hierro, levantados en seis meses.[2] Fox, Henderson and Co fabricó la herrería, según Graces Guide en unos nueve meses, sobre todo en Smethwick.[4] El edificio fue desmontado y reconstruido en Sydenham Hill en 1852–54,[1] donde un incendio lo destruyó en su mayor parte el 30 de noviembre y 1 de diciembre de 1936.[1]",
+    "status": "Destruido por un incendio en 1936; quedan solo el terreno y algunos fragmentos."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Crystal Palace»",
+     "url": "https://www.britannica.com/topic/Crystal-Palace-building-London",
+     "checks": "Construcción de partes prefabricadas de hierro y vidrio de Paxton; abierto en Hyde Park el 1 de mayo de 1851; desmontado y reconstruido en Sydenham Hill en 1852–54; incendio del 30 de noviembre–1 de diciembre de 1936.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Joseph Paxton»",
+     "url": "https://www.britannica.com/biography/Joseph-Paxton",
+     "checks": "Superintendente de Chatsworth; propuso elementos prefabricados de vidrio laminado y hierro cuando ya se había aceptado otro diseño; construido «en seis meses».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Victoria and Albert Museum, «The Great Exhibition building» (boceto de Paxton)",
+     "url": "https://collections.vam.ac.uk/item/O18167/the-great-exhibition-building-architectural-sketch-paxton-joseph-sir/",
+     "checks": "Boceto del 11 de junio de 1850; basado en la Lily House de Chatsworth; aceptado porque se habían rechazado los demás proyectos y el tiempo apremiaba.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Grace’s Guide, «Fox, Henderson and Co»",
+     "url": "https://www.gracesguide.co.uk/Fox,_Henderson_and_Co",
+     "checks": "Fox, Henderson hizo toda la herrería; estructura de hierro en nueve meses; trabajo en Smethwick y algo en Renfrew. ⚠ fuente de referencia secundaria; la cifra de nueve meses difiere de los seis de Britannica (se atribuye a cada fuente).",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "red-house",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Red House",
+   "designers": [
+    "philip-webb"
+   ],
+   "client": "William Morris",
+   "year": 1859,
+   "date": "1859",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Red brick, clay tile roof, timber",
+   "tech": [],
+   "key": "The red-brick house at Bexleyheath that Philip Webb designed for William Morris, in a simplified Gothic style rather than the fashionable stucco villa.[1][2][3]",
+   "more": "Morris commissioned Webb in 1859 after his marriage to Jane Burden, and the family moved in in 1860.[1] It is an L-shaped house of red brick with a tiled roof, Webb’s first commission.[1][3] Each room had only the windows its use required.[1] Rossetti and Burne-Jones contributed hand-painted furniture and wall murals,[1] and Historic England records painted decoration by Burne-Jones and associates.[3] The founding of Morris, Marshall, Faulkner & Co. in 1861 grew out of that circle,[1] and Britannica says the idea of an association arose during the furnishing and decoration.[2]",
+   "status": "Survives and is open to visitors under the National Trust.",
+   "es": {
+    "title": "Red House",
+    "date": "1859",
+    "materials": "Ladrillo rojo, techo de tejas de arcilla, madera",
+    "key": "La casa de ladrillo rojo de Bexleyheath que Philip Webb diseñó para William Morris, en un gótico simplificado y no en la villa estucada de moda.[1][2][3]",
+    "more": "Morris le encargó la casa a Webb en 1859 tras casarse con Jane Burden, y la familia se instaló en 1860.[1] Es una casa en L de ladrillo rojo con techo de tejas, el primer encargo de Webb.[1][3] Cada pieza tenía solo las ventanas que su uso requería.[1] Rossetti y Burne-Jones aportaron muebles pintados a mano y murales,[1] y Historic England registra decoración pintada por Burne-Jones y colaboradores.[3] La fundación de Morris, Marshall, Faulkner & Co. en 1861 nació de ese círculo,[1] y la Britannica dice que la idea de asociarse surgió durante el equipamiento y la decoración.[2]",
+    "status": "Se conserva y recibe visitas bajo el National Trust."
+   },
+   "refs": [
+    {
+     "label": "National Trust, «Red House’s history»",
+     "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+     "checks": "Morris encargó la casa a Webb en 1859 tras casarse con Jane Burden; la familia se instaló en 1860; casa en L de ladrillo rojo y techo de tejas; ventanas según el uso de cada pieza; Rossetti y Burne-Jones aportaron muebles pintados y murales; Morris, Marshall, Faulkner & Co. en 1861.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Red House»",
+     "url": "https://www.britannica.com/place/Red-House",
+     "checks": "Diseñada por Webb en 1859 para Morris; ladrillo rojo en vez de las villas estucadas victorianas de moda; idea de una asociación surgida durante la decoración. ⚠ no menciona fuentes medievales ni vernáculas.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Historic England, «Red House» (National Heritage List, 1064203)",
+     "url": "https://historicengland.org.uk/listing/the-list/list-entry/1064203",
+     "checks": "Primer encargo de Webb; «estilo gótico simplificado»; ladrillo rojo, techo de tejas a cuatro aguas, planta en L; decoración pintada de Burne-Jones y colaboradores.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "gothic-revival"
+   ]
+  },
+  {
+   "id": "hotel-tassel",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Hôtel Tassel",
+   "designers": [
+    "victor-horta"
+   ],
+   "client": "Émile Tassel",
+   "year": 1893,
+   "date": "1893",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "BE"
+   ],
+   "materials": "Brick and stone, iron structure, glass, mosaic",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "Victor Horta’s Brussels town house of 1893–94, considered the first Art Nouveau building in Europe, with an exposed iron framework and curving ornament.[1][2]",
+   "more": "Horta built it in 1893–94 for Émile Tassel.[2] The interior is organised around a stairwell and vestibule lit by skylights and light shafts, and the iron framework is left visible as part of the design.[2] Curves and ‘whiplash lines’ come from contrasts between stone and metal.[2] UNESCO notes motifs flowing from the mosaic floor to the painted walls, including the wrought ironwork.[1] The Hôtel Tassel is one of four Horta town houses inscribed on the UNESCO World Heritage List in 2000.[1]",
+   "status": "Survives in Brussels as part of the UNESCO-listed Horta town houses.",
+   "es": {
+    "title": "Hôtel Tassel",
+    "date": "1893",
+    "materials": "Ladrillo y piedra, estructura de hierro, vidrio, mosaico",
+    "key": "La casa urbana de Victor Horta en Bruselas, de 1893–94, considerada el primer edificio art nouveau de Europa, con armazón de hierro a la vista y ornamento curvo.[1][2]",
+    "more": "Horta la construyó en 1893–94 para Émile Tassel.[2] El interior se organiza en torno a una escalera y un vestíbulo iluminados por claraboyas y pozos de luz, y el armazón de hierro queda a la vista como parte del diseño.[2] Las curvas y «líneas de látigo» nacen del contraste entre piedra y metal.[2] La UNESCO destaca motivos que fluyen del piso de mosaico a los muros pintados, incluida la herrería.[1] El Hôtel Tassel es una de las cuatro casas de Horta inscritas en la Lista del Patrimonio Mundial de la UNESCO en 2000.[1]",
+    "status": "Se conserva en Bruselas como parte de las casas de Horta declaradas Patrimonio Mundial por la UNESCO."
+   },
+   "refs": [
+    {
+     "label": "UNESCO World Heritage Centre, «Major Town Houses of the Architect Victor Horta»",
+     "url": "https://whc.unesco.org/en/list/1005",
+     "checks": "Inscrito en 2000; cuatro casas, entre ellas el Hôtel Tassel (1893); planta abierta y difusión de la luz; motivos que fluyen del piso de mosaico a los muros pintados, incluida la herrería.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Focus on Belgium, «Hôtel Tassel: the first Art Nouveau house»",
+     "url": "https://focusonbelgium.be/en/culture/hotel-tassel-first-art-nouveau-house",
+     "checks": "Construido en 1893–94 para Émile Tassel; «considerado el primer edificio art nouveau de Europa»; armazón de hierro visible; escalera y vestíbulo con claraboyas; curvas y «líneas de látigo» por contraste de piedra y metal. ⚠ el texto es de promoción turística oficial.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "paris-metro-entrances",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Paris Métro entrances",
+   "designers": [
+    "hector-guimard"
+   ],
+   "client": "Compagnie du Chemin de Fer Métropolitain de Paris",
+   "year": 1900,
+   "date": "1900",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Cast iron, glass, enamelled lava panels",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "Hector Guimard’s cast-iron and glass station entrances for the Paris Métro, which took Art Nouveau into the street from 1900.[1][2]",
+   "more": "The Métro opened in July 1900, during the Exposition Universelle.[1] The Compagnie du Métropolitain launched a design competition in 1898; Guimard never formally entered it, but his designs impressed officials enough to win him the commission.[2] He made three types of entrance: large pavilions for major squares, ‘dragonfly’ structures with glass canopies, and standard cast-iron frames with railings.[3] The parts were standardised cast-iron components for easy manufacture and assembly,[1][2] and the floral lights are held on stems that also carry the Métro sign.[2] Of 167 entrances created, 88 survive, 86 of them classified as historic monuments in 1978;[3] Porte Dauphine keeps the only surviving dragonfly structure.[3]",
+   "status": "A number of entrances survive in Paris, such as Abbesses and Porte Dauphine.",
+   "es": {
+    "title": "Entradas del metro de París",
+    "date": "1900",
+    "materials": "Hierro fundido, vidrio, paneles de lava esmaltada",
+    "key": "Las entradas de hierro fundido y vidrio que Hector Guimard diseñó para el metro de París, y que desde 1900 llevaron el art nouveau a la calle.[1][2]",
+    "more": "El metro se inauguró en julio de 1900, durante la Exposición Universal.[1] La Compagnie du Métropolitain lanzó un concurso de diseño en 1898; Guimard nunca se presentó formalmente, pero sus diseños impresionaron lo bastante a los funcionarios como para darle el encargo.[2] Hizo tres tipos de entrada: grandes pabellones para las plazas principales, estructuras «libélula» con marquesinas de vidrio y marcos estándar de hierro fundido con barandas.[3] Las piezas eran componentes de hierro fundido estandarizados, fáciles de fabricar y montar,[1][2] y las lámparas florales van sobre tallos que sostienen también el letrero del metro.[2] De 167 entradas creadas, 88 se conservan, 86 de ellas clasificadas monumento histórico en 1978;[3] Porte Dauphine conserva la única estructura «libélula» que sobrevive.[3]",
+    "status": "Varias entradas se conservan en París, como Abbesses y Porte Dauphine.",
+    "short": "Entradas Métro París"
+   },
+   "refs": [
+    {
+     "label": "National Gallery of Art, «An Entrance to the Paris Métropolitain»",
+     "url": "https://www.nga.gov/artworks/108510-entrance-paris-metropolitain",
+     "checks": "Metro abierto en julio de 1900 durante la Exposición Universal; tres tipos de entrada; hierro fundido producido industrialmente; componentes estandarizados para fabricar y montar.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Museum of Modern Art, «Hector Guimard, Entrance Gate to Paris Subway (Métropolitain) Station»",
+     "url": "https://www.moma.org/collection/works/2393",
+     "checks": "Hierro fundido pintado, lava esmaltada y vidrio; concurso de 1898 al que Guimard no se presentó formalmente pero ganó el encargo; componentes de hierro fundido estandarizados; tallos que sostienen el letrero y las luces florales.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "RATP, «Hector Guimard»",
+     "url": "https://www.ratp.fr/decouvrir/patrimoine/hector-guimard",
+     "checks": "Tres tipos (pabellones, «libélula», marcos estándar); 167 entradas creadas y 88 existentes; 86 clasificadas en 1978; Porte Dauphine con la única «libélula» que queda.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Paris Métro entrances"
+  },
+  {
+   "id": "casa-batllo",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Casa Batlló",
+   "designers": [
+    "antoni-gaudi"
+   ],
+   "client": "Josep Batlló i Casanovas",
+   "year": 1906,
+   "date": "1906",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Stone, trencadís ceramic, glass, wrought iron, timber",
+   "tech": [],
+   "key": "Antoni Gaudí’s remodelling of a Barcelona apartment house on Passeig de Gràcia, with a rippling ceramic façade, bone-like columns and a scaly roof.",
+   "more": "Josep Batlló, a textile industrialist, had Gaudí rebuild an existing building in 1904–06 on one of Barcelona’s grandest avenues. Gaudí gave it a façade covered in broken-ceramic mosaic with curved balconies, an interior without straight lines and a roof ridge often read as the back of a dragon. His forms drew on natural structures rather than on historical styles, in a city whose wealthy bourgeoisie commissioned buildings to show a Catalan identity.",
+   "status": "Survives and is open to visitors; inscribed on the UNESCO World Heritage List in 2005 with other works by Gaudí.",
+   "es": {
+    "title": "Casa Batlló",
+    "date": "1906",
+    "materials": "Piedra, cerámica trencadís, vidrio, hierro forjado, madera",
+    "key": "La reforma de Antoni Gaudí de una casa de departamentos de Passeig de Gràcia, en Barcelona, con una fachada ondulante de cerámica, columnas como huesos y un techo escamado.",
+    "more": "Josep Batlló, industrial textil, hizo que Gaudí reconstruyera un edificio existente en 1904–06 en una de las avenidas más elegantes de Barcelona. Gaudí le dio una fachada cubierta de mosaico de cerámica rota con balcones curvos, un interior sin líneas rectas y una cumbrera que a menudo se lee como el lomo de un dragón. Sus formas se inspiraron en estructuras naturales y no en estilos históricos, en una ciudad cuya burguesía adinerada encargaba edificios para mostrar una identidad catalana.",
+    "status": "Se conserva y recibe visitas; fue inscrita en la Lista del Patrimonio Mundial de la UNESCO en 2005 junto con otras obras de Gaudí."
+   },
+   "refs": [],
+   "movements": [
+    "catalan-modernisme"
+   ]
+  },
+  {
+   "id": "aeg-turbine-hall",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "AEG Turbine Factory",
+   "short": "AEG Turbine Hall",
+   "designers": [
+    "peter-behrens"
+   ],
+   "maker": "AEG",
+   "client": "AEG",
+   "year": 1909,
+   "date": "1909",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Steel frame, glass, concrete",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "Peter Behrens’s steel-and-glass turbine hall for AEG in Berlin, an industrial building treated as monumental architecture.[1][2][3]",
+   "more": "AEG built the hall in Berlin-Moabit, completed in 1909, with Behrens as architect and Karl Bernhard as engineer.[1][2] Its steel frame and large glass front were left in view, and on the Berlichingenstraße side the steel girders show.[1][2] The corner piers are concrete with Egyptian-temple detailing that is decorative and does not bear load.[1] Behrens was AEG’s artistic adviser, and Smarthistory notes the hexagonal AEG logo on the façade.[3] It was Berlin’s first industrial building to receive monument protection, in 1956.[2]",
+   "status": "Survives in Berlin and is protected as a monument.",
+   "es": {
+    "title": "Fábrica de turbinas de AEG",
+    "short": "AEG Turbine Hall",
+    "date": "1909",
+    "materials": "Estructura de acero, vidrio, hormigón",
+    "key": "La nave de turbinas de acero y vidrio que Peter Behrens diseñó para AEG en Berlín, un edificio industrial tratado como arquitectura monumental.[1][2][3]",
+    "more": "AEG levantó la nave en Berlín-Moabit, terminada en 1909, con Behrens como arquitecto y Karl Bernhard como ingeniero.[1][2] Su estructura de acero y su gran frente de vidrio quedaron a la vista, y en el costado de la Berlichingenstraße se ven las vigas de acero.[1][2] Las esquinas son machones de hormigón con detalles de templo egipcio, decorativos y sin función de carga.[1] Behrens era el asesor artístico de AEG, y Smarthistory destaca el logotipo hexagonal de AEG en la fachada.[3] Fue el primer edificio industrial de Berlín en recibir protección como monumento, en 1956.[2]",
+    "status": "Se conserva en Berlín y está protegida como monumento."
+   },
+   "refs": [
+    {
+     "label": "visitBerlin, «AEG Turbine Factory»",
+     "url": "https://www.visitberlin.de/en/aeg-turbine-factory",
+     "checks": "Terminada en 1909; Behrens arquitecto y Karl Bernhard ingeniero jefe; estructura de acero y fachadas de vidrio; machones de hormigón con detalle de templo egipcio, decorativos y sin carga; vigas de acero a la vista en Berlichingenstraße. ⚠ sitio oficial de turismo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "berlin.de, «AEG-Turbinenhalle»",
+     "url": "https://www.berlin.de/sehenswuerdigkeiten/3560168-3558930-aeg-turbinenhalle.html",
+     "checks": "Berlín-Moabit, 1909; Behrens y Karl Bernhard; vidrio, hormigón y acero, estructura a la vista; primer edificio industrial de Berlín protegido como monumento (1956). ⚠ sitio oficial de turismo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Smarthistory, «Peter Behrens, AEG Turbine Factory»",
+     "url": "https://smarthistory.org/?p=12170",
+     "checks": "Primer encargo de fábrica de Behrens, en Moabit; logotipo hexagonal en la fachada; encargos de AEG desde 1907. ⚠ no nombra a Karl Bernhard ni los machones.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "robie-house",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Robie House",
+   "designers": [
+    "frank-lloyd-wright"
+   ],
+   "client": "Frederick C. Robie",
+   "year": 1909,
+   "date": "1909",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Roman brick, limestone, steel beams, art glass",
+   "tech": [],
+   "key": "Frank Lloyd Wright’s Chicago house for Frederick Robie, a Prairie-style home of long horizontal lines, cantilevered roofs and an open plan.[1][2]",
+   "more": "Completed in 1910, it is called the culmination of Wright’s Prairie style, with brick construction, cantilevers, extended steel eaves and an open floor plan.[1][2] Its horizontal composition has bands of brick and limestone and overhanging eaves, and the living and dining space is divided only by a central chimney.[2] Leaded-glass windows use flattened diamonds and diagonal patterns.[2] It faced demolition threats in 1941 and 1957, and Wright campaigned to save it each time.[2] It is now a museum and part of a UNESCO World Heritage listing.[2]",
+   "status": "Survives; saved from demolition in the 1950s and now a museum, part of a UNESCO World Heritage listing of Wright’s work.",
+   "es": {
+    "title": "Casa Robie",
+    "date": "1909",
+    "materials": "Ladrillo romano, caliza, vigas de acero, vitrales",
+    "key": "La casa de Frank Lloyd Wright en Chicago para Frederick Robie, una vivienda de estilo Prairie de líneas horizontales, techos en voladizo y planta abierta.[1][2]",
+    "more": "Terminada en 1910, se considera la culminación del estilo Prairie de Wright, con construcción de ladrillo, voladizos, aleros de acero extendidos y planta abierta.[1][2] Su composición horizontal tiene bandas de ladrillo y caliza y aleros voladizos, y el espacio de estar y comedor solo lo divide una chimenea central.[2] Las ventanas de vidrio emplomado usan rombos aplanados y patrones diagonales.[2] Enfrentó amenazas de demolición en 1941 y 1957, y Wright hizo campaña cada vez para salvarla.[2] Hoy es museo y forma parte de una inscripción de la UNESCO.[2]",
+    "status": "Se conserva; se salvó de la demolición en los años cincuenta y hoy es museo, parte de una inscripción de la UNESCO de la obra de Wright."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Robie House»",
+     "url": "https://www.britannica.com/topic/Robie-House",
+     "checks": "Chicago, completada en 1910; culminación del estilo Prairie; ladrillo, voladizos, aleros de acero extendidos, planta abierta. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Frank Lloyd Wright Trust, «Frederick C. Robie House»",
+     "url": "https://flwright.org/explore/frederick-c-robie-house",
+     "checks": "Completada en 1910; aleros y techos en voladizo; bandas de ladrillo y caliza; vidrio emplomado; chimenea central entre sala y comedor; amenazas de demolición de 1941 y 1957; museo y sitio UNESCO.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "palais-stoclet",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Palais Stoclet",
+   "designers": [
+    "josef-hoffmann"
+   ],
+   "client": "Adolphe Stoclet",
+   "year": 1911,
+   "date": "1911",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "BE"
+   ],
+   "materials": "Thassos marble slabs with bronze edging, mosaic, interior fittings by the Wiener Werkstätte",
+   "tech": [],
+   "key": "Josef Hoffmann’s mansion in Brussels for the banker Adolphe Stoclet, built in 1905–11 as a total work of art in which architecture, decoration, furniture and garden were designed together.[1]",
+   "more": "The facades are clad in white marble outlined with bronze framing.[2] Gustav Klimt made the great mosaics of the dining room, working with the workshop of Leopold Forstner,[2][3] and the house embodied the principles of the Wiener Werkstätte as a Gesamtkunstwerk.[2] It stands on the Avenue de Tervueren.[3] UNESCO inscribed it in 2009 as one of the most accomplished and homogeneous buildings of the Vienna Secession, one that foreshadowed Art Deco and modernism.[1]",
+   "status": "Still a private residence; inscribed on the UNESCO World Heritage list in 2009.",
+   "es": {
+    "title": "Palacio Stoclet",
+    "date": "1911",
+    "materials": "Placas de mármol de Thasos con bordes de bronce, mosaico, interiores de los Wiener Werkstätte",
+    "key": "La mansión de Josef Hoffmann en Bruselas para el banquero Adolphe Stoclet, construida en 1905–11 como una obra de arte total en que arquitectura, decoración, muebles y jardín se diseñaron juntos.[1]",
+    "more": "Las fachadas van revestidas de mármol blanco delineado con marcos de bronce.[2] Gustav Klimt hizo los grandes mosaicos del comedor, con el taller de Leopold Forstner,[2][3] y la casa encarnaba los principios de los Wiener Werkstätte como Gesamtkunstwerk.[2] Está en la avenida de Tervueren.[3] La UNESCO la inscribió en 2009 como uno de los edificios más logrados y homogéneos de la Secesión vienesa, que anticipó el Art Déco y el modernismo.[1]",
+    "status": "Sigue siendo una residencia privada; inscrito en la lista del Patrimonio Mundial de la UNESCO en 2009."
+   },
+   "refs": [
+    {
+     "label": "UNESCO World Heritage Centre, «Stoclet House»",
+     "url": "https://whc.unesco.org/en/list/1298/",
+     "checks": "Inscripción en 2009; obra de Josef Hoffmann por encargo del banquero Adolphe Stoclet; construida 1905–1911; mármol y bronce; Klimt y Moser; Wiener Werkstätte; Gesamtkunstwerk que integra arquitectura, decoración, muebles y jardín; anticipa el Art Déco; «una de las obras más logradas y homogéneas de la Secesión vienesa». ⚠ leído mediante resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "UNESCO World Heritage Centre, documento de evaluación de Stoclet House",
+     "url": "https://whc.unesco.org/document/152282",
+     "checks": "Construida 1905–1911 por Hoffmann; fachadas de mármol blanco con marcos de bronce; grandes mosaicos del comedor de Klimt; Wiener Werkstätte y Gesamtkunstwerk. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Vielfalt der Moderne, «Brussels: Palais Stoclet»",
+     "url": "https://vielfaltdermoderne.de/en/palais-stoclet-2/",
+     "checks": "Avenida de Tervueren 275–282; mosaico de Klimt en colaboración con el taller de Leopold Forstner; Patrimonio Mundial en 2009; residencia privada no abierta al público; mármol exterior noruego Turilim. ⚠ fuente secundaria (portal de patrimonio moderno).",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "secession-building",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Secession Building",
+   "designers": [
+    "joseph-maria-olbrich"
+   ],
+   "client": "Vienna Secession",
+   "year": 1898,
+   "date": "1898",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Plastered masonry, gilded metal laurel dome",
+   "tech": [],
+   "key": "The exhibition hall that Joseph Maria Olbrich built in Vienna in 1898 for the artists of the Secession, topped by a dome of gilded laurel leaves.",
+   "more": "The artists who left the Vienna Künstlerhaus in 1897 needed a hall of their own, and Olbrich designed it in 1897–98 as a cube of plain white walls with a lattice dome of gilded laurel. The simple, almost windowless volumes contrasted with the historicist buildings of the Ringstrasse and gave the group an emblem. Gustav Klimt’s Beethoven Frieze was shown there in 1902.",
+   "status": "Still used for exhibitions by the Secession association.",
+   "es": {
+    "title": "Edificio de la Secesión",
+    "short": "Edificio Secesión",
+    "date": "1898",
+    "materials": "Mampostería enlucida, cúpula de laurel de metal dorado",
+    "key": "La sala de exposiciones que Joseph Maria Olbrich construyó en Viena en 1898 para los artistas de la Secesión, coronada por una cúpula de hojas de laurel doradas.",
+    "more": "Los artistas que dejaron el Künstlerhaus de Viena en 1897 necesitaban una sala propia, y Olbrich la diseñó en 1897–98 como un cubo de muros blancos lisos con una cúpula calada de laurel dorado. Los volúmenes simples, casi sin ventanas, contrastaban con los edificios historicistas del Ring y dieron al grupo un emblema. El Friso de Beethoven de Gustav Klimt se mostró allí en 1902.",
+    "status": "Sigue usándose para exposiciones de la asociación de la Secesión."
+   },
+   "refs": [],
+   "short": "Secession Building"
+  },
+  {
+   "id": "purkersdorf-sanatorium",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Purkersdorf Sanatorium",
+   "designers": [
+    "josef-hoffmann"
+   ],
+   "client": "Victor Zuckerkandl",
+   "year": 1904,
+   "date": "1904",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Reinforced concrete, plaster, white tile",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "Josef Hoffmann’s sanatorium near Vienna, a block of white, smooth, washable surfaces and square geometry for rest cures.",
+   "more": "Commissioned by the industrialist Victor Zuckerkandl and built in 1904–05, it is a plain cube-like building with flat roofs and regular square windows, with almost no applied ornament. Inside, Hoffmann and the Wiener Werkstätte designed the furniture and fittings, and the interiors favoured light, cleanliness and order. The structure used reinforced concrete, then still a new building material.",
+   "status": "The building survives, with later alterations.",
+   "es": {
+    "title": "Sanatorio de Purkersdorf",
+    "short": "Purkersdorf",
+    "date": "1904",
+    "materials": "Hormigón armado, enlucido, azulejo blanco",
+    "key": "El sanatorio de Josef Hoffmann cerca de Viena, un bloque de superficies blancas, lisas y lavables y geometría cuadrada para las curas de reposo.",
+    "more": "Encargado por el industrial Victor Zuckerkandl y construido en 1904–05, es un edificio sencillo, de forma cúbica, con techos planos y ventanas cuadradas regulares, casi sin ornamento aplicado. En el interior, Hoffmann y los Wiener Werkstätte diseñaron los muebles y accesorios, y los espacios privilegiaron la luz, la limpieza y el orden. La estructura empleó hormigón armado, entonces un material de construcción todavía nuevo.",
+    "status": "El edificio se conserva, con modificaciones posteriores."
+   },
+   "refs": [],
+   "short": "Purkersdorf Sanatorium"
+  },
+  {
+   "id": "fagus-factory",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Fagus Factory",
+   "designers": [
+    "gropius"
+   ],
+   "client": "Carl Benscheidt",
+   "year": 1911,
+   "date": "1911",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Brick, steel frame, glass",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "The shoe-last factory at Alfeld, built in 1911 by Walter Gropius and Adolf Meyer, whose main block has a three-storey glass façade with corners left free of supports.[1]",
+   "more": "UNESCO dates Gropius’s design to around 1910 and singles out its vast expanses of glass panels and functionalist aesthetics.[2] Where the two glass walls meet at the corners there are no supports at all, which was possible thanks to steel reinforcement hidden in the roof structure.[1] The complex predates and influenced the Bauhaus,[2] and the commission launched Gropius’s career.[1] It was inscribed on the World Heritage list in 2011[2] and is still used for production.[1]",
+   "status": "Preserved; inscribed on the UNESCO World Heritage list in 2011.",
+   "es": {
+    "title": "Fábrica Fagus",
+    "date": "1911",
+    "materials": "Ladrillo, estructura de acero, vidrio",
+    "key": "La fábrica de hormas de calzado de Alfeld, construida en 1911 por Walter Gropius y Adolf Meyer, cuyo edificio principal tiene una fachada de vidrio de tres pisos con las esquinas libres de apoyos.[1]",
+    "more": "La UNESCO sitúa el diseño de Gropius hacia 1910 y destaca sus vastas superficies de paneles de vidrio y su estética funcionalista.[2] Donde se encuentran los dos muros de vidrio, en las esquinas, no hay ningún apoyo, algo posible gracias a un refuerzo de acero oculto en la estructura del techo.[1] El conjunto es anterior a la Bauhaus y la influyó,[2] y el encargo lanzó la carrera de Gropius.[1] Fue inscrita en la lista del Patrimonio Mundial en 2011[2] y sigue usándose para producir.[1]",
+    "status": "Se conserva; inscrita en la lista del Patrimonio Mundial de la UNESCO en 2011."
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, «Fagus Factory»",
+     "url": "https://bauhauskooperation.de/en/reisen/orte/ortsdetailseite/ort-14",
+     "checks": "Alfeld; construida en 1911 por Gropius y Adolf Meyer; fachada de vidrio de tres pisos; esquinas sin apoyos, con refuerzo de acero oculto en el techo; fábrica de hormas de calzado; único sitio Patrimonio Mundial aún en producción; lanzó la carrera de Gropius. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "UNESCO World Heritage Centre, «Fagus Factory in Alfeld»",
+     "url": "https://whc.unesco.org/en/list/1368/",
+     "checks": "Diseño de Gropius desde cerca de 1910; grandes superficies de paneles de vidrio y estética funcionalista; anterior e influyente para la Bauhaus; inscrita en 2011. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "larkin-building",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Larkin Building",
+   "designers": [
+    "frank-lloyd-wright"
+   ],
+   "client": "Larkin Company",
+   "year": 1904,
+   "date": "1904",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Red brick, sandstone, steel frame, built-in steel furniture",
+   "tech": [],
+   "key": "Frank Lloyd Wright’s office building in Buffalo for the Larkin mail-order company, with its work floors arranged around a tall central court.",
+   "more": "Built in 1904–06 for the Larkin Company, a soap and mail-order firm, it had office floors ranged around a skylit central court, with the stairs in corner towers. Wright designed the interior fittings, including steel desks and chairs, and the building had a form of air conditioning. It was one of his major early works and was widely admired in Europe.",
+   "status": "Demolished in 1950.",
+   "es": {
+    "title": "Edificio Larkin",
+    "date": "1904",
+    "materials": "Ladrillo rojo, arenisca, estructura de acero, muebles de acero empotrados",
+    "key": "El edificio de oficinas de Frank Lloyd Wright en Buffalo para la empresa de venta por correo Larkin, con los pisos de trabajo dispuestos en torno a un alto patio central.",
+    "more": "Construido en 1904–06 para la Larkin Company, una empresa de jabones y venta por correo, tenía pisos de oficinas dispuestos en torno a un patio central con luz cenital, con las escaleras en torres en las esquinas. Wright diseñó el equipamiento interior, incluidos escritorios y sillas de acero, y el edificio contaba con una forma de aire acondicionado. Fue una de sus grandes obras tempranas y se admiró mucho en Europa.",
+    "status": "Demolido en 1950."
+   },
+   "refs": []
+  },
+  {
+   "id": "carson-pirie-scott",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Carson Pirie Scott Building",
+   "short": "Carson Pirie Scott",
+   "designers": [
+    "louis-sullivan"
+   ],
+   "client": "Schlesinger & Mayer",
+   "year": 1904,
+   "date": "1904",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, terracotta cladding, cast-iron ornament",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "Louis Sullivan’s department store in Chicago, a steel frame behind wide ‘Chicago windows’ with ornament in cast iron on the lower floors.",
+   "more": "Sullivan designed the store for Schlesinger & Mayer on State Street, with the first section built in 1899 and the later extension in 1903–04, and it was later taken over by Carson Pirie Scott. The upper floors are a grid of terracotta-clad frame with wide windows to light the sales floors, while the base is covered with elaborate cast-iron ornament. It is one of the best-known works of the Chicago school.",
+   "status": "The building survives and is still in use.",
+   "es": {
+    "title": "Almacén Carson Pirie Scott",
+    "short": "Carson Pirie Scott",
+    "date": "1904",
+    "materials": "Estructura de acero, revestimiento de terracota, ornamento de hierro fundido",
+    "key": "El gran almacén de Louis Sullivan en Chicago, una estructura de acero tras amplias «ventanas de Chicago», con ornamento de hierro fundido en los pisos inferiores.",
+    "more": "Sullivan diseñó el almacén para Schlesinger & Mayer en State Street; la primera sección se construyó en 1899 y la ampliación posterior en 1903–04, y más tarde pasó a Carson Pirie Scott. Los pisos superiores son una retícula de estructura revestida de terracota con amplias ventanas para iluminar los pisos de venta, mientras que la base se cubre con un elaborado ornamento de hierro fundido. Es una de las obras más conocidas de la escuela de Chicago.",
+    "status": "El edificio se conserva y sigue en uso."
+   },
+   "refs": []
+  },
+  {
+   "id": "glasgow-school-of-art",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Glasgow School of Art",
+   "designers": [
+    "charles-rennie-mackintosh"
+   ],
+   "client": "Glasgow School of Art",
+   "year": 1909,
+   "date": "1909",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Stone, timber, wrought iron, glass",
+   "tech": [],
+   "key": "Charles Rennie Mackintosh’s building for the art school in Glasgow, in which Scottish tradition meets a geometric, light-filled design.",
+   "more": "Mackintosh designed it in two phases, the first in 1897–99 and the western part, including the library, in 1907–09. The north façade has large studio windows and wrought-iron brackets, while the interior has timber and ironwork in geometric patterns. It is seen as his masterpiece.",
+   "status": "Badly damaged by fires in 2014 and 2018; restoration has been under way.",
+   "es": {
+    "title": "Escuela de Arte de Glasgow",
+    "short": "Escuela de Glasgow",
+    "date": "1909",
+    "materials": "Piedra, madera, hierro forjado, vidrio",
+    "key": "El edificio de Charles Rennie Mackintosh para la escuela de arte de Glasgow, donde la tradición escocesa se une a un diseño geométrico y luminoso.",
+    "more": "Mackintosh lo diseñó en dos etapas: la primera en 1897–99 y la parte occidental, con la biblioteca, en 1907–09. La fachada norte tiene grandes ventanales de taller y soportes de hierro forjado, y el interior combina madera y herrería en patrones geométricos. Se le considera su obra maestra.",
+    "status": "Muy dañado por los incendios de 2014 y 2018; su restauración ha estado en curso."
+   },
+   "refs": [],
+   "short": "Glasgow School of Art"
+  },
+  {
+   "id": "willow-tea-rooms",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "interior",
+   "title": "Willow Tea Rooms",
+   "designers": [
+    "charles-rennie-mackintosh",
+    "margaret-macdonald"
+   ],
+   "client": "Catherine Cranston",
+   "year": 1903,
+   "date": "1903",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Painted wood, plaster, leaded and mirrored glass, gesso panels",
+   "tech": [],
+   "key": "The Glasgow tea rooms on Sauchiehall Street that Mackintosh designed for Catherine Cranston in 1903, inside and out, together with Margaret Macdonald.",
+   "more": "Cranston ran several tea rooms in Glasgow, public places where women could meet and eat out. For the Willow, Mackintosh designed the facade, the rooms, the furniture, the cutlery and the lighting as one scheme, and Macdonald contributed decorative panels, notably for the Room de Luxe. The tall-backed chairs and the pale, mirrored interiors made it one of the best-known interiors of the Glasgow Style.",
+   "status": "The building survives and has been restored as tea rooms.",
+   "es": {
+    "title": "Salones de té Willow",
+    "materials": "Madera pintada, yeso, vidrio emplomado y espejado, paneles de gesso",
+    "key": "Los salones de té de Sauchiehall Street, en Glasgow, que Mackintosh diseñó en 1903 para Catherine Cranston, por dentro y por fuera, junto con Margaret Macdonald.",
+    "more": "Cranston dirigía varios salones de té en Glasgow, lugares públicos donde las mujeres podían reunirse y comer fuera. Para el Willow, Mackintosh diseñó la fachada, las salas, el mobiliario, los cubiertos y la iluminación como un solo conjunto, y Macdonald aportó paneles decorativos, sobre todo para la Room de Luxe. Las sillas de respaldo alto y los interiores claros y espejados lo hicieron uno de los interiores más conocidos del Glasgow Style.",
+    "status": "El edificio se conserva y fue restaurado como salones de té.",
+    "date": "1903"
+   },
+   "refs": []
+  },
+  {
+   "id": "ascensor-concepcion",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "infrastructure",
+   "title": "Ascensor Concepción, Valparaíso",
+   "short": "Ascensor Concepción",
+   "designers": [],
+   "maker": "Private concessionaires, Valparaíso",
+   "year": 1883,
+   "date": "1883",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Iron and steel track and machinery, timber cars",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "The first of Valparaíso’s funicular lifts, opened in 1883 to carry people up the steep Cerro Concepción from the port.",
+   "more": "Valparaíso grew up the hills around its port, and the steep slopes made daily access hard. The ascensores, cars running on inclined rails and hauled by cable, solved it, and the Concepción lift opened the series in 1883. Others followed on neighbouring hills, becoming part of the city’s everyday transport and of its image. The lifts were declared national monuments in 1998.",
+   "status": "Still in service, as part of the surviving Valparaíso funiculars.",
+   "es": {
+    "title": "Ascensor Concepción de Valparaíso",
+    "materials": "Rieles y maquinaria de hierro y acero, carros de madera",
+    "key": "El primero de los ascensores de Valparaíso, inaugurado en 1883 para subir a la gente desde el puerto por el empinado cerro Concepción.",
+    "more": "Valparaíso creció por los cerros que rodean su puerto, y las fuertes pendientes volvían difícil el acceso diario. Los ascensores, carros que corren sobre rieles inclinados y se tiran con cable, lo resolvieron, y el de Concepción abrió la serie en 1883. Otros le siguieron en los cerros vecinos y pasaron a ser parte del transporte cotidiano de la ciudad y de su imagen. Los ascensores fueron declarados monumentos nacionales en 1998.",
+    "status": "Sigue en servicio, entre los ascensores de Valparaíso que se conservan.",
+    "date": "1883",
+    "short": "Ascensor Concepción"
+   },
+   "refs": []
+  },
+  {
+   "id": "bloemenwerf",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Bloemenwerf",
+   "designers": [
+    "henry-van-de-velde"
+   ],
+   "year": 1895,
+   "date": "1895",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "BE"
+   ],
+   "materials": "Brick, timber, painted and printed finishes",
+   "tech": [],
+   "key": "The house Henry van de Velde built in Uccle, near Brussels, in 1895 for his own family, designing the house, its furniture and his wife’s dresses.",
+   "more": "Van de Velde, trained as a painter, turned to design and built Bloemenwerf for himself and his wife Maria Sèthe. He designed the furniture, the household objects and Maria’s reformed dresses, so that the whole home was one work, plain and without historicist ornament. Siegfried Bing saw the house and commissioned him to furnish rooms for his Paris shop, the Maison de l’Art Nouveau.",
+   "status": "The house survives in Uccle.",
+   "es": {
+    "title": "Casa Bloemenwerf",
+    "materials": "Ladrillo, madera, acabados pintados y estampados",
+    "key": "La casa que Henry van de Velde construyó en Uccle, cerca de Bruselas, en 1895 para su propia familia, diseñando la casa, el mobiliario y los vestidos de su esposa.",
+    "more": "Van de Velde, formado como pintor, pasó al diseño y construyó Bloemenwerf para él y su esposa Maria Sèthe. Diseñó el mobiliario, los objetos domésticos y los vestidos reformados de Maria, de modo que todo el hogar fuera una sola obra, sencilla y sin ornamento historicista. Siegfried Bing vio la casa y le encargó amoblar salas de su tienda de París, la Maison de l’Art Nouveau.",
+    "status": "La casa se conserva en Uccle.",
+    "date": "1895"
+   },
+   "refs": []
+  },
+  {
+   "id": "castel-beranger",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Castel Béranger",
+   "designers": [
+    "hector-guimard"
+   ],
+   "year": 1898,
+   "date": "1898",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Brick, stone, glazed ceramic, cast and wrought iron",
+   "tech": [],
+   "key": "Hector Guimard’s apartment block in Paris, finished in 1898, whose plant-like ironwork and asymmetric facade brought Art Nouveau to the street.",
+   "more": "Built in the 16th arrondissement of Paris in 1895–98, the block mixes brick, stone and glazed tile in an irregular facade, with railings, balconies and gates of curving, plant-like iron. Guimard designed the interiors, wallpaper and ironwork as well. The city of Paris gave it a facade prize in 1898, and the building made his name before his Métro entrances.",
+   "status": "The building survives and is still used as housing.",
+   "es": {
+    "title": "Castel Béranger",
+    "materials": "Ladrillo, piedra, cerámica vidriada, hierro fundido y forjado",
+    "key": "El edificio de departamentos de Hector Guimard en París, terminado en 1898, cuyas rejas de forma vegetal y fachada asimétrica llevaron el Art Nouveau a la calle.",
+    "more": "Construido en el distrito 16 de París en 1895–98, el edificio combina ladrillo, piedra y azulejos vidriados en una fachada irregular, con rejas, balcones y portones de hierro de curvas vegetales. Guimard diseñó también los interiores, los papeles murales y las herrerías. La ciudad de París le otorgó un premio de fachadas en 1898, y la obra lo dio a conocer antes de sus entradas del Métro.",
+    "status": "El edificio se conserva y sigue siendo de viviendas.",
+    "date": "1898"
+   },
+   "refs": []
+  },
+  {
+   "id": "looshaus",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Looshaus",
+   "designers": [
+    "adolf-loos"
+   ],
+   "client": "Goldman & Salatsch",
+   "year": 1911,
+   "date": "1911",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Reinforced concrete, plastered facade, marble cladding",
+   "tech": [],
+   "key": "Adolf Loos’s building of 1909–11 on Michaelerplatz in Vienna, whose bare plastered upper floors above a marble base caused a scandal.[1][2]",
+   "more": "Loos built it for the menswear firm Goldman & Salatsch,[1] in a reinforced-concrete skeleton.[2] The base is clad in Cipollino marble from Euboea with four columns,[1][2] while the four upper storeys are smooth lime plaster painted grey, with red window frames.[2] The plain facade shocked the public and authorities, and Franz Joseph I is quoted calling it the ‘house without eyebrows’;[1] work was halted in September 1910 when the authorities demanded decorative bands.[2] Loos proposed copper flower boxes as a compromise, accepted by May 1912,[1][2] and defended the building in a lecture in December 1911.[2] Raiffeisenbank Wien acquired it in 1987 and restored it.[1]",
+   "status": "The building survives and is now a bank.",
+   "es": {
+    "title": "Looshaus",
+    "materials": "Hormigón armado, fachada enlucida, revestimiento de mármol",
+    "key": "El edificio de Adolf Loos de 1909–11 en la Michaelerplatz de Viena, cuyos pisos superiores de enlucido liso sobre un zócalo de mármol causaron escándalo.[1][2]",
+    "more": "Loos lo construyó para la casa de moda masculina Goldman & Salatsch,[1] con un esqueleto de hormigón armado.[2] La base va revestida de mármol cipollino de Eubea, con cuatro columnas,[1][2] y los cuatro pisos superiores son de enlucido de cal liso pintado gris, con marcos de ventana rojos.[2] La fachada lisa conmocionó al público y a las autoridades, y se cita a Francisco José I llamándola la «casa sin cejas»;[1] la obra se detuvo en septiembre de 1910 cuando las autoridades exigieron bandas decorativas.[2] Loos propuso jardineras de cobre como compromiso, aceptado hacia mayo de 1912,[1][2] y defendió el edificio en una conferencia en diciembre de 1911.[2] El Raiffeisenbank Wien lo adquirió en 1987 y lo restauró.[1]",
+    "status": "El edificio se conserva y hoy es un banco.",
+    "date": "1911"
+   },
+   "refs": [
+    {
+     "label": "Wien Geschichte Wiki, «Looshaus»",
+     "url": "https://www.geschichtewiki.wien.gv.at/Looshaus",
+     "checks": "Construido 1909–1911 para Goldman & Salatsch en Michaelerplatz 3; mármol cipollino de Eubea y cuatro columnas; fachada superior austera; Francisco José I habló de «casa sin cejas»; obra detenida temporalmente; jardineras de cobre; Raiffeisenbank Wien lo adquirió en 1987 y lo restauró. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Vielfalt der Moderne, «Vienna: Looshaus»",
+     "url": "https://vielfaltdermoderne.de/en/looshaus-2/",
+     "checks": "1909–1911; esqueleto de hormigón armado; mármol cipollino y cuatro columnas; cuatro pisos de enlucido de cal gris con marcos rojos; obra detenida en septiembre de 1910; jardineras de cobre aceptadas en mayo de 1912; conferencia de diciembre de 1911; la firma es «menswear outfitter». ⚠ fuente secundaria (portal de patrimonio moderno); resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "highland-park-plant",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Highland Park Plant",
+   "short": "Highland Park",
+   "designers": [],
+   "maker": "Albert Kahn",
+   "client": "Ford Motor Company",
+   "year": 1910,
+   "date": "1910",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Reinforced concrete, steel and glass",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "Ford’s factory at Highland Park, Michigan, designed by Albert Kahn and opened in 1910, where the moving assembly line for the Model T was introduced in 1913.",
+   "more": "Kahn designed large multi-storey factory blocks of reinforced concrete with generous glazing, giving light and open floors for machines. Ford moved Model T production there in 1910. In 1913 he introduced the moving assembly line, which cut assembly times and made the car cheaper, so that the factory became the model of mass production.",
+   "status": "Part of the complex survives.",
+   "es": {
+    "title": "Planta de Highland Park",
+    "materials": "Hormigón armado, acero y vidrio",
+    "key": "La fábrica de Ford en Highland Park, Michigan, diseñada por Albert Kahn e inaugurada en 1910, donde en 1913 se introdujo la cadena de montaje móvil del Model T.",
+    "more": "Kahn proyectó grandes naves fabriles de varios pisos en hormigón armado, con amplios ventanales, que daban luz y plantas libres para las máquinas. Ford trasladó allí la producción del Model T en 1910. En 1913 introdujo la cadena de montaje móvil, que redujo los tiempos de montaje y abarató el auto, de modo que la fábrica se volvió el modelo de la producción en masa.",
+    "status": "Parte del conjunto se conserva.",
+    "date": "1910",
+    "short": "Highland Park"
+   },
+   "refs": []
+  },
+  {
+   "id": "haussmann-paris-1853",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Haussmann's renovation of Paris",
+   "designers": [
+    "haussmann"
+   ],
+   "client": "Second Empire government of Napoleon III",
+   "year": 1853,
+   "date": "1853–1870",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Stone, iron, masonry; new streets, sewers and parks",
+   "tech": [],
+   "key": "The rebuilding of central Paris under Napoleon III, in which the prefect Haussmann cut wide boulevards through the old city and set uniform rules for the buildings along them.[1][2]",
+   "more": "Georges-Eugène Haussmann became prefect of the Seine on 22 June 1853 and carried out Napoleon III’s plan to rebuild Paris.[1][2] Over two decades he opened new thoroughfares and demolished some 25,000 buildings,[2] extended the sewers from 100 to 600 km by 1878,[2] and created parks such as Buttes-Chaumont, Montsouris and Monceau.[2] Building heights were tied to street width, and the new blocks had uniform façades and consistent heights.[2][3] Haussmann was dismissed in 1870,[3] and Britannica notes his influence on planning elsewhere while calling the aesthetic merits of his work open to dispute.[1]",
+   "status": "Much of the street plan and the uniform apartment blocks survive and still define central Paris.",
+   "es": {
+    "title": "Renovación de París de Haussmann",
+    "date": "1853–1870",
+    "materials": "Piedra, hierro y albañilería; calles, alcantarillado y parques nuevos",
+    "key": "La reconstrucción del centro de París bajo Napoleón III, en que el prefecto Haussmann abrió anchos bulevares en la ciudad antigua y fijó reglas uniformes para los edificios que los bordean.[1][2]",
+    "more": "Georges-Eugène Haussmann fue nombrado prefecto del Sena el 22 de junio de 1853 y llevó a cabo el plan de Napoleón III de reconstruir París.[1][2] En dos décadas abrió nuevas avenidas y demolió unos 25.000 edificios,[2] amplió el alcantarillado de 100 a 600 km hacia 1878[2] y creó parques como Buttes-Chaumont, Montsouris y Monceau.[2] La altura de los edificios se vinculó al ancho de la calle, y las nuevas manzanas tenían fachadas uniformes y alturas homogéneas.[2][3] Haussmann fue destituido en 1870,[3] y la Britannica destaca su influencia en el urbanismo de otras ciudades, aunque dice que los méritos estéticos de su obra son discutibles.[1]",
+    "status": "Gran parte del trazado y de los edificios uniformes se conserva y sigue definiendo el centro de París.",
+    "short": "París de Haussmann"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Georges-Eugène, Baron Haussmann»",
+     "url": "https://www.britannica.com/biography/Georges-Eugene-Baron-Haussmann",
+     "checks": "Prefecto del Sena desde 1853; plan de Napoleón III; bulevares anchos, alcantarillado y aguas, parques, normas uniformes de edificación, demolición; 1853–1870; influencia en el urbanismo; méritos estéticos discutibles.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Ville de Paris, «Haussmann, l’homme qui a transformé Paris»",
+     "url": "https://www.paris.fr/pages/haussmann-l-homme-qui-a-transforme-paris-23091",
+     "checks": "Prefecto el 22 de junio de 1853; 64 km de vías nuevas; 25.000 edificios demolidos; alcantarillado de 100 a 600 km en 1878; parques; altura según ancho de calle. ⚠ no da la fecha de destitución.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Library of Congress, Maps blog, «Exploring Haussmannian Paris»",
+     "url": "https://blogs.loc.gov/maps/2023/05/exploring-haussmannian-paris/",
+     "checks": "Fachadas uniformes y alturas homogéneas; destituido en 1870. ⚠ blog institucional de una biblioteca nacional; solo respalda estos dos datos.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Haussmann’s Paris"
+  },
+  {
+   "id": "central-park-1858",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Central Park, New York",
+   "designers": [
+    "frederick-law-olmsted",
+    "calvert-vaux"
+   ],
+   "client": "City of New York (Central Park Commission)",
+   "year": 1858,
+   "date": "1858–c. 1876",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Landscaped earth and rock, water, stone bridges, planting",
+   "tech": [],
+   "key": "The large landscaped park in the middle of Manhattan that Frederick Law Olmsted and Calvert Vaux designed in their winning 'Greensward' plan, imitating natural scenery within the street grid.",
+   "more": "A competition held in 1858 was won by Olmsted and Vaux with the Greensward plan. They laid out meadows, woods, a lake and winding paths, and sank the cross-town roads below the park so that carriages, riders and walkers move on separate routes. Construction went on through the 1860s and into the 1870s, and the park became the model for later American urban parks.",
+   "status": "Exists; it is still Manhattan's central park, protected as a scenic landmark.",
+   "es": {
+    "title": "Central Park, Nueva York",
+    "date": "1858–c. 1876",
+    "materials": "Tierra y roca modeladas, agua, puentes de piedra, vegetación",
+    "key": "El gran parque paisajista en el centro de Manhattan que Frederick Law Olmsted y Calvert Vaux diseñaron en su plan ganador «Greensward», imitando paisajes naturales dentro de la cuadrícula.",
+    "more": "Un concurso realizado en 1858 lo ganaron Olmsted y Vaux con el plan Greensward. Dispusieron praderas, bosques, un lago y senderos sinuosos, y hundieron las calles transversales bajo el parque para que carruajes, jinetes y peatones circulen por rutas separadas. La construcción siguió durante la década de 1860 y entrada la de 1870, y el parque se volvió el modelo de los parques urbanos estadounidenses posteriores.",
+    "status": "Existe; sigue siendo el parque central de Manhattan y está protegido como monumento paisajístico.",
+    "short": "Central Park"
+   },
+   "refs": [],
+   "short": "Central Park"
+  },
+  {
+   "id": "eixample-barcelona-1859",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Eixample (Cerdà Plan), Barcelona",
+   "designers": [
+    "ildefons-cerda"
+   ],
+   "year": 1859,
+   "date": "1859",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Street grid of building blocks of masonry; wide streets and chamfered corners",
+   "tech": [],
+   "key": "Ildefons Cerdà's plan for extending Barcelona beyond its old walls in a regular grid of blocks with chamfered corners, cut by wide avenues.",
+   "more": "After the walls were pulled down from 1854, Cerdà's plan of 1859 was approved to organise the city's growth on the plain. It set out a grid of square blocks with chamfered corners, wide streets and large diagonal avenues, intended to give light, air and ventilation. Over the following decades the district filled up with apartment buildings, among them many works of Catalan modernisme.",
+   "status": "Exists; the Eixample is today the central district of Barcelona.",
+   "es": {
+    "title": "Ensanche de Barcelona (Plan Cerdà)",
+    "date": "1859",
+    "materials": "Trazado de manzanas de albañilería; calles anchas y esquinas achaflanadas",
+    "key": "El plan de Ildefons Cerdà para extender Barcelona más allá de sus murallas, con una cuadrícula regular de manzanas de esquinas achaflanadas cortada por grandes avenidas.",
+    "more": "Tras el derribo de las murallas desde 1854, se aprobó en 1859 el plan de Cerdà para ordenar el crecimiento de la ciudad en el llano. Disponía una cuadrícula de manzanas cuadradas con esquinas achaflanadas, calles anchas y grandes avenidas diagonales, pensadas para dar luz, aire y ventilación. En las décadas siguientes el barrio se llenó de edificios de departamentos, entre ellos muchas obras del modernismo catalán.",
+    "status": "Existe; el Ensanche es hoy el distrito central de Barcelona.",
+    "short": "Ensanche de Barcelona"
+   },
+   "refs": [],
+   "short": "Eixample"
+  },
+  {
+   "id": "opera-garnier-1875",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Palais Garnier (Paris Opéra)",
+   "designers": [
+    "charles-garnier"
+   ],
+   "client": "French state",
+   "year": 1875,
+   "date": "1861–1875",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Stone, marble, iron frame, gilded sculpture",
+   "tech": [],
+   "key": "Charles Garnier's opera house in Paris, opened in 1875, a lavish building with a grand marble staircase and richly decorated foyers.[3]",
+   "more": "Garnier, aged 36, won the competition for the new Paris opera in 1861, after it was launched in December 1860.[1][2] The project was commissioned by Napoleon III and the house opened in 1875 after some fifteen years of work, interrupted by the war of 1870 and the Commune.[3] A double staircase of coloured marbles leads to the foyers, whose vaults are covered with mosaics on a gold ground.[3] It was built as part of Baron Haussmann’s rebuilding of Paris.[3]",
+   "status": "Exists; it still hosts opera and ballet.",
+   "es": {
+    "title": "Ópera Garnier (París)",
+    "date": "1861–1875",
+    "materials": "Piedra, mármol, estructura de hierro, esculturas doradas",
+    "key": "La ópera de París de Charles Garnier, inaugurada en 1875, un edificio suntuoso con una gran escalera de mármoles y foyers ricamente decorados.[3]",
+    "more": "Garnier, de 36 años, ganó en 1861 el concurso para la nueva ópera de París, convocado en diciembre de 1860.[1][2] El proyecto fue encargado por Napoleón III y el edificio se inauguró en 1875 tras unos quince años de obras, interrumpidas por la guerra de 1870 y la Comuna.[3] Una escalera doble de mármoles de colores lleva a los foyers, cuyas bóvedas están cubiertas de mosaicos sobre fondo dorado.[3] Se construyó dentro de la reconstrucción de París de Haussmann.[3]",
+    "status": "Existe; sigue acogiendo ópera y ballet.",
+    "short": "Ópera Garnier"
+   },
+   "refs": [
+    {
+     "label": "Opéra national de Paris, «Charles Garnier, architect»",
+     "url": "https://www.operadeparis.fr/en/magazine/350-years/case/charles-garnier-architect",
+     "checks": "Garnier ganó el concurso en 1861, nacido en 1825 (36 años); trabajó catorce años en el proyecto hasta 1875. ⚠ no trata de Napoleón III ni de la escalera.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Musée d’Orsay, «Opéra de Paris» (maqueta de Garnier)",
+     "url": "https://www.musee-orsay.fr/en/artworks/opera-de-paris-169019",
+     "checks": "Concurso convocado en diciembre de 1860, elección anunciada en junio de 1861.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Atout France, «The Palais Garnier, Paris national Opera»",
+     "url": "https://uk.france.fr/en/paris/article/palais-garnier-paris-national-opera",
+     "checks": "Encargo de Napoleón III; inaugurado en 1875 tras unos 15 años; escalera doble de mármoles de colores hacia los foyers; mosaicos sobre fondo dorado; interrupciones de 1870 y la Comuna; obra dentro de la reconstrucción de Haussmann. ⚠ no menciona la avenida de la Ópera.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "beaux-arts",
+    "historicism"
+   ],
+   "short": "Palais Garnier"
+  },
+  {
+   "id": "sagrada-familia-1882",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Sagrada Família, Barcelona",
+   "designers": [
+    "antoni-gaudi"
+   ],
+   "client": "Association of Devotees of St Joseph",
+   "year": 1882,
+   "date": "1882–",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Stone, brick, concrete, ceramics",
+   "tech": [],
+   "key": "Antoni Gaudí's unfinished expiatory church in Barcelona, begun in neo-Gothic form in 1882 and transformed by him into a structure of natural geometry.[1][2]",
+   "more": "The church, the Temple Expiatori de la Sagrada Família, was begun in 1882 under the architect Francisco de Paula del Villar, who designed it in neo-Gothic style; Gaudí took over in 1883 and transformed the project into his own vision.[1][2] His designs drew on light and nature, which he called his true master, and on geometric principles found in nature, as in his inclined columns.[2][3] He devoted himself exclusively to the temple until his death in 1926 and is buried in its crypt.[1][2] Pope Benedict XVI consecrated it as a minor basilica in 2010, and construction continues.[1]",
+   "status": "Still under construction; open to visitors and consecrated as a basilica.",
+   "es": {
+    "title": "Sagrada Família, Barcelona",
+    "date": "1882–",
+    "materials": "Piedra, ladrillo, hormigón, cerámica",
+    "key": "La iglesia expiatoria inconclusa de Antoni Gaudí en Barcelona, iniciada en forma neogótica en 1882 y transformada por él en una estructura de geometría natural.[1][2]",
+    "more": "La iglesia, el Temple Expiatori de la Sagrada Família, se empezó en 1882 bajo el arquitecto Francisco de Paula del Villar, que la diseñó en estilo neogótico; Gaudí la asumió en 1883 y transformó el proyecto en su propia visión.[1][2] Sus diseños se nutrían de la luz y de la naturaleza, que decía era su verdadera maestra, y de principios geométricos hallados en la naturaleza, como en sus columnas inclinadas.[2][3] Se dedicó exclusivamente al templo hasta su muerte en 1926 y está enterrado en su cripta.[1][2] El papa Benedicto XVI la consagró como basílica menor en 2010, y la construcción continúa.[1]",
+    "status": "Sigue en construcción; abierta a visitas y consagrada como basílica.",
+    "short": "Sagrada Família"
+   },
+   "refs": [
+    {
+     "label": "Sagrada Família (sitio oficial), «Historia de la basílica»",
+     "url": "https://sagradafamilia.org/es/historia-del-templo",
+     "checks": "1882 inicio con diseño neogótico de Villar; 1883 Gaudí lo asume y lo transforma; se dedica exclusivamente al templo hasta su muerte en 1926; consagración como basílica menor por Benedicto XVI en 2010; sigue en obras.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "World Monuments Fund, «Temple Expiatori de la Sagrada Família»",
+     "url": "https://wmf.org/node/13504",
+     "checks": "Obra iniciada en 1882 con Villar, Gaudí desde 1883 hasta su muerte en 1926 y enterrado en la cripta; principios geométricos de la naturaleza, columnas inclinadas. ⚠ no habla de financiamiento.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Sagrada Família (sitio oficial), «Antoni Gaudí»",
+     "url": "https://sagradafamilia.org/en/antoni-gaudi",
+     "checks": "Gaudí asume el proyecto en 1883 a los 31 años; inspiración en «la luz y la naturaleza, su verdadera maestra»; trabajó con maquetas.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "catalan-modernisme"
+   ],
+   "short": "Sagrada Família"
+  },
+  {
+   "id": "home-insurance-building-1885",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Home Insurance Building, Chicago",
+   "designers": [
+    "william-le-baron-jenney"
+   ],
+   "client": "Home Insurance Company of New York",
+   "year": 1885,
+   "date": "1884–1885",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Masonry, cast and wrought iron, steel",
+   "tech": [
+    "iron-steel-frame",
+    "safety-elevator"
+   ],
+   "key": "William Le Baron Jenney's Chicago office block, often called the first skyscraper, whose metal frame carried much of the weight of the building.",
+   "more": "Built for the Home Insurance Company in Chicago's Loop in 1884–85, it rose to ten storeys, later raised to twelve. Jenney used a skeleton of iron and steel that bore much of the load, with masonry cladding that no longer had to carry the whole building. It is commonly cited as the first tall building of the Chicago school, though the extent to which the frame was independent of the walls has been debated.",
+   "status": "Demolished in 1931.",
+   "es": {
+    "title": "Home Insurance Building, Chicago",
+    "date": "1884–1885",
+    "materials": "Albañilería, hierro fundido y forjado, acero",
+    "key": "El edificio de oficinas de William Le Baron Jenney en Chicago, llamado a menudo el primer rascacielos, cuya estructura metálica soportaba buena parte del peso.",
+    "more": "Construido para la Home Insurance Company en el Loop de Chicago en 1884–85, llegó a diez pisos y luego se elevó a doce. Jenney usó un esqueleto de hierro y acero que soportaba gran parte de la carga, con un revestimiento de albañilería que ya no debía sostener todo el edificio. Se cita comúnmente como el primer edificio alto de la escuela de Chicago, aunque se ha debatido cuánto era independiente la estructura de los muros.",
+    "status": "Demolido en 1931.",
+    "short": "Home Insurance Bldg."
+   },
+   "refs": [],
+   "short": "Home Insurance Bldg."
+  },
+  {
+   "id": "eiffel-tower-1889",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Eiffel Tower",
+   "designers": [
+    "gustave-eiffel"
+   ],
+   "maker": "Compagnie des Établissements Eiffel",
+   "client": "Exposition Universelle de 1889",
+   "year": 1889,
+   "date": "1887–1889",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wrought iron, rivets",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "The 300-metre wrought-iron tower built for the 1889 Paris Exposition, assembled from some 18,000 prefabricated parts.[1][2][3]",
+   "more": "Gustave Eiffel designed and built it between 1887 and 1889 for the International Exposition.[3] It was engineered by Maurice Koechlin and Émile Nouguier, with the architect Stephen Sauvestre contributing.[1] Its open structure of puddled iron, a low-carbon wrought iron, was made of 18,000 parts calculated and drawn in advance; two thirds of the 2.5 million rivets were driven at the factory and the rest hammered in on site, and the assembly took 22 months from 1 July 1887.[1][2] It opened on 31 March 1889 and, meant to stand only a few years, was kept thanks to public support; Guinness says it was the tallest man-made structure until the Chrysler Building passed it in 1931.[1]",
+   "status": "Exists; it remains the best-known landmark of Paris.",
+   "es": {
+    "title": "Torre Eiffel",
+    "date": "1887–1889",
+    "materials": "Hierro forjado, remaches",
+    "key": "La torre de hierro forjado de 300 metros levantada para la Exposición de París de 1889, montada con unas 18.000 piezas prefabricadas.[1][2][3]",
+    "more": "Gustave Eiffel la diseñó y construyó entre 1887 y 1889 para la Exposición Internacional.[3] Fue ideada por los ingenieros Maurice Koechlin y Émile Nouguier, con la contribución del arquitecto Stephen Sauvestre.[1] Su estructura abierta de hierro pudelado, un hierro forjado bajo en carbono, se hizo con 18.000 piezas calculadas y dibujadas de antemano; dos tercios de los 2,5 millones de remaches se pusieron en fábrica y el resto se martilló en obra, y el montaje duró 22 meses desde el 1 de julio de 1887.[1][2] Se inauguró el 31 de marzo de 1889 y, pensada para durar pocos años, se conservó gracias al apoyo del público; según Guinness fue la estructura artificial más alta hasta que el edificio Chrysler la superó en 1931.[1]",
+    "status": "Existe; sigue siendo el monumento más conocido de París."
+   },
+   "refs": [
+    {
+     "label": "Guinness World Records, «Tallest iron structure»",
+     "url": "https://www.guinnessworldrecords.com/world-records/513002-tallest-iron-structure",
+     "checks": "300 m; hierro pudelado (forjado bajo en carbono); ingenieros Koechlin y Nouguier con el arquitecto Sauvestre; inaugurada el 31 de marzo de 1889; pensada como temporal y conservada por apoyo público; la más alta hasta 1931 (Chrysler). ⚠ fuente de récords, no académica; da 1931, no 1930.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Tour Eiffel (sitio oficial), «The construction of the Eiffel Tower, an exemplary project»",
+     "url": "https://www.toureiffel.paris/en/news/130-years/construction-eiffel-tower-exemplary-project",
+     "checks": "18.000 piezas calculadas y dibujadas de antemano; dos tercios de 2,5 millones de remaches en fábrica y el resto en obra; montaje desde el 1 de julio de 1887; 22 meses; inauguración el 31 de marzo de 1889.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Eiffel Tower»",
+     "url": "https://britannica.com/topic/Eiffel-Tower-Paris-France",
+     "checks": "Estructura de hierro forjado diseñada y construida por Gustave Eiffel entre 1887 y 1889 para la Exposición Internacional. ⚠ el resumen consultado no nombra a Koechlin, Nouguier ni Sauvestre.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "letchworth-1903",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Letchworth Garden City",
+   "designers": [
+    "raymond-unwin",
+    "barry-parker"
+   ],
+   "client": "First Garden City Ltd",
+   "year": 1903,
+   "date": "1903",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Brick, timber and tile cottages and public buildings; planned road layout",
+   "tech": [],
+   "key": "The first garden city, laid out in Hertfordshire by Raymond Unwin and Barry Parker as a low-density town of homes, industry and open land.",
+   "more": "Founded in 1903 to put into practice Ebenezer Howard's idea of the garden city, Letchworth was planned by Unwin and Parker with houses of low density, gardens, an industrial area and a belt of countryside. The land was held by the company rather than sold off, so that its increase in value would stay with the community. It became a model for later garden cities and suburbs.",
+   "status": "Exists; Letchworth is a town in Hertfordshire, with its original plan still visible.",
+   "es": {
+    "title": "Ciudad jardín de Letchworth",
+    "date": "1903",
+    "materials": "Casas y edificios públicos de ladrillo, madera y teja; trazado vial planificado",
+    "key": "La primera ciudad jardín, trazada en Hertfordshire por Raymond Unwin y Barry Parker como una ciudad de baja densidad con viviendas, industria y espacio abierto.",
+    "more": "Fundada en 1903 para llevar a la práctica la idea de ciudad jardín de Ebenezer Howard, Letchworth fue planeada por Unwin y Parker con casas de baja densidad, jardines, una zona industrial y un cinturón de campo. El suelo lo conservaba la compañía en vez de venderlo, de modo que su alza de valor quedara en la comunidad. Se volvió el modelo de ciudades jardín y suburbios posteriores.",
+    "status": "Existe; Letchworth es una ciudad de Hertfordshire y su plan original sigue siendo visible.",
+    "short": "Letchworth"
+   },
+   "refs": [],
+   "short": "Letchworth"
+  },
+  {
+   "id": "hill-house-1904",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Hill House, Helensburgh",
+   "designers": [
+    "charles-rennie-mackintosh"
+   ],
+   "client": "Walter Blackie",
+   "year": 1904,
+   "date": "1902–1904",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Roughcast harling, slate, timber",
+   "tech": [],
+   "key": "Charles Rennie Mackintosh's house at Helensburgh near Glasgow for the publisher Walter Blackie, with plain volumes and a carefully designed interior.",
+   "more": "Mackintosh designed the house in 1902 for the publisher Walter Blackie and it was finished in 1904. Its exterior is of plain, roughcast walls and stepped volumes rather than period ornament, and he designed much of the interior and furniture to match. It is regarded as his best domestic work.",
+   "status": "Exists; it is looked after by the National Trust for Scotland and open to visitors.",
+   "es": {
+    "title": "Hill House, Helensburgh",
+    "date": "1902–1904",
+    "materials": "Revoque rugoso, pizarra, madera",
+    "key": "La casa de Charles Rennie Mackintosh en Helensburgh, cerca de Glasgow, para el editor Walter Blackie, de volúmenes sobrios y un interior cuidadosamente diseñado.",
+    "more": "Mackintosh diseñó la casa en 1902 para el editor Walter Blackie y se terminó en 1904. Su exterior es de muros lisos revocados y volúmenes escalonados, sin ornamento de época, y diseñó gran parte del interior y del mobiliario para que armonizara. Se considera su mejor obra doméstica.",
+    "status": "Existe; la cuida el National Trust for Scotland y está abierta a visitas.",
+    "short": "Hill House"
+   },
+   "refs": [],
+   "short": "Hill House"
+  },
+  {
+   "id": "postsparkasse-1906",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Austrian Postal Savings Bank (Postsparkasse), Vienna",
+   "designers": [
+    "otto-wagner"
+   ],
+   "client": "Austrian Postal Savings Office",
+   "year": 1906,
+   "date": "1904–1906",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Stone and marble cladding with aluminium bolts, iron frame, glass",
+   "tech": [],
+   "key": "Otto Wagner's Vienna savings bank, a modern office building with a glass-roofed banking hall and a façade of thin stone slabs fixed with aluminium bolts.",
+   "more": "Wagner won the competition for the Postal Savings Bank in 1903 and built the first phase in 1904–06; it was extended in 1910–12. The façade is clad in thin slabs of stone held by visible aluminium bolts, and the central banking hall is lit by a glass roof. Its plain, functional look made it a landmark of Viennese modern architecture.",
+   "status": "Exists; it still stands in Vienna and is used as offices.",
+   "movements": [
+    "vienna-secession"
+   ],
+   "es": {
+    "title": "Caja Postal de Ahorros de Viena",
+    "date": "1904–1906",
+    "materials": "Revestimiento de piedra y mármol con pernos de aluminio, estructura de hierro, vidrio",
+    "key": "La caja de ahorros de Otto Wagner en Viena, un edificio moderno de oficinas con un hall de atención cubierto de vidrio y una fachada de placas delgadas de piedra fijadas con pernos de aluminio.",
+    "more": "Wagner ganó en 1903 el concurso de la Caja Postal de Ahorros y construyó la primera fase en 1904–06; se amplió en 1910–12. La fachada va revestida con placas delgadas de piedra sujetas con pernos de aluminio a la vista, y el hall central se ilumina con una cubierta de vidrio. Su aspecto sobrio y funcional lo convirtió en un hito de la arquitectura moderna vienesa.",
+    "status": "Existe; sigue en pie en Viena y se usa como oficinas.",
+    "short": "Postsparkasse"
+   },
+   "refs": [],
+   "short": "Postsparkasse"
+  },
+  {
+   "id": "palau-musica-catalana-1908",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Palau de la Música Catalana",
+   "designers": [
+    "domenech-i-montaner"
+   ],
+   "maker": null,
+   "client": "Orfeó Català",
+   "year": 1908,
+   "date": "1905–1908",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Brick, iron and steel structure, glazed ceramic, stained glass",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "Lluís Domènech i Montaner’s concert hall in Barcelona for the choral society Orfeó Català, covered in ceramic, mosaic, sculpture and stained glass.",
+   "more": "Domènech i Montaner built the hall in 1905–08 for the Orfeó Català, a choir founded in 1891 that was a cultural emblem of the Catalan Renaixença. Its visible brick and metal structure is clad in ceramic, mosaic and sculpture, and the auditorium is lit by a large stained-glass skylight. It is the best-known civic building of Catalan Modernisme.",
+   "status": "Standing in Barcelona and in use as a concert hall; listed by UNESCO in 1997 together with the Hospital de Sant Pau.",
+   "movements": [
+    "catalan-modernisme"
+   ],
+   "es": {
+    "title": "Palau de la Música Catalana",
+    "date": "1905–1908",
+    "materials": "Ladrillo, estructura de hierro y acero, cerámica vidriada, vitrales",
+    "key": "La sala de conciertos de Lluís Domènech i Montaner en Barcelona para el Orfeó Català, revestida de cerámica, mosaico, escultura y vitrales.",
+    "more": "Domènech i Montaner la construyó en 1905–08 para el Orfeó Català, un coro fundado en 1891 que fue emblema cultural de la Renaixença catalana. Su estructura visible de ladrillo y metal está revestida de cerámica, mosaico y escultura, y la sala se ilumina con una gran claraboya de vitral. Es el edificio civil más conocido del modernismo catalán.",
+    "status": "Se conserva en Barcelona y sigue en uso como sala de conciertos; la UNESCO la inscribió en 1997 junto con el Hospital de Sant Pau.",
+    "short": "Palau de la Música"
+   },
+   "refs": [],
+   "short": "Palau de la Música"
+  },
+  {
+   "id": "plan-of-chicago-1909",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Plan of Chicago",
+   "designers": [
+    "daniel-burnham"
+   ],
+   "maker": null,
+   "client": "Commercial Club of Chicago",
+   "year": 1909,
+   "date": "1909",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed book with maps, plans and perspective drawings",
+   "tech": [],
+   "key": "Daniel Burnham and Edward Bennett’s 1909 plan for Chicago, a classical scheme of axial boulevards, parks and a public lakefront and a model of City Beautiful planning.",
+   "more": "Burnham and Edward H. Bennett prepared it for the Commercial Club of Chicago and published it in 1909 with large perspective drawings. It proposed a ring of parks, a network of wide avenues and a lakefront kept as public space, all arranged on classical axes. It became a reference for city planning in the United States, and parts of it, especially the lakefront, were carried out.",
+   "status": "Published and widely held in libraries; parts of the plan were built, notably the public lakefront.",
+   "es": {
+    "title": "Plan de Chicago",
+    "date": "1909",
+    "materials": "Libro impreso con mapas, planos y perspectivas dibujadas",
+    "key": "El plan de 1909 de Daniel Burnham y Edward Bennett para Chicago, un esquema clásico de bulevares axiales, parques y borde lacustre público, modelo del urbanismo City Beautiful.",
+    "more": "Burnham y Edward H. Bennett lo prepararon para el Commercial Club de Chicago y lo publicaron en 1909 con grandes perspectivas dibujadas. Proponía un anillo de parques, una red de avenidas anchas y un borde del lago mantenido como espacio público, todo dispuesto en ejes clásicos. Fue referencia del urbanismo en Estados Unidos, y se llevaron a cabo partes, sobre todo la ribera del lago.",
+    "status": "Publicado y presente en muchas bibliotecas; se construyeron partes del plan, en especial la ribera pública del lago."
+   },
+   "refs": [],
+   "movements": [
+    "beaux-arts"
+   ]
+  },
+  {
+   "id": "museo-bellas-artes-santiago-1910",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Museo de Bellas Artes, Santiago",
+   "designers": [
+    "emile-jequier"
+   ],
+   "maker": null,
+   "client": "Chilean State",
+   "year": 1910,
+   "date": "1905–1910",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Masonry, with a glass and metal roof over the central hall",
+   "tech": [],
+   "key": "Émile Jéquier’s Beaux-Arts palace in Santiago’s Parque Forestal, built for the 1910 centenary of independence to house the national art museum.",
+   "more": "The French-Chilean architect Émile Jéquier designed it as the Palacio de Bellas Artes for the 1910 centenary of Chile’s independence. It follows the Beaux-Arts model of European art palaces, with a monumental classical façade and a central hall roofed in glass and metal. It still houses the national fine arts museum.",
+   "status": "Standing in Santiago and still in use as the Museo Nacional de Bellas Artes.",
+   "es": {
+    "title": "Museo Nacional de Bellas Artes, Santiago",
+    "date": "1905–1910",
+    "materials": "Albañilería, con cubierta vidriada y metálica sobre el salón central",
+    "key": "El palacio Beaux-Arts de Émile Jéquier en el Parque Forestal de Santiago, construido para el Centenario de 1910 como sede del museo nacional de arte.",
+    "more": "El arquitecto franco-chileno Émile Jéquier lo proyectó como Palacio de Bellas Artes para el Centenario de la independencia de Chile en 1910. Sigue el modelo Beaux-Arts de los palacios de arte europeos, con una fachada clásica monumental y un salón central cubierto de vidrio y metal. Todavía alberga el museo nacional de bellas artes.",
+    "status": "Se conserva en Santiago y sigue en uso como Museo Nacional de Bellas Artes.",
+    "short": "Museo Bellas Artes"
+   },
+   "refs": [],
+   "movements": [
+    "beaux-arts"
+   ],
+   "short": "Museo Bellas Artes"
+  },
+  {
+   "id": "wainwright-building-1891",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "skyscraper",
+   "title": "Wainwright Building",
+   "designers": [
+    "louis-sullivan"
+   ],
+   "maker": "Adler & Sullivan",
+   "year": 1891,
+   "date": "1890–1891",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame clad in red brick and terracotta",
+   "tech": [
+    "iron-steel-frame",
+    "safety-elevator"
+   ],
+   "key": "The brick office tower in St Louis for Ellis Wainwright, in which Louis Sullivan expressed a steel frame as continuous vertical piers under an overhanging roof slab.[1][2]",
+   "more": "Designed by Adler & Sullivan and dated 1891 in the city’s landmark record, the building is credited there as the first successful use of steel-frame construction.[1] Its brick and terracotta midsection has continuous vertical piers, twice as many as the steel columns, to stress loftiness.[2] Ornamental terracotta foliage panels mark each level, and a frieze of leaf scrolls frames circular windows at the top.[1] The ten-storey tower is organised into zones of basement, shops, stacked offices and attic, and is regarded as a seminal work of the skyscraper.[2] The state bought it in 1974 and it reopened in 1981 as a state office building.[2]",
+   "status": "Still standing in St Louis, restored and used as offices.",
+   "movements": [
+    "chicago-school"
+   ],
+   "es": {
+    "title": "Edificio Wainwright",
+    "date": "1890–1891",
+    "materials": "Armazón de acero revestido de ladrillo rojo y terracota",
+    "key": "La torre de oficinas de ladrillo en St. Louis para Ellis Wainwright, en que Louis Sullivan expresó un armazón de acero como pilares verticales continuos bajo una losa de techo voladiza.[1][2]",
+    "more": "Diseñado por Adler & Sullivan y fechado en 1891 en el registro de monumentos de la ciudad, se le reconoce allí como el primer uso exitoso de la construcción con armazón de acero.[1] Su cuerpo medio de ladrillo y terracota tiene pilares verticales continuos, el doble que las columnas de acero, para acentuar la altura.[2] Paneles ornamentales de terracota con follaje marcan cada nivel, y un friso de volutas de hojas enmarca ventanas circulares arriba.[1] La torre de diez pisos se organiza en zonas de sótano, comercios, oficinas apiladas y ático, y se considera una obra seminal del rascacielos.[2] El Estado la compró en 1974 y reabrió en 1981 como edificio de oficinas estatales.[2]",
+    "status": "Se conserva en St. Louis, restaurado y usado como oficinas."
+   },
+   "refs": [
+    {
+     "label": "City of St. Louis, «Wainwright Building» (City Landmarks)",
+     "url": "https://www.stlouis-mo.gov/government/departments/planning/cultural-resources/city-landmarks/wainwright-builiding.cfm",
+     "checks": "Adler & Sullivan, 1891, para Ellis Wainwright; «primer uso exitoso de la construcción con armazón de acero»; pilares de ladrillo continuos, paneles de terracota con follaje en cada nivel, friso de volutas con ventanas circulares, losa de techo voladiza. ⚠ la atribución de «primero» es de la ficha municipal.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "SAH Archipedia, «Wainwright Building»",
+     "url": "https://sah-archipedia.org/buildings/MO-01-510-0003",
+     "checks": "Sullivan puso el doble de pilares de ladrillo que columnas de acero para dar altura; torre de diez pisos con zonas funcionales; obra seminal del rascacielos; Estado la compró en 1974 y reabrió en 1981 como edificio de oficinas. ⚠ fecha de obra 1890–1892, distinta del 1891 municipal.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "voysey-orchard-1899",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "The Orchard, Chorleywood",
+   "designers": [
+    "cfa-voysey"
+   ],
+   "maker": null,
+   "year": 1899,
+   "date": "1899",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Roughcast walls, tile roof, timber and local materials",
+   "tech": [],
+   "key": "C. F. A. Voysey’s own house at Chorleywood, plain, white-walled and low, a model of the domestic Arts and Crafts.",
+   "more": "Voysey designed The Orchard in 1899 for himself and his family at Chorleywood in Hertfordshire. Its roughcast walls, long sloping roof and simple windows avoid the ornament of Victorian villas and put light and plainness first. Voysey’s houses became known in Germany through Hermann Muthesius.",
+   "status": "Still standing at Chorleywood as a private house.",
+   "movements": [
+    "arts-and-crafts"
+   ],
+   "es": {
+    "title": "The Orchard, Chorleywood",
+    "date": "1899",
+    "materials": "Muros revocados, techo de tejas, madera y materiales locales",
+    "key": "La casa que C. F. A. Voysey hizo para sí mismo en Chorleywood, sencilla, de muros blancos y baja, modelo del Arts and Crafts doméstico.",
+    "more": "Voysey proyectó The Orchard en 1899 para sí mismo y su familia en Chorleywood, en Hertfordshire. Sus muros revocados, su largo techo inclinado y sus ventanas simples evitan el ornamento de las villas victorianas y ponen primero la luz y la sencillez. Las casas de Voysey se dieron a conocer en Alemania por Hermann Muthesius.",
+    "status": "Se conserva en Chorleywood como casa particular.",
+    "short": "The Orchard"
+   },
+   "refs": [],
+   "short": "The Orchard"
+  },
+  {
+   "id": "ernst-ludwig-house-1901",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Ernst Ludwig House, Darmstadt",
+   "designers": [
+    "joseph-maria-olbrich"
+   ],
+   "maker": null,
+   "year": 1901,
+   "date": "1901",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Brick and plaster with a decorated entrance",
+   "tech": [],
+   "key": "Joseph Maria Olbrich’s studio building for the artists’ colony on the Mathildenhöhe in Darmstadt, the centre of the 1901 exhibition.",
+   "more": "Olbrich built it for the colony that Grand Duke Ernst Ludwig of Hesse founded at Darmstadt in 1899. It housed studios for the artists and gave the colony its main building, with a large arched entrance and a long, low body. The colony’s exhibition of 1901 opened here and made Darmstadt a name in the German reform of the arts.",
+   "status": "Still standing on the Mathildenhöhe, which is a protected cultural site.",
+   "es": {
+    "title": "Casa Ernst Ludwig, Darmstadt",
+    "date": "1901",
+    "materials": "Ladrillo y revoque con un portal decorado",
+    "key": "El edificio de talleres de Joseph Maria Olbrich para la colonia de artistas de la Mathildenhöhe en Darmstadt, centro de la exposición de 1901.",
+    "more": "Olbrich lo construyó para la colonia que el gran duque Ernesto Luis de Hesse fundó en Darmstadt en 1899. Albergaba los talleres de los artistas y dio a la colonia su edificio principal, con un gran portal en arco y un cuerpo largo y bajo. La exposición de la colonia de 1901 se inauguró aquí e hizo de Darmstadt un nombre en la reforma alemana de las artes.",
+    "status": "Se conserva en la Mathildenhöhe, un conjunto cultural protegido.",
+    "short": "Casa Ernst Ludwig"
+   },
+   "refs": [],
+   "short": "Ernst Ludwig House"
+  }
+ ]
+}

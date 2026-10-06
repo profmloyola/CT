@@ -1,0 +1,238 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-labour-movement",
+   "track": "social",
+   "start": 1851,
+   "end": 1913,
+   "cont": false,
+   "date": "1850–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "name": "Labour movement and workers’ housing",
+   "short": "Labour and housing",
+   "key": "The rise of trade unions and socialist politics, and of concern for how factory workers lived, which made design a social question.",
+   "happened": "Trade unions and socialist parties grew across industrial countries; the First International was founded in London in 1864. Reformers and some employers built housing for workers: the Peabody Trust began in London in 1862, Lever Brothers founded Port Sunlight in 1888 and Cadbury began Bournville in 1895. William Morris joined socialist organisations in the 1880s.",
+   "effect": "Morris argued that factory work and ugly mass-produced goods degraded both the worker and the home, and tied the making of beautiful, honestly made things to a change in society. This gave Arts and Crafts its social aim, and the idea that housing and everyday objects should be well designed for ordinary people became a continuing theme of design reform, later taken up in housing and garden-city planning.",
+   "es": {
+    "name": "Movimiento obrero y vivienda obrera",
+    "short": "Obreros y vivienda",
+    "date": "1850–1914",
+    "key": "El auge de los sindicatos y de la política socialista, y de la preocupación por cómo vivían los obreros de las fábricas, que hizo del diseño una cuestión social.",
+    "happened": "Los sindicatos y los partidos socialistas crecieron en los países industriales; la Primera Internacional se fundó en Londres en 1864. Reformadores y algunos empresarios construyeron viviendas para obreros: el Peabody Trust comenzó en Londres en 1862, Lever Brothers fundó Port Sunlight en 1888 y Cadbury inició Bournville en 1895. William Morris se unió a organizaciones socialistas en los años 1880.",
+    "effect": "Morris sostuvo que el trabajo de fábrica y los objetos feos hechos en serie degradaban tanto al trabajador como al hogar, y vinculó la fabricación de cosas bellas y honestas con un cambio de la sociedad. Esto dio a Arts and Crafts su meta social, y la idea de que la vivienda y los objetos cotidianos debían estar bien diseñados para la gente común se volvió un tema permanente de la reforma del diseño, retomado después en la vivienda y en el urbanismo de las ciudades jardín."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-bourgeois-home-hygiene",
+   "track": "social",
+   "start": 1851,
+   "end": 1913,
+   "cont": false,
+   "date": "1850–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "The bourgeois home and hygiene",
+   "short": "Home and hygiene",
+   "key": "The middle-class ideal of the home as a place of comfort, morality and cleanliness, shaped by new ideas about disease and a flood of advice books.",
+   "happened": "Middle-class households grew with industrial wealth, and the home was seen as the centre of family life under the care of the wife. Advice books spread: Mrs Beeton’s Book of Household Management appeared in 1861, Charles Eastlake’s Hints on Household Taste in 1868 and The American Woman’s Home by Catharine and Harriet Beecher in 1869. Germ theory, with Robert Koch’s identification of the tuberculosis bacillus in 1882, made dirt and dust a matter of health.",
+   "effect": "Advice writers urged simpler, sturdier furniture and plain surfaces that were easy to clean, and criticised heavy upholstery and dust-catching ornament. Eastlake’s ideas were influential in Britain and especially in the United States, and the concern for hygiene supported lighter rooms and smooth, washable surfaces that later modern design would also adopt.",
+   "es": {
+    "name": "Hogar burgués e higiene",
+    "short": "Hogar e higiene",
+    "date": "1850–1914",
+    "key": "El ideal de clase media del hogar como lugar de comodidad, moral y limpieza, moldeado por nuevas ideas sobre las enfermedades y una avalancha de libros de consejos.",
+    "happened": "Los hogares de clase media crecieron con la riqueza industrial, y la casa se veía como el centro de la vida familiar al cuidado de la esposa. Se difundieron los libros de consejos: Mrs Beeton’s Book of Household Management apareció en 1861, Hints on Household Taste de Charles Eastlake en 1868 y The American Woman’s Home de Catharine y Harriet Beecher en 1869. La teoría de los gérmenes, con la identificación del bacilo de la tuberculosis por Robert Koch en 1882, hizo de la suciedad y el polvo un asunto de salud.",
+    "effect": "Los autores de consejos recomendaron muebles más simples y sólidos y superficies lisas fáciles de limpiar, y criticaron la tapicería pesada y el ornamento que acumulaba polvo. Las ideas de Eastlake fueron influyentes en Gran Bretaña y sobre todo en Estados Unidos, y la preocupación por la higiene apoyó habitaciones más claras y superficies lisas y lavables que el diseño moderno adoptaría después."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-women-office-work",
+   "track": "social",
+   "start": 1870,
+   "end": 1913,
+   "date": "c. 1870–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "name": "Women in office work",
+   "short": "Women in offices",
+   "key": "The growth of clerical work in the late nineteenth century opened offices to women as typists, telephone operators and clerks.",
+   "happened": "As companies, banks and government offices grew after 1870, clerical work expanded and women were hired in growing numbers as typists, clerks and telephone operators, usually at lower pay than men. The typewriter and the telephone were machines whose operation was largely assigned to women.",
+   "effect": "Office tools and furniture were designed for a new kind of worker who sat for hours at one machine: typewriters, desks and chairs were made for typing and clerical routines, and manufacturers addressed women directly in their advertising. The change also gave typists and telephone exchanges a place in the imagery of the modern city.",
+   "es": {
+    "name": "Mujeres en las oficinas",
+    "short": "Mujeres en oficinas",
+    "date": "c. 1870–1914",
+    "key": "El crecimiento del trabajo administrativo a fines del siglo XIX abrió las oficinas a las mujeres como mecanógrafas, telefonistas y empleadas.",
+    "happened": "Con el crecimiento de empresas, bancos y oficinas públicas desde 1870, el trabajo administrativo se expandió y se contrató a más y más mujeres como mecanógrafas, empleadas y telefonistas, por lo general con sueldos menores que los de los hombres. La máquina de escribir y el teléfono eran máquinas cuyo manejo se encargó sobre todo a mujeres.",
+    "effect": "Las herramientas y el mobiliario de oficina se diseñaron para un nuevo tipo de trabajador que pasaba horas sentado ante una sola máquina: máquinas de escribir, escritorios y sillas se hicieron para la mecanografía y la rutina administrativa, y los fabricantes se dirigían directamente a las mujeres en su publicidad. El cambio también dio a las mecanógrafas y a las centrales telefónicas un lugar en la imagen de la ciudad moderna."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-urban-leisure",
+   "track": "social",
+   "start": 1860,
+   "end": 1913,
+   "date": "c. 1860–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "GB",
+    "DE",
+    "US"
+   ],
+   "name": "Urban leisure: café, theatre and cabaret",
+   "short": "Urban leisure",
+   "key": "Cafés, theatres, music halls and cabarets grew into a commercial nightlife in the big cities and needed constant advertising.",
+   "happened": "In the second half of the nineteenth century, cities such as Paris, London, Berlin and New York filled with cafés, theatres, music halls and, from the 1880s, cabarets such as the Chat Noir in Montmartre. Entertainment became a business that competed for an urban public with free evenings and some spare money.",
+   "effect": "Venues and performers needed to announce each programme and each star, and they turned to the illustrated poster, the programme, the menu and the printed ephemera of the night out. Artists such as Toulouse-Lautrec in Paris worked for the cabarets and music halls, and their lithographed posters made the nightlife of the city a subject of graphic design.",
+   "es": {
+    "name": "Ocio urbano: café, teatro y cabaré",
+    "short": "Ocio urbano",
+    "date": "c. 1860–1914",
+    "key": "Cafés, teatros, music halls y cabarés se volvieron una vida nocturna comercial en las grandes ciudades y necesitaban publicidad constante.",
+    "happened": "En la segunda mitad del siglo XIX, ciudades como París, Londres, Berlín y Nueva York se llenaron de cafés, teatros, music halls y, desde la década de 1880, cabarés como el Chat Noir de Montmartre. El espectáculo se volvió un negocio que competía por un público urbano con tardes libres y algo de dinero para gastar.",
+    "effect": "Los locales y los artistas necesitaban anunciar cada programa y cada estrella, y recurrieron al cartel ilustrado, el programa, la carta y los impresos efímeros de la salida nocturna. Artistas como Toulouse-Lautrec en París trabajaron para cabarés y music halls, y sus carteles litografiados hicieron de la vida nocturna de la ciudad un tema del diseño gráfico."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-dress-reform",
+   "track": "social",
+   "start": 1851,
+   "end": 1913,
+   "date": "1851–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE",
+    "AT"
+   ],
+   "name": "Dress reform",
+   "short": "Dress reform",
+   "key": "A movement of women and doctors that criticised the tight corset and heavy skirts and proposed looser, healthier clothing.",
+   "happened": "From the 1850s, when Amelia Bloomer promoted loose trousers under a short skirt in the United States, reformers argued that tight corsets and heavy skirts harmed health and limited movement. In Britain the Rational Dress Society was founded in 1881, and in German-speaking countries doctors and artists took up the cause towards 1900.",
+   "effect": "Reformers put forward looser dresses that hung from the shoulders and did not need a rigid corset, and artists and architects such as Henry van de Velde in Germany and Gustav Klimt and Emilie Flöge in Vienna designed dresses outside the fashion of Paris. It also tied clothing to ideas of health and function, and so to the larger question of how everyday objects should be designed.",
+   "es": {
+    "name": "Reforma del vestido",
+    "short": "Reforma del vestido",
+    "date": "1851–1914",
+    "key": "Un movimiento de mujeres y médicos que criticó el corsé ajustado y las faldas pesadas y propuso ropa más suelta y sana.",
+    "happened": "Desde la década de 1850, cuando Amelia Bloomer promovió en Estados Unidos los pantalones holgados bajo una falda corta, las reformistas sostuvieron que los corsés ajustados y las faldas pesadas dañaban la salud y limitaban el movimiento. En Gran Bretaña se fundó en 1881 la Rational Dress Society, y en los países de habla alemana médicos y artistas retomaron la causa hacia 1900.",
+    "effect": "Las reformistas propusieron vestidos más sueltos, que colgaban desde los hombros y no necesitaban un corsé rígido, y artistas y arquitectos como Henry van de Velde en Alemania y Gustav Klimt y Emilie Flöge en Viena diseñaron vestidos al margen de la moda de París. También ligó la ropa a ideas de salud y función, y así a la pregunta mayor de cómo debían diseñarse los objetos cotidianos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-latam-urbanisation",
+   "track": "social",
+   "start": 1870,
+   "end": 1913,
+   "date": "c. 1870–1914",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "AR",
+    "CL",
+    "BR",
+    "UY"
+   ],
+   "name": "Urban growth and immigration in Latin America",
+   "short": "Latin American cities",
+   "key": "Port cities such as Buenos Aires, Santiago, Valparaíso and São Paulo grew fast with export wealth and European immigration.",
+   "happened": "Between about 1870 and 1914, the export of grain, meat, coffee and nitrate tied several Latin American economies to Europe, and ports and capitals grew quickly. Buenos Aires and São Paulo received large numbers of European immigrants, and the elites of these cities rebuilt them on European models.",
+   "effect": "A growing urban public of workers, shopkeepers and the well-off created demand for buildings, shops, furniture, printed matter and advertising, much of it imported from Europe or made by immigrant craftsmen and printers. Illustrated magazines and the commercial graphics of the new cities, such as the Chilean Zig-Zag, grew in this market.",
+   "es": {
+    "name": "Crecimiento urbano e inmigración en América Latina",
+    "short": "Ciudades de A. Latina",
+    "date": "c. 1870–1914",
+    "key": "Ciudades portuarias como Buenos Aires, Santiago, Valparaíso y São Paulo crecieron rápido con la riqueza exportadora y la inmigración europea.",
+    "happened": "Entre 1870 y 1914 aproximadamente, la exportación de granos, carne, café y salitre ató varias economías latinoamericanas a Europa, y los puertos y las capitales crecieron con rapidez. Buenos Aires y São Paulo recibieron grandes cantidades de inmigrantes europeos, y las élites de estas ciudades las reconstruyeron según modelos europeos.",
+    "effect": "Un público urbano en aumento, de obreros, comerciantes y gente acomodada, creó demanda de edificios, tiendas, muebles, impresos y publicidad, buena parte importada de Europa o hecha por artesanos e impresores inmigrantes. Las revistas ilustradas y la gráfica comercial de las nuevas ciudades, como la chilena Zig-Zag, crecieron en ese mercado."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-childrens-book-market",
+   "track": "social",
+   "start": 1860,
+   "end": 1914,
+   "date": "1860–1914",
+   "regions": [
+    "europe"
+   ],
+   "name": "Children's book market and mass schooling",
+   "short": "Children's books",
+   "key": "A growing middle-class market for illustrated books for children, helped by wider schooling, which made the child reader a client of illustrators.",
+   "happened": "From the 1860s publishers in Britain produced illustrated books aimed at children, such as Alice's Adventures in Wonderland (1865) with John Tenniel's engravings. Schooling expanded, and in England the Education Act of 1870 set up board schools. Colour gift books followed, among them Kate Greenaway's Under the Window (1879), printed by Edmund Evans.",
+   "effect": "Publishers now commissioned pictures drawn for a child's eye, and colour printing was adapted to the gift book. Illustrators such as Tenniel and Greenaway worked with engravers and printers like Evans, so the image became a main part of the book rather than a decoration.",
+   "es": {
+    "name": "Mercado del libro infantil y escolaridad masiva",
+    "short": "Libro infantil",
+    "date": "1860–1914",
+    "key": "Un mercado de clase media en crecimiento para libros ilustrados infantiles, apoyado en la escolaridad ampliada, que hizo del niño lector un cliente de los ilustradores.",
+    "happened": "Desde la década de 1860 los editores británicos produjeron libros ilustrados para niños, como Alicia en el país de las maravillas (1865) con los grabados de John Tenniel. La escolaridad se amplió y en Inglaterra la ley de educación de 1870 creó las escuelas de distrito. Siguieron los libros de regalo en color, entre ellos Under the Window (1879) de Kate Greenaway, impreso por Edmund Evans.",
+    "effect": "Los editores encargaron ahora imágenes dibujadas para la mirada del niño, y la impresión en color se adaptó al libro de regalo. Ilustradores como Tenniel y Greenaway trabajaron con grabadores e impresores como Evans, de modo que la imagen pasó a ser parte central del libro y no un adorno."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-chicago-fire-1871",
+   "track": "social",
+   "start": 1871,
+   "end": 1893,
+   "date": "1871–1893",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Great Chicago Fire and the rebuilding of the Loop",
+   "short": "Chicago Fire",
+   "key": "The 1871 fire that destroyed much of central Chicago and set off a rebuilding boom of tall commercial buildings.",
+   "happened": "The Great Chicago Fire of October 1871 destroyed much of the city's centre. The business district, the Loop, was rebuilt in the following years with commercial buildings that grew taller as land prices rose.",
+   "effect": "Fear of fire favoured incombustible construction, and the cost of central land favoured more floors. Engineers and architects were commissioned in large numbers to build tall commercial buildings with metal frames, such as the Home Insurance Building (1885) by William Le Baron Jenney, the basis of the Chicago School.",
+   "es": {
+    "name": "Gran Incendio de Chicago y reconstrucción del Loop",
+    "short": "Incendio de Chicago",
+    "date": "1871–1893",
+    "key": "El incendio de 1871 que destruyó gran parte del centro de Chicago y desató un auge de reconstrucción con edificios comerciales altos.",
+    "happened": "El Gran Incendio de Chicago de octubre de 1871 destruyó buena parte del centro de la ciudad. El distrito de negocios, el Loop, se reconstruyó en los años siguientes con edificios comerciales que crecieron en altura a medida que subía el precio del suelo.",
+    "effect": "El temor al fuego favoreció la construcción incombustible, y el costo del suelo central favoreció más pisos. Se encargó a ingenieros y arquitectos una gran cantidad de edificios comerciales altos con estructura metálica, como el Home Insurance Building (1885) de William Le Baron Jenney, base de la Escuela de Chicago."
+   },
+   "refs": []
+  }
+ ]
+}

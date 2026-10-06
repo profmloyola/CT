@@ -1,0 +1,2141 @@
+{
+ "note": "Retirados del Modernismo en v21 (revisión A1, decisión del 3 oct 2026). Recuperar en la fase B.",
+ "contexts": [
+  {
+   "id": "ctx-sound-film",
+   "track": "technological",
+   "start": 1927,
+   "date": "1927",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Sound film",
+   "short": "Sound film",
+   "key": "With The Jazz Singer in October 1927 synchronised sound arrived in commercial cinema, and within a few years silent film was over.",
+   "happened": "Warner Bros. premiered The Jazz Singer on 6 October 1927 with its Vitaphone sound-on-disc system. Hollywood converted to sound by around 1930, and the talkies strengthened its hold on audiences worldwide during the Depression.",
+   "effect": "Talking pictures made film stars even more powerful as models of dress and manners; studios hired fashion designers and costume departments, and Hollywood glamour spread styles such as the bias-cut evening gown.",
+   "wiki": "Sound_film",
+   "es": {
+    "name": "Cine sonoro",
+    "short": "Cine sonoro",
+    "date": "1927",
+    "key": "Con The Jazz Singer, en octubre de 1927, el sonido sincronizado llegó al cine comercial, y en pocos años el cine mudo había terminado.",
+    "happened": "Warner Bros. estrenó The Jazz Singer el 6 de octubre de 1927 con su sistema Vitaphone de sonido en disco. Hollywood pasó al sonido hacia 1930, y el cine hablado reforzó su dominio sobre el público mundial durante la Depresión.",
+    "effect": "El cine hablado hizo a las estrellas aún más influyentes como modelos de vestir y de comportarse; los estudios contrataron a diseñadores de moda y departamentos de vestuario, y el glamour de Hollywood difundió estilos como el vestido de noche cortado al bies."
+   },
+   "_motivo": "v22: su único enlace (Chanel) pasó a «Cine» por la revisión independiente (D10). Recuperar si se encuentra un mecanismo con fuente."
+  }
+ ],
+ "links": [],
+ "suspended_links": [
+  {
+   "ctx": "ctx-illustrated-press",
+   "item": "lobster-dress",
+   "note": "Cecil Beaton’s photographs in Vogue spread the dress far beyond the few who could buy it.[1]",
+   "es": {
+    "note": "Las fotografías de Cecil Beaton en Vogue difundieron el vestido mucho más allá de las pocas que podían comprarlo.[1]"
+   },
+   "refs": [
+    {
+     "label": "FIT, Fashion History Timeline, «1937 Schiaparelli lobster»",
+     "checks": "Fotos de Beaton; ocho páginas en Vogue (1937).",
+     "date": "2026-10-03",
+     "url": "https://fashionhistory.fitnyc.edu/1937-schiaparelli-lobster/"
+    }
+   ],
+   "_motivo": "Duplicado del enlace revistas de moda → vestido langosta (S4)."
+  },
+  {
+   "ctx": "ctx-literacy-campaigns",
+   "item": "books-poster",
+   "note": "The campaign against illiteracy created millions of new readers: Rodchenko’s poster urged them to read ‘in all branches of knowledge’.[1]",
+   "es": {
+    "note": "La campaña contra el analfabetismo creó millones de lectores nuevos: el cartel de Ródchenko los llamaba a leer «en todas las ramas del saber».[1]"
+   },
+   "refs": [
+    {
+     "label": "Frye Art Museum, «Books (Please)! In All Branches of Knowledge»",
+     "checks": "Cartel de una campaña de lectura (1924). ⚠ «Millones de lectores» es una síntesis sin cifra en la fuente.",
+     "date": "2026-10-03",
+     "url": "https://fryemuseum.org/node/2063"
+    }
+   ],
+   "_motivo": "E5: la única fuente (Frye) es un registro de catálogo; «millones de lectores» sin respaldo."
+  },
+  {
+   "ctx": "ctx-russian-revolution",
+   "item": "books-poster",
+   "note": "The new Soviet state wanted to put books in the hands of a mass of new readers; Rodchenko’s poster for the state publisher Lengiz made reading a shouted call.[1]",
+   "es": {
+    "note": "El nuevo Estado soviético quería poner libros en manos de una masa de lectores nuevos; el cartel de Rodchenko para la editorial estatal Lengiz convirtió la lectura en un llamado a gritos.[1]"
+   },
+   "refs": [
+    {
+     "label": "Frye Art Museum, «Books (Please)! In All Branches of Knowledge»",
+     "checks": "Cartel de 1924 para Lengiz, editorial estatal, en una campaña de lectura.",
+     "date": "2026-10-03",
+     "url": "https://fryemuseum.org/node/2063"
+    }
+   ],
+   "_motivo": "E5: la única fuente (Frye) es un registro de catálogo; el mecanismo no tiene respaldo."
+  },
+  {
+   "ctx": "ctx-second-world-war",
+   "item": "popover-dress",
+   "note": "With domestic help gone during the war, women ran their homes alone: McCardell designed a cheap cotton dress to wear for housework.[1]",
+   "es": {
+    "note": "Sin servicio doméstico durante la guerra, las mujeres llevaban solas su casa: McCardell diseñó un vestido barato de algodón para el trabajo doméstico.[1]"
+   },
+   "refs": [
+    {
+     "label": "Maryland Center for History and Culture, «Claire McCardell: In Print & Out of the Box»",
+     "checks": "Ropa práctica para mujeres sin servicio doméstico durante la guerra.",
+     "date": "2026-10-03",
+     "url": "https://www.mdhistory.org/claire-mccardell-in-print-out-of-the-box/"
+    }
+   ],
+   "_motivo": "E7: la fuente no habla de guerra ni de servicio doméstico; en suspenso hasta tener fuente de museo."
+  },
+  {
+   "ctx": "ctx-migration-exile",
+   "item": "bkf-chair",
+   "note": "The ideas of Le Corbusier’s Paris office travelled with its young staff: Bonet, Kurchan and Ferrari Hardoy moved to Buenos Aires in 1938 and designed the chair there that year.[1][2]",
+   "es": {
+    "note": "Las ideas del estudio de Le Corbusier viajaron con sus jóvenes colaboradores: Bonet, Kurchan y Ferrari Hardoy se instalaron en Buenos Aires en 1938 y ese mismo año diseñaron allí el sillón.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Grupo Austral (1939–1950)»",
+     "checks": "Se conocieron en el estudio de Le Corbusier en 1936 y se instalaron en Buenos Aires en 1938.",
+     "date": "2026-10-03",
+     "url": "https://www.rem.routledge.com/articles/grupo-austral-1939-1950"
+    },
+    {
+     "label": "MoMA, B.K.F. chair (1938)",
+     "checks": "Sillón de 1938 diseñado en Buenos Aires.",
+     "date": "2026-10-03",
+     "url": "https://www.moma.org/collection/works/4393"
+    }
+   ],
+   "_motivo": "D3: Kurchan y Ferrari Hardoy volvían a su país; no es exilio."
+  },
+  {
+   "ctx": "ctx-fashion-magazines",
+   "item": "vionnet-bias-dress",
+   "note": "Fashion magazines spread couture through images, and Vionnet’s fluid bias-cut dresses became a defining look of the 1930s.[1]",
+   "es": {
+    "note": "Las revistas de moda difundían la alta costura por medio de imágenes, y los vestidos fluidos al bies de Vionnet fueron una imagen clave de los años treinta.[1]"
+   },
+   "refs": [
+    {
+     "label": "Met, vestido de Vionnet (c. 1936)",
+     "checks": "El bies de Vionnet frente a la silueta anterior. ⚠ El papel de las revistas en su difusión es una síntesis sin fuente directa.",
+     "date": "2026-10-03",
+     "url": "https://www.metmuseum.org/art/collection/search/158999"
+    }
+   ],
+   "_motivo": "D7: simultaneidad sin mecanismo; la fuente no habla de revistas."
+  },
+  {
+   "ctx": "ctx-womens-vote-work",
+   "item": "bar-sous-le-toit",
+   "note": "As women entered the design professions, Perriand made her name with this bar at the Salon d’Automne, which led Le Corbusier’s studio to take her on in 1928.[1]",
+   "es": {
+    "note": "Cuando las mujeres entraban a las profesiones del diseño, Perriand se dio a conocer con este bar en el Salón de Otoño, que llevó al estudio de Le Corbusier a incorporarla en 1928.[1]"
+   },
+   "refs": [
+    {
+     "label": "Centre Pompidou, dossier pedagógico «Charlotte Perriand»",
+     "checks": "El éxito del bar llevó a su incorporación en 1928.",
+     "date": "2026-10-03",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-perriand/ENS-perriand.htm"
+    }
+   ],
+   "_motivo": "D9: simultaneidad; la fuente no relaciona el trabajo femenino con el bar."
+  },
+  {
+   "ctx": "ctx-automatic-telephone",
+   "item": "dbh-1001-telephone",
+   "note": "Automatic exchanges let callers dial for themselves, so every set needed a dial: the one-piece Bakelite telephone gathered dial, bell and handset in one object.[1]",
+   "es": {
+    "note": "Las centrales automáticas permitieron que cada usuario marcara por sí mismo, y todo aparato necesitó un disco: el teléfono de baquelita de una pieza reunió disco, campanilla y auricular en un solo objeto.[1]"
+   },
+   "refs": [
+    {
+     "label": "Engineering and Technology History Wiki, «Telephone Dials»",
+     "checks": "Paso a centrales automáticas desde 1919. ⚠ El rediseño del aparato como respuesta a ese cambio es una síntesis; falta una fuente sobre el DBH 1001.",
+     "date": "2026-10-03",
+     "url": "https://ethw.org/Telephone_Dials"
+    }
+   ],
+   "_motivo": "D6: sin fuente sobre el DBH 1001 ni sobre la red europea."
+  },
+  {
+   "ctx": "ctx-advertising-boom",
+   "item": "soaring-to-success",
+   "note": "A newspaper had to sell itself on crowded walls: Kauffer replaced the picture of the product with a bold abstract pattern built on its slogan.[1]",
+   "es": {
+    "note": "Un diario debía venderse en muros llenos de anuncios: Kauffer cambió la imagen del producto por un dibujo abstracto y contundente construido sobre su lema.[1]"
+   },
+   "refs": [
+    {
+     "label": "Cooper Hewitt, Soaring to Success (1918)",
+     "checks": "Cartel de 1918 para el Daily Herald; composición abstracta. ⚠ El mecanismo (competencia en la calle) es una interpretación.",
+     "date": "2026-10-03",
+     "url": "https://collection.cooperhewitt.org/objects/18447233/"
+    }
+   ],
+   "_motivo": "D11: anacronismo (hecho desde 1920, cartel de 1918) y mecanismo interpretativo."
+  }
+ ],
+ "note_v22": "suspended_links: enlaces suspendidos en v22 por la revisión independiente (sin fuente suficiente). Recuperar solo con fuente.",
+ "recorte_modernismo": {
+  "works": [
+   {
+    "id": "pro-eto",
+    "level": "normal",
+    "discipline": "graphic",
+    "type": "book",
+    "title": "Pro Eto",
+    "designers": [
+     "rodchenko"
+    ],
+    "maker": "Gosizdat",
+    "client": null,
+    "year": 1923,
+    "date": "1923",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "RU"
+    ],
+    "materials": "Letterpress book with photomontage illustrations",
+    "tech": [
+     "photomontage"
+    ],
+    "key": "Mayakovsky’s love poem About This, published in 1923 with Rodchenko’s cover and photomontages, the first he made for a book.[1]",
+    "more": "Vladimir Mayakovsky wrote the poem out of a two-month separation from Lilya Brik,[2] and it appeared first in the magazine LEF and then as a book.[2] Rodchenko combined photographs of the poet and of Lilya Brik, who appears on the cover,[1][2] with fragments cut from published photographs and from photographs taken for the book, turning it into a sequence of montages that parallels the text.[3]",
+    "where": [
+     {
+      "label": "MoMA, New York",
+      "url": "https://www.moma.org/collection/works/8195"
+     }
+    ],
+    "status": "Original copies and photomontages in museum collections.",
+    "wiki": "About_That",
+    "es": {
+     "title": "Pro Eto",
+     "date": "1923",
+     "materials": "Libro en impresión tipográfica con ilustraciones de fotomontaje",
+     "key": "El poema de amor Sobre esto de Maiakovski, publicado en 1923 con la portada y los fotomontajes de Ródchenko, los primeros que hizo para un libro.[1]",
+     "more": "Vladímir Maiakovski escribió el poema a raíz de una separación de dos meses de Lilia Brik,[2] y apareció primero en la revista LEF y luego como libro.[2] Ródchenko combinó fotografías del poeta y de Lilia Brik, que aparece en la portada,[1][2] con fragmentos recortados de fotografías publicadas y de fotografías hechas para el libro, y lo convirtió en una secuencia de montajes paralela al texto.[3]",
+     "status": "Ejemplares originales y fotomontajes en colecciones de museos."
+    },
+    "refs": [
+     {
+      "label": "MoMA, Aleksandr Rodchenko, Pro eto. Ei i mne, 1923 (obra 16012)",
+      "url": "https://www.moma.org/collection/works/16012",
+      "checks": "Fecha (1923); editor Gosudarstvennoe izdatel’stvo (Gosizdat), Moscú; libro con nueve ilustraciones tipográficas incluida la portada; «las primeras fotomontajes de Ródchenko usados en el diseño de libros»; retrato de Lilia Brik en la portada; tiraje de 3.000 ejemplares.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "British Library, European studies blog, «Love, Art and Rejection: Mayakovsky’s Pro eto»",
+      "url": "https://blogs.bl.uk/european/2019/07/love-art-and-rejection-mayakovskys-pro-eto.html",
+      "checks": "El poema surge de una separación de dos meses de Lilia Brik; se publicó primero en LEF (marzo de 1923) y luego como edición separada; fotomontajes de Ródchenko con Maiakovski y Lilia; portada con el rostro de Lilia.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Toledo Museum of Art, Pro Eto. Ei I Mne",
+      "url": "https://emuseum.toledomuseum.org/objects/42754/pro-eto--ei-i-mne-about-this--for-her-and-for-me",
+      "checks": "Ródchenko cortó y yuxtapuso fragmentos fotográficos de fuentes publicadas y de fotografías encargadas, como complemento visual del lenguaje del poema; tema: la relación de Maiakovski con Lilia Brik.",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "bauhaus-exhibition-poster",
+    "level": "normal",
+    "discipline": "graphic",
+    "type": "poster",
+    "title": "Bauhaus exhibition poster",
+    "short": "Bauhaus 1923",
+    "designers": [],
+    "maker": "Joost Schmidt",
+    "client": "inst-bauhaus",
+    "year": 1923,
+    "date": "1923",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "DE"
+    ],
+    "materials": "Lithograph on paper",
+    "tech": [],
+    "key": "Joost Schmidt’s geometric poster for the first great Bauhaus exhibition in Weimar, summer 1923.[1][2]",
+    "more": "The exhibition was also a report to the government that funded the school;[2] Gropius used it to present the new slogan ‘art and technology – a new unity’.[3][4] Schmidt, then a sculpture student, composed the poster with geometric shapes and the new typography, showing the influence of his teacher Oskar Schlemmer.[2] Students and teachers also made a series of twenty postcards, by Herbert Bayer, Lyonel Feininger, Dörte Helm, Kandinsky, Klee, Moholy-Nagy and others.[4]",
+    "where": [
+     {
+      "label": "MoMA, New York",
+      "url": "https://www.moma.org/collection/works/6235"
+     }
+    ],
+    "status": "Original prints in museum collections.",
+    "es": {
+     "title": "Cartel de la exposición Bauhaus",
+     "short": "Bauhaus 1923",
+     "date": "1923",
+     "materials": "Litografía sobre papel",
+     "key": "El cartel geométrico de Joost Schmidt para la primera gran exposición de la Bauhaus en Weimar, en el verano de 1923.[1][2]",
+     "more": "La exposición fue también un informe al gobierno que financiaba la escuela;[2] Gropius la usó para presentar el nuevo lema «arte y técnica, una nueva unidad».[3][4] Schmidt, entonces estudiante de escultura, compuso el cartel con formas geométricas y la nueva tipografía, con la influencia de su profesor Oskar Schlemmer.[2] Estudiantes y profesores hicieron además una serie de veinte postales, de Herbert Bayer, Lyonel Feininger, Dörte Helm, Kandinsky, Klee, Moholy-Nagy y otros.[4]",
+     "status": "Ejemplares originales en colecciones de museos."
+    },
+    "refs": [
+     {
+      "label": "MoMA, Joost Schmidt, Staatliches Bauhaus Ausstellung, 1923 (obra 6235)",
+      "url": "https://www.moma.org/collection/works/6235",
+      "checks": "Autor (Joost Schmidt), fecha (1923), litografía, 66,7 × 47,3 cm, impresor von Reineck & Klein, Weimar. ⚠ «Geométrico» es descripción de la imagen, no texto de la ficha.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "German History in Documents and Images (GHI), Poster for Bauhaus Exhibition in Weimar (1923)",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/poster-for-bauhaus-exhibition-in-weimar-1923",
+      "checks": "Schmidt era un talentoso estudiante de escultura; exposición de julio a septiembre de 1923; fue vitrina de la escuela y también informe al gobierno que la financiaba; el cartel muestra la nueva tipografía y la influencia de su profesor Oskar Schlemmer. ⚠ No describe colores.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Bauhaus Kooperation, Walter Gropius",
+      "url": "https://bauhauskooperation.com/magazine/knowledge/walter-gropius",
+      "checks": "Gropius impulsó en 1923 una gran exposición con el lema «arte y técnica, una nueva unidad».",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "MoMA, Inside/Out, «Having a Wonderful Time at the Bauhaus Exhibition in Weimar, 1923»",
+      "url": "https://www.moma.org/explore/inside_out/2015/06/25/having-a-wonderful-time-at-the-bauhaus-exhibition-in-weimar-1923-3/",
+      "checks": "Serie completa de 20 postales para la exposición, diseñadas por estudiantes y maestros (Bayer, Feininger, Dörte Helm, Kandinsky, Klee, Moholy-Nagy y otros); exposición de julio a septiembre de 1923; conferencia de Gropius «Kunst und Technik – eine neue Einheit».",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "universal-alphabet",
+    "level": "normal",
+    "discipline": "graphic",
+    "type": "typeface",
+    "title": "Universal alphabet",
+    "designers": [
+     "bayer"
+    ],
+    "maker": null,
+    "client": "inst-bauhaus",
+    "year": 1925,
+    "date": "1925",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "DE"
+    ],
+    "materials": "Design drawings",
+    "tech": [
+     "din-standards"
+    ],
+    "key": "Herbert Bayer’s proposal for a single-case, geometric sans-serif alphabet, without capitals, as an efficient type for the modern age.[1][2]",
+    "more": "Bayer drew it at the Bauhaus in Dessau in 1925,[1][2] where the school was adopting lower-case lettering for its printed matter,[1][3] arguing that two alphabets for one sound were a waste.[1] It was never cast as metal type at the time and remained a lettering model;[2] later typefaces derive from it, such as Architype Bayer, drawn according to its foundry from Bayer’s sketches in the Bauhaus-Archiv.[4]",
+    "where": [
+     {
+      "label": "Harvard Art Museums, Cambridge",
+      "url": "https://harvardartmuseums.org/art/225330"
+     }
+    ],
+    "status": "Never produced as metal type; later digital typefaces derive from it.",
+    "es": {
+     "title": "Alfabeto universal",
+     "date": "1925",
+     "materials": "Dibujos de diseño",
+     "key": "La propuesta de Herbert Bayer de un alfabeto geométrico sin serifa y de una sola caja, sin mayúsculas, como letra eficiente para la época moderna.[1][2]",
+     "more": "Bayer lo dibujó en la Bauhaus de Dessau en 1925,[1][2] cuando la escuela adoptaba la minúscula en sus impresos,[1][3] con el argumento de que dos alfabetos para un mismo sonido eran un derroche.[1] No se fundió como tipo de metal en su época y quedó como modelo de rotulación;[2] de él derivan tipografías posteriores, como la Architype Bayer, dibujada según su fundición a partir de los bocetos de Bayer en el Bauhaus-Archiv.[4]",
+     "status": "Nunca se produjo como tipo de metal; de él derivan tipografías digitales posteriores."
+    },
+    "refs": [
+     {
+      "label": "Cooper Hewitt, Smithsonian Design Museum, biografía de Herbert Bayer",
+      "url": "https://collection.cooperhewitt.org/people/18059359/bio",
+      "checks": "Bayer dirige el taller de tipografía en Dessau desde 1925; tipografía universal de formas geométricas simples, solo minúsculas, sin serifa; razón: el lenguaje hablado no distingue mayúsculas de minúsculas; «letra eficiente»; la Bauhaus adoptó una variante para todos sus impresos.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Letterform Archive, «Typefaces Inspired by the Bauhaus, part two»",
+      "url": "https://letterformarchive.org/news/bauhaus-typefaces-part-two/",
+      "checks": "Alfabeto experimental de 1925 en la Bauhaus, reducido a minúsculas y formas geométricas de regla y compás; nunca se fundió como fuente y quedó como modelo de rotulación; inspiró tipografías posteriores.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "V&A, proof sheet for the Universal alphabet, Herbert Bayer",
+      "url": "https://collections.vam.ac.uk/item/O1348589/proof-sheet-for-the-universal-proof-bayer-herbert",
+      "checks": "Alfabeto de una sola caja en minúsculas basado en la geometría, usado después en muchas publicaciones de la Bauhaus. Prueba tipográfica fechada «1926?».",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "The Foundry Types, Architype Bayer",
+      "url": "https://www.thefoundrytypes.com/fonts/architype-bayer/",
+      "checks": "⚠ Fabricante actual: Architype Bayer se dibujó a partir de bocetos de Bayer de 1925 en el Bauhaus-Archiv; el alfabeto nunca se cortó como tipo. No da fecha de lanzamiento.",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "intransigeant-poster",
+    "level": "normal",
+    "discipline": "graphic",
+    "type": "poster",
+    "title": "L’Intransigeant poster",
+    "short": "L’Intransigeant",
+    "designers": [
+     "cassandre"
+    ],
+    "maker": "Hachard & Cie",
+    "client": "L’Intransigeant",
+    "year": 1925,
+    "date": "1925",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "FR"
+    ],
+    "materials": "Lithograph on paper",
+    "tech": [],
+    "key": "Cassandre’s poster for a Paris newspaper:[1] a stylised head with telegraph wires converging on its ear, the paper as receiver of the news.[2]",
+    "more": "Large, 118 by 160 cm,[1] and simplified into flat geometric planes and bold lettering, it was displayed across Paris on newsstands and delivery vehicles; it was displayed across Paris on newsstands and delivery vehicles.[2] It belongs to the year Cassandre won the grand prize at the Paris exhibition of decorative arts with a new version of his poster Au Bûcheron,[3] and shows how the geometric simplification of the avant-garde became a tool of street advertising.",
+    "where": [
+     {
+      "label": "MoMA, New York",
+      "url": "https://www.moma.org/collection/works/218730"
+     }
+    ],
+    "status": "Original prints in museum collections.",
+    "es": {
+     "title": "Cartel de L’Intransigeant",
+     "short": "L’Intransigeant",
+     "date": "1925",
+     "materials": "Litografía sobre papel",
+     "key": "El cartel de Cassandre para un diario de París:[1] una cabeza estilizada con cables de telégrafo que convergen en su oreja, el diario como receptor de noticias.[2]",
+     "more": "Grande, de 118 por 160 cm,[1] y simplificado en planos geométricos y letras contundentes, se exhibió por todo París en quioscos y vehículos de reparto; se exhibió por todo París en quioscos y vehículos de reparto.[2] Es del año en que Cassandre ganó el gran premio en la exposición de artes decorativas de París con una nueva versión de su cartel Au Bûcheron,[3] y muestra cómo la simplificación geométrica de las vanguardias se volvió una herramienta de la publicidad callejera.",
+     "status": "Ejemplares originales en colecciones de museos."
+    },
+    "refs": [
+     {
+      "label": "MoMA, A. M. Cassandre, Poster for the Paris newspaper L’Intransigeant, 1925 (obra 218730)",
+      "url": "https://www.moma.org/collection/works/218730",
+      "checks": "Autor, fecha (1925), litografía, 118,1 × 160,3 cm, impresor Hachard & Cie., París; cartel para un diario de París.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Revs Institute, «France and the Future»",
+      "url": "https://museum.revsinstitute.org/french-mascots-from-zoler-collection/france-and-the-future/",
+      "checks": "Cables de telégrafo reúnen noticias de todo el mundo y las llevan al oído de la figura, que las amplifica por la boca abierta; 1925; se exhibió por todo París en quioscos y vehículos de reparto. ⚠ No habla de lectura de un vistazo ni de cubismo.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Encyclopædia Universalis, biografía de Cassandre",
+      "url": "https://www.universalis.fr/encyclopedie/adolphe-jean-marie-mouron-dit-cassandre/",
+      "checks": "Una segunda versión de Au Bûcheron se publicó para la Exposición internacional de artes decorativas de 1925 y obtuvo el gran premio.",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "soaring-to-success",
+    "level": "normal",
+    "discipline": "graphic",
+    "type": "poster",
+    "title": "Soaring to Success",
+    "designers": [
+     "mcknight-kauffer"
+    ],
+    "maker": null,
+    "client": "Daily Herald",
+    "year": 1918,
+    "date": "1918",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "GB"
+    ],
+    "materials": "Lithograph",
+    "tech": [],
+    "key": "E. McKnight Kauffer’s poster for the newspaper Daily Herald, designed in 1918.[1]",
+    "more": "Cooper Hewitt holds a later printing, given by Kauffer’s widow.[1]",
+    "where": [
+     {
+      "label": "Cooper Hewitt, Smithsonian Design Museum",
+      "url": "https://collection.cooperhewitt.org/objects/18447233/"
+     }
+    ],
+    "refs": [
+     {
+      "label": "Cooper Hewitt, Soaring to Success (1918)",
+      "checks": "Diseño de 1918 para el Daily Herald; impresión posterior; donación de «Mrs. E. McKnight Kauffer». ⚠ El apodo «Early Bird», la composición abstracta y los colores no están en la ficha (A6).",
+      "date": "2026-10-03",
+      "url": "https://collection.cooperhewitt.org/objects/18447233/"
+     }
+    ],
+    "es": {
+     "title": "Volando hacia el éxito",
+     "date": "1918",
+     "materials": "Litografía",
+     "key": "El cartel de E. McKnight Kauffer para el diario Daily Herald, diseñado en 1918.[1]",
+     "more": "Cooper Hewitt guarda una impresión posterior, donada por la viuda de Kauffer.[1]"
+    }
+   },
+   {
+    "id": "ekco-ad65",
+    "level": "normal",
+    "discipline": "product",
+    "type": "device",
+    "title": "EKCO AD65 radio",
+    "designers": [
+     "wells-coates"
+    ],
+    "maker": "E. K. Cole Ltd",
+    "client": null,
+    "year": 1932,
+    "date": "1932",
+    "production": {
+     "from": 1934,
+     "to": 1945,
+     "note": "in black, imitation walnut and other colours"
+    },
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "GB"
+    ],
+    "materials": "Moulded Bakelite, steel, fabric",
+    "tech": [
+     "bakelite"
+    ],
+    "key": "Wells Coates’s round Bakelite radio, designed in 1932 for E. K. Cole:[1][2] a receiver that looks like a machine, not a piece of furniture.",
+    "more": "EKCO held a competition among modern architects to design radio cabinets for its new Bakelite moulding plant, which used large presses.[1][2] Coates’s circular case, with the tuning scale above the round speaker, exploited what moulding could do instead of imitating a wooden cabinet.[1][2] Produced from 1934, it was sold in several colours;[1][2] the brown ‘walnut’ version outsold the black one.[1]",
+    "where": [
+     {
+      "label": "V&A, London",
+      "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells/"
+     },
+     {
+      "label": "Science Museum Group, London",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8356281/ekco-ad65-radio-receiver"
+     }
+    ],
+    "status": "Examples in museum collections.",
+    "es": {
+     "title": "Radio EKCO AD65",
+     "date": "1932",
+     "materials": "Baquelita moldeada, acero, tela",
+     "key": "La radio redonda de baquelita de Wells Coates, diseñada en 1932 para E. K. Cole:[1][2] un receptor que parece una máquina y no un mueble.",
+     "more": "EKCO hizo un concurso entre arquitectos modernos para diseñar cajas de radio para su nueva planta de moldeo de baquelita, que usaba grandes prensas.[1][2] La caja circular de Coates, con el dial sobre el parlante redondo, aprovechó lo que permitía el moldeo en vez de imitar un mueble de madera.[1][2] Fabricada desde 1934, se vendió en varios colores;[1][2] la versión café «nogal» se vendió más que la negra.[1]",
+     "status": "Ejemplares en colecciones de museos.",
+     "production": {
+      "note": "en negro, imitación nogal y otros colores"
+     }
+    },
+    "refs": [
+     {
+      "label": "V&A, Ekco AD-65 radio (Wells Coates, E. K. Cole Ltd)",
+      "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells/",
+      "checks": "diseño 1932, fabricación 1934; E. K. Cole Ltd, Southend-on-Sea; baquelita moldeada por compresión, acero inoxidable, tela; prensas alemanas importadas, más de 1000 toneladas de presión; Coates ganó el encargo en un concurso; la versión café que imita nogal fue más popular que la negra; Coates hizo variantes antes de 1945.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Cooper Hewitt, «Radio in the Round», 2019",
+      "url": "https://www.cooperhewitt.org/2019/04/17/radio-in-the-round/",
+      "checks": "Ekco tenía su propia planta de baquelita desde hacia 1930; concurso de 1932 con Serge Chermayeff, Raymond McGrath y Wells Coates; Coates ganó con el único diseño circular; AD-65 de 1934: parlante circular al centro, indicador de estaciones arriba y tres perillas abajo; colores café madera y negro, luego marfil perla y verde ónix; la forma aprovecha el moldeo de baquelita y reduce las matrices.",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "john-deere-model-a",
+    "level": "normal",
+    "discipline": "product",
+    "type": "vehicle",
+    "title": "Styled John Deere Model B",
+    "short": "John Deere B",
+    "designers": [
+     "dreyfuss"
+    ],
+    "maker": null,
+    "client": "Deere & Company",
+    "year": 1938,
+    "date": "1938",
+    "regions": [
+     "north-america"
+    ],
+    "countries": [
+     "US"
+    ],
+    "materials": "Steel",
+    "tech": [],
+    "key": "The styled John Deere Model B, released in late 1938 with a rounded hood and grille by Henry Dreyfuss,[2] whose work for Deere & Company had begun in 1937.[1]",
+    "more": "Dreyfuss joined hood and radiator into one coherent form rather than simply hiding the machine. His method, based on watching how farmers actually worked, guided Deere’s tractors for decades.[1]",
+    "where": [
+     {
+      "label": "Cooper Hewitt: A redesigned tractor",
+      "url": "https://www.cooperhewitt.org/2013/09/30/a-redesigned-tractor/"
+     }
+    ],
+    "refs": [
+     {
+      "label": "Cooper Hewitt, «A redesigned tractor» (2013)",
+      "checks": "Colaboración desde 1937; capó y radiador integrados; observación del uso. ⚠ La fuente nombra el Model B; el año sale de The Henry Ford.",
+      "date": "2026-10-03",
+      "url": "https://www.cooperhewitt.org/2013/09/30/a-redesigned-tractor/"
+     },
+     {
+      "label": "The Henry Ford, John Deere Model B Tractor, 1941",
+      "checks": "Deere lanzó el Model B aerodinámico a fines de 1938, rediseñado por Henry Dreyfuss; capó y parrilla redondeados.",
+      "date": "2026-10-03",
+      "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/178903/"
+     }
+    ],
+    "es": {
+     "title": "John Deere Modelo B rediseñado",
+     "date": "1938",
+     "materials": "Acero",
+     "key": "El tractor John Deere Modelo B rediseñado, lanzado a fines de 1938 con capó y parrilla redondeados de Henry Dreyfuss,[2] cuyo trabajo para Deere & Company había comenzado en 1937.[1]",
+     "more": "Dreyfuss unió el capó y el radiador en una sola forma coherente, en vez de solo esconder la máquina. Su método, basado en observar cómo trabajaban de verdad los agricultores, guió los tractores de Deere durante décadas.[1]",
+     "short": "John Deere B"
+    }
+   },
+   {
+    "id": "letty-lynton-dress",
+    "level": "normal",
+    "discipline": "fashion",
+    "type": "dress",
+    "title": "Letty Lynton dress",
+    "short": "Letty Lynton dress",
+    "designers": [
+     "adrian"
+    ],
+    "maker": null,
+    "client": null,
+    "year": 1932,
+    "date": "1932",
+    "regions": [
+     "north-america"
+    ],
+    "countries": [
+     "US"
+    ],
+    "materials": "Fabric for the film costume",
+    "tech": [],
+    "key": "The gown Adrian designed for the 1932 film ‘Letty Lynton’, copied by manufacturers across the United States.[1]",
+    "more": "Made for the screen, it became so popular that manufacturers copied the look for a mass market; Macy’s in New York is said to have sold half a million copies, a figure never confirmed.[1]",
+    "where": [
+     {
+      "label": "Maryland Center for History and Culture",
+      "url": "https://www.mdhistory.org/the-letty-lynton-effect/"
+     }
+    ],
+    "refs": [
+     {
+      "label": "Maryland Center for History and Culture, «The Letty Lynton Effect»",
+      "checks": "Vestido de Adrian para la película de 1932; copias para el mercado masivo; Macy’s habría vendido medio millón («said to have sold»).",
+      "date": "2026-10-03",
+      "url": "https://www.mdhistory.org/the-letty-lynton-effect/"
+     }
+    ],
+    "es": {
+     "title": "Vestido de Letty Lynton",
+     "date": "1932",
+     "materials": "Tela de vestuario de cine",
+     "key": "El vestido que Adrian diseñó para la película «Letty Lynton» (1932), copiado por fabricantes de todo Estados Unidos.[1]",
+     "more": "Hecho para la pantalla, fue tan popular que los fabricantes copiaron su estilo para un mercado masivo; se dice que Macy’s, en Nueva York, vendió medio millón de copias, cifra que nunca se ha confirmado.[1]",
+     "short": "Vestido Letty Lynton"
+    }
+   },
+   {
+    "id": "popover-dress",
+    "level": "normal",
+    "discipline": "fashion",
+    "type": "dress",
+    "title": "Popover dress",
+    "short": "Popover",
+    "designers": [
+     "claire-mccardell"
+    ],
+    "maker": null,
+    "client": null,
+    "year": 1942,
+    "date": "1942",
+    "regions": [
+     "north-america"
+    ],
+    "countries": [
+     "US"
+    ],
+    "materials": "Cotton (denim, gingham)",
+    "tech": [],
+    "key": "Claire McCardell’s 1942 wrap dress, which women could step into like a coat and tie with a belt.[1]",
+    "more": "Made in denim and sold with an oven mitt for about $7,[2] it stayed in her collections for sixteen years and was one of her best sellers.[1]",
+    "where": [
+     {
+      "label": "Maryland Center for History and Culture",
+      "url": "https://www.mdhistory.org/claire-mccardell-in-print-out-of-the-box/"
+     }
+    ],
+    "wiki": "Popover_(dress)",
+    "refs": [
+     {
+      "label": "Maryland Center for History and Culture, «Claire McCardell: In Print & Out of the Box»",
+      "checks": "1942; algodón y guinga; se pone como un abrigo y se ajusta con cinturón; 16 años en sus colecciones; éxito de ventas.",
+      "date": "2026-10-03",
+      "url": "https://www.mdhistory.org/claire-mccardell-in-print-out-of-the-box/"
+     },
+     {
+      "label": "FIT, Fashion History Timeline, «1940–1949»",
+      "checks": "Popover: vestido cruzado de denim, con guante de cocina; introducido como prenda «Utility» de 7 dólares; versiones en sus colecciones el resto de su carrera. ⚠ El texto principal fecha el Popover en 1940; se mantiene 1942 (Maryland Center).",
+      "date": "2026-10-03",
+      "url": "https://fashionhistory.fitnyc.edu/1940-1949/"
+     }
+    ],
+    "es": {
+     "title": "Vestido Popover",
+     "date": "1942",
+     "materials": "Algodón (mezclilla, guinga)",
+     "key": "El vestido cruzado de 1942 de Claire McCardell, que se ponía como un abrigo y se ajustaba con un cinturón.[1]",
+     "more": "Hecho de mezclilla y vendido con un guante de cocina a unos 7 dólares,[2] siguió en sus colecciones dieciséis años y fue uno de sus mayores éxitos de venta.[1]",
+     "short": "Popover"
+    }
+   },
+   {
+    "id": "villa-mairea",
+    "level": "normal",
+    "discipline": "architecture",
+    "type": "housing",
+    "title": "Villa Mairea",
+    "designers": [
+     "aalto-alvar-aino"
+    ],
+    "maker": null,
+    "client": "Maire and Harry Gullichsen",
+    "year": 1938,
+    "date": "1938–1939",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "FI"
+    ],
+    "materials": "Wood, white render, stone, steel columns wrapped in rattan",
+    "tech": [],
+    "key": "The Aaltos’ country house for Maire and Harry Gullichsen at Noormarkku, which wove modernism together with wood, nature and Finnish tradition.[1][3][4]",
+    "more": "The clients gave the Aaltos freedom to design an experimental house;[2] Maire Gullichsen, a painter and co-founder of Artek,[1][2][3] took an active part. The house opens onto a garden courtyard with a sauna and a kidney-shaped pool,[1][3] and its living room is a forest of slender columns, some wrapped in rattan.[4] Aino Aalto led the interior design and furnishings.[2] It marked a turn from white machine-age modernism toward materials and the senses.[4]",
+    "where": [
+     {
+      "label": "Villa Mairea Foundation",
+      "url": "https://villamairea.fi/en/"
+     }
+    ],
+    "status": "Private house open for guided visits; inscribed on the UNESCO World Heritage List in 2026 among the works of Alvar Aalto.",
+    "wiki": "Villa_Mairea",
+    "es": {
+     "title": "Villa Mairea",
+     "date": "1938–1939",
+     "materials": "Madera, estuco blanco, piedra, pilares de acero forrados en ratán",
+     "key": "La casa de campo de los Aalto para Maire y Harry Gullichsen en Noormarkku, que entretejió el modernismo con la madera, la naturaleza y la tradición finlandesa.[1][3][4]",
+     "more": "Los clientes dieron a los Aalto libertad para diseñar una casa experimental;[2] Maire Gullichsen, pintora y cofundadora de Artek,[1][2][3] participó activamente. La casa se abre a un jardín-patio con sauna y una piscina en forma de riñón,[1][3] y su estar es un bosque de pilares esbeltos, algunos forrados en ratán.[4] Aino Aalto dirigió el diseño interior y el amoblado.[2] Marcó un giro del modernismo blanco de la era de la máquina hacia los materiales y los sentidos.[4]",
+     "status": "Casa privada con visitas guiadas; inscrita en 2026 en la Lista del Patrimonio Mundial de la UNESCO entre las obras de Alvar Aalto."
+    },
+    "refs": [
+     {
+      "label": "Alvar Aalto Foundation, Villa Mairea",
+      "url": "https://www.alvaraalto.fi/en/architecture/villa-mairea/",
+      "checks": "Para Harry y Maire Gullichsen (director de A. Ahlström y su esposa), 1937–1939, en Noormarkku; fachadas de teca, pino finlandés, piedra y estuco; muro corredizo que abre la casa al jardín; patio interior; sauna; taller de pintura de Maire Gullichsen; postes de madera irregulares en la escalera.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Visit Alvar Aalto (Alvar Aalto Foundation), Villa Mairea",
+      "url": "https://visit.alvaraalto.fi/en/destinations/villa-mairea/",
+      "checks": "Construida en 1939 para Maire y Harry Gullichsen; los arquitectos pudieron aplicar un diseño libre y experimental; Maire tuvo un papel decisivo en la fundación de Artek; «el diseño interior estuvo en manos de Aino Aalto».",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Finnish Architecture (finnisharchitecture.fi), Villa Mairea",
+      "url": "https://www.finnisharchitecture.fi/projects/villa-mairea",
+      "checks": "Villa Mairea (1938–1939) para Harry y Maire Gullichsen; Maire, coleccionista y mecenas, cofundadora de Artek; piscina en forma de riñón en un jardín que prolonga los interiores; sauna unida por un alero; Aino Aalto como coautora.",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Artek, «The Aaltos at Villa Mairea: A More Human Light»",
+      "url": "https://www.artek.fi/en/stories/the-aaltos-at-villa-mairea-a-more-human-light",
+      "checks": "Para Maire Gullichsen, una de las fundadoras de Artek; superficies blancas del modernismo enriquecidas con la madera y la piedra de las casas campesinas finlandesas; «bosque» de pilares forrados en ratán y postes de madera; búsqueda de un entorno «más humano». ⚠ Artek es fabricante actual, pero ligado a la obra.",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "co-op-interieur",
+    "level": "normal",
+    "discipline": "architecture",
+    "type": "interior",
+    "title": "Co-op Interieur",
+    "short": "Co-op Interieur",
+    "designers": [
+     "hannes-meyer"
+    ],
+    "maker": null,
+    "client": null,
+    "year": 1926,
+    "date": "1926",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "CH"
+    ],
+    "materials": "Staged room photographed",
+    "tech": [],
+    "key": "Hannes Meyer’s 1926 photograph of a room corner with only a few objects, a manifesto for collective, useful living against bourgeois furnishing.[1]",
+    "more": "Sent from Basel to the Berlin critic Adolf Behne and published in Das Werk with Meyer’s article ‘Die neue Welt’, it set collectivity and use against private property. Behne called it ‘extreme’.[1]",
+    "where": [
+     {
+      "label": "HKW: Hannes Meyer, Co-op Interieur",
+      "url": "https://archiv.hkw.de/en/media/publikationen/2015_1/2015_publikation_co_op_interieur.php"
+     }
+    ],
+    "movements": [
+     "new-objectivity"
+    ],
+    "refs": [
+     {
+      "label": "HKW, «Hannes Meyer: Co-op Interieur» (2015)",
+      "checks": "1926; Basilea; Behne; Das Werk; «Die neue Welt»; colectividad y utilidad frente a la propiedad privada; «extremo».",
+      "date": "2026-10-03",
+      "url": "https://archiv.hkw.de/en/media/publikationen/2015_1/2015_publikation_co_op_interieur.php"
+     }
+    ],
+    "es": {
+     "title": "Co-op Interieur",
+     "date": "1926",
+     "materials": "Habitación montada y fotografiada",
+     "key": "La fotografía de 1926 de Hannes Meyer de un rincón con apenas unos pocos objetos, un manifiesto de la vida colectiva y útil frente al mobiliario burgués.[1]",
+     "more": "Enviada desde Basilea al crítico berlinés Adolf Behne y publicada en Das Werk con el artículo de Meyer «Die neue Welt», oponía la colectividad y el uso a la propiedad privada. Behne la llamó «extrema».[1]",
+     "short": "Co-op Interieur"
+    }
+   },
+   {
+    "id": "zonnestraal",
+    "level": "normal",
+    "discipline": "architecture",
+    "type": "building",
+    "title": "Zonnestraal Sanatorium",
+    "short": "Zonnestraal",
+    "designers": [],
+    "maker": "Jan Duiker, Bernard Bijvoet, Jan Gerko Wiebenga",
+    "client": "Jan van Zutphen",
+    "year": 1926,
+    "date": "1926–1928",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "NL"
+    ],
+    "materials": "Reinforced concrete, large glazed walls",
+    "tech": [],
+    "key": "The tuberculosis sanatorium at Hilversum, founded by the diamond workers and designed by Jan Duiker and Bernard Bijvoet in 1926; it opened in 1928.[1]",
+    "more": "Treatment relied on sunlight, air, rest and nature, which the light buildings in the woods were made to give. It served as a sanatorium until the mid-1950s and is now a restored business park.[1]",
+    "where": [
+     {
+      "label": "Zonnestraal Hilversum",
+      "url": "https://zonnestraal.nl/en/then-now/"
+     }
+    ],
+    "movements": [
+     "new-objectivity"
+    ],
+    "wiki": "Zonnestraal",
+    "refs": [
+     {
+      "label": "Zonnestraal Hilversum, «Then, now & later»",
+      "checks": "Proyecto de 1926; apertura en 1928; Duiker, Bijvoet y Wiebenga; fondo del sindicato del diamante (Jan van Zutphen); sol, aire, reposo y naturaleza; uso hasta mediados de los cincuenta.",
+      "date": "2026-10-03",
+      "url": "https://zonnestraal.nl/en/then-now/"
+     }
+    ],
+    "es": {
+     "title": "Sanatorio Zonnestraal",
+     "date": "1926–1928",
+     "materials": "Hormigón armado, grandes superficies de vidrio",
+     "key": "El sanatorio antituberculoso de Hilversum, fundado por los trabajadores del diamante y proyectado por Jan Duiker y Bernard Bijvoet en 1926; se inauguró en 1928.[1]",
+     "more": "El tratamiento se basaba en el sol, el aire, el reposo y la naturaleza, que los edificios livianos en medio del bosque estaban hechos para dar. Funcionó como sanatorio hasta mediados de los años cincuenta y hoy es un parque de oficinas restaurado.[1]",
+     "short": "Zonnestraal"
+    }
+   }
+  ],
+  "designers": [
+   {
+    "id": "wells-coates",
+    "level": "normal",
+    "kind": "person",
+    "disciplines": [
+     "product",
+     "architecture"
+    ],
+    "born": 1895,
+    "died": 1958,
+    "dates": "1895–1958",
+    "countries": [
+     "GB",
+     "CA"
+    ],
+    "regions": [
+     "europe"
+    ],
+    "name": "Wells Coates",
+    "movements": [
+     "international-style"
+    ],
+    "institutions": [],
+    "key": "Canadian architect and designer, born in Tokyo, who brought modernism to Britain in flats, studios and a round Bakelite radio.[1][4]",
+    "more": "After serving in the Canadian artillery and training as a pilot in the First World War, and earning a doctorate in engineering in London, he began the Isokon project with Jack and Molly Pritchard in 1931 and built the Lawn Road Flats in Hampstead (1933–34), where Gropius and Breuer later lived.[1][2][3] In 1932 he designed the circular EKCO AD65 radio, made from 1934, and he co-founded the modernist MARS Group in 1933.[1][4] Born in Tokyo in 1895, he died in Vancouver in 1958.[1]",
+    "wiki": "Wells_Coates",
+    "es": {
+     "dates": "1895–1958",
+     "key": "Arquitecto y diseñador canadiense, nacido en Tokio, que llevó el modernismo a Gran Bretaña en departamentos, estudios y una radio redonda de baquelita.[1][4]",
+     "more": "Tras servir en la artillería canadiense y formarse como piloto en la Primera Guerra Mundial, y doctorarse en ingeniería en Londres, inició en 1931 el proyecto Isokon con Jack y Molly Pritchard y construyó los departamentos de Lawn Road en Hampstead (1933–34), donde luego vivieron Gropius y Breuer.[1][2][3] En 1932 diseñó la radio circular EKCO AD65, fabricada desde 1934, y en 1933 cofundó el grupo modernista MARS.[1][4] Nació en Tokio en 1895 y murió en Vancouver en 1958.[1]"
+    },
+    "refs": [
+     {
+      "label": "Canadian Centre for Architecture (CCA), Wells Coates fonds, nota biográfica",
+      "url": "https://www.cca.qc.ca/en/archives/379537/wells-coates-fonds",
+      "checks": "nacimiento (17 dic. 1895, Tokio) y muerte (17 jun. 1958, Vancouver); artillero canadiense (1917) y formación como piloto en la RAF (1918); doctorado en ingeniería en la Universidad de Londres (1924); Lawn Road Flats (1934); radio AD 65 para E. K. Cole (1934); cofundó MARS en 1933",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Dictionary of Scottish/British Architects 1800–1950 (architecture.arthistoryresearch.net), «Coates, Wells Wintemute»",
+      "url": "https://architecture.arthistoryresearch.net/architects/coates-wells-wintemute",
+      "checks": "padres canadienses, nacido en Tokio; doctorado en ingeniería en Londres; su firma pasó a ser Isokon Ltd. en 1931; Isokon Flats, Hampstead (1933–34); radios para Ekco; miembro fundador de MARS en 1933 (⚠ fuente secundaria)",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "Twentieth Century Society, «Isokon Gallery opens» (2014)",
+      "url": "https://c20society.org.uk/2014/08/20/isokon-gallery-opens",
+      "checks": "Lawn Road Flats (Isokon Building) abiertos en 1934, creados por Jack y Molly Pritchard con Wells Coates; residentes Walter Gropius y Marcel Breuer",
+      "date": "2026-10-03"
+     },
+     {
+      "label": "V&A, Ekco AD-65 radio, Wells Coates",
+      "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells",
+      "checks": "diseñada en 1932 y fabricada desde 1934 por E. K. Cole; caja circular de baquelita (⚠ el V&A dice «nacido en Canadá», contra el CCA, que da Tokio)",
+      "date": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "id": "adrian",
+    "level": "normal",
+    "kind": "person",
+    "disciplines": [
+     "fashion"
+    ],
+    "born": 1903,
+    "died": 1959,
+    "dates": "1903–1959",
+    "countries": [
+     "US"
+    ],
+    "regions": [
+     "north-america"
+    ],
+    "name": "Adrian",
+    "short": "Adrian",
+    "movements": [],
+    "institutions": [],
+    "key": "Hollywood costume designer, born Adrian Adolph Greenburg in 1903 and known as Adrian,[2] whose film dresses manufacturers copied for a mass market.[1]",
+    "more": "His dress for the film ‘Letty Lynton’ (1932) became so popular that manufacturers copied the look; Macy’s is said to have sold half a million copies, a figure never confirmed.[1] As chief designer at MGM he also made Dorothy’s ruby slippers for ‘The Wizard of Oz’ (1939).[2]",
+    "wiki": "Adrian_(costume_designer)",
+    "refs": [
+     {
+      "label": "Maryland Center for History and Culture, «The Letty Lynton Effect»",
+      "checks": "Vestido para la película (1932); copias para el mercado masivo; Macy’s habría vendido medio millón, cifra no confirmada. ⚠ La fecha de muerte no se leyó en una fuente (A6).",
+      "date": "2026-10-03",
+      "url": "https://www.mdhistory.org/the-letty-lynton-effect/"
+     },
+     {
+      "label": "Connecticut History, «There’s No Place Like Home for the Designer of Dorothy’s Ruby Slippers»",
+      "checks": "Nombre de nacimiento Adrian Adolph Greenburg; Naugatuck, 1903; diseñador jefe de la MGM a fines de los años veinte; zapatos de rubí de El mago de Oz (1939).",
+      "date": "2026-10-03",
+      "url": "https://connecticuthistory.org/theres-no-place-like-home-for-the-designer-of-dorothys-ruby-slippers-who-knew/"
+     }
+    ],
+    "es": {
+     "dates": "1903–1959",
+     "key": "Diseñador de vestuario de Hollywood, nacido Adrian Adolph Greenburg en 1903 y conocido como Adrian,[2] cuyos vestidos de cine copiaron los fabricantes para un mercado masivo.[1]",
+     "more": "Su vestido para la película «Letty Lynton» (1932) fue tan popular que los fabricantes copiaron su estilo; se dice que Macy’s vendió medio millón de copias, cifra que nunca se ha confirmado.[1] Como diseñador jefe de la MGM hizo también los zapatos de rubí de Dorothy para «El mago de Oz» (1939).[2]"
+    }
+   },
+   {
+    "id": "claire-mccardell",
+    "level": "normal",
+    "kind": "person",
+    "disciplines": [
+     "fashion"
+    ],
+    "born": 1905,
+    "died": 1958,
+    "dates": "1905–1958",
+    "countries": [
+     "US"
+    ],
+    "regions": [
+     "north-america"
+    ],
+    "name": "Claire McCardell",
+    "short": "McCardell",
+    "movements": [],
+    "institutions": [],
+    "key": "American designer of practical, comfortable ready-to-wear for women who ran their own lives and homes.[1]",
+    "more": "Her Popover dress of 1942, a wrap dress that women stepped into like a coat, stayed in her collections for sixteen years and anticipated the wrap dresses of the 1970s.[1] It was made in denim, came with an oven mitt and was first sold for about $7.[2]",
+    "wiki": "Claire_McCardell",
+    "refs": [
+     {
+      "label": "Maryland Center for History and Culture, «Claire McCardell: In Print & Out of the Box»",
+      "checks": "Popover (1942), se pone como un abrigo; dieciséis años en sus colecciones; antecedente de los vestidos cruzados de los setenta. ⚠ Las fechas de vida no se leyeron en esta fuente (A6).",
+      "date": "2026-10-03",
+      "url": "https://www.mdhistory.org/claire-mccardell-in-print-out-of-the-box/"
+     },
+     {
+      "label": "FIT, Fashion History Timeline, «1940–1949»",
+      "checks": "Popover: vestido cruzado de denim, con guante de cocina; introducido como prenda «Utility» de 7 dólares; versiones en sus colecciones el resto de su carrera. ⚠ El texto principal fecha el Popover en 1940; se mantiene 1942 (Maryland Center).",
+      "date": "2026-10-03",
+      "url": "https://fashionhistory.fitnyc.edu/1940-1949/"
+     }
+    ],
+    "es": {
+     "dates": "1905–1958",
+     "key": "Diseñadora estadounidense de ropa práctica y cómoda, lista para usar, para mujeres que llevaban su propia vida y su casa.[1]",
+     "more": "Su vestido Popover de 1942, un vestido cruzado que se ponía como un abrigo, siguió en sus colecciones dieciséis años y se adelantó a los vestidos cruzados de los años setenta.[1] Era de mezclilla, venía con un guante de cocina y se vendió primero a unos 7 dólares.[2]"
+    }
+   }
+  ],
+  "contexts": [
+   {
+    "id": "ctx-metropolitan-life",
+    "track": "social",
+    "start": 1920,
+    "end": 1929,
+    "date": "1920s",
+    "regions": [
+     "europe",
+     "north-america"
+    ],
+    "countries": [
+     "DE",
+     "FR",
+     "GB",
+     "US"
+    ],
+    "name": "Metropolitan life",
+    "short": "Metropolitan life",
+    "key": "Big cities grew into crowded metropolises where people travelled every day and had to read signs, posters and maps on the move.",
+    "happened": "Big cities grew rapidly and people commuted through them every day;[1] in London, the expanding Underground network had to be made readable to busy passengers.[1][2][3]",
+    "effect": "Graphic design had to be read fast: Edward Johnston’s lettering for the Underground, begun in 1913, was designed to be legible to busy passengers;[1][3] posters used bold flat colour and simple shapes to catch the eye in crowded stations;[4] and Harry Beck’s 1933 diagrammatic map replaced geography with the sequence of stations so that it could be read at a glance.[1][2]",
+    "wiki": "The_Metropolis_and_Mental_Life",
+    "es": {
+     "name": "Vida metropolitana",
+     "short": "Vida metropolitana",
+     "date": "años 1920",
+     "key": "Las grandes ciudades se volvieron metrópolis atestadas donde la gente viajaba cada día y debía leer letreros, carteles y mapas en movimiento.",
+     "happened": "Las grandes ciudades crecieron con rapidez y la gente se desplazaba por ellas cada día;[1] en Londres, la red ampliada del metro debía hacerse legible para pasajeros apurados.[1][2][3]",
+     "effect": "El diseño gráfico tuvo que leerse rápido: las letras de Edward Johnston para el metro, iniciadas en 1913, se diseñaron para ser legibles por pasajeros apurados;[1][3] los carteles usaron color plano fuerte y formas simples para atraer la mirada en estaciones atestadas;[4] y el mapa diagramático de Harry Beck de 1933 reemplazó la geografía por la secuencia de estaciones para poder leerlo de un vistazo.[1][2]"
+    },
+    "refs": [
+     {
+      "label": "Design Museum, «London Transport»",
+      "url": "https://designmuseum.org/london-transport",
+      "checks": "Frente al rápido crecimiento de la ciudad y los viajes diarios, London Transport usó el diseño con claridad; el logotipo de 1916 con la tipografía de Johnston, pensada para ser leída por pasajeros apurados; el mapa diagramático de Beck (1933). ⚠ Lectura vía resumen automático.",
+      "date": "2026-10-04"
+     },
+     {
+      "label": "London Transport Museum, «Transforming the Tube map: Harry Beck’s iconic design»",
+      "url": "https://www.ltmuseum.co.uk/collections/stories/design/transforming-tube-map-harry-becks-iconic-design",
+      "checks": "Al crecer la red, los mapas geográficos se volvieron difíciles de leer; el mapa de Beck (enero de 1933) usa la secuencia de estaciones y líneas horizontales, verticales y de 45°; primera tirada de 750.000.",
+      "date": "2026-10-04"
+     },
+     {
+      "label": "London Transport Museum, «Edward Johnston: the man behind London’s lettering»",
+      "url": "https://www.ltmuseum.co.uk/collections/stories/people/edward-johnston-man-behind-londons-lettering",
+      "checks": "Johnston creó la tipografía tras reunirse con Frank Pick en 1913; busca letras claras para señalizar estaciones y orientar a los pasajeros.",
+      "date": "2026-10-04"
+     },
+     {
+      "label": "London Transport Museum, «Edward McKnight Kauffer: the Poster King»",
+      "url": "https://www.ltmuseum.co.uk/collections/stories/design/edward-mcknight-kauffer-poster-king",
+      "checks": "Carteles de Kauffer para los viajeros de Londres: color plano y formas geométricas fuertes, imágenes simples, alto contraste y texto legible para quien pasa de prisa. ⚠ Lectura vía resumen automático.",
+      "date": "2026-10-04"
+     }
+    ]
+   },
+   {
+    "id": "ctx-jazz-age",
+    "track": "cultural",
+    "start": 1920,
+    "end": 1929,
+    "date": "1920s",
+    "regions": [
+     "north-america",
+     "europe"
+    ],
+    "countries": [
+     "US",
+     "FR"
+    ],
+    "name": "Jazz Age",
+    "short": "Jazz Age",
+    "key": "The urban culture of the 1920s, named after jazz, with new dances, nightlife and a freer, younger image of women.",
+    "happened": "The name is credited to F. Scott Fitzgerald’s Tales of the Jazz Age (1922). Jazz, the charleston and nightclubs spread from American cities to Paris, Berlin and London, along with the figure of the flapper.",
+    "effect": "Fashion followed women’s more active life: simple, practical clothes with shorter skirts, boxy straight lines and a slim, boyish silhouette, as in Chanel’s jersey designs.[1][2] The decade’s taste for the new, the glossy and the fast also marks Art Deco (see Paris 1925).",
+    "wiki": "Jazz_Age",
+    "es": {
+     "name": "Era del jazz",
+     "short": "Era del jazz",
+     "date": "años 1920",
+     "key": "La cultura urbana de los años veinte, bautizada por el jazz, con bailes nuevos, vida nocturna y una imagen más libre y joven de las mujeres.",
+     "happened": "El nombre se atribuye a Tales of the Jazz Age (1922), de F. Scott Fitzgerald. El jazz, el charlestón y los clubes nocturnos pasaron de las ciudades estadounidenses a París, Berlín y Londres, junto con la figura de la flapper.",
+     "effect": "La moda siguió la vida más activa de las mujeres: ropa simple y práctica, con faldas más cortas, líneas rectas y sueltas y una silueta delgada y andrógina, como en los diseños de jersey de Chanel.[1][2] El gusto de la década por lo nuevo, lo brillante y lo veloz también marca al art déco (véase París 1925)."
+    },
+    "refs": [
+     {
+      "label": "The Metropolitan Museum of Art, ensayo «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+      "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+      "checks": "Moda de los años veinte: estilos simples y prácticos, líneas rectas y faldas más cortas, siluetas delgadas, andróginas y activas; el jersey como tela de Chanel. ⚠ Leída mediante resumen; no menciona el jazz ni el baile.",
+      "date": "2026-10-04"
+     },
+     {
+      "label": "The Metropolitan Museum of Art, conjunto de Chanel, c. 1927",
+      "url": "https://www.metmuseum.org/art/collection/search/81482",
+      "checks": "Conjunto de jersey de lana negro, c. 1927: sencillez y comodidad, detalles de sastrería de ropa de montar y de uniforme. ⚠ La ficha no habla del baile ni de la flapper.",
+      "date": "2026-10-04"
+     }
+    ]
+   },
+   {
+    "id": "ctx-automatic-telephone",
+    "track": "technological",
+    "start": 1919,
+    "end": 1945,
+    "cont": true,
+    "date": "1919 →",
+    "regions": [
+     "europe",
+     "north-america"
+    ],
+    "countries": [
+     "US"
+    ],
+    "name": "Automatic telephone",
+    "short": "Dial telephone",
+    "key": "Automatic exchanges let callers dial for themselves; the dial became part of the telephone set, which manufacturers redesigned as one compact object.",
+    "happened": "From 1919 the Bell System began to replace manual switchboards with automatic exchanges, one local exchange at a time; the change took about four decades.[1]",
+    "effect": "Manufacturers redesigned the telephone as one unified object, such as the model 302 presented by Bell in 1937 and credited to Henry Dreyfuss.[2]",
+    "wiki": "Rotary_dial",
+    "refs": [
+     {
+      "label": "Engineering and Technology History Wiki, «Telephone Dials»",
+      "checks": "Desde 1919 el Bell System reemplazó las centrales manuales por automáticas, una a una, durante unas cuatro décadas. ⚠ El cambio en Europa (y el DBH 1001 noruego) queda pendiente de fuente (A6).",
+      "date": "2026-10-03",
+      "url": "https://ethw.org/Telephone_Dials"
+     },
+     {
+      "label": "Cooper Hewitt, «Model 302 Telephone, Henry Dreyfuss» (2014)",
+      "checks": "Presentado en 1937; los costados suben desde una base cuadrada para sostener el auricular. ⚠ En los comentarios se discute la atribución a Dreyfuss (George Lum, Bell Labs).",
+      "date": "2026-10-03",
+      "url": "https://www.cooperhewitt.org/2014/11/06/model-302-telephone-henry-dreyfuss/"
+     }
+    ],
+    "es": {
+     "name": "Teléfono automático",
+     "short": "Teléfono de discado",
+     "date": "1919 →",
+     "key": "Las centrales automáticas permitieron que cada usuario marcara por sí mismo; el disco pasó a formar parte del aparato, que los fabricantes rediseñaron como un solo objeto compacto.",
+     "happened": "Desde 1919 el Bell System comenzó a reemplazar las centrales manuales por centrales automáticas, una central local a la vez; el cambio tomó unas cuatro décadas.[1]",
+     "effect": "Los fabricantes rediseñaron el teléfono como un solo objeto unificado, como el modelo 302 que Bell presentó en 1937 y que se atribuye a Henry Dreyfuss.[2]"
+    }
+   }
+  ],
+  "links": [
+   {
+    "ctx": "ctx-metropolitan-life",
+    "item": "tube-map-1933",
+    "note": "Millions crossing a vast city underground needed to know the order of stations and the interchanges, not real distances.[1]",
+    "es": {
+     "note": "Millones de personas que cruzaban bajo tierra una ciudad enorme necesitaban saber el orden de las estaciones y las combinaciones, no las distancias reales.[1]"
+    },
+    "refs": [
+     {
+      "label": "London Museum, «How Harry Beck revolutionised the Tube map»",
+      "checks": "Diagrama con conexiones y sin distancias reales.",
+      "date": "2026-10-03",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/harry-beck-revolutionised-tube-map/"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-metropolitan-life",
+    "item": "intransigeant-poster",
+    "note": "Posters had to catch hurrying passers-by on crowded streets, so Cassandre reduced the image to a few bold forms.[1]",
+    "es": {
+     "note": "Los carteles debían atrapar a transeúntes apurados en calles atestadas, así que Cassandre redujo la imagen a unas pocas formas contundentes.[1]"
+    },
+    "refs": [
+     {
+      "label": "MoMA, cartel de L’Intransigeant (1925)",
+      "checks": "Formas simplificadas para transeúntes (1925).",
+      "date": "2026-10-03",
+      "url": "https://www.moma.org/collection/works/218730"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-metropolitan-life",
+    "item": "johnston-typeface",
+    "note": "Signs read at a glance by crowds in a hurry required clear, uniform lettering.[1]",
+    "es": {
+     "note": "Letreros que multitudes apuradas leían de un vistazo exigían letras claras y uniformes.[1]"
+    },
+    "refs": [
+     {
+      "label": "Design Museum, «London Transport»",
+      "checks": "Legibilidad para pasajeros apurados.",
+      "date": "2026-10-03",
+      "url": "https://designmuseum.org/london-transport"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-metropolitan-life",
+    "item": "futura",
+    "note": "Advertising, signs and magazines of the big city needed clear modern lettering; Bauer sold Futura as ‘the typeface of our time’.[1]",
+    "es": {
+     "note": "La publicidad, los letreros y las revistas de la gran ciudad necesitaban letras modernas y claras; Bauer vendió la Futura como «la tipografía de nuestro tiempo».[1]"
+    },
+    "refs": [
+     {
+      "label": "Museum Angewandte Kunst Frankfurt, folleto «Futura. Die Schrift unserer Zeit»",
+      "checks": "Bauer presentó la Futura como «la tipografía de nuestro tiempo».",
+      "date": "2026-10-03",
+      "url": "https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/0d5cc3a5-e6f8-424e-9258-7deeef78bde3"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-jazz-age",
+    "item": "chanel-little-black-dress",
+    "note": "Short, loose dresses suited a culture of dancing, nightlife and the young, active flapper.[1]",
+    "es": {
+     "note": "Los vestidos cortos y sueltos se ajustaban a una cultura de baile, vida nocturna y la flapper joven y activa.[1]"
+    },
+    "refs": [
+     {
+      "label": "Met, vestido de Chanel (c. 1927)",
+      "checks": "Vestido de jersey de c. 1927. ⚠ La ficha no habla del baile ni de la flapper.",
+      "date": "2026-10-03",
+      "url": "https://www.metmuseum.org/art/collection/search/81482"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-jazz-age",
+    "item": "art-deco",
+    "note": "Art Deco was first called ‘le style moderne’ or ‘Jazz Moderne’,[1] and 1920s designers took the skyscraper, jazz and the streamlined look of trains and cars as motifs.[2]",
+    "es": {
+     "note": "Al principio el Art Déco se llamó «le style moderne» o «Jazz Moderne»,[1] y los diseñadores de los años veinte tomaron como motivos el rascacielos, el jazz y las formas aerodinámicas de trenes y autos.[2]"
+    },
+    "refs": [
+     {
+      "label": "New York Public Library, «Art Deco: A Research Guide»",
+      "url": "https://www.nypl.org/node/171023",
+      "checks": "el estilo se llamó al principio «le style moderne» o «Jazz Moderne»; refleja la aceleración de la vida contemporánea («Speed is beauty»); incorpora formas de la era de las máquinas. ⚠ Guía bibliográfica (fuente secundaria); resumen automático.",
+      "date": "2026-10-04"
+     },
+     {
+      "label": "Art Deco Society of New York, Sarah D. Coffin y Emily M. Orr (Cooper Hewitt), «The Jazz Age: American Style in the 1920s» (Art Deco New York Journal, 2017)",
+      "url": "https://www.artdeco.org/american-style-in-the-1920s",
+      "checks": "colección «Americana Prints» de Stehli Silks (1925–27) con «el rascacielos, el jazz y otras notas modernas de la América enérgica»; los diseñadores tomaron el perfil del rascacielos y las formas aerodinámicas de trenes, aviones y autos para sus productos. ⚠ Resumen automático.",
+      "date": "2026-10-04"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-radio-broadcasting",
+    "item": "ekco-ad65",
+    "note": "The radio set was a new domestic object; Coates gave it a modern Bakelite casing instead of a wooden cabinet.[1][2]",
+    "es": {
+     "note": "La radio era un objeto doméstico nuevo; Coates le dio una carcasa moderna de baquelita en vez de un mueble de madera.[1][2]"
+    },
+    "refs": [
+     {
+      "label": "V&A, Ekco AD-65",
+      "checks": "Baquelita moldeada; abandona el mueble de madera.",
+      "date": "2026-10-03",
+      "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells-obe/"
+     },
+     {
+      "label": "Cooper Hewitt, «Radio in the Round»",
+      "checks": "Ekco vende radios en carcasas de plástico desde 1930.",
+      "date": "2026-10-03",
+      "url": "https://www.cooperhewitt.org/2019/04/17/radio-in-the-round/"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-cinema",
+    "item": "letty-lynton-dress",
+    "note": "Hollywood films set fashions for millions: a dress made for the screen was copied by manufacturers and sold in department stores.[1]",
+    "es": {
+     "note": "Las películas de Hollywood imponían modas a millones de personas: un vestido hecho para la pantalla fue copiado por los fabricantes y vendido en grandes tiendas.[1]"
+    },
+    "refs": [
+     {
+      "label": "Maryland Center for History and Culture, «The Letty Lynton Effect»",
+      "checks": "Copias del vestido de la película para el mercado masivo.",
+      "date": "2026-10-03",
+      "url": "https://www.mdhistory.org/the-letty-lynton-effect/"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-hygienism",
+    "item": "zonnestraal",
+    "note": "Tuberculosis was treated with sunlight, air and rest: Duiker and Bijvoet made light buildings in the woods to give patients all three.[1]",
+    "es": {
+     "note": "La tuberculosis se trataba con sol, aire y reposo: Duiker y Bijvoet hicieron edificios livianos en el bosque para dar a los pacientes las tres cosas.[1]"
+    },
+    "refs": [
+     {
+      "label": "Zonnestraal Hilversum, «Then, now & later»",
+      "checks": "Tratamiento con sol, aire, reposo y naturaleza.",
+      "date": "2026-10-03",
+      "url": "https://zonnestraal.nl/en/then-now/"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-automatic-telephone",
+    "item": "model-302-telephone",
+    "note": "As dialling spread through the Bell System,[1] the telephone was redesigned as one unified object: in the model 302 (1937) the body rises from a square base to cradle the handset.[2]",
+    "es": {
+     "note": "A medida que el discado se extendía por el Bell System,[1] el teléfono se rediseñó como un solo objeto unificado: en el modelo 302 (1937) el cuerpo sube desde una base cuadrada para sostener el auricular.[2]"
+    },
+    "refs": [
+     {
+      "label": "Engineering and Technology History Wiki, «Telephone Dials»",
+      "checks": "Conversión del Bell System a centrales automáticas desde 1919, durante unas cuatro décadas.",
+      "date": "2026-10-03",
+      "url": "https://ethw.org/Telephone_Dials"
+     },
+     {
+      "label": "Cooper Hewitt, «Model 302 Telephone, Henry Dreyfuss» (2014)",
+      "checks": "Presentado en 1937; los costados suben desde una base cuadrada para sostener el auricular. ⚠ En los comentarios se discute la atribución a Dreyfuss (George Lum, Bell Labs).",
+      "date": "2026-10-03",
+      "url": "https://www.cooperhewitt.org/2014/11/06/model-302-telephone-henry-dreyfuss/"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-cinema",
+    "item": "adrian",
+    "note": "Hollywood studios set fashions: as MGM’s chief designer, Adrian dressed stars whose gowns, like Letty Lynton’s (1932), were copied for a mass market.[1][2]",
+    "es": {
+     "note": "Los estudios de Hollywood imponían modas: como diseñador jefe de la MGM, Adrian vistió a estrellas cuyos vestidos, como el de Letty Lynton (1932), se copiaron para un mercado masivo.[1][2]"
+    },
+    "refs": [
+     {
+      "label": "Maryland Center for History and Culture, «The Letty Lynton Effect»",
+      "checks": "Vestido de Adrian para la película de 1932; copias para el mercado masivo.",
+      "date": "2026-10-03",
+      "url": "https://www.mdhistory.org/the-letty-lynton-effect/"
+     },
+     {
+      "label": "Connecticut History, «There’s No Place Like Home for the Designer of Dorothy’s Ruby Slippers»",
+      "checks": "Diseñador jefe de la MGM a fines de los años veinte.",
+      "date": "2026-10-03",
+      "url": "https://connecticuthistory.org/theres-no-place-like-home-for-the-designer-of-dorothys-ruby-slippers-who-knew/"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-radio-broadcasting",
+    "item": "wells-coates",
+    "note": "Early radio sets imitated cabinet furniture as status objects; winning an Ekco competition, Coates instead exploited Bakelite in a severe geometric case that did not disguise the machine with cabinet-work.[1]",
+    "es": {
+     "note": "Las primeras radios imitaban muebles de gabinete como objetos de estatus; al ganar un concurso de Ekco, Coates aprovechó en cambio las propiedades de la baquelita en una caja geométrica austera que no disfrazaba la máquina con ebanistería.[1]"
+    },
+    "refs": [
+     {
+      "label": "V&A, Ekco AD-65 radio, Wells Coates (O22790)",
+      "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells",
+      "checks": "los receptores primitivos imitaban muebles de gabinete y eran objetos de estatus; Coates ganó el encargo en un concurso; «explotó las propiedades de la baquelita y no disfrazó la máquina con ebanistería»; forma geométrica severa. ⚠ la página no explica por qué eligió la forma circular.",
+      "date": "2026-10-04"
+     }
+    ]
+   },
+   {
+    "ctx": "ctx-war-economy",
+    "item": "claire-mccardell",
+    "note": "US Regulation L-85 of 1942 rationed natural fibres and banned drastic style changes.[1] McCardell worked within the limits and turned to denim, seersucker and jersey for simple dresses.[2]",
+    "es": {
+     "note": "La Regulación L-85 de 1942 en Estados Unidos racionó las fibras naturales y prohibió los cambios drásticos de estilo.[1] McCardell trabajó dentro de esos límites y recurrió al denim, la tela de rayas (seersucker) y el jersey para vestidos simples.[2]"
+    },
+    "refs": [
+     {
+      "label": "Smithsonian NMAH, «Dressing for War»",
+      "url": "https://americanhistory.si.edu/explore/exhibitions/price-of-freedom/online/world-war-ii/mobilizing-war/dressing-for-war",
+      "checks": "Regulación L-85 de la War Production Board (1942): racionó fibras naturales y prohibió cambios drásticos de estilo; limitó colores, largo de faldas, amplitud de pantalones y chaquetas; prohibió los puños. ⚠ La página no nombra a McCardell.",
+      "date": "2026-10-04"
+     },
+     {
+      "label": "FIT, Fashion History Timeline, «1940–1949»",
+      "url": "https://fashionhistory.fitnyc.edu/1940-1949/",
+      "checks": "McCardell «navegó con destreza» las restricciones del racionamiento; al restringirse las telas tradicionales recurrió a denim, seersucker y jersey; Popover de denim con guante de cocina. ⚠ El texto principal fecha el Popover en 1940 (la ficha usa 1942, Maryland Center); el nexo causal (restricción → telas) es el del propio texto de FIT.",
+      "date": "2026-10-04"
+     }
+    ]
+   }
+  ],
+  "connections": [],
+  "ids_in_links": [
+   {
+    "owner": "inst-bauhaus",
+    "field": "works",
+    "ids": [
+     "bauhaus-exhibition-poster",
+     "universal-alphabet"
+    ]
+   },
+   {
+    "owner": "inst-artek",
+    "field": "works",
+    "ids": [
+     "villa-mairea"
+    ]
+   },
+   {
+    "owner": "bakelite",
+    "field": "works",
+    "ids": [
+     "ekco-ad65"
+    ]
+   },
+   {
+    "owner": "bakelite",
+    "field": "designers",
+    "ids": [
+     "wells-coates"
+    ]
+   },
+   {
+    "owner": "photomontage",
+    "field": "works",
+    "ids": [
+     "pro-eto"
+    ]
+   },
+   {
+    "owner": "th-art-and-industry",
+    "field": "designers",
+    "ids": [
+     "wells-coates"
+    ]
+   }
+  ]
+ },
+ "nota_v35": "ctx-corfo y ctx-early-television se reintegraron a src-data/modernism en v35 (etapa 2); sus enlaces débiles originales se descartaron y se reemplazaron por enlaces con obras de Posguerra.",
+ "industrial_etapa5": {
+  "contexts": [
+   {
+    "id": "ctx-telegraph",
+    "track": "technological",
+    "start": 1837,
+    "end": 1850,
+    "date": "1837–1850",
+    "regions": [
+     "europe",
+     "north-america"
+    ],
+    "countries": [
+     "GB",
+     "US"
+    ],
+    "name": "Electric telegraph",
+    "short": "Telegraph",
+    "key": "The electric telegraph, in commercial use from 1837, let news and orders travel faster than any train or ship and changed how the press gathered and set out its content.",
+    "happened": "William Cooke and Charles Wheatstone patented a telegraph in Britain in 1837, and in the United States Samuel Morse and Alfred Vail developed a system whose first long line, from Washington to Baltimore, opened in 1844. Lines followed railways, and by 1850 telegraphs linked major cities in both regions.",
+    "effect": "Newspapers began to receive dispatches from distant places within hours, which favoured short, dense reports and made the front page a place for the latest news. Merchants and manufacturers could also order and follow fashions and goods by wire, which shortened the distance between a market and its makers.",
+    "es": {
+     "name": "Telégrafo eléctrico",
+     "short": "Telégrafo",
+     "date": "1837–1850",
+     "key": "El telégrafo eléctrico, de uso comercial desde 1837, hizo viajar noticias y pedidos más rápido que cualquier tren o barco y cambió cómo la prensa reunía y disponía su contenido.",
+     "happened": "William Cooke y Charles Wheatstone patentaron un telégrafo en Gran Bretaña en 1837, y en Estados Unidos Samuel Morse y Alfred Vail desarrollaron un sistema cuya primera línea larga, de Washington a Baltimore, se abrió en 1844. Las líneas siguieron a los ferrocarriles y hacia 1850 el telégrafo unía las grandes ciudades de ambas regiones.",
+     "effect": "Los diarios empezaron a recibir despachos de lugares lejanos en cuestión de horas, lo que favoreció los reportes breves y densos y volvió la primera plana un lugar para la noticia más reciente. Comerciantes y fabricantes pudieron además pedir y seguir modas y mercancías por cable, lo que acortó la distancia entre un mercado y quienes producían para él."
+    },
+    "refs": []
+   },
+   {
+    "id": "ctx-photography",
+    "track": "technological",
+    "start": 1839,
+    "end": 1850,
+    "date": "1839–1850",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "FR",
+     "GB"
+    ],
+    "name": "Photography",
+    "short": "Photography",
+    "key": "Photography, announced in 1839, gave a mechanical way to record the visible world and began to take over the job of copying images from engravers and lithographers.",
+    "happened": "In 1839 Louis Daguerre's daguerreotype was made public in Paris, and in Britain William Henry Fox Talbot presented his own process on paper, later refined as the calotype. In the 1840s portrait studios opened in the main European cities.",
+    "effect": "Photographs were soon used as models for prints, and engravers and lithographers began to work from them instead of from drawings. Over the following decades the new medium pushed printmakers away from simple reproduction and toward processes that could carry photographs onto the printed page.",
+    "es": {
+     "name": "Fotografía",
+     "short": "Fotografía",
+     "date": "1839–1850",
+     "key": "La fotografía, anunciada en 1839, dio un modo mecánico de registrar el mundo visible y empezó a quitar a grabadores y litógrafos el trabajo de copiar imágenes.",
+     "happened": "En 1839 se dio a conocer en París el daguerrotipo de Louis Daguerre y en Gran Bretaña William Henry Fox Talbot presentó su propio proceso sobre papel, perfeccionado después como calotipo. En la década de 1840 se abrieron estudios de retrato en las principales ciudades europeas.",
+     "effect": "Las fotografías pronto sirvieron de modelo para estampas, y grabadores y litógrafos empezaron a trabajar a partir de ellas en lugar de dibujos. En las décadas siguientes el nuevo medio alejó a los grabadores de la simple reproducción y los empujó hacia procesos que pudieran llevar la fotografía a la página impresa."
+    },
+    "refs": []
+   }
+  ],
+  "production": [
+   {
+    "id": "cylinder-textile-printing",
+    "sub": "processes",
+    "start": 1783,
+    "end": 1850,
+    "date": "1783–1850",
+    "regions": [
+     "europe"
+    ],
+    "countries": [
+     "GB"
+    ],
+    "name": "Cylinder textile printing",
+    "short": "Roller printing",
+    "key": "Roller printing, patented in Lancashire in 1783, printed cotton from engraved copper cylinders and was far faster than printing by hand with wooden blocks.",
+    "origin": "Thomas Bell patented a machine for printing cloth from engraved copper cylinders in 1783, and it was first used at works near Preston in Lancashire. Before this, calico was printed by hand with wooden blocks or from flat copper plates.",
+    "enabled": "Cloth passed continuously between an engraved copper roller and a pressure cylinder, and one printer could print as much in a day as many hand printers. Rollers could carry finely engraved designs and later several colours, one roller per colour.",
+    "change": "Patterns had to be drawn as a repeat that fitted the roller's circumference, and finer line work, small repeated motifs and engraved, detailed patterns became common. Designers worked for the roller, and large block-printed floral cottons gave way to cheaper, denser patterns.",
+    "economy": "Roller printing made printed cottons cheap enough for a large market, and Lancashire and Scotland became major printing centres, supplied by cotton from overseas.",
+    "relations": "It joined the new cotton industry to the design of cloth and to an expanding trade: more cloth meant more patterns, and more patterns meant a growing number of pattern drawers in the works.",
+    "links": {
+     "movements": [],
+     "institutions": [],
+     "designers": [],
+     "works": []
+    },
+    "es": {
+     "name": "Estampado textil con cilindros",
+     "short": "Estampado a rodillo",
+     "date": "1783–1850",
+     "key": "El estampado a rodillo, patentado en Lancashire en 1783, imprimía el algodón con cilindros de cobre grabados y era mucho más rápido que el estampado a mano con tacos de madera.",
+     "origin": "Thomas Bell patentó en 1783 una máquina para imprimir telas con cilindros de cobre grabados, que se usó primero en talleres cerca de Preston, en Lancashire. Antes, las indianas se estampaban a mano con tacos de madera o con planchas planas de cobre.",
+     "enabled": "La tela pasaba de forma continua entre un rodillo de cobre grabado y un cilindro de presión, y un solo impresor podía estampar en un día lo que muchos estampadores a mano. Los rodillos podían llevar diseños de grabado fino y más tarde varios colores, un rodillo por color.",
+     "change": "Los motivos debían dibujarse como un repetido que calzara con la circunferencia del rodillo, y se volvieron comunes el trazo fino, los motivos pequeños repetidos y los patrones grabados y detallados. Los diseñadores trabajaban para el rodillo, y los grandes algodones florales estampados con tacos dieron paso a patrones más baratos y densos.",
+     "economy": "El estampado a rodillo abarató los algodones estampados hasta un gran mercado, y Lancashire y Escocia se volvieron grandes centros de estampado, abastecidos con algodón de ultramar.",
+     "relations": "Unió la nueva industria del algodón con el diseño de telas y con un comercio en expansión: más tela pedía más patrones, y más patrones, un número creciente de dibujantes de diseños en las fábricas."
+    },
+    "refs": []
+   }
+  ]
+ },
+ "etapa7_retirados": {
+  "fusiones": [
+   {
+    "motivo": "fusionado con participatory-social-architecture",
+    "tipo": "movement",
+    "registro": {
+     "id": "social-architecture",
+     "level": "normal",
+     "disciplines": [
+      "architecture"
+     ],
+     "start": 2000,
+     "end": null,
+     "fadeIn": 1,
+     "regions": [
+      "latin-america",
+      "global"
+     ],
+     "name": "Social and participatory architecture",
+     "short": "Social architecture",
+     "key": "Architecture aimed at housing and public needs of low-income communities, often built with the future users, as in Elemental’s incremental housing in Chile.",
+     "traits": [
+      "Incremental housing: build the essential half and let families complete it",
+      "Participation of residents in the design",
+      "Tight public budgets treated as a design condition",
+      "Architecture as a response to informal settlement"
+     ],
+     "context": "Around 2000, the housing deficit and informal settlements of Latin American cities pushed some architects to work on public and social programmes. The Chilean studio Elemental, founded in 2001 with Alejandro Aravena as executive director, became its best-known example. Aravena received the Pritzker Prize in 2016.",
+     "shift": "From the unique building for a client to design that works within very limited subsidies and shares decisions with residents. Elemental released some of its incremental housing designs for others to use, which spread the approach beyond Chile.",
+     "links": {
+      "institutions": [
+       "inst-elemental"
+      ]
+     },
+     "es": {
+      "name": "Arquitectura social y participativa",
+      "short": "Arquitectura social",
+      "key": "Arquitectura dirigida a las necesidades de vivienda y espacio público de comunidades de bajos ingresos, a menudo construida con los futuros usuarios, como la vivienda incremental de Elemental en Chile.",
+      "traits": [
+       "Vivienda incremental: construir la mitad esencial y dejar que las familias completen el resto",
+       "Participación de los habitantes en el diseño",
+       "Presupuestos públicos ajustados tratados como condición de diseño",
+       "La arquitectura como respuesta al asentamiento informal"
+      ],
+      "context": "Hacia el año 2000, el déficit de vivienda y los asentamientos informales de las ciudades latinoamericanas llevaron a algunos arquitectos a trabajar en programas públicos y sociales. El estudio chileno Elemental, fundado en 2001 con Alejandro Aravena como director ejecutivo, se volvió su ejemplo más conocido. Aravena recibió el Premio Pritzker en 2016.",
+      "shift": "Del edificio único para un cliente a un diseño que opera dentro de subsidios muy acotados y comparte decisiones con los habitantes. Elemental liberó algunos de sus diseños de vivienda incremental para que otros los usaran, lo que extendió el enfoque más allá de Chile."
+     },
+     "refs": []
+    },
+    "links": [],
+    "connections": []
+   },
+   {
+    "motivo": "duplica steam-bentwood",
+    "tipo": "production",
+    "registro": {
+     "id": "bentwood",
+     "sub": "processes",
+     "start": 1856,
+     "end": 1913,
+     "cont": true,
+     "date": "1856 →",
+     "regions": [
+      "europe"
+     ],
+     "countries": [
+      "AT"
+     ],
+     "name": "Steam-bent wood",
+     "short": "Bentwood",
+     "key": "Michael Thonet’s process of bending solid wood with steam, patented in the 1850s, allowed light chairs made of a few standard parts.",
+     "origin": "Michael Thonet, a cabinetmaker from Boppard who had settled in Vienna, experimented with bending wood from the 1830s, first with laminated layers and then with solid beechwood heated with steam. He patented the process of bending wood with steam in 1856.",
+     "enabled": "Curved rods of beech could be bent into a shape in a mould and left to dry, so that a chair needed little carving or joinery. Its few parts, fixed with screws, could be sent unassembled and put together by the buyer.",
+     "change": "The chair no longer looked like a piece of carved furniture but like a light structure of continuous curves, and the lack of ornament suited a wide public. The curved line became a recognizable feature of café and home chairs.",
+     "economy": "Thonet’s firm in Vienna grew into a large manufacturer, and its chairs, shown in London in 1851, were sold throughout Europe and beyond. Standard parts and unassembled shipping lowered the cost of making and of moving the chairs.",
+     "relations": "The process underlies Thonet’s famous chair no. 14 of 1859, and later architects such as Josef Hoffmann designed bentwood pieces for Thonet and other makers.",
+     "links": {
+      "movements": [],
+      "institutions": [],
+      "designers": [],
+      "works": [
+       "thonet-chair-14",
+       "sitzmaschine"
+      ]
+     },
+     "es": {
+      "name": "Madera curvada al vapor",
+      "short": "Madera curvada",
+      "date": "1856 →",
+      "key": "El proceso de Michael Thonet para curvar madera maciza con vapor, patentado en la década de 1850, permitió sillas livianas hechas de pocas piezas estándar.",
+      "origin": "Michael Thonet, un ebanista de Boppard instalado en Viena, experimentó con el curvado de la madera desde la década de 1830, primero con capas laminadas y luego con madera maciza de haya calentada con vapor. Patentó el proceso de curvar madera con vapor en 1856.",
+      "enabled": "Varillas curvas de haya podían doblarse sobre un molde y dejarse secar, de modo que una silla requería poco tallado y ensamble. Sus pocas piezas, fijadas con tornillos, podían enviarse desarmadas y ser armadas por el comprador.",
+      "change": "La silla dejó de parecer un mueble tallado y pasó a ser una estructura liviana de curvas continuas, y la falta de ornamento convenía a un público amplio. La línea curva se volvió un rasgo reconocible de las sillas de café y de hogar.",
+      "economy": "La empresa de Thonet en Viena creció hasta ser una gran fabricante, y sus sillas, mostradas en Londres en 1851, se vendieron por toda Europa y más allá. Las piezas estándar y el envío desarmado abarataron la fabricación y el transporte de las sillas.",
+      "relations": "El proceso está en la base de la célebre silla n.º 14 de Thonet de 1859, y más tarde arquitectos como Josef Hoffmann diseñaron piezas de madera curvada para Thonet y otros fabricantes."
+     },
+     "refs": []
+    },
+    "links": [],
+    "connections": []
+   }
+  ],
+  "retiros": [
+   {
+    "motivo": "duplica ctx-star-architecture",
+    "tipo": "movement",
+    "registro": {
+     "id": "iconic-architecture",
+     "level": "normal",
+     "disciplines": [
+      "architecture"
+     ],
+     "start": 1997,
+     "end": 2012,
+     "fadeIn": 1,
+     "fadeOut": 2,
+     "regions": [
+      "europe",
+      "north-america",
+      "global"
+     ],
+     "countries": [
+      "ES",
+      "US",
+      "GB"
+     ],
+     "name": "Iconic architecture and the Bilbao effect",
+     "short": "Iconic architecture",
+     "key": "The pursuit of spectacular landmark buildings, often museums, as a means of giving a city a new image and economy, after the Guggenheim Museum Bilbao.",
+     "traits": [
+      "Sculptural, unmistakable buildings",
+      "Famous architects as a brand",
+      "Museums and cultural buildings as urban strategy",
+      "City marketing through architecture"
+     ],
+     "context": "The Guggenheim Museum Bilbao, designed by Frank Gehry and opened in 1997, drew crowds to a declining industrial city, and the term ‘Bilbao effect’ was coined for the hope that a single landmark can renew a city. Many cities commissioned famous architects for similar buildings in the following years.",
+     "shift": "From the building as a response to a programme to the building as an image that brands a city. The model also drew criticism: the same few architects built similar landmarks in many places, and the results were uneven.",
+     "links": {
+      "movements": [],
+      "institutions": [],
+      "designers": [],
+      "works": [
+       "guggenheim-bilbao-1997"
+      ]
+     },
+     "es": {
+      "name": "Arquitectura icónica y efecto Bilbao",
+      "short": "Arquitectura icónica",
+      "key": "La búsqueda de edificios espectaculares, a menudo museos, como medio de dar a una ciudad una nueva imagen y economía, a partir del Guggenheim de Bilbao.",
+      "traits": [
+       "Edificios escultóricos e inconfundibles",
+       "Arquitectos famosos como marca",
+       "Museos y edificios culturales como estrategia urbana",
+       "Marketing de ciudad a través de la arquitectura"
+      ],
+      "context": "El Museo Guggenheim de Bilbao, diseñado por Frank Gehry e inaugurado en 1997, atrajo multitudes a una ciudad industrial en declive, y se acuñó el término «efecto Bilbao» para la esperanza de que un solo edificio emblemático pueda renovar una ciudad. Muchas ciudades encargaron en los años siguientes edificios parecidos a arquitectos famosos.",
+      "shift": "Del edificio como respuesta a un programa al edificio como imagen que da marca a una ciudad. El modelo también recibió críticas: los mismos pocos arquitectos levantaron hitos parecidos en muchos lugares y los resultados fueron desiguales."
+     },
+     "refs": []
+    },
+    "links": [
+     {
+      "ctx": "ctx-design-museums",
+      "item": "iconic-architecture",
+      "note": "As museums became a way of marketing cities, spectacular buildings were commissioned as urban brands, on the model of Bilbao.",
+      "es": {
+       "note": "Cuando los museos se volvieron una forma de promocionar ciudades, se encargaron edificios espectaculares como marcas urbanas, según el modelo de Bilbao."
+      },
+      "refs": []
+     }
+    ],
+    "connections": []
+   },
+   {
+    "motivo": "duplica inst-droog",
+    "tipo": "movement",
+    "registro": {
+     "id": "droog-design",
+     "level": "normal",
+     "disciplines": [
+      "product"
+     ],
+     "start": 1993,
+     "end": null,
+     "fadeIn": 1,
+     "fadeOut": 0,
+     "regions": [
+      "europe"
+     ],
+     "countries": [
+      "NL"
+     ],
+     "name": "Droog Design",
+     "short": "Droog",
+     "key": "A Dutch collective of designers, founded in 1993 by Gijs Bakker and Renny Ramakers, known for dry, witty and conceptual objects made from everyday and reused things.",
+     "traits": [
+      "Wit and understatement, the ‘dry’ humour its name suggests",
+      "Reuse of ordinary objects and materials",
+      "An idea expressed in a simple object",
+      "Collections shown as a group rather than a style",
+      "Design as a commentary on everyday habits"
+     ],
+     "context": "Gijs Bakker and Renny Ramakers presented the first Droog collection at the Milan furniture fair in 1993; the Dutch word ‘droog’ means dry. Among the early pieces were Tejo Remy’s chest of drawers made of stacked drawers, Rody Graumans’ 85 Lamps and, from 1996, Marcel Wanders’ Knotted Chair. It emerged in the Netherlands in the context of postmodern culture, with its taste for irony and for rereading the ordinary.",
+     "shift": "From the finished, anonymous product to an object that tells a story and asks the user to think. Droog showed that a small Dutch group could win an international audience for concept and humour, and it later also ran its own shop and consultancy.",
+     "es": {
+      "name": "Droog Design",
+      "short": "Droog",
+      "key": "Un colectivo neerlandés de diseñadores, fundado en 1993 por Gijs Bakker y Renny Ramakers, conocido por objetos secos, ingeniosos y conceptuales hechos con cosas cotidianas y reutilizadas.",
+      "traits": [
+       "Ingenio y subestimación, el humor «seco» que sugiere su nombre",
+       "Reutilización de objetos y materiales corrientes",
+       "Una idea expresada en un objeto simple",
+       "Colecciones mostradas como grupo y no como estilo",
+       "Diseño como comentario sobre los hábitos cotidianos"
+      ],
+      "context": "Gijs Bakker y Renny Ramakers presentaron la primera colección de Droog en la feria del mueble de Milán en 1993; la palabra neerlandesa «droog» significa seco. Entre las primeras piezas estuvieron la cómoda de cajones apilados de Tejo Remy, las 85 Lamps de Rody Graumans y, desde 1996, la Knotted Chair de Marcel Wanders. Surgió en los Países Bajos en el contexto de la cultura posmoderna, con su gusto por la ironía y por releer lo corriente.",
+      "shift": "Del producto terminado y anónimo a un objeto que cuenta una historia y pide al usuario pensar. Droog mostró que un grupo pequeño de los Países Bajos podía ganar un público internacional con concepto y humor, y más tarde tuvo también su propia tienda y consultoría."
+     },
+     "refs": [],
+     "links": {
+      "institutions": [
+       "inst-droog"
+      ]
+     }
+    },
+    "links": [],
+    "connections": []
+   },
+   {
+    "motivo": "duplica el diseñador colectivo archigram",
+    "tipo": "institution",
+    "registro": {
+     "id": "inst-archigram",
+     "level": "normal",
+     "kind": "studio",
+     "disciplines": [
+      "architecture"
+     ],
+     "start": 1961,
+     "end": 1974,
+     "place": "London",
+     "regions": [
+      "europe"
+     ],
+     "countries": [
+      "GB"
+     ],
+     "name": "Archigram",
+     "short": "Archigram",
+     "key": "A British group of architects who imagined mobile, technological cities and capsules in drawings and a magazine, and inspired high-tech architecture.",
+     "more": "The group formed in London around the magazine Archigram, first issued in 1961, with Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb and David Greene. It is best known for Plug-in City and Walking City (both 1964), which drew on space-age images, consumer goods and pop art. It built little, but its drawings influenced later architects.",
+     "links": {
+      "movements": [
+       "radical-design"
+      ],
+      "institutions": [],
+      "designers": [],
+      "works": []
+     },
+     "es": {
+      "name": "Archigram",
+      "short": "Archigram",
+      "place": "Londres",
+      "key": "Un grupo británico de arquitectos que imaginó en dibujos y en una revista ciudades y cápsulas móviles y tecnológicas, e inspiró la arquitectura high-tech.",
+      "more": "El grupo se formó en Londres en torno a la revista Archigram, cuyo primer número salió en 1961, con Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb y David Greene. Es más conocido por Plug-in City y Walking City (ambas de 1964), que se nutrieron de imágenes de la era espacial, bienes de consumo y arte pop. Construyó poco, pero sus dibujos influyeron en arquitectos posteriores."
+     },
+     "refs": []
+    },
+    "links": [],
+    "connections": []
+   }
+  ],
+  "reserva_D7": [
+   {
+    "motivo": "decisión D7 del V4",
+    "tipo": "work",
+    "registro": {
+     "id": "angel-independencia-1910",
+     "level": "normal",
+     "discipline": "architecture",
+     "type": "monument",
+     "title": "Angel of Independence, Mexico City",
+     "designers": [
+      "antonio-rivas-mercado"
+     ],
+     "maker": null,
+     "client": "Government of Porfirio Díaz",
+     "year": 1910,
+     "date": "1910",
+     "regions": [
+      "latin-america"
+     ],
+     "countries": [
+      "MX"
+     ],
+     "materials": "Stone column, gilded bronze sculpture",
+     "tech": [],
+     "key": "The column on Mexico City’s Paseo de la Reforma, topped by a gilded winged Victory, inaugurated in 1910 for the centenary of independence.",
+     "more": "Antonio Rivas Mercado designed the column and the monument was inaugurated on 16 September 1910, during the centenary celebrations of the Díaz government. A winged Victory in gilded bronze crowns it, and at its base lie the remains of figures of the independence movement. The 1957 earthquake brought the figure down; it was restored and the monument is now a symbol of the city.",
+     "status": "Standing on the Paseo de la Reforma; the figure was restored after the 1957 earthquake.",
+     "es": {
+      "title": "Ángel de la Independencia, Ciudad de México",
+      "date": "1910",
+      "materials": "Columna de piedra, escultura de bronce dorado",
+      "key": "La columna del Paseo de la Reforma en Ciudad de México, coronada por una Victoria alada dorada e inaugurada en 1910 para el Centenario de la independencia.",
+      "more": "Antonio Rivas Mercado proyectó la columna y el monumento se inauguró el 16 de septiembre de 1910, en las fiestas del Centenario del gobierno de Díaz. Lo corona una Victoria alada de bronce dorado, y en su base descansan restos de figuras de la independencia. El terremoto de 1957 derribó la figura; se restauró y hoy el monumento es un símbolo de la ciudad.",
+      "status": "Se conserva en el Paseo de la Reforma; la figura se restauró tras el terremoto de 1957."
+     },
+     "refs": []
+    },
+    "links": [
+     {
+      "ctx": "ctx-latam-centenaries-1910",
+      "item": "angel-independencia-1910",
+      "note": "The Díaz government inaugurated the column in 1910 as the centrepiece of the independence centenary festivities.",
+      "es": {
+       "note": "El gobierno de Díaz inauguró la columna en 1910 como pieza central de las fiestas del Centenario de la independencia."
+      },
+      "refs": []
+     }
+    ],
+    "connections": []
+   },
+   {
+    "motivo": "decisión D7 del V4",
+    "tipo": "work",
+    "registro": {
+     "id": "torres-siamesas-2005",
+     "level": "normal",
+     "discipline": "architecture",
+     "type": "building",
+     "title": "Siamese Towers of the UC",
+     "short": "Siamese Towers",
+     "designers": [
+      "alejandro-aravena"
+     ],
+     "client": "Pontificia Universidad Católica de Chile",
+     "year": 2005,
+     "date": "2005",
+     "regions": [
+      "latin-america"
+     ],
+     "countries": [
+      "CL"
+     ],
+     "materials": "Reinforced concrete, glass",
+     "tech": [],
+     "key": "Two joined towers by Alejandro Aravena for the San Joaquín campus of the Universidad Católica in Santiago.",
+     "more": "Designed by Aravena with Alfonso Montero for the Pontificia Universidad Católica de Chile, they are two tall volumes of offices and classrooms standing side by side and joined to each other, which gave the campus a recognisable emblem. The building was among the works that made Aravena known in Chile before Elemental’s social housing reached the international press.",
+     "status": "In use by the university.",
+     "es": {
+      "title": "Torres Siamesas de la UC",
+      "short": "Torres Siamesas",
+      "date": "2005",
+      "materials": "Hormigón armado, vidrio",
+      "key": "Dos torres unidas de Alejandro Aravena para el campus San Joaquín de la Universidad Católica, en Santiago.",
+      "more": "Proyectadas por Aravena con Alfonso Montero para la Pontificia Universidad Católica de Chile, son dos volúmenes altos de oficinas y salas que se alzan lado a lado, unidos entre sí, y que dieron al campus un emblema reconocible. El edificio fue una de las obras que dieron a conocer a Aravena en Chile antes de que la vivienda social de Elemental llegara a la prensa internacional.",
+      "status": "En uso por la universidad."
+     },
+     "refs": []
+    },
+    "links": [],
+    "connections": []
+   },
+   {
+    "motivo": "decisión D7 del V4",
+    "tipo": "work",
+    "registro": {
+     "id": "where-the-wild-things-are-1963",
+     "level": "normal",
+     "discipline": "graphic",
+     "type": "book",
+     "title": "Where the Wild Things Are",
+     "designers": [
+      "maurice-sendak"
+     ],
+     "maker": "Harper & Row",
+     "year": 1963,
+     "date": "1963",
+     "regions": [
+      "north-america"
+     ],
+     "countries": [
+      "US"
+     ],
+     "materials": "Pen and ink with watercolour, printed offset on paper",
+     "tech": [],
+     "key": "Maurice Sendak’s picture book of 1963, in which the pictures grow across the pages as a boy sails to the land of the wild things.",
+     "more": "Sendak wrote and drew the book, published in New York by Harper & Row in 1963. Its ink drawings with fine cross-hatching and soft colour tell much of the story through the pictures, which spread to fill the page and then the whole spread as the boy’s imagination takes over. The book won the Caldecott Medal for picture books and showed that a picture book for children could be an author’s work, with a personal and sometimes dark vision.",
+     "status": "In print and reissued in many editions and languages.",
+     "es": {
+      "date": "1963",
+      "materials": "Pluma y tinta con acuarela, impreso en offset sobre papel",
+      "key": "El álbum ilustrado de Maurice Sendak de 1963, donde las imágenes crecen por las páginas mientras un niño navega hacia la tierra de los monstruos.",
+      "more": "Sendak escribió y dibujó el libro, publicado en Nueva York por Harper & Row en 1963. Sus dibujos a tinta con fino rayado cruzado y color suave cuentan buena parte de la historia mediante las imágenes, que se extienden hasta llenar la página y luego todo el pliego a medida que la imaginación del niño toma el control. El libro ganó la Medalla Caldecott de libros ilustrados y mostró que un álbum para niños podía ser obra de autor, con una visión personal y a veces oscura.",
+      "status": "Sigue en circulación, reeditado en muchas ediciones e idiomas.",
+      "title": "Donde viven los monstruos"
+     },
+     "refs": []
+    },
+    "links": [
+     {
+      "ctx": "ctx-baby-boom-suburbs",
+      "item": "where-the-wild-things-are-1963",
+      "note": "The postwar baby boom created a large child audience; publishers answered with picture books, and Sendak made one as an author’s work.",
+      "es": {
+       "note": "El baby boom de posguerra creó un gran público infantil; las editoriales respondieron con álbumes ilustrados, y Sendak hizo uno como obra de autor."
+      },
+      "refs": []
+     }
+    ],
+    "connections": []
+   },
+   {
+    "motivo": "decisión D7 del V4",
+    "tipo": "work",
+    "registro": {
+     "id": "alamillo-bridge-1992",
+     "level": "normal",
+     "discipline": "architecture",
+     "type": "building",
+     "title": "Alamillo Bridge, Seville",
+     "designers": [
+      "santiago-calatrava"
+     ],
+     "maker": null,
+     "client": "Expo 92",
+     "year": 1992,
+     "date": "1992",
+     "regions": [
+      "europe"
+     ],
+     "countries": [
+      "ES"
+     ],
+     "materials": "Steel, concrete",
+     "tech": [],
+     "key": "Santiago Calatrava’s cable-stayed bridge in Seville, held by a single pylon that leans back with no rear stays.",
+     "more": "Calatrava built the bridge for the 1992 Expo, to connect the Isla de la Cartuja site with the city across the Guadalquivir. A single inclined pylon holds the deck by cables on one side only, and its own weight balances the load, so no back stays are needed. It became one of the symbols of the Expo.",
+     "status": "Exists and is in use.",
+     "es": {
+      "title": "Puente del Alamillo, Sevilla",
+      "date": "1992",
+      "materials": "Acero, hormigón",
+      "key": "El puente atirantado de Santiago Calatrava en Sevilla, sostenido por un único pilón inclinado hacia atrás y sin tirantes traseros.",
+      "more": "Calatrava construyó el puente para la Expo de 1992, para unir el recinto de la isla de la Cartuja con la ciudad a través del Guadalquivir. Un solo pilón inclinado sostiene el tablero con cables por un solo lado, y su propio peso equilibra la carga, de modo que no necesita tirantes traseros. Se volvió uno de los símbolos de la Expo.",
+      "status": "Existe y está en uso."
+     },
+     "refs": []
+    },
+    "links": [
+     {
+      "ctx": "ctx-spain-transition-eu",
+      "item": "alamillo-bridge-1992",
+      "note": "The 1992 Expo funded landmark infrastructure; Seville got a bridge whose single leaning pylon needs no rear stays.",
+      "es": {
+       "note": "La Expo de 1992 financió infraestructura emblemática; Sevilla recibió un puente cuyo único pilón inclinado no necesita tirantes traseros."
+      },
+      "refs": []
+     }
+    ],
+    "connections": []
+   },
+   {
+    "motivo": "diseñador sin obras tras la decisión D7",
+    "tipo": "designer",
+    "registro": {
+     "id": "antonio-rivas-mercado",
+     "level": "normal",
+     "kind": "person",
+     "disciplines": [
+      "architecture"
+     ],
+     "born": 1853,
+     "died": 1927,
+     "dates": "1853–1927",
+     "countries": [
+      "MX"
+     ],
+     "regions": [
+      "latin-america"
+     ],
+     "name": "Antonio Rivas Mercado",
+     "movements": [],
+     "institutions": [],
+     "key": "Mexican architect who designed the Angel of Independence monument in Mexico City, opened in 1910.",
+     "more": "Born in Mexico City, he trained in Paris and worked in the academic tradition. He designed the Teatro Juárez in Guanajuato, inaugurated in 1903, and the Column of Independence, known as the Angel, in Mexico City, opened in 1910 for the centenary of independence. He also directed the Academy of San Carlos. He died in 1927.",
+     "es": {
+      "dates": "1853–1927",
+      "key": "Arquitecto mexicano que proyectó el monumento al Ángel de la Independencia en Ciudad de México, inaugurado en 1910.",
+      "more": "Nacido en Ciudad de México, se formó en París y trabajó dentro de la tradición académica. Proyectó el Teatro Juárez de Guanajuato, inaugurado en 1903, y la Columna de la Independencia, conocida como el Ángel, en Ciudad de México, inaugurada en 1910 para el centenario de la independencia. También dirigió la Academia de San Carlos. Murió en 1927."
+     },
+     "refs": []
+    },
+    "links": [],
+    "connections": []
+   },
+   {
+    "motivo": "diseñador sin obras tras la decisión D7",
+    "tipo": "designer",
+    "registro": {
+     "id": "maurice-sendak",
+     "level": "normal",
+     "kind": "person",
+     "disciplines": [
+      "graphic"
+     ],
+     "born": 1928,
+     "died": 2012,
+     "dates": "1928–2012",
+     "countries": [
+      "US"
+     ],
+     "regions": [
+      "north-america"
+     ],
+     "name": "Maurice Sendak",
+     "movements": [],
+     "institutions": [],
+     "key": "American illustrator and author who made the picture book a vehicle for a personal, emotionally honest vision of childhood.",
+     "more": "Born in Brooklyn in 1928, he illustrated many children’s books before writing his own. Where the Wild Things Are (1963) won him the Caldecott Medal and is his best-known book. He died in 2012.",
+     "es": {
+      "dates": "1928–2012",
+      "key": "Ilustrador y autor estadounidense que hizo del álbum ilustrado un vehículo para una visión personal y emocionalmente honesta de la infancia.",
+      "more": "Nacido en Brooklyn en 1928, ilustró muchos libros infantiles antes de escribir los suyos. Donde viven los monstruos (1963) le valió la Medalla Caldecott y es su libro más conocido. Murió en 2012."
+     },
+     "refs": []
+    },
+    "links": [
+     {
+      "ctx": "ctx-baby-boom-suburbs",
+      "item": "maurice-sendak",
+      "note": "The baby boom enlarged the child audience and school libraries, so the picture book grew into an author’s genre; Sendak made it a personal art form.",
+      "es": {
+       "note": "El baby boom amplió el público infantil y las bibliotecas escolares, y el álbum ilustrado se volvió género de autor; Sendak lo hizo un arte personal."
+      },
+      "refs": []
+     }
+    ],
+    "connections": []
+   },
+   {
+    "motivo": "diseñador sin obras tras la decisión D7",
+    "tipo": "designer",
+    "registro": {
+     "id": "santiago-calatrava",
+     "level": "normal",
+     "kind": "person",
+     "disciplines": [
+      "architecture"
+     ],
+     "born": 1951,
+     "died": null,
+     "dates": "b. 1951",
+     "countries": [
+      "ES"
+     ],
+     "regions": [
+      "europe"
+     ],
+     "name": "Santiago Calatrava",
+     "movements": [],
+     "key": "Spanish architect and engineer whose bridges, stations and cultural buildings use sculptural, skeleton-like structures that became urban icons.",
+     "more": "Born in Valencia in 1951, he studied architecture in Valencia and civil engineering in Zurich, where he opened his practice. His work joins structural engineering and sculptural form, as in the Alamillo Bridge in Seville (1992) and the City of Arts and Sciences in Valencia. He also designed the Oculus transport hub at the World Trade Center site in New York.",
+     "es": {
+      "dates": "n. 1951",
+      "key": "Arquitecto e ingeniero español cuyos puentes, estaciones y edificios culturales usan estructuras escultóricas, como esqueletos, que se volvieron iconos urbanos.",
+      "more": "Nacido en Valencia en 1951, estudió arquitectura en Valencia e ingeniería civil en Zúrich, ciudad donde abrió su oficina. Su obra une ingeniería estructural y forma escultórica, como en el puente del Alamillo en Sevilla (1992) y la Ciudad de las Artes y las Ciencias en Valencia. También diseñó el Oculus, el centro de transporte del sitio del World Trade Center en Nueva York."
+     },
+     "refs": []
+    },
+    "links": [],
+    "connections": []
+   }
+  ]
+ }
+}

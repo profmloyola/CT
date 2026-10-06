@@ -1,0 +1,116 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-american-system",
+  "name": "American system of manufactures",
+  "name_es": "Sistema estadounidense de manufactura (piezas intercambiables)",
+  "track": "economic",
+  "start": 1800,
+  "end": 1880,
+  "date": "c. 1800–1880",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "Explica la producción en serie de piezas intercambiables que precede al fordismo y da forma a la máquina de coser, la máquina de escribir y el automóvil.",
+  "explica": [
+   {
+    "id": "singer-sewing-machine",
+    "mecanismo": "Piezas intercambiables y montaje en serie → máquina doméstica barata, vendida a plazos"
+   },
+   {
+    "id": "remington-no1",
+    "mecanismo": "Una fábrica de armas aplica su manufactura de piezas intercambiables a la máquina de escribir"
+   },
+   {
+    "id": "ford-model-t",
+    "mecanismo": "La tradición de piezas intercambiables culmina en un modelo único fabricado en cadena"
+   }
+  ],
+  "era": "industrial",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-american-system",
+    "item": "singer-sewing-machine",
+    "mecanismo": "Piezas intercambiables y montaje en serie → máquina doméstica barata, vendida a plazos"
+   },
+   {
+    "ctx": "ctx-american-system",
+    "item": "remington-no1",
+    "mecanismo": "Una fábrica de armas aplica su manufactura de piezas intercambiables a la máquina de escribir"
+   },
+   {
+    "ctx": "ctx-american-system",
+    "item": "ford-model-t",
+    "mecanismo": "La tradición de piezas intercambiables culmina en un modelo único fabricado en cadena"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-photography",
+  "name": "Photography",
+  "name_es": "Fotografía",
+  "track": "technological",
+  "start": 1839,
+  "end": null,
+  "date": "1839 →",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "GB"
+  ],
+  "prioridad": "A",
+  "curso": "La fotografía cambia la imagen impresa, el retrato y la mirada de la vanguardia; sin ella no se explican la Nueva Visión ni el fotomontaje.",
+  "explica": [
+   {
+    "id": "new-vision",
+    "mecanismo": "La cámara se vuelve instrumento de vanguardia → encuadres en picado, primeros planos y foto como material de diseño"
+   },
+   {
+    "id": "th-painting-photography-film",
+    "mecanismo": "Un siglo de fotografía permite a Moholy-Nagy pensar la luz como medio → programa de la «tipofoto»"
+   },
+   {
+    "id": "kodak-no1",
+    "mecanismo": "La fotografía, antes técnica de especialistas, se lleva a una caja simple y a un servicio de revelado"
+   }
+  ],
+  "era": "industrial",
+  "reserva_origen": "industrial_etapa5",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-photography",
+    "item": "new-vision",
+    "mecanismo": "La cámara se vuelve instrumento de vanguardia → encuadres en picado, primeros planos y foto como material de diseño"
+   },
+   {
+    "ctx": "ctx-photography",
+    "item": "th-painting-photography-film",
+    "mecanismo": "Un siglo de fotografía permite a Moholy-Nagy pensar la luz como medio → programa de la «tipofoto»"
+   },
+   {
+    "ctx": "ctx-photography",
+    "item": "kodak-no1",
+    "mecanismo": "La fotografía, antes técnica de especialistas, se lleva a una caja simple y a un servicio de revelado"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

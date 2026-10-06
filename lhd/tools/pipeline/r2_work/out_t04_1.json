@@ -1,0 +1,254 @@
+[
+ {
+  "id": "mole-armchair",
+  "en": {
+   "key": "Sergio Rodrigues’s squat armchair of jacaranda wood with thick leather cushions, designed in 1957 and a landmark of Brazilian modern furniture.[1][2]",
+   "more": "Rodrigues designed the Mole (‘soft’) armchair in 1957; the name refers to its relaxed, soft look.[1] For years it stood in the window of his firm OCA’s showroom in Ipanema, Rio de Janeiro, before it won recognition abroad.[1] A jacaranda frame carries overstuffed, tufted leather cushions over a sling of leather straps and buckles.[1][2] It won first prize at the IV Concorso Internazionale del Mobile in Cantù, Italy, in 1961,[1][2] and entered the MoMA collection in 1974.[2]"
+  },
+  "es": {
+   "key": "El sillón bajo y robusto de Sergio Rodrigues, de madera de jacarandá con gruesos cojines de cuero, diseñado en 1957 y pieza emblemática del mueble moderno brasileño.[1][2]",
+   "more": "Rodrigues diseñó el sillón Mole («blando») en 1957; el nombre alude a su aspecto relajado y blando.[1] Durante años estuvo en la vitrina del local de su empresa OCA en Ipanema, Río de Janeiro, antes de ser reconocido en el extranjero.[1] Una estructura de jacarandá sostiene cojines de cuero abultados y acolchados sobre un entramado de correas y hebillas de cuero.[1][2] Ganó el primer premio del IV Concorso Internazionale del Mobile en Cantù, Italia, en 1961,[1][2] y entró a la colección del MoMA en 1974.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Metropolitan Museum of Art, «Mole Armchair and Ottoman»",
+    "url": "https://www.metmuseum.org/art/collection/search/772912",
+    "checks": "Sergio Rodrigues; diseñado en 1957; jacarandá y cuero; la pieza estuvo años en la vitrina del local de OCA en Ipanema; primer premio en el IV Concorso Internazionale del Mobile de Cantù, 1961; cojines de cuero acolchados sobre correas y hebillas; nombre por su aspecto blando. ⚠ no menciona clavijas de madera ni «madera maciza».",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "AP vía WTOP, «Brazilian designer Sergio Rodrigues dies at 86»",
+    "url": "https://wtop.com/news/2014/09/brazilian-designer-sergio-rodrigues-dies-at-86/",
+    "checks": "Mole de 1957, estructura de madera con cojines de cuero y correas; primer lugar en Cantù 1961; en la colección permanente del MoMA desde 1974; originalmente de jacarandá. ⚠ fuente periodística (obituario).",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «wide, low» y «solid»: ninguna fuente lo confirma (se usa «squat» del obituario AP).",
+   "Quité «visible wooden pegs»: no confirmado; las fuentes hablan de correas y hebillas de cuero.",
+   "Quité que el premio «brought Brazilian design wider notice» (interpretación) y la fundación de OCA como «empresa de Río»: solo consta el local en Ipanema.",
+   "Campo status («Se sigue fabricando en Brasil») no tocado: el obituario AP dice que la producción pasó de jacarandá a eucalipto y marfilwood; materials también queda sin tocar."
+  ]
+ },
+ {
+  "id": "balenciaga-sack-dress",
+  "en": {
+   "key": "Cristóbal Balenciaga’s loose dress of 1957, which hung from the shoulders without a marked waist and broke with the fitted line of Dior’s New Look.[1][2][3]",
+   "more": "Balenciaga, a Spanish couturier working in Paris, simplified his designs through the 1950s toward geometric forms, free-standing structures suspended from the shoulders rather than shapes sculpted on the body.[1][2][3] His sack, or chemise, of 1957 hung loosely from the shoulders, skimming and enveloping the body instead of enforcing an hourglass.[1][3] The press ridiculed it and ready-to-wear makers lost money on it at first, but after several seasons it became mainstream fashion.[2] Carmel Snow of Harper’s Bazaar championed it,[3] and it anticipated the shift dresses of the 1960s.[1]"
+  },
+  "es": {
+   "key": "El vestido suelto de Cristóbal Balenciaga de 1957, que caía desde los hombros sin cintura marcada y rompía con la línea entallada del New Look de Dior.[1][2][3]",
+   "more": "Balenciaga, un modisto español que trabajaba en París, simplificó sus diseños a lo largo de los años cincuenta hacia formas geométricas, estructuras independientes suspendidas de los hombros en vez de formas esculpidas sobre el cuerpo.[1][2][3] Su vestido saco o camisero de 1957 caía suelto desde los hombros, rozando y envolviendo el cuerpo en vez de imponer un reloj de arena.[1][3] Al principio la prensa se burló de él y los fabricantes de confección perdieron dinero, pero tras varias temporadas se volvió moda corriente.[2] Carmel Snow, de Harper’s Bazaar, lo defendió,[3] y anticipó los vestidos rectos de los años sesenta.[1]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Dress, Cristóbal Balenciaga» (O109277)",
+    "url": "https://collections.vam.ac.uk/item/O109277/dress-cristobal-balenciaga",
+    "checks": "Vestido «saco» de 1957-1958 hecho en París, de lana; cuelga suelto de los hombros; recto frente al reloj de arena de Dior; anticipa los vestidos rectos de los sesenta; Balenciaga simplificó sus creaciones durante los cincuenta hacia formas geométricas.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "RISD Museum, «Chemise dress»",
+    "url": "https://risdmuseum.org/art_design/objects/1147_chemise_dress",
+    "checks": "Balenciaga, español, hacia 1957; también llamado «saco»; líneas relajadas frente a los hombros angostos y cintura marcada del New Look de Dior; las mujeres que lo adoptaron fueron ridiculizadas en la prensa y la confección perdió dinero; tras varias temporadas se volvió moda corriente.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "FIDM Museum, «Balenciaga»",
+    "url": "https://fidmmuseum.org/learn/articles/balenciaga",
+    "checks": "Silueta saco (camisera) introducida en 1957; «rozaba y envolvía el cuerpo»; frente al New Look de Dior; Carmel Snow la defendió; llegó a dominar y evolucionó hacia el vestido corto de los sesenta. ⚠ artículo divulgativo de museo.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «quickly copied in ready-made clothing»: RISD dice que la confección industrial perdió dinero al principio y que la resistencia cedió tras varias temporadas.",
+   "Quité «loosened the waist since the early 1950s»: las fuentes dicen que simplificó sus formas durante los cincuenta (el Museo Balenciaga la sitúa tras la línea «barril»), no una fecha de inicio.",
+   "«led to the chemise dresses of the late 1950s» pasó a: saco y camisero son la misma silueta (Met, FIDM); lo que se confirma es que anticipó los vestidos rectos de los sesenta.",
+   "Campos materials y status no tocados: V&A describe un ejemplar de lana con forro de seda; no se confirma «seda y otras telas» ni los archivos Balenciaga."
+  ]
+ },
+ {
+  "id": "brasilia-plano-piloto",
+  "en": {
+   "key": "The new Brazilian capital, whose Pilot Plan Lúcio Costa laid out on two intersecting axes and whose main public buildings Oscar Niemeyer designed.[1][2]",
+   "more": "Lúcio Costa designed the Pilot Plan, built between 1956 and 1960 as part of President Juscelino Kubitschek’s modernisation project.[1] Two intersecting axes structure it: a monumental east-west axis for administrative functions and a curved north-south axis that follows the terrain, with residents in six-storey superblocks raised on pylons.[1] Oscar Niemeyer designed the official buildings,[1][2] among them the Congress, the Planalto Palace and the Supreme Court around the Praça dos Três Poderes, dedicated on 21 April 1960 when the federal government began moving from Rio de Janeiro.[2] UNESCO inscribed the city in 1987.[1]"
+  },
+  "es": {
+   "key": "La nueva capital de Brasil, cuyo Plan Piloto trazó Lúcio Costa sobre dos ejes que se cruzan y cuyos principales edificios públicos proyectó Oscar Niemeyer.[1][2]",
+   "more": "Lúcio Costa proyectó el Plan Piloto, construido entre 1956 y 1960 como parte del proyecto de modernización del presidente Juscelino Kubitschek.[1] Lo estructuran dos ejes que se cruzan: un eje monumental este-oeste para las funciones administrativas y un eje curvo norte-sur que sigue el terreno, con vivienda en superbloques de seis pisos sobre pilotes.[1] Oscar Niemeyer proyectó los edificios oficiales,[1][2] entre ellos el Congreso, el Palacio del Planalto y el Supremo Tribunal en torno a la Plaza de los Tres Poderes, inaugurada el 21 de abril de 1960 cuando el gobierno federal comenzó a trasladarse desde Río de Janeiro.[2] La UNESCO inscribió la ciudad en 1987.[1]"
+  },
+  "refs": [
+   {
+    "label": "UNESCO World Heritage Centre, «Brasilia»",
+    "url": "https://whc.unesco.org/en/list/445/",
+    "checks": "Lúcio Costa, Plan Piloto; Niemeyer, edificios oficiales; Kubitschek; construcción 1956-1960; dos ejes que se cruzan (monumental este-oeste, curvo norte-sur); superbloques de seis pisos sobre pilotes; Plaza de los Tres Poderes; inscrita en 1987.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica Students, «Brasília»",
+    "url": "https://kids.britannica.com/students/article/Bras%C3%ADlia/273335",
+    "checks": "Costa trazó la ciudad y Niemeyer proyectó sus estructuras principales; el 21 de abril de 1960 se inauguró la Plaza de los Tres Poderes y comenzó el traslado del gobierno desde Río; Congreso, Planalto y Supremo Tribunal; patrimonio UNESCO 1987. ⚠ versión para estudiantes.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «won the 1957 competition»: ninguna fuente consultada lo confirma (el campo year 1957 queda sin tocar, por verificar).",
+   "Quité «functions kept apart and traffic separated from pedestrians», «white concrete with bold curves» y los materiales (hormigón pretensado, vidrio): no confirmados.",
+   "«Cross of two axes» pasó a «dos ejes que se cruzan»; el eje residencial es en la fuente un eje norte-sur curvo.",
+   "«In a few years»/«in the interior»: se reemplazó por 1956-1960, que sí consta."
+  ]
+ },
+ {
+  "id": "egg-chair",
+  "en": {
+   "key": "Arne Jacobsen’s upholstered armchair of 1958 with a curved shell and a high back that gives the sitter privacy, designed for the Royal Hotel in Copenhagen.[1][2]",
+   "more": "Jacobsen designed it for the lobby and reception area of the Copenhagen hotel, and the high back was conceived to give the sitter a degree of privacy in those public spaces.[1] The Met describes ox-hide stretched over a foam-padded moulded plastic frame, with aluminium,[2] and the V&A lists a moulded polystyrene shell, black leather and a cast aluminium base with four prongs.[1] Fritz Hansen made it and it is still in production.[1]"
+  },
+  "es": {
+   "key": "El sillón tapizado de Arne Jacobsen de 1958, con una carcasa curva y un respaldo alto que da privacidad a quien se sienta, diseñado para el Hotel Royal de Copenhague.[1][2]",
+   "more": "Jacobsen lo diseñó para el vestíbulo y la recepción del hotel de Copenhague, y el respaldo alto se concibió para dar cierta privacidad en esos espacios públicos.[1] El Met describe cuero de buey estirado sobre una estructura de plástico moldeado acolchada con espuma, con aluminio,[2] y el V&A consigna una carcasa de poliestireno moldeado, cuero negro y una base de aluminio fundido con cuatro puntas.[1] Lo fabricó Fritz Hansen y sigue en producción.[1]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Egg armchair» (O137614)",
+    "url": "https://collections.vam.ac.uk/item/O137614/egg-armchair-armchair-jacobsen-arne-emil",
+    "checks": "Diseñado en 1958 para el Royal Hotel de Copenhague (1956-1961); pensado para el vestíbulo y la recepción, con respaldo alto para dar privacidad; poliestireno moldeado, cuero negro, base de aluminio fundido de cuatro puntas; Fritz Hansen; sigue en producción. ⚠ la ficha dice «Royal Hotel», sin «SAS».",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «“Egg” Armchair»",
+    "url": "https://www.metmuseum.org/art/collection/search/489205",
+    "checks": "1958; originalmente para el SAS Royal Hotel de Copenhague; cuero de buey sobre estructura de plástico moldeado acolchada con espuma; aluminio.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «which he also designed» (el hotel): ninguna fuente lo dice en lo consultado.",
+   "Quité «base giratoria» y «rigid inner shell»: las fuentes hablan de base de aluminio de cuatro puntas y de carcasa/estructura de plástico o poliestireno moldeado.",
+   "Quité que la espuma «permitió una forma difícil con estructura de madera» (interpretación). materials queda sin tocar (V&A habla de poliestireno, el Met de plástico con espuma; «tela o cuero» solo se confirma cuero)."
+  ]
+ },
+ {
+  "id": "seagram-building",
+  "en": {
+   "key": "Mies van der Rohe’s bronze-and-glass tower on Park Avenue in New York, built for Joseph E. Seagram & Sons and set 100 feet back from the street behind an open plaza.[1]",
+   "more": "The 38-storey steel-frame tower was built between 1956 and 1958 for Joseph E. Seagram & Sons, with Philip Johnson as associated architect.[1] Its curtain wall has about 153,000 square feet of bronze and 122,000 of pinkish-grey tinted glass, and bronze I-beam extrusions on the exterior express its structure.[1] The tower stands 100 feet back from Park Avenue and covers only 52 per cent of its site.[1] The Landmarks Preservation Commission notes that its plaza influenced the 1961 zoning revision, which allowed larger buildings where public plazas were provided,[1] and it designated the building a landmark on 3 October 1989.[1]"
+  },
+  "es": {
+   "key": "La torre de bronce y vidrio de Mies van der Rohe en Park Avenue, Nueva York, construida para Joseph E. Seagram & Sons y retirada 100 pies de la calle tras una plaza abierta.[1]",
+   "more": "La torre de acero de 38 pisos se construyó entre 1956 y 1958 para Joseph E. Seagram & Sons, con Philip Johnson como arquitecto asociado.[1] Su muro cortina tiene unos 153.000 pies cuadrados de bronce y 122.000 de vidrio tintado gris rosado, y perfiles I de bronce extruido en el exterior expresan su estructura.[1] La torre se retira 100 pies de Park Avenue y ocupa solo el 52 por ciento del terreno.[1] La Comisión de Preservación de Monumentos señala que su plaza influyó en la revisión de la norma urbanística de 1961, que permitió edificios mayores si se ofrecían plazas públicas,[1] y la declaró monumento el 3 de octubre de 1989.[1]"
+  },
+  "refs": [
+   {
+    "label": "New York City Landmarks Preservation Commission, «Seagram Building» (informe de designación)",
+    "url": "https://s-media.nyc.gov/agencies/lpc/lp/1664.pdf",
+    "checks": "Cliente Joseph E. Seagram & Sons; construcción 1956-1958; 38 pisos de estructura de acero; 153.000 pies² de bronce y 122.000 de vidrio tintado gris rosado; perfiles I de bronce de 4,5 × 6 pulgadas que expresan la estructura; 100 pies de retiro y 52 % del terreno; Philip Johnson arquitecto asociado; influyó en la norma de 1961; designado el 3 de octubre de 1989. ⚠ solo una fuente; no confirma travertino ni «modelo del rascacielos corporativo».",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «bronze-tinted glass»: el informe dice vidrio tintado gris rosado.",
+   "Quité «Philip Johnson worked with Mies on the interiors»: la fuente lo da como arquitecto asociado, sin precisar interiores.",
+   "Quité «long taken as the model of the modern corporate skyscraper» y «travertine»: no confirmados; «plaza... planners later encouraged» pasó a la influencia en la norma de 1961.",
+   "Solo una fuente consultada con éxito (se agotó el presupuesto de búsquedas); conviene una segunda."
+  ]
+ },
+ {
+  "id": "think-small",
+  "en": {
+   "key": "The 1959 Volkswagen Beetle advertisement by Doyle Dane Bernbach, a small car inside a vast blank space under the headline ‘Think Small’.[1][2]",
+   "more": "Doyle Dane Bernbach made it for Volkswagen in 1959; the campaign is credited to art director Helmut Krone and copywriter Julian Koenig.[1][2] The ads placed a small car inside what looked like a gigantic, solid-coloured room, with the product’s benefits in fine print.[1] The approach used wit and honesty to make the car approachable, against rivals that sold luxury and status.[1] The headline was set in lower case,[2] and the campaign is credited with ushering in the ‘Creative Revolution’ in advertising.[1]"
+  },
+  "es": {
+   "key": "El anuncio del Escarabajo de Volkswagen de 1959, hecho por Doyle Dane Bernbach: un auto pequeño dentro de un vasto espacio vacío bajo el titular «Think Small».[1][2]",
+   "more": "Doyle Dane Bernbach lo hizo para Volkswagen en 1959; la campaña se atribuye al director de arte Helmut Krone y al redactor Julian Koenig.[1][2] Los avisos ponían un auto pequeño dentro de lo que parecía una enorme habitación de un solo color, con los beneficios del producto en letra chica.[1] El enfoque usó ingenio y honestidad para hacer cercano al auto, frente a rivales que vendían lujo y estatus.[1] El titular iba en minúsculas,[2] y a la campaña se le atribuye haber dado inicio a la «Revolución Creativa» de la publicidad.[1]"
+  },
+  "refs": [
+   {
+    "label": "University of Charlotte, Visual Rhetoric, «Think Small advertising campaign»",
+    "url": "https://pages.charlotte.edu/visualrhetoric/projects/individual-projects/think-small-advertising-campaign/",
+    "checks": "Campaña de 1959 de Krone (director de arte) y Koenig (redactor) en DDB; auto pequeño en una gran sala de un solo color con beneficios en letra chica; ingenio y honestidad frente a lujo y estatus; «Revolución Creativa». ⚠ proyecto académico de estudiantes; no menciona «Lemon».",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Media Marketing, «65 years ago DDB dared Americans to think small»",
+    "url": "https://www.media-marketing.com/en/opinion/65-years-ago-ddb-dared-americans-to-think-small/",
+    "checks": "Krone y Koenig, DDB, finales de los cincuenta; Beetle pequeño sobre espacio en blanco; titular en minúsculas; filosofía de Bill Bernbach. ⚠ artículo de opinión de prensa especializada; llama a Krone «creative director».",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «Volkswagen of America», «in a market of big cars and loud advertising», la hechura offset y el vínculo con el anuncio «Lemon»: ninguna fuente consultada lo confirma.",
+   "Quité «joined an art director and a copywriter in one team... method»: solo consta que Krone y Koenig colaboraron; se atribuye la autoría como «se atribuye».",
+   "Fuentes débiles (no hubo Britannica ni museo; se agotó el presupuesto de búsquedas); status («más admirados del siglo XX») no tocado y no confirmado por estas fuentes."
+  ]
+ },
+ {
+  "id": "mini-1959",
+  "en": {
+   "key": "Alec Issigonis’s small car with a transverse engine and wheels at the corners, which gave about 80 per cent of its footprint to people and luggage.[1][2]",
+   "more": "The Mini went into production in August 1959, marketed as the Austin 850, Austin Seven or Morris Mini Minor.[1][2] Issigonis combined a transverse 846 cc engine with front-wheel drive,[1] so there was no driveshaft, the floor could be flat and tiny 10-inch wheels stood at the four corners.[2] About 80 per cent of the car was passenger and cargo space.[1][2] The layout was later adopted by Volkswagen, Chrysler, General Motors, Ford and even Cadillac, and now dominates world car markets.[2] UK production lasted until 2000.[1][2]"
+  },
+  "es": {
+   "key": "El auto pequeño de Alec Issigonis, con motor transversal y ruedas en las esquinas, que destinó cerca del 80 por ciento de su superficie a personas y equipaje.[1][2]",
+   "more": "El Mini entró en producción en agosto de 1959, comercializado como Austin 850, Austin Seven o Morris Mini Minor.[1][2] Issigonis combinó un motor transversal de 846 cc con tracción delantera,[1] de modo que no había eje de transmisión, el piso podía ser plano y diminutas ruedas de 10 pulgadas quedaban en las cuatro esquinas.[2] Cerca del 80 por ciento del auto era espacio para pasajeros y carga.[1][2] La disposición fue adoptada después por Volkswagen, Chrysler, General Motors, Ford e incluso Cadillac, y hoy domina los mercados mundiales.[2] La producción en el Reino Unido duró hasta 2000.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Museums Victoria Collections, «Morris (BMC) Mini»",
+    "url": "https://collections.museumsvictoria.com.au/articles/3601",
+    "checks": "Debut en agosto de 1959 como Austin 850, Austin Seven o Morris Mini Minor; Issigonis, motor transversal de 846 cc y tracción delantera; cerca del 80 % del auto era espacio de pasajeros; producción en el Reino Unido hasta 2000.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Studebaker National Museum, «The Mini: an automotive transformation»",
+    "url": "https://studebakermuseum.org/the-mini-an-automotive-transformation/",
+    "checks": "Producción desde agosto de 1959 hasta 2000; motor transversal sin eje de transmisión, piso plano, ruedas de 10 pulgadas en las cuatro esquinas; cerca del 80 % de la superficie para personas y carga; la disposición fue adoptada por VW, Chrysler, GM, Ford y Cadillac.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «four adults» y «just over three metres»: ninguna fuente lo confirma.",
+   "«Austin Seven and Morris Mini-Minor» se amplió con Austin 850 (Museums Victoria); «80 por ciento de la superficie de piso» pasó a «de la superficie/espacio» según cada fuente.",
+   "Campo status («muchos sobreviven») no confirmado, no tocado; «British Motor Corporation» como fabricante no aparece explícito salvo en el título de la ficha de Museums Victoria."
+  ]
+ },
+ {
+  "id": "cadillac-eldorado-1959",
+  "en": {
+   "key": "The 1959 Cadillac Eldorado, with the soaring tailfins and twin tail lights that came to stand for American automotive styling in the annual-restyling tradition of GM’s Harley Earl.[1][2]",
+   "more": "The 1959 Cadillac came from the General Motors styling department. Harley Earl, at GM from 1927, renamed its Art and Color Section the Style Section in 1937 and pioneered annual updates to each model.[1] Earl is credited with putting fins on Cadillacs after World War II, taking inspiration from military aircraft, and he styled the twin tail lights of the 1948 Cadillac after the twin-boomed tail of the P-38 Lightning.[1] A Toronto Star Archives caption says he can be ‘credited (or blamed)’ for the 1959 tailfins.[2]"
+  },
+  "es": {
+   "key": "El Cadillac Eldorado de 1959, con las altas aletas y las dobles luces traseras que llegaron a representar el «styling» automotriz estadounidense, en la tradición del rediseño anual de Harley Earl en GM.[1][2]",
+   "more": "El Cadillac de 1959 salió del departamento de estilo de General Motors. Harley Earl, en GM desde 1927, rebautizó en 1937 su Art and Color Section como Style Section y fue pionero de las actualizaciones anuales de cada modelo.[1] A Earl se le atribuye haber puesto aletas a los Cadillac tras la Segunda Guerra Mundial, inspirándose en aviones militares, y diseñó las dobles luces traseras del Cadillac de 1948 según la cola de doble botalón del P-38 Lightning.[1] Un pie de foto de los Archivos del Toronto Star dice que se le puede «atribuir (o culpar)» de las aletas del Cadillac de 1959.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Harley Earl»",
+    "url": "https://www.britannica.com/print/article/1518044",
+    "checks": "En GM desde 1927; en 1937 rebautizó la Art and Color Section como Style Section; actualizaciones anuales de cada modelo; puso aletas a los Cadillac tras la guerra, inspirado en aviones militares; luces dobles del Cadillac de 1948 según el P-38. ⚠ no menciona su retiro en 1958 ni el Eldorado 1959.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Toronto Star Archives (Archivo de Ontario), «Legendary GM designer Harley Earl can be credited or blamed»",
+    "url": "https://digitalarchiveontariotest.emuseum.com/objects/371955/legendary-gm-designer-harley-earl-can-be-credited-or-blamed",
+    "checks": "Pie de foto del Toronto Star (29 de agosto de 1989) que atribuye a Earl las aletas del Cadillac de 1959. ⚠ fuente débil: solo un pie de foto.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «tallest tailfins Cadillac ever made», «bullet-shaped», «high point», el retiro de Earl en 1958, «led until» y que cada nuevo aspecto buscaba volver obsoleto el anterior: ninguna fuente citable lo confirma.",
+   "Una página del Henry Ford (espejo en ophelia.sdsu.edu:8443, no citada por llevar puerto) dice que Earl estaba en Europa durante el diseño del 1959 y que Bill Mitchell lo dirigió: la autoría de Earl del modelo 1959 es dudosa; revisar la ficha (designers) con una fuente mejor.",
+   "Sin Eldorado específico en las fuentes citadas (hablan del Cadillac 1959 en general); se agotó el presupuesto de búsquedas; materials y status no tocados."
+  ]
+ }
+]

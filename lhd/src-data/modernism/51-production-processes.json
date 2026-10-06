@@ -1,0 +1,611 @@
+{
+ "production": [
+  {
+   "id": "din-standards",
+   "sub": "processes",
+   "start": 1917,
+   "end": 1945,
+   "cont": true,
+   "date": "1917 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "DIN standards",
+   "short": "DIN standards",
+   "key": "German industrial standards, begun in 1917,[1] that fixed common sizes for parts and, from 1922, the A-series paper formats.[1][2]",
+   "origin": "The Standards Committee of German Industry (Normenausschuss der deutschen Industrie) was founded in 1917 on the initiative of the army’s production office, to streamline the production of weapons and munitions.[1] DIN 476, written by the engineer Walter Porstmann and published in 1922, set the A paper sizes, in which each size is made by folding the previous one in half.[1][2]",
+   "enabled": "Interchangeable formats: because each A size is exactly half of the one before, a sheet folded in two gives the next size.[1]",
+   "change": "Standard sizes became a design principle: by 1924–25 modern designers such as Herbert Bayer and Max Burchartz used DIN A4 for letterheads and said so on the sheet,[2] and in architecture Ernst Neufert worked out a system of standard measures derived from the division of ten metres.[1]",
+   "relations": "Jan Tschichold devoted a chapter of Die neue Typographie (1928) to the business letter, with rules for text, margins and spacing.[2] The A sizes later became the international standard ISO 216.[3]",
+   "links": {
+    "movements": [
+     "new-typography",
+     "bauhaus-movement"
+    ],
+    "institutions": [
+     "inst-bauhaus"
+    ],
+    "designers": [
+     "tschichold",
+     "bayer"
+    ],
+    "works": [
+     "die-neue-typographie-book"
+    ]
+   },
+   "wiki": "Deutsches_Institut_für_Normung",
+   "es": {
+    "name": "Normas DIN",
+    "short": "Normas DIN",
+    "date": "1917 →",
+    "key": "Normas industriales alemanas, iniciadas en 1917,[1] que fijaron medidas comunes para las piezas y, desde 1922, los formatos de papel de la serie A.[1][2]",
+    "origin": "El Comité de Normas de la Industria Alemana (Normenausschuss der deutschen Industrie) se fundó en 1917 por iniciativa de la oficina militar de producción, para racionalizar la fabricación de armas y municiones.[1] La norma DIN 476, escrita por el ingeniero Walter Porstmann y publicada en 1922, fijó los formatos A de papel, en los que cada tamaño se obtiene doblando el anterior por la mitad.[1][2]",
+    "enabled": "Formatos intercambiables: como cada tamaño A es exactamente la mitad del anterior, una hoja doblada en dos da el tamaño siguiente.[1]",
+    "change": "Las medidas estándar se volvieron un principio de diseño: hacia 1924-25 diseñadores modernos como Herbert Bayer y Max Burchartz usaron el DIN A4 en sus membretes y lo declaraban en la propia hoja,[2] y en la arquitectura Ernst Neufert elaboró un sistema de medidas estándar derivado de la división de diez metros.[1]",
+    "relations": "Jan Tschichold dedicó un capítulo de Die neue Typographie (1928) a la carta comercial, con reglas para el texto, los márgenes y los espacios.[2] Los tamaños A se volvieron después la norma internacional ISO 216.[3]"
+   },
+   "refs": [
+    {
+     "label": "Cambridge University Press, «Ernst Neufert’s ‘Lebensgestaltungslehre’: formatting life beyond the built» (artículo académico)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6626A6B18EDEB920F223AD37C393D4A4/S2058850X20000132a.pdf/ernst_neuferts_lebensgestaltungslehre_formatting_life_beyond_the_built.pdf",
+     "checks": "El Normenausschuss der deutschen Industrie se fundó en 1917 por iniciativa de la oficina militar de producción (Fabrikationsbüro) para racionalizar la fabricación de armas y municiones; DIN 476, de Porstmann, se publicó en 1922; cada formato A se obtiene doblando el anterior por la mitad; Neufert y su sistema de medidas derivado de la división de diez metros. ⚠ Leído mediante resumen automático: comprobar citas textuales antes de publicar.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Merrill C. Berman Collection, «A4: Letterheads of the 1920s and the 1930s»",
+     "url": "https://mcbcollection.com/a4-letterheads-of-the-1920s-and-the-1930s",
+     "checks": "DIN 476 en 1922 (formatos de papel con proporciones racionales); Bayer y Burchartz usaron el A4 en membretes en 1924-1925 y lo anunciaron en el colofón; Tschichold dedicó un capítulo de Die neue Typographie (1928) a la carta comercial, con reglas de texto, márgenes y espacios. ⚠ No dice que la Bauhaus como institución promoviera el DIN.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Wermac.org, «Deutsches Institut für Normung (DIN)»",
+     "url": "https://www.wermac.org/din/din_about.html",
+     "checks": "DIN 476 (1922) fijó los formatos A y evolucionó hasta la norma internacional ISO 216. ⚠ Sitio de normas no oficial. Da el 18 de mayo de 1917 como fundación (del comité de normalización de ingeniería mecánica), distinto del Normenausschuss de la industria.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "prefabrication",
+   "sub": "processes",
+   "start": 1924,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "US"
+   ],
+   "name": "Prefabrication",
+   "short": "Prefabrication",
+   "key": "Building with parts made in a factory or on the building site itself and assembled there, tested in Germany in the 1920s to produce housing faster and cheaper.[2][3]",
+   "origin": "In Frankfurt, from 1926, Ernst May’s office produced small concrete elements (about 3.00 × 1.10 m) and hollow concrete beams up to 8 m long in a factory hall, and set them in place on site with cranes; the first test block was in Praunheim.[1] In Berlin, Martin Wagner’s experimental estate in Friedrichsfelde (1924–25) used a mechanised system with gantry cranes.[4] In Dessau-Törten (1926–28), Gropius had concrete blocks and beams made on the site itself and organised the work like an assembly line, with a crane running on rails.[2][3]",
+   "enabled": "A fast shell: the first Praunheim test block, of ten dwellings, needed only 17 days for its raw structure.[1] Also standard dimensions and fitted elements such as the Frankfurt kitchen, which the V&A describes as the first fitted kitchen made in quantity,[5] and about 10,000 of which were built into the new Frankfurt dwellings.[6]",
+   "change": "The house began to be thought of as an industrial product: Gropius set as the new aim the manufacture of stock dwellings by mass-production methods in special factories, to be assembled on site.[3]",
+   "relations": "Results fell short of the promises: in 1925 Gropius had promised savings of 50 per cent or more, and at Törten the savings were between 5 and 25 per cent;[2] in Frankfurt only about one dwelling in ten used the method.[1] In the United States Buckminster Fuller conceived the Dymaxion House in the late 1920s as a mass-produced, affordable house, but it was first built only in 1945.[7]",
+   "links": {
+    "movements": [
+     "new-objectivity"
+    ],
+    "institutions": [
+     "inst-neues-frankfurt"
+    ],
+    "designers": [
+     "ernst-may",
+     "gropius",
+     "buckminster-fuller"
+    ],
+    "works": [
+     "frankfurt-kitchen",
+     "torten-estate",
+     "dymaxion-house"
+    ]
+   },
+   "wiki": "Prefabricated_building",
+   "es": {
+    "name": "Prefabricación",
+    "short": "Prefabricación",
+    "date": "años 1920 →",
+    "key": "Construir con piezas hechas en fábrica o en la propia obra y armadas allí, ensayado en Alemania en los años veinte para producir vivienda más rápida y barata.[2][3]",
+    "origin": "En Frankfurt, desde 1926, la oficina de Ernst May produjo en una nave de fábrica pequeños elementos de hormigón (de unos 3,00 × 1,10 m) y vigas huecas de hasta 8 m, y los puso en su lugar en la obra con grúas; el primer bloque de prueba fue en Praunheim.[1] En Berlín, el asentamiento experimental de Martin Wagner en Friedrichsfelde (1924-25) usó un sistema mecanizado con grúas de pórtico.[4] En Dessau-Törten (1926-28), Gropius hizo fabricar bloques y vigas de hormigón en la propia obra y organizó el trabajo como una cadena de montaje, con una grúa sobre rieles.[2][3]",
+    "enabled": "Una obra gruesa rápida: el primer bloque de prueba de Praunheim, de diez viviendas, necesitó solo 17 días para su estructura.[1] También medidas estándar y elementos equipados, como la cocina de Frankfurt, que el V&A describe como la primera cocina equipada fabricada en cantidad,[5] y de la que se integraron unas 10.000 en las nuevas viviendas de Frankfurt.[6]",
+    "change": "La casa empezó a pensarse como producto industrial: Gropius planteó como nuevo objetivo fabricar viviendas en serie con métodos de producción en masa, en fábricas especiales, para armarlas luego en la obra.[3]",
+    "relations": "Los resultados quedaron por debajo de lo prometido: en 1925 Gropius había prometido ahorros de 50 % o más, y en Törten el ahorro fue de entre 5 % y 25 %;[2] en Frankfurt solo cerca de una de cada diez viviendas usó el método.[1] En Estados Unidos Buckminster Fuller concibió a fines de los años veinte la casa Dymaxion como vivienda barata producida en masa, pero solo se construyó por primera vez en 1945.[7]"
+   },
+   "refs": [
+    {
+     "label": "Ernst-May-Gesellschaft, maybrief 58, «Die Frankfurter Häuserfabrik» (diciembre de 2022)",
+     "url": "https://www.mohnhaupt.de/pub/Die%20Frankfurter%20H%C3%A4userfabrik--maybrief58-Dez-2022.pdf",
+     "checks": "Desde 1926 el equipo de May hace experimentos y usa la sala de la feria «Haus der Technik»; bloque de prueba de Praunheim con 10 viviendas y 17 días para la obra gruesa; elementos de unos 3,00 × 1,10 m y vigas huecas de hasta 8 m moldeadas en fábrica y puestas en obra con grúa; unas 214 viviendas en placas hacia 1929; solo cerca de una de cada diez viviendas de Frankfurt usó el método. ⚠ Leído mediante resumen automático: comprobar las cifras antes de publicar.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Arts (MDPI), «The Construction Kit and the Assembly Line—Walter Gropius’ Concepts for Rationalizing Architecture» (2018)",
+     "url": "https://www.mdpi.com/2076-0752/7/4/95",
+     "checks": "Dessau-Törten (1926-1928) con vía de grúa como eje de producción y bloques y vigas fabricados en la propia obra «como en una cadena de montaje»; Martin Wagner resumió en 1925 lo visto en obras estadounidenses; May desarrolla desde 1925 el «Frankfurter Montageverfahren»; Gropius prometió en 1925 un ahorro de 50 % o más y se logró entre 5 % y 25 % en 1928.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, «Dessau-Törten Housing Estate»",
+     "url": "https://bauhaus-dessau.de/en/venues/dessau-toerten-housing-estate/",
+     "checks": "Dessau-Törten 1926-1928, 314 casas; piezas de hormigón de escoria y vigas fabricadas en la obra, tren pequeño y grúas, equipos en cadena de montaje; objetivo declarado de Gropius: fabricar viviendas en serie con métodos de producción en masa en fábricas especiales.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "ResearchGate, figura de Arts (MDPI) «Martin Wagner: Experimental Siedlung in Sewanstraße/Splanemannstraße»",
+     "url": "https://www.researchgate.net/figure/Martin-Wagner-Experimental-Siedlung-in-Sewanstrasse-Splanemannstrasse-in_fig2_329280918",
+     "checks": "Asentamiento experimental de Wagner en Berlín-Friedrichsfelde (1924-1925) con el sistema Occident, ensamblaje mecánico y grúas de pórtico. ⚠ Solo leyenda de figura del artículo anterior.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Frankfurt Kitchen (Schütte-Lihotzky)",
+     "url": "https://collections.vam.ac.uk/item/O121079/frankfurt-kitchen-kitchen-schutte-lihotzky-margarete/",
+     "checks": "No fue la primera cocina equipada, pero sí la primera fabricada en cantidad; 1926-27.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Counter Space: The Frankfurt Kitchen",
+     "url": "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/",
+     "checks": "Cerca de 10.000 cocinas diseñadas por Schütte-Lihotzky e integradas en las nuevas viviendas de Frankfurt.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Buckminster Fuller Institute, Dymaxion House",
+     "url": "https://www.bfi.org/about-fuller/big-ideas/dymaxion-house/",
+     "checks": "Casa Dymaxion concebida a fines de los años veinte como vivienda barata producida en masa; primera construcción en 1945.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "steel-body-pressing",
+   "sub": "processes",
+   "start": 1914,
+   "end": 1945,
+   "cont": true,
+   "date": "1914 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "FR",
+    "IT"
+   ],
+   "name": "Pressed-steel bodies",
+   "short": "Pressed steel",
+   "key": "Car bodies pressed from steel sheet instead of built of wood and steel, first made in large numbers for the Dodge Brothers in 1914.[2][4]",
+   "origin": "Edward G. Budd founded his company in Philadelphia in 1912, with a single press and thirteen former colleagues, to make all-steel automobile bodies; early bodies were mostly of wood.[2] In 1914 the Dodge Brothers ordered 5,000 steel bodies for their new touring car,[1][2] the first all-steel automobile produced in large quantities.[4] Budd’s methods crossed the Atlantic in 1924, when an agreement allowed Citroën in France to produce all-steel bodies, after André Citroën had visited the Philadelphia plant in 1923; Budd supplied equipment and engineering for Citroën’s B-10 and B-12 bodies.[1][3]",
+   "enabled": "Steel bodies were cheaper to make, took less production time and were stronger than the wood-and-steel bodies they replaced.[2]",
+   "change": "Steel gradually became the dominant material for car bodies.[4] Dodge’s demand, which grew from a first order of 5,000 bodies to a second of 50,000, confirmed Budd’s investment in the new method.[2]",
+   "economy": "The method depended on large orders: Budd’s business grew on Dodge orders of thousands and then tens of thousands of bodies,[2] and Budd furnished equipment and engineering support to Citroën in return for a royalty on each body produced.[1]",
+   "relations": "The Chrysler Airflow of 1934 combined an all-steel unibody, with a skeleton of square tubing welded to the chassis, and a streamlined shape developed with wind-tunnel tests by Carl Breer;[5][6] the public rejected it as too radical.[5]",
+   "links": {
+    "movements": [
+     "streamline-moderne"
+    ],
+    "institutions": [],
+    "designers": [
+     "porsche"
+    ],
+    "works": [
+     "chrysler-airflow",
+     "tatra-77",
+     "kdf-wagen",
+     "jeep"
+    ]
+   },
+   "wiki": "Budd_Company",
+   "es": {
+    "name": "Carrocería de acero estampado",
+    "short": "Chapa estampada",
+    "date": "1914 →",
+    "key": "Carrocerías prensadas en plancha de acero, en vez de armadas con madera y acero, hechas por primera vez en grandes cantidades para Dodge Brothers en 1914.[2][4]",
+    "origin": "Edward G. Budd fundó su empresa en Filadelfia en 1912, con una sola prensa y trece excolegas, para fabricar carrocerías de automóvil totalmente de acero; las carrocerías antiguas eran sobre todo de madera.[2] En 1914 Dodge Brothers encargó 5.000 carrocerías de acero para su nuevo modelo de turismo,[1][2] el primer automóvil totalmente de acero producido en grandes cantidades.[4] Los métodos de Budd cruzaron el Atlántico en 1924, cuando un acuerdo permitió a Citroën, en Francia, producir carrocerías de acero, después de que André Citroën visitara la planta de Filadelfia en 1923; Budd aportó equipos e ingeniería para las carrocerías de los Citroën B-10 y B-12.[1][3]",
+    "enabled": "Las carrocerías de acero eran más baratas de fabricar, tomaban menos tiempo de producción y eran más resistentes que las de madera y acero a las que reemplazaron.[2]",
+    "change": "El acero fue pasando a ser el material dominante de las carrocerías.[4] La demanda de Dodge, que pasó de un primer pedido de 5.000 carrocerías a un segundo de 50.000, confirmó la inversión de Budd en el nuevo método.[2]",
+    "economy": "El método dependía de grandes pedidos: el negocio de Budd creció con pedidos de Dodge de miles y luego de decenas de miles de carrocerías,[2] y Budd entregó equipos y apoyo de ingeniería a Citroën a cambio de una regalía por cada carrocería producida.[1]",
+    "relations": "El Chrysler Airflow de 1934 combinó una carrocería monocasco de acero, con un esqueleto de tubo cuadrado soldado al chasis, y una forma aerodinámica desarrollada con pruebas en túnel de viento por Carl Breer;[5][6] el público lo rechazó por demasiado radical.[5]"
+   },
+   "refs": [
+    {
+     "label": "Coachbuilt.com, «Budd Co., Edward G. Budd Mfg. Co.…»",
+     "url": "https://www.coachbuilt.com/bui/b/budd/budd.htm",
+     "checks": "Pedido de Dodge Brothers de 1914 por 5.000 carrocerías de turismo; André Citroën visitó Filadelfia en 1923 y en 1924 Hugh Adams, de Budd, supervisó en Francia la planificación de la nueva planta de carrocerías metálicas de Citroën, con equipos, apoyo de ingeniería y regalías por carrocería, para las carrocerías de los modelos B-10 y B-12. ⚠ Sitio de aficionados a carrocerías.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Squarebirds.org, «Budd Company History»",
+     "url": "https://www.squarebirds.org/SB/BuddCompanyHistory.htm",
+     "checks": "Budd fundada en Filadelfia en 1912 con una prensa y trece excolegas; los cuerpos antiguos eran sobre todo de madera; en 1914 Dodge pidió 5.000 carrocerías de acero; un segundo pedido de 50.000; ventajas de la carrocería de acero (más barata, más rápida, más resistente). ⚠ Sitio de club de aficionados.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Workshop of the World, «Budd (car & rail bodies)»",
+     "url": "https://www.workshopoftheworld.com/nicetown/budd.html",
+     "checks": "Budd desarrolló la primera carrocería de turismo totalmente de acero de Estados Unidos tras fundar su empresa en 1912; el acuerdo de 1924 permitió a Citroën producir carrocerías de acero con los métodos de Budd. ⚠ Sitio de historia local; no nombra el modelo B10.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Times Colonist, Bill Vance, «All-steel car broke new ground»",
+     "url": "https://www.timescolonist.com/driving/bill-vance-all-steel-car-broke-new-ground-4671811",
+     "checks": "El Dodge Brothers de 1914 fue el primer automóvil totalmente de acero producido en gran cantidad; el acero fue reemplazando a las carrocerías de madera. ⚠ Prensa; no menciona Citroën B10.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Studebaker National Museum, 1934 Chrysler Airflow",
+     "url": "https://studebakermuseum.org/1934-chrysler-airflow/",
+     "checks": "Airflow con carrocería de acero, diseño monocasco con esqueleto de tubo cuadrado soldado al chasis, diseño aerodinámico de Carl Breer probado en túnel de viento; el público lo rechazó por demasiado radical.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Revs Institute, 1934 Chrysler Airflow CV-8",
+     "url": "https://revsinstitute.org/vehicle/1934-chrysler-airflow-cv-8",
+     "checks": "Carl Breer, con consulta a Orville Wright, probó modelos en túnel de viento; construcción de acero liviana, precursora de la carrocería monocasco.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "offset-gravure",
+   "sub": "processes",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "GB"
+   ],
+   "name": "Offset and gravure",
+   "short": "Offset & gravure",
+   "key": "Offset lithography and rotogravure let newspapers and magazines print photographs in large runs on ordinary paper.[1][4][5]",
+   "origin": "Offset printing, in which a rubber cylinder carries the inked image from the plate to the paper, was developed in the United States: Ira Rubel built a press in 1903 and ran it in 1904.[1][2] Rotogravure goes back to Karel Klíč, who invented a photogravure method in 1878 and in 1895 founded, with Samuel Fawcett, the first rotogravure firm, in Lancashire, England.[3] German newspapers used rotogravure before other countries; The New York Times printed a rotogravure Christmas section in 1912 and ran regular sections from 29 March 1914.[4]",
+   "enabled": "Rotogravure gave quality halftone reproductions of photographs at high speed, even on cheap newsprint;[4] the copper photogravure used for the Arbeiter-Illustrierte-Zeitung (AIZ) gave a full tonal range and very high quality.[5]",
+   "change": "Photography could be printed in quality, at speed and on cheap paper, which put photograph-based pages within reach of mass audiences.[4]",
+   "relations": "The AIZ, a weekly with a circulation of over 500,000 in the early 1930s, was printed in copper photogravure, and its pages carried Heartfield’s photomontages, as in the issue of 17 July 1932.[5][6]",
+   "links": {
+    "movements": [
+     "new-vision",
+     "new-typography"
+    ],
+    "institutions": [],
+    "designers": [
+     "heartfield",
+     "el-lissitzky",
+     "rodchenko"
+    ],
+    "works": [
+     "ussr-in-construction",
+     "adolf-superman"
+    ]
+   },
+   "wiki": "Rotogravure",
+   "es": {
+    "name": "Offset y huecograbado",
+    "short": "Offset y huecograbado",
+    "date": "años 1920 →",
+    "key": "La litografía offset y el huecograbado rotativo permitieron a diarios y revistas imprimir fotografías en tiradas grandes sobre papel corriente.[1][4][5]",
+    "origin": "La impresión offset, en la que un cilindro de caucho lleva la imagen entintada de la plancha al papel, se desarrolló en Estados Unidos: Ira Rubel construyó una prensa en 1903 y la operó en 1904.[1][2] El huecograbado rotativo se remonta a Karel Klíč, que inventó un método de fotograbado en 1878 y en 1895 fundó, con Samuel Fawcett, la primera empresa de huecograbado rotativo, en Lancashire, Inglaterra.[3] Los diarios alemanes usaron el huecograbado antes que los de otros países; The New York Times imprimió una sección de huecograbado para Navidad en 1912 y publicó secciones regulares desde el 29 de marzo de 1914.[4]",
+    "enabled": "El huecograbado daba reproducciones de fotografías en medio tono de buena calidad y a gran velocidad, incluso sobre papel prensa barato;[4] el fotograbado en cobre usado para la Arbeiter-Illustrierte-Zeitung (AIZ) daba toda la gama tonal y muy alta calidad.[5]",
+    "change": "La fotografía pudo imprimirse con calidad, rapidez y sobre papel barato, lo que puso las páginas basadas en fotos al alcance de públicos masivos.[4]",
+    "relations": "La AIZ, un semanario con una tirada de más de 500.000 ejemplares a comienzos de los años treinta, se imprimía en fotograbado de cobre, y sus páginas llevaban los fotomontajes de Heartfield, como en el número del 17 de julio de 1932.[5][6]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Offset printing»",
+     "url": "https://www.britannica.com/technology/offset-printing",
+     "checks": "Ira W. Rubel, de Nutley (Nueva Jersey), descubrió el proceso por accidente en 1904 y construyó una prensa; el cilindro de caucho transfiere la imagen entintada de la plancha al papel.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian, NMAH, Lithographic offset press, Rubel",
+     "url": "https://si.edu/es/object/nmah_882246",
+     "checks": "Prensa construida en 1903 por Ira Rubel y operada en 1904; la más antigua de varias máquinas rotativas offset de la primera década del siglo XX.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Karl Klič»",
+     "url": "https://www.britannica.com/biography/Karl-Klic",
+     "checks": "Klíč inventó en 1878 un método de fotograbado; en 1895, con Samuel Fawcett, fundó en Lancashire la primera empresa de huecograbado rotativo (Rembrandt Intaglio Printing Company).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Library of Congress, World War I Rotogravures, «About this Collection»",
+     "url": "https://www.loc.gov/collections/world-war-i-rotogravures/about-this-collection/",
+     "checks": "El huecograbado se usó primero en diarios alemanes; The New York Times publicó una sección ilustrada de Navidad en 1912 y secciones regulares desde el 29 de marzo de 1914; reproducciones de calidad a alta velocidad sobre papel prensa barato. ⚠ No da Londres ni 1912 para Alemania.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Akron Art Museum, guía de «John Heartfield»",
+     "url": "https://akronartmuseum.org/wp-content/uploads/2020/01/Heartfield.pdf",
+     "checks": "La AIZ se imprimía en un costoso proceso de fotograbado en cobre que daba toda la gama tonal y muy alta calidad; tirada de más de 500.000 ejemplares a comienzos de los años treinta; cuarenta fotograbados de Heartfield para ella (1930-1938).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Akademie der Künste, Archivo John Heartfield, «Adolf, der Übermensch» (AIZ, 17.7.1932)",
+     "url": "https://heartfield.adk.de/node/3763",
+     "checks": "Ficha de AIZ, año XI, n.º 29, 17.7.1932, impresa en huecograbado de cobre (Kupfertiefdruck).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "photomontage",
+   "sub": "processes",
+   "start": 1918,
+   "end": 1945,
+   "cont": true,
+   "date": "c. 1918 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "RU"
+   ],
+   "name": "Photomontage",
+   "short": "Photomontage",
+   "key": "Composing an image by cutting and assembling photographs, a technique of Berlin Dada later used for political satire and propaganda.[4][2][5]",
+   "origin": "Berlin Dadaists developed it around 1918–19. Raoul Hausmann and Hannah Höch saw its possibilities in the summer of 1918 on the Baltic island of Usedom, in popular prints that set photographic portrait heads on printed bodies,[1] and John Heartfield, who made his first photomontage in 1917/18, worked with George Grosz on collages through 1919.[2][3] Who invented it is disputed: in the mid-1960s the critic William Rubin credited Hausmann, a view that later scholarship challenges by giving Höch equal weight,[1] and the word ‘photomontage’ was coined by the Berlin Dadaists around 1920.[2] Soviet artists such as Gustav Klutsis, El Lissitzky and Alexander Rodchenko took it up in the 1920s;[5] Rodchenko used it from 1923, for Mayakovsky’s poem Pro eto.[5][6]",
+   "enabled": "Images that combine pieces of existing photographs into a new meaning, often together with type: Britannica defines it as a composite image made by pasting together prints or parts of prints,[4] and describes Heartfield’s work as collages of text and imagery from mass-produced media.[8]",
+   "change": "Photographs became raw material for graphic design, from Rodchenko’s illustrations for Pro eto (1923) to the photographs organised into typographic layouts in USSR in Construction.[5] According to the Akron Art Museum guide, Heartfield was probably the first to use the technique for political satire.[2]",
+   "relations": "Heartfield began making satirical photomontages for the AIZ in 1930;[7] the weekly sold some 500,000 copies and was printed in an expensive copper photogravure that gave a full tonal range.[2][7]",
+   "links": {
+    "movements": [
+     "constructivism",
+     "new-vision"
+    ],
+    "institutions": [
+     "inst-vkhutemas"
+    ],
+    "designers": [
+     "heartfield",
+     "rodchenko",
+     "stepanova",
+     "el-lissitzky",
+     "bayer"
+    ],
+    "works": [
+     "adolf-superman",
+     "ussr-in-construction"
+    ]
+   },
+   "wiki": "Photomontage",
+   "es": {
+    "name": "Fotomontaje",
+    "short": "Fotomontaje",
+    "date": "c. 1918 →",
+    "key": "Componer una imagen cortando y ensamblando fotografías, técnica del dadá berlinés usada luego en la sátira política y la propaganda.[4][2][5]",
+    "origin": "Dadaístas berlineses lo desarrollaron hacia 1918-19. Raoul Hausmann y Hannah Höch vieron sus posibilidades en el verano de 1918 en la isla báltica de Usedom, en grabados populares que ponían cabezas fotográficas sobre cuerpos impresos,[1] y John Heartfield, que hizo su primer fotomontaje en 1917/18, trabajó con George Grosz en collages hasta 1919.[2][3] Quién lo inventó es motivo de disputa: a mediados de los años sesenta el crítico William Rubin se lo atribuyó a Hausmann, visión que estudios posteriores cuestionan al dar igual peso a Höch,[1] y la palabra «fotomontaje» fue acuñada por los dadaístas berlineses hacia 1920.[2] Artistas soviéticos como Gustav Klutsis, El Lisitski y Aleksandr Ródchenko lo adoptaron en los años veinte;[5] Ródchenko lo usó desde 1923, para el poema Pro eto de Mayakovski.[5][6]",
+    "enabled": "Imágenes que combinan trozos de fotografías existentes en un sentido nuevo, a menudo junto con tipografía: Britannica lo define como una imagen compuesta pegando copias o partes de copias,[4] y describe la obra de Heartfield como collages de texto e imágenes de medios producidos en masa.[8]",
+    "change": "Las fotografías se volvieron materia prima del diseño gráfico, desde las ilustraciones de Ródchenko para Pro eto (1923) hasta las fotografías organizadas en diagramaciones tipográficas de «La URSS en construcción».[5] Según la guía del Akron Art Museum, Heartfield fue probablemente el primero en usar la técnica para la sátira política.[2]",
+    "relations": "Heartfield empezó a hacer fotomontajes satíricos para la AIZ en 1930;[7] el semanario vendía unos 500.000 ejemplares y se imprimía en un costoso fotograbado en cobre que daba toda la gama tonal.[2][7]"
+   },
+   "refs": [
+    {
+     "label": "Boston University, Sequitur, «Cut with the Tailor Scissors: Hannah Höch’s Textile Designs and the Development of Photomontage» (2024)",
+     "url": "https://www.bu.edu/sequitur/2024/01/11/cut-with-the-tailor-scissors-hannah-hochs-textile-designs-and-the-development-of-photomontage/",
+     "checks": "Hausmann y Höch descubren las posibilidades del fotomontaje en el verano de 1918 en Usedom, a partir de grabados populares con cabezas fotográficas sobre torsos; William Rubin atribuyó a Hausmann la invención en los años sesenta, atribución que el artículo cuestiona. ⚠ Revista universitaria, leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Akron Art Museum, guía de «John Heartfield»",
+     "url": "https://akronartmuseum.org/wp-content/uploads/2020/01/Heartfield.pdf",
+     "checks": "Grosz y Heartfield colaboran en collages hasta 1919; Heartfield, de los primeros en usar la técnica como arte y probablemente el primero en usarla para la sátira política; la palabra «fotomontaje» fue acuñada por los dadaístas berlineses hacia 1920; AIZ con más de 500.000 ejemplares y fotograbado en cobre.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Akademie der Künste, Archivo John Heartfield, biografía",
+     "url": "https://heartfield.adk.de/en/john-heartfield-biography",
+     "checks": "Primer fotomontaje de Heartfield en 1917/1918; trabajo con Grosz en la editorial Malik (fundada en 1917).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Photomontage»",
+     "url": "https://www.britannica.com/art/photomontage",
+     "checks": "Definición (imagen compuesta pegando copias o partes de copias); Grosz, Höch y Heartfield como figuras principales.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Briony Lodder, ensayo para «Object:Photo» (fotomontaje soviético)",
+     "url": "https://www.moma.org/interactives/objectphoto/assets/essays/Lodder.pdf",
+     "checks": "Klutsis, El Lisitski y Ródchenko en el fotomontaje soviético de los años veinte; ilustraciones de Ródchenko para el poema de Mayakovski (1923); diseños tipográficos con fotografías en «La URSS en construcción». ⚠ Resumen automático; no trata la influencia dadá.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, «Photomontage» (art term)",
+     "url": "https://www.tate.org.uk/art/art-terms/p/photomontage",
+     "checks": "Ródchenko usó el fotomontaje desde 1923; Heartfield reconstruyó imágenes de los medios para protestar contra el régimen fascista. ⚠ Dice también que los dadaístas lo usaron «en 1915», dato que contradice las otras fuentes y no se usa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Künste im Exil (Akademie der Künste), «Arbeiter-Illustrierte-Zeitung (AIZ)»",
+     "url": "https://kuenste-im-exil.de/KIE/Content/EN/Topics/aiz-en.html",
+     "checks": "Heartfield empezó a hacer fotomontajes satíricos para la AIZ en 1930; unos 500.000 ejemplares semanales hacia 1933.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «John Heartfield»",
+     "url": "https://www.britannica.com/biography/John-Heartfield",
+     "checks": "Fotomontaje de Heartfield descrito como «collages de texto e imágenes encontrados en medios producidos en masa»; agitprop. ⚠ Resumen de extracto parcial del artículo.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "zip-fastener",
+   "sub": "processes",
+   "start": 1917,
+   "end": 1945,
+   "cont": true,
+   "date": "1917 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "name": "Zip fastener",
+   "short": "Zip fastener",
+   "key": "A fastener of interlocking metal teeth, patented in its modern form in 1917[2][3] and adopted in clothing during the 1930s.[2][4][5]",
+   "origin": "Gideon Sundback patented his ‘separable fastener’ in 1917, improving on an earlier ‘hookless’ fastener of 1913 by raising the number of fastening elements from four per inch to ten or eleven.[1][2] B. F. Goodrich used it on rubber boots called ‘The Zipper’ in the 1920s: CBC gives 1923, the Fashion History Museum 1924.[1][2][3] In the 1930s it moved into sportswear, jackets and couture.[2][5]",
+   "enabled": "Quick closures that needed no buttons or hooks, first used on boots and tobacco pouches;[2] during the First World War the US Navy bought 10,000 of them by 1918 for flight suits.[1]",
+   "change": "A mechanical part entered fashion as visible decoration: Elsa Schiaparelli used zippers in place of buttons in sportswear through the 1930s,[5] and her Skeleton dress of 1938 closed its shoulder seams and right side with bold plastic zips.[4]",
+   "relations": "In clothing the zip met resistance at first; according to CBC the Prince of Wales adopted a zip fly in 1934 and French designers helped make it acceptable by 1937.[2]",
+   "links": {
+    "movements": [
+     "surrealism-design"
+    ],
+    "institutions": [
+     "inst-schiaparelli"
+    ],
+    "designers": [
+     "schiaparelli"
+    ],
+    "works": []
+   },
+   "wiki": "Zipper",
+   "es": {
+    "name": "Cierre de cremallera",
+    "short": "Cierre",
+    "date": "1917 →",
+    "key": "Un cierre de dientes metálicos que encajan entre sí, patentado en su forma moderna en 1917[2][3] y adoptado en la ropa durante los años treinta.[2][4][5]",
+    "origin": "Gideon Sundback patentó su «cierre separable» en 1917, como mejora de un cierre «sin ganchos» anterior, de 1913, al subir el número de elementos de cierre de cuatro por pulgada a diez u once.[1][2] B. F. Goodrich lo usó en unas botas de goma llamadas «The Zipper» en los años veinte: CBC da 1923 y el Fashion History Museum 1924.[1][2][3] En los años treinta pasó a la ropa deportiva, las chaquetas y la alta costura.[2][5]",
+    "enabled": "Cierres rápidos que no necesitaban botones ni ganchos, usados primero en botas y tabaqueras;[2] durante la Primera Guerra Mundial la Armada de Estados Unidos compró 10.000 hasta 1918 para trajes de vuelo.[1]",
+    "change": "Una pieza mecánica entró en la moda como decoración visible: Elsa Schiaparelli usó cierres en lugar de botones en ropa deportiva durante los años treinta,[5] y su vestido Skeleton de 1938 cerraba los hombros y el lado derecho con llamativos cierres de plástico.[4]",
+    "relations": "En la ropa el cierre encontró resistencia al comienzo; según CBC el príncipe de Gales adoptó una bragueta con cierre en 1934 y los diseñadores franceses ayudaron a que se aceptara hacia 1937.[2]"
+   },
+   "refs": [
+    {
+     "label": "National Inventors Hall of Fame, «How Gideon Sundback Perfected the Zipper»",
+     "url": "https://www.invent.org/blog/inventors/gideon-sundback-zipper",
+     "checks": "Sundback pasó de cuatro a diez u once elementos por pulgada en el Hookless Fastener No. 2; en 1917 un sastre de Nueva York lo usó en cinturones de dinero para marineros; la Armada compró 10.000 cierres en 1918 para trajes de vuelo; Goodrich lo puso en botas de goma en los años veinte y lo llamó «Zipper».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "CBC News, «Zipper anniversary: 10 bits of trivia…»",
+     "url": "https://www.cbc.ca/news/science/zipper-anniversary-10-bits-of-trivia-to-impress-the-pants-off-you-1.1305202",
+     "checks": "Patente de 1917 del «Separable Fastener» (mejora del Hookless de 1913); Goodrich lo usó en chanclos en 1923 («Zip ’er up!»); primero en calzado y tabaqueras; el príncipe de Gales adoptó la bragueta con cierre en 1934 y los diseñadores franceses aceleraron su aceptación hacia 1937; Schiaparelli lo integró en ropa deportiva y prendas de vanguardia. ⚠ Prensa; resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fashion History Museum (Cambridge, Ontario), «Zipping Down History»",
+     "url": "https://www.fashionhistorymuseum.com/post/zipping-down-history",
+     "checks": "Patente de Sundback de 1917; Goodrich acuñó el nombre (esta fuente da 1924); a fines de los años treinta Schiaparelli y Charles James usaron cierres de celuloide en la alta costura. ⚠ Entrada de blog de museo; la fecha de Goodrich difiere de la de CBC.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, The Skeleton Dress, vestido de noche, Elsa Schiaparelli (1938)",
+     "url": "https://collections.vam.ac.uk/item/O65687/the-skeleton-dress-evening-dress-elsa-schiaparelli/",
+     "checks": "Los hombros y el lado derecho del vestido se cierran con «cierres de plástico llamativos»; colaboración con Dalí, 1938.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Philadelphia Museum of Art, recurso educativo sobre Schiaparelli",
+     "url": "https://legacyweb.philamuseum.org/doc_downloads/education/ex_resources/schiaparelli.pdf",
+     "checks": "Schiaparelli usó cierres metálicos en lugar de botones en ropa deportiva durante los años treinta, y en 1939 cierres con campanillas.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "bias-cut",
+   "sub": "processes",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Bias cut",
+   "short": "Bias cut",
+   "key": "Cutting fabric diagonally to the grain so that it stretches and drapes over the body, applied to whole dresses by Madeleine Vionnet.[1][2]",
+   "origin": "According to Women in World History, from 1919 Madeleine Vionnet developed tubular dresses cut on the bias, without fastenings, that slipped over the head;[1] the V&A dates her house’s reputation for championing the bias cut to the early 1920s, and describes it as cutting across the grain of the fabric so that it clings to the body.[2] By about 1926 the Metropolitan Museum describes her as particularly known for her innovative use of the bias cut.[5] She worked by draping fabric on specially made quarter-size wooden mannequins and then drew full-size patterns from them.[1][4]",
+   "enabled": "Dresses that follow the body without a corset and, in many of her garments, without fastenings.[1][2]",
+   "change": "The bias cut did away with the corset: the dress hung from the fabric’s own stretch and followed the body.[1][4]",
+   "relations": "According to Women in World History the bias-cut dress was dominant in the 1930s,[1] although the V&A notes that Vionnet herself had largely turned to classical draping and folding by then.[3] Madame Grès worked by draping directly on the body, a related practice.[6]",
+   "links": {
+    "movements": [
+     "art-deco"
+    ],
+    "institutions": [],
+    "designers": [
+     "vionnet",
+     "madame-gres"
+    ],
+    "works": [
+     "vionnet-bias-dress",
+     "gres-draped-gowns"
+    ]
+   },
+   "wiki": "Madeleine_Vionnet",
+   "es": {
+    "name": "Corte al bies",
+    "short": "Corte al bies",
+    "date": "años 1920 →",
+    "key": "Cortar la tela en diagonal respecto del hilo para que se estire y caiga sobre el cuerpo, aplicado a vestidos completos por Madeleine Vionnet.[1][2]",
+    "origin": "Según Women in World History, desde 1919 Madeleine Vionnet desarrolló vestidos tubulares cortados al bies, sin cierres, que se ponían por la cabeza;[1] el V&A sitúa a comienzos de los años veinte la fama de su casa como defensora del corte al bies, y lo describe como cortar a través del hilo de la tela para que se pegue al cuerpo.[2] Hacia 1926 el Metropolitan Museum la describe como particularmente conocida por su uso innovador del corte al bies.[5] Trabajaba drapeando la tela sobre maniquíes de madera hechos especialmente, a un cuarto del tamaño, y luego trazaba patrones a escala real a partir de ellos.[1][4]",
+    "enabled": "Vestidos que siguen el cuerpo sin corsé y, en muchas de sus prendas, sin cierres.[1][2]",
+    "change": "El corte al bies prescindió del corsé: el vestido caía por la elasticidad propia de la tela y seguía el cuerpo.[1][4]",
+    "relations": "Según Women in World History el vestido cortado al bies fue dominante en los años treinta,[1] aunque el V&A señala que la propia Vionnet ya se había volcado en gran parte al drapeado y plegado clásicos.[3] Madame Grès trabajó drapeando directamente sobre el cuerpo, una práctica afín.[6]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopedia.com, «Vionnet, Madeleine (1876–1975)» (Women in World History, Gale)",
+     "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/vionnet-madeleine-1876-1975",
+     "checks": "Desde 1919 Vionnet desarrolla vestidos tubulares cortados al bies, sin cierres, que se ponían por la cabeza; trabajaba drapeando sobre maniquíes de madera a un cuarto del tamaño; dominantes en los años treinta; sin corsé. ⚠ Enciclopedia general; resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, «Madeleine Vionnet: an introduction»",
+     "url": "https://www.vam.ac.uk/articles/madeleine-vionnet-an-introduction",
+     "checks": "A comienzos de los años veinte su casa era conocida por defender el corte al bies, cortar a través del hilo para un drapeado que se pega al cuerpo; en los años treinta muchas prendas se construían en una pieza, sin cierres.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, vestido de noche de Vionnet (c. 1937)",
+     "url": "https://collections.vam.ac.uk/item/O97775/evening-dress-vionnet-madeleine/",
+     "checks": "Maestra del vestido al bies que moldea el cuerpo sin restricción; en los años treinta abandonó en gran parte los vestidos al bies en favor del drapeado y plegado de estilo clásico.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Les Arts Décoratifs, «Madeleine Vionnet, puriste de la mode» (2009), vía University of the Arts London",
+     "url": "https://fashionexhibitionmaking.arts.ac.uk/madeleine-vionnet-puriste-de-la-mode-madeleine-vionnet-fashion-purist/",
+     "checks": "Dominio del corte al bies y del drapeado; liberó la silueta del corsé; usaba una pequeña muñeca de madera para disponer las formas antes del modelo a escala real.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, House of Vionnet, vestido (c. 1926)",
+     "url": "https://www.metmuseum.org/art/collection/search/158827",
+     "checks": "El museo describe a Vionnet como una técnica consumada, particularmente conocida por su uso innovador del corte al bies; vestido de c. 1926.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Les Arts Décoratifs, «Madame Grès, la couture à l’œuvre», vía University of the Arts London",
+     "url": "https://fashionexhibitionmaking.arts.ac.uk/madame-gres-la-couture-a-loeuvre-madame-gres-couture-at-work/",
+     "checks": "Madame Grès drapeaba las prendas directamente sobre el cuerpo; concibe la tela como escultura. ⚠ La página no compara con Vionnet.",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ]
+}

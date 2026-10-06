@@ -1,0 +1,1104 @@
+{
+ "theories": [
+  {
+   "id": "th-rams-ten-principles",
+   "level": "normal",
+   "year": 1980,
+   "date": "c. 1980",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "manifesto",
+   "author": "Dieter Rams",
+   "name": "Dieter Rams’s ten principles of good design",
+   "short": "Rams",
+   "key": "The ten principles of good design that Braun designer Dieter Rams set out from the late 1970s, summed up in the idea of ‘less, but better’.",
+   "ideas": [
+    "Good design is innovative, useful and aesthetic, and it makes a product understandable.",
+    "Good design is unobtrusive: products that serve a purpose are like tools, neither decoration nor works of art.",
+    "Good design is honest: it does not make a product more innovative, powerful or valuable than it is.",
+    "Good design is long-lasting and thorough down to the last detail, and it avoids following fashion.",
+    "Good design is environmentally friendly and is as little design as possible."
+   ],
+   "impact": "Rams, head of design at Braun, formulated the principles while asking whether his own work was good design in a world of growing consumption and pollution. They are published by the Vitsoe company and are widely quoted, and Jonathan Ive wrote the foreword to a 2011 book on Rams and is often named as an admirer of his work.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "jonathan-ive"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Dieter Rams",
+    "name": "Los diez principios del buen diseño de Dieter Rams",
+    "short": "Rams",
+    "date": "c. 1980",
+    "key": "Los diez principios del buen diseño que el diseñador de Braun Dieter Rams formuló desde fines de los años setenta, resumidos en la idea de «menos, pero mejor».",
+    "ideas": [
+     "El buen diseño es innovador, útil y estético, y hace que un producto se entienda.",
+     "El buen diseño es discreto: los productos que cumplen un fin son como herramientas, ni decoración ni obras de arte.",
+     "El buen diseño es honesto: no hace que un producto parezca más innovador, potente o valioso de lo que es.",
+     "El buen diseño es duradero y cuidadoso hasta el último detalle, y evita seguir la moda.",
+     "El buen diseño es respetuoso del medio ambiente y es tan poco diseño como sea posible."
+    ],
+    "impact": "Rams, jefe de diseño de Braun, formuló los principios al preguntarse si su propio trabajo era buen diseño en un mundo de consumo y contaminación crecientes. Los publica la empresa Vitsoe y se citan con amplitud, y Jonathan Ive escribió el prólogo de un libro sobre Rams de 2011 y se le nombra a menudo como admirador de su obra."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-grid-systems",
+   "level": "normal",
+   "year": 1981,
+   "date": "1981",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "genre": "typography",
+   "author": "Josef Müller-Brockmann",
+   "name": "Grid Systems in Graphic Design",
+   "short": "Müller-Brockmann",
+   "key": "Josef Müller-Brockmann’s 1981 handbook of the grid as the base of graphic design, the summary of the Swiss approach to typography and layout.",
+   "ideas": [
+    "A grid divides the page or space into a regular system of fields, margins and columns that organises text and images.",
+    "Working with a grid makes the design clear, orderly and objective, and subordinates the personal taste of the designer to the problem.",
+    "The grid allows many variants of layout while giving a series of pages, posters or publications a consistent look.",
+    "The book sets out grids of different numbers of fields and shows how to apply them to type, images, posters, brochures and exhibitions."
+   ],
+   "impact": "Published in Niederteufen by Arthur Niggli in 1981 in German and English, it gathered the practice of a Zurich designer of the Swiss school. It circulated widely in design schools and offices, and the column guides and master pages of page-layout programs made grid layouts easy to set up on a computer.",
+   "links": {
+    "movements": [
+     "new-wave-typography"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Josef Müller-Brockmann",
+    "name": "Grid Systems in Graphic Design",
+    "short": "Müller-Brockmann",
+    "date": "1981",
+    "key": "El manual de Josef Müller-Brockmann de 1981 sobre la retícula como base del diseño gráfico, síntesis del enfoque suizo de la tipografía y la diagramación.",
+    "ideas": [
+     "Una retícula divide la página o el espacio en un sistema regular de campos, márgenes y columnas que organiza el texto y las imágenes.",
+     "Trabajar con retícula hace que el diseño sea claro, ordenado y objetivo, y subordina el gusto personal del diseñador al problema.",
+     "La retícula admite muchas variantes de composición y a la vez da un aspecto coherente a una serie de páginas, afiches o publicaciones.",
+     "El libro presenta retículas de distinto número de campos y muestra cómo aplicarlas a tipos, imágenes, afiches, folletos y exposiciones."
+    ],
+    "impact": "Publicado en Niederteufen por Arthur Niggli en 1981, en alemán e inglés, reunió la práctica de un diseñador zuriqués de la escuela suiza. Circuló con amplitud en escuelas y oficinas de diseño, y las guías de columnas y las páginas maestras de los programas de diagramación facilitaron armar retículas en el computador."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-design-everyday-things",
+   "level": "essential",
+   "year": 1988,
+   "date": "1988",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Donald A. Norman",
+   "name": "The Design of Everyday Things",
+   "short": "Norman",
+   "key": "Donald Norman’s 1988 book, which holds that when people misuse an everyday object the fault lies with the design, and sets out principles for making things usable.",
+   "ideas": [
+    "When a person has trouble with a door, a stove or a switch, the fault is usually the design and not the person.",
+    "A good design makes visible what can be done and gives clear feedback about what has happened.",
+    "People form a mental model of how a device works, and the design should help that model match the real one.",
+    "Natural mapping between controls and results, and constraints that block wrong actions, reduce errors.",
+    "Errors should be expected and designed for, with ways to undo them."
+   ],
+   "impact": "First published in 1988 as The Psychology of Everyday Things and reissued as The Design of Everyday Things in 1990, it was revised and expanded in 2013. Norman, a cognitive scientist, later worked at Apple, and the book became a basic text of human-centred design, usability and interaction design.",
+   "links": {
+    "movements": [
+     "interaction-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Donald A. Norman",
+    "name": "El diseño de las cosas cotidianas",
+    "short": "Norman",
+    "date": "1988",
+    "key": "El libro de Donald Norman de 1988, que sostiene que cuando las personas usan mal un objeto cotidiano la falla está en el diseño, y propone principios para hacer cosas utilizables.",
+    "ideas": [
+     "Cuando una persona tiene problemas con una puerta, una cocina o un interruptor, la falla suele estar en el diseño y no en la persona.",
+     "Un buen diseño hace visible lo que se puede hacer y da una respuesta clara sobre lo que ha ocurrido.",
+     "Las personas se forman un modelo mental de cómo funciona un aparato, y el diseño debe ayudar a que ese modelo coincida con el real.",
+     "La correspondencia natural entre los controles y sus resultados, y las restricciones que impiden acciones erróneas, reducen los errores.",
+     "Los errores deben preverse y diseñarse, con maneras de deshacerlos."
+    ],
+    "impact": "Publicado por primera vez en 1988 como The Psychology of Everyday Things y reeditado como The Design of Everyday Things en 1990, se revisó y amplió en 2013. Norman, científico cognitivo, trabajó más tarde en Apple, y el libro se volvió un texto básico del diseño centrado en las personas, la usabilidad y el diseño de interacción."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-incomplete-manifesto",
+   "level": "normal",
+   "year": 1998,
+   "date": "1998",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "CA"
+   ],
+   "genre": "manifesto",
+   "author": "Bruce Mau",
+   "name": "Incomplete Manifesto for Growth",
+   "short": "Mau",
+   "key": "A list of working principles for designers and studios, written by Bruce Mau in 1998 and circulated widely, which treats design as a process of constant growth.",
+   "ideas": [
+    "Allow events to change you: growth comes from being open to what happens during the work.",
+    "Process matters more than the outcome, so the designer should love experiments and accept mistakes along the way.",
+    "Designers should make their own tools and keep collaborating, since ideas grow from many hands.",
+    "Work is a way of living and learning, not a deliverable handed over at the end."
+   ],
+   "impact": "The Canadian designer Bruce Mau wrote it in 1998 for his Toronto studio. It was later printed in his book Life Style (2000) and spread in posters and on the web, where studios and design schools adopted it as a kind of creed.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "stefan-sagmeister"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Bruce Mau",
+    "name": "Manifiesto incompleto para el crecimiento",
+    "short": "Mau",
+    "key": "Una lista de principios de trabajo para diseñadores y estudios que Bruce Mau escribió en 1998 y que circuló ampliamente, y que entiende el diseño como un proceso de crecimiento constante.",
+    "ideas": [
+     "Dejar que los acontecimientos te cambien: el crecimiento viene de estar abierto a lo que ocurre durante el trabajo.",
+     "El proceso importa más que el resultado, de modo que el diseñador debe querer sus experimentos y aceptar los errores del camino.",
+     "Los diseñadores deben hacer sus propias herramientas y seguir colaborando, porque las ideas crecen con muchas manos.",
+     "El trabajo es una forma de vivir y aprender, no un entregable que se pasa al final."
+    ],
+    "impact": "El diseñador canadiense Bruce Mau lo escribió en 1998 para su estudio de Toronto. Después se imprimió en su libro Life Style (2000) y se difundió en afiches y en la web, donde estudios y escuelas de diseño lo adoptaron como una especie de credo.",
+    "date": "1998"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-first-things-first-2000",
+   "level": "normal",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "genre": "manifesto",
+   "author": "Group of 33 signatories",
+   "name": "First Things First 2000",
+   "short": "Signatories",
+   "key": "A manifesto signed by 33 designers in 1999 that revived Ken Garland’s 1964 text and asked designers to use their skills for more than advertising and consumer marketing.",
+   "ideas": [
+    "Designers’ skills are being spent mostly on advertising, brand strategy and consumer goods.",
+    "It calls for a reversal of priorities toward more useful, lasting and democratic forms of communication.",
+    "It asks designers to take part in a wider debate about the cultural effects of their work.",
+    "It updates Garland’s 1964 manifesto for a world dominated by brands and global marketing."
+   ],
+   "impact": "It followed Ken Garland’s first manifesto of 1964. The new text was published in autumn 1999 in several design magazines, among them Eye, Adbusters and Emigre, with signatories that included Neville Brody, Milton Glaser and Jonathan Barnbrook. It started a long argument about designers’ ethical responsibility.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "neville-brody"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Grupo de 33 firmantes",
+    "name": "First Things First 2000",
+    "short": "Firmantes",
+    "key": "Un manifiesto firmado por 33 diseñadores en 1999 que retomó el texto de Ken Garland de 1964 y pidió usar el oficio para algo más que publicidad y marketing de consumo.",
+    "ideas": [
+     "Las habilidades de los diseñadores se gastan sobre todo en publicidad, estrategia de marca y bienes de consumo.",
+     "Pide invertir las prioridades hacia formas de comunicación más útiles, duraderas y democráticas.",
+     "Pide a los diseñadores participar en un debate más amplio sobre los efectos culturales de su trabajo.",
+     "Actualiza el manifiesto de Garland de 1964 para un mundo dominado por las marcas y el marketing global."
+    ],
+    "impact": "Siguió al primer manifiesto de Ken Garland de 1964. El nuevo texto se publicó en el otoño de 1999 en varias revistas de diseño, entre ellas Eye, Adbusters y Emigre, con firmantes como Neville Brody, Milton Glaser y Jonathan Barnbrook. Abrió una larga discusión sobre la responsabilidad ética de los diseñadores.",
+    "date": "1999"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-no-logo",
+   "level": "essential",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "CA"
+   ],
+   "genre": "society",
+   "author": "Naomi Klein",
+   "name": "No Logo",
+   "short": "Klein",
+   "key": "Naomi Klein’s 1999 book on how global brands moved from making products to selling images, and on the factories, public spaces and protests that followed.",
+   "ideas": [
+    "Leading companies came to see themselves as brand builders and handed manufacturing to contractors, often in export-processing zones.",
+    "Brands moved into public space, schools, sport and culture, so that more of daily life became a surface for marketing.",
+    "Cheap, flexible labour in the supply chain paid for the large budgets spent on image.",
+    "A movement of activists, culture jamming and consumer campaigns grew in answer to branding."
+   ],
+   "impact": "The Canadian journalist and author Naomi Klein published it in 1999, and it appeared in many languages. It became a standard reference of the anti-globalisation movement and a point of reference for designers who questioned their part in branding.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "nike-air-max-1987",
+     "air-jordan-1-1985"
+    ]
+   },
+   "es": {
+    "author": "Naomi Klein",
+    "name": "No Logo",
+    "short": "Klein",
+    "key": "El libro de Naomi Klein de 1999 sobre cómo las marcas globales pasaron de fabricar productos a vender imágenes, y sobre las fábricas, los espacios públicos y las protestas que siguieron.",
+    "ideas": [
+     "Las grandes empresas pasaron a verse como constructoras de marcas y entregaron la fabricación a contratistas, a menudo en zonas francas de exportación.",
+     "Las marcas ocuparon el espacio público, las escuelas, el deporte y la cultura, de modo que más de la vida diaria se volvió una superficie de marketing.",
+     "El trabajo barato y flexible de la cadena de suministro pagaba los grandes presupuestos gastados en imagen.",
+     "Como respuesta al branding creció un movimiento de activistas, de subversión publicitaria y de campañas de consumidores."
+    ],
+    "impact": "La periodista y autora canadiense Naomi Klein lo publicó en 1999 y apareció en muchos idiomas. Se volvió una referencia clásica del movimiento antiglobalización y un punto de partida para diseñadores que se preguntaron por su papel en el branding.",
+    "date": "1999"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-cradle-to-cradle",
+   "level": "normal",
+   "year": 2002,
+   "date": "2002",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "genre": "method",
+   "author": "William McDonough and Michael Braungart",
+   "name": "Cradle to Cradle",
+   "short": "McDonough",
+   "key": "The 2002 book by the architect William McDonough and the chemist Michael Braungart, which argues that products should be designed so that their materials are reused, not thrown away.",
+   "ideas": [
+    "Waste should be treated as food: materials should circulate in cycles instead of ending as rubbish.",
+    "It separates biological nutrients, which can return safely to the soil, from technical nutrients, which should be kept in industrial loops.",
+    "Making products less bad, through efficiency alone, is not enough; the aim is to design products that are good in their effects.",
+    "Design should use current solar energy and respect the diversity of places."
+   ],
+   "impact": "Published in 2002 by North Point Press, the book was itself printed on a durable synthetic material meant to be recycled, as an example of its own argument. It gave sustainable design a method and a vocabulary, and a certification scheme for products later grew from it.",
+   "links": {
+    "movements": [
+     "sustainable-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "William McDonough y Michael Braungart",
+    "name": "De la cuna a la cuna",
+    "short": "McDonough",
+    "key": "El libro de 2002 del arquitecto William McDonough y el químico Michael Braungart, que sostiene que los productos deben diseñarse para que sus materiales se reutilicen y no se boten.",
+    "ideas": [
+     "Los residuos deben tratarse como alimento: los materiales deben circular en ciclos y no terminar como basura.",
+     "Distingue los nutrientes biológicos, que pueden volver sin riesgo a la tierra, de los técnicos, que deben mantenerse en ciclos industriales.",
+     "Hacer productos menos malos, solo con eficiencia, no basta; el objetivo es diseñar productos buenos en sus efectos.",
+     "El diseño debe usar la energía solar actual y respetar la diversidad de los lugares."
+    ],
+    "impact": "Publicado en 2002 por North Point Press, el libro se imprimió en un material sintético duradero pensado para reciclarse, como ejemplo de su propio argumento. Dio al diseño sostenible un método y un vocabulario, y de él nació después un sistema de certificación de productos.",
+    "date": "2002"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-design-thinking-brown",
+   "level": "normal",
+   "year": 2008,
+   "date": "2008",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Tim Brown",
+   "name": "Design Thinking",
+   "short": "Brown",
+   "key": "Tim Brown’s 2008 article in the Harvard Business Review, which presented design thinking as a way for companies to match people’s needs with technology and a viable business.",
+   "ideas": [
+    "Design thinking uses the designer’s methods to join what people need, what technology allows and what a business can sustain.",
+    "It is centred on people, who are observed in their own settings.",
+    "Ideas are tested early with rough prototypes instead of being perfected on paper.",
+    "The work moves through three spaces: inspiration, ideation and implementation."
+   ],
+   "impact": "Brown, then head of the design firm IDEO, published it in the Harvard Business Review in June 2008, and expanded it in the book Change by Design (2009). It helped carry the language of design into management and into teaching beyond design schools, and it also drew criticism for turning a craft into a formula.",
+   "links": {
+    "movements": [
+     "interaction-design",
+     "design-methods"
+    ],
+    "institutions": [
+     "inst-ideo"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Tim Brown",
+    "name": "«Design Thinking»",
+    "short": "Brown",
+    "key": "El artículo de Tim Brown de 2008 en la Harvard Business Review, que presentó el design thinking como un modo de que las empresas unan las necesidades de las personas con la tecnología y un negocio viable.",
+    "ideas": [
+     "El design thinking usa los métodos del diseñador para unir lo que la gente necesita, lo que la tecnología permite y lo que un negocio puede sostener.",
+     "Se centra en las personas, a quienes se observa en sus propios entornos.",
+     "Las ideas se prueban temprano con prototipos toscos, en vez de perfeccionarse sobre el papel.",
+     "El trabajo pasa por tres espacios: inspiración, ideación e implementación."
+    ],
+    "impact": "Brown, entonces a la cabeza de la firma de diseño IDEO, lo publicó en la Harvard Business Review en junio de 2008 y lo amplió en el libro Change by Design (2009). Ayudó a llevar el lenguaje del diseño a la gestión y a la enseñanza fuera de las escuelas de diseño, y también recibió críticas por convertir un oficio en una fórmula.",
+    "date": "2008"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-speculative-everything",
+   "level": "normal",
+   "year": 2013,
+   "date": "2013",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "Anthony Dunne and Fiona Raby",
+   "name": "Speculative Everything",
+   "short": "Dunne",
+   "key": "The 2013 book by Anthony Dunne and Fiona Raby that sets out design as a way to ask ‘what if’ about possible futures and to provoke public debate.",
+   "ideas": [
+    "Design can be used to imagine possible futures, not only to solve present problems.",
+    "Speculative designs act as props that make people discuss what kind of future they prefer.",
+    "Imagination and fiction are political tools, because they question what is taken for granted.",
+    "It distinguishes probable, plausible and possible futures from the preferable ones that society should debate."
+   ],
+   "impact": "Published by MIT Press in 2013, the book gathers the authors’ work since the 1990s at the Royal College of Art and in their studio. It is widely used in design schools as the main text of critical and speculative design.",
+   "links": {
+    "movements": [
+     "critical-speculative-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Anthony Dunne y Fiona Raby",
+    "name": "Speculative Everything",
+    "short": "Dunne",
+    "key": "El libro de 2013 de Anthony Dunne y Fiona Raby que plantea el diseño como un modo de preguntar «¿y si…?» sobre futuros posibles y de provocar el debate público.",
+    "ideas": [
+     "El diseño puede usarse para imaginar futuros posibles, y no solo para resolver problemas del presente.",
+     "Los diseños especulativos funcionan como utilería que lleva a la gente a discutir qué futuro prefiere.",
+     "La imaginación y la ficción son herramientas políticas, porque cuestionan lo que se da por supuesto.",
+     "Distingue los futuros probables, plausibles y posibles de los preferibles, que la sociedad debe debatir."
+    ],
+    "impact": "Publicado por MIT Press en 2013, el libro reúne el trabajo de los autores desde los años noventa en el Royal College of Art y en su estudio. Se usa mucho en las escuelas de diseño como texto central del diseño crítico y especulativo.",
+    "date": "2013"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-language-postmodern-architecture",
+   "level": "essential",
+   "year": 1977,
+   "date": "1977",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Charles Jencks",
+   "name": "The Language of Post-Modern Architecture",
+   "short": "Jencks",
+   "key": "Charles Jencks’s 1977 book that popularised the term ‘post-modern’ in architecture and proposed double coding as its method.",
+   "ideas": [
+    "Modern architecture ‘died’ with the demolition of the Pruitt-Igoe housing blocks in St. Louis in 1972.",
+    "Post-modern architecture is double-coded: it speaks at once to professionals and to the wider public.",
+    "Architecture should draw on history, ornament and local symbolism, and not only on function.",
+    "Modernism failed to communicate with the people who used its buildings."
+   ],
+   "impact": "Published in London by Academy Editions and in New York by Rizzoli in 1977, and revised in several later editions. It gave the new tendency a name and a date, and Jencks’s account of the death of modern architecture in 1972 became one of the most repeated stories in architectural history.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "pruitt-igoe-1954"
+    ]
+   },
+   "es": {
+    "author": "Charles Jencks",
+    "name": "El lenguaje de la arquitectura posmoderna",
+    "short": "Jencks",
+    "key": "El libro de Charles Jencks de 1977 que popularizó el término «posmoderno» en la arquitectura y propuso el doble código como método.",
+    "ideas": [
+     "La arquitectura moderna «murió» con la demolición de los bloques de vivienda de Pruitt-Igoe en San Luis en 1972.",
+     "La arquitectura posmoderna tiene doble código: habla a la vez a los profesionales y al público general.",
+     "La arquitectura debe recurrir a la historia, el ornamento y el simbolismo local, y no solo a la función.",
+     "El modernismo no logró comunicarse con las personas que usaban sus edificios."
+    ],
+    "impact": "Publicado en Londres por Academy Editions y en Nueva York por Rizzoli en 1977, y revisado en varias ediciones posteriores. Dio a la nueva tendencia un nombre y una fecha, y el relato de Jencks sobre la muerte de la arquitectura moderna en 1972 se volvió una de las historias más repetidas de la historia de la arquitectura.",
+    "date": "1977"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-pattern-language",
+   "level": "normal",
+   "year": 1977,
+   "date": "1977",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Christopher Alexander et al.",
+   "name": "A Pattern Language",
+   "short": "Alexander",
+   "key": "The 1977 book by Christopher Alexander and his colleagues that describes 253 patterns for towns, buildings and construction as a language anyone can use.",
+   "ideas": [
+    "Towns and buildings are described by patterns, each a solution to a recurring problem in a given context.",
+    "Patterns form a language: smaller ones fit within larger ones, from regions and towns down to rooms and details.",
+    "Ordinary people can use the language to design their own surroundings, not only professionals.",
+    "The book gives 253 patterns."
+   ],
+   "impact": "Published by Oxford University Press in 1977 by Alexander with Sara Ishikawa and Murray Silverstein, with Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel, from the Center for Environmental Structure in Berkeley. Its idea of patterns was later taken up by software developers and became a reference for participatory architecture.",
+   "links": {
+    "movements": [
+     "participatory-social-architecture"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Christopher Alexander y otros",
+    "name": "Un lenguaje de patrones",
+    "short": "Alexander",
+    "key": "El libro de 1977 de Christopher Alexander y sus colegas que describe 253 patrones para ciudades, edificios y construcción como un lenguaje que cualquiera puede usar.",
+    "ideas": [
+     "Las ciudades y los edificios se describen con patrones, cada uno una solución a un problema recurrente en un contexto dado.",
+     "Los patrones forman un lenguaje: los más pequeños encajan en los mayores, desde regiones y ciudades hasta habitaciones y detalles.",
+     "Las personas comunes pueden usar el lenguaje para diseñar su propio entorno, y no solo los profesionales.",
+     "El libro entrega 253 patrones."
+    ],
+    "impact": "Publicado por Oxford University Press en 1977 por Alexander con Sara Ishikawa y Murray Silverstein, y con Max Jacobson, Ingrid Fiksdahl-King y Shlomo Angel, desde el Center for Environmental Structure de Berkeley. Su idea de patrones fue retomada después por desarrolladores de software y se volvió un referente de la arquitectura participativa.",
+    "date": "1977"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-delirious-new-york",
+   "level": "normal",
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "NL"
+   ],
+   "genre": "manifesto",
+   "author": "Rem Koolhaas",
+   "name": "Delirious New York",
+   "short": "Koolhaas",
+   "key": "Rem Koolhaas’s 1978 ‘retroactive manifesto for Manhattan’, which reads the city as the product of a culture of congestion rather than of a plan.",
+   "ideas": [
+    "Manhattan is the product of a ‘culture of congestion’ and not of a master plan.",
+    "Coney Island, the skyscraper and Rockefeller Center are read as stages of this culture.",
+    "The book is a retroactive manifesto: it sets out as a programme what the city did without declaring it.",
+    "The real metropolis, not the rational plan, is a source for design."
+   ],
+   "impact": "Published by Oxford University Press in New York in 1978, with illustrations by Madelon Vriesendorp and others. It is regarded as the founding text of Koolhaas’s work and of OMA, the office he founded in 1975.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "rem-koolhaas"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Rem Koolhaas",
+    "name": "Nueva York delirante",
+    "short": "Koolhaas",
+    "key": "El «manifiesto retroactivo para Manhattan» de Rem Koolhaas, de 1978, que lee la ciudad como producto de una cultura de la congestión y no de un plan.",
+    "ideas": [
+     "Manhattan es producto de una «cultura de la congestión» y no de un plan maestro.",
+     "Coney Island, el rascacielos y el Rockefeller Center se leen como etapas de esa cultura.",
+     "El libro es un manifiesto retroactivo: expone como programa lo que la ciudad hizo sin declararlo.",
+     "La metrópolis real, y no el plan racional, es una fuente de proyecto."
+    ],
+    "impact": "Publicado por Oxford University Press en Nueva York en 1978, con ilustraciones de Madelon Vriesendorp y otros. Se considera el texto fundador de la obra de Koolhaas y de OMA, la oficina que fundó en 1975.",
+    "date": "1978"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-visual-display-quantitative-information",
+   "level": "normal",
+   "year": 1983,
+   "date": "1983",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Edward Tufte",
+   "name": "The Visual Display of Quantitative Information",
+   "short": "Tufte",
+   "key": "Edward Tufte’s 1983 book on the design of statistical graphics, which argues for clarity, integrity and the removal of decoration.",
+   "ideas": [
+    "Graphical excellence gives the viewer the most ideas in the shortest time with the least ink.",
+    "The data-ink ratio: ink should show data, and non-data ink and chartjunk should be erased.",
+    "Graphics must be honest, with sizes in the picture matching the numbers they represent.",
+    "Small multiples and well-designed historical graphics, such as Minard’s map of Napoleon’s Russian campaign, are models."
+   ],
+   "impact": "Self-published by Tufte through Graphics Press in Cheshire, Connecticut, in 1983 and revised in 2001. It became a standard reference in information design and shaped the debate on charts in the age of computer graphics.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "william-playfair"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Edward Tufte",
+    "name": "The Visual Display of Quantitative Information",
+    "short": "Tufte",
+    "key": "El libro de Edward Tufte de 1983 sobre el diseño de gráficos estadísticos, que defiende la claridad, la integridad y la eliminación del adorno.",
+    "ideas": [
+     "La excelencia gráfica entrega al espectador el mayor número de ideas en el menor tiempo y con la menor cantidad de tinta.",
+     "La relación datos-tinta: la tinta debe mostrar datos, y la tinta que no lo hace y el adorno deben borrarse.",
+     "Los gráficos deben ser honestos, y los tamaños en la imagen deben corresponder a las cifras que representan.",
+     "Los pequeños múltiplos y los buenos gráficos históricos, como el mapa de Minard de la campaña de Napoleón en Rusia, son modelos."
+    ],
+    "impact": "Publicado por el propio Tufte con Graphics Press en Cheshire, Connecticut, en 1983 y revisado en 2001. Se volvió una referencia estándar del diseño de información y marcó el debate sobre los gráficos en la era de la computación gráfica.",
+    "date": "1983"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-towards-critical-regionalism",
+   "level": "essential",
+   "year": 1983,
+   "date": "1983",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "genre": "architecture",
+   "author": "Kenneth Frampton",
+   "name": "Towards a Critical Regionalism",
+   "short": "Frampton",
+   "key": "Kenneth Frampton’s 1983 essay, subtitled Six Points for an Architecture of Resistance, which defends an architecture rooted in place against a global universal civilisation.",
+   "ideas": [
+    "Architecture should resist the placeless sameness of universal civilisation without falling back on nostalgic local imitation.",
+    "Place-form, with its topography, climate and light, is a source of resistance.",
+    "The tactile, material and constructional qualities of a building count against its purely visual image.",
+    "It offers an alternative both to the International Style and to postmodern pastiche."
+   ],
+   "impact": "Published in Hal Foster’s collection The Anti-Aesthetic: Essays on Postmodern Culture (Bay Press, 1983). The term ‘critical regionalism’ had been coined shortly before by Alexander Tzonis and Liane Lefaivre; Frampton’s essay gave it its wider currency.",
+   "links": {
+    "movements": [
+     "critical-regionalism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Kenneth Frampton",
+    "name": "Hacia un regionalismo crítico",
+    "short": "Frampton",
+    "key": "El ensayo de Kenneth Frampton de 1983, subtitulado Seis puntos para una arquitectura de resistencia, que defiende una arquitectura arraigada en el lugar frente a la civilización universal global.",
+    "ideas": [
+     "La arquitectura debe resistir la uniformidad sin lugar de la civilización universal sin caer en la imitación local nostálgica.",
+     "La forma del lugar, con su topografía, clima y luz, es una fuente de resistencia.",
+     "Las cualidades táctiles, materiales y constructivas de un edificio pesan más que su imagen puramente visual.",
+     "Ofrece una alternativa tanto al estilo internacional como al pastiche posmoderno."
+    ],
+    "impact": "Publicado en la colección de Hal Foster The Anti-Aesthetic: Essays on Postmodern Culture (Bay Press, 1983). El término «regionalismo crítico» lo habían acuñado poco antes Alexander Tzonis y Liane Lefaivre; el ensayo de Frampton le dio su difusión más amplia.",
+    "date": "1983"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-deconstructivist-architecture",
+   "level": "essential",
+   "year": 1988,
+   "date": "1988",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Philip Johnson and Mark Wigley",
+   "name": "Deconstructivist Architecture (MoMA exhibition)",
+   "short": "Johnson and Wigley",
+   "key": "The 1988 exhibition at the Museum of Modern Art, curated by Philip Johnson and Mark Wigley, that named deconstructivism and grouped seven architects under it.",
+   "ideas": [
+    "Seven architects, Frank Gehry, Zaha Hadid, Rem Koolhaas, Daniel Libeskind, Peter Eisenman, Bernard Tschumi and Coop Himmelb(l)au, were shown together.",
+    "Their work disturbs the pure forms of modernism with distorted, colliding geometries.",
+    "The exhibition presented a sensibility rather than a manifesto or a school."
+   ],
+   "impact": "Held at the Museum of Modern Art in New York from June to August 1988 and accompanied by a catalogue by Johnson and Wigley. It fixed the label ‘deconstructivism’, which spread widely even though the architects themselves did not form a group.",
+   "links": {
+    "movements": [
+     "deconstructivism"
+    ],
+    "institutions": [
+     "inst-moma"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Philip Johnson y Mark Wigley",
+    "name": "Deconstructivist Architecture (exposición del MoMA)",
+    "short": "Johnson y Wigley",
+    "key": "La exposición de 1988 en el Museo de Arte Moderno, con curaduría de Philip Johnson y Mark Wigley, que bautizó el deconstructivismo y reunió bajo él a siete arquitectos.",
+    "ideas": [
+     "Se mostraron juntos siete arquitectos: Frank Gehry, Zaha Hadid, Rem Koolhaas, Daniel Libeskind, Peter Eisenman, Bernard Tschumi y Coop Himmelb(l)au.",
+     "Su obra perturba las formas puras del modernismo con geometrías distorsionadas que chocan entre sí.",
+     "La exposición presentó una sensibilidad y no un manifiesto ni una escuela."
+    ],
+    "impact": "Realizada en el Museo de Arte Moderno de Nueva York entre junio y agosto de 1988 y acompañada de un catálogo de Johnson y Wigley. Fijó la etiqueta «deconstructivismo», que se difundió ampliamente aunque los arquitectos no formaban un grupo.",
+    "date": "1988"
+   },
+   "refs": []
+  },
+  {
+   "id": "th-sml-xl",
+   "level": "normal",
+   "year": 1995,
+   "date": "1995",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "NL",
+    "CA"
+   ],
+   "genre": "architecture",
+   "author": "Rem Koolhaas and Bruce Mau",
+   "name": "S, M, L, XL",
+   "short": "Koolhaas",
+   "key": "The 1995 book-object by Rem Koolhaas and the designer Bruce Mau, gathering the work and essays of OMA, among them ‘Bigness’ and ‘The Generic City’.",
+   "ideas": [
+    "Beyond a certain size a building becomes ‘Bigness’, which escapes the control of conventional architectural composition.",
+    "The contemporary city is increasingly ‘generic’: similar everywhere, stripped of identity and history.",
+    "The projects and texts of OMA are organized by scale, from small to extra large."
+   ],
+   "impact": "Edited by Jennifer Sigler with Koolhaas and Mau, it was published in 1995 and is remembered as much for its dense, image-heavy book design as for its texts, and it became a landmark of architectural publishing.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "rem-koolhaas"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Rem Koolhaas y Bruce Mau",
+    "name": "S, M, L, XL",
+    "short": "Koolhaas",
+    "date": "1995",
+    "key": "El libro-objeto de 1995 de Rem Koolhaas y el diseñador Bruce Mau, que reúne la obra y los ensayos de OMA, entre ellos «Bigness» y «La ciudad genérica».",
+    "ideas": [
+     "Pasado cierto tamaño un edificio se vuelve «Bigness», que escapa al control de la composición arquitectónica convencional.",
+     "La ciudad contemporánea es cada vez más «genérica»: parecida en todas partes, sin identidad ni historia.",
+     "Los proyectos y textos de OMA se ordenan por escala, de lo pequeño a lo extragrande."
+    ],
+    "impact": "Editado por Jennifer Sigler junto con Koolhaas y Mau, se publicó en 1995 y se recuerda tanto por su diseño editorial denso y cargado de imágenes como por sus textos; se volvió un hito de la edición arquitectónica."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-charter-new-urbanism",
+   "level": "normal",
+   "year": 1996,
+   "date": "1996",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Congress for the New Urbanism",
+   "name": "Charter of the New Urbanism",
+   "short": "CNU",
+   "key": "The 1996 declaration of principles of the Congress for the New Urbanism, which calls for compact, walkable, mixed-use neighbourhoods against sprawl.",
+   "ideas": [
+    "Neighbourhoods should be compact, walkable and mixed in use and in the people they house.",
+    "Urban growth should be directed to existing centres and not to sprawl at the edge.",
+    "Public space and civic buildings should give the community its identity.",
+    "Architecture and landscape should respond to local history, climate and building practice."
+   ],
+   "impact": "Adopted in 1996 at the congress held in Charleston, South Carolina, three years after the Congress for the New Urbanism was founded, it became the movement’s founding statement and is the document that planners cite when they argue for walkable neighbourhoods.",
+   "links": {
+    "movements": [
+     "new-urbanism"
+    ],
+    "institutions": [
+     "inst-cnu"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Congreso para el Nuevo Urbanismo",
+    "name": "Carta del Nuevo Urbanismo",
+    "short": "CNU",
+    "date": "1996",
+    "key": "La declaración de principios de 1996 del Congreso para el Nuevo Urbanismo, que propone barrios compactos, caminables y de usos mixtos frente a la dispersión urbana.",
+    "ideas": [
+     "Los barrios deben ser compactos, caminables y mixtos, tanto en usos como en la gente que alojan.",
+     "El crecimiento urbano debe dirigirse a los centros existentes y no a la dispersión en la periferia.",
+     "El espacio público y los edificios cívicos deben dar identidad a la comunidad.",
+     "La arquitectura y el paisaje deben responder a la historia, el clima y las prácticas constructivas locales."
+    ],
+    "impact": "Adoptada en 1996 en el congreso celebrado en Charleston, Carolina del Sur, tres años después de la fundación del Congreso para el Nuevo Urbanismo, fue el texto fundacional del movimiento y el documento que citan los urbanistas al defender los barrios caminables."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-eyes-of-the-skin",
+   "level": "normal",
+   "year": 1996,
+   "date": "1996",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "genre": "architecture",
+   "author": "Juhani Pallasmaa",
+   "name": "The Eyes of the Skin",
+   "short": "Pallasmaa",
+   "key": "Juhani Pallasmaa’s 1996 essay on architecture and the senses, a critique of the dominance of vision in modern building.",
+   "ideas": [
+    "Modern architecture and culture privilege sight over the other senses.",
+    "Touch, sound, smell and the body’s movement are part of how we experience a building.",
+    "Architecture should engage the whole body and give a sense of materiality, shadow and atmosphere."
+   ],
+   "impact": "Published in London in 1996 under the subtitle ‘Architecture and the Senses’, it became a frequent reference for architects and students who seek a sensory, material architecture, and it is often read alongside the work of Peter Zumthor.",
+   "links": {
+    "movements": [
+     "architectural-minimalism"
+    ],
+    "institutions": [],
+    "designers": [
+     "peter-zumthor"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Juhani Pallasmaa",
+    "name": "Los ojos de la piel",
+    "short": "Pallasmaa",
+    "date": "1996",
+    "key": "El ensayo de 1996 de Juhani Pallasmaa sobre la arquitectura y los sentidos, una crítica al predominio de la vista en la construcción moderna.",
+    "ideas": [
+     "La arquitectura y la cultura modernas privilegian la vista sobre los demás sentidos.",
+     "El tacto, el sonido, el olor y el movimiento del cuerpo forman parte de cómo se experimenta un edificio.",
+     "La arquitectura debe involucrar todo el cuerpo y dar una sensación de materialidad, sombra y atmósfera."
+    ],
+    "impact": "Publicado en Londres en 1996 con el subtítulo «Architecture and the Senses», se volvió una referencia frecuente para arquitectos y estudiantes que buscan una arquitectura sensorial y material, y suele leerse junto con la obra de Peter Zumthor."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-parametricism-manifesto",
+   "level": "normal",
+   "year": 2008,
+   "date": "2008",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "DE"
+   ],
+   "genre": "architecture",
+   "author": "Patrik Schumacher",
+   "name": "Parametricism Manifesto",
+   "short": "Schumacher",
+   "key": "Patrik Schumacher’s 2008 manifesto presenting parametricism as the new architectural style that follows modernism.",
+   "ideas": [
+    "Parametricism is proclaimed as a new global style, the successor to modernism.",
+    "Parametric design tools make it possible to give buildings and cities continuous, differentiated and responsive forms.",
+    "The style rejects rigid, repetitive geometry and the collage of unrelated parts."
+   ],
+   "impact": "Schumacher, a partner of Zaha Hadid Architects, presented it at the Venice Architecture Biennale of 2008. It was widely debated, and critics questioned both the claim to a single style and its ideas of social order.",
+   "links": {
+    "movements": [
+     "parametricism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Patrik Schumacher",
+    "name": "Manifiesto del parametricismo",
+    "short": "Schumacher",
+    "date": "2008",
+    "key": "El manifiesto de 2008 de Patrik Schumacher que presenta el parametricismo como el nuevo estilo arquitectónico que sigue al modernismo.",
+    "ideas": [
+     "Se proclama el parametricismo como un nuevo estilo global, sucesor del modernismo.",
+     "Las herramientas de diseño paramétrico permiten dar a edificios y ciudades formas continuas, diferenciadas y sensibles al entorno.",
+     "El estilo rechaza la geometría rígida y repetitiva y el collage de partes sin relación."
+    ],
+    "impact": "Schumacher, socio de Zaha Hadid Architects, lo presentó en la Bienal de Arquitectura de Venecia de 2008. Fue muy debatido y la crítica cuestionó tanto la pretensión de un estilo único como sus ideas de orden social."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-bonsiepe-dependencia-1978",
+   "level": "normal",
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX",
+    "CL",
+    "AR"
+   ],
+   "genre": "society",
+   "author": "Gui Bonsiepe",
+   "name": "Industrial design, technology and dependence",
+   "short": "Bonsiepe",
+   "key": "An essay by Gui Bonsiepe, a designer trained at Ulm who worked in Chile, on how design in countries on the periphery depends on imported technology and what designers can do about it.",
+   "ideas": [
+    "Design in Latin America cannot be understood apart from the technological dependence of its industry on the industrialised countries.",
+    "Copying products and styles from the centre does not answer local needs.",
+    "Design can be a tool for technological autonomy, if it is tied to local industry, materials and real needs.",
+    "The designer's role is political as well as technical: choosing which problems to solve is part of the work."
+   ],
+   "impact": "Bonsiepe, born in Germany, studied at the Ulm school and worked in Chile and other Latin American countries in the 1970s. The text is widely cited in Latin American discussion of design, development and the periphery.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "gui-bonsiepe"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Gui Bonsiepe",
+    "name": "Diseño industrial, tecnología y dependencia",
+    "short": "Bonsiepe",
+    "date": "1978",
+    "key": "Un ensayo de Gui Bonsiepe, diseñador formado en Ulm que trabajó en Chile, sobre cómo el diseño en los países de la periferia depende de la tecnología importada y qué pueden hacer los diseñadores al respecto.",
+    "ideas": [
+     "El diseño en América Latina no se entiende sin la dependencia tecnológica de su industria respecto de los países industrializados.",
+     "Copiar productos y estilos del centro no responde a las necesidades locales.",
+     "El diseño puede ser una herramienta de autonomía tecnológica, si se liga a la industria, los materiales y las necesidades reales del lugar.",
+     "El papel del diseñador es político además de técnico: elegir qué problemas resolver es parte del trabajo."
+    ],
+    "impact": "Bonsiepe, nacido en Alemania, estudió en la escuela de Ulm y trabajó en Chile y otros países latinoamericanos en los años setenta. El texto se cita ampliamente en la discusión latinoamericana sobre diseño, desarrollo y periferia."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-hebdige-subculture-1979",
+   "level": "normal",
+   "year": 1979,
+   "date": "1979",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "society",
+   "author": "Dick Hebdige",
+   "name": "Subculture: The Meaning of Style",
+   "short": "Hebdige",
+   "key": "Dick Hebdige’s 1979 book, which reads the clothes and objects of British youth subcultures, above all the punks, as a language of resistance.",
+   "ideas": [
+    "Style in a subculture is a form of communication: clothes, music and objects carry meaning.",
+    "Subcultures take everyday objects and give them new meanings, a process of bricolage; the punks’ safety pin is the usual example.",
+    "Subcultural styles express rejection of, and tension with, the dominant culture.",
+    "The fashion and music industries tend to absorb a subculture’s style and sell it back."
+   ],
+   "impact": "Published in London by Methuen in 1979 and written in the tradition of British cultural studies, it studies mods, skinheads, rastas and punks. It became a basic text for the study of youth style, fashion and, later, streetwear.",
+   "links": {
+    "movements": [
+     "punk-fashion"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Dick Hebdige",
+    "name": "Subcultura: el significado del estilo",
+    "short": "Hebdige",
+    "date": "1979",
+    "key": "El libro de Dick Hebdige de 1979, que lee la ropa y los objetos de las subculturas juveniles británicas, sobre todo los punks, como un lenguaje de resistencia.",
+    "ideas": [
+     "El estilo de una subcultura es una forma de comunicación: la ropa, la música y los objetos portan significado.",
+     "Las subculturas toman objetos cotidianos y les dan nuevos significados, un proceso de bricolaje; el alfiler de gancho de los punks es el ejemplo habitual.",
+     "Los estilos subculturales expresan rechazo y tensión frente a la cultura dominante.",
+     "Las industrias de la moda y de la música tienden a absorber el estilo de una subcultura y a venderlo de vuelta."
+    ],
+    "impact": "Publicado en Londres por Methuen en 1979 y escrito en la tradición de los estudios culturales británicos, estudia a mods, skinheads, rastas y punks. Se volvió un texto básico para el estudio del estilo juvenil, la moda y, más tarde, el streetwear."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-forty-objects-desire-1986",
+   "level": "normal",
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "history",
+   "author": "Adrian Forty",
+   "name": "Objects of Desire: Design and Society since 1750",
+   "short": "Forty",
+   "key": "Adrian Forty’s social history of design, which explains designed goods through the industries, markets and ideas that shaped them rather than through the genius of designers.",
+   "ideas": [
+    "Design is not the neutral result of a designer’s taste: it is shaped by the way goods are made, sold and used.",
+    "Designed objects carry ideas about the world, such as ideas of class, gender, hygiene or modernity.",
+    "Factory production, the division of labour and the growth of consumption changed what designers did and what they designed.",
+    "The history of design belongs with economic and social history."
+   ],
+   "impact": "Published in London by Thames & Hudson in 1986, it covers design from the mid-eighteenth century to the twentieth and has been widely read in design courses. It is close in spirit to this timeline’s own approach, which presents design as a response to its context.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "josiah-wedgwood"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Adrian Forty",
+    "name": "Objetos de deseo: diseño y sociedad desde 1750",
+    "short": "Forty",
+    "date": "1986",
+    "key": "La historia social del diseño de Adrian Forty, que explica los bienes diseñados por las industrias, los mercados y las ideas que los moldearon, y no por el genio de los diseñadores.",
+    "ideas": [
+     "El diseño no es el resultado neutro del gusto de un diseñador: lo moldea la manera en que los bienes se fabrican, se venden y se usan.",
+     "Los objetos diseñados portan ideas sobre el mundo, como ideas de clase, de género, de higiene o de modernidad.",
+     "La producción en fábrica, la división del trabajo y el crecimiento del consumo cambiaron lo que hacían los diseñadores y lo que diseñaban.",
+     "La historia del diseño pertenece junto a la historia económica y social."
+    ],
+    "impact": "Publicado en Londres por Thames & Hudson en 1986, abarca el diseño desde mediados del siglo XVIII hasta el siglo XX y se ha leído mucho en los cursos de diseño. Es cercano en espíritu al enfoque de esta línea de tiempo, que presenta el diseño como respuesta a su contexto."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-brundtland-1987",
+   "level": "normal",
+   "year": 1987,
+   "date": "1987",
+   "regions": [
+    "global"
+   ],
+   "countries": [],
+   "genre": "society",
+   "author": "World Commission on Environment and Development",
+   "name": "Our Common Future (Brundtland Report)",
+   "short": "Brundtland",
+   "key": "The 1987 report of the United Nations commission chaired by Gro Harlem Brundtland, which defined sustainable development and gave the idea its public standing.",
+   "ideas": [
+    "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own.",
+    "Environmental protection and economic development have to be treated together, not as opposites.",
+    "Poverty and environmental damage are linked, so the needs of the poor deserve priority.",
+    "Governments, industry and citizens share responsibility for changing patterns of production and consumption."
+   ],
+   "impact": "The commission was set up by the United Nations in 1983 and chaired by Norway’s Gro Harlem Brundtland; its report was published in 1987. Its definition became the common starting point for later environmental policy and for sustainable design.",
+   "links": {
+    "movements": [
+     "sustainable-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Comisión Mundial sobre el Medio Ambiente y el Desarrollo",
+    "name": "Nuestro futuro común (Informe Brundtland)",
+    "short": "Brundtland",
+    "date": "1987",
+    "key": "El informe de 1987 de la comisión de las Naciones Unidas presidida por Gro Harlem Brundtland, que definió el desarrollo sostenible y dio a la idea su lugar público.",
+    "ideas": [
+     "El desarrollo sostenible es el que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras de satisfacer las suyas.",
+     "La protección ambiental y el desarrollo económico deben tratarse juntos, no como opuestos.",
+     "La pobreza y el daño ambiental están ligados, por lo que las necesidades de los pobres merecen prioridad.",
+     "Gobiernos, industria y ciudadanos comparten la responsabilidad de cambiar los patrones de producción y consumo."
+    ],
+    "impact": "La comisión fue creada por las Naciones Unidas en 1983 y presidida por la noruega Gro Harlem Brundtland; su informe se publicó en 1987. Su definición se volvió el punto de partida común de la política ambiental posterior y del diseño sostenible."
+   },
+   "refs": []
+  }
+ ]
+}

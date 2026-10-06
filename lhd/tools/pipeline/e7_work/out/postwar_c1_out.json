@@ -1,0 +1,127 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-festival-of-britain",
+  "track": "cultural",
+  "start": 1951,
+  "end": 1951,
+  "date": "1951",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "name": "Festival of Britain",
+  "short": "Festival of Britain",
+  "key": "The national exhibition of 1951, centred on London’s South Bank, which showed modern British design to a public still living with wartime austerity.",
+  "happened": "The Festival of Britain ran through the summer of 1951, a century after the Great Exhibition, with its main site on the South Bank of the Thames in London. It included the Royal Festival Hall, the Skylon tower and the Dome of Discovery, and events across the country. Its aim was to show Britain’s achievements in science, industry and the arts after the war.",
+  "effect": "The Festival gave modern design a large public stage in Britain: furniture, textiles and graphics in a light, contemporary style were seen by millions of visitors and became associated with a new, optimistic Britain. Designers such as Lucienne Day, whose Calyx fabric was shown there, gained wide recognition, and the official selection of exhibits by the Council of Industrial Design helped to set a state-backed taste for modern design.",
+  "es": {
+   "name": "Festival de Gran Bretaña",
+   "short": "Festival Britain",
+   "date": "1951",
+   "key": "La exposición nacional de 1951, centrada en la ribera sur de Londres, que mostró el diseño moderno británico a un público que aún vivía la austeridad de la guerra.",
+   "happened": "El Festival de Gran Bretaña se realizó durante el verano de 1951, un siglo después de la Gran Exposición, con su sede principal en la ribera sur del Támesis, en Londres. Incluyó el Royal Festival Hall, la torre Skylon y el Dome of Discovery, además de actividades en todo el país. Su propósito era mostrar los logros británicos en la ciencia, la industria y las artes después de la guerra.",
+   "effect": "El Festival dio al diseño moderno un gran escenario público en Gran Bretaña: muebles, telas y gráfica de estilo ligero y contemporáneo fueron vistos por millones de visitantes y quedaron asociados a una Gran Bretaña nueva y optimista. Diseñadoras como Lucienne Day, cuya tela Calyx se mostró allí, ganaron un amplio reconocimiento, y la selección oficial de objetos por el Council of Industrial Design ayudó a fijar un gusto moderno respaldado por el Estado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-civil-rights",
+  "track": "social",
+  "start": 1954,
+  "end": 1975,
+  "date": "c. 1954–1975",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "name": "Civil rights and Black Power movements",
+  "short": "Civil rights",
+  "key": "The struggle against racial segregation and discrimination in the United States, from the 1950s to the 1970s, which produced its own militant graphics and a wider social critique of design.",
+  "happened": "After the Supreme Court’s 1954 school-desegregation ruling, the civil rights movement used boycotts, marches and legislation to challenge segregation. From the mid-1960s the Black Power movement and groups such as the Black Panther Party turned to community organising and self-defence. The movements drew attention far beyond the United States.",
+  "effect": "The movements needed to reach their own communities and the public outside the established media, so they produced direct, high-contrast newspapers, posters and badges that treated graphics as political tools. Their cause also became a subject for designers abroad: posters made in Cuba for international solidarity, for example, took up the African American struggle as part of a worldwide fight against oppression.",
+  "es": {
+   "name": "Derechos civiles y Black Power",
+   "short": "Derechos civiles",
+   "date": "c. 1954–1975",
+   "key": "La lucha contra la segregación y la discriminación racial en Estados Unidos, desde los años cincuenta hasta los setenta, que produjo su propia gráfica militante y una crítica social más amplia del diseño.",
+   "happened": "Tras el fallo de la Corte Suprema de 1954 sobre la integración escolar, el movimiento de derechos civiles usó boicots, marchas y leyes para enfrentar la segregación. Desde mediados de los años sesenta, el movimiento Black Power y grupos como el Partido Pantera Negra se volcaron a la organización comunitaria y la autodefensa. Los movimientos atrajeron la atención mucho más allá de Estados Unidos.",
+   "effect": "Los movimientos necesitaban llegar a sus propias comunidades y al público fuera de los medios establecidos, y por eso produjeron periódicos, carteles y chapas directos y de alto contraste que trataban la gráfica como herramienta política. Su causa también pasó a ser tema para diseñadores de otros países: los carteles hechos en Cuba para la solidaridad internacional, por ejemplo, incorporaron la lucha afroestadounidense a una lucha mundial contra la opresión."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-suez-crisis-1956",
+  "track": "political",
+  "start": 1956,
+  "end": 1957,
+  "date": "1956–1957",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "GB",
+   "EG"
+  ],
+  "name": "Suez Crisis and fuel rationing",
+  "short": "Suez Crisis",
+  "key": "The 1956 crisis over the Suez Canal, which led to petrol rationing in Britain and made small, economical cars a priority.",
+  "happened": "In July 1956 Egypt nationalised the Suez Canal, and in the autumn Britain and France, with Israel, attacked Egypt. The canal was blocked and oil supplies from the Middle East were disrupted. Petrol was rationed in Britain from the end of 1956 into 1957.",
+  "effect": "The shortage made fuel economy a pressing concern for car buyers and makers. At the British Motor Corporation it strengthened the case for a very small, economical car, and Alec Issigonis was asked to design one for four people; the result was the Mini of 1959.",
+  "es": {
+   "name": "Crisis de Suez y racionamiento de combustible",
+   "short": "Crisis de Suez",
+   "date": "1956–1957",
+   "key": "La crisis de 1956 por el canal de Suez, que llevó al racionamiento de bencina en Gran Bretaña y puso en primer plano los autos pequeños y económicos.",
+   "happened": "En julio de 1956 Egipto nacionalizó el canal de Suez y, en otoño, Gran Bretaña y Francia, junto con Israel, atacaron Egipto. El canal quedó bloqueado y el suministro de petróleo desde Oriente Medio se vio alterado. La bencina se racionó en Gran Bretaña desde fines de 1956 hasta 1957.",
+   "effect": "La escasez hizo del ahorro de combustible una preocupación urgente para compradores y fabricantes de autos. En la British Motor Corporation reforzó la idea de un auto muy pequeño y económico, y Alec Issigonis recibió el encargo de diseñar uno para cuatro personas; el resultado fue el Mini de 1959."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-festival-of-britain",
+  "item": "day-calyx-1951",
+  "note": "The Festival put modern interiors before the public; Lucienne Day’s abstract Calyx fabric was shown there and became a symbol of the new British design.",
+  "es": {
+   "note": "El Festival mostró interiores modernos al público; la tela abstracta Calyx de Lucienne Day se exhibió allí y se volvió símbolo del nuevo diseño británico."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-festival-of-britain",
+  "item": "inst-design-council",
+  "note": "The Festival needed a coherent modern display, so the Council of Industrial Design chose the exhibits, giving the state’s taste for modern design a public form.",
+  "es": {
+   "note": "El Festival requería una muestra moderna coherente, y el Council of Industrial Design eligió los objetos, dando forma pública al gusto estatal por el diseño moderno."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-civil-rights",
+  "item": "icaic-ospaaal-posters",
+  "note": "Cuban solidarity posters treated the African American struggle as part of a worldwide fight against oppression, a theme the OSPAAAL took up in its screen-printed posters.",
+  "es": {
+   "note": "Los carteles cubanos de solidaridad vieron la lucha afroestadounidense como parte de una lucha mundial contra la opresión, tema que la OSPAAAL abordó en sus carteles serigráficos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-suez-crisis-1956",
+  "item": "mini-1959",
+  "note": "Petrol rationing after Suez made economy urgent, so BMC asked Issigonis for a very small car that carried four people: the Mini.",
+  "es": {
+   "note": "El racionamiento de bencina tras Suez volvió urgente el ahorro, así que BMC pidió a Issigonis un auto muy pequeño para cuatro personas: el Mini."
+  },
+  "refs": []
+ }
+]

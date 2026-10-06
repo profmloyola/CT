@@ -1,0 +1,139 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-division-of-labour",
+   "track": "economic",
+   "start": 1750,
+   "end": 1850,
+   "date": "1750–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Division of Labour and the Factory System",
+   "short": "Division of labour",
+   "key": "Splitting production into simple, repeated tasks under one roof made goods cheaper and uniform, and made design a separate step before making.",
+   "happened": "Adam Smith described the division of labour in The Wealth of Nations (1776), using pin-making as his example. Workshops and factories such as Josiah Wedgwood’s Etruria (opened 1769) assigned each worker a limited task instead of one craftsman making the whole object.",
+   "effect": "When no single worker made the whole object, someone had to decide its form beforehand, and drawings, models and pattern books became the means of control. Designing became a role apart from making, which is the origin of the professional designer.",
+   "es": {
+    "name": "División del trabajo y sistema de fábrica",
+    "short": "División del trabajo",
+    "date": "1750–1850",
+    "key": "Dividir la producción en tareas simples y repetidas bajo un mismo techo abarató y uniformó los productos, y convirtió el diseño en un paso separado previo a la fabricación.",
+    "happened": "Adam Smith describió la división del trabajo en La riqueza de las naciones (1776), con la fabricación de alfileres como ejemplo. Talleres y fábricas como la Etruria de Josiah Wedgwood (abierta en 1769) asignaron a cada operario una tarea limitada, en vez de que un artesano hiciera todo el objeto.",
+    "effect": "Cuando ningún trabajador hacía el objeto completo, alguien debía decidir su forma de antemano, y los dibujos, los modelos y los catálogos de patrones se volvieron el medio de control. Diseñar pasó a ser un papel aparte del de fabricar, y de ahí viene el diseñador profesional."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-cotton-colonial-trade",
+   "track": "economic",
+   "start": 1750,
+   "end": 1850,
+   "date": "1750–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Colonial Trade and Cotton",
+   "short": "Cotton trade",
+   "key": "Trade with the colonies brought raw cotton and exotic goods to Europe, and created mass demand for light printed cloth.",
+   "happened": "Cotton fabrics from India, first imported by European trading companies, became fashionable in Europe, and British mills later spun cotton grown in the Americas, including by enslaved labour. Cotton became Britain’s leading manufacture in the early nineteenth century.",
+   "effect": "Cheap, washable cotton could take printed colour patterns, so demand for new patterns grew and pattern designers became a trade. Printers sought faster methods to cover large orders, which pushed textile printing from hand blocks towards copper rollers and cylinders.",
+   "es": {
+    "name": "Comercio colonial y algodón",
+    "short": "Comercio del algodón",
+    "date": "1750–1850",
+    "key": "El comercio con las colonias llevó a Europa algodón en bruto y bienes exóticos, y creó una demanda masiva de telas livianas estampadas.",
+    "happened": "Las telas de algodón de la India, importadas al principio por las compañías comerciales europeas, se pusieron de moda en Europa, y después las hilanderías británicas procesaron algodón cultivado en América, también con trabajo esclavo. El algodón se volvió la principal manufactura británica a comienzos del siglo XIX.",
+    "effect": "El algodón barato y lavable admitía patrones de color impresos, de modo que creció la demanda de dibujos nuevos y el dibujante de estampados se volvió un oficio. Los estampadores buscaron métodos más rápidos para cubrir pedidos grandes, lo que llevó el estampado textil de los bloques manuales a los rodillos de cobre y los cilindros."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-middle-class-consumption",
+   "track": "economic",
+   "start": 1750,
+   "end": 1850,
+   "date": "1750–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Middle-Class Consumption",
+   "short": "Middle-class demand",
+   "key": "A growing urban middle class with money to spend created a market for fashionable household goods, which makers met with catalogues and standard lines.",
+   "happened": "Trade, manufacture and the professions enlarged the group of families in Britain and other parts of Europe that could buy more than necessities. They bought tableware, furniture, clothing and printed matter, and shops, periodicals and trade catalogues advertised new models.",
+   "effect": "Makers had to appeal to buyers they did not know, so appearance, novelty and fashion became selling points. Illustrated catalogues and pattern books such as Thomas Chippendale’s Director (1754) offered designs to be copied, and manufacturers such as Wedgwood sold elegant goods at moderate prices.",
+   "es": {
+    "name": "Consumo de clase media",
+    "short": "Consumo clase media",
+    "date": "1750–1850",
+    "key": "Una clase media urbana en crecimiento y con dinero para gastar creó un mercado de bienes domésticos de moda, que los fabricantes atendieron con catálogos y líneas estándar.",
+    "happened": "El comercio, la manufactura y las profesiones ampliaron el grupo de familias de Gran Bretaña y de otras partes de Europa que podían comprar más que lo necesario. Compraban vajilla, muebles, ropa e impresos, y las tiendas, las revistas y los catálogos comerciales anunciaban los modelos nuevos.",
+    "effect": "Los fabricantes debieron atraer a compradores que no conocían, así que la apariencia, la novedad y la moda se volvieron argumentos de venta. Los catálogos ilustrados y los libros de modelos, como el Director de Thomas Chippendale (1754), ofrecieron diseños para copiar, y fabricantes como Wedgwood vendieron objetos elegantes a precios moderados."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-registered-designs",
+   "track": "economic",
+   "start": 1839,
+   "end": 1842,
+   "date": "1839–1842",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Legal Registration of Designs",
+   "short": "Registered designs",
+   "key": "British laws of 1839 and 1842 gave manufacturers legal protection for new designs, so a design became a property that could be owned and copied only by licence.",
+   "happened": "Acts of 1839 and 1842 extended legal protection to new designs for manufactured goods, and the 1842 law set up a register of ornamental designs. Before this, a pattern could be copied by rivals as soon as it was on sale.",
+   "effect": "If a pattern could be protected, a manufacturer could profit from paying for original designs, which gave employers a reason to train and hire designers. It also made the design a separate, legally defined object, distinct from the thing it decorated.",
+   "es": {
+    "name": "Registro legal de diseños",
+    "short": "Diseños registrados",
+    "date": "1839–1842",
+    "key": "Las leyes británicas de 1839 y 1842 dieron a los fabricantes protección legal para los diseños nuevos, de modo que el diseño se volvió una propiedad que solo podía copiarse con licencia.",
+    "happened": "Las leyes de 1839 y 1842 extendieron la protección legal a los diseños nuevos de productos manufacturados, y la de 1842 creó un registro de diseños ornamentales. Antes, los rivales podían copiar un patrón en cuanto salía a la venta.",
+    "effect": "Si un patrón podía protegerse, al fabricante le convenía pagar por diseños originales, lo que dio a los empleadores una razón para formar y contratar diseñadores. También hizo del diseño un objeto separado y definido por la ley, distinto de la cosa que decoraba."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-american-system",
+   "track": "economic",
+   "start": 1800,
+   "end": 1880,
+   "date": "c. 1800–1880",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "American system of manufactures",
+   "short": "American system",
+   "key": "The American method of making goods from standardized, interchangeable parts with machine tools, first developed in arms manufacture and later extended to other products.",
+   "happened": "In the early nineteenth century the United States national armories at Springfield and Harpers Ferry worked toward firearms whose parts could be exchanged between pieces, using gauges and specialized machine tools. Private arms makers and, later, makers of clocks, sewing machines and other goods took up these methods, and by the mid-century British observers were describing them as an American system.",
+   "effect": "Designing for interchangeable parts meant fixing standard components and shapes that machines could repeat and that owners could repair or replace. This approach lies behind products such as the sewing machine and the typewriter, and it prepared the ground for Ford's Model T and for the assembly line of Fordism.",
+   "es": {
+    "name": "Sistema estadounidense de manufactura (piezas intercambiables)",
+    "short": "Sistema estadounidense",
+    "date": "c. 1800–1880",
+    "key": "El método estadounidense de fabricar bienes con piezas estandarizadas e intercambiables y máquinas-herramienta, desarrollado primero en la fabricación de armas y extendido después a otros productos.",
+    "happened": "A comienzos del siglo XIX las armerías nacionales de Springfield y Harpers Ferry trabajaron por lograr armas de fuego cuyas piezas pudieran intercambiarse entre unidades, con calibres y máquinas-herramienta especializadas. Fabricantes privados de armas y, más tarde, de relojes, máquinas de coser y otros bienes adoptaron esos métodos, y a mediados de siglo observadores británicos los describían como un sistema estadounidense.",
+    "effect": "Diseñar para piezas intercambiables obligó a fijar componentes y formas estándar que las máquinas pudieran repetir y que los dueños pudieran reparar o reemplazar. Este enfoque está detrás de productos como la máquina de coser y la máquina de escribir, y preparó el terreno para el Model T de Ford y la cadena de montaje del fordismo."
+   },
+   "refs": []
+  }
+ ]
+}

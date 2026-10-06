@@ -1,0 +1,384 @@
+[
+ {
+  "rtype": "production",
+  "id": "safety-elevator",
+  "sub": "tools",
+  "start": 1853,
+  "end": 1913,
+  "cont": true,
+  "date": "1853 →",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "name": "Safety elevator",
+  "short": "Safety elevator",
+  "key": "The passenger lift fitted with Elisha Otis’s safety brake, which made the upper floors of tall buildings safe and rentable.",
+  "origin": "Hoists existed before, but a snapped rope meant a fall. Elisha Otis developed a safety brake in the early 1850s and showed it at the New York exhibition of 1853–54, and the first Otis passenger lift went into a New York department store in 1857.",
+  "enabled": "Passengers could ride a steam-driven or later electric car without fear that a broken rope would send it down the shaft. Floors that no one wished to climb to could now be used for offices, shops and homes.",
+  "change": "Height stopped being a drawback: the top floors, once the cheapest, became attractive, and architects could plan buildings of many storeys around a shaft of lifts. Together with the steel frame it made the skyscraper a practical building type.",
+  "economy": "Otis’s firm in New York grew into the leading maker of lifts. Developers, who rent floor area, saw taller buildings pay, which pushed tall office buildings in American cities.",
+  "relations": "The lift is the technical condition of the tall office building, built with iron and steel frames in Chicago and New York in the 1880s and 1890s.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Ascensor de seguridad",
+   "short": "Ascensor seguridad",
+   "date": "1853 →",
+   "key": "El ascensor de pasajeros con el freno de seguridad de Elisha Otis, que hizo seguros y arrendables los pisos altos de los edificios.",
+   "origin": "Ya existían montacargas, pero una cuerda cortada significaba una caída. Elisha Otis desarrolló un freno de seguridad a comienzos de la década de 1850 y lo mostró en la exposición de Nueva York de 1853–54, y el primer ascensor de pasajeros Otis se instaló en 1857 en una tienda por departamentos de Nueva York.",
+   "enabled": "Los pasajeros podían subir en una cabina movida a vapor y más tarde eléctrica sin temer que una cuerda rota la precipitara por el hueco. Pisos a los que nadie quería subir a pie pasaron a usarse como oficinas, tiendas y viviendas.",
+   "change": "La altura dejó de ser un inconveniente: los pisos superiores, antes los más baratos, pasaron a ser atractivos, y los arquitectos pudieron proyectar edificios de muchos pisos en torno a un hueco de ascensores. Junto con la estructura de acero hizo del rascacielos un tipo de edificio viable.",
+   "economy": "La empresa de Otis en Nueva York llegó a ser el principal fabricante de ascensores. A los promotores, que arriendan superficie, les convenía construir más alto, lo que impulsó los edificios de oficinas altos en las ciudades estadounidenses.",
+   "relations": "El ascensor es la condición técnica del edificio de oficinas alto, levantado con estructuras de hierro y acero en Chicago y Nueva York en las décadas de 1880 y 1890."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-morris-hopes-fears-1882",
+  "level": "essential",
+  "year": 1882,
+  "date": "1882",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "genre": "criticism",
+  "author": "William Morris",
+  "name": "Hopes and Fears for Art",
+  "short": "Morris",
+  "key": "William Morris’s collection of lectures on the ‘lesser arts’, labour and the life of ordinary people, the founding text of Arts and Crafts thinking.",
+  "ideas": [
+   "The ‘lesser arts’ of everyday objects, houses and furnishings matter as much as painting and sculpture, and an age that neglects them is impoverished.",
+   "Art should be made by the people and for the people, as a source of pleasure to the maker as well as to the user.",
+   "Industrial production divorces the worker from the pleasure of making and fills the market with poor, imitative goods.",
+   "Beauty in daily life depends on a change in how society organises work."
+  ],
+  "impact": "The lectures were given from the late 1870s and gathered in a book published in London in 1882, with ‘The Lesser Arts’ and ‘The Art of the People’ among its chapters. They set out the social aim of the Arts and Crafts movement, which took up Morris’s call for honest handwork and a more equal society.",
+  "links": {
+   "movements": [
+    "arts-and-crafts"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "William Morris",
+   "name": "Esperanzas y temores para el arte",
+   "short": "Morris",
+   "date": "1882",
+   "key": "La colección de conferencias de William Morris sobre las «artes menores», el trabajo y la vida de la gente común, texto fundador del pensamiento del Arts and Crafts.",
+   "ideas": [
+    "Las «artes menores» de los objetos cotidianos, las casas y el mobiliario importan tanto como la pintura y la escultura, y una época que las descuida se empobrece.",
+    "El arte debe ser hecho por el pueblo y para el pueblo, como fuente de placer tanto para quien lo hace como para quien lo usa.",
+    "La producción industrial separa al trabajador del placer de hacer y llena el mercado de bienes pobres e imitativos.",
+    "La belleza en la vida diaria depende de un cambio en la forma en que la sociedad organiza el trabajo."
+   ],
+   "impact": "Las conferencias se dieron desde fines de la década de 1870 y se reunieron en un libro publicado en Londres en 1882, con «The Lesser Arts» y «The Art of the People» entre sus capítulos. Expusieron el propósito social del movimiento Arts and Crafts, que recogió el llamado de Morris a un trabajo manual honesto y a una sociedad más igualitaria."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-wright-art-craft-machine-1901",
+  "level": "normal",
+  "year": 1901,
+  "date": "1901",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "manifesto",
+  "author": "Frank Lloyd Wright",
+  "name": "The Art and Craft of the Machine",
+  "short": "Wright",
+  "key": "Frank Lloyd Wright’s 1901 lecture at Hull House in Chicago, which accepted the machine as the artist’s tool and called for simple forms designed for it.",
+  "ideas": [
+   "The machine is the characteristic tool of the age, and the artist should master it instead of avoiding it.",
+   "Machine work suits plain surfaces and simple forms, not imitations of handcarving.",
+   "Handcraft revivals that copy old hand-made ornament by machine misuse the tool.",
+   "Wright shared the Arts and Crafts regard for honest materials, but argued that Morris’s rejection of the machine was mistaken."
+  ],
+  "impact": "Wright gave it at Hull House, the Chicago settlement house, in 1901, in the circle of the city’s Arts and Crafts society. It is cited in nearly every history as the American answer to Morris, and it set out ideas on simplicity and the machine that Wright kept developing in his work.",
+  "links": {
+   "movements": [
+    "arts-and-crafts"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Frank Lloyd Wright",
+   "name": "El arte y el oficio de la máquina",
+   "short": "Wright",
+   "date": "1901",
+   "key": "La conferencia de Frank Lloyd Wright de 1901 en Hull House, Chicago, que aceptó la máquina como herramienta del artista y pidió formas simples pensadas para ella.",
+   "ideas": [
+    "La máquina es la herramienta característica de la época, y el artista debe dominarla en lugar de evitarla.",
+    "El trabajo a máquina conviene a superficies lisas y formas simples, no a imitaciones de talla a mano.",
+    "Los renacimientos artesanales que copian a máquina el ornamento hecho a mano usan mal la herramienta.",
+    "Wright compartía la estima del Arts and Crafts por los materiales honestos, pero sostenía que el rechazo de la máquina por parte de Morris era un error."
+   ],
+   "impact": "Wright la dio en Hull House, la casa de asentamiento de Chicago, en 1901, en el círculo de la sociedad de Arts and Crafts de la ciudad. Se cita en casi toda historia como la respuesta estadounidense a Morris, y expuso ideas sobre la simplicidad y la máquina que Wright siguió desarrollando en su obra."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-simmel-fashion-1904",
+  "level": "normal",
+  "year": 1904,
+  "date": "1904",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "genre": "society",
+  "author": "Georg Simmel",
+  "name": "Fashion",
+  "short": "Simmel",
+  "key": "Georg Simmel’s classic essay of 1904 explaining fashion as a balance between imitation and distinction, spreading from the upper classes downward.",
+  "ideas": [
+   "Fashion answers two needs at once: to imitate others and belong, and to set oneself apart.",
+   "A fashion starts in a higher class; when lower classes imitate it, the higher class drops it for a new one.",
+   "Fashion changes faster the more quickly it can spread, so it flourishes in wealthy, mobile societies.",
+   "A fashion marks a group from outside and binds it from within."
+  ],
+  "impact": "The essay appeared in 1904 in an American journal and in German the next year in a book on the philosophy of fashion. It became the standard starting point for sociological accounts of dress and taste, and the ‘trickle-down’ model it describes is still discussed and challenged.",
+  "links": {
+   "movements": [],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Georg Simmel",
+   "name": "La moda",
+   "short": "Simmel",
+   "date": "1904",
+   "key": "El ensayo clásico de Georg Simmel de 1904 que explica la moda como un equilibrio entre imitación y distinción, difundido desde las clases altas hacia abajo.",
+   "ideas": [
+    "La moda responde a dos necesidades a la vez: imitar a otros y pertenecer, y distinguirse.",
+    "Una moda nace en una clase alta; cuando las clases bajas la imitan, la clase alta la abandona por una nueva.",
+    "La moda cambia más rápido mientras más rápido puede difundirse, por lo que florece en sociedades ricas y móviles.",
+    "Una moda marca a un grupo hacia fuera y lo une hacia dentro."
+   ],
+   "impact": "El ensayo apareció en 1904 en una revista estadounidense y en alemán al año siguiente, en un libro sobre la filosofía de la moda. Se volvió el punto de partida habitual de los estudios sociológicos del vestido y el gusto, y el modelo «de arriba abajo» que describe sigue discutiéndose y cuestionándose."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-darmstadt-colony",
+  "level": "normal",
+  "kind": "association",
+  "disciplines": [
+   "architecture",
+   "product",
+   "graphic"
+  ],
+  "start": 1899,
+  "end": 1914,
+  "place": "Darmstadt",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "name": "Darmstadt Artists’ Colony",
+  "short": "Darmstadt colony",
+  "key": "The artists’ colony founded by Grand Duke Ernst Ludwig of Hesse on the Mathildenhöhe in 1899, where architects and artists built houses, furnishings and exhibitions as a total work of art.",
+  "more": "Ernst Ludwig invited a group of artists to live and work on the Mathildenhöhe hill, among them the Austrian architect Joseph Maria Olbrich and the German Peter Behrens. The colony held exhibitions there, beginning in 1901, in which the houses, interiors and objects were themselves the show. Olbrich designed most of the main buildings, including the studio building known as the Ernst Ludwig House, while Behrens built and furnished his own house. The colony wound down around 1914.",
+  "links": {
+   "movements": [],
+   "designers": [
+    "joseph-maria-olbrich"
+   ],
+   "works": []
+  },
+  "es": {
+   "name": "Colonia de Artistas de Darmstadt (Mathildenhöhe)",
+   "short": "Colonia de Darmstadt",
+   "place": "Darmstadt",
+   "key": "La colonia de artistas fundada por el gran duque Ernesto Luis de Hesse en la Mathildenhöhe en 1899, donde arquitectos y artistas construyeron casas, mobiliario y exposiciones como obra de arte total.",
+   "more": "Ernesto Luis invitó a un grupo de artistas a vivir y trabajar en la colina de la Mathildenhöhe, entre ellos el arquitecto austríaco Joseph Maria Olbrich y el alemán Peter Behrens. La colonia realizó allí exposiciones, desde 1901, en las que las casas, los interiores y los objetos eran la propia muestra. Olbrich proyectó la mayoría de los edificios principales, entre ellos el edificio de talleres conocido como Casa Ernesto Luis, mientras que Behrens construyó y amobló su propia casa. La colonia se fue apagando hacia 1914."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "plakatstil",
+  "level": "normal",
+  "disciplines": [
+   "graphic"
+  ],
+  "start": 1905,
+  "end": 1920,
+  "fadeIn": 1,
+  "fadeOut": 2,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "name": "Plakatstil (object poster)",
+  "short": "Plakatstil",
+  "key": "A German poster style that began in 1905 and reduced the image to the advertised object in flat colour with the brand name in large letters.",
+  "traits": [
+   "The product alone, drawn simply",
+   "Flat areas of strong colour",
+   "Brand name in large, bold lettering",
+   "Little or no background or narrative",
+   "Reads at a glance from the street"
+  ],
+  "context": "It arose in Berlin, where brand advertising was growing and posters competed on the street. Lucian Bernhard’s poster for Priester matches of 1905 reduced a busier design to two matches and the name, and it became the model. Ludwig Hohlwein in Munich later developed his own, more painterly version. The style faded around 1920.",
+  "shift": "From the illustrated poster, with scene and decoration, to an image that delivered the product and its name in one look. It set a pattern for later brand-led advertising, in which an object and a name carry the message.",
+  "links": {
+   "movements": [],
+   "designers": [],
+   "works": [
+    "priester-matches-1905"
+   ]
+  },
+  "es": {
+   "name": "Plakatstil (cartel de objeto)",
+   "short": "Plakatstil",
+   "key": "Un estilo alemán de cartel que comenzó en 1905 y redujo la imagen al objeto anunciado, en color plano y con el nombre de la marca en letras grandes.",
+   "traits": [
+    "Solo el producto, dibujado con sencillez",
+    "Áreas planas de color fuerte",
+    "Nombre de la marca en letras grandes y gruesas",
+    "Poco o ningún fondo ni narración",
+    "Se lee de un vistazo desde la calle"
+   ],
+   "context": "Surgió en Berlín, donde crecía la publicidad de marcas y los carteles competían en la calle. El cartel de Lucian Bernhard para los fósforos Priester de 1905 redujo un diseño más cargado a dos fósforos y el nombre, y se volvió el modelo. Ludwig Hohlwein, en Múnich, desarrolló después su propia versión, más pictórica. El estilo decayó hacia 1920.",
+   "shift": "Del cartel ilustrado, con escena y decoración, a una imagen que entrega el producto y su nombre de una sola mirada. Fijó un patrón para la publicidad posterior centrada en la marca, en que un objeto y un nombre llevan el mensaje."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-maison-art-nouveau",
+  "level": "normal",
+  "kind": "company",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "start": 1895,
+  "end": 1905,
+  "place": "Paris",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "name": "Maison de l'Art Nouveau (Siegfried Bing)",
+  "short": "Maison Art Nouveau",
+  "key": "Siegfried Bing’s Paris gallery, opened in 1895, which showed new decorative arts and gave Art Nouveau its name.",
+  "more": "Bing, a dealer who had made his name selling Japanese art, opened the shop in Paris in December 1895 and commissioned furniture, glass, ceramics and objects from designers such as Henry van de Velde and Louis Comfort Tiffany. It gave the style its name, and he showed an Art Nouveau pavilion at the Paris exposition of 1900. The gallery closed in about 1904–05.",
+  "links": {
+   "movements": [
+    "art-nouveau"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Maison de l'Art Nouveau (Siegfried Bing)",
+   "short": "Maison Art Nouveau",
+   "place": "París",
+   "key": "La galería parisina de Siegfried Bing, abierta en 1895, que mostró las nuevas artes decorativas y dio su nombre al Art Nouveau.",
+   "more": "Bing, un marchante que se había hecho un nombre vendiendo arte japonés, abrió la tienda en París en diciembre de 1895 y encargó muebles, vidrio, cerámica y objetos a diseñadores como Henry van de Velde y Louis Comfort Tiffany. Dio su nombre al estilo, y en la exposición de París de 1900 presentó un pabellón Art Nouveau. La galería cerró hacia 1904–05."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-victorian-taste-crisis",
+  "item": "th-morris-hopes-fears-1882",
+  "note": "Poor, over-decorated industrial goods → Morris calls for an art made by the people and for the people, with pleasure in the making.",
+  "es": {
+   "note": "Bienes industriales pobres y recargados → Morris pide un arte hecho por el pueblo y para el pueblo, con placer en el hacer."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-labour-movement",
+  "item": "th-morris-hopes-fears-1882",
+  "note": "Concern for the factory worker’s life → Morris ties the quality of everyday objects to a change in how work is organised.",
+  "es": {
+   "note": "La preocupación por la vida del obrero fabril → Morris liga la calidad de los objetos cotidianos a un cambio en la organización del trabajo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-second-industrial-revolution",
+  "item": "th-wright-art-craft-machine-1901",
+  "note": "Machines that cut and repeat with precision → Wright argues for plain forms designed for the machine, not imitations of handwork.",
+  "es": {
+   "note": "Máquinas que cortan y repiten con precisión → Wright defiende formas simples pensadas para la máquina, no imitaciones del trabajo manual."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-department-stores",
+  "item": "th-simmel-fashion-1904",
+  "note": "Mass retail spreads goods quickly across classes → Simmel explains fashion as imitation from below and distinction from above.",
+  "es": {
+   "note": "El comercio masivo difunde rápido los bienes entre clases → Simmel explica la moda como imitación desde abajo y distinción desde arriba."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-national-unifications",
+  "item": "inst-darmstadt-colony",
+  "note": "German states compete for cultural and industrial prestige → the Hesse court sponsors a model of housing and applied arts.",
+  "es": {
+   "note": "Los Estados alemanes compiten por prestigio cultural e industrial → la corte de Hesse patrocina un modelo de vivienda y artes aplicadas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-advertising-catalogue",
+  "item": "plakatstil",
+  "note": "Brand advertising needs the product recognised at a glance → posters reduce the image to a flat object and a large name.",
+  "es": {
+   "note": "La publicidad de marcas exige reconocer el producto de un vistazo → el cartel reduce la imagen a un objeto plano y un nombre grande."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-japonisme",
+  "item": "inst-maison-art-nouveau",
+  "note": "Bing, a dealer in Japanese art, turns that taste into a programme of new decorative arts shown in his Paris gallery.",
+  "es": {
+   "note": "Bing, marchante de arte japonés, convierte ese gusto en un programa de nuevas artes decorativas expuestas en su galería de París."
+  },
+  "refs": []
+ }
+]

@@ -1,0 +1,506 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-avant-gardes",
+   "track": "cultural",
+   "start": 1914,
+   "end": 1939,
+   "date": "1914–1939",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "IT",
+    "DE",
+    "CH",
+    "NL",
+    "RU"
+   ],
+   "name": "Historical avant-gardes",
+   "short": "Avant-gardes",
+   "key": "Cubism, Futurism, Dada and Surrealism broke with academic art and ornament and published their ideas in manifestos and magazines.",
+   "happened": "Cubism took shape in Paris from 1907[6] and Futurism was launched by Marinetti’s manifesto in 1909.[5] Dada began in Zurich in 1916 and spread to Berlin,[1] where artists such as George Grosz and John Heartfield developed photomontage as an art form.[7][8] De Stijl began as a magazine in 1917,[3] Constructivism emerged in Russia around 1915 and by 1921 had turned to production,[4] and Surrealism was founded in Paris in 1924.[2]",
+   "effect": "Geometry, collage and montage became working tools for design: De Stijl carried its strict geometry into architecture and furniture,[3] the Constructivists wanted art to become useful production,[4] and photomontage became a vehicle of political satire in print.[8] Several groups set out to apply art directly to everyday life.",
+   "wiki": "Avant-garde",
+   "es": {
+    "name": "Vanguardias históricas",
+    "short": "Vanguardias",
+    "date": "1914–1939",
+    "key": "El cubismo, el futurismo, el dadá y el surrealismo rompieron con el arte académico y el ornamento, y publicaron sus ideas en manifiestos y revistas.",
+    "happened": "El cubismo se formó en París desde 1907[6] y el futurismo se lanzó con el manifiesto de Marinetti en 1909.[5] El dadá nació en Zúrich en 1916 y pasó a Berlín,[1] donde artistas como George Grosz y John Heartfield desarrollaron el fotomontaje como forma de arte.[7][8] De Stijl comenzó como revista en 1917,[3] el constructivismo surgió en Rusia hacia 1915 y hacia 1921 había pasado a la producción,[4] y el surrealismo se fundó en París en 1924.[2]",
+    "effect": "La geometría, el collage y el montaje se volvieron herramientas de trabajo del diseño: De Stijl llevó su geometría estricta a la arquitectura y el mobiliario,[3] los constructivistas querían que el arte pasara a ser producción útil,[4] y el fotomontaje se convirtió en vehículo de sátira política impresa.[8] Varios grupos se propusieron llevar el arte directamente a la vida diaria."
+   },
+   "refs": [
+    {
+     "label": "Tate, art term «Dada»",
+     "url": "https://www.tate.org.uk/art/art-terms/d/dada",
+     "checks": "Dada nació en Zúrich en 1916 en el Cabaret Voltaire, con Hugo Ball; se extendió como movimiento internacional a otros centros, entre ellos Berlín. ⚠ El resumen leído no trata el fotomontaje.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, art term «Surrealism»",
+     "url": "https://www.tate.org.uk/art/art-terms/s/surrealism",
+     "checks": "El surrealismo se fundó formalmente en París en 1924 con el Manifiesto surrealista de André Breton.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, art term «De Stijl»",
+     "url": "https://www.tate.org.uk/art/art-terms/d/de-stijl",
+     "checks": "De Stijl: círculo neerlandés basado en una geometría estricta de horizontales y verticales; comenzó como revista en 1917 con Mondrian y Van Doesburg; incluyó a los arquitectos Rietveld y Oud; influyó en el diseño y la arquitectura modernos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, art term «Constructivism»",
+     "url": "https://www.tate.org.uk/art/art-terms/constructivism",
+     "checks": "El constructivismo surgió en Rusia hacia 1915 (Tatlin, Ródchenko); hacia 1921 sostenía que el arte debía reflejar el mundo industrial moderno y pasar a la producción de objetos útiles (manifiesto de 1923).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, art term «Futurism»",
+     "url": "https://www.tate.org.uk/art/art-terms/f/futurism",
+     "checks": "Marinetti lanzó el futurismo el 20 de febrero de 1909 con el Manifiesto del futurismo, publicado en Le Figaro (París); rechazo de los museos y elogio de la velocidad.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, «What is Cubism?»",
+     "url": "https://www.moma.org/collection/terms/cubism/what-is-cubism",
+     "checks": "El cubismo se desarrolló en París desde 1907, con Braque y Picasso, rechazando la representación ilusionista de la apariencia.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Art Story, «Photomontage»",
+     "url": "https://www.theartstory.org/definition/photomontage/",
+     "checks": "Los artistas dadá de Berlín llevaron el fotomontaje a su forma artística moderna hacia 1916; Grosz y Heartfield reclamaron su invención, Höch la remitió a técnicas comerciales previas. ⚠ Fuente secundaria; por eso el texto dice «desarrollaron», no «inventaron».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Akron Art Museum, guía «John Heartfield» (PDF)",
+     "url": "https://akronartmuseum.org/wp-content/uploads/2020/01/Heartfield.pdf",
+     "checks": "Heartfield cofundó el grupo dadá de Berlín; fue de los primeros en usar el fotomontaje como forma de arte y probablemente el primero en usarlo para la sátira política.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-cinema",
+   "track": "cultural",
+   "start": 1914,
+   "end": 1945,
+   "cont": true,
+   "date": "1914 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "RU",
+    "FR"
+   ],
+   "name": "Cinema",
+   "short": "Cinema",
+   "key": "Film became the great mass medium of the period, with Hollywood dominant after 1914 and a strong avant-garde cinema in Europe and the Soviet Union.",
+   "happened": "Hollywood built a star system that set fashions, and in Germany and the Soviet Union filmmakers experimented with montage, close-ups and unusual camera angles.",
+   "effect": "Film offered designers montage, close-ups and the dynamic angle, and theorists of the ‘new vision’ such as Moholy-Nagy, who published Painting, Photography, Film in 1925, treated it as a medium on a par with painting and photography.[1] Stars made clothes and shoes fashionable: in 1923 Salvatore Ferragamo opened the Hollywood Boot Shop and the press called him ‘shoemaker to the stars’,[2] and Sonia Delaunay’s designs were worn by French film stars.[3]",
+   "wiki": "History_of_film",
+   "es": {
+    "name": "Cine",
+    "short": "Cine",
+    "date": "1914 →",
+    "key": "El cine se volvió el gran medio de masas del período, con Hollywood dominante desde 1914 y un fuerte cine de vanguardia en Europa y la Unión Soviética.",
+    "happened": "Hollywood armó un sistema de estrellas que imponía modas, y en Alemania y la Unión Soviética los cineastas experimentaron con el montaje, el primer plano y los ángulos de cámara inusuales.",
+    "effect": "El cine ofreció a quienes diseñaban el montaje, el primer plano y el ángulo dinámico, y los teóricos de la «nueva visión», como Moholy-Nagy, que publicó Malerei, Photographie, Film en 1925, lo trataron como un medio a la par de la pintura y la fotografía.[1] Las estrellas pusieron de moda ropa y zapatos: en 1923 Salvatore Ferragamo abrió la Hollywood Boot Shop y la prensa lo llamó «el zapatero de las estrellas»,[2] y los diseños de Sonia Delaunay los llevaron estrellas del cine francés.[3]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-843",
+     "checks": "En la Bauhaus se ocupó de diseño tipográfico y cine experimental; publicó «Malerei, Photographie, Film» (1925), que trata pintura, fotografía y cine como disciplinas visuales emparentadas. ⚠ La ficha no describe el contenido del libro más allá del título.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondazione Ferragamo, «Salvatore Ferragamo»",
+     "url": "https://fondazione.ferragamo.com/en/salvatore-ferragamo",
+     "checks": "En 1923 abrió la Hollywood Boot Shop y la prensa lo llamó «zapatero de las estrellas»; las divas del cine fueron clientas fieles.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Musée des Tissus de Lyon, «Les tissus simultanés de Sonia Delaunay»",
+     "url": "https://www.museedestissus.fr/pret/227:pret-musee-des-tissus-exposition-les-tissus-simultanes-sonia-delaunay",
+     "checks": "Los diseños de Sonia Delaunay se difundieron en la prensa y en círculos influyentes, llevados por las grandes estrellas del cine francés de la época.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-illustrated-press",
+   "track": "cultural",
+   "start": 1920,
+   "end": 1939,
+   "date": "1920s–1930s",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "DE",
+    "RU",
+    "US",
+    "CL"
+   ],
+   "name": "Illustrated press",
+   "short": "Illustrated press",
+   "key": "Weekly magazines filled with photographs reached mass readerships and gave designers and photographers a new outlet.",
+   "happened": "Picture weeklies such as the Berliner Illustrirte Zeitung, with a circulation of more than two million in the 1930s,[1] and the left-wing AIZ, which sold some 500,000 copies a week by 1933,[2][3] were followed by Life in the United States in 1936.[4] Small hand-held cameras and rotogravure printing let magazines publish many photographs at scale.[5]",
+   "effect": "Photographs and layout were combined in picture spreads and photo-essays that told stories through images;[5] and photomontage turned the magazine page into a field for political argument[3] and for the avant-garde visual language that AIZ brought to its readers.[2]",
+   "wiki": "Arbeiter-Illustrierte-Zeitung",
+   "es": {
+    "name": "Prensa ilustrada",
+    "short": "Prensa ilustrada",
+    "date": "años 1920–1930",
+    "key": "Revistas semanales llenas de fotografías llegaron a públicos masivos y dieron a diseñadores y fotógrafos un nuevo espacio.",
+    "happened": "Semanarios gráficos como el Berliner Illustrirte Zeitung, con una tirada de más de dos millones de ejemplares en los años treinta,[1] y la AIZ, de izquierda, que vendía unos 500.000 ejemplares por semana hacia 1933,[2][3] fueron seguidos por Life en Estados Unidos en 1936.[4] Las cámaras de mano pequeñas y el huecograbado rotativo permitieron a las revistas publicar muchas fotografías a gran escala.[5]",
+    "effect": "Fotografía y diagramación se combinaron en páginas dobles y reportajes gráficos que contaban historias con imágenes;[5] y el fotomontaje convirtió la página de revista en un campo de argumentación política[3] y en un espacio para el lenguaje visual de vanguardia que la AIZ llevó a sus lectores.[2]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, «Berliner Illustrirte Zeitung» (Object:Photo)",
+     "url": "https://www.moma.org/interactives/objectphoto/publications/786.html",
+     "checks": "Semanario ilustrado de Ullstein (1882–1945); más de un millón de ejemplares hacia 1920 y más de dos millones en los años treinta; las fotografías en el centro de la revista.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Künste im Exil, «Arbeiter-Illustrierte-Zeitung (AIZ)»",
+     "url": "https://kuenste-im-exil.de/KIE/Content/EN/Topics/aiz-en.html",
+     "checks": "Fundada por Münzenberg en 1921 (desde 1924 con el nombre AIZ); unos 500.000 ejemplares semanales vendidos hacia 1933; desde 1930 publicó los fotomontajes satíricos de Heartfield; llevó a sus lectores arte de vanguardia de la escena dadá con fines propagandísticos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Akron Art Museum, guía «John Heartfield» (PDF)",
+     "url": "https://akronartmuseum.org/wp-content/uploads/2020/01/Heartfield.pdf",
+     "checks": "AIZ: semanario antifascista de izquierda, para la clase obrera, con tirada de más de 500.000 a comienzos de los años treinta; Heartfield, quizá el primero en usar el fotomontaje para la sátira política.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MFA Boston, «LIFE Magazine and the Power of Photography»",
+     "url": "https://www.mfa.org/exhibition/life-magazine-and-the-power-of-photography",
+     "checks": "LIFE se publicó semanalmente de 1936 a 1972; fotografías en diagramaciones dramáticas llamadas foto-ensayos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Photojournalism and the Picture Press in Germany»",
+     "url": "https://www.metmuseum.org/toah/hd/phpp/hd_phpp.htm",
+     "checks": "BIZ como semanario más popular; AIZ de izquierda con los fotomontajes de Heartfield; cámaras de mano pequeñas (Erich Salomon); huecograbado rotativo para reproducir a gran escala; los editores desarrollaron el foto-ensayo, con páginas que cuentan historias con imágenes. ⚠ Leída mediante resumen: «barata» no aparece en el texto leído.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-paris-1925",
+   "track": "cultural",
+   "start": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Paris 1925 Exposition",
+   "short": "Paris 1925",
+   "key": "The International Exhibition of Modern Decorative and Industrial Arts, held in Paris in 1925, which later gave Art Deco its name.[5]",
+   "happened": "Open from April to October 1925,[1][2] it drew some 16 million visitors by one count[1][3] (about 15 million paid admissions by another[2]). Exhibits had to be modern, not copies of historic styles.[1][3] Germany was not invited[1][2] and the United States declined to take part.[2][4]",
+   "effect": "It showed luxury decorative arts and modern design side by side: French showpieces such as Pierre Patout’s Hôtel d’un collectionneur[3] next to Le Corbusier’s Esprit Nouveau pavilion, which showed a standard housing cell and mass-produced furniture and aimed to ‘deny decorative art’,[6] Melnikov’s Soviet pavilion[7] and Sonia Delaunay’s textiles.[8]",
+   "wiki": "International_Exhibition_of_Modern_Decorative_and_Industrial_Arts",
+   "es": {
+    "name": "Exposición de París 1925",
+    "short": "París 1925",
+    "date": "1925",
+    "key": "La Exposición Internacional de Artes Decorativas e Industriales Modernas, celebrada en París en 1925, que más tarde dio nombre al art déco.[5]",
+    "happened": "Abierta de abril a octubre de 1925,[1][2] recibió unos 16 millones de visitantes según un recuento[1][3] (unos 15 millones de entradas pagadas según otro[2]). Lo expuesto tenía que ser moderno y no copia de estilos históricos.[1][3] Alemania no fue invitada[1][2] y Estados Unidos declinó participar.[2][4]",
+    "effect": "Mostró juntos las artes decorativas de lujo y el diseño moderno: obras francesas de lucimiento como el Hôtel d’un collectionneur de Pierre Patout[3] al lado del pabellón del Esprit Nouveau de Le Corbusier, que mostraba una célula de vivienda estándar y mobiliario de serie y buscaba «negar el arte decorativo»,[6] el pabellón soviético de Mélnikov[7] y los textiles de Sonia Delaunay.[8]"
+   },
+   "refs": [
+    {
+     "label": "Art Deco Society UK, «L’Exposition Internationale des Arts Décoratifs et Industriels Modernes»",
+     "url": "https://www.artdecosociety.uk/l-exposition-internationale-des-arts-decoratifs-et-industriels-modernes-1925-paris-copy/",
+     "checks": "Abierta de abril a octubre de 1925, con 16 millones de visitantes; los objetos debían mostrar «originalidad genuina, cumplir una necesidad práctica y expresar una inspiración moderna», sin reproducciones históricas; Alemania no fue invitada; el pabellón de Le Corbusier fue aprobado por el Ministerio de Bellas Artes. ⚠ Sociedad de aficionados; coincide con las otras fuentes.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Arthur Chandler, «1925 Art Deco Exposition: History, Images, Interpretation»",
+     "url": "https://www.arthurchandler.com/1925-art-deco-exposition",
+     "checks": "Del 25 de abril al 25 de octubre de 1925; 15.019.000 entradas pagadas; la exposición quiso mostrar un nuevo estilo decorativo sin apoyarse en la tradición; Alemania no fue invitada; Estados Unidos declinó participar (su espacio pasó a Japón).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "ArchDaily, «AD Classics: Exposition Internationale des Arts Décoratifs et Industriels Modernes»",
+     "url": "https://www.archdaily.com/793367/ad-classics-exposition-internationale-des-arts-decoratifs-et-industriels-modernes",
+     "checks": "Unos 16 millones de visitantes en seis meses; ningún diseño podía basarse en estilos históricos; pabellón soviético constructivista de Mélnikov; el «Hôtel d’un collectionneur» de Pierre Patout como obra maestra del art déco francés. ⚠ Revista de arquitectura; sobre EE. UU. da otra explicación, por eso se usan Chandler y EBSCO.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "EBSCO Research Starters, «Paris Exhibition Defines Art Deco»",
+     "url": "https://www.ebsco.com/research-starters/history/paris-exhibition-defines-art-deco",
+     "checks": "El presidente Hoover declinó la invitación y no hubo pabellón estadounidense. ⚠ Su fecha de apertura («mayo–junio») no coincide con las demás; no se usa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "New York Public Library, «Art Deco: 95 Years and Thriving»",
+     "url": "https://www.nypl.org/blog/2020/11/09/art-deco-95-years-and-thriving",
+     "checks": "Exposición de abril a octubre de 1925; según Bevis Hillier (1968) el nombre «Art Deco» deriva de la exposición.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Pavillon de l’Esprit Nouveau»",
+     "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-esprit-nouveau-pavilion-paris-france-1924-1925/",
+     "checks": "Célula de vivienda en L y mobiliario industrial de serie (casilleros de madera, mesas de acero tubular cromado); lema «negar el arte decorativo»; los organizadores levantaron una valla para ocultarlo y el Ministerio de Bellas Artes ordenó demolerla.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "RIBA Journal, «Soviet Pavilion, Exposition internationale des arts décoratifs et industriels modernes»",
+     "url": "https://www.ribaj.com/culture/soviet-pavilion-exposition-internationale-des-arts-decoratifs-et-industriels-modernes-paris/",
+     "checks": "Pabellón soviético de Konstantín Mélnikov, 1925: dos volúmenes triangulares acristalados unidos por una escalera diagonal; atención internacional inmediata.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Musée des Tissus de Lyon, «Les tissus simultanés de Sonia Delaunay»",
+     "url": "https://www.museedestissus.fr/pret/227:pret-musee-des-tissus-exposition-les-tissus-simultanes-sonia-delaunay",
+     "checks": "En 1925 Sonia Delaunay compartió con Jacques Heim una «boutique simultanée» en el puente Alejandro III, con tejidos «simultáneos», ropa y accesorios; «le Tout-Paris» acudió.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-paris-1937",
+   "track": "cultural",
+   "start": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "ES",
+    "DE",
+    "FI"
+   ],
+   "name": "Paris 1937 Exposition",
+   "short": "Paris 1937",
+   "key": "The 1937 International Exposition of Art and Technology in Modern Life, where rival nations used pavilions as propaganda on the eve of war.",
+   "happened": "Open from May to November 1937,[1][2] with more than 40 countries[1][2] and more than 31 million visitors.[1][2] The German and Soviet pavilions faced each other near the Eiffel Tower;[1] the Spanish Republic, at war, showed Picasso’s Guernica.[3][4]",
+   "effect": "Architecture and exhibition design became political statements: the German and Soviet pavilions set two ideologies against each other,[1][2] and the Spanish Republic’s pavilion was meant as ‘the loudspeaker in Europe of the republican cause’.[3] Smaller countries also used modern design to present themselves to the world, as Finland did with Aalto’s pavilion and glassware.[5]",
+   "wiki": "Exposition_Internationale_des_Arts_et_Techniques_dans_la_Vie_Moderne",
+   "es": {
+    "name": "Exposición de París 1937",
+    "short": "París 1937",
+    "date": "1937",
+    "key": "La Exposición Internacional de Artes y Técnicas en la Vida Moderna de 1937, donde naciones rivales usaron sus pabellones como propaganda en vísperas de la guerra.",
+    "happened": "Abierta de mayo a noviembre de 1937,[1][2] con más de 40 países[1][2] y más de 31 millones de visitantes.[1][2] Los pabellones alemán y soviético se enfrentaban cerca de la torre Eiffel;[1] la República española, en guerra, mostró el Guernica de Picasso.[3][4]",
+    "effect": "La arquitectura y el diseño de exposiciones se volvieron declaraciones políticas: los pabellones alemán y soviético enfrentaban dos ideologías[1][2] y el de la República española buscaba ser «el altavoz en Europa de la causa republicana».[3] Países más pequeños también usaron el diseño moderno para presentarse ante el mundo, como Finlandia con el pabellón y la cristalería de Aalto.[5]"
+   },
+   "refs": [
+    {
+     "label": "Warfare History Network, «Clash of Ideology at the Paris Expo»",
+     "url": "https://warfarehistorynetwork.com/clash-of-ideology-at-the-paris-expo/",
+     "checks": "Del 25 de mayo al 25 de noviembre de 1937 (185 días); más de 31 millones de visitantes; otros pabellones encargados por 44 países; los pabellones alemán y soviético, uno frente al otro, junto a la torre Eiffel. ⚠ Revista de divulgación histórica.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Greyscape, «Exposition Internationale Paris 1937»",
+     "url": "https://www.greyscape.com/architects/paris-1937-exposition/",
+     "checks": "25 de mayo–25 de noviembre de 1937; 31.040.955 asistentes; 46 países; título oficial «Exposition Internationale des Arts et Techniques dans la Vie Moderne»; pabellón alemán de Speer frente al soviético de Iofan; pabellón español de Sert con el Guernica; pabellón finlandés de Aalto. ⚠ Sitio de divulgación; la cifra de países difiere de la de Warfare History Network.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museu Nacional d’Art de Catalunya, «El Pabellón de la República Española en París»",
+     "url": "https://www.museunacional.cat/es/el-pabellon-de-la-republica-espanola-en-paris",
+     "checks": "Pabellón de Sert y Lacasa, inaugurado en julio de 1937; «altavoz en Europa de la causa republicana» para obtener apoyo internacional contra el fascismo; mostró el Guernica de Picasso, La Montserrat de González, la Fuente de mercurio de Calder y el Payés catalán en rebeldía de Miró.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museo Reina Sofía, repositorio Guernica, «The endurance of the pavilion» (1937)",
+     "url": "https://guernica.museoreinasofia.es/en/story/endurance-pavilion-1937",
+     "checks": "El gobierno español decidió participar pese a la guerra que lo desgarraba; el edificio de Lacasa y Sert, de líneas simples y materiales básicos; el Guernica entre las obras expuestas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Alvar Aalto Foundation, «Aalto vase»",
+     "url": "https://www.alvaraalto.fi/en/work/aalto-vase/",
+     "checks": "La primera serie de la cristalería de Aalto se hizo para la sección finlandesa de la Exposición de París de 1937, en el pabellón finlandés diseñado también por Aalto; concurso de 1936.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-semana-arte-moderna",
+   "track": "cultural",
+   "start": 1922,
+   "date": "1922",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "name": "Modern Art Week",
+   "short": "Modern Art Week",
+   "key": "A festival of modern art, music and poetry in São Paulo in February 1922 that marks the start of Brazilian modernism.",
+   "happened": "Held at the Theatro Municipal of São Paulo from 13 to 17 February 1922,[1][2][4] in the centenary year of independence,[3][4] it was organised mainly by Emiliano Di Cavalcanti, with Mário de Andrade and Oswald de Andrade among its leading figures;[3] Di Cavalcanti drew the cover of its catalogue and programme.[1][4]",
+   "effect": "It opened Brazil to a modernism that sought to be both international and national,[3][4] a climate in which modern architecture was later received in São Paulo, from Warchavchik’s 1925 manifesto to the Casa Modernista of 1928.[5] Influence, not strict cause.",
+   "wiki": "Modern_Art_Week",
+   "es": {
+    "name": "Semana de Arte Moderno",
+    "short": "Semana de 1922",
+    "date": "1922",
+    "key": "Un festival de arte, música y poesía modernos realizado en São Paulo en febrero de 1922, que marca el inicio del modernismo brasileño.",
+    "happened": "Se celebró en el Theatro Municipal de São Paulo del 13 al 17 de febrero de 1922,[1][2][4] en el año del centenario de la independencia,[3][4] organizada principalmente por Emiliano Di Cavalcanti, con Mário de Andrade y Oswald de Andrade entre sus figuras principales;[3] Di Cavalcanti dibujó la portada de su catálogo y programa.[1][4]",
+    "effect": "Abrió Brasil a un modernismo que quería ser a la vez internacional y nacional,[3][4] clima en el que luego se recibió en São Paulo la arquitectura moderna, desde el manifiesto de Warchavchik de 1925 hasta la Casa Modernista de 1928.[5] Influencia, no causa estricta."
+   },
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Capa do catálogo da exposição da Semana de Arte Moderna»",
+     "url": "https://enciclopedia.itaucultural.org.br/obras/105426-capa-do-catalogo-da-exposicao-da-semana-de-arte-moderna",
+     "checks": "Semana de Arte Moderna, 13/2/1922–17/2/1922; Di Cavalcanti diseñó la portada del catálogo (archivo del IEB-USP). ⚠ No trata el recinto ni los organizadores.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "ICAA/MFAH, «Semana de Arte Moderna: catalogo da exposição, S. Paulo 1922»",
+     "url": "https://icaa.mfah.org/s/en/item/781791",
+     "checks": "Catálogo: del 13 al 17 de febrero de 1922, Teatro Municipal de São Paulo; portada ilustrada por Emiliano Di Cavalcanti; unas cien obras expuestas (arquitectura, escultura, pintura).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MAM Rio, «Centenário da Semana de Arte Moderna de 1922»",
+     "url": "https://mam.rio/programacao/centenario-da-semana-de-arte-moderna-de-1922/",
+     "checks": "Theatro Municipal de São Paulo (13, 15 y 17 de febrero), para conmemorar el centenario de la independencia; Di Cavalcanti, principal organizador, diseñó el afiche y la portada del catálogo; entre las figuras, Mário y Oswald de Andrade; hito inicial del modernismo brasileño que rompió con el academicismo e introdujo las vanguardias europeas. ⚠ Página institucional de divulgación.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fundação Clóvis Salgado, «Centenário da Semana de Arte Moderna de 1922»",
+     "url": "https://fcs.mg.gov.br/centenario-da-semana-de-arte-moderna-de-1922/",
+     "checks": "Del 13 al 17 de febrero de 1922 en el Theatro Municipal de São Paulo; Di Cavalcanti autor de la portada del programa; financiada por Paulo Prado; año del centenario de la independencia, que acentúa la búsqueda de identidad nacional; Mário de Andrade y su registro de la cultura regional.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Ibram, Visite Museus, «Museu da Cidade de São Paulo – Casa Modernista»",
+     "url": "https://visite.museus.gov.br/instituicoes/museu-da-cidade-de-sao-paulo-casa-modernista/",
+     "checks": "La Semana de 1922 como evento más emblemático de la ruptura artística en São Paulo; manifiesto «Acerca da Arquitetura Moderna» de Warchavchik (1925); Casa Modernista (1928), primera obra de arquitectura moderna en Brasil, con debate público en la prensa.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-mexican-muralism",
+   "track": "cultural",
+   "start": 1921,
+   "end": 1939,
+   "date": "1920s–1930s",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "name": "Mexican muralism",
+   "short": "Muralism",
+   "key": "After the Revolution, the Mexican state commissioned murals on public buildings to educate the masses about the nation’s history and culture.",
+   "happened": "The Ministry of Public Education, created in 1921 under José Vasconcelos, commissioned the first murals in 1922.[1][2] Diego Rivera, José Clemente Orozco and David Alfaro Siqueiros led the movement,[1] and their union published the newspaper El Machete from 1924.[2] The programme aimed to give voice to and educate the masses about Mexico’s cultural and historical legacies.[1]",
+   "effect": "Art was meant to be public, political and accessible to the people.[1][4] That programme passed to cheap printed graphics: in 1937 the Taller de Gráfica Popular took up prints, posters and flyers for wide distribution, as an alternative to the mural,[3][4] and Rivera had his own studio-house built in functionalist architecture, which he valued for its low cost and social sense of housing.[5]",
+   "wiki": "Mexican_muralism",
+   "es": {
+    "name": "Muralismo mexicano",
+    "short": "Muralismo",
+    "date": "años 1920–1930",
+    "key": "Después de la Revolución, el Estado mexicano encargó murales en edificios públicos para educar a las masas sobre la historia y la cultura de la nación.",
+    "happened": "La Secretaría de Educación Pública, creada en 1921 con José Vasconcelos, encargó los primeros murales en 1922.[1][2] Diego Rivera, José Clemente Orozco y David Alfaro Siqueiros encabezaron el movimiento,[1] y su sindicato publicó el periódico El Machete desde 1924.[2] El programa buscaba dar voz y educar a las masas sobre el legado cultural e histórico de México.[1]",
+    "effect": "El arte debía ser público, político y accesible al pueblo.[1][4] Ese programa pasó a la gráfica impresa barata: en 1937 el Taller de Gráfica Popular adoptó estampas, carteles y volantes de amplia distribución, como alternativa al mural,[3][4] y Rivera hizo construir su propia casa-estudio de arquitectura funcionalista, que valoraba por su bajo costo y su sentido social de la vivienda.[5]"
+   },
+   "refs": [
+    {
+     "label": "PMC, «How a Few Individuals Brought about a Cultural Cusp: From a Mexican Mural Program to a Movement»",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6901651/",
+     "checks": "La SEP se creó en octubre de 1921 bajo José Vasconcelos; los primeros murales se encargaron en 1922; Rivera, Orozco y Siqueiros lideraron el movimiento; El Machete y el sindicato SOTPE los crearon Siqueiros, Rivera y otros artistas del programa de la SEP; el programa buscaba dar voz y educar a las masas sobre el legado cultural e histórico de México. ⚠ Artículo científico (no de historia del arte).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "SciELO México, «La aventura sindicalista de los pintores muralistas mexicanos: el Sindicato de Obreros Técnicos, Pintores y Escultores (1922-1924)»",
+     "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-83722019000100115",
+     "checks": "El sindicato (Siqueiros secretario general, Rivera secretario interior; también Orozco) se formó entre artistas encargados de decorar la Escuela Nacional Preparatoria; las decoraciones comenzaron en 1922; el periódico El Machete se publicó desde marzo de 1924; Vasconcelos creó la secretaría en 1921.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Taller de Gráfica Popular»",
+     "url": "https://www.britannica.com/topic/Taller-de-Grafica-Popular",
+     "checks": "Fundado en 1937 en Ciudad de México; Leopoldo Méndez como artista principal; xilografía y litografía; surgió en el renacimiento muralista como alternativa para llegar a públicos con imágenes de compromiso político y social.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Afterall, «The Taller de Gráfica Popular: Collectivity, Popular Prints and Transient Muralism»",
+     "url": "https://www.afterall.org/articles/the-taller-de-grafica-popular-collectivity-popular-prints-and-transient-muralism/",
+     "checks": "El TGP (1937) compartía con el muralismo el objetivo de un arte público accesible y políticamente comprometido; usó formatos portátiles y reproducibles (carteles, hojas sueltas, volantes) de bajo costo y distribución masiva; objetivo «más didáctico que dogmático». ⚠ Leída mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "INBAL, boletín «El Museo Casa Estudio Diego Rivera y Frida Kahlo celebra 36 años de existencia»",
+     "url": "https://inba.gob.mx/prensa/13543/el-museo-casa-estudio-diego-rivera-y-frida-kahlo-celebra-36-anos-de-existencia",
+     "checks": "Casas-estudio funcionalistas de Juan O’Gorman en San Ángel (1931–1932); Rivera aceptó el funcionalismo por su bajo costo y su sentido social de la vivienda; su taller de segundo nivel sirvió de espacio de trabajo preparatorio de su obra.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-fashion-magazines",
+   "track": "cultural",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "FR",
+    "GB"
+   ],
+   "name": "Fashion magazines",
+   "short": "Fashion magazines",
+   "key": "Vogue, Harper’s Bazaar and their photographers turned couture into images for a mass readership.",
+   "happened": "In the 1920s and 1930s the American fashion magazines Vogue and Harper’s Bazaar turned to modern art direction and photography: Alexey Brodovitch was art director of Harper’s Bazaar from 1934 to 1958.[1]",
+   "effect": "A dress became famous through its picture: Vogue compared Chanel’s little black dress of 1926 to a Ford car,[2] and in June 1937 it ran an eight-page spread of Cecil Beaton’s photographs of Wallis Simpson, including Schiaparelli’s lobster dress.[3]",
+   "wiki": "Fashion_magazine",
+   "refs": [
+    {
+     "label": "Art Institute of Chicago, archivo Irving Penn, «Alexey Brodovitch»",
+     "checks": "Brodovitch, director de arte de Harper’s Bazaar de 1934 a 1958.",
+     "date": "2026-10-03",
+     "url": "https://archive.artic.edu/irvingpennarchives/1973"
+    },
+    {
+     "label": "Met, ensayo «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+     "checks": "Vogue comparó el pequeño vestido negro de 1926 con los autos Ford.",
+     "date": "2026-10-03",
+     "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel"
+    },
+    {
+     "label": "FIT, Fashion History Timeline, «1937 Schiaparelli lobster»",
+     "checks": "Ocho páginas de Vogue (junio de 1937) con la sesión de Beaton y Wallis Simpson (casi cien fotos); una de ellas muestra el vestido langosta.",
+     "date": "2026-10-03",
+     "url": "https://fashionhistory.fitnyc.edu/1937-schiaparelli-lobster/"
+    }
+   ],
+   "es": {
+    "name": "Revistas de moda",
+    "short": "Revistas de moda",
+    "date": "años 1920 →",
+    "key": "Vogue, Harper’s Bazaar y sus fotógrafos convirtieron la alta costura en imágenes para un público masivo.",
+    "happened": "En los años veinte y treinta, las revistas de moda estadounidenses Vogue y Harper’s Bazaar apostaron por una dirección de arte y una fotografía modernas: Alexey Brodovitch fue director de arte de Harper’s Bazaar de 1934 a 1958.[1]",
+    "effect": "Un vestido se hacía famoso por su imagen: Vogue comparó el pequeño vestido negro de Chanel de 1926 con un auto Ford,[2] y en junio de 1937 publicó ocho páginas de fotos de Cecil Beaton de Wallis Simpson, entre ellas algunas con el vestido langosta de Schiaparelli.[3]"
+   }
+  }
+ ]
+}

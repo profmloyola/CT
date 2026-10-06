@@ -1,0 +1,260 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-punk",
+   "track": "cultural",
+   "start": 1976,
+   "end": 1985,
+   "cont": false,
+   "date": "1976–1985",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Punk and youth subcultures",
+   "short": "Punk",
+   "key": "Punk, which broke out in London and New York in the mid-1970s, made a cheap, do-it-yourself look of ripped clothes, photocopies and cut-up lettering into a style.",
+   "happened": "Bands such as the Ramones in New York and the Sex Pistols in London came to public notice in 1976 and 1977. Punk circulated through fanzines, handmade record sleeves and small independent labels, and its fans took up safety pins, torn clothes and badges as a uniform.",
+   "effect": "Punk showed that graphic design and fashion could be made without a studio or a budget, with a photocopier, scissors and glue. Its raw collage and its rejection of polish influenced later graphic designers, including those of the New Wave in typography, and fashion designers such as Vivienne Westwood, who sold punk clothes in London.",
+   "es": {
+    "name": "Punk y subculturas juveniles",
+    "short": "Punk",
+    "date": "1976–1985",
+    "key": "El punk, que estalló en Londres y Nueva York a mediados de los años setenta, convirtió en estilo un aspecto barato y hecho a mano, de ropa rasgada, fotocopias y letras recortadas.",
+    "happened": "Bandas como los Ramones en Nueva York y los Sex Pistols en Londres se hicieron conocidas en 1976 y 1977. El punk circuló en fanzines, portadas de discos hechas a mano y pequeños sellos independientes, y sus seguidores adoptaron alfileres de gancho, ropa rota y chapitas como uniforme.",
+    "effect": "El punk mostró que la gráfica y la moda podían hacerse sin estudio ni presupuesto, con una fotocopiadora, tijeras y pegamento. Su collage crudo y su rechazo a lo pulido influyeron en diseñadores gráficos posteriores, entre ellos los de la New Wave tipográfica, y en diseñadores de moda como Vivienne Westwood, que vendió ropa punk en Londres."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-postmodern-culture",
+   "track": "cultural",
+   "start": 1975,
+   "end": 2000,
+   "cont": false,
+   "date": "1975–2000",
+   "regions": [
+    "europe",
+    "north-america",
+    "global"
+   ],
+   "countries": [],
+   "name": "Postmodern culture",
+   "short": "Postmodernism",
+   "key": "From the 1970s, architects, artists and critics questioned modernism’s single, rational style and embraced mixture, irony and quotation.",
+   "happened": "Charles Jencks popularised the term in architecture in the 1970s, and Robert Venturi’s Complexity and Contradiction in Architecture (1966) and Learning from Las Vegas (1972, with Denise Scott Brown and Steven Izenour) became reference points for the change. In 1979 Jean-François Lyotard published The Postmodern Condition, giving the term wider philosophical use.",
+   "effect": "Designers felt free to use ornament, colour, historical references and popular imagery that functionalism had rejected. Groups such as Memphis, and graphic designers who layered and mixed type, treated design as a language of signs to be played with, and no longer as the single logical answer to a function.",
+   "es": {
+    "name": "Cultura posmoderna",
+    "short": "Posmodernismo",
+    "date": "1975–2000",
+    "key": "Desde los años setenta, arquitectos, artistas y críticos cuestionaron el estilo único y racional del modernismo y adoptaron la mezcla, la ironía y la cita.",
+    "happened": "Charles Jencks popularizó el término en la arquitectura en los años setenta, y Complejidad y contradicción en la arquitectura de Robert Venturi (1966) y Aprendiendo de Las Vegas (1972, con Denise Scott Brown y Steven Izenour) se volvieron puntos de referencia del cambio. En 1979 Jean-François Lyotard publicó La condición posmoderna, que dio al término un uso filosófico más amplio.",
+    "effect": "Los diseñadores se sintieron libres de usar el ornamento, el color, las referencias históricas y las imágenes populares que el funcionalismo había rechazado. Grupos como Memphis, y diseñadores gráficos que superponían y mezclaban tipografías, trataron el diseño como un lenguaje de signos con el que se puede jugar, y ya no como la respuesta lógica única a una función."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-mtv-club",
+   "track": "cultural",
+   "start": 1981,
+   "end": 2000,
+   "cont": false,
+   "date": "1981–2000",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "MTV and club culture",
+   "short": "MTV and club",
+   "key": "MTV, launched in 1981, and the club scene made music, image and graphics a single fast-moving visual culture.",
+   "happened": "MTV began broadcasting in the United States on 1 August 1981 and showed music videos around the clock. Dance clubs and the events and record labels around them grew in cities such as New York and London, and their flyers, record sleeves and magazines gave young designers regular work.",
+   "effect": "Moving image, logos and typography had to catch the eye within seconds, and designers of channel identities, sleeves and flyers used animation, collage and quick changes of style. The music and club world became a testing ground for graphics and fashion that reached a young audience far from design schools.",
+   "es": {
+    "name": "MTV y cultura de club",
+    "short": "MTV y club",
+    "date": "1981–2000",
+    "key": "MTV, lanzada en 1981, y la escena de los clubes hicieron de la música, la imagen y la gráfica una sola cultura visual de ritmo veloz.",
+    "happened": "MTV comenzó a transmitir en Estados Unidos el 1 de agosto de 1981 y mostró videos musicales las veinticuatro horas. Los clubes de baile y los eventos y sellos discográficos a su alrededor crecieron en ciudades como Nueva York y Londres, y sus volantes, portadas de discos y revistas dieron trabajo regular a jóvenes diseñadores.",
+    "effect": "La imagen en movimiento, los logotipos y la tipografía debían llamar la atención en segundos, y quienes diseñaban identidades de canal, portadas y volantes usaron la animación, el collage y los cambios rápidos de estilo. El mundo de la música y de los clubes se volvió un campo de pruebas de gráfica y moda que llegó a un público joven lejos de las escuelas de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-internet-culture",
+   "track": "cultural",
+   "start": 1995,
+   "end": 2026,
+   "cont": true,
+   "date": "1995 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [],
+   "name": "Internet culture and social media",
+   "short": "Internet culture",
+   "key": "As the web reached the public, online communities and, from the mid-2000s, social networks changed how images and designs are made, shared and copied.",
+   "happened": "The web opened to the public in the mid-1990s, and blogs, forums and then social networks such as Facebook (2004), YouTube (2005) and Instagram (2010) let anyone publish images. Images and designs began to spread, be remixed and become memes outside the control of their makers.",
+   "effect": "Visual identities and products had to work as small images on a screen and be easy to share, and designers found their audiences and their competitors through online portfolios and feeds. Design styles spread faster across the world, and amateurs and professionals shared tools, templates and fonts.",
+   "es": {
+    "name": "Cultura de internet y redes sociales",
+    "short": "Cultura de internet",
+    "date": "1995 →",
+    "key": "Cuando la web llegó al público, las comunidades en línea y, desde mediados de los años 2000, las redes sociales cambiaron cómo se hacen, comparten y copian las imágenes y los diseños.",
+    "happened": "La web se abrió al público a mediados de los años noventa, y los blogs, los foros y luego redes sociales como Facebook (2004), YouTube (2005) e Instagram (2010) permitieron que cualquiera publicara imágenes. Imágenes y diseños empezaron a difundirse, remezclarse y volverse memes fuera del control de sus autores.",
+    "effect": "Las identidades visuales y los productos debieron funcionar como imágenes pequeñas en una pantalla y ser fáciles de compartir, y los diseñadores encontraron a sus públicos y a sus competidores en portafolios y feeds en línea. Los estilos de diseño se difundieron más rápido por el mundo, y aficionados y profesionales compartieron herramientas, plantillas y tipografías."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-design-museums",
+   "track": "cultural",
+   "start": 1980,
+   "end": 2026,
+   "cont": true,
+   "date": "1980 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [],
+   "name": "Design museums and the spectacle city",
+   "short": "Design museums",
+   "key": "From the 1980s, cities built museums and landmark buildings to attract visitors, and design entered museums as a collectable culture.",
+   "happened": "Museums devoted to design opened in Europe, among them the Vitra Design Museum in Weil am Rhein, designed by Frank Gehry and opened in 1989, and the Design Museum in London, opened in 1989. The Guggenheim Museum Bilbao, designed by Gehry and opened in 1997, was widely seen as a model of a landmark building meant to revive a city.",
+   "effect": "Chairs, posters and graphics were collected, exhibited and written about as cultural objects, which raised the status of design and its authors. Cities and brands also began to commission well-known designers and architects for their image, which pushed design towards spectacle and the signature name.",
+   "es": {
+    "name": "Museos de diseño y ciudad-espectáculo",
+    "short": "Museos de diseño",
+    "date": "1980 →",
+    "key": "Desde los años ochenta, las ciudades construyeron museos y edificios emblemáticos para atraer visitantes, y el diseño entró a los museos como una cultura coleccionable.",
+    "happened": "Se abrieron en Europa museos dedicados al diseño, entre ellos el Vitra Design Museum en Weil am Rhein, diseñado por Frank Gehry e inaugurado en 1989, y el Design Museum de Londres, abierto en 1989. El Museo Guggenheim de Bilbao, diseñado por Gehry e inaugurado en 1997, fue visto ampliamente como modelo de edificio emblemático destinado a reactivar una ciudad.",
+    "effect": "Sillas, afiches y gráfica se coleccionaron, expusieron y comentaron como objetos culturales, lo que elevó el estatus del diseño y de sus autores. Ciudades y marcas también empezaron a encargar a diseñadores y arquitectos famosos su imagen, lo que empujó al diseño hacia el espectáculo y el nombre de autor."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-latin-popular-craft",
+   "track": "cultural",
+   "start": 1975,
+   "end": 2026,
+   "cont": true,
+   "date": "1970 →",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [],
+   "name": "Latin American craft and popular culture",
+   "short": "Popular craft",
+   "key": "Latin American craft traditions and everyday popular culture, long kept apart from design, became a source for contemporary designers.",
+   "happened": "Craft and popular traditions, such as weaving, basketry, ceramics and the signs, repairs and improvised objects of street life, remained strong across the region, often in communities with little access to industry. From the late twentieth century designers and cultural institutions in several countries began to study, promote and borrow from them.",
+   "effect": "Designers worked with artisans and with reused or cheap materials, and treated popular taste and improvisation as a resource and not as a lack of design. This gave Latin American design a path of its own, different from the industrial models of Europe and North America.",
+   "es": {
+    "name": "Artesanía y cultura popular latinoamericana",
+    "short": "Artesanía popular",
+    "date": "1970 →",
+    "key": "Las tradiciones artesanales latinoamericanas y la cultura popular cotidiana, mantenidas largo tiempo aparte del diseño, se volvieron una fuente para diseñadores contemporáneos.",
+    "happened": "Las tradiciones artesanales y populares, como el tejido, la cestería, la cerámica y los letreros, arreglos y objetos improvisados de la vida callejera, se mantuvieron vigorosas en toda la región, a menudo en comunidades con poco acceso a la industria. Desde fines del siglo XX, diseñadores e instituciones culturales de varios países empezaron a estudiarlas, promoverlas y tomar de ellas.",
+    "effect": "Los diseñadores trabajaron con artesanos y con materiales reutilizados o baratos, y trataron el gusto popular y la improvisación como un recurso y no como una carencia de diseño. Esto dio al diseño latinoamericano un camino propio, distinto de los modelos industriales de Europa y Norteamérica."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-crisis-functionalism",
+   "track": "cultural",
+   "start": 1975,
+   "end": 1985,
+   "date": "1966–1985",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "IT",
+    "GB"
+   ],
+   "name": "Crisis of functionalism",
+   "short": "Crisis of function.",
+   "key": "From the mid-1960s architects and designers began to question the modern movement’s rule that form follows function, and turned back to ornament, colour and historical reference.",
+   "happened": "In 1966 Robert Venturi published Complexity and Contradiction in Architecture, a plea for richness and ambiguity against the austerity of modern architecture. The demolition of the Pruitt-Igoe housing blocks in St Louis, begun in 1972, was taken by critics such as Charles Jencks as a sign that modern architecture had failed, and Jencks’s The Language of Post-Modern Architecture appeared in 1977. In Italy, Studio Alchimia began in 1976 to produce deliberately ironic furniture, and the Memphis group was founded in Milan in 1981.",
+   "effect": "Designers stopped treating the absence of ornament as a virtue. Furniture and objects were made with bright colour, pattern, borrowed historical shapes and cheap materials, because meaning, humour and communication were now considered part of the function of an object. Alchimia and Memphis made this a design programme, and the same turn reached architecture and graphic design.",
+   "es": {
+    "name": "Crisis del funcionalismo",
+    "short": "Crisis funcionalismo",
+    "date": "1966–1985",
+    "key": "Desde mediados de los años sesenta arquitectos y diseñadores empezaron a cuestionar la regla del movimiento moderno de que la forma sigue a la función, y volvieron al ornamento, el color y la referencia histórica.",
+    "happened": "En 1966 Robert Venturi publicó Complejidad y contradicción en la arquitectura, un alegato por la riqueza y la ambigüedad frente a la austeridad de la arquitectura moderna. La demolición de los bloques de vivienda de Pruitt-Igoe en St. Louis, iniciada en 1972, fue tomada por críticos como Charles Jencks como señal del fracaso de la arquitectura moderna, y el libro de Jencks El lenguaje de la arquitectura posmoderna apareció en 1977. En Italia, Studio Alchimia empezó en 1976 a producir muebles deliberadamente irónicos, y el grupo Memphis se fundó en Milán en 1981.",
+    "effect": "Los diseñadores dejaron de tratar la ausencia de ornamento como una virtud. Muebles y objetos se hicieron con colores vivos, patrones, formas históricas prestadas y materiales baratos, porque el significado, el humor y la comunicación pasaron a considerarse parte de la función de un objeto. Alchimia y Memphis convirtieron esto en un programa de diseño, y el mismo giro llegó a la arquitectura y al diseño gráfico."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-memory-culture",
+   "track": "cultural",
+   "start": 1985,
+   "end": 2026,
+   "cont": true,
+   "date": "1985 →",
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "countries": [
+    "DE",
+    "CL"
+   ],
+   "name": "Memory culture and remembrance of mass violence",
+   "short": "Memory culture",
+   "key": "From the 1980s societies increasingly built museums and memorials to remember the Holocaust and the crimes of dictatorships, making remembrance a task of architecture.",
+   "happened": "After the Second World War and again after the end of dictatorships in Europe and Latin America, public debate turned to how to remember mass violence and its victims. Truth commissions and reports documented the crimes, and demands grew for places that would keep the memory of them.",
+   "effect": "The museum and the memorial became architectural types in their own right, and designers made the form of the building carry the story: voids, zigzags and unfigurative fields of steles that unsettle the visitor instead of illustrating events. Commissions came from states and civil groups as public acts of acknowledgement.",
+   "es": {
+    "name": "Cultura de la memoria y recuerdo de la violencia masiva",
+    "short": "Cultura de la memoria",
+    "date": "1985 →",
+    "key": "Desde la década de 1980 las sociedades construyeron cada vez más museos y memoriales para recordar el Holocausto y los crímenes de las dictaduras, y el recuerdo pasó a ser una tarea de la arquitectura.",
+    "happened": "Tras la Segunda Guerra Mundial y de nuevo al terminar las dictaduras en Europa y América Latina, el debate público se volcó a cómo recordar la violencia masiva y a sus víctimas. Comisiones de verdad e informes documentaron los crímenes, y crecieron las demandas de lugares que conservaran su memoria.",
+    "effect": "El museo y el memorial se volvieron tipos arquitectónicos propios, y los diseñadores hicieron que la forma del edificio contara la historia: vacíos, zigzags y campos de estelas sin figuración que desconciertan al visitante en vez de ilustrar los hechos. Los encargos vinieron de Estados y grupos civiles como actos públicos de reconocimiento."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-star-architecture",
+   "track": "cultural",
+   "start": 1989,
+   "end": 2026,
+   "cont": true,
+   "date": "1989 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "ES",
+    "US"
+   ],
+   "name": "Star architecture and the Bilbao effect",
+   "short": "Star architecture",
+   "key": "From the late 1980s a few internationally famous architects were hired to give cities landmark buildings, a trend named the Bilbao effect after the Guggenheim Museum of 1997.",
+   "happened": "Prizes such as the Pritzker, founded in 1979, and events such as the Venice Architecture Biennale made individual architects widely known. After the Guggenheim Museum opened in Bilbao in 1997, cities elsewhere sought buildings by famous architects in the hope of attracting visitors and investment.",
+   "effect": "Clients began to choose an architect for a name and an image rather than for a local brief, and buildings were designed as distinctive icons, often with complex sculptural forms made possible by computer design. The building became a brand for the city that commissioned it.",
+   "es": {
+    "name": "Arquitectura-espectáculo y efecto Bilbao",
+    "short": "Arq. espectáculo",
+    "date": "1989 →",
+    "key": "Desde fines de los años ochenta se contrató a unos pocos arquitectos de fama internacional para dar a las ciudades edificios emblemáticos, una tendencia llamada efecto Bilbao por el Museo Guggenheim de 1997.",
+    "happened": "Premios como el Pritzker, fundado en 1979, y eventos como la Bienal de Arquitectura de Venecia dieron fama amplia a arquitectos individuales. Tras la apertura del Museo Guggenheim en Bilbao en 1997, ciudades de otros lugares buscaron edificios de arquitectos famosos con la esperanza de atraer visitantes e inversión.",
+    "effect": "Los clientes empezaron a elegir un arquitecto por su nombre y su imagen más que por un encargo local, y los edificios se diseñaron como íconos distintivos, a menudo con formas escultóricas complejas posibles gracias al diseño por computador. El edificio pasó a ser una marca de la ciudad que lo encargaba."
+   },
+   "refs": []
+  }
+ ]
+}

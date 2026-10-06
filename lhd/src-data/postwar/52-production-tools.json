@@ -1,0 +1,178 @@
+{
+ "production": [
+  {
+   "id": "letraset",
+   "sub": "tools",
+   "start": 1961,
+   "end": 1975,
+   "cont": true,
+   "date": "1961 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Letraset",
+   "short": "Letraset",
+   "key": "Sheets of dry-transfer lettering, rubbed on from a carrier sheet, which gave designers a wide choice of typefaces without a typesetter.",
+   "origin": "The British firm Letraset launched its dry-transfer lettering in the early 1960s, in sheets from which each letter was rubbed onto paper with a pencil or a burnisher.",
+   "enabled": "Headlines, logos and posters lettered by hand in a chosen typeface and in any size, spaced by the designer himself, with no typesetting firm or print shop in between.",
+   "change": "Designers began to compose display type themselves and to choose from many typefaces, which brought a freer, more personal handling of letter spacing and layout in headlines and covers.",
+   "economy": "It was cheap and quick compared with sending headlines out to a typesetter, so small studios, students and amateurs could make professional-looking layouts.",
+   "relations": "It served the Swiss typographic style, whose typefaces it sold, and the pop and underground graphics of the 1960s and later.",
+   "links": {
+    "movements": [
+     "international-typographic-style",
+     "pop-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Letraset (letras transferibles)",
+    "short": "Letraset",
+    "date": "1961 →",
+    "key": "Hojas de letras transferibles en seco, que se frotaban desde una hoja portadora, y que dieron a los diseñadores una amplia elección de tipografías sin necesidad de un tipógrafo.",
+    "origin": "La empresa británica Letraset lanzó a comienzos de los años sesenta sus letras de transferencia en seco, en hojas desde las cuales cada letra se frotaba sobre el papel con un lápiz o un bruñidor.",
+    "enabled": "Titulares, logotipos y carteles rotulados a mano en la tipografía elegida y en cualquier tamaño, espaciados por el propio diseñador, sin una empresa de composición ni una imprenta de por medio.",
+    "change": "Los diseñadores empezaron a componer ellos mismos la tipografía de titulares y a elegir entre muchas familias, lo que trajo un manejo más libre y personal del espaciado y de la diagramación en titulares y portadas.",
+    "economy": "Era barata y rápida frente a mandar los titulares a un tipógrafo, de modo que estudios pequeños, estudiantes y aficionados podían hacer diagramaciones de aspecto profesional.",
+    "relations": "Sirvió al estilo tipográfico suizo, cuyas tipografías vendía, y a la gráfica pop y underground de los años sesenta y posteriores."
+   },
+   "refs": []
+  },
+  {
+   "id": "telex-network",
+   "sub": "tools",
+   "start": 1945,
+   "end": 1975,
+   "cont": true,
+   "date": "1945 →",
+   "regions": [
+    "europe",
+    "global"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Telex network",
+   "short": "Telex",
+   "key": "A public network of teleprinters that sent typed messages between firms across the world, the written link of business and news before fax and email.",
+   "origin": "Telex service began in Germany in the 1930s and spread in the postwar years to many countries, joined by exchanges that connected subscribers at home and abroad.",
+   "enabled": "Written messages sent in minutes between offices, news agencies and ships in different countries, received as a printed strip or sheet.",
+   "change": "Messages were set in capital letters from a fixed, limited set of characters, so abbreviations and short standard forms became the style of business writing, and the printout itself became a recognisable document.",
+   "economy": "It was cheaper than the telephone for long distance and left a written record, which made it the standard channel of international trade for decades.",
+   "relations": "It belongs with the early computing and communication networks of the period and shows how a limited alphabet shaped the form of text.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "cybersyn-opsroom"
+    ]
+   },
+   "es": {
+    "name": "Red de télex",
+    "short": "Télex",
+    "date": "1945 →",
+    "key": "Una red pública de teleimpresoras que enviaba mensajes escritos entre empresas de todo el mundo, el vínculo escrito del comercio y la prensa antes del fax y del correo electrónico.",
+    "origin": "El servicio de télex comenzó en Alemania en los años treinta y en la posguerra se extendió a muchos países, con centrales que conectaban a los abonados dentro y fuera de cada país.",
+    "enabled": "Mensajes escritos enviados en minutos entre oficinas, agencias de noticias y barcos de distintos países, recibidos en una cinta o una hoja impresa.",
+    "change": "Los mensajes se componían en mayúsculas con un repertorio fijo y limitado de caracteres, de modo que las abreviaturas y las fórmulas breves se volvieron el estilo de la escritura comercial, y la propia impresión pasó a ser un documento reconocible.",
+    "economy": "Era más barato que el teléfono a larga distancia y dejaba un registro escrito, lo que lo hizo el canal habitual del comercio internacional durante décadas.",
+    "relations": "Se inscribe junto a las primeras redes de computación y comunicación de la época y muestra cómo un alfabeto limitado condicionó la forma del texto."
+   },
+   "refs": []
+  },
+  {
+   "id": "modulor",
+   "sub": "tools",
+   "start": 1948,
+   "end": 1975,
+   "cont": true,
+   "date": "1948 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Modulor",
+   "short": "Modulor",
+   "key": "Le Corbusier’s scale of proportions based on the human figure and the golden section, which he proposed as a measure for all architecture and design.",
+   "origin": "Le Corbusier developed it in France in the 1940s and published it in 1948 in his book Le Modulor, as a way to join the human scale to a series of measures that could be used in every dimension of a building.",
+   "enabled": "Two interlocked series of measures derived from a standing man with a raised arm, which set heights of ceilings, doors, furniture and spans in a repeatable system.",
+   "change": "Dimensions that had been set by habit or by a drawing were now chosen from a fixed series, and Le Corbusier used it in the Unité d’Habitation in Marseille, built in 1947–52.",
+   "economy": "A fixed series of measures suited standard parts, since components could be repeated and fitted together across a building.",
+   "relations": "It continues Le Corbusier’s prewar search for a measure that joined art and industry, and it fed the heavy, repeated forms of postwar concrete architecture.",
+   "links": {
+    "movements": [
+     "brutalism-metabolism"
+    ],
+    "institutions": [],
+    "designers": [
+     "le-corbusier"
+    ],
+    "works": [
+     "unite-habitation",
+     "casa-curutchet"
+    ]
+   },
+   "es": {
+    "name": "Modulor",
+    "short": "Modulor",
+    "date": "1948 →",
+    "key": "La escala de proporciones de Le Corbusier basada en la figura humana y la sección áurea, que propuso como medida para toda la arquitectura y el diseño.",
+    "origin": "Le Corbusier lo desarrolló en Francia en los años cuarenta y lo publicó en 1948 en su libro Le Modulor, como un modo de unir la escala humana con una serie de medidas aplicables a todas las dimensiones de un edificio.",
+    "enabled": "Dos series entrelazadas de medidas derivadas de un hombre de pie con un brazo en alto, que fijaban alturas de cielos, puertas, muebles y luces en un sistema repetible.",
+    "change": "Las dimensiones que antes se fijaban por costumbre o por el dibujo pasaron a elegirse de una serie fija, y Le Corbusier lo empleó en la Unidad Habitacional de Marsella, construida en 1947–52.",
+    "economy": "Una serie fija de medidas convenía a las piezas estándar, pues los componentes podían repetirse y encajarse a lo largo de un edificio.",
+    "relations": "Continúa la búsqueda de Le Corbusier, desde antes de la guerra, de una medida que uniera arte e industria, y alimentó las formas pesadas y repetidas de la arquitectura de hormigón de posguerra."
+   },
+   "refs": []
+  },
+  {
+   "id": "photocopying",
+   "sub": "tools",
+   "start": 1959,
+   "cont": true,
+   "date": "1959 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Xerography and the photocopier",
+   "short": "Photocopier",
+   "key": "Plain-paper copying, introduced in the Xerox 914 of 1959, let anyone reproduce a page in seconds and became a basic tool of offices, artists and do-it-yourself publishing.",
+   "origin": "The American lawyer and inventor Chester Carlson made the first xerographic image in Astoria, New York, in 1938, and the Haloid Company of Rochester later developed the process. Its Xerox 914, shown in 1959 and delivered from 1960, was the first successful office copier that worked on ordinary paper.",
+   "enabled": "A page, a drawing or a pasted-up layout could be copied in seconds, on plain paper, by a clerk or a designer, with no stencil, printing plate or darkroom. Copies of copies were possible too, and the machine could enlarge or reduce in later models.",
+   "change": "Printing stopped being a separate trade for many small jobs: a layout cut and pasted by hand could become a leaflet, a zine or a poster the same day. The rough, high-contrast look of copied black and white became a deliberate graphic choice.",
+   "economy": "Xerox, as Haloid later renamed itself, mostly leased its machines and charged by the copy, so offices could use them without buying one. Copying shops and office machines then put cheap short runs within reach of students, artists, activists and small groups.",
+   "relations": "It sits beside the mimeograph and the offset press as a means of cheap reproduction, and it became the usual tool of punk fanzines such as Sniffin’ Glue (London, 1976), of artists’ books and of political leaflets.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "sniffin-glue-1976"
+    ]
+   },
+   "es": {
+    "name": "Xerografía y fotocopiadora",
+    "short": "Fotocopiadora",
+    "date": "1959 →",
+    "key": "La copia en papel común, introducida con la Xerox 914 de 1959, permitió a cualquiera reproducir una página en segundos y se volvió una herramienta básica de oficinas, artistas y de la edición «hazlo tú mismo».",
+    "origin": "El abogado e inventor estadounidense Chester Carlson obtuvo la primera imagen xerográfica en Astoria, Nueva York, en 1938, y la empresa Haloid, de Rochester, desarrolló después el proceso. Su Xerox 914, presentada en 1959 y entregada desde 1960, fue la primera copiadora de oficina exitosa que funcionaba con papel común.",
+    "enabled": "Una página, un dibujo o una diagramación pegada a mano podían copiarse en segundos, en papel común, por un oficinista o un diseñador, sin matriz, plancha de impresión ni cuarto oscuro. También se podían hacer copias de copias, y los modelos posteriores ampliaban y reducían.",
+    "change": "Para muchos trabajos pequeños, imprimir dejó de ser un oficio aparte: una diagramación cortada y pegada a mano podía convertirse el mismo día en un volante, un fanzine o un afiche. El aspecto áspero y de alto contraste del blanco y negro copiado pasó a ser una elección gráfica deliberada.",
+    "economy": "Xerox, como pasó a llamarse Haloid, arrendaba sobre todo sus máquinas y cobraba por copia, de modo que las oficinas podían usarlas sin comprar una. Después, las copisterías y las máquinas de oficina dejaron los tirajes cortos y baratos al alcance de estudiantes, artistas, activistas y grupos pequeños.",
+    "relations": "Se ubica junto al mimeógrafo y la prensa offset como medio de reproducción barata, y se volvió la herramienta habitual de los fanzines punk como Sniffin’ Glue (Londres, 1976), de los libros de artista y de los volantes políticos."
+   },
+   "refs": []
+  }
+ ]
+}

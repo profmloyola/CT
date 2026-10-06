@@ -1,0 +1,2323 @@
+{
+ "works": [
+  {
+   "id": "quinta-monroy-2004",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Quinta Monroy",
+   "designers": [
+    "alejandro-aravena"
+   ],
+   "client": "Chilean state housing programme",
+   "year": 2004,
+   "date": "2004",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Reinforced concrete and concrete block, with extensions built by residents",
+   "tech": [],
+   "key": "Elemental’s social housing in Iquique, finished in 2004, which gave each family half a good house and left the other half for them to build.[1][2]",
+   "more": "Built on the site of the last informal settlement in the centre of Iquique, it housed families who had occupied the land for about thirty years, with a state housing subsidy of US$7,500 per family as its budget.[1][2] Instead of small finished houses, Alejandro Aravena’s office Elemental built the half that would be hard for a family to build alone, including the structure, kitchen and bathroom, and left space for residents to complete the house as their means allowed.[2][3] Dezeen calls it the first of Elemental’s low-cost ‘incremental’ housing projects.[2]",
+   "status": "Occupied; many houses have been extended by their residents.",
+   "es": {
+    "title": "Quinta Monroy",
+    "date": "2004",
+    "materials": "Hormigón armado y bloque de hormigón, con ampliaciones hechas por los vecinos",
+    "key": "La vivienda social de Elemental en Iquique, terminada en 2004, que dio a cada familia media casa buena y dejó la otra mitad para que la construyeran ellos.[1][2]",
+    "more": "Construida en el terreno del último campamento del centro de Iquique, alojó a familias que habían ocupado el lugar por cerca de treinta años, con un subsidio estatal de vivienda de 7.500 dólares por familia como presupuesto.[1][2] En vez de casas pequeñas terminadas, la oficina Elemental de Alejandro Aravena construyó la mitad que a una familia le costaría levantar sola, con la estructura, la cocina y el baño, y dejó espacio para que los vecinos completaran la casa según sus posibilidades.[2][3] Dezeen la llama el primer proyecto de vivienda «incremental» de bajo costo de Elemental.[2]",
+    "status": "Habitada; muchas casas han sido ampliadas por sus propios vecinos."
+   },
+   "refs": [
+    {
+     "label": "Arquitectura Viva, «Quinta Monroy housing, Iquique»",
+     "url": "https://arquitecturaviva.com/works/viviendas-quinta-monroy-1",
+     "checks": "Obra de Elemental (Aravena) en Iquique, 2001-2004; sustituyó el último campamento del centro; subsidio de 7.500 dólares por familia; «media casa buena» ampliable por los vecinos. ⚠ habla de 93 viviendas, otras fuentes de unas 100 familias.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Dezeen, «Key projects by 2016 Pritzker Prize laureate Alejandro Aravena»",
+     "url": "https://www.dezeen.com/2016/01/13/key-projects-by-2016-pritzker-prize-laureate-alejandro-aravena-elemental/",
+     "checks": "Terminada en 2004 en Iquique; unas 100 familias que habían ocupado el sitio ilegalmente por 30 años; cita de Aravena sobre la «media casa» y el espacio para completarla; primer proyecto incremental de Elemental. ⚠ prensa de arquitectura, no archivo.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The New Republic, «Can Half a Good House Become a Home?»",
+     "url": "https://newrepublic.com/article/134223/can-half-good-house-become-home",
+     "checks": "Medias casas con cocina, baño, muros estructurales y escalera, que los vecinos ampliaron; subsidio de 7.500 dólares; proyecto dentro de un asentamiento informal. ⚠ periodismo, no fuente académica.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "villa-verde-2013",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Villa Verde, Constitución",
+   "short": "Villa Verde",
+   "designers": [
+    "alejandro-aravena"
+   ],
+   "year": 2013,
+   "date": "2013",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Reinforced concrete, masonry and timber, with extensions built by residents",
+   "tech": [],
+   "key": "Elemental’s housing in Constitución, which repeated the half-a-house idea of Quinta Monroy on a new site.",
+   "more": "Elemental designed it for Constitución, in southern Chile, a town badly hit by the earthquake and tsunami of February 2010. As at Quinta Monroy, the first stage provided the part of the house that families could not easily build, with room for them to complete the rest. The project shows how Elemental took the model of Iquique to other towns and clients.",
+   "status": "Occupied.",
+   "es": {
+    "title": "Villa Verde, Constitución",
+    "short": "Villa Verde",
+    "date": "2013",
+    "materials": "Hormigón armado, albañilería y madera, con ampliaciones hechas por los vecinos",
+    "key": "La vivienda de Elemental en Constitución, que repitió en otro lugar la idea de media casa de Quinta Monroy.",
+    "more": "Elemental la proyectó para Constitución, en el sur de Chile, ciudad muy golpeada por el terremoto y tsunami de febrero de 2010. Como en Quinta Monroy, la primera etapa entregó la parte de la casa que las familias no podían construir con facilidad, con espacio para que completaran el resto. El proyecto muestra cómo Elemental llevó el modelo de Iquique a otras ciudades y clientes.",
+    "status": "Habitada."
+   },
+   "refs": []
+  },
+  {
+   "id": "sesc-pompeia-1986",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "SESC Pompéia",
+   "designers": [
+    "lina-bo-bardi"
+   ],
+   "client": "SESC São Paulo",
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced concrete, existing brick factory buildings",
+   "tech": [],
+   "key": "Lina Bo Bardi’s leisure and culture centre in a former drum factory in São Paulo, which kept the old sheds and added a concrete sports block.",
+   "more": "SESC, a social service organisation for commerce workers, commissioned it for a former factory in the Pompéia district. Bo Bardi kept the old brick sheds as spaces for meeting, eating, theatre and workshops, with a ‘street’ and a fireplace inside, and added a tall concrete block for sports, linked by walkways to a second one, with irregular window openings and a swimming pool. The project, worked on from the late 1970s, is often cited as a model of reusing an industrial building without erasing its history.",
+   "status": "Still in use as a SESC centre.",
+   "es": {
+    "title": "SESC Pompéia",
+    "date": "1986",
+    "materials": "Hormigón armado, galpones de ladrillo existentes",
+    "key": "El centro de ocio y cultura de Lina Bo Bardi en una antigua fábrica de São Paulo, que conservó los galpones y sumó un bloque deportivo de hormigón.",
+    "more": "El SESC, organismo de servicio social para trabajadores del comercio, se lo encargó para una antigua fábrica del barrio de Pompéia. Bo Bardi conservó los viejos galpones de ladrillo como espacios para reunirse, comer, hacer teatro y talleres, con una «calle» y un fogón en su interior, y agregó un alto bloque de hormigón para deportes, unido por pasarelas a un segundo bloque, con ventanas de forma irregular y una piscina. El proyecto, trabajado desde fines de los años setenta, se cita a menudo como modelo de reutilización de un edificio industrial sin borrar su historia.",
+    "status": "Sigue en uso como centro del SESC."
+   },
+   "refs": [],
+   "movements": [
+    "brutalism-metabolism"
+   ]
+  },
+  {
+   "id": "teatro-oficina-1984",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Teatro Oficina",
+   "designers": [
+    "lina-bo-bardi"
+   ],
+   "client": "Teatro Oficina company",
+   "year": 1984,
+   "date": "1984",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Scaffolding-like steel structure, wood, glass, concrete",
+   "tech": [],
+   "key": "Lina Bo Bardi’s redesign, with Edson Elito, of the Teatro Oficina in São Paulo as a long open ‘street’ between two rows of seating.",
+   "more": "Bo Bardi and Edson Elito designed it for the company of José Celso Martínez Corrêa, replacing the theatre’s earlier hall, and the stage became a long corridor between the audience on both sides, with galleries of scaffold-like structures and a plain, austere finish. The idea was to make the theatre more like a covered street than a closed room.",
+   "status": "Still the home of the Teatro Oficina company.",
+   "es": {
+    "title": "Teatro Oficina",
+    "date": "1984",
+    "materials": "Estructura de acero tipo andamio, madera, vidrio, hormigón",
+    "key": "El rediseño de Lina Bo Bardi, con Edson Elito, del Teatro Oficina de São Paulo como una larga «calle» abierta entre dos filas de asientos.",
+    "more": "Bo Bardi y Edson Elito lo proyectaron para la compañía de José Celso Martínez Corrêa, en reemplazo de la antigua sala del teatro, y el escenario se volvió un largo corredor entre el público a ambos lados, con galerías de estructuras como andamios y un acabado simple y austero. La idea era hacer del teatro algo más parecido a una calle cubierta que a una sala cerrada.",
+    "status": "Sigue siendo la sede de la compañía Teatro Oficina."
+   },
+   "refs": []
+  },
+  {
+   "id": "mube-1988",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Brazilian Sculpture Museum (MuBE)",
+   "short": "MuBE",
+   "designers": [
+    "paulo-mendes-da-rocha"
+   ],
+   "year": 1988,
+   "date": "1988",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [],
+   "key": "Paulo Mendes da Rocha’s museum in São Paulo, a long concrete beam over a sunken plaza that leaves the site open to the public.",
+   "more": "Mendes da Rocha’s design for the Museu Brasileiro da Escultura puts most of the museum below ground and covers it with a long, wide concrete beam resting on few supports. The ground level stays free as a public garden and esplanade for sculpture, in a residential district of São Paulo. It is one of the best-known works of the Paulista school of concrete architecture.",
+   "status": "Open as a museum and public space.",
+   "es": {
+    "title": "Museo Brasileño de la Escultura (MuBE)",
+    "short": "MuBE",
+    "date": "1988",
+    "materials": "Hormigón armado",
+    "key": "El museo de Paulo Mendes da Rocha en São Paulo, una larga viga de hormigón sobre una plaza hundida que deja el terreno abierto al público.",
+    "more": "El proyecto de Mendes da Rocha para el Museu Brasileiro da Escultura pone la mayor parte del museo bajo tierra y lo cubre con una larga y ancha viga de hormigón apoyada en pocos puntos. El nivel del suelo queda libre como jardín público y explanada para la escultura, en un barrio residencial de São Paulo. Es una de las obras más conocidas de la escuela paulista de arquitectura en hormigón.",
+    "status": "Abierto como museo y espacio público."
+   },
+   "refs": [],
+   "movements": [
+    "paulista-school"
+   ]
+  },
+  {
+   "id": "biblioteca-virgilio-barco-2001",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Virgilio Barco Library",
+   "designers": [
+    "rogelio-salmona"
+   ],
+   "client": "City of Bogotá",
+   "year": 2001,
+   "date": "2001",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CO"
+   ],
+   "materials": "Exposed brick, concrete, water",
+   "tech": [],
+   "key": "Rogelio Salmona’s public library in Bogotá, a building of exposed brick, ramps and water set in a park.",
+   "more": "Salmona built it in the Simón Bolívar park in Bogotá, with the brick that marks his work, laid by hand in curved and stepped forms, and with pools of water around the building. It is a public library, built for the city and open to everyone, and is among his best-known late works.",
+   "status": "Open as a public library.",
+   "es": {
+    "title": "Biblioteca Virgilio Barco",
+    "short": "Virgilio Barco",
+    "date": "2001",
+    "materials": "Ladrillo a la vista, hormigón, agua",
+    "key": "La biblioteca pública de Rogelio Salmona en Bogotá, un edificio de ladrillo a la vista, rampas y agua dentro de un parque.",
+    "more": "Salmona la construyó en el parque Simón Bolívar de Bogotá, con el ladrillo que marca su obra, colocado a mano en formas curvas y escalonadas, y con espejos de agua alrededor del edificio. Es una biblioteca pública, hecha para la ciudad y abierta a todos, y está entre sus obras tardías más conocidas.",
+    "status": "Abierta como biblioteca pública."
+   },
+   "refs": [],
+   "short": "Virgilio Barco"
+  },
+  {
+   "id": "mestizo-restaurant-2007",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Mestizo Restaurant",
+   "designers": [
+    "smiljan-radic"
+   ],
+   "year": 2007,
+   "date": "2007",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Boulders, concrete, steel",
+   "tech": [],
+   "key": "Smiljan Radic’s restaurant in a public park in Santiago, an irregular pavilion built among large boulders.",
+   "more": "Radic designed it in 2007 as a restaurant in a public park in Santiago, a low, irregular pavilion in which large boulders become part of the building. It is one of the works that made the Chilean architect known beyond Chile.",
+   "status": "Operating as a restaurant.",
+   "es": {
+    "title": "Restaurante Mestizo",
+    "date": "2007",
+    "materials": "Rocas, hormigón, acero",
+    "key": "El restaurante de Smiljan Radic en un parque público de Santiago, un pabellón irregular construido entre grandes rocas.",
+    "more": "Radic lo proyectó en 2007 como restaurante dentro de un parque público de Santiago, un pabellón bajo e irregular en que grandes rocas pasan a ser parte del edificio. Es una de las obras que dieron a conocer al arquitecto chileno fuera de Chile.",
+    "status": "Funciona como restaurante."
+   },
+   "refs": []
+  },
+  {
+   "id": "portland-building-1982",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Portland Building",
+   "designers": [
+    "michael-graves"
+   ],
+   "client": "City of Portland",
+   "year": 1982,
+   "date": "1982",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Concrete frame, painted stucco, glass",
+   "tech": [],
+   "key": "Michael Graves’s municipal office building in Portland, Oregon, with muted colours, small square windows and garlands, a landmark of Postmodern architecture.[1][2]",
+   "more": "Graves won a public competition held between December 1979 and January 1980,[2] and the 12-storey building opened in 1982.[1][2] Its facades have a forest green base and a cream main section, with “whimsical garlands of green ribbons hanging from blue medallions” and small four-foot square windows.[1] Raymond Kaskey’s copper Portlandia statue was installed in 1985.[1] Reception was mixed: some critics found it lacked the dignity of a government building and its interior unpleasant,[1] and for office workers it proved claustrophobic and poorly lit.[2] A $195 million renovation, finished in 2020, addressed water infiltration and poor daylight and covered the painted concrete facade with new aluminium cladding.[3]",
+   "status": "Still the home of city offices in Portland.",
+   "es": {
+    "title": "Edificio Portland",
+    "date": "1982",
+    "materials": "Estructura de hormigón, estuco pintado, vidrio",
+    "key": "El edificio municipal de Michael Graves en Portland, Oregón, con colores apagados, ventanas cuadradas pequeñas y guirnaldas, un hito de la arquitectura posmoderna.[1][2]",
+    "more": "Graves ganó un concurso público realizado entre diciembre de 1979 y enero de 1980,[2] y el edificio de 12 pisos se inauguró en 1982.[1][2] Sus fachadas tienen una base verde bosque y un cuerpo principal crema, con «guirnaldas caprichosas de cintas verdes colgando de medallones azules» y pequeñas ventanas cuadradas de cuatro pies.[1] La estatua de cobre de Portlandia, de Raymond Kaskey, se instaló en 1985.[1] La recepción fue dispar: algunos críticos echaron en falta en él la dignidad de un edificio de gobierno y hallaron desagradable su interior,[1] y para los oficinistas resultó claustrofóbico y mal iluminado.[2] Una renovación de 195 millones de dólares, terminada en 2020, atendió la filtración de agua y la mala luz natural y cubrió la fachada de hormigón pintado con un nuevo revestimiento de aluminio.[3]",
+    "status": "Sigue albergando oficinas de la ciudad de Portland."
+   },
+   "refs": [
+    {
+     "label": "Oregon History Project, «The Portland Building»",
+     "url": "https://oregonhistoryproject.org/articles/historical-records/the-portland-building",
+     "checks": "Inaugurado en 1982; base verde, cuerpo crema, guirnaldas de cintas sobre medallones; ventanas de cuatro pies; Portlandia de Kaskey instalada en 1985; recepción dispar. ⚠ resumen automático; no menciona clave colosal.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "PCAD (Pacific Coast Architecture Database, U. of Washington), «Portland Public Services Building»",
+     "url": "https://pcad.lib.washington.edu/building/15383",
+     "checks": "Concurso dic. 1979–ene. 1980 ganado por Graves; obra 1980–1982; 12 pisos; críticas: claustrofóbico, mal iluminado; hoy oficinas administrativas de la ciudad (según la ficha, con obras en 1990). ⚠ paleta descrita como marrones, azules pizarra y gris verdoso: discrepa con Oregon History Project.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Metropolis, «In Portland, a Renovation Saves a Postmodern Landmark»",
+     "url": "https://metropolismag.com/projects/in-portland-a-renovation-saves-a-postmodern-landmark",
+     "checks": "Renovación de 195 millones terminada en 2020; filtraciones y poca luz; nueva fachada de aluminio sobre el hormigón pintado original; inscrito en el Registro Nacional en 2011. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "postmodern-architecture"
+   ]
+  },
+  {
+   "id": "humana-building-1985",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Humana Building",
+   "designers": [
+    "michael-graves"
+   ],
+   "client": "Humana Inc.",
+   "year": 1985,
+   "date": "1985",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Pink granite and glass on a steel-framed tower",
+   "tech": [],
+   "key": "Michael Graves’s corporate tower in Louisville, Kentucky, a postmodern skyscraper with a colonnaded base and a stepped, capped top that made the company’s headquarters a landmark.",
+   "more": "Designed by Michael Graves for the health insurer Humana and completed in 1985, it stands in downtown Louisville. Graves clad it in pink granite and gave it a loggia, classical-looking colonnades and a top with a distinct profile, instead of a plain glass box. It became one of the best-known examples of postmodern architecture applied to a corporate headquarters.",
+   "status": "Still standing in Louisville as an office building.",
+   "es": {
+    "title": "Edificio Humana",
+    "date": "1985",
+    "materials": "Granito rosado y vidrio sobre una torre de estructura de acero",
+    "key": "La torre corporativa de Michael Graves en Louisville, Kentucky, un rascacielos posmoderno con basamento de columnatas y remate escalonado que convirtió la sede de la empresa en un hito urbano.",
+    "more": "Diseñada por Michael Graves para la aseguradora de salud Humana y terminada en 1985, se alza en el centro de Louisville. Graves la revistió de granito rosado y le dio una logia, columnatas de aire clásico y un remate de perfil propio, en vez de una simple caja de vidrio. Se volvió uno de los ejemplos más conocidos de arquitectura posmoderna aplicada a una sede corporativa.",
+    "status": "Sigue en pie en Louisville como edificio de oficinas."
+   },
+   "refs": [],
+   "movements": [
+    "postmodern-architecture"
+   ]
+  },
+  {
+   "id": "guggenheim-bilbao-1997",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Guggenheim Museum Bilbao",
+   "short": "Guggenheim Bilbao",
+   "designers": [
+    "frank-gehry"
+   ],
+   "client": "Solomon R. Guggenheim Foundation; Basque government",
+   "year": 1997,
+   "date": "1997",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Titanium panels, limestone and glass on a steel structure",
+   "tech": [
+    "cad-cam"
+   ],
+   "key": "Frank Gehry’s sculptural museum of titanium, limestone and glass on the Nervión river, built from 1993 to October 1997, which became an icon of the transformation of Bilbao.[1][2][3]",
+   "more": "A collaboration between Basque institutions and the Solomon R. Guggenheim Foundation,[1] it was built between October 1993 and October 1997 on a former industrial wharf on the Nervión.[2] Its outer skin is about 33,000 thin titanium sheets, with limestone and glass,[2] and Gehry used CATIA, software originally developed for aerospace engineering, to turn his complex design into a buildable structure.[2] Its opening in 1997 transformed the city through global visitors and gave rise to what is called the ‘Bilbao effect’.[3] Britannica notes that its titanium exterior alluded to the city’s shipyard heritage.[4]",
+   "status": "Open as a museum in Bilbao.",
+   "es": {
+    "title": "Museo Guggenheim Bilbao",
+    "short": "Guggenheim Bilbao",
+    "date": "1997",
+    "materials": "Paneles de titanio, caliza y vidrio sobre una estructura de acero",
+    "key": "El museo escultórico de titanio, caliza y vidrio de Frank Gehry junto a la ría del Nervión, construido de 1993 a octubre de 1997, que se volvió ícono de la transformación de Bilbao.[1][2][3]",
+    "more": "Fruto de la colaboración entre instituciones vascas y la Fundación Solomon R. Guggenheim,[1] se construyó entre octubre de 1993 y octubre de 1997 en un antiguo muelle industrial de la ría del Nervión.[2] Su piel exterior son unas 33.000 láminas finas de titanio, con caliza y vidrio,[2] y Gehry usó CATIA, un software desarrollado originalmente para la ingeniería aeroespacial, para convertir su complejo diseño en algo construible.[2] Su apertura en 1997 transformó la ciudad con visitantes de todo el mundo y dio origen a lo que se llama «efecto Bilbao».[3] La Britannica señala que su exterior de titanio aludía al patrimonio naviero de la ciudad.[4]",
+    "status": "Abierto como museo en Bilbao."
+   },
+   "refs": [
+    {
+     "label": "Museo Guggenheim Bilbao, «The Museum»",
+     "url": "https://www.guggenheim-bilbao.eus/en/about-the-museum/the-museum",
+     "checks": "Colaboración entre instituciones vascas y la Fundación Solomon R. Guggenheim; diseño de Gehry en titanio, caliza y vidrio; ícono arquitectónico de la ciudad.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Museo Guggenheim Bilbao, «The construction of the Building»",
+     "url": "https://www.guggenheim-bilbao.eus/en/the-building/the-construction",
+     "checks": "Construido de octubre de 1993 a octubre de 1997 en un antiguo muelle industrial del Nervión; unas 33.000 láminas de titanio, caliza y vidrio; CATIA, de origen aeroespacial.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Museo Guggenheim Bilbao, «Architecture Effects»",
+     "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/architecture-effects",
+     "checks": "Apertura en 1997 que transformó la ciudad por los visitantes globales; origen del «efecto Bilbao»; uso innovador de tecnología digital.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Western architecture: Architecture at the turn of the 21st century»",
+     "url": "https://www.britannica.com/art/Western-architecture/Architecture-at-the-turn-of-the-21st-century",
+     "checks": "Guggenheim de Gehry (1991–97), éxito internacional; exterior mayormente de titanio que alude al pasado de astilleros. ⚠ no confirma la fecha exacta de octubre.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "walt-disney-hall-2003",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Walt Disney Concert Hall",
+   "short": "Disney Hall",
+   "designers": [
+    "frank-gehry"
+   ],
+   "client": "Los Angeles Philharmonic",
+   "year": 2003,
+   "date": "2003",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Stainless steel panels over a steel frame, with a wood-lined auditorium",
+   "tech": [
+    "cad-cam"
+   ],
+   "key": "Frank Gehry’s concert hall in downtown Los Angeles, opened in October 2003, with sails of curved stainless steel that wrap a wood-lined auditorium.",
+   "more": "Gehry won the commission in a competition in the late 1980s, and the hall, home of the Los Angeles Philharmonic, opened in October 2003 after a long and delayed construction. Its curved steel skin was resolved with the same digital modelling used for Bilbao, which allowed each panel to be defined and fabricated. Inside, the auditorium is lined in wood, in contrast with the metal exterior.",
+   "status": "Open and in use as the home of the Los Angeles Philharmonic.",
+   "es": {
+    "title": "Sala de Conciertos Walt Disney",
+    "short": "Sala Disney",
+    "date": "2003",
+    "materials": "Paneles de acero inoxidable sobre estructura de acero, con una sala revestida de madera",
+    "key": "La sala de conciertos de Frank Gehry en el centro de Los Ángeles, inaugurada en octubre de 2003, con velas de acero inoxidable curvo que envuelven una sala revestida de madera.",
+    "more": "Gehry ganó el encargo en un concurso a fines de los años ochenta, y la sala, sede de la Filarmónica de Los Ángeles, se inauguró en octubre de 2003 tras una construcción larga y retrasada. Su piel curva de acero se resolvió con el mismo modelado digital usado en Bilbao, que permitió definir y fabricar cada panel. Por dentro, la sala está revestida de madera, en contraste con el exterior metálico.",
+    "status": "Abierta y en uso como sede de la Filarmónica de Los Ángeles."
+   },
+   "refs": []
+  },
+  {
+   "id": "gehry-house-1978",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Gehry House, Santa Monica",
+   "short": "Gehry House",
+   "designers": [
+    "frank-gehry"
+   ],
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Corrugated metal, chain-link fencing, raw plywood and glass added to an existing house",
+   "tech": [],
+   "key": "Frank Gehry’s own house in Santa Monica, an older bungalow wrapped in corrugated metal, chain-link and raw wood, which made everyday cheap materials the language of a building.",
+   "more": "In 1978 Gehry remodelled the house he had bought in Santa Monica, California, by wrapping the existing bungalow with a new skin of corrugated metal, chain-link fencing, raw plywood and glass, leaving the old house visible inside the new one. The unfinished look and the ordinary building materials were deliberate, and the house became an early landmark of his work and a reference for later deconstructivist architecture.",
+   "status": "Still standing in Santa Monica as a private house.",
+   "es": {
+    "title": "Casa de Gehry en Santa Mónica",
+    "short": "Casa de Gehry",
+    "date": "1978",
+    "materials": "Metal acanalado, malla metálica, contrachapado crudo y vidrio añadidos a una casa existente",
+    "key": "La casa propia de Frank Gehry en Santa Mónica, un bungaló antiguo envuelto en metal acanalado, malla metálica y madera cruda, que hizo de los materiales baratos y cotidianos el lenguaje de un edificio.",
+    "more": "En 1978 Gehry remodeló la casa que había comprado en Santa Mónica, California, envolviendo el bungaló existente con una piel nueva de metal acanalado, malla metálica, contrachapado crudo y vidrio, de modo que la casa antigua se ve dentro de la nueva. El aspecto inacabado y los materiales corrientes fueron deliberados, y la casa se volvió un hito temprano de su obra y una referencia para la arquitectura deconstructivista posterior.",
+    "status": "Sigue en pie en Santa Mónica como casa privada."
+   },
+   "refs": []
+  },
+  {
+   "id": "vitra-design-museum-1989",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Vitra Design Museum",
+   "designers": [
+    "frank-gehry"
+   ],
+   "client": "Vitra",
+   "year": 1989,
+   "date": "1989",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "White plastered concrete volumes with a zinc-titanium roof",
+   "tech": [],
+   "key": "Frank Gehry’s museum of white sculptural volumes in Weil am Rhein, built for the Vitra furniture company’s design collection and opened in 1989.",
+   "more": "Built on the Vitra factory grounds in Weil am Rhein, Germany, for the furniture maker’s collection of industrial design, it opened in 1989. Its composition of interlocking white plastered volumes and a metal roof was Gehry’s first building in Europe. It showed that a design museum could itself be an authored work of architecture, set among the company’s factory buildings.",
+   "status": "Open as a museum on the Vitra Campus.",
+   "es": {
+    "title": "Vitra Design Museum",
+    "date": "1989",
+    "materials": "Volúmenes de hormigón enlucido blanco con techo de zinc-titanio",
+    "key": "El museo de volúmenes blancos y escultóricos de Frank Gehry en Weil am Rhein, construido para la colección de diseño de la empresa de muebles Vitra e inaugurado en 1989.",
+    "more": "Construido en los terrenos de la fábrica Vitra en Weil am Rhein, Alemania, para la colección de diseño industrial de la fabricante de muebles, se inauguró en 1989. Su composición de volúmenes blancos enlucidos que se encajan entre sí y un techo metálico fue el primer edificio de Gehry en Europa. Mostró que un museo de diseño podía ser en sí una obra de arquitectura de autor, puesta entre los edificios de la fábrica.",
+    "status": "Abierto como museo en el campus de Vitra."
+   },
+   "refs": []
+  },
+  {
+   "id": "vitra-fire-station-1993",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Vitra Fire Station",
+   "short": "Vitra Fire Station",
+   "designers": [
+    "zaha-hadid"
+   ],
+   "client": "Vitra",
+   "year": 1993,
+   "date": "1993",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Exposed reinforced concrete",
+   "tech": [],
+   "key": "One of Zaha Hadid’s first built works, a fire station of sharp, tilted concrete planes on the Vitra factory grounds in Weil am Rhein.[1][2]",
+   "more": "Built between 1989 and 1993 in Weil am Rhein,[3] it has a series of sharply angled planes of exposed cast-in-situ concrete that cross each other obliquely,[1][2] so that the building seems frozen in movement.[2] Britannica treats it as a major built project of Hadid and an example of deconstructivism,[1][3] and ArchDaily says it was among the first of her designs to be built.[2] It is now used as an exhibition and event space.[2]",
+   "status": "Still standing on the Vitra Campus, used for exhibitions and events.",
+   "es": {
+    "title": "Estación de bomberos de Vitra",
+    "short": "Bomberos de Vitra",
+    "date": "1993",
+    "materials": "Hormigón armado a la vista",
+    "key": "Una de las primeras obras construidas de Zaha Hadid, una estación de bomberos de planos de hormigón agudos e inclinados en los terrenos de la fábrica Vitra en Weil am Rhein.[1][2]",
+    "more": "Construido entre 1989 y 1993 en Weil am Rhein,[3] tiene una serie de planos muy angulosos de hormigón visto hormigonado in situ que se cruzan en oblicuo,[1][2] de modo que el edificio parece detenido en pleno movimiento.[2] La Britannica lo trata como un proyecto construido importante de Hadid y ejemplo de deconstructivismo,[1][3] y ArchDaily dice que fue de los primeros diseños suyos en construirse.[2] Hoy se usa como espacio de exposiciones y eventos.[2]",
+    "status": "Sigue en pie en el campus de Vitra, usado para exposiciones y eventos."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Vitra Fire Station»",
+     "url": "https://www.britannica.com/topic/Vitra-Fire-Station",
+     "checks": "Terminada en 1993 en Weil am Rhein; planos muy angulosos y muros de hormigón inclinados; proyecto construido importante de Hadid, deconstructivismo. ⚠ no dice «la primera».",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "ArchDaily, «AD Classics: Vitra Fire Station / Zaha Hadid»",
+     "url": "https://www.archdaily.com/785760/ad-classics-vitra-fire-station-zaha-hadid-weil-am-rhein-germany",
+     "checks": "Completada en 1993; entre los primeros diseños de Hadid en construirse; planos de hormigón in situ que se cruzan en oblicuo; «movimiento congelado»; hoy espacio de exposiciones y eventos. ⚠ no confirma que dejara pronto de ser estación.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Western architecture: Architecture at the turn of the 21st century»",
+     "url": "https://www.britannica.com/art/Western-architecture/Architecture-at-the-turn-of-the-21st-century",
+     "checks": "Vitra Fire Station (1989–93) en Weil am Rhein como ejemplo de arquitectura deconstructivista.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "seattle-library-2004",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Seattle Central Library",
+   "short": "Seattle Library",
+   "designers": [
+    "rem-koolhaas"
+   ],
+   "maker": "OMA (Rem Koolhaas and Joshua Prince-Ramus) with LMN Architects",
+   "client": "Seattle Public Library",
+   "year": 2004,
+   "date": "2004",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel diamond-grid frame with glass skin",
+   "tech": [
+    "cad-cam"
+   ],
+   "key": "Rem Koolhaas’s faceted glass and steel library in downtown Seattle, opened in May 2004, designed as a library for the digital age and not only for books.[1][2]",
+   "more": "Designed by OMA, led by Rem Koolhaas and Joshua Prince-Ramus, with the Seattle firm Loschky Marquardt & Nesholm (LMN), it was built from 1999 to 2004 and opened in May 2004.[1][2] The 11-storey building is wrapped in a diamond-shaped grid of steel and glass that also braces it against wind and earthquakes.[1][2] Its programme is grouped into a few main volumes, with flexible spaces between them, and a ‘book spiral’ holds the non-fiction collection in continuous Dewey order.[1][2]",
+   "status": "Open as the central branch of the Seattle Public Library.",
+   "es": {
+    "title": "Biblioteca Central de Seattle",
+    "short": "Biblioteca de Seattle",
+    "date": "2004",
+    "materials": "Estructura de acero de malla en rombos con piel de vidrio",
+    "key": "La biblioteca facetada de vidrio y acero de Rem Koolhaas en el centro de Seattle, inaugurada en mayo de 2004, pensada como una biblioteca para la era digital y no solo para libros.[1][2]",
+    "more": "Diseñada por OMA, liderada por Rem Koolhaas y Joshua Prince-Ramus, junto con la firma de Seattle Loschky Marquardt & Nesholm (LMN), se construyó entre 1999 y 2004 y se inauguró en mayo de 2004.[1][2] El edificio de 11 pisos está envuelto en una malla en rombos de acero y vidrio que además lo arriostra frente al viento y los sismos.[1][2] Su programa se agrupa en pocos volúmenes principales, con espacios flexibles entre ellos, y una «espiral de libros» guarda la colección de no ficción en orden Dewey continuo.[1][2]",
+    "status": "Abierta como sede central de la Biblioteca Pública de Seattle."
+   },
+   "refs": [
+    {
+     "label": "HistoryLink, «Central Library, 2002-present, The Seattle Public Library»",
+     "url": "https://historylink.org/File/4303",
+     "checks": "OMA (Koolhaas) con LMN; abrió en mayo de 2004; 11 pisos; piel de acero en rombos y vidrio que da resistencia ante sismo y viento; espiral de libros en orden Dewey. ⚠ enciclopedia local, no académica.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "SAH Archipedia, «Seattle Central Library»",
+     "url": "https://sah-archipedia.org/node/79327",
+     "checks": "OMA con Koolhaas y Joshua Prince-Ramus y Loschky, Marquardt y Nesholm; obra 1999-2004, abierta en mayo de 2004; malla en rombos de acero y vidrio; cinco volúmenes principales con espacios flexibles entre ellos; «biblioteca para la era digital».",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "kunsthal-rotterdam-1992",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Kunsthal Rotterdam",
+   "designers": [
+    "rem-koolhaas"
+   ],
+   "client": "City of Rotterdam",
+   "year": 1992,
+   "date": "1992",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Concrete, steel, glass and translucent panels, with varied cladding",
+   "tech": [],
+   "key": "Rem Koolhaas’s exhibition building in Rotterdam’s Museumpark, opened in 1992, a collage of different materials organised around public routes that cross the building.",
+   "more": "Designed by Rem Koolhaas and OMA and opened in 1992, the Kunsthal has no permanent collection and shows temporary exhibitions. Its plan joins halls of different character and materials, and public routes cut through the building, so that the street and the museum overlap. Its mix of rough and refined surfaces made it an influential building of the early 1990s.",
+   "status": "Open as an exhibition venue in Rotterdam.",
+   "es": {
+    "title": "Kunsthal de Rotterdam",
+    "date": "1992",
+    "materials": "Hormigón, acero, vidrio y paneles translúcidos, con revestimientos variados",
+    "key": "El edificio de exposiciones de Rem Koolhaas en el Museumpark de Rotterdam, inaugurado en 1992, un collage de materiales distintos organizado en torno a recorridos públicos que atraviesan el edificio.",
+    "more": "Diseñado por Rem Koolhaas y OMA e inaugurado en 1992, el Kunsthal no tiene colección permanente y presenta exposiciones temporales. Su planta une salas de carácter y materiales distintos, y recorridos públicos cruzan el edificio, de modo que la calle y el museo se superponen. Su mezcla de superficies rugosas y refinadas lo hizo un edificio influyente de comienzos de los años noventa.",
+    "status": "Abierto como sala de exposiciones en Rotterdam."
+   },
+   "refs": []
+  },
+  {
+   "id": "pompidou-centre-1977",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Centre Pompidou",
+   "designers": [
+    "renzo-piano",
+    "richard-rogers"
+   ],
+   "year": 1977,
+   "date": "1971–77",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Steel frame, glass, colour-coded external pipes and ducts",
+   "tech": [],
+   "key": "The Paris arts centre by Renzo Piano and Richard Rogers, with its pipes and ducts on the outside to leave the floors free.[1][2]",
+   "more": "Won in a 1971 international competition by Piano and Rogers, with G. F. Franchini working on the competition, programme and interiors, and formally opened on 31 January 1977.[1][2] A steel and glass structure holds large open plateaus of 50 by 170 metres, while the services sit along the street façade, coloured blue for air, green for water, yellow for electricity and red for vertical circulation.[2] Britannica describes its brightly coloured exposed pipes and ducts as a high-tech look that made it controversial, and it quickly became one of the world’s most visited cultural monuments.[1]",
+   "status": "In use as a museum and library; closed for a major renovation planned from 2025.",
+   "movements": [
+    "high-tech-architecture"
+   ],
+   "es": {
+    "title": "Centro Pompidou",
+    "date": "1971–77",
+    "materials": "Estructura de acero, vidrio, tuberías y ductos exteriores codificados por colores",
+    "key": "El centro de arte de París de Renzo Piano y Richard Rogers, con tuberías y ductos por fuera para dejar libres los pisos.[1][2]",
+    "more": "Ganado en 1971 en un concurso internacional por Piano y Rogers, con G. F. Franchini trabajando en el concurso, el programa y los interiores, se inauguró formalmente el 31 de enero de 1977.[1][2] Una estructura de acero y vidrio sostiene grandes plantas libres de 50 por 170 metros, mientras los servicios van por la fachada hacia la calle, coloreados azul para el aire, verde para el agua, amarillo para la electricidad y rojo para la circulación vertical.[2] Britannica describe sus tuberías y ductos expuestos de colores vivos como una estética high-tech que lo hizo polémico, y pronto fue uno de los monumentos culturales más visitados del mundo.[1]",
+    "status": "En uso como museo y biblioteca; cerrado por una gran renovación prevista desde 2025."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Pompidou Centre»",
+     "url": "https://www.britannica.com/topic/Pompidou-Centre",
+     "checks": "Concurso de 1971 ganado por Piano y Rogers; inauguración formal el 31 de enero de 1977 por Giscard d’Estaing; tuberías y ductos exteriores de colores vivos, aspecto industrial high-tech y polémico; uno de los monumentos culturales más visitados.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Renzo Piano Building Workshop, «Centre Georges Pompidou»",
+     "url": "https://www.rpbw.com/project/centre-georges-pompidou",
+     "checks": "Concurso internacional de 1971 ganado por Piano y Rogers, apertura 1977; Franchini en concurso, programa e interiores; estructura de acero con fachadas de vidrio; plateaus de 50 x 170 m; código de colores azul/verde/amarillo/rojo. ⚠ sitio del propio estudio (fuente primaria con interés).",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "piazza-d-italia-1978",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "square",
+   "title": "Piazza d'Italia, New Orleans",
+   "designers": [
+    "charles-moore"
+   ],
+   "year": 1978,
+   "date": "1978",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Concrete, stainless steel, marble, neon and water",
+   "tech": [],
+   "key": "Charles Moore’s New Orleans plaza for the Italian-American community, a playful stage of classical columns, a map of Italy and water jets.",
+   "more": "Moore designed this small public square in New Orleans for the city’s Italian-American community, completed in 1978. Concentric arcs and a fountain shaped like a map of Italy are framed by colonnades in which the classical orders are rendered in stainless steel, neon and water. The ironic, theatrical use of historical forms made it one of the best-known images of postmodern architecture.",
+   "status": "Restored after years of decay; it remains a public square.",
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "es": {
+    "title": "Plaza de Italia, Nueva Orleans",
+    "date": "1978",
+    "materials": "Hormigón, acero inoxidable, mármol, neón y agua",
+    "key": "La plaza de Charles Moore en Nueva Orleans para la comunidad ítalo-estadounidense, un escenario lúdico de columnas clásicas, un mapa de Italia y chorros de agua.",
+    "more": "Moore proyectó esta pequeña plaza pública de Nueva Orleans para la comunidad ítalo-estadounidense de la ciudad, terminada en 1978. Arcos concéntricos y una fuente con forma de mapa de Italia están rodeados por columnatas en las que los órdenes clásicos se hacen con acero inoxidable, neón y agua. El uso irónico y teatral de las formas históricas la convirtió en una de las imágenes más conocidas de la arquitectura posmoderna.",
+    "status": "Restaurada tras años de deterioro; sigue siendo una plaza pública.",
+    "short": "Plaza de Italia"
+   },
+   "refs": [],
+   "short": "Piazza d’Italia"
+  },
+  {
+   "id": "teatro-del-mondo-1979",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Teatro del Mondo, Venice",
+   "designers": [
+    "aldo-rossi"
+   ],
+   "year": 1979,
+   "date": "1979",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Steel scaffolding tube clad in timber, on a floating barge",
+   "tech": [],
+   "key": "Aldo Rossi’s floating theatre for the 1979 Venice Biennale, a small tower of timber and scaffolding towed through the lagoon.",
+   "more": "Rossi built the Teatro del Mondo for the 1979 Venice Biennale as a temporary theatre on a barge, moored near the Punta della Dogana. Its steel scaffolding structure was clad in timber and crowned by a lantern, and its simple geometric volumes echoed the city’s towers and the types of the Veneto. It was a built example of Rossi’s interest in typology and memory in the city.",
+   "status": "Temporary; dismantled after the Biennale.",
+   "es": {
+    "title": "Teatro del Mondo, Venecia",
+    "date": "1979",
+    "materials": "Tubos de andamio de acero revestidos de madera, sobre una barcaza flotante",
+    "key": "El teatro flotante de Aldo Rossi para la Bienal de Venecia de 1979, una pequeña torre de madera y andamio remolcada por la laguna.",
+    "more": "Rossi construyó el Teatro del Mondo para la Bienal de Venecia de 1979 como teatro temporal sobre una barcaza, amarrada cerca de la Punta della Dogana. Su estructura de andamio de acero iba revestida de madera y coronada por un farol, y sus volúmenes geométricos simples recordaban las torres de la ciudad y los tipos del Véneto. Fue un ejemplo construido del interés de Rossi por la tipología y la memoria en la ciudad.",
+    "status": "Temporal; fue desmontado tras la Bienal.",
+    "short": "Teatro del Mondo"
+   },
+   "refs": [],
+   "movements": [
+    "tendenza"
+   ],
+   "short": "Teatro del Mondo"
+  },
+  {
+   "id": "strada-novissima-1980",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "exhibition",
+   "title": "Strada Novissima (Venice Biennale)",
+   "designers": [
+    "frank-gehry",
+    "rem-koolhaas",
+    "robert-venturi"
+   ],
+   "year": 1980,
+   "date": "1980",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Timber, plaster and painted board, built as stage scenery",
+   "tech": [],
+   "key": "The street of twenty façades at the first Venice Architecture Biennale, 1980, curated by Paolo Portoghesi.",
+   "more": "Part of the 1980 Venice Biennale’s architecture exhibition, ‘The Presence of the Past’, curated by Paolo Portoghesi in the Corderie of the Arsenale. Twenty architects each designed one façade along an indoor street, among them Gehry, Koolhaas and Venturi. Built like stage scenery, the street imitated a historic city street and brought the postmodern turn to historical forms before a wide public.",
+   "status": "Temporary; dismantled after the exhibition.",
+   "es": {
+    "title": "Strada Novissima (Bienal de Venecia)",
+    "date": "1980",
+    "materials": "Madera, yeso y paneles pintados, construidos como escenografía",
+    "key": "La calle de veinte fachadas de la primera Bienal de Arquitectura de Venecia, en 1980, con curaduría de Paolo Portoghesi.",
+    "more": "Parte de la exposición de arquitectura de la Bienal de Venecia de 1980, «La presencia del pasado», con curaduría de Paolo Portoghesi en las Corderie del Arsenal. Veinte arquitectos diseñaron cada uno una fachada a lo largo de una calle interior, entre ellos Gehry, Koolhaas y Venturi. Construida como escenografía, la calle imitaba una calle de ciudad histórica y llevó el giro posmoderno hacia las formas históricas a un público amplio.",
+    "status": "Temporal; fue desmontada al terminar la exposición.",
+    "short": "Strada Novissima"
+   },
+   "refs": [],
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "short": "Strada Novissima"
+  },
+  {
+   "id": "seaside-florida-1981",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "urban-plan",
+   "title": "Seaside, Florida",
+   "designers": [
+    "duany-plater-zyberk"
+   ],
+   "year": 1981,
+   "date": "from 1981",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Wood-frame houses with porches and picket fences, set on a pedestrian street grid",
+   "tech": [],
+   "key": "Duany and Plater-Zyberk’s new town on the Florida coast, planned from 1981 with a town code instead of a suburban layout.",
+   "more": "Planned for the developer Robert Davis on the Gulf coast of Florida, Seaside was laid out by Andrés Duany and Elizabeth Plater-Zyberk from 1981 with narrow streets, a town centre and an urban code that set the form of houses and fences. Houses with porches and traditional timber details face short, walkable streets that lead to the beach. It became the best-known example of the new urbanism.",
+   "status": "Built and inhabited; it works as a resort town.",
+   "es": {
+    "title": "Seaside, Florida",
+    "date": "from 1981",
+    "materials": "Casas de estructura de madera con porches y cercos, en una trama de calles peatonales",
+    "key": "El pueblo nuevo de Duany y Plater-Zyberk en la costa de Florida, planeado desde 1981 con un código urbano en vez de una trama suburbana.",
+    "more": "Planeado para el promotor Robert Davis en la costa del Golfo de Florida, Seaside fue trazado por Andrés Duany y Elizabeth Plater-Zyberk desde 1981 con calles angostas, un centro del pueblo y un código urbano que fijaba la forma de las casas y los cercos. Casas con porches y detalles tradicionales de madera dan a calles cortas y caminables que llevan a la playa. Se volvió el ejemplo más conocido del nuevo urbanismo.",
+    "status": "Construido y habitado; funciona como pueblo de veraneo."
+   },
+   "refs": []
+  },
+  {
+   "id": "staatsgalerie-stuttgart-1984",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "museum",
+   "title": "Neue Staatsgalerie, Stuttgart",
+   "designers": [
+    "james-stirling"
+   ],
+   "year": 1984,
+   "date": "1977–84",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Sandstone and travertine, with painted steel and glass",
+   "tech": [],
+   "key": "James Stirling’s museum extension in Stuttgart, a monumental building of stone blocks with brightly coloured steel details.",
+   "more": "Stirling won the competition in 1977 and the extension to the Staatsgalerie opened in 1984, designed with Michael Wilford. Blocks of sandstone and travertine are arranged around an open rotunda and a ramped route, with pink and blue steel railings and a curved glass wall. It mixes classical monumentality with industrial elements and became a landmark of postmodern museum design.",
+   "status": "In use as a museum.",
+   "es": {
+    "title": "Neue Staatsgalerie, Stuttgart",
+    "date": "1977–84",
+    "materials": "Arenisca y travertino, con acero pintado y vidrio",
+    "key": "La ampliación del museo de Stuttgart de James Stirling, un edificio monumental de bloques de piedra con detalles de acero de colores vivos.",
+    "more": "Stirling ganó el concurso en 1977 y la ampliación de la Staatsgalerie se inauguró en 1984, proyectada con Michael Wilford. Bloques de arenisca y travertino se organizan en torno a una rotonda abierta y un recorrido con rampas, con barandas de acero rosadas y azules y un muro de vidrio curvo. Mezcla monumentalidad clásica con elementos industriales y se volvió un hito del museo posmoderno.",
+    "status": "En uso como museo.",
+    "short": "Staatsgalerie"
+   },
+   "refs": [],
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "short": "Staatsgalerie"
+  },
+  {
+   "id": "att-building-1984",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "skyscraper",
+   "title": "AT&T Building, New York",
+   "designers": [
+    "philip-johnson"
+   ],
+   "client": "AT&T",
+   "year": 1984,
+   "date": "c. 1978–84",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Pink granite cladding on a steel frame",
+   "tech": [],
+   "key": "Philip Johnson’s New York skyscraper, recognised as the first postmodern tower, with a broken-pediment crown.[1][2]",
+   "more": "Designed by Philip Johnson with John Burgee and built between 1978 and 1984, the 37-storey tower on Madison Avenue is clad in pinkish-gray granite and crowned by a colossal broken pediment.[1] New York’s Landmarks Preservation Commission, which designated it in 2018, calls it the world’s first skyscraper built in the postmodern style, and its vice chair said it established postmodernism as a legitimate architectural movement.[1][2]",
+   "status": "Stands as 550 Madison Avenue.",
+   "es": {
+    "title": "Edificio AT&T, Nueva York",
+    "date": "c. 1978–84",
+    "materials": "Revestimiento de granito rosado sobre estructura de acero",
+    "key": "El rascacielos neoyorquino de Philip Johnson, reconocido como la primera torre posmoderna, con remate de frontón partido.[1][2]",
+    "more": "Proyectado por Philip Johnson con John Burgee y construido entre 1978 y 1984, la torre de 37 pisos en la avenida Madison está revestida de granito gris rosáceo y coronada por un colosal frontón partido.[1] La Comisión de Preservación de Monumentos de Nueva York, que la declaró monumento en 2018, la llama el primer rascacielos del mundo construido en estilo posmoderno, y su vicepresidente dijo que estableció el posmodernismo como un movimiento arquitectónico legítimo.[1][2]",
+    "status": "Sigue en pie como 550 Madison Avenue.",
+    "short": "Edificio AT&T"
+   },
+   "refs": [
+    {
+     "label": "NYC Landmarks Preservation Commission, comunicado de prensa sobre la designación del edificio AT&T (31 de julio de 2018)",
+     "url": "https://www.nyc.gov/site/lpc/about/pr2018/073118.page",
+     "checks": "Johnson y Burgee; construido 1978–84; granito gris rosáceo; colosal frontón partido; 37 pisos; 550 Madison Avenue entre las calles 55 y 56; monumento individual en 2018; primer rascacielos posmoderno del mundo; cita de Frederick Bland.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Architectural Record, «Philip Johnson and John Burgee’s AT&T Building receives landmark designation»",
+     "url": "https://architecturalrecord.com/articles/13588-philip-johnson-and-john-burgees-att-building-receives-landmark-designation",
+     "checks": "Termina en 1984; granito rosa Stony Creek y frontón partido; cita de Bland sobre el posmodernismo. ⚠ da la designación el 1 de agosto de 2018, mientras la LPC da el 31 de julio: el texto dice solo «2018».",
+     "date": "2026-10-06"
+    }
+   ],
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "short": "AT&T Building"
+  },
+  {
+   "id": "hsbc-hong-kong-1986",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "skyscraper",
+   "title": "HSBC Headquarters, Hong Kong",
+   "designers": [
+    "norman-foster"
+   ],
+   "client": "Hongkong and Shanghai Banking Corporation",
+   "year": 1986,
+   "date": "1979–86",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "HK"
+   ],
+   "materials": "Steel masts and trusses, aluminium and glass cladding",
+   "tech": [],
+   "key": "Norman Foster’s Hong Kong bank tower, completed in 1986, whose floors hang from eight masts and five double-storey steel trusses around an open atrium.[1][2]",
+   "more": "Designed by Foster’s office, with Ove Arup & Partners as structural engineers, for the Hongkong and Shanghai Banking Corporation and completed in 1986.[1][2] Eight masts carry five double-storey steel suspension trusses, which leaves a column-free ground level; a tall atrium is lit by a bank of mirrors that reflects sunlight down from a light scoop.[1] Dezeen describes it as a pioneer of high-tech architecture because the structure, normally hidden inside, is shown on the outside, and as the first major international project of Foster’s practice.[2]",
+   "status": "In use as HSBC’s Hong Kong headquarters.",
+   "es": {
+    "title": "Sede del HSBC en Hong Kong",
+    "date": "1979–86",
+    "materials": "Mástiles y cerchas de acero, revestimiento de aluminio y vidrio",
+    "key": "La torre bancaria de Norman Foster en Hong Kong, terminada en 1986, cuyos pisos cuelgan de ocho mástiles y cinco cerchas de acero de doble piso en torno a un atrio abierto.[1][2]",
+    "more": "Proyectada por la oficina de Foster, con Ove Arup & Partners como ingenieros estructurales, para el Hongkong and Shanghai Banking Corporation y terminada en 1986.[1][2] Ocho mástiles sostienen cinco cerchas de suspensión de acero de doble piso, lo que deja libre de columnas el nivel del suelo; un atrio alto recibe luz de un banco de espejos que refleja hacia abajo el sol captado por un colector de luz.[1] Dezeen la describe como pionera de la arquitectura high-tech porque la estructura, que normalmente va oculta por dentro, se muestra por fuera, y como el primer gran proyecto internacional del estudio de Foster.[2]",
+    "status": "En uso como sede del HSBC en Hong Kong.",
+    "short": "HSBC Hong Kong"
+   },
+   "refs": [
+    {
+     "label": "Arup, «HSBC Headquarters, 1 Queen’s Road Central»",
+     "url": "https://www.arup.com/en/projects/hsbc-headquarters-1-queens-road-central",
+     "checks": "Terminado en 1986 con Foster + Partners; ocho mástiles y cinco cerchas de suspensión de doble piso; nivel del suelo sin columnas; atrio con banco de espejos y colector de luz. ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Dezeen, «Foster’s HSBC building in Hong Kong is a revolutionary high-tech skyscraper»",
+     "url": "https://www.dezeen.com/?p=1427465",
+     "checks": "Terminado en 1986; arquitecto Foster Associates, ingeniero estructural Ove Arup & Partners; estructura expuesta en el exterior; primer gran proyecto internacional de Foster; pionero del high-tech. ⚠ prensa de arquitectura, fuente secundaria.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "HSBC Hong Kong"
+  },
+  {
+   "id": "lloyds-building-1986",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Lloyd's Building, London",
+   "designers": [
+    "richard-rogers"
+   ],
+   "client": "Lloyd’s of London",
+   "year": 1986,
+   "date": "1978–86",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Stainless steel cladding on a concrete frame",
+   "tech": [],
+   "key": "Richard Rogers’s insurance headquarters in the City of London, with stairs, lifts and ducts placed outside around a central atrium.",
+   "more": "Designed by Richard Rogers and finished in 1986 for the insurance market of Lloyd’s, it places lifts, stairs and service ducts in towers on the outside, which leaves large, flexible floors around a glazed atrium. The stainless steel cladding and exposed services continue the approach of the Centre Pompidou, which Rogers designed with Renzo Piano.",
+   "status": "In use as an office building; listed Grade I.",
+   "movements": [
+    "high-tech-architecture"
+   ],
+   "es": {
+    "title": "Edificio Lloyd's, Londres",
+    "date": "1978–86",
+    "materials": "Revestimiento de acero inoxidable sobre estructura de hormigón",
+    "key": "La sede de seguros de Richard Rogers en la City de Londres, con escaleras, ascensores y ductos por fuera en torno a un atrio central.",
+    "more": "Proyectado por Richard Rogers y terminado en 1986 para el mercado de seguros Lloyd’s, ubica ascensores, escaleras y ductos de servicio en torres exteriores, lo que deja plantas grandes y flexibles en torno a un atrio acristalado. El revestimiento de acero inoxidable y los servicios a la vista continúan el enfoque del Centro Pompidou, que Rogers diseñó con Renzo Piano.",
+    "status": "En uso como edificio de oficinas; protegido como monumento de grado I.",
+    "short": "Edificio Lloyd’s"
+   },
+   "refs": [],
+   "short": "Lloyd’s Building"
+  },
+  {
+   "id": "museo-romano-merida-1986",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "National Museum of Roman Art, Mérida",
+   "designers": [
+    "rafael-moneo"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1986,
+   "date": "1986",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Brick, concrete",
+   "tech": [],
+   "movements": [
+    "critical-regionalism"
+   ],
+   "key": "Rafael Moneo’s museum in Mérida, a nave of tall brick arches built beside the Roman ruins of Emerita Augusta to show their finds.",
+   "more": "Moneo designed it to house the remains of the Roman city of Emerita Augusta and built it on the archaeological site itself. Its main hall is a series of tall round arches in brick, a reading of Roman brickwork in a modern building. It opened in 1986 and became a reference for the architecture of museums in Spain.",
+   "status": "Open as a museum.",
+   "es": {
+    "title": "Museo Nacional de Arte Romano, Mérida",
+    "date": "1986",
+    "materials": "Ladrillo, hormigón",
+    "key": "El museo de Rafael Moneo en Mérida, una nave de altos arcos de ladrillo levantada junto a las ruinas romanas de Emerita Augusta para exhibir sus hallazgos.",
+    "more": "Moneo lo proyectó para albergar los restos de la ciudad romana de Emerita Augusta y lo levantó sobre el propio sitio arqueológico. Su sala principal es una serie de altos arcos de medio punto en ladrillo, una lectura de la fábrica romana en un edificio moderno. Se inauguró en 1986 y fue un referente de la arquitectura de museos en España.",
+    "status": "Abierto como museo.",
+    "short": "Museo Arte Romano"
+   },
+   "refs": [],
+   "short": "Roman Art Museum"
+  },
+  {
+   "id": "institut-monde-arabe-1987",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Institut du Monde Arabe",
+   "designers": [
+    "jean-nouvel"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1987,
+   "date": "1987",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Glass, steel, aluminium",
+   "tech": [],
+   "movements": [
+    "high-tech-architecture"
+   ],
+   "key": "Jean Nouvel’s cultural institute on the Seine, whose south facade is a wall of light-sensitive metal diaphragms inspired by Arab screens.",
+   "more": "The Institut du Monde Arabe was one of the cultural projects of the French state in Paris in the 1980s, and Nouvel designed it with Architecture-Studio. Its south facade is a glass wall covered with metal diaphragms that open and close to regulate light, a modern version of the lattice screens of Arab architecture. It opened in 1987.",
+   "status": "Open as an institute and museum.",
+   "es": {
+    "title": "Instituto del Mundo Árabe",
+    "date": "1987",
+    "materials": "Vidrio, acero, aluminio",
+    "key": "El instituto cultural de Jean Nouvel a orillas del Sena, cuya fachada sur es un muro de diafragmas metálicos sensibles a la luz inspirados en las celosías árabes.",
+    "more": "El Institut du Monde Arabe fue uno de los proyectos culturales del Estado francés en París en los años ochenta, y Nouvel lo proyectó con Architecture-Studio. Su fachada sur es un muro de vidrio cubierto de diafragmas metálicos que se abren y cierran para regular la luz, una versión moderna de las celosías de la arquitectura árabe. Se inauguró en 1987.",
+    "status": "Abierto como instituto y museo.",
+    "short": "Inst. Mundo Árabe"
+   },
+   "refs": [],
+   "short": "Inst. Monde Arabe"
+  },
+  {
+   "id": "parc-de-la-villette-1987",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Parc de la Villette",
+   "designers": [
+    "bernard-tschumi"
+   ],
+   "maker": null,
+   "client": "City of Paris",
+   "year": 1987,
+   "date": "1982–87",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Steel, concrete, landscape",
+   "tech": [],
+   "key": "Bernard Tschumi’s Parisian park, opened in 1987 on the site of the old slaughterhouses, laid out as three overlapping systems of points, lines and surfaces, with red folies on a regular grid.[1][2][3]",
+   "more": "An international competition for the park was launched in May 1982 and Tschumi was selected in March 1983; it stands on the site of slaughterhouses that operated from 1867 to 1974.[1] Dezeen reports that he beat more than 470 entries and organised the park in three systems, points, lines and surfaces, with the points as red pavilions on a 120-metre grid.[2] Tschumi’s own office describes the folies as red enamelled steel structures and the park as based on culture rather than nature.[3] The park was inaugurated in October 1987.[1] It was included in MoMA’s 1988 Deconstructivist Architecture exhibition.[2]",
+   "status": "Exists and is open to the public as a city park.",
+   "es": {
+    "title": "Parc de la Villette",
+    "date": "1982–87",
+    "materials": "Acero, hormigón, paisaje",
+    "key": "El parque parisino de Bernard Tschumi, inaugurado en 1987 en el terreno de los antiguos mataderos, trazado como tres sistemas superpuestos de puntos, líneas y superficies, con folies rojas en una retícula regular.[1][2][3]",
+    "more": "El concurso internacional para el parque se convocó en mayo de 1982 y Tschumi fue elegido en marzo de 1983; se levanta en el terreno de mataderos que funcionaron de 1867 a 1974.[1] Dezeen señala que superó a más de 470 competidores y organizó el parque en tres sistemas, puntos, líneas y superficies, con los puntos como pabellones rojos en una retícula de 120 metros.[2] La oficina del propio Tschumi describe las folies como estructuras de acero esmaltado rojo y el parque como basado en la cultura y no en la naturaleza.[3] El parque fue inaugurado en octubre de 1987.[1] Formó parte de la exposición Deconstructivist Architecture del MoMA en 1988.[2]",
+    "status": "Existe y está abierto al público como parque urbano."
+   },
+   "refs": [
+    {
+     "label": "Parc de la Villette, folleto de bienvenida (historia del parque)",
+     "url": "https://www.lavillette.com/wp-content/uploads/files/Livret-Bienvenue/LA-VILLETTE-LivretsBienvenue_ENG_2025_.pdf",
+     "checks": "Mataderos 1867–1974; concurso internacional lanzado en mayo de 1982; Tschumi elegido en marzo de 1983; inauguración en octubre de 1987. ⚠ lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Dezeen, «Parc de la Villette by Bernard Tschumi»",
+     "url": "https://www.dezeen.com/2022/05/05/parc-de-la-villette-deconstructivism-bernard-tschumi/",
+     "checks": "Más de 470 competidores; tres sistemas de puntos, líneas y superficies; pabellones rojos en retícula de 120 m; exposición del MoMA de 1988. ⚠ da 1983 como año del concurso y 35 pabellones; prensa, fuente secundaria.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Tschumi Architects, «Parc de la Villette»",
+     "url": "https://tschumi.com/projects/3",
+     "checks": "Folies de acero esmaltado rojo; parque basado en la cultura más que en la naturaleza; retícula de puntos sobre trazados lineales; sitio de antiguos mataderos. ⚠ fechas del sitio: 1982–1998.",
+     "date": "2026-10-06"
+    }
+   ],
+   "movements": [
+    "landscape-urbanism"
+   ]
+  },
+  {
+   "id": "louvre-pyramid-1989",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Louvre Pyramid",
+   "designers": [
+    "ieoh-ming-pei"
+   ],
+   "maker": null,
+   "client": "French State",
+   "year": 1989,
+   "date": "1989",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Glass, steel",
+   "tech": [],
+   "key": "I. M. Pei’s glass pyramid in the courtyard of the Louvre, built as the museum’s new main entrance.",
+   "more": "Part of the Grand Louvre project promoted by President Mitterrand, the pyramid is a steel and glass structure placed in the Cour Napoléon and opened in 1989. It serves as the entrance to an underground reception area that distributes visitors to the museum’s wings. A modern, transparent form set against the historic palace, it was controversial when it was announced.",
+   "status": "Exists and is the main entrance of the Louvre.",
+   "es": {
+    "title": "Pirámide del Louvre",
+    "date": "1989",
+    "materials": "Vidrio, acero",
+    "key": "La pirámide de vidrio de I. M. Pei en el patio del Louvre, construida como nueva entrada principal del museo.",
+    "more": "Parte del proyecto del Gran Louvre impulsado por el presidente Mitterrand, la pirámide es una estructura de acero y vidrio ubicada en la Cour Napoléon e inaugurada en 1989. Sirve de entrada a un vestíbulo subterráneo que distribuye a los visitantes hacia las alas del museo. Forma moderna y transparente frente al palacio histórico, fue polémica cuando se anunció.",
+    "status": "Existe y es la entrada principal del Louvre."
+   },
+   "refs": []
+  },
+  {
+   "id": "church-of-the-light-1989",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Church of the Light, Ibaraki",
+   "designers": [
+    "tadao-ando"
+   ],
+   "maker": null,
+   "client": "Ibaraki Kasugaoka Church",
+   "year": 1989,
+   "date": "1989",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "Tadao Ando’s small concrete church in Ibaraki, completed in 1989, where a cross cut into the wall behind the altar is the main source of light.[1][2][3]",
+   "more": "The church stands in Ibaraki, in the Osaka area, and was designed by Tadao Ando; Japan Architect gives its completion as 1989, while Britannica dates it 1990.[1][3] It is a concrete building in which a cross-shaped opening in the wall behind the altar produces a cross of light inside when daylight strikes the outside of the wall.[1] The cross cut-out is on the eastern facade and the concrete is cast in place.[3] Britannica presents it as a demonstration of how natural light can serve as a spiritual and aesthetic element, and it is still an active church.[1] MoMA holds Ando’s 1989 plan drawing of the building.[2]",
+   "status": "Exists and is in use as a church.",
+   "es": {
+    "title": "Iglesia de la Luz, Ibaraki",
+    "date": "1989",
+    "materials": "Hormigón armado",
+    "key": "La pequeña iglesia de hormigón de Tadao Ando en Ibaraki, terminada en 1989, donde una cruz abierta en el muro tras el altar es la principal fuente de luz.[1][2][3]",
+    "more": "La iglesia está en Ibaraki, en el área de Osaka, y fue proyectada por Tadao Ando; Japan Architect da su terminación en 1989, mientras Britannica la fecha en 1990.[1][3] Es un edificio de hormigón en que una abertura en forma de cruz en el muro tras el altar produce una cruz de luz en el interior cuando la luz del día da sobre el exterior del muro.[1] El corte en cruz está en la fachada oriental.[3] Britannica la presenta como una demostración de cómo la luz natural puede servir de elemento espiritual y estético, y sigue activa como iglesia.[1] El MoMA conserva el plano de 1989 del edificio, dibujado por Ando.[2]",
+    "status": "Existe y está en uso como iglesia.",
+    "short": "Iglesia de la Luz"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Church of Light»",
+     "url": "https://www.britannica.com/place/Church-of-Light",
+     "checks": "Ibaraki, suburbio de Osaka; Tadao Ando; hormigón; abertura cruciforme tras el altar que genera una cruz de luz; iglesia activa; valor de la luz natural. ⚠ fecha 1990, distinta de 1989; lectura vía resumen automático.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, Tadao Ando, «Church of the Light, Ibaraki, Osaka, Japan, Plan», 348.1996",
+     "url": "https://www.moma.org/collection/works/340",
+     "checks": "Plano de 1989, grafito sobre papel japonés, de Tadao Ando, para la obra en Ibaraki, Osaka. ⚠ fecha de un dibujo, no de la terminación.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Japan Architect, «Church of the Light»",
+     "url": "https://japanarch.com/churchoflight-eng",
+     "checks": "Terminación en 1989; Ibaraki, prefectura de Osaka; corte en cruz en la fachada oriental. ⚠ lectura vía resumen automático; no confirma la fecha de diseño.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Church of the Light"
+  },
+  {
+   "id": "barcelona-olympic-village-1992",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Barcelona Olympic Village and waterfront",
+   "designers": [
+    "oriol-bohigas"
+   ],
+   "maker": null,
+   "client": "City of Barcelona",
+   "year": 1992,
+   "date": "1992",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Mixed: housing blocks, public space, promenade",
+   "tech": [],
+   "key": "The district and seafront built in Poblenou for the 1992 Games, planned by the MBM studio of Oriol Bohigas, which opened Barcelona to the sea.",
+   "more": "For the 1992 Olympic Games, Barcelona rebuilt part of its old industrial coast in Poblenou, opening the city to the sea with new housing, beaches and a promenade. The Olympic Village was planned by the studio of Martorell, Bohigas and Mackay (MBM), led by Oriol Bohigas, and extended the city grid to the shore. After the Games the village became a residential district and the project was widely cited as a model of urban regeneration.",
+   "status": "Exists as a residential district and seafront.",
+   "es": {
+    "title": "Villa Olímpica y frente marítimo de Barcelona",
+    "date": "1992",
+    "materials": "Mixto: bloques de vivienda, espacio público, paseo marítimo",
+    "key": "El barrio y frente marítimo levantados en el Poblenou para los Juegos de 1992, planificados por el estudio MBM de Oriol Bohigas, que abrió Barcelona al mar.",
+    "more": "Para los Juegos Olímpicos de 1992, Barcelona reconstruyó parte de su antigua costa industrial en el Poblenou y abrió la ciudad al mar con nuevas viviendas, playas y un paseo marítimo. La Villa Olímpica fue planificada por el estudio de Martorell, Bohigas y Mackay (MBM), dirigido por Oriol Bohigas, y extendió la trama de la ciudad hasta la costa. Tras los Juegos la villa pasó a ser un barrio residencial y el proyecto se citó mucho como modelo de regeneración urbana.",
+    "status": "Existe como barrio residencial y frente marítimo.",
+    "short": "Villa Olímpica"
+   },
+   "refs": [],
+   "short": "Olympic Village"
+  },
+  {
+   "id": "kansai-airport-1994",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Kansai International Airport",
+   "designers": [
+    "renzo-piano"
+   ],
+   "maker": null,
+   "client": "Kansai International Airport Co.",
+   "year": 1994,
+   "date": "1994",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Steel, glass",
+   "tech": [],
+   "key": "Renzo Piano’s terminal on an artificial island in Osaka Bay, a long steel and glass building shaped like a wing.",
+   "more": "Kansai airport was built on an artificial island in Osaka Bay and opened in 1994, with the terminal designed by Renzo Piano’s workshop with Arup. The long, curved roof of steel and glass is shaped to guide the air along the hall. It carried the European high-tech tradition of exposed structure and technology to a major Asian infrastructure project.",
+   "status": "Exists and is in use as an airport.",
+   "es": {
+    "title": "Aeropuerto Internacional de Kansai",
+    "date": "1994",
+    "materials": "Acero, vidrio",
+    "key": "La terminal de Renzo Piano sobre una isla artificial en la bahía de Osaka, un largo edificio de acero y vidrio con forma de ala.",
+    "more": "El aeropuerto de Kansai se construyó sobre una isla artificial en la bahía de Osaka y abrió en 1994, con la terminal proyectada por el taller de Renzo Piano junto con Arup. La larga cubierta curva de acero y vidrio está modelada para guiar el aire a lo largo del vestíbulo. Llevó la tradición high-tech europea de estructura y tecnología a la vista a un gran proyecto de infraestructura asiático.",
+    "status": "Existe y está en uso como aeropuerto.",
+    "short": "Aeropuerto de Kansai"
+   },
+   "refs": [],
+   "short": "Kansai Airport"
+  },
+  {
+   "id": "marika-alderton-house-1994",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Marika-Alderton House",
+   "designers": [
+    "glenn-murcutt"
+   ],
+   "maker": null,
+   "client": "Banduk Marika and Mark Alderton",
+   "year": 1994,
+   "date": "1994",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "AU"
+   ],
+   "materials": "Steel frame, corrugated metal, timber louvres",
+   "tech": [],
+   "movements": [
+    "critical-regionalism",
+    "green-architecture"
+   ],
+   "key": "Glenn Murcutt’s light house in Eastern Arnhem Land, raised on stilts and opened to the breeze by adjustable louvres.",
+   "more": "Murcutt designed the house with Wendy Lewin for the artist Banduk Marika and Mark Alderton, in Yirrkala, in the tropical north of Australia. It stands on posts above the ground and is cooled by cross ventilation through adjustable louvres rather than by machines, while a light roof of corrugated metal sheds the rain. Murcutt’s climate-responsive houses became an international reference, and he received the Pritzker Prize in 2002.",
+   "status": "Stands in Yirrkala.",
+   "es": {
+    "title": "Casa Marika-Alderton",
+    "date": "1994",
+    "materials": "Estructura de acero, chapa ondulada, celosías de madera",
+    "key": "La casa liviana de Glenn Murcutt en la Tierra de Arnhem oriental, elevada sobre pilotes y abierta a la brisa con celosías regulables.",
+    "more": "Murcutt proyectó la casa con Wendy Lewin para la artista Banduk Marika y Mark Alderton, en Yirrkala, en el norte tropical de Australia. Se levanta sobre pilotes sobre el suelo y se refresca con ventilación cruzada a través de celosías regulables en vez de máquinas, mientras una cubierta liviana de chapa ondulada despide la lluvia. Las casas de Murcutt, sensibles al clima, se volvieron un referente internacional, y recibió el Premio Pritzker en 2002.",
+    "status": "Se encuentra en Yirrkala."
+   },
+   "refs": []
+  },
+  {
+   "id": "paper-church-kobe-1995",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Paper Church (Takatori), Kobe",
+   "designers": [
+    "shigeru-ban"
+   ],
+   "maker": null,
+   "client": "Takatori Catholic Church community",
+   "year": 1995,
+   "date": "1995",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Cardboard tubes, timber, plastic sheeting",
+   "tech": [],
+   "key": "Shigeru Ban’s temporary church in Kobe, built of cardboard tubes after the 1995 earthquake destroyed the parish church.",
+   "more": "After the Great Hanshin earthquake of January 1995 destroyed the Takatori Catholic church, Shigeru Ban designed a temporary replacement made of paper tubes, built with the help of volunteers. It was cheap, quick to put up and made from a recyclable material, and it opened a line of emergency architecture that Ban developed across the world. The church was later dismantled and moved to Taiwan.",
+   "status": "The Kobe building was dismantled; it was rebuilt in Taiwan in 2008.",
+   "es": {
+    "title": "Iglesia de papel (Takatori), Kobe",
+    "date": "1995",
+    "materials": "Tubos de cartón, madera, láminas de plástico",
+    "key": "La iglesia provisoria de Shigeru Ban en Kobe, hecha de tubos de cartón tras el terremoto de 1995 que destruyó la iglesia parroquial.",
+    "more": "Tras el Gran Terremoto de Hanshin de enero de 1995, que destruyó la iglesia católica de Takatori, Shigeru Ban proyectó un reemplazo provisorio hecho de tubos de papel, levantado con ayuda de voluntarios. Era barato, rápido de montar y de un material reciclable, y abrió una línea de arquitectura de emergencia que Ban desarrolló por el mundo. Más tarde la iglesia fue desmontada y trasladada a Taiwán.",
+    "status": "El edificio de Kobe fue desmontado; se reconstruyó en Taiwán en 2008.",
+    "short": "Iglesia de papel"
+   },
+   "refs": [],
+   "short": "Paper Church"
+  },
+  {
+   "id": "therme-vals-1996",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Therme Vals",
+   "designers": [
+    "peter-zumthor"
+   ],
+   "year": 1996,
+   "date": "1996",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Local Valser quartzite slabs, reinforced concrete",
+   "tech": [],
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "Peter Zumthor’s thermal baths in Vals, Switzerland, a cave-like block built of layers of local quartzite around pools of different temperatures.",
+   "more": "Zumthor built the baths in the Graubünden village of Vals, next to the hotel complex that already stood there, and finished them in 1996. The interior is a set of stone-lined spaces lit through slots in the roof, where light, water, steam and the stone itself shape the experience. It became a reference for architecture of material and atmosphere.",
+   "status": "Still open as a spa and hotel complex.",
+   "es": {
+    "title": "Termas de Vals",
+    "date": "1996",
+    "materials": "Lajas de cuarcita local de Vals, hormigón armado",
+    "key": "Las termas de Peter Zumthor en Vals, Suiza, un bloque como una cueva hecho de capas de cuarcita local en torno a piscinas de distintas temperaturas.",
+    "more": "Zumthor construyó las termas en la aldea de Vals, en los Grisones, junto al complejo hotelero que ya existía, y las terminó en 1996. El interior es un conjunto de espacios revestidos de piedra e iluminados por rendijas en el techo, donde la luz, el agua, el vapor y la propia piedra dan forma a la experiencia. Se volvió una referencia de la arquitectura de la materia y la atmósfera.",
+    "status": "Sigue abierto como spa y complejo hotelero."
+   },
+   "refs": []
+  },
+  {
+   "id": "petronas-towers-1996",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Petronas Towers, Kuala Lumpur",
+   "designers": [
+    "cesar-pelli"
+   ],
+   "client": "Petronas",
+   "year": 1996,
+   "date": "1996",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "MY"
+   ],
+   "materials": "Reinforced concrete, steel, stainless-steel and glass cladding",
+   "tech": [],
+   "key": "César Pelli’s twin towers in Kuala Lumpur, whose plan draws on Islamic geometry and which were the tallest buildings in the world from 1998 to 2004.",
+   "more": "Designed by the Argentine-American architect César Pelli for the Malaysian oil company Petronas, the two towers were finished in 1996 and are linked by a sky bridge. Their floor plan is built from interlocking squares and circles, a geometric pattern taken from Islamic tradition. At 452 metres they held the record for the tallest buildings until Taipei 101 took it in 2004.",
+   "status": "Still standing; the towers remain the symbol of Kuala Lumpur.",
+   "es": {
+    "title": "Torres Petronas, Kuala Lumpur",
+    "date": "1996",
+    "materials": "Hormigón armado, acero, revestimiento de acero inoxidable y vidrio",
+    "key": "Las torres gemelas de César Pelli en Kuala Lumpur, cuya planta se apoya en la geometría islámica y que fueron los edificios más altos del mundo entre 1998 y 2004.",
+    "more": "Diseñadas por el arquitecto argentino-estadounidense César Pelli para la petrolera malasia Petronas, las dos torres se terminaron en 1996 y están unidas por un puente aéreo. Su planta se construye con cuadrados y círculos entrelazados, un patrón geométrico tomado de la tradición islámica. Con 452 metros tuvieron el récord de edificios más altos hasta que el Taipei 101 se lo quitó en 2004.",
+    "status": "Siguen en pie; son el símbolo de Kuala Lumpur.",
+    "short": "Torres Petronas"
+   },
+   "refs": [],
+   "short": "Petronas Towers"
+  },
+  {
+   "id": "jewish-museum-berlin-1999",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Jewish Museum Berlin",
+   "designers": [
+    "daniel-libeskind"
+   ],
+   "client": "City of Berlin",
+   "year": 1999,
+   "date": "1999 (opened 2001)",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Zinc-clad steel and concrete structure",
+   "tech": [],
+   "key": "Daniel Libeskind’s zigzag museum in Berlin, clad in titanium-zinc, whose voids and sharp angles express the loss of the Holocaust.[1]",
+   "more": "Libeskind’s ‘Between the Lines’ won the 1989 competition to extend the Berlin Museum with a Jewish Museum department.[1] Britannica dates the work 1989–99,[2] and the museum opened in autumn 2001.[1] Its zigzag is crossed by a straight line of five concrete voids, unheated spaces that symbolise irreplaceable loss, and its windows are asymmetrical.[1] Visitors reach the new building by an underground link from the Baroque old building.[1] In the Garden of Exile, 49 concrete stelae stand on slanting ground, and the Holocaust Tower can be reached only underground;[1] Libeskind called the result ‘a space of absence which is a real space’.[1]",
+   "status": "Open as a museum; it is part of the Jewish Museum Berlin.",
+   "es": {
+    "title": "Museo Judío de Berlín",
+    "date": "1999 (opened 2001)",
+    "materials": "Estructura de acero y hormigón revestida de zinc",
+    "key": "El museo en zigzag de Daniel Libeskind en Berlín, revestido de titanio-zinc, cuyos vacíos y ángulos agudos expresan la pérdida del Holocausto.[1]",
+    "more": "«Between the Lines», de Libeskind, ganó en 1989 el concurso para ampliar el Museo de Berlín con un departamento de Museo Judío.[1] La Britannica fecha la obra en 1989–99,[2] y el museo abrió en el otoño de 2001.[1] Su zigzag está cruzado por una línea recta de cinco vacíos de hormigón, espacios sin calefacción que simbolizan una pérdida irreparable, y sus ventanas son asimétricas.[1] Se llega al edificio nuevo por una conexión subterránea desde el antiguo edificio barroco.[1] En el Jardín del Exilio hay 49 estelas de hormigón sobre suelo inclinado, y a la Torre del Holocausto solo se accede bajo tierra;[1] Libeskind llamó al resultado «un espacio de ausencia que es un espacio real».[1]",
+    "status": "Abierto como museo; forma parte del Museo Judío de Berlín."
+   },
+   "refs": [
+    {
+     "label": "Jewish Museum Berlin, «The Libeskind Building»",
+     "url": "https://www.jmberlin.de/en/libeskind-building",
+     "checks": "Concurso de 1989 con «Between the Lines»; abrió en otoño de 2001; fachada de titanio-zinc en zigzag, ventanas asimétricas; conexión subterránea con el edificio barroco; cinco vacíos de hormigón; Jardín del Exilio (49 estelas); Torre del Holocausto; cita de Libeskind.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Western architecture: Architecture at the turn of the 21st century»",
+     "url": "https://www.britannica.com/art/Western-architecture/Architecture-at-the-turn-of-the-21st-century",
+     "checks": "Museo Judío de Libeskind (1989–99) citado como ejemplo deconstructivista. ⚠ el año 1999 como término de obra se apoya solo en esta fuente.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "reichstag-dome-1999",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Reichstag Dome, Berlin",
+   "designers": [
+    "norman-foster"
+   ],
+   "client": "German Bundestag",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Steel, glass, mirrors",
+   "tech": [],
+   "key": "Norman Foster’s glass dome on the rebuilt Reichstag in Berlin, which lets the public walk above the chamber of the German parliament.",
+   "more": "When the Bundestag moved back to Berlin, Foster rebuilt the Reichstag inside its old walls and crowned it with a glass dome, inaugurated in 1999. A ramp spirals up inside the dome so that visitors can look down on the debating chamber. A mirrored cone at its centre brings daylight to the chamber and helps ventilate it.",
+   "status": "Still in use as the seat of the Bundestag; the dome is open to visitors.",
+   "es": {
+    "title": "Cúpula del Reichstag, Berlín",
+    "date": "1999",
+    "materials": "Acero, vidrio, espejos",
+    "key": "La cúpula de vidrio de Norman Foster sobre el Reichstag reconstruido en Berlín, que permite al público caminar sobre la sala del parlamento alemán.",
+    "more": "Cuando el Bundestag volvió a Berlín, Foster reconstruyó el Reichstag dentro de sus antiguos muros y lo coronó con una cúpula de vidrio, inaugurada en 1999. Una rampa en espiral sube por el interior de la cúpula para que los visitantes puedan mirar hacia el hemiciclo. Un cono de espejos en su centro lleva luz natural a la sala y ayuda a ventilarla.",
+    "status": "Sigue en uso como sede del Bundestag; la cúpula está abierta a las visitas.",
+    "short": "Cúpula Reichstag"
+   },
+   "refs": [],
+   "short": "Reichstag Dome"
+  },
+  {
+   "id": "serralves-museum-1999",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Serralves Museum, Porto",
+   "designers": [
+    "alvaro-siza"
+   ],
+   "client": "Serralves Foundation",
+   "year": 1999,
+   "date": "1999",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "PT"
+   ],
+   "materials": "Rendered masonry and concrete, painted white; granite",
+   "tech": [],
+   "movements": [
+    "critical-regionalism"
+   ],
+   "key": "Álvaro Siza’s white museum for the Serralves Foundation in Porto, set into a park and framing views of its gardens.",
+   "more": "Siza designed the museum of contemporary art for the Serralves Foundation, opened in 1999 in the park of the Serralves estate in Porto, beside the 1930s villa that gives the estate its name. Its white volumes are placed on the slope of the park, and courtyards and windows frame the trees and gardens. The building adapts to the existing landscape rather than standing apart from it.",
+   "status": "Open as the Serralves Museum of Contemporary Art.",
+   "es": {
+    "title": "Museo de Serralves, Oporto",
+    "date": "1999",
+    "materials": "Albañilería y hormigón estucados y pintados de blanco; granito",
+    "key": "El museo blanco de Álvaro Siza para la Fundación Serralves en Oporto, inserto en un parque y enmarcando las vistas de sus jardines.",
+    "more": "Siza diseñó el museo de arte contemporáneo de la Fundación Serralves, abierto en 1999 en el parque de la finca de Serralves, en Oporto, junto a la villa de los años treinta que da nombre a la finca. Sus volúmenes blancos se ubican en la pendiente del parque, y patios y ventanas enmarcan los árboles y los jardines. El edificio se adapta al paisaje existente en lugar de separarse de él.",
+    "status": "Abierto como Museo de Arte Contemporáneo de Serralves.",
+    "short": "Museo de Serralves"
+   },
+   "refs": [],
+   "short": "Serralves Museum"
+  },
+  {
+   "id": "tate-modern-2000",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Tate Modern, London",
+   "designers": [
+    "herzog-de-meuron"
+   ],
+   "client": "Tate",
+   "year": 2000,
+   "date": "2000",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Brick, steel, glass",
+   "tech": [],
+   "key": "Herzog & de Meuron’s conversion of Bankside Power Station in London into the Tate Modern, which opened in May 2000 with the Turbine Hall as its great central space.[1][2]",
+   "more": "Bankside Power Station, designed by Giles Gilbert Scott, opened in 1962 and closed on 31 October 1981.[1] Herzog & de Meuron won the international competition to convert it into a gallery.[1] They kept the brick façade,[2] made the three-storey Turbine Hall the entrance and public gathering space,[2] and added a two-storey glass space on one half of the roof.[2] Tate Modern opened on 11 May 2000;[1] in 2016 the Blavatnik Building, formerly Switch House, expanded display space by 60%.[1]",
+   "status": "Open as the Tate Modern, later enlarged by the Switch House extension of 2016.",
+   "es": {
+    "title": "Tate Modern, Londres",
+    "date": "2000",
+    "materials": "Ladrillo, acero, vidrio",
+    "key": "La conversión de la central eléctrica de Bankside en Londres en la Tate Modern, de Herzog & de Meuron, inaugurada en mayo de 2000 con la Sala de Turbinas como gran espacio central.[1][2]",
+    "more": "La central eléctrica de Bankside, diseñada por Giles Gilbert Scott, abrió en 1962 y cerró el 31 de octubre de 1981.[1] Herzog & de Meuron ganaron el concurso internacional para convertirla en galería.[1] Conservaron la fachada de ladrillo,[2] hicieron de la Sala de Turbinas, de tres pisos, la entrada y el espacio público de reunión,[2] y añadieron un espacio de vidrio de dos pisos sobre una mitad del techo.[2] La Tate Modern abrió el 11 de mayo de 2000;[1] en 2016 el edificio Blavatnik, antes Switch House, amplió el espacio de exposición en un 60 %.[1]",
+    "status": "Abierta como Tate Modern, ampliada después con la extensión Switch House de 2016."
+   },
+   "refs": [
+    {
+     "label": "Tate, «History of Tate Modern»",
+     "url": "https://www.tate.org.uk/about-us/history-tate/history-of-tate-modern",
+     "checks": "Central diseñada por Giles Gilbert Scott, abierta en 1962 y cerrada el 31 de octubre de 1981; concurso ganado por Herzog & de Meuron; apertura el 11 de mayo de 2000; Blavatnik (ex Switch House) en 2016, +60 % de espacio.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Architektura & Biznes, «A revolution in architecture: the transformation of Bankside Power Station into Tate Modern»",
+     "url": "https://www.architekturaibiznes.pl/en/herzog-de-meuron-tate-modern,38042.html",
+     "checks": "Abierta en mayo de 2000; fachada de ladrillo conservada; Sala de Turbinas de tres pisos como entrada y espacio público; espacio de vidrio de dos pisos sobre la mitad del techo. ⚠ revista de arquitectura, no archivo.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "sendai-mediatheque-2001",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Sendai Mediatheque",
+   "designers": [
+    "toyo-ito"
+   ],
+   "client": "City of Sendai",
+   "year": 2001,
+   "date": "2001",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Steel tubes, steel-plate floors, glass",
+   "tech": [],
+   "key": "Toyo Ito’s library and media centre in Sendai, whose seven floor slabs are held up by thirteen lattice tubes of steel instead of walls and columns in a grid.",
+   "more": "Ito designed the mediatheque as an open building of seven floors, each with a different layout, held by thirteen steel tubes of varying thickness that also carry stairs, lifts and services. The glass façade lets the interior show to the street. It was conceived as a place for books, media and art, in place of the traditional library.",
+   "status": "Still open as a public library and cultural centre.",
+   "es": {
+    "title": "Mediateca de Sendai",
+    "date": "2001",
+    "materials": "Tubos de acero, losas de placas de acero, vidrio",
+    "key": "La biblioteca y centro de medios de Toyo Ito en Sendai, cuyas siete losas se sostienen con trece tubos reticulados de acero en lugar de muros y pilares en retícula.",
+    "more": "Ito diseñó la mediateca como un edificio abierto de siete pisos, cada uno con una distribución distinta, sostenidos por trece tubos de acero de grosor variable que además alojan escaleras, ascensores e instalaciones. La fachada de vidrio deja ver el interior desde la calle. Se concibió como lugar de libros, medios y arte, en reemplazo de la biblioteca tradicional.",
+    "status": "Sigue abierta como biblioteca pública y centro cultural."
+   },
+   "refs": []
+  },
+  {
+   "id": "gando-school-2001",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Gando Primary School",
+   "designers": [
+    "francis-kere"
+   ],
+   "client": "Village of Gando",
+   "year": 2001,
+   "date": "2001",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "BF"
+   ],
+   "materials": "Compressed clay bricks, corrugated metal roof",
+   "tech": [],
+   "movements": [
+    "participatory-social-architecture",
+    "green-architecture"
+   ],
+   "key": "Diébédo Francis Kéré’s primary school in his home village of Gando, Burkina Faso, built with the villagers from compressed earth bricks under a raised, ventilated metal roof.[1][2]",
+   "more": "Kéré, the first resident of Gando to pursue higher education, conceived the school while studying architecture in Berlin and set up a fundraising association with German supporters.[1] Construction began in October 2000 with villagers of all ages taking part,[1] and the school was completed in 2001.[2] Its walls are load-bearing stabilised, compressed earth blocks,[1] and a raised corrugated metal roof lets air through, which cools the classrooms;[1] Kéré’s office adds a dry-stacked brick ceiling between roof and classroom.[2] The school won the Aga Khan Award for Architecture in 2004.[1][2]",
+   "status": "Still in use as a school; the complex has since been extended.",
+   "es": {
+    "title": "Escuela primaria de Gando",
+    "date": "2001",
+    "materials": "Ladrillos de arcilla comprimida, techo de chapa metálica",
+    "key": "La escuela primaria de Diébédo Francis Kéré en su aldea natal, Gando, Burkina Faso, construida con los vecinos con ladrillos de tierra comprimida bajo un techo metálico elevado y ventilado.[1][2]",
+    "more": "Kéré, el primer habitante de Gando en cursar estudios superiores, concibió la escuela mientras estudiaba arquitectura en Berlín y creó una asociación para reunir fondos con apoyo alemán.[1] La obra comenzó en octubre de 2000 con la participación de vecinos de todas las edades,[1] y la escuela se terminó en 2001.[2] Sus muros son de bloques de tierra estabilizada y comprimida que cargan el peso,[1] y un techo de chapa ondulada elevado deja pasar el aire, lo que refresca las salas;[1] la oficina de Kéré agrega un cielo de ladrillo apilado en seco entre el techo y la sala.[2] La escuela ganó el Premio Aga Khan de Arquitectura en 2004.[1][2]",
+    "status": "Sigue en uso como escuela; el conjunto se ha ampliado después.",
+    "short": "Escuela de Gando"
+   },
+   "refs": [
+    {
+     "label": "Archnet, «Primary School at Gando»",
+     "url": "https://www.archnet.org/sites/4363",
+     "checks": "Kéré, primer habitante en estudiar en la universidad; concibió la escuela en Berlín y creó una asociación de fondos con alemanes; obra desde octubre de 2000 con vecinos; muros portantes de bloques de tierra estabilizada y comprimida; techo de chapa elevado para ventilación; Premio Aga Khan 2004.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Kéré Architecture, «Gando Primary School»",
+     "url": "https://www.kerearchitecture.com/work/building/gando-primary-school-3",
+     "checks": "Terminada en 2001; ladrillos de arcilla y cemento; techo separado de la sala por un cielo de ladrillo apilado en seco; Premio Aga Khan 2004. ⚠ sitio del propio estudio.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "Gando School"
+  },
+  {
+   "id": "kanazawa-museum-2004",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "21st Century Museum of Contemporary Art, Kanazawa",
+   "designers": [
+    "sanaa"
+   ],
+   "client": "City of Kanazawa",
+   "year": 2004,
+   "date": "2004",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Glass, steel, concrete, white interiors",
+   "tech": [],
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "key": "SANAA’s round, glass-walled museum in Kanazawa, a building without a front or back that anyone can enter and cross.",
+   "more": "Kazuyo Sejima and Ryue Nishizawa designed the museum as a circle of glass with white gallery boxes of different sizes inside it. It has no main façade, and parts of it can be entered free without a ticket, so it works as a public space of the city. It opened in 2004, and the same year SANAA received the Golden Lion at the Venice Architecture Biennale for it.",
+   "status": "Open as a museum.",
+   "es": {
+    "title": "Museo de Arte Contemporáneo del Siglo XXI, Kanazawa",
+    "date": "2004",
+    "materials": "Vidrio, acero, hormigón, interiores blancos",
+    "key": "El museo circular de muros de vidrio de SANAA en Kanazawa, un edificio sin frente ni trasera al que cualquiera puede entrar y atravesar.",
+    "more": "Kazuyo Sejima y Ryue Nishizawa diseñaron el museo como un círculo de vidrio con cajas blancas de galerías de distintos tamaños en su interior. No tiene una fachada principal, y partes de él se pueden visitar gratis sin entrada, así que funciona como espacio público de la ciudad. Abrió en 2004 y ese año SANAA recibió por él el León de Oro de la Bienal de Arquitectura de Venecia.",
+    "status": "Abierto como museo.",
+    "short": "Museo de Kanazawa"
+   },
+   "refs": [],
+   "short": "Kanazawa Museum"
+  },
+  {
+   "id": "metrocable-medellin-2004",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Metrocable, Medellín",
+   "designers": [],
+   "client": "City of Medellín",
+   "year": 2004,
+   "date": "2004",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CO"
+   ],
+   "materials": "Steel cables and towers, cabins",
+   "tech": [],
+   "key": "The cable-car line that opened in 2004 to link the hillside neighbourhoods of northeast Medellín with the city’s metro.",
+   "more": "Metrocable line K, opened in 2004, runs from a metro station up the slopes of northeast Medellín, where informal neighbourhoods are too steep for ordinary transport. It is run by the Metro de Medellín, with cable-car technology from the manufacturer Poma. It was planned together with new public spaces and buildings as part of the city’s social urbanism.",
+   "status": "Still in operation, with further lines added later.",
+   "es": {
+    "title": "Metrocable de Medellín",
+    "date": "2004",
+    "materials": "Cables y torres de acero, cabinas",
+    "key": "La línea de teleférico abierta en 2004 para unir los barrios de ladera del nororiente de Medellín con el metro de la ciudad.",
+    "more": "La línea K del Metrocable, abierta en 2004, sube desde una estación del metro por las laderas del nororiente de Medellín, donde los barrios informales son demasiado empinados para el transporte común. La opera el Metro de Medellín, con tecnología de teleféricos del fabricante Poma. Se planificó junto con nuevos espacios y edificios públicos como parte del urbanismo social de la ciudad.",
+    "status": "Sigue en operación; después se añadieron otras líneas."
+   },
+   "refs": []
+  },
+  {
+   "id": "holocaust-memorial-berlin-2005",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Memorial to the Murdered Jews of Europe",
+   "designers": [
+    "peter-eisenman"
+   ],
+   "client": "German Federal Republic",
+   "year": 2005,
+   "date": "2005",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Cast concrete stelae",
+   "tech": [],
+   "key": "Peter Eisenman’s field of concrete stelae in central Berlin, a national memorial to the Jewish victims of the Holocaust that avoids figurative symbols.",
+   "more": "Opened in May 2005 near the Brandenburg Gate, it is a grid of concrete blocks of different heights set on undulating ground, which visitors walk between. Eisenman worked on it with the engineer Buro Happold, and an underground information centre completes the site. It offers no single figure or inscription as a symbol, only a disorienting abstract space.",
+   "status": "Open to the public in central Berlin.",
+   "es": {
+    "title": "Memorial a los judíos asesinados de Europa",
+    "date": "2005",
+    "materials": "Estelas de hormigón",
+    "key": "El campo de estelas de hormigón de Peter Eisenman en el centro de Berlín, memorial nacional a las víctimas judías del Holocausto que evita los símbolos figurativos.",
+    "more": "Inaugurado en mayo de 2005 junto a la Puerta de Brandeburgo, es una retícula de bloques de hormigón de distintas alturas sobre un terreno ondulado, entre los que camina el visitante. Eisenman trabajó con el ingeniero Buro Happold, y un centro de información subterráneo completa el sitio. No ofrece una figura ni una inscripción como símbolo, solo un espacio abstracto que desorienta.",
+    "status": "Abierto al público en el centro de Berlín.",
+    "short": "Memorial Holocausto"
+   },
+   "refs": [],
+   "short": "Holocaust Memorial"
+  },
+  {
+   "id": "casa-poli-2005",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Poli House, Coliumo",
+   "designers": [
+    "pezo-von-ellrichshausen"
+   ],
+   "year": 2005,
+   "date": "2005",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "A concrete cube by Pezo von Ellrichshausen on a cliff in Coliumo, Chile, whose large openings frame the bay and the Pacific.",
+   "more": "Built on the Coliumo peninsula in the Biobío region and finished in 2005, it is a compact concrete volume designed by the Chilean office Pezo von Ellrichshausen. Its pure outer shape contrasts with an interior of rooms and stairs around a large central void. The house made the office’s work known internationally.",
+   "status": "Stands on the Coliumo peninsula.",
+   "movements": [
+    "architectural-minimalism"
+   ],
+   "es": {
+    "title": "Casa Poli, Coliumo",
+    "date": "2005",
+    "materials": "Hormigón armado",
+    "key": "Un cubo de hormigón de Pezo von Ellrichshausen sobre un acantilado de Coliumo, Chile, cuyas grandes aberturas enmarcan la bahía y el Pacífico.",
+    "more": "Construida en la península de Coliumo, en la región del Biobío, y terminada en 2005, es un volumen compacto de hormigón diseñado por la oficina chilena Pezo von Ellrichshausen. Su forma exterior pura contrasta con un interior de salas y escaleras en torno a un gran vacío central. La casa dio a conocer la obra de la oficina en el extranjero.",
+    "status": "Se conserva en la península de Coliumo."
+   },
+   "refs": []
+  },
+  {
+   "id": "parque-biblioteca-espana-2007",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Parque Biblioteca España, Medellín",
+   "designers": [
+    "giancarlo-mazzanti"
+   ],
+   "client": "City of Medellín",
+   "year": 2007,
+   "date": "2007",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CO"
+   ],
+   "materials": "Reinforced concrete with dark stone cladding",
+   "tech": [],
+   "key": "Giancarlo Mazzanti’s library and cultural park in Medellín, three dark volumes on a hillside above a poor neighbourhood.",
+   "more": "Opened in 2007 in the Santo Domingo Savio neighbourhood, on the hillside reached by the Metrocable, it holds a library, community rooms and a public terrace. Its three dark volumes stand over the neighbourhood and are visible from far off. It became the best-known building of Medellín’s ‘social urbanism’.",
+   "status": "Stands in the Santo Domingo Savio neighbourhood.",
+   "movements": [
+    "participatory-social-architecture"
+   ],
+   "es": {
+    "title": "Parque Biblioteca España, Medellín",
+    "date": "2007",
+    "materials": "Hormigón armado con revestimiento de piedra oscura",
+    "key": "La biblioteca y parque cultural de Giancarlo Mazzanti en Medellín, tres volúmenes oscuros en una ladera sobre un barrio pobre.",
+    "more": "Inaugurado en 2007 en el barrio Santo Domingo Savio, en la ladera a la que llega el Metrocable, reúne una biblioteca, salas comunitarias y una terraza pública. Sus tres volúmenes oscuros se alzan sobre el barrio y se ven desde lejos. Se volvió el edificio más conocido del «urbanismo social» de Medellín.",
+    "status": "Se conserva en el barrio Santo Domingo Savio.",
+    "short": "Parque Biblioteca"
+   },
+   "refs": [],
+   "short": "Parque Biblioteca"
+  },
+  {
+   "id": "birds-nest-2008",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Beijing National Stadium (Bird's Nest)",
+   "designers": [
+    "herzog-de-meuron"
+   ],
+   "client": "Government of China",
+   "year": 2008,
+   "date": "2008",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "CN"
+   ],
+   "materials": "Steel lattice structure",
+   "tech": [],
+   "key": "Herzog & de Meuron’s stadium for the 2008 Beijing Olympics, whose steel lattice is at once structure and skin.",
+   "more": "Completed in 2008 as the main stadium of the Beijing Olympics, it was designed by Herzog & de Meuron with the artist Ai Weiwei as artistic consultant and the engineers Arup. Its interlaced steel members form the structure and the façade at once, which gave it the nickname ‘Bird’s Nest’. It became an emblem of the Games and of China’s rise.",
+   "status": "Stands and is still used for events.",
+   "movements": [],
+   "es": {
+    "title": "Estadio Nacional de Beijing (Nido de Pájaro)",
+    "date": "2008",
+    "materials": "Estructura reticular de acero",
+    "key": "El estadio de Herzog & de Meuron para los Juegos Olímpicos de Beijing 2008, cuya malla de acero es a la vez estructura y piel.",
+    "more": "Terminado en 2008 como estadio principal de los Juegos Olímpicos de Beijing, lo diseñó Herzog & de Meuron con el artista Ai Weiwei como asesor artístico y los ingenieros de Arup. Sus miembros de acero entrelazados forman a la vez la estructura y la fachada, de ahí el apodo «Nido de Pájaro». Se volvió un emblema de los Juegos y del ascenso de China.",
+    "status": "Se conserva y sigue usándose para eventos.",
+    "short": "Nido de Pájaro"
+   },
+   "refs": [],
+   "short": "Bird’s Nest"
+  },
+  {
+   "id": "ningbo-history-museum-2008",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Ningbo History Museum",
+   "designers": [
+    "wang-shu"
+   ],
+   "client": "City of Ningbo",
+   "year": 2008,
+   "date": "2008",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "CN"
+   ],
+   "materials": "Reclaimed bricks and roof tiles, concrete",
+   "tech": [],
+   "key": "Wang Shu’s museum in Ningbo, whose walls are made of bricks and tiles salvaged from demolished villages.",
+   "more": "Designed by Wang Shu and Lu Wenyu’s Amateur Architecture Studio and opened in 2008, it is a massive, sloping volume whose walls combine reclaimed bricks and roof tiles from buildings demolished in the area. Reusing these materials kept a trace of the vanished neighbourhoods in a city that was being rebuilt fast. It was one of the works for which Wang Shu received the Pritzker Prize in 2012.",
+   "status": "Stands as the city’s history museum.",
+   "movements": [
+    "critical-regionalism"
+   ],
+   "es": {
+    "title": "Museo de Historia de Ningbo",
+    "date": "2008",
+    "materials": "Ladrillos y tejas recuperados, hormigón",
+    "key": "El museo de Wang Shu en Ningbo, cuyos muros se hicieron con ladrillos y tejas rescatados de aldeas demolidas.",
+    "more": "Diseñado por Amateur Architecture Studio, de Wang Shu y Lu Wenyu, e inaugurado en 2008, es un volumen macizo e inclinado cuyos muros combinan ladrillos y tejas recuperados de edificios demolidos de la zona. Reutilizar esos materiales conservó una huella de los barrios desaparecidos en una ciudad que se reconstruía deprisa. Fue una de las obras por las que Wang Shu recibió el Premio Pritzker en 2012.",
+    "status": "Se conserva como museo de historia de la ciudad.",
+    "short": "Museo de Ningbo"
+   },
+   "refs": [],
+   "short": "Ningbo Museum"
+  },
+  {
+   "id": "burj-khalifa-2010",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Burj Khalifa",
+   "designers": [
+    "adrian-smith"
+   ],
+   "client": "Emaar Properties",
+   "year": 2010,
+   "date": "2010",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "AE"
+   ],
+   "materials": "Reinforced concrete, steel and glass cladding",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "The Dubai skyscraper, designed by Adrian Smith at SOM, that has been the tallest building in the world since it opened in 2010.",
+   "more": "Opened in January 2010 in Dubai and developed by Emaar, it was designed by Adrian Smith at Skidmore, Owings & Merrill. Its stepped, Y-shaped plan is built of reinforced concrete and reaches 828 metres, taller than any earlier building. A symbol of the Gulf’s oil-funded boom, it was built with international engineering and labour.",
+   "status": "Stands; still the tallest building in the world.",
+   "es": {
+    "title": "Burj Khalifa",
+    "date": "2010",
+    "materials": "Hormigón armado, acero y revestimiento de vidrio",
+    "key": "El rascacielos de Dubái, diseñado por Adrian Smith en SOM, que es el edificio más alto del mundo desde su apertura en 2010.",
+    "more": "Inaugurado en enero de 2010 en Dubái y promovido por Emaar, lo diseñó Adrian Smith en Skidmore, Owings & Merrill. Su planta escalonada en forma de Y es de hormigón armado y alcanza 828 metros, más que cualquier edificio anterior. Símbolo del auge del Golfo financiado por el petróleo, se construyó con ingeniería y mano de obra internacionales.",
+    "status": "Se conserva; sigue siendo el edificio más alto del mundo."
+   },
+   "refs": []
+  },
+  {
+   "id": "museo-memoria-santiago-2010",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Museum of Memory and Human Rights, Santiago",
+   "designers": [],
+   "client": "Government of Chile",
+   "year": 2010,
+   "date": "2010",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Concrete, steel and glass",
+   "tech": [],
+   "key": "Santiago’s national museum of the victims of the 1973–90 dictatorship, a long bridge-like building opened in 2010.",
+   "more": "Opened in January 2010 in Santiago, it was designed by the Brazilian-Chilean team Estudio América and houses documents, testimonies and objects on human rights violations under the military dictatorship. Its long, raised volume leaves open space at ground level for a public plaza. It follows the model of the memorial museums that spread after the Holocaust and other 20th-century atrocities.",
+   "status": "Open as a museum in Santiago.",
+   "es": {
+    "title": "Museo de la Memoria y los Derechos Humanos, Santiago",
+    "date": "2010",
+    "materials": "Hormigón, acero y vidrio",
+    "key": "El museo nacional de Santiago sobre las víctimas de la dictadura de 1973–90, un edificio largo a modo de puente inaugurado en 2010.",
+    "more": "Inaugurado en enero de 2010 en Santiago, lo diseñó el equipo brasileño-chileno Estudio América y reúne documentos, testimonios y objetos sobre las violaciones de derechos humanos bajo la dictadura militar. Su volumen largo y elevado deja espacio libre a nivel del suelo para una plaza pública. Sigue el modelo de los museos-memoriales que se difundieron tras el Holocausto y otras atrocidades del siglo XX.",
+    "status": "Abierto como museo en Santiago.",
+    "short": "Museo de la Memoria"
+   },
+   "refs": [],
+   "maker": "Estudio América",
+   "short": "Museum of Memory"
+  },
+  {
+   "id": "tour-bois-le-pretre-2011",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Tour Bois-le-Prêtre, Paris",
+   "designers": [
+    "lacaton-vassal"
+   ],
+   "client": "Paris Habitat",
+   "year": 2011,
+   "date": "2011",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Prefabricated steel and concrete extensions, glazing",
+   "tech": [],
+   "key": "Lacaton & Vassal’s transformation of an early-1960s social housing tower in Paris, enlarged with winter gardens and balconies instead of demolished.",
+   "more": "The tower in the 17th arrondissement, built in the early 1960s, was to be demolished or repaired in the usual way. Lacaton & Vassal, with Frédéric Druot, removed its façade and added prefabricated winter gardens and balconies, enlarging every flat. Its transformation, completed in 2011, became a reference for ‘transform, don’t demolish’.",
+   "status": "Occupied; it continues as social housing.",
+   "es": {
+    "title": "Torre Bois-le-Prêtre, París",
+    "date": "2011",
+    "materials": "Ampliaciones prefabricadas de acero y hormigón, acristalamiento",
+    "key": "La transformación de Lacaton & Vassal de una torre de vivienda social parisina de comienzos de los años sesenta, ampliada con jardines de invierno y balcones en vez de demolida.",
+    "more": "La torre del distrito 17, construida a comienzos de los años sesenta, iba a demolerse o a repararse de la manera habitual. Lacaton & Vassal, con Frédéric Druot, retiraron su fachada y le añadieron jardines de invierno y balcones prefabricados, ampliando cada departamento. Su transformación, terminada en 2011, se volvió una referencia de «transformar, no demoler».",
+    "status": "Habitada; sigue como vivienda social.",
+    "short": "Bois-le-Prêtre"
+   },
+   "refs": [],
+   "short": "Bois-le-Prêtre"
+  },
+  {
+   "id": "cctv-headquarters-2012",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "CCTV Headquarters, Beijing",
+   "designers": [
+    "rem-koolhaas"
+   ],
+   "client": "China Central Television",
+   "year": 2012,
+   "date": "2012",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "CN"
+   ],
+   "materials": "Steel frame and glass",
+   "tech": [],
+   "key": "OMA’s headquarters for China Central Television in Beijing, a loop of six linked tubes that replaces the single tower with a continuous circuit.",
+   "more": "Designed by Rem Koolhaas and Ole Scheeren of OMA, with Arup as structural engineers, it was completed in 2012 in Beijing’s new central business district. Instead of a single tall tower, it folds its offices and studios into a loop of horizontal and vertical sections. Its irregular steel structure needed advanced digital calculation.",
+   "status": "Stands as the headquarters of China Central Television.",
+   "es": {
+    "title": "Sede de CCTV, Beijing",
+    "date": "2012",
+    "materials": "Estructura de acero y vidrio",
+    "key": "La sede de China Central Television en Beijing, de OMA, un bucle de seis tubos enlazados que reemplaza la torre única por un circuito continuo.",
+    "more": "Diseñada por Rem Koolhaas y Ole Scheeren, de OMA, con Arup como ingenieros estructurales, se terminó en 2012 en el nuevo distrito central de negocios de Beijing. En vez de una sola torre alta, pliega sus oficinas y estudios en un bucle de tramos horizontales y verticales. Su estructura irregular de acero exigió un cálculo digital avanzado.",
+    "status": "Se conserva como sede de China Central Television.",
+    "short": "Sede de CCTV"
+   },
+   "refs": [],
+   "short": "CCTV Headquarters"
+  },
+  {
+   "id": "heydar-aliyev-center-2012",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Heydar Aliyev Center, Baku",
+   "designers": [
+    "zaha-hadid"
+   ],
+   "client": "Government of Azerbaijan",
+   "year": 2012,
+   "date": "2012",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "AZ"
+   ],
+   "materials": "Steel space frame, reinforced concrete, glass-fibre-reinforced cladding",
+   "tech": [],
+   "key": "Zaha Hadid’s cultural centre in Baku, a continuous white fold of walls, roof and plaza without visible corners.",
+   "more": "Opened in 2012 in Baku and designed by Zaha Hadid Architects, it contains a museum, an auditorium and exhibition halls. Its wall, roof and surrounding plaza flow into one another as a single surface, a form made possible by parametric modelling. It is named after Heydar Aliyev, the former president of Azerbaijan, and won the Design Museum’s Design of the Year in 2014.",
+   "status": "Open as a cultural centre in Baku.",
+   "es": {
+    "title": "Centro Heydar Aliyev, Bakú",
+    "date": "2012",
+    "materials": "Estructura espacial de acero, hormigón armado, revestimiento de fibra de vidrio reforzada",
+    "key": "El centro cultural de Zaha Hadid en Bakú, un pliegue blanco continuo de muros, techo y plaza sin esquinas visibles.",
+    "more": "Inaugurado en 2012 en Bakú y diseñado por Zaha Hadid Architects, contiene un museo, un auditorio y salas de exposición. Su muro, su techo y la plaza que lo rodea fluyen uno en otro como una sola superficie, una forma posible gracias al modelado paramétrico. Lleva el nombre de Heydar Aliyev, ex presidente de Azerbaiyán, y ganó el Diseño del Año del Design Museum en 2014.",
+    "status": "Abierto como centro cultural en Bakú.",
+    "short": "Centro Heydar Aliyev"
+   },
+   "refs": [],
+   "short": "Heydar Aliyev Center"
+  },
+  {
+   "id": "cardboard-cathedral-2013",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Cardboard Cathedral, Christchurch",
+   "designers": [
+    "shigeru-ban"
+   ],
+   "client": "Anglican Diocese of Christchurch",
+   "year": 2013,
+   "date": "2013",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "NZ"
+   ],
+   "materials": "Cardboard tubes, timber, steel, polycarbonate",
+   "tech": [],
+   "key": "The temporary Anglican cathedral of Christchurch, New Zealand, built by Shigeru Ban in 2013 with an A-frame of cardboard tubes after the 2011 earthquake.",
+   "more": "The earthquake of February 2011 damaged the ChristChurch Cathedral, and the diocese needed a place of worship in the meantime. Ban, a Japanese architect known for emergency buildings in paper tubes, such as his paper church in Kobe after the 1995 earthquake, designed a triangular building whose main structure is cardboard tubes, with timber and steel, and a translucent roof. It carried to the West a Japanese approach in which cheap, recyclable material serves for relief architecture.",
+   "status": "Stands in Christchurch as the transitional cathedral of the Anglican diocese.",
+   "es": {
+    "title": "Catedral de cartón, Christchurch",
+    "date": "2013",
+    "materials": "Tubos de cartón, madera, acero, policarbonato",
+    "key": "La catedral anglicana provisional de Christchurch, Nueva Zelanda, que Shigeru Ban construyó en 2013 con una estructura en A de tubos de cartón tras el terremoto de 2011.",
+    "more": "El terremoto de febrero de 2011 dañó la catedral de ChristChurch, y la diócesis necesitó un lugar de culto mientras tanto. Ban, arquitecto japonés conocido por sus edificios de emergencia en tubos de papel, como su iglesia de papel de Kobe tras el terremoto de 1995, proyectó un edificio triangular cuya estructura principal son tubos de cartón, con madera y acero, y una cubierta translúcida. Llevó a Occidente un enfoque japonés en que un material barato y reciclable sirve a la arquitectura de emergencia.",
+    "status": "Se mantiene en Christchurch como catedral provisional de la diócesis anglicana.",
+    "short": "Catedral de cartón"
+   },
+   "refs": [],
+   "short": "Cardboard Cathedral"
+  },
+  {
+   "id": "bosco-verticale-2014",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Bosco Verticale, Milan",
+   "designers": [
+    "stefano-boeri"
+   ],
+   "year": 2014,
+   "date": "2014",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Reinforced concrete with planted balconies (trees, shrubs and perennials)",
+   "tech": [],
+   "key": "Two residential towers in Milan, by Stefano Boeri’s studio, whose balconies carry hundreds of trees and shrubs.",
+   "more": "Completed in 2014 in the Porta Nuova district, the towers were designed by Boeri Studio with trees, shrubs and perennials planted on every balcony, which the project presents as a way to improve the urban environment. The plants shade the façades and add green to the city, and they require continuing maintenance by specialist gardeners. The design became a reference for later proposals of ‘vertical forests’.",
+   "status": "Standing and inhabited in Milan.",
+   "es": {
+    "title": "Bosco Verticale, Milán",
+    "date": "2014",
+    "materials": "Hormigón armado con balcones plantados (árboles, arbustos y perennes)",
+    "key": "Dos torres residenciales en Milán, del estudio de Stefano Boeri, cuyos balcones llevan cientos de árboles y arbustos.",
+    "more": "Terminadas en 2014 en el barrio de Porta Nuova, las torres las proyectó Boeri Studio con árboles, arbustos y plantas perennes en cada balcón, lo que el proyecto presenta como una forma de mejorar el entorno urbano. Las plantas dan sombra a las fachadas y agregan verde a la ciudad, y exigen un mantenimiento continuo por jardineros especializados. El diseño se volvió una referencia para propuestas posteriores de «bosques verticales».",
+    "status": "Existe y está habitada en Milán."
+   },
+   "refs": []
+  },
+  {
+   "id": "sainsbury-wing-1991",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Sainsbury Wing, National Gallery",
+   "designers": [
+    "robert-venturi",
+    "denise-scott-brown"
+   ],
+   "maker": "Venturi, Scott Brown and Associates",
+   "year": 1991,
+   "date": "1991",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Stone-clad façade over a steel frame",
+   "tech": [],
+   "key": "Venturi, Scott Brown and Associates’ extension to London’s National Gallery, whose stone façade quotes the neoclassical building beside it while breaking its rules.",
+   "more": "The extension on the west side of the National Gallery in Trafalgar Square was designed by Robert Venturi and Denise Scott Brown’s firm and opened in 1991. Its façade takes up the pilasters and cornice of William Wilkins’s gallery of the 1830s, but the pilasters bunch together and the pattern shifts as the wall turns, an ironic reading of the old building rather than a copy of it. Inside, a grand stair leads up to the galleries for early Renaissance paintings. It is one of the best-known buildings of postmodern architecture, and a work in which Scott Brown’s part is now widely acknowledged.",
+   "status": "Open as part of the National Gallery.",
+   "es": {
+    "title": "Ala Sainsbury de la National Gallery",
+    "date": "1991",
+    "materials": "Fachada revestida en piedra sobre estructura de acero",
+    "key": "La ampliación de la National Gallery de Londres, de Venturi, Scott Brown and Associates, cuya fachada de piedra cita el edificio neoclásico vecino mientras rompe sus reglas.",
+    "more": "La ampliación del lado oeste de la National Gallery, en Trafalgar Square, fue diseñada por el estudio de Robert Venturi y Denise Scott Brown y se inauguró en 1991. Su fachada retoma las pilastras y la cornisa de la galería de William Wilkins de la década de 1830, pero las pilastras se apiñan y el ritmo cambia al doblar el muro: una lectura irónica del edificio antiguo, no una copia. Adentro, una gran escalera lleva a las salas de pintura del primer Renacimiento. Es uno de los edificios más conocidos de la arquitectura posmoderna, y una obra en la que hoy se reconoce ampliamente la parte de Scott Brown.",
+    "status": "Abierta como parte de la National Gallery.",
+    "short": "Ala Sainsbury"
+   },
+   "refs": [],
+   "movements": [
+    "postmodern-architecture"
+   ],
+   "short": "Sainsbury Wing"
+  },
+  {
+   "id": "high-line-2009",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "garden",
+   "title": "High Line, New York",
+   "designers": [
+    "diller-scofidio-renfro"
+   ],
+   "maker": "James Corner Field Operations, Diller Scofidio + Renfro and Piet Oudolf",
+   "year": 2009,
+   "date": "2009–2014",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel viaduct, concrete paving, planting and reused railway tracks",
+   "tech": [],
+   "key": "A disused elevated freight railway on Manhattan’s West Side turned into a linear park, opened in stages from 2009, with planting by Piet Oudolf.",
+   "more": "The High Line was built in the 1930s to carry freight trains above the streets of Manhattan’s West Side, and it fell out of use in 1980. A community group, Friends of the High Line, founded in 1999 by Joshua David and Robert Hammond, campaigned to save it from demolition. The park was designed by James Corner Field Operations with Diller Scofidio + Renfro and planted by Piet Oudolf, and opened in sections in 2009, 2011 and 2014. It kept the old rails and steel structure as part of the design and became a model for turning urban infrastructure into public space.",
+   "status": "Open as a public park, managed by Friends of the High Line.",
+   "es": {
+    "title": "High Line, Nueva York",
+    "date": "2009–2014",
+    "materials": "Viaducto de acero, pavimento de hormigón, plantaciones y rieles reutilizados",
+    "key": "Una vía férrea elevada en desuso, en el lado oeste de Manhattan, convertida en parque lineal inaugurado por tramos desde 2009, con plantaciones de Piet Oudolf.",
+    "more": "La High Line se construyó en la década de 1930 para llevar trenes de carga sobre las calles del lado oeste de Manhattan y dejó de usarse en 1980. Un grupo vecinal, Friends of the High Line, fundado en 1999 por Joshua David y Robert Hammond, hizo campaña para salvarla de la demolición. El parque fue diseñado por James Corner Field Operations con Diller Scofidio + Renfro y plantado por Piet Oudolf, y se abrió por secciones en 2009, 2011 y 2014. Conservó los rieles y la estructura de acero como parte del diseño y se volvió un modelo para convertir infraestructura urbana en espacio público.",
+    "status": "Abierto como parque público, administrado por Friends of the High Line."
+   },
+   "refs": [],
+   "movements": [
+    "landscape-urbanism"
+   ]
+  },
+  {
+   "id": "elbphilharmonie-2017",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Elbphilharmonie, Hamburg",
+   "designers": [
+    "herzog-de-meuron"
+   ],
+   "year": 2017,
+   "date": "2017",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Glass façade over a brick warehouse base",
+   "tech": [],
+   "key": "Herzog & de Meuron’s concert hall in Hamburg’s port, a wave of glass set on top of an old brick warehouse, opened in 2017.",
+   "more": "The Elbphilharmonie stands on the tip of the HafenCity at the river Elbe, on top of a brick warehouse for storing goods, the Kaispeicher A, which was kept as its base. Herzog & de Meuron added a glass structure with a wavy roof that holds concert halls, a hotel, flats and a public viewing plaza. Building began in 2007 and was long delayed and far over its first budget before the opening in January 2017. The city used it as a landmark for the regeneration of its old port area.",
+   "status": "Open as a concert hall, hotel and public plaza.",
+   "es": {
+    "title": "Elbphilharmonie, Hamburgo",
+    "date": "2017",
+    "materials": "Fachada de vidrio sobre una base de almacén de ladrillo",
+    "key": "La sala de conciertos de Herzog & de Meuron en el puerto de Hamburgo, una ola de vidrio sobre un antiguo almacén de ladrillo, inaugurada en 2017.",
+    "more": "La Elbphilharmonie se alza en la punta de HafenCity, junto al río Elba, sobre el Kaispeicher A, un almacén de ladrillo para guardar mercancías que se conservó como base. Herzog & de Meuron agregaron una estructura de vidrio con techo ondulado que reúne salas de conciertos, un hotel, departamentos y una plaza pública con mirador. La construcción empezó en 2007 y se retrasó mucho y superó con creces su primer presupuesto antes de la inauguración, en enero de 2017. La ciudad la usó como hito de la regeneración de su antigua zona portuaria.",
+    "status": "Abierta como sala de conciertos, hotel y plaza pública.",
+    "short": "Elbphilharmonie"
+   },
+   "refs": [],
+   "short": "Elbphilharmonie"
+  }
+ ]
+}

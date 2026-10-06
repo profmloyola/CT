@@ -1,0 +1,178 @@
+[
+ [
+  "quinta-monroy-2004",
+  "ok",
+  [
+   "Quité «best-known example of incremental housing» y «calling card for Elemental»: ninguna fuente lo dice así; lo reemplacé por lo que dice Dezeen.",
+   "Los materiales (hormigón armado y bloque) no están confirmados por las fuentes consultadas; no los toqué y no llevan marca.",
+   "El estado actual (habitada, ampliada) solo lo respalda en parte Dezeen (familias se quedaron y siguen mejorando); no toqué `status`.",
+   "Cifra de familias: 93 viviendas (Arquitectura Viva) vs unas 100 familias (Dezeen); evité dar número."
+  ]
+ ],
+ [
+  "seattle-library-2004",
+  "ok",
+  [
+   "Quité «platforms of different uses» y «place for books, media and public activity»: las fuentes hablan de volúmenes con espacios flexibles y de biblioteca para la era digital; lo reescribí así.",
+   "Quité la mención a «volúmenes irregulares»: no confirmada con esa palabra (conservé «facetada» en key por la fachada angulada, ⚠ no textual).",
+   "Materiales («steel diamond-grid frame with glass skin») coinciden con las fuentes; `tech` cad-cam y `maker` no se verificaron."
+  ]
+ ],
+ [
+  "iphone-2007",
+  "ok",
+  [
+   "Quité «set the pattern» como afirmación atribuida: lo respalda solo en parte el V&A («popularizó»); se mantuvo en key por estilo, ⚠ interpretación.",
+   "Quité «Jonathan Ive led the design side»: el V&A solo lo consigna como diseñador.",
+   "Quité la App Store abierta en 2008: no la confirmó ninguna fuente abierta.",
+   "Fecha de venta: Apple solo dice «junio de 2007»; no confirmé el día."
+  ]
+ ],
+ [
+  "hope-poster-2008",
+  "ok",
+  [
+   "Quité la disputa legal con la agencia dueña de la foto: las fuentes abiertas solo hablan de problemas de derechos de autor para la campaña, no de una disputa.",
+   "Quité «reworked by countless people», los correos y redes, y «versión con la palabra HOPE adoptada por la campaña»: no confirmados (la campaña encargó otras versiones).",
+   "Quité «afiches y calcomanías»: la fuente habla de pegado callejero.",
+   "`materials` (serigrafía y offset sobre papel; archivo digital) no coincide del todo con las fuentes (aerosol, collage, serigrafía; la copia NPG es collage de esténcil mixto); no lo cambié.",
+   "El año/`status` de originales en museos solo se respalda con la copia de la NPG."
+  ]
+ ],
+ [
+  "john-baskerville",
+  "ok",
+  [
+   "Quité «a mediados de la década de 1750» (la fuente solo fecha el Virgilio en 1757) y «contraste más marcado» (no confirmado; Britannica habla de claridad y equilibrio).",
+   "Fechas de vida 1706–1775 confirmadas (Britannica, Parks & Gardens); ninguna fuente abierta da día ni lugar de muerte, por eso no se afirma lugar de muerte (Birmingham)."
+  ]
+ ],
+ [
+  "josiah-wedgwood",
+  "ok",
+  [
+   "Quité «repartiendo el trabajo entre manos especializadas», «venderlos mediante catálogos», el gusto neoclásico del jasperware y la Lunar Society: ninguna fuente abierta los sostiene.",
+   "Etruria: SMG dice 1769, Britannica hacia 1771–73; se atribuye a cada fuente. Jasperware: sin año por discrepancia (1773 vs. 1775). Britannica da bautismo (12 jul 1730), SMG da nacimiento el mismo día; 1730–1795 confirmado."
+  ]
+ ],
+ [
+  "giambattista-bodoni",
+  "ok",
+  [
+   "Quité «formas cercanas a las de Baskerville», «amplios márgenes», «ediciones finas para cortes y eruditos» y «estándar de imprenta de lujo»: no confirmados; la influencia documentada es la de Didot.",
+   "Fechas de vida 1740–1813 confirmadas con lugar (Saluzzo, Parma)."
+  ]
+ ],
+ [
+  "william-playfair",
+  "ok",
+  [
+   "Cambié «ingeniero» por «dibujante» (las fuentes lo describen como dibujante y ayudante de Watt) y quité «de un vistazo» y la comparación con la tabla («captada más rápido»), reemplazada por la cita que sí da la fuente.",
+   "El Atlas: 1786 según la Enciclopedia de Matemáticas; American Scientist habla de una edición privada de 1785. Se mantiene 1786. Fechas 1759–1823 y lugares Liff/Londres confirmados."
+  ]
+ ],
+ [
+  "beau-brummell",
+  "ok",
+  [
+   "Quité «paños oscuros», «corbata cuidadosamente anudada» y «en la década de 1800» (no confirmados; las fuentes hablan de abrigo azul, chaleco claro y lino blanco).",
+   "Fuentes difieren en el día de la huida (16 o 18 de mayo de 1816): solo se da el año. Fechas 1778–1840 y lugares Londres/Caen confirmados."
+  ]
+ ],
+ [
+  "michael-thonet",
+  "ok",
+  [
+   "Quité la silla n.º 14 «de 1859» y «armada con tornillos» (año y tornillos no confirmados en lo abierto) y reemplacé por lo que dice el V&A. «Ebanista allí en Boppard» pasó a «abrió un taller en 1819» (Britannica no dice dónde).",
+   "Fechas 1796–1871 confirmadas, con lugares Boppard y Viena (Deutsche Biographie)."
+  ]
+ ],
+ [
+  "henri-labrouste",
+  "ok",
+  [
+   "Cambié «1838–50» por 1843–50 (Britannica; BnF da 1844–50): se anota la discrepancia. Quité «sobre delgadas columnas y arcos de fundición» para la sala de Santa Genoveva (las fuentes hablan de columnas y arcos de hierro a la vista y cubiertas sobre arcos) y «pionero de la arquitectura de hierro» como juicio sin atribuir.",
+   "Fechas 1801–1875 confirmadas con lugares (París, Fontainebleau)."
+  ]
+ ],
+ [
+  "pugin",
+  "ok",
+  [
+   "Quité «metalistería y textiles hechos de modo industrial» y «construcción honesta» (no confirmados). Reemplacé «dibujante» del padre por «arquitecto» (Britannica).",
+   "Lugar de muerte: Prints & Printmaking da Ramsgate; Parliament Heritage dice Bethlem, discrepancia no resuelta. Fechas 1812–1852 confirmadas."
+  ]
+ ],
+ [
+  "joseph-paxton",
+  "ok",
+  [
+   "Britannica da 1801 como año de nacimiento; el Science Museum Group da 1803 (Milton Bryan). Se mantiene 1803 y `dates` sin cambio; conviene una tercera fuente (ODNB) si se quiere zanjar.",
+   "Quité «Hyde Park» y «elementos estándar fabricados en serie» (no confirmados en las fuentes leídas); «jardinero jefe» pasó a «superintendente de los jardines» (término de Britannica); «en pocos meses» pasó a «unos seis meses».",
+   "También quité «Member of Parliament» sin año: ahora dice Coventry, 1854."
+  ]
+ ],
+ [
+  "charles-frederick-worth",
+  "ok",
+  [
+   "«Tiendas de telas» (drapers) pasó a «comercio textil»: las fuentes no dicen tiendas.",
+   "«Empress Eugénie became a client» pasó a «patron» (según las fuentes, patrocinio); «sons ran the house» pasó a nombrar a los hijos y «kept the house going».",
+   "Fechas de vida confirmadas (13-10-1825 Bourne; 10-03-1895 París); dates sin cambio."
+  ]
+ ],
+ [
+  "philip-webb",
+  "ok",
+  [
+   "Quité «construida en 1859–60» y «ladrillo rojo con rasgos góticos y vernáculos»: las fuentes dan 1859 y ladrillo y madera, no el color ni el estilo. «Muebles para la empresa de Morris» se precisó con la razón social de 1861.",
+   "Lugar de muerte omitido: una fuente dice Londres y otra lo sitúa retirado en Worth, Sussex; no resuelto. Fechas de vida confirmadas (12-01-1831 Oxford; 17-04-1915); dates sin cambio.",
+   "Britannica no se pudo abrir (permiso denegado), no se reintentó."
+  ]
+ ],
+ [
+  "gustave-eiffel",
+  "ok",
+  [
+   "Fechas de vida: 1832 en Dijon y 27-12-1923 en París confirmadas; el día de nacimiento no aparece en las fuentes leídas y no se escribe. Britannica no se pudo abrir. dates sin cambio.",
+   "El diseño «partió de ingenieros de su firma» se concretó con los nombres (fuente oficial de la torre)."
+  ]
+ ],
+ [
+  "william-morris",
+  "ok",
+  [
+   "Quité «chintzes/estampados» (las fuentes dicen textiles) y «las plantas» pasó a «la naturaleza» (V&A habla de jardines y naturaleza).",
+   "«Fundó» la firma pasó a «cofundó» (V&A y Galería Morris: varios socios).",
+   "Fechas de vida confirmadas (24-03-1834 Walthamstow; 03-10-1896 Hammersmith); dates sin cambio."
+  ]
+ ],
+ [
+  "christopher-dresser",
+  "ok",
+  [
+   "«Often called the first independent industrial designer»: las fuentes dicen «considerado por algunos el primer diseñador industrial»; ninguna dice «independiente»; se deja como «a menudo llamado» (suavizado).",
+   "Quité «vidrio» de la lista de materiales (solo lo cita Cooper Hewitt [4], que no se usa para esa frase); cambié «piezas metálicas de la década de 1870» por el ejemplo de Dixon (c. 1881) y no fechado en los 70, porque las fuentes no sostienen esa década.",
+   "Fechas de vida: 1834 Glasgow y 1904 Mulhouse confirmadas; los días no aparecen en fuentes leídas (Britannica no abrió). dates sin cambio."
+  ]
+ ],
+ [
+  "jules-cheret",
+  "ok",
+  [
+   "Quité «vivaces figuras femeninas» y «se coleccionaron mucho» (no confirmados en las fuentes leídas); «aprendió litografía» pasó a «fue aprendiz desde 1849».",
+   "Londres: la fuente da 1859–1866 en vez de «décadas de 1850 y 1860»; el taller parisino de 1866 se mantiene (la fuente dice que lo fundó tras Londres, sin dar el año exacto: ⚠ 1866 se infiere de «de 1859 a 1866» y del año V&A).",
+   "Fechas de vida confirmadas (31-05-1836 París; 23-09-1932 Niza); dates sin cambio."
+  ]
+ ],
+ [
+  "thomas-edison",
+  "ok",
+  [
+   "Quité la frase del fonógrafo como patente concreta (las fuentes dan el invento en 1877, no sus patentes); la cifra de patentes (1.093) viene de Rutgers.",
+   "«Su grupo… organizó la invención como trabajo de equipo y no de un inventor solitario» se suavizó: las fuentes sostienen ayudantes, taller y varios proyectos a la vez, no la comparación con el inventor solitario (el sitio Rutgers incluso matiza la autoría única).",
+   "«Iluminar barrios enteros» se cambió por la primera alimentación de partes de Nueva York en 1882 (NPS).",
+   "Fechas de vida confirmadas (11-02-1847 Milan, Ohio; 18-10-1931 West Orange); dates sin cambio."
+  ]
+ ]
+]

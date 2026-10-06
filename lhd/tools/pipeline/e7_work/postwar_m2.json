@@ -1,0 +1,220 @@
+[
+ {
+  "rtype": "institution",
+  "id": "inst-independent-group",
+  "name": "Independent Group",
+  "name_es": "Independent Group",
+  "kind": "association",
+  "start": 1952,
+  "end": 1955,
+  "place": "London (ICA)",
+  "disciplines": [
+   "graphic",
+   "architecture",
+   "product"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Grupo del ICA (Hamilton, Paolozzi, los Smithson, Banham) que piensa la cultura de masas y el consumo: origen del arte y del diseño pop.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-pop-art",
+    "mecanismo": "Su interés por la publicidad estadounidense y los objetos de consumo da origen al arte pop británico"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La abundancia de la posguerra se analiza como cultura y no solo como mal gusto"
+   },
+   {
+    "tipo": "secundario",
+    "via": "smithsons",
+    "mecanismo": "Los Smithson pertenecen al grupo"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-pop-art",
+    "item": "inst-independent-group",
+    "mecanismo": "Su interés por la publicidad estadounidense y los objetos de consumo da origen al arte pop británico"
+   },
+   {
+    "ctx": "ctx-consumer-society",
+    "item": "inst-independent-group",
+    "mecanismo": "La abundancia de la posguerra se analiza como cultura y no solo como mal gusto"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "smithsons"
+   ]
+  }
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-di-tella",
+  "name": "Instituto Torcuato Di Tella",
+  "name_es": "Instituto Torcuato Di Tella",
+  "kind": "school",
+  "start": 1958,
+  "end": 1970,
+  "place": "Buenos Aires",
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "AR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Centro de vanguardia de Buenos Aires cuyo departamento de diseño gráfico renovó la gráfica argentina de los sesenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "La industrialización y una empresa con fundación cultural financian un centro de arte y diseño moderno"
+   }
+  ],
+  "era": "postwar",
+  "duda": "Nombres del equipo de diseño (Juan Carlos Distéfano, Rubén Fontana): verificar antes de citarlos.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-isi-cepal",
+    "item": "inst-di-tella",
+    "mecanismo": "La industrialización y una empresa con fundación cultural financian un centro de arte y diseño moderno"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-icsid",
+  "name": "ICSID (World Design Organization)",
+  "name_es": "ICSID (hoy World Design Organization)",
+  "kind": "association",
+  "start": 1957,
+  "end": null,
+  "place": "London / Montreal",
+  "disciplines": [
+   "product"
+  ],
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "GB",
+   "CA"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Consejo internacional del diseño industrial: definición profesional, congresos y difusión del diseño en países en desarrollo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-professionalisation-design",
+    "mecanismo": "Las asociaciones nacionales de diseñadores se federan → definición internacional de la profesión"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-professionalisation-design",
+    "item": "inst-icsid",
+    "mecanismo": "Las asociaciones nacionales de diseñadores se federan → definición internacional de la profesión"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "movement",
+  "id": "design-methods",
+  "name": "Design methods movement",
+  "name_es": "Movimiento de los métodos de diseño",
+  "start": 1962,
+  "end": 1980,
+  "disciplines": [
+   "product",
+   "architecture"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "US",
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Intento de volver científico el proceso de diseño (Conferencia de Londres, 1962; Ulm; Alexander; Simon); antecedente del «design thinking».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mainframe-computing",
+    "mecanismo": "La investigación operativa y la computación sugieren descomponer el diseño en pasos y datos"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-hfg-ulm",
+    "mecanismo": "Ulm enseña metodología y teoría de sistemas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-notes-synthesis-form",
+    "mecanismo": "Alexander formaliza el problema de diseño como conjunto de requisitos"
+   }
+  ],
+  "miembros": [
+   "th-notes-synthesis-form",
+   "th-simon-sciences-artificial-1969",
+   "th-rittel-webber-1973",
+   "inst-hfg-ulm",
+   "th-design-thinking-brown"
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mainframe-computing",
+    "item": "design-methods",
+    "mecanismo": "La investigación operativa y la computación sugieren descomponer el diseño en pasos y datos"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.institutions": [
+    "inst-hfg-ulm"
+   ]
+  }
+ }
+]

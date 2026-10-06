@@ -1,0 +1,633 @@
+{
+ "connections": [
+  {
+   "from": "de-stijl",
+   "to": "bauhaus-movement",
+   "note": "Influence, not strict cause: in 1922 Theo van Doesburg gave a De Stijl course at his home in Weimar, with Bauhaus students and teachers taking part,[1][2] and De Stijl’s geometric language is usually counted among the influences on Bauhaus practice.[3]",
+   "es": {
+    "note": "Influencia, no causa estricta: en 1922 Theo van Doesburg dictó un curso de De Stijl en su casa de Weimar, con participación de estudiantes y profesores de la Bauhaus,[1][2] y el lenguaje geométrico de De Stijl suele contarse entre las influencias sobre la práctica de la Bauhaus.[3]"
+   },
+   "refs": [
+    {
+     "label": "Tate Etc., «Avant-garde apostle: Theo van Doesburg» (n.º 18, 2010)",
+     "url": "https://www.tate.org.uk/tate-etc/issue-18-spring-2010/avant-garde-apostle",
+     "checks": "Van Doesburg montó su curso de De Stijl en su casa, con muchos estudiantes y profesores de la Bauhaus participando; la Bauhaus no le dio un puesto docente. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museo Nacional Thyssen-Bornemisza, Theo van Doesburg (biografía)",
+     "url": "https://www.museothyssen.org/en/collection/artists/doesburg-theo-van",
+     "checks": "Dio un curso de De Stijl a estudiantes de la Bauhaus en 1922.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Art Story, «De Stijl Movement Overview»",
+     "url": "https://www.theartstory.org/movement/de-stijl/",
+     "checks": "El lenguaje visual geométrico de De Stijl influyó en la práctica de la Bauhaus. ⚠ Enciclopedia de divulgación (fuente secundaria). Dice que Van Doesburg dio charlas en la Bauhaus en 1921–22, lo que difiere de Tate (curso privado); el texto sigue a Tate y Thyssen.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "futurism-typography",
+   "to": "new-typography",
+   "note": "Influence, mostly indirect: the Futurists’ free arrangement of type on the page was taken up by the Dadaists and by El Lissitzky,[1] and Futurist methods became influential across the European avant-garde.[2] Tschichold himself named Suprematism, Neoplasticism and above all Constructivism as the sources of the New Typography.[3]",
+   "es": {
+    "note": "Influencia, sobre todo indirecta: la disposición libre de la letra en la página de los futuristas fue recogida por los dadaístas y por El Lisitski,[1] y los métodos futuristas se volvieron influyentes en toda la vanguardia europea.[2] El propio Tschichold nombró al suprematismo, el neoplasticismo y sobre todo el constructivismo como fuentes de la Nueva Tipografía.[3]"
+   },
+   "refs": [
+    {
+     "label": "Berghaus (ed.), International Yearbook of Futurism Studies 10 (De Gruyter, 2020), «Futurism and the Birth of a Modern European Typography»",
+     "url": "https://www.academia.edu/44800202/_Futurism_and_the_Birth_of_a_Modern_European_Typography_in_International_Yearbook_of_Futurism_Studies_G_Berghaus_a_cura_di_vol_10_De_Gruyter_Berlin_Boston_2020_ISBN_978_3_11_070208_8",
+     "checks": "El montaje dadaísta recogió la tipografía futurista (Hausmann); Lisitski reconoció a Marinetti por desatar una revolución tipográfica; Tschichold, en 1928, ubica los orígenes de la Nueva Tipografía en los años 1910. ⚠ Estudio académico leído mediante resumen automático; revisar el texto completo antes de publicar.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, «Back to the Futurists» (2013)",
+     "url": "https://www.cooperhewitt.org/2013/02/20/back-to-the-futurists/",
+     "checks": "Los métodos tipográficos de Marinetti fueron muy influyentes en la letra impresa modernista y en la vanguardia europea. ⚠ No nombra la Nueva Tipografía.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Yale University Press, «The Avant-garde and the New Typography» (2019)",
+     "url": "https://yalebooks.yale.edu/2019/04/15/the-avant-garde-and-the-new-typography/",
+     "checks": "Marinetti declaró en 1909 una «revolución tipográfica»; cita de Tschichold: la Nueva Tipografía se basa en el suprematismo ruso, el neoplasticismo holandés y especialmente el constructivismo. ⚠ Texto de presentación de un libro; la cita de Tschichold no nombra al futurismo.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "constructivism",
+   "to": "new-typography",
+   "note": "El Lissitzky, who returned to Germany in 1921, worked there with Kurt Schwitters and László Moholy-Nagy and later corresponded with Tschichold;[1][2][3] Tschichold wrote that the New Typography builds especially on Constructivism.[4]",
+   "es": {
+    "note": "El Lisitski, que volvió a Alemania en 1921, trabajó allí con Kurt Schwitters y László Moholy-Nagy y más tarde se carteó con Tschichold;[1][2][3] Tschichold escribió que la Nueva Tipografía se apoya sobre todo en el constructivismo.[4]"
+   },
+   "refs": [
+    {
+     "label": "Getty Research Institute, El Lissitzky letters and photographs, 1911–1941 (inventario 950076)",
+     "url": "https://www.getty.edu/research/collections/static/pdf/950076.pdf",
+     "checks": "Lissitzky volvió a Alemania en 1921; amistad y trabajo con Moholy-Nagy y Schwitters (revista Merz); su tipografía de vanguardia. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bard Graduate Center, «Jan Tschichold and the New Typography»",
+     "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+     "checks": "Tschichold mantuvo correspondencia con Lissitzky y otros diseñadores europeos y reunió obras suyas; Die neue Typographie (1928) destaca por su dominio de las ideas constructivistas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Deutsches Buch- und Schriftmuseum (DNB), «Elementare Typographie»",
+     "url": "https://mediengeschichte.dnb.de/DBSMZBN/Content/EN/TheAestheticsOfTheBook/09-jan-tschichold-elementare-typografie-en.html",
+     "checks": "Tschichold visitó la exposición de la Bauhaus en 1923 y entró en contacto con los constructivistas rusos El Lissitzky y Alexander Rodchenko; Elementare Typographie apareció en 1925.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Yale University Press, «The Avant-garde and the New Typography» (2019)",
+     "url": "https://yalebooks.yale.edu/2019/04/15/the-avant-garde-and-the-new-typography/",
+     "checks": "Cita de Tschichold: la Nueva Tipografía se basa en el suprematismo, el neoplasticismo y especialmente el constructivismo. ⚠ Texto de presentación de un libro.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "th-topography-typography",
+   "to": "th-new-typography",
+   "note": "Lissitzky’s 1923 theses were among the earlier formulations of ideas that Tschichold later organised;[1] Lissitzky also contributed to Tschichold’s special issue ‘elementare typographie’ of October 1925,[2][3] which came before the 1928 book.[4]",
+   "es": {
+    "note": "Las tesis de Lisitski de 1923 fueron una de las formulaciones tempranas de ideas que Tschichold organizó después;[1] Lisitski además colaboró en el número especial «elementare typographie» de Tschichold, de octubre de 1925,[2][3] anterior al libro de 1928.[4]"
+   },
+   "refs": [
+    {
+     "label": "Academia.edu, «La nueva tipografía y Jan Tschichold» (artículo)",
+     "url": "https://www.academia.edu/38293802/La_nueva_tipograf%C3%ADa_y_Jan_Tschichold",
+     "checks": "Algunas formulaciones de los ideales de la nueva tipografía estaban antes en los escritos de El Lissitzky, incluido «Topographie der Typographie» (1923). ⚠ Artículo académico leído mediante resumen automático. No dice que Tschichold reprodujera las tesis.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Deutsches Buch- und Schriftmuseum (DNB), «Elementare Typographie»",
+     "url": "https://mediengeschichte.dnb.de/DBSMZBN/Content/EN/TheAestheticsOfTheBook/09-jan-tschichold-elementare-typografie-en.html",
+     "checks": "Elementare Typographie apareció en 1925 como suplemento de Typographische Mitteilungen; Tschichold se relacionó con Lissitzky y Rodchenko.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Josef Chladek, ficha de Typographische Mitteilungen, Sonderheft Elementare Typographie (octubre de 1925)",
+     "url": "https://josefchladek.com/book/jan_tschichold_-_typographische_mitteilungen_sonderheft_elementare_typographie_oktoberheft_1925",
+     "checks": "El número reúne trabajos de Bayer, Burchartz, Lissitzky, Moholy-Nagy, Molzahn, Schwitters, Stam y Tschichold. ⚠ Catálogo de libros (fuente secundaria); no dice que se reprodujeran las tesis de Merz.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Jan Tschichold»",
+     "url": "https://www.britannica.com/biography/Jan-Tschichold",
+     "checks": "Elementare Typographie (1925) y Die neue Typographie (1928). ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "johnston-typeface",
+   "to": "gill-sans",
+   "note": "Eric Gill, who had studied lettering with Edward Johnston,[1] briefly helped on the Underground alphabet and acknowledged it as the original model for Gill Sans, according to a type-foundry study and the trade press;[2][3] Gill Sans also grew from Gill’s own 1926 shop lettering in Bristol.[4]",
+   "es": {
+    "note": "Eric Gill, que había estudiado letras con Edward Johnston,[1] colaboró brevemente en el alfabeto del metro y lo reconoció como el modelo original de la Gill Sans, según un estudio de una fundición tipográfica y la prensa especializada;[2][3] la Gill Sans nació además de las letras que Gill pintó en 1926 para una tienda de Bristol.[4]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Eric Gill»",
+     "url": "https://www.britannica.com/biography/Eric-Gill",
+     "checks": "Gill estudió letras con Edward Johnston en la Central School of Arts and Crafts; diseñó la Gill Sans en 1927. No relaciona las dos tipografías. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Typotheque, Ben Archer, «Eric Gill got it wrong; a re-evaluation of Gill Sans»",
+     "url": "https://www.typotheque.com/articles/re-evaluation-of-gill-sans",
+     "checks": "Gill colaboró brevemente en la letra de Johnston de 1916 y «reconoció libremente» que era el modelo original de la Gill Sans. ⚠ Artículo de una fundición tipográfica (fuente secundaria).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Design Week, «99 years of the Johnston typeface»",
+     "url": "https://www.designweek.co.uk/99-years-of-the-johnston-typeface/",
+     "checks": "Gill colaboró al inicio con Johnston y luego creó la Gill Sans, «influida por Johnston». ⚠ Prensa especializada (fuente secundaria).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bristol24/7, «The origins of the Gill Sans typeface on a Bristol shopfront»",
+     "url": "https://www.bristol247.com/news-and-features/features/origins-gill-sans-typeface-bristol-shopfront/",
+     "checks": "Gill pintó el letrero de la tienda de Douglas Cleverdon en 1926; Stanley Morison (Monotype) lo vio un año después y le pidió convertirlo en tipografía. No menciona a Johnston. ⚠ Prensa local.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "gill-sans",
+   "to": "penguin-covers",
+   "note": "According to 99% Invisible, Penguin set author and title in Gill Sans from its 1935 launch,[1] and the V&A lists Penguin among the major users that helped popularise the typeface.[2]",
+   "es": {
+    "note": "Según 99% Invisible, Penguin compuso autor y título en Gill Sans desde su lanzamiento en 1935,[1] y el V&A cuenta a Penguin entre los grandes usuarios que difundieron la tipografía.[2]"
+   },
+   "refs": [
+    {
+     "label": "99% Invisible, «Classic Penguins: How Minimalist Book Covers Sold the Masses on Paperbacks»",
+     "url": "https://99percentinvisible.org/article/classic-penguins-how-minimalist-book-covers-sold-paperbacks-to-the-masses/",
+     "checks": "En el centro de cada portada de 1935, autor y título en Gill Sans negro sobre fondo blanco; franjas de color según el género; diseño de Edward Young. ⚠ Medio de divulgación (fuente secundaria).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Monotype Gill Sans leaflet",
+     "url": "https://collections.vam.ac.uk/item/O1419737/monotype-gill-sans-leaflet-leaflet/",
+     "checks": "Monotype encargó a Gill una sans serif legible en distintos formatos y tamaños; emitida en 1928; usada por el LNER y Penguin Books. ⚠ No da años para Penguin.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "kitchener-poster",
+   "to": "i-want-you-poster",
+   "note": "Flagg’s Uncle Sam adapted the pointing finger of Alfred Leete’s 1914 British recruiting poster,[1] an image of Kitchener pointing at the viewer that was copied for other posters.[2]",
+   "es": {
+    "note": "El Tío Sam de Flagg adaptó el dedo que señala del cartel británico de reclutamiento de Alfred Leete de 1914,[1] una imagen de Kitchener que apunta al espectador y que fue copiada en otros carteles.[2]"
+   },
+   "refs": [
+    {
+     "label": "Fine Arts Museums of San Francisco, «I Want You for U.S. Army»",
+     "url": "https://www.famsf.org/artworks/i-want-you-for-us-army",
+     "checks": "Flagg adaptó el «dedo acusador» del cartel británico de Alfred Leete de 1914 («Your Country Needs You»).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Imperial War Museums, «Britons. Join Your Country’s Army!» (Art.IWM PST 2734)",
+     "url": "https://www.iwm.org.uk/collections/item/object/16577",
+     "checks": "Kitchener con la mano derecha levantada señalando al espectador; Alfred Leete, 1914; «esta imagen fue copiada para otros carteles e inspiró nuevas adaptaciones». No menciona a Flagg.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "inst-bauhaus",
+   "to": "inst-new-bauhaus",
+   "note": "Moholy-Nagy, who had taught at the Bauhaus from 1923 to 1928,[1] opened the New Bauhaus in Chicago in 1937, the first American school based on the Bauhaus program.[2] It was a new school, not the old one moved: it closed in 1938 for lack of funds and reopened in 1939 as the School of Design.[1]",
+   "es": {
+    "note": "Moholy-Nagy, que había enseñado en la Bauhaus de 1923 a 1928,[1] abrió en 1937 la New Bauhaus en Chicago, la primera escuela estadounidense basada en el programa de la Bauhaus.[2] Fue una escuela nueva, no la antigua trasladada: cerró en 1938 por falta de fondos y reabrió en 1939 como School of Design.[1]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-843",
+     "checks": "Gropius lo llamó como maestro en marzo de 1923; dejó la Bauhaus en 1928; la New Bauhaus de Chicago (1937) cerró en 1938 por razones financieras; en 1939 fundó la School of Design, que en 1944 pasó a ser el Institute of Design (hoy parte del IIT).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «László Moholy-Nagy»",
+     "url": "https://www.britannica.com/biography/Laszlo-Moholy-Nagy",
+     "checks": "En 1937 se mudó a Chicago para organizar la New Bauhaus, «la primera escuela estadounidense basada en el programa de la Bauhaus». ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "inst-bauhaus",
+   "to": "inst-black-mountain",
+   "note": "Josef Albers, who had taught the Bauhaus preliminary course from 1923, went to head the art department of Black Mountain College in 1933, and his wife Anni, a Bauhaus weaver, taught there from 1939;[1][2] Bauhaus teaching reached the American college through them.",
+   "es": {
+    "note": "Josef Albers, que había dictado el curso preliminar de la Bauhaus desde 1923, fue a dirigir el departamento de arte del Black Mountain College en 1933, y su esposa Anni, tejedora de la Bauhaus, enseñó allí desde 1939;[1][2] la enseñanza de la Bauhaus llegó al college estadounidense a través de ellos."
+   },
+   "refs": [
+    {
+     "label": "Josef and Anni Albers Foundation, Chronology",
+     "url": "https://www.albersfoundation.org/alberses/chronology",
+     "checks": "En 1923 Gropius pidió a Josef Albers enseñar el Vorkurs con Moholy-Nagy; la Bauhaus cerró el 11 de abril de 1933; Black Mountain College invitó a Josef a dirigir el departamento de arte; llegaron a Nueva York el 24 de noviembre de 1933; dejaron el college en 1949. ⚠ El resumen no detalla sus métodos de enseñanza.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Anni Albers",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-11",
+     "checks": "Taller de tejido de la Bauhaus; emigraron a EE. UU. en 1933; Josef fue nombrado profesor en Black Mountain College y Anni comenzó a enseñar allí en 1939 (profesora asistente de tejido, 1939–1949).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "mr10-chair",
+   "to": "cesca-chair",
+   "note": "Both chairs grew out of Mart Stam’s cantilever idea, whose prototype dates from 1926:[1][2] the Met says Mies’s chair was developed from Stam’s design,[4] and in 1932 a German court ruled for Stam’s licensee, Anton Lorenz, against Thonet,[3] a decision the smow design blog describes as awarding Stam the artistic copyright.[5]",
+   "es": {
+    "note": "Ambas sillas surgieron de la idea de voladizo de Mart Stam, cuyo prototipo es de 1926:[1][2] el Met dice que la silla de Mies se desarrolló a partir del diseño de Stam,[4] y en 1932 un tribunal alemán falló a favor del licenciatario de Stam, Anton Lorenz, contra Thonet,[3] decisión que el blog de smow describe como la concesión a Stam del derecho de autor artístico.[5]"
+   },
+   "refs": [
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «Cantilever chair B 64 / S 64» (objeto del mes, mayo de 2021)",
+     "url": "https://museumderdinge.org/thing-of-the-month/cantilever-chair-b-64-s-64-by-marcel-breuer-mart-stam/",
+     "checks": "Prototipo de Stam de la primera silla sin patas traseras, con tubos de gas, en Róterdam en 1926; las sillas de Breuer son una «clara mejora» de los primeros modelos de Stam; Stam ganó la disputa en 1932 (dice «patente»). No menciona a Mies.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Chair (Model S33), Mart Stam",
+     "url": "https://collections.vam.ac.uk/item/O371727/chair-stam-mart/",
+     "checks": "Silla en voladizo diseñada por Mart Stam en 1926 (esta versión fabricada en los años sesenta). No habla de influencia en otros.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Model B32 (Marcel Breuer)",
+     "url": "https://collections.vam.ac.uk/item/O114123/model-b32-chair-breuer-marcel-lajos/",
+     "checks": "El fallo de 1932 dio a Lorenz, licenciatario de la silla en voladizo patentada de Stam, el derecho exclusivo de fabricar las sillas de dos patas, incluida la B32; el nombre de Stam reemplazó al de Breuer en los catálogos de Thonet.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «MR» Armchair (Mies van der Rohe y Lilly Reich), 1927",
+     "url": "https://www.metmuseum.org/art/collection/search/482117",
+     "checks": "La silla MR «se desarrolló a partir de un diseño de 1924 de una silla en voladizo de Mart Stam» y se presentó en Stuttgart en 1927. ⚠ El Met dice 1924; los demás museos dan 1926 para el prototipo de Stam.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "smow blog, «Design Calendar: June 1st 1932 – Mart Stam Awarded Artistic Copyright for the Cubic Cantilever Chair»",
+     "url": "https://www.smow.com/blog/2016/06/smow-blog-design-calendar-june-1st-1932-mart-stam-awarded-artistic-copyright-cubic-cantilever-chair/",
+     "checks": "Fallo del Tribunal Supremo del Reich, 1 de junio de 1932: derecho de autor artístico de Stam sobre la silla en voladizo cúbica; el tribunal vio en el modelo de Breuer un camino que pasa por la silla de Stam. ⚠ Blog de una tienda (fuente secundaria).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "wassily-chair",
+   "to": "cesca-chair",
+   "note": "Breuer moved from the all-tubular frame of the B3 club chair (designed 1925–26)[1] to the cantilevered B32 side chair of 1928, which broke his own convention of a continuous steel frame behind the back by adding wooden and caned panels, a year after Stam and Mies showed their cantilevers.[2]",
+   "es": {
+    "note": "Breuer pasó del armazón todo de tubo del sillón club B3 (diseñado en 1925–26)[1] a la silla en voladizo B32 de 1928, que rompió su propia convención del armazón continuo de acero tras el respaldo al añadir paneles de madera y rejilla, un año después de que Stam y Mies mostraran sus voladizos.[2]"
+   },
+   "refs": [
+    {
+     "label": "V&A, Club chair, model B3 (W.2-2005)",
+     "url": "https://collections.vam.ac.uk/item/O114197/club-chair-model-b3-armchair-breuer-marcel-adios/",
+     "checks": "B3 diseñada en 1925–1926 siendo Breuer maestro en la Bauhaus; armazón metálico inspirado en el cuadro de su bicicleta; geometría esquelética que rechaza deliberadamente el sillón club tradicional.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Model B32 (Marcel Breuer)",
+     "url": "https://collections.vam.ac.uk/item/O114123/model-b32-chair-breuer-marcel-lajos/",
+     "checks": "B32 diseñada en 1928 y fabricada después de 1930; Breuer rompió una convención que él mismo había introducido (el armazón continuo de tubo de acero tras el respaldo) al añadir asiento y respaldo de madera con rejilla; diseñada un año después de que Stam y Mies mostraran sus voladizos (1927). ⚠ La página no habla de costo ni compara pesos.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "tatra-77",
+   "to": "kdf-wagen",
+   "note": "Similarity and dispute: Tatra launched the first series-built streamlined car, rear-engined and air-cooled, in 1934 (the T77);[1] Porsche’s Volkswagen resembled the later Tatra T97 in its body and air-cooled engine,[2][3] and in 1961 Volkswagen paid Tatra 3 million marks to settle the dispute.[1][2] According to Curbside Classic, Tatra had sued over its patents on forced air cooling.[4]",
+   "es": {
+    "note": "Parecido y disputa: Tatra lanzó en 1934 (el T77) el primer auto aerodinámico de serie, con motor trasero enfriado por aire;[1] el Volkswagen de Porsche se parecía a la Tatra T97 posterior en la carrocería y el motor enfriado por aire,[2][3] y en 1961 Volkswagen pagó a Tatra 3 millones de marcos para zanjar el conflicto.[1][2] Según Curbside Classic, Tatra había demandado por sus patentes de refrigeración forzada por aire.[4]"
+   },
+   "refs": [
+    {
+     "label": "Český rozhlas Plus, «Rok 1934: Tatra představuje revoluční model 77»",
+     "url": "https://plus.rozhlas.cz/rok-1934-tatra-predstavuje-revolucni-model-77-7564607",
+     "checks": "T77 presentado en marzo de 1934; primer automóvil aerodinámico de serie del mundo; motor trasero enfriado por aire; Volkswagen pagó 3 millones de marcos a Tatra en 1961 al zanjar el conflicto, porque el Escarabajo se inspiró en la Tatra 97.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "iROZHLAS (Radio Checa), Matěj Skalický, «Století brouka»",
+     "url": "https://www.irozhlas.cz/veda-technologie_technologie/stoleti-brouka-hitlerovo-lidove-auto-prezilo-valku-a-svet-si-ho-zamiloval_201602150830_mskalicky",
+     "checks": "El Escarabajo tenía una carrocería aerodinámica muy parecida a la de la Tatra 97 y un cuatro cilindros enfriado por aire; Porsche se inspiró en los autos de Ledwinka; en 1961 Volkswagen pagó 3 millones de marcos de indemnización. ⚠ Artículo de prensa de una radio pública, fuente secundaria.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museums Victoria, «Volkswagen ‘Beetle’ Motor Car, 1930s–2010s»",
+     "url": "https://collections.museumsvictoria.com.au/articles/3566",
+     "checks": "El diseño del Volkswagen fue «en gran medida derivado» de un proyecto anterior de motor trasero de Porsche para NSU y del aerodinámico Tatra T97. No trata el juicio.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Curbside Classic, «Hans Ledwinka’s Revolutionary Tatras»",
+     "url": "https://www.curbsideclassic.com/automotive-histories/automotive-history-hans-ledwinkas-revolutionary-tatras/",
+     "checks": "Según este blog de historia del automóvil, Ledwinka demandó por infracción de patentes (refrigeración forzada por aire) cuando apareció el VW de Porsche en 1936. ⚠ Blog, no archivo ni museo; es la única fuente consultada que menciona las patentes.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "dbh-1001-telephone",
+   "to": "model-302-telephone",
+   "note": "The Bakelite telephone of 1931, designed by the Norwegians Heiberg and Bjerknes, with cradle, dial and ringer in one body,[1][2] preceded Bell’s Model 302 of about 1937;[3] Cooper Hewitt says it influenced the form of Dreyfuss’s 300 series, though Bell’s set was made in metal.[1][3]",
+   "es": {
+    "note": "El teléfono de baquelita de 1931, diseñado por los noruegos Heiberg y Bjerknes, con horquilla, disco y timbre en un solo cuerpo,[1][2] precedió al Modelo 302 de Bell, de hacia 1937;[3] según el Cooper Hewitt influyó en la forma de la serie 300 de Dreyfuss, aunque el aparato de Bell se hizo en metal.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Cooper Hewitt, «Phone Finds Its Iconic Form», 2015",
+     "url": "https://www.cooperhewitt.org/2015/11/30/phone-finds-its-iconic-form/",
+     "checks": "DBH 1001 como primer teléfono con horquilla, disco y timbre integrados, en una carcasa de baquelita; «influyó en la forma de la serie 300 de Henry Dreyfuss para Bell Telephone, presentada en 1937».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian (Cooper Hewitt), Ericsson DBH 1001, 1992-118-1",
+     "url": "https://www.si.edu/object/ericsson-dbh-1001:chndm_1992-118-1",
+     "checks": "1931; Jean Heiberg y Johan Christian Bjerknes (noruegos); fabricante Norsk Elektrisk Bureau; baquelita, chapa y cordón; auricular de una pieza apoyado en la horquilla en la parte superior. No habla de influencia.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, Model 302 Telephone, 1994-73-2",
+     "url": "https://collection.cooperhewitt.org/objects/18649321/",
+     "checks": "ca. 1937; Henry Dreyfuss; Western Electric para Bell; «se parece a un teléfono anterior presentado en Suecia en 1931, diseñado por Jean Heiberg para Ericsson»; el 302 se fabricó en metal hasta 1946, no en baquelita.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "barcelona-pavilion",
+   "to": "villa-tugendhat",
+   "note": "Mies, working with Reich, designed the Barcelona Pavilion and the Tugendhat house almost at the same time, between 1928 and 1930.[1][3] Both pursue a free-flowing space;[2][3] in the house it rests on a steel frame with cross-shaped columns.[4]",
+   "es": {
+    "note": "Mies, junto con Reich, diseñó el Pabellón de Barcelona y la casa Tugendhat casi al mismo tiempo, entre 1928 y 1930.[1][3] Ambas buscan un espacio de flujo libre;[2][3] en la casa descansa sobre una estructura de acero con pilares en forma de cruz.[4]"
+   },
+   "refs": [
+    {
+     "label": "Fundació Mies van der Rohe, The Pavilion",
+     "url": "https://miesbcn.com/the-pavilion/",
+     "checks": "Mies y Lilly Reich trabajaron juntos en el Pabellón de Barcelona y en la casa Tugendhat de Brno entre 1928 y 1930. No describe espacios ni pilares.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Mies van der Rohe, German Pavilion (Interior perspective), c. 1928–29",
+     "url": "https://www.moma.org/collection/works/87528",
+     "checks": "El pabellón es la expresión más radical de Mies del «espacio de flujo libre» limitado por superficies de mármol, cromo, vidrio y ónix. ⚠ No describe pilares cruciformes ni enlaza con Tugendhat.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "UNESCO, expediente de nominación 1052, Tugendhat Villa in Brno",
+     "url": "https://whc.unesco.org/uploads/nominations/1052.pdf",
+     "checks": "Casi al mismo tiempo que el encargo de Brno (1 de julio de 1928) Mies recibió el del pabellón alemán de Barcelona; la villa realiza la idea de «espacio libremente flotante» en la casa; estructura de armazón de acero. ⚠ El expediente no establece una derivación del pabellón a la villa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Google Arts & Culture, «Materials» (Villa Tugendhat)",
+     "url": "https://artsandculture.google.com/story/materials-vila-tugendhat/BQXhPKxvDVhX-Q?hl=en",
+     "checks": "La villa es una de las primeras casas privadas del mundo con soportes de acero en forma de cruz; sala original de un solo gran espacio con un muro curvo y otro exento.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "moholy-nagy",
+   "to": "marianne-brandt",
+   "note": "Moholy-Nagy, form master of the metal workshop from 1923, encouraged Brandt to enter that male-dominated field, when nearly all women students were relegated to textiles.[1] Under him the workshop moved from handcraft toward industrial technologies, lighting and prototypes;[2] Brandt went on to design lamps for series production.[3]",
+   "es": {
+    "note": "Moholy-Nagy, maestro de forma del taller de metal desde 1923, alentó a Brandt a entrar a ese campo dominado por hombres, cuando casi todas las alumnas estaban relegadas a los textiles.[1] Bajo su dirección el taller pasó de la artesanía hacia las tecnologías industriales, la iluminación y los prototipos;[2] Brandt llegó a diseñar lámparas para producción en serie.[3]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, Marianne Brandt, «Teapot», 1924",
+     "url": "https://www.moma.org/collection/works/2438",
+     "checks": "Moholy-Nagy, maestro de forma del taller de metal desde 1923, la animó a entrar a ese campo dominado por hombres, cuando casi todas las alumnas estaban relegadas a los textiles.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, El curso preliminar de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/training/preliminary-course/laszlo-moholy-nagys-preliminary-course",
+     "checks": "Como jefe del taller de metal impulsó el diseño de iluminación y los prototipos, y con ello el paso de la artesanía manual a las tecnologías industriales.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Marianne Brandt",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-145",
+     "checks": "Brandt trabajó en el taller de metal con Moholy-Nagy, que reconoció pronto su talento; desde 1926 diseñó luminarias y, con Hin Bredendieck, luminarias para producción en serie para Körting & Mathiesen (Kandem).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "art-deco",
+   "to": "streamline-moderne",
+   "note": "After the Great Depression hit, the glamorous Deco style evolved into a less flashy version, Streamline Moderne,[1] whose aerodynamic look spread even to objects with no reason to be aerodynamic, such as pencil sharpeners and kitchen mixers;[2] a shift of taste, not a clean break.",
+   "es": {
+    "note": "Tras la Gran Depresión, el estilo déco, antes glamoroso, evolucionó hacia una versión menos llamativa, el Streamline Moderne,[1] cuyo aspecto aerodinámico se extendió incluso a objetos que no tenían motivo para serlo, como sacapuntas y batidoras;[2] un cambio de gusto, no una ruptura limpia."
+   },
+   "refs": [
+    {
+     "label": "New York Public Library, «Art Deco: 95 Years and Thriving», 2020",
+     "url": "https://www.nypl.org/blog/2020/11/09/art-deco-95-years-and-thriving",
+     "checks": "Tras los efectos de la Gran Depresión, el estilo Deco, antes glamoroso y excesivo, «evolucionó» hacia una versión menos llamativa, el Streamline Moderne. ⚠ Blog institucional de una biblioteca; no describe las formas del streamline.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "PBS American Experience, «Industrial Designers and Streamliners»",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/",
+     "checks": "El diseño industrial nació tras el crac de 1929; el aspecto aerodinámico se extendió a objetos sin razón para serlo (sacapuntas, bolígrafos, batidoras). No trata el art déco.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "frankfurt-kitchen",
+   "to": "existenzminimum-exhibition",
+   "note": "The kitchen was built as part of the new housing under city architect Ernst May.[3] May also led the organisation of the 1929 CIAM congress on the minimum dwelling, held in Frankfurt,[2] which focused attention on that housing programme and picked May’s Praunheim plan with the Schütte-Lihotzky kitchen as an outstanding example.[1]",
+   "es": {
+    "note": "La cocina se construyó como parte de las nuevas viviendas bajo el arquitecto jefe de la ciudad, Ernst May.[3] May también lideró la organización del congreso CIAM de 1929 sobre la vivienda mínima, realizado en Frankfurt,[2] que concentró la atención en ese programa de vivienda y eligió como ejemplo sobresaliente el plano de May para Praunheim con la cocina de Schütte-Lihotzky.[1]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, Hans Leistikow, Die Wohnung für das Existenzminimum (cartel, 1929), 290.1980",
+     "url": "https://www.moma.org/collection/works/6107",
+     "checks": "El congreso CIAM de 1929 concentró la atención internacional en el ambicioso programa de vivienda de Frankfurt y en definir la vivienda mínima; el plano de May para Praunheim, con la cocina de Schütte-Lihotzky, fue elegido como ejemplo sobresaliente.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Helen Barr, «Frankfurt 1929: Der Kongress tagt», en Neues Wohnen 1929/2009 (2011)",
+     "url": "https://d-nb.info/1212593995/34",
+     "checks": "Ernst May lideró la organización del CIAM II; el tema, «Die Wohnung für das Existenzminimum», quedó fijado en agosto de 1929; la exposición duró del 26 de octubre al 11 de noviembre. No trata la cocina de Frankfurt como tema propio.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Counter Space (2010): The Frankfurt Kitchen",
+     "url": "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/",
+     "checks": "Unas 10.000 cocinas diseñadas por Schütte-Lihotzky se construyeron como parte integral de las nuevas viviendas, bajo la dirección general del arquitecto jefe de la ciudad, Ernst May.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "red-blue-chair",
+   "to": "zig-zag-chair",
+   "note": "Both chairs are built from a few plain parts: the Red Blue chair from standard lumber sizes in a simple construction,[1] the Zig-Zag of 1934 from four flat pieces of wood.[2][4] The Zig-Zag is a cantilever, a form Rietveld first tried in tubular steel in 1933[3] and which Cassina calls one of the first cantilevered solid-wood chairs.[4]",
+   "es": {
+    "note": "Ambas sillas se construyen con pocas piezas simples: la Red Blue con maderas de medidas estándar y una construcción sencilla,[1] la Zig-Zag de 1934 con cuatro piezas planas de madera.[2][4] La Zig-Zag es un voladizo, forma que Rietveld probó primero en tubo de acero en 1933[3] y que Cassina llama una de las primeras sillas en voladizo de madera maciza.[4]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, Gerrit Rietveld, Red Blue Chair, 487.1953",
+     "url": "https://www.moma.org/collection/works/4044",
+     "checks": "Piezas de madera de medidas estándar disponibles en la época; Rietveld buscó la simplicidad constructiva con la esperanza de producción en serie.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Zig-Zag Chair (Rietveld; G. A. van der Groenekan, 1970)",
+     "url": "https://collections.vam.ac.uk/item/O142934/zig-zag-chair-chair-rietveld-gerrit/",
+     "checks": "Silla hecha de cuatro tablas de madera unidas a inglete y apernadas; su forma en Z surgió del deseo de hacer una silla de un solo material. No habla de la Red Blue ni del voladizo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Sotheby’s, Important Design, Nueva York 2018, lote 184 (catálogo de subasta)",
+     "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-design-n09957/lot.184.html",
+     "checks": "En 1933 Rietveld presentó en Metz & Co una silla zigzag en voladizo de tubo de acero antes de las de madera. ⚠ Casa de subastas; no menciona la Red Blue.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cassina, Zig Zag (fabricante actual)",
+     "url": "https://www.cassina.com/ww/en/products/zig-zag.html",
+     "checks": "Diseñada en 1934; cuatro piezas planas de madera; una de las primeras sillas en voladizo de madera maciza. ⚠ Fabricante actual; menciona la Red and Blue solo como obra relacionada.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "ctx-mexican-muralism",
+   "to": "tgp-posters",
+   "note": "Afterall reads the Taller de Gráfica Popular’s posters, loose sheets and flyers as a ‘portable muralism’: formats chosen to take up the mural tradition[1] for a worker audience, not necessarily literate,[1] using linoleum and wood prints[1] and simple carving techniques such as woodcut and lithography.[2]",
+   "es": {
+    "note": "Afterall lee los carteles, hojas sueltas y volantes del Taller de Gráfica Popular como un «muralismo portátil»: formatos elegidos para retomar la tradición del mural[1] ante un público obrero, no necesariamente letrado,[1] con grabados en linóleo y madera[1] y técnicas sencillas de grabado, como la xilografía y la litografía.[2]"
+   },
+   "refs": [
+    {
+     "label": "Afterall, «The Taller de Gráfica Popular: Collectivity, Popular Prints and Transient Muralism»",
+     "url": "https://www.afterall.org/articles/the-taller-de-grafica-popular-collectivity-popular-prints-and-transient-muralism/",
+     "checks": "Los formatos elegidos por el TGP (carteles, hojas sueltas, volantes) buscaron retomar la tradición muralista; «muralismo portátil»; búsqueda de un lector y espectador transeúnte, obrero y no necesariamente letrado; grabado en linóleo y madera; Siqueiros apoyó al TGP. ⚠ Lectura académica de un ensayo; «barato» aparece solo al describir modelos de consumo popular.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Taller de Gráfica Popular»",
+     "url": "https://www.britannica.com/topic/Taller-de-Grafica-Popular",
+     "checks": "El grupo usó técnicas sencillas de grabado, como xilografía y litografía, para diseños realizados con espontaneidad; centro de trabajo colectivo.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "from": "le-corbusier",
+   "to": "ministry-education-rio",
+   "note": "Le Corbusier came to Rio in 1936 as adviser; Costa’s team turned his scheme into the final building.[1]",
+   "es": {
+    "note": "Le Corbusier llegó a Río en 1936 como asesor; el equipo de Costa convirtió su esquema en el edificio final.[1]"
+   },
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Ministério da Educação e Saúde (MES)»",
+     "checks": "Asesoría de 1936 y desarrollo del equipo.",
+     "date": "2026-10-03",
+     "url": "https://enciclopedia.itaucultural.org.br/instituicoes/70502-ministerio-da-educacao-e-saude-mes"
+    }
+   ]
+  },
+  {
+   "from": "mart-stam",
+   "to": "van-nelle-factory",
+   "note": "Stam worked as a draftsman on the factory’s design from 1926 to 1928.[1]",
+   "es": {
+    "note": "Stam trabajó como dibujante en el proyecto de la fábrica entre 1926 y 1928.[1]"
+   },
+   "refs": [
+    {
+     "label": "Vielfalt der Moderne, «Rotterdam: Van Nelle Factory»",
+     "checks": "Stam dibujante 1926–1928.",
+     "date": "2026-10-03",
+     "url": "https://vielfaltdermoderne.de/en/van-nelle-factory/"
+    }
+   ]
+  },
+  {
+   "from": "isokon-long-chair",
+   "to": "paimio-chair",
+   "note": "Influence: Breuer’s plywood chair followed Aalto’s moulded plywood furniture.[1]",
+   "es": {
+    "note": "Influencia: el sillón de terciado de Breuer siguió a los muebles de terciado moldeado de Aalto.[1]"
+   },
+   "refs": [
+    {
+     "label": "V&A, Long Chair (1936)",
+     "checks": "Influencia de los muebles de Aalto.",
+     "date": "2026-10-03",
+     "url": "https://collections.vam.ac.uk/item/O22774/long-chair-reclining-chair-breuer/"
+    }
+   ]
+  },
+  {
+   "from": "stepanova-textiles",
+   "to": "popova-textiles",
+   "note": "Popova and Stepanova worked side by side at the same factory from autumn 1923.[1]",
+   "es": {
+    "note": "Popova y Stepánova trabajaron juntas en la misma fábrica desde el otoño de 1923.[1]"
+   },
+   "refs": [
+    {
+     "label": "Tate Papers 14, «Liubov Popova: From Painting to Textile Design»",
+     "checks": "Trabajo conjunto desde otoño de 1923.",
+     "date": "2026-10-03",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design"
+    }
+   ]
+  },
+  {
+   "from": "fallingwater-1937",
+   "to": "robie-house",
+   "note": "Fallingwater takes up Wright’s themes from the Robie House, the flowing open plan and long cantilevered horizontal planes, now in reinforced concrete.",
+   "es": {
+    "note": "Fallingwater retoma temas de Wright de la Casa Robie, la planta abierta y fluida y los largos planos horizontales en voladizo, ahora en hormigón armado."
+   },
+   "refs": []
+  },
+  {
+   "from": "kahlo-tehuana-1930",
+   "to": "rivera-kahlo-studio",
+   "note": "Dress and house expressed the same ideal of Rivera and Kahlo: a modern Mexico rooted in popular and indigenous culture.",
+   "es": {
+    "note": "El traje y la casa expresaron el mismo ideal de Rivera y Kahlo: un México moderno arraigado en la cultura popular e indígena."
+   },
+   "refs": []
+  },
+  {
+   "from": "paimio-sanatorium-1933",
+   "to": "paimio-chair",
+   "note": "Aalto designed the Paimio chair for the sanatorium’s patients, so that the furniture belonged to the building’s design.",
+   "es": {
+    "note": "Aalto diseñó la silla Paimio para los pacientes del sanatorio, de modo que el mobiliario formara parte del diseño del edificio."
+   },
+   "refs": []
+  }
+ ]
+}

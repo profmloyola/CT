@@ -1,0 +1,271 @@
+{
+ "production": [
+  {
+   "id": "pagemaker",
+   "sub": "tools",
+   "start": 1985,
+   "end": 1985,
+   "cont": false,
+   "date": "1985",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "PageMaker and desktop publishing",
+   "short": "PageMaker",
+   "key": "Aldus PageMaker, released in 1985 for the Macintosh, was the first widely used page-layout program and gave desktop publishing its name.",
+   "origin": "Paul Brainerd founded Aldus in Seattle and launched PageMaker in July 1985, built to work with the Apple Macintosh, the LaserWriter printer and Adobe’s PostScript, and he is credited with the phrase ‘desktop publishing’. A version for Windows followed in 1987, and Adobe bought Aldus in 1994.",
+   "enabled": "On one screen a person could set type, place images, draw columns and rules and see the page as it would print, then print proofs on a laser printer. Typesetting, paste-up and layout, once split among several trades, could be done by a single person.",
+   "change": "Designers took over the work of typesetters and paste-up artists, and experimented directly with page, type and image. Small publishers and independent magazines, such as Emigre, could produce professional-looking pages without a typesetting shop.",
+   "economy": "The cost of producing a publication fell sharply, which opened publishing to small organisations, independent designers and amateurs, and changed the trades of typesetting and prepress.",
+   "relations": "PageMaker, with PostScript and digital fonts, made up the technical base of the desktop publishing context; it was later overtaken by other programs, such as QuarkXPress and Adobe InDesign.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-emigre"
+    ],
+    "designers": [],
+    "works": [
+     "emigre-magazine-1984"
+    ]
+   },
+   "es": {
+    "name": "PageMaker y la autoedición",
+    "short": "PageMaker",
+    "date": "1985",
+    "key": "Aldus PageMaker, lanzado en 1985 para el Macintosh, fue el primer programa de diagramación de uso amplio y dio su nombre a la autoedición.",
+    "origin": "Paul Brainerd fundó Aldus en Seattle y lanzó PageMaker en julio de 1985, pensado para funcionar con el Apple Macintosh, la impresora LaserWriter y el PostScript de Adobe; se le atribuye la expresión «desktop publishing» (autoedición). Una versión para Windows llegó en 1987, y Adobe compró Aldus en 1994.",
+    "enabled": "En una sola pantalla una persona podía componer texto, ubicar imágenes, trazar columnas y filetes y ver la página tal como se imprimiría, y luego sacar pruebas en una impresora láser. La composición, el montaje y la diagramación, antes repartidos entre varios oficios, podía hacerlos una sola persona.",
+    "change": "Los diseñadores asumieron el trabajo de los tipógrafos y montajistas, y experimentaron directamente con página, tipo e imagen. Pequeñas editoriales y revistas independientes, como Emigre, podían producir páginas de aspecto profesional sin un taller de composición.",
+    "economy": "El costo de producir una publicación bajó con fuerza, lo que abrió la edición a organizaciones pequeñas, diseñadores independientes y aficionados, y cambió los oficios de la composición y la preprensa.",
+    "relations": "PageMaker, junto con PostScript y las fuentes digitales, formó la base técnica del contexto de la autoedición; más tarde lo superaron otros programas, como QuarkXPress y Adobe InDesign."
+   },
+   "refs": []
+  },
+  {
+   "id": "fontographer",
+   "sub": "tools",
+   "start": 1986,
+   "end": 1986,
+   "cont": false,
+   "date": "1986",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Fontographer and digital typography",
+   "short": "Fontographer",
+   "key": "Fontographer, from the firm Altsys in 1986, was a Macintosh program for drawing typeface outlines, which put type design within reach of independent designers.",
+   "origin": "Altsys, a Texas software company led by James Von Ehr, released Fontographer in 1986, a program written by Richard Kunz for drawing letterforms as outlines for PostScript. Macromedia bought Altsys in 1995, and other font editors later joined it.",
+   "enabled": "A designer could draw, edit and space letters on screen and export a font that worked on printers and screens. Making a typeface no longer required a type foundry or a manufacturer of phototypesetting equipment.",
+   "change": "Type design opened to graphic designers and small studios, and typefaces were drawn quickly, shared and reworked, sometimes in the same project as the page that used them. Foundries such as Emigre sold digital fonts made by independent designers.",
+   "economy": "Small independent foundries could draw, produce and distribute fonts themselves, which changed who made typefaces and how they were sold.",
+   "relations": "With PostScript and page-layout programs, digital font editors completed the chain of desktop publishing, and they fed the experimental typography of the late 1980s and 1990s.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "zuzana-licko"
+    ],
+    "works": [
+     "emigre-bitmap-fonts-1985"
+    ]
+   },
+   "es": {
+    "name": "Fontographer y la tipografía digital",
+    "short": "Fontographer",
+    "date": "1986",
+    "key": "Fontographer, de la empresa Altsys en 1986, fue un programa para Macintosh que dibujaba los contornos de las letras y acercó el diseño de tipos a los diseñadores independientes.",
+    "origin": "Altsys, una empresa de software de Texas dirigida por James Von Ehr, lanzó en 1986 Fontographer, un programa escrito por Richard Kunz para dibujar las formas de las letras como contornos para PostScript. Macromedia compró Altsys en 1995, y más tarde se sumaron otros editores de fuentes.",
+    "enabled": "Un diseñador podía dibujar, editar y espaciar letras en pantalla y exportar una fuente que funcionaba en impresoras y pantallas. Crear una tipografía ya no exigía una fundición ni un fabricante de equipos de fotocomposición.",
+    "change": "El diseño de tipos se abrió a los diseñadores gráficos y a los estudios pequeños, y las tipografías se dibujaban rápido, se compartían y se reelaboraban, a veces en el mismo proyecto que la página que las usaba. Fundiciones como Emigre vendían fuentes digitales hechas por diseñadores independientes.",
+    "economy": "Las fundiciones independientes pequeñas pudieron dibujar, producir y distribuir ellas mismas sus fuentes, lo que cambió quiénes hacían tipografías y cómo se vendían.",
+    "relations": "Junto con PostScript y los programas de diagramación, los editores de fuentes digitales completaron la cadena de la autoedición y alimentaron la tipografía experimental de fines de los años ochenta y de los noventa."
+   },
+   "refs": []
+  },
+  {
+   "id": "photoshop",
+   "sub": "tools",
+   "start": 1990,
+   "end": 1990,
+   "cont": false,
+   "date": "1990",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Adobe Photoshop",
+   "short": "Photoshop",
+   "key": "Adobe Photoshop, released in 1990 for the Macintosh, made editing and combining photographs on a personal computer an ordinary part of graphic design.",
+   "origin": "Thomas Knoll began the program as a student project and, with his brother John Knoll, developed it into a commercial product; Adobe licensed it in 1988 and released version 1.0 in February 1990. Layers arrived with version 3.0 in 1994.",
+   "enabled": "Images could be retouched, colour-corrected, cut out and combined on screen, with the result placed in a page-layout program. Layers kept the parts of a composition separate and editable instead of fixing them in one flat image.",
+   "change": "Designers began to treat the photograph as material to be altered and layered, and a collage that once took cameras, darkroom work and cutting could be done directly on screen. It supported the layered, manipulated images of 1990s graphic design.",
+   "economy": "Work that was done by specialised retouchers and prepress firms moved to the designer’s own desk, and the program became a standard tool of the profession.",
+   "relations": "Together with page-layout and font programs, Photoshop completed the image side of the digital desktop, and it appears in the experimental design of the 1990s, such as the magazines of David Carson.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "david-carson"
+    ],
+    "works": [
+     "ray-gun-1992"
+    ]
+   },
+   "es": {
+    "name": "Adobe Photoshop",
+    "short": "Photoshop",
+    "date": "1990",
+    "key": "Adobe Photoshop, lanzado en 1990 para el Macintosh, hizo de la edición y combinación de fotografías en un computador personal una parte corriente del diseño gráfico.",
+    "origin": "Thomas Knoll comenzó el programa como proyecto de estudiante y, junto a su hermano John Knoll, lo desarrolló hasta convertirlo en un producto comercial; Adobe lo licenció en 1988 y lanzó la versión 1.0 en febrero de 1990. Las capas llegaron con la versión 3.0, en 1994.",
+    "enabled": "Las imágenes podían retocarse, corregirse de color, recortarse y combinarse en pantalla, y el resultado se colocaba en un programa de diagramación. Las capas mantenían separadas y editables las partes de una composición, en vez de fijarlas en una imagen plana.",
+    "change": "Los diseñadores empezaron a tratar la fotografía como un material que se altera y se superpone, y un collage que antes exigía cámaras, trabajo de laboratorio y recortes podía hacerse directamente en pantalla. Apoyó las imágenes superpuestas y manipuladas del diseño gráfico de los años noventa.",
+    "economy": "El trabajo que hacían retocadores especializados y empresas de preprensa pasó al escritorio del propio diseñador, y el programa se volvió una herramienta estándar de la profesión.",
+    "relations": "Junto con los programas de diagramación y de fuentes, Photoshop completó el lado de la imagen del escritorio digital, y aparece en el diseño experimental de los años noventa, como en las revistas de David Carson."
+   },
+   "refs": []
+  },
+  {
+   "id": "multitouch",
+   "sub": "tools",
+   "start": 2007,
+   "end": 2007,
+   "cont": false,
+   "date": "2007",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Multi-touch screen",
+   "short": "Multi-touch",
+   "key": "The iPhone, shown in January 2007 and released that June, brought a multi-touch screen to a mass market and made direct finger gestures the basis of the interface.",
+   "origin": "Multi-touch research goes back to the early 1980s in laboratories, among them work at the University of Toronto and at Bell Labs, and Apple bought the gesture-input firm FingerWorks in 2005. Apple presented the iPhone in January 2007, with a capacitive screen that follows several fingers at once.",
+   "enabled": "People could touch, drag, pinch and spread objects on the screen itself, with no stylus or keyboard. The same surface could show a keyboard, a map or a photograph as needed.",
+   "change": "Interface design moved from buttons, menus and pointers to gestures acting directly on content, and from fixed keys to interfaces that change with the task. Screen design became the main task in designing a phone.",
+   "economy": "The touch screen replaced the physical keypad on most phones in a few years, and became the standard way of using phones and tablets.",
+   "relations": "Multi-touch is the hardware basis of the smartphone and of the interaction design of mobile devices, where gestures, feedback and screen layout became design problems of their own.",
+   "links": {
+    "movements": [
+     "interaction-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "iphone-2007"
+    ]
+   },
+   "es": {
+    "name": "Pantalla táctil multitáctil",
+    "short": "Multitáctil",
+    "date": "2007",
+    "key": "El iPhone, presentado en enero de 2007 y lanzado en junio, llevó una pantalla multitáctil al mercado masivo e hizo de los gestos directos con los dedos la base de la interfaz.",
+    "origin": "La investigación en multitáctil se remonta a comienzos de la década de 1980 en laboratorios, entre ellos trabajos de la Universidad de Toronto y de Bell Labs, y Apple compró en 2005 la empresa de entrada por gestos FingerWorks. Apple presentó el iPhone en enero de 2007, con una pantalla capacitiva que sigue varios dedos a la vez.",
+    "enabled": "Las personas podían tocar, arrastrar, juntar y separar los dedos sobre los objetos en la propia pantalla, sin lápiz ni teclado. La misma superficie podía mostrar un teclado, un mapa o una fotografía según hiciera falta.",
+    "change": "El diseño de interfaces pasó de botones, menús y punteros a gestos que actúan directamente sobre el contenido, y de teclas fijas a interfaces que cambian según la tarea. El diseño de la pantalla se volvió la tarea principal al diseñar un teléfono.",
+    "economy": "La pantalla táctil reemplazó al teclado físico en la mayoría de los teléfonos en pocos años, y se volvió la forma estándar de usar teléfonos y tabletas.",
+    "relations": "El multitáctil es la base de hardware del smartphone y del diseño de interacción de los dispositivos móviles, donde los gestos, la respuesta y la disposición de la pantalla pasaron a ser problemas de diseño propios."
+   },
+   "refs": []
+  },
+  {
+   "id": "web-type-css",
+   "sub": "tools",
+   "start": 1991,
+   "end": 2026,
+   "cont": true,
+   "date": "1991 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "CH",
+    "US"
+   ],
+   "name": "HTML, CSS and screen typography",
+   "short": "HTML, CSS and type",
+   "key": "From 1991, HTML and then CSS gave the web a way of describing pages, and with it designers had to set type on screens they did not control.",
+   "origin": "Tim Berners-Lee described HTML at CERN in 1991. Håkon Wium Lie proposed style sheets in 1994, and the first CSS recommendation of the W3C appeared in 1996. In the same year Matthew Carter designed Verdana and Georgia for Microsoft, typefaces drawn to read well on screen.",
+   "enabled": "Structure and appearance were separated: HTML marks the content and CSS sets type, spacing, colour and layout, which the browser adapts to each device. For years pages relied on the few fonts that most computers had installed.",
+   "change": "Typography on screen had to work with unknown fonts, sizes and screen widths. Web fonts, supported by browsers from c. 2009-2010, and services such as Google Fonts, launched in 2010, widened the choice, and Ethan Marcotte’s 2010 article on responsive design described layouts that adapt to screen width.",
+   "economy": "Free, open standards let anyone publish and design for the web without licensing a tool, though foundries began selling web licences for their fonts.",
+   "relations": "Style sheets and web type are the technical basis of the web as a medium and of interaction design for the screen, where the designer defines rules and not a fixed page.",
+   "links": {
+    "movements": [
+     "interaction-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "first-website-1991",
+     "verdana-1996",
+     "material-design-2014"
+    ]
+   },
+   "es": {
+    "name": "HTML, CSS y tipografía de pantalla",
+    "short": "HTML, CSS y tipos",
+    "date": "1991 →",
+    "key": "Desde 1991, HTML y luego CSS dieron a la web una forma de describir páginas, y con ellos los diseñadores debieron componer tipos en pantallas que no controlaban.",
+    "origin": "Tim Berners-Lee describió HTML en el CERN en 1991. Håkon Wium Lie propuso las hojas de estilo en 1994, y la primera recomendación CSS del W3C apareció en 1996. Ese mismo año Matthew Carter diseñó Verdana y Georgia para Microsoft, tipografías dibujadas para leerse bien en pantalla.",
+    "enabled": "Se separaron la estructura y la apariencia: HTML marca el contenido y CSS fija tipo, espaciado, color y composición, que el navegador adapta a cada dispositivo. Durante años las páginas dependieron de las pocas fuentes que la mayoría de los computadores tenía instaladas.",
+    "change": "La tipografía en pantalla debió funcionar con fuentes, tamaños y anchos de pantalla desconocidos. Las fuentes web, admitidas por los navegadores desde c. 2009-2010, y servicios como Google Fonts, lanzado en 2010, ampliaron la elección, y el artículo de Ethan Marcotte de 2010 sobre diseño adaptable (responsive) describió composiciones que se ajustan al ancho de la pantalla.",
+    "economy": "Los estándares abiertos y gratuitos permitieron que cualquiera publicara y diseñara para la web sin pagar licencia por una herramienta, aunque las fundiciones empezaron a vender licencias web de sus fuentes.",
+    "relations": "Las hojas de estilo y la tipografía web son la base técnica de la web como medio y del diseño de interacción para la pantalla, donde el diseñador define reglas y no una página fija."
+   },
+   "refs": []
+  },
+  {
+   "id": "generative-image-models",
+   "sub": "tools",
+   "start": 2022,
+   "end": 2026,
+   "cont": true,
+   "date": "2022 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Text-to-image generative models",
+   "short": "Text-to-image AI",
+   "key": "Programs such as DALL·E 2, Midjourney and Stable Diffusion, all opened to the public in 2022, create images from a written description.",
+   "origin": "OpenAI presented DALL·E 2 in April 2022, and the research lab Midjourney and the company Stability AI, with its open Stable Diffusion model, released their systems in the course of the same year. All three are trained on very large collections of images paired with text and produce a new image from a short prompt.",
+   "enabled": "A person can describe a picture in words and obtain several visual options in seconds, then refine them by changing the prompt or asking for variations. Illustration, concept art, mock-ups and cover images can be explored without drawing or photographing anything.",
+   "change": "Part of a designer's work shifts from making the image by hand to describing, selecting and editing it. The tools opened image-making to people without drawing skills, and they raised open questions about authorship and about the images the models were trained on.",
+   "economy": "Producing a first image became very quick and cheap, which put pressure on commissions for stock images and routine illustration; illustrators and photographers contested the use of their work as training material.",
+   "relations": "They belong to the context of generative artificial intelligence, and the cover of Cosmopolitan magazine of 2022, made with DALL·E 2, is an early example of their use in a mainstream publication.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "cosmopolitan-ai-cover-2022"
+    ]
+   },
+   "es": {
+    "name": "Modelos generativos de texto a imagen",
+    "short": "IA de texto a imagen",
+    "date": "2022 →",
+    "key": "Programas como DALL·E 2, Midjourney y Stable Diffusion, abiertos al público en 2022, crean imágenes a partir de una descripción escrita.",
+    "origin": "OpenAI presentó DALL·E 2 en abril de 2022, y el laboratorio Midjourney y la empresa Stability AI, con su modelo abierto Stable Diffusion, lanzaron sus sistemas a lo largo del mismo año. Los tres se entrenan con colecciones muy grandes de imágenes emparejadas con texto y producen una imagen nueva a partir de una instrucción breve.",
+    "enabled": "Una persona puede describir una imagen con palabras y obtener varias opciones visuales en segundos, y luego afinarlas cambiando la instrucción o pidiendo variaciones. La ilustración, el arte conceptual, las maquetas y las imágenes de portada pueden explorarse sin dibujar ni fotografiar nada.",
+    "change": "Una parte del trabajo del diseñador pasa de hacer la imagen a mano a describirla, seleccionarla y editarla. Las herramientas abrieron la creación de imágenes a personas sin habilidad para dibujar y plantearon preguntas abiertas sobre la autoría y sobre las imágenes con que se entrenaron los modelos.",
+    "economy": "Producir una primera imagen se volvió muy rápido y barato, lo que presionó los encargos de imágenes de archivo y de ilustración rutinaria; ilustradores y fotógrafos cuestionaron el uso de su trabajo como material de entrenamiento.",
+    "relations": "Forman parte del contexto de la inteligencia artificial generativa, y la portada de la revista Cosmopolitan de 2022, hecha con DALL·E 2, es un ejemplo temprano de su uso en una publicación de gran circulación."
+   },
+   "refs": []
+  }
+ ]
+}

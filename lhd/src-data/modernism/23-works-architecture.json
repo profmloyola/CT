@@ -1,0 +1,2700 @@
+{
+ "works": [
+  {
+   "id": "schroder-house",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Schröder House",
+   "designers": [
+    "rietveld"
+   ],
+   "maker": null,
+   "client": "Truus Schröder-Schräder",
+   "year": 1924,
+   "date": "1924",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Brick and plaster, steel, wood, glass; painted in De Stijl colours",
+   "tech": [],
+   "key": "The small house in Utrecht that Rietveld designed with its owner, Truus Schröder-Schräder: De Stijl built as a home of sliding walls and coloured planes.[1][3][5]",
+   "more": "Schröder, a widow with three children, took part in the design: when Rietveld showed her a sketch of the rooms, she asked whether the walls could go too.[2][3][5] The upper floor is one open space that sliding partitions divide into rooms by night; outside, white and grey planes and red, blue, yellow and black lines seem to float apart.[2][4] She lived there until her death in 1985.[2][4]",
+   "where": [
+    {
+     "label": "Centraal Museum, Utrecht",
+     "url": "https://www.centraalmuseum.nl"
+    },
+    {
+     "label": "UNESCO World Heritage",
+     "url": "https://whc.unesco.org/en/list/965"
+    }
+   ],
+   "status": "Museum run by the Centraal Museum, Utrecht; UNESCO World Heritage Site since 2000.",
+   "wiki": "Rietveld_Schröder_House",
+   "es": {
+    "title": "Casa Schröder",
+    "date": "1924",
+    "materials": "Ladrillo y estuco, acero, madera, vidrio; pintada con los colores de De Stijl",
+    "key": "La pequeña casa de Utrecht que Rietveld diseñó con su propietaria, Truus Schröder-Schräder: De Stijl construido como hogar de muros corredizos y planos de color.[1][3][5]",
+    "more": "Schröder, viuda con tres hijos, participó en el diseño: cuando Rietveld le mostró un boceto de las piezas, ella preguntó si también podían irse los muros.[2][3][5] El piso superior es un solo espacio abierto que tabiques corredizos dividen en piezas por la noche; por fuera, planos blancos y grises y líneas rojas, azules, amarillas y negras parecen separarse en el aire.[2][4] Ella vivió allí hasta su muerte en 1985.[2][4]",
+    "status": "Museo a cargo del Centraal Museum de Utrecht; Patrimonio Mundial de la UNESCO desde 2000."
+   },
+   "refs": [
+    {
+     "label": "UNESCO World Heritage Centre, Rietveld Schröderhuis",
+     "url": "https://whc.unesco.org/en/list/965",
+     "checks": "construida en 1924 por Rietveld por encargo de Truus Schröder-Schräder; De Stijl; distribución interior flexible; ella vivió allí unos 60 años; hoy la administra el Centraal Museum. ⚠ no detalla materiales",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Rietveld Schröderhuis (Centraal Museum), página principal",
+     "url": "https://www.rietveldschroderhuis.nl/en",
+     "checks": "1924; Truus Schröder, viuda reciente con tres hijos; sin muros interiores permanentes; tabiques corredizos que convierten el piso superior en tres piezas; colores primarios y tonos neutros, líneas horizontales y verticales; vivió allí desde 1925 hasta su muerte en 1985. ⚠ no enumera los colores uno por uno",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Rietveld Schröderhuis, «The story of Truus Schröder»",
+     "url": "https://www.rietveldschroderhuis.nl/en/explore/truus-schroder-schrader",
+     "checks": "viuda desde 1923 (muerte de su marido Frits); tres hijos pequeños; clienta y codiseñadora de la casa; murió en 1985",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Rietveld Schröderhuis, «Biography of the house»",
+     "url": "https://www.rietveldschroderhuis.nl/en/explore/biography-of-the-house",
+     "checks": "participación de Schröder en el diseño; piso superior abierto de día que muros corredizos dividen en dormitorios de noche; 1924; ella vivió allí hasta su muerte en 1985; museo y Patrimonio Mundial desde 2000",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, maqueta de la Casa Schröder, 1924 (maqueta de 1965)",
+     "url": "https://www.moma.org/collection/works/1015?locale=en",
+     "checks": "cita de Schröder: ante un boceto de Rietveld preguntó «¿Pueden irse también estos muros?», y él respondió «¡Con gusto, fuera esos muros!»; colaboración desde 1923; la expresión más completa de De Stijl en arquitectura",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "bauhaus-dessau-building",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Bauhaus building, Dessau",
+   "short": "Bauhaus Dessau",
+   "designers": [
+    "gropius"
+   ],
+   "maker": null,
+   "client": "City of Dessau",
+   "year": 1925,
+   "date": "1925–1926",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Reinforced concrete frame, brick, steel and glass curtain wall",
+   "tech": [],
+   "key": "The school building Gropius designed when the Bauhaus moved to Dessau, with a glass-walled workshop wing that made the school’s programme visible.[1][4]",
+   "more": "Built in 1925–26 and opened on 4 December 1926,[1][2] it is a pinwheel of wings for workshops, classrooms, administration and a student residence, linked by a bridge.[1][2][4] The workshop wing has a continuous glass curtain wall hung in front of the structure.[2] Its fittings, furniture and lamps were made in the school’s own workshops.[2][4] Damaged in 1945, it was restored and is now the seat of the Bauhaus Dessau Foundation.[1][2][3]",
+   "where": [
+    {
+     "label": "Bauhaus Dessau Foundation",
+     "url": "https://bauhaus-dessau.de"
+    }
+   ],
+   "status": "Restored; seat of the Bauhaus Dessau Foundation; UNESCO World Heritage Site since 1996.",
+   "wiki": "Bauhaus_Dessau",
+   "es": {
+    "title": "Edificio de la Bauhaus de Dessau",
+    "short": "Bauhaus Dessau",
+    "date": "1925–1926",
+    "materials": "Estructura de hormigón armado, ladrillo, muro cortina de acero y vidrio",
+    "key": "El edificio escolar que diseñó Gropius cuando la Bauhaus se trasladó a Dessau, con un ala de talleres de muros de vidrio que hacía visible el programa de la escuela.[1][4]",
+    "more": "Construido en 1925–26 e inaugurado el 4 de diciembre de 1926,[1][2] es un molinete de alas para talleres, aulas, administración y residencia de estudiantes, unidas por un puente.[1][2][4] El ala de talleres tiene un muro cortina de vidrio continuo colgado delante de la estructura.[2] Su equipamiento, muebles y lámparas se hicieron en los propios talleres de la escuela.[2][4] Dañado en 1945, fue restaurado y hoy es sede de la Fundación Bauhaus Dessau.[1][2][3]",
+    "status": "Restaurado; sede de la Fundación Bauhaus Dessau; Patrimonio Mundial de la UNESCO desde 1996."
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, Bauhaus Building, Dessau",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/works/architecture/bauhaus-building-dessau",
+     "checks": "proyecto desde primavera de 1925, inauguración el 4 de diciembre de 1926, terreno y financiamiento de la ciudad de Dessau, partes del edificio (talleres, puente de administración, escuela técnica, auditorio/cantina, bloque de estudios con viviendas de estudiantes), hormigón armado y vidrio, incendio tras bombardeo en marzo de 1945, monumento en 1972 y restauración, UNESCO 1996",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsche Stiftung Denkmalschutz, Bauhausgebäude Dessau-Roßlau",
+     "url": "https://www.denkmalschutz.de/denkmal/bauhausgebaeude.html",
+     "checks": "15 meses de obra e inauguración el 4.12.1926, cinco partes dispuestas en alas, tramo de conexión sobre la calle con la administración, muro cortina delante del esqueleto retranqueado en los tres pisos de talleres, participación de los talleres de la Bauhaus en el equipamiento, restauración integral 1996–2006, UNESCO 1996",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, Stiftung Bauhaus Dessau",
+     "url": "https://bauhauskooperation.de/kooperation/ueber-die-kooperation/stiftung-bauhaus-dessau",
+     "checks": "la Fundación (creada en 1994) tiene su sede en el edificio histórico de la Bauhaus; el edificio es Patrimonio Mundial",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Dezeen, «Walter Gropius designed school in Dessau to reflect the Bauhaus values» (2018)",
+     "url": "https://www.dezeen.com/2018/11/05/bauhaus-dessau-school-building-walter-gropius-germany-architecture/",
+     "checks": "planta asimétrica en molinete, alas unidas por puentes, ala de talleres vidriada con vistas al interior, accesorios, muebles e iluminación hechos en los talleres de la escuela, daños en la guerra. ⚠ fuente secundaria (prensa de arquitectura); ⚠ las letras de la fachada no se confirmaron como obra de los talleres",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ]
+  },
+  {
+   "id": "frankfurt-kitchen",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "interior",
+   "title": "Frankfurt Kitchen",
+   "designers": [
+    "schutte-lihotzky"
+   ],
+   "maker": "inst-neues-frankfurt",
+   "client": null,
+   "year": 1926,
+   "date": "1926",
+   "production": {
+    "from": 1926,
+    "to": 1930,
+    "note": "about 10,000 installed in Frankfurt’s social housing"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Painted wood, beech worktop, aluminium storage bins",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "A small, fully fitted kitchen designed as a workplace, installed in about 10,000 social housing flats in Frankfurt.[1][2][3]",
+   "more": "The kitchen measures 1.9 by 3.4 metres[2] and everything has a fixed place: a sliding door, a swivel stool, a fold-down ironing board, labelled aluminium bins, oak drawers for flour, a stove, and a worktable under the window next to the sink.[1][2][3] Schütte-Lihotzky planned it after time-and-motion studies and interviews with housewives, so that one person could work with as few steps as possible.[1][2][4] Its efficiency also fixed the kitchen as a woman’s workplace without questioning the gendered division of labour, as later critics have pointed out.[3]",
+   "where": [
+    {
+     "label": "MoMA, New York",
+     "url": "https://www.moma.org/collection/works/126451"
+    },
+    {
+     "label": "V&A, London",
+     "url": "https://collections.vam.ac.uk/item/O121079/frankfurt-kitchen-kitchen-schutte-lihotzky-margarete/"
+    }
+   ],
+   "status": "Most were removed in the 1960s and 1970s; reconstructions and originals in museum collections.",
+   "wiki": "Frankfurt_kitchen",
+   "es": {
+    "title": "Cocina de Frankfurt",
+    "date": "1926",
+    "materials": "Madera pintada, cubierta de haya, contenedores de aluminio",
+    "key": "Una cocina pequeña y completamente equipada, diseñada como lugar de trabajo e instalada en unos 10.000 departamentos de vivienda social de Frankfurt.[1][2][3]",
+    "more": "La cocina mide 1,9 por 3,4 metros[2] y todo tiene un lugar fijo: una puerta corredera, un piso giratorio, una tabla de planchar plegable, contenedores de aluminio rotulados, cajones de roble para la harina, una cocinilla y un mesón de trabajo bajo la ventana, junto al lavaplatos.[1][2][3] Schütte-Lihotzky la planificó tras estudios de tiempos y movimientos y entrevistas a dueñas de casa, para que una persona trabajara con el menor número de pasos posible.[1][2][4] Su eficiencia también fijó la cocina como lugar de trabajo de la mujer sin cuestionar la división del trabajo por género, algo que la crítica posterior señaló.[3]",
+    "status": "La mayoría se retiró en los años sesenta y setenta; reconstrucciones y originales en colecciones de museos.",
+    "production": {
+     "note": "unas 10.000 instaladas en la vivienda social de Frankfurt"
+    }
+   },
+   "refs": [
+    {
+     "label": "MoMA, Grete Lihotzky, Frankfurt Kitchen (1926–1927), 83.2009",
+     "url": "https://www.moma.org/collection/works/126451",
+     "checks": "fecha 1926–27, estudios de tiempos y movimientos y entrevistas a dueñas de casa, piso giratorio, cocina a gas, tabla de planchar plegable, contenedores de aluminio rotulados, roble para la harina y haya para las superficies de corte, unas 10.000 cocinas en Frankfurt bajo Ernst May",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Frankfurt Kitchen, Margarete Schütte-Lihotzky",
+     "url": "https://collections.vam.ac.uk/item/O121079/frankfurt-kitchen-kitchen-schutte-lihotzky-margarete/",
+     "checks": "fecha 1926–27, unas 10.000 instaladas en departamentos municipales, planta de 3440 × 1870 (mm), base en la «gestión científica» de Taylor y en los movimientos del ama de casa, tabla de planchar abatible, contenedores metálicos, mesa de trabajo bajo la ventana junto al lavaplatos, materiales madera, vidrio, metal, pintura, esmalte",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Werkbundarchiv – Museum der Dinge, «The Frankfurt Kitchen»",
+     "url": "https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/",
+     "checks": "diseñada en 1926 como prototipo estándar, unas 10.000 en muchas variantes, construidas hasta 1930, puerta corredera hacia el estar, cocina combinada carbón/electricidad, «cocina-taller» según procesos taylorizados, crítica: no cuestionó la división del trabajo por género",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Counter Space (2010): The Frankfurt Kitchen",
+     "url": "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/",
+     "checks": "unas 10.000 cocinas en el programa Nuevo Frankfurt, equipamiento (piso giratorio, cocina a gas, tabla de planchar, contenedores de aluminio, roble y haya), estudios de tiempos y movimientos y entrevistas a dueñas de casa y grupos de mujeres. ⚠ no se confirmó en ninguna fuente que llegara armada a la obra ni el retiro en los años sesenta y setenta (status)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "romerstadt",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "estate",
+   "title": "Römerstadt",
+   "designers": [
+    "ernst-may"
+   ],
+   "maker": "inst-neues-frankfurt",
+   "client": null,
+   "year": 1927,
+   "date": "1927–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Rendered masonry, flat roofs",
+   "tech": [],
+   "key": "A satellite housing estate of New Frankfurt,[4] with terraces of row houses curving along the Nidda valley and fully electrified homes.[1][2][3]",
+   "more": "Built in 1927–28 by Ernst May’s municipal office,[1][5] it adapted the English garden city to modern forms:[3][4] long, curving rows of flat-roofed houses and flats with gardens, set on terraces above the river meadows.[1][2] Its homes had electric cooking, Frankfurt Kitchens and a radio connection; it was the first fully electrified estate in Germany.[2][3][6] One house is now a museum of the Ernst May Society.[3][5][6]",
+   "where": [
+    {
+     "label": "Ernst May Society, Frankfurt",
+     "url": "https://ernst-may-gesellschaft.de"
+    }
+   ],
+   "status": "Inhabited and protected; one house is a museum.",
+   "wiki": "Römerstadt",
+   "es": {
+    "title": "Römerstadt",
+    "date": "1927–1928",
+    "materials": "Albañilería estucada, techos planos",
+    "key": "Un barrio satélite del Nuevo Frankfurt,[4] con hileras de casas que se curvan a lo largo del valle del Nidda y viviendas totalmente electrificadas.[1][2][3]",
+    "more": "Construido en 1927–28 por la oficina municipal de Ernst May,[1][5] adaptó la ciudad jardín inglesa a formas modernas:[3][4] largas hileras curvas de casas y departamentos de techo plano con jardín, sobre terrazas que miran a las vegas del río.[1][2] Sus viviendas tenían cocina eléctrica, Cocina de Frankfurt y conexión de radio; fue el primer barrio totalmente electrificado de Alemania.[2][3][6] Una de las casas es hoy un museo de la Sociedad Ernst May.[3][5][6]",
+    "status": "Habitado y protegido; una de las casas es museo."
+   },
+   "refs": [
+    {
+     "label": "Ernst-May-Gesellschaft, Römerstadt",
+     "url": "https://ernst-may-gesellschaft.de/wohnsiedlungen/roemerstadt",
+     "checks": "Construcción 1927–1928; 1.220 viviendas, 663 de ellas casas unifamiliares; planificación de Ernst May con Herbert Boehm y Wolfgang Bangert; hileras en terrazas en la ladera norte del valle del Nidda; muro con bastiones de 1,5 km; jardines; paisajismo de Leberecht Migge.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsche Stiftung Denkmalschutz, Ernst-May-Haus",
+     "url": "https://www.denkmalschutz.de/denkmal/ernst-may-haus.html",
+     "checks": "Hileras curvas y escalonadas que siguen la ladera hacia el Nidda; jardines en bastión para el autoabastecimiento; Neue Sachlichkeit; Cocina de Frankfurt. Da 1926–1928 como construcción.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Vielfalt der Moderne, Frankfurt am Main: Ernst-May-Haus",
+     "url": "https://vielfaltdermoderne.de/en/may-haus-en/",
+     "checks": "Terminada en 1927–1928; primer barrio totalmente electrificado de Alemania, con conexión trifásica para luz, cocina y agua caliente, y conexión de radio; May trabajó con Raymond Unwin y estudió la ciudad jardín; la casa está abierta al público desde 2010.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Garden Cities Institute, Römerstadt",
+     "url": "https://www.gardencitiesinstitute.com/resources/garden-cities/romerstadt",
+     "checks": "Barrio satélite en el valle del Nidda; May trabajó con Unwin; principios de ciudad jardín (huertos, jardines); primer barrio totalmente electrificado de Alemania. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Frankfurt-Lese, «Die Siedlung Römerstadt»",
+     "url": "https://www.frankfurt-lese.de/index.php?article_id=251",
+     "checks": "1927 y 1928; May como director municipal de obras desde 1925; electrificación completa; Cocina de Frankfurt; casa Im Burgfeld 136 convertida en museo por la Ernst-May-Gesellschaft. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, Ernst-May-Haus",
+     "url": "https://bauhauskooperation.de/reisen/orte/ortsdetailseite/ort-100",
+     "checks": "1927–1928; Ernst May y Carl-Hermann Rudloff; «el primer barrio totalmente electrificado de Alemania»; Cocina de Frankfurt; la casa la administra la Ernst-May-Gesellschaft.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "weissenhof-estate",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "estate",
+   "title": "Weissenhof Estate",
+   "designers": [
+    "mies-van-der-rohe",
+    "le-corbusier",
+    "gropius",
+    "bruno-taut"
+   ],
+   "maker": "inst-weissenhof",
+   "client": "Deutscher Werkbund, City of Stuttgart",
+   "year": 1927,
+   "date": "1927",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Steel and concrete frames, new dry-construction systems, render",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "The model estate built for the 1927 Werkbund exhibition in Stuttgart: 21 buildings by 17 European architects, a manifesto of modern housing.[2][3]",
+   "more": "Under Mies van der Rohe’s artistic direction, architects including Le Corbusier with Pierre Jeanneret, Gropius, J. J. P. Oud, Mart Stam, Hans Scharoun, Peter Behrens and Bruno Taut built houses and flats,[1][2] about 60 dwellings in all, in some 21 weeks.[4] Their plain, unornamented cubic forms gave the world an image of a common modern architecture,[2] and its critics a target: opponents mocked it as an ‘Arab village’.[4] Lilly Reich designed exhibition spaces, among them the Glass Room with Mies.[5]",
+   "where": [
+    {
+     "label": "Weissenhofmuseum, Stuttgart",
+     "url": "https://www.weissenhofmuseum.de"
+    }
+   ],
+   "status": "Eleven of the 21 buildings survive; Le Corbusier’s houses are a UNESCO World Heritage Site since 2016 and house a museum.",
+   "wiki": "Weissenhof_Estate",
+   "es": {
+    "title": "Barrio Weissenhof",
+    "date": "1927",
+    "materials": "Estructuras de acero y hormigón, nuevos sistemas de construcción en seco, estuco",
+    "key": "El barrio modelo construido para la exposición del Werkbund de 1927 en Stuttgart: 21 edificios de 17 arquitectos europeos, un manifiesto de la vivienda moderna.[2][3]",
+    "more": "Bajo la dirección artística de Mies van der Rohe, arquitectos como Le Corbusier con Pierre Jeanneret, Gropius, J. J. P. Oud, Mart Stam, Hans Scharoun, Peter Behrens y Bruno Taut construyeron casas y departamentos,[1][2] unas 60 viviendas en total, en unas 21 semanas.[4] Sus formas cúbicas, lisas y sin ornamento dieron al mundo una imagen de arquitectura moderna común,[2] y a sus críticos un blanco: sus detractores se burlaron de ella como «aldea árabe».[4] Lilly Reich diseñó espacios de la exposición, entre ellos la Sala de Vidrio con Mies.[5]",
+    "status": "Sobreviven 11 de los 21 edificios; las casas de Le Corbusier son Patrimonio Mundial de la UNESCO desde 2016 y albergan un museo."
+   },
+   "refs": [
+    {
+     "label": "Weissenhofmuseum im Haus Le Corbusier, Siedlung",
+     "url": "https://weissenhofmuseum.de/en/siedlung/",
+     "checks": "dirección artística de Mies van der Rohe, 17 arquitectos internacionales y sus nombres (Behrens, Bourgeois, Döcker, Frank, Gropius, Hilberseimer, Le Corbusier y Pierre Jeanneret, Oud, Poelzig, Rading, Scharoun, Schneck, Stam, Taut), exposición de cuatro meses, museo desde 2006 en la casa Le Corbusier, UNESCO julio 2016. ⚠ cuenta «33 edificios» (proyectos), no 21",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Internationale Bauausstellungen, «1927 Weißenhofsiedlung Stuttgart – Zeugnis Neuen Bauens»",
+     "url": "https://www.internationale-bauausstellungen.de/geschichte/1927-weissenhofsiedlung-stuttgart-zeugnis-neuen-bauens/",
+     "checks": "exposición «Die Wohnung» de 1927, 21 casas modelo, 17 arquitectos, dirección artística de Mies, arquitectura cúbica sin ornamento, «manifiesto construido»",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "UNESCO World Heritage Centre, The Architectural Work of Le Corbusier (1321)",
+     "url": "https://whc.unesco.org/en/list/1321/",
+     "checks": "casas de Le Corbusier en la Weissenhofsiedlung dentro de la exposición del Werkbund; pérdida de diez de las 21 casas por la guerra y la posguerra; inscripción 2016",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Planet Wissen (WDR), «Weißenhof-Siedlung»",
+     "url": "https://www.planet-wissen.de/kultur/architektur/bauhaus/pwie-weissenhof-siedlung-100.html",
+     "checks": "21 casas con 63 viviendas, 17 arquitectos, obra de solo 21 semanas, el Werkbund la organizó bajo la dirección de Mies, burla de «aldea árabe», hormigón liviano, construcción en seco y esqueleto, restauración de las 11 casas 1981–87. ⚠ fuente secundaria (divulgación)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ETH Zürich, Cátedra Laurent Stalder, «Der Glasraum»",
+     "url": "https://stalder.arch.ethz.ch/en/research/focus-works/der-glasraum.html",
+     "checks": "la Sala de Vidrio, sala de exposición diseñada por Lilly Reich y Mies van der Rohe para la exposición del Werkbund en Stuttgart, 1927",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "torten-estate",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "estate",
+   "title": "Törten estate",
+   "designers": [
+    "gropius"
+   ],
+   "maker": null,
+   "client": "City of Dessau",
+   "year": 1926,
+   "date": "1926–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Slag-concrete blocks, reinforced concrete beams",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "A Dessau estate of 314 small row houses built by Gropius’s office in 1926–28 as a test of rationalised, factory-like construction.[1][2]",
+   "more": "Each house of 57 to 75 square metres had a large garden for growing food.[1][2] Building parts such as concrete blocks and beams were made partly on site, carried along a rail track and lifted by crane, in an attempt to organise building like factory production.[1][2][3] Technical problems and costs drew criticism;[1][2] later, under Hannes Meyer, the Bauhaus added blocks of flats with access balconies.[1][2]",
+   "where": [
+    {
+     "label": "Bauhaus Dessau Foundation: Törten estate",
+     "url": "https://bauhaus-dessau.de/en/venues/dessau-toerten-housing-estate/"
+    }
+   ],
+   "status": "Inhabited and protected as a monument; one house is open to visitors.",
+   "es": {
+    "title": "Barrio Törten",
+    "date": "1926–1928",
+    "materials": "Bloques de hormigón de escoria, vigas de hormigón armado",
+    "key": "Un barrio de Dessau de 314 casas pequeñas en hilera, construido por la oficina de Gropius en 1926–28 como prueba de una construcción racionalizada, al modo de una fábrica.[1][2]",
+    "more": "Cada casa de 57 a 75 metros cuadrados tenía un gran huerto para cultivar alimentos.[1][2] Piezas como bloques y vigas de hormigón se fabricaban en parte en la obra, se trasladaban por una vía férrea y se montaban con grúa, en un intento de organizar la construcción como una producción en fábrica.[1][2][3] Los problemas técnicos y los costos recibieron críticas;[1][2] más tarde, con Hannes Meyer, la Bauhaus agregó bloques de departamentos con corredores de acceso.[1][2]",
+    "status": "Habitado y protegido como monumento; una casa se puede visitar."
+   },
+   "refs": [
+    {
+     "label": "Stiftung Bauhaus Dessau, Siedlung Dessau-Törten",
+     "url": "https://bauhaus-dessau.de/en/venues/dessau-toerten-housing-estate/",
+     "checks": "314 casas en hilera en tres etapas, de 57 a 75 m², con huertos de 350–400 m²; bloques huecos prefabricados de hormigón de escoria; vigas de hormigón armado; piezas llevadas en un pequeño tren y colocadas con grúas; Gropius quería la producción en serie de viviendas; amoblado inicial caro, mala aislación; las casas con corredor de acceso de Hannes Meyer; monumento desde 1977; casas visitables.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Hans-Böckler-Stiftung, Magazin Mitbestimmung, «Prototyp für den sozialen Wohnungsbau»",
+     "url": "https://www.boeckler.de/de/magazin-mitbestimmung-2744-prototyp-fur-den-sozialen-wohnungsbau-60335.htm",
+     "checks": "314 casas; bloques de hormigón y escoria fabricados en parte en la obra; 57–75 m² y jardines de 350–400 m² para el autoabastecimiento; críticas (ventanas altas, mala aislación, costos de calefacción); casas con corredor de acceso de Hannes Meyer (1930). Da 1926–1930. ⚠ fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Denkmalpraxis Moderne, Siedlung Dessau-Törten, Kleinring 42",
+     "url": "https://denkmalpraxismoderne.de/siedlung-dessau-toerten-kleinring-42-dessau/",
+     "checks": "Muros portantes de bloques de hormigón de escoria y losas de vigas Rapid; Gropius y su oficina; etapas de 1927 (58 casas) y 1928 (100 casas).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "horseshoe-estate",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "estate",
+   "title": "Horseshoe Estate",
+   "designers": [
+    "bruno-taut"
+   ],
+   "maker": "GEHAG",
+   "client": "City of Berlin",
+   "year": 1925,
+   "date": "1925–1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Rendered masonry in strong colours",
+   "tech": [],
+   "key": "A large social housing estate in Berlin-Britz by Bruno Taut and Martin Wagner, built around a horseshoe-shaped block enclosing a garden and pond.[1][3]",
+   "more": "Built in phases from 1925 for the housing association GEHAG,[1] it combined about 1,285 flats in three-storey blocks with 679 terraced houses with gardens, and landscape design by Leberecht Migge.[1][3] Taut used colour on the façades, and the horseshoe made a communal space of the centre.[3] It sought to offer modern, affordable housing with light, air and sun, in contrast to the tenements of the time.[2]",
+   "where": [
+    {
+     "label": "UNESCO World Heritage: Berlin Modernism Housing Estates",
+     "url": "https://whc.unesco.org/en/list/1239"
+    }
+   ],
+   "status": "Inhabited; UNESCO World Heritage Site since 2008.",
+   "wiki": "Hufeisensiedlung",
+   "es": {
+    "title": "Colonia de la Herradura",
+    "date": "1925–1930",
+    "materials": "Albañilería estucada en colores intensos",
+    "key": "Un gran conjunto de vivienda social en Berlín-Britz de Bruno Taut y Martin Wagner, organizado en torno a un bloque en forma de herradura que rodea un jardín y un estanque.[1][3]",
+    "more": "Construido por etapas desde 1925 para la asociación de vivienda GEHAG,[1] combinó unos 1.285 departamentos en bloques de tres pisos con 679 casas en hilera con jardín, y un paisajismo de Leberecht Migge.[1][3] Taut usó el color en las fachadas, y la herradura hizo del centro un espacio común.[3] Buscó ofrecer vivienda moderna y asequible, con luz, aire y sol, frente a los conventillos de la época.[2]",
+    "status": "Habitada; Patrimonio Mundial de la UNESCO desde 2008.",
+    "short": "La Herradura"
+   },
+   "short": "Horseshoe Estate",
+   "refs": [
+    {
+     "label": "Landesdenkmalamt Berlin, Welterbe: Großsiedlung Britz",
+     "url": "https://www.berlin.de/landesdenkmalamt/welterbe/welterbestaetten/siedlungen-der-berliner-moderne/grosssiedlung-britz-654617.php",
+     "checks": "1925–1930; Bruno Taut y Martin Wagner; espacios abiertos de Leberecht Migge y Ottokar Wagler; 1.964 viviendas, 679 de ellas casas unifamiliares; bloques de tres pisos e hileras de dos pisos; la herradura en torno a un estanque glaciar; constructora GEHAG; Patrimonio Mundial 2008.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Landesdenkmalamt Berlin, «Die Hufeisensiedlung in Britz»",
+     "url": "https://www.berlin.de/landesdenkmalamt/aktivitaeten/artikel.1471070.php",
+     "checks": "Creada entre 1925 y 1930; Taut y Wagner; 1.964 viviendas, 679 casas; vivienda moderna y asequible con luz, aire y sol, frente a los conventillos de la época; Patrimonio Mundial 2008.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Welterbe Siedlungen der Berliner Moderne, Hufeisensiedlung Britz",
+     "url": "https://welterbe-siedlungen-berlin.de/hufeisensiedlung/",
+     "checks": "Construcción 1925–1931; 1.963 viviendas: 679 casas y 1.284 departamentos; Taut y Wagner; Migge y Wagler; loggias celestes y puertas en varios colores; estanque en el centro de la herradura; Patrimonio Mundial 2008.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "villa-savoye",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Villa Savoye",
+   "designers": [
+    "le-corbusier"
+   ],
+   "maker": null,
+   "client": "Savoye family",
+   "year": 1928,
+   "date": "1928–1931",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Reinforced concrete, render, steel windows",
+   "tech": [],
+   "key": "The weekend house at Poissy where Le Corbusier and Pierre Jeanneret put together his ‘five points’ of a new architecture.[1][3][5]",
+   "more": "Raised on thin pillars over a ground floor shaped by the turning circle of a car,[3][4] it has a free plan, a free façade, long ribbon windows and a roof garden reached by a ramp.[1][2][3] It shows the house as a machine for living in, and the car as the means of reaching it.[1][3][4] Leaks and damp troubled the family;[1][2][4] in 1958 the town planned to demolish it for a school,[1][4] and it was protected as a historic monument in 1965, during Le Corbusier’s lifetime.[1][3]",
+   "where": [
+    {
+     "label": "Centre des monuments nationaux: Villa Savoye",
+     "url": "https://www.villa-savoye.fr"
+    }
+   ],
+   "status": "Restored museum run by the Centre des monuments nationaux; UNESCO World Heritage Site since 2016.",
+   "wiki": "Villa_Savoye",
+   "es": {
+    "title": "Villa Savoye",
+    "date": "1928–1931",
+    "materials": "Hormigón armado, estuco, ventanas de acero",
+    "key": "La casa de fin de semana en Poissy donde Le Corbusier y Pierre Jeanneret reunieron sus «cinco puntos» de una arquitectura nueva.[1][3][5]",
+    "more": "Elevada sobre pilares delgados por encima de una planta baja trazada según el radio de giro de un auto,[3][4] tiene planta libre, fachada libre, largas ventanas corridas y una terraza jardín a la que se llega por una rampa.[1][2][3] Muestra la casa como máquina para habitar, y el auto como medio para llegar a ella.[1][3][4] Las filtraciones y la humedad molestaron a la familia;[1][2][4] en 1958 la ciudad planeó demolerla para construir un liceo,[1][4] y fue protegida como monumento histórico en 1965, en vida de Le Corbusier.[1][3]",
+    "status": "Museo restaurado a cargo del Centre des monuments nationaux; Patrimonio Mundial de la UNESCO desde 2016."
+   },
+   "refs": [
+    {
+     "label": "Centre des monuments nationaux, Villa Savoye: History of the villa Savoye",
+     "url": "https://www.villa-savoye.fr/en/discover/history-of-the-villa-savoye",
+     "checks": "encargo de Pierre y Eugénie Savoye a fines del verano de 1928, casa de fin de semana, Le Corbusier asistido por Pierre Jeanneret, los cinco puntos (pilotis, fachada libre, ventana corrida, planta libre, terraza jardín), integración del auto, filtraciones por lucarnas y rampa, compra por la ciudad de Poissy en 1958 para construir un liceo, monumento histórico en 1965, UNESCO 2016",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre des monuments nationaux, La villa Savoye",
+     "url": "https://www.monuments-nationaux.fr/conservation-et-recherche/patrimoine-bati/familles-de-monuments/les-villas-de-l-avant-garde-moderne/la-villa-savoye",
+     "checks": "estudios desde octubre de 1928, término en julio de 1931, cinco puntos, paseo en rampa hasta la terraza, fallas de impermeabilización, abandono en 1939, protección en 1965, restauración 1967",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre des monuments nationaux, Villa Savoye: dossier enseignant (PDF)",
+     "url": "https://www.villa-savoye.fr/var/cmn_inter/storage/original/application/732916bfe6d7658165f8fb64106f9ecc.pdf",
+     "checks": "construida entre 1928 y 1931, Pierre Jeanneret, villa de fin de semana, el auto circula alrededor de la planta baja sin maniobras, «machine à habiter», pilotis, ventana horizontal continua, terraza jardín, rampa, filtraciones («il pleut dans l’entrée»), monumento histórico en 1965, el primero en vida de su autor, hormigón armado",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "BnF, Les Essentiels: «La villa Savoye, une maison manifeste»",
+     "url": "https://passerelles.essentiels.bnf.fr/fr/article/9afda85f-58fc-4b5f-80d4-9166e9c994f2-villa-savoye-une-maison-manifeste",
+     "checks": "trazado según el ángulo de giro de un auto de la familia, «machine à habiter», grietas, filtraciones y humedad, demolición inminente en 1958 por el proyecto de liceo. ⚠ da 1964 como año de protección (las demás fuentes, 1965)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "UNESCO World Heritage Centre, The Architectural Work of Le Corbusier (1321)",
+     "url": "https://whc.unesco.org/en/list/1321/",
+     "checks": "los cinco puntos de una arquitectura nueva transcritos de forma icónica en la Villa Savoye; inscripción 2016",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ]
+  },
+  {
+   "id": "barcelona-pavilion",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Barcelona Pavilion",
+   "designers": [
+    "mies-van-der-rohe",
+    "lilly-reich"
+   ],
+   "maker": null,
+   "client": "German Reich",
+   "year": 1929,
+   "date": "1929",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "ES"
+   ],
+   "materials": "Onyx, marble, travertine, glass, chrome-plated steel columns",
+   "tech": [
+    "chrome-plating"
+   ],
+   "key": "Germany’s pavilion at the 1929 Barcelona exhibition, by Mies van der Rohe and Lilly Reich:[1][2] a flowing space of free-standing walls and precious stone.[1][3]",
+   "more": "Built in 1929 to represent Germany and to host the official reception of the King and Queen of Spain,[1][3] it has slender chrome-plated steel columns carrying the roof,[4] walls of onyx, marble and glass placed freely so that space flows between them, a pool of water and a bronze figure by Georg Kolbe.[1][3] Reich shared the artistic direction of the German section with Mies, and the design of the pavilion and its furniture.[1][2] Dismantled in 1930, it was rebuilt on its site in 1983–86.[1]",
+   "where": [
+    {
+     "label": "Fundació Mies van der Rohe, Barcelona",
+     "url": "https://miesbcn.com"
+    }
+   ],
+   "status": "Reconstructed in 1986; seat of the Fundació Mies van der Rohe.",
+   "wiki": "Barcelona_Pavilion",
+   "es": {
+    "title": "Pabellón de Barcelona",
+    "date": "1929",
+    "materials": "Ónix, mármol, travertino, vidrio, pilares de acero cromado",
+    "key": "El pabellón de Alemania en la exposición de Barcelona de 1929, de Mies van der Rohe y Lilly Reich:[1][2] un espacio fluido de muros sueltos y piedra preciosa.[1][3]",
+    "more": "Construido en 1929 para representar a Alemania y recibir la recepción oficial de los reyes de España,[1][3] tiene esbeltos pilares de acero cromado que sostienen el techo,[4] muros de ónix, mármol y vidrio dispuestos libremente para que el espacio fluya entre ellos, un estanque de agua y una figura de bronce de Georg Kolbe.[1][3] Reich compartió con Mies la dirección artística de la sección alemana, y el diseño del pabellón y de su mobiliario.[1][2] Desmontado en 1930, se reconstruyó en su sitio en 1983–86.[1]",
+    "status": "Reconstruido en 1986; sede de la Fundació Mies van der Rohe."
+   },
+   "refs": [
+    {
+     "label": "Fundació Mies van der Rohe, The Pavilion",
+     "url": "https://miesbcn.com/the-pavilion/",
+     "checks": "pabellón nacional alemán de la Exposición Internacional de Barcelona de 1929, diseñado por Mies van der Rohe y Lilly Reich; Reich compartió con Mies la dirección artística de la sección alemana; recepción oficial de Alfonso XIII y Victoria Eugenia; vidrio, acero, travertino, mármoles verdes y ónix dorado; estanque y escultura de bronce «Amanecer» de Georg Kolbe; desmontado en 1930; reconstruido desde 1983 (Solà-Morales, Cirici, Ramos) y abierto en 1986 en su sitio original. ⚠ no da el día de inauguración",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fundació Mies van der Rohe, nota de prensa «Lilly Reich in Barcelona» (PDF)",
+     "url": "https://miesbcn.com/wp-content/uploads/2025/11/ENG_Press-Release_Lilly-Reich-in-Barcelona.pdf",
+     "checks": "el pabellón fue diseñado por Mies y Reich; Mies aceptó el encargo con la condición de desarrollarlo con Reich; participación de Reich en la silla Barcelona",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Mies van der Rohe, German Pavilion (Interior perspective), c. 1928–29",
+     "url": "https://www.moma.org/collection/works/87528",
+     "checks": "representación de Alemania en la exposición de 1929, primera tras la Primera Guerra Mundial; superficies de mármol, cromo espejado, vidrio y ónix; espacio fluido; estanque y figura reclinada; demolido al terminar la feria",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Mies van der Rohe, Column Cover for the German Pavilion, 1928–29",
+     "url": "https://www.moma.org/collection/works/1007",
+     "checks": "revestimiento de pilar de acero cromado (301 × 16,5 × 16,5 cm). ⚠ la forma cruciforme no se confirma en el texto de la página",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ]
+  },
+  {
+   "id": "villa-tugendhat",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Villa Tugendhat",
+   "designers": [
+    "mies-van-der-rohe",
+    "lilly-reich"
+   ],
+   "maker": null,
+   "client": "Grete and Fritz Tugendhat",
+   "year": 1928,
+   "date": "1928–1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CZ"
+   ],
+   "materials": "Steel frame with cruciform columns, onyx wall, glass, chrome",
+   "tech": [
+    "chrome-plating"
+   ],
+   "key": "A family house in Brno by Mies van der Rohe and Lilly Reich, with a huge open living space, an onyx wall and windows that sink into the floor.[1][2][4]",
+   "more": "Built for Grete and Fritz Tugendhat,[1][2] it has a large open living space on a steel frame of cruciform columns,[3][4] a wall of Moroccan onyx supplied by the same Berlin firm as at the Barcelona Pavilion,[1][3] glass walls that could be lowered into the floor and early air conditioning.[1][4] Reich worked on the interiors, furniture and textiles,[6] and the Brno and Tugendhat chairs were designed for it.[1][5] The Jewish family fled in 1938, and from 1939 the house was seized by the Nazi state.[1][2]",
+   "where": [
+    {
+     "label": "Villa Tugendhat, Brno",
+     "url": "https://www.tugendhat.eu"
+    }
+   ],
+   "status": "Restored in 2010–12; museum; UNESCO World Heritage Site since 2001.",
+   "wiki": "Villa_Tugendhat",
+   "es": {
+    "title": "Villa Tugendhat",
+    "date": "1928–1930",
+    "materials": "Estructura de acero con pilares cruciformes, muro de ónix, vidrio, cromo",
+    "key": "Una casa familiar en Brno de Mies van der Rohe y Lilly Reich, con un enorme espacio de estar abierto, un muro de ónix y ventanales que se hunden en el piso.[1][2][4]",
+    "more": "Construida para Grete y Fritz Tugendhat,[1][2] tiene un gran estar abierto sobre una estructura de acero con pilares cruciformes,[3][4] un muro de ónix marroquí provisto por la misma firma berlinesa que en el Pabellón de Barcelona,[1][3] muros de vidrio que podían bajarse hasta el piso y un temprano aire acondicionado.[1][4] Reich trabajó en los interiores, el mobiliario y los textiles,[6] y las sillas Brno y Tugendhat se diseñaron para ella.[1][5] La familia, judía, huyó en 1938, y desde 1939 el Estado nazi se apropió de la casa.[1][2]",
+    "status": "Restaurada en 2010–12; museo; Patrimonio Mundial de la UNESCO desde 2001."
+   },
+   "refs": [
+    {
+     "label": "UNESCO World Heritage Centre, expediente de nominación 1052, Tugendhat Villa in Brno",
+     "url": "https://whc.unesco.org/uploads/nominations/1052.pdf",
+     "checks": "Encargo de Grete (Weiss, n. Löw-Beer) y Fritz Tugendhat tras su boda en 1928; mudanza en diciembre de 1930; Lilly Reich; muro de ónix provisto por la firma berlinesa Köstner & Gottschalk, «como en Barcelona»; ventanales de 3,10 × 4,80 m y mecanismo de apertura; silla Brno y sillón Tugendhat; emigración el 12 de mayo de 1938; el Estado alemán toma la casa el 4 de octubre de 1939.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Google Arts & Culture (Villa Tugendhat), «The Story of the Villa Tugendhat»",
+     "url": "https://artsandculture.google.com/story/the-story-of-the-villa-tugendhat-vila-tugendhat/xAWRNMN3VNwIoQ?hl=en",
+     "checks": "Mies visita el terreno en septiembre de 1928; obra desde 1929; permiso de habitación el 1-12-1930; Lilly Reich y Sergius Ruegenberg como colaboradores; la familia emigra a Suiza en 1938 por el nazismo; confiscación por la Gestapo desde 1939; UNESCO 2001; restauración 2010–2012. ⚠ No dice expresamente que la familia fuera judía.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Google Arts & Culture (Villa Tugendhat), «Materials»",
+     "url": "https://artsandculture.google.com/story/materials-vila-tugendhat/BQXhPKxvDVhX-Q?hl=en",
+     "checks": "Ónix del Atlas, Marruecos; pilares de acero en cruz (cuatro perfiles L remachados); silla Brno.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "GO TO BRNO (turismo oficial de Brno), Tugendhat Villa",
+     "url": "https://www.gotobrno.cz/en/place/tugendhat-villa/",
+     "checks": "Ónix del norte de Marruecos; primera casa privada de Checoslovaquia con estructura de acero y pilares de planta cruciforme; aire acondicionado y sistema de ventanales retráctiles en el subterráneo; construida 1929–1930; UNESCO desde 2001; restauración 2010–2012.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Mies van der Rohe, «Tugendhat Chair. Brno Chair. Two Chairs with Arms», c. 1930",
+     "url": "https://www.moma.org/collection/works/106467",
+     "checks": "Bocetos de las sillas Tugendhat y Brno, c. 1930, junto a la maqueta de la casa Tugendhat (1928–1930). ⚠ No dice expresamente que se diseñaran para la casa.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Frontiers of Architectural Research (ScienceDirect), «Lilly Reich: The architecture and critique of an invisibilized woman»",
+     "url": "https://www.sciencedirect.com/science/article/pii/S2095263522000607",
+     "checks": "Las casas, entre ellas la Tugendhat, se crearon en común con Reich, que no figuró como autora hasta casi los años noventa; Reich no fue reconocida por cortinas y alfombras. ⚠ No detalla su trabajo en interiores, muebles y textiles de esta casa.",
+     "date": "2026-10-03"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ]
+  },
+  {
+   "id": "rusakov-club",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Rusakov Workers’ Club",
+   "short": "Rusakov Club",
+   "designers": [
+    "melnikov"
+   ],
+   "maker": null,
+   "client": "Union of municipal workers",
+   "year": 1927,
+   "date": "1927–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Reinforced concrete, brick, glass",
+   "tech": [],
+   "key": "Melnikov’s workers’ club in Moscow, whose three cantilevered auditoriums project from the façade like a tensed muscle.[1][2]",
+   "more": "It was built for the union of municipal workers as a workers’ club.[1][2] It has a fan-shaped plan;[1] three blocks of seating cantilever out over the street and can be closed off to form separate halls, or opened into one auditorium of more than a thousand seats.[1][2] Melnikov built six workers’ clubs in these years, five of them in Moscow.[3]",
+   "where": [],
+   "status": "Renovated and reopened in 2016; used as a theatre.",
+   "wiki": "Rusakov_Workers'_Club",
+   "es": {
+    "title": "Club obrero Rusakov",
+    "short": "Club Rusakov",
+    "date": "1927–1928",
+    "materials": "Hormigón armado, ladrillo, vidrio",
+    "key": "El club obrero de Mélnikov en Moscú, cuyos tres auditorios en voladizo sobresalen de la fachada como un músculo tenso.[1][2]",
+    "more": "Se construyó como club obrero para el sindicato de trabajadores municipales.[1][2] Tiene una planta en abanico;[1] tres bloques de graderías vuelan sobre la calle y pueden cerrarse como salas separadas o abrirse en un solo auditorio de más de mil asientos.[1][2] Mélnikov construyó seis clubes obreros en esos años, cinco de ellos en Moscú.[3]",
+    "status": "Renovado y reabierto en 2016; se usa como teatro."
+   },
+   "refs": [
+    {
+     "label": "Archi.ru, «Реставрация клуба имени Русакова»",
+     "url": "https://archi.ru/russia/69283/restavraciya-kluba-imeni-rusakova",
+     "checks": "Club del Sindicato de trabajadores comunales (1927); planta en forma de sector (abanico); tres voladizos sobre la calle con las graderías del anfiteatro; capacidad variable de 250 a 1.500 personas; tres naves con dos niveles independientes de 180 personas cada uno. ⚠ fuente secundaria (revista de arquitectura).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Moskvich Mag, «Московский дом: Клуб Союза коммунальников имени Русакова»",
+     "url": "https://moskvichmag.ru/moskovskij-dom/moskovskij-dom-klub-soyuza-kommunalnikov-imeni-rusakova/",
+     "checks": "Arquitecto Mélnikov; 1927–1929; Sindicato de trabajadores comunales; voladizos de hormigón armado; capacidad de 250 a 1.300 espectadores; cada balcón podía separarse como sala de 180 personas. ⚠ fuente secundaria (revista).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museo Estatal de Arquitectura Shchúsev, exposición «Melnikov. 133» (architecture-exhibitions.com)",
+     "url": "https://www.architecture-exhibitions.com/en/shchusev-state-museum-of-architecture/%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-133",
+     "checks": "Mélnikov construyó 12 edificios, entre ellos 5 clubes en Moscú y uno fuera de la capital, en Dulyovo. ⚠ sitio que reproduce la información del museo.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "narkomfin-building",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Narkomfin Building",
+   "designers": [
+    "ginzburg"
+   ],
+   "maker": null,
+   "client": "People’s Commissariat of Finance",
+   "year": 1928,
+   "date": "1928–1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Reinforced concrete frame, pilotis, ribbon windows",
+   "tech": [],
+   "key": "Moisei Ginzburg and Ignaty Milinis’s Moscow apartment block[1] designed as a ‘social condenser’ for a transition to collective life.[2][3]",
+   "more": "Built in 1928–30 for employees of the People’s Commissariat of Finance,[1][4] it combined compact two-level flats[2] with a communal block for dining, a kindergarten, a laundry and a library,[1][2] so that residents would eat together and, its promoters argued, women would be freed from housework.[4] It stands on concrete pillars, with ribbon windows and a roof terrace;[2] Le Corbusier visited it soon after completion and took up its corridor plan in his post-war Unités d’habitation.[3] The Bauhaus’s Hinnerk Scheper designed the colours.[2] By the mid-1930s the communal block had stopped working, and under Stalin the collective idea was abandoned.[2][3][4]",
+   "where": [],
+   "status": "Restored in 2016–20 after decades of decay; residential and protected.",
+   "wiki": "Narkomfin_Building",
+   "es": {
+    "title": "Edificio Narkomfin",
+    "date": "1928–1930",
+    "materials": "Estructura de hormigón armado, pilotes, ventanas corridas",
+    "key": "El bloque de departamentos de Moiséi Guinzburg e Ignati Milinis en Moscú,[1] pensado como «condensador social» para una transición a la vida colectiva.[2][3]",
+    "more": "Construido en 1928–30 para funcionarios del Comisariado del Pueblo de Finanzas,[1][4] combinó departamentos compactos en dos niveles[2] con un bloque común de comedor, jardín infantil, lavandería y biblioteca,[1][2] para que los residentes comieran juntos y, según sus promotores, liberar a las mujeres del trabajo doméstico.[4] Se apoya en pilares de hormigón, con ventanas corridas y una terraza en la cubierta;[2] Le Corbusier lo visitó poco después de terminado y retomó su planta de corredores en sus Unités d’habitation de posguerra.[3] Hinnerk Scheper, de la Bauhaus, diseñó los colores.[2] A mediados de los años treinta el bloque común dejó de funcionar, y bajo Stalin se abandonó la idea colectiva.[2][3][4]",
+    "status": "Restaurado en 2016–20 tras décadas de deterioro; residencial y protegido."
+   },
+   "refs": [
+    {
+     "label": "Mos.ru (Gobierno de Moscú), «Findings and discoveries: restoration helps find new valuable architectural elements of Narkomfin Building»",
+     "url": "https://www.mos.ru/en/news/item/109794073/",
+     "checks": "construido en 1928–1930 por Moiséi Guinzburg e Ignati Milinis para los empleados del Comisariado del Pueblo de Finanzas; bloque comunal de cuatro pisos con jardín infantil abajo; los residentes debían comer en el comedor común; protegido desde 1987 como patrimonio de importancia regional; restauración 2017–2020",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Mos.ru (Gobierno de Moscú), «History of a building: Why Narkomfin Building was constructed»",
+     "url": "https://www.mos.ru/en/news/item/27562073/",
+     "checks": "Guinzburg y Milinis lo llamaron «edificio de transición»; todos los departamentos en dos niveles; pilares de hormigón, ventanas corridas, terraza en la cubierta; lavandería, secado, comedor y biblioteca de uso común; colores de Hinnerk Scheper, jefe del taller de pintura mural de la Bauhaus; a mediados de los años treinta el bloque comunal dejó de funcionar. ⚠ dice construido «en 1930» y que todas las unidades tenían cocina con fogón y lavaplatos",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Victor Buchli, «The Social Condenser», UCL Discovery (manuscrito aceptado)",
+     "url": "https://discovery.ucl.ac.uk/10047080/1/Buchli_Social_Condenser_AAM.pdf",
+     "checks": "el Narkomfin como «condensador social» arquetípico, pensado para la transición al socialismo; construido en 1929–30 por Guinzburg con Milinis; Le Corbusier lo visitó poco después de construido y retomó su planta de corredores en las Unités d’habitation; con el estalinismo pasó a ser una reliquia",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "New East Archive, «Saving Narkomfin»",
+     "url": "https://www.new-east-archive.org/features/show/12232/narkomfin-moscow-soviet-architecture-constructivism-communal-housing",
+     "checks": "1928–1930 para el Comisariado de Finanzas; comedor común y lavandería; objetivo de emancipación de la mujer; abandono del proyecto a mediados de los años treinta; restauración de verano de 2016 a julio de 2020. ⚠ fuente secundaria (prensa)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "dymaxion-house",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Dymaxion House",
+   "designers": [
+    "buckminster-fuller"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1929,
+   "date": "1927–1929",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Project: aluminium, steel cables, plastics around a central mast",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "Buckminster Fuller’s project for a light, factory-made house hung from a central mast, shown as a model in 1929.[4][5][6]",
+   "more": "Fuller developed the ‘4D house’ in 1927–28:[1][3][4] a hexagonal dwelling suspended by cables from a central mast,[5][6] to be mass-produced and sold like a car.[5][6] When a model was shown at the Marshall Field’s store in Chicago in 1929, the word ‘Dymaxion’ was coined for it.[3][4][5] It remained a project in this period; prototypes were built only in 1945–46 with an aircraft company in Wichita.[1][2][3][4]",
+   "where": [
+    {
+     "label": "The Henry Ford, Dearborn: Dymaxion House prototype",
+     "url": "https://www.thehenryford.org"
+    }
+   ],
+   "status": "A project; a later prototype of 1945–46 is shown at The Henry Ford museum.",
+   "wiki": "Dymaxion_house",
+   "es": {
+    "title": "Casa Dymaxion",
+    "date": "1927–1929",
+    "materials": "Proyecto: aluminio, cables de acero y plásticos en torno a un mástil central",
+    "key": "El proyecto de Buckminster Fuller de una casa liviana, hecha en fábrica y colgada de un mástil central, mostrado como maqueta en 1929.[4][5][6]",
+    "more": "Fuller desarrolló la «casa 4D» en 1927–28:[1][3][4] una vivienda hexagonal suspendida con cables de un mástil central,[5][6] para fabricarse en serie y venderse como un auto.[5][6] Cuando se mostró una maqueta en la tienda Marshall Field’s de Chicago en 1929, se acuñó para ella la palabra Dymaxion.[3][4][5] En este período quedó como proyecto; los prototipos se construyeron recién en 1945–46 con una empresa aeronáutica de Wichita.[1][2][3][4]",
+    "status": "Un proyecto; un prototipo posterior, de 1945–46, se exhibe en el museo The Henry Ford."
+   },
+   "refs": [
+    {
+     "label": "The Henry Ford, blog «The Dymaxion House: A New Way of Living»",
+     "url": "https://www.thehenryford.org/explore/blog/the-dymaxion-house-a-new-way-of-living",
+     "checks": "Fuller concibió la casa en 1927; prototipos con Beech Aircraft en Wichita (Kansas) en 1945; colgada de un mástil «como un paraguas»; aluminio, acero y plástico; solo una se habitó.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Henry Ford, Digital Collections, Dymaxion House (objeto 1012)",
+     "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/1012",
+     "checks": "Prototipo de 1946 hecho por Beech Aircraft Corporation, Wichita; aluminio, acero, plástico; 36 pies de diámetro.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Historic Preservation Education Foundation, «Preserving a Prototype: Buckminster Fuller’s Dymaxion House»",
+     "url": "https://www.hpef.us/publications/preserving-the-recent-past-publications/preserving-a-prototype",
+     "checks": "«4D House of 1928»; Waldo Warren, publicista de Marshall Field’s, combinó dynamic, maximum y tension en «Dymaxion»; dos prototipos de fines de 1945 y comienzos de 1946 en Beech Aircraft, Wichita.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Docomomo US, «Flashback: Rediscovering a Dwelling Machine»",
+     "url": "https://docomomo-us.org/news/flashback-rediscovering-a-dwelling-machine",
+     "checks": "Ideas de 1927 publicadas en «4D Time Lock», patente pedida en 1928; edificio suspendido de un mástil central; pensado para transportarse, montarse y desmontarse; nombre Dymaxion de 1929; dos prototipos (octubre de 1945 y marzo de 1946) en Kansas.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Politecnico di Milano, Atlas of Interiors, «Buckminster Fuller, Dymaxion House, 1927»",
+     "url": "https://www.atlasofinteriors.polimi.it/2014/03/19/buckminster-fuller-dimaxyon-house-1927/",
+     "checks": "Diseño hexagonal suspendido de un mástil central, con tirantes que sostienen el techo; mostrada al público en 1929 en la tienda Marshall Field’s de Chicago, anunciando que se produciría en cadena.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Buckminster Fuller Institute, Dymaxion House",
+     "url": "https://www.bfi.org/about-fuller/big-ideas/dymaxion-house/",
+     "checks": "Concebida a fines de los años veinte, construida recién en 1945–46 (Wichita House); suspensión por tracción desde un mástil central; casas fabricadas en serie y vendidas como autos. ⚠ No menciona que el mástil llevara las instalaciones.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "rivera-kahlo-studio",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Rivera and Kahlo studio-houses",
+   "short": "Rivera–Kahlo studios",
+   "designers": [
+    "juan-ogorman"
+   ],
+   "maker": null,
+   "client": "Diego Rivera and Frida Kahlo",
+   "year": 1931,
+   "date": "1931–1932",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Reinforced concrete, exposed installations, painted walls",
+   "tech": [],
+   "key": "Two functionalist house-studios in San Ángel, Mexico City, built by Juan O’Gorman for the painters Diego Rivera and Frida Kahlo.[1][2][3]",
+   "more": "O’Gorman, who had built a house for his father nearby in 1929,[2] designed a larger studio for Rivera and a smaller one for Kahlo, linked by a bridge at roof level,[1][4][5] with exposed concrete structure and installations, large studio windows and strong colours.[3][4][5] Rivera and Kahlo moved in in 1934.[1][3] The buildings brought European functionalism to Mexico, adapted to local means.[2][3]",
+   "where": [
+    {
+     "label": "Museo Casa Estudio Diego Rivera y Frida Kahlo, INBAL",
+     "url": "https://inba.gob.mx/recinto/51"
+    }
+   ],
+   "status": "Museum of the Instituto Nacional de Bellas Artes, open since 1986.",
+   "es": {
+    "title": "Casas estudio Rivera y Kahlo",
+    "short": "Estudios Rivera–Kahlo",
+    "date": "1931–1932",
+    "materials": "Hormigón armado, instalaciones a la vista, muros pintados",
+    "key": "Dos casas-estudio funcionalistas en San Ángel, Ciudad de México, construidas por Juan O’Gorman para los pintores Diego Rivera y Frida Kahlo.[1][2][3]",
+    "more": "O’Gorman, que en 1929 había construido cerca una casa para su padre,[2] diseñó un estudio más grande para Rivera y otro más pequeño para Kahlo, unidos por un puente a la altura de la azotea,[1][4][5] con la estructura de hormigón y las instalaciones a la vista, grandes ventanales de taller y colores intensos.[3][4][5] Rivera y Kahlo se instalaron allí en 1934.[1][3] Los edificios llevaron el funcionalismo europeo a México, adaptado a los medios locales.[2][3]",
+    "status": "Museo del Instituto Nacional de Bellas Artes, abierto desde 1986."
+   },
+   "refs": [
+    {
+     "label": "INBAL, boletín «El Museo Casa Estudio Diego Rivera y Frida Kahlo celebra 36 años de existencia»",
+     "url": "https://inba.gob.mx/prensa/13543/el-museo-casa-estudio-diego-rivera-y-frida-kahlo-celebra-36-anos-de-existencia",
+     "checks": "O’Gorman proyectó y construyó las casas entre 1931 y 1932, tras su primera casa funcionalista de 1929; unidas por un puente que conecta las terrazas; la pareja las habitó desde 1934, al volver de Estados Unidos; museo abierto el 16 de diciembre de 1986; Patrimonio Artístico de la Nación en 1998.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "INBAL, boletín 693 «Se cumplen 90 años de la primera casa funcionalista en México» (PDF)",
+     "url": "https://inba.gob.mx/multimedia/prensa/galerias/12234/12234-bol.693_se_cumplen_90_anos_de_la_primera_casa_funcionalista_en_mexico.pdf",
+     "checks": "Primera casa funcionalista, construida por Juan O’Gorman para su padre Cecil Crawford O’Gorman en 1929, junto a las casas de Rivera y Kahlo en San Ángel; inspiración en Le Corbusier; máximo aprovechamiento de los recursos económicos.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Google Arts & Culture (Museo Casa Estudio Diego Rivera y Frida Kahlo), «Functionalist architecture»",
+     "url": "https://artsandculture.google.com/story/diego-rivera-and-frida-kahlo-house-studio-museum-functionalist-architecture-museo-casa-estudio-diego-rivera-and-frida-kahlo/4gUhHTDPJ4ciKQ?hl=en",
+     "checks": "Casa de Rivera terminada en 1932; pilotes, desagües a la vista, taller de doble altura con techo en diente de sierra; puente entre las terrazas; regreso de la pareja en 1934; funcionalismo de Le Corbusier («mínimo gasto, mínimo esfuerzo»); museo abierto en 1986.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Expansión Obras, «Cuando tu casa habla de tu relación: la casa-estudio Diego Rivera y Frida Kahlo»",
+     "url": "https://obras.expansion.mx/arquitectura/2024/02/14/casa-estudio-diego-rivera-frida-kahlo",
+     "checks": "Casa de Rivera más grande, la de Kahlo mínima; puente elevado; instalaciones eléctricas y desagües a la vista; grandes ventanales; 1931–1932. ⚠ fuente secundaria (revista).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ciudad de México, turismo oficial: Museo Casa Estudio Diego Rivera & Frida Kahlo",
+     "url": "https://mexicocity.cdmx.gob.mx/venues/museo-casa-estudio-diego-rivera-y-frida-kahlo/?lang=en",
+     "checks": "Obra iniciada en 1931 y terminada al año siguiente; una casa roja y blanca y otra azul; unidas por un pequeño puente en el piso alto; uno de los primeros edificios funcionalistas de América Latina; museo desde 1986.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "casa-modernista",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Casa Modernista",
+   "designers": [
+    "warchavchik"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1927,
+   "date": "1927–1928",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Brick rendered to imitate reinforced concrete; clay-tile roof hidden behind a parapet",
+   "tech": [],
+   "key": "Gregori Warchavchik’s own house on rua Santa Cruz in São Paulo, considered the first modernist house in Brazil.[1][3][5]",
+   "more": "Designed in 1927 and built in 1928 for himself and his wife Mina Klabin,[1] it had plain cubic volumes and furniture he designed himself;[2][3] its seemingly flat roof was in fact a clay-tile roof hidden behind a parapet.[3][4] Mina Klabin laid out the garden with tropical plants such as cacti, a pioneering use of these species.[1][2] The house linked the architecture of São Paulo to the modernism announced at the 1922 Modern Art Week.[1]",
+   "where": [
+    {
+     "label": "Museu da Cidade de São Paulo: Casa Modernista",
+     "url": "https://www.museudacidade.prefeitura.sp.gov.br/sobre-mcsp/casa-modernista/"
+    }
+   ],
+   "status": "Protected since 1984; part of the Museu da Cidade de São Paulo.",
+   "es": {
+    "title": "Casa Modernista",
+    "date": "1927–1928",
+    "materials": "Ladrillo estucado para imitar hormigón armado; techo de tejas de arcilla oculto tras un parapeto",
+    "key": "La casa propia de Gregori Warchavchik en la rua Santa Cruz de São Paulo, considerada la primera casa modernista de Brasil.[1][3][5]",
+    "more": "Proyectada en 1927 y construida en 1928 para él y su esposa Mina Klabin,[1] tenía volúmenes cúbicos simples y muebles diseñados por él mismo;[2][3] su techo, aparentemente plano, era en realidad de tejas de arcilla oculto tras un parapeto.[3][4] Mina Klabin trazó el jardín con plantas tropicales como cactus, un uso pionero de estas especies.[1][2] La casa unió la arquitectura de São Paulo al modernismo anunciado en la Semana de Arte Moderno de 1922.[1]",
+    "status": "Protegida desde 1984; parte del Museu da Cidade de São Paulo."
+   },
+   "refs": [
+    {
+     "label": "Ibram, plataforma Visite Museus: Museu da Cidade de São Paulo – Casa Modernista",
+     "url": "https://visite.museus.gov.br/instituicoes/museu-da-cidade-de-sao-paulo-casa-modernista/",
+     "checks": "Proyectada en 1927 y construida en 1928 por Gregori Warchavchik para él y su esposa Mina Klabin; contexto de la Semana de 1922 y del manifiesto de 1925; jardín de Mina Klabin por el uso pionero de especies tropicales; Condephaat la protegió en 1984, luego Iphan y Conpresp.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Prefeitura de São Paulo, SVMA, «Parque Casa Modernista completa 14 anos»",
+     "url": "https://prefeitura.sp.gov.br/web/meio_ambiente/w/noticias/325426",
+     "checks": "Primera Casa Modernista de Brasil; volúmenes prismáticos blancos de líneas rectas; Mina Klabin se encargó del jardín con especies tropicales como cactos, orquídeas y suculentas; protegida por Condephaat, Iphan y Conpresp.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Itaú Cultural, Enciclopédia: Gregori Warchavchik",
+     "url": "https://enciclopedia.itaucultural.org.br/pessoas/12954-gregori-warchavchik",
+     "checks": "Casa de la rua Santa Cruz (1928), primer ejemplo de arquitectura moderna en Brasil; diseño de terminaciones y mobiliario; construida en ladrillo, revestida para simular hormigón armado y cubierta con tejas de arcilla ocultas tras un parapeto.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ipatrimônio, São Paulo – Casas modernistas de Gregori Warchavchik",
+     "url": "https://www.ipatrimonio.org/?p=714",
+     "checks": "La casa de la rua Santa Cruz usó el techo escondido por un parapeto en vez de la losa plana. ⚠ fuente secundaria (base de datos de patrimonio).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Prefeitura de São Paulo, SVMA, Parque Casa Modernista",
+     "url": "https://prefeitura.sp.gov.br/web/meio_ambiente/w/parques/regiao_sul/23886",
+     "checks": "Proyecto de Warchavchik para su familia, construida en 1928; jardín histórico según el proyecto de Mina Klabin; «la primera obra de arquitectura moderna implantada en Brasil»; protegida por Condephaat, Iphan y Conpresp; Rua Santa Cruz 325.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "spanish-republic-pavilion",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Spanish Republic Pavilion",
+   "short": "Spanish Pavilion",
+   "designers": [
+    "sert"
+   ],
+   "maker": "Luis Lacasa",
+   "client": "Government of the Spanish Republic",
+   "year": 1937,
+   "date": "1937",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES",
+    "FR"
+   ],
+   "materials": "Light structure with many prefabricated parts (chipboard and synthetic panels), canvas over the patio",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "The pavilion of the Spanish Republic at war, by Josep Lluís Sert and Luis Lacasa, at the 1937 Paris exhibition,[1][4] where Picasso’s Guernica was first shown.[1][3]",
+   "more": "Opened on 12 July 1937,[1] it was a light, quickly built structure with many prefabricated parts, of three floors around a patio covered with canvas,[1][2] designed to show art and propaganda:[1] Picasso’s Guernica, Alexander Calder’s Mercury Fountain, a mural by Joan Miró, sculptures by Julio González and Alberto Sánchez, photomontages and posters.[1][3][4] Modern architecture became the Republic’s argument to the world. It was demolished after the exhibition;[1] a replica was built in Barcelona in 1992.[1][2]",
+   "where": [
+    {
+     "label": "Museo Reina Sofía, Madrid: the 1937 pavilion",
+     "url": "https://guernica.museoreinasofia.es/en/story/endurance-pavilion-1937"
+    }
+   ],
+   "status": "Dismantled after the exhibition (1937–1938); a full-size replica in Barcelona, built in 1992, is now a university library.",
+   "es": {
+    "title": "Pabellón de la República Española",
+    "short": "Pabellón español",
+    "date": "1937",
+    "materials": "Estructura liviana con muchas piezas prefabricadas (paneles aglomerados o sintéticos), lona sobre el patio",
+    "key": "El pabellón de la República española en guerra, de Josep Lluís Sert y Luis Lacasa, en la exposición de París de 1937,[1][4] donde se mostró por primera vez el Guernica de Picasso.[1][3]",
+    "more": "Inaugurado el 12 de julio de 1937,[1] era una estructura liviana y de rápida construcción, con muchas piezas prefabricadas, de tres pisos en torno a un patio cubierto con lona,[1][2] pensada para mostrar arte y propaganda:[1] el Guernica de Picasso, la Fuente de mercurio de Alexander Calder, un mural de Joan Miró, esculturas de Julio González y Alberto Sánchez, fotomontajes y carteles.[1][3][4] La arquitectura moderna se volvió el argumento de la República ante el mundo. Se demolió tras la exposición;[1] en 1992 se construyó una réplica en Barcelona.[1][2]",
+    "status": "Desmontado al cerrar la exposición (1937–1938); una réplica a tamaño real en Barcelona, construida en 1992, es hoy una biblioteca universitaria."
+   },
+   "refs": [
+    {
+     "label": "Universitat de Barcelona, CRAI Biblioteca del Pavelló de la República: «L’edifici del Pavelló de la República» (exposición virtual)",
+     "url": "https://crai.ub.edu/ca/coneix-el-crai/biblioteques/biblioteca-pavello-republica/exposicio-virtual-edifici-pavello-de-la-republica",
+     "checks": "Sert y Lacasa; inauguración el 12 de julio de 1937; construcción rápida con muchos materiales prefabricados (paneles aglomerados o sintéticos); tres plantas; patio de planta baja cubierto con lona; finalidad cultural y de propaganda; Guernica, Fuente de mercurio de Calder, «El pagès català» de Miró, Alberto Sánchez, Julio González, fotomontajes, carteles y fotografías; destruido al terminar la exposición de 1937; réplica para Barcelona 92; hoy biblioteca de la UB (desde 1994). ⚠ No menciona estructura de acero.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ajuntament de Barcelona, Setmanes d’Arquitectura: «The Pavilion of the Spanish Republic»",
+     "url": "https://www.barcelona.cat/setmanesarquitectura/en/activities/pavilion-spanish-republic",
+     "checks": "Sert y Lacasa, Exposición de París 1937; contenedor de unos 1.400 m², casi sin muros y de tres pisos; patio cubierto con lona móvil; obras de Picasso, Calder, González y Alberto Sánchez en la planta baja; reconstrucción en Vall d’Hebron para los Juegos de 1992; hoy biblioteca de la Universidad de Barcelona.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museu Nacional d’Art de Catalunya: «El Pabellón de la República Española en París»",
+     "url": "https://www.museunacional.cat/es/el-pabellon-de-la-republica-espanola-en-paris",
+     "checks": "Sert y Lacasa; inauguración en julio de 1937; Guernica, Montserrat de González, Fuente de mercurio de Calder, «Payés catalán en rebeldía» de Miró. Dice que el pabellón se desmontó en 1938.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museo Reina Sofía, Maqueta del Pabellón de España en la Exposición Internacional de París de 1937",
+     "url": "https://www.museoreinasofia.es/colecciones/obra/maqueta-del-pabellon-de-espana-en-la-exposicion-internacional-de-paris-de-1937/",
+     "checks": "Proyecto encargado a Luis Lacasa, al que se sumó Sert; arquitectura racionalista en torno a un patio; obras de Alberto Sánchez, Julio González, Picasso y Calder (Fuente de mercurio) junto al Guernica.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "existenzminimum-exhibition",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "The Minimum Dwelling",
+   "short": "Existenzminimum",
+   "designers": [
+    "ernst-may"
+   ],
+   "maker": "inst-neues-frankfurt",
+   "client": "CIAM",
+   "year": 1929,
+   "date": "1929",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Exhibition of plans; book published in 1930",
+   "tech": [],
+   "key": "The exhibition of the second CIAM congress, Frankfurt 1929,[1][2] which compared about a hundred panels of minimum-dwelling plans from many countries, all at the same scale.[1][2]",
+   "more": "Organised largely by Ernst May and held on 24–26 October 1929,[2] the congress debated the minimum dwelling for low-income families.[1] Plans of low-cost flats were shown in one format and scale so that they could be compared,[1][2] then exhibited in Frankfurt and other European cities,[2] and published in the book Die Wohnung für das Existenzminimum (1930).[2] It turned social housing into a shared research problem for modern architects.",
+   "where": [],
+   "status": "Documented in the 1930 book and in archives; the exhibition no longer exists.",
+   "es": {
+    "title": "La vivienda mínima",
+    "short": "Existenzminimum",
+    "date": "1929",
+    "materials": "Exposición de planos; libro publicado en 1930",
+    "key": "La exposición del segundo congreso CIAM, Frankfurt 1929,[1][2] que comparó a la misma escala unos cien paneles con planos de viviendas mínimas de muchos países.[1][2]",
+    "more": "Organizado en gran parte por Ernst May y celebrado del 24 al 26 de octubre de 1929,[2] el congreso debatió la vivienda mínima para familias de bajos ingresos.[1] Los planos de departamentos económicos se presentaron en un mismo formato y escala para poder compararlos,[1][2] se mostraron en Frankfurt y otras ciudades europeas[2] y se publicaron en el libro Die Wohnung für das Existenzminimum (1930).[2] Convirtió la vivienda social en un problema de investigación compartido por los arquitectos modernos.",
+    "status": "Documentada en el libro de 1930 y en archivos; la exposición ya no existe."
+   },
+   "refs": [
+    {
+     "label": "MoMA, Hans Leistikow, Die Wohnung für das Existenzminimum (cartel, 1929), 290.1980",
+     "url": "https://www.moma.org/collection/works/6107",
+     "checks": "Congreso CIAM de 1929 en Frankfurt con el tema de la vivienda mínima; exposición de planos enviados por delegados de muchos países, todos dibujados a la misma escala; plano de Ernst May para Praunheim como ejemplo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Helen Barr, «Frankfurt 1929: Der Kongress tagt», en Neues Wohnen 1929/2009 (2011), PDF en Deutsche Nationalbibliothek",
+     "url": "https://d-nb.info/1212593995/34",
+     "checks": "Fechas del congreso (24–26 de octubre de 1929); May como organizador principal; unos cien paneles con proyectos de viviendas mínimas, anónimos y en formato y escala uniformes; 40 % de Alemania; itinerancia por otras ciudades europeas (Basilea, Zúrich, Varsovia, Stuttgart, Múnich, París…); publicación de 1930. ⚠ Leído a través de un resumen automático; ⚠ la escala «1:10» que aparece en el resumen parece un error y no se usa. ⚠ No dice nada sobre «luz, aire e intimidad».",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "holden-stations",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "infrastructure",
+   "title": "Holden’s Underground stations",
+   "short": "Holden stations",
+   "designers": [],
+   "maker": "Charles Holden",
+   "client": "Underground Electric Railways of London",
+   "year": 1930,
+   "date": "1930–1933",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Brick, reinforced concrete, glass",
+   "tech": [],
+   "key": "The modern stations Charles Holden designed for the Piccadilly line extensions,[1][4] simple brick and glass boxes and drums that gave the Underground a recognisable architecture.[1][2]",
+   "more": "In 1930 Frank Pick and Holden toured northern Germany, the Netherlands, Denmark and Sweden to study modern architecture.[3] Holden then designed stations such as Sudbury Town (1931) and Arnos Grove (1932)[1][2] as clear geometric volumes, a tall box or a drum, lit by large windows[1][2] and fitted with Johnston lettering and roundels:[1][4] architecture as part of a total corporate design.[4]",
+   "where": [
+    {
+     "label": "London Transport Museum",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online"
+    }
+   ],
+   "status": "Still in service; several are listed buildings.",
+   "wiki": "Arnos_Grove_tube_station",
+   "es": {
+    "title": "Estaciones de Holden",
+    "short": "Estaciones de Holden",
+    "date": "1930–1933",
+    "materials": "Ladrillo, hormigón armado, vidrio",
+    "key": "Las estaciones modernas que Charles Holden diseñó para las extensiones de la línea Piccadilly,[1][4] cajas y tambores simples de ladrillo y vidrio que dieron al metro una arquitectura reconocible.[1][2]",
+    "more": "En 1930 Frank Pick y Holden recorrieron el norte de Alemania, los Países Bajos, Dinamarca y Suecia para estudiar la arquitectura moderna.[3] Holden diseñó luego estaciones como Sudbury Town (1931) y Arnos Grove (1932)[1][2] como volúmenes geométricos claros, una caja alta o un tambor, iluminados por grandes ventanales[1][2] y equipados con letras Johnston y logotipos circulares:[1][4] arquitectura como parte de un diseño corporativo total.[4]",
+    "status": "Siguen en servicio; varias son edificios protegidos."
+   },
+   "refs": [
+    {
+     "label": "Historic England, Sudbury Town Underground Station, List Entry 1294594",
+     "url": "https://historicengland.org.uk/listing/the-list/list-entry/1294594",
+     "checks": "Grado II*; 1930–31; Charles Holden (Adams, Holden & Pearson); ladrillo, losas de hormigón, ventanales Crittall; sala de boletos rectangular alta con grandes paños de vidrio («Sudbury box»); prototipo para las estaciones de la extensión de la línea Piccadilly; influencia del viaje de Pick y Holden por el continente en el verano de 1930; roundels originales en las ventanas.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "British Listed Buildings (texto de la lista de Historic England), Arnos Grove Underground Station",
+     "url": "https://britishlistedbuildings.co.uk/101358981-arnos-grove-underground-station-southgate-green-ward",
+     "checks": "Grado II*; 1932; Charles Holden; estructura de hormigón armado revestida de ladrillo; sala de boletos cilíndrica (tambor) sobre base cuadrada; extensión norte de la línea Piccadilly (apertura 19 de septiembre de 1932); visita de Pick y Holden a la biblioteca de Estocolmo en 1930. ⚠ Espejo no oficial del texto de Historic England.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "London Transport Museum, fotografías del viaje de estudio de arquitectura por el norte de Europa de Frank Pick, Charles Holden y William Edwards, 1930 (2008/1452)",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/photographs/item/2008-1452",
+     "checks": "Viaje de estudio de arquitectura de Pick, Holden y Edwards por Suecia, Dinamarca, Holanda y el norte de Alemania, 20 de junio a 7 de julio de 1930.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "London Transport Museum, Frank C. Pick, 1878–1941",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/people/item/2001-26251",
+     "checks": "Pick encargó la tipografía Johnston (1913–1916) y el roundel (1916); planificó la extensión norte de la línea Piccadilly y, tras el viaje de 1930, supervisó ocho estaciones nuevas de influencia moderna; principio de «fitness for purpose». ⚠ Los mapas no se mencionan.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "esprit-nouveau-pavilion",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Esprit Nouveau Pavilion",
+   "designers": [
+    "le-corbusier"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Reinforced concrete and standard building parts; mass-produced furniture",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "Le Corbusier and Pierre Jeanneret’s pavilion at the 1925 Paris exhibition: a standard flat furnished with industrial objects, against the decorative arts.[1]",
+   "more": "It presented a two-storey, L-shaped cell of his ‘villa apartments’, with a terrace garden through which a tree grew,[1][2] furnished with a bentwood armchair,[3] standard storage units and mass-produced objects instead of luxury pieces.[1] A diorama presented his projects for urban reform and low-cost housing.[1][2] The organisers partly hid it behind a fence, which, after Le Corbusier appealed, the Ministry of Fine Arts ordered removed.[1] It was demolished in 1926,[1] and a replica was built in Bologna in 1977.[1][2]",
+   "where": [
+    {
+     "label": "Fondation Le Corbusier",
+     "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-esprit-nouveau-pavilion-paris-france-1924-1925/"
+    }
+   ],
+   "status": "Demolished in 1926; a replica stands in Bologna.",
+   "wiki": "Pavillon_de_l'Esprit_Nouveau",
+   "es": {
+    "title": "Pabellón del Esprit Nouveau",
+    "date": "1925",
+    "materials": "Hormigón armado y piezas de construcción estándar; muebles de serie",
+    "key": "El pabellón de Le Corbusier y Pierre Jeanneret en la exposición de París de 1925: un departamento estándar amoblado con objetos industriales, contra las artes decorativas.[1]",
+    "more": "Presentaba una célula en L de dos pisos de sus «inmuebles-villa», con una terraza jardín atravesada por un árbol,[1][2] amoblada con un sillón de madera curvada,[3] muebles de guardado estándar y objetos de serie en lugar de piezas de lujo.[1] Un diorama presentaba sus proyectos de reforma urbana y de vivienda económica.[1][2] Los organizadores lo ocultaron en parte detrás de una valla, que, tras una apelación de Le Corbusier, el Ministerio de Bellas Artes ordenó retirar.[1] Se demolió en 1926,[1] y en 1977 se construyó una réplica en Bolonia.[1][2]",
+    "status": "Demolido en 1926; hay una réplica en Bolonia.",
+    "short": "Esprit Nouveau"
+   },
+   "short": "Esprit Nouveau",
+   "refs": [
+    {
+     "label": "Fondation Le Corbusier, Pavillon de l’Esprit Nouveau, París, 1924–1925",
+     "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-esprit-nouveau-pavilion-paris-france-1924-1925/",
+     "checks": "Con Pierre Jeanneret; célula de vivienda en L desarrollada desde 1922 para los Immeubles-Villas, en dos pisos con doble altura; árbol que sale por el techo; casiers standard de madera y muebles de serie en vez de piezas de lujo; un diorama para sus proyectos de reforma urbana y vivienda económica (revisor independiente: no nombra la Ville Contemporaine ni el Plan Voisin); los organizadores levantaron una valla que lo ocultaba en parte y el Ministerio de Bellas Artes ordenó quitarla; demolido en 1926; réplica en Bolonia en 1977. ⚠ No menciona sillas Thonet ni hormigón armado.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ministero della Cultura, Censimento delle architetture italiane dal 1945: Ricostruzione del Padiglione dell’Esprit Nouveau",
+     "url": "https://censimentoarchitetturecontemporanee.cultura.gov.it/scheda-opera?id=796",
+     "checks": "Reconstrucción en Bolonia en 1977 (Giuliano Gresleri y José Oubrerie); núcleo de vivienda de doble altura ligado a un jardín; volumen curvo del diorama para exposiciones.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "J. A. Vives Chillida, «Le Corbusier y el mueble de madera curvada: Thonet y Kohn», Res Mobilis 11 (14), 2022, pp. 115–144",
+     "url": "https://reunido.uniovi.es/index.php/RM/article/view/16372",
+     "checks": "Estudia el sillón de escritorio de madera curvada del Pabellón de l’Esprit Nouveau (1925). ⚠ Solo se leyó el resumen; no confirma que fuera de Thonet (pudo ser de Kohn).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "adgb-school-bernau",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "ADGB Trade Union School",
+   "designers": [
+    "hannes-meyer"
+   ],
+   "maker": null,
+   "client": "Allgemeiner Deutscher Gewerkschaftsbund (ADGB)",
+   "year": 1928,
+   "date": "1928–1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Yellow brick, reinforced concrete, steel and glass",
+   "tech": [],
+   "key": "The training school of the German trade union federation, designed by Hannes Meyer and Hans Wittwer as a building organised around how its 120 students would live and learn together.[1]",
+   "more": "Meyer won the 1928 competition with Hans Wittwer[1] and built the school while he directed the Bauhaus,[4] with students of its building department;[1][3] it opened on 4 May 1930.[1][2][4] Students lived in groups of ten, two per room,[1] in staggered wings that follow the slope, joined by a long glazed corridor;[1][4] concrete, steel and glass were left exposed.[3] In 1933 the Nazis dissolved the trade unions and took over the building.[1][2] Restored, it has been part of the Bauhaus World Heritage Site since 2017.[2][3]",
+   "where": [
+    {
+     "label": "Bauhaus Denkmal Bundesschule Bernau",
+     "url": "https://www.bauhaus-denkmal-bernau.de/en/bundesschule.html"
+    },
+    {
+     "label": "UNESCO World Heritage: Bauhaus and its sites",
+     "url": "https://whc.unesco.org/en/list/729"
+    }
+   ],
+   "status": "Restored; training centre and monument open for guided visits; UNESCO World Heritage since 2017.",
+   "wiki": "ADGB_Trade_Union_School",
+   "es": {
+    "title": "Escuela sindical de la ADGB",
+    "date": "1928–1930",
+    "materials": "Ladrillo amarillo, hormigón armado, acero y vidrio",
+    "key": "La escuela de formación de la federación sindical alemana, diseñada por Hannes Meyer y Hans Wittwer como un edificio organizado según cómo sus 120 estudiantes iban a vivir y aprender juntos.[1]",
+    "more": "Meyer ganó el concurso de 1928 con Hans Wittwer[1] y construyó la escuela mientras dirigía la Bauhaus,[4] con estudiantes de su departamento de construcción;[1][3] se inauguró el 4 de mayo de 1930.[1][2][4] Los estudiantes vivían en grupos de diez, dos por habitación,[1] en alas escalonadas que siguen la pendiente, unidas por un largo corredor vidriado;[1][4] el hormigón, el acero y el vidrio quedaron a la vista.[3] En 1933 el nazismo disolvió los sindicatos y se apropió del edificio.[1][2] Restaurada, forma parte del Patrimonio Mundial de la Bauhaus desde 2017.[2][3]",
+    "status": "Restaurada; centro de formación y monumento con visitas guiadas; Patrimonio Mundial de la UNESCO desde 2017.",
+    "short": "Escuela ADGB"
+   },
+   "short": "ADGB School",
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, ADGB Trade Union School, Bernau",
+     "url": "https://bauhauskooperation.de/en/knowledge/the-bauhaus/works/architecture/adgb-trade-union-school-bernau",
+     "checks": "Concurso con seis arquitectos (1927–1928) ganado por Meyer y Wittwer; colaboración del departamento de construcción de la Bauhaus; primera piedra el 29 de julio de 1928; inauguración el 4 de mayo de 1930; 120 trabajadores y trabajadoras; grupos de 10 en cinco habitaciones dobles por piso; cinco alas que bajan por la ladera, unidas por un largo corredor de vidrio; sindicatos prohibidos en 1933; Patrimonio Mundial en 2017. ⚠ El año exacto del fallo del jurado (1928) no se lee textualmente.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Denkmal Bundesschule Bernau, History of Use",
+     "url": "https://www.bauhaus-denkmal-bernau.de/en/trade-union-school/usage-history.html",
+     "checks": "Inauguración el 4 de mayo de 1930; ocupación nazi el 6 y 9 de mayo de 1933 tras la destrucción de las organizaciones obreras y conversión en escuela nazi; restauración desde 2003; Patrimonio Mundial en julio de 2017.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Denkmal Bundesschule Bernau, UNESCO World Heritage",
+     "url": "https://www.bauhaus-denkmal-bernau.de/en/trade-union-school/unesco-world-heritage.html",
+     "checks": "Ampliación del sitio Patrimonio Mundial de la Bauhaus en 2017 con la escuela de Bernau; hormigón, acero y vidrio a la vista; Meyer involucró a Wittwer y a todos los estudiantes de arquitectura de la Bauhaus.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsche Stiftung Denkmalschutz, Bundesschule des ADGB, Bernau",
+     "url": "https://www.denkmalschutz.de/denkmal/bundesschule-des-adgb.html",
+     "checks": "Meyer y Wittwer, 1928–1930; inauguración el 4 de mayo de 1930; Meyer como director de la Bauhaus y sucesor de Gropius; construcciones de hormigón armado revestidas de ladrillo amarillo; corredor de vidrio continuo; restauración con apoyo de la fundación desde 1995.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "futurama",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Futurama",
+   "designers": [
+    "bel-geddes"
+   ],
+   "maker": null,
+   "client": "General Motors",
+   "year": 1939,
+   "date": "1939–1940",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Scale model of a landscape and cities, moving seats with sound narration, inside a pavilion by Albert Kahn",
+   "tech": [],
+   "key": "Bel Geddes’s exhibit for General Motors at the 1939 New York World’s Fair:[1][3] a huge model of the United States in 1960, crossed by motorways, that visitors flew over seated on a moving ride.[1][3]",
+   "more": "Inside the ‘Highways and Horizons’ pavilion, whose building was by Albert Kahn,[1][4] visitors sat in moving chairs and looked down on a landscape of farms, cities and wide highways with moving traffic, while a recorded voice described the world of 1960.[1][3] It was one of the most visited shows of the fair, and each visitor left with a pin reading ‘I Have Seen the Future’.[1][2][4] It sold the idea of a nation built around the car and the motorway;[4] the federal highway act of 1944 closely resembles the network it showed.[1]",
+   "where": [
+    {
+     "label": "Harry Ransom Center: I Have Seen the Future",
+     "url": "https://www.hrc.utexas.edu/exhibitions/2012/i-have-seen-the-future/"
+    },
+    {
+     "label": "Library of Congress: Futurama photograph",
+     "url": "https://www.loc.gov/item/2012645722/"
+    }
+   ],
+   "status": "Dismantled after the fair (1940); drawings and photographs in the Norman Bel Geddes archive, Harry Ransom Center.",
+   "wiki": "Futurama_(New_York_World's_Fair)",
+   "es": {
+    "title": "Futurama",
+    "date": "1939–1940",
+    "materials": "Maqueta a escala de un paisaje y de ciudades, asientos móviles con narración sonora, dentro de un pabellón de Albert Kahn",
+    "key": "La exhibición de Bel Geddes para General Motors en la Feria Mundial de Nueva York de 1939:[1][3] una enorme maqueta de Estados Unidos en 1960, atravesada por autopistas, que el público sobrevolaba sentado en un recorrido móvil.[1][3]",
+    "more": "Dentro del pabellón «Highways and Horizons», cuyo edificio era de Albert Kahn,[1][4] el público se sentaba en sillas móviles y miraba desde arriba un paisaje de granjas, ciudades y anchas autopistas con tráfico en movimiento, mientras una voz grabada describía el mundo de 1960.[1][3] Fue una de las muestras más visitadas de la feria, y cada visitante salía con un prendedor que decía «He visto el futuro».[1][2][4] Vendió la idea de un país organizado en torno al auto y la autopista;[4] la ley federal de carreteras de 1944 se parece mucho a la red que mostraba.[1]",
+    "status": "Desmontada después de la feria (1940); dibujos y fotografías en el archivo de Norman Bel Geddes, Harry Ransom Center."
+   },
+   "refs": [
+    {
+     "label": "Museum of the City of New York (blog): «“I have seen the future”: Norman Bel Geddes and the General Motors Futurama», 2013",
+     "url": "https://blog.mcny.org/2013/11/26/i-have-seen-the-future-norman-bel-geddes-and-the-general-motors-futurama/",
+     "checks": "Exhibición «Highways and Horizons» de General Motors en la Feria de 1939–1940; Bel Geddes; visión de Estados Unidos en 1960; sillas móviles con sonido; recorrido narrado; 35.000 pies²; cinco millones de visitantes; prendedor «I have seen the future»; similitud conceptual de la Federal-Aid Highway Act de 1944 con la red de Bel Geddes. ⚠ Blog de museo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Smithsonian National Museum of American History, botón «I Have Seen the Future», 1939–1940",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_741597",
+     "checks": "Prendedores para los visitantes del pabellón «Highways and Horizons» de General Motors; Futurama fue la exhibición más popular de la feria; maqueta de 35.000 pies². Habla de un Estados Unidos «treinta años en el futuro», no de 1960.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "National Endowment for the Humanities, Humanities (enero–febrero 2011): «Enchanting Reality»",
+     "url": "https://www.neh.gov/humanities/2011/januaryfebruary/feature/enchanting-reality",
+     "checks": "Futurama de Bel Geddes para General Motors en la feria de 1939; año objetivo 1960; recorrido de dieciséis minutos en «sound chair» con comentario narrado; maqueta de 35.000 pies² con unos 50.000 vehículos en movimiento por autopistas, granjas, ciudades y suburbios; largas filas en ambas temporadas.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Canadian Centre for Architecture, «1939: The Future in Flushing Meadows»",
+     "url": "https://www.cca.qc.ca/en/articles/issues/2/what-the-future-looked-like/1553/1939-the-future-in-flushing-meadows",
+     "checks": "Pabellón de General Motors diseñado por Albert Kahn y Norman Bel Geddes; la ciudad utopía de 1960 con autopistas; asientos móviles; el pabellón más popular de la feria.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "aubette",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "interior",
+   "title": "Aubette",
+   "short": "Aubette",
+   "designers": [
+    "van-doesburg"
+   ],
+   "maker": "Sophie Taeuber-Arp, Hans Arp",
+   "client": "Paul and André Horn",
+   "year": 1926,
+   "date": "1926–1928",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Painted reliefs, coloured glass, furniture and signs",
+   "tech": [],
+   "key": "The leisure complex in Strasbourg whose rooms Theo van Doesburg, Sophie Taeuber-Arp and Hans Arp designed in 1926–28, covering walls, ceilings and floors with geometric colour.[1]",
+   "more": "The brothers Paul and André Horn leased a wing of the Aubette for a café-brasserie, restaurant, tea room, bars, billiard room, dance hall and cinema. In 1926 they engaged Arp and Taeuber-Arp, who brought in Van Doesburg; the artists treated furniture and signs as part of the painting, to ‘place man in the painting rather than in front of it’. It opened on 16 February 1928.[1]",
+   "where": [
+    {
+     "label": "Musées de Strasbourg: Aubette 1928",
+     "url": "https://www.musees.strasbourg.eu/documents/d/musees/dp-aubette-1928"
+    }
+   ],
+   "movements": [
+    "de-stijl"
+   ],
+   "status": "Partly restored; open to visitors as Aubette 1928.",
+   "refs": [
+    {
+     "label": "Musées de Strasbourg, dossier de prensa «Aubette 1928»",
+     "checks": "Encargo de los hermanos Horn; Arp y Taeuber-Arp desde 1926, que invitan a Van Doesburg; programa de ocio; inauguración el 16 feb 1928; cita de Van Doesburg.",
+     "date": "2026-10-03",
+     "url": "https://www.musees.strasbourg.eu/documents/d/musees/dp-aubette-1928"
+    }
+   ],
+   "es": {
+    "title": "Café Aubette",
+    "date": "1926–1928",
+    "materials": "Relieves pintados, vidrios de color, muebles y letreros",
+    "key": "El complejo de ocio de Estrasburgo cuyas salas diseñaron Theo van Doesburg, Sophie Taeuber-Arp y Hans Arp en 1926–28, cubriendo muros, cielos y suelos de color geométrico.[1]",
+    "more": "Los hermanos Paul y André Horn arrendaron un ala de la Aubette para un café-brasserie, restaurante, salón de té, bares, sala de billar, salón de baile y cine. En 1926 contrataron a Arp y a Taeuber-Arp, que invitaron a Van Doesburg; los artistas trataron muebles y letreros como parte de la pintura, para «poner al hombre dentro de la pintura y no frente a ella». Se inauguró el 16 de febrero de 1928.[1]",
+    "short": "Aubette",
+    "status": "Restaurada en parte; abierta al público como Aubette 1928."
+   }
+  },
+  {
+   "id": "e1027-house",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "E-1027",
+   "short": "E-1027",
+   "designers": [
+    "eileen-gray"
+   ],
+   "maker": "Jean Badovici",
+   "client": null,
+   "year": 1926,
+   "date": "1926–1929",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Reinforced concrete, built-in furniture",
+   "tech": [],
+   "key": "Eileen Gray and Jean Badovici’s holiday house above the sea at Roquebrune-Cap-Martin, built in 1926–29.[1]",
+   "more": "Designed for Badovici, ‘a lonely, sporty man who entertained friends’, it applies Le Corbusier’s five points while caring for comfort and individual needs, with architecture and furniture conceived together.[1]",
+   "where": [
+    {
+     "label": "Centre des monuments nationaux: Cap Moderne",
+     "url": "https://capmoderne.monuments-nationaux.fr/en/discover/history-of-cap-moderne-eileen-gray-and-le-corbusier-at-cap-martin"
+    }
+   ],
+   "status": "Restored; open to visitors as part of Cap Moderne.",
+   "wiki": "E-1027",
+   "refs": [
+    {
+     "label": "Centre des monuments nationaux, Cap Moderne, «History of Cap Moderne»",
+     "checks": "1926–1929; Gray y Badovici; casa de vacaciones; cinco puntos; obra total de arquitectura y diseño.",
+     "date": "2026-10-03",
+     "url": "https://capmoderne.monuments-nationaux.fr/en/discover/history-of-cap-moderne-eileen-gray-and-le-corbusier-at-cap-martin"
+    }
+   ],
+   "es": {
+    "title": "Casa E-1027",
+    "date": "1926–1929",
+    "materials": "Hormigón armado, muebles incorporados",
+    "key": "La casa de vacaciones de Eileen Gray y Jean Badovici sobre el mar en Roquebrune-Cap-Martin, construida en 1926–29.[1]",
+    "more": "Diseñada para Badovici, «un hombre solitario y deportista que recibía amigos», aplica los cinco puntos de Le Corbusier atendiendo a la comodidad y a las necesidades individuales, con la arquitectura y los muebles pensados juntos.[1]",
+    "short": "E-1027",
+    "status": "Restaurada; abierta al público como parte de Cap Moderne."
+   }
+  },
+  {
+   "id": "soviet-pavilion-1925",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Soviet pavilion 1925",
+   "short": "Soviet pavilion",
+   "designers": [
+    "melnikov"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "RU"
+   ],
+   "materials": "Timber frame and glass",
+   "tech": [],
+   "key": "Konstantin Melnikov’s pavilion of the USSR at the 1925 Paris exhibition: two glazed volumes crossed by a diagonal staircase.[1]",
+   "more": "Among the Art Deco pavilions it looked radically new; Melnikov said its staircase ‘goes out to meet the crowds’. Its success made his name abroad, before the Rusakov club and his own house in Moscow.[1]",
+   "where": [
+    {
+     "label": "RIBA Journal: Soviet Pavilion",
+     "url": "https://www.ribaj.com/culture/soviet-pavilion-exposition-internationale-des-arts-decoratifs-et-industriels-modernes-paris/"
+    }
+   ],
+   "movements": [
+    "constructivism"
+   ],
+   "refs": [
+    {
+     "label": "RIBA Journal, «Soviet Pavilion»",
+     "checks": "Dos volúmenes vidriados y escalera diagonal; cita de Melnikov; reconocimiento internacional. ⚠ Los materiales (madera y vidrio) no se leyeron en la fuente.",
+     "date": "2026-10-03",
+     "url": "https://www.ribaj.com/culture/soviet-pavilion-exposition-internationale-des-arts-decoratifs-et-industriels-modernes-paris/"
+    }
+   ],
+   "es": {
+    "title": "Pabellón soviético de 1925",
+    "date": "1925",
+    "materials": "Estructura de madera y vidrio",
+    "key": "El pabellón de la URSS de Konstantin Melnikov en la exposición de París de 1925: dos volúmenes vidriados cruzados por una escalera diagonal.[1]",
+    "more": "Entre los pabellones art déco parecía radicalmente nuevo; Melnikov dijo que su escalera «sale al encuentro de la multitud». Su éxito lo hizo conocido en el extranjero, antes del club Rusakov y de su propia casa en Moscú.[1]",
+    "short": "Pabellón soviético"
+   }
+  },
+  {
+   "id": "sep-schools-ogorman",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "SEP primary schools",
+   "short": "SEP schools",
+   "designers": [
+    "juan-ogorman"
+   ],
+   "maker": null,
+   "client": "Secretaría de Educación Pública",
+   "year": 1932,
+   "date": "1932",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Reinforced concrete, exposed services",
+   "tech": [],
+   "key": "The functionalist primary schools that Juan O’Gorman built in 1932 for the outskirts of Mexico City, plain and cheap to give the most service for the least money.[1][2]",
+   "more": "In 1932 O’Gorman designed a series of primary schools, about 25 during the 1930s by one count;[3] the one in Xochimilco cost less than 48,000 pesos. He avoided ornament that would raise the cost and sought comfortable, hygienic classrooms for the city’s poor districts.[1]",
+   "where": [
+    {
+     "label": "Memórica: Juan O’Gorman, las escuelas funcionalistas",
+     "url": "https://memoricamexico.gob.mx/es/memorica/Juan_OGorman_Sala3"
+    },
+    {
+     "label": "ICAA/MFAH: Escuelas primarias 1932",
+     "url": "https://icaa.mfah.org/s/es/item/789180"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Memórica (Gobierno de México), «Juan O’Gorman 1923-2023: las escuelas funcionalistas»",
+     "checks": "Escuelas de 1932 (seis en la exposición); Xochimilco por menos de 48.000 pesos; sin adornos; aulas cómodas e higiénicas.",
+     "date": "2026-10-03",
+     "url": "https://memoricamexico.gob.mx/es/memorica/Juan_OGorman_Sala3"
+    },
+    {
+     "label": "ICAA/MFAH, documento «Escuelas primarias 1932»",
+     "checks": "Documento: máximo rendimiento por la mínima inversión.",
+     "date": "2026-10-03",
+     "url": "https://icaa.mfah.org/s/es/item/789180"
+    },
+    {
+     "label": "La Tempestad, «Juan O’Gorman: las escuelas»",
+     "checks": "Unas 25 escuelas en los años treinta, con Narciso Bassols como secretario de Educación (1931–1934).",
+     "date": "2026-10-03",
+     "url": "https://www.latempestad.mx/juan-ogorman-escuelas/"
+    }
+   ],
+   "es": {
+    "title": "Escuelas primarias de la SEP",
+    "date": "1932",
+    "materials": "Hormigón armado, instalaciones a la vista",
+    "key": "Las escuelas primarias funcionalistas que Juan O’Gorman construyó en 1932 para la periferia de la Ciudad de México, sencillas y baratas para dar el máximo servicio con el mínimo gasto.[1][2]",
+    "more": "En 1932 O’Gorman proyectó una serie de escuelas primarias, unas 25 durante los años treinta según un recuento;[3] la de Xochimilco costó menos de 48.000 pesos. Evitó los adornos que encarecían la obra y buscó aulas cómodas e higiénicas para los barrios pobres de la ciudad.[1]",
+    "short": "Escuelas SEP"
+   }
+  },
+  {
+   "id": "itapolis-house",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Rua Itápolis house",
+   "short": "Itápolis house",
+   "designers": [
+    "warchavchik"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1930,
+   "date": "1930",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Masonry rendered in white, flat roof",
+   "tech": [],
+   "key": "Gregori Warchavchik’s modernist house in São Paulo, open to the public from 24 March to 20 April 1930 as the ‘Exhibition of a Modernist House’.[1]",
+   "more": "Furnished with his own designs and works by Tarsila do Amaral, Anita Malfatti, Victor Brecheret and Lasar Segall, it drew more than 20,000 visitors and was the first public showing of international modern architecture in Brazil. Mina Klabin Warchavchik designed the garden.[1]",
+   "where": [
+    {
+     "label": "Enciclopédia Itaú Cultural: Exposição de uma Casa Modernista",
+     "url": "https://enciclopedia.itaucultural.org.br/eventos/127207-exposicao-de-uma-casa-modernista"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Exposição de uma Casa Modernista»",
+     "checks": "Exposición del 24 mar al 20 abr 1930; más de 20.000 visitas; artistas; jardín de Mina Klabin. ⚠ Los materiales no se leyeron en la fuente.",
+     "date": "2026-10-03",
+     "url": "https://enciclopedia.itaucultural.org.br/eventos/127207-exposicao-de-uma-casa-modernista"
+    }
+   ],
+   "es": {
+    "title": "Casa de la rua Itápolis",
+    "date": "1930",
+    "materials": "Albañilería estucada en blanco, techo plano",
+    "key": "La casa modernista de Gregori Warchavchik en São Paulo, abierta al público entre el 24 de marzo y el 20 de abril de 1930 como «Exposición de una Casa Modernista».[1]",
+    "more": "Amoblada con sus propios diseños y obras de Tarsila do Amaral, Anita Malfatti, Victor Brecheret y Lasar Segall, recibió más de 20.000 visitantes y fue la primera presentación pública de la arquitectura moderna internacional en Brasil. Mina Klabin Warchavchik diseñó el jardín.[1]",
+    "short": "Casa Itápolis"
+   }
+  },
+  {
+   "id": "barcelona-tb-dispensary",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Tuberculosis Dispensary",
+   "short": "TB Dispensary",
+   "designers": [
+    "sert"
+   ],
+   "maker": "GATCPAC",
+   "client": "Generalitat de Catalunya",
+   "year": 1933,
+   "date": "1933–1938",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "materials": "Steel frame, glass, asbestos cement",
+   "tech": [],
+   "key": "The tuberculosis clinic in Barcelona’s Raval by Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana (GATCPAC), designed from 1933 for the Generalitat.[1]",
+   "more": "Its two blocks were oriented by the sun rather than the street, around a garden that brought light and air inside; the roof served for heliotherapy, and glass and asbestos cement were chosen for ventilation and hygiene. It opened in 1937, during the Civil War.[1]",
+   "where": [
+    {
+     "label": "Arquitectura Catalana: Dispensari Antituberculós",
+     "url": "https://www.arquitecturacatalana.cat/en/works/dispensari-antituberculos"
+    },
+    {
+     "label": "Docomomo Ibérico",
+     "url": "https://docomomoiberico.com/en/buildings/dispensario-antituberculoso/"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Arquitectura Catalana, «Dispensari Antituberculós»",
+     "checks": "Fechas 1933–1938, inauguración en 1937; autores; cliente (Departamento de Sanidad y Asistencia Social de la Generalitat); orientación solar; jardín; helioterapia; materiales.",
+     "date": "2026-10-03",
+     "url": "https://www.arquitecturacatalana.cat/en/works/dispensari-antituberculos"
+    }
+   ],
+   "es": {
+    "title": "Dispensario Antituberculoso",
+    "date": "1933–1938",
+    "materials": "Estructura de acero, vidrio, fibrocemento",
+    "key": "La clínica antituberculosa del Raval de Barcelona de Josep Lluís Sert, Josep Torres Clavé y Joan Baptista Subirana (GATCPAC), proyectada desde 1933 para la Generalitat.[1]",
+    "more": "Sus dos bloques se orientaron según el sol y no según la calle, en torno a un jardín que llevaba luz y aire al interior; la azotea servía para la helioterapia, y el vidrio y el fibrocemento se eligieron por ventilación e higiene. Se inauguró en 1937, en plena Guerra Civil.[1]",
+    "short": "Dispensario"
+   }
+  },
+  {
+   "id": "maison-du-peuple-clichy",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Maison du Peuple",
+   "short": "Clichy",
+   "designers": [
+    "jean-prouve"
+   ],
+   "maker": "Eugène Beaudouin, Marcel Lods, Vladimir Bodiansky",
+   "client": "Ville de Clichy",
+   "year": 1935,
+   "date": "1935–1938",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Steel frame, prefabricated metal panels",
+   "tech": [
+    "prefabrication"
+   ],
+   "key": "The market hall and assembly building of Clichy, near Paris, by the architects Eugène Beaudouin and Marcel Lods with the engineer Vladimir Bodiansky and the constructor Jean Prouvé.[1]",
+   "more": "Combining a market with a hall, it showed how metal and modular parts could make an open, flexible public building, a forerunner of later cultural centres. It has been a listed historic monument since 1983.[1]",
+   "where": [
+    {
+     "label": "Docomomo France: Maison du Peuple de Clichy",
+     "url": "https://www.docomomo.fr/batiment/maison-du-peuple-de-clichy"
+    }
+   ],
+   "wiki": "Maison_du_Peuple_(Clichy)",
+   "refs": [
+    {
+     "label": "Docomomo France, «Maison du Peuple de Clichy»",
+     "checks": "Autores; Prouvé como constructor; 1935–1938; demostración del metal; programa de mercado y sala; monumento histórico desde 1983.",
+     "date": "2026-10-03",
+     "url": "https://www.docomomo.fr/batiment/maison-du-peuple-de-clichy"
+    }
+   ],
+   "es": {
+    "title": "Casa del Pueblo de Clichy",
+    "date": "1935–1938",
+    "materials": "Estructura de acero, paneles metálicos prefabricados",
+    "key": "El mercado y sala de reuniones de Clichy, junto a París, de los arquitectos Eugène Beaudouin y Marcel Lods con el ingeniero Vladimir Bodiansky y el constructor Jean Prouvé.[1]",
+    "more": "Al combinar un mercado con una sala, mostró cómo el metal y las piezas modulares podían hacer un edificio público abierto y flexible, antecesor de centros culturales posteriores. Es monumento histórico protegido desde 1983.[1]",
+    "short": "Clichy"
+   }
+  },
+  {
+   "id": "casa-del-fascio-como",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Casa del Fascio",
+   "short": "Casa del Fascio",
+   "designers": [
+    "giuseppe-terragni"
+   ],
+   "maker": null,
+   "client": "Federazione dei Fasci di Como",
+   "year": 1932,
+   "date": "1932–1936",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Reinforced concrete, glass, marble",
+   "tech": [],
+   "key": "Giuseppe Terragni’s headquarters for the fascist party in Como (1932–36), a precise frame of concrete and glass that became an icon of Italian rationalism.[1]",
+   "more": "Commissioned by the local fascist federation, it uses transparent glass façades and a refined grid of horizontal and vertical planes. The regime later preferred the monumental classicism of Marcello Piacentini to architects like Terragni.[1]",
+   "where": [
+    {
+     "label": "Domus: Terragni’s Casa del Fascio",
+     "url": "https://www.domusweb.it/en/from-the-archive/gallery/2022/04/01/terragni-and-the-casa-del-fascio-in-como-a-metamorphosis-on-domus.html"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ],
+   "wiki": "Casa_del_Fascio_(Como)",
+   "refs": [
+    {
+     "label": "Domus, «Terragni′s Casa del fascio in Como: a metamorphosis»",
+     "checks": "1932–1936; encargo de la federación fascista local; fachadas de vidrio; el régimen prefirió a Piacentini. ⚠ El mármol no se leyó en la fuente.",
+     "date": "2026-10-03",
+     "url": "https://www.domusweb.it/en/from-the-archive/gallery/2022/04/01/terragni-and-the-casa-del-fascio-in-como-a-metamorphosis-on-domus.html"
+    }
+   ],
+   "es": {
+    "title": "Casa del Fascio",
+    "date": "1932–1936",
+    "materials": "Hormigón armado, vidrio, mármol",
+    "key": "La sede del partido fascista en Como de Giuseppe Terragni (1932–36), una estructura precisa de hormigón y vidrio que se volvió un ícono del racionalismo italiano.[1]",
+    "more": "Encargada por la federación fascista local, usa fachadas de vidrio transparente y una trama refinada de planos horizontales y verticales. El régimen terminó prefiriendo el clasicismo monumental de Marcello Piacentini a arquitectos como Terragni.[1]",
+    "short": "Casa del Fascio"
+   }
+  },
+  {
+   "id": "pampulha",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Pampulha",
+   "short": "Pampulha",
+   "designers": [
+    "oscar-niemeyer"
+   ],
+   "maker": null,
+   "client": "Juscelino Kubitschek",
+   "year": 1940,
+   "date": "1940–1943",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced concrete shells, tiles, gardens",
+   "tech": [],
+   "key": "Oscar Niemeyer’s leisure complex around the Pampulha lake in Belo Horizonte, commissioned in 1940 by the mayor Juscelino Kubitschek.[1]",
+   "more": "A church, a casino (now an art museum), a dance hall and a yacht club stand around the lagoon, with gardens by Roberto Burle Marx and tile panels by Cândido Portinari. It became a UNESCO World Heritage site in 2016.[1]",
+   "where": [
+    {
+     "label": "Prefeitura de Belo Horizonte: Conjunto Moderno da Pampulha",
+     "url": "https://portalbelohorizonte.com.br/filmcommission/cenarios-da-cidade/conjunto-moderno-da-pampulha"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ],
+   "wiki": "Pampulha_Modern_Ensemble",
+   "refs": [
+    {
+     "label": "Prefeitura de Belo Horizonte, «Conjunto Moderno da Pampulha»",
+     "checks": "Proyecto de 1940 con Kubitschek; cuatro edificios; Burle Marx y Portinari; UNESCO 2016. ⚠ Las cáscaras de hormigón no se leyeron en la fuente.",
+     "date": "2026-10-03",
+     "url": "https://portalbelohorizonte.com.br/filmcommission/cenarios-da-cidade/conjunto-moderno-da-pampulha"
+    }
+   ],
+   "es": {
+    "title": "Conjunto de Pampulha",
+    "date": "1940–1943",
+    "materials": "Cáscaras de hormigón armado, azulejos, jardines",
+    "key": "El conjunto de ocio de Oscar Niemeyer en torno al lago de Pampulha, en Belo Horizonte, encargado en 1940 por el alcalde Juscelino Kubitschek.[1]",
+    "more": "Una iglesia, un casino (hoy museo de arte), un salón de baile y un club náutico rodean la laguna, con jardines de Roberto Burle Marx y paneles de azulejos de Cândido Portinari. Es Patrimonio Mundial de la UNESCO desde 2016.[1]",
+    "short": "Pampulha"
+   }
+  },
+  {
+   "id": "van-nelle-factory",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Van Nelle Factory",
+   "short": "Van Nelle",
+   "designers": [],
+   "maker": "Brinkman & Van der Vlugt",
+   "client": "Van Nelle",
+   "year": 1925,
+   "date": "1925–1931",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Reinforced concrete columns, steel and glass curtain walls",
+   "tech": [],
+   "key": "The tea, coffee and tobacco factory in Rotterdam by Brinkman & Van der Vlugt (1925–31): a glass-walled building for work, full of daylight.[1]",
+   "more": "Its owner, Cees van der Leeuw, wanted a place where people could work their whole lives. Concrete columns, continuous windows and sloping conveyor bridges join the tobacco, coffee and tea plants; Mart Stam worked on the design from 1926 to 1928. It has been a UNESCO World Heritage site since 2014.[1]",
+   "where": [
+    {
+     "label": "Vielfalt der Moderne: Van Nelle Factory",
+     "url": "https://vielfaltdermoderne.de/en/van-nelle-factory/"
+    }
+   ],
+   "movements": [
+    "new-objectivity",
+    "international-style"
+   ],
+   "wiki": "Van_Nelle_Factory",
+   "refs": [
+    {
+     "label": "Vielfalt der Moderne, «Rotterdam: Van Nelle Factory»",
+     "checks": "1925–1930/31; autores; Stam 1926–1928; visión de Van der Leeuw; columnas, ventanas continuas, puentes; tres plantas; UNESCO 2014.",
+     "date": "2026-10-03",
+     "url": "https://vielfaltdermoderne.de/en/van-nelle-factory/"
+    }
+   ],
+   "es": {
+    "title": "Fábrica Van Nelle",
+    "date": "1925–1931",
+    "materials": "Columnas de hormigón armado, muros cortina de acero y vidrio",
+    "key": "La fábrica de té, café y tabaco de Róterdam de Brinkman y Van der Vlugt (1925–31): un edificio vidriado para el trabajo, lleno de luz natural.[1]",
+    "more": "Su dueño, Cees van der Leeuw, quería un lugar donde las personas pudieran trabajar toda la vida. Columnas de hormigón, ventanas continuas y puentes inclinados de transporte unen las plantas de tabaco, café y té; Mart Stam trabajó en el proyecto entre 1926 y 1928. Es Patrimonio Mundial de la UNESCO desde 2014.[1]",
+    "short": "Van Nelle"
+   }
+  },
+  {
+   "id": "ministry-education-rio",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Ministry of Education, Rio",
+   "short": "Ministry, Rio",
+   "designers": [
+    "lucio-costa",
+    "oscar-niemeyer"
+   ],
+   "maker": "Lúcio Costa, Affonso Eduardo Reidy, Carlos Leão, Jorge Moreira, Ernani Vasconcellos, Le Corbusier",
+   "client": "Ministério da Educação e Saúde",
+   "year": 1936,
+   "date": "1936–1945",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced concrete on pilotis, glass curtain wall, brise-soleil",
+   "tech": [],
+   "key": "The headquarters of Brazil’s Ministry of Education and Health in Rio de Janeiro, built in 1936–45 by Lúcio Costa’s team with Le Corbusier as adviser.[1]",
+   "more": "Costa’s team, with Oscar Niemeyer, Affonso Eduardo Reidy, Carlos Leão, Jorge Moreira and Ernani Vasconcellos, turned Le Corbusier’s scheme into a single block on pilotis with a glass curtain wall and movable brise-soleil, among the first of their kind. Murals by Portinari, sculpture and gardens by Burle Marx completed it; Vargas inaugurated it in 1945.[1]",
+   "where": [
+    {
+     "label": "Enciclopédia Itaú Cultural: Ministério da Educação e Saúde",
+     "url": "https://enciclopedia.itaucultural.org.br/instituicoes/70502-ministerio-da-educacao-e-saude-mes"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ],
+   "wiki": "Gustavo_Capanema_Palace",
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Ministério da Educação e Saúde (MES)»",
+     "checks": "Concurso de 1935; Le Corbusier en 1936; obras desde 1937; equipo; pilotes, muro cortina, quiebrasoles; Portinari y Burle Marx; inauguración en 1945.",
+     "date": "2026-10-03",
+     "url": "https://enciclopedia.itaucultural.org.br/instituicoes/70502-ministerio-da-educacao-e-saude-mes"
+    }
+   ],
+   "es": {
+    "title": "Ministerio de Educación, Río",
+    "date": "1936–1945",
+    "materials": "Hormigón armado sobre pilotes, muro cortina, quiebrasoles",
+    "key": "La sede del Ministerio de Educación y Salud de Brasil en Río de Janeiro, construida en 1936–45 por el equipo de Lúcio Costa con Le Corbusier como asesor.[1]",
+    "more": "El equipo de Costa, con Oscar Niemeyer, Affonso Eduardo Reidy, Carlos Leão, Jorge Moreira y Ernani Vasconcellos, convirtió el esquema de Le Corbusier en un solo bloque sobre pilotes con muro cortina de vidrio y quiebrasoles móviles, de los primeros de su tipo. Murales de Portinari, esculturas y jardines de Burle Marx lo completaron; Vargas lo inauguró en 1945.[1]",
+    "short": "Ministerio, Río"
+   }
+  },
+  {
+   "id": "chrysler-building",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Chrysler Building",
+   "short": "Chrysler Building",
+   "designers": [],
+   "maker": "William Van Alen",
+   "client": "Walter P. Chrysler",
+   "year": 1928,
+   "date": "1928–1930",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, brick, stainless steel crown",
+   "tech": [
+    "stainless-steel"
+   ],
+   "key": "William Van Alen’s Art Deco skyscraper in New York for the carmaker Walter P. Chrysler, decorated with motifs taken from cars.[1]",
+   "more": "A frieze of hubcaps, winged forms from a Chrysler radiator cap and a stainless-steel spire that recalls the chrome of a new car made the building an emblem of the firm and of the machine age.[1]",
+   "where": [
+    {
+     "label": "National Endowment for the Humanities: Picturing America",
+     "url": "https://d43fweuh3sg51.cloudfront.net/media/media_files/pa11_doc_alenessay.pdf"
+    }
+   ],
+   "movements": [
+    "art-deco"
+   ],
+   "wiki": "Chrysler_Building",
+   "refs": [
+    {
+     "label": "National Endowment for the Humanities, Picturing America, «William Van Alen: The Chrysler Building»",
+     "checks": "Encargo de Walter P. Chrysler; tapacubos y tapas de radiador; acero inoxidable; motivos de la era de la máquina; 1926–1930 (diseño y obra).",
+     "date": "2026-10-03",
+     "url": "https://d43fweuh3sg51.cloudfront.net/media/media_files/pa11_doc_alenessay.pdf"
+    }
+   ],
+   "es": {
+    "title": "Edificio Chrysler",
+    "date": "1928–1930",
+    "materials": "Estructura de acero, ladrillo, remate de acero inoxidable",
+    "key": "El rascacielos art déco de William Van Alen en Nueva York para el fabricante de autos Walter P. Chrysler, decorado con motivos tomados de los autos.[1]",
+    "more": "Un friso de tapacubos, formas aladas de una tapa de radiador Chrysler y una aguja de acero inoxidable que recuerda el cromo de un auto nuevo hicieron del edificio un emblema de la empresa y de la era de la máquina.[1]",
+    "short": "Edificio Chrysler"
+   }
+  },
+  {
+   "id": "glass-pavilion-1914",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Glass Pavilion, Cologne",
+   "designers": [
+    "bruno-taut"
+   ],
+   "maker": "Bruno Taut",
+   "client": "German glass industry",
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Concrete, coloured glass and glass prisms",
+   "tech": [],
+   "key": "Bruno Taut’s small domed pavilion of coloured glass for the 1914 Werkbund exhibition in Cologne, a first image of the crystalline architecture of German Expressionism.",
+   "more": "Taut built it for the Werkbund exhibition in Cologne in 1914 as a showcase for the glass industry. Its faceted dome of glass and its walls of coloured glass were meant to show glass as a material for a new, luminous architecture, and the interior carried verses by the poet Paul Scheerbart in praise of glass. It was a temporary exhibition building.",
+   "movements": [
+    "expressionist-architecture"
+   ],
+   "status": "Not preserved; it was an exhibition building and was later demolished.",
+   "es": {
+    "title": "Pabellón de Cristal, Colonia",
+    "date": "1914",
+    "materials": "Hormigón, vidrio de colores y prismas de vidrio",
+    "key": "El pequeño pabellón con cúpula de vidrio de colores de Bruno Taut para la exposición del Werkbund de 1914 en Colonia, primera imagen de la arquitectura cristalina del expresionismo alemán.",
+    "more": "Taut lo construyó para la exposición del Werkbund en Colonia en 1914 como vitrina de la industria del vidrio. Su cúpula facetada y sus muros de vidrio de colores querían mostrar el vidrio como material de una arquitectura nueva y luminosa, y el interior llevaba versos del poeta Paul Scheerbart en elogio del vidrio. Era un edificio de exposición temporal.",
+    "status": "No se conserva; era un edificio de exposición y fue demolido después.",
+    "short": "Pabellón de Cristal"
+   },
+   "refs": [],
+   "short": "Glass Pavilion"
+  },
+  {
+   "id": "tatlin-tower-1920",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Monument to the Third International (Tatlin's Tower)",
+   "designers": [
+    "vladimir-tatlin"
+   ],
+   "maker": null,
+   "client": "Soviet government",
+   "year": 1920,
+   "date": "1919–20",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "materials": "Planned in iron and steel and glass; exhibited as a wood and metal model",
+   "tech": [],
+   "key": "Vladimir Tatlin’s project for a leaning iron spiral tower, designed in 1919–20 as a monument to the Third International and meant to be the world’s tallest structure; it was never built.[1][2]",
+   "more": "Tatlin designed it in 1919–20 in Petrograd.[1] The proposed tower, some 400 metres high, had two latticed spirals containing four rotating geometric volumes.[1] Britannica describes a leaning iron framework supporting a glass cylinder, cone and cube that could turn at different speeds.[2] Tatlin showed a five-metre model on 8 November 1920,[1] and a model about 6.7 metres high was shown at the exhibition of the VIII Congress of the Soviets in December 1920.[2] The original models are lost; reconstructions were made in Stockholm in 1968, Paris in 1979 and Moscow in 1993–94.[1] Britannica says it was never built because the Soviet government disapproved of nonfigurative art, and calls it one of the first buildings conceived entirely in abstract terms.[2]",
+   "movements": [
+    "constructivism"
+   ],
+   "status": "Never built; the original model is lost and later reconstructions exist.",
+   "es": {
+    "title": "Monumento a la III Internacional (Torre de Tatlin)",
+    "date": "1919–20",
+    "materials": "Proyectada en hierro, acero y vidrio; se exhibió como maqueta de madera y metal",
+    "key": "El proyecto de Vladimir Tatlin de una torre de espiral de hierro inclinada, diseñada en 1919–20 como monumento a la III Internacional y destinada a ser la estructura más alta del mundo; nunca se construyó.[1][2]",
+    "more": "Tatlin la diseñó en 1919–20 en Petrogrado.[1] La torre propuesta, de unos 400 metros de altura, tenía dos espirales de celosía que contenían cuatro volúmenes geométricos giratorios.[1] La Britannica describe una estructura de hierro inclinada que sostenía un cilindro, un cono y un cubo de vidrio que podían girar a distintas velocidades.[2] Tatlin exhibió una maqueta de cinco metros el 8 de noviembre de 1920,[1] y una maqueta de unos 6,7 metros de alto se mostró en la exposición del VIII Congreso de los Soviets en diciembre de 1920.[2] Las maquetas originales se perdieron; se hicieron reconstrucciones en Estocolmo en 1968, París en 1979 y Moscú en 1993–94.[1] La Britannica dice que no se construyó porque el gobierno soviético desaprobaba el arte no figurativo, y la llama uno de los primeros edificios concebidos enteramente en términos abstractos.[2]",
+    "status": "Nunca se construyó; la maqueta original se perdió y existen reconstrucciones posteriores.",
+    "short": "Torre de Tatlin"
+   },
+   "refs": [
+    {
+     "label": "Tate Papers, «The Model of Vladimir Tatlin’s Monument to the Third International»",
+     "url": "https://www.tate.org.uk/research/tate-papers/08/model-of-vladimir-tatlins-monument-to-the-third-international-reconstruction-as-instrument-of-research-and-states-of-knowledge",
+     "checks": "Diseño en 1919–20 en Petrogrado; maqueta de cinco metros exhibida el 8 de noviembre de 1920; torre de 400 m con dos espirales y cuatro volúmenes giratorios; originales perdidos; reconstrucciones de Estocolmo 1968, París 1979 y Moscú 1993–94. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Vladimir Tatlin»",
+     "url": "https://www.britannica.com/biography/Vladimir-Yevgrafovich-Tatlin",
+     "checks": "Encargado en 1919; maqueta de 6,7 m en el VIII Congreso de los Soviets, diciembre de 1920; más de 396 m, la estructura más alta del mundo; armazón de hierro con cilindro, cono y cubo de vidrio que giraban a distintas velocidades; nunca construido por la desaprobación soviética del arte no figurativo; constructivismo. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Tatlin’s Tower"
+  },
+  {
+   "id": "einstein-tower-1921",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Einstein Tower, Potsdam",
+   "designers": [
+    "erich-mendelsohn"
+   ],
+   "maker": "Erich Mendelsohn",
+   "client": "Einstein Foundation",
+   "year": 1921,
+   "date": "1921",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Brick and concrete under a smooth stucco coat",
+   "tech": [],
+   "key": "Erich Mendelsohn’s solar observatory at Potsdam, a sculpted, streamlined building that is the best-known work of Expressionist architecture.",
+   "more": "Mendelsohn designed it from 1919 as a solar observatory for astronomers who wanted to test Einstein’s theory of relativity. Its rounded, flowing form in the Telegraph Hill park, built in brick and concrete and covered with a smooth render, looks as if modelled in one piece. It is still used by astrophysicists.",
+   "movements": [
+    "expressionist-architecture"
+   ],
+   "status": "Preserved and still used for research.",
+   "es": {
+    "title": "Torre Einstein, Potsdam",
+    "date": "1921",
+    "materials": "Ladrillo y hormigón bajo un liso revoque de estuco",
+    "key": "El observatorio solar de Erich Mendelsohn en Potsdam, un edificio escultórico y aerodinámico que es la obra más conocida de la arquitectura expresionista.",
+    "more": "Mendelsohn la diseñó desde 1919 como observatorio solar para astrónomos que querían comprobar la teoría de la relatividad de Einstein. Su forma redondeada y fluida en el parque del Telegrafenberg, construida en ladrillo y hormigón y cubierta con un revoque liso, parece modelada de una sola pieza. Aún la usan astrofísicos.",
+    "status": "Se conserva y sigue en uso para la investigación.",
+    "short": "Torre Einstein"
+   },
+   "refs": [],
+   "short": "Einstein Tower"
+  },
+  {
+   "id": "notre-dame-du-raincy-1923",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Notre-Dame du Raincy",
+   "designers": [
+    "auguste-perret"
+   ],
+   "maker": "Auguste Perret",
+   "client": "Parish of Le Raincy",
+   "year": 1923,
+   "date": "1922–23",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Reinforced concrete, with stained glass",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "Auguste Perret’s church near Paris, built of exposed reinforced concrete with slender columns and walls of coloured glass.",
+   "more": "Built in 1922–23 at Le Raincy, east of Paris, as a memorial to the soldiers of the Battle of the Marne, with a small budget. Perret used reinforced concrete both for the structure and for the finish: thin columns carry a vault, and the walls are screens of concrete filled with coloured glass. The result is a bright church without the thick stone walls of tradition.",
+   "status": "Preserved; still a parish church.",
+   "es": {
+    "title": "Notre-Dame du Raincy",
+    "date": "1922–23",
+    "materials": "Hormigón armado, con vitrales",
+    "key": "La iglesia de Auguste Perret cerca de París, construida en hormigón armado a la vista con columnas esbeltas y muros de vidrio de colores.",
+    "more": "Construida en 1922–23 en Le Raincy, al este de París, como memorial de los soldados de la batalla del Marne y con un presupuesto reducido. Perret usó el hormigón armado tanto para la estructura como para el acabado: columnas delgadas sostienen una bóveda y los muros son celosías de hormigón rellenas de vidrio de colores. El resultado es una iglesia luminosa, sin los gruesos muros de piedra de la tradición.",
+    "status": "Se conserva; sigue siendo iglesia parroquial."
+   },
+   "refs": []
+  },
+  {
+   "id": "plan-voisin-1925",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Plan Voisin for Paris",
+   "designers": [
+    "le-corbusier"
+   ],
+   "maker": null,
+   "client": "Voisin (aircraft and car maker)",
+   "year": 1925,
+   "date": "1925",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Drawings and a large model",
+   "tech": [],
+   "key": "Le Corbusier’s 1925 proposal to rebuild central Paris, erasing medieval and nineteenth-century districts for a vertical city of glass office towers; it was never built.[1][2]",
+   "more": "It was presented in the Pavillon de l’Esprit Nouveau at the 1925 exhibition[1] and was named after the Voisin aircraft and automobile makers, who backed it.[1] The pavilion’s aims included applying its principles to a plan for the centre of Paris, the ‘Plan Voisin’, by Le Corbusier and Pierre Jeanneret.[3] Le Corbusier argued for densification, with buildings of up to 60 storeys instead of the usual six, and for an airport at the centre of the city.[1] MoMA calls it a polemical proposal that made him a public figure, and says it influenced urban development worldwide.[2] It was never carried out.[1][2]",
+   "status": "Never carried out; known through drawings and photographs of the model.",
+   "es": {
+    "title": "Plan Voisin para París",
+    "date": "1925",
+    "materials": "Dibujos y una gran maqueta",
+    "key": "La propuesta de Le Corbusier de 1925 de reconstruir el centro de París, borrando los barrios medievales y del siglo XIX para levantar una ciudad vertical de torres de oficinas de vidrio; nunca se construyó.[1][2]",
+    "more": "Se presentó en el Pavillon de l’Esprit Nouveau en la exposición de 1925[1] y debe su nombre a los fabricantes de aviones y automóviles Voisin, que la respaldaron.[1] Entre los objetivos del pabellón estaba aplicar sus principios a un plan para el centro de París, el «Plan Voisin», de Le Corbusier y Pierre Jeanneret.[3] Le Corbusier defendía la densificación, con edificios de hasta 60 pisos en vez de los habituales seis, y un aeropuerto en el centro de la ciudad.[1] El MoMA lo llama una propuesta polémica que lo convirtió en figura pública, y dice que influyó en el desarrollo urbano en todo el mundo.[2] Nunca se ejecutó.[1][2]",
+    "status": "Nunca se ejecutó; se conoce por dibujos y fotografías de la maqueta."
+   },
+   "refs": [
+    {
+     "label": "Fondation Le Corbusier, «Plan Voisin, France, 1925»",
+     "url": "https://www.fondationlecorbusier.fr/en/work-architecture/projects-plan-voisin-france-1925/",
+     "checks": "Proyecto no realizado de 1925 para el centro de París; nombrado por los fabricantes Voisin de aviones y automóviles, que lo respaldaron; presentado en el Pabellón del Espíritu Nuevo de 1925; edificios de hasta 60 pisos en vez de 6; aeropuerto en el centro. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «Le Corbusier. Plan Voisin for Paris. 1925»",
+     "url": "https://www.moma.org/audio/playlist/269/3495",
+     "checks": "Transformación completa del centro de París: edificios medievales y del siglo XIX borrados y reemplazados por una «ciudad vertical de rascacielos de oficinas de vidrio»; propuesta polémica; lo volvió figura pública; nunca construido; influyó en el desarrollo urbano. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Musée des Arts Décoratifs, «Pavillon de l’Esprit Nouveau»",
+     "url": "https://madparis.fr/pavillon-de-l-esprit-nouveau",
+     "checks": "Uno de los objetivos del pabellón era aplicar al centro de París el plan «Voisin»; patrocinio «G. Voisin»; plan de Le Corbusier y Pierre Jeanneret. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "fallingwater-1937",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Fallingwater",
+   "designers": [
+    "frank-lloyd-wright"
+   ],
+   "maker": null,
+   "client": "Edgar J. Kaufmann",
+   "year": 1937,
+   "date": "1935–37",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Reinforced concrete, local sandstone, steel and glass",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "Frank Lloyd Wright’s weekend house for the Kaufmann family at Bear Run, Pennsylvania, with concrete terraces cantilevered over a waterfall.[1][2]",
+   "more": "Built in the 1930s, 1934–37 according to SAH Archipedia, for Edgar J. Kaufmann, a department-store owner, it sits over the falls of Bear Run instead of facing them.[2] Wright set it ‘in a series of cantilevered concrete trays anchored to masonry walls made of local Pottsville sandstone’, according to The Cultural Landscape Foundation.[1] SAH Archipedia says its international acclaim revived Wright’s reputation.[2] The family’s son gave it to the Western Pennsylvania Conservancy in 1963 and it is open to the public as a museum, a National Historic Landmark since 1974.[1][2]",
+   "status": "Preserved as a house museum open to visitors.",
+   "es": {
+    "title": "La Casa de la Cascada (Fallingwater)",
+    "date": "1935–37",
+    "materials": "Hormigón armado, arenisca local, acero y vidrio",
+    "key": "La casa de fin de semana de Frank Lloyd Wright para la familia Kaufmann en Bear Run, Pensilvania, con terrazas de hormigón en voladizo sobre una cascada.[1][2]",
+    "more": "Construida en los años treinta, entre 1934 y 1937 según SAH Archipedia, para Edgar J. Kaufmann, dueño de una tienda por departamentos, se levanta sobre las caídas de agua de Bear Run en vez de mirarlas de frente.[2] Wright la dispuso «en una serie de bandejas de hormigón en voladizo ancladas a muros de mampostería de arenisca local de Pottsville», según The Cultural Landscape Foundation.[1] SAH Archipedia señala que su fama internacional devolvió el prestigio a Wright.[2] El hijo de la familia la donó a la Western Pennsylvania Conservancy en 1963 y está abierta al público como museo, Monumento Histórico Nacional desde 1974.[1][2]",
+    "status": "Se conserva como casa museo abierta al público.",
+    "short": "Fallingwater"
+   },
+   "refs": [
+    {
+     "label": "The Cultural Landscape Foundation, «Fallingwater, Mill Run, PA»",
+     "url": "https://www.tclf.org/landscapes/fallingwater",
+     "checks": "Familia Kaufmann de Pittsburgh; cascada de Bear Run; bandejas de hormigón en voladizo sobre muros de arenisca de Pottsville; construcción desde 1936; donación de 1963; abierta al público, NHL 1974.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "SAH Archipedia, «Fallingwater» (PA-01-FA28)",
+     "url": "https://sah-archipedia.org/buildings/PA-01-FA28",
+     "checks": "1934–1937; refugio de fin de semana de Edgar J. Kaufmann, dueño de tienda por departamentos; arenisca, hormigón, vidrio y acero; voladizo sobre la cascada de Bear Run; revitalizó la reputación de Wright; hoy museo. ⚠ el año de término 1937 solo figura como límite de ese rango.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Fallingwater"
+  },
+  {
+   "id": "villa-mairea-1939",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Villa Mairea",
+   "designers": [
+    "aalto-alvar-aino"
+   ],
+   "maker": null,
+   "client": "Harry and Maire Gullichsen",
+   "year": 1939,
+   "date": "1938–39",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Brick, wood, stone and glass; some columns wrapped in cane",
+   "tech": [],
+   "key": "The country house at Noormarkku, Finland, that Alvar and Aino Aalto designed for Harry and Maire Gullichsen, a modern plan softened with wood and stone.",
+   "more": "Designed in 1938–39 for the industrialist Harry Gullichsen and his wife Maire, who were friends and patrons of the Aaltos. An L-shaped plan with open, flowing interiors combines white walls with natural materials, and the columns of the stair and living area imitate tree trunks. It is the house in which Aalto's version of modern architecture, warmer and more tied to nature, is clearest.",
+   "status": "Preserved; the Mairea Foundation looks after it.",
+   "es": {
+    "title": "Villa Mairea",
+    "date": "1938–39",
+    "materials": "Ladrillo, madera, piedra y vidrio; algunas columnas forradas en caña",
+    "key": "La casa de campo de Noormarkku, Finlandia, que Alvar y Aino Aalto diseñaron para Harry y Maire Gullichsen, una planta moderna suavizada con madera y piedra.",
+    "more": "Diseñada en 1938–39 para el industrial Harry Gullichsen y su esposa Maire, amigos y mecenas de los Aalto. Una planta en L con interiores abiertos y fluidos combina muros blancos con materiales naturales, y las columnas de la escalera y del estar imitan troncos de árboles. Es la casa donde mejor se ve la versión de Aalto de la arquitectura moderna, más cálida y ligada a la naturaleza.",
+    "status": "Se conserva; la fundación Mairea la cuida."
+   },
+   "refs": []
+  },
+  {
+   "id": "werkbund-cologne-1914",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Werkbund Exhibition, Cologne",
+   "short": "Werkbund Colonia 1914",
+   "designers": [
+    "henry-van-de-velde",
+    "gropius"
+   ],
+   "client": "Deutscher Werkbund",
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Steel, glass, brick and concrete in temporary exhibition buildings",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "The Deutscher Werkbund’s exhibition of 1914 in Cologne, which showed German industrial design to the world, with Gropius’s model factory and Van de Velde’s theatre.",
+   "more": "Opened in May 1914, the exhibition set out to show a German design able to compete with Britain and France. Gropius, with Adolf Meyer, built a model factory and office building with glazed stair towers, and Van de Velde designed the Werkbund Theatre. At the Werkbund congress held there, Muthesius’s call for standard types met Van de Velde’s defence of the individual artist. The outbreak of war in August 1914 cut the exhibition short.",
+   "status": "Most of the exhibition buildings were temporary and no longer exist.",
+   "es": {
+    "title": "Exposición del Werkbund en Colonia",
+    "materials": "Acero, vidrio, ladrillo y hormigón en edificios de exposición temporales",
+    "key": "La exposición del Deutscher Werkbund de 1914 en Colonia, que mostró al mundo el diseño industrial alemán, con la fábrica modelo de Gropius y el teatro de Van de Velde.",
+    "more": "Inaugurada en mayo de 1914, la exposición quiso mostrar un diseño alemán capaz de competir con el de Gran Bretaña y Francia. Gropius, con Adolf Meyer, levantó una fábrica modelo con edificio de oficinas y torres de escalera vidriadas, y Van de Velde diseñó el Teatro del Werkbund. En el congreso del Werkbund celebrado allí, el llamado de Muthesius a los tipos estándar se enfrentó a la defensa del artista individual de Van de Velde. El estallido de la guerra en agosto de 1914 la interrumpió.",
+    "status": "La mayoría de los edificios de la exposición eran temporales y ya no existen.",
+    "date": "1914",
+    "short": "Werkbund Colonia 1914"
+   },
+   "refs": []
+  },
+  {
+   "id": "karl-marx-hof",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Karl-Marx-Hof",
+   "designers": [],
+   "maker": "Karl Ehn",
+   "client": "City of Vienna",
+   "year": 1927,
+   "date": "1927–1930",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Rendered masonry",
+   "tech": [],
+   "key": "A kilometre-long block of 1,382 municipal flats in ‘Red Vienna’, with laundries, baths, kindergartens and clinics around large courtyards.[1][2][3]",
+   "more": "Designed by the city architect Karl Ehn for the Social Democratic city government,[1][2][3] it housed about 5,000 people in small flats.[1] It built over less than a fifth of its site, leaving the rest for gardens and playgrounds.[2] Shared services made it a model of collective working-class life. In the civil war of February 1934 it was a stronghold of the socialist militia and was shelled by the army.[1][2][3]",
+   "where": [
+    {
+     "label": "Das Rote Wien im Waschsalon, Vienna",
+     "url": "https://www.dasrotewien-waschsalon.at"
+    }
+   ],
+   "status": "Still municipal housing; a museum of Red Vienna occupies a former laundry.",
+   "wiki": "Karl-Marx-Hof",
+   "es": {
+    "title": "Karl-Marx-Hof",
+    "date": "1927–1930",
+    "materials": "Albañilería estucada",
+    "key": "Un bloque de un kilómetro de largo con 1.382 departamentos municipales de la «Viena Roja», con lavanderías, baños, jardines infantiles y consultorios en torno a grandes patios.[1][2][3]",
+    "more": "Diseñado por el arquitecto municipal Karl Ehn para el gobierno socialdemócrata de la ciudad,[1][2][3] alojó a unas 5.000 personas en departamentos pequeños.[1] Edificó menos de un quinto de su terreno y dejó el resto para jardines y juegos.[2] Sus servicios compartidos lo hicieron modelo de una vida obrera colectiva. En la guerra civil de febrero de 1934 fue un bastión de la milicia socialista y fue cañoneado por el ejército.[1][2][3]",
+    "status": "Sigue siendo vivienda municipal; un museo de la Viena Roja ocupa una antigua lavandería."
+   },
+   "refs": [
+    {
+     "label": "Das Rote Wien (SPÖ Wien), Karl-Marx-Hof",
+     "url": "https://www.dasrotewien.at/seite/karl-marx-hof",
+     "checks": "Arquitecto Karl Ehn; originalmente 1.382 departamentos para unas 5.000 personas; terreno de más de un kilómetro (Hagenwiese); dos lavanderías centrales, dos baños, dos jardines infantiles, consultorios, biblioteca; artillería contra el edificio el 13 de febrero de 1934; museo en el Waschsalon Nr. 2 desde 2010. Da como fechas 1926–1930. ⚠ «Arquitecto municipal» y «patios» no se citan expresamente.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Wien Geschichte Wiki (Ciudad de Viena), Karl-Marx-Hof",
+     "url": "https://www.geschichtewiki.wien.gv.at/Karl-Marx-Hof",
+     "checks": "Karl Ehn; 1927–1930, inaugurado el 12 de octubre de 1930; originalmente 1.382 departamentos; 28.751 de 156.027 m² edificados (≈18 %, menos de un quinto); fachada de casi 1.200 m; lavanderías, baños, jardines infantiles, ambulatorio; combates de febrero de 1934 con artillería del ejército federal. Da unos 5.500 habitantes. ⚠ El uso del resto del terreno para «jardines y juegos» no se confirmó palabra por palabra.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Wiener Wohnen, Hof-Informationen: Karl-Marx-Hof",
+     "url": "https://www.wienerwohnen.at/info/hof-informationen/220/Karl-Marx-Hof.html",
+     "checks": "Karl Ehn; 1927–1930; fachada de más de un kilómetro; servicios comunes (consultorio de madres, clínica dental, biblioteca…); combates de la guerra civil desde el 12 de febrero de 1934; hoy 1.274 departamentos.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "maison-de-verre",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Maison de Verre",
+   "designers": [
+    "chareau"
+   ],
+   "maker": null,
+   "client": "Jean and Annie Dalsace",
+   "year": 1928,
+   "date": "1928–1932",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Steel frame, glass blocks, perforated metal, movable partitions",
+   "tech": [],
+   "key": "A house and doctor’s surgery in Paris whose façade is a wall of glass blocks and whose interior is full of movable, machine-like fittings.[1][2][3]",
+   "more": "Pierre Chareau designed it with the Dutch architect Bernard Bijvoet and the metalworker Louis Dalbet for the gynaecologist Jean Dalsace and his wife Annie, inserting it beneath an existing upper floor.[1][2][3][4] A steel structure carries glass-block walls that fill the rooms with diffused light; pivoting screens, sliding partitions and a retractable stair adapt the spaces between surgery and home.[1][2][3] Its steelwork, stairs and partitions were made by Dalbet,[3] which makes it a unique, crafted object rather than a prototype for industry.",
+   "where": [],
+   "status": "Private house, restored; a listed historic monument with limited visits.",
+   "wiki": "Maison_de_Verre",
+   "es": {
+    "title": "Maison de Verre",
+    "date": "1928–1932",
+    "materials": "Estructura de acero, bloques de vidrio, metal perforado, tabiques móviles",
+    "key": "Una casa y consulta médica en París cuya fachada es un muro de bloques de vidrio y cuyo interior está lleno de elementos móviles como de máquina.[1][2][3]",
+    "more": "Pierre Chareau la diseñó con el arquitecto neerlandés Bernard Bijvoet y el herrero Louis Dalbet para el ginecólogo Jean Dalsace y su esposa Annie, insertándola bajo un piso superior existente.[1][2][3][4] Una estructura de acero sostiene muros de bloques de vidrio que llenan las piezas de luz difusa; pantallas giratorias, tabiques corredizos y una escalera retráctil adaptan los espacios entre consulta y hogar.[1][2][3] Su estructura, escaleras y tabiques metálicos los hizo Dalbet,[3] lo que la convierte en un objeto único y artesanal más que en un prototipo para la industria.",
+    "status": "Casa privada restaurada; monumento histórico con visitas limitadas."
+   },
+   "refs": [
+    {
+     "label": "Ministère de la Culture, base Mérimée PA00088790, Maison de Verre",
+     "url": "https://pop.culture.gouv.fr/notice/merimee/PA00088790",
+     "checks": "Construida de 1928 a 1931; Pierre Chareau con Bernard Bijvoet (arquitecto de origen neerlandés) y el herrero Louis Dalbet; encargo del Dr. Jean Dalsace, consulta en la planta baja; estructura metálica insertada en un edificio del siglo XVIII cuyo piso superior quedó intacto por una inquilina; fachada de baldosas de vidrio de Saint-Gobain; monumento histórico clasificado el 23-11-1982; restaurada por Bernard Bauchet (1985–1993).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "BnF, Passerelles: «La Maison de verre»",
+     "url": "https://passerelles.essentiels.bnf.fr/fr/chronologie/construction/4fdcc843-474a-4041-a018-bb996a96483c-maison-verre/article/6a599ed2-be36-41e0-983f-3d60987fa674-maison-verre",
+     "checks": "Chareau, Bijvoet y Dalbet para el Dr. Jean Dalsace, 1928–1931; pilares metálicos bajo el piso superior conservado; ladrillos de vidrio Nevada de 20 × 20 cm; elementos desmontables y escaleras metálicas retráctiles; consulta, estar y dormitorios en tres niveles.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, Pompidou+: «The Secret History of the Maison de Verre»",
+     "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/the-secret-history-of-the-maison-de-verre-a-masterpiece-of-modern-architecture",
+     "checks": "Annie y Jean Dalsace, él ginecólogo; encargo de 1927; inquilina del último piso que no quiso irse; Dalbet hizo la estructura de acero, escaleras, barandas y tabiques de metal perforado; tabiques móviles o giratorios; fachada de ladrillo de vidrio; monumento histórico (da 1983). ⚠ La lectura «objeto único y artesanal más que prototipo industrial» es interpretación y no se cita literal.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Jewish Museum, Nueva York, «Pierre Chareau: Modern Architecture and Design» (2016)",
+     "url": "https://thejewishmuseum.org/exhibitions/pierre-chareau-modern-architecture-and-design",
+     "checks": "La casa de vidrio terminada en París en 1932; colaboración con Bernard Bijvoet (neerlandés, 1889–1979).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "citta-nuova-1914",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "La Città Nuova",
+   "designers": [
+    "antonio-sant-elia"
+   ],
+   "maker": null,
+   "year": 1914,
+   "date": "1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Ink and pencil drawings on paper",
+   "tech": [],
+   "movements": [
+    "futurism-typography"
+   ],
+   "key": "Antonio Sant’Elia’s drawings of a futurist city of tiered skyscrapers, external lifts and traffic on several levels, shown in Milan in 1914.",
+   "more": "Sant’Elia showed the drawings in Milan in 1914 with the group Nuove Tendenze, and they were never built. They imagine the city as a vast machine, with stepped blocks, lifts on the façades, power stations and transport at different heights, and no ornament. Sant’Elia died in the war in 1916, but the images became a reference for later ideas of the modern city.",
+   "status": "Never built; the drawings survive.",
+   "es": {
+    "title": "La Città Nuova",
+    "date": "1914",
+    "materials": "Dibujos a tinta y lápiz sobre papel",
+    "key": "Los dibujos de Antonio Sant’Elia de una ciudad futurista de rascacielos escalonados, ascensores exteriores y tráfico en varios niveles, expuestos en Milán en 1914.",
+    "more": "Sant’Elia mostró los dibujos en Milán en 1914 con el grupo Nuove Tendenze, y nunca se construyeron. Imaginan la ciudad como una enorme máquina, con bloques escalonados, ascensores en las fachadas, centrales eléctricas y transporte a distintas alturas, sin ornamento. Sant’Elia murió en la guerra en 1916, pero las imágenes quedaron como referencia para ideas posteriores de la ciudad moderna.",
+    "status": "Nunca se construyó; se conservan los dibujos."
+   },
+   "refs": []
+  },
+  {
+   "id": "dom-ino-1914",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Dom-ino House (project)",
+   "designers": [
+    "le-corbusier"
+   ],
+   "maker": null,
+   "year": 1914,
+   "date": "1914–1915",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "CH"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "Le Corbusier’s diagram of a house reduced to concrete slabs on columns with a stair, leaving plan and façade free of load-bearing walls.",
+   "more": "Le Corbusier drew it in 1914–15 with the engineer Max Du Bois as a standard frame for rebuilding the war-damaged towns of Flanders. It is a skeleton of floor slabs carried by columns, joined by a stair, into which walls and windows could be fitted in any arrangement. It was a project, not a built house, but it became the basis of his later ‘five points’ of architecture.",
+   "status": "Never built as designed; the diagram is widely reproduced.",
+   "es": {
+    "title": "Casa Dom-ino (proyecto)",
+    "date": "1914–1915",
+    "materials": "Hormigón armado",
+    "key": "El esquema de Le Corbusier de una casa reducida a losas de hormigón sobre pilares con una escalera, que deja planta y fachada libres de muros portantes.",
+    "more": "Le Corbusier lo dibujó en 1914–15 con el ingeniero Max Du Bois como estructura estándar para reconstruir las ciudades de Flandes dañadas por la guerra. Es un esqueleto de losas sostenidas por pilares, unidas por una escalera, en el que muros y ventanas podían disponerse de cualquier manera. Fue un proyecto y no una casa construida, pero pasó a ser la base de sus posteriores «cinco puntos» de la arquitectura.",
+    "status": "No se construyó tal como se diseñó; el esquema se reproduce ampliamente.",
+    "short": "Casa Dom-ino"
+   },
+   "refs": [],
+   "short": "Dom-ino House"
+  },
+  {
+   "id": "lovell-health-house-1929",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Lovell Health House",
+   "designers": [
+    "richard-neutra"
+   ],
+   "maker": null,
+   "year": 1929,
+   "date": "1927–1929",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, concrete, glass and stucco",
+   "tech": [],
+   "movements": [
+    "international-style"
+   ],
+   "key": "Richard Neutra’s house in Los Angeles for the health-minded Philip Lovell, often called the first steel-framed house of the International Style in the United States.",
+   "more": "Philip Lovell, who promoted natural health and exercise, commissioned a house on a hillside in Los Angeles, and Neutra finished it in 1929. It has a light steel frame with large glazed areas, terraces and a pool, designed for sun, air and an active life. It was included in the 1932 International Style exhibition at the Museum of Modern Art.",
+   "status": "Still standing in Los Angeles.",
+   "es": {
+    "title": "Casa Lovell (Health House)",
+    "date": "1927–1929",
+    "materials": "Estructura de acero, hormigón, vidrio y estuco",
+    "key": "La casa de Richard Neutra en Los Ángeles para Philip Lovell, un cliente preocupado por la salud, a menudo considerada la primera casa de estructura de acero del estilo internacional en Estados Unidos.",
+    "more": "Philip Lovell, que promovía la vida natural y el ejercicio, encargó una casa en una ladera de Los Ángeles, y Neutra la terminó en 1929. Tiene una estructura liviana de acero con grandes paños de vidrio, terrazas y una piscina, pensada para el sol, el aire y una vida activa. Se incluyó en la exposición del estilo internacional de 1932 en el Museo de Arte Moderno.",
+    "status": "Sigue en pie en Los Ángeles.",
+    "short": "Casa Lovell"
+   },
+   "refs": [],
+   "short": "Lovell Health House"
+  },
+  {
+   "id": "paimio-sanatorium-1933",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Paimio Sanatorium",
+   "designers": [
+    "aalto-alvar-aino"
+   ],
+   "maker": null,
+   "year": 1933,
+   "date": "1929–1933",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Reinforced concrete, glass",
+   "tech": [],
+   "key": "Alvar Aalto’s tuberculosis sanatorium in Finland, designed down to the furniture, with patient rooms, terraces and wards planned around sun, air and rest.",
+   "more": "Aalto won the competition in 1929 and the sanatorium opened in 1933. Rooms, balconies and rest terraces were arranged to give patients sun and air, the standard treatment of the time. Aalto also designed the furniture, lamps and fittings for it, among them the Paimio chair, so that the building and its objects were thought of as one design for the patient.",
+   "status": "Still standing and open to visits.",
+   "es": {
+    "title": "Sanatorio de Paimio",
+    "date": "1929–1933",
+    "materials": "Hormigón armado, vidrio",
+    "key": "El sanatorio para tuberculosos de Alvar Aalto en Finlandia, diseñado hasta el mobiliario, con habitaciones, terrazas y salas pensadas en torno al sol, el aire y el reposo.",
+    "more": "Aalto ganó el concurso en 1929 y el sanatorio abrió en 1933. Habitaciones, balcones y terrazas de reposo se dispusieron para dar sol y aire a los pacientes, el tratamiento habitual de la época. Aalto diseñó también para él el mobiliario, las lámparas y los accesorios, entre ellos la silla Paimio, de modo que el edificio y sus objetos se pensaron como un solo diseño para el paciente.",
+    "status": "Sigue en pie y se puede visitar."
+   },
+   "refs": []
+  }
+ ]
+}

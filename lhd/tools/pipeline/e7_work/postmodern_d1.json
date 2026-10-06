@@ -1,0 +1,513 @@
+[
+ {
+  "rtype": "designer",
+  "id": "denise-scott-brown",
+  "name": "Denise Scott Brown",
+  "born": 1931,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "ZA",
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Coautora de Learning from Las Vegas y socia de Venturi; su exclusión del Pritzker de 1991 es un caso central de la historiografía feminista.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "El reconocimiento desigual entre socios se vuelve un debate público sobre autoría y género"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-learning-from-las-vegas",
+    "mecanismo": "Coautora"
+   }
+  ],
+  "movements": [
+   "postmodern-architecture"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-feminisms",
+    "item": "denise-scott-brown",
+    "mecanismo": "El reconocimiento desigual entre socios se vuelve un debate público sobre autoría y género"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "diller-scofidio-renfro",
+  "name": "Diller Scofidio + Renfro",
+  "born": 1979,
+  "died": null,
+  "kind": "collective",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Estudio neoyorquino (High Line, con James Corner Field Operations y Piet Oudolf).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "mecanismo": "La infraestructura industrial abandonada se transforma en espacio público"
+   }
+  ],
+  "movements": [
+   "landscape-urbanism"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-deindustrialisation-regeneration",
+    "item": "diller-scofidio-renfro",
+    "mecanismo": "La infraestructura industrial abandonada se transforma en espacio público"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "miuccia-prada",
+  "name": "Miuccia Prada",
+  "born": 1949,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñadora de Prada y Miu Miu; su mochila de nailon redefinió el lujo de los ochenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "Un material industrial con un logo discreto se vuelve objeto de lujo"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-branding",
+    "item": "miuccia-prada",
+    "mecanismo": "Un material industrial con un logo discreto se vuelve objeto de lujo"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "karl-lagerfeld",
+  "name": "Karl Lagerfeld",
+  "born": 1933,
+  "died": 2019,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Director creativo de Chanel desde 1983; modelo del diseñador que reinterpreta una casa histórica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La casa de moda se gestiona como marca global"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-branding",
+    "item": "karl-lagerfeld",
+    "mecanismo": "La casa de moda se gestiona como marca global"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "donna-karan",
+  "name": "Donna Karan",
+  "born": 1948,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñadora del guardarropa modular para la mujer ejecutiva.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-feminisms",
+    "mecanismo": "Más mujeres en cargos directivos → ropa de trabajo propia, no copiada del traje masculino"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-feminisms",
+    "item": "donna-karan",
+    "mecanismo": "Más mujeres en cargos directivos → ropa de trabajo propia, no copiada del traje masculino"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "marc-jacobs",
+  "name": "Marc Jacobs",
+  "born": 1963,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de la colección grunge para Perry Ellis y director de Louis Vuitton.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mtv-club",
+    "mecanismo": "La música grunge difundida por MTV llega a la pasarela"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mtv-club",
+    "item": "marc-jacobs",
+    "mecanismo": "La música grunge difundida por MTV llega a la pasarela"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "helmut-lang",
+  "name": "Helmut Lang",
+  "born": 1956,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "fashion"
+  ],
+  "countries": [
+   "AT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador austríaco del minimalismo de los noventa; pionero de la presentación en línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-internet-culture",
+    "mecanismo": "La web permite presentar una colección sin desfile"
+   }
+  ],
+  "movements": [
+   "minimalism-fashion-product"
+  ],
+  "duda": "Presentación en línea de 1998: verificar el detalle.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-internet-culture",
+    "item": "helmut-lang",
+    "mecanismo": "La web permite presentar una colección sin desfile"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "jamie-reid",
+  "name": "Jamie Reid",
+  "born": 1947,
+  "died": 2023,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Autor de la gráfica de los Sex Pistols: collage y letras recortadas de nota de rescate.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "El punk pide una gráfica barata, agresiva y de apariencia improvisada"
+   }
+  ],
+  "movements": [
+   "punk-fashion"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-punk",
+    "item": "jamie-reid",
+    "mecanismo": "El punk pide una gráfica barata, agresiva y de apariencia improvisada"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "wolfgang-weingart",
+  "name": "Wolfgang Weingart",
+  "born": 1941,
+  "died": 2021,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "DE",
+   "CH"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Profesor en Basilea que rompió el estilo suizo desde dentro: origen de la New Wave tipográfica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-crisis-functionalism",
+    "mecanismo": "La crisis del funcionalismo → capas, texturas y tipografía rota"
+   }
+  ],
+  "movements": [
+   "new-wave-typography",
+   "basel-school-typography"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-crisis-functionalism",
+    "item": "wolfgang-weingart",
+    "mecanismo": "La crisis del funcionalismo → capas, texturas y tipografía rota"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "peter-saville",
+  "name": "Peter Saville",
+  "born": 1955,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de Factory Records (Joy Division, New Order).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "Tras el punk, sellos independientes dan libertad total a las portadas"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-punk",
+    "item": "peter-saville",
+    "mecanismo": "Tras el punk, sellos independientes dan libertad total a las portadas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "toru-iwatani",
+  "name": "Toru Iwatani",
+  "born": 1955,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de Pac-Man en Namco.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Microprocesadores baratos hacen posibles los videojuegos de salón"
+   }
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-microelectronics",
+    "item": "toru-iwatani",
+    "mecanismo": "Microprocesadores baratos hacen posibles los videojuegos de salón"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "katherine-mccoy",
+  "name": "Katherine McCoy",
+  "born": 1945,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Codirectora del posgrado de Cranbrook; llevó el postestructuralismo al diseño gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "La teoría francesa sugiere textos con varias lecturas"
+   }
+  ],
+  "movements": [
+   "new-wave-typography"
+  ],
+  "institutions": [
+   "inst-cranbrook"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-postmodern-culture",
+    "item": "katherine-mccoy",
+    "mecanismo": "La teoría francesa sugiere textos con varias lecturas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

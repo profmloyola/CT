@@ -1,0 +1,674 @@
+{
+ "institutions": [
+  {
+   "id": "inst-memphis-group",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1981,
+   "end": 1988,
+   "place": "Milan",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Memphis Group",
+   "short": "Memphis",
+   "key": "The Milan group led by Ettore Sottsass that showed colourful, playful furniture and objects in 1981 and broke with the sober good taste of modern design.",
+   "more": "It took shape in Milan in December 1980 around Ettore Sottsass, with young designers and architects such as Michele De Lucchi, Matteo Thun, George Sowden, Martine Bedin, Nathalie Du Pasquier and Aldo Cibic. Its first collection was shown in September 1981 during the Milan furniture fair, and its name is said to come from a Bob Dylan song played that night. It used plastic laminates, bright colours and unexpected shapes. Sottsass left the group in 1985 and it was dissolved in 1988.",
+   "links": {
+    "designers": [
+     "ettore-sottsass",
+     "michele-de-lucchi"
+    ],
+    "works": [
+     "carlton-bookcase-1981",
+     "first-chair-1983"
+    ]
+   },
+   "es": {
+    "name": "Grupo Memphis",
+    "short": "Memphis",
+    "place": "Milán",
+    "key": "El grupo milanés dirigido por Ettore Sottsass que mostró en 1981 muebles y objetos coloridos y juguetones y rompió con el buen gusto sobrio del diseño moderno.",
+    "more": "Se formó en Milán en diciembre de 1980 en torno a Ettore Sottsass, con jóvenes diseñadores y arquitectos como Michele De Lucchi, Matteo Thun, George Sowden, Martine Bedin, Nathalie Du Pasquier y Aldo Cibic. Su primera colección se mostró en septiembre de 1981 durante la feria del mueble de Milán, y se dice que su nombre viene de una canción de Bob Dylan que sonaba esa noche. Usó laminados plásticos, colores vivos y formas inesperadas. Sottsass dejó el grupo en 1985 y este se disolvió en 1988."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-apple",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1976,
+   "end": null,
+   "place": "Cupertino, California",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Apple",
+   "short": "Apple",
+   "key": "The American computer company, founded in 1976, that made design a central part of its products, from the Macintosh of 1984 to the iMac and the iPhone.",
+   "more": "Steve Jobs, Steve Wozniak and Ronald Wayne founded it on 1 April 1976. The Macintosh of 1984 brought the graphical interface and its icons to a wide public, and from 1982 the firm worked with Hartmut Esslinger’s frog design on a common product language. After Jobs returned in 1997, Jonathan Ive’s design team produced the iMac (1998), the iPod (2001) and the iPhone (2007), and the company became a model of a firm in which industrial design shapes strategy.",
+   "links": {
+    "designers": [],
+    "works": [
+     "kare-chicago-geneva-1984",
+     "apple-iic-1984",
+     "macintosh-128k-1984",
+     "imac-1998",
+     "ipod-2001",
+     "iphone-2007",
+     "macbook-air-2008",
+     "apple-rainbow-logo-1977"
+    ]
+   },
+   "es": {
+    "name": "Apple",
+    "short": "Apple",
+    "place": "Cupertino, California",
+    "key": "La empresa estadounidense de computadores, fundada en 1976, que hizo del diseño una parte central de sus productos, desde el Macintosh de 1984 hasta el iMac y el iPhone.",
+    "more": "Steve Jobs, Steve Wozniak y Ronald Wayne la fundaron el 1 de abril de 1976. El Macintosh de 1984 llevó a un público amplio la interfaz gráfica y sus íconos, y desde 1982 la empresa trabajó con frog design, de Hartmut Esslinger, en un lenguaje común de producto. Tras el regreso de Jobs en 1997, el equipo de diseño de Jonathan Ive produjo el iMac (1998), el iPod (2001) y el iPhone (2007), y la compañía se volvió un modelo de empresa en que el diseño industrial orienta la estrategia."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-ideo",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1991,
+   "end": null,
+   "place": "Palo Alto, California",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "IDEO",
+   "short": "IDEO",
+   "key": "The American design firm formed in 1991 that made designing with users and quick prototyping a method for products, services and organisations.",
+   "more": "It was formed in 1991 by the merger of David Kelley Design, Moggridge Associates and ID Two, with David Kelley, Bill Moggridge and Mike Nuttall among its founders. It designed products and interfaces for many clients and later widened its work to services and organisations. Its approach of observing people, building rough prototypes early and testing them was spread by its leaders as design thinking, notably in a 2008 article by Tim Brown.",
+   "links": {
+    "designers": [],
+    "works": [],
+    "movements": [
+     "interaction-design"
+    ]
+   },
+   "es": {
+    "name": "IDEO",
+    "short": "IDEO",
+    "place": "Palo Alto, California",
+    "key": "La empresa estadounidense de diseño formada en 1991 que hizo del diseño con los usuarios y del prototipado rápido un método para productos, servicios y organizaciones.",
+    "more": "Se formó en 1991 con la fusión de David Kelley Design, Moggridge Associates e ID Two, y entre sus fundadores figuran David Kelley, Bill Moggridge y Mike Nuttall. Diseñó productos e interfaces para muchos clientes y luego amplió su trabajo a servicios y organizaciones. Su enfoque de observar a las personas, construir prototipos toscos desde temprano y probarlos fue difundido por sus líderes como design thinking, en particular en un artículo de Tim Brown de 2008."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-emigre",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1984,
+   "end": 2005,
+   "place": "Berkeley and Sacramento, California",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Emigre",
+   "short": "Emigre",
+   "key": "The Californian magazine and type foundry of Rudy VanderLans and Zuzana Licko, which used the Macintosh to make experimental typography and new typefaces.",
+   "more": "Rudy VanderLans, a Dutch-born designer, and Zuzana Licko, born in Czechoslovakia, founded the magazine in 1984, the year the Macintosh appeared. Licko drew bitmap typefaces for the low-resolution screen and printer, and Emigre Fonts sold them and later many other designs by Licko and other designers. The magazine, which became a forum for debate on typography, published its last issue in 2005; the type foundry continued.",
+   "links": {
+    "designers": [
+     "zuzana-licko"
+    ],
+    "works": [
+     "emigre-magazine-1984",
+     "emigre-bitmap-fonts-1985"
+    ]
+   },
+   "es": {
+    "name": "Emigre",
+    "short": "Emigre",
+    "place": "Berkeley y Sacramento, California",
+    "key": "La revista y fundición tipográfica californiana de Rudy VanderLans y Zuzana Licko, que usó el Macintosh para hacer tipografía experimental y nuevas tipografías.",
+    "more": "Rudy VanderLans, diseñador nacido en los Países Bajos, y Zuzana Licko, nacida en Checoslovaquia, fundaron la revista en 1984, el año en que apareció el Macintosh. Licko dibujó tipografías de mapa de bits para la pantalla y la impresora de baja resolución, y Emigre Fonts las vendió y más tarde vendió muchos otros diseños de Licko y de otras personas. La revista, que se volvió un foro de debate sobre tipografía, publicó su último número en 2005; la fundición siguió."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-alessi",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1975,
+   "end": null,
+   "place": "Omegna, Italy",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Alessi",
+   "short": "Alessi",
+   "key": "The Italian maker of kitchen and table objects, founded in 1921, that from the 1980s worked with architects and designers to turn everyday objects into design icons.",
+   "more": "Giovanni Alessi founded it in 1921 in Omegna, in northern Italy, first making objects in metal. Under Alberto Alessi it began to commission designs from architects and designers, among them Alessandro Mendini, Michael Graves and Philippe Starck. Michael Graves’s kettle with a bird-shaped whistle (1985) and Starck’s Juicy Salif lemon squeezer (1990) became well-known products. The date 1975 marks the start of the period shown here.",
+   "links": {
+    "designers": [
+     "alessandro-mendini",
+     "michael-graves",
+     "philippe-starck"
+    ],
+    "works": [
+     "kettle-9093-1985",
+     "anna-g-corkscrew-1994",
+     "juicy-salif-1990"
+    ]
+   },
+   "es": {
+    "name": "Alessi",
+    "short": "Alessi",
+    "place": "Omegna, Italia",
+    "key": "El fabricante italiano de objetos de cocina y mesa, fundado en 1921, que desde los años ochenta trabajó con arquitectos y diseñadores para convertir objetos cotidianos en íconos del diseño.",
+    "more": "Giovanni Alessi la fundó en 1921 en Omegna, en el norte de Italia, y al comienzo fabricó objetos de metal. Bajo Alberto Alessi empezó a encargar diseños a arquitectos y diseñadores, entre ellos Alessandro Mendini, Michael Graves y Philippe Starck. La tetera con silbato en forma de pájaro de Michael Graves (1985) y el exprimidor de limones Juicy Salif de Starck (1990) se volvieron productos muy conocidos. El año 1975 marca el inicio del período que se muestra aquí."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-vitra-design-museum",
+   "level": "normal",
+   "kind": "museum",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1989,
+   "end": null,
+   "place": "Weil am Rhein, Germany",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Vitra Design Museum",
+   "short": "Vitra Design Museum",
+   "key": "The museum of design opened in 1989 beside the Vitra furniture factory in Weil am Rhein, in a building by Frank Gehry.",
+   "more": "The furniture maker Vitra opened it in 1989 on its site in Weil am Rhein, southern Germany, with Rolf Fehlbaum as the driving force behind the project. The building was Frank Gehry’s first in Europe. It keeps a large collection of modern furniture and organises touring exhibitions on design, and it was one of the museums that gave design a public and historical status of its own.",
+   "links": {
+    "designers": [
+     "frank-gehry"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Vitra Design Museum",
+    "short": "Vitra Design Museum",
+    "place": "Weil am Rhein, Alemania",
+    "key": "El museo de diseño abierto en 1989 junto a la fábrica de muebles Vitra, en Weil am Rhein, en un edificio de Frank Gehry.",
+    "more": "La fabricante de muebles Vitra lo inauguró en 1989 en su terreno de Weil am Rhein, en el sur de Alemania, con Rolf Fehlbaum como impulsor del proyecto. El edificio fue la primera obra de Frank Gehry en Europa. Conserva una gran colección de mobiliario moderno y organiza exposiciones itinerantes sobre diseño, y fue uno de los museos que dieron al diseño un estatus público e histórico propio."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-droog",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1993,
+   "end": null,
+   "place": "Amsterdam, Netherlands",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "name": "Droog Design",
+   "short": "Droog",
+   "key": "The Dutch collective of product designers founded in 1993 by Gijs Bakker and Renny Ramakers, known for witty, conceptual objects made from everyday materials.",
+   "more": "Gijs Bakker, a designer, and Renny Ramakers, a design critic, founded it in 1993 and presented a first collection at the Milan furniture fair that year. Its objects often reused ordinary materials and shapes with irony, as in Tejo Remy’s chest of drawers made of old drawers bound together. Its work helped make Dutch design known worldwide in the 1990s.",
+   "links": {
+    "designers": [],
+    "works": [
+     "rag-chair-1991"
+    ],
+    "movements": []
+   },
+   "es": {
+    "name": "Droog Design",
+    "short": "Droog",
+    "place": "Ámsterdam, Países Bajos",
+    "key": "El colectivo neerlandés de diseñadores de producto fundado en 1993 por Gijs Bakker y Renny Ramakers, conocido por objetos ingeniosos y conceptuales hechos con materiales cotidianos.",
+    "more": "Gijs Bakker, diseñador, y Renny Ramakers, crítica de diseño, lo fundaron en 1993 y presentaron una primera colección en la feria del mueble de Milán ese año. Sus objetos reutilizaban con ironía materiales y formas corrientes, como la cómoda de Tejo Remy hecha de cajones viejos atados entre sí. Su trabajo ayudó a dar a conocer el diseño neerlandés en el mundo durante los años noventa."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-elemental",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 2001,
+   "end": null,
+   "place": "Santiago, Chile",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Elemental",
+   "short": "Elemental",
+   "key": "The Chilean architecture studio led by Alejandro Aravena, known for social housing that residents can extend themselves.",
+   "more": "Founded in 2001 by Alejandro Aravena and Andrés Iacobelli, it describes itself as a do tank that works on public-interest projects such as housing and public space. Its Quinta Monroy project in Iquique (2004) gave each family half of a good house, which they could complete as they could afford it. Aravena received the Pritzker Prize in 2016 and directed the Venice Architecture Biennale that year.",
+   "links": {
+    "designers": [
+     "alejandro-aravena"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Elemental",
+    "short": "Elemental",
+    "place": "Santiago, Chile",
+    "key": "El estudio chileno de arquitectura dirigido por Alejandro Aravena, conocido por vivienda social que los propios habitantes pueden ampliar.",
+    "more": "Fundado en 2001 por Alejandro Aravena y Andrés Iacobelli, se define como un do tank que trabaja en proyectos de interés público como la vivienda y el espacio público. Su proyecto Quinta Monroy, en Iquique (2004), entregó a cada familia la mitad de una buena casa, que ellas podían completar según sus posibilidades. Aravena recibió el Premio Pritzker en 2016 y dirigió ese año la Bienal de Arquitectura de Venecia."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-zara",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1975,
+   "end": null,
+   "place": "Arteixo, Spain",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "name": "Zara (Inditex)",
+   "short": "Zara",
+   "key": "The Spanish fashion chain opened in A Coruña in 1975 that built its business on getting new designs into its stores within weeks.",
+   "more": "Amancio Ortega and Rosalía Mera opened the first Zara store in A Coruña, Galicia, in 1975. The chain belongs to Inditex, the group based in Arteixo, which Ortega built around it. Its model keeps design, production and distribution closely linked, so that new garments reach the shops quickly and in small batches. It became a model of what is called fast fashion.",
+   "links": {
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Zara (Inditex)",
+    "short": "Zara",
+    "place": "Arteixo, España",
+    "key": "La cadena de moda española abierta en La Coruña en 1975 que basó su negocio en llevar diseños nuevos a sus tiendas en pocas semanas.",
+    "more": "Amancio Ortega y Rosalía Mera abrieron la primera tienda Zara en La Coruña, Galicia, en 1975. La cadena pertenece a Inditex, el grupo con sede en Arteixo que Ortega construyó en torno a ella. Su modelo mantiene muy ligados el diseño, la producción y la distribución, de modo que las prendas nuevas llegan rápido a las tiendas y en series pequeñas. Se volvió un modelo de lo que se llama moda rápida."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-muji",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1980,
+   "end": null,
+   "place": "Tokyo, Japan",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "name": "Muji",
+   "short": "Muji",
+   "key": "The Japanese brand launched in 1980 that sells plain, unbranded household goods, and became a model of design without a signature.",
+   "more": "Muji began in 1980 as a private-label line of the Japanese supermarket chain Seiyu, under the name Mujirushi Ryohin, roughly ‘no-brand quality goods’. Its products have plain forms, natural materials and little packaging, and the company later opened its own stores in Japan and abroad. Its restraint was influential outside Japan: designers such as Jasper Morrison worked for it, and the brand showed that absence of a signature could itself be a design.",
+   "links": {
+    "designers": [],
+    "works": [
+     "muji-cd-player-1999"
+    ]
+   },
+   "es": {
+    "name": "Muji",
+    "short": "Muji",
+    "place": "Tokio, Japón",
+    "key": "La marca japonesa lanzada en 1980 que vende artículos domésticos sencillos y sin marca, y se volvió un modelo de diseño sin firma.",
+    "more": "Muji nació en 1980 como una línea de marca propia de la cadena de supermercados japonesa Seiyu, con el nombre Mujirushi Ryohin, más o menos «productos de calidad sin marca». Sus productos tienen formas simples, materiales naturales y poco envase, y la empresa abrió más tarde tiendas propias en Japón y en el extranjero. Su sobriedad influyó fuera de Japón: diseñadores como Jasper Morrison trabajaron para ella, y la marca mostró que la ausencia de firma podía ser en sí un diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-frog-design",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1975,
+   "end": null,
+   "place": "Altensteig, Germany; later San Francisco",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "US"
+   ],
+   "name": "frog design",
+   "short": "frog design",
+   "key": "Design firm founded by Hartmut Esslinger in Germany in 1969, known for its work for Sony and for Apple’s design language of the 1980s.",
+   "more": "Esslinger founded his studio in 1969 in Altensteig, Germany, and it took the name frog design in 1982. It worked for the electronics maker Sony and, from the early 1980s, for Apple, for which it developed a design language for its computers. The firm later set up offices in the United States and became a large international design and consulting company. The start year is set at 1975, the first of this period; the firm itself dates from 1969.",
+   "es": {
+    "name": "frog design",
+    "short": "frog design",
+    "place": "Altensteig, Alemania; luego San Francisco",
+    "key": "Estudio de diseño fundado por Hartmut Esslinger en Alemania en 1969, conocido por su trabajo para Sony y por el lenguaje de diseño de Apple en los años ochenta.",
+    "more": "Esslinger fundó su estudio en 1969 en Altensteig, Alemania, y este tomó el nombre frog design en 1982. Trabajó para el fabricante de electrónica Sony y, desde comienzos de los años ochenta, para Apple, para la que desarrolló un lenguaje de diseño de sus computadores. Más tarde la firma abrió oficinas en Estados Unidos y se convirtió en una gran empresa internacional de diseño y consultoría. El año de inicio se fija en 1975, el primero de este período; la firma misma data de 1969."
+   },
+   "refs": [],
+   "links": {
+    "designers": [
+     "hartmut-esslinger"
+    ],
+    "institutions": [
+     "inst-apple"
+    ]
+   }
+  },
+  {
+   "id": "inst-design-museum-london",
+   "level": "normal",
+   "kind": "museum",
+   "disciplines": [
+    "product",
+    "graphic",
+    "architecture"
+   ],
+   "start": 1989,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Design Museum, London",
+   "short": "Design Museum",
+   "key": "London museum of design founded in 1989 by Terence Conran, which moved in 2016 to a new home in Kensington.",
+   "more": "It opened in 1989 in a converted warehouse at Butler’s Wharf, on the Thames, at the initiative of the designer and retailer Terence Conran. It presented industrial, graphic, fashion and architectural design to a wide public, at a time when design museums were multiplying in Europe. In 2016 it moved to the former Commonwealth Institute building in Kensington, remodelled by the architect John Pawson.",
+   "es": {
+    "name": "Design Museum de Londres",
+    "short": "Design Museum",
+    "place": "Londres",
+    "key": "Museo de diseño de Londres fundado en 1989 por Terence Conran, que en 2016 se trasladó a una nueva sede en Kensington.",
+    "more": "Abrió en 1989 en una bodega reconvertida en Butler’s Wharf, a orillas del Támesis, por iniciativa del diseñador y empresario Terence Conran. Presentó diseño industrial, gráfico, de moda y de arquitectura a un público amplio, en una época en que los museos de diseño se multiplicaban en Europa. En 2016 se trasladó al antiguo edificio del Commonwealth Institute en Kensington, remodelado por el arquitecto John Pawson."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-aga-khan-award",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1977,
+   "end": null,
+   "place": "Geneva",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "name": "Aga Khan Award for Architecture",
+   "short": "Aga Khan Award",
+   "key": "An architecture prize created by the Aga Khan to recognise buildings that respond to the needs of Muslim societies, rewarding local solutions over imported models.",
+   "more": "The Aga Khan Award for Architecture was established in 1977 by the Aga Khan IV and is given in cycles of about three years, the first awards being made in 1980. It recognises built projects in Muslim societies and beyond, including restoration, public space and community building, not only landmark monuments. By rewarding work that reinterprets local tradition, climate and materials, it gave the architecture of the Islamic world an international platform at a time when imported models dominated.",
+   "links": {
+    "movements": [
+     "critical-regionalism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Premio Aga Khan de Arquitectura",
+    "short": "Premio Aga Khan",
+    "place": "Ginebra",
+    "key": "Un premio de arquitectura creado por el Aga Khan para reconocer edificios que responden a las necesidades de las sociedades musulmanas y que valora las soluciones locales por sobre los modelos importados.",
+    "more": "El Premio Aga Khan de Arquitectura fue establecido en 1977 por el Aga Khan IV y se entrega en ciclos de unos tres años; los primeros galardones se otorgaron en 1980. Reconoce proyectos construidos en las sociedades musulmanas y fuera de ellas, incluidas restauraciones, espacios públicos y obras comunitarias, y no solo monumentos. Al premiar obras que reinterpretan la tradición, el clima y los materiales locales, dio a la arquitectura del mundo islámico una plataforma internacional en una época dominada por modelos importados."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-pritzker",
+   "level": "essential",
+   "kind": "association",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1979,
+   "end": null,
+   "place": "Chicago",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Pritzker Architecture Prize",
+   "short": "Pritzker Prize",
+   "key": "The prize founded by Jay A. Pritzker and his wife Cindy in 1979 that became architecture’s highest honour and a shaper of the contemporary canon.",
+   "more": "Established in 1979 by Jay A. Pritzker and Cindy Pritzker through the Hyatt Foundation, it is awarded each year to a living architect for a body of work. Philip Johnson was the first laureate in 1979, Frank Gehry received it in 1989 and Alejandro Aravena, the first Chilean winner, in 2016. By honouring individual architects rather than buildings or firms, it helped build the public image of the author-architect and fixed a short international list of canonical names.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "frank-gehry",
+     "philip-johnson",
+     "alejandro-aravena"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Premio Pritzker de Arquitectura",
+    "short": "Premio Pritzker",
+    "place": "Chicago",
+    "key": "El premio fundado en 1979 por Jay A. Pritzker y su esposa Cindy, que se volvió el máximo honor de la arquitectura y modeló el canon contemporáneo.",
+    "more": "Establecido en 1979 por Jay A. Pritzker y Cindy Pritzker a través de la Fundación Hyatt, se entrega cada año a un arquitecto vivo por el conjunto de su obra. Philip Johnson fue el primer laureado en 1979, Frank Gehry lo recibió en 1989 y Alejandro Aravena, el primer chileno en ganarlo, en 2016. Al honrar a arquitectos individuales y no a edificios o estudios, ayudó a construir la imagen pública del arquitecto de autor y fijó una lista internacional corta de nombres canónicos."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-venice-architecture-biennale",
+   "level": "essential",
+   "kind": "exhibition",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1980,
+   "end": null,
+   "place": "Venice",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Venice Architecture Biennale",
+   "short": "Venice Biennale",
+   "key": "The international architecture exhibition of Venice, whose first edition in 1980, The Presence of the Past, gave the postmodern turn its public stage.",
+   "more": "Its first architecture exhibition opened in 1980 under Paolo Portoghesi with the title The Presence of the Past. Its centrepiece was the Strada Novissima, a street of facades designed by a group of architects in the Corderie of the Arsenale. Later editions made it a regular international forum, held every two years, where architects and countries present their work.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-pritzker"
+    ],
+    "designers": [],
+    "works": [
+     "strada-novissima-1980"
+    ]
+   },
+   "es": {
+    "name": "Bienal de Arquitectura de Venecia",
+    "short": "Bienal de Venecia",
+    "place": "Venecia",
+    "key": "La exposición internacional de arquitectura de Venecia, cuya primera edición en 1980, La presencia del pasado, dio al giro posmoderno su escenario público.",
+    "more": "Su primera exposición de arquitectura se inauguró en 1980 bajo la dirección de Paolo Portoghesi, con el título La presencia del pasado. Su pieza central fue la Strada Novissima, una calle de fachadas diseñadas por un grupo de arquitectos en las Corderie del Arsenale. Las ediciones posteriores la convirtieron en un foro internacional regular, que se realiza cada dos años, donde arquitectos y países presentan su trabajo."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-cnu",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1993,
+   "end": null,
+   "place": "United States",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Congress for the New Urbanism",
+   "short": "CNU",
+   "key": "The organisation founded in 1993 by Andrés Duany, Peter Calthorpe and others to promote walkable, compact neighbourhoods, author of the Charter of the New Urbanism.",
+   "more": "Its founders included Andrés Duany, Elizabeth Plater-Zyberk, Peter Calthorpe, Stefanos Polyzoides, Elizabeth Moule and Daniel Solomon, who first met as a congress in 1993. It adopted the Charter of the New Urbanism in 1996, which calls for walkable, mixed-use neighbourhoods and the restoration of existing city centres against car-dependent suburban sprawl. It is the institutional vehicle of the New Urbanism movement.",
+   "links": {
+    "movements": [
+     "new-urbanism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Congreso para el Nuevo Urbanismo",
+    "short": "CNU",
+    "place": "Estados Unidos",
+    "key": "La organización fundada en 1993 por Andrés Duany, Peter Calthorpe y otros para promover barrios compactos y caminables, autora de la Carta del Nuevo Urbanismo.",
+    "more": "Entre sus fundadores estaban Andrés Duany, Elizabeth Plater-Zyberk, Peter Calthorpe, Stefanos Polyzoides, Elizabeth Moule y Daniel Solomon, que se reunieron por primera vez como congreso en 1993. En 1996 adoptó la Carta del Nuevo Urbanismo, que pide barrios caminables de usos mixtos y la recuperación de los centros urbanos existentes frente a la expansión suburbana dependiente del auto. Es el vehículo institucional del movimiento del Nuevo Urbanismo."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-rural-studio",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1993,
+   "end": null,
+   "place": "Hale County, Alabama",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Rural Studio",
+   "short": "Rural Studio",
+   "key": "The Auburn University design-build programme founded in 1993 by Samuel Mockbee and D. K. Ruth, in which students build for poor communities in rural Alabama.",
+   "more": "Samuel Mockbee and D. K. Ruth founded it in 1993 as part of Auburn University’s architecture programme, working in Hale County, Alabama. Students design and build houses and community buildings for local residents, often with reused and donated materials. Mockbee died in 2001, and the studio has continued since.",
+   "links": {
+    "movements": [
+     "participatory-social-architecture"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Rural Studio",
+    "short": "Rural Studio",
+    "place": "Condado de Hale, Alabama",
+    "key": "El programa de diseño y construcción de la Universidad de Auburn, fundado en 1993 por Samuel Mockbee y D. K. Ruth, en que los estudiantes construyen para comunidades pobres del Alabama rural.",
+    "more": "Samuel Mockbee y D. K. Ruth lo fundaron en 1993 como parte del programa de arquitectura de la Universidad de Auburn, con trabajo en el condado de Hale, Alabama. Los estudiantes diseñan y construyen viviendas y edificios comunitarios para los vecinos, a menudo con materiales reutilizados o donados. Mockbee murió en 2001 y el taller ha continuado desde entonces."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-fashion-revolution",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 2013,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Fashion Revolution",
+   "short": "Fashion Revolution",
+   "key": "The campaign founded in Britain after the Rana Plaza collapse in April 2013, which asks brands to show who made their clothes.",
+   "more": "Founded in the United Kingdom after the collapse of the Rana Plaza garment factory building in Bangladesh on 24 April 2013, which killed over a thousand workers. Its founders included Carry Somers and Orsola de Castro. Each April it holds Fashion Revolution Week, centred on the question ‘Who made my clothes?’, and presses brands to publish information about their supply chains.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Fashion Revolution",
+    "short": "Fashion Revolution",
+    "place": "Londres",
+    "key": "La campaña fundada en Gran Bretaña tras el derrumbe de Rana Plaza en abril de 2013, que pide a las marcas mostrar quién hizo su ropa.",
+    "more": "Fue fundada en el Reino Unido tras el derrumbe del edificio de talleres textiles Rana Plaza, en Bangladés, el 24 de abril de 2013, que mató a más de mil trabajadores. Entre sus fundadoras estaban Carry Somers y Orsola de Castro. Cada abril realiza la Semana Fashion Revolution, centrada en la pregunta «¿Quién hizo mi ropa?», y presiona a las marcas para que publiquen información sobre sus cadenas de suministro."
+   },
+   "refs": []
+  }
+ ]
+}

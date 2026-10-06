@@ -1,0 +1,948 @@
+{
+ "works": [
+  {
+   "id": "dior-new-look",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Dior ‘Corolle’ collection (New Look)",
+   "designers": [
+    "christian-dior"
+   ],
+   "maker": "House of Dior",
+   "client": null,
+   "year": 1947,
+   "date": "1947",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wool, silk and other fabrics in large quantities; padded hips and structured bodices",
+   "tech": [],
+   "key": "Christian Dior’s first collection, shown in Paris on 12 February 1947, with a nipped waist, rounded shoulders and a full skirt that the editor Carmel Snow called a ‘New Look’.[1][2]",
+   "more": "Dior showed it on 12 February 1947 at 30 Avenue Montaigne in Paris, with two silhouettes, Corolle and En 8, according to the house.[2] The V&A dates the ‘Ligne Corolle’ launch to that day and describes a cinched waist, rounded shoulders and an expansive skirt over a silk petticoat.[1] Harper’s Bazaar editor Carmel Snow is said to have told him: ‘My dear Christian, your dresses have such a New Look!’.[1][2] The house presents the Bar jacket as its emblematic piece and says the collection balanced fabric use under post-war rationing.[2]",
+   "status": "Surviving pieces are kept in museums; the silhouette is remembered through the Bar suit.",
+   "es": {
+    "title": "Colección «Corolle» (New Look) de Dior",
+    "materials": "Lana, seda y otras telas en grandes cantidades; caderas acolchadas y corpiños estructurados",
+    "key": "La primera colección de Christian Dior, presentada en París el 12 de febrero de 1947, con cintura marcada, hombros redondeados y falda amplia que la editora Carmel Snow llamó «New Look».[1][2]",
+    "more": "Dior la presentó el 12 de febrero de 1947 en el 30 de la avenida Montaigne de París, con dos siluetas, Corolle y En 8, según la propia casa.[2] El V&A fecha el lanzamiento de la «Ligne Corolle» ese día y describe una cintura ceñida, hombros redondeados y una falda amplia sobre una enagua de seda.[1] Se cuenta que Carmel Snow, editora de Harper’s Bazaar, le dijo: «Mi querido Christian, ¡sus vestidos tienen un New Look!».[1][2] La casa presenta la chaqueta Bar como su pieza emblemática y dice que la colección equilibró el uso de tela bajo el racionamiento de posguerra.[2]",
+    "status": "Se conservan piezas en museos; la silueta se recuerda sobre todo por el traje Bar.",
+    "date": "1947",
+    "short": "Dior New Look"
+   },
+   "refs": [
+    {
+     "label": "V&A, Dior «Maxim’s» cocktail ensemble, T.116 to B-1974",
+     "url": "https://collections.vam.ac.uk/item/O74754/",
+     "checks": "Ligne Corolle lanzada el 12 de febrero de 1947; Carmel Snow acuñó «New Look»; cintura ceñida, hombros redondeados, falda amplia sobre enagua de seda; contraste con la moda utilitaria de guerra.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Dior, «The New Look» (página de la casa)",
+     "url": "https://www.dior.com/ar_sa/one/the-new-look",
+     "checks": "Debut el 12 de febrero de 1947 en 30 avenue Montaigne; siluetas Corolle y En 8; cita de Carmel Snow; chaqueta Bar emblemática; racionamiento. ⚠ fuente de la propia casa: se atribuye.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Dior New Look"
+  },
+  {
+   "id": "dior-trapeze",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Dior Trapeze line",
+   "designers": [
+    "yves-saint-laurent",
+    "christian-dior"
+   ],
+   "maker": "House of Dior",
+   "client": null,
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wool and other fabrics cut in a flared, trapezoid line",
+   "tech": [],
+   "key": "The first collection of Yves Saint Laurent for the house of Dior, shown in January 1958, with dresses that widened from narrow shoulders to the hem.",
+   "more": "Christian Dior died in October 1957 and the house named the young Saint Laurent, then 21, as his successor. His Trapeze line, shown in January 1958, dropped the marked waist of the New Look for a dress that flared from the shoulders. It was a success and made Saint Laurent famous, although his later collections for Dior were more uneven.",
+   "status": "Surviving pieces are kept in museums and in the Saint Laurent and Dior archives.",
+   "es": {
+    "title": "Línea Trapecio de Dior",
+    "materials": "Lana y otras telas cortadas en una línea acampanada, en trapecio",
+    "key": "La primera colección de Yves Saint Laurent para la casa Dior, presentada en enero de 1958, con vestidos que se ensanchaban desde los hombros angostos hasta el ruedo.",
+    "more": "Christian Dior murió en octubre de 1957 y la casa nombró sucesor al joven Saint Laurent, de 21 años. Su línea Trapecio, presentada en enero de 1958, dejó la cintura marcada del New Look por un vestido que se abría desde los hombros. Fue un éxito y dio fama a Saint Laurent, aunque sus colecciones posteriores para Dior fueron más desiguales.",
+    "status": "Se conservan piezas en museos y en los archivos de Saint Laurent y Dior.",
+    "date": "1958"
+   },
+   "refs": []
+  },
+  {
+   "id": "balenciaga-sack-dress",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Balenciaga sack dress",
+   "designers": [
+    "balenciaga"
+   ],
+   "maker": "House of Balenciaga",
+   "client": null,
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "ES"
+   ],
+   "materials": "Wool, silk and other fabrics in a loose, unfitted cut",
+   "tech": [],
+   "key": "Cristóbal Balenciaga’s loose dress of 1957, which hung from the shoulders without a marked waist and broke with the fitted line of Dior’s New Look.[1][2][3]",
+   "more": "Balenciaga, a Spanish couturier working in Paris, simplified his designs through the 1950s toward geometric forms, free-standing structures suspended from the shoulders rather than shapes sculpted on the body.[1][2][3] His sack, or chemise, of 1957 hung loosely from the shoulders, skimming and enveloping the body instead of enforcing an hourglass.[1][3] The press ridiculed it and ready-to-wear makers lost money on it at first, but after several seasons it became mainstream fashion.[2] Carmel Snow of Harper’s Bazaar championed it,[3] and it anticipated the shift dresses of the 1960s.[1]",
+   "status": "Surviving pieces are kept in museums and in the Balenciaga archives.",
+   "es": {
+    "title": "Vestido saco de Balenciaga",
+    "materials": "Lana, seda y otras telas con un corte suelto, sin entallar",
+    "key": "El vestido suelto de Cristóbal Balenciaga de 1957, que caía desde los hombros sin cintura marcada y rompía con la línea entallada del New Look de Dior.[1][2][3]",
+    "more": "Balenciaga, un modisto español que trabajaba en París, simplificó sus diseños a lo largo de los años cincuenta hacia formas geométricas, estructuras independientes suspendidas de los hombros en vez de formas esculpidas sobre el cuerpo.[1][2][3] Su vestido saco o camisero de 1957 caía suelto desde los hombros, rozando y envolviendo el cuerpo en vez de imponer un reloj de arena.[1][3] Al principio la prensa se burló de él y los fabricantes de confección perdieron dinero, pero tras varias temporadas se volvió moda corriente.[2] Carmel Snow, de Harper’s Bazaar, lo defendió,[3] y anticipó los vestidos rectos de los años sesenta.[1]",
+    "status": "Se conservan piezas en museos y en los archivos de Balenciaga.",
+    "date": "1957",
+    "short": "Vestido saco"
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Dress, Cristóbal Balenciaga» (O109277)",
+     "url": "https://collections.vam.ac.uk/item/O109277/dress-cristobal-balenciaga",
+     "checks": "Vestido «saco» de 1957-1958 hecho en París, de lana; cuelga suelto de los hombros; recto frente al reloj de arena de Dior; anticipa los vestidos rectos de los sesenta; Balenciaga simplificó sus creaciones durante los cincuenta hacia formas geométricas.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "RISD Museum, «Chemise dress»",
+     "url": "https://risdmuseum.org/art_design/objects/1147_chemise_dress",
+     "checks": "Balenciaga, español, hacia 1957; también llamado «saco»; líneas relajadas frente a los hombros angostos y cintura marcada del New Look de Dior; las mujeres que lo adoptaron fueron ridiculizadas en la prensa y la confección perdió dinero; tras varias temporadas se volvió moda corriente.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "FIDM Museum, «Balenciaga»",
+     "url": "https://fidmmuseum.org/learn/articles/balenciaga",
+     "checks": "Silueta saco (camisera) introducida en 1957; «rozaba y envolvía el cuerpo»; frente al New Look de Dior; Carmel Snow la defendió; llegó a dominar y evolucionó hacia el vestido corto de los sesenta. ⚠ artículo divulgativo de museo.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Balenciaga sack dress"
+  },
+  {
+   "id": "chanel-suit",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Chanel suit",
+   "designers": [
+    "coco-chanel"
+   ],
+   "maker": "House of Chanel",
+   "client": null,
+   "year": 1954,
+   "date": "1954",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Tweed or wool jersey, silk lining, braid trim",
+   "tech": [],
+   "key": "Coco Chanel’s collarless jacket and skirt in tweed with braid trim, relaunched in her comeback collection of 1954 and kept as the house’s signature.",
+   "more": "Chanel reopened her house in 1954 after the war years. Her suit had a straight, collarless jacket with braid trim and a plain skirt, cut to let the wearer move easily, unlike the structured dresses of Dior. The first reception in Paris was cool, but it was better received in the United States, and the suit stayed in the Chanel collections for decades.",
+   "status": "Still made by the house of Chanel; period examples are kept in museums.",
+   "es": {
+    "title": "Traje de Chanel",
+    "materials": "Tweed o jersey de lana, forro de seda, ribetes de trenza",
+    "key": "La chaqueta sin cuello y la falda de tweed con ribetes de trenza de Coco Chanel, relanzadas en su colección de regreso de 1954 y mantenidas como sello de la casa.",
+    "more": "Chanel reabrió su casa en 1954, tras los años de la guerra. Su traje tenía una chaqueta recta, sin cuello, con ribetes de trenza y una falda simple, cortados para moverse con facilidad, a diferencia de los vestidos estructurados de Dior. La primera acogida en París fue fría, pero tuvo mejor recepción en Estados Unidos, y el traje se mantuvo en las colecciones de Chanel por décadas.",
+    "status": "Lo sigue haciendo la casa Chanel; hay ejemplares de época en museos.",
+    "date": "1954"
+   },
+   "refs": []
+  },
+  {
+   "id": "quant-miniskirt",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Mary Quant miniskirt",
+   "designers": [
+    "mary-quant"
+   ],
+   "maker": "Mary Quant Ltd",
+   "client": null,
+   "year": 1965,
+   "date": "1965",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Wool and synthetic fabrics, including jersey",
+   "tech": [
+    "synthetic-fibres"
+   ],
+   "key": "The very short skirt that Mary Quant popularised in London in the 1960s, part of a shift in fashion that took youth, not the establishment, as its source of inspiration.[1][2]",
+   "more": "Quant opened her boutique Bazaar on the King’s Road in London, which Britannica dates to 1957.[1] The V&A’s 2019 exhibition on her dated her work from 1955.[2] Britannica credits her with the widespread popularity of the miniskirt and ‘hot pants’ and with the ‘Chelsea look’.[1] The V&A show said she popularised the mini-skirt, coloured tights and tailored trousers.[2]",
+   "status": "Original pieces are kept in museums such as the V&A; miniskirts are still worn today.",
+   "es": {
+    "title": "Minifalda de Mary Quant",
+    "materials": "Lana y telas sintéticas, incluido el jersey",
+    "key": "La falda muy corta que Mary Quant popularizó en Londres en los años sesenta, parte de un cambio de la moda que tomó a la juventud, y no al establishment, como fuente de inspiración.[1][2]",
+    "more": "Quant abrió su boutique Bazaar en King’s Road, en Londres, que la Britannica fecha en 1957.[1] La exposición del V&A de 2019 sobre ella fechó su obra desde 1955.[2] La Britannica le atribuye la amplia popularidad de la minifalda y de los «hot pants» y el «Chelsea look».[1] La muestra del V&A dijo que popularizó la minifalda, las medias de colores y los pantalones entallados.[2]",
+    "status": "Hay piezas originales en museos como el V&A; la minifalda se sigue usando hoy.",
+    "date": "1965",
+    "short": "Minifalda de Quant"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Mary Quant»",
+     "url": "https://www.britannica.com/biography/Mary-Quant",
+     "checks": "Boutique Bazaar en King’s Road, Londres, «en 1957»; popularidad de la minifalda y los «hot pants»; «Chelsea look»; la moda tomó a la juventud como fuente de inspiración. ⚠ Britannica da 1957 para Bazaar.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "King’s Road (patrocinador de la exposición del V&A), «Mary Quant»",
+     "url": "https://www.kingsroad.co.uk/experience/experience-in-the-past/",
+     "checks": "Exposición del V&A, abril de 2019 a febrero de 2020, sobre 1955–1975; popularizó la minifalda, medias de colores y pantalones. ⚠ fuente secundaria (sitio de calle comercial que cita al V&A).",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Quant miniskirt",
+   "movements": [
+    "pop-design"
+   ]
+  },
+  {
+   "id": "ysl-mondrian-dress",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Mondrian dress by Yves Saint Laurent",
+   "designers": [
+    "yves-saint-laurent"
+   ],
+   "maker": "Saint Laurent",
+   "client": null,
+   "year": 1965,
+   "date": "1965",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wool jersey in blocks of colour",
+   "tech": [],
+   "key": "Yves Saint Laurent’s straight dress of 1965 in blocks of colour divided by black lines, inspired by the paintings of Piet Mondrian.",
+   "more": "It was part of Saint Laurent’s autumn 1965 collection for his own house, a series of simple shift dresses that took the primary colours and black grid of Mondrian’s paintings. Made of wool jersey, the dress was cut straight and short. It brought modern art into fashion at the time of pop art, and was widely copied.",
+   "status": "Original dresses are kept in museums; the design is still shown in exhibitions.",
+   "es": {
+    "title": "Vestido Mondrian de Yves Saint Laurent",
+    "materials": "Jersey de lana en bloques de color",
+    "key": "El vestido recto de Yves Saint Laurent de 1965, en bloques de color separados por líneas negras, inspirado en las pinturas de Piet Mondrian.",
+    "more": "Formó parte de la colección de otoño de 1965 de Saint Laurent para su propia casa, una serie de vestidos rectos simples que tomaron los colores primarios y la retícula negra de las pinturas de Mondrian. Hecho de jersey de lana, el vestido era recto y corto. Llevó el arte moderno a la moda en tiempos del arte pop, y fue muy copiado.",
+    "status": "Hay vestidos originales en museos; el diseño se sigue mostrando en exposiciones.",
+    "date": "1965",
+    "short": "Vestido Mondrian YSL"
+   },
+   "refs": [],
+   "short": "YSL Mondrian dress"
+  },
+  {
+   "id": "ysl-le-smoking",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Le Smoking",
+   "designers": [
+    "yves-saint-laurent"
+   ],
+   "maker": "Yves Saint Laurent couture house",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Wool jacket and trousers, satin trim",
+   "tech": [],
+   "key": "Yves Saint Laurent’s women’s dinner suit of 1966, which took the male tuxedo and gave it a place in women’s evening wear.[1][2]",
+   "more": "Saint Laurent introduced it in his autumn–winter 1966 collection.[1] It adapted the codes of menswear evening dress to the female body rather than copying them.[1] The haute couture clientele at first rejected it, and only one piece sold; it did better in the Rive Gauche line.[1] It stirred outrage, and some restaurants and hotels turned away women wearing it.[2] It then reappeared in every collection until 2002.[1] The V&A holds a later example, retailed in 1977–78, in wool gabardine with a velvet collar.[3]",
+   "status": "Reinterpreted by the house in many later collections; examples are held in museums.",
+   "es": {
+    "title": "Le Smoking",
+    "date": "1966",
+    "materials": "Chaqueta y pantalón de lana, ribetes de satén",
+    "key": "El traje de etiqueta femenino de Yves Saint Laurent de 1966, que tomó el esmoquin masculino y le dio un lugar en la ropa de noche de las mujeres.[1][2]",
+    "more": "Saint Laurent lo presentó en su colección otoño–invierno de 1966.[1] Adaptó los códigos de la ropa de etiqueta masculina al cuerpo femenino en vez de copiarlos.[1] La clientela de alta costura lo rechazó al principio y solo se vendió una pieza; tuvo mejor suerte en la línea Rive Gauche.[1] Causó escándalo, y algunos restaurantes y hoteles negaban la entrada a las mujeres que lo llevaban.[2] Después reapareció en todas las colecciones hasta 2002.[1] El V&A conserva un ejemplar posterior, vendido en 1977–78, de gabardina de lana con cuello de terciopelo.[3]",
+    "status": "La casa lo reinterpretó en muchas colecciones posteriores; hay ejemplares en museos."
+   },
+   "refs": [
+    {
+     "label": "Musée Yves Saint Laurent Paris, «Le premier smoking»",
+     "url": "https://museeyslparis.com/biographie/premier-smoking",
+     "checks": "Presentado en la colección otoño-invierno 1966; adapta los códigos masculinos al cuerpo femenino; rechazo inicial de la clientela de alta costura (una sola pieza vendida) y éxito en Rive Gauche; reaparece en todas las colecciones hasta 2002. ⚠ no confirma el satén de las solapas ni el pantalón.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Yves Saint Laurent: When Fashion Meets Art»",
+     "url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+     "checks": "El esmoquin femenino de 1966 causó escándalo; hoteles y restaurantes negaron la entrada a mujeres que lo llevaban (caso de Nan Kempner); una de las piezas más recordadas de Saint Laurent.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "V&A, «Le Smoking» (traje de pantalón), Saint Laurent",
+     "url": "https://collections.vam.ac.uk/item/O42051/le-smoking-trouser-suit-saint-laurent-yves/",
+     "checks": "Ejemplar de 1977-78 en gabardina de lana con cuello de terciopelo, con pantalón y falda; el museo lo presenta como hito que llevó siluetas de sastrería masculina a las mujeres. ⚠ no es de 1966.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "courreges-space-age",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Courrèges ‘Space Age’ collection",
+   "designers": [
+    "andre-courreges"
+   ],
+   "maker": "Maison Courrèges",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Thick gabardine, vinyl and plastic accessories",
+   "tech": [
+    "pvc-vinyl"
+   ],
+   "key": "André Courrèges’s spring 1964 collection of white, geometric, short-skirted clothes and flat white boots, which fixed an image of futuristic fashion.",
+   "more": "Courrèges, who had trained at Balenciaga and opened his own house in 1961, showed in 1964 a clean, architectural line of trapezoid dresses and trouser suits, mostly in white and pale colours. Short hems, white boots and visor-like sunglasses gave it a look that the press linked to the space age. His rigorous cut and use of new materials set his clothes apart from the ornament of couture, and the look was widely copied in ready-to-wear.",
+   "status": "The house still uses the white, geometric style as its signature; original pieces are in museum collections.",
+   "es": {
+    "title": "Colección «Era espacial» de Courrèges",
+    "date": "1964",
+    "materials": "Gabardina gruesa, vinilo y accesorios de plástico",
+    "key": "La colección de primavera de 1964 de André Courrèges, de ropa blanca, geométrica y de faldas cortas, con botas blancas planas, que fijó una imagen de la moda del futuro.",
+    "more": "Courrèges, que se había formado con Balenciaga y abrió su propia casa en 1961, mostró en 1964 una línea limpia y arquitectónica de vestidos trapezoidales y trajes de pantalón, sobre todo en blanco y colores claros. Los dobladillos cortos, las botas blancas y los lentes tipo visera le dieron un aspecto que la prensa asoció a la era espacial. Su corte riguroso y el uso de materiales nuevos separaron su ropa del ornamento de la alta costura, y el estilo se copió mucho en el prêt-à-porter.",
+    "status": "La casa mantiene ese estilo blanco y geométrico como sello propio; hay piezas originales en colecciones de museos.",
+    "short": "Courrèges Era espacial"
+   },
+   "refs": [],
+   "short": "Courrèges Space Age"
+  },
+  {
+   "id": "cardin-cosmocorps",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Pierre Cardin ‘Cosmocorps’ collection",
+   "designers": [
+    "pierre-cardin"
+   ],
+   "maker": "Maison Pierre Cardin",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Jersey and synthetic fabrics, vinyl details",
+   "tech": [
+    "pvc-vinyl"
+   ],
+   "key": "Pierre Cardin’s 1967 collection of tunics, tights and helmets, shown as clothes for both women and men in a future that had already begun.",
+   "more": "Cardin presented the Cosmocorps line in 1967 with short tunics, close-fitting tights, geometric cut-outs and helmet-like headgear. It drew on the imagery of the space race and on his earlier interest in unisex, geometric clothes. It sits beside Courrèges’s 1964 collection in the space-age fashion of the decade, and the two designers disputed who had come first.",
+   "status": "Original pieces are held in museum collections; Cardin kept returning to futuristic forms in later decades.",
+   "es": {
+    "title": "Colección «Cosmocorps» de Pierre Cardin",
+    "date": "1967",
+    "materials": "Jersey y tejidos sintéticos, detalles de vinilo",
+    "key": "La colección de 1967 de Pierre Cardin, de túnicas, medias y cascos, presentada como ropa para mujeres y hombres de un futuro que ya había comenzado.",
+    "more": "Cardin presentó la línea Cosmocorps en 1967, con túnicas cortas, medias ceñidas, recortes geométricos y tocados como cascos. Se nutrió del imaginario de la carrera espacial y de su interés previo por la ropa unisex y geométrica. Se ubica junto a la colección de Courrèges de 1964 dentro de la moda espacial de la década, y ambos diseñadores se disputaron quién había llegado primero.",
+    "status": "Hay piezas originales en colecciones de museos; Cardin volvió a las formas futuristas en décadas posteriores.",
+    "short": "Cardin Cosmocorps"
+   },
+   "refs": [],
+   "short": "Cardin Cosmocorps"
+  },
+  {
+   "id": "rive-gauche-boutique",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "interior",
+   "title": "Saint Laurent Rive Gauche boutique",
+   "designers": [
+    "yves-saint-laurent"
+   ],
+   "maker": "Yves Saint Laurent couture house",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Shop interior with ready-to-wear clothing",
+   "tech": [],
+   "key": "The shop Yves Saint Laurent opened on the Left Bank of Paris in 1966 to sell ready-to-wear clothes under the Rive Gauche name.",
+   "more": "Saint Laurent opened it in September 1966 in the rue de Tournon, together with his partner Pierre Bergé. It sold ready-to-wear clothes, at lower prices than the haute couture of his main house, under the name of the Left Bank. A leading couturier putting his name to a ready-to-wear line, instead of a licence or a copy, helped make the format respectable among the great houses.",
+   "status": "The Rive Gauche line continued for decades; the original shop is a landmark of the history of ready-to-wear.",
+   "es": {
+    "title": "Boutique Rive Gauche de Yves Saint Laurent",
+    "date": "1966",
+    "materials": "Interior de tienda con ropa de prêt-à-porter",
+    "key": "La tienda que Yves Saint Laurent abrió en la orilla izquierda de París en 1966 para vender ropa de prêt-à-porter con el nombre Rive Gauche.",
+    "more": "Saint Laurent la abrió en septiembre de 1966 en la rue de Tournon, junto con su socio Pierre Bergé. Vendía ropa lista para llevar, a precios más bajos que la alta costura de su casa principal, bajo el nombre de la orilla izquierda. Que un gran modisto pusiera su nombre a una línea de prêt-à-porter, y no a una licencia o una copia, ayudó a dar respetabilidad al formato entre las grandes casas.",
+    "status": "La línea Rive Gauche siguió durante décadas; la tienda original es un hito de la historia del prêt-à-porter.",
+    "short": "Boutique Rive Gauche"
+   },
+   "refs": [],
+   "short": "Rive Gauche boutique"
+  },
+  {
+   "id": "unikko-print",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Unikko print",
+   "designers": [
+    "maija-isola"
+   ],
+   "maker": "Marimekko",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "materials": "Screen-printed cotton",
+   "tech": [],
+   "key": "Maija Isola’s large poppy print for Marimekko, created in 1964, a bold flower pattern that Marimekko calls its most globally recognized print.[1][2]",
+   "more": "Isola, Marimekko’s first textile designer, created Unikko (Finnish for poppy) in spring 1964.[1][3] According to Marimekko, its founder Armi Ratia held that small floral prints could not capture the beauty of wild flowers and pushed her designers toward bolder work; Isola painted the pattern by hand at full fabric width.[1] It went into curtains, tablecloths, sofas and wall coverings, and only 36 years later into clothing, in many colourways.[1]",
+   "status": "Still in production by Marimekko, in many colourways.",
+   "es": {
+    "title": "Estampado Unikko",
+    "date": "1964",
+    "materials": "Algodón estampado en serigrafía",
+    "key": "El gran estampado de amapolas de Maija Isola para Marimekko, creado en 1964, un audaz motivo floral que Marimekko llama su estampado más reconocido en el mundo.[1][2]",
+    "more": "Isola, la primera diseñadora textil de Marimekko, creó Unikko (amapola en finlandés) en la primavera de 1964.[1][3] Según Marimekko, su fundadora, Armi Ratia, creía que los estampados florales pequeños no lograban captar la belleza de las flores silvestres y empujó a sus diseñadoras hacia algo más audaz; Isola pintó el motivo a mano en el ancho completo de la tela.[1] Se usó en cortinas, manteles, sofás y revestimientos de pared, y solo 36 años después en ropa, en muchas combinaciones de color.[1]",
+    "status": "Sigue en producción por Marimekko, en muchas combinaciones de color."
+   },
+   "refs": [
+    {
+     "label": "Marimekko, «60 years of Unikko: How the classic pattern was born»",
+     "url": "https://www.marimekko.com/us_en/journal/how-the-unikko-pattern-was-born",
+     "checks": "Isola, primera diseñadora textil de Marimekko, creó Unikko en la primavera de 1964; visión de Armi Ratia sobre los estampados florales pequeños; pintado a mano al ancho completo de la tela; usos en cortinas, manteles, sofás y revestimientos 36 años antes de usarse en ropa; variantes de color. ⚠ fuente de la propia empresa.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Marimekko Corporate, «Marimekko’s renowned Unikko print celebrates its 60th anniversary»",
+     "url": "https://company.marimekko.com/marimekkos-renowned-unikko-print-celebrates-its-60th-anniversary-lux-helsinki-kicks-off-the-festivities/",
+     "checks": "Isola creó Unikko en 1964; la empresa lo describe como su estampado más reconocido globalmente. ⚠ fuente de la empresa; no menciona la oposición de Ratia a las flores.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Riihimäen museot (Riemu), «Maija Isola: Patterns from Amfora to Unikko»",
+     "url": "https://www.riemumuseot.fi/en/uncategorized-en/maija-isola-patterns-from-amfora-to-unikko/",
+     "checks": "Isola creó el estampado Unikko («amapola»). ⚠ no da el año ni habla de Ratia.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "paper-dress",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Scott Paper paper dresses",
+   "designers": [],
+   "maker": "Scott Paper Company",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cellulose-fibre paper, printed",
+   "tech": [],
+   "key": "Disposable dresses of printed paper that the American Scott Paper Company launched in 1966 as a promotion and that grew into a short-lived fashion.",
+   "more": "Scott Paper, a maker of paper products, offered the dresses in 1966 as a promotion for its paper goods. Their bold printed patterns, of a kind seen in pop art, and their cheap, throwaway nature drew wide attention, and other firms and designers soon made paper clothes of their own. The fashion faded within a few years.",
+   "status": "A few examples survive in museum collections; the fad faded within a few years.",
+   "es": {
+    "title": "Vestidos de papel de Scott Paper",
+    "date": "1966",
+    "materials": "Papel de fibra de celulosa, estampado",
+    "key": "Vestidos desechables de papel estampado que la empresa estadounidense Scott Paper lanzó en 1966 como promoción y que se convirtieron en una moda de corta vida.",
+    "more": "Scott Paper, fabricante de productos de papel, ofreció los vestidos en 1966 como promoción de sus artículos. Sus estampados llamativos, del tipo que se veía en el arte pop, y su carácter barato y desechable atrajeron mucha atención, y otras empresas y diseñadores pronto hicieron ropa de papel propia. La moda se apagó en pocos años.",
+    "status": "Se conservan algunos ejemplares en colecciones de museos; la moda se apagó en pocos años.",
+    "short": "Vestidos de papel"
+   },
+   "refs": [],
+   "short": "Scott paper dresses",
+   "movements": [
+    "pop-design"
+   ]
+  },
+  {
+   "id": "bikini-1946",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Bikini",
+   "designers": [
+    "louis-reard"
+   ],
+   "year": 1946,
+   "date": "1946",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Light printed fabric",
+   "tech": [],
+   "key": "The two-piece swimsuit shown in Paris on 5 July 1946 by Louis Réard, named after the Pacific atoll where U.S. nuclear tests had recently taken place.[1][2]",
+   "more": "Réard, a car engineer who had taken over his mother’s lingerie shop, unveiled it at the Piscine Molitor in Paris on 5 July 1946.[1][2] No models would volunteer, so the 18-year-old dancer Micheline Bernardini wore it.[1] He named it after Bikini Atoll in the Marshall Islands, where the U.S. had recently tested nuclear weapons; it came days after Jacques Heim’s rival ‘atome’.[1] The Met describes the bikini as a two-piece suit with a bra top and panties cut below the navel.[2] It was at first scandalous, condemned by the Vatican and banned in some places.[1]",
+   "status": "The two-piece swimsuit remains a standard garment.",
+   "es": {
+    "title": "Bikini",
+    "date": "1946",
+    "materials": "Tela liviana estampada",
+    "key": "El traje de baño de dos piezas que Louis Réard presentó en París el 5 de julio de 1946, nombrado por el atolón del Pacífico donde Estados Unidos había hecho pruebas nucleares poco antes.[1][2]",
+    "more": "Réard, un ingeniero automotriz que había tomado el negocio de lencería de su madre, lo presentó en la piscina Molitor de París el 5 de julio de 1946.[1][2] Como ninguna modelo quiso usarlo, lo lució la bailarina Micheline Bernardini, de 18 años.[1] Lo bautizó por el atolón de Bikini, en las islas Marshall, donde Estados Unidos había probado armas nucleares poco antes; llegó días después del «atome» de la competencia, de Jacques Heim.[1] El Met lo define como un traje de dos piezas con top de sostén y calzón cortado bajo el ombligo.[2] Al principio fue escandaloso, condenado por el Vaticano y prohibido en algunos lugares.[1]",
+    "status": "El traje de baño de dos piezas sigue siendo una prenda corriente."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Today in History, July 5: The Atomic Origins of the Bikini»",
+     "url": "https://www.britannica.com/today-in-history/July-5-The-Atomic-Origins-of-the-Bikini",
+     "checks": "Réard, ingeniero automotriz que tomó la lencería de su madre; 5 de julio de 1946, Piscine Molitor; Bernardini de 18 años; nombre por el atolón de Bikini; días después del «atome» de Heim; escándalo y condena del Vaticano. ⚠ no da fecha exacta de las pruebas.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «The Bikini» (ensayo)",
+     "url": "https://www.metmuseum.org/essays/the-bikini",
+     "checks": "Desfile en Piscine Molitor el 5 de julio de 1946; Réard ingeniero mecánico; Heim y Réard presentaron versiones; nombre del sitio de prueba de bomba A; definición de bikini. ⚠ el Met dice que dos personas reclaman la autoría.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "day-calyx-1951",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Calyx by Lucienne Day",
+   "designers": [
+    "lucienne-day"
+   ],
+   "maker": "Heal’s",
+   "year": 1951,
+   "date": "1951",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Screen-printed furnishing fabric",
+   "tech": [
+    "screen-printing"
+   ],
+   "key": "Lucienne Day’s abstract furnishing fabric of 1951, made for Heal’s and shown at the Festival of Britain, a symbol of contemporary British design after the war.",
+   "more": "Day designed Calyx for the firm Heal’s, which printed it by screen printing, and it was shown in the Festival of Britain in 1951. Its light, abstract forms on a plain ground were far from the heavy traditional patterns common before. It brought modern pattern into ordinary homes.",
+   "status": "Examples survive in museum collections; the design has been reissued.",
+   "es": {
+    "title": "Calyx de Lucienne Day",
+    "date": "1951",
+    "materials": "Tela de tapicería estampada en serigrafía",
+    "key": "La tela de decoración abstracta de Lucienne Day de 1951, hecha para Heal’s y mostrada en el Festival of Britain, símbolo del diseño británico contemporáneo de posguerra.",
+    "more": "Day diseñó Calyx para la empresa Heal’s, que la estampó en serigrafía, y se mostró en el Festival of Britain en 1951. Sus formas abstractas y ligeras sobre fondo liso estaban lejos de los pesados motivos tradicionales habituales antes. Llevó el estampado moderno a los hogares corrientes.",
+    "status": "Se conservan ejemplares en colecciones de museos; el diseño se ha reeditado."
+   },
+   "refs": []
+  },
+  {
+   "id": "girard-herman-miller-textiles-1952",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Alexander Girard textiles",
+   "designers": [
+    "alexander-girard"
+   ],
+   "maker": "Herman Miller",
+   "year": 1952,
+   "date": "1952 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed and woven textiles",
+   "tech": [],
+   "key": "Alexander Girard’s colourful textiles for Herman Miller, begun in the early 1950s, which brought pattern and folk-art colour into modern offices.",
+   "more": "Girard began working for Herman Miller in the early 1950s and led its textile division, designing many fabrics himself. He drew on folk art and bold colour, against the plain look of much modern interior design. His fabrics gave the company’s furniture and the modern office a warmer, more varied setting.",
+   "status": "Many fabrics have been reissued in recent years.",
+   "es": {
+    "title": "Textiles de Alexander Girard",
+    "date": "1952 →",
+    "materials": "Textiles estampados y tejidos",
+    "key": "Los textiles coloridos de Alexander Girard para Herman Miller, iniciados a comienzos de los años cincuenta, que llevaron el estampado y el color del arte popular a las oficinas modernas.",
+    "more": "Girard comenzó a trabajar para Herman Miller a comienzos de los años cincuenta y dirigió su división textil, diseñando él mismo muchas telas. Se inspiró en el arte popular y en el color intenso, frente al aspecto sobrio de buena parte del interiorismo moderno. Sus telas dieron a los muebles de la empresa y a la oficina moderna un ambiente más cálido y variado.",
+    "status": "Muchas telas se han reeditado en los últimos años.",
+    "short": "Textiles de Girard"
+   },
+   "refs": [],
+   "movements": [
+    "mid-century-modern"
+   ],
+   "short": "Girard textiles"
+  },
+  {
+   "id": "chanel-255-bag-1955",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "bag",
+   "title": "Chanel 2.55",
+   "designers": [
+    "coco-chanel"
+   ],
+   "maker": "Chanel",
+   "year": 1955,
+   "date": "1955",
+   "production": {
+    "from": 1955,
+    "to": null,
+    "note": "launched in February 1955; reissued by Chanel"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Quilted leather, metal chain strap",
+   "tech": [],
+   "key": "Coco Chanel’s quilted shoulder bag on a chain, launched in February 1955 and named after its date.",
+   "more": "Chanel launched it in February 1955, which gives the bag its name. Its long chain strap let a woman carry it on the shoulder and keep her hands free; Chanel is said to have taken the idea from the shoulder bags of soldiers. It came after her 1954 suit and completed the Chanel look of the period.",
+   "status": "Still made by Chanel, which reissued the original model.",
+   "es": {
+    "title": "Bolso Chanel 2.55",
+    "date": "1955",
+    "materials": "Cuero acolchado, correa de cadena metálica",
+    "key": "El bolso acolchado de hombro con cadena de Coco Chanel, lanzado en febrero de 1955 y bautizado con esa fecha.",
+    "more": "Chanel lo lanzó en febrero de 1955, fecha que le da el nombre. Su larga correa de cadena permitía llevarlo al hombro y dejar las manos libres; se dice que Chanel tomó la idea de los bolsos de hombro de los soldados. Llegó después de su traje de 1954 y completó el look Chanel de la época.",
+    "status": "Chanel lo sigue fabricando y reeditó el modelo original.",
+    "production": {
+     "note": "lanzado en febrero de 1955; reeditado por Chanel"
+    }
+   },
+   "refs": []
+  },
+  {
+   "id": "dr-martens-1460-1960",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "boot",
+   "title": "Dr. Martens 1460 boot",
+   "designers": [],
+   "maker": "R. Griggs & Co.",
+   "year": 1960,
+   "date": "1960",
+   "production": {
+    "from": 1960,
+    "to": null,
+    "note": "first made on 1 April 1960 in Northamptonshire"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Leather upper, air-cushioned rubber sole, yellow welt stitching",
+   "tech": [],
+   "key": "The eight-eyelet leather work boot with an air-cushioned sole, first made on 1 April 1960 and later adopted by youth subcultures.",
+   "more": "The bootmaker R. Griggs began making it in England in 1960 around the air-cushioned sole developed by the German doctor Klaus Märtens; the name 1460 comes from its date, 1 April 1960. Sold first as sturdy footwear for workers, it was taken up by mods, skinheads and punks as a sign of identity.",
+   "status": "Still in production.",
+   "es": {
+    "title": "Bota Dr. Martens 1460",
+    "date": "1960",
+    "materials": "Caña de cuero, suela de goma con cámara de aire, costura amarilla en la unión",
+    "key": "La bota de trabajo de cuero con ocho ojetillos y suela con cámara de aire, fabricada por primera vez el 1 de abril de 1960 y adoptada luego por subculturas juveniles.",
+    "more": "El fabricante de calzado R. Griggs empezó a hacerla en Inglaterra en 1960 en torno a la suela con cámara de aire que había desarrollado el médico alemán Klaus Märtens; el nombre 1460 viene de su fecha, el 1 de abril de 1960. Vendida al comienzo como calzado resistente para trabajadores, mods, skinheads y punks la adoptaron como signo de identidad.",
+    "status": "Sigue en producción.",
+    "production": {
+     "note": "primera producción el 1 de abril de 1960 en Northamptonshire"
+    }
+   },
+   "refs": []
+  },
+  {
+   "id": "givenchy-breakfast-1961",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Givenchy dress in Breakfast at Tiffany's",
+   "designers": [
+    "hubert-de-givenchy"
+   ],
+   "maker": "Givenchy",
+   "client": "Paramount Pictures",
+   "year": 1961,
+   "date": "1961",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "materials": "Black satin, worn with long gloves and pearls",
+   "tech": [],
+   "key": "The black evening dress that Hubert de Givenchy made for Audrey Hepburn in Blake Edwards’s film, the best-known image of the little black dress.",
+   "more": "Hepburn wore it in the opening scene of Breakfast at Tiffany’s (1961), directed by Blake Edwards. Givenchy, who had dressed her since the 1950s, designed her costumes for the film. The simple black sheath, shown with long gloves and a pearl necklace, reinterpreted the little black dress that Chanel had made fashionable in the 1920s.",
+   "status": "The film keeps the image alive; the model is endlessly copied.",
+   "es": {
+    "title": "Vestido de Givenchy en «Desayuno con diamantes»",
+    "date": "1961",
+    "materials": "Satén negro, con guantes largos y perlas",
+    "key": "El vestido negro de noche que Hubert de Givenchy hizo para Audrey Hepburn en la película de Blake Edwards, la imagen más conocida del vestido negro.",
+    "more": "Hepburn lo usó en la escena inicial de Desayuno con diamantes (1961), dirigida por Blake Edwards. Givenchy, que la vestía desde los años cincuenta, diseñó sus trajes para la película. La sencilla funda negra, mostrada con guantes largos y un collar de perlas, reinterpretó el pequeño vestido negro que Chanel había puesto de moda en los años veinte.",
+    "status": "La película mantiene viva la imagen; el modelo se copia sin cesar.",
+    "short": "Vestido Givenchy"
+   },
+   "refs": [],
+   "short": "Givenchy dress"
+  },
+  {
+   "id": "havaianas-1962",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "sandal",
+   "title": "Havaianas",
+   "designers": [],
+   "maker": "São Paulo Alpargatas",
+   "year": 1962,
+   "date": "1962",
+   "production": {
+    "from": 1962,
+    "to": null,
+    "note": "made in Brazil from 1962; exported worldwide"
+   },
+   "regions": [
+    "latin-america",
+    "global"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Rubber",
+   "tech": [],
+   "key": "The Brazilian rubber sandal launched by Alpargatas in 1962, a cheap everyday shoe that became an export product.",
+   "more": "Alpargatas, a company in São Paulo, launched Havaianas in 1962 as a simple sandal of rubber, a material available locally, at a price within reach of most Brazilians. It was a mass product for decades before it began to be sold abroad as a fashion item.",
+   "status": "Still in production and sold worldwide.",
+   "es": {
+    "title": "Havaianas",
+    "date": "1962",
+    "materials": "Goma",
+    "key": "La sandalia brasileña de goma lanzada por Alpargatas en 1962, un calzado barato y cotidiano que se volvió producto de exportación.",
+    "more": "Alpargatas, empresa de São Paulo, lanzó Havaianas en 1962 como una sandalia sencilla de goma, material disponible en el país, a un precio al alcance de la mayoría de los brasileños. Fue un producto masivo durante décadas antes de venderse en el extranjero como artículo de moda.",
+    "status": "Sigue en producción y se vende en todo el mundo.",
+    "production": {
+     "note": "fabricadas en Brasil desde 1962; exportadas a todo el mundo"
+    }
+   },
+   "refs": []
+  },
+  {
+   "id": "zuzu-angel-collection-1971",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Zuzu Angel's political collection",
+   "designers": [
+    "zuzu-angel"
+   ],
+   "year": 1971,
+   "date": "1971",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Textiles and clothing",
+   "tech": [],
+   "key": "Zuzu Angel’s 1971 collection, which turned fashion into a protest against the Brazilian military dictatorship after her son’s arrest.",
+   "more": "The Brazilian designer Zuzu Angel presented the collection in 1971, the year her son Stuart was arrested by the military regime. She used her clothes to speak of the violence and the disappeared, and went on denouncing the case abroad until her death in 1976.",
+   "status": "Pieces and records are kept in Brazilian collections and in the memory of the case.",
+   "es": {
+    "title": "Colección política de Zuzu Angel",
+    "date": "1971",
+    "materials": "Textiles y prendas",
+    "key": "La colección de Zuzu Angel de 1971, que convirtió la moda en una denuncia de la dictadura militar brasileña tras la detención de su hijo.",
+    "more": "La diseñadora brasileña Zuzu Angel presentó la colección en 1971, año en que su hijo Stuart fue detenido por el régimen militar. Usó su ropa para hablar de la violencia y de los desaparecidos, y siguió denunciando el caso en el extranjero hasta su muerte en 1976.",
+    "status": "Piezas y registros se conservan en colecciones brasileñas y en la memoria del caso.",
+    "short": "Colección Zuzu Angel"
+   },
+   "refs": [],
+   "short": "Zuzu Angel collection"
+  },
+  {
+   "id": "dvf-wrap-dress-1974",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Diane von Furstenberg wrap dress",
+   "designers": [
+    "diane-von-furstenberg"
+   ],
+   "maker": "Diane von Furstenberg",
+   "year": 1974,
+   "date": "1974",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "BE"
+   ],
+   "materials": "Printed jersey",
+   "tech": [],
+   "key": "Diane von Furstenberg’s jersey wrap dress, which became an emblem of freedom and empowerment for women in the 1970s and after.[1][2]",
+   "more": "Von Furstenberg’s wrap dress, whose fiftieth anniversary was marked in 2024, was her best-known creation and, in the words of the Skirball Cultural Center, came to epitomize freedom and empowerment for women.[1] The Metropolitan Museum calls it the climax of the American sportswear tradition of wrapping, a sensation of the 1970s made in bold, stretchy synthetic fabrics.[2]",
+   "status": "Still made by the DVF brand.",
+   "es": {
+    "title": "Vestido cruzado de Diane von Furstenberg",
+    "date": "1974",
+    "materials": "Jersey estampado",
+    "key": "El vestido cruzado de jersey de Diane von Furstenberg, que se volvió emblema de libertad y empoderamiento de las mujeres en los años setenta y después.[1][2]",
+    "more": "El vestido cruzado de Von Furstenberg, cuyo cincuentenario se celebró en 2024, fue su creación más conocida y, en palabras del Skirball Cultural Center, llegó a encarnar la libertad y el empoderamiento de las mujeres.[1] El Museo Metropolitano lo llama el clímax de la tradición deportiva estadounidense de los cruzados, una sensación de los años setenta hecha con telas sintéticas elásticas y de colores intensos.[2]",
+    "status": "La marca DVF lo sigue fabricando.",
+    "short": "Vestido cruzado DVF"
+   },
+   "refs": [
+    {
+     "label": "Skirball Cultural Center, «Diane von Furstenberg: Woman Before Fashion»",
+     "url": "https://www.skirball.org/museum/diane-von-furstenberg-woman-fashion",
+     "checks": "La exposición coincide con el 50.º aniversario del vestido cruzado (es decir, 1974); «creación icónica»; llegó a encarnar libertad y empoderamiento de las mujeres en EE. UU. y más allá. ⚠ no confirma el año exacto de lanzamiento, el jersey ni las ventas.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Costume Institute, «Diane von Furstenberg, Wrap dress, 1975–76» (1997.487)",
+     "url": "https://www.metmuseum.org/art/collection/search/79701",
+     "checks": "«Clímax de la tradición deportiva estadounidense de los cruzados en los años setenta, con la sensación del vestido cruzado de Von Furstenberg»; telas sintéticas y elásticas de colores intensos; la casa se fundó en 1972; ejemplar de 1975–76 en mezcla de algodón y rayón. ⚠ no es un ejemplar de 1974 ni de jersey.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "DVF wrap dress"
+  },
+  {
+   "id": "pucci-prints-1951",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Emilio Pucci printed silks",
+   "designers": [],
+   "maker": "Emilio Pucci",
+   "year": 1951,
+   "date": "c. 1951–1970",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Printed silk and silk jersey",
+   "tech": [],
+   "key": "The brightly printed silks of the Florentine designer Emilio Pucci, light travel and resort clothes that made Italian fashion known abroad.",
+   "more": "Pucci made light clothes in silk and silk jersey printed with bold, saturated colours and swirling patterns, meant for travel and leisure. His designs were shown in Florence in the early 1950s, when Italian fashion was being presented to foreign buyers. The prints became his signature and a sign of the new, casual Italian style.",
+   "status": "Pieces survive in museum and private collections, and the Pucci house still exists.",
+   "es": {
+    "title": "Sedas estampadas de Emilio Pucci",
+    "date": "c. 1951–1970",
+    "materials": "Seda estampada y jersey de seda",
+    "key": "Las sedas estampadas del diseñador florentino Emilio Pucci, ropa ligera de viaje y descanso que dio a conocer la moda italiana en el extranjero.",
+    "more": "Pucci hizo ropa liviana de seda y de jersey de seda estampada con colores intensos y dibujos en remolino, pensada para el viaje y el ocio. Sus diseños se mostraron en Florencia a comienzos de los años cincuenta, cuando la moda italiana se presentaba a compradores extranjeros. Los estampados se volvieron su sello y un signo del nuevo estilo italiano, informal.",
+    "status": "Se conservan piezas en colecciones de museos y privadas, y la casa Pucci sigue existiendo.",
+    "short": "Sedas de Pucci"
+   },
+   "refs": [],
+   "short": "Pucci printed silks"
+  },
+  {
+   "id": "rabanne-12-dresses-1966",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "12 Unwearable Dresses in Contemporary Materials",
+   "designers": [
+    "paco-rabanne"
+   ],
+   "maker": null,
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Plastic discs joined with metal rings",
+   "tech": [],
+   "movements": [
+    "space-age-fashion"
+   ],
+   "key": "Paco Rabanne’s 1966 collection of dresses made of plastic discs joined with metal rings instead of cut and sewn cloth.",
+   "more": "Rabanne showed the dresses in Paris in 1966 under a title that declared them unwearable in the usual sense. He built them from discs and links of industrial materials, assembled with pliers rather than needle and thread. The collection turned a couturier’s workroom into a place for metalwork and became a reference point for the fashion of the space age.",
+   "status": "The designs are known through photographs and later reproductions.",
+   "es": {
+    "title": "12 vestidos imposibles de llevar en materiales contemporáneos",
+    "date": "1966",
+    "materials": "Discos de plástico unidos con anillas metálicas",
+    "key": "La colección de vestidos de Paco Rabanne de 1966, hechos con discos de plástico unidos con anillas metálicas en vez de tela cortada y cosida.",
+    "more": "Rabanne presentó los vestidos en París en 1966 con un título que los declaraba imposibles de llevar en el sentido habitual. Los construyó con discos y eslabones de materiales industriales, ensamblados con alicates y no con aguja e hilo. La colección convirtió el taller de un modisto en un lugar de trabajo del metal y quedó como referencia de la moda de la era espacial.",
+    "status": "Los diseños se conocen por fotografías y reproducciones posteriores.",
+    "short": "12 vestidos Rabanne"
+   },
+   "refs": [],
+   "short": "Rabanne’s 12 dresses"
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "connections": [
+  {
+   "from": "macintosh-icons-1984",
+   "to": "emigre-bitmap-fonts-1985",
+   "note": "Influence: the Macintosh icons showed how to draw on a coarse pixel grid, and Licko applied the same screen limits to letterforms in her first digital typefaces.",
+   "es": {
+    "note": "Influencia: los íconos del Macintosh mostraron cómo dibujar sobre una grilla gruesa de píxeles, y Licko aplicó esa misma limitación de pantalla a las letras de sus primeras tipografías digitales."
+   },
+   "refs": []
+  },
+  {
+   "from": "emigre-magazine-1984",
+   "to": "ray-gun-1992",
+   "note": "Influence: Emigre showed that type could be set and distorted on a computer; Carson carried that freedom to a music-magazine audience.",
+   "es": {
+    "note": "Influencia: Emigre mostró que se podía componer y distorsionar texto en el computador, y Carson llevó esa libertad a los lectores de una revista de música."
+   },
+   "refs": []
+  },
+  {
+   "from": "carlton-bookcase-1981",
+   "to": "first-chair-1983",
+   "note": "Parallel: both Memphis pieces use colourful laminates and geometric forms with no obvious function, rejecting functionalism in the same way.",
+   "es": {
+    "note": "Paralelo: ambas piezas de Memphis usan laminados de colores y formas geométricas sin función evidente, y rechazan de igual modo el funcionalismo."
+   },
+   "refs": []
+  },
+  {
+   "from": "proust-armchair-1978",
+   "to": "carlton-bookcase-1981",
+   "note": "Influence: Alchimia’s decorative irony prepared the ground for the colour and pastiche vocabulary that Memphis took up.",
+   "es": {
+    "note": "Influencia: la ironía decorativa de Alchimia preparó el terreno para el vocabulario de color y pastiche que retomó Memphis."
+   },
+   "refs": []
+  },
+  {
+   "from": "portland-building-1982",
+   "to": "kettle-9093-1985",
+   "note": "Continuity: Graves took the colours and symbolic figures of his architecture to a domestic object for Alessi.",
+   "es": {
+    "note": "Continuidad: Graves llevó los colores y las figuras simbólicas de su arquitectura a un objeto doméstico para Alessi."
+   },
+   "refs": []
+  },
+  {
+   "from": "gehry-house-1978",
+   "to": "guggenheim-bilbao-1997",
+   "note": "Influence: the fragmented look and raw materials of Gehry’s house returned, helped by digital modelling, in the museum’s surfaces.",
+   "es": {
+    "note": "Influencia: la estética de fragmentos y materiales crudos de la casa de Gehry reapareció, con apoyo del modelado digital, en las superficies del museo."
+   },
+   "refs": []
+  },
+  {
+   "from": "imac-1998",
+   "to": "ipod-2001",
+   "note": "Cause: the iMac’s success restored Apple’s finances and confidence, which allowed it to develop a music player of its own.",
+   "es": {
+    "note": "Causa: el éxito del iMac devolvió a Apple recursos y confianza, lo que le permitió desarrollar un reproductor de música propio."
+   },
+   "refs": []
+  },
+  {
+   "from": "ipod-2001",
+   "to": "iphone-2007",
+   "note": "Continuity: the iPod’s simple interface was carried over into the touchscreen phone that joined music, telephone and internet.",
+   "es": {
+    "note": "Continuidad: la interfaz simple del iPod pasó a la pantalla táctil del teléfono que reunió música, teléfono e internet."
+   },
+   "refs": []
+  },
+  {
+   "from": "sony-walkman-1979",
+   "to": "ipod-2001",
+   "note": "Influence: the Walkman made carrying your own music through the street a habit, which was the cultural ground for the digital player.",
+   "es": {
+    "note": "Influencia: el Walkman volvió habitual llevar la música propia por la calle, el terreno cultural donde después se instaló el reproductor digital."
+   },
+   "refs": []
+  },
+  {
+   "from": "paris-debut-1981",
+   "to": "margiela-tabi-1988",
+   "note": "Influence: the Japanese designers’ Paris shows opened the city to deconstructing the garment, an approach Margiela developed later.",
+   "es": {
+    "note": "Influencia: los desfiles de los diseñadores japoneses abrieron París a la deconstrucción de la prenda, enfoque que Margiela desarrolló después."
+   },
+   "refs": []
+  },
+  {
+   "from": "westwood-punk-1976",
+   "to": "mcqueen-highland-rape-1995",
+   "note": "Influence: the theatrical provocation of London punk was a legacy for the calculated scandal of McQueen’s shows.",
+   "es": {
+    "note": "Influencia: la provocación teatral del punk londinense fue una herencia para el escándalo calculado de los desfiles de McQueen."
+   },
+   "refs": []
+  },
+  {
+   "from": "favela-chair-1991",
+   "to": "banquete-chair-2006",
+   "note": "Continuity: the Campanas moved from wood offcuts to other discarded materials, keeping the same hand-made way of working.",
+   "es": {
+    "note": "Continuidad: los Campana pasaron de los retazos de madera a otros materiales descartados, manteniendo el mismo trabajo manual."
+   },
+   "refs": []
+  },
+  {
+   "from": "quinta-monroy-2004",
+   "to": "villa-verde-2013",
+   "note": "Continuity: Elemental repeated and refined in Constitución the half-a-house formula it first tried in Iquique.",
+   "es": {
+    "note": "Continuidad: Elemental repitió y afinó en Constitución la fórmula de media casa que antes probó en Iquique."
+   },
+   "refs": []
+  },
+  {
+   "from": "swatch-1983",
+   "to": "fairphone-2013",
+   "note": "Reaction: the Swatch sold an electronic object as fashion; the Fairphone inverted that logic by asking for long use instead.",
+   "es": {
+    "note": "Reacción: el Swatch vendió un objeto electrónico como moda; el Fairphone invirtió esa lógica y pidió, en cambio, un uso prolongado."
+   },
+   "refs": []
+  },
+  {
+   "from": "th-visual-display-quantitative-information",
+   "to": "th-grid-systems",
+   "note": "Complements the analytical tradition of information design that Tufte’s book continues.",
+   "es": {
+    "note": "Complementa la tradición analítica del diseño de información que continúa el libro de Tufte."
+   },
+   "refs": []
+  },
+  {
+   "from": "miyake-a-poc-1998",
+   "to": "paris-debut-1981",
+   "note": "Miyake, already showing in Paris, was part of the Japanese presence in Western fashion that Kawakubo and Yamamoto strengthened in 1981; A-POC carried that path to the cloth itself.",
+   "es": {
+    "note": "Miyake, que ya mostraba en París, formó parte de la presencia japonesa en la moda occidental que Kawakubo y Yamamoto reforzaron en 1981; A-POC llevó esa vía a la tela misma."
+   },
+   "refs": []
+  },
+  {
+   "from": "stella-mccartney-label-2001",
+   "to": "patagonia-synchilla-1985",
+   "note": "Patagonia had already tied clothing design to environmental concern, with recycled fleece from 1993; McCartney carried that precedent into luxury fashion.",
+   "es": {
+    "note": "Patagonia ya había unido el diseño de ropa a la preocupación ambiental, con polar reciclado desde 1993; McCartney llevó ese precedente a la moda de lujo."
+   },
+   "refs": []
+  },
+  {
+   "from": "van-herpen-crystallization-2010",
+   "to": "rapid-prototyping",
+   "note": "The dress took 3D printing, developed as rapid prototyping for models and patterns, and used it to make parts of a garment.",
+   "es": {
+    "note": "El vestido tomó la impresión 3D, desarrollada como prototipado rápido para modelos y patrones, y la usó para hacer partes de una prenda."
+   },
+   "refs": []
+  },
+  {
+   "from": "off-white-the-ten-2017",
+   "to": "run-dmc-adidas-1986",
+   "note": "Like Run-DMC and Adidas, the Off-White and Nike link joined a sportswear brand to street culture; Abloh’s version built it on limited drops and the internet.",
+   "es": {
+    "note": "Como Run-DMC y Adidas, la alianza de Off-White y Nike unió una marca deportiva a la cultura callejera; la versión de Abloh la construyó sobre lanzamientos limitados e internet."
+   },
+   "refs": []
+  },
+  {
+   "from": "nasa-worm-logo-1975",
+   "to": "nyc-transit-standards",
+   "note": "Like Unimark’s 1970 subway manual, it fixed one set of rules in a book for a public body; it is often placed in the same tradition of graphics standards manuals.",
+   "es": {
+    "note": "Como el manual del metro de Unimark de 1970, fijó en un libro un solo conjunto de reglas para un organismo público; suele ubicarse en la misma tradición de manuales de normas gráficas."
+   },
+   "refs": []
+  },
+  {
+   "from": "cobi-1987",
+   "to": "munich72-pictograms",
+   "note": "Cobi continued the Olympic graphic identity built from pictograms and a character, as in Munich 1972.",
+   "es": {
+    "note": "Cobi continuó la identidad gráfica olímpica de pictogramas y personaje, como en Múnich 1972."
+   },
+   "refs": []
+  },
+  {
+   "from": "macintosh-128k-1984",
+   "to": "macintosh-icons-1984",
+   "note": "The Macintosh interface appears in Susan Kare’s icons, drawn for the machine.",
+   "es": {
+    "note": "La interfaz del Macintosh aparece en los íconos de Susan Kare, dibujados para la máquina."
+   },
+   "refs": []
+  },
+  {
+   "from": "god-save-the-queen-1977",
+   "to": "westwood-punk-1976",
+   "note": "Both came from the same London circle around Malcolm McLaren, Westwood and Reid, and the Sex Pistols wore the clothes and carried the image.",
+   "es": {
+    "note": "Ambas salieron del mismo círculo londinense en torno a Malcolm McLaren, Westwood y Reid, y los Sex Pistols vistieron la ropa y llevaron la imagen."
+   },
+   "refs": []
+  }
+ ]
+}

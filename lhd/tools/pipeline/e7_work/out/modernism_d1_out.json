@@ -1,0 +1,239 @@
+[
+ {
+  "rtype": "designer",
+  "id": "antonio-sant-elia",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1888,
+  "died": 1916,
+  "dates": "1888–1916",
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Antonio Sant'Elia",
+  "movements": [
+   "futurism-typography"
+  ],
+  "key": "Italian Futurist architect whose drawings for the Città Nuova imagined a city of concrete, steel and glass, but who died at the front in 1916 without building it.",
+  "more": "He drew the Città Nuova in 1914 and signed the Manifesto of Futurist Architecture of that year, with its vision of a mechanical city of skyscrapers, lifts and elevated traffic. He volunteered for the First World War and was killed in 1916, so his work survives almost only as drawings. Those drawings influenced later modern architects, who knew them as a vision of the city of the machine age.",
+  "es": {
+   "dates": "1888–1916",
+   "key": "Arquitecto futurista italiano cuyos dibujos de la Città Nuova imaginaron una ciudad de hormigón, acero y vidrio, pero que murió en el frente en 1916 sin construirla.",
+   "more": "Dibujó la Città Nuova en 1914 y firmó el Manifiesto de la arquitectura futurista de ese año, con su visión de una ciudad mecánica de rascacielos, ascensores y tráfico elevado. Se ofreció como voluntario en la Primera Guerra Mundial y murió en 1916, de modo que su obra sobrevive casi solo en dibujos. Esos dibujos influyeron en arquitectos modernos posteriores, que los conocieron como la visión de la ciudad de la era de la máquina."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-first-world-war",
+  "item": "antonio-sant-elia",
+  "note": "He was killed at the front in 1916, so the war ended his career before he could build anything and his Città Nuova survived only as drawings.",
+  "es": {
+   "note": "Murió en el frente en 1916: la guerra cortó su carrera antes de que construyera algo y su Città Nuova sobrevivió solo en dibujos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "richard-neutra",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "born": 1892,
+  "died": 1970,
+  "dates": "1892–1970",
+  "countries": [
+   "AT",
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Richard Neutra",
+  "movements": [
+   "international-style"
+  ],
+  "key": "Austrian-born architect who brought European modernism to California, designing light, open houses that tied health and the outdoors to modern living.",
+  "more": "Born in Vienna, he emigrated to the United States in 1923 and settled in Los Angeles. The Lovell Health House (Los Angeles, c. 1929) made his name, and he went on to design many houses of glass and steel opening onto gardens and terraces in Southern California. Through them he became one of the best-known figures of the modernist house in the United States. He died in Wuppertal in 1970.",
+  "es": {
+   "dates": "1892–1970",
+   "key": "Arquitecto de origen austríaco que llevó el modernismo europeo a California y diseñó casas luminosas y abiertas, que unían la salud y el aire libre a la vida moderna.",
+   "more": "Nacido en Viena, emigró a Estados Unidos en 1923 y se instaló en Los Ángeles. La Casa de la Salud Lovell (Los Ángeles, c. 1929) le dio fama, y luego proyectó muchas casas de vidrio y acero abiertas a jardines y terrazas en el sur de California. Con ellas se volvió una de las figuras más conocidas de la casa modernista en Estados Unidos. Murió en Wuppertal en 1970."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-hygienism",
+  "item": "richard-neutra",
+  "note": "Hygienist ideas of sun, air and exercise made the house an instrument of health; Neutra designed open, sunlit houses around it, as in the Lovell Health House.",
+  "es": {
+   "note": "Las ideas higienistas de sol, aire y ejercicio hicieron de la casa un instrumento de salud; Neutra proyectó casas abiertas y soleadas en torno a ello, como la Casa de la Salud Lovell."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "kurt-schwitters",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1887,
+  "died": 1948,
+  "dates": "1887–1948",
+  "countries": [
+   "DE",
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Kurt Schwitters",
+  "movements": [
+   "dada",
+   "new-typography"
+  ],
+  "key": "German Dada artist who turned collage into a personal art he called Merz, and who also worked as a typographer and advertising designer in Hannover.",
+  "more": "Born in Hannover, he made collages of found scraps of paper and rubbish under the name Merz, and published a magazine of that name in the 1920s. He also designed typography and advertising, notably for the city of Hannover, and was linked to the circle of the New Typography. After the Nazis came to power he left Germany for Norway in 1937 and then for Britain, where he died in 1948.",
+  "es": {
+   "dates": "1887–1948",
+   "key": "Artista dadá alemán que hizo del collage un arte personal llamado Merz, y que trabajó también como tipógrafo y diseñador publicitario en Hannover.",
+   "more": "Nacido en Hannover, hizo collages con retazos de papel y desechos encontrados bajo el nombre de Merz, y publicó una revista con ese nombre en la década de 1920. También diseñó tipografía y publicidad, en especial para la ciudad de Hannover, y estuvo vinculado al círculo de la Nueva Tipografía. Tras la llegada de los nazis al poder dejó Alemania en 1937 rumbo a Noruega y luego a Gran Bretaña, donde murió en 1948."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-avant-gardes",
+  "item": "kurt-schwitters",
+  "note": "The avant-gardes broke the boundary between art and print: Schwitters carried Dada collage onto the printed page and into advertising, in Merz and his work for Hannover.",
+  "es": {
+   "note": "Las vanguardias rompieron la frontera entre arte e impreso: Schwitters llevó el collage dadá a la página impresa y la publicidad, en Merz y en su trabajo para Hannover."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "kazimir-malevich",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic",
+   "product",
+   "architecture"
+  ],
+  "born": 1879,
+  "died": 1935,
+  "dates": "1879–1935",
+  "countries": [
+   "RU"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Kazimir Malevich",
+  "movements": [
+   "suprematism"
+  ],
+  "key": "Russian painter who founded Suprematism in 1915, a language of pure geometric forms that fed Soviet graphic, product and architectural design.",
+  "more": "Born in Kyiv, he painted the Black Square in 1915 and launched Suprematism around it. After the 1917 revolution he taught in Vitebsk, where he led the group UNOVIS, and he later made architectural models and designs for porcelain based on Suprematist forms. His geometry marked Constructivist designers such as El Lissitzky, and through them the graphic design of the 1920s. He died in Leningrad in 1935.",
+  "es": {
+   "dates": "1879–1935",
+   "key": "Pintor ruso que fundó el suprematismo en 1915, un lenguaje de formas geométricas puras que alimentó el diseño gráfico, de producto y de arquitectura soviético.",
+   "more": "Nacido en Kiev, pintó el Cuadrado negro en 1915 y lanzó en torno a él el suprematismo. Tras la revolución de 1917 enseñó en Vitebsk, donde dirigió el grupo UNOVIS, y más tarde hizo maquetas de arquitectura y diseños de porcelana basados en formas suprematistas. Su geometría marcó a diseñadores constructivistas como El Lissitzky y, a través de ellos, al diseño gráfico de la década de 1920. Murió en Leningrado en 1935."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-russian-revolution",
+  "item": "kazimir-malevich",
+  "note": "The revolution gave the avant-garde state schools and factories: Malevich taught in Vitebsk and took Suprematist geometry to architectural models and porcelain design.",
+  "es": {
+   "note": "La revolución entregó escuelas y fábricas estatales a la vanguardia: Malevich enseñó en Vitebsk y llevó la geometría suprematista a maquetas de arquitectura y diseños de porcelana."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "herbert-matter",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1907,
+  "died": 1984,
+  "dates": "1907–1984",
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "name": "Herbert Matter",
+  "movements": [
+   "new-vision"
+  ],
+  "key": "Swiss photographer and designer whose photomontage posters for Swiss tourism brought the New Vision to advertising, before he worked for Knoll in the United States.",
+  "more": "He studied in Paris and in the 1930s made tourist posters for Switzerland that combined bold photographs in photomontage. In 1936 he moved to the United States, where he worked as a photographer and designer for magazines and, from the late 1940s, for the furniture maker Knoll. He also taught at Yale. He died in 1984.",
+  "es": {
+   "dates": "1907–1984",
+   "key": "Fotógrafo y diseñador suizo cuyos carteles de fotomontaje para el turismo suizo llevaron la Nueva Visión a la publicidad, antes de trabajar para Knoll en Estados Unidos.",
+   "more": "Estudió en París y en la década de 1930 hizo carteles turísticos para Suiza que combinaban fotografías de gran impacto en fotomontaje. En 1936 se fue a Estados Unidos, donde trabajó como fotógrafo y diseñador para revistas y, desde fines de la década de 1940, para el fabricante de muebles Knoll. También enseñó en Yale. Murió en 1984."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-leisure",
+  "item": "herbert-matter",
+  "note": "Mountain tourism needed striking images to attract visitors; Matter answered with Swiss tourist posters in photomontage.",
+  "es": {
+   "note": "El turismo de montaña necesitaba imágenes de impacto para atraer visitantes; Matter respondió con carteles turísticos suizos en fotomontaje."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "alvin-lustig",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1915,
+  "died": 1955,
+  "dates": "1915–1955",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Alvin Lustig",
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "key": "American designer whose modern book jackets for New Directions brought abstract, symbolic imagery to the cover and made him a leading figure of American graphic modernism.",
+  "more": "Born in Denver, he designed book jackets in the 1940s, most famously for the publisher New Directions, using abstract and symbolic forms instead of literal illustration. He also worked in interior and product design and taught, including at Yale. Diabetes took his sight in his last years, and he died in New York in 1955.",
+  "es": {
+   "dates": "1915–1955",
+   "key": "Diseñador estadounidense cuyas sobrecubiertas modernas para New Directions llevaron la imagen abstracta y simbólica a la portada y lo hicieron figura del modernismo gráfico de su país.",
+   "more": "Nacido en Denver, diseñó sobrecubiertas de libros en la década de 1940, sobre todo para la editorial New Directions, con formas abstractas y simbólicas en lugar de ilustración literal. También trabajó en diseño de interiores y de producto y enseñó, entre otros lugares en Yale. La diabetes le quitó la vista en sus últimos años y murió en Nueva York en 1955."
+  },
+  "refs": []
+ }
+]

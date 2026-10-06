@@ -1,0 +1,194 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-atlantic-revolutions",
+   "track": "political",
+   "start": 1776,
+   "end": 1799,
+   "date": "1776–1799",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "name": "American and French Revolutions",
+   "short": "Atlantic Revolutions",
+   "key": "The American and French revolutions replaced monarchy and privilege with republics founded on citizenship, and gave states new national symbols.",
+   "happened": "The thirteen American colonies declared independence in 1776 and won it by 1783, and the United States adopted its Constitution in 1787. In France the revolution began in 1789, the monarchy fell in 1792 and the republic lasted until Napoleon’s coup of 1799.",
+   "effect": "Sovereignty now rested in the nation, so new regimes needed flags, cockades, seals, coins and printed texts that spoke to all citizens, in simple colours and forms. Court styles lost their prestige as a sign of rank, and the revolutionary governments looked to classical Rome and Greece for a civic image.",
+   "es": {
+    "name": "Revoluciones de EE. UU. y Francia",
+    "short": "Rev. atlánticas",
+    "date": "1776–1799",
+    "key": "Las revoluciones de EE. UU. y Francia reemplazaron la monarquía y el privilegio por repúblicas fundadas en la ciudadanía, y dieron a los Estados nuevos símbolos nacionales.",
+    "happened": "Las trece colonias americanas declararon su independencia en 1776 y la lograron hacia 1783, y Estados Unidos adoptó su Constitución en 1787. En Francia la revolución comenzó en 1789, la monarquía cayó en 1792 y la república duró hasta el golpe de Napoleón en 1799.",
+    "effect": "La soberanía pasó a residir en la nación, así que los nuevos regímenes necesitaron banderas, escarapelas, sellos, monedas y textos impresos que hablaran a todos los ciudadanos, en colores y formas simples. Los estilos cortesanos perdieron prestigio como signo de rango, y los gobiernos revolucionarios miraron a Roma y Grecia clásicas en busca de una imagen cívica."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-napoleonic-empire",
+   "track": "political",
+   "start": 1799,
+   "end": 1815,
+   "date": "1799–1815",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Napoleonic Empire",
+   "short": "Napoleonic Empire",
+   "key": "Napoleon’s consulate and empire turned design into an instrument of state power, with a classical vocabulary of order and imperial symbols.",
+   "happened": "Napoleon Bonaparte took power in France in 1799, was proclaimed emperor in 1804 and was defeated in 1814–15. His armies and allied rulers spread French administration, law and taste across much of Europe.",
+   "effect": "A new regime without ancestry needed images of authority, and it commissioned palaces, furniture, porcelain and textiles that joined antique forms to emblems of conquest. This courtly Empire style, led by the architects Percier and Fontaine, set the model for rulers’ interiors across Europe for a generation.",
+   "es": {
+    "name": "Imperio napoleónico",
+    "short": "Imperio napoleónico",
+    "date": "1799–1815",
+    "key": "El Consulado y el Imperio de Napoleón hicieron del diseño un instrumento del poder del Estado, con un vocabulario clásico de orden y símbolos imperiales.",
+    "happened": "Napoleón Bonaparte tomó el poder en Francia en 1799, fue proclamado emperador en 1804 y fue derrotado en 1814–15. Sus ejércitos y los gobernantes aliados difundieron la administración, las leyes y el gusto franceses por gran parte de Europa.",
+    "effect": "Un régimen sin linaje necesitaba imágenes de autoridad, y encargó palacios, muebles, porcelana y textiles que unían formas antiguas con emblemas de conquista. Este estilo Imperio cortesano, guiado por los arquitectos Percier y Fontaine, fue el modelo de los interiores de los gobernantes europeos durante una generación."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-latin-american-independence",
+   "track": "political",
+   "start": 1808,
+   "end": 1825,
+   "date": "1808–1825",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [],
+   "name": "Latin American Independence",
+   "short": "Independencias",
+   "key": "The collapse of Spanish rule between 1808 and 1825 created new republics that had to invent their own public images, institutions and printed media.",
+   "happened": "After Napoleon’s invasion of Spain in 1808, juntas in Spanish America began to govern in the name of the king and then moved towards independence. Wars led by figures such as San Martín and Bolívar ended Spanish rule on the mainland by about 1825.",
+   "effect": "New states needed flags, coats of arms, coins, official gazettes and newspapers that gave a public face to the patriot cause, and they often adapted European and North American models. Printing presses became tools of government and of political persuasion.",
+   "es": {
+    "name": "Independencias latinoamericanas",
+    "short": "Independencias",
+    "date": "1808–1825",
+    "key": "La caída del dominio español entre 1808 y 1825 creó repúblicas nuevas que debieron inventar sus propias imágenes públicas, instituciones y medios impresos.",
+    "happened": "Tras la invasión napoleónica de España en 1808, juntas en la América española comenzaron a gobernar en nombre del rey y luego avanzaron hacia la independencia. Las guerras lideradas por figuras como San Martín y Bolívar pusieron fin al dominio español en el continente hacia 1825.",
+    "effect": "Los Estados nuevos necesitaron banderas, escudos, monedas, gacetas oficiales y periódicos que dieran rostro público a la causa patriota, y con frecuencia adaptaron modelos europeos y norteamericanos. Las imprentas se volvieron herramientas de gobierno y de persuasión política."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-restoration-europe",
+   "track": "political",
+   "start": 1815,
+   "end": 1848,
+   "date": "1815–1848",
+   "regions": [
+    "europe"
+   ],
+   "countries": [],
+   "name": "European Restoration",
+   "short": "Restoration",
+   "key": "After Napoleon’s fall the European powers restored monarchies and policed political life, pushing middle-class energy towards private and domestic life.",
+   "happened": "The Congress of Vienna (1814–15) redrew the map of Europe and restored ruling dynasties. In the German states and Austria, censorship and police surveillance limited public political activity until the revolutions of 1848.",
+   "effect": "With public debate restricted, a growing middle class invested in the home, which favoured modest, comfortable furnishings in simplified classical forms. This domestic taste, later called Biedermeier, shaped furniture, porcelain and interiors in central Europe.",
+   "es": {
+    "name": "Restauración europea",
+    "short": "Restauración",
+    "date": "1815–1848",
+    "key": "Tras la caída de Napoleón, las potencias europeas restauraron las monarquías y vigilaron la vida política, lo que empujó la energía de la clase media hacia la vida privada y doméstica.",
+    "happened": "El Congreso de Viena (1814–15) redibujó el mapa de Europa y restauró las dinastías gobernantes. En los Estados alemanes y en Austria, la censura y la vigilancia policial limitaron la actividad política pública hasta las revoluciones de 1848.",
+    "effect": "Con el debate público restringido, una clase media en crecimiento invirtió en el hogar, lo que favoreció muebles modestos y cómodos, de formas clásicas simplificadas. Este gusto doméstico, llamado después Biedermeier, marcó el mobiliario, la porcelana y los interiores de Europa central."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-penny-post",
+   "track": "political",
+   "start": 1839,
+   "end": 1840,
+   "date": "1839–1840",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "British Postal Reform",
+   "short": "Penny Post",
+   "key": "The British postal reform of 1839–40 replaced payment by the recipient with a uniform prepaid rate, and created the first adhesive postage stamp.",
+   "happened": "Rowland Hill proposed in 1837 a low uniform rate prepaid by the sender. Parliament approved the penny rate, which began in January 1840, and the Penny Black stamp was issued that May.",
+   "effect": "Prepayment meant that every letter had to carry a small printed sign of payment that clerks recognised at a glance and forgers could not easily copy. The stamp became a new object of graphic design: a small engraved portrait with fine security patterns, printed in large quantities.",
+   "es": {
+    "name": "Reforma postal británica",
+    "short": "Penny Post",
+    "date": "1839–1840",
+    "key": "La reforma postal británica de 1839–40 reemplazó el pago por el destinatario con una tarifa única prepagada, y creó la primera estampilla adhesiva.",
+    "happened": "Rowland Hill propuso en 1837 una tarifa baja y uniforme pagada por el remitente. El Parlamento aprobó la tarifa de un penique, que empezó en enero de 1840, y el Penny Black se emitió en mayo de ese año.",
+    "effect": "El prepago exigió que cada carta llevara un pequeño signo impreso de pago, que los empleados reconocieran de un vistazo y que los falsificadores no pudieran copiar con facilidad. La estampilla se volvió un objeto nuevo del diseño gráfico: un pequeño retrato grabado con finos patrones de seguridad, impreso en grandes cantidades."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-bourbon-reforms-academies",
+   "track": "political",
+   "start": 1759,
+   "end": 1810,
+   "date": "1759–1810",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "ES",
+    "MX",
+    "CL"
+   ],
+   "name": "Bourbon reforms and the royal academies of the Spanish empire",
+   "short": "Bourbon reforms",
+   "key": "Charles III’s reforms of the Spanish empire, which created royal academies and state buildings that brought academic neoclassicism to Spanish America.",
+   "happened": "From the reign of Charles III (from 1759) the Spanish Crown reorganised the administration of its American territories and founded institutions of its own there. In Mexico City it created the Royal Academy of San Carlos in 1783, and in Santiago de Chile it built the Royal Mint, a state building finished c. 1805.",
+   "effect": "The Crown used academies and official commissions to impose a sober, classical taste and the academic training of the architect in place of the baroque. The Royal Mint of Santiago was designed by Joaquín Toesca, an architect trained in Rome, as an austere neoclassical building without baroque ornament.",
+   "es": {
+    "name": "Reformas borbónicas y academias reales",
+    "short": "Reformas borbónicas",
+    "date": "1759–1810",
+    "key": "Las reformas de Carlos III al imperio español, que crearon academias reales y edificios del Estado que llevaron el neoclasicismo académico a la América española.",
+    "happened": "Desde el reinado de Carlos III (a partir de 1759) la Corona española reorganizó la administración de sus territorios americanos y fundó allí instituciones propias. En Ciudad de México creó la Real Academia de San Carlos en 1783, y en Santiago de Chile levantó la Real Casa de Moneda, un edificio del Estado terminado hacia 1805.",
+    "effect": "La Corona usó academias y encargos oficiales para imponer un gusto sobrio y clásico y la formación académica del arquitecto, en lugar del barroco. La Casa de Moneda de Santiago fue proyectada por Joaquín Toesca, arquitecto formado en Roma, como un edificio neoclásico austero y sin ornamento barroco."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-statistics-thematic-maps",
+   "track": "political",
+   "start": 1780,
+   "end": 1880,
+   "date": "1780–1880",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR"
+   ],
+   "name": "State statistics and thematic mapping",
+   "short": "State statistics",
+   "key": "The growth of state and commercial statistics in Europe, which supplied the numbers and flows that early statistical graphics turned into images.",
+   "happened": "From the late eighteenth century European states and merchants gathered growing series of figures on trade, population and public works. Engineers and administrators learned to handle these figures and flows as part of their work.",
+   "effect": "Numbers that had been kept in tables began to be drawn: William Playfair turned trade series into line and bar charts in his Commercial and Political Atlas (1786), and the French engineer Charles Joseph Minard traced flows as bands of varying width on maps, as in his 1869 map of Napoleon’s Russian campaign.",
+   "es": {
+    "name": "Estadística de Estado y cartografía temática",
+    "short": "Estadística de Estado",
+    "date": "1780–1880",
+    "key": "El crecimiento de la estadística estatal y comercial en Europa, que dio las cifras y los flujos que los primeros gráficos estadísticos convirtieron en imágenes.",
+    "happened": "Desde fines del siglo XVIII los Estados y los comerciantes europeos reunieron series cada vez mayores de cifras sobre comercio, población y obras públicas. Ingenieros y administradores aprendieron a manejar esas cifras y flujos como parte de su trabajo.",
+    "effect": "Los números que se guardaban en tablas empezaron a dibujarse: William Playfair convirtió series comerciales en gráficos de líneas y barras en su Commercial and Political Atlas (1786), y el ingeniero francés Charles Joseph Minard trazó flujos como bandas de ancho variable sobre mapas, como en su mapa de 1869 de la campaña rusa de Napoleón."
+   },
+   "refs": []
+  }
+ ]
+}

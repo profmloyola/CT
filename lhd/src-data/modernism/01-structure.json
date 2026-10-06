@@ -1,0 +1,50 @@
+{
+ "era": {
+  "id": "modernism",
+  "start": 1914,
+  "end": 1945,
+  "name": "Modernism",
+  "intro": "The machine becomes the model: standardisation, new materials and the avant-gardes redefine what design is, while two wars, the Depression and dictatorships push it toward housing, propaganda and mass consumption.",
+  "es": {
+   "name": "Modernismo",
+   "intro": "La máquina se vuelve el modelo: la estandarización, los materiales nuevos y las vanguardias redefinen qué es el diseño, mientras dos guerras, la Depresión y las dictaduras lo empujan hacia la vivienda, la propaganda y el consumo masivo."
+  }
+ },
+ "tracks": [
+  {
+   "id": "political",
+   "label": "Political",
+   "es": {
+    "label": "Político"
+   }
+  },
+  {
+   "id": "economic",
+   "label": "Economic",
+   "es": {
+    "label": "Económico"
+   }
+  },
+  {
+   "id": "social",
+   "label": "Social",
+   "es": {
+    "label": "Social"
+   }
+  },
+  {
+   "id": "cultural",
+   "label": "Cultural",
+   "es": {
+    "label": "Cultural"
+   }
+  },
+  {
+   "id": "technological",
+   "label": "Technological",
+   "es": {
+    "label": "Tecnológico"
+   }
+  }
+ ]
+}

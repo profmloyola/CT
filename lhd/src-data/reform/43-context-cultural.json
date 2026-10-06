@@ -1,0 +1,287 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-japonisme",
+   "track": "cultural",
+   "start": 1860,
+   "end": 1913,
+   "date": "c. 1860–1910",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP",
+    "FR",
+    "GB"
+   ],
+   "name": "Japonisme",
+   "short": "Japonisme",
+   "key": "The European and American taste for Japanese prints, ceramics and objects, which offered artists and designers a different way of composing images and ornament.",
+   "happened": "After Japan opened its ports to trade in the 1850s, Japanese prints, lacquer, ceramics and textiles reached Europe and America, and Japan took part in the world’s fairs of London in 1862 and Paris in 1867. Collectors and dealers such as Siegfried Bing in Paris, who opened his Maison de l’Art Nouveau in 1895, spread them, and the French critic Philippe Burty named the taste japonisme in the 1870s.",
+   "effect": "Japanese prints showed flat areas of colour, bold outlines, asymmetry and cropped compositions, which influenced posters and book design, and Japanese ornament and furniture inspired the Aesthetic Movement in Britain. Designers such as Christopher Dresser, who visited Japan in 1876–77, studied Japanese objects directly and drew on them for their work.",
+   "es": {
+    "name": "Japonismo",
+    "short": "Japonismo",
+    "date": "c. 1860–1910",
+    "key": "El gusto europeo y estadounidense por los grabados, las cerámicas y los objetos japoneses, que ofreció a artistas y diseñadores otra manera de componer imágenes y ornamento.",
+    "happened": "Después de que Japón abrió sus puertos al comercio en la década de 1850, estampas, lacas, cerámicas y textiles japoneses llegaron a Europa y América, y Japón participó en las exposiciones universales de Londres en 1862 y de París en 1867. Coleccionistas y marchantes como Siegfried Bing en París, que abrió su Maison de l’Art Nouveau en 1895, los difundieron, y el crítico francés Philippe Burty bautizó este gusto como japonismo en la década de 1870.",
+    "effect": "Las estampas japonesas mostraban planos de color, contornos marcados, asimetría y encuadres cortados, que influyeron en el cartel y el diseño de libros, y el ornamento y el mobiliario japoneses inspiraron al movimiento estético en Gran Bretaña. Diseñadores como Christopher Dresser, que visitó Japón en 1876–77, estudiaron directamente los objetos japoneses y se apoyaron en ellos para su trabajo."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-victorian-taste-crisis",
+   "track": "cultural",
+   "start": 1851,
+   "end": 1880,
+   "date": "1851–1880",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Crisis of Victorian taste",
+   "short": "Taste crisis",
+   "key": "A debate in Britain, begun around the Great Exhibition of 1851, about the heavy, over-decorated industrial goods that the market produced.",
+   "happened": "Machines could now copy ornament cheaply, and many British manufactured goods were covered in naturalistic flowers, historical styles and deep relief. At the Great Exhibition of 1851 and in the years after, critics such as Henry Cole, Richard Redgrave and Owen Jones attacked this practice as false and in bad taste.",
+   "effect": "The debate led to reforms in design education, including the government schools of design and the South Kensington museum and school, and to books of principles such as Owen Jones’s The Grammar of Ornament of 1856. Reformers argued that ornament should be flat, suit the object and not imitate nature, an idea that Christopher Dresser and later the Arts and Crafts movement took up in different ways.",
+   "es": {
+    "name": "Crisis del gusto victoriano",
+    "short": "Crisis del gusto",
+    "date": "1851–1880",
+    "key": "Un debate en Gran Bretaña, iniciado en torno a la Gran Exposición de 1851, sobre los objetos industriales pesados y sobrecargados de decoración que producía el mercado.",
+    "happened": "Las máquinas ya podían copiar el ornamento a bajo costo, y muchos productos manufacturados británicos se cubrían de flores naturalistas, estilos históricos y relieves profundos. En la Gran Exposición de 1851 y en los años siguientes, críticos como Henry Cole, Richard Redgrave y Owen Jones atacaron esta práctica por falsa y de mal gusto.",
+    "effect": "El debate llevó a reformas de la enseñanza del diseño, entre ellas las escuelas de diseño del gobierno y el museo y escuela de South Kensington, y a libros de principios como The Grammar of Ornament de Owen Jones, de 1856. Los reformistas sostuvieron que el ornamento debía ser plano, adecuado al objeto y no imitar la naturaleza, una idea que Christopher Dresser y luego el movimiento Arts and Crafts retomaron de maneras distintas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-gothic-revival",
+   "track": "cultural",
+   "start": 1851,
+   "end": 1900,
+   "date": "c. 1840–1900",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "DE"
+   ],
+   "name": "Romantic medievalism and religious revival",
+   "short": "Romantic medievalism",
+   "key": "A romantic taste for the medieval past and a religious revival that, in Britain, became a moral argument about how buildings and things should be made.",
+   "happened": "From the late eighteenth century, and strongly in the 1830s and 1840s, Britain and the rest of Europe turned back to the Middle Ages in literature, religion and art. A. W. N. Pugin and later John Ruskin argued that medieval building was honest and Christian, and that the industrial age had cut the link between work and pleasure. Ruskin’s chapter ‘The Nature of Gothic’ appeared in The Stones of Venice in 1853. The movement began before 1851; the dates here start with the first year of the period. The architectural style itself is treated in the Gothic Revival movement; this context is the wider cultural and religious current behind it.",
+   "effect": "This outlook, more than any one style, gave design a moral language: respect for the hand of the worker shaped furniture, metalwork, stained glass, wallpaper and church fittings, and Ruskin’s ideas gave William Morris and the Arts and Crafts movement the argument that good design needs pleasurable, skilled work. It supplied both a repertoire of forms and a critique of the factory.",
+   "es": {
+    "name": "Medievalismo romántico y renovación religiosa",
+    "short": "Medievalismo romántico",
+    "date": "c. 1840–1900",
+    "key": "Un gusto romántico por el pasado medieval y una renovación religiosa que, en Gran Bretaña, se volvieron un argumento moral sobre cómo deben hacerse los edificios y las cosas.",
+    "happened": "Desde fines del siglo XVIII, y con fuerza en las décadas de 1830 y 1840, Gran Bretaña y el resto de Europa volvieron la mirada a la Edad Media en la literatura, la religión y el arte. A. W. N. Pugin y más tarde John Ruskin sostuvieron que construir al modo medieval era honesto y cristiano, y que la era industrial había cortado el vínculo entre trabajo y placer. El capítulo «La naturaleza de lo gótico» de Ruskin apareció en Las piedras de Venecia en 1853. El movimiento comenzó antes de 1851; las fechas parten del primer año del tramo. El estilo arquitectónico en sí se trata en el movimiento Neogótico; este contexto es la corriente cultural y religiosa más amplia que lo sustenta.",
+    "effect": "Esta actitud, más que un estilo concreto, dio al diseño un lenguaje moral: el respeto por la mano del trabajador marcó el mobiliario, la orfebrería, los vitrales, el papel mural y el equipamiento de las iglesias, y las ideas de Ruskin dieron a William Morris y al movimiento Arts and Crafts el argumento de que el buen diseño requiere un trabajo hábil y placentero. Aportó un repertorio de formas y una crítica de la fábrica."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-natural-forms-science",
+   "track": "cultural",
+   "start": 1860,
+   "end": 1913,
+   "date": "c. 1860–1910",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "DE",
+    "FR"
+   ],
+   "name": "Botany, Darwin and natural forms",
+   "short": "Natural forms",
+   "key": "Natural history and the new science of life gave designers a vocabulary of plants and organic growth to study and stylise.",
+   "happened": "Charles Darwin published On the Origin of Species in 1859, and botany, zoology and the microscope reached a wide public through popular books and illustrated works. In Germany, Ernst Haeckel’s Kunstformen der Natur appeared in parts from 1899 and showed organisms drawn as ornamental patterns.",
+   "effect": "Designers studied plants and animals as a source of structure and ornament instead of copying flowers realistically: Christopher Dresser, a trained botanist, taught how plant forms could be stylised for flat patterns, and around 1900 Art Nouveau designers drew on living forms for line, glass and ironwork. Nature became a model of growth and form rather than only a motif.",
+   "es": {
+    "name": "Botánica, Darwin y formas de la naturaleza",
+    "short": "Formas naturales",
+    "date": "c. 1860–1910",
+    "key": "La historia natural y la nueva ciencia de la vida dieron a los diseñadores un vocabulario de plantas y crecimiento orgánico para estudiar y estilizar.",
+    "happened": "Charles Darwin publicó El origen de las especies en 1859, y la botánica, la zoología y el microscopio llegaron a un público amplio a través de libros populares y obras ilustradas. En Alemania, Ernst Haeckel publicó por entregas desde 1899 Kunstformen der Natur, que mostraba organismos dibujados como motivos ornamentales.",
+    "effect": "Los diseñadores estudiaron plantas y animales como fuente de estructura y ornamento en vez de copiar las flores de manera realista: Christopher Dresser, botánico de formación, enseñó cómo estilizar las formas vegetales para patrones planos, y hacia 1900 los diseñadores del Art Nouveau recurrieron a las formas vivas para la línea, el vidrio y la herrería. La naturaleza pasó a ser un modelo de crecimiento y forma, más que solo un motivo."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-poster-craze",
+   "track": "cultural",
+   "start": 1880,
+   "end": 1900,
+   "date": "c. 1880–1900",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "GB",
+    "US"
+   ],
+   "name": "The poster craze",
+   "short": "Poster craze",
+   "key": "In the 1890s the illustrated poster became an art form that people collected, exhibited and wrote about.",
+   "happened": "Colour lithography made large, cheap posters possible, and in Paris Jules Chéret and then Toulouse-Lautrec made them for theatres, cabarets and products. In the 1890s posters were collected, shown in exhibitions and reviewed in magazines in France, Britain and the United States, and Les Maîtres de l’Affiche (1896–1900) brought them together in a monthly series.",
+   "effect": "The craze made the poster a respected field for artists and led printers and publishers to hire them: designers such as Alphonse Mucha, Aubrey Beardsley and the Beggarstaffs developed flat colour, strong outlines and a few elements that read from a distance. The poster became a medium for a personal style and one of the first fields of modern graphic design.",
+   "es": {
+    "name": "La fiebre del cartel",
+    "short": "Fiebre del cartel",
+    "date": "c. 1880–1900",
+    "key": "En la década de 1890 el cartel ilustrado se volvió una forma de arte que la gente coleccionaba, exponía y comentaba.",
+    "happened": "La litografía en color hizo posibles carteles grandes y baratos, y en París Jules Chéret y luego Toulouse-Lautrec los hicieron para teatros, cabarés y productos. En la década de 1890 los carteles se coleccionaban, se mostraban en exposiciones y se comentaban en revistas de Francia, Gran Bretaña y Estados Unidos, y Les Maîtres de l’Affiche (1896–1900) los reunió en una serie mensual.",
+    "effect": "La fiebre hizo del cartel un campo respetado para los artistas y llevó a impresores y editores a contratarlos: diseñadores como Alphonse Mucha, Aubrey Beardsley y los Beggarstaffs desarrollaron el color plano, los contornos marcados y pocos elementos que se leen a distancia. El cartel se volvió un medio para un estilo personal y uno de los primeros campos del diseño gráfico moderno."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-vienna-1900",
+   "track": "cultural",
+   "start": 1897,
+   "end": 1913,
+   "date": "1897–1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "name": "Vienna 1900",
+   "short": "Vienna 1900",
+   "key": "The cultural ferment of imperial Vienna, where artists, architects and writers argued over ornament, modernity and the modern home.",
+   "happened": "In Vienna a group of artists left the established artists’ association in 1897 to form the Secession, and in 1903 Josef Hoffmann and Koloman Moser founded the Wiener Werkstätte. The city’s writers, musicians and thinkers also worked on the question of what it meant to be modern, and the architect Adolf Loos attacked ornament in ‘Ornament and Crime’.",
+   "effect": "Vienna produced two opposed positions on design: the Secession and the Werkstätte sought total, unified works in which the architect designed the building, furniture and tableware, while Loos argued that ornament was out of place in modern objects and buildings. The debate fixed terms that later modern design argued over for decades.",
+   "es": {
+    "name": "Viena 1900",
+    "short": "Viena 1900",
+    "date": "1897–1914",
+    "key": "La efervescencia cultural de la Viena imperial, donde artistas, arquitectos y escritores discutieron sobre el ornamento, la modernidad y la casa moderna.",
+    "happened": "En Viena un grupo de artistas dejó en 1897 la asociación oficial de artistas para formar la Secesión, y en 1903 Josef Hoffmann y Koloman Moser fundaron los Wiener Werkstätte. Los escritores, músicos y pensadores de la ciudad también trabajaron sobre qué significaba ser moderno, y el arquitecto Adolf Loos atacó el ornamento en «Ornamento y delito».",
+    "effect": "Viena produjo dos posturas opuestas sobre el diseño: la Secesión y los Werkstätte buscaban obras totales y unificadas, en que el arquitecto diseñaba el edificio, los muebles y la vajilla, mientras Loos sostenía que el ornamento estaba fuera de lugar en los objetos y edificios modernos. El debate fijó términos sobre los que el diseño moderno discutió durante décadas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-classical-archaeology",
+   "track": "cultural",
+   "start": 1870,
+   "end": 1913,
+   "date": "c. 1870–1914",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "GR",
+    "GB"
+   ],
+   "name": "Classical archaeology and nostalgia for Greece",
+   "short": "Classical Greece",
+   "key": "Excavations in Greece and Turkey and the study of Greek art revived a taste for classical Greek forms and dress.",
+   "happened": "In the 1870s Heinrich Schliemann excavated Troy and Mycenae, and German archaeologists began work at Olympia in 1875, while museums and universities in Britain, Germany and France taught and displayed Greek art. Greece became a standard of beauty and a subject of popular books and exhibitions.",
+   "effect": "The renewed interest in Greek art shaped the look of the Aesthetic Movement and fed dress reform: loose, draped clothing was said to follow the natural body as Greek dress had. The classical repertoire of columns, friezes and drapery also remained part of architecture and furniture, and was used in new ways by artists around 1900.",
+   "es": {
+    "name": "Arqueología clásica y nostalgia de Grecia",
+    "short": "Grecia clásica",
+    "date": "c. 1870–1914",
+    "key": "Las excavaciones en Grecia y Turquía y el estudio del arte griego reavivaron el gusto por las formas y el vestido de la Grecia clásica.",
+    "happened": "En la década de 1870 Heinrich Schliemann excavó Troya y Micenas, y arqueólogos alemanes comenzaron a trabajar en Olimpia en 1875, mientras museos y universidades de Gran Bretaña, Alemania y Francia enseñaban y exhibían arte griego. Grecia se volvió un patrón de belleza y un tema de libros y exposiciones populares.",
+    "effect": "El renovado interés por el arte griego marcó el aspecto del movimiento estético y alimentó la reforma del vestido: se decía que la ropa suelta y drapeada seguía el cuerpo natural, como el vestido griego. El repertorio clásico de columnas, frisos y paños también siguió presente en la arquitectura y el mobiliario, y los artistas de hacia 1900 lo usaron de maneras nuevas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-columbian-exposition-1893",
+   "track": "cultural",
+   "start": 1893,
+   "end": 1909,
+   "date": "1893–1909",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "World's Columbian Exposition, Chicago (White City)",
+   "short": "White City",
+   "key": "The 1893 Chicago fair whose classical white buildings showed a whole city planned with axes and uniform façades, and inspired the City Beautiful movement.",
+   "happened": "The World's Columbian Exposition opened in Chicago in 1893. Daniel Burnham directed its construction and Frederick Law Olmsted shaped its landscape. Its large classical buildings, grouped around a basin, were known as the White City. Burnham and Edward Bennett published the Plan of Chicago in 1909.",
+   "effect": "The fair showed that a large ensemble could be planned as a unit, with axes, boulevards and classical façades, and this became a programme of civic reform in the United States. The Plan of Chicago carried the idea to the real city, and Louis Sullivan criticized the fair's classicism.",
+   "es": {
+    "name": "Exposición Colombina de Chicago (la Ciudad Blanca)",
+    "short": "Ciudad Blanca",
+    "date": "1893–1909",
+    "key": "La feria de Chicago de 1893, cuyos edificios clásicos blancos mostraron una ciudad entera planificada con ejes y fachadas uniformes, e inspiraron el movimiento City Beautiful.",
+    "happened": "La Exposición Colombina Mundial se inauguró en Chicago en 1893. Daniel Burnham dirigió su construcción y Frederick Law Olmsted dio forma a su paisaje. Sus grandes edificios clásicos, agrupados en torno a una cuenca de agua, se conocieron como la Ciudad Blanca. Burnham y Edward Bennett publicaron el Plan de Chicago en 1909.",
+    "effect": "La feria mostró que un gran conjunto podía planificarse como unidad, con ejes, bulevares y fachadas clásicas, y esto se volvió un programa de reforma cívica en Estados Unidos. El Plan de Chicago llevó la idea a la ciudad real, y Louis Sullivan criticó el clasicismo de la feria."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-great-exhibition",
+   "track": "cultural",
+   "start": 1851,
+   "end": null,
+   "cont": false,
+   "date": "1851",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Great Exhibition of London",
+   "short": "Great Exhibition",
+   "key": "The 1851 exhibition in the Crystal Palace in Hyde Park, which set the manufactures of many nations side by side and made industrial design a public question.",
+   "happened": "Held in Hyde Park from May to October 1851 under the patronage of Prince Albert, the Great Exhibition of the Works of Industry of All Nations was housed in a glass-and-iron hall designed by Joseph Paxton. Some 6 million visits were recorded, and Henry Cole, one of its organisers, had already been campaigning for better design in manufactures.",
+   "effect": "Seeing British and foreign goods together, critics found much British ornament overloaded and ill-judged, and the exhibition set off the debate on taste and on the training of designers. The profits helped fund the museum and schools that grew into South Kensington, and Owen Jones, who directed the colour scheme of the hall, published The Grammar of Ornament in 1856 as a handbook of ornament for designers.",
+   "es": {
+    "name": "Gran Exposición de Londres",
+    "short": "Gran Exposición",
+    "date": "1851",
+    "key": "La exposición de 1851 en el Crystal Palace de Hyde Park, que puso lado a lado las manufacturas de muchas naciones e hizo del diseño industrial una cuestión pública.",
+    "happened": "Realizada en Hyde Park entre mayo y octubre de 1851 bajo el patrocinio del príncipe Alberto, la Gran Exposición de los Trabajos de la Industria de Todas las Naciones se alojó en un pabellón de vidrio y hierro diseñado por Joseph Paxton. Se registraron unos 6 millones de visitas, y Henry Cole, uno de sus organizadores, ya hacía campaña por un mejor diseño de las manufacturas.",
+    "effect": "Al ver juntos los productos británicos y extranjeros, los críticos hallaron recargado y mal pensado buena parte del ornamento británico, y la exposición abrió el debate sobre el gusto y la formación de los diseñadores. Las ganancias ayudaron a financiar el museo y las escuelas que dieron origen a South Kensington, y Owen Jones, que dirigió el esquema de color del pabellón, publicó en 1856 The Grammar of Ornament como manual de ornamento para diseñadores."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-paris-1900",
+   "track": "cultural",
+   "start": 1900,
+   "end": null,
+   "cont": false,
+   "date": "1900",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Paris Universal Exposition",
+   "short": "Paris 1900",
+   "key": "The Paris world’s fair of 1900, which showed Art Nouveau to an international public and closed the century of great exhibitions.",
+   "happened": "The Exposition Universelle ran in Paris from April to November 1900 and drew tens of millions of visits. It left the Grand Palais and the Petit Palais, and the same year the first Métro line opened, with station entrances by Hector Guimard. Among the displays was the pavilion of Siegfried Bing’s Maison de l’Art Nouveau.",
+   "effect": "The fair gave the new decorative style an audience far wider than its galleries and shops, and made curved, plant-derived ornament the look associated with the turn of the century. Designers and makers from several countries saw each other’s work there, which helped the style spread across Europe, though it also turned it into a fashion that was easy to imitate.",
+   "es": {
+    "name": "Exposición Universal de París",
+    "short": "París 1900",
+    "date": "1900",
+    "key": "La feria mundial de París de 1900, que mostró el Art nouveau a un público internacional y cerró el siglo de las grandes exposiciones.",
+    "happened": "La Exposición Universal se celebró en París entre abril y noviembre de 1900 y atrajo decenas de millones de visitas. Dejó el Grand Palais y el Petit Palais, y ese mismo año se inauguró la primera línea del Métro, con accesos de estación de Hector Guimard. Entre las muestras estuvo el pabellón de la Maison de l’Art Nouveau de Siegfried Bing.",
+    "effect": "La feria dio al nuevo estilo decorativo un público mucho más amplio que el de sus galerías y tiendas, y convirtió el ornamento curvo, derivado de las plantas, en la imagen asociada al cambio de siglo. Diseñadores y fabricantes de varios países vieron allí el trabajo de los demás, lo que ayudó a que el estilo se difundiera por Europa, aunque también lo volvió una moda fácil de imitar."
+   },
+   "refs": []
+  }
+ ]
+}

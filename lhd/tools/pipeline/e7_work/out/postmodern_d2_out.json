@@ -1,0 +1,224 @@
+[
+ {
+  "rtype": "designer",
+  "id": "oliviero-toscani",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1942,
+  "died": 2025,
+  "dates": "1942–2025",
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Oliviero Toscani",
+  "key": "Italian photographer who made the Benetton advertising campaigns, which brought social and political themes into mass advertising.",
+  "more": "He worked as a photographer for fashion and magazines before becoming the creative force behind Benetton's campaigns from the early 1980s. Those campaigns showed subjects such as racial diversity, war and illness instead of the clothes themselves. They were widely debated and made the brand's image depend on provocation and values rather than on the product.",
+  "es": {
+   "dates": "1942–2025",
+   "key": "Fotógrafo italiano que hizo las campañas publicitarias de Benetton, las cuales llevaron temas sociales y políticos a la publicidad masiva.",
+   "more": "Trabajó como fotógrafo de moda y de revistas antes de convertirse en la fuerza creativa de las campañas de Benetton desde comienzos de la década de 1980. Esas campañas mostraban temas como la diversidad racial, la guerra y la enfermedad en lugar de la ropa misma. Fueron muy discutidas e hicieron que la imagen de la marca dependiera de la provocación y de los valores más que del producto."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "muriel-cooper",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1925,
+  "died": 1994,
+  "dates": "1925–1994",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Muriel Cooper",
+  "movements": [
+   "interaction-design"
+  ],
+  "key": "American designer who led design at MIT Press and later founded the Visible Language Workshop, exploring typography on the computer screen.",
+  "more": "She was design director of MIT Press, where she shaped a recognisable look for its books. In 1975 she co-founded the Visible Language Workshop at MIT, which later became part of the Media Lab. There she and her students experimented with dynamic, interactive typography and information displayed in navigable three-dimensional space.",
+  "es": {
+   "dates": "1925–1994",
+   "key": "Diseñadora estadounidense que dirigió el diseño de MIT Press y luego fundó el Visible Language Workshop, donde exploró la tipografía en la pantalla del computador.",
+   "more": "Fue directora de diseño de MIT Press, donde dio a sus libros una imagen reconocible. En 1975 cofundó en el MIT el Visible Language Workshop, que más tarde pasó a formar parte del Media Lab. Allí ella y sus estudiantes experimentaron con tipografía dinámica e interactiva y con información presentada en un espacio tridimensional navegable."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "bill-moggridge",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1943,
+  "died": 2012,
+  "dates": "1943–2012",
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "name": "Bill Moggridge",
+  "movements": [
+   "interaction-design"
+  ],
+  "institutions": [
+   "inst-ideo"
+  ],
+  "key": "British designer of the GRiD Compass, an early laptop with a clamshell screen, and co-founder of IDEO, who helped establish the term interaction design.",
+  "more": "Born in London, he designed the GRiD Compass, a portable computer with a screen that folded over the keyboard, in the late 1970s and early 1980s. He is credited with helping to name and define interaction design, the design of how people use digital products. He was a co-founder of the design firm IDEO.",
+  "es": {
+   "dates": "1943–2012",
+   "key": "Diseñador británico del GRiD Compass, uno de los primeros portátiles con pantalla abatible, y cofundador de IDEO, que ayudó a establecer el término diseño de interacción.",
+   "more": "Nacido en Londres, diseñó el GRiD Compass, un computador portátil con una pantalla que se plegaba sobre el teclado, a fines de la década de 1970 y comienzos de la de 1980. Se le reconoce haber ayudado a nombrar y definir el diseño de interacción, el diseño de cómo las personas usan los productos digitales. Fue cofundador de la consultora de diseño IDEO."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "shiro-kuramata",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1934,
+  "died": 1991,
+  "dates": "1934–1991",
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "name": "Shiro Kuramata",
+  "movements": [
+   "memphis"
+  ],
+  "key": "Japanese designer of poetic furniture and interiors in glass, acrylic and metal mesh, who took part in the Memphis collections.",
+  "more": "Born in Tokyo, he worked as an interior and furniture designer, known for light, transparent pieces made of materials such as acrylic, glass and expanded metal. One of his best known pieces is the How High the Moon armchair of 1986, made of metal mesh. He was among the designers who contributed to the Memphis collections in Milan, which brought Japanese work into the Western postmodern debate.",
+  "es": {
+   "dates": "1934–1991",
+   "key": "Diseñador japonés de mobiliario e interiores poéticos en vidrio, acrílico y malla metálica, que participó en las colecciones de Memphis.",
+   "more": "Nacido en Tokio, trabajó como diseñador de interiores y de muebles, conocido por piezas livianas y transparentes hechas de materiales como acrílico, vidrio y metal expandido. Una de sus piezas más conocidas es el sillón How High the Moon de 1986, de malla metálica. Fue uno de los diseñadores que aportaron a las colecciones de Memphis en Milán, lo que llevó el trabajo japonés al debate posmoderno occidental."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "gunpei-yokoi",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1941,
+  "died": 1997,
+  "dates": "1941–1997",
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "name": "Gunpei Yokoi",
+  "key": "Japanese Nintendo designer of the Game & Watch and the Game Boy, who built them on cheap, well-tried components, an approach he called withered technology.",
+  "more": "He joined Nintendo and designed the Game & Watch handheld games from 1980, followed by the Game Boy in 1989. His design principle, often rendered as lateral thinking with withered technology, used mature and inexpensive components in new ways. Handheld consoles made this way reached a very large public, and his approach shaped how Japanese electronics were designed for the West.",
+  "es": {
+   "dates": "1941–1997",
+   "key": "Diseñador japonés de Nintendo que creó los Game & Watch y el Game Boy sobre componentes baratos y probados, un enfoque que llamó tecnología madura.",
+   "more": "Entró a Nintendo y diseñó los juegos portátiles Game & Watch desde 1980, y luego el Game Boy en 1989. Su principio de diseño, a menudo traducido como pensamiento lateral con tecnología madura, usaba componentes maduros y baratos de maneras nuevas. Las consolas portátiles hechas así llegaron a un público muy amplio, y su enfoque marcó cómo se diseñó la electrónica japonesa para Occidente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "naoto-fukasawa",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1956,
+  "died": null,
+  "dates": "1956–",
+  "countries": [
+   "JP"
+  ],
+  "regions": [
+   "global"
+  ],
+  "name": "Naoto Fukasawa",
+  "movements": [
+   "minimalism-fashion-product"
+  ],
+  "institutions": [
+   "inst-muji"
+  ],
+  "key": "Japanese product designer known for his work for Muji and for Super Normal, the idea of ordinary objects, which he developed with Jasper Morrison.",
+  "more": "He is a Japanese product designer who has worked for Muji, where he designed a wall-mounted CD player among other products. With the British designer Jasper Morrison he organised the Super Normal exhibition of 2006, which argued for everyday objects that are quietly well made. His restrained approach to the object travelled from Japan into Western minimalist product design.",
+  "es": {
+   "dates": "1956–",
+   "key": "Diseñador de producto japonés conocido por su trabajo para Muji y por Super Normal, la idea de los objetos corrientes, que desarrolló junto a Jasper Morrison.",
+   "more": "Es un diseñador de producto japonés que ha trabajado para Muji, donde diseñó, entre otros productos, un reproductor de CD de pared. Junto al diseñador británico Jasper Morrison organizó la exposición Super Normal de 2006, que defendía los objetos cotidianos discretamente bien hechos. Su manera sobria de entender el objeto viajó de Japón al diseño de producto minimalista occidental."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-branding",
+  "item": "oliviero-toscani",
+  "note": "As global brands competed on image, Toscani's Benetton campaigns sold values and controversy, using news-like photographs instead of showing the product.",
+  "es": {
+   "note": "Al competir las marcas globales por su imagen, las campañas de Benetton de Toscani vendieron valores y polémica, con fotos de tono noticioso en vez de mostrar el producto."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-personal-computer",
+  "item": "muriel-cooper",
+  "note": "Once the screen became interactive, Cooper explored type that moves and layers in navigable three-dimensional space rather than staying fixed on a page.",
+  "es": {
+   "note": "Al volverse interactiva la pantalla, Cooper exploró una tipografía que se mueve y se superpone en un espacio tridimensional navegable, en vez de quedar fija en una página."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-personal-computer",
+  "item": "bill-moggridge",
+  "note": "As computers left the office and became portable, Moggridge had to design how people used them, not just the casing, as in the GRiD Compass.",
+  "es": {
+   "note": "Al salir el computador de la oficina y volverse portátil, Moggridge debió diseñar cómo lo usaban las personas y no solo la carcasa, como en el GRiD Compass."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-microelectronics",
+  "item": "gunpei-yokoi",
+  "note": "Cheap, proven electronic components let Yokoi make low-cost handheld consoles, so he built the Game & Watch and Game Boy on mature technology.",
+  "es": {
+   "note": "Los componentes electrónicos baratos y probados permitieron a Yokoi hacer consolas portátiles económicas, y construyó el Game & Watch y el Game Boy sobre tecnología madura."
+  },
+  "refs": []
+ }
+]

@@ -1,0 +1,37 @@
+{
+ "works": [
+  "soaring-to-success",
+  "bauhaus-exhibition-poster",
+  "pro-eto",
+  "universal-alphabet",
+  "intransigeant-poster",
+  "faaborg-chair",
+  "anglepoise-lamp",
+  "baby-brownie",
+  "john-deere-model-a",
+  "maison-de-verre",
+  "villa-mairea",
+  "co-op-interieur",
+  "karl-marx-hof",
+  "gres-draped-gowns",
+  "popover-dress",
+  "letty-lynton-dress",
+  "ekco-ad65",
+  "zonnestraal"
+ ],
+ "designers": [
+  "kaare-klint",
+  "carwardine",
+  "walter-dorwin-teague",
+  "chareau",
+  "madame-gres",
+  "claire-mccardell",
+  "adrian",
+  "wells-coates"
+ ],
+ "contexts": [
+  "ctx-automatic-telephone",
+  "ctx-jazz-age",
+  "ctx-metropolitan-life"
+ ]
+}

@@ -1,0 +1,46 @@
+[
+ {
+  "rtype": "link",
+  "ctx": "ctx-hip-hop",
+  "item": "air-jordan-1-1985",
+  "note": "Hip hop made sneakers a sign of identity and status; Nike’s athlete-named shoe was taken up as a street object, tying brand, music and style.",
+  "es": {
+   "note": "El hip hop hizo de las zapatillas un signo de identidad y estatus; el zapato de Nike con nombre de deportista fue adoptado como objeto callejero, ligando marca, música y estilo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-knowledge-work",
+  "item": "macintosh-128k-1984",
+  "note": "As office work centred on the screen, Apple designed a compact computer with icons and a mouse, so that people could use it without learning commands.",
+  "es": {
+   "note": "Al centrarse el trabajo de oficina en la pantalla, Apple diseñó un computador compacto con íconos y mouse, para que se usara sin aprender comandos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-design-museums",
+  "item": "vitra-fire-station-1993",
+  "note": "As brands and cities began commissioning well-known architects for their image, Vitra gave its factory grounds a building by Zaha Hadid.",
+  "es": {
+   "note": "Cuando marcas y ciudades empezaron a encargar su imagen a arquitectos conocidos, Vitra dio a los terrenos de su fábrica un edificio de Zaha Hadid."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-deindustrialisation-regeneration",
+  "item": "seattle-library-2004",
+  "sin_enlace": true,
+  "motivo": "La biblioteca no reutiliza ni regenera un sitio industrial; su programa (biblioteca como espacio de medios) no depende de la desindustrialización."
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-deindustrialisation-regeneration",
+  "item": "westwood-punk-1976",
+  "sin_enlace": true,
+  "motivo": "El contexto trata de ciudades y sitios industriales; el vínculo con el desempleo juvenil y la ropa punk sería interpretación no sostenida por la ficha."
+ }
+]

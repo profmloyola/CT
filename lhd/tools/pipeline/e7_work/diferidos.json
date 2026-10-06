@@ -1,0 +1,45 @@
+{
+ "file": "src-data/postwar/52-production-tools.json",
+ "key": "production",
+ "records": [
+  {
+   "id": "photocopying",
+   "sub": "tools",
+   "start": 1959,
+   "cont": true,
+   "date": "1959 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Xerography and the photocopier",
+   "short": "Photocopier",
+   "key": "Plain-paper copying, introduced in the Xerox 914 of 1959, let anyone reproduce a page in seconds and became a basic tool of offices, artists and do-it-yourself publishing.",
+   "origin": "The American lawyer and inventor Chester Carlson made the first xerographic image in Astoria, New York, in 1938, and the Haloid Company of Rochester later developed the process. Its Xerox 914, shown in 1959 and delivered from 1960, was the first successful office copier that worked on ordinary paper.",
+   "enabled": "A page, a drawing or a pasted-up layout could be copied in seconds, on plain paper, by a clerk or a designer, with no stencil, printing plate or darkroom. Copies of copies were possible too, and the machine could enlarge or reduce in later models.",
+   "change": "Printing stopped being a separate trade for many small jobs: a layout cut and pasted by hand could become a leaflet, a zine or a poster the same day. The rough, high-contrast look of copied black and white became a deliberate graphic choice.",
+   "economy": "Xerox, as Haloid later renamed itself, mostly leased its machines and charged by the copy, so offices could use them without buying one. Copying shops and office machines then put cheap short runs within reach of students, artists, activists and small groups.",
+   "relations": "It sits beside the mimeograph and the offset press as a means of cheap reproduction, and it became the usual tool of punk fanzines such as Sniffin’ Glue (London, 1976), of artists’ books and of political leaflets.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Xerografía y fotocopiadora",
+    "short": "Fotocopiadora",
+    "date": "1959 →",
+    "key": "La copia en papel común, introducida con la Xerox 914 de 1959, permitió a cualquiera reproducir una página en segundos y se volvió una herramienta básica de oficinas, artistas y de la edición «hazlo tú mismo».",
+    "origin": "El abogado e inventor estadounidense Chester Carlson obtuvo la primera imagen xerográfica en Astoria, Nueva York, en 1938, y la empresa Haloid, de Rochester, desarrolló después el proceso. Su Xerox 914, presentada en 1959 y entregada desde 1960, fue la primera copiadora de oficina exitosa que funcionaba con papel común.",
+    "enabled": "Una página, un dibujo o una diagramación pegada a mano podían copiarse en segundos, en papel común, por un oficinista o un diseñador, sin matriz, plancha de impresión ni cuarto oscuro. También se podían hacer copias de copias, y los modelos posteriores ampliaban y reducían.",
+    "change": "Para muchos trabajos pequeños, imprimir dejó de ser un oficio aparte: una diagramación cortada y pegada a mano podía convertirse el mismo día en un volante, un fanzine o un afiche. El aspecto áspero y de alto contraste del blanco y negro copiado pasó a ser una elección gráfica deliberada.",
+    "economy": "Xerox, como pasó a llamarse Haloid, arrendaba sobre todo sus máquinas y cobraba por copia, de modo que las oficinas podían usarlas sin comprar una. Después, las copisterías y las máquinas de oficina dejaron los tirajes cortos y baratos al alcance de estudiantes, artistas, activistas y grupos pequeños.",
+    "relations": "Se ubica junto al mimeógrafo y la prensa offset como medio de reproducción barata, y se volvió la herramienta habitual de los fanzines punk como Sniffin’ Glue (Londres, 1976), de los libros de artista y de los volantes políticos."
+   },
+   "refs": []
+  }
+ ]
+}

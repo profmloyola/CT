@@ -1,0 +1,1139 @@
+{
+ "movements": [
+  {
+   "id": "macro-postmodernism",
+   "level": "essential",
+   "macro": true,
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1966,
+   "end": 1995,
+   "fadeIn": 6,
+   "fadeOut": 10,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "IT",
+    "GB"
+   ],
+   "parts": [
+    "pop-design",
+    "radical-design",
+    "memphis",
+    "alchimia",
+    "deconstructivism",
+    "new-wave-typography"
+   ],
+   "name": "Postmodernism",
+   "short": "Postmodernism",
+   "key": "The reaction against modernist functionalism that brought back ornament, colour, history and irony, and treated objects and buildings as signs that communicate.",
+   "traits": [
+    "Ornament, strong colour and decorative patterns return",
+    "Quotations of historical styles, often ironic",
+    "Collage and mixing of high and popular culture",
+    "Objects and buildings treated as signs and messages",
+    "Laminates, plastics and unexpected material combinations",
+    "Rejection of a single ‘correct’ form"
+   ],
+   "context": "It grew in the late 1960s, when the promises of modernism were questioned: Robert Venturi’s Complexity and Contradiction in Architecture (1966) defended ambiguity against the ‘less is more’ of the moderns, and in the 1980s groups such as Memphis in Milan made it a visible style in furniture and objects, while graphic design and typography broke the grid with the help of computers.",
+   "shift": "From the search for universal, neutral forms to design as a language of meaning, identity and consumption, open to many styles at once.",
+   "shifts": [
+    "Design is read as communication: objects and buildings are judged by what they say, not only by how they work.",
+    "History and popular culture return as sources, often with irony and quotation.",
+    "Consumption, brands and lifestyle become central topics of design.",
+    "The personal computer and desktop publishing change how graphic design is made and what it looks like."
+   ],
+   "context_summary": {
+    "political": "The protests of 1968, the end of the post-war consensus, the rise of neoliberal governments in the 1980s and the end of the Cold War in 1989 weaken faith in planning and in universal solutions.",
+    "economic": "The oil crises of the 1970s, deindustrialisation, the growth of services and the globalisation of production turn design towards brands, marketing and short product cycles.",
+    "social": "Feminism, youth subcultures and new lifestyles question the standard user of modernism; the failures of some modern housing estates become a symbol of that crisis.",
+    "cultural": "Pop art, semiotics and the critique of functionalism make meaning and taste central; architecture and design quote history and mass culture.",
+    "technological": "Microelectronics, the personal computer and desktop publishing free form from mechanical constraints and put new tools in designers’ hands."
+   },
+   "wiki": "Postmodernism",
+   "es": {
+    "name": "Posmodernismo",
+    "short": "Posmodernismo",
+    "key": "La reacción contra el funcionalismo moderno que trajo de vuelta el ornamento, el color, la historia y la ironía, y trató a objetos y edificios como signos que comunican.",
+    "traits": [
+     "Vuelven el ornamento, el color fuerte y los motivos decorativos",
+     "Citas de estilos históricos, a menudo irónicas",
+     "Collage y mezcla de cultura culta y popular",
+     "Objetos y edificios tratados como signos y mensajes",
+     "Laminados, plásticos y combinaciones inesperadas de materiales",
+     "Rechazo a una sola forma «correcta»"
+    ],
+    "context": "Creció a fines de los años sesenta, cuando se pusieron en duda las promesas del modernismo: Complejidad y contradicción en la arquitectura (1966) de Robert Venturi defendió la ambigüedad frente al «menos es más» de los modernos, y en los años ochenta grupos como Memphis en Milán lo volvieron un estilo visible en muebles y objetos, mientras el diseño gráfico y la tipografía rompían la retícula con ayuda del computador.",
+    "shift": "De la búsqueda de formas universales y neutras al diseño como lenguaje de significado, identidad y consumo, abierto a muchos estilos a la vez.",
+    "shifts": [
+     "El diseño se lee como comunicación: objetos y edificios se juzgan por lo que dicen, no solo por cómo funcionan.",
+     "La historia y la cultura popular vuelven como fuentes, a menudo con ironía y cita.",
+     "El consumo, las marcas y los estilos de vida pasan a ser temas centrales del diseño.",
+     "El computador personal y la autoedición cambian cómo se hace el diseño gráfico y cómo se ve."
+    ],
+    "context_summary": {
+     "political": "Las protestas de 1968, el fin del consenso de posguerra, el ascenso de gobiernos neoliberales en los años ochenta y el fin de la Guerra Fría en 1989 debilitan la fe en la planificación y en las soluciones universales.",
+     "economic": "Las crisis del petróleo de los años setenta, la desindustrialización, el crecimiento de los servicios y la globalización de la producción orientan el diseño hacia las marcas, el marketing y los ciclos cortos de producto.",
+     "social": "El feminismo, las subculturas juveniles y los nuevos estilos de vida cuestionan al usuario estándar del modernismo; el fracaso de algunos conjuntos de vivienda moderna se vuelve símbolo de esa crisis.",
+     "cultural": "El arte pop, la semiótica y la crítica al funcionalismo ponen en el centro el significado y el gusto; la arquitectura y el diseño citan la historia y la cultura de masas.",
+     "technological": "La microelectrónica, el computador personal y la autoedición liberan la forma de las restricciones mecánicas y ponen herramientas nuevas en manos de quienes diseñan."
+    }
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ]
+   }
+  },
+  {
+   "id": "good-design",
+   "level": "normal",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1950,
+   "end": 1960,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Good Design",
+   "short": "Good Design",
+   "key": "A postwar American campaign, led by the Museum of Modern Art and the Merchandise Mart in Chicago, that chose and promoted well-designed everyday goods.",
+   "traits": [
+    "Simple forms with no applied ornament",
+    "Plywood, steel, moulded plastic and other industrial materials",
+    "Mass-produced furniture and household goods at accessible prices",
+    "Selection by curators, shown in annual exhibitions and marked with a label",
+    "Modular, flexible furnishing for the new postwar homes"
+   ],
+   "context": "Between 1950 and 1955 the Museum of Modern Art, with the Merchandise Mart in Chicago, held annual ‘Good Design’ exhibitions directed by Edgar Kaufmann Jr. They came with the postwar boom in housing and consumer spending, and with firms such as Herman Miller and Knoll, which produced work by Charles and Ray Eames, George Nelson and Eero Saarinen.",
+   "shift": "From a European avant-garde idea to a seal of taste for American consumers: modern design was chosen by curators and sold in shops, and the museum became an arbiter of what households should buy.",
+   "es": {
+    "name": "Good Design",
+    "short": "Good Design",
+    "key": "Una campaña estadounidense de posguerra, liderada por el Museo de Arte Moderno y el Merchandise Mart de Chicago, que eligió y promovió objetos cotidianos bien diseñados.",
+    "traits": [
+     "Formas simples, sin ornamento aplicado",
+     "Madera contrachapada, acero, plástico moldeado y otros materiales industriales",
+     "Muebles y objetos domésticos de producción en serie a precios accesibles",
+     "Selección hecha por curadores, mostrada en exposiciones anuales y marcada con una etiqueta",
+     "Mobiliario modular y flexible para las nuevas viviendas de posguerra"
+    ],
+    "context": "Entre 1950 y 1955 el Museo de Arte Moderno, junto con el Merchandise Mart de Chicago, realizó exposiciones anuales de «Good Design» dirigidas por Edgar Kaufmann Jr. Llegaron con el auge de la vivienda y del consumo de posguerra, y con empresas como Herman Miller y Knoll, que produjeron obra de Charles y Ray Eames, George Nelson y Eero Saarinen.",
+    "shift": "De una idea de la vanguardia europea a un sello de buen gusto para el consumidor estadounidense: el diseño moderno pasó a ser elegido por curadores y vendido en tiendas, y el museo se convirtió en árbitro de lo que los hogares debían comprar."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ],
+    "institutions": [
+     "inst-herman-miller",
+     "inst-knoll"
+    ]
+   }
+  },
+  {
+   "id": "scandinavian-design",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1945,
+   "end": 1970,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK",
+    "SE",
+    "FI",
+    "NO"
+   ],
+   "name": "Scandinavian design",
+   "short": "Scandinavian",
+   "key": "The design of Denmark, Sweden, Finland and Norway, which joined craft tradition, natural materials and an aim of well-made everyday goods for all.",
+   "traits": [
+    "Wood, especially teak, oak and birch, with careful joinery",
+    "Soft, organic forms and light, open structures",
+    "Craft skill brought to series production",
+    "Well-made everyday goods for ordinary homes",
+    "Textiles and ceramics, as well as furniture, in clear colour and pattern"
+   ],
+   "context": "The Nordic countries had strong craft traditions and, after the war, welfare states that built housing for ordinary families. In Denmark the Copenhagen cabinetmakers’ guild had held furniture exhibitions since 1927. The travelling exhibition ‘Design in Scandinavia’ toured North America from 1954 and made the style known abroad.",
+   "shift": "Modern design with a human, warm face: instead of the hard, machine look of the avant-garde, it offered natural materials and craft skill, and it was exported as a style of life, easy to sell in the United States and Europe.",
+   "es": {
+    "name": "Diseño escandinavo",
+    "short": "Escandinavo",
+    "key": "El diseño de Dinamarca, Suecia, Finlandia y Noruega, que unió la tradición artesanal, los materiales naturales y el propósito de objetos cotidianos bien hechos para todos.",
+    "traits": [
+     "Madera, en especial teca, roble y abedul, con ensambles cuidados",
+     "Formas suaves y orgánicas, y estructuras livianas y abiertas",
+     "Oficio artesanal llevado a la producción en serie",
+     "Objetos cotidianos bien hechos para hogares comunes",
+     "Textiles y cerámica, además de muebles, de color y estampado claros"
+    ],
+    "context": "Los países nórdicos tenían fuertes tradiciones artesanales y, después de la guerra, estados de bienestar que construyeron viviendas para las familias comunes. En Dinamarca el gremio de ebanistas de Copenhague realizaba exposiciones de muebles desde 1927. La exposición itinerante «Design in Scandinavia» recorrió Norteamérica desde 1954 y dio a conocer el estilo en el extranjero.",
+    "shift": "Un diseño moderno de rostro humano y cálido: frente al aspecto duro y de máquina de la vanguardia, ofreció materiales naturales y oficio, y se exportó como un estilo de vida, fácil de vender en Estados Unidos y Europa."
+   },
+   "refs": [],
+   "links": {
+    "institutions": [
+     "inst-marimekko",
+     "inst-ikea"
+    ]
+   }
+  },
+  {
+   "id": "italian-design",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1946,
+   "end": 1970,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Italian design",
+   "short": "Italian",
+   "key": "Postwar design from Italy, made by architects working closely with small and medium firms, which won an international name for expressive, elegant products.",
+   "traits": [
+    "Architects design everyday objects, from lamps to typewriters",
+    "Sculptural, expressive forms",
+    "Close work between designer and maker",
+    "New materials such as plastics and foam used with confidence",
+    "Mass-produced goods with a craft finish"
+   ],
+   "context": "Italy was rebuilding after the war and wanted exports. Milan’s Triennale exhibitions, the magazine Domus, edited by Gio Ponti, and from 1954 the Compasso d’Oro prize gave design a public stage, and firms such as Olivetti and Piaggio, which launched the Vespa in 1946, took it up as part of their image.",
+   "shift": "From the functional object to the object with personality: Italian designers kept modern rationalism but gave it curves, colour and wit, and made design a part of national culture and of industrial strategy.",
+   "es": {
+    "name": "Diseño italiano",
+    "short": "Italiano",
+    "key": "El diseño de posguerra de Italia, hecho por arquitectos que trabajaron en estrecha relación con empresas pequeñas y medianas, y que ganó fama mundial por productos expresivos y elegantes.",
+    "traits": [
+     "Los arquitectos diseñan objetos cotidianos, de lámparas a máquinas de escribir",
+     "Formas escultóricas y expresivas",
+     "Trabajo cercano entre diseñador y fabricante",
+     "Materiales nuevos, como plásticos y espumas, usados con aplomo",
+     "Productos de serie con acabado artesanal"
+    ],
+    "context": "Italia se reconstruía después de la guerra y quería exportar. Las exposiciones de la Triennale de Milán, la revista Domus, dirigida por Gio Ponti, y desde 1954 el premio Compasso d’Oro dieron a la disciplina un escenario público, y empresas como Olivetti y Piaggio, que lanzó la Vespa en 1946, la adoptaron como parte de su imagen.",
+    "shift": "Del objeto funcional al objeto con personalidad: los diseñadores italianos conservaron el racionalismo moderno, pero le dieron curvas, color e ingenio, e hicieron del diseño parte de la cultura nacional y de la estrategia industrial."
+   },
+   "refs": [],
+   "links": {
+    "institutions": [
+     "inst-olivetti",
+     "inst-compasso-doro"
+    ]
+   }
+  },
+  {
+   "id": "ulm-functionalism",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1953,
+   "end": 1968,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Ulm functionalism",
+   "short": "Ulm",
+   "key": "The method-based design of the Hochschule für Gestaltung in Ulm, which taught design as a rational, team-based discipline and shaped the look of Braun.",
+   "traits": [
+    "Systematic, modular design built from a few standard parts",
+    "Neutral, restrained forms with no styling",
+    "Design as team work with scientists and engineers",
+    "Study of ergonomics, communication and method",
+    "Rejection of fashion and planned obsolescence"
+   ],
+   "context": "The school was founded in 1953 by Inge Scholl, Otl Aicher and Max Bill, who became its first leading figure, as part of the democratic reconstruction of West Germany. After disputes over its direction it moved from Bill’s artistic approach toward method and science, and Tomás Maldonado was one of its main teachers. It closed in 1968 after the state of Baden-Württemberg ended its funding.",
+   "shift": "From the designer as an artist to the designer as a member of a team that solves problems by method. Ulm teachers worked with Braun, where Hans Gugelot and Dieter Rams created radios and record players such as the SK4 (1956), and with Lufthansa, for which Aicher led a new visual identity.",
+   "es": {
+    "name": "Funcionalismo de Ulm",
+    "short": "Ulm",
+    "key": "El diseño basado en el método de la Hochschule für Gestaltung de Ulm, que enseñó el diseño como una disciplina racional y de trabajo en equipo y marcó el aspecto de Braun.",
+    "traits": [
+     "Diseño sistemático y modular, hecho con pocas piezas estándar",
+     "Formas neutras y sobrias, sin styling",
+     "El diseño como trabajo en equipo con científicos e ingenieros",
+     "Estudio de la ergonomía, la comunicación y el método",
+     "Rechazo de la moda y de la obsolescencia programada"
+    ],
+    "context": "La escuela fue fundada en 1953 por Inge Scholl, Otl Aicher y Max Bill, que fue su primera figura rectora, como parte de la reconstrucción democrática de Alemania Occidental. Tras disputas sobre su rumbo pasó del enfoque artístico de Bill al método y la ciencia, y Tomás Maldonado fue uno de sus principales profesores. Cerró en 1968, cuando el estado de Baden-Wurtemberg puso fin a su financiamiento.",
+    "shift": "Del diseñador como artista al diseñador como miembro de un equipo que resuelve problemas con método. Los profesores de Ulm trabajaron con Braun, donde Hans Gugelot y Dieter Rams crearon radios y tocadiscos como el SK4 (1956), y con Lufthansa, para la que Aicher dirigió una nueva identidad visual."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ],
+    "institutions": [
+     "inst-hfg-ulm",
+     "inst-braun"
+    ]
+   }
+  },
+  {
+   "id": "international-typographic-style",
+   "level": "essential",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1950,
+   "end": 1975,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "name": "International Typographic Style",
+   "short": "Swiss style",
+   "key": "The Swiss approach to graphic design, built on a mathematical grid, sans-serif type and photography, which became the international language of postwar graphic design.",
+   "traits": [
+    "Mathematical grid that organises all elements",
+    "Sans-serif type, flush left and ragged right",
+    "Objective photography in place of illustration",
+    "Asymmetric layout with ample white space",
+    "Clear, neutral information for an international public"
+   ],
+   "context": "It grew in Zurich and Basel in the 1950s, in the work of designers such as Josef Müller-Brockmann, Armin Hofmann and Emil Ruder, who also taught. The magazine Neue Grafik (1958–65) spread it abroad, and Helvetica, issued in 1957 by the Haas type foundry in Münchenstein, became its typeface.",
+   "shift": "From the expressive, hand-made poster to the system: the designer organised information with a grid and neutral type, which suited the growing needs of companies and institutions that operated across borders and languages.",
+   "es": {
+    "name": "Estilo tipográfico internacional",
+    "short": "Estilo suizo",
+    "key": "El enfoque suizo del diseño gráfico, basado en la retícula matemática, la tipografía sin serifa y la fotografía, que se convirtió en el lenguaje internacional del diseño gráfico de posguerra.",
+    "traits": [
+     "Retícula matemática que organiza todos los elementos",
+     "Tipografía sin serifa, alineada a la izquierda y con el borde derecho irregular",
+     "Fotografía objetiva en lugar de ilustración",
+     "Composición asimétrica con amplio espacio en blanco",
+     "Información clara y neutra para un público internacional"
+    ],
+    "context": "Se desarrolló en Zúrich y Basilea en los años cincuenta, en la obra de diseñadores como Josef Müller-Brockmann, Armin Hofmann y Emil Ruder, que además fueron docentes. La revista Neue Grafik (1958–65) lo difundió en el extranjero, y la Helvetica, lanzada en 1957 por la fundición Haas de Münchenstein, se volvió su tipografía.",
+    "shift": "Del cartel expresivo y hecho a mano al sistema: el diseñador organizó la información con una retícula y una tipografía neutra, algo que convenía a las crecientes necesidades de empresas e instituciones que operaban a través de fronteras e idiomas."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ],
+    "designers": [
+     "muller-brockmann"
+    ],
+    "works": [
+     "helvetica"
+    ]
+   }
+  },
+  {
+   "id": "corporate-identity-design",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "start": 1950,
+   "end": 1975,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "IT"
+   ],
+   "name": "Corporate identity design",
+   "short": "Corporate identity",
+   "key": "The practice of designing a company’s name, logo, colours, products and buildings as one coherent system, which became common among large firms in the 1950s and 1960s.",
+   "traits": [
+    "A simple, memorable logo or symbol",
+    "One set of colours and typefaces applied across all material",
+    "Written standards that govern use of the identity",
+    "Products, buildings, packaging and advertising treated as a single image",
+    "Design commissioned from outside consultants or an in-house department"
+   ],
+   "context": "Large companies grew and spread across markets in the postwar economy and began to compete through image. Earlier models existed, such as Peter Behrens’s work for AEG in Berlin from 1907. In the fifties and sixties Paul Rand’s IBM (1956), Olivetti, Lufthansa and consultancies such as Unimark (1965) made the approach standard.",
+   "shift": "From the isolated logo or poster to an identity programme: design was no longer a single object but the rules by which a whole organisation presented itself, written into manuals and applied by many hands.",
+   "es": {
+    "name": "Diseño de identidad corporativa",
+    "short": "Identidad corporativa",
+    "key": "La práctica de diseñar el nombre, el logotipo, los colores, los productos y los edificios de una empresa como un sistema coherente, que se volvió habitual entre las grandes firmas en los años cincuenta y sesenta.",
+    "traits": [
+     "Un logotipo o símbolo simple y memorable",
+     "Un solo conjunto de colores y tipografías aplicado a todo el material",
+     "Normas escritas que regulan el uso de la identidad",
+     "Productos, edificios, envases y publicidad tratados como una sola imagen",
+     "Diseño encargado a consultores externos o a un departamento propio"
+    ],
+    "context": "Las grandes empresas crecieron y se expandieron por los mercados en la economía de posguerra y empezaron a competir mediante la imagen. Había modelos anteriores, como el trabajo de Peter Behrens para AEG en Berlín desde 1907. En los años cincuenta y sesenta el IBM de Paul Rand (1956), Olivetti, Lufthansa y consultoras como Unimark (1965) volvieron estándar este enfoque.",
+    "shift": "Del logotipo o cartel aislado al programa de identidad: el diseño dejó de ser un objeto para ser las reglas con que toda una organización se presentaba, escritas en manuales y aplicadas por muchas manos."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ],
+    "institutions": [
+     "inst-unimark",
+     "inst-olivetti",
+     "inst-braun"
+    ],
+    "works": [
+     "ibm-logo"
+    ]
+   }
+  },
+  {
+   "id": "pop-design",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "graphic",
+    "fashion"
+   ],
+   "start": 1962,
+   "end": 1972,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "IT",
+    "DK"
+   ],
+   "name": "Pop and psychedelic design",
+   "short": "Pop design",
+   "key": "A playful, colourful design of the 1960s that borrowed from pop art, comics and advertising and favoured plastics, bright colour and the short-lived over the permanent.",
+   "traits": [
+    "Bright, saturated colour and bold, graphic shapes",
+    "Plastics, inflatables and cheap materials",
+    "Humour, irony and references to mass media",
+    "Psychedelic posters with swirling lettering and vibrating colour",
+    "Fun and the short-lived valued over durability"
+   ],
+   "context": "It grew with pop art, with rock music and with a young, relatively prosperous public that the consumer society of the 1960s treated as a market. New plastics and moulding techniques made bright, curved, low-cost objects possible. In San Francisco, concert posters for the rock halls became the model of psychedelic graphics.",
+   "shift": "From the lasting, sober object of Good Design to the playful, replaceable one: Verner Panton’s moulded plastic chair and the inflatable Blow chair of the Italian designers De Pas, D’Urbino and Lomazzi (1967) treated furniture as fun, and designers began to speak to young people in their own visual language.",
+   "es": {
+    "name": "Diseño pop y psicodélico",
+    "short": "Diseño pop",
+    "key": "Un diseño lúdico y colorido de los años sesenta que tomó del arte pop, el cómic y la publicidad, y prefirió los plásticos, el color intenso y lo efímero a lo permanente.",
+    "traits": [
+     "Color intenso y saturado y formas gráficas audaces",
+     "Plásticos, objetos inflables y materiales baratos",
+     "Humor, ironía y referencias a los medios de masas",
+     "Afiches psicodélicos de letras ondulantes y colores que vibran",
+     "La diversión y lo efímero por sobre la durabilidad"
+    ],
+    "context": "Creció junto con el arte pop, la música rock y un público joven y relativamente próspero al que la sociedad de consumo de los años sesenta trató como mercado. Los nuevos plásticos y las técnicas de moldeado hicieron posibles objetos de colores vivos, curvos y de bajo costo. En San Francisco, los afiches de conciertos de las salas de rock se volvieron el modelo de la gráfica psicodélica.",
+    "shift": "Del objeto duradero y sobrio del Buen Diseño al objeto lúdico y reemplazable: la silla de plástico moldeado de Verner Panton y el sillón inflable Blow de los diseñadores italianos De Pas, D’Urbino y Lomazzi (1967) trataron el mueble como diversión, y los diseñadores empezaron a hablar a los jóvenes en su propio lenguaje visual."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-postmodernism"
+    ],
+    "works": [
+     "panton-chair"
+    ]
+   }
+  },
+  {
+   "id": "radical-design",
+   "level": "essential",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1966,
+   "end": 1975,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Radical design",
+   "short": "Radical design",
+   "key": "Italian architects’ groups of the late 1960s and early 1970s that used drawings, objects and utopias to criticise consumerism and functionalist modernism.",
+   "traits": [
+    "Design as critique and utopia more than as product",
+    "Collages, drawings and photomontages of imaginary cities",
+    "Irony and provocation aimed at consumer culture",
+    "Groups such as Archizoom and Superstudio, based in Florence",
+    "Interest in anti-design and in the everyday"
+   ],
+   "context": "It formed in Italy, where industry and design were booming, among young architects who doubted that good design could answer social problems. The student and worker protests of 1968 sharpened their criticism of consumer society and of the modernist city. Industrial design in the country also had large markets, which made it a target for their irony.",
+   "shift": "From design as the service of industry to design as a way of questioning it: instead of producing objects, the groups proposed ideas, such as Archizoom’s No-Stop City or Superstudio’s Continuous Monument, and Italy’s radical designers were shown at the Museum of Modern Art in New York in 1972. In 1973 several of them founded Global Tools, a network for alternative teaching.",
+   "es": {
+    "name": "Diseño radical",
+    "short": "Diseño radical",
+    "key": "Grupos de arquitectos italianos de fines de los sesenta y comienzos de los setenta que usaron dibujos, objetos y utopías para criticar el consumismo y el modernismo funcionalista.",
+    "traits": [
+     "El diseño como crítica y utopía más que como producto",
+     "Collages, dibujos y fotomontajes de ciudades imaginarias",
+     "Ironía y provocación dirigidas a la cultura de consumo",
+     "Grupos como Archizoom y Superstudio, con base en Florencia",
+     "Interés por el antidiseño y lo cotidiano"
+    ],
+    "context": "Se formó en Italia, donde la industria y el diseño estaban en auge, entre jóvenes arquitectos que dudaban de que el buen diseño pudiera responder a los problemas sociales. Las protestas estudiantiles y obreras de 1968 afilaron su crítica a la sociedad de consumo y a la ciudad moderna. El diseño industrial del país tenía además grandes mercados, lo que lo volvió blanco de su ironía.",
+    "shift": "Del diseño como servicio a la industria al diseño como forma de cuestionarla: en vez de producir objetos, los grupos propusieron ideas, como la No-Stop City de Archizoom o el Monumento Continuo de Superstudio, y los diseñadores radicales italianos se mostraron en el Museo de Arte Moderno de Nueva York en 1972. En 1973 varios de ellos fundaron Global Tools, una red de enseñanza alternativa."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-postmodernism"
+    ],
+    "designers": [
+     "archizoom",
+     "superstudio"
+    ]
+   }
+  },
+  {
+   "id": "brutalism-metabolism",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1950,
+   "end": 1975,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "JP"
+   ],
+   "name": "Brutalism",
+   "short": "Brutalism",
+   "key": "A postwar architecture that left raw concrete exposed, with heavy sculptural masses and visible structure, named in Britain in the 1950s and taken up from Europe to Brazil.",
+   "traits": [
+    "Exposed concrete left as it came from the formwork (béton brut)",
+    "Heavy, sculptural masses and visible structure",
+    "Large housing and public complexes, such as the Smithsons’ school at Hunstanton and Le Corbusier’s Unité d’Habitation",
+    "An ethic of honesty to materials and use, argued by Banham as ‘New Brutalism’",
+    "Taken up in Brazil, notably in São Paulo, with concrete as a national, structural language"
+   ],
+   "context": "Postwar Europe needed housing and public buildings quickly and cheaply, and reinforced concrete was an available, economical material. Le Corbusier’s Unité d’Habitation in Marseille (1952), of unfinished concrete, set an example, and the Smithsons’ school at Hunstanton (1954) gave the idea an English form. The critic Reyner Banham named a ‘New Brutalism’ in the 1950s, with Alison and Peter Smithson as its leading architects. The approach travelled widely; in Brazil, architects of São Paulo such as João Batista Vilanova Artigas and Paulo Mendes da Rocha made exposed concrete and bold structure their own language.",
+   "shift": "From the smooth white walls of prewar modernism to the honest display of material and structure: concrete left rough, heavy and visible became both an economical method and an ethical position about how a building should look.",
+   "es": {
+    "name": "Brutalismo",
+    "short": "Brutalismo",
+    "key": "Arquitectura de posguerra que dejó el hormigón a la vista, con masas pesadas y estructura visible, nombrada en Gran Bretaña en los años cincuenta y adoptada de Europa a Brasil.",
+    "traits": [
+     "Hormigón a la vista, tal como sale del moldaje (béton brut)",
+     "Masas pesadas y escultóricas y estructura visible",
+     "Grandes conjuntos de vivienda y edificios públicos, como la escuela de los Smithson en Hunstanton y la Unité d’Habitation de Le Corbusier",
+     "Una ética de honestidad con los materiales y el uso, defendida por Banham como «Nuevo Brutalismo»",
+     "Adoptado en Brasil, sobre todo en São Paulo, con el hormigón como lenguaje estructural propio"
+    ],
+    "context": "La Europa de posguerra necesitaba viviendas y edificios públicos con rapidez y a bajo costo, y el hormigón armado era un material disponible y económico. La Unité d’Habitation de Le Corbusier en Marsella (1952), de hormigón sin terminar, dio un ejemplo, y la escuela de los Smithson en Hunstanton (1954) le dio a la idea una forma inglesa. El crítico Reyner Banham habló de un «Nuevo Brutalismo» en los años cincuenta, con Alison y Peter Smithson como arquitectos destacados. El enfoque viajó lejos; en Brasil, arquitectos de São Paulo como João Batista Vilanova Artigas y Paulo Mendes da Rocha hicieron del hormigón a la vista y la estructura audaz un lenguaje propio.",
+    "shift": "De los muros blancos y lisos del modernismo de entreguerras a la exhibición honesta del material y la estructura: el hormigón rugoso, pesado y visible fue a la vez un método económico y una postura ética sobre cómo debe verse un edificio."
+   },
+   "refs": [],
+   "links": {
+    "works": [
+     "unite-habitation"
+    ]
+   }
+  },
+  {
+   "id": "space-age-fashion",
+   "level": "normal",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1963,
+   "end": 1968,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Space age fashion",
+   "short": "Space age",
+   "key": "Paris fashion of the mid-1960s that took its look from the space race, with geometric cuts, white and silver, short hemlines and new synthetic and metallic materials.",
+   "traits": [
+    "Geometric, simple cuts and short hemlines",
+    "White, silver and bright colours",
+    "Vinyl, plastic, metal and other new materials",
+    "Helmets, visors, boots and sunglasses as accessories",
+    "Clothes for a young, active, forward-looking woman"
+   ],
+   "context": "The space race, with the first human spaceflights of 1961 and the Moon landing of 1969 on the horizon, made the future a popular theme, while new synthetic materials and a young market for fashion opened up the field. Designers in Paris answered with clothes that looked ready for the future.",
+   "shift": "From the structured couture of the 1950s to short, geometric, easy-to-move-in clothes in modern materials. André Courrèges showed his Space Age collection in 1964, Pierre Cardin’s Cosmocorps followed in 1966, and Paco Rabanne made dresses from metal and plastic in 1966.",
+   "es": {
+    "name": "Moda de la era espacial",
+    "short": "Era espacial",
+    "key": "La moda parisina de mediados de los sesenta, que tomó su aspecto de la carrera espacial, con cortes geométricos, blanco y plateado, faldas cortas y nuevos materiales sintéticos y metálicos.",
+    "traits": [
+     "Cortes geométricos y simples y faldas cortas",
+     "Blanco, plateado y colores vivos",
+     "Vinilo, plástico, metal y otros materiales nuevos",
+     "Cascos, viseras, botas y gafas de sol como accesorios",
+     "Ropa para una mujer joven, activa y mirando al futuro"
+    ],
+    "context": "La carrera espacial, con los primeros vuelos tripulados de 1961 y la llegada a la Luna de 1969 en el horizonte, hizo del futuro un tema popular, mientras los nuevos materiales sintéticos y un mercado joven para la moda abrían el campo. Los diseñadores de París respondieron con ropa que parecía lista para el futuro.",
+    "shift": "De la alta costura estructurada de los años cincuenta a ropa corta, geométrica y cómoda para moverse, en materiales modernos. André Courrèges presentó su colección Space Age en 1964, la de Pierre Cardin, Cosmocorps, llegó en 1966, y Paco Rabanne hizo vestidos de metal y plástico en 1966."
+   },
+   "refs": [],
+   "links": {
+    "designers": [
+     "andre-courreges",
+     "pierre-cardin"
+    ]
+   }
+  },
+  {
+   "id": "paulista-school",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1957,
+   "end": 1980,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "name": "Paulista school (Brazilian brutalism)",
+   "short": "Paulista school",
+   "key": "A São Paulo current of architects who built in exposed concrete with large spans, giving brutalism its own Brazilian form from the late 1950s.",
+   "traits": [
+    "Exposed reinforced concrete",
+    "Large spans with few supports",
+    "Open, covered spaces at ground level",
+    "Structure as the main expression of the building"
+   ],
+   "context": "It grew in São Paulo, a city expanding quickly with industry, around architects such as João Batista Vilanova Artigas and Paulo Mendes da Rocha. Its dates are approximate, c. 1957 to c. 1980.",
+   "shift": "From the light, curved concrete of Rio’s modernism to a heavier, more austere concrete in which structure and span carry the meaning of the building.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Escuela paulista (brutalismo brasileño)",
+    "short": "Escuela paulista",
+    "key": "Una corriente de arquitectos de São Paulo que construyó en hormigón visto de grandes luces, dando al brutalismo una forma propia brasileña desde fines de la década de 1950.",
+    "traits": [
+     "Hormigón armado a la vista",
+     "Grandes luces con pocos apoyos",
+     "Espacios abiertos y cubiertos a nivel del suelo",
+     "La estructura como principal expresión del edificio"
+    ],
+    "context": "Surgió en São Paulo, ciudad en rápida expansión con la industria, en torno a arquitectos como João Batista Vilanova Artigas y Paulo Mendes da Rocha. Sus fechas son aproximadas, de c. 1957 a c. 1980.",
+    "shift": "Del hormigón liviano y curvo del modernismo carioca a un hormigón más pesado y austero, en que la estructura y la luz dan su sentido al edificio."
+   },
+   "refs": []
+  },
+  {
+   "id": "postmodern-architecture",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1964,
+   "end": 1990,
+   "fadeIn": 2,
+   "fadeOut": 5,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "IT"
+   ],
+   "name": "Postmodern architecture",
+   "short": "Postmodernism",
+   "key": "A reaction against modern functionalism that brought back ornament, history and ironic quotation, and treated the building as a means of communication.",
+   "traits": [
+    "Ornament and historical quotation",
+    "Irony, wit and the mixing of styles",
+    "The building as a sign that communicates",
+    "Complexity and contradiction instead of purity"
+   ],
+   "context": "Robert Venturi’s Vanna Venturi House in Philadelphia (1964), built for his mother, is usually seen as its founding work, with a split gable and an oversized chimney that quote the past. His book Complexity and Contradiction in Architecture (1966) is its usual theoretical starting point, and Charles Jencks later gave the tendency its name and its history. By the 1970s the faith of the modern movement in function and abstraction was in doubt.",
+   "shift": "From the abstract box justified by function to a building that quotes the past, uses decoration and tries to say something to its public.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Arquitectura posmoderna",
+    "short": "Posmodernismo",
+    "key": "Una reacción contra el funcionalismo moderno que recuperó el ornamento, la historia y la cita irónica, y trató el edificio como un medio de comunicación.",
+    "traits": [
+     "Ornamento y cita histórica",
+     "Ironía, humor y mezcla de estilos",
+     "El edificio como signo que comunica",
+     "Complejidad y contradicción en lugar de pureza"
+    ],
+    "context": "La Casa Vanna Venturi en Filadelfia (1964), que Robert Venturi construyó para su madre, se considera habitualmente su obra fundadora, con un frontón partido y una chimenea desproporcionada que citan el pasado. Su libro Complejidad y contradicción en la arquitectura (1966) es su punto de partida teórico habitual, y Charles Jencks dio después nombre e historia a la tendencia. En los años setenta la fe del movimiento moderno en la función y la abstracción estaba en duda.",
+    "shift": "De la caja abstracta justificada por la función a un edificio que cita el pasado, usa la decoración y busca decir algo a su público."
+   },
+   "refs": []
+  },
+  {
+   "id": "tendenza",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1966,
+   "end": 1990,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "era": "post",
+   "name": "Tendenza (Neo-rationalism)",
+   "short": "Tendenza",
+   "key": "An Italian current around Aldo Rossi that read the city as a memory made of types and permanent forms, set against functionalism.",
+   "traits": [
+    "The city read as a collective memory",
+    "Building types as the basis of design",
+    "Simple geometric forms with little ornament",
+    "Architecture as an autonomous discipline"
+   ],
+   "context": "It took shape around Aldo Rossi, whose book L’architettura della città appeared in 1966, with architects such as Giorgio Grassi. Rossi organised the section on rational architecture of the 1973 Milan Triennale.",
+   "shift": "From designing for function to designing from the type and the history of the city, which gave architects a language of simple, lasting forms.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Tendenza (neorracionalismo)",
+    "short": "Tendenza",
+    "key": "Una corriente italiana en torno a Aldo Rossi que leyó la ciudad como una memoria hecha de tipos y formas permanentes, frente al funcionalismo.",
+    "traits": [
+     "La ciudad leída como memoria colectiva",
+     "Los tipos edificatorios como base del proyecto",
+     "Formas geométricas simples con poco ornamento",
+     "La arquitectura como disciplina autónoma"
+    ],
+    "context": "Tomó forma en torno a Aldo Rossi, cuyo libro L’architettura della città salió en 1966, con arquitectos como Giorgio Grassi. Rossi organizó la sección de arquitectura racional de la Trienal de Milán de 1973.",
+    "shift": "De proyectar desde la función a proyectar desde el tipo y la historia de la ciudad, lo que dio a los arquitectos un lenguaje de formas simples y duraderas."
+   },
+   "refs": []
+  },
+  {
+   "id": "high-tech-architecture",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1970,
+   "end": 1990,
+   "fadeIn": 2,
+   "fadeOut": 4,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR"
+   ],
+   "name": "High-tech architecture",
+   "short": "High-tech",
+   "key": "An architecture that shows its structure, ducts and services on the outside and draws on industrial components and prefabrication.",
+   "traits": [
+    "Structure and services left visible",
+    "Industrial and prefabricated components",
+    "Flexible, open interiors",
+    "Technology as the language of the building"
+   ],
+   "context": "It grew from the 1960s technological optimism of groups such as Archigram and was led in Britain by Norman Foster and Richard Rogers, with Renzo Piano. Its landmark is the Centre Pompidou in Paris, completed in 1977 by Piano and Rogers.",
+   "shift": "From hiding the building’s mechanics to making structure, ducts and circulation its visible expression, with spaces that can be changed.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "norman-foster"
+    ],
+    "works": [
+     "pompidou-centre-1977"
+    ]
+   },
+   "es": {
+    "name": "Arquitectura high-tech",
+    "short": "High-tech",
+    "key": "Una arquitectura que muestra al exterior su estructura, sus ductos y sus instalaciones y recurre a componentes industriales y a la prefabricación.",
+    "traits": [
+     "Estructura e instalaciones a la vista",
+     "Componentes industriales y prefabricados",
+     "Interiores abiertos y flexibles",
+     "La tecnología como lenguaje del edificio"
+    ],
+    "context": "Creció del optimismo tecnológico de los años sesenta de grupos como Archigram y la lideraron en Gran Bretaña Norman Foster y Richard Rogers, con Renzo Piano. Su hito es el Centro Pompidou de París, terminado en 1977 por Piano y Rogers.",
+    "shift": "De ocultar la mecánica del edificio a hacer de la estructura, los ductos y las circulaciones su expresión visible, con espacios que pueden cambiarse."
+   },
+   "refs": []
+  },
+  {
+   "id": "basel-school-typography",
+   "level": "normal",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1947,
+   "end": 1990,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "name": "Basel School of Typography",
+   "short": "Basel School",
+   "key": "The teaching centre of Swiss typography at Basel’s school of design, where Armin Hofmann and Emil Ruder taught and Wolfgang Weingart later renewed it.",
+   "traits": [
+    "Typography and graphic design taught as a rigorous discipline",
+    "Grid, contrast and clear hierarchy",
+    "Exercises in form, counter-form and rhythm",
+    "From the 1960s, freer experiments by Weingart"
+   ],
+   "context": "It centred on the Allgemeine Gewerbeschule in Basel, where Hofmann and Ruder taught from the late 1940s. Weingart joined the school in 1968 and took the teaching in a more experimental direction.",
+   "shift": "Typography passed from a craft learned in the workshop to a method taught in the classroom, and its students carried the Swiss style abroad.",
+   "links": {
+    "movements": [
+     "international-typographic-style"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Escuela de Basilea",
+    "short": "Escuela de Basilea",
+    "key": "El centro de enseñanza de la tipografía suiza en la escuela de diseño de Basilea, donde enseñaron Armin Hofmann y Emil Ruder y que Wolfgang Weingart renovó después.",
+    "traits": [
+     "Tipografía y diseño gráfico enseñados como disciplina rigurosa",
+     "Retícula, contraste y jerarquía clara",
+     "Ejercicios de forma, contraforma y ritmo",
+     "Desde los años sesenta, experimentos más libres de Weingart"
+    ],
+    "context": "Se centró en la Allgemeine Gewerbeschule de Basilea, donde Hofmann y Ruder enseñaron desde fines de los años cuarenta. Weingart se incorporó en 1968 y llevó la enseñanza hacia una dirección más experimental.",
+    "shift": "La tipografía pasó de oficio aprendido en el taller a método enseñado en el aula, y sus alumnos llevaron el estilo suizo al extranjero."
+   },
+   "refs": []
+  },
+  {
+   "id": "polish-poster-school",
+   "level": "normal",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1950,
+   "end": 1970,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "PL"
+   ],
+   "name": "Polish School of Posters",
+   "short": "Polish posters",
+   "key": "A current of author posters for film, theatre and circus in Poland, in which artists such as Henryk Tomaszewski and Jan Lenica worked with painterly freedom.",
+   "traits": [
+    "Poster treated as the artist’s own work",
+    "Metaphor and visual wit instead of literal illustration",
+    "Hand-drawn image and lettering",
+    "Film, theatre and circus as main subjects"
+   ],
+   "context": "After the Second World War Poland had no commercial advertising, and posters were commissioned for cultural institutions. Tomaszewski, Lenica and Tadeusz Trepkowski were among its leading names.",
+   "shift": "From the poster as advertising to the poster as an artist’s statement, with room for personal imagery inside a state-run cultural system.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Escuela polaca del cartel",
+    "short": "Cartel polaco",
+    "key": "Una corriente de carteles de autor para cine, teatro y circo en Polonia, en la que artistas como Henryk Tomaszewski y Jan Lenica trabajaron con libertad pictórica.",
+    "traits": [
+     "El cartel tratado como obra propia del artista",
+     "Metáfora e ingenio visual en lugar de ilustración literal",
+     "Imagen y letras dibujadas a mano",
+     "Cine, teatro y circo como temas principales"
+    ],
+    "context": "Tras la Segunda Guerra Mundial Polonia no tenía publicidad comercial, y los carteles se encargaban para instituciones culturales. Tomaszewski, Lenica y Tadeusz Trepkowski estuvieron entre sus nombres principales.",
+    "shift": "Del cartel como publicidad al cartel como declaración del artista, con espacio para una imagen personal dentro de un sistema cultural estatal."
+   },
+   "refs": []
+  },
+  {
+   "id": "human-factors-ergonomics",
+   "level": "normal",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1945,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Human factors and ergonomics",
+   "short": "Ergonomics",
+   "key": "The study of how the body and its use should shape the design of tools, controls and products, which grew out of wartime work on aircraft and equipment.",
+   "traits": [
+    "Body measures and movement as the basis of design",
+    "Controls and displays arranged for the user",
+    "Testing products with real people",
+    "Fit between person, task and object"
+   ],
+   "context": "In the Second World War the design of military aircraft cockpits and controls made engineers and psychologists study the body and its actions. The Ergonomics Research Society was founded in Britain in 1949.",
+   "shift": "From designing the object and expecting people to adapt to it to measuring the person first. Henry Dreyfuss brought body measures into product design in books such as Designing for People (1955).",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "dreyfuss"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Factores humanos y ergonomía",
+    "short": "Ergonomía",
+    "key": "El estudio de cómo el cuerpo y su uso deben guiar el diseño de herramientas, controles y productos, nacido del trabajo en tiempos de guerra sobre aviones y equipos.",
+    "traits": [
+     "Medidas y movimientos del cuerpo como base del proyecto",
+     "Controles e indicadores dispuestos para el usuario",
+     "Prueba de los productos con personas reales",
+     "Ajuste entre persona, tarea y objeto"
+    ],
+    "context": "En la Segunda Guerra Mundial el diseño de cabinas y controles de aviones militares llevó a ingenieros y psicólogos a estudiar el cuerpo y sus acciones. La Ergonomics Research Society se fundó en Gran Bretaña en 1949.",
+    "shift": "De proyectar el objeto y esperar que la gente se adapte a medir primero a la persona. Henry Dreyfuss llevó las medidas del cuerpo al diseño de productos en libros como Designing for People (1955)."
+   },
+   "refs": []
+  },
+  {
+   "id": "mid-century-modern",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1945,
+   "end": 1969,
+   "fadeIn": 1,
+   "fadeOut": 3,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "era": "post",
+   "name": "Mid-century modern",
+   "short": "Mid-century modern",
+   "key": "The domestic style of the post-war years, with light furniture of organic forms and houses of glass and steel, as in Eames, Saarinen and the Case Study Houses.",
+   "traits": [
+    "Light, modular furniture",
+    "Organic, moulded forms",
+    "Open plans and large windows",
+    "Honest use of new materials"
+   ],
+   "context": "After 1945 the United States built suburban houses on a large scale, and the magazine Arts & Architecture launched the Case Study House programme in Los Angeles. Charles and Ray Eames and Eero Saarinen designed much of its furniture.",
+   "shift": "From the heavy furniture of the pre-war home to light, cheap pieces that could be made in series and fitted small modern houses.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Modernismo de mediados de siglo",
+    "short": "Mid-century",
+    "key": "El estilo doméstico de la posguerra, con muebles livianos de formas orgánicas y casas de vidrio y acero, como en Eames, Saarinen y las Case Study Houses.",
+    "traits": [
+     "Muebles livianos y modulares",
+     "Formas orgánicas moldeadas",
+     "Plantas abiertas y grandes ventanales",
+     "Uso franco de los materiales nuevos"
+    ],
+    "context": "Desde 1945 Estados Unidos construyó viviendas suburbanas a gran escala, y la revista Arts & Architecture lanzó en Los Ángeles el programa de las Case Study Houses. Charles y Ray Eames y Eero Saarinen diseñaron buena parte de su mobiliario.",
+    "shift": "De los muebles pesados del hogar de antes de la guerra a piezas livianas y baratas, que podían hacerse en serie y encajaban en casas modernas pequeñas."
+   },
+   "refs": []
+  },
+  {
+   "id": "metabolism",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1960,
+   "end": 1975,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "name": "Metabolism",
+   "short": "Metabolism",
+   "key": "A Japanese group of architects who, from 1960, imagined cities and buildings that grow and renew themselves by replacing parts, like living organisms.",
+   "traits": [
+    "Cities and buildings conceived as organisms that grow and change",
+    "Permanent structures with replaceable units or capsules",
+    "Megastructures, towers and floating or marine cities",
+    "Prefabricated, mass-produced parts",
+    "Confidence in technology and in fast urban growth"
+   ],
+   "context": "It formed in Japan after the war, when cities rebuilt from wartime destruction were growing very fast. A group of young architects and a critic, among them Kiyonori Kikutake, Kisho Kurokawa, Fumihiko Maki and Noboru Kawazoe, presented the Metabolism manifesto at the World Design Conference in Tokyo in 1960. Some had worked with or studied under Kenzo Tange, who proposed a plan for Tokyo Bay that same year.",
+   "shift": "From the fixed building to the structure that can be extended and renewed by parts. Kurokawa’s Nakagin Capsule Tower (1972) put the idea into a built work, and several Metabolists designed pavilions for Expo 70 in Osaka. The ideas of capsules and megastructures reached Western architects through the 1960 conference and publications, and belong to the same family as those of Archigram.",
+   "es": {
+    "name": "Metabolismo",
+    "short": "Metabolismo",
+    "key": "Un grupo japonés de arquitectos que, desde 1960, imaginó ciudades y edificios que crecen y se renuevan reemplazando partes, como los organismos vivos.",
+    "traits": [
+     "Ciudades y edificios concebidos como organismos que crecen y cambian",
+     "Estructuras permanentes con unidades o cápsulas reemplazables",
+     "Megaestructuras, torres y ciudades flotantes o marinas",
+     "Partes prefabricadas y producidas en serie",
+     "Confianza en la tecnología y en el rápido crecimiento urbano"
+    ],
+    "context": "Se formó en el Japón de posguerra, cuando las ciudades reconstruidas tras la destrucción de la guerra crecían muy rápido. Un grupo de jóvenes arquitectos y un crítico, entre ellos Kiyonori Kikutake, Kisho Kurokawa, Fumihiko Maki y Noboru Kawazoe, presentó el manifiesto del Metabolismo en la Conferencia Mundial de Diseño de Tokio en 1960. Algunos habían trabajado o estudiado con Kenzo Tange, que ese mismo año propuso un plan para la bahía de Tokio.",
+    "shift": "Del edificio fijo a la estructura que puede ampliarse y renovarse por partes. La Torre Cápsula Nakagin de Kurokawa (1972) llevó la idea a una obra construida, y varios metabolistas diseñaron pabellones para la Expo 70 de Osaka. Las ideas de cápsulas y megaestructuras llegaron a los arquitectos occidentales por la conferencia de 1960 y por publicaciones, y pertenecen a la misma familia que las de Archigram."
+   },
+   "refs": []
+  },
+  {
+   "id": "design-methods",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1962,
+   "end": 1980,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US",
+    "DE"
+   ],
+   "name": "Design methods movement",
+   "short": "Design methods",
+   "key": "A 1960s effort to make the design process systematic and scientific, drawing on operations research, computing and systems theory, and a forerunner of ‘design thinking’.",
+   "traits": [
+    "Design broken down into explicit steps",
+    "Problems stated as sets of requirements",
+    "Operations research and systems theory as models",
+    "Computers as a possible aid to design",
+    "Later doubts about the limits of a purely rational method"
+   ],
+   "context": "After the Second World War, operations research and the first computers made it seem possible to treat complex problems in explicit steps. A conference on design methods held in London in 1962 brought together designers, engineers and scientists around this idea. At the same time the school in Ulm taught methodology and systems thinking to its students.",
+   "shift": "From design as the intuition of a gifted individual to design as a process that can be described, taught and discussed. Christopher Alexander’s Notes on the Synthesis of Form (1964) stated the design problem as a set of requirements, and Herbert Simon’s The Sciences of the Artificial (1969) described design as a science of its own. By the 1970s some of its own supporters, among them Alexander, had turned against the idea, and its legacy lives on in later ‘design thinking’.",
+   "links": {
+    "institutions": [
+     "inst-hfg-ulm"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Movimiento de los métodos de diseño",
+    "short": "Métodos de diseño",
+    "key": "Un esfuerzo de los años sesenta por volver sistemático y científico el proceso de diseño, apoyado en la investigación operativa, la computación y la teoría de sistemas, y antecedente del «design thinking».",
+    "traits": [
+     "El diseño descompuesto en pasos explícitos",
+     "Los problemas formulados como conjuntos de requisitos",
+     "La investigación operativa y la teoría de sistemas como modelos",
+     "El computador como posible ayuda al diseño",
+     "Dudas posteriores sobre los límites de un método puramente racional"
+    ],
+    "context": "Tras la Segunda Guerra Mundial, la investigación operativa y los primeros computadores hicieron pensar que se podían tratar problemas complejos en pasos explícitos. Una conferencia sobre métodos de diseño celebrada en Londres en 1962 reunió a diseñadores, ingenieros y científicos en torno a esa idea. Al mismo tiempo, la escuela de Ulm enseñaba metodología y pensamiento sistémico a sus estudiantes.",
+    "shift": "Del diseño como intuición de un individuo dotado al diseño como proceso que se puede describir, enseñar y discutir. Las Notes on the Synthesis of Form de Christopher Alexander (1964) formularon el problema de diseño como un conjunto de requisitos, y The Sciences of the Artificial de Herbert Simon (1969) describió el diseño como una ciencia propia. En los años setenta algunos de sus propios partidarios, entre ellos Alexander, se volvieron contra la idea, y su legado sigue vivo en el posterior «design thinking»."
+   },
+   "refs": []
+  }
+ ]
+}

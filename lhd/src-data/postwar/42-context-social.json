@@ -1,0 +1,234 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-baby-boom-suburbs",
+   "track": "social",
+   "start": 1946,
+   "end": 1964,
+   "date": "1946–1964",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Baby boom and suburbs",
+   "short": "Baby boom",
+   "key": "After the Second World War American births rose sharply and millions of young families moved to new suburbs built outside the cities.",
+   "happened": "Births in the United States climbed from 1946 and stayed high into the early 1960s. Housing loans for veterans and growing car ownership let developers such as Levitt and Sons build whole suburbs of similar houses, starting with Levittown on Long Island in 1947.",
+   "effect": "The single-family house with a yard and a family room became the standard setting for design, and with it came a market for furniture, appliances and storage made in series for the young household. Designers and manufacturers answered with informal, light and inexpensive furnishings, and the suburban home became the main consumer of mass-produced domestic goods.",
+   "es": {
+    "name": "Baby boom y suburbios",
+    "short": "Baby boom",
+    "date": "1946–1964",
+    "key": "Tras la Segunda Guerra Mundial los nacimientos en Estados Unidos aumentaron con fuerza y millones de familias jóvenes se mudaron a nuevos suburbios construidos fuera de las ciudades.",
+    "happened": "Los nacimientos en Estados Unidos subieron desde 1946 y se mantuvieron altos hasta comienzos de los años sesenta. Los créditos de vivienda para los veteranos y el aumento de los autos permitieron a constructoras como Levitt and Sons levantar suburbios enteros de casas parecidas, a partir de Levittown, en Long Island, en 1947.",
+    "effect": "La casa unifamiliar con jardín y sala de estar pasó a ser el escenario típico del diseño, y con ella apareció un mercado de muebles, electrodomésticos y mobiliario de almacenaje hechos en serie para el hogar joven. Diseñadores y fabricantes respondieron con mobiliario informal, liviano y económico, y la casa suburbana se volvió el principal consumidor de bienes domésticos producidos en masa."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-youth-counterculture",
+   "track": "social",
+   "start": 1955,
+   "end": 1975,
+   "date": "c. 1955–1975",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "FR"
+   ],
+   "name": "Youth and counterculture",
+   "short": "Youth culture",
+   "key": "Young people became a distinct market and a political force, and the counterculture of the 1960s rejected the order of the postwar consumer society.",
+   "happened": "From the mid-1950s teenagers had their own money, music and clothes, and in the 1960s part of this generation questioned war, authority and consumption. In San Francisco concert posters of a psychedelic style appeared from 1966, and in 1968 Stewart Brand published the first Whole Earth Catalog.",
+   "effect": "Design had to speak to a young public that valued the new and the disposable: boutiques, cheap fashion, posters, records and plastic furniture were made for it. The counterculture added a taste for hand-made, collective and do-it-yourself work and a distrust of the large corporation, which fed both radical design and the interest in alternative tools.",
+   "es": {
+    "name": "Juventud y contracultura",
+    "short": "Juventud",
+    "date": "c. 1955–1975",
+    "key": "Los jóvenes se volvieron un mercado propio y una fuerza política, y la contracultura de los años sesenta rechazó el orden de la sociedad de consumo de posguerra.",
+    "happened": "Desde mediados de los años cincuenta los adolescentes tuvieron su propio dinero, su música y su ropa, y en los sesenta parte de esa generación cuestionó la guerra, la autoridad y el consumo. En San Francisco aparecieron desde 1966 carteles de conciertos de estilo psicodélico, y en 1968 Stewart Brand publicó el primer Whole Earth Catalog.",
+    "effect": "El diseño debió hablarle a un público joven que valoraba lo nuevo y lo desechable: para él se hicieron boutiques, moda barata, carteles, discos y muebles de plástico. La contracultura sumó el gusto por lo hecho a mano, lo colectivo y lo autoconstruido, y la desconfianza hacia la gran corporación, lo que alimentó tanto el diseño radical como el interés por herramientas alternativas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-second-wave-feminism",
+   "track": "social",
+   "start": 1963,
+   "end": 1975,
+   "date": "c. 1963–1975",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Second-wave feminism",
+   "short": "Second-wave feminism",
+   "key": "A new women’s movement challenged the image of the woman as homemaker, with effects on advertising, domestic goods and dress.",
+   "happened": "Betty Friedan’s The Feminine Mystique appeared in 1963 and the National Organization for Women was founded in 1966. The movement criticised the ideal of the housewife that postwar advertising and the home-appliance industry had promoted, and demanded equal pay and work outside the home.",
+   "effect": "Designers and advertisers had addressed women mainly as housewives; the movement made that image a target of criticism and opened space for different images of women in graphics and fashion. Clothes such as trousers and simpler, more practical garments gained ground, and the home was increasingly discussed as a place of work.",
+   "es": {
+    "name": "Feminismo de segunda ola",
+    "short": "Feminismo",
+    "date": "c. 1963–1975",
+    "key": "Un nuevo movimiento de mujeres cuestionó la imagen de la mujer como dueña de casa, con efectos en la publicidad, los bienes domésticos y el vestuario.",
+    "happened": "El libro de Betty Friedan The Feminine Mystique salió en 1963 y la National Organization for Women se fundó en 1966. El movimiento criticó el ideal de ama de casa que la publicidad de posguerra y la industria de electrodomésticos habían promovido, y exigió igualdad salarial y trabajo fuera del hogar.",
+    "effect": "Diseñadores y publicistas se habían dirigido a las mujeres sobre todo como dueñas de casa; el movimiento convirtió esa imagen en blanco de críticas y abrió espacio para otras imágenes de la mujer en la gráfica y la moda. Prendas como el pantalón y la ropa más simple y práctica ganaron terreno, y el hogar se discutió cada vez más como lugar de trabajo."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-ecology",
+   "track": "social",
+   "start": 1962,
+   "end": 1973,
+   "date": "1962–1973",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Ecological awareness",
+   "short": "Ecology",
+   "key": "From the early 1960s books, protests and reports made the environmental cost of industry and consumption a public issue.",
+   "happened": "Rachel Carson’s Silent Spring appeared in 1962, the first Earth Day was held on 22 April 1970, and in 1972 the Club of Rome published The Limits to Growth and the United Nations held its conference on the human environment in Stockholm.",
+   "effect": "The idea that design could be wasteful and harmful became a subject of debate: designers were asked to consider the origin of materials, the life of products and what happens to them afterwards. It gave a base to critics of planned obsolescence and of plastic, and to proposals for design for real needs, such as Victor Papanek’s book of 1971.",
+   "es": {
+    "name": "Conciencia ecológica",
+    "short": "Ecología",
+    "date": "1962–1973",
+    "key": "Desde comienzos de los años sesenta libros, protestas e informes convirtieron el costo ambiental de la industria y del consumo en un asunto público.",
+    "happened": "El libro de Rachel Carson Silent Spring apareció en 1962, el primer Día de la Tierra se celebró el 22 de abril de 1970 y en 1972 el Club de Roma publicó Los límites del crecimiento y las Naciones Unidas realizaron en Estocolmo su conferencia sobre el medio humano.",
+    "effect": "La idea de que el diseño podía ser derrochador y dañino pasó a ser tema de debate: se pidió a los diseñadores pensar en el origen de los materiales, la vida de los productos y lo que ocurre con ellos después. Dio base a las críticas de la obsolescencia programada y del plástico, y a propuestas de diseño para necesidades reales, como el libro de Victor Papanek de 1971."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-housing-reconstruction",
+   "track": "social",
+   "start": 1945,
+   "end": 1970,
+   "date": "1945–1970",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "DE"
+   ],
+   "name": "Housing reconstruction and large estates",
+   "short": "Reconstruction housing",
+   "key": "Wartime destruction and a growing urban population led European states to build housing on a vast scale, in large estates of repeated blocks.",
+   "happened": "The war left millions of homes destroyed or damaged in Europe. Britain set up its new towns from 1946 and built emergency prefabricated houses, France built its grands ensembles and Germany rebuilt its cities with state-supported housing, while Marshall Plan aid helped the economies that paid for it.",
+   "effect": "Housing became a problem of volume and speed, and that favoured standard plans, industrialised construction and prefabricated concrete parts. Le Corbusier’s Unité d’Habitation in Marseille, built in 1947–52, set a model of the large block with shared services, and its raw concrete shaped the Brutalist taste of the next two decades.",
+   "es": {
+    "name": "Reconstrucción de la vivienda y grandes conjuntos",
+    "short": "Reconstrucción",
+    "date": "1945–1970",
+    "key": "La destrucción de la guerra y el crecimiento de la población urbana llevaron a los Estados europeos a construir vivienda a gran escala, en grandes conjuntos de bloques repetidos.",
+    "happened": "La guerra dejó millones de viviendas destruidas o dañadas en Europa. Gran Bretaña creó sus nuevas ciudades desde 1946 y levantó casas prefabricadas de emergencia, Francia construyó sus grands ensembles y Alemania reconstruyó sus ciudades con vivienda apoyada por el Estado, mientras la ayuda del Plan Marshall favoreció a las economías que la financiaban.",
+    "effect": "La vivienda se volvió un problema de volumen y velocidad, y eso favoreció los planos estándar, la construcción industrializada y las piezas prefabricadas de hormigón. La Unité d’Habitation de Le Corbusier en Marsella, construida en 1947–52, fijó el modelo del gran bloque con servicios comunes, y su hormigón a la vista marcó el gusto brutalista de las dos décadas siguientes."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-nordic-welfare",
+   "track": "social",
+   "start": 1945,
+   "end": 1970,
+   "date": "1945–1970",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "SE",
+    "DK",
+    "FI",
+    "NO"
+   ],
+   "name": "Nordic welfare state",
+   "short": "Nordic welfare",
+   "key": "Nordic governments built welfare states after the war, with public housing and the aim of good everyday goods for every household.",
+   "happened": "Social democratic governments in Sweden, Denmark, Norway and Finland expanded social insurance, public housing and education after 1945. In Sweden the idea of the ‘people’s home’ guided policy, and housing production rose steadily until the Million Programme of 1965–74.",
+   "effect": "The state and cooperatives became large buyers and promoters of design, so furniture, textiles and household goods were thought of as part of a decent home for all, not as luxuries. This favoured simple, durable, lower-cost products, and the Nordic idea of democratic design that reached the world in the 1950s and was taken up by firms such as IKEA, which issued its first catalogue in 1951.",
+   "es": {
+    "name": "Estado de bienestar nórdico",
+    "short": "Bienestar nórdico",
+    "date": "1945–1970",
+    "key": "Los gobiernos nórdicos construyeron Estados de bienestar tras la guerra, con vivienda pública y el propósito de ofrecer buenos objetos cotidianos a cada hogar.",
+    "happened": "Los gobiernos socialdemócratas de Suecia, Dinamarca, Noruega y Finlandia ampliaron después de 1945 los seguros sociales, la vivienda pública y la educación. En Suecia la idea del «hogar del pueblo» orientó la política, y la producción de viviendas creció de forma sostenida hasta el Programa del Millón de 1965–74.",
+    "effect": "El Estado y las cooperativas se volvieron grandes compradores y promotores del diseño, de modo que muebles, textiles y objetos del hogar se pensaron como parte de una vivienda digna para todos y no como lujos. Eso favoreció productos simples, durables y de menor costo, y la idea nórdica de un diseño democrático que llegó al mundo en los años cincuenta y que retomaron empresas como IKEA, que publicó su primer catálogo en 1951."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-latam-urbanisation-1950",
+   "track": "social",
+   "start": 1950,
+   "end": 1975,
+   "date": "1950–1975",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX",
+    "BR",
+    "CL"
+   ],
+   "name": "Rapid urbanisation in Latin America",
+   "short": "Urbanisation",
+   "key": "Between 1950 and 1975 millions of people moved from the countryside to Latin American cities, which grew faster than their housing and services.",
+   "happened": "The share of Latin Americans living in cities rose roughly from four in ten to six in ten in these years. Mexico City, São Paulo, Santiago and other capitals grew fast, and migrants often settled in informal neighbourhoods such as the favelas of Brazil or the poblaciones callampa of Chile.",
+   "effect": "Housing and public services became the central problem for architects and planners, and states responded with social housing programmes, large blocks and standard systems, as well as with aided self-build. Design for the masses, from furniture to graphics for public campaigns, had to be thought in terms of low cost and large numbers.",
+   "es": {
+    "name": "Urbanización acelerada de América Latina",
+    "short": "Urbanización",
+    "date": "1950–1975",
+    "key": "Entre 1950 y 1975 millones de personas pasaron del campo a las ciudades latinoamericanas, que crecieron más rápido que su vivienda y sus servicios.",
+    "happened": "La proporción de latinoamericanos que vivía en ciudades subió en esos años, más o menos, de cuatro de cada diez a seis de cada diez. Ciudad de México, São Paulo, Santiago y otras capitales crecieron con rapidez, y los migrantes se instalaron a menudo en barrios informales, como las favelas de Brasil o las poblaciones callampa de Chile.",
+    "effect": "La vivienda y los servicios públicos se volvieron el problema central de arquitectos y urbanistas, y los Estados respondieron con programas de vivienda social, grandes bloques y sistemas estandarizados, y también con la autoconstrucción asistida. El diseño para las mayorías, desde el mobiliario hasta la gráfica de las campañas públicas, debió pensarse en términos de bajo costo y grandes números."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-civil-rights",
+   "track": "social",
+   "start": 1954,
+   "end": 1975,
+   "date": "c. 1954–1975",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Civil rights and Black Power movements",
+   "short": "Civil rights",
+   "key": "The struggle against racial segregation and discrimination in the United States, from the 1950s to the 1970s, which produced its own militant graphics and a wider social critique of design.",
+   "happened": "After the Supreme Court’s 1954 school-desegregation ruling, the civil rights movement used boycotts, marches and legislation to challenge segregation. From the mid-1960s the Black Power movement and groups such as the Black Panther Party turned to community organising and self-defence. The movements drew attention far beyond the United States.",
+   "effect": "The movements needed to reach their own communities and the public outside the established media, so they produced direct, high-contrast newspapers, posters and badges that treated graphics as political tools. Their cause also became a subject for designers abroad: posters made in Cuba for international solidarity, for example, took up the African American struggle as part of a worldwide fight against oppression.",
+   "es": {
+    "name": "Derechos civiles y Black Power",
+    "short": "Derechos civiles",
+    "date": "c. 1954–1975",
+    "key": "La lucha contra la segregación y la discriminación racial en Estados Unidos, desde los años cincuenta hasta los setenta, que produjo su propia gráfica militante y una crítica social más amplia del diseño.",
+    "happened": "Tras el fallo de la Corte Suprema de 1954 sobre la integración escolar, el movimiento de derechos civiles usó boicots, marchas y leyes para enfrentar la segregación. Desde mediados de los años sesenta, el movimiento Black Power y grupos como el Partido Pantera Negra se volcaron a la organización comunitaria y la autodefensa. Los movimientos atrajeron la atención mucho más allá de Estados Unidos.",
+    "effect": "Los movimientos necesitaban llegar a sus propias comunidades y al público fuera de los medios establecidos, y por eso produjeron periódicos, carteles y chapas directos y de alto contraste que trataban la gráfica como herramienta política. Su causa también pasó a ser tema para diseñadores de otros países: los carteles hechos en Cuba para la solidaridad internacional, por ejemplo, incorporaron la lucha afroestadounidense a una lucha mundial contra la opresión."
+   },
+   "refs": []
+  }
+ ]
+}

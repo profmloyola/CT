@@ -1,0 +1,230 @@
+[
+ [
+  "lc2-armchair-1928",
+  "ok",
+  [
+   "Quité «cube-shaped»/«forma de cubo» y la imagen de cojines «como cajones»: ninguna fuente lo dice; usé en cambio la imagen de Perriand («cushion basket»).",
+   "«Se mostró en el Salón de Otoño de 1929» ahora con marca y atribuido a Cassina y Universalis; «cojines sueltos» pasa a «removibles» (Fondation).",
+   "«Desde los años sesenta» precisado a 1965 según Cassina (fabricante). MoMA registra un ejemplar hecho en 1959 por Heidi Weber, no por Cassina.",
+   "`maker` vacío: MoMA registra Heidi Weber (1959) en su ejemplar; no se cambia."
+  ]
+ ],
+ [
+  "fallingwater-1937",
+  "ok",
+  [
+   "Las fuentes difieren en fechas (SAH 1934–37; TCLF obra iniciada en 1936, casa de huéspedes en 1939): quité «1935–37» del texto y lo dejé como «según SAH»; `date` «1935–37» no se cambió.",
+   "Quité «Pittsburgh department-store owner» como ciudad (TCLF solo dice familia de Pittsburgh), «los cuartos se abren al bosque», «pocos encargos» y «la casa estadounidense más admirada del siglo»: no confirmados.",
+   "`materials` («hormigón armado… arenisca local») no se cambia; las fuentes no mencionan «armado»."
+  ]
+ ],
+ [
+  "eames-lcw",
+  "ok",
+  [
+   "Corregí «pronto se fabricó en serie para Herman Miller»: el MFAH dice que la fabricó Evans Products y Herman Miller solo la distribuyó.",
+   "Quité «a comienzos de los años cuarenta», «en parte» el trabajo naval como origen del método y que los soportes «le permiten flexionar»: ninguna fuente lo dice.",
+   "`year` 1945 y `date` se dejan: la Fundación Eames da 1945, el MFAH 1945–46. `status` («Herman Miller y Vitra») confirmado por la Fundación."
+  ]
+ ],
+ [
+  "vespa",
+  "ok",
+  [
+   "Quité la carrocería «como una sola cáscara que protegía la ropa», el marco abierto, la horquilla, el motor junto a la rueda trasera, que «se construyó en Pontedera» y que fue «el modelo de las scooters italianas»: ninguna fuente consultada lo confirma.",
+   "«Su ingeniero» Piaggio→D'Ascanio: las fuentes lo llaman ingeniero aeronáutico; que trabajara en Piaggio no está explícito, por eso dice «para Piaggio» sin más.",
+   "`materials` («acero estampado») y `tech` sin sostén en las fuentes; `status` sin verificar. No se cambian."
+  ]
+ ],
+ [
+  "tupperware-1946",
+  "ok",
+  [
+   "Quité «flexible» (lid) y «tapa… sellaba herméticamente» queda como «tapa hermética»; la fuente no habla de flexibilidad.",
+   "Corregí «desde comienzos de los años cincuenta»: Hagley sitúa las primeras reuniones en 1948 y la venta exclusiva por reunión desde 1951.",
+   "Quité «organizadas sobre todo por y para dueñas de casa»: las fuentes solo dicen anfitriones con familia y amigos y mujeres como vendedoras.",
+   "Que el Wonderlier sea precisamente el bol de 1946 no está confirmado: la fuente solo lo lista entre los primeros productos. `status` («piezas tempranas en museos») sin verificar; el Smithsonian tiene más de 100 piezas 1946–1999 (consistente)."
+  ]
+ ],
+ [
+  "bikini-1946",
+  "ok",
+  [
+   "Quité «pruebas nucleares días antes» (texto original: «had begun… days earlier»): Britannica solo dice «recientemente»; el «days» ahora se refiere al «atome» de Heim.",
+   "Quité «mostraba mucho más del cuerpo que los trajes anteriores»: ninguna fuente lo compara; usé la definición del Met.",
+   "Matiz de autoría: el Met dice que Heim y Réard reclaman la invención; «ingeniero que dirigía un negocio de ropa» corregido a «ingeniero que tomó la lencería de su madre» (Britannica). `status` sin verificar."
+  ]
+ ],
+ [
+  "dior-new-look",
+  "ok",
+  [
+   "Quité «en la casa que acababa de abrir», «muchos metros de tela», «corpiños ajustados y estructurados», «algunos criticaron su derroche» y «hizo famosa a la casa en todo el mundo»: ninguna fuente lo confirma; la cita de Snow se atribuye («se cuenta»).",
+   "Carmel Snow pasa de «la prensa» a «editora» (V&A).",
+   "`materials` («caderas acolchadas, corpiños estructurados, lana, seda») no confirmado por fuentes; el V&A solo cita lana, terciopelo de seda y enagua de seda para esa pieza; no se cambia. `status` («silueta recordada por el traje Bar») sin fuente independiente."
+  ]
+ ],
+ [
+  "citroen-2cv-1948",
+  "ok",
+  [
+   "Quité la atribución de la carrocería a Flaminio Bertoni y del trabajo de André Lefèbvre: solo las vi en una página de coleccionistas/venta, no en fuente válida; `designers` («bertoni») queda sin sostén en esta ficha.",
+   "Quité «capota de lona» y «suspensión blanda»: no confirmados por las fuentes válidas (`materials` no se cambia).",
+   "Matiz: la producción comercial empezó en 1949 (Stellantis), mientras `year` y `production.from` dicen 1948; no se cambian. `status` sin verificar."
+  ]
+ ],
+ [
+  "casa-barragan-1948",
+  "ok",
+  [
+   "Quité «modest lot» (terreno modesto): ninguna fuente lo confirma.",
+   "Quité «street front is a nearly blank wall» y «plain white and coloured walls»: la fuente describe un edificio sin mayor interés con pocas ventanas y muros de colores, no un muro ciego ni blanco.",
+   "Quité «became the reference point of his mature work» y la frase sobre el color y el oficio locales como raíz de una arquitectura mexicana: sin fuente; la UNESCO solo habla de modernismo con tradición vernácula.",
+   "El campo status (casa museo, 2004) está confirmado; JSTOR dice que es museo desde 1994 y que se visita con cita previa. No lo toqué."
+  ]
+ ],
+ [
+  "lettera-22",
+  "ok",
+  [
+   "Quité «smooth curved body», «low, smooth body with few visible parts» y que Nizzoli «dio» ese cuerpo: ninguna fuente lo describe; además el archivo atribuye el diseño a Beccio y Nizzoli, así que lo dejo atribuido a ambos.",
+   "Cambié «one of the best-known products of Olivetti’s design policy» por lo que dice la motivación del premio (reconoce a toda la producción de Olivetti).",
+   "«Many writers»: lo acoté a periodistas como Montanelli y Biagi, citados por el archivo.",
+   "Ficha, sin tocar: materials dice «aluminium alloy and steel» pero el Pompidou da «metal lacado» (sin aleación mencionada); tech «aluminium-alloys» no confirmado; designers tiene solo a Nizzoli (Beccio co-diseñador según el archivo); la mención de MoMA solo viene del archivo de Olivetti."
+  ]
+ ],
+ [
+  "chandigarh-1951",
+  "ok",
+  [
+   "Corregí «took over the plan in 1951»: Britannica dice que en 1951 fue nombrado asesor arquitectónico; la Fundación dice que se incorporó en 1950 y que no estuvo solo (Jeanneret, Fry, Drew). Se omite «took over the plan».",
+   "Quité «deep sun-breaking brise-soleil» para el Capitolio y «rough concrete»: las fuentes hablan de hormigón a la vista y control solar en general, no de brise-soleil profundos.",
+   "Quité «reached architects in Europe and the Americas and fed the Brutalist taste of the following decades»: ninguna fuente lo dice así; lo sustituí por lo que dicen la UNESCO (introdujo el brutalismo) y Britannica (influencia mundial).",
+   "Ficha, sin tocar: status («en uso como sede de gobierno de Punjab y Haryana») no confirmado en las fuentes consultadas; tech «modulor» la UNESCO lo menciona para la obra de Le Corbusier en general, no para Chandigarh."
+  ]
+ ],
+ [
+  "farnsworth-house-1951",
+  "ok",
+  [
+   "Quité «two steel-framed planes» y que las losas «cuelgan» de las columnas: la fuente habla de ocho columnas que sostienen una estructura suspendida; no detalla ese mecanismo.",
+   "Quité «one of the most cited houses of the twentieth century» y «idea ... Mies followed for years»: ninguna fuente lo confirma.",
+   "Quité «Fox River’s floods» como razón del diseño: las fuentes dicen que la elevación deja pasar las crecidas, no que fuera la razón.",
+   "Ficha, sin tocar: date «1945–1951»: 1945 es solo el año en que Farnsworth conoció a Mies, no el inicio del proyecto; materials no menciona el vidrio de las fuentes y sí travertino (confirmado)."
+  ]
+ ],
+ [
+  "unite-habitation",
+  "ok",
+  [
+   "Corregí «built between 1947 and 1952»: las fuentes dan 1945 (encargo) a 1952 (inauguración); no confirman 1947 como inicio de obra.",
+   "Corregí «337 flats»: la Fundación da 330 viviendas y la Cité 337 con 16 habitaciones de hotel; se indican ambas cifras.",
+   "Quité «gave the name ‘béton brut’ to a whole way of building» y «Smaller Unités followed at Nantes-Rezé, Berlin, Briey and Firminy»: ninguna fuente consultada lo confirma.",
+   "Ficha, sin tocar: materials menciona «painted loggia panels» y tech «prestressed-concrete», no confirmados; status confirmado (habitado, fachadas protegidas desde 1964, UNESCO); client «French State» coincide con el Ministerio de Reconstrucción."
+  ]
+ ],
+ [
+  "pruitt-igoe-1954",
+  "ok",
+  [
+   "Corregí «some thirty tall slab blocks» y «early 1950s»: las fuentes dan 33 edificios de once pisos terminados en 1954 (Britannica en video habla de 14 pisos; se usa la cifra de tres fuentes).",
+   "Corregí la causa del declive «city lost its middle-class population»: Bristol señala presupuesto, creciente proporción de residentes pobres, recortes federales y mala calidad; se reescribió.",
+   "Quité la atribución del diseño solo a Yamasaki «and his partners»: se nombra a Yamasaki y Hellmuth.",
+   "Ficha, sin tocar: key/status dicen que la demolición fue «desde 1972» (correcto, terminó en 1977); materials «hormigón armado, ladrillo» no confirmado; designers lista solo a Yamasaki (Hellmuth co-autor)."
+  ]
+ ],
+ [
+  "beethoven-poster-1955",
+  "ok",
+  [
+   "Corregí el material de la ficha en el texto: Cooper Hewitt describe litografía, no «offset» (materials de la ficha no se tocó).",
+   "Quité «an emblem of the Swiss poster», «among his best-known works» y «a reference of the Swiss style»: ninguna fuente lo confirma; lo suavicé a «ejemplo del estilo suizo» (People’s GD Archive).",
+   "Quité «to suggest the rhythm of the music»: la fuente habla del carácter abstracto de la música, no de ritmo.",
+   "Ficha, sin tocar: materials «Offset print on paper» contradice la litografía de Cooper Hewitt (otras fuentes dan litografía offset para el cartel de 1956)."
+  ]
+ ],
+ [
+  "man-golden-arm-1955",
+  "ok",
+  [
+   "Quité «Its example led studios to hire designers for titles and posters»: ninguna fuente lo confirma; lo sustituí por «ayudó a establecer el diseño de títulos como disciplina» (Art of the Title).",
+   "Suavicé «the start of the film title as a design form» a «ayudó a establecer».",
+   "Quité «The title sequence stopped being a list of names...»: interpretación sin fuente.",
+   "Ficha, sin tocar: status «se exhiben ampliamente» no confirmado; materials ok (papel recortado BFI, cartel litografía MoMA)."
+  ]
+ ],
+ [
+  "citroen-ds",
+  "ok",
+  [
+   "Quité «smooth, low body» y «as modern as an aircraft»: ninguna fuente lo dice; usé la cita de Barthes (Studebaker Museum).",
+   "«Unveiled in October 1955»: las fuentes confirman el Salón de 1955 y pedidos el 6 de octubre, no el día de presentación; lo reformulé.",
+   "«Lefèbvre led the technical design» pasó a «desarrollo ligado a Bertoni, Lefèbvre y Magès» (se agregó a Paul Magès, que la fuente nombra).",
+   "Campo status («favorito de coleccionistas, museos de diseño») sin fuente; no se tocó."
+  ]
+ ],
+ [
+  "ronchamp-chapel",
+  "ok",
+  [
+   "Corregí «built between 1950 and 1955»: las fuentes dan obra de 1953 a 1955 (1950 fue la primera visita de Le Corbusier).",
+   "Quité «small windows of coloured glass» (las fuentes hablan de aberturas), «roof seems to float», «rectilinear modernism» y «one of the best-known churches»: no confirmados; la frase de UNESCO sustituye la valoración.",
+   "Campo materials («muros encalados, vidrio de color») no se tocó: las fuentes dicen hormigón y piedras de las ruinas con revoque, no mencionan vidrio de color; revisar. Campo status «abierta a visitantes» solo confirmado en parte (peregrinación activa)."
+  ]
+ ],
+ [
+  "ibm-logo",
+  "ok",
+  [
+   "Quité «slab-serif» y «heavy»: la fuente nombra City Medium y serifas asimétricas, no dice «de serifas rectas»; el campo materials conserva «slab-serif»; revisar.",
+   "Quité «earlier, more ornate wordmark» (la fuente dice Beton Bold) y «suggests speed and dynamism»: no confirmados.",
+   "«Mid-1950s» pasó a 1956 (IBM). «Still the company’s logo»: la fuente dice «esencialmente sin cambios»; el campo status no se tocó."
+  ]
+ ],
+ [
+  "eames-lounge",
+  "ok",
+  [
+   "Quité «refined version of the classic club chair»: la fuente da la imagen del guante de béisbol (atribuida a Eames) y no el sillón club.",
+   "Quité «three plywood shells for back, headrest and seat» y «separate cushions»: la fuente dice solo «tres carcasas»; «one of the best-known images of mid-century American furniture» pasó a presencia en MoMA y AIC.",
+   "«Sold by Herman Miller as a high-end chair» se atribuye al fabricante. Status «Vitra» sin confirmar; no se tocó."
+  ]
+ ],
+ [
+  "tulip-chair",
+  "ok",
+  [
+   "Quité «came out in 1956 together with the matching tables» y «Knoll sold it for homes and offices»: ninguna fuente lo confirma; la fecha se matiza (MoMA 1955-56; LACMA diseño hacia 1955, fabricación desde 1956). Year 1956 no se tocó (Brooklyn Museum también dice «designed 1956»).",
+   "Quité «seat that seems to grow from the stem» (MoMA dice que evoca tulipán o copa).",
+   "Status «Vitra» no aplica a la Tulip (solo Knoll confirmada); la ficha dice «por Knoll», correcto."
+  ]
+ ],
+ [
+  "braun-sk4",
+  "ok",
+  [
+   "Quité «helped set the plain Braun style of the following years» y «developed together at Braun»: no confirmados; «bare, orderly look» sustituido por la valoración del MoMA.",
+   "«With help from the design teaching at Ulm» precisado: según el HfG-Archiv, Gugelot trabajó con estudiantes desde 1955 (fecha distinta de 1956; el año de la ficha no se tocó).",
+   "Materials: MoMA dice «metal pintado, madera y plástico», la ficha dice chapa pintada, madera y acrílico; sin conflicto. Status «fuera de producción» sin fuente; no se tocó."
+  ]
+ ],
+ [
+  "helvetica",
+  "ok",
+  [
+   "Quité «in the tradition of Akzidenz-Grotesk», «even texture and tightly closed letterforms» y que Hoffmann fuera «head of the Haas foundry»: ninguna fuente consultada lo confirma (solo que Hoffmann co-creó la tipografía).",
+   "«Corporate and public signage» pasó a «señalética de usos diversos» (lo que dice la fuente); quité «adapted to phototypesetting and later digital use»: no confirmado.",
+   "«Stempel, which marketed it abroad» pasó a «casa matriz alemana… para mejorar su comercialización».",
+   "Status «sigue muy usada» sin fuente directa; no se tocó. Una fuente secundaria da 1956 para el diseño y otra 1957; se mantiene 1957 (lanzamiento)."
+  ]
+ ],
+ [
+  "univers",
+  "ok",
+  [
+   "«Launched in 1957 as metal type» corregido: 1957 es el lanzamiento para fotocomposición (Lumitype-Photon); los tipos de fundición, 1958 (Fonts In Use). RIT dice que fue la primera tipografía fabricada a la vez como tipo manual, Monotype y fototipo.",
+   "«Used across the whole identity» pasó a «única tipografía… uso exhaustivo y exclusivo».",
+   "Status «sigue en uso» no confirmado por fuente directa; solo se confirma el rediseño de 1997 y el nombre Univers Next (2010). No se tocó."
+  ]
+ ]
+]

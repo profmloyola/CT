@@ -1,0 +1,1588 @@
+id	kind	era	name	year	extra(discipline/track/star)
+neoclassicism	movement	industrial	Neoclassicism	1750	 *
+empire-regency	movement	industrial	Empire and Regency style	1799	
+historicism	movement	industrial	Historicism	1750	
+biedermeier	movement	industrial	Biedermeier	1815	
+shaker-design	movement	industrial	Shaker design	1790	
+english-landscape-garden	movement	industrial	English landscape garden	1750	
+revolutionary-architecture	movement	industrial	Revolutionary architecture	1770	
+beaux-arts	movement	industrial	Beaux-Arts architecture	1830	 *
+gothic-revival	movement	industrial	Gothic Revival	1830	 *
+inst-wedgwood	institution	industrial	Wedgwood (Etruria)	1769	 *
+inst-soho-manufactory	institution	industrial	Soho Manufactory of Boulton	1766	
+inst-conservatoire-arts-metiers	institution	industrial	Conservatoire des arts et métiers	1794	
+inst-government-school-of-design	institution	industrial	Government School of Design	1837	 *
+inst-thonet	institution	industrial	Thonet	1819	
+inst-ackermann	institution	industrial	Ackermann and his Repository of Arts	1795	
+inst-manufacture-de-jouy	institution	industrial	Oberkampf manufactory at Jouy	1760	
+inst-boulton-watt	institution	industrial	Boulton & Watt	1775	
+inst-academia-san-carlos	institution	industrial	Academia de San Carlos, Mexico	1783	
+inst-ecole-beaux-arts	institution	industrial	École des Beaux-Arts, Paris	1819	 *
+inst-aa-school	institution	industrial	Architectural Association School of Architecture	1847	
+inst-royal-society-of-arts	institution	industrial	Royal Society of Arts	1754	
+josiah-wedgwood	designer	industrial	Josiah Wedgwood	1730	 *
+matthew-boulton	designer	industrial	Matthew Boulton	1728	
+thomas-chippendale	designer	industrial	Thomas Chippendale	1718	
+robert-adam	designer	industrial	Robert Adam	1728	
+john-baskerville	designer	industrial	John Baskerville	1706	 *
+giambattista-bodoni	designer	industrial	Giambattista Bodoni	1740	 *
+firmin-didot	designer	industrial	Firmin Didot	1764	
+thomas-bewick	designer	industrial	Thomas Bewick	1753	
+percier-fontaine	designer	industrial	Charles Percier and Pierre Fontaine	1762	
+karl-friedrich-schinkel	designer	industrial	Karl Friedrich Schinkel	1781	
+pugin	designer	industrial	Augustus Welby Northmore Pugin	1812	 *
+michael-thonet	designer	industrial	Michael Thonet	1796	 *
+rose-bertin	designer	industrial	Rose Bertin	1747	
+joseph-marie-jacquard	designer	industrial	Joseph Marie Jacquard	1752	
+capability-brown	designer	industrial	Lancelot «Capability» Brown	1716	
+claude-nicolas-ledoux	designer	industrial	Claude-Nicolas Ledoux	1736	
+etienne-louis-boullee	designer	industrial	Étienne-Louis Boullée	1728	
+soufflot	designer	industrial	Jacques-Germain Soufflot	1713	
+joaquin-toesca	designer	industrial	Joaquín Toesca	1752	
+john-soane	designer	industrial	Sir John Soane	1753	
+john-nash	designer	industrial	John Nash	1752	
+thomas-jefferson	designer	industrial	Thomas Jefferson	1743	
+henri-labrouste	designer	industrial	Henri Labrouste	1801	 *
+jean-baptiste-huet	designer	industrial	Jean-Baptiste Huet	1745	
+beau-brummell	designer	industrial	Beau Brummell	1778	 *
+pierre-simon-fournier	designer	industrial	Pierre-Simon Fournier	1712	
+william-playfair	designer	industrial	William Playfair	1759	 *
+william-blake	designer	industrial	William Blake	1757	
+alois-senefelder	designer	industrial	Alois Senefelder	1771	
+honore-daumier	designer	industrial	Honoré Daumier	1808	
+hokusai	designer	industrial	Katsushika Hokusai	1760	
+james-watt	designer	industrial	James Watt	1736	
+robert-stephenson	designer	industrial	Robert Stephenson	1803	
+isambard-kingdom-brunel	designer	industrial	Isambard Kingdom Brunel	1806	
+baskerville-virgil-1757	work	industrial	Baskerville’s Virgil	1757	graphic *
+bodoni-manuale-1788	work	industrial	Bodoni’s Manuale tipografico (1818)	1818	graphic *
+didot-type-1784	work	industrial	Didot type	1784	graphic
+caslon-egyptian-1816	work	industrial	Caslon’s Egyptian (the first printed sans-serif)	1816	graphic
+bewick-quadrupeds-1790	work	industrial	A General History of Quadrupeds	1790	graphic
+penny-black-1840	work	industrial	Penny Black	1840	graphic *
+encyclopedie-plates-1762	work	industrial	Plates of the Encyclopédie	1762	graphic *
+la-aurora-de-chile-1812	work	industrial	La Aurora de Chile	1812	graphic
+gaceta-de-buenos-aires-1810	work	industrial	Gaceta de Buenos Aires	1810	graphic
+bandera-belgrano-1812	work	industrial	Belgrano’s flag	1812	graphic
+fournier-manuel-typographique-1764	work	industrial	Manuel typographique	1764	graphic
+commercial-political-atlas-1786	work	industrial	The Commercial and Political Atlas	1786	graphic *
+blake-songs-1794	work	industrial	Songs of Innocence and of Experience	1794	graphic
+senefelder-lehrbuch-1818	work	industrial	A Complete Course of Lithography	1818	graphic
+hokusai-great-wave-1831	work	industrial	The Great Wave off Kanagawa	1831	graphic
+daumier-gargantua-1831	work	industrial	Gargantua	1831	graphic
+illustrated-london-news-1842	work	industrial	The Illustrated London News	1842	graphic
+queens-ware-1765	work	industrial	Queen’s ware	1765	product *
+wedgwood-jasperware-1775	work	industrial	Wedgwood jasperware	1775	product
+chippendale-ribbon-chair-1754	work	industrial	Ribbon-back chair	1754	product
+windsor-chair-1750	work	industrial	Windsor chair	1750	product
+shaker-ladderback-chair-1800	work	industrial	Shaker ladder-back chair	1800	product
+thonet-boppard-chair-1836	work	industrial	Boppard chair	1836	product
+stanhope-press-1800	work	industrial	Stanhope press	1800	product
+jacquard-loom-1804	work	industrial	Jacquard loom	1804	product *
+boulton-ormolu-vases-1770	work	industrial	Boulton ormolu vases	1770	product
+watt-rotative-engine-1781	work	industrial	Boulton & Watt rotative steam engine	1781	product *
+willow-pattern-1790	work	industrial	Willow pattern transfer-printed ware	1790	product
+rocket-locomotive-1829	work	industrial	Stephenson's Rocket	1829	product
+ss-great-britain-1843	work	industrial	SS Great Britain	1843	product
+empire-silhouette-1800	work	industrial	High-waisted Empire-style dress	1800	fashion *
+heideloff-gallery-of-fashion-1794	work	industrial	Gallery of Fashion	1794	fashion
+ackermann-fashion-plates-1809	work	industrial	Fashion plates of Ackermann’s Repository	1809	fashion
+marie-antoinette-gowns-1775	work	industrial	Rose Bertin’s court gowns for Marie Antoinette	1775	fashion
+toile-de-jouy-1783	work	industrial	Toile de Jouy, 'Les Travaux de la Manufacture'	1783	fashion
+brummell-tailoring-1810	work	industrial	Beau Brummell’s plain tailored coat	1810	fashion *
+paisley-shawl-1820	work	industrial	Paisley shawl	1820	fashion
+ironbridge-1779	work	industrial	Iron Bridge, Coalbrookdale	1779	architecture *
+osterley-etruscan-room-1775	work	industrial	Etruscan Room at Osterley Park	1775	architecture
+malmaison-1800	work	industrial	Interiors of Malmaison	1800	architecture
+altes-museum-1830	work	industrial	Altes Museum, Berlin	1830	architecture
+bauakademie-1836	work	industrial	Bauakademie, Berlin	1836	architecture
+westminster-1840	work	industrial	Palace of Westminster	1840	architecture *
+strawberry-hill-1750	work	industrial	Strawberry Hill	1750	architecture
+blenheim-park-1764	work	industrial	Blenheim Park landscape	1764	architecture
+saline-royale-1779	work	industrial	Royal Saltworks of Arc-et-Senans	1779	architecture
+cenotaph-newton-1784	work	industrial	Cenotaph for Newton (project)	1784	architecture *
+pantheon-paris-1790	work	industrial	Panthéon, Paris	1764	architecture
+la-moneda-1805	work	industrial	La Moneda (Real Casa de Moneda), Santiago	1784	architecture
+soane-museum-1812	work	industrial	Sir John Soane's Museum	1812	architecture
+royal-pavilion-1823	work	industrial	Royal Pavilion, Brighton	1823	architecture
+university-of-virginia-1826	work	industrial	University of Virginia (Rotunda and Lawn)	1826	architecture
+bibliotheque-sainte-genevieve-1850	work	industrial	Bibliothèque Sainte-Geneviève	1850	architecture *
+ctx-industrial-revolution	context	industrial	Industrial Revolution	1760	economic
+ctx-atlantic-revolutions	context	industrial	American and French Revolutions	1776	political
+ctx-napoleonic-empire	context	industrial	Napoleonic Empire	1799	political
+ctx-latin-american-independence	context	industrial	Latin American Independence	1808	political
+ctx-restoration-europe	context	industrial	European Restoration	1815	political
+ctx-penny-post	context	industrial	British Postal Reform	1839	political
+ctx-bourbon-reforms-academies	context	industrial	Bourbon reforms and the royal academies of the Spanish empire	1759	political
+ctx-statistics-thematic-maps	context	industrial	State statistics and thematic mapping	1780	political
+ctx-division-of-labour	context	industrial	Division of Labour and the Factory System	1750	economic
+ctx-cotton-colonial-trade	context	industrial	Colonial Trade and Cotton	1750	economic
+ctx-middle-class-consumption	context	industrial	Middle-Class Consumption	1750	economic
+ctx-registered-designs	context	industrial	Legal Registration of Designs	1839	economic
+ctx-american-system	context	industrial	American system of manufactures	1800	economic
+ctx-urbanisation-working-class	context	industrial	Urbanisation and the working class	1780	social
+ctx-clock-time	context	industrial	Clock time and factory discipline	1760	social
+ctx-luddism	context	industrial	Luddism and resistance to machines	1811	social
+ctx-reading-public	context	industrial	The expanding reading public	1750	social
+ctx-revolutionary-dress	context	industrial	Dress after the Revolution	1789	social
+ctx-enlightenment	context	industrial	The Enlightenment and the Encyclopédie	1751	cultural
+ctx-neoclassical-antiquarianism	context	industrial	Rediscovery of Antiquity	1750	cultural
+ctx-romanticism-gothic	context	industrial	Romanticism and Gothic taste	1750	cultural
+ctx-periodical-press	context	industrial	The periodical press	1750	cultural
+ctx-egyptomania	context	industrial	Egyptomania after Napoleon's campaign	1798	cultural
+ctx-steam-power	context	industrial	Steam power	1769	technological
+ctx-railways	context	industrial	Railways	1825	technological
+ctx-iron-construction	context	industrial	Cast iron and building	1779	technological
+ctx-photography	context	industrial	Photography	1839	technological
+creamware	production	industrial	Creamware (Queen's ware)	1760	
+cast-iron	production	industrial	Cast iron	1779	
+wove-paper	production	industrial	Wove paper	1757	
+lithography	production	industrial	Lithography	1796	
+steam-bentwood	production	industrial	Steam-bent wood	1836	
+wood-engraving	production	industrial	Wood engraving	1790	
+steam-press-machine-paper	production	industrial	Steam printing press and machine-made paper	1814	
+iron-printing-press	production	industrial	Iron printing press	1800	
+punched-card-weaving	production	industrial	Punched cards for looms	1804	
+display-types	production	industrial	Fat faces, Egyptians and sans serifs	1803	
+th-chippendale-director	theory	industrial	The Gentleman and Cabinet-Maker’s Director	1754	 *
+th-hepplewhite-guide	theory	industrial	The Cabinet-Maker and Upholsterer’s Guide	1788	
+th-sheraton-drawing-book	theory	industrial	The Cabinet-Maker and Upholsterer’s Drawing-Book	1791	
+th-pugin-true-principles	theory	industrial	The True Principles of Pointed or Christian Architecture	1841	 *
+th-journal-of-design	theory	industrial	Journal of Design and Manufactures	1849	
+th-laugier-essai-1753	theory	industrial	Essay on Architecture	1753	
+th-winckelmann-history-1764	theory	industrial	History of the Art of Antiquity	1764	 *
+th-ruskin-seven-lamps-1849	theory	industrial	The Seven Lamps of Architecture	1849	
+th-smith-wealth-of-nations-1776	theory	industrial	The Wealth of Nations	1776	
+th-pugin-contrasts-1836	theory	industrial	Contrasts	1836	
+macro-modernism	movement	reform	Modernism	1907	 *
+arts-and-crafts	movement	reform	Arts and Crafts	1861	 *
+aesthetic-movement	movement	reform	Aesthetic Movement	1860	
+art-nouveau	movement	reform	Art Nouveau	1890	 *
+vienna-secession	movement	reform	Vienna Secession	1897	 *
+illustrated-poster	movement	reform	Illustrated poster	1880	 *
+chicago-school	movement	reform	Chicago School	1880	 *
+catalan-modernisme	movement	reform	Catalan Modernisme	1888	
+organic-architecture	movement	reform	Organic architecture	1890	
+city-beautiful	movement	reform	City Beautiful movement	1893	
+garden-city-movement	movement	reform	Garden city movement	1898	
+expressionist-architecture	movement	reform	Expressionist architecture	1910	
+futurism-typography	movement	reform	Futurism	1909	 *
+plakatstil	movement	reform	Plakatstil (object poster)	1905	
+inst-south-kensington	institution	reform	South Kensington Museum	1852	 *
+inst-morris-and-co	institution	reform	Morris & Co.	1861	 *
+inst-liberty	institution	reform	Liberty & Co.	1875	
+inst-kelmscott-press	institution	reform	Kelmscott Press	1891	 *
+inst-wiener-werkstatte	institution	reform	Wiener Werkstätte	1903	 *
+inst-werkbund	institution	reform	Deutscher Werkbund	1907	 *
+inst-aeg	institution	reform	AEG	1883	 *
+inst-ford-motor	institution	reform	Ford Motor Company	1903	
+inst-glasgow-school-of-art	institution	reform	Glasgow School of Art	1851	
+inst-chambre-syndicale	institution	reform	Chambre syndicale de la couture parisienne	1868	
+inst-aces	institution	reform	Arts and Crafts Exhibition Society	1887	
+inst-vogue	institution	reform	Vogue	1892	 *
+inst-ibm	institution	reform	IBM	1911	
+inst-darmstadt-colony	institution	reform	Darmstadt Artists’ Colony	1899	
+inst-maison-art-nouveau	institution	reform	Maison de l'Art Nouveau (Siegfried Bing)	1895	
+william-morris	designer	reform	William Morris	1834	 *
+philip-webb	designer	reform	Philip Webb	1831	 *
+christopher-dresser	designer	reform	Christopher Dresser	1834	 *
+charles-rennie-mackintosh	designer	reform	Charles Rennie Mackintosh	1868	 *
+margaret-macdonald	designer	reform	Margaret Macdonald	1864	
+josef-hoffmann	designer	reform	Josef Hoffmann	1870	 *
+koloman-moser	designer	reform	Koloman Moser	1868	
+joseph-maria-olbrich	designer	reform	Joseph Maria Olbrich	1867	
+henry-van-de-velde	designer	reform	Henry van de Velde	1863	
+victor-horta	designer	reform	Victor Horta	1861	 *
+hector-guimard	designer	reform	Hector Guimard	1867	 *
+antoni-gaudi	designer	reform	Antoni Gaudí	1852	 *
+louis-comfort-tiffany	designer	reform	Louis Comfort Tiffany	1848	
+emile-galle	designer	reform	Émile Gallé	1846	
+rene-lalique	designer	reform	René Lalique	1860	
+jules-cheret	designer	reform	Jules Chéret	1836	 *
+toulouse-lautrec	designer	reform	Henri de Toulouse-Lautrec	1864	 *
+alfons-mucha	designer	reform	Alfons Mucha	1860	 *
+aubrey-beardsley	designer	reform	Aubrey Beardsley	1872	
+peter-behrens	designer	reform	Peter Behrens	1868	 *
+charles-frederick-worth	designer	reform	Charles Frederick Worth	1825	 *
+paul-poiret	designer	reform	Paul Poiret	1879	 *
+mariano-fortuny	designer	reform	Mariano Fortuny	1871	 *
+frank-lloyd-wright	designer	reform	Frank Lloyd Wright	1867	 *
+louis-sullivan	designer	reform	Louis Sullivan	1856	 *
+adolf-loos	designer	reform	Adolf Loos	1870	 *
+joseph-paxton	designer	reform	Joseph Paxton	1803	 *
+jose-guadalupe-posada	designer	reform	José Guadalupe Posada	1852	 *
+haussmann	designer	reform	Georges-Eugène Haussmann	1809	
+frederick-law-olmsted	designer	reform	Frederick Law Olmsted	1822	
+calvert-vaux	designer	reform	Calvert Vaux	1824	
+ildefons-cerda	designer	reform	Ildefons Cerdà	1815	
+charles-garnier	designer	reform	Charles Garnier	1825	
+william-le-baron-jenney	designer	reform	William Le Baron Jenney	1832	
+gustave-eiffel	designer	reform	Gustave Eiffel	1832	 *
+raymond-unwin	designer	reform	Raymond Unwin	1863	
+barry-parker	designer	reform	Barry Parker	1867	
+otto-wagner	designer	reform	Otto Wagner	1841	
+domenech-i-montaner	designer	reform	Lluís Domènech i Montaner	1850	
+daniel-burnham	designer	reform	Daniel Burnham	1846	
+emile-jequier	designer	reform	Émile Jéquier	1866	
+william-henry-perkin	designer	reform	William Henry Perkin	1838	
+emilie-floge	designer	reform	Emilie Flöge	1874	
+john-tenniel	designer	reform	John Tenniel	1820	
+charles-joseph-minard	designer	reform	Charles Joseph Minard	1781	
+kate-greenaway	designer	reform	Kate Greenaway	1846	
+beggarstaffs	designer	reform	The Beggarstaffs (William Nicholson y James Pryde)	1894	
+theophile-steinlen	designer	reform	Théophile-Alexandre Steinlen	1859	
+lucian-bernhard	designer	reform	Lucian Bernhard	1883	
+louis-vuitton	designer	reform	Louis Vuitton	1821	
+alexander-graham-bell	designer	reform	Alexander Graham Bell	1847	
+thomas-edison	designer	reform	Thomas Edison	1847	 *
+wilhelm-maybach	designer	reform	Wilhelm Maybach	1846	
+king-camp-gillette	designer	reform	King Camp Gillette	1855	
+cfa-voysey	designer	reform	C. F. A. Voysey	1857	
+walter-crane	designer	reform	Walter Crane	1845	
+will-bradley	designer	reform	Will H. Bradley	1868	
+ludwig-hohlwein	designer	reform	Ludwig Hohlwein	1874	
+gustav-stickley	designer	reform	Gustav Stickley	1858	
+bass-triangle	work	reform	Bass red triangle	1876	graphic
+coca-cola-logo	work	reform	Coca-Cola logo	1887	graphic
+kelmscott-chaucer	work	reform	Kelmscott Chaucer	1896	graphic *
+cheret-posters	work	reform	Posters by Jules Chéret	1890	graphic *
+moulin-rouge-la-goulue	work	reform	Moulin Rouge: La Goulue	1891	graphic *
+mucha-gismonda	work	reform	Gismonda poster	1894	graphic *
+beardsley-salome	work	reform	Beardsley’s Salome illustrations	1894	graphic
+ver-sacrum	work	reform	Ver Sacrum magazine	1898	graphic
+behrens-aeg-logo	work	reform	AEG logo and identity	1908	graphic *
+michelin-bibendum	work	reform	Michelin Bibendum	1898	graphic
+lira-popular	work	reform	Lira Popular broadsheets	1890	graphic
+zig-zag-magazine	work	reform	Zig-Zag magazine	1905	graphic
+posada-catrina	work	reform	La Calavera Catrina	1910	graphic *
+montgomery-ward-catalogue	work	reform	Montgomery Ward catalogue	1872	graphic
+alice-tenniel-1865	work	reform	Alice's Adventures in Wonderland (Tenniel illustrations)	1865	graphic
+minard-napoleon-map-1869	work	reform	Carte figurative des pertes successives en hommes de l'armée française dans la campagne de Russie 1812-1813	1869	graphic *
+under-the-window-1879	work	reform	Under the Window	1879	graphic
+beggarstaffs-hamlet-1894	work	reform	Hamlet (Beggarstaffs)	1894	graphic
+tournee-chat-noir-1896	work	reform	Tournée du Chat Noir	1896	graphic
+akzidenz-grotesk-1896	work	reform	Akzidenz-Grotesk	1896	graphic *
+caras-y-caretas-1898	work	reform	Caras y Caretas	1898	graphic
+priester-matches-1905	work	reform	Priester matches poster	1905	graphic *
+gazette-du-bon-ton-1912	work	reform	Gazette du Bon Ton	1912	graphic
+crane-babys-opera-1877	work	reform	The Baby's Opera	1877	graphic
+bradley-chap-book-1894	work	reform	Posters and covers for The Chap-Book	1894	graphic
+hohlwein-posters-1908	work	reform	Posters by Ludwig Hohlwein	1908	graphic
+thonet-chair-14	work	reform	Thonet chair no. 14	1859	product *
+singer-sewing-machine	work	reform	Singer sewing machine	1851	product *
+hill-house-chair	work	reform	Hill House chair	1902	product *
+sitzmaschine	work	reform	Sitzmaschine	1905	product
+aeg-kettle	work	reform	AEG electric kettle	1909	product
+aeg-arc-lamp	work	reform	AEG arc lamp	1907	product
+ford-model-t	work	reform	Ford Model T	1908	product *
+safety-bicycle	work	reform	Rover safety bicycle	1885	product
+benz-motorwagen	work	reform	Benz Patent-Motorwagen	1886	product
+tiffany-lamps	work	reform	Tiffany lamps	1900	product
+galle-vases	work	reform	Gallé vases	1900	product
+lalique-jewellery	work	reform	Lalique jewellery	1900	product
+dresser-teapot	work	reform	Dresser teapot	1879	product *
+kodak-no1	work	reform	Kodak No. 1 camera	1888	product
+remington-no1	work	reform	Remington No. 1 typewriter	1874	product
+morris-chair	work	reform	Morris chair	1866	product
+ww-metalwork	work	reform	Wiener Werkstätte metalwork	1905	product
+bell-telephone-1876	work	reform	Bell telephone	1876	product
+edison-bulb-1879	work	reform	Edison incandescent lamp	1879	product *
+bloemenwerf-chair-1895	work	reform	Bloemenwerf chair	1895	product
+mercedes-35hp-1901	work	reform	Mercedes 35 HP	1901	product
+gillette-safety-razor-1903	work	reform	Gillette safety razor	1903	product
+stickley-craftsman-1901	work	reform	Craftsman furniture and The Craftsman	1901	product
+strawberry-thief	work	reform	Strawberry Thief	1883	fashion *
+fortuny-delphos	work	reform	Delphos dress	1907	fashion *
+worth-haute-couture	work	reform	Worth haute couture	1858	fashion *
+poiret-high-waist	work	reform	Poiret’s high-waisted line	1908	fashion *
+bloomer-costume	work	reform	Bloomer costume	1851	fashion
+butterick-patterns	work	reform	Butterick paper patterns	1863	fashion
+levis-riveted-jeans	work	reform	Levi Strauss riveted jeans	1873	fashion
+liberty-artistic-dress	work	reform	Liberty artistic dress	1884	fashion
+crinoline-cage-1856	work	reform	Cage crinoline	1856	fashion
+perkin-mauve-1856	work	reform	Perkin's mauve	1856	fashion
+vuitton-flat-trunk-1858	work	reform	Louis Vuitton flat-topped trunk	1858	fashion
+jaeger-woollen-system-1884	work	reform	Jaeger Sanitary Woollen System	1884	fashion
+shirtwaist-blouse-1895	work	reform	Shirtwaist blouse	1895	fashion
+floge-reform-dress-1904	work	reform	Schwestern Flöge salon	1904	fashion
+crystal-palace	work	reform	Crystal Palace	1851	architecture *
+red-house	work	reform	Red House	1859	architecture *
+hotel-tassel	work	reform	Hôtel Tassel	1893	architecture *
+paris-metro-entrances	work	reform	Paris Métro entrances	1900	architecture *
+casa-batllo	work	reform	Casa Batlló	1906	architecture
+aeg-turbine-hall	work	reform	AEG Turbine Factory	1909	architecture *
+robie-house	work	reform	Robie House	1909	architecture *
+palais-stoclet	work	reform	Palais Stoclet	1911	architecture *
+secession-building	work	reform	Secession Building	1898	architecture
+purkersdorf-sanatorium	work	reform	Purkersdorf Sanatorium	1904	architecture
+fagus-factory	work	reform	Fagus Factory	1911	architecture *
+larkin-building	work	reform	Larkin Building	1904	architecture
+carson-pirie-scott	work	reform	Carson Pirie Scott Building	1904	architecture
+glasgow-school-of-art	work	reform	Glasgow School of Art	1909	architecture
+willow-tea-rooms	work	reform	Willow Tea Rooms	1903	architecture
+ascensor-concepcion	work	reform	Ascensor Concepción, Valparaíso	1883	architecture
+bloemenwerf	work	reform	Bloemenwerf	1895	architecture
+castel-beranger	work	reform	Castel Béranger	1898	architecture
+looshaus	work	reform	Looshaus	1911	architecture *
+highland-park-plant	work	reform	Highland Park Plant	1910	architecture
+haussmann-paris-1853	work	reform	Haussmann's renovation of Paris	1853	architecture *
+central-park-1858	work	reform	Central Park, New York	1858	architecture
+eixample-barcelona-1859	work	reform	Eixample (Cerdà Plan), Barcelona	1859	architecture
+opera-garnier-1875	work	reform	Palais Garnier (Paris Opéra)	1875	architecture *
+sagrada-familia-1882	work	reform	Sagrada Família, Barcelona	1882	architecture *
+home-insurance-building-1885	work	reform	Home Insurance Building, Chicago	1885	architecture
+eiffel-tower-1889	work	reform	Eiffel Tower	1889	architecture *
+letchworth-1903	work	reform	Letchworth Garden City	1903	architecture
+hill-house-1904	work	reform	Hill House, Helensburgh	1904	architecture
+postsparkasse-1906	work	reform	Austrian Postal Savings Bank (Postsparkasse), Vienna	1906	architecture
+palau-musica-catalana-1908	work	reform	Palau de la Música Catalana	1908	architecture
+plan-of-chicago-1909	work	reform	Plan of Chicago	1909	architecture
+museo-bellas-artes-santiago-1910	work	reform	Museo de Bellas Artes, Santiago	1910	architecture
+wainwright-building-1891	work	reform	Wainwright Building	1891	architecture *
+voysey-orchard-1899	work	reform	The Orchard, Chorleywood	1899	architecture
+ernst-ludwig-house-1901	work	reform	Ernst Ludwig House, Darmstadt	1901	architecture
+ctx-mexican-revolution	context	reform	Mexican Revolution	1910	political
+ctx-national-unifications	context	reform	Unifications of Italy and Germany	1861	political
+ctx-british-empire-trade	context	reform	British Empire and colonial trade	1851	political
+ctx-catalan-renaixenca	context	reform	Catalan Renaixença	1860	political
+ctx-second-empire-paris	context	reform	Second Empire and the transformation of Paris	1852	political
+ctx-latam-centenaries-1910	context	reform	Latin American independence centenaries	1904	political
+ctx-second-industrial-revolution	context	reform	Second Industrial Revolution	1870	economic
+ctx-trademark-branding	context	reform	Trademarks and branding	1875	economic
+ctx-department-stores	context	reform	Department stores	1852	economic
+ctx-mass-advertising-catalogue	context	reform	Mass advertising and mail-order catalogues	1870	economic
+ctx-nitrate-boom	context	reform	Nitrate boom	1880	economic
+ctx-labour-movement	context	reform	Labour movement and workers’ housing	1851	social
+ctx-bourgeois-home-hygiene	context	reform	The bourgeois home and hygiene	1851	social
+ctx-women-office-work	context	reform	Women in office work	1870	social
+ctx-urban-leisure	context	reform	Urban leisure: café, theatre and cabaret	1860	social
+ctx-dress-reform	context	reform	Dress reform	1851	social
+ctx-latam-urbanisation	context	reform	Urban growth and immigration in Latin America	1870	social
+ctx-childrens-book-market	context	reform	Children's book market and mass schooling	1860	social
+ctx-chicago-fire-1871	context	reform	Great Chicago Fire and the rebuilding of the Loop	1871	social
+ctx-japonisme	context	reform	Japonisme	1860	cultural
+ctx-victorian-taste-crisis	context	reform	Crisis of Victorian taste	1851	cultural
+ctx-gothic-revival	context	reform	Romantic medievalism and religious revival	1851	cultural
+ctx-natural-forms-science	context	reform	Botany, Darwin and natural forms	1860	cultural
+ctx-poster-craze	context	reform	The poster craze	1880	cultural
+ctx-vienna-1900	context	reform	Vienna 1900	1897	cultural
+ctx-classical-archaeology	context	reform	Classical archaeology and nostalgia for Greece	1870	cultural
+ctx-columbian-exposition-1893	context	reform	World's Columbian Exposition, Chicago (White City)	1893	cultural
+ctx-great-exhibition	context	reform	Great Exhibition of London	1851	cultural
+ctx-paris-1900	context	reform	Paris Universal Exposition	1900	cultural
+ctx-electricity	context	reform	Electricity and electric light	1879	technological
+ctx-automobile	context	reform	Automobile	1886	technological
+ctx-safety-bicycle	context	reform	Safety bicycle	1885	technological
+ctx-snapshot-photography	context	reform	Snapshot photography	1888	technological
+ctx-railways-steamships	context	reform	Railways and steamships	1851	technological
+ctx-synthetic-chemistry	context	reform	Synthetic dyes and organic chemistry	1856	technological
+ctx-telephone	context	reform	The telephone network	1876	technological
+ctx-taylorism	context	reform	Taylorism	1911	economic
+celluloid	production	reform	Celluloid	1870	
+art-glass	production	reform	Art glass	1890	
+reinforced-concrete	production	reform	Reinforced concrete	1890	
+iron-steel-frame	production	reform	Iron and steel frame	1851	
+chromolithography	production	reform	Chromolithography	1851	
+hot-metal-typesetting	production	reform	Hot-metal typesetting	1886	
+halftone-photoengraving	production	reform	Halftone photoengraving	1880	
+sewing-machine	production	reform	Sewing machine	1851	
+typewriter	production	reform	Typewriter	1874	
+paper-patterns	production	reform	Paper patterns	1863	
+safety-elevator	production	reform	Safety elevator	1853	
+th-grammar-of-ornament	theory	reform	The Grammar of Ornament	1856	 *
+th-nature-of-gothic	theory	reform	The Nature of Gothic	1853	 *
+th-dresser-principles	theory	reform	Principles of Decorative Design	1873	
+th-sullivan-function	theory	reform	The Tall Office Building Artistically Considered	1896	 *
+th-loos-ornament-and-crime	theory	reform	Ornament and Crime	1910	 *
+th-semper-der-stil	theory	reform	Der Stil	1860	
+th-viollet-le-duc-entretiens	theory	reform	Entretiens sur l’architecture	1863	
+th-moderne-architektur	theory	reform	Moderne Architektur	1896	
+th-garden-cities-of-tomorrow	theory	reform	To-morrow: A Peaceful Path to Real Reform (Garden Cities of To-morrow)	1898	
+th-veblen-leisure-class	theory	reform	The Theory of the Leisure Class	1899	 *
+th-futurist-manifesto	theory	reform	Manifesto of Futurism	1909	 *
+th-morris-hopes-fears-1882	theory	reform	Hopes and Fears for Art	1882	 *
+th-wright-art-craft-machine-1901	theory	reform	The Art and Craft of the Machine	1901	
+th-simmel-fashion-1904	theory	reform	Fashion	1904	
+de-stijl	movement	modernism	De Stijl	1917	 *
+constructivism	movement	modernism	Constructivism	1921	 *
+bauhaus-movement	movement	modernism	Bauhaus	1919	 *
+art-deco	movement	modernism	Art Deco	1920	 *
+new-typography	movement	modernism	New Typography	1923	
+new-objectivity	movement	modernism	New Objectivity	1924	
+international-style	movement	modernism	International Style	1925	 *
+streamline-moderne	movement	modernism	Streamline Moderne	1930	 *
+new-vision	movement	modernism	New Vision	1925	
+surrealism-design	movement	modernism	Surrealism in design	1930	
+rationalismo-italiano	movement	modernism	Italian Rationalism	1926	
+american-sportswear	movement	modernism	American sportswear	1930	
+dada	movement	modernism	Dada	1916	 *
+concrete-art-design	movement	modernism	Concrete art and design	1944	
+suprematism	movement	modernism	Suprematism	1915	
+new-york-school-graphic	movement	modernism	American modernism in graphic design (New York School)	1940	
+inst-bauhaus	institution	modernism	Bauhaus	1919	 *
+inst-vkhutemas	institution	modernism	Vkhutemas	1920	 *
+inst-weissenhof	institution	modernism	Weissenhof exhibition	1927	
+inst-neues-frankfurt	institution	modernism	New Frankfurt	1925	
+inst-london-transport	institution	modernism	London Transport	1933	
+inst-penguin-books	institution	modernism	Penguin Books	1935	
+inst-moma	institution	modernism	MoMA	1929	 *
+inst-olivetti	institution	modernism	Olivetti	1931	 *
+inst-container-corporation	institution	modernism	Container Corporation	1926	
+inst-cranbrook	institution	modernism	Cranbrook Academy of Art	1932	
+inst-black-mountain	institution	modernism	Black Mountain College	1933	
+inst-new-bauhaus	institution	modernism	New Bauhaus	1937	
+inst-tgp	institution	modernism	Taller de Gráfica Popular	1937	
+inst-chanel	institution	modernism	Chanel	1914	
+inst-schiaparelli	institution	modernism	Schiaparelli	1927	
+inst-zig-zag	institution	modernism	Zig-Zag	1919	
+inst-artek	institution	modernism	Artek	1935	
+inst-aiga	institution	modernism	AIGA (American Institute of Graphic Arts)	1914	
+inst-dia	institution	modernism	Design and Industries Association	1915	
+inst-triennale-milano	institution	modernism	Triennale di Milano	1923	
+inst-gm-art-and-colour	institution	modernism	General Motors Art and Colour Section	1927	 *
+inst-ciam	institution	modernism	CIAM (Congrès Internationaux d'Architecture Moderne)	1928	 *
+inst-design-council	institution	modernism	Council of Industrial Design / Design Council	1944	
+inst-domus	institution	modernism	Domus	1928	
+gropius	designer	modernism	Walter Gropius	1883	 *
+moholy-nagy	designer	modernism	László Moholy-Nagy	1895	 *
+le-corbusier	designer	modernism	Le Corbusier	1887	 *
+mies-van-der-rohe	designer	modernism	Ludwig Mies van der Rohe	1886	 *
+breuer	designer	modernism	Marcel Breuer	1902	 *
+bayer	designer	modernism	Herbert Bayer	1900	
+rodchenko	designer	modernism	Alexander Rodchenko	1891	 *
+el-lissitzky	designer	modernism	El Lissitzky	1890	 *
+van-doesburg	designer	modernism	Theo van Doesburg	1883	
+aalto-alvar-aino	designer	modernism	Alvar and Aino Aalto	1894	 *
+lilly-reich	designer	modernism	Lilly Reich	1885	 *
+edward-johnston	designer	modernism	Edward Johnston	1872	 *
+tschichold	designer	modernism	Jan Tschichold	1902	 *
+paul-renner	designer	modernism	Paul Renner	1878	 *
+cassandre	designer	modernism	A. M. Cassandre	1901	 *
+mcknight-kauffer	designer	modernism	Edward McKnight Kauffer	1890	
+eric-gill	designer	modernism	Eric Gill	1882	
+stanley-morison	designer	modernism	Stanley Morison	1889	
+harry-beck	designer	modernism	Harry Beck	1902	 *
+heartfield	designer	modernism	John Heartfield	1891	 *
+piet-zwart	designer	modernism	Piet Zwart	1885	
+stepanova	designer	modernism	Varvara Stepanova	1894	
+neurath-isotype	designer	modernism	Isotype	1882	 *
+leopoldo-mendez	designer	modernism	Leopoldo Méndez	1902	
+mauricio-amster	designer	modernism	Mauricio Amster	1907	
+core-silva-ossa	designer	modernism	Coré	1913	
+vladimir-tatlin	designer	modernism	Vladimir Tatlin	1885	
+erich-mendelsohn	designer	modernism	Erich Mendelsohn	1887	
+auguste-perret	designer	modernism	Auguste Perret	1874	
+thayaht	designer	modernism	Thayaht (Ernesto Michahelles)	1893	
+jean-patou	designer	modernism	Jean Patou	1887	
+adrian	designer	modernism	Gilbert Adrian	1903	
+claire-mccardell	designer	modernism	Claire McCardell	1905	
+filippo-marinetti	designer	modernism	Filippo Tommaso Marinetti	1876	
+joost-schmidt	designer	modernism	Joost Schmidt	1893	
+stenberg-brothers	designer	modernism	Vladimir y Georgii Stenberg	1899	
+emile-jacques-ruhlmann	designer	modernism	Émile-Jacques Ruhlmann	1879	
+oskar-barnack	designer	modernism	Oskar Barnack	1879	
+clarice-cliff	designer	modernism	Clarice Cliff	1899	
+pierre-jeanneret	designer	modernism	Pierre Jeanneret	1896	
+kaare-klint	designer	modernism	Kaare Klint	1888	
+carwardine	designer	modernism	George Carwardine	1887	
+madame-gres	designer	modernism	Madame Grès	1903	
+chareau	designer	modernism	Pierre Chareau	1883	
+walter-dorwin-teague	designer	modernism	Walter Dorwin Teague	1883	
+antonio-sant-elia	designer	modernism	Antonio Sant'Elia	1888	
+richard-neutra	designer	modernism	Richard Neutra	1892	
+kurt-schwitters	designer	modernism	Kurt Schwitters	1887	
+kazimir-malevich	designer	modernism	Kazimir Malevich	1879	
+herbert-matter	designer	modernism	Herbert Matter	1907	
+alvin-lustig	designer	modernism	Alvin Lustig	1915	
+rietveld	designer	modernism	Gerrit Rietveld	1888	 *
+marianne-brandt	designer	modernism	Marianne Brandt	1893	 *
+wagenfeld	designer	modernism	Wilhelm Wagenfeld	1900	
+eileen-gray	designer	modernism	Eileen Gray	1878	 *
+perriand	designer	modernism	Charlotte Perriand	1903	 *
+loewy	designer	modernism	Raymond Loewy	1893	 *
+bel-geddes	designer	modernism	Norman Bel Geddes	1893	
+dreyfuss	designer	modernism	Henry Dreyfuss	1904	
+porsche	designer	modernism	Ferdinand Porsche	1875	 *
+buckminster-fuller	designer	modernism	Buckminster Fuller	1895	
+coco-chanel	designer	modernism	Coco Chanel	1883	 *
+schiaparelli	designer	modernism	Elsa Schiaparelli	1890	 *
+vionnet	designer	modernism	Madeleine Vionnet	1876	 *
+sonia-delaunay	designer	modernism	Sonia Delaunay	1885	
+anni-albers	designer	modernism	Anni Albers	1899	
+gunta-stolzl	designer	modernism	Gunta Stölzl	1897	
+ferragamo	designer	modernism	Salvatore Ferragamo	1898	
+lacoste	designer	modernism	René Lacoste	1904	
+schutte-lihotzky	designer	modernism	Margarete Schütte-Lihotzky	1897	 *
+ernst-may	designer	modernism	Ernst May	1886	
+hannes-meyer	designer	modernism	Hannes Meyer	1889	
+bruno-taut	designer	modernism	Bruno Taut	1880	 *
+melnikov	designer	modernism	Konstantin Melnikov	1890	
+ginzburg	designer	modernism	Moisei Ginzburg	1892	
+juan-ogorman	designer	modernism	Juan O’Gorman	1905	
+warchavchik	designer	modernism	Gregori Warchavchik	1896	
+sert	designer	modernism	Josep Lluís Sert	1902	
+liubov-popova	designer	modernism	Liubov Popova	1889	
+mart-stam	designer	modernism	Mart Stam	1899	
+gustav-klutsis	designer	modernism	Gustav Klutsis	1895	
+lester-beall	designer	modernism	Lester Beall	1903	
+fortunato-depero	designer	modernism	Fortunato Depero	1892	
+alexey-brodovitch	designer	modernism	Alexey Brodovitch	1898	
+jean-prouve	designer	modernism	Jean Prouvé	1901	
+giuseppe-terragni	designer	modernism	Giuseppe Terragni	1904	
+oscar-niemeyer	designer	modernism	Oscar Niemeyer	1907	 *
+grupo-austral	designer	modernism	Grupo Austral	1913	
+lucio-costa	designer	modernism	Lúcio Costa	1902	
+johnston-typeface	work	modernism	Johnston typeface	1916	graphic *
+kitchener-poster	work	modernism	Lord Kitchener Wants You	1914	graphic *
+i-want-you-poster	work	modernism	I Want You for U.S. Army	1917	graphic
+red-wedge-poster	work	modernism	Beat the Whites with the Red Wedge	1919	graphic *
+de-stijl-magazine	work	modernism	De Stijl magazine	1917	graphic
+books-poster	work	modernism	Books poster	1924	graphic *
+futura	work	modernism	Futura	1927	graphic *
+gill-sans	work	modernism	Gill Sans	1928	graphic
+die-neue-typographie-book	work	modernism	Die neue Typographie	1928	graphic *
+normandie-poster	work	modernism	Normandie poster	1935	graphic *
+times-new-roman	work	modernism	Times New Roman	1932	graphic
+tube-map-1933	work	modernism	London Tube map	1933	graphic *
+isotype-charts	work	modernism	Society and Economy atlas	1930	graphic *
+penguin-covers	work	modernism	Penguin covers	1935	graphic *
+power-poster	work	modernism	Power poster	1930	graphic
+adolf-superman	work	modernism	Adolf the Superman	1932	graphic *
+konstruktivisten-poster	work	modernism	Konstruktivisten poster	1937	graphic
+ussr-in-construction	work	modernism	USSR in Construction	1930	graphic
+el-peneca-covers	work	modernism	El Peneca covers	1932	graphic
+zig-zag-books-amster	work	modernism	Zig-Zag book design	1940	graphic
+tgp-posters	work	modernism	Taller de Gráfica Popular prints	1937	graphic
+republican-posters	work	modernism	Spanish Republican posters	1936	graphic
+bauhausbucher	work	modernism	Bauhaus Books	1925	graphic *
+nkf-catalogue	work	modernism	NKF catalogue	1928	graphic
+thuringia-banknotes	work	modernism	Thuringia banknotes	1923	graphic
+underground-roundel	work	modernism	Underground roundel	1916	graphic
+malik-jackets	work	modernism	Malik-Verlag jackets	1921	graphic
+vienna-museum-charts	work	modernism	Vienna museum charts	1925	graphic
+incidentes-melodicos	work	modernism	Incidentes melódicos	1944	graphic
+cartilla-antifascista	work	modernism	Antifascist School Primer	1937	graphic
+plan-great-works-poster	work	modernism	Plan of Great Works	1930	graphic
+rea-posters	work	modernism	Rural Electrification posters	1937	graphic
+harpers-bazaar-brodovitch	work	modernism	Harper’s Bazaar	1934	graphic
+wpa-posters	work	modernism	Federal Art Project posters	1936	graphic
+zang-tumb-tuuum-1914	work	modernism	Zang Tumb Tuuum	1914	graphic *
+klaxon-1922	work	modernism	Klaxon	1922	graphic
+pro-eto-1923	work	modernism	Pro Eto (About This)	1923	graphic
+bauhaus-exhibition-poster-1923	work	modernism	Bauhaus Exhibition poster	1923	graphic *
+universal-alphabet-1925	work	modernism	Universal alphabet	1925	graphic
+intransigeant-poster-1925	work	modernism	L'Intransigeant poster	1925	graphic
+elementare-typographie-1925	work	modernism	Elementare Typographie	1925	graphic
+man-with-movie-camera-poster-1929	work	modernism	Man with a Movie Camera poster	1929	graphic
+we-can-do-it-1943	work	modernism	We Can Do It!	1943	graphic
+dlia-golosa-1923	work	modernism	For the Voice (Dlia golosa)	1923	graphic
+merz-magazine-1923	work	modernism	Merz	1923	graphic *
+matter-swiss-posters-1935	work	modernism	Swiss tourism posters	1935	graphic
+lustig-new-directions-1941	work	modernism	Book jackets for New Directions	1941	graphic
+red-blue-chair	work	modernism	Red and Blue Chair	1918	product *
+coca-cola-bottle	work	modernism	Coca-Cola contour bottle	1915	product *
+wagenfeld-lamp	work	modernism	Wagenfeld lamp	1924	product
+brandt-tea-infuser	work	modernism	Brandt tea infuser	1924	product *
+wassily-chair	work	modernism	Wassily chair	1925	product *
+mr10-chair	work	modernism	MR10 chair	1927	product
+e1027-table	work	modernism	E-1027 table	1927	product
+cesca-chair	work	modernism	Cesca chair	1928	product
+lc4-chaise-longue	work	modernism	LC4 chaise longue	1928	product
+barcelona-chair	work	modernism	Barcelona chair	1929	product *
+gestetner-duplicator	work	modernism	Gestetner duplicator	1929	product
+paimio-chair	work	modernism	Paimio chair	1931	product *
+stool-60	work	modernism	Stool 60	1933	product
+moka-express	work	modernism	Moka Express	1933	product *
+zig-zag-chair	work	modernism	Zig-Zag chair	1934	product
+coldspot-refrigerator	work	modernism	Coldspot refrigerator	1934	product *
+chrysler-airflow	work	modernism	Chrysler Airflow	1934	product *
+dymaxion-car	work	modernism	Dymaxion car	1933	product
+tatra-77	work	modernism	Tatra 77	1934	product
+dbh-1001-telephone	work	modernism	Ericsson DBH 1001 telephone	1931	product
+model-302-telephone	work	modernism	Model 302 telephone	1937	product
+savoy-vase	work	modernism	Savoy vase	1936	product
+kdf-wagen	work	modernism	KdF-Wagen	1938	product *
+kandem-lamp	work	modernism	Kandem lamp	1928	product
+jeep	work	modernism	Jeep	1941	product
+utility-furniture	work	modernism	Utility Furniture	1942	product
+light-prop	work	modernism	Light Prop	1930	product
+kubus-containers	work	modernism	Kubus containers	1938	product
+bar-sous-le-toit	work	modernism	Bar sous le toit	1927	product
+patriot-radio	work	modernism	Patriot radio	1939	product
+isokon-long-chair	work	modernism	Isokon Long Chair	1936	product
+stam-cantilever-chair	work	modernism	Stam cantilever chair	1926	product *
+campari-soda-bottle	work	modernism	Campari Soda bottle	1932	product
+bkf-chair	work	modernism	BKF chair	1938	product *
+pyrex-1915	work	modernism	Pyrex	1915	product
+ruhlmann-hotel-du-collectionneur-1925	work	modernism	Ruhlmann Hôtel du Collectionneur furniture	1925	product
+leica-i-1925	work	modernism	Leica I	1925	product
+rodchenko-workers-club-1925	work	modernism	Rodchenko Workers' Club	1925	product
+clarice-cliff-bizarre-1927	work	modernism	Clarice Cliff Bizarre ware	1927	product
+lc2-armchair-1928	work	modernism	LC2 Grand Confort armchair	1928	product *
+traction-avant-1934	work	modernism	Citroën Traction Avant	1934	product
+gg1-locomotive-1935	work	modernism	Pennsylvania Railroad GG1	1935	product
+faaborg-chair	work	modernism	Faaborg chair	1914	product
+anglepoise-lamp	work	modernism	Anglepoise lamp	1932	product
+baby-brownie	work	modernism	Baby Brownie	1934	product
+suprematist-teapot-1923	work	modernism	Suprematist teapot	1923	product
+volksempfanger-1933	work	modernism	Volksempfänger VE 301	1933	product
+chanel-no-5	work	modernism	Chanel No. 5	1921	fashion
+chanel-little-black-dress	work	modernism	Little black dress	1926	fashion *
+chanel-tweed	work	modernism	Chanel tweed	1924	fashion
+vionnet-bias-dress	work	modernism	Vionnet bias-cut dress	1936	fashion *
+simultaneous-dresses	work	modernism	Simultaneous dresses	1925	fashion
+lobster-dress	work	modernism	Lobster dress	1937	fashion *
+shocking-pink	work	modernism	Shocking pink	1937	fashion
+skeleton-dress	work	modernism	Skeleton dress	1938	fashion
+rainbow-sandal	work	modernism	Rainbow sandal	1938	fashion
+lacoste-polo	work	modernism	Lacoste shirt	1933	fashion
+nylon-stockings	work	modernism	Nylon stockings	1939	fashion *
+stolzl-tapestry	work	modernism	Red-Green slit tapestry	1927	fashion
+albers-wall-hanging	work	modernism	Albers wall hanging	1926	fashion
+stepanova-textiles	work	modernism	Stepanova textiles	1924	fashion
+popova-textiles	work	modernism	Popova textiles	1923	fashion
+boutique-simultanee	work	modernism	Boutique Simultanée	1925	fashion
+bernau-fabric	work	modernism	Bernau auditorium fabric	1929	fashion
+ferragamo-wedge	work	modernism	Ferragamo wedge	1937	fashion
+utility-clothing	work	modernism	Utility clothing	1942	fashion
+trench-coat-1914	work	modernism	Trench coat	1914	fashion
+chanel-jersey-1916	work	modernism	Chanel jersey sportswear	1916	fashion
+thayaht-tuta-1919	work	modernism	TuTa by Thayaht	1919	fashion
+patou-lenglen-1921	work	modernism	Lenglen's Patou tennis outfit	1921	fashion
+prozodezhda-1922	work	modernism	Rodchenko's production clothing	1922	fashion
+schott-perfecto-1928	work	modernism	Schott Perfecto jacket	1928	fashion
+kahlo-tehuana-1930	work	modernism	Frida Kahlo and the Tehuana dress	1930	fashion
+letty-lynton-dress-1932	work	modernism	Letty Lynton dress	1932	fashion
+miranda-baiana-1939	work	modernism	Carmen Miranda's baiana costume	1939	fashion
+zoot-suit-1940	work	modernism	Zoot suit	1940	fashion
+mccardell-popover-1942	work	modernism	McCardell Popover dress	1942	fashion
+gres-draped-gowns	work	modernism	Alix draped gown	1937	fashion
+schroder-house	work	modernism	Schröder House	1924	architecture *
+bauhaus-dessau-building	work	modernism	Bauhaus building, Dessau	1925	architecture *
+frankfurt-kitchen	work	modernism	Frankfurt Kitchen	1926	architecture *
+romerstadt	work	modernism	Römerstadt	1927	architecture
+weissenhof-estate	work	modernism	Weissenhof Estate	1927	architecture *
+torten-estate	work	modernism	Törten estate	1926	architecture
+horseshoe-estate	work	modernism	Horseshoe Estate	1925	architecture
+villa-savoye	work	modernism	Villa Savoye	1928	architecture *
+barcelona-pavilion	work	modernism	Barcelona Pavilion	1929	architecture *
+villa-tugendhat	work	modernism	Villa Tugendhat	1928	architecture
+rusakov-club	work	modernism	Rusakov Workers’ Club	1927	architecture
+narkomfin-building	work	modernism	Narkomfin Building	1928	architecture *
+dymaxion-house	work	modernism	Dymaxion House	1929	architecture
+rivera-kahlo-studio	work	modernism	Rivera and Kahlo studio-houses	1931	architecture
+casa-modernista	work	modernism	Casa Modernista	1927	architecture
+spanish-republic-pavilion	work	modernism	Spanish Republic Pavilion	1937	architecture
+existenzminimum-exhibition	work	modernism	The Minimum Dwelling	1929	architecture
+holden-stations	work	modernism	Holden’s Underground stations	1930	architecture
+esprit-nouveau-pavilion	work	modernism	Esprit Nouveau Pavilion	1925	architecture
+adgb-school-bernau	work	modernism	ADGB Trade Union School	1928	architecture
+futurama	work	modernism	Futurama	1939	architecture
+aubette	work	modernism	Aubette	1926	architecture
+e1027-house	work	modernism	E-1027	1926	architecture *
+soviet-pavilion-1925	work	modernism	Soviet pavilion 1925	1925	architecture
+sep-schools-ogorman	work	modernism	SEP primary schools	1932	architecture
+itapolis-house	work	modernism	Rua Itápolis house	1930	architecture
+barcelona-tb-dispensary	work	modernism	Tuberculosis Dispensary	1933	architecture
+maison-du-peuple-clichy	work	modernism	Maison du Peuple	1935	architecture
+casa-del-fascio-como	work	modernism	Casa del Fascio	1932	architecture *
+pampulha	work	modernism	Pampulha	1940	architecture
+van-nelle-factory	work	modernism	Van Nelle Factory	1925	architecture *
+ministry-education-rio	work	modernism	Ministry of Education, Rio	1936	architecture *
+chrysler-building	work	modernism	Chrysler Building	1928	architecture *
+glass-pavilion-1914	work	modernism	Glass Pavilion, Cologne	1914	architecture
+tatlin-tower-1920	work	modernism	Monument to the Third International (Tatlin's Tower)	1920	architecture *
+einstein-tower-1921	work	modernism	Einstein Tower, Potsdam	1921	architecture
+notre-dame-du-raincy-1923	work	modernism	Notre-Dame du Raincy	1923	architecture
+plan-voisin-1925	work	modernism	Plan Voisin for Paris	1925	architecture *
+fallingwater-1937	work	modernism	Fallingwater	1937	architecture *
+villa-mairea-1939	work	modernism	Villa Mairea	1939	architecture
+werkbund-cologne-1914	work	modernism	Werkbund Exhibition, Cologne	1914	architecture
+karl-marx-hof	work	modernism	Karl-Marx-Hof	1927	architecture
+maison-de-verre	work	modernism	Maison de Verre	1928	architecture
+citta-nuova-1914	work	modernism	La Città Nuova	1914	architecture
+dom-ino-1914	work	modernism	Dom-ino House (project)	1914	architecture
+lovell-health-house-1929	work	modernism	Lovell Health House	1929	architecture
+paimio-sanatorium-1933	work	modernism	Paimio Sanatorium	1933	architecture
+ctx-first-world-war	context	modernism	First World War	1914	political
+ctx-russian-revolution	context	modernism	Russian Revolution	1917	political
+ctx-weimar-republic	context	modernism	Weimar Republic	1919	political
+ctx-italian-fascism	context	modernism	Italian Fascism	1922	political
+ctx-nazi-regime	context	modernism	Nazism and exile	1933	political
+ctx-spanish-civil-war	context	modernism	Spanish Civil War	1936	political
+ctx-new-deal	context	modernism	New Deal	1933	political
+ctx-second-world-war	context	modernism	Second World War	1939	political
+ctx-red-vienna	context	modernism	Red Vienna	1919	political
+ctx-vargas-era	context	modernism	Vargas era	1930	political
+ctx-stalinism-socialist-realism	context	modernism	Stalinism and socialist realism	1932	political
+ctx-fordism	context	modernism	Fordism	1914	economic
+ctx-german-rationalisation	context	modernism	German rationalisation	1921	economic
+ctx-consumer-credit	context	modernism	Mass consumption and credit	1920	economic
+ctx-great-depression	context	modernism	Great Depression	1929	economic
+ctx-planned-obsolescence	context	modernism	Planned obsolescence	1932	economic
+ctx-five-year-plan	context	modernism	First Five-Year Plan	1928	economic
+ctx-war-economy	context	modernism	War economy and rationing	1939	economic
+ctx-advertising-boom	context	modernism	Advertising boom	1920	economic
+ctx-nep	context	modernism	New Economic Policy	1921	economic
+ctx-corfo	context	modernism	CORFO	1939	economic
+ctx-professionalisation-design	context	modernism	Professionalisation and promotion of design	1915	economic
+ctx-womens-vote-work	context	modernism	Women’s vote and work	1918	social
+ctx-weimar-housing	context	modernism	Housing shortage	1919	social
+ctx-hygienism	context	modernism	Hygiene and the modern home	1920	social
+ctx-home-electrification	context	modernism	Electrified home	1920	social
+ctx-mass-leisure	context	modernism	Leisure, sport and tourism	1920	social
+ctx-migration-exile	context	modernism	Migration and exile	1933	social
+ctx-literacy-campaigns	context	modernism	Literacy campaigns	1919	social
+ctx-avant-gardes	context	modernism	Historical avant-gardes	1914	cultural
+ctx-cinema	context	modernism	Cinema	1914	cultural
+ctx-illustrated-press	context	modernism	Illustrated press	1920	cultural
+ctx-paris-1925	context	modernism	Paris 1925 Exposition	1925	cultural
+ctx-paris-1937	context	modernism	Paris 1937 Exposition	1937	cultural
+ctx-semana-arte-moderna	context	modernism	Modern Art Week	1922	cultural
+ctx-mexican-muralism	context	modernism	Mexican muralism	1921	cultural
+ctx-fashion-magazines	context	modernism	Fashion magazines	1920	cultural
+ctx-mass-car	context	modernism	Mass car	1920	technological
+ctx-aviation	context	modernism	Aviation	1914	technological
+ctx-radio-broadcasting	context	modernism	Radio broadcasting	1920	technological
+ctx-aerodynamics	context	modernism	Aerodynamics	1930	technological
+ctx-underground-expansion	context	modernism	Metros and electric transit	1916	technological
+ctx-early-television	context	modernism	Early television	1935	technological
+tubular-steel	production	modernism	Tubular steel	1925	
+moulded-plywood	production	modernism	Moulded plywood	1930	
+bakelite	production	modernism	Bakelite	1920	
+stainless-steel	production	modernism	Stainless steel	1920	
+chrome-plating	production	modernism	Chrome plating	1924	
+nylon	production	modernism	Nylon	1935	
+rayon	production	modernism	Rayon	1920	
+din-standards	production	modernism	DIN standards	1917	
+prefabrication	production	modernism	Prefabrication	1924	
+steel-body-pressing	production	modernism	Pressed-steel bodies	1914	
+offset-gravure	production	modernism	Offset and gravure	1920	
+photomontage	production	modernism	Photomontage	1918	
+zip-fastener	production	modernism	Zip fastener	1917	
+bias-cut	production	modernism	Bias cut	1920	
+leica-35mm	production	modernism	Leica 35 mm camera	1925	
+airbrush	production	modernism	Airbrush	1920	
+th-de-stijl-manifesto	theory	modernism	De Stijl Manifesto I	1918	
+th-gropius-bauhaus-programme	theory	modernism	Bauhaus programme	1919	 *
+th-productivist-programme	theory	modernism	Constructivist programme	1922	
+th-vers-une-architecture	theory	modernism	Towards an Architecture	1923	 *
+th-topography-typography	theory	modernism	Topography of Typography	1923	
+th-painting-photography-film	theory	modernism	Painting, Photography, Film	1925	
+th-new-typography	theory	modernism	The New Typography	1928	 *
+th-meyer-bauen	theory	modernism	bauen	1928	
+th-crystal-goblet	theory	modernism	The Crystal Goblet	1930	
+th-horizons	theory	modernism	Horizons	1932	
+th-art-and-industry	theory	modernism	Art and Industry	1934	
+th-pioneers-modern-movement	theory	modernism	Pioneers of the Modern Movement	1936	
+th-international-picture-language	theory	modernism	International Picture Language	1936	
+th-space-time-architecture	theory	modernism	Space, Time and Architecture	1941	
+th-flugel-psychology-clothes	theory	modernism	The Psychology of Clothes	1930	
+th-work-of-art-mechanical	theory	modernism	The Work of Art in the Age of Mechanical Reproduction	1935	 *
+th-charter-of-athens	theory	modernism	Charter of Athens	1943	 *
+th-werkbund-debate	theory	modernism	The Muthesius–Van de Velde debate	1914	 *
+th-sant-elia-manifesto-1914	theory	modernism	Manifesto of Futurist Architecture	1914	
+th-international-style-1932	theory	modernism	The International Style: Architecture since 1922	1932	 *
+th-kepes-language-of-vision-1944	theory	modernism	Language of Vision	1944	
+standardisation	concept	modernism	Standardisation		
+functionalism	concept	modernism	Functionalism		
+gesamtkunstwerk	concept	modernism	Total work of art		
+streamlining	concept	modernism	Streamlining		
+styling	concept	modernism	Styling		
+corporate-identity	concept	modernism	Corporate identity		
+minimum-dwelling	concept	modernism	Minimum dwelling		
+grid	concept	modernism	Grid		
+macro-postmodernism	movement	postwar	Postmodernism	1966	 *
+good-design	movement	postwar	Good Design	1950	
+scandinavian-design	movement	postwar	Scandinavian design	1945	 *
+italian-design	movement	postwar	Italian design	1946	 *
+ulm-functionalism	movement	postwar	Ulm functionalism	1953	 *
+international-typographic-style	movement	postwar	International Typographic Style	1950	 *
+corporate-identity-design	movement	postwar	Corporate identity design	1950	 *
+pop-design	movement	postwar	Pop and psychedelic design	1962	 *
+radical-design	movement	postwar	Radical design	1966	 *
+brutalism-metabolism	movement	postwar	Brutalism	1950	 *
+space-age-fashion	movement	postwar	Space age fashion	1963	
+paulista-school	movement	postwar	Paulista school (Brazilian brutalism)	1957	
+postmodern-architecture	movement	postwar	Postmodern architecture	1964	 *
+tendenza	movement	postwar	Tendenza (Neo-rationalism)	1966	
+high-tech-architecture	movement	postwar	High-tech architecture	1970	 *
+basel-school-typography	movement	postwar	Basel School of Typography	1947	
+polish-poster-school	movement	postwar	Polish School of Posters	1950	
+human-factors-ergonomics	movement	postwar	Human factors and ergonomics	1945	
+mid-century-modern	movement	postwar	Mid-century modern	1945	
+metabolism	movement	postwar	Metabolism	1960	
+design-methods	movement	postwar	Design methods movement	1962	
+inst-hfg-ulm	institution	postwar	HfG Ulm	1953	 *
+inst-braun	institution	postwar	Braun	1955	 *
+inst-herman-miller	institution	postwar	Herman Miller	1946	
+inst-knoll	institution	postwar	Knoll	1946	
+inst-marimekko	institution	postwar	Marimekko	1951	
+inst-ikea	institution	postwar	IKEA	1945	
+inst-compasso-doro	institution	postwar	Compasso d’Oro Award	1954	
+inst-push-pin	institution	postwar	Push Pin Studios	1954	
+inst-esdi	institution	postwar	Escola Superior de Desenho Industrial (ESDI)	1963	 *
+inst-cidi	institution	postwar	Centro de Investigación de Diseño Industrial (CIDI)	1962	
+inst-intec	institution	postwar	Instituto de Investigaciones Tecnológicas (INTEC)	1971	
+inst-sony	institution	postwar	Sony	1946	
+inst-unimark	institution	postwar	Unimark International	1965	
+inst-fiat	institution	postwar	Fiat	1945	
+inst-levitt	institution	postwar	Levitt & Sons	1945	
+inst-case-study-houses	institution	postwar	Case Study House Program	1945	
+inst-kartell	institution	postwar	Kartell	1949	
+inst-giorgini-florence-shows	institution	postwar	Giorgini’s Florence fashion shows	1951	
+inst-bienal-sao-paulo	institution	postwar	Bienal de São Paulo	1951	
+inst-escuela-valparaiso	institution	postwar	Escuela de Arquitectura de Valparaíso (PUCV) y Ciudad Abierta	1952	
+inst-team-10	institution	postwar	Team 10	1953	
+inst-if-design-award	institution	postwar	iF Design Award	1953	
+inst-red-dot	institution	postwar	Red Dot Design Award	1955	
+inst-salone-del-mobile	institution	postwar	Salone del Mobile.Milano	1961	
+inst-dad	institution	postwar	D&AD (Design and Art Direction)	1962	
+inst-xerox-parc	institution	postwar	Xerox PARC	1970	
+inst-quimantu	institution	postwar	Editorial Quimantú	1971	
+inst-pentagram	institution	postwar	Pentagram	1972	
+inst-independent-group	institution	postwar	Independent Group	1952	
+inst-di-tella	institution	postwar	Instituto Torcuato Di Tella	1958	
+inst-icsid	institution	postwar	ICSID (World Design Organization)	1957	
+eames	designer	postwar	Charles and Ray Eames	1907	 *
+george-nelson	designer	postwar	George Nelson	1908	
+eero-saarinen	designer	postwar	Eero Saarinen	1910	 *
+arne-jacobsen	designer	postwar	Arne Jacobsen	1902	 *
+hans-wegner	designer	postwar	Hans Wegner	1914	
+verner-panton	designer	postwar	Verner Panton	1926	 *
+dieter-rams	designer	postwar	Dieter Rams	1932	 *
+hans-gugelot	designer	postwar	Hans Gugelot	1920	
+otl-aicher	designer	postwar	Otl Aicher	1922	 *
+max-bill	designer	postwar	Max Bill	1908	
+gui-bonsiepe	designer	postwar	Gui Bonsiepe	1934	 *
+marcello-nizzoli	designer	postwar	Marcello Nizzoli	1887	 *
+ettore-sottsass	designer	postwar	Ettore Sottsass	1917	 *
+castiglioni	designer	postwar	Achille and Pier Giacomo Castiglioni	1913	
+joe-colombo	designer	postwar	Joe Colombo	1930	
+gio-ponti	designer	postwar	Gio Ponti	1891	
+paul-rand	designer	postwar	Paul Rand	1914	 *
+saul-bass	designer	postwar	Saul Bass	1920	 *
+massimo-vignelli	designer	postwar	Massimo Vignelli	1931	
+milton-glaser	designer	postwar	Milton Glaser	1929	 *
+muller-brockmann	designer	postwar	Josef Müller-Brockmann	1914	 *
+adrian-frutiger	designer	postwar	Adrian Frutiger	1928	 *
+max-miedinger	designer	postwar	Max Miedinger	1910	
+wim-crouwel	designer	postwar	Wim Crouwel	1928	
+christian-dior	designer	postwar	Christian Dior	1905	 *
+balenciaga	designer	postwar	Cristóbal Balenciaga	1895	 *
+mary-quant	designer	postwar	Mary Quant	1930	 *
+yves-saint-laurent	designer	postwar	Yves Saint Laurent	1936	 *
+pierre-cardin	designer	postwar	Pierre Cardin	1922	
+andre-courreges	designer	postwar	André Courrèges	1923	
+maija-isola	designer	postwar	Maija Isola	1927	
+lina-bo-bardi	designer	postwar	Lina Bo Bardi	1914	 *
+sergio-rodrigues	designer	postwar	Sergio Rodrigues	1927	 *
+aloisio-magalhaes	designer	postwar	Aloísio Magalhães	1927	
+lance-wyman	designer	postwar	Lance Wyman	1937	 *
+archizoom	designer	postwar	Archizoom Associati	1966	
+superstudio	designer	postwar	Superstudio	1966	 *
+ramirez-vazquez	designer	postwar	Pedro Ramírez Vázquez	1919	
+kinneir-calvert	designer	postwar	Jock Kinneir and Margaret Calvert	1917	
+dascanio	designer	postwar	Corradino D’Ascanio	1891	
+bertoni	designer	postwar	Flaminio Bertoni	1903	
+kurokawa	designer	postwar	Kisho Kurokawa	1934	
+katsumie	designer	postwar	Masaru Katsumie	1909	
+ricardo-porro	designer	postwar	Ricardo Porro	1925	
+luis-barragan	designer	postwar	Luis Barragán	1902	 *
+minoru-yamasaki	designer	postwar	Minoru Yamasaki	1912	
+kenzo-tange	designer	postwar	Kenzo Tange	1913	
+mario-pani	designer	postwar	Mario Pani	1911	
+robert-venturi	designer	postwar	Robert Venturi	1925	 *
+archigram	designer	postwar	Archigram	1961	
+louis-kahn	designer	postwar	Louis Kahn	1901	 *
+roberto-burle-marx	designer	postwar	Roberto Burle Marx	1909	
+bresciani-valdes-castillo-huidobro	designer	postwar	Bresciani, Valdés, Castillo y Huidobro	1954	
+clorindo-testa	designer	postwar	Clorindo Testa	1923	
+vilanova-artigas	designer	postwar	João Batista Vilanova Artigas	1915	
+alberto-cruz-covarrubias	designer	postwar	Alberto Cruz Covarrubias	1917	
+frei-otto	designer	postwar	Frei Otto	1925	
+gunther-behnisch	designer	postwar	Günter Behnisch	1922	
+jorn-utzon	designer	postwar	Jørn Utzon	1918	
+jaime-lerner	designer	postwar	Jaime Lerner	1937	
+louis-reard	designer	postwar	Louis Réard	1897	
+lucienne-day	designer	postwar	Lucienne Day	1917	
+hubert-de-givenchy	designer	postwar	Hubert de Givenchy	1927	
+zuzu-angel	designer	postwar	Zuzu Angel	1921	
+diane-von-furstenberg	designer	postwar	Diane von Furstenberg	1946	
+hermann-zapf	designer	postwar	Hermann Zapf	1918	
+gerald-holtom	designer	postwar	Gerald Holtom	1914	
+armin-hofmann	designer	postwar	Armin Hofmann	1920	
+jan-lenica	designer	postwar	Jan Lenica	1928	
+peter-blake	designer	postwar	Peter Blake	1932	
+jann-haworth	designer	postwar	Jann Haworth	1942	
+earl-tupper	designer	postwar	Earl Tupper	1907	
+isamu-noguchi	designer	postwar	Isamu Noguchi	1904	
+finn-juhl	designer	postwar	Finn Juhl	1912	
+clara-porset	designer	postwar	Clara Porset	1895	
+harry-bertoia	designer	postwar	Harry Bertoia	1915	
+alexander-girard	designer	postwar	Alexander Girard	1907	
+poul-henningsen	designer	postwar	Poul Henningsen	1894	
+alec-issigonis	designer	postwar	Alec Issigonis	1906	
+harley-earl	designer	postwar	Harley Earl	1893	 *
+eliot-noyes	designer	postwar	Eliot Noyes	1910	
+robin-day	designer	postwar	Robin Day	1915	
+marco-zanuso	designer	postwar	Marco Zanuso	1916	
+richard-sapper	designer	postwar	Richard Sapper	1932	 *
+anna-castelli-ferrieri	designer	postwar	Anna Castelli Ferrieri	1918	
+robert-propst	designer	postwar	Robert Propst	1921	
+gaetano-pesce	designer	postwar	Gaetano Pesce	1939	
+giorgetto-giugiaro	designer	postwar	Giorgetto Giugiaro	1938	
+som	designer	postwar	Skidmore, Owings & Merrill (SOM)	1936	
+carlos-raul-villanueva	designer	postwar	Carlos Raúl Villanueva	1900	
+smithsons	designer	postwar	Alison and Peter Smithson	1923	
+felix-candela	designer	postwar	Félix Candela	1910	
+eladio-dieste	designer	postwar	Eladio Dieste	1917	
+moshe-safdie	designer	postwar	Moshe Safdie	1938	
+paco-rabanne	designer	postwar	Paco Rabanne	1934	
+abram-games	designer	postwar	Abram Games	1914	
+emory-douglas	designer	postwar	Emory Douglas	1943	
+herb-lubalin	designer	postwar	Herb Lubalin	1918	
+pininfarina	designer	postwar	Battista «Pinin» Farina	1893	
+kaj-franck	designer	postwar	Kaj Franck	1911	
+eero-aarnio	designer	postwar	Eero Aarnio	1932	
+bruno-munari	designer	postwar	Bruno Munari	1907	
+douglas-engelbart	designer	postwar	Douglas Engelbart	1925	
+helvetica	work	postwar	Helvetica (Neue Haas Grotesk)	1957	graphic *
+univers	work	postwar	Univers	1957	graphic *
+ibm-logo	work	postwar	IBM logo	1956	graphic *
+lufthansa-identity	work	postwar	Lufthansa visual identity	1962	graphic
+munich72-pictograms	work	postwar	Munich 1972 pictograms and identity	1972	graphic *
+mexico68-identity	work	postwar	Mexico 1968 Olympic graphic identity	1968	graphic *
+tokyo64-pictograms	work	postwar	Tokyo 1964 pictograms and identity	1964	graphic
+vertigo-titles	work	postwar	Vertigo titles and poster	1958	graphic
+nyc-transit-standards	work	postwar	New York City Transit Authority Graphic Standards Manual	1970	graphic
+dylan-poster	work	postwar	Bob Dylan poster	1966	graphic *
+new-alphabet	work	postwar	New Alphabet	1967	graphic
+safety-poster-protect-child	work	postwar	Protect the child!	1953	graphic
+uk-road-signs	work	postwar	British road signs (Transport typeface)	1959	graphic
+larrea-covers	work	postwar	Larrea covers for the Nueva Canción Chilena	1970	graphic
+brp-murals	work	postwar	Murals of the Brigada Ramona Parra	1970	graphic
+icaic-ospaaal-posters	work	postwar	ICAIC and OSPAAAL posters	1960	graphic *
+iv-centenario-rio-symbol	work	postwar	Symbol of the IV Centenary of Rio de Janeiro	1965	graphic
+think-small	work	postwar	Volkswagen ‘Think Small’ advertisement (DDB)	1959	graphic *
+atelier-populaire-posters	work	postwar	Atelier Populaire posters (May 1968)	1968	graphic *
+westinghouse-logo	work	postwar	Westinghouse logo	1960	graphic
+american-airlines-logo	work	postwar	American Airlines logo	1967	graphic
+chase-manhattan-logo	work	postwar	Chase Manhattan Bank logo (Chermayeff & Geismar)	1960	graphic
+blue-note-covers	work	postwar	Blue Note Records covers (Reid Miles)	1956	graphic
+whole-earth-catalog	work	postwar	Whole Earth Catalog	1968	graphic
+beethoven-poster-1955	work	postwar	Beethoven poster	1955	graphic *
+man-golden-arm-1955	work	postwar	The Man with the Golden Arm titles	1955	graphic *
+optima-1958	work	postwar	Optima	1958	graphic
+peace-symbol-1958	work	postwar	Peace symbol	1958	graphic
+giselle-poster-1959	work	postwar	Giselle poster	1959	graphic
+wozzeck-poster-1964	work	postwar	Wozzeck poster	1964	graphic
+sgt-pepper-cover-1967	work	postwar	Sgt. Pepper's Lonely Hearts Club Band cover	1967	graphic *
+recycling-symbol-1970	work	postwar	Recycling symbol	1970	graphic
+quimantu-minilibros-1972	work	postwar	Quimantú Minilibros	1972	graphic
+dot-symbol-signs-1974	work	postwar	DOT passenger and pedestrian symbols	1974	graphic
+festival-britain-emblem-1951	work	postwar	Festival of Britain emblem	1951	graphic
+fillmore-posters-1966	work	postwar	San Francisco psychedelic concert posters	1966	graphic
+black-panther-graphics-1967	work	postwar	The Black Panther newspaper graphics	1967	graphic
+avant-garde-lubalin-1968	work	postwar	Avant Garde magazine and ITC Avant Garde Gothic	1968	graphic
+eames-lcw	work	postwar	Eames LCW chair	1945	product *
+eames-lounge	work	postwar	Eames Lounge Chair and Ottoman	1956	product *
+eames-fiberglass	work	postwar	Eames fibreglass chairs	1950	product
+eames-aluminium	work	postwar	Eames Aluminum Group	1958	product
+tulip-chair	work	postwar	Tulip chair	1956	product *
+womb-chair	work	postwar	Womb chair	1948	product
+ant-chair	work	postwar	Ant chair	1952	product
+series-7-chair	work	postwar	Series 7 chair	1955	product
+egg-chair	work	postwar	Egg chair	1958	product *
+wishbone-chair	work	postwar	Wishbone chair (CH24)	1949	product
+panton-chair	work	postwar	Panton chair	1967	product *
+flowerpot-lamp	work	postwar	Flowerpot lamp	1968	product
+ulm-stool	work	postwar	Ulm stool	1954	product
+braun-sk4	work	postwar	Braun SK 4 radio-phonograph	1956	product *
+braun-606	work	postwar	606 Universal Shelving System	1960	product
+lettera-22	work	postwar	Lettera 22 typewriter	1950	product *
+elea-9003	work	postwar	Olivetti Elea 9003 computer	1959	product
+valentine-typewriter	work	postwar	Valentine typewriter	1969	product
+mirella-sewing-machine	work	postwar	Mirella sewing machine	1957	product
+vespa	work	postwar	Vespa 98	1946	product *
+fiat-500	work	postwar	Fiat 500 (Nuova 500)	1957	product
+citroen-ds	work	postwar	Citroën DS	1955	product *
+mole-armchair	work	postwar	Mole armchair	1957	product *
+bowl-chair	work	postwar	Bowl Chair	1951	product
+cybersyn-opsroom	work	postwar	Cybersyn operations room	1972	product *
+sony-tr63	work	postwar	Sony TR-63 pocket radio	1957	product
+universale-4867	work	postwar	Universale chair 4867	1967	product
+arco-lamp	work	postwar	Arco lamp	1962	product
+superleggera-chair	work	postwar	Superleggera chair	1957	product
+marshmallow-sofa	work	postwar	Marshmallow sofa	1956	product
+tupperware-1946	work	postwar	Tupperware Wonderlier bowl	1946	product *
+noguchi-table-1947	work	postwar	Noguchi coffee table	1947	product
+citroen-2cv-1948	work	postwar	Citroën 2CV	1948	product *
+juhl-chieftain-1949	work	postwar	Chieftain chair	1949	product
+butaque-chair-1950	work	postwar	Butaque chair	1950	product
+bertoia-diamond-1952	work	postwar	Bertoia Diamond chair	1952	product
+ph5-lamp-1958	work	postwar	PH 5 lamp	1958	product
+mini-1959	work	postwar	Austin Mini	1959	product *
+cadillac-eldorado-1959	work	postwar	Cadillac Eldorado (1959)	1959	product *
+ibm-selectric-1961	work	postwar	IBM Selectric typewriter	1961	product
+polypropylene-chair-1963	work	postwar	Polypropylene chair	1963	product *
+brionvega-ts502-1964	work	postwar	Brionvega TS 502 radio	1964	product *
+componibili-1967	work	postwar	Componibili storage unit	1967	product
+action-office-ii-1968	work	postwar	Action Office II	1968	product
+up5-armchair-1969	work	postwar	UP series armchair	1969	product
+vw-golf-1974	work	postwar	Volkswagen Golf Mk1	1974	product
+cisitalia-202-1947	work	postwar	Cisitalia 202	1947	product
+kilta-1953	work	postwar	Kilta tableware	1953	product
+braun-t3-1958	work	postwar	Braun T3 pocket radio	1958	product
+lego-brick-1958	work	postwar	LEGO brick	1958	product
+ball-chair-1963	work	postwar	Ball Chair	1963	product
+falkland-lamp-1964	work	postwar	Falkland lamp	1964	product
+engelbart-demo-1968	work	postwar	NLS and the computer mouse ("Mother of All Demos")	1968	product
+sacco-1968	work	postwar	Sacco bean bag	1968	product
+dior-new-look	work	postwar	Dior ‘Corolle’ collection (New Look)	1947	fashion *
+dior-trapeze	work	postwar	Dior Trapeze line	1958	fashion
+balenciaga-sack-dress	work	postwar	Balenciaga sack dress	1957	fashion *
+chanel-suit	work	postwar	Chanel suit	1954	fashion
+quant-miniskirt	work	postwar	Mary Quant miniskirt	1965	fashion *
+ysl-mondrian-dress	work	postwar	Mondrian dress by Yves Saint Laurent	1965	fashion
+ysl-le-smoking	work	postwar	Le Smoking	1966	fashion *
+courreges-space-age	work	postwar	Courrèges ‘Space Age’ collection	1964	fashion
+cardin-cosmocorps	work	postwar	Pierre Cardin ‘Cosmocorps’ collection	1967	fashion
+rive-gauche-boutique	work	postwar	Saint Laurent Rive Gauche boutique	1966	fashion
+unikko-print	work	postwar	Unikko print	1964	fashion *
+paper-dress	work	postwar	Scott Paper paper dresses	1966	fashion
+bikini-1946	work	postwar	Bikini	1946	fashion *
+day-calyx-1951	work	postwar	Calyx by Lucienne Day	1951	fashion
+girard-herman-miller-textiles-1952	work	postwar	Alexander Girard textiles	1952	fashion
+chanel-255-bag-1955	work	postwar	Chanel 2.55	1955	fashion
+dr-martens-1460-1960	work	postwar	Dr. Martens 1460 boot	1960	fashion
+givenchy-breakfast-1961	work	postwar	Givenchy dress in Breakfast at Tiffany's	1961	fashion
+havaianas-1962	work	postwar	Havaianas	1962	fashion
+zuzu-angel-collection-1971	work	postwar	Zuzu Angel's political collection	1971	fashion
+dvf-wrap-dress-1974	work	postwar	Diane von Furstenberg wrap dress	1974	fashion *
+pucci-prints-1951	work	postwar	Emilio Pucci printed silks	1951	fashion
+rabanne-12-dresses-1966	work	postwar	12 Unwearable Dresses in Contemporary Materials	1966	fashion
+unite-habitation	work	postwar	Unité d’Habitation, Marseille	1952	architecture *
+ronchamp-chapel	work	postwar	Notre-Dame-du-Haut, Ronchamp	1955	architecture *
+seagram-building	work	postwar	Seagram Building	1958	architecture *
+interbau-hansaviertel	work	postwar	Interbau, Hansaviertel, Berlin	1957	architecture
+eames-house	work	postwar	Eames House (Case Study House 8)	1949	architecture
+hfg-ulm-building	work	postwar	HfG Ulm building	1955	architecture
+brasilia-plano-piloto	work	postwar	Brasília: Pilot Plan and Praça dos Três Poderes	1957	architecture *
+alvorada-palace	work	postwar	Palácio da Alvorada	1958	architecture
+brasilia-cathedral	work	postwar	Brasília Cathedral	1970	architecture
+masp	work	postwar	São Paulo Museum of Art (MASP)	1968	architecture *
+casa-de-vidro	work	postwar	Glass House (Casa de Vidro)	1951	architecture
+unam-central-library	work	postwar	UNAM Central Library	1952	architecture
+museo-antropologia-mexico	work	postwar	National Museum of Anthropology, Mexico City	1964	architecture
+cuba-escuelas-arte	work	postwar	National Art Schools, Havana	1961	architecture
+casa-curutchet	work	postwar	Curutchet House	1953	architecture
+pirelli-tower	work	postwar	Pirelli Tower, Milan	1958	architecture
+sas-royal-hotel	work	postwar	SAS Royal Hotel, Copenhagen	1960	architecture
+twa-terminal	work	postwar	TWA Terminal at Idlewild (JFK)	1962	architecture
+nakagin-capsule-tower	work	postwar	Nakagin Capsule Tower	1972	architecture
+fuller-geodesic-dome	work	postwar	United States Pavilion, Expo 67 (geodesic dome)	1967	architecture
+philips-pavilion	work	postwar	Philips Pavilion, Expo 58	1958	architecture
+monumento-continuo	work	postwar	Continuous Monument	1969	architecture *
+no-stop-city	work	postwar	No-Stop City	1970	architecture
+levittown	work	postwar	Levittown	1947	architecture
+casa-barragan-1948	work	postwar	Casa Barragán, Mexico City	1948	architecture *
+chandigarh-1951	work	postwar	Chandigarh Capitol Complex	1951	architecture *
+pruitt-igoe-1954	work	postwar	Pruitt-Igoe	1954	architecture *
+guggenheim-new-york-1959	work	postwar	Solomon R. Guggenheim Museum, New York	1959	architecture *
+yoyogi-gymnasium-1964	work	postwar	Yoyogi National Gymnasium	1964	architecture
+tlatelolco-1964	work	postwar	Nonoalco-Tlatelolco Urban Complex	1964	architecture
+vanna-venturi-house-1964	work	postwar	Vanna Venturi House	1964	architecture *
+plug-in-city-1964	work	postwar	Plug-in City	1964	architecture
+salk-institute-1965	work	postwar	Salk Institute	1965	architecture *
+aterro-flamengo-1965	work	postwar	Parque do Flamengo (Aterro), Rio de Janeiro	1965	architecture
+unidad-vecinal-portales-1966	work	postwar	Unidad Vecinal Portales, Santiago	1966	architecture
+banco-de-londres-1966	work	postwar	Banco de Londres y América del Sur, Buenos Aires	1966	architecture
+fau-usp-1969	work	postwar	FAU-USP, São Paulo	1969	architecture
+ciudad-abierta-1970	work	postwar	Ciudad Abierta (Amereida), Ritoque	1970	architecture *
+munich-olympic-park-1972	work	postwar	Munich Olympic Park	1972	architecture
+sydney-opera-house-1973	work	postwar	Sydney Opera House	1973	architecture *
+curitiba-rit-1974	work	postwar	Curitiba integrated transport network	1974	architecture
+jatiya-sangsad-dhaka-1982	work	postwar	Jatiya Sangsad Bhaban, Dhaka	1962	architecture
+glass-house-1949	work	postwar	Glass House, New Canaan	1949	architecture
+farnsworth-house-1951	work	postwar	Farnsworth House	1951	architecture *
+lever-house-1952	work	postwar	Lever House	1952	architecture
+caracas-ciudad-universitaria-1953	work	postwar	Ciudad Universitaria de Caracas	1953	architecture
+hunstanton-school-1954	work	postwar	Hunstanton School	1954	architecture
+los-manantiales-1958	work	postwar	Los Manantiales Restaurant, Xochimilco	1958	architecture
+atlantida-church-1960	work	postwar	Church of Christ the Worker, Atlántida	1960	architecture
+habitat-67	work	postwar	Habitat 67	1967	architecture
+previ-lima-1969	work	postwar	PREVI Experimental Housing, Lima	1969	architecture
+ctx-cold-war	context	postwar	Cold War and design as a way of life	1947	political
+ctx-marshall-plan	context	postwar	Marshall Plan	1948	political
+ctx-german-reconstruction	context	postwar	Reconstruction and re-education in Germany	1945	political
+ctx-unidad-popular-golpe	context	postwar	Unidad Popular and the coup d’état, 1970–1973	1970	political
+ctx-cuban-revolution	context	postwar	Cuban Revolution	1959	political
+ctx-may-68	context	postwar	May 1968	1968	political
+ctx-brazil-developmentalism	context	postwar	Kubitschek’s developmentalism and “fifty years in five”	1956	political
+ctx-decolonisation	context	postwar	Decolonisation and new capitals	1947	political
+ctx-us-urban-renewal	context	postwar	US urban renewal, public housing and highways	1949	political
+ctx-suez-crisis-1956	context	postwar	Suez Crisis and fuel rationing	1956	political
+ctx-german-italian-miracle	context	postwar	The German and Italian economic “miracles”	1950	economic
+ctx-consumer-society	context	postwar	Consumer society and credit	1950	economic
+ctx-isi-cepal	context	postwar	Import-substituting industrialisation and CEPAL	1948	economic
+ctx-tv-advertising	context	postwar	Television advertising	1950	economic
+ctx-oil-crisis	context	postwar	The 1973 oil crisis	1973	economic
+ctx-jet-tourism	context	postwar	Mass tourism and airports	1958	economic
+ctx-japan-miracle	context	postwar	The Japanese economic “miracle”	1955	economic
+ctx-mass-motorisation	context	postwar	Mass motorisation	1950	economic
+ctx-pret-a-porter	context	postwar	Prêt-à-porter and boutiques	1955	economic
+ctx-mexico-miracle	context	postwar	The “Mexican miracle” and stabilising development	1954	economic
+ctx-corporate-office-boom	context	postwar	The corporate and office boom in the United States	1945	economic
+ctx-knowledge-work	context	postwar	Knowledge work and the screen office	1968	economic
+ctx-baby-boom-suburbs	context	postwar	Baby boom and suburbs	1946	social
+ctx-youth-counterculture	context	postwar	Youth and counterculture	1955	social
+ctx-second-wave-feminism	context	postwar	Second-wave feminism	1963	social
+ctx-ecology	context	postwar	Ecological awareness	1962	social
+ctx-housing-reconstruction	context	postwar	Housing reconstruction and large estates	1945	social
+ctx-nordic-welfare	context	postwar	Nordic welfare state	1945	social
+ctx-latam-urbanisation-1950	context	postwar	Rapid urbanisation in Latin America	1950	social
+ctx-civil-rights	context	postwar	Civil rights and Black Power movements	1954	social
+ctx-pop-art	context	postwar	Pop art	1956	cultural
+ctx-rock-and-pop	context	postwar	Rock and pop music	1955	cultural
+ctx-olympic-games	context	postwar	Olympic Games as total design projects	1964	cultural
+ctx-expo-67	context	postwar	Expo 67 in Montreal	1967	cultural
+ctx-italian-design-culture	context	postwar	Italian design culture	1946	cultural
+ctx-hip-hop	context	postwar	Hip hop	1973	cultural
+ctx-festival-of-britain	context	postwar	Festival of Britain	1951	cultural
+ctx-transistor	context	postwar	Transistor	1947	technological
+ctx-mainframe-computing	context	postwar	Mainframe computing	1946	technological
+ctx-space-race	context	postwar	Space race and the Moon landing	1957	technological
+ctx-jet-age	context	postwar	Jet age	1952	technological
+ctx-plastics	context	postwar	Plastics and petrochemicals	1945	technological
+ctx-phototypesetting	context	postwar	Phototypesetting	1950	technological
+fibreglass-polyester	production	postwar	Fibreglass and polyester	1946	
+polyurethane-foam	production	postwar	Polyurethane foam	1950	
+thermoplastics	production	postwar	Thermoplastics (ABS and polypropylene)	1950	
+synthetic-fibres	production	postwar	Synthetic fibres (polyester and elastane)	1950	
+pvc-vinyl	production	postwar	PVC and vinyl	1955	
+prestressed-concrete	production	postwar	Prestressed concrete and thin shells	1945	
+aluminium-alloys	production	postwar	Aluminium alloys	1945	
+injection-moulding	production	postwar	Injection moulding	1945	
+flat-pack	production	postwar	Flat-pack furniture	1956	
+screen-printing	production	postwar	Screen printing	1945	
+modular-systems	production	postwar	Modular systems and grids	1945	
+prefab-panels	production	postwar	Prefabricated panels	1945	
+letraset	production	postwar	Letraset	1961	
+telex-network	production	postwar	Telex network	1945	
+modulor	production	postwar	Modulor	1948	
+photocopying	production	postwar	Xerography and the photocopier	1959	
+th-rand-thoughts-on-design	theory	postwar	Thoughts on Design	1947	 *
+th-gute-form	theory	postwar	Die gute Form	1949	 *
+th-designing-for-people	theory	postwar	Designing for People	1955	
+th-hidden-persuaders	theory	postwar	The Hidden Persuaders	1957	
+th-waste-makers	theory	postwar	The Waste Makers	1960	
+th-neue-grafik	theory	postwar	Neue Grafik (New Graphic Design)	1958	 *
+th-first-things-first	theory	postwar	First Things First	1964	 *
+th-notes-synthesis-form	theory	postwar	Notes on the Synthesis of Form	1964	
+th-understanding-media	theory	postwar	Understanding Media	1964	
+th-design-for-the-real-world	theory	postwar	Design for the Real World	1971	 *
+th-learning-from-las-vegas	theory	postwar	Learning from Las Vegas	1972	 *
+th-never-leave-well-enough-alone	theory	postwar	Never Leave Well Enough Alone	1951	
+th-new-brutalism-banham	theory	postwar	The New Brutalism (Banham)	1955	
+th-measure-of-man-1960	theory	postwar	The Measure of Man	1960	
+th-metabolism-1960	theory	postwar	Metabolism: The Proposals for New Urbanism	1960	
+th-theory-design-machine-age	theory	postwar	Theory and Design in the First Machine Age	1960	 *
+th-death-life-great-american-cities	theory	postwar	The Death and Life of Great American Cities	1961	 *
+th-architecture-without-architects	theory	postwar	Architecture Without Architects	1964	
+th-complexity-contradiction	theory	postwar	Complexity and Contradiction in Architecture	1966	 *
+th-architettura-della-citta	theory	postwar	The Architecture of the City	1966	
+th-barthes-fashion-system	theory	postwar	Système de la mode	1967	
+th-life-between-buildings	theory	postwar	Life Between Buildings	1971	
+th-giedion-mechanization-1948	theory	postwar	Mechanization Takes Command	1948	
+th-barthes-mythologies-1957	theory	postwar	Mythologies	1957	
+th-lynch-image-city-1960	theory	postwar	The Image of the City	1960	
+th-albers-interaction-color-1963	theory	postwar	Interaction of Color	1963	
+th-munari-arte-come-mestiere-1966	theory	postwar	Design as Art (Arte come mestiere)	1966	
+th-ruder-typographie-1967	theory	postwar	Typographie	1967	
+th-simon-sciences-artificial-1969	theory	postwar	The Sciences of the Artificial	1969	
+th-maldonado-speranza-1970	theory	postwar	La speranza progettuale (Design, Nature, and Revolution)	1970	
+th-rittel-webber-1973	theory	postwar	Dilemmas in a General Theory of Planning	1973	
+th-mari-autoprogettazione-1974	theory	postwar	Autoprogettazione	1974	
+memphis	movement	postmodern	Memphis	1981	 *
+alchimia	movement	postmodern	Alchimia	1976	
+deconstructivism	movement	postmodern	Deconstructivism	1982	 *
+new-wave-typography	movement	postmodern	New Wave and experimental typography	1975	 *
+critical-speculative-design	movement	postmodern	Critical and speculative design	1990	
+sustainable-design	movement	postmodern	Sustainable design	1990	 *
+interaction-design	movement	postmodern	Interaction design	1984	 *
+critical-regionalism	movement	postmodern	Critical regionalism	1981	 *
+new-urbanism	movement	postmodern	New Urbanism	1981	
+architectural-minimalism	movement	postmodern	Architectural minimalism	1985	
+green-architecture	movement	postmodern	Green and bioclimatic architecture	1990	
+participatory-social-architecture	movement	postmodern	Participatory and socially engaged architecture	1990	 *
+digital-architecture	movement	postmodern	Digital architecture and blobitecture	1993	
+landscape-urbanism	movement	postmodern	Landscape urbanism	1982	
+parametricism	movement	postmodern	Parametricism	2008	
+punk-fashion	movement	postmodern	Punk	1976	
+streetwear	movement	postmodern	Streetwear	1980	
+japanese-avant-garde-fashion	movement	postmodern	Japanese avant-garde fashion	1981	
+universal-design	movement	postmodern	Universal design	1985	
+minimalism-fashion-product	movement	postmodern	Minimalism in fashion and product design	1988	
+inst-memphis-group	institution	postmodern	Memphis Group	1981	
+inst-apple	institution	postmodern	Apple	1976	 *
+inst-ideo	institution	postmodern	IDEO	1991	
+inst-emigre	institution	postmodern	Emigre	1984	
+inst-alessi	institution	postmodern	Alessi	1975	
+inst-vitra-design-museum	institution	postmodern	Vitra Design Museum	1989	
+inst-droog	institution	postmodern	Droog Design	1993	
+inst-elemental	institution	postmodern	Elemental	2001	
+inst-zara	institution	postmodern	Zara (Inditex)	1975	
+inst-muji	institution	postmodern	Muji	1980	
+inst-frog-design	institution	postmodern	frog design	1975	
+inst-design-museum-london	institution	postmodern	Design Museum, London	1989	
+inst-aga-khan-award	institution	postmodern	Aga Khan Award for Architecture	1977	
+inst-pritzker	institution	postmodern	Pritzker Architecture Prize	1979	 *
+inst-venice-architecture-biennale	institution	postmodern	Venice Architecture Biennale	1980	 *
+inst-cnu	institution	postmodern	Congress for the New Urbanism	1993	
+inst-rural-studio	institution	postmodern	Rural Studio	1993	
+inst-fashion-revolution	institution	postmodern	Fashion Revolution	2013	
+zuzana-licko	designer	postmodern	Zuzana Licko	1961	 *
+david-carson	designer	postmodern	David Carson	1954	 *
+neville-brody	designer	postmodern	Neville Brody	1957	
+april-greiman	designer	postmodern	April Greiman	1948	
+paula-scher	designer	postmodern	Paula Scher	1948	
+stefan-sagmeister	designer	postmodern	Stefan Sagmeister	1962	
+shepard-fairey	designer	postmodern	Shepard Fairey	1970	
+equipo-campana-del-no	designer	postmodern	Campaign team for the NO	1988	
+matthew-carter	designer	postmodern	Matthew Carter	1937	
+michele-de-lucchi	designer	postmodern	Michele De Lucchi	1951	
+alessandro-mendini	designer	postmodern	Alessandro Mendini	1931	
+philippe-starck	designer	postmodern	Philippe Starck	1949	 *
+ron-arad	designer	postmodern	Ron Arad	1951	
+marc-newson	designer	postmodern	Marc Newson	1963	
+jasper-morrison	designer	postmodern	Jasper Morrison	1959	
+jonathan-ive	designer	postmodern	Jonathan Ive	1967	 *
+hartmut-esslinger	designer	postmodern	Hartmut Esslinger	1944	
+james-dyson	designer	postmodern	James Dyson	1947	
+hermanos-campana	designer	postmodern	Fernando and Humberto Campana	1953	 *
+vivienne-westwood	designer	postmodern	Vivienne Westwood	1941	 *
+martin-margiela	designer	postmodern	Martin Margiela	1957	
+alexander-mcqueen	designer	postmodern	Alexander McQueen	1969	
+rei-kawakubo	designer	postmodern	Rei Kawakubo	1942	 *
+yohji-yamamoto	designer	postmodern	Yohji Yamamoto	1943	 *
+jean-paul-gaultier	designer	postmodern	Jean Paul Gaultier	1952	
+arpilleristas	designer	postmodern	Arpilleristas chilenas	1974	
+alejandro-aravena	designer	postmodern	Alejandro Aravena	1967	 *
+paulo-mendes-da-rocha	designer	postmodern	Paulo Mendes da Rocha	1928	
+rogelio-salmona	designer	postmodern	Rogelio Salmona	1927	
+smiljan-radic	designer	postmodern	Smiljan Radic	1965	
+frank-gehry	designer	postmodern	Frank Gehry	1929	 *
+zaha-hadid	designer	postmodern	Zaha Hadid	1950	 *
+michael-graves	designer	postmodern	Michael Graves	1934	
+rem-koolhaas	designer	postmodern	Rem Koolhaas	1944	 *
+renzo-piano	designer	postmodern	Renzo Piano	1937	
+richard-rogers	designer	postmodern	Richard Rogers	1933	
+charles-moore	designer	postmodern	Charles Moore	1925	
+aldo-rossi	designer	postmodern	Aldo Rossi	1931	
+duany-plater-zyberk	designer	postmodern	Andrés Duany and Elizabeth Plater-Zyberk	1949	
+james-stirling	designer	postmodern	James Stirling	1926	
+philip-johnson	designer	postmodern	Philip Johnson	1906	 *
+norman-foster	designer	postmodern	Norman Foster	1935	 *
+rafael-moneo	designer	postmodern	Rafael Moneo	1937	
+jean-nouvel	designer	postmodern	Jean Nouvel	1945	
+bernard-tschumi	designer	postmodern	Bernard Tschumi	1944	
+ieoh-ming-pei	designer	postmodern	I. M. Pei	1917	
+tadao-ando	designer	postmodern	Tadao Ando	1941	
+oriol-bohigas	designer	postmodern	Oriol Bohigas	1925	
+glenn-murcutt	designer	postmodern	Glenn Murcutt	1936	
+shigeru-ban	designer	postmodern	Shigeru Ban	1957	
+peter-zumthor	designer	postmodern	Peter Zumthor	1943	
+cesar-pelli	designer	postmodern	César Pelli	1926	
+daniel-libeskind	designer	postmodern	Daniel Libeskind	1946	
+alvaro-siza	designer	postmodern	Álvaro Siza	1933	
+herzog-de-meuron	designer	postmodern	Herzog & de Meuron	1950	 *
+toyo-ito	designer	postmodern	Toyo Ito	1941	
+francis-kere	designer	postmodern	Francis Kéré	1965	
+sanaa	designer	postmodern	SANAA (Kazuyo Sejima and Ryue Nishizawa)	1995	
+peter-eisenman	designer	postmodern	Peter Eisenman	1932	
+pezo-von-ellrichshausen	designer	postmodern	Pezo von Ellrichshausen	2002	
+giancarlo-mazzanti	designer	postmodern	Giancarlo Mazzanti	1963	
+wang-shu	designer	postmodern	Wang Shu	1963	
+adrian-smith	designer	postmodern	Adrian Smith	1944	
+lacaton-vassal	designer	postmodern	Anne Lacaton and Jean-Philippe Vassal	1955	
+stefano-boeri	designer	postmodern	Stefano Boeri	1956	
+giorgio-armani	designer	postmodern	Giorgio Armani	1934	 *
+issey-miyake	designer	postmodern	Issey Miyake	1938	
+stella-mccartney	designer	postmodern	Stella McCartney	1971	
+iris-van-herpen	designer	postmodern	Iris van Herpen	1984	
+virgil-abloh	designer	postmodern	Virgil Abloh	1980	
+rob-janoff	designer	postmodern	Rob Janoff	1954	
+gilbert-baker	designer	postmodern	Gilbert Baker	1951	
+javier-mariscal	designer	postmodern	Javier Mariscal	1950	
+erik-spiekermann	designer	postmodern	Erik Spiekermann	1947	
+shigetaka-kurita	designer	postmodern	Shigetaka Kurita	1972	
+tobias-frere-jones	designer	postmodern	Tobias Frere-Jones	1970	
+rick-dickinson	designer	postmodern	Rick Dickinson	1957	
+dietrich-lubs	designer	postmodern	Dietrich Lubs	1938	
+tejo-remy	designer	postmodern	Tejo Remy	1960	
+bill-stumpf	designer	postmodern	Bill Stumpf	1936	
+don-chadwick	designer	postmodern	Don Chadwick	1936	
+denise-scott-brown	designer	postmodern	Denise Scott Brown	1931	
+diller-scofidio-renfro	designer	postmodern	Diller Scofidio + Renfro	1979	
+miuccia-prada	designer	postmodern	Miuccia Prada	1949	
+karl-lagerfeld	designer	postmodern	Karl Lagerfeld	1933	
+donna-karan	designer	postmodern	Donna Karan	1948	
+marc-jacobs	designer	postmodern	Marc Jacobs	1963	
+helmut-lang	designer	postmodern	Helmut Lang	1956	
+jamie-reid	designer	postmodern	Jamie Reid	1947	
+wolfgang-weingart	designer	postmodern	Wolfgang Weingart	1941	
+peter-saville	designer	postmodern	Peter Saville	1955	
+toru-iwatani	designer	postmodern	Toru Iwatani	1955	
+katherine-mccoy	designer	postmodern	Katherine McCoy	1945	
+oliviero-toscani	designer	postmodern	Oliviero Toscani	1942	
+muriel-cooper	designer	postmodern	Muriel Cooper	1925	
+bill-moggridge	designer	postmodern	Bill Moggridge	1943	
+shiro-kuramata	designer	postmodern	Shiro Kuramata	1934	
+gunpei-yokoi	designer	postmodern	Gunpei Yokoi	1941	
+naoto-fukasawa	designer	postmodern	Naoto Fukasawa	1956	
+susan-kare	designer	postmodern	Susan Kare	1954	 *
+kare-chicago-geneva-1984	work	postmodern	Chicago and Geneva typefaces	1984	graphic
+i-love-ny-1977	work	postmodern	I ♥ NY logo	1977	graphic *
+emigre-magazine-1984	work	postmodern	Emigre magazine	1984	graphic *
+emigre-bitmap-fonts-1985	work	postmodern	Emigre bitmap fonts	1985	graphic
+ray-gun-1992	work	postmodern	Ray Gun magazine	1992	graphic *
+the-face-1981	work	postmodern	The Face magazine	1981	graphic
+design-quarterly-133-1986	work	postmodern	Design Quarterly 133	1986	graphic
+public-theater-identity-1994	work	postmodern	Public Theater identity	1994	graphic
+citibank-logo-1998	work	postmodern	Citibank logo	1998	graphic
+aiga-detroit-poster-1999	work	postmodern	AIGA Detroit lecture poster	1999	graphic
+hope-poster-2008	work	postmodern	Hope poster	2008	graphic *
+franja-del-no-1988	work	postmodern	NO campaign slot and logo	1988	graphic *
+patagonia-dont-buy-this-jacket-2011	work	postmodern	Patagonia ‘Don’t Buy This Jacket’ ad	2011	graphic
+first-website-1991	work	postmodern	First CERN website	1991	graphic *
+verdana-1996	work	postmodern	Verdana	1996	graphic
+bell-centennial-1978	work	postmodern	Bell Centennial	1978	graphic
+think-different-1997	work	postmodern	Apple ‘Think Different’ campaign	1997	graphic
+material-design-2014	work	postmodern	Google Material Design	2014	graphic
+mtv-logo-1981	work	postmodern	MTV logo	1981	graphic *
+wired-magazine-1993	work	postmodern	Wired magazine	1993	graphic
+frutiger-typeface-1975	work	postmodern	Frutiger	1975	graphic
+nasa-worm-logo-1975	work	postmodern	NASA worm logo and graphics standards	1975	graphic
+apple-rainbow-logo-1977	work	postmodern	Apple rainbow logo	1977	graphic
+rainbow-flag-1978	work	postmodern	Rainbow flag	1978	graphic
+xerox-star-interface-1981	work	postmodern	Xerox Star interface	1981	graphic *
+cobi-1987	work	postmodern	Cobi, mascot of Barcelona 1992	1987	graphic
+ff-meta-1991	work	postmodern	FF Meta	1991	graphic
+emoji-1999	work	postmodern	NTT DoCoMo emoji	1999	graphic
+gotham-2000	work	postmodern	Gotham	2000	graphic
+windows-phone-metro-2010	work	postmodern	Windows Phone Metro design language	2010	graphic
+sniffin-glue-1976	work	postmodern	Sniffin' Glue fanzine	1976	graphic
+god-save-the-queen-1977	work	postmodern	God Save the Queen (Sex Pistols)	1977	graphic *
+weingart-posters-1977	work	postmodern	Posters by Wolfgang Weingart	1977	graphic
+unknown-pleasures-1979	work	postmodern	Unknown Pleasures (Joy Division)	1979	graphic
+pac-man-1980	work	postmodern	Pac-Man	1980	graphic
+silence-equals-death-1987	work	postmodern	Silence = Death	1987	graphic
+cranbrook-new-discourse-1989	work	postmodern	Cranbrook Design: The New Discourse (poster)	1989	graphic
+benetton-toscani-1989	work	postmodern	United Colors of Benetton campaigns	1989	graphic
+information-landscapes-1994	work	postmodern	Information Landscapes	1994	graphic
+windows-95-1995	work	postmodern	Windows 95 interface	1995	graphic
+cdc-sars-cov-2-illustration-2020	work	postmodern	CDC illustration of SARS-CoV-2	2020	graphic
+cosmopolitan-ai-cover-2022	work	postmodern	Cosmopolitan cover made with DALL·E 2	2022	graphic
+carlton-bookcase-1981	work	postmodern	Carlton bookcase	1981	product *
+first-chair-1983	work	postmodern	First chair	1983	product
+proust-armchair-1978	work	postmodern	Proust armchair	1978	product
+kettle-9093-1985	work	postmodern	Kettle 9093	1985	product *
+anna-g-corkscrew-1994	work	postmodern	Anna G corkscrew	1994	product
+juicy-salif-1990	work	postmodern	Juicy Salif	1990	product *
+well-tempered-chair-1986	work	postmodern	Well Tempered Chair	1986	product
+lockheed-lounge-1986	work	postmodern	Lockheed Lounge	1986	product
+air-chair-1999	work	postmodern	Air-Chair	1999	product
+swatch-1983	work	postmodern	Swatch watch	1983	product *
+apple-iic-1984	work	postmodern	Apple IIc	1984	product
+imac-1998	work	postmodern	iMac	1998	product *
+ipod-2001	work	postmodern	iPod	2001	product
+iphone-2007	work	postmodern	iPhone	2007	product *
+macbook-air-2008	work	postmodern	MacBook Air	2008	product
+sony-walkman-1979	work	postmodern	Sony Walkman TPS-L2	1979	product *
+dyson-dc01-1993	work	postmodern	Dyson DC01 vacuum cleaner	1993	product
+oxo-good-grips-1990	work	postmodern	OXO Good Grips kitchen tools	1990	product
+fairphone-2013	work	postmodern	Fairphone	2013	product
+favela-chair-1991	work	postmodern	Favela chair	1991	product *
+vermelha-chair-1998	work	postmodern	Vermelha chair	1998	product
+banquete-chair-2006	work	postmodern	Banquete chair	2006	product
+zx-spectrum-1982	work	postmodern	Sinclair ZX Spectrum	1982	product
+macintosh-128k-1984	work	postmodern	Macintosh 128K	1984	product *
+braun-et66-1987	work	postmodern	Braun ET 66 calculator	1987	product
+rag-chair-1991	work	postmodern	Rag chair	1991	product
+thinkpad-700c-1992	work	postmodern	IBM ThinkPad 700C	1992	product
+freitag-messenger-1993	work	postmodern	Freitag messenger bag	1993	product
+aeron-chair-1994	work	postmodern	Aeron chair	1994	product *
+toyota-prius-1997	work	postmodern	Toyota Prius	1997	product
+louis-ghost-2002	work	postmodern	Louis Ghost chair	2002	product
+ikea-billy-1979	work	postmodern	Billy bookcase	1979	product
+grid-compass-1982	work	postmodern	GRiD Compass	1982	product
+how-high-the-moon-1986	work	postmodern	How High the Moon armchair	1986	product
+game-boy-1989	work	postmodern	Game Boy	1989	product
+muji-cd-player-1999	work	postmodern	Muji wall-mounted CD player	1999	product
+westwood-punk-1976	work	postmodern	Westwood and McLaren punk clothes	1976	fashion *
+westwood-pirates-1981	work	postmodern	Pirates collection	1981	fashion
+margiela-tabi-1988	work	postmodern	Margiela Tabi boot	1988	fashion
+mcqueen-highland-rape-1995	work	postmodern	Highland Rape by McQueen	1995	fashion
+mcqueen-skull-scarf-2003	work	postmodern	McQueen skull scarf	2003	fashion
+mcqueen-plato-atlantis-2010	work	postmodern	Plato’s Atlantis by McQueen	2010	fashion
+paris-debut-1981	work	postmodern	Kawakubo and Yamamoto's Paris debut	1981	fashion *
+gaultier-cone-bra-1990	work	postmodern	Gaultier's cone bra corset	1990	fashion *
+nike-air-max-1987	work	postmodern	Nike Air Max 1	1987	fashion
+air-jordan-1-1985	work	postmodern	Air Jordan 1	1985	fashion *
+prada-nylon-backpack-1984	work	postmodern	Prada nylon backpack	1984	fashion
+patagonia-synchilla-1985	work	postmodern	Patagonia Synchilla fleece	1985	fashion
+arpilleras-1974	work	postmodern	Chilean arpilleras	1976	fashion *
+armani-american-gigolo-1980	work	postmodern	Armani unstructured jacket and American Gigolo	1980	fashion *
+run-dmc-adidas-1986	work	postmodern	Run-DMC and Adidas Superstar	1986	fashion
+miyake-a-poc-1998	work	postmodern	Issey Miyake A-POC	1998	fashion
+stella-mccartney-label-2001	work	postmodern	Stella McCartney label	2001	fashion
+van-herpen-crystallization-2010	work	postmodern	Iris van Herpen Crystallization	2010	fashion
+off-white-the-ten-2017	work	postmodern	Off-White x Nike The Ten	2017	fashion
+lagerfeld-chanel-1983	work	postmodern	Karl Lagerfeld at Chanel	1983	fashion
+seven-easy-pieces-1985	work	postmodern	Seven Easy Pieces	1985	fashion
+grunge-perry-ellis-1992	work	postmodern	Grunge collection for Perry Ellis	1992	fashion
+body-meets-dress-1997	work	postmodern	Body Meets Dress, Dress Meets Body	1997	fashion
+helmut-lang-1998	work	postmodern	Helmut Lang minimalism and online show	1998	fashion
+quinta-monroy-2004	work	postmodern	Quinta Monroy	2004	architecture *
+villa-verde-2013	work	postmodern	Villa Verde, Constitución	2013	architecture
+sesc-pompeia-1986	work	postmodern	SESC Pompéia	1986	architecture
+teatro-oficina-1984	work	postmodern	Teatro Oficina	1984	architecture
+mube-1988	work	postmodern	Brazilian Sculpture Museum (MuBE)	1988	architecture
+biblioteca-virgilio-barco-2001	work	postmodern	Virgilio Barco Library	2001	architecture
+mestizo-restaurant-2007	work	postmodern	Mestizo Restaurant	2007	architecture
+portland-building-1982	work	postmodern	Portland Building	1982	architecture *
+humana-building-1985	work	postmodern	Humana Building	1985	architecture
+guggenheim-bilbao-1997	work	postmodern	Guggenheim Museum Bilbao	1997	architecture *
+walt-disney-hall-2003	work	postmodern	Walt Disney Concert Hall	2003	architecture
+gehry-house-1978	work	postmodern	Gehry House, Santa Monica	1978	architecture
+vitra-design-museum-1989	work	postmodern	Vitra Design Museum	1989	architecture
+vitra-fire-station-1993	work	postmodern	Vitra Fire Station	1993	architecture *
+seattle-library-2004	work	postmodern	Seattle Central Library	2004	architecture *
+kunsthal-rotterdam-1992	work	postmodern	Kunsthal Rotterdam	1992	architecture
+pompidou-centre-1977	work	postmodern	Centre Pompidou	1977	architecture *
+piazza-d-italia-1978	work	postmodern	Piazza d'Italia, New Orleans	1978	architecture
+teatro-del-mondo-1979	work	postmodern	Teatro del Mondo, Venice	1979	architecture
+strada-novissima-1980	work	postmodern	Strada Novissima (Venice Biennale)	1980	architecture
+seaside-florida-1981	work	postmodern	Seaside, Florida	1981	architecture
+staatsgalerie-stuttgart-1984	work	postmodern	Neue Staatsgalerie, Stuttgart	1984	architecture
+att-building-1984	work	postmodern	AT&T Building, New York	1984	architecture *
+hsbc-hong-kong-1986	work	postmodern	HSBC Headquarters, Hong Kong	1986	architecture *
+lloyds-building-1986	work	postmodern	Lloyd's Building, London	1986	architecture
+museo-romano-merida-1986	work	postmodern	National Museum of Roman Art, Mérida	1986	architecture
+institut-monde-arabe-1987	work	postmodern	Institut du Monde Arabe	1987	architecture
+parc-de-la-villette-1987	work	postmodern	Parc de la Villette	1987	architecture *
+louvre-pyramid-1989	work	postmodern	Louvre Pyramid	1989	architecture
+church-of-the-light-1989	work	postmodern	Church of the Light, Ibaraki	1989	architecture *
+barcelona-olympic-village-1992	work	postmodern	Barcelona Olympic Village and waterfront	1992	architecture
+kansai-airport-1994	work	postmodern	Kansai International Airport	1994	architecture
+marika-alderton-house-1994	work	postmodern	Marika-Alderton House	1994	architecture
+paper-church-kobe-1995	work	postmodern	Paper Church (Takatori), Kobe	1995	architecture
+therme-vals-1996	work	postmodern	Therme Vals	1996	architecture
+petronas-towers-1996	work	postmodern	Petronas Towers, Kuala Lumpur	1996	architecture
+jewish-museum-berlin-1999	work	postmodern	Jewish Museum Berlin	1999	architecture *
+reichstag-dome-1999	work	postmodern	Reichstag Dome, Berlin	1999	architecture
+serralves-museum-1999	work	postmodern	Serralves Museum, Porto	1999	architecture
+tate-modern-2000	work	postmodern	Tate Modern, London	2000	architecture *
+sendai-mediatheque-2001	work	postmodern	Sendai Mediatheque	2001	architecture
+gando-school-2001	work	postmodern	Gando Primary School	2001	architecture *
+kanazawa-museum-2004	work	postmodern	21st Century Museum of Contemporary Art, Kanazawa	2004	architecture
+metrocable-medellin-2004	work	postmodern	Metrocable, Medellín	2004	architecture
+holocaust-memorial-berlin-2005	work	postmodern	Memorial to the Murdered Jews of Europe	2005	architecture
+casa-poli-2005	work	postmodern	Poli House, Coliumo	2005	architecture
+parque-biblioteca-espana-2007	work	postmodern	Parque Biblioteca España, Medellín	2007	architecture
+birds-nest-2008	work	postmodern	Beijing National Stadium (Bird's Nest)	2008	architecture
+ningbo-history-museum-2008	work	postmodern	Ningbo History Museum	2008	architecture
+burj-khalifa-2010	work	postmodern	Burj Khalifa	2010	architecture
+museo-memoria-santiago-2010	work	postmodern	Museum of Memory and Human Rights, Santiago	2010	architecture
+tour-bois-le-pretre-2011	work	postmodern	Tour Bois-le-Prêtre, Paris	2011	architecture
+cctv-headquarters-2012	work	postmodern	CCTV Headquarters, Beijing	2012	architecture
+heydar-aliyev-center-2012	work	postmodern	Heydar Aliyev Center, Baku	2012	architecture
+cardboard-cathedral-2013	work	postmodern	Cardboard Cathedral, Christchurch	2013	architecture
+bosco-verticale-2014	work	postmodern	Bosco Verticale, Milan	2014	architecture
+sainsbury-wing-1991	work	postmodern	Sainsbury Wing, National Gallery	1991	architecture
+high-line-2009	work	postmodern	High Line, New York	2009	architecture
+elbphilharmonie-2017	work	postmodern	Elbphilharmonie, Hamburg	2017	architecture
+macintosh-icons-1984	work	postmodern	Macintosh icons	1984	graphic *
+ctx-neoliberalism	context	postmodern	Neoliberalism and deregulation	1975	political
+ctx-chile-dictatorship	context	postmodern	Military dictatorship in Chile	1975	political
+ctx-plebiscite-1988	context	postmodern	Chilean plebiscite of 1988	1988	political
+ctx-obama-2008	context	postmodern	Obama presidential campaign	2008	political
+ctx-spain-transition-eu	context	postmodern	Spain's democratic transition and European integration	1975	political
+ctx-german-reunification	context	postmodern	German reunification and the new Berlin	1989	political
+ctx-globalisation	context	postmodern	Globalisation and offshoring	1980	economic
+ctx-branding	context	postmodern	Global brands and branding	1980	economic
+ctx-crisis-2008	context	postmodern	Financial crisis of 2008	2008	economic
+ctx-nyc-fiscal-crisis	context	postmodern	New York fiscal crisis	1975	economic
+ctx-japan-consumer-economy	context	postmodern	Japan's economic and consumer boom	1975	economic
+ctx-chile-market-economy	context	postmodern	Market economy in Chile	1975	economic
+ctx-platform-economy	context	postmodern	Platform economy	2008	economic
+ctx-deindustrialisation-regeneration	context	postmodern	Deindustrialisation and urban regeneration	1975	economic
+ctx-fast-fashion	context	postmodern	Fast fashion	1990	economic
+ctx-asian-gulf-boom	context	postmodern	East Asian and Gulf megacity boom	1990	economic
+ctx-luxury-conglomerates	context	postmodern	Luxury conglomerates and the global fashion system	1987	economic
+ctx-rana-plaza	context	postmodern	Rana Plaza collapse	2013	economic
+ctx-feminisms	context	postmodern	Feminisms and new gender identities	1975	social
+ctx-climate-crisis	context	postmodern	Climate crisis and sustainability	1990	social
+ctx-urban-informality	context	postmodern	Urban informality and housing deficit	1975	social
+ctx-ageing-accessibility	context	postmodern	Ageing and accessible design	1980	social
+ctx-human-rights-resistance	context	postmodern	Resistance and human rights under dictatorships	1975	social
+ctx-natural-disasters-humanitarian	context	postmodern	Earthquakes and humanitarian emergency housing	1995	social
+ctx-social-urbanism-medellin	context	postmodern	Social urbanism in Medellín	1995	social
+ctx-aids-crisis	context	postmodern	AIDS crisis	1981	social
+ctx-covid-19	context	postmodern	COVID-19 pandemic	2020	social
+ctx-punk	context	postmodern	Punk and youth subcultures	1976	cultural
+ctx-postmodern-culture	context	postmodern	Postmodern culture	1975	cultural
+ctx-mtv-club	context	postmodern	MTV and club culture	1981	cultural
+ctx-internet-culture	context	postmodern	Internet culture and social media	1995	cultural
+ctx-design-museums	context	postmodern	Design museums and the spectacle city	1980	cultural
+ctx-latin-popular-craft	context	postmodern	Latin American craft and popular culture	1975	cultural
+ctx-crisis-functionalism	context	postmodern	Crisis of functionalism	1975	cultural
+ctx-memory-culture	context	postmodern	Memory culture and remembrance of mass violence	1985	cultural
+ctx-star-architecture	context	postmodern	Star architecture and the Bilbao effect	1989	cultural
+ctx-desktop-publishing	context	postmodern	Desktop publishing and digital type	1984	technological
+ctx-web	context	postmodern	The web	1991	technological
+ctx-smartphone	context	postmodern	Mobile phone and smartphone	1990	technological
+ctx-microelectronics	context	postmodern	Microelectronics and miniaturisation	1975	technological
+ctx-digital-music	context	postmodern	Portable digital music	1995	technological
+ctx-digital-fabrication	context	postmodern	Computer-aided design and digital fabrication	1980	technological
+ctx-generative-ai	context	postmodern	Generative artificial intelligence	2022	technological
+ctx-personal-computer	context	postmodern	The personal computer	1977	technological
+plastic-laminate	production	postmodern	Decorative plastic laminate	1981	
+polycarbonate-shell	production	postmodern	Translucent polycarbonate shells	1998	
+scrap-materials	production	postmodern	Scrap and recovered materials	1975	
+recycled-biomaterials	production	postmodern	Recycled materials and biomaterials	1990	
+postscript	production	postmodern	PostScript	1985	
+cad-cam	production	postmodern	Computer-aided design and manufacturing	1980	
+rapid-prototyping	production	postmodern	Rapid prototyping and 3D printing	1990	
+quick-response	production	postmodern	Quick-response supply chain	1975	
+cnc-unibody	production	postmodern	Unibody CNC machining	2008	
+pagemaker	production	postmodern	PageMaker and desktop publishing	1985	
+fontographer	production	postmodern	Fontographer and digital typography	1986	
+photoshop	production	postmodern	Adobe Photoshop	1990	
+multitouch	production	postmodern	Multi-touch screen	2007	
+web-type-css	production	postmodern	HTML, CSS and screen typography	1991	
+generative-image-models	production	postmodern	Text-to-image generative models	2022	
+th-rams-ten-principles	theory	postmodern	Dieter Rams’s ten principles of good design	1980	
+th-grid-systems	theory	postmodern	Grid Systems in Graphic Design	1981	
+th-design-everyday-things	theory	postmodern	The Design of Everyday Things	1988	 *
+th-incomplete-manifesto	theory	postmodern	Incomplete Manifesto for Growth	1998	
+th-first-things-first-2000	theory	postmodern	First Things First 2000	1999	
+th-no-logo	theory	postmodern	No Logo	1999	 *
+th-cradle-to-cradle	theory	postmodern	Cradle to Cradle	2002	
+th-design-thinking-brown	theory	postmodern	Design Thinking	2008	
+th-speculative-everything	theory	postmodern	Speculative Everything	2013	
+th-language-postmodern-architecture	theory	postmodern	The Language of Post-Modern Architecture	1977	 *
+th-pattern-language	theory	postmodern	A Pattern Language	1977	
+th-delirious-new-york	theory	postmodern	Delirious New York	1978	
+th-visual-display-quantitative-information	theory	postmodern	The Visual Display of Quantitative Information	1983	
+th-towards-critical-regionalism	theory	postmodern	Towards a Critical Regionalism	1983	 *
+th-deconstructivist-architecture	theory	postmodern	Deconstructivist Architecture (MoMA exhibition)	1988	 *
+th-sml-xl	theory	postmodern	S, M, L, XL	1995	
+th-charter-new-urbanism	theory	postmodern	Charter of the New Urbanism	1996	
+th-eyes-of-the-skin	theory	postmodern	The Eyes of the Skin	1996	
+th-parametricism-manifesto	theory	postmodern	Parametricism Manifesto	2008	
+th-bonsiepe-dependencia-1978	theory	postmodern	Industrial design, technology and dependence	1978	
+th-hebdige-subculture-1979	theory	postmodern	Subculture: The Meaning of Style	1979	
+th-forty-objects-desire-1986	theory	postmodern	Objects of Desire: Design and Society since 1750	1986	
+th-brundtland-1987	theory	postmodern	Our Common Future (Brundtland Report)	1987	

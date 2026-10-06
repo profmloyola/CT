@@ -1,0 +1,2379 @@
+{
+ "designers": [
+  {
+   "id": "gropius",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1883,
+   "died": 1969,
+   "dates": "1883–1969",
+   "countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Walter Gropius",
+   "movements": [
+    "bauhaus-movement",
+    "new-objectivity",
+    "international-style"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-weissenhof"
+   ],
+   "key": "German architect who founded the Bauhaus in 1919 and directed it until 1928, joining art, craft and industry in one school.[1][2]",
+   "more": "After serving in the First World War he founded the Bauhaus in Weimar in 1919 and designed its new building and the masters’ houses in Dessau in 1925–26, as well as the Törten housing estate.[1] He left the directorship in 1928 to work in Berlin.[1] Under Nazism he emigrated to London in 1934 and in 1937 to Harvard, where he taught a generation of American architects.[1][2] Born in Berlin in 1883, he died in Boston in 1969.[2]",
+   "wiki": "Walter_Gropius",
+   "es": {
+    "dates": "1883–1969",
+    "key": "Arquitecto alemán que fundó la Bauhaus en 1919 y la dirigió hasta 1928, uniendo arte, oficio e industria en una sola escuela.[1][2]",
+    "more": "Tras servir en la Primera Guerra Mundial fundó la Bauhaus en Weimar en 1919 y diseñó su nuevo edificio y las casas de los maestros en Dessau en 1925–26, además del conjunto de viviendas de Törten.[1] Dejó la dirección en 1928 para trabajar en Berlín.[1] Bajo el nazismo emigró a Londres en 1934 y en 1937 a Harvard, donde formó a una generación de arquitectos estadounidenses.[1][2] Nació en Berlín en 1883 y murió en Boston en 1969.[2]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, Walter Gropius",
+     "url": "https://bauhauskooperation.com/magazine/knowledge/walter-gropius",
+     "checks": "Nació en Berlín; sirvió en el frente occidental en la Primera Guerra Mundial; fundó la Bauhaus en 1919 y la dirigió hasta 1928; giro hacia la producción industrial («arte y técnica, una nueva unidad», 1923); diseñó el edificio de Dessau (inaugurado en 1926), las casas de los maestros (1925–26) y Dessau-Törten (1926–28); en 1928 entregó la dirección a Hannes Meyer y se trasladó a Berlín; emigró a Inglaterra en 1934 y a EE. UU. en 1937; profesor en la Graduate School of Design de Harvard; murió en Boston en 1969.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Walter Gropius",
+     "url": "https://www.britannica.com/biography/Walter-Gropius",
+     "checks": "Nacimiento 18 de mayo de 1883 en Berlín y muerte 5 de julio de 1969 en Boston; fundó y dirigió la Bauhaus 1919–1928; Londres 1934; Harvard 1937 e influencia en generaciones de arquitectos estadounidenses. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "moholy-nagy",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "born": 1895,
+   "died": 1946,
+   "dates": "1895–1946",
+   "countries": [
+    "DE",
+    "HU",
+    "NL",
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "László Moholy-Nagy",
+   "movements": [
+    "bauhaus-movement",
+    "new-vision",
+    "new-typography",
+    "constructivism"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-new-bauhaus"
+   ],
+   "key": "Hungarian artist and teacher who led the Bauhaus preliminary course and metal workshop and theorised the ‘new vision’ in photography and design.[1][2][3]",
+   "more": "He taught at the Bauhaus from 1923 to 1928, steering the metal workshop toward lighting and prototypes for industry, and wrote Painting, Photography, Film (1925).[1][2] He worked with photography, photograms, typography, stage and exhibition design.[1][2][4] After leaving Germany in 1934 he worked in Amsterdam and London, and in 1937 he took charge of the New Bauhaus in Chicago, whose successor, his School of Design (1939), became the Institute of Design.[1][4] Born in Bácsborsód, Hungary, in 1895, he died in Chicago in 1946.[1][4]",
+   "wiki": "László_Moholy-Nagy",
+   "es": {
+    "dates": "1895–1946",
+    "key": "Artista y profesor húngaro que dirigió el curso preliminar y el taller de metal de la Bauhaus y teorizó la «nueva visión» en fotografía y diseño.[1][2][3]",
+    "more": "Enseñó en la Bauhaus de 1923 a 1928, orientando el taller de metal hacia la iluminación y los prototipos para la industria, y escribió Pintura, fotografía, cine (1925).[1][2] Trabajó con fotografía, fotogramas, tipografía, escenografía y diseño de exposiciones.[1][2][4] Tras dejar Alemania en 1934 trabajó en Ámsterdam y Londres, y en 1937 asumió la dirección de la New Bauhaus de Chicago, cuya sucesora, su School of Design (1939), pasó a ser el Institute of Design.[1][4] Nació en Bácsborsód (Hungría) en 1895 y murió en Chicago en 1946.[1][4]"
+   },
+   "short": "Moholy-Nagy",
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-843",
+     "checks": "Nacimiento 20.7.1895 en Bácsborsód (Hungría) y muerte 24.11.1946 en Chicago; llamado por Gropius en marzo de 1923; dirigió el curso preliminar y el taller de metal en Weimar (1923–25) y Dessau (1925–28); Malerei, Photographie, Film (1925); trabajos tipográficos, escenografías (Kroll-Oper, Piscator, 1929), estudio de tipografía y diseño de exposiciones; dejó Berlín en 1934 hacia Ámsterdam y luego Londres (1935–36); en 1937 dirigió la New Bauhaus de Chicago, cerrada en 1938; fundó en 1939 la School of Design, luego Institute of Design.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Bauhaus Kooperation, El curso preliminar de László Moholy-Nagy",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/training/preliminary-course/laszlo-moholy-nagys-preliminary-course",
+     "checks": "Asumió el curso preliminar en 1923; en el taller de metal impulsó el diseño de iluminación y los prototipos, el paso de la artesanía a la técnica industrial; obra en luz, fotografía, fotogramas y cine.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, New Vision Photography (ensayo)",
+     "url": "https://www.metmuseum.org/essays/the-new-vision-of-photography",
+     "checks": "Describió las innovaciones fotográficas de vanguardia como una «nueva visión»; fotogramas desde mediados de los años veinte.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, László Moholy-Nagy",
+     "url": "https://www.britannica.com/biography/Laszlo-Moholy-Nagy",
+     "checks": "Fechas y lugares de nacimiento y muerte; fotogramas; diseño escénico tras dejar la Bauhaus; en 1937 a EE. UU. para la New Bauhaus de Chicago, luego Institute of Design. ⚠ Da 1923–1929 para el taller de metal (Bauhaus Kooperation: hasta 1928). Leída mediante resumen automático.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "le-corbusier",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1887,
+   "died": 1965,
+   "dates": "1887–1965",
+   "countries": [
+    "FR",
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Le Corbusier",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [
+    "inst-weissenhof"
+   ],
+   "key": "Swiss-French architect, writer and designer who made the house ‘a machine for living in’ and became one of the most influential architects of the period.[2][3]",
+   "more": "Born Charles-Édouard Jeanneret in La Chaux-de-Fonds in 1887, he settled in Paris in 1917, founded the magazine L’Esprit Nouveau with Amédée Ozenfant in 1920 and adopted his pseudonym.[1][2] With his cousin Pierre Jeanneret, his partner from 1922, he designed villas such as the Villa Savoye (1929–31).[1][2][5] From the late 1920s to 1937 he designed furniture with Charlotte Perriand, who was in charge of the studio’s interior equipment.[2][4] He co-founded the CIAM congresses in 1928 and became a French citizen in 1930.[2][5] He died at Cap Martin in 1965.[2]",
+   "wiki": "Le_Corbusier",
+   "es": {
+    "dates": "1887–1965",
+    "key": "Arquitecto, escritor y diseñador suizo-francés que hizo de la casa «una máquina para habitar» y fue uno de los arquitectos más influyentes del período.[2][3]",
+    "more": "Nacido como Charles-Édouard Jeanneret en La Chaux-de-Fonds en 1887, se instaló en París en 1917, fundó la revista L’Esprit Nouveau con Amédée Ozenfant en 1920 y adoptó su seudónimo.[1][2] Con su primo Pierre Jeanneret, su socio desde 1922, diseñó villas como la Villa Savoye (1929–31).[1][2][5] Desde fines de los años veinte y hasta 1937 diseñó muebles con Charlotte Perriand, que estaba a cargo del equipamiento interior del estudio.[2][4] Cofundó los congresos CIAM en 1928 y se nacionalizó francés en 1930.[2][5] Murió en Cap Martin en 1965.[2]"
+   },
+   "refs": [
+    {
+     "label": "Fondation Le Corbusier, Biografía 1917–1922",
+     "url": "https://www.fondationlecorbusier.fr/en/biography/1917-1922/",
+     "checks": "Se instala en París en 1917; en 1920 funda L’Esprit Nouveau con Amédée Ozenfant y Paul Dermée y adopta el seudónimo Le Corbusier; en 1922 inicia la sociedad con su primo Pierre Jeanneret.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Moderna Museet, Moment – Le Corbusier, biografía",
+     "url": "https://www.modernamuseet.se/en/stockholm/exhibitions/moment-le-corbusier/biography/",
+     "checks": "Nacido Charles-Édouard Jeanneret el 6 de octubre de 1887 en La Chaux-de-Fonds; París 1917; seudónimo en 1920; estudio con Pierre Jeanneret desde 1922 hasta 1940; muebles con Perriand y P. Jeanneret en el Salon d’Automne de 1929; ciudadano francés en 1930; murió el 27 de agosto de 1965 en Cap Martin. ⚠ Fecha L’Esprit Nouveau en 1919 (la Fondation da 1920).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fondation Le Corbusier, Vers une architecture (1923)",
+     "url": "https://www.fondationlecorbusier.fr/en/work-book/vers-une-architecture-le-corbusier-1923/",
+     "checks": "Cita «La maison est une machine à habiter». ⚠ La valoración «uno de los arquitectos más influyentes» no se comprobó en una fuente.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, dossier pedagógico Charlotte Perriand",
+     "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-perriand/ENS-perriand.htm",
+     "checks": "Perriand entra como asociada en el estudio de Le Corbusier y Pierre Jeanneret (1928 según esta fuente), a cargo del programa de casilleros, asientos y mesas y del equipamiento interior; colaboración hasta 1937. ⚠ No da 1927 como año de ingreso.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Le Corbusier: The first period",
+     "url": "https://www.britannica.com/biography/Le-Corbusier/The-first-period",
+     "checks": "Villa Savoye (1929–31) en Poissy; creación de los CIAM en La Sarraz en 1928 y su papel influyente en los congresos de preguerra. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "mies-van-der-rohe",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1886,
+   "died": 1969,
+   "dates": "1886–1969",
+   "countries": [
+    "DE",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Ludwig Mies van der Rohe",
+   "movements": [
+    "international-style",
+    "new-objectivity",
+    "bauhaus-movement"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-weissenhof"
+   ],
+   "key": "German architect of steel, glass and open space, who designed the Barcelona Pavilion and was the last director of the Bauhaus.[1][3]",
+   "more": "By 1927 he was working closely with Lilly Reich, his closest collaborator for a decade in exhibitions, interiors and furniture.[1][2] He directed the Weissenhof exhibition in Stuttgart in 1927 and designed the German pavilion in Barcelona (1929) and the Villa Tugendhat in Brno.[1][2] He led the Bauhaus from 1930 until its closure in 1933 and settled in the United States in 1938, where he headed the architecture department of the Armour Institute in Chicago.[1][3] Born in Aachen in 1886, he died in Chicago in 1969.[1]",
+   "wiki": "Ludwig_Mies_van_der_Rohe",
+   "es": {
+    "dates": "1886–1969",
+    "key": "Arquitecto alemán del acero, el vidrio y el espacio abierto, que diseñó el Pabellón de Barcelona y fue el último director de la Bauhaus.[1][3]",
+    "more": "Hacia 1927 ya trabajaba estrechamente con Lilly Reich, su colaboradora más cercana durante una década en exposiciones, interiores y muebles.[1][2] Dirigió la exposición Weissenhof de Stuttgart en 1927 y diseñó el pabellón alemán de Barcelona (1929) y la Villa Tugendhat en Brno.[1][2] Dirigió la Bauhaus desde 1930 hasta su cierre en 1933 y se estableció en Estados Unidos en 1938, donde encabezó el departamento de arquitectura del Armour Institute de Chicago.[1][3] Nació en Aquisgrán en 1886 y murió en Chicago en 1969.[1]"
+   },
+   "short": "Mies",
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de Ludwig Mies van der Rohe",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1438",
+     "checks": "Nacimiento 27.3.1886 en Aquisgrán y muerte 17.8.1969 en Chicago; trabajo con Lilly Reich desde 1927 (exposición del Werkbund en Stuttgart, interiores y exposiciones); dirigió la exposición «Die Wohnung» que produjo la Weissenhofsiedlung (1927); pabellón de Barcelona (1929); casa Tugendhat en Brno (1930); director de la Bauhaus de agosto de 1930 a julio de 1933, cuando se disolvió; se estableció en EE. UU. en 1938; dirigió el departamento de arquitectura del Armour Institute de Chicago.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fundació Mies van der Rohe, comunicado de prensa Lilly Reich in Barcelona",
+     "url": "https://miesbcn.com/wp-content/uploads/2025/11/ENG_Press-Release_Lilly-Reich-in-Barcelona.pdf",
+     "checks": "Reich fue la colaboradora más cercana de Mies durante una década; obras conjuntas (exposiciones de 1927, Café de Terciopelo y Seda); colaboración en el pabellón de Barcelona de 1929, la casa Tugendhat y los muebles Barcelona y Brno.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, The Bauhaus, 1919–1933 (ensayo)",
+     "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+     "checks": "Director de la Bauhaus desde 1930; cerró la Bauhaus en 1933.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "breuer",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1902,
+   "died": 1981,
+   "dates": "1902–1981",
+   "countries": [
+    "DE",
+    "HU",
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Marcel Breuer",
+   "movements": [
+    "bauhaus-movement",
+    "international-style"
+   ],
+   "institutions": [
+    "inst-bauhaus"
+   ],
+   "key": "Hungarian-born designer and architect who made the first tubular-steel chairs at the Bauhaus and later practised architecture in the United States.[1][2][3]",
+   "more": "A Bauhaus student from 1920 or 1921, he led its furniture workshop in Dessau from 1925 to 1928, when he built the chair later called Wassily and the tubular-steel furniture of the new school building.[1][2][3][4] In 1928, the year he opened his practice in Berlin, he designed the Cesca chair.[1][2][5] He worked in London from 1935 to 1937 on plywood furniture for Isokon, then joined Gropius at Harvard.[1][2] Born in Pécs in 1902, he died in New York in 1981.[1]",
+   "wiki": "Marcel_Breuer",
+   "es": {
+    "dates": "1902–1981",
+    "key": "Diseñador y arquitecto de origen húngaro que hizo las primeras sillas de tubo de acero en la Bauhaus y luego ejerció la arquitectura en Estados Unidos.[1][2][3]",
+    "more": "Estudiante de la Bauhaus desde 1920 o 1921, dirigió su taller de muebles en Dessau de 1925 a 1928, cuando construyó la silla luego llamada Wassily y los muebles de tubo de acero del nuevo edificio de la escuela.[1][2][3][4] En 1928, el año en que abrió su estudio en Berlín, diseñó la silla Cesca.[1][2][5] Trabajó en Londres de 1935 a 1937 en muebles de terciado para Isokon y luego se unió a Gropius en Harvard.[1][2] Nació en Pécs en 1902 y murió en Nueva York en 1981.[1]"
+   },
+   "refs": [
+    {
+     "label": "Archives of American Art (Smithsonian), Marcel Breuer papers, nota biográfica",
+     "url": "https://www.aaa.si.edu/collections/marcel-breuer-papers-5596/biographical-note",
+     "checks": "Nacimiento 21 de mayo de 1902 en Pécs y muerte 1 de julio de 1981 en Nueva York; ingreso a la Bauhaus en 1921; maestro del taller de carpintería desde 1925; primera silla de tubo de acero (Wassily); estudio propio en Berlín desde 1928; Londres 1935–37, muebles de terciado para Isokon; Harvard desde 1937 y sociedad con Gropius 1937–41.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Museum (Londres), Marcel Breuer",
+     "url": "https://designmuseum.org/designers/marcel-breuer",
+     "checks": "Ingreso a la Bauhaus en 1921; jefe del taller de muebles de Dessau 1925–28; silla Wassily; sillón Cesca (1928); muebles de terciado para Isokon 1935–37; Harvard 1937.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Centre Pompidou, Focus on the Wassily club chair of Marcel Breuer",
+     "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-the-wassily-club-chair-of-marcel-breuer",
+     "checks": "Ingreso a la Bauhaus en 1920 (⚠ difiere de 1921); dirigió el taller de madera en Dessau; sillón de tubo de acero de 1925; el nombre Wassily se lo dio décadas después la reedición de Gavina.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau / Google Arts & Culture, The Building of the Future",
+     "url": "https://artsandculture.google.com/story/the-building-of-the-future-stiftung-bauhaus-dessau/bgUBHINPyRJPLQ?hl=en",
+     "checks": "Las sillas de tubo de acero del auditorio y los taburetes y mesas de la cantina del edificio de Dessau fueron diseñados por Breuer en el taller de muebles.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Marcel Breuer, Cesca Side Chair (model B32), 1928",
+     "url": "https://www.moma.org/collection/works/4462",
+     "checks": "Silla Cesca (B32), 1928, Gebrüder Thonet. ⚠ No dice dónde se diseñó.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "bayer",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "architecture"
+   ],
+   "born": 1900,
+   "died": 1985,
+   "dates": "1900–1985",
+   "countries": [
+    "DE",
+    "AT",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Herbert Bayer",
+   "movements": [
+    "bauhaus-movement",
+    "new-typography"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-moma"
+   ],
+   "key": "Austrian graphic and exhibition designer who led the Bauhaus printing and advertising workshop and drew a single-case ‘universal’ alphabet.[1][2]",
+   "more": "He studied at the Bauhaus from 1921 and taught there from 1925 to 1928, designing its printed matter in sans-serif and lower case.[1][2][3] From 1928 he worked in Berlin as art director of Vogue and of the Dorland agency.[1] He also designed material for official exhibitions under the Nazi regime, such as Deutschland (1936), before emigrating to the United States in 1938, where he organised and installed MoMA’s Bauhaus exhibition.[1][4][5] Born in Haag am Hausruck in 1900, he died in Montecito, California, in 1985.[1]",
+   "wiki": "Herbert_Bayer",
+   "es": {
+    "dates": "1900–1985",
+    "key": "Diseñador gráfico y de exposiciones austriaco que dirigió el taller de impresión y publicidad de la Bauhaus y dibujó un alfabeto «universal» de una sola caja.[1][2]",
+    "more": "Estudió en la Bauhaus desde 1921 y enseñó allí de 1925 a 1928, diseñando sus impresos en letra sin serifa y minúscula.[1][2][3] Desde 1928 trabajó en Berlín como director de arte de Vogue y de la agencia Dorland.[1] También diseñó material para exposiciones oficiales bajo el régimen nazi, como Deutschland (1936), antes de emigrar a Estados Unidos en 1938, donde organizó y montó la exposición de la Bauhaus del MoMA.[1][4][5] Nació en Haag am Hausruck en 1900 y murió en Montecito (California) en 1985.[1]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, biografía de Herbert Bayer",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-59",
+     "checks": "Nacimiento 5.4.1900 en Haag am Hausruck (Austria) y muerte 30.9.1985 en Montecito (California); ingreso a la Bauhaus en 1921; de 1925 a 1928 «joven maestro» a cargo del nuevo taller de impresión y publicidad en Dessau; desde 1928 en Berlín, director de arte de la agencia Dorland y de Vogue; emigró a EE. UU. en 1938 y diseñó ese año la exposición «Bauhaus 1919–1928» del MoMA.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Herbert Bayer, prueba del alfabeto universal (¿1926?)",
+     "url": "https://collections.vam.ac.uk/item/O1348589/proof-sheet-for-the-universal-proof-bayer-herbert",
+     "checks": "Alfabeto universal sin serifa y solo en minúsculas, hacia 1926, usado luego en publicaciones de la Bauhaus; Bayer jefe del departamento de impresión y publicidad.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, The Bauhaus, 1919–1933 (ensayo)",
+     "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+     "checks": "Los impresos promocionales de la Bauhaus bajo su influencia usaron tipos sin serifa y fotografía.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "bauhaus imaginista, The Bauhaus, the Nazis and German Post-War Nation Building Processes",
+     "url": "https://www.bauhaus-imaginista.org/articles/6102/the-bauhaus-the-nazis-and-german-post-war-nation-building-processes/?0bbf55ceffc3073699d40c945ada9faf=058e129f86e68ab742b30ae38e490796",
+     "checks": "Diseñó material para exposiciones de propaganda nazi: Die Kamera (1933), Deutsches Volk – Deutsche Arbeit (1934), Das Wunder des Lebens (1935) y Deutschland (1936).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, comunicado de prensa «The Bauhaus exhibit to open» (2 de diciembre de 1938)",
+     "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/467/releases/MOMA_1938_0047_1938-12-02_381202-31.pdf",
+     "checks": "Bayer, antiguo maestro de la Bauhaus, organizó e instaló la exposición. ⚠ No atribuye el diseño de la exposición a Gropius.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "rodchenko",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion"
+   ],
+   "born": 1891,
+   "died": 1956,
+   "dates": "1891–1956",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Alexander Rodchenko",
+   "movements": [
+    "constructivism",
+    "new-vision"
+   ],
+   "institutions": [
+    "inst-vkhutemas"
+   ],
+   "key": "Soviet artist, designer and photographer, a founder of Constructivism, who moved from painting to posters, books, furniture and photography.[2][3]",
+   "more": "Known in Spanish as Aleksandr Ródchenko. With his partner Varvara Stepanova and Aleksei Gan he founded the First Working Group of Constructivists in 1921,[1][2] and from 1922 he was dean of the metalwork faculty of Vkhutemas.[3] With the poet Vladimir Mayakovsky he made advertising for state companies, the photomontages of Pro Eto (1923) and the cover of the magazine LEF.[4][5][6] In 1925 he designed a Workers’ Club for the Soviet pavilion in Paris.[7] From the late 1920s his photographs with steep angles became central to the New Vision.[8] Born in St Petersburg in 1891, he died in Moscow in 1956.[1]",
+   "wiki": "Alexander_Rodchenko",
+   "es": {
+    "dates": "1891–1956",
+    "key": "Artista, diseñador y fotógrafo soviético, fundador del constructivismo, que pasó de la pintura a los carteles, los libros, los muebles y la fotografía.[2][3]",
+    "more": "En español, Aleksandr Ródchenko. Con su pareja Varvara Stepánova y Alekséi Gan fundó en 1921 el Primer Grupo de Trabajo de Constructivistas,[1][2] y desde 1922 fue decano de la facultad de metal del VKhUTEMAS.[3] Con el poeta Vladímir Maiakovski hizo publicidad para empresas estatales, los fotomontajes de Pro Eto (1923) y la portada de la revista LEF.[4][5][6] En 1925 diseñó un club obrero para el pabellón soviético de París.[7] Desde fines de los años veinte sus fotografías de ángulos pronunciados fueron centrales para la Nueva Visión.[8] Nació en San Petersburgo en 1891 y murió en Moscú en 1956.[1]"
+   },
+   "short": "Rodchenko",
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Aleksandr Mikhailovich Rodchenko",
+     "url": "https://www.britannica.com/biography/Aleksandr-Mikhailovich-Rodchenko",
+     "checks": "Nacimiento 5 de diciembre (23 de noviembre, calendario juliano) de 1891 en San Petersburgo y muerte 3 de diciembre de 1956 en Moscú; esposa Varvara Stepánova. ⚠ El resumen automático no dejó ver el cuerpo del artículo.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ARTMargins, Everywhere and Nowhere: Understanding Russian Constructivism through Aleksei Gan (reseña)",
+     "url": "https://artmargins.com/everywhere-and-nowhere-understanding-russian-constructivism-through-aleksei-gan/",
+     "checks": "Gan cofundó en 1921 el Primer Grupo de Trabajo de Constructivistas con Ródchenko y Stepánova.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Object:Photo, VKhUTEMAS",
+     "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+     "checks": "Ródchenko enseñó construcción en el VKhUTEMAS desde noviembre de 1920 y fue decano de la facultad de metal desde 1922. ⚠ No menciona la facultad de madera.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Reklam-Konstruktor, cartel para el aceite de Mossel’prom (1923)",
+     "url": "https://www.moma.org/collection/works/280249",
+     "checks": "Publicidad de 1923 de la agencia Reklam-Konstruktor de Ródchenko y Maiakovski para Mossel’prom, empresa estatal de Moscú.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Pro eto. Ei i mne (1923)",
+     "url": "https://www.moma.org/collection/works/16012",
+     "checks": "Libro de Maiakovski (1923) con los primeros fotomontajes de Ródchenko usados en diseño de libros.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, LEF. Zhurnal levogo fronta iskusstv, n.º 3 (1923)",
+     "url": "https://www.moma.org/collection/works/15161",
+     "checks": "Número de LEF de 1923 atribuido a Ródchenko. ⚠ La ficha no detalla que sea la portada ni el papel de Maiakovski.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Tate Papers n.º 12, Brandon Taylor, Aleksandr Rodchenko’s Lines of Force",
+     "url": "https://www.tate.org.uk/research/tate-papers/12/aleksandr-rodchenkos-lines-of-force",
+     "checks": "Club obrero de Ródchenko en la Exposition internationale des arts décoratifs et industriels modernes, París, 1925. ⚠ No se comprobó la mención del pabellón soviético.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, New Vision Photography (ensayo)",
+     "url": "https://www.metmuseum.org/essays/the-new-vision-of-photography",
+     "checks": "Ródchenko dentro de la fotografía de la Nueva Visión: ángulos extremos hacia arriba y abajo, horizontes inclinados; Pinos en el parque Pushkin (1927).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "el-lissitzky",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "architecture",
+    "product"
+   ],
+   "born": 1890,
+   "died": 1941,
+   "dates": "1890–1941",
+   "countries": [
+    "RU",
+    "DE",
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "El Lissitzky",
+   "movements": [
+    "constructivism",
+    "new-typography",
+    "suprematism"
+   ],
+   "institutions": [
+    "inst-vkhutemas"
+   ],
+   "key": "Russian artist, designer and architect who carried Suprematism and Constructivism into posters, books and exhibitions and linked the Soviet and Western avant-gardes.[1][2]",
+   "more": "Born Lazar Lissitzky; known in Spanish as El Lisitski.[1] In Vitebsk, invited by Marc Chagall and working with Kazimir Malevich, he made the poster Beat the Whites with the Red Wedge (1919).[2][3] Living in Germany and Switzerland in 1921–25, he designed issues of the magazine Veshch and Mayakovsky’s For the Voice (1923), and published his theses on typography in Merz (1923).[2][4][5] Back in Moscow he taught interior design and metalwork at Vkhutemas and designed Soviet exhibition pavilions, such as the one at Pressa in Cologne (1928), and issues of USSR in Construction.[2][6][7] Born in Pochinok, near Smolensk, in 1890, he died in Moscow in 1941.[1]",
+   "wiki": "El_Lissitzky",
+   "es": {
+    "dates": "1890–1941",
+    "key": "Artista, diseñador y arquitecto ruso que llevó el suprematismo y el constructivismo a carteles, libros y exposiciones y unió las vanguardias soviética y occidental.[1][2]",
+    "more": "Nacido Lázar Lisitski; en español, El Lisitski.[1] En Vítebsk, invitado por Marc Chagall y trabajando con Kazimir Malévich, hizo el cartel Golpea a los blancos con la cuña roja (1919).[2][3] Durante su estancia en Alemania y Suiza en 1921–25 diseñó números de la revista Veshch y Para la voz de Maiakovski (1923), y publicó sus tesis sobre tipografía en Merz (1923).[2][4][5] De regreso en Moscú enseñó diseño de interiores y metal en el VKhUTEMAS y diseñó pabellones soviéticos de exposición, como el de Pressa en Colonia (1928), y números de La URSS en construcción.[2][6][7] Nació en Pochinok, cerca de Smolensk, en 1890 y murió en Moscú en 1941.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, El Lissitzky (resumen)",
+     "url": "https://www.britannica.com/summary/El-Lissitzky",
+     "checks": "Nacido Lazar Markovich Lisitskii el 10 de noviembre de 1890 en Pochinok, cerca de Smolensk; murió el 30 de diciembre de 1941 en Moscú; enseñó en la escuela de Chagall en Vítebsk, donde conoció a Malévich; en Alemania colaboró con Van Doesburg y Moholy-Nagy; volvió a Rusia en 1925.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopedia of Modern Europe: Europe Since 1914 (encyclopedia.com), Lissitzky, El (1890–1941)",
+     "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lissitzky-el-1890-1941",
+     "checks": "Chagall lo invitó a Vítebsk en 1919; se unió a UNOVIS de Malévich; cartel Golpea a los blancos con la cuña roja; en 1921 partió a Europa por cuatro años (Berlín; Suiza, convalecencia); diseñó números de Veshch y Para la voz de Maiakovski; ligado a Schwitters (Merz) y a la nueva tipografía; de vuelta en Moscú enseñó en el VKhUTEMAS; cuatro exposiciones estatales en el extranjero; diseñó La URSS en construcción (1930–41).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "EBSCO Research Starters, El Lissitzky",
+     "url": "https://www.ebsco.com/research-starters/history/el-lissitzky",
+     "checks": "Golpea a los blancos con la cuña roja, 1919; vida 1890–1941. ⚠ Fuente de referencia secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, El Lissitzky, Dlia golosa (Para la voz), 1923",
+     "url": "https://www.moma.org/collection/works/14473",
+     "checks": "Libro de poemas de Maiakovski (Moscú-Berlín, 1923) diseñado por Lisitski.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Canadian Typography archive, The Topology of Typography, El Lissitzky",
+     "url": "https://www.canadiantypography.ca/en/archives/item/the-topology-of-typography-el-lissitzky-37",
+     "checks": "«Topographie der Typographie», publicado en Merz n.º 4 (Hannover, 1923). ⚠ Fuente secundaria (archivo de una edición de 1983).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Object:Photo, VKhUTEMAS",
+     "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+     "checks": "Lisitski enseñó diseño de interiores, metal y arquitectura en el VKhUTEMAS de mediados de los años veinte a 1930.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Leonard A. Lauder Research Center, Sophie Küppers",
+     "url": "https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/kuppers",
+     "checks": "Diseñó el pabellón soviético de Pressa (Colonia, 1928) y trabajó en La URSS en construcción en los años treinta.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "van-doesburg",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "architecture"
+   ],
+   "born": 1883,
+   "died": 1931,
+   "dates": "1883–1931",
+   "countries": [
+    "NL",
+    "DE",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Theo van Doesburg",
+   "movements": [
+    "de-stijl"
+   ],
+   "institutions": [],
+   "key": "Dutch artist, writer and designer who founded and led De Stijl and spread its ideas across Europe.[1][2]",
+   "more": "Born Christiaan Emil Marie Küpper in Utrecht in 1883,[1][2] he founded the magazine De Stijl in 1917 and edited it, writing many of its articles, some under pseudonyms.[1][2] In 1921–22 he lived in Weimar; he was not a Bauhaus teacher, but his private De Stijl course of 1922 influenced its students.[2] After 1924 his introduction of the diagonal split him from Mondrian.[2] With Sophie Taeuber-Arp and Hans Arp he designed the interiors of the Café Aubette in Strasbourg (1926–28). He died in Davos in 1931.[1][2]",
+   "wiki": "Theo_van_Doesburg",
+   "es": {
+    "dates": "1883–1931",
+    "key": "Artista, escritor y diseñador neerlandés que fundó y dirigió De Stijl y difundió sus ideas por Europa.[1][2]",
+    "more": "Nacido Christiaan Emil Marie Küpper en Utrecht en 1883,[1][2] fundó la revista De Stijl en 1917 y la dirigió, escribiendo muchos de sus artículos, algunos con seudónimo.[1][2] En 1921–22 vivió en Weimar; no fue profesor de la Bauhaus, pero su curso privado de De Stijl de 1922 influyó en sus estudiantes.[2] Después de 1924 su introducción de la diagonal lo separó de Mondrian.[2] Con Sophie Taeuber-Arp y Hans Arp diseñó los interiores del Café Aubette en Estrasburgo (1926–28). Murió en Davos en 1931.[1][2]"
+   },
+   "short": "Van Doesburg",
+   "refs": [
+    {
+     "label": "University of Iowa, International Dada Archive, Theo van Doesburg",
+     "url": "https://dada.lib.uiowa.edu/theo-van-doesburg",
+     "checks": "nombre de nacimiento Christiaan Emil Marie Küpper; nacido el 30-8-1883 en Utrecht; murió el 7-3-1931 en Davos; artista y escritor; fundó la revista De Stijl (1917–1932); seudónimos I. K. Bonset y Aldo Camini. ⚠ no menciona Weimar ni la Aubette",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Museo Nacional Thyssen-Bornemisza, Doesburg, Theo van (biografía)",
+     "url": "https://www.museothyssen.org/en/collection/artists/doesburg-theo-van",
+     "checks": "Utrecht 1883 – Davos 1931; fundó y editó la revista De Stijl, con muchos artículos bajo seudónimo; dio un curso de De Stijl a estudiantes de la Bauhaus en 1922; en 1925 introdujo la diagonal y rompió definitivamente con Mondrian. ⚠ no da el año 1917, la estancia en Weimar 1921–22 ni la Aubette",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "aalto-alvar-aino",
+   "level": "essential",
+   "kind": "duo",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1894,
+   "died": 1976,
+   "dates": "Aino 1894–1949 · Alvar 1898–1976",
+   "countries": [
+    "FI"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Alvar and Aino Aalto",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [
+    "inst-artek"
+   ],
+   "key": "Finnish architects and designers who worked as partners from 1924, softening modernism with wood, light and attention to the user.[1]",
+   "more": "Aino Marsio joined Alvar Aalto’s office early in 1924 and they married that October.[1][2] Together they designed the Paimio Sanatorium (1929–33)[1][2] and bent-plywood furniture made with Otto Korhonen,[2] and when Artek was founded in 1935 Aino became its first design director.[1] Aino’s own designs include the pressed-glass Bölgeblick series (1932);[1] the Savoy vase of 1936 is credited to Alvar. Their joint authorship is often hidden behind Alvar’s name.[1] Alvar was born in Kuortane in 1898 and died in 1976;[2] Aino, born in 1894, died in 1949.[1][2]",
+   "wiki": "Alvar_Aalto",
+   "es": {
+    "dates": "Aino 1894–1949 · Alvar 1898–1976",
+    "key": "Arquitectos y diseñadores finlandeses que trabajaron como socios desde 1924, suavizando el modernismo con madera, luz y atención a quien usa.[1]",
+    "more": "Aino Marsio entró a la oficina de Alvar Aalto a comienzos de 1924 y se casaron en octubre de ese año.[1][2] Juntos diseñaron el Sanatorio de Paimio (1929–33)[1][2] y muebles de terciado curvado fabricados con Otto Korhonen,[2] y cuando se fundó Artek en 1935 Aino fue su primera directora de diseño.[1] Entre los diseños propios de Aino está la serie de vidrio prensado Bölgeblick (1932);[1] el jarrón Savoy de 1936 se atribuye a Alvar. Su autoría conjunta suele quedar oculta tras el nombre de Alvar.[1] Alvar nació en Kuortane en 1898 y murió en 1976;[2] Aino, nacida en 1894, murió en 1949.[1][2]"
+   },
+   "short": "Aalto",
+   "refs": [
+    {
+     "label": "Alvar Aalto Foundation, Aino Aalto",
+     "url": "https://www.alvaraalto.fi/en/alvar-aalto-foundation/aino-aalto/",
+     "checks": "Aino 1894–1949; entró a la oficina de Alvar en enero de 1924; se casaron en octubre de 1924; trabajó como diseñadora de igual rango; colaboró en el Sanatorio de Paimio; primera directora de diseño de Artek al fundarse en 1935; serie de vidrio prensado Bölgeblick (1932); las obras solían firmarse con el nombre de la oficina",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Alvar Aalto Foundation, Alvar Aalto’s life",
+     "url": "https://www.alvaraalto.fi/en/alvar-aalto-foundation/alvar-aaltos-life/",
+     "checks": "Alvar nació en Kuortane, 1898–1976; contrató a Aino Marsio y se casaron en otoño de 1924; Sanatorio de Paimio 1929–33; muebles desarrollados con Aino y el ebanista Otto Korhonen; Aino murió en enero de 1949. ⚠ «terciado curvado» no aparece explícito; ⚠ no menciona el jarrón Savoy ni la fundación de Artek",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "lilly-reich",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion",
+    "product",
+    "architecture"
+   ],
+   "born": 1885,
+   "died": 1947,
+   "dates": "1885–1947",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Lilly Reich",
+   "movements": [
+    "bauhaus-movement",
+    "international-style"
+   ],
+   "institutions": [
+    "inst-bauhaus",
+    "inst-weissenhof"
+   ],
+   "key": "German designer of clothing, interiors, furniture and exhibitions, and Mies van der Rohe’s close collaborator, whose role was long overlooked.[1][2]",
+   "more": "She began in fashion and interiors,[2] and in 1920 became the first woman on the board of the Deutscher Werkbund.[1][2] From the mid-1920s she worked with Mies van der Rohe on exhibitions, interiors and furniture:[2] the Weissenhof exhibition of 1927,[1][2] the German section of the 1929 Barcelona exhibition[2] and the Villa Tugendhat.[3] In 1932–33 she taught interior design and weaving at the Bauhaus.[1][2] She stayed in Germany when Mies emigrated; her studio was bombed in 1943.[2] She died in Berlin in 1947.[2]",
+   "wiki": "Lilly_Reich",
+   "es": {
+    "dates": "1885–1947",
+    "key": "Diseñadora alemana de ropa, interiores, muebles y exposiciones, y estrecha colaboradora de Mies van der Rohe, cuyo papel se pasó por alto durante mucho tiempo.[1][2]",
+    "more": "Comenzó en la moda y los interiores,[2] y en 1920 fue la primera mujer en la directiva del Deutscher Werkbund.[1][2] Desde mediados de los años veinte trabajó con Mies van der Rohe en exposiciones, interiores y muebles:[2] la exposición Weissenhof de 1927,[1][2] la sección alemana de la exposición de Barcelona de 1929[2] y la Villa Tugendhat.[3] En 1932–33 enseñó diseño de interiores y tejido en la Bauhaus.[1][2] Se quedó en Alemania cuando Mies emigró; su estudio fue bombardeado en 1943.[2] Murió en Berlín en 1947.[2]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, comunicado de prensa ‘Lilly Reich: Designer and Architect’ (febrero 1996)",
+     "url": "https://assets.moma.org/documents/moma_press-release_327713.pdf",
+     "checks": "nació en 1885 (1885–1947); primera mujer elegida en la directiva del Werkbund en 1920; asociación oficial con Mies desde la exposición del Werkbund en Stuttgart 1927 (Weissenhof); en 1932 dirigió el taller de tejido y el de interiores de la Bauhaus en Dessau",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, catálogo ‘Lilly Reich: Designer and Architect’ (Matilda McQuaid, 1996)",
+     "url": "https://assets.moma.org/documents/moma_catalogue_278_300199443.pdf",
+     "checks": "inicio en la moda y el diseño de ropa; directiva del Werkbund en octubre de 1920 (primera mujer); correspondencia con Mies desde 1924 y colaboración desde 1926–27 (Weissenhof); directora artística de la sección alemana de la Exposición de Barcelona 1929; 1932–33 a cargo del taller de tejido y de diseño de interiores en la Bauhaus; se quedó en Alemania cuando Mies emigró (1938); su estudio fue destruido por bombas en 1943; murió en Berlín el 11 de diciembre de 1947; su papel quedó opacado por la fama de Mies. ⚠ lugar de nacimiento no confirmado",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Villa Tugendhat (Brno), archivo, ‘The interiors’",
+     "url": "https://archiv.tugendhat.eu/en/the-interiors.html",
+     "checks": "Reich contribuyó de manera importante a la concepción y diseño de los interiores; supervisó materiales y colores de los textiles; se le atribuyen una estantería y un mueble",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "edward-johnston",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1872,
+   "died": 1944,
+   "dates": "1872–1944",
+   "countries": [
+    "GB",
+    "UY"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Edward Johnston",
+   "movements": [],
+   "institutions": [
+    "inst-london-transport"
+   ],
+   "key": "British calligrapher, born in Uruguay, who revived formal penmanship and designed the sans-serif lettering of the London Underground.[1][2]",
+   "more": "His teaching and his book Writing & Illuminating, & Lettering (1906) renewed calligraphy in Britain; Eric Gill was among his pupils.[1][2] He finished a sans-serif typeface for the Underground in 1916.[1] Frank Pick had commissioned it in 1913, and Johnston later redesigned the company’s roundel. Born in Uruguay in 1872,[1][2] he lived in Ditchling, Sussex, from 1912 until his death there in 1944.[1][2]",
+   "wiki": "Edward_Johnston",
+   "es": {
+    "dates": "1872–1944",
+    "key": "Calígrafo británico, nacido en Uruguay, que revivió la caligrafía formal y diseñó las letras sin serifa del metro de Londres.[1][2]",
+    "more": "Su enseñanza y su libro Writing & Illuminating, & Lettering (1906) renovaron la caligrafía en Gran Bretaña; Eric Gill fue uno de sus alumnos.[1][2] En 1916 terminó una tipografía sin serifa para el metro.[1] Frank Pick se la había encargado en 1913, y Johnston luego rediseñó el logotipo circular de la empresa. Nacido en Uruguay en 1872,[1][2] vivió en Ditchling, Sussex, desde 1912 hasta su muerte allí en 1944.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Edward Johnston",
+     "url": "https://www.britannica.com/biography/Edward-Johnston",
+     "checks": "nacido el 11-2-1872 en Uruguay; murió el 26-11-1944 en Ditchling, Sussex; Writing & Illuminating, & Lettering (1906), muy influyente; Eric Gill entre sus alumnos; inició el renacimiento caligráfico moderno; terminó en 1916 una sin serifa para el metro de Londres. ⚠ no menciona a Frank Pick, 1913 ni el logotipo circular",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ditchling Museum of Art + Craft, Edward Johnston",
+     "url": "https://www.ditchlingmuseumartcraft.org.uk/2026/04/21/edward-johnston/",
+     "checks": "nacido en 1872 en Uruguay; murió en 1944; se mudó a Ditchling en 1912; libro de 1906 que fundó el movimiento caligráfico moderno; Gill asistió a sus clases en la Central School desde 1901",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "tschichold",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1902,
+   "died": 1974,
+   "dates": "1902–1974",
+   "countries": [
+    "DE",
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jan Tschichold",
+   "movements": [
+    "new-typography"
+   ],
+   "institutions": [],
+   "key": "German typographer who turned the avant-garde’s ideas into the rules of the New Typography, then returned to classical book design.[1]",
+   "more": "A trained calligrapher from Leipzig,[1][2] he was transformed by the 1923 Bauhaus exhibition in Weimar.[1] He edited the special issue ‘elementare typographie’ (1925),[1] taught at Paul Renner’s printing school in Munich from 1926,[2] and published Die neue Typographie in 1928.[1] Arrested by the Nazis in 1933, he emigrated to Basel,[1][2] where he gradually turned to symmetrical, classical typography;[1] after the war he redesigned Penguin’s books.[1][2] Born in Leipzig in 1902, he died in Locarno in 1974.[1][2]",
+   "wiki": "Jan_Tschichold",
+   "es": {
+    "dates": "1902–1974",
+    "key": "Tipógrafo alemán que convirtió las ideas de la vanguardia en las reglas de la Nueva Tipografía y luego volvió al diseño clásico del libro.[1]",
+    "more": "Calígrafo formado en Leipzig,[1][2] cambió radicalmente tras la exposición de la Bauhaus de 1923 en Weimar.[1] Editó el número especial «elementare typographie» (1925),[1] enseñó desde 1926 en la escuela de impresores de Paul Renner en Múnich[2] y publicó Die neue Typographie en 1928.[1] Detenido por los nazis en 1933, emigró a Basilea,[1][2] donde se volcó poco a poco a la tipografía simétrica y clásica;[1] después de la guerra rediseñó los libros de Penguin.[1][2] Nació en Leipzig en 1902 y murió en Locarno en 1974.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, ‘Jan Tschichold’",
+     "url": "https://www.britannica.com/biography/Jan-Tschichold",
+     "checks": "nació el 2 abr. 1902 en Leipzig y murió el 11 ago. 1974 en Locarno; formado como calígrafo en la Academia de Leipzig (1919–21); la exposición de la Bauhaus de 1923 en Weimar fue decisiva; «elementare typographie» (1925); Die neue Typographie (1928); detenido en 1933 por los nazis; emigró a Suiza y reincorporó gradualmente la tipografía clásica; diseñador de Penguin Books 1947–49",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Klingspor Museum (Offenbach), biografía de Jan Tschichold (PDF)",
+     "url": "https://www.klingspor-museum.de/KlingsporKuenstler/Schriftdesigner/Tschichold/JTschichold.pdf",
+     "checks": "nacimiento (2 abr. 1902, Leipzig) y muerte (11 ago. 1974, Locarno); Academia de Leipzig 1919–21; 1926–33 profesor de tipografía en la Städtische Berufsschule de Múnich y en la Meisterschule für Deutschlands Buchdrucker (la escuela dirigida por Renner); cuatro semanas de «Schutzhaft» en marzo de 1933; Basilea en otoño de 1933; Penguin Books 1946–49. ⚠ no menciona que no perteneciera a la Bauhaus",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "paul-renner",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1878,
+   "died": 1956,
+   "dates": "1878–1956",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Paul Renner",
+   "movements": [
+    "new-typography"
+   ],
+   "institutions": [],
+   "key": "German type designer and teacher who created Futura, the geometric sans-serif that became the typeface of modernism.[1][3]",
+   "more": "A painter and book designer,[1][3] he wrote Typografie als Kunst (1922).[3] From 1926 he led Munich’s municipal printing trade schools, and from 1927 he directed the Meisterschule für Deutschlands Buchdrucker,[1][2] where Tschichold taught.[4] He developed Futura from 1924 to 1927 for the Bauer foundry in Frankfurt, which issued it in 1928.[1][3] In 1932 he attacked Nazi cultural policy in the pamphlet Kulturbolschewismus?,[1][2] and in April 1933 he was arrested and suspended as director; he was finally dismissed in 1934.[1][2] Born in Wernigerode in 1878, he died in Hödingen, on Lake Constance, in 1956.[1][2]",
+   "wiki": "Paul_Renner_(type_designer)",
+   "es": {
+    "dates": "1878–1956",
+    "key": "Diseñador de tipos y profesor alemán que creó la Futura, la letra geométrica sin serifa que se volvió la tipografía del modernismo.[1][3]",
+    "more": "Pintor y diseñador de libros,[1][3] escribió Typografie als Kunst (1922).[3] Desde 1926 dirigió las escuelas gráficas municipales de Múnich, y desde 1927 la Meisterschule für Deutschlands Buchdrucker,[1][2] donde enseñó Tschichold.[4] Desarrolló la Futura entre 1924 y 1927 para la fundición Bauer de Frankfurt, que la lanzó en 1928.[1][3] En 1932 atacó la política cultural nazi en el folleto Kulturbolschewismus?,[1][2] y en abril de 1933 fue detenido y suspendido como director; fue destituido definitivamente en 1934.[1][2] Nació en Wernigerode en 1878 y murió en Hödingen, junto al lago de Constanza, en 1956.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Deutsche Biographie (NDB), ‘Renner, Paul’",
+     "url": "https://www.deutsche-biographie.de/gnd118744542.html",
+     "checks": "nació el 9 ago. 1878 en Wernigerode y murió el 25 abr. 1956 en Hödingen (lago de Constanza); pintor y tipógrafo; 1926 dirige la Berufsschule für das Graphische Gewerbe de Múnich; 1927 impulsa la fundación de la Meisterschule für Deutschlands Buchdrucker; Futura desarrollada 1924–27 y aparecida en 1928; «Kulturbolschewismus?» (1932) contra las tendencias antimodernistas; detenido el 4 abr. 1933; destituido el 16 feb. 1934",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "NS-Dokumentationszentrum München, Lexikon, ‘Renner, Paul’",
+     "url": "https://www.nsdoku.de/lexikon/artikel/renner-paul-702",
+     "checks": "fechas y lugares de vida; desde 1926 dirige las escuelas gráficas de Múnich y desde 1927 es director de la Meisterschule für Deutschlands Buchdrucker; en 1932 «Kulturbolschewismus?» contra la política cultural nazi; detenido el 4 abr. 1933, suspendido el 11 abr. 1933 y destituido definitivamente el 16 feb. 1934",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Deutsche Nationalbibliothek, Deutsches Buch- und Schriftmuseum, ‘Ästhetik des Buches – Paul Renner’",
+     "url": "https://mediengeschichte.dnb.de/DBSMZBN/Content/DE/AesthetikDesBuches/09-renner-paul.html",
+     "checks": "estudió pintura; diseñador de libros para Georg Müller Verlag desde 1907; Typografie als Kunst (1922); Futura (1928) para la fundición Bauer de Frankfurt; «Kulturbolschewismus» (1932); apartado de la docencia en 1933",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Klingspor Museum (Offenbach), biografía de Jan Tschichold (PDF)",
+     "url": "https://www.klingspor-museum.de/KlingsporKuenstler/Schriftdesigner/Tschichold/JTschichold.pdf",
+     "checks": "Tschichold enseñó 1926–33 en la Meisterschule für Deutschlands Buchdrucker de Múnich",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "cassandre",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1901,
+   "died": 1968,
+   "dates": "1901–1968",
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "A. M. Cassandre",
+   "movements": [
+    "art-deco"
+   ],
+   "institutions": [
+    "inst-container-corporation",
+    "inst-moma"
+   ],
+   "key": "French poster artist and type designer whose bold, geometric posters for newspapers, trains and liners defined the Art Deco poster.[1][2]",
+   "more": "Born Adolphe Mouron in Kharkiv, in the Russian Empire, in 1901, he trained in Paris.[1][2] His poster Au Bûcheron (1923) made his name;[1][2] L’Intransigeant (1925),[3] Étoile du Nord (1927)[2][3] and Normandie (1935)[4] followed. In 1930 he co-founded the agency Alliance Graphique,[2] and he designed the typefaces Bifur (1929),[2][5] Acier (1930)[2][5] and Peignot (1937).[5] After a MoMA exhibition in 1936 he worked in the United States for Harper’s Bazaar[1][2] and, in 1937–38, for the Container Corporation.[6]",
+   "wiki": "Cassandre_(artist)",
+   "es": {
+    "dates": "1901–1968",
+    "key": "Cartelista y diseñador de tipos francés cuyos carteles audaces y geométricos para diarios, trenes y transatlánticos definieron el cartel art déco.[1][2]",
+    "more": "Nacido como Adolphe Mouron en Járkov, en el Imperio ruso, en 1901, se formó en París.[1][2] Su cartel Au Bûcheron (1923) lo dio a conocer;[1][2] siguieron L’Intransigeant (1925),[3] Étoile du Nord (1927)[2][3] y Normandie (1935).[4] En 1930 cofundó la agencia Alliance Graphique,[2] y diseñó las tipografías Bifur (1929),[2][5] Acier (1930)[2][5] y Peignot (1937).[5] Tras una exposición en el MoMA en 1936 trabajó en Estados Unidos para Harper’s Bazaar[1][2] y, en 1937–38, para la Container Corporation.[6]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, comunicado de prensa de la exposición ‘Posters by Cassandre’ (6 ene. 1936)",
+     "url": "https://www.moma.org/docs/press_archives/307/releases/MOMA_1936_0003_1936-01-06_1936-49.pdf",
+     "checks": "exposición del 15 ene. al 16 feb. 1936; nacido de padres franceses en Járkov (Rusia) en 1901; estudió en la Académie Julian y en escuelas libres de París; primer cartel en 1922, fama establecida en 1923; carteles de vapores, ferrocarriles, diarios y aerolíneas. ⚠ no dice que creciera en París",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Musée des Arts Décoratifs (MAD Paris), ‘Cassandre (1901-1968)’",
+     "url": "https://madparis.fr/cassandre-1901-1968",
+     "checks": "nombre Adolphe Mouron, nacido en 1901 en Járkov, muerto en 1968; Le Bûcheron (1923); Étoile du Nord (1927); Alliance Graphique cofundada en 1930 con Moyrand y Loupot; Bifur (1929) y Acier (1930); retrospectiva en el MoMA y contrato con Harper’s Bazaar en 1936. ⚠ no da el nombre «Jean-Marie»; solo el año de muerte",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, colección, Cassandre, cartel para L’Intransigeant, 1925",
+     "url": "https://www.moma.org/collection/works/218730",
+     "checks": "L’Intransigeant fechado en 1925; la ficha lista además Étoile du Nord (1927)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, colección, Cassandre, Normandie, 1935",
+     "url": "https://www.moma.org/collection/works/6091",
+     "checks": "Normandie fechado en 1935, litografía",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "RIT, Cary Graphic Arts Collection, ‘IV: Deberny et Peignot, 1924-1938’",
+     "url": "https://www.rit.edu/amgweb/iv-deberny-et-peignot-1924-1938",
+     "checks": "Bifur (1929), Acier (1930) y Peignot (presentada el 12 feb. 1937), de Cassandre para Deberny & Peignot",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Chicago Design Archive, ‘The Container Corporation of America and Graphic Design in Chicago’",
+     "url": "https://chicagodesignarchive.org/essay/container-corporation-america-and-graphic-design-chicago",
+     "checks": "Cassandre fue el primer artista encargado por la Container Corporation y diseñó doce avisos entre 1937 y 1938",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "mcknight-kauffer",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1890,
+   "died": 1954,
+   "dates": "1890–1954",
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Edward McKnight Kauffer",
+   "movements": [
+    "art-deco"
+   ],
+   "institutions": [
+    "inst-london-transport",
+    "inst-moma"
+   ],
+   "key": "American poster artist who worked in London from 1914 to 1940[1][3] and brought avant-garde forms to the posters of the Underground.[1][3]",
+   "more": "He settled in London at the outbreak of the First World War[1][2] and from 1915 designed more than 140 posters for the Underground and London Transport under Frank Pick,[1][2] as well as posters for Shell and book covers.[2][3] From 1923 he worked and lived with the textile designer Marion Dorn.[1][3] MoMA gave him a solo exhibition in 1937,[4] and in 1940 he returned to New York.[1][2][3] Born in Great Falls, Montana, in 1890, he died in New York in 1954.[1][2]",
+   "wiki": "Edward_McKnight_Kauffer",
+   "es": {
+    "dates": "1890–1954",
+    "key": "Cartelista estadounidense que trabajó en Londres de 1914 a 1940[1][3] y llevó formas de vanguardia a los carteles del metro.[1][3]",
+    "more": "Se instaló en Londres al estallar la Primera Guerra Mundial[1][2] y desde 1915 diseñó más de 140 carteles para el metro y London Transport bajo Frank Pick,[1][2] además de carteles para Shell y portadas de libros.[2][3] Desde 1923 trabajó y vivió con la diseñadora textil Marion Dorn.[1][3] El MoMA le dedicó una exposición individual en 1937,[4] y en 1940 volvió a Nueva York.[1][2][3] Nació en Great Falls, Montana, en 1890 y murió en Nueva York en 1954.[1][2]"
+   },
+   "short": "McKnight Kauffer",
+   "refs": [
+    {
+     "label": "London Transport Museum, ‘Edward McKnight Kauffer: the Poster King’",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/design/edward-mcknight-kauffer-poster-king",
+     "checks": "nació en EE. UU. en 1890; llegó a Londres en 1914; primer cartel para el metro en 1915 encargado por Frank Pick; diseñador estrella de los carteles del transporte de Londres hasta su regreso a EE. UU. en 1940; influencias de cubismo, futurismo y surrealismo; conoció a Marion Dorn en 1923 y fueron pareja hasta su muerte (casados en 1950); murió en Nueva York en 1954",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "RIT, Cary Graphic Arts Collection, ‘E. McKnight Kauffer’",
+     "url": "https://www.rit.edu/carycollection/e-mcknight-kauffer",
+     "checks": "nació en Great Falls, Montana (1890–1954); se instaló en Londres al estallar la Primera Guerra Mundial; primer encargo de Frank Pick en 1915; más de 140 carteles para el metro de Londres y otros para Shell, BP, etc.; volvió a EE. UU. en 1940",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Cooper Hewitt, ‘Underground Modernist: E. McKnight Kauffer’",
+     "url": "https://www.cooperhewitt.org/channel/kauffer/",
+     "checks": "estadounidense (1890–1954); trabajó en Inglaterra 1914–1940 y luego en Nueva York; carteles para el metro de Londres y Shell-Mex; portadas de libros; trabajó con Marion Dorn, luego su esposa",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, exposición ‘Posters by E. McKnight Kauffer’ (1937)",
+     "url": "https://www.moma.org/calendar/exhibitions/2762",
+     "checks": "exposición del 10 feb. al 7 mar. 1937",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "eric-gill",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1882,
+   "died": 1940,
+   "dates": "1882–1940",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Eric Gill",
+   "movements": [],
+   "institutions": [],
+   "key": "British sculptor, letter cutter and type designer who drew Gill Sans and Perpetua for Monotype.[1][3][4]",
+   "more": "A pupil of Edward Johnston, he cut inscriptions in stone and worked in craft communities in Ditchling and later in Wales.[1][2][3] For Stanley Morison at Monotype he designed Perpetua (from 1925) and Gill Sans (1927–28),[1][4][5] and he wrote An Essay on Typography (1931).[6] Fiona MacCarthy’s 1989 biography revealed that he had sexually abused his daughters, which has changed how his work is regarded.[2][7] Born in Brighton in 1882, he died in Uxbridge in 1940.[1]",
+   "wiki": "Eric_Gill",
+   "es": {
+    "dates": "1882–1940",
+    "key": "Escultor, grabador de letras y diseñador de tipos británico que dibujó la Gill Sans y la Perpetua para Monotype.[1][3][4]",
+    "more": "Alumno de Edward Johnston, grabó inscripciones en piedra y trabajó en comunidades artesanales en Ditchling y luego en Gales.[1][2][3] Para Stanley Morison, en Monotype, diseñó la Perpetua (desde 1925) y la Gill Sans (1927–28),[1][4][5] y escribió An Essay on Typography (1931).[6] La biografía de Fiona MacCarthy, de 1989, reveló que había abusado sexualmente de sus hijas, lo que cambió la manera de valorar su obra.[2][7] Nació en Brighton en 1882 y murió en Uxbridge en 1940.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Eric Gill»",
+     "url": "https://www.britannica.com/biography/Eric-Gill",
+     "checks": "nacimiento (22 feb. 1882, Brighton) y muerte (17 nov. 1940, Uxbridge); estudió letra con Edward Johnston en la Central School; tipos Perpetua (1925) y Gill Sans (1927). ⚠ no menciona a Morison ni An Essay on Typography.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Ditchling Museum of Art + Craft, «Eric Gill»",
+     "url": "https://www.ditchlingmuseumartcraft.org.uk/2026/04/21/eric-gill/",
+     "checks": "clases de letra con Edward Johnston; tallador de inscripciones desde c. 1905; en Ditchling 1907–1924 y luego a Capel-y-ffin (Gales); el abuso de sus hijas salió a la luz en la biografía de Fiona MacCarthy de 1989.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Online Archive of California, Eric Gill Archive (William Andrews Clark Memorial Library, UCLA), nota biográfica",
+     "url": "https://oac.cdlib.org/findaid/ark:/13030/kt9m3nc2gh/admin",
+     "checks": "Brighton 1882–1940; alumno de Johnston; comunidades en Ditchling (1907–24), Capel-y-ffin (1924–28) y Pigotts; Gill Sans y Perpetua; trabajo con la Monotype Corporation.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Monotype Gill Sans leaflet",
+     "url": "https://collections.vam.ac.uk/item/O1419737/monotype-gill-sans-leaflet-leaflet/",
+     "checks": "la Monotype Corporation encargó a Gill un tipo sans serif; la Gill Sans salió en 1928.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MyFonts (Monotype), Perpetua Font Field Guide",
+     "url": "https://www.myfonts.com/a/font/content/font-field-guide/perpetua",
+     "checks": "Stanley Morison encargó a Gill la Perpetua para la biblioteca tipográfica de Monotype; salió después de la Gill Sans. ⚠ fuente del fabricante actual, sin años exactos.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "The Morgan Library & Museum, catálogo: An essay on typography",
+     "url": "https://www.themorgan.org/printed-books/162615",
+     "checks": "An Essay on Typography, Londres, Sheed & Ward, 1931.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Apollo Magazine, «Eric Gill’s fall from grace»",
+     "url": "https://apollo-magazine.com/eric-gills-fall-from-grace/",
+     "checks": "biografía de Fiona MacCarthy (1989); revelación de su conducta sexual con sus hijas; cambio en la valoración de su obra. ⚠ revista, fuente secundaria.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "stanley-morison",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1889,
+   "died": 1967,
+   "dates": "1889–1967",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Stanley Morison",
+   "movements": [],
+   "institutions": [],
+   "key": "British typographer and historian who, as adviser to Monotype and The Times, revived classic typefaces and directed Times New Roman.[1][2]",
+   "more": "He became typographic adviser to the Monotype Corporation in 1923, launching revivals of historic faces[1] and commissioning new designs from Eric Gill,[2][3] and edited the journal The Fleuron.[1] He joined The Times in 1929 and directed Times New Roman, drawn by Victor Lardent and first used on 3 October 1932.[1][2] Born in Wanstead, Essex, in 1889, he died in London in 1967.[1]",
+   "wiki": "Stanley_Morison",
+   "es": {
+    "dates": "1889–1967",
+    "key": "Tipógrafo e historiador británico que, como asesor de Monotype y de The Times, revivió tipos clásicos y dirigió la Times New Roman.[1][2]",
+    "more": "En 1923 pasó a ser asesor tipográfico de la Monotype Corporation, donde impulsó recuperaciones de tipos históricos[1] y encargó diseños nuevos a Eric Gill,[2][3] y editó la revista The Fleuron.[1] Entró a The Times en 1929 y dirigió la Times New Roman, dibujada por Victor Lardent y usada por primera vez el 3 de octubre de 1932.[1][2] Nació en Wanstead (Essex) en 1889 y murió en Londres en 1967.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Stanley Morison»",
+     "url": "https://www.britannica.com/biography/Stanley-Morison",
+     "checks": "nacimiento (6 mayo 1889, Wanstead, Essex) y muerte (11 oct. 1967, Londres); asesor de Monotype desde 1923, donde adaptó tipos históricos a la composición mecánica; editor de The Fleuron (1926–30); entra a The Times en 1929; Times New Roman apareció el 3 de octubre de 1932.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Science Museum Group, blog «Studying the Monotype Collection»",
+     "url": "https://blog.sciencemuseumgroup.org.uk/studying-the-monotype-collection/",
+     "checks": "Times New Roman de Morison, el dibujante Victor Lardent y Monotype; primer número de The Times con el tipo: 3 oct. 1932; Monotype encargó a Gill la Gill Sans y la Perpetua.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MyFonts (Monotype), Perpetua Font Field Guide",
+     "url": "https://www.myfonts.com/a/font/content/font-field-guide/perpetua",
+     "checks": "Morison encargó a Eric Gill la Perpetua como parte de su plan para la biblioteca de Monotype. ⚠ fuente del fabricante actual.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "harry-beck",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1902,
+   "died": 1974,
+   "dates": "1902–1974",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Harry Beck",
+   "movements": [],
+   "institutions": [
+    "inst-london-transport"
+   ],
+   "key": "London Underground engineering draughtsman who designed the diagrammatic Tube map, which shows connections instead of geography.[1][2]",
+   "more": "He worked in the Underground’s signals office and drew the first version of his map in 1931 in his spare time, while temporarily laid off.[1][2][3] The company first rejected it, then issued it as a pocket map in January 1933; it was an immediate success with the public.[1][4] Beck remained its principal designer until 1959.[1][3] Born in Leyton, London, in 1902, he died in 1974.[2]",
+   "wiki": "Harry_Beck",
+   "es": {
+    "dates": "1902–1974",
+    "key": "Dibujante técnico del metro de Londres que diseñó el mapa diagramático del Tube, que muestra las conexiones y no la geografía.[1][2]",
+    "more": "Trabajaba en la oficina de señales del metro y dibujó la primera versión de su mapa en 1931, en su tiempo libre, mientras estaba temporalmente sin trabajo.[1][2][3] La empresa primero la rechazó y luego la publicó como mapa de bolsillo en enero de 1933; fue un éxito inmediato entre el público.[1][4] Beck fue su diseñador principal hasta 1959.[1][3] Nacido en Leyton, Londres, en 1902, murió en 1974.[2]"
+   },
+   "refs": [
+    {
+     "label": "London Transport Museum, «Transforming the Tube map: Harry Beck’s iconic design»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/design/transforming-tube-map-harry-becks-iconic-design",
+     "checks": "dibujante del metro (desde 1924, del departamento de señales a la oficina de dibujo comercial); diseño diagramático basado en la secuencia de estaciones y los cruces, no en la geografía; lo hizo estando sin trabajo en 1931; rechazado por la oficina de publicidad en 1931; primer mapa de bolsillo impreso en enero de 1933 (750.000 ejemplares, «suficientes hasta el verano»); diseñador principal entre 1933 y 1959; murió en septiembre de 1974. ⚠ No da fecha ni lugar de nacimiento.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "English Heritage, Blue plaque «Harry Beck (1902–1974)»",
+     "url": "https://www.english-heritage.org.uk/visit/blue-plaques/harry-beck/",
+     "checks": "fechas de vida 1902–1974; nacido en Leyton (Londres); entró a London Transport en 1925 como «engineering draughtsman»; primer diseño diagramático durante un periodo de desempleo en 1931; rechazado por demasiado revolucionario; publicado en enero de 1933; unas 850.000 copias de bolsillo vendidas en los dos primeros meses. ⚠ Leída mediante resumen automático; no da lugar de muerte.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "London Museum, «How Harry Beck revolutionised the Tube map»",
+     "url": "https://www.londonmuseum.org.uk/collections/london-stories/harry-beck-revolutionised-tube-map/",
+     "checks": "dibujante técnico para la oficina de los ingenieros de señales; trabajó en el diagrama en su tiempo libre y lo tuvo listo en 1931; rechazado al principio por «radical»; en imprenta en 1933; diseñador principal hasta 1959.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "London Transport Museum, «Mapping London: the iconic Tube map»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/design/mapping-london-iconic-tube-map",
+     "checks": "diseño de 1931 en su tiempo libre; rechazado por el departamento de publicidad por demasiado revolucionario; mapa de bolsillo de prueba en 1933, «éxito inmediato» entre el público; terminó su relación con LT en 1960.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "heartfield",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1891,
+   "died": 1968,
+   "dates": "1891–1968",
+   "countries": [
+    "DE",
+    "CZ",
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "John Heartfield",
+   "movements": [
+    "new-vision"
+   ],
+   "institutions": [],
+   "key": "German artist who turned photomontage into a political weapon against Nazism, above all in the covers of the magazine AIZ.[1][2]",
+   "more": "Registered at birth as Hellmuth Stolzenberg and later known as Helmut Herzfeld, he anglicised his name in 1916 in protest against anti-British wartime propaganda[1][2] and, with his brother Wieland Herzfelde, launched the Malik publishing house in 1917, for which he designed book covers.[1][2] A member of Berlin Dada and of the Communist Party from its founding at the end of 1918,[1][2] from 1930 to 1938 he made around 240 photomontages for the Arbeiter-Illustrierte-Zeitung.[2] He fled to Prague in 1933 and to London in 1938.[1][2] Born in Schmargendorf, near Berlin, in 1891, he died in Berlin in 1968.[1]",
+   "wiki": "John_Heartfield",
+   "es": {
+    "dates": "1891–1968",
+    "key": "Artista alemán que convirtió el fotomontaje en un arma política contra el nazismo, sobre todo en las portadas de la revista AIZ.[1][2]",
+    "more": "Inscrito al nacer como Hellmuth Stolzenberg y conocido luego como Helmut Herzfeld, anglicizó su nombre en 1916 como protesta contra la propaganda antibritánica de la guerra[1][2] y, con su hermano Wieland Herzfelde, puso en marcha en 1917 la editorial Malik, para la que diseñó portadas de libros.[1][2] Miembro del dadá berlinés y del Partido Comunista desde su fundación a fines de 1918,[1][2] entre 1930 y 1938 hizo unos 240 fotomontajes para la Arbeiter-Illustrierte-Zeitung.[2] Huyó a Praga en 1933 y a Londres en 1938.[1][2] Nació en Schmargendorf, cerca de Berlín, en 1891 y murió en Berlín en 1968.[1]"
+   },
+   "refs": [
+    {
+     "label": "Akademie der Künste, John Heartfield Archiv, «John Heartfield 1891–1968» (biografía)",
+     "url": "https://heartfield.adk.de/en/john-heartfield-biography",
+     "checks": "nacimiento 19 jun. 1891 en Schmargendorf, inscrito como Hellmuth Franz Joseph Stolzenberg (padres casados en 1896), luego Hellmuth Herzfeld; nombre John Heartfield en 1916 contra la campaña antibritánica; editorial Malik fundada en 1917 (Wieland Herzfelde editor; Heartfield y Grosz a cargo del perfil artístico, portadas); dadá berlinés 1919–20; ingreso al KPD el 31 dic. 1918; huida a Praga (Pascua 1933) y a Londres (dic. 1938); muerte 26 abr. 1968, Berlín.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Akron Art Museum, «vs. John Heartfield», guía para educadores (PDF)",
+     "url": "https://akronartmuseum.org/wp-content/uploads/2020/01/Heartfield.pdf",
+     "checks": "1891–1968; nombre anglicizado en 1916; Herzfelde y Heartfield inician Malik-Verlag (1917); dadá berlinés; miembro fundador del Partido Comunista alemán (dic. 1918); 237 fotomontajes para AIZ en ocho años desde 1930; Praga (abril 1933) y Londres (dic. 1938).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "piet-zwart",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "born": 1885,
+   "died": 1977,
+   "dates": "1885–1977",
+   "countries": [
+    "NL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Piet Zwart",
+   "movements": [
+    "new-typography"
+   ],
+   "institutions": [],
+   "key": "Dutch designer who called himself a ‘typotekt’ and made dynamic, photographic advertising for a cable factory in Delft.[1][2][3]",
+   "more": "After working for the architects Jan Wils and H. P. Berlage,[1] he made some 275 designs for advertisements, packaging and booklets for the Nederlandsche Kabelfabriek (NKF) between 1923 and 1933, combining type, colour and photomontage.[1][3] He designed The PTT Book for the Dutch post office (published 1938)[1][2] and, in 1938, a modular kitchen for Bruynzeel.[1][4] During the German occupation he was held as a hostage (1942–43).[1] Born in Zaandijk in 1885, he died in Leidschendam in 1977.[1]",
+   "wiki": "Piet_Zwart",
+   "es": {
+    "dates": "1885–1977",
+    "key": "Diseñador neerlandés que se llamaba a sí mismo «tipotecto» e hizo publicidad dinámica y fotográfica para una fábrica de cables de Delft.[1][2][3]",
+    "more": "Tras trabajar para los arquitectos Jan Wils y H. P. Berlage,[1] hizo entre 1923 y 1933 unos 275 diseños de avisos, envases y folletos para la Nederlandsche Kabelfabriek (NKF), combinando letra, color y fotomontaje.[1][3] Diseñó El libro de los PTT para el correo neerlandés (publicado en 1938)[1][2] y, en 1938, una cocina modular para Bruynzeel.[1][4] Durante la ocupación alemana fue retenido como rehén (1942–43).[1] Nació en Zaandijk en 1885 y murió en Leidschendam en 1977.[1]"
+   },
+   "refs": [
+    {
+     "label": "Universiteit Leiden, Depth of Field, Kees Broos, cronología de Piet Zwart",
+     "url": "https://depthoffield.universiteitleiden.nl/0612f04en/",
+     "checks": "nacimiento 28 mayo 1885 en Zaandijk y muerte 24 sep. 1977 en Leidschendam; dibujante de Jan Wils y luego de H. P. Berlage (1921–27); encargo de la NKF desde 1923 hasta 1933 (folleto Delft Kabels); exposición «Piet Zwart–Typotekt» (Stedelijk, 1961); Het boek van PTT (1938); cocinas para Bruynzeel desde fines de los años treinta; rehén desde el verano de 1942 hasta inicios de 1943.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Letterform Archive, «Piet Zwart: Brand Architect»",
+     "url": "https://letterformarchive.org/news/piet-zwart-brand-architect-exhibition/",
+     "checks": "1885–1977; se llamaba a sí mismo «typotekt»; trabajo para la Nederlandsche Kabelfabriek Delft; Het boek van PTT (1938).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "St Bride Foundation, «Piet Zwart: NKF and the New Typography»",
+     "url": "https://sbf.org.uk/whats-on/view/piet-zwart-nkf-and-the-new-typography/",
+     "checks": "conoce la NKF en 1923; unos 275 diseños de avisos, envases y folletos para la NKF; catálogo de 1927–28.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Kunstmuseum Den Haag, exposición «Piet Zwart (1885–1977)»",
+     "url": "https://www.kunstmuseum.nl/en/exhibitions/piet-zwart-1885-1977",
+     "checks": "1885–1977; diseño de la cocina Bruynzeel en 1938; NKF y PTT.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "stepanova",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "fashion"
+   ],
+   "born": 1894,
+   "died": 1958,
+   "dates": "1894–1958",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Varvara Stepanova",
+   "movements": [
+    "constructivism"
+   ],
+   "institutions": [
+    "inst-vkhutemas"
+   ],
+   "key": "Soviet Constructivist designer of textiles, clothing, books and magazines, who believed design should serve everyday life.[2][4][5]",
+   "more": "Known in Spanish as Varvara Stepánova. A member of the First Working Group of Constructivists, founded in 1921,[2] she worked in 1923–24 with Liubov Popova at the First State Textile Printing Factory in Moscow, producing geometric fabric designs, and designed sports clothing.[2][3][4][5] She taught textile design at Vkhutemas[5][7] and, with her partner Alexander Rodchenko, designed books and issues of USSR in Construction in the 1930s.[1][4][5][6] Born in Kovno (now Kaunas, Lithuania) in 1894, she died in Moscow in 1958.[1][4]",
+   "wiki": "Varvara_Stepanova",
+   "es": {
+    "dates": "1894–1958",
+    "key": "Diseñadora constructivista soviética de textiles, ropa, libros y revistas, convencida de que el diseño debía servir a la vida diaria.[2][4][5]",
+    "more": "En español, Varvara Stepánova. Miembro del Primer Grupo de Trabajo de Constructivistas, fundado en 1921,[2] trabajó en 1923–24 con Liubov Popova en la Primera Fábrica Estatal de Estampado Textil de Moscú, donde produjo diseños geométricos de telas, y diseñó ropa deportiva.[2][3][4][5] Enseñó diseño textil en el VKhUTEMAS[5][7] y, con su pareja Aleksandr Ródchenko, diseñó libros y números de La URSS en construcción en los años treinta.[1][4][5][6] Nació en Kovno (hoy Kaunas, Lituania) en 1894 y murió en Moscú en 1958.[1][4]"
+   },
+   "short": "Stepanova",
+   "refs": [
+    {
+     "label": "Museo Nacional Thyssen-Bornemisza, «Stepanova, Varvara Fedorovna»",
+     "url": "https://www.museothyssen.org/en/collection/artists/stepanova-varvara-fedorovna",
+     "checks": "nacimiento 5 nov. 1894 en Kovno (hoy Kaunas, Lituania); muerte 20 mayo 1958 en Moscú; Rodchenko, compañero de toda la vida.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Constructivism»",
+     "url": "https://www.rem.routledge.com/articles/overview/constructivism",
+     "checks": "Primer Grupo de Trabajo de Constructivistas fundado en 1921, con Gan, Popova, Rodchenko, Stepanova y Vesnin; Stepanova diseñó ropa de trabajo, ropa deportiva y telas, muchas producidas en serie por la Primera Fábrica Estatal de Estampado Textil en 1923–24; formas geométricas.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Tate Papers 14, «Liubov Popova: From Painting to Textile Design»",
+     "url": "https://www.tate.org.uk/research/tate-papers/14/liubov-popova-from-painting-to-textile-design",
+     "checks": "Popova y Stepanova en la Primera Fábrica Estatal de Estampado Textil, probablemente desde el otoño de 1923 (fecha exacta desconocida); caricatura de Stepanova que muestra a Popova con muchos más diseños que ella.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AWARE: Archives of Women Artists, «Varvara Stepanova»",
+     "url": "https://awarewomenartists.com/en/artiste/varvara-stepanova/",
+     "checks": "Kaunas 1894 – Moscú 1958; diseños textiles en 1924; ropa deportiva (1923); cargos en INKhUK, IZO y Vkhutemas; carteles y libros fotográficos con Rodchenko.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Galerie Gmurzynska, biografía de Varvara Stepanova",
+     "url": "https://www.gmurzynska.com/artists/varvara-stepanova/bio",
+     "checks": "diseños para la Primera Fábrica Estatal Textil de Moscú (1923–24) con Popova; profesora a cargo del Departamento Textil del VKhUTEMAS (1924–25); desde 1925, tipografía y diseño de libros y revistas. ⚠ galería comercial, fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "MoMA, Rodchenko y Stepanova, SSSR na stroike (USSR in Construction), 1935",
+     "url": "https://www.moma.org/collection/works/106141",
+     "checks": "número de 1935 de La URSS en construcción atribuido a Rodchenko y Stepanova; Stepanova 1894–1958.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Printed Flannel, Varvara Stepanova (1924)",
+     "url": "https://collections.vam.ac.uk/item/O1371413/printed-flannel-varvara-stepanova/",
+     "checks": "franela estampada de 1924; Stepanova, Rodchenko y Popova enseñaron en el VKhUTEMAS.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "neurath-isotype",
+   "level": "essential",
+   "kind": "collective",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1882,
+   "died": 1988,
+   "dates": "Otto Neurath 1882–1945 · Marie Neurath 1898–1986 · Gerd Arntz 1900–1988",
+   "countries": [
+    "AT",
+    "NL",
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Isotype",
+   "movements": [],
+   "institutions": [],
+   "key": "The team of Otto Neurath, Marie Neurath and Gerd Arntz, who invented a system of pictorial statistics to explain social facts to everyone.[1][2]",
+   "more": "The philosopher and economist Otto Neurath founded Vienna’s Social and Economic Museum in 1925 to explain social and economic facts to the public.[1][5] Marie Reidemeister, later Marie Neurath, joined that year and became the ‘transformer’ who turned data into pictures;[2][3] the German artist Gerd Arntz, who drew some 4,000 pictograms, joined in 1928.[2][4] Fleeing Austrian fascism, they moved to The Hague in 1934, where the method took the name Isotype, and to England in 1940.[2][3][4][5] Otto Neurath was born in Vienna in 1882 and died in Oxford in 1945.[5]",
+   "wiki": "Isotype_(picture_language)",
+   "es": {
+    "dates": "Otto Neurath 1882–1945 · Marie Neurath 1898–1986 · Gerd Arntz 1900–1988",
+    "key": "El equipo de Otto Neurath, Marie Neurath y Gerd Arntz, que inventó un sistema de estadística pictórica para explicar hechos sociales a todo el mundo.[1][2]",
+    "more": "El filósofo y economista Otto Neurath fundó en 1925 el Museo Social y Económico de Viena para explicar al público hechos sociales y económicos.[1][5] Marie Reidemeister, luego Marie Neurath, se unió ese año y fue la «transformadora» que convertía los datos en imágenes;[2][3] el artista alemán Gerd Arntz, que dibujó unos 4.000 pictogramas, se sumó en 1928.[2][4] Huyendo del fascismo austriaco, se trasladaron a La Haya en 1934, donde el método tomó el nombre de Isotype, y a Inglaterra en 1940.[2][3][4][5] Otto Neurath nació en Viena en 1882 y murió en Oxford en 1945.[5]"
+   },
+   "refs": [
+    {
+     "label": "Österreichisches Gesellschafts- und Wirtschaftsmuseum, «Otto Neurath»",
+     "url": "https://www.gwm.museum/otto-neurath/",
+     "checks": "Otto Neurath (1882–1945) fundó en 1925 el Gesellschafts- und Wirtschaftsmuseum de Viena; equipo con Marie Reidemeister (luego Neurath) y Gerd Arntz; lenguaje gráfico ISOTYPE para explicar asuntos complejos de forma simple.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Isotype Revisited (University of Reading), «Introduction»",
+     "url": "https://isotyperevisited.org/2012/08/introduction.php",
+     "checks": "origen del museo en el movimiento de colonos y un museo de la vivienda; Marie Reidemeister se unió al museo desde su inicio y fue la principal «transformadora»; Arntz colabora desde 1928; traslado a La Haya tras la guerra civil austriaca de 1934, donde Marie inventó el nombre Isotype (c. 1935); huida a Gran Bretaña en 1940; fechas de vida de Otto (1882–1945), Marie (1898–1986) y Arntz (1900–1988).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "AIGA Eye on Design, «Meet Marie Neurath…»",
+     "url": "https://eyeondesign.aiga.org/meet-marie-neurath-the-woman-who-transformed-isoytpe-into-an-international-endeavor/",
+     "checks": "Marie Reidemeister nació en Braunschweig en 1898; entró al museo en marzo de 1925; término «transformer»; traslado a los Países Bajos en 1934; huida a Inglaterra en 1940; ella propuso el nombre ISOTYPE. ⚠ revista, fuente secundaria.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Gerd Arntz Web Archive, «Gerd Arntz»",
+     "url": "https://www.gerdarntz.org/content/gerd-arntz.html",
+     "checks": "Arntz (1900–1988); invitado a Viena en 1928; diseñó unos 4.000 pictogramas; emigración a La Haya en 1934; Neurath huye a Inglaterra en 1940.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy, «Otto Neurath»",
+     "url": "https://plato.stanford.edu/entries/neurath/",
+     "checks": "Otto Neurath nació el 10 dic. 1882 en Viena y murió el 22 dic. 1945 en Oxford; filósofo, sociólogo y economista; director del museo 1924–1934; huida a La Haya en 1934; con Marie Reidemeister a Inglaterra en 1940.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "leopoldo-mendez",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1902,
+   "died": 1969,
+   "dates": "1902–1969",
+   "countries": [
+    "MX"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Leopoldo Méndez",
+   "movements": [],
+   "institutions": [
+    "inst-tgp"
+   ],
+   "key": "Mexican printmaker who co-founded the Taller de Gráfica Popular and made prints for political and popular causes.[1][2]",
+   "more": "In the 1920s he worked with the avant-garde Estridentistas in Xalapa.[3] He was a founding member of the League of Revolutionary Writers and Artists in 1933 and in 1937 co-founded the Taller de Gráfica Popular with Pablo O’Higgins and Luis Arenal.[1][2] He held a Guggenheim fellowship in 1938–39;[1][4] his series of lithographs In the Name of Christ (1939) denounced the murder of more than 200 teachers.[5][6] Born in Mexico City in 1902, he died there in 1969.[1]",
+   "wiki": "Leopoldo_Méndez",
+   "es": {
+    "dates": "1902–1969",
+    "key": "Grabador mexicano que cofundó el Taller de Gráfica Popular e hizo grabados para causas políticas y populares.[1][2]",
+    "more": "En los años veinte trabajó con los estridentistas, de vanguardia, en Xalapa.[3] Fue miembro fundador de la Liga de Escritores y Artistas Revolucionarios en 1933 y en 1937 cofundó el Taller de Gráfica Popular con Pablo O’Higgins y Luis Arenal.[1][2] Tuvo una beca Guggenheim en 1938–39;[1][4] su serie de litografías En nombre de Cristo (1939) denunció el asesinato de más de 200 maestros.[5][6] Nació en Ciudad de México en 1902 y murió allí en 1969.[1]"
+   },
+   "refs": [
+    {
+     "label": "Museo Blaisten, «Leopoldo Méndez, 1902–1969»",
+     "url": "https://museoblaisten.com/Artista/293/Leopoldo-Mendez",
+     "checks": "nació en Ciudad de México el 30 jun. 1902 y murió allí el 8 feb. 1969; amistad con los estridentistas; fundador de la LEAR en 1933; en 1937 integró la fundación del TGP con Pablo O’Higgins, Luis Arenal y otros; beca Guggenheim en 1939 y viaje a Nueva York.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Art Institute of Chicago, «Leopoldo Méndez»",
+     "url": "https://www.artic.edu/artists/35738/leopoldo-mendez",
+     "checks": "grabador mexicano; dirigió y cofundó el Taller de Gráfica Popular (1937); LEAR (1933); arte para la reforma agraria, los derechos indígenas y contra el fascismo; murió en 1969.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Elissa J. Rashkin, «Allá en el horizonte. El estridentismo en perspectiva regional», LiminaR (CESMECA)",
+     "url": "https://liminar.cesmeca.mx/index.php/r1/article/view/369",
+     "checks": "Méndez y Ramón Alva de la Canal, ilustradores de la revista Horizonte de los estridentistas en Xalapa (desde abril de 1926).",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "John Simon Guggenheim Memorial Foundation, «Leopoldo Méndez»",
+     "url": "https://www.gf.org/fellows/leopoldo-mendez/",
+     "checks": "beca de 1938 en bellas artes, por doce meses desde el 1 nov. 1938. ⚠ da como nacimiento el 9 jun. 1903, en contra de las demás fuentes.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "ICAA/MFAH, «En nombre de Cristo… han asesinado a más de 200 maestros: 7 litografías de Leopoldo Méndez»",
+     "url": "https://icaa.mfah.org/s/en/item/822751",
+     "checks": "carpeta de 1939 con siete litografías, editada por Gráfica Popular, sobre maestros asesinados entre 1936 y 1938.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Brooklyn Museum, En Nombre de Cristo",
+     "url": "https://www.brooklynmuseum.org/objects/166020",
+     "checks": "litografía de 1939; Méndez 1902–1969.",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "mauricio-amster",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1907,
+   "died": 1980,
+   "dates": "1907–1980",
+   "countries": [
+    "ES",
+    "CL"
+   ],
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "name": "Mauricio Amster",
+   "movements": [],
+   "institutions": [
+    "inst-zig-zag"
+   ],
+   "key": "Book designer born in Lviv who worked for the Spanish Republic and, after arriving on the Winnipeg in 1939, renewed graphic design in Chile.[1]",
+   "more": "He studied at the Reimann School in Berlin and settled in Madrid in 1930.[1] During the Civil War he designed the Cartilla escolar antifascista (1937) for the Republic’s Ministry of Public Instruction.[1] Exiled to France in 1939, he reached Valparaíso on the Winnipeg in September 1939.[1] From 1940 he was art director of the publisher Zig-Zag,[1] and from around 1950 until his death he was the designer and typographer of Editorial Universitaria, shaping Chilean book design for decades.[1] He died in Santiago in 1980.[1]",
+   "wiki": "Mauricio_Amster",
+   "es": {
+    "dates": "1907–1980",
+    "key": "Diseñador de libros nacido en Leópolis que trabajó para la República española y, tras llegar en el Winnipeg en 1939, renovó el diseño gráfico en Chile.[1]",
+    "more": "Estudió en la Escuela Reimann de Berlín y se instaló en Madrid en 1930.[1] Durante la Guerra Civil diseñó la Cartilla escolar antifascista (1937) para el Ministerio de Instrucción Pública de la República.[1] Exiliado en Francia en 1939, llegó a Valparaíso en el Winnipeg en septiembre de ese año.[1] Desde 1940 fue director artístico de la editorial Zig-Zag,[1] y desde alrededor de 1950 hasta su muerte fue el diseñador y tipógrafo de la Editorial Universitaria, marcando el diseño de libros chileno por décadas.[1] Murió en Santiago en 1980.[1]"
+   },
+   "refs": [
+    {
+     "label": "Biblioteca Nacional de Chile, Memoria Chilena, ‘Mauricio Amster (1907-1980)’",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3608.html",
+     "checks": "nació el 4 jun. 1907 en Lvov (Lemberg) y murió el 29 feb. 1980 en Santiago; estudió en la Escuela Reimann de Berlín (1927); se instaló en Madrid en 1930; Cartilla escolar antifascista (1937) para el Ministerio de Instrucción Pública; tras la derrota pasó a Francia y en 1939 se embarcó en el Winnipeg, llegando a Valparaíso en septiembre; director artístico de Zig-Zag desde 1940; diseñador y tipógrafo de la Editorial Universitaria desde alrededor de 1950 hasta su muerte",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "core-silva-ossa",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1913,
+   "died": 1950,
+   "dates": "1913–1950",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Coré",
+   "movements": [],
+   "institutions": [
+    "inst-zig-zag"
+   ],
+   "key": "Pen name of Mario Silva Ossa, Chilean illustrator whose covers for the children’s magazine El Peneca shaped the imagination of generations of readers.[1][2]",
+   "more": "Born in San Fernando in 1913,[1][3] he studied architecture for two years at the University of Chile.[1] In 1932 he joined El Peneca, published by Zig-Zag and edited by his aunt Elvira Santa Cruz Ossa, ‘Roxane’,[1][2] and for eighteen years drew its covers and stories.[1][2] He also illustrated editions of Treasure Island, Gulliver’s Travels and the Silabario Hispanoamericano reading primer.[1] He died in 1950, aged 37.[1][3]",
+   "es": {
+    "dates": "1913–1950",
+    "key": "Seudónimo de Mario Silva Ossa, ilustrador chileno cuyas portadas para la revista infantil El Peneca marcaron la imaginación de generaciones de lectores.[1][2]",
+    "more": "Nacido en San Fernando en 1913,[1][3] estudió dos años de arquitectura en la Universidad de Chile.[1] En 1932 entró a El Peneca, publicada por Zig-Zag y dirigida por su tía Elvira Santa Cruz Ossa, «Roxane»,[1][2] y durante dieciocho años dibujó sus portadas e historias.[1][2] También ilustró ediciones de La isla del tesoro, Los viajes de Gulliver y el Silabario Hispanoamericano.[1] Murió en 1950, a los 37 años.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Memoria Chilena (Biblioteca Nacional de Chile), «Mario Silva Ossa (1913-1950)»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-748.html",
+     "checks": "nacido en San Fernando en 1913; seudónimo Coré; dos años en la Escuela de Arquitectura de la Universidad de Chile; ingreso a El Peneca en 1932, dirigida entonces por su tía Elvira Santa Cruz Ossa, «Roxane»; dieciocho años como ilustrador y dibujante; ilustró La isla del tesoro, Los viajes de Gulliver y el Silabario Hispanoamericano; murió en 1950, pocos días después de cumplir 37 años; influencia en la infancia de poetas como Arteche, Lihn y Teillier.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Memoria Chilena (Biblioteca Nacional de Chile), «El Peneca (1908-1960)»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3397.html",
+     "checks": "revista creada por Zig-Zag en 1908; Roxane directora desde 1921; portadas «bellas e innovadoras» de Coré desde 1932; influencia en varias generaciones de niños; 180.000 ejemplares hacia 1940.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Biblioteca Nacional Digital de Chile, [Portada El Peneca 1524], original de arte",
+     "url": "https://www.bibliotecanacionaldigital.gob.cl/bnd/649/w3-article-620077.html",
+     "checks": "autoría de Mario Silva Ossa, seudónimo Coré, con fechas de vida 1913–1950; original de portada de 1938 (tinta sobre papel).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "vladimir-tatlin",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1885,
+   "died": 1953,
+   "dates": "1885–1953",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Vladimir Tatlin",
+   "key": "Russian artist and architect, author of the model for the Monument to the Third International, the tower that became the emblem of Constructivism.",
+   "more": "Trained as a painter, he turned to constructed reliefs and then to the Monument to the Third International, designed in 1919–20 as a tilting spiral tower of iron and glass and shown as a large model. It was never built. He later designed utilitarian objects and worked in theatre.",
+   "es": {
+    "dates": "1885–1953",
+    "key": "Artista y arquitecto ruso, autor de la maqueta del Monumento a la Tercera Internacional, la torre que se volvió emblema del constructivismo.",
+    "more": "Formado como pintor, pasó a los relieves construidos y luego al Monumento a la Tercera Internacional, proyectado en 1919–20 como una torre en espiral inclinada de hierro y vidrio y exhibido como una gran maqueta. Nunca se construyó. Más tarde diseñó objetos utilitarios y trabajó en teatro."
+   },
+   "refs": []
+  },
+  {
+   "id": "erich-mendelsohn",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1887,
+   "died": 1953,
+   "dates": "1887–1953",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Erich Mendelsohn",
+   "key": "German architect of Expressionism, best known for the Einstein Tower at Potsdam and for his department stores of the late 1920s.",
+   "more": "He drew expressive sketches of buildings in concrete and steel from the First World War and built the Einstein Tower in Potsdam, completed in 1921. In the late 1920s he designed department stores for the Schocken company. As a Jew he left Germany in 1933, worked in Britain and Palestine and settled in the United States in 1941.",
+   "es": {
+    "dates": "1887–1953",
+    "key": "Arquitecto alemán del expresionismo, conocido sobre todo por la Torre Einstein de Potsdam y por sus grandes almacenes de fines de los años veinte.",
+    "more": "Desde la Primera Guerra Mundial dibujó bocetos expresivos de edificios de hormigón y acero y construyó la Torre Einstein en Potsdam, terminada en 1921. A fines de los años veinte proyectó almacenes para la empresa Schocken. Por ser judío dejó Alemania en 1933, trabajó en Gran Bretaña y Palestina y se instaló en Estados Unidos en 1941."
+   },
+   "refs": []
+  },
+  {
+   "id": "auguste-perret",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1874,
+   "died": 1954,
+   "dates": "1874–1954",
+   "countries": [
+    "BE",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Auguste Perret",
+   "key": "French architect, born in Belgium, who made reinforced concrete the visible structure and language of his buildings.",
+   "more": "With his brothers he ran a building firm and designed the apartment block at 25 bis rue Franklin in Paris (1904) and the church of Notre-Dame du Raincy (1923), both with an exposed concrete frame. After the Second World War he directed the reconstruction of Le Havre. Le Corbusier worked in his office in 1908–09.",
+   "es": {
+    "dates": "1874–1954",
+    "key": "Arquitecto francés, nacido en Bélgica, que hizo del hormigón armado la estructura visible y el lenguaje de sus edificios.",
+    "more": "Con sus hermanos dirigió una empresa constructora y proyectó el edificio de la rue Franklin 25 bis en París (1904) y la iglesia de Notre-Dame du Raincy (1923), ambos con estructura de hormigón a la vista. Tras la Segunda Guerra Mundial dirigió la reconstrucción de Le Havre. Le Corbusier trabajó en su oficina en 1908–09."
+   },
+   "refs": []
+  },
+  {
+   "id": "thayaht",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion",
+    "graphic"
+   ],
+   "born": 1893,
+   "died": 1959,
+   "dates": "1893–1959",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Thayaht (Ernesto Michahelles)",
+   "key": "Italian Futurist artist and designer who created the TuTa, a simple one-piece garment cut from a few straight pieces of cloth.",
+   "more": "Born Ernesto Michahelles in Florence, he worked as a painter, sculptor and graphic artist under the name Thayaht. In 1919 he designed the TuTa, a one-piece suit meant to be cheap, easy to make and the same for everyone, and published the pattern in a Florence newspaper in 1920.",
+   "es": {
+    "dates": "1893–1959",
+    "key": "Artista y diseñador futurista italiano que creó la TuTa, una prenda de una pieza cortada con pocos trozos rectos de tela.",
+    "more": "Nacido como Ernesto Michahelles en Florencia, trabajó como pintor, escultor y artista gráfico con el nombre de Thayaht. En 1919 diseñó la TuTa, un traje de una pieza pensado para ser barato, fácil de hacer e igual para todos, y publicó el patrón en un diario de Florencia en 1920."
+   },
+   "refs": [],
+   "short": "Thayaht"
+  },
+  {
+   "id": "jean-patou",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1887,
+   "died": 1936,
+   "dates": "1887–1936",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jean Patou",
+   "key": "French couturier who in the 1920s made sportswear part of high fashion, dressing the tennis player Suzanne Lenglen.",
+   "more": "He opened his fashion house in Paris in 1919. In the 1920s he designed clothes for tennis and other sports and dressed the tennis champion Suzanne Lenglen, and he was known for knitwear and for practical day clothes. He also launched perfumes. He died in 1936.",
+   "es": {
+    "dates": "1887–1936",
+    "key": "Modisto francés que en los años veinte incorporó la ropa deportiva a la alta costura y vistió a la tenista Suzanne Lenglen.",
+    "more": "Abrió su casa de modas en París en 1919. En los años veinte diseñó ropa para el tenis y otros deportes y vistió a la campeona de tenis Suzanne Lenglen, y fue conocido por sus prendas de punto y su ropa práctica de día. También lanzó perfumes. Murió en 1936."
+   },
+   "refs": []
+  },
+  {
+   "id": "adrian",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1903,
+   "died": 1959,
+   "dates": "1903–1959",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Gilbert Adrian",
+   "key": "American costume designer, head of costume at MGM in the 1930s, whose broad-shouldered silhouettes for film stars influenced fashion.",
+   "more": "Born Adrian Adolph Greenburg, he began in New York and Hollywood in the 1920s and was chief costume designer at MGM from 1928 to 1941. He dressed Joan Crawford, Greta Garbo and Norma Shearer, among others. In 1942 he opened his own fashion house in Beverly Hills.",
+   "es": {
+    "dates": "1903–1959",
+    "key": "Figurinista estadounidense, jefe de vestuario de la MGM en los años treinta, cuyas siluetas de hombros anchos para estrellas de cine influyeron en la moda.",
+    "more": "Nacido como Adrian Adolph Greenburg, comenzó en Nueva York y Hollywood en los años veinte y fue diseñador jefe de vestuario de la MGM de 1928 a 1941. Vistió, entre otras, a Joan Crawford, Greta Garbo y Norma Shearer. En 1942 abrió su propia casa de modas en Beverly Hills."
+   },
+   "refs": []
+  },
+  {
+   "id": "claire-mccardell",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1905,
+   "died": 1958,
+   "dates": "1905–1958",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Claire McCardell",
+   "key": "American fashion designer who built a practical, comfortable American sportswear out of simple cuts and everyday fabrics.",
+   "more": "Trained at Parsons in New York, she became known in the 1930s and 1940s for easy, wearable clothes in fabrics such as denim, cotton jersey and gingham. Her Popover dress of 1942, a wrap dress with an oven mitt, showed her interest in function. She designed for Townley Frocks and later under her own name.",
+   "es": {
+    "dates": "1905–1958",
+    "key": "Diseñadora de moda estadounidense que construyó un sportswear americano práctico y cómodo a partir de cortes simples y telas cotidianas.",
+    "more": "Formada en Parsons en Nueva York, se hizo conocida en los años treinta y cuarenta por una ropa fácil de usar, en telas como mezclilla, jersey de algodón y guinga. Su vestido Popover de 1942, un vestido cruzado con un guante de cocina, mostró su interés por la función. Diseñó para Townley Frocks y más tarde con su propio nombre."
+   },
+   "refs": []
+  },
+  {
+   "id": "filippo-marinetti",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1876,
+   "died": 1944,
+   "dates": "1876–1944",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Filippo Tommaso Marinetti",
+   "key": "Italian poet who founded Futurism in 1909 and, with his ‘words in freedom’, broke the page’s order into a new kind of typography.",
+   "more": "He published the Futurist manifesto in Le Figaro in Paris in 1909, praising speed and the machine. In 1912–13 he proposed ‘words in freedom’, and in works such as Zang Tumb Tuuum (1914) he scattered words and letters of different sizes across the page. He later supported Italian Fascism.",
+   "es": {
+    "dates": "1876–1944",
+    "key": "Poeta italiano que fundó el futurismo en 1909 y, con sus «palabras en libertad», rompió el orden de la página y abrió una nueva tipografía.",
+    "more": "Publicó el manifiesto futurista en Le Figaro de París en 1909, con elogios a la velocidad y la máquina. En 1912–13 propuso las «palabras en libertad» y en obras como Zang Tumb Tuuum (1914) esparció palabras y letras de distintos tamaños por la página. Más tarde apoyó al fascismo italiano."
+   },
+   "refs": [],
+   "movements": [
+    "futurism-typography"
+   ],
+   "short": "Marinetti"
+  },
+  {
+   "id": "joost-schmidt",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1893,
+   "died": 1948,
+   "dates": "1893–1948",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Joost Schmidt",
+   "institutions": [
+    "inst-bauhaus"
+   ],
+   "key": "German typographer and teacher who led the Bauhaus printing and advertising workshop from 1925 and designed the 1923 exhibition poster.",
+   "more": "He studied at the Weimar art school, joined the Bauhaus and designed the poster for the 1923 Bauhaus exhibition. From 1925 he taught at Dessau, where he directed the workshop for printing and advertising. He taught lettering and advertising design and later worked in Berlin.",
+   "es": {
+    "dates": "1893–1948",
+    "key": "Tipógrafo y docente alemán que dirigió desde 1925 el taller de impresión y publicidad de la Bauhaus y diseñó el cartel de la exposición de 1923.",
+    "more": "Estudió en la escuela de arte de Weimar, ingresó a la Bauhaus y diseñó el cartel de la exposición de 1923. Desde 1925 enseñó en Dessau, donde dirigió el taller de impresión y publicidad. Enseñó letras y diseño publicitario y más tarde trabajó en Berlín."
+   },
+   "refs": []
+  },
+  {
+   "id": "stenberg-brothers",
+   "level": "normal",
+   "kind": "duo",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1899,
+   "died": 1982,
+   "dates": "1899–1982",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Vladimir y Georgii Stenberg",
+   "key": "Soviet brothers who designed film posters in the 1920s, projecting film frames onto the sheet and distorting them with dramatic scale.",
+   "more": "Vladimir and Georgii Stenberg were constructivist artists who worked together on stage sets and, from the mid-1920s, on posters for Moscow cinemas. Their posters used strong angles, cropped figures and exaggerated scale. Georgii died in 1933 and Vladimir carried on until 1982.",
+   "es": {
+    "dates": "1899–1982",
+    "key": "Hermanos soviéticos que diseñaron carteles de cine en los años veinte, proyectando fotogramas sobre el papel y deformándolos con escalas dramáticas.",
+    "more": "Vladimir y Georgii Stenberg fueron artistas constructivistas que trabajaron juntos en escenografías y, desde mediados de los años veinte, en carteles para los cines de Moscú. Sus carteles usaban ángulos fuertes, figuras recortadas y escalas exageradas. Georgii murió en 1933 y Vladimir siguió hasta 1982."
+   },
+   "refs": [],
+   "short": "Stenberg"
+  },
+  {
+   "id": "emile-jacques-ruhlmann",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1879,
+   "died": 1933,
+   "dates": "1879–1933",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Émile-Jacques Ruhlmann",
+   "key": "French cabinetmaker, the leading furniture maker of Art Deco, known for refined pieces in rare woods and ivory.",
+   "more": "He ran a firm that made luxurious furniture in precious woods with ivory details, built by skilled craftsmen. For the 1925 Paris exhibition he furnished the Hôtel du Collectionneur, a pavilion designed with the architect Pierre Patout. He died in 1933.",
+   "es": {
+    "dates": "1879–1933",
+    "key": "Ebanista francés, el principal fabricante de muebles del Art Déco, conocido por sus piezas refinadas en maderas raras y marfil.",
+    "more": "Dirigió una empresa que hacía muebles de lujo en maderas preciosas con detalles de marfil, construidos por artesanos expertos. Para la exposición de París de 1925 amobló el Hôtel du Collectionneur, un pabellón proyectado con el arquitecto Pierre Patout. Murió en 1933."
+   },
+   "refs": []
+  },
+  {
+   "id": "oskar-barnack",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1879,
+   "died": 1936,
+   "dates": "1879–1936",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Oskar Barnack",
+   "key": "German engineer and optical mechanic at Leitz who developed the compact 35 mm Leica camera.",
+   "more": "Working at Ernst Leitz in Wetzlar, he built a small camera around 1913–14 that used 35 mm cine film, as a handy camera for taking test shots. The Leica I went on sale in 1925 and made small-format photography popular.",
+   "es": {
+    "dates": "1879–1936",
+    "key": "Ingeniero y mecánico óptico alemán de Leitz que desarrolló la cámara compacta Leica de 35 mm.",
+    "more": "Trabajando en Ernst Leitz, en Wetzlar, construyó hacia 1913–14 una cámara pequeña que usaba película de cine de 35 mm, pensada como cámara manual para tomar pruebas. La Leica I salió a la venta en 1925 e hizo popular la fotografía de formato pequeño."
+   },
+   "refs": []
+  },
+  {
+   "id": "clarice-cliff",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1899,
+   "died": 1972,
+   "dates": "1899–1972",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Clarice Cliff",
+   "movements": [
+    "art-deco"
+   ],
+   "institutions": [],
+   "key": "English ceramic designer, best known for the brightly painted Bizarre pottery she launched in 1927.",
+   "more": "Born in Stoke-on-Trent, Cliff worked in the Potteries and became known for hand-painted tableware in bold colours and geometric patterns. Her Bizarre range, begun in 1927, brought Art Deco taste to affordable domestic pottery. She died in 1972.",
+   "es": {
+    "dates": "1899–1972",
+    "key": "Diseñadora ceramista inglesa, conocida sobre todo por la loza Bizarre, pintada en colores vivos, que lanzó en 1927.",
+    "more": "Nacida en Stoke-on-Trent, Cliff trabajó en las Potteries y se hizo conocida por vajilla pintada a mano en colores fuertes y motivos geométricos. Su serie Bizarre, iniciada en 1927, llevó el gusto Art Déco a la loza doméstica económica. Murió en 1972."
+   },
+   "refs": []
+  },
+  {
+   "id": "pierre-jeanneret",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1896,
+   "died": 1967,
+   "dates": "1896–1967",
+   "countries": [
+    "CH",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Pierre Jeanneret",
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [
+    "inst-ciam"
+   ],
+   "key": "Swiss architect, cousin and long-time collaborator of Le Corbusier, co-author of the furniture the studio presented in 1928.",
+   "more": "Jeanneret worked with his cousin Le Corbusier from the 1920s, and with Charlotte Perriand they designed the tubular-steel furniture of 1928. He later worked on the planning of Chandigarh in India. Born in Geneva in 1896, he died in 1967.",
+   "es": {
+    "dates": "1896–1967",
+    "key": "Arquitecto suizo, primo y colaborador de largo tiempo de Le Corbusier, coautor del mobiliario que el taller presentó en 1928.",
+    "more": "Jeanneret trabajó con su primo Le Corbusier desde los años veinte y, junto con Charlotte Perriand, diseñaron el mobiliario de tubo de acero de 1928. Más tarde participó en la planificación de Chandigarh, en la India. Nació en Ginebra en 1896 y murió en 1967."
+   },
+   "refs": []
+  },
+  {
+   "id": "kaare-klint",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1888,
+   "died": 1954,
+   "dates": "1888–1954",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Kaare Klint",
+   "movements": [],
+   "institutions": [],
+   "key": "Danish architect and furniture designer who based furniture on the measured study of the human body and of historical types.[2][3]",
+   "more": "His first formal commission was the Faaborg chair of 1914, for the Faaborg Museum designed by Carl Petersen.[1] From 1924 he taught at the new furniture school of the Royal Danish Academy of Fine Arts,[2][4] where, according to the manufacturer Carl Hansen & Søn, students measured everyday objects and compared them with functional needs before designing.[3] He reworked older models, such as eighteenth-century English chairs, into simplified modern types,[2][4] and became the strongest influence on Danish furniture of the twentieth century.[1][2] Born in Frederiksberg in 1888, he died in Copenhagen in 1954.[2]",
+   "wiki": "Kaare_Klint",
+   "es": {
+    "dates": "1888–1954",
+    "key": "Arquitecto y diseñador de muebles danés que basó el mueble en el estudio medido del cuerpo humano y de los tipos históricos.[2][3]",
+    "more": "Su primer encargo formal fue la silla Faaborg de 1914, para el Museo de Faaborg proyectado por Carl Petersen.[1] Desde 1924 enseñó en la nueva escuela de mobiliario de la Real Academia Danesa de Bellas Artes,[2][4] donde, según el fabricante Carl Hansen & Søn, los estudiantes medían objetos cotidianos y los comparaban con las necesidades funcionales antes de diseñar.[3] Reelaboró modelos antiguos, como sillas inglesas del siglo XVIII, en tipos modernos simplificados,[2][4] y fue quien más marcó el mueble danés del siglo XX.[1][2] Nació en Frederiksberg en 1888 y murió en Copenhague en 1954.[2]"
+   },
+   "refs": [
+    {
+     "label": "Faaborg Museum, «Kaare Klint’s Furniture»",
+     "url": "https://www.faaborgmuseum.dk/en/art-and-artists/kaare-klints-furniture/",
+     "checks": "silla Faaborg de 1914; amueblar el museo fue su primer encargo formal, por encargo del arquitecto del edificio, Carl Petersen; 18 sillas y 7 taburetes; profesor en la Academia en 1924; su método de análisis de la función influyó en una generación de diseñadores daneses.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Lex (Den Store Danske), «Kaare Klint»",
+     "url": "https://lex.dk/Kaare_Klint",
+     "checks": "nacido el 15-12-1888 en Frederiksberg y muerto el 28-3-1954 en Copenhague; docente de la escuela de muebles de la Academia desde su creación en 1924 hasta 1944, luego profesor; método basado en el análisis de la tarea; sillas de 1927 que retoman sillas inglesas del siglo XVIII; quien más marcó el mueble danés del siglo XX («la escuela klintiana»). ⚠ no menciona mediciones del cuerpo ni muebles de campaña.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Carl Hansen & Søn, «Kaare Klint» (fabricante actual)",
+     "url": "https://www.carlhansen.com/en/en/designers/kaare-klint",
+     "checks": "midió y simplificó diseños anteriores para adaptarlos a las proporciones humanas; en la escuela de muebles de la Academia (cofundada en 1924) hizo estudios de proporción con sus alumnos, midiendo objetos cotidianos y comparándolos con las necesidades funcionales; 1888–1954. ⚠ fuente del fabricante.",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Dansk Biografisk Leksikon (lex.dk), «Kaare Klint»",
+     "url": "https://biografiskleksikon.lex.dk/Kaare_Klint",
+     "checks": "fechas 15-12-1888 – 28-3-1954; sillas para el Museo de Faaborg (1914); docente de muebles en la Academia desde 1924 y profesor desde 1944; variantes clásicas simplificadas a partir de muebles ingleses (Chippendale).",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "carwardine",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1887,
+   "died": 1947,
+   "dates": "1887–1947",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "George Carwardine",
+   "movements": [],
+   "institutions": [],
+   "key": "British automotive engineer who invented the Anglepoise lamp by applying his knowledge of springs to a balanced, movable arm.[1][2][3]",
+   "more": "A specialist in vehicle suspension with his own firm in Bath, he applied for a patent in July 1932 for a lamp arm balanced by springs.[1][2][3] In 1934 he licensed it to Herbert Terry & Sons, spring makers of Redditch, which launched the three-spring domestic Anglepoise in 1935.[1][2][3]",
+   "wiki": "Anglepoise_lamp",
+   "es": {
+    "dates": "1887–1947",
+    "key": "Ingeniero automotriz británico que inventó la lámpara Anglepoise aplicando su conocimiento de los resortes a un brazo equilibrado y móvil.[1][2][3]",
+    "more": "Especialista en suspensiones de vehículos, con su propia empresa en Bath, pidió en julio de 1932 una patente para un brazo de lámpara equilibrado por resortes.[1][2][3] En 1934 la cedió bajo licencia a Herbert Terry & Sons, fabricante de resortes de Redditch, que lanzó en 1935 la Anglepoise doméstica de tres resortes.[1][2][3]"
+   },
+   "short": "Carwardine",
+   "refs": [
+    {
+     "label": "Science Museum Group Collection, «George Carwardine»",
+     "url": "https://collection.sciencemuseumgroup.org.uk/people/cp48069/george-carwardine",
+     "checks": "ingeniero automotriz; patente n.º 404.615 del mecanismo de resortes, 4 jul. 1932; producción inicial con su empresa Cardine Accessories, en Bath; licencia a Terry, de Redditch, en 1934; lámpara doméstica de tres resortes (patente de feb. 1934) (⚠ da 1887–1948 como fechas de vida)",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "V&A, Anglepoise Lamp 1227, George Carwardine",
+     "url": "https://collections.vam.ac.uk/item/O301712/anglepoise-lamp-1227-carwardine-george/",
+     "checks": "fechas 1887–1947; ingeniero automotriz que desarrolló el mecanismo de resortes trabajando en suspensiones; patente en 1932; Herbert Terry & Sons, fabricante de resortes de Redditch, con derechos exclusivos desde enero de 1934; modelo 1227 de tres resortes lanzado en 1935",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Design Museum, «Anglepoise»",
+     "url": "https://designmuseum.org/design/anglepoise",
+     "checks": "fechas 1887–1947; ingeniero automotriz especializado en suspensiones; taller en Bath; patente de julio de 1932; licencia a Herbert Terry & Sons en 1934; modelo doméstico 1227 de tres resortes en 1935",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "madame-gres",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1903,
+   "died": 1993,
+   "dates": "1903–1993",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Madame Grès",
+   "movements": [],
+   "institutions": [],
+   "key": "French couturier who sculpted gowns by draping and pleating fabric directly on the body, first under the label Alix.[1][2][3]",
+   "more": "Born Germaine Krebs in Paris in 1903, she wanted to be a sculptor.[1][3] After a short partnership in 1933, she opened her own house under the name Alix in 1934, known for Grecian gowns of finely pleated silk jersey draped on the mannequin.[1][2][3] In 1942 she opened a new house as Grès; the German occupiers forced it to close in January 1944, she reopened it briefly before the liberation of Paris, and she ran it until 1988.[1][3]",
+   "wiki": "Madame_Grès",
+   "es": {
+    "dates": "1903–1993",
+    "key": "Modista francesa que esculpía vestidos drapeando y plisando la tela directamente sobre el cuerpo, primero con la marca Alix.[1][2][3]",
+    "more": "Nacida Germaine Krebs en París en 1903, quería ser escultora.[1][3] Tras una breve sociedad en 1933, abrió su propia casa con el nombre Alix en 1934, conocida por vestidos de estilo griego de jersey de seda finamente plisado y drapeado sobre el maniquí.[1][2][3] En 1942 abrió una nueva casa como Grès; los ocupantes alemanes la obligaron a cerrar en enero de 1944, la reabrió brevemente antes de la liberación de París y la dirigió hasta 1988.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Palais Galliera, exposición «Madame Grès, la couture à l'œuvre» (2011)",
+     "url": "https://www.palaisgalliera.paris.fr/expositions/madame-gres-la-couture-loeuvre",
+     "checks": "nombre Germaine Krebs; fechas 1903–1993; cita «Je voulais être sculpteur»; modelos conocidos como Alix en 1933; drapeados en jersey; casa Grès abierta en 1942 y dirigida hasta 1988",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Fondation Azzedine Alaïa, «Madame Grès» (couturiers)",
+     "url": "https://fondationazzedinealaia.org/en/couturiers/madame-gres/",
+     "checks": "sociedad con Julie Barton en 1933 (Maison Alix Barton); Maison Alix en 1934; drapeado inspirado en la estatuaria clásica",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Encyclopedia.com, «Grès, Mme.», Encyclopedia of Clothing and Fashion",
+     "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/gres-mme",
+     "checks": "nacimiento en París el 30-11-1903; deseo de ser escultora; vestidos plisados de jersey de seda; cierre forzado del salón en enero de 1944 tras negarse a exigencias nazis; reapertura para una última colección antes de la liberación de París. ⚠ da la muerte en 1994 (fecha en que se hizo pública)",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "chareau",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1883,
+   "died": 1950,
+   "dates": "1883–1950",
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Pierre Chareau",
+   "movements": [
+    "art-deco",
+    "international-style"
+   ],
+   "institutions": [],
+   "key": "French designer of furniture, lamps and interiors whose Maison de Verre in Paris made glass, steel and moving parts into domestic architecture.[1][2]",
+   "more": "Trained in the Paris branch of the furniture firm Waring & Gillow, he designed interiors and furniture on his own from 1919, starting with rooms for the Dalsace family.[1] With the Dutch architect Bernard Bijvoet and the metalworker Louis Dalbet he built the Maison de Verre (1928–32) for Dr Jean Dalsace and his wife Annie.[1][2] Because of his Jewish origins, he fled France in 1940 and settled in New York.[1][2] Born in Bordeaux in 1883, he died in New York in 1950.[1][2]",
+   "wiki": "Pierre_Chareau",
+   "es": {
+    "dates": "1883–1950",
+    "key": "Diseñador francés de muebles, lámparas e interiores cuya Maison de Verre de París hizo del vidrio, el acero y las piezas móviles una arquitectura doméstica.[1][2]",
+    "more": "Formado en la sucursal parisina de la empresa de muebles Waring & Gillow, diseñó interiores y muebles por su cuenta desde 1919, empezando por unas habitaciones para la familia Dalsace.[1] Con el arquitecto neerlandés Bernard Bijvoet y el herrero Louis Dalbet construyó la Maison de Verre (1928–32) para el doctor Jean Dalsace y su esposa Annie.[1][2] Por su origen judío, huyó de Francia en 1940 y se instaló en Nueva York.[1][2] Nacido en Burdeos en 1883, murió en Nueva York en 1950.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Art Deco Society of New York, «Pierre Chareau: Modern Architecture»",
+     "url": "https://www.artdeco.org/pierre-chareau-modern-architecture",
+     "checks": "fechas 1883–1950; en Waring & Gillow (París) desde 1899; práctica propia desde 1919; primer encargo: estudio y dormitorio para Jean Dalsace y Annie Bernheim; Maison de Verre 1928–1932 con Bernard Bijvoet; raíces judías; salida de Francia en 1940 (Marruecos, luego Nueva York); muerte en Nueva York en 1950. ⚠ no nombra a Dalbet",
+     "date": "2026-10-03"
+    },
+    {
+     "label": "Sotheby’s, «Out of Obscurity: The Life and Work of Pierre Chareau»",
+     "url": "https://www.sothebys.com/en/articles/out-of-obscurity-the-life-and-work-of-pierre-chareau",
+     "checks": "nacimiento en Burdeos en 1883 en familia judía; trabajo en una firma británica de muebles en París; Maison de Verre para Jean y Annie Dalsace con Bijvoet y el herrero Louis Dalbet; bloques de vidrio y muebles móviles; exilio en Nueva York (dice 1939). ⚠ fuente secundaria (casa de subastas); ⚠ lámparas no confirmadas expresamente",
+     "date": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "walter-dorwin-teague",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1883,
+   "died": 1960,
+   "dates": "1883–1960",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Walter Dorwin Teague",
+   "short": "Teague",
+   "movements": [
+    "streamline-moderne"
+   ],
+   "institutions": [],
+   "key": "American industrial designer who worked for Eastman Kodak from 1928 to 1960 and made cheap, modern cameras for a mass public.[1]",
+   "more": "A former advertising artist, he was one of the first independent industrial designers in the United States, alongside Bel Geddes, Dreyfuss and Loewy.[2] His Baby Brownie of 1934 sold for one dollar.[1]",
+   "wiki": "Walter_Dorwin_Teague",
+   "refs": [
+    {
+     "label": "Cooper Hewitt, «A Camera Worth A Thousand Words: Eastman Kodak’s Baby Brownie»",
+     "checks": "Teague trabajó para Kodak de 1928 a 1960; Baby Brownie de un dólar. ⚠ Las fechas de vida no se leyeron en esta fuente (comprobar en A6).",
+     "date": "2026-10-03",
+     "url": "https://www.cooperhewitt.org/2016/08/30/21213/"
+    },
+    {
+     "label": "PBS American Experience, «Industrial Designers and Streamliners»",
+     "checks": "Teague entre los primeros diseñadores industriales, antes diseñadores publicitarios o escénicos.",
+     "date": "2026-10-03",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/"
+    }
+   ],
+   "es": {
+    "dates": "1883–1960",
+    "key": "Diseñador industrial estadounidense que trabajó para Eastman Kodak entre 1928 y 1960 e hizo cámaras modernas y baratas para un público masivo.[1]",
+    "more": "Antiguo dibujante publicitario, fue uno de los primeros diseñadores industriales independientes de Estados Unidos, junto a Bel Geddes, Dreyfuss y Loewy.[2] Su Baby Brownie de 1934 costaba un dólar.[1]"
+   }
+  },
+  {
+   "id": "antonio-sant-elia",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1888,
+   "died": 1916,
+   "dates": "1888–1916",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Antonio Sant'Elia",
+   "movements": [
+    "futurism-typography"
+   ],
+   "key": "Italian Futurist architect whose drawings for the Città Nuova imagined a city of concrete, steel and glass, but who died at the front in 1916 without building it.",
+   "more": "He drew the Città Nuova in 1914 and signed the Manifesto of Futurist Architecture of that year, with its vision of a mechanical city of skyscrapers, lifts and elevated traffic. He volunteered for the First World War and was killed in 1916, so his work survives almost only as drawings. Those drawings influenced later modern architects, who knew them as a vision of the city of the machine age.",
+   "es": {
+    "dates": "1888–1916",
+    "key": "Arquitecto futurista italiano cuyos dibujos de la Città Nuova imaginaron una ciudad de hormigón, acero y vidrio, pero que murió en el frente en 1916 sin construirla.",
+    "more": "Dibujó la Città Nuova en 1914 y firmó el Manifiesto de la arquitectura futurista de ese año, con su visión de una ciudad mecánica de rascacielos, ascensores y tráfico elevado. Se ofreció como voluntario en la Primera Guerra Mundial y murió en 1916, de modo que su obra sobrevive casi solo en dibujos. Esos dibujos influyeron en arquitectos modernos posteriores, que los conocieron como la visión de la ciudad de la era de la máquina."
+   },
+   "refs": []
+  },
+  {
+   "id": "richard-neutra",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1892,
+   "died": 1970,
+   "dates": "1892–1970",
+   "countries": [
+    "AT",
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Richard Neutra",
+   "movements": [
+    "international-style"
+   ],
+   "key": "Austrian-born architect who brought European modernism to California, designing light, open houses that tied health and the outdoors to modern living.",
+   "more": "Born in Vienna, he emigrated to the United States in 1923 and settled in Los Angeles. The Lovell Health House (Los Angeles, c. 1929) made his name, and he went on to design many houses of glass and steel opening onto gardens and terraces in Southern California. Through them he became one of the best-known figures of the modernist house in the United States. He died in Wuppertal in 1970.",
+   "es": {
+    "dates": "1892–1970",
+    "key": "Arquitecto de origen austríaco que llevó el modernismo europeo a California y diseñó casas luminosas y abiertas, que unían la salud y el aire libre a la vida moderna.",
+    "more": "Nacido en Viena, emigró a Estados Unidos en 1923 y se instaló en Los Ángeles. La Casa de la Salud Lovell (Los Ángeles, c. 1929) le dio fama, y luego proyectó muchas casas de vidrio y acero abiertas a jardines y terrazas en el sur de California. Con ellas se volvió una de las figuras más conocidas de la casa modernista en Estados Unidos. Murió en Wuppertal en 1970."
+   },
+   "refs": []
+  },
+  {
+   "id": "kurt-schwitters",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1887,
+   "died": 1948,
+   "dates": "1887–1948",
+   "countries": [
+    "DE",
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Kurt Schwitters",
+   "movements": [
+    "dada",
+    "new-typography"
+   ],
+   "key": "German Dada artist who turned collage into a personal art he called Merz, and who also worked as a typographer and advertising designer in Hannover.",
+   "more": "Born in Hannover, he made collages of found scraps of paper and rubbish under the name Merz, and published a magazine of that name in the 1920s. He also designed typography and advertising, notably for the city of Hannover, and was linked to the circle of the New Typography. After the Nazis came to power he left Germany for Norway in 1937 and then for Britain, where he died in 1948.",
+   "es": {
+    "dates": "1887–1948",
+    "key": "Artista dadá alemán que hizo del collage un arte personal llamado Merz, y que trabajó también como tipógrafo y diseñador publicitario en Hannover.",
+    "more": "Nacido en Hannover, hizo collages con retazos de papel y desechos encontrados bajo el nombre de Merz, y publicó una revista con ese nombre en la década de 1920. También diseñó tipografía y publicidad, en especial para la ciudad de Hannover, y estuvo vinculado al círculo de la Nueva Tipografía. Tras la llegada de los nazis al poder dejó Alemania en 1937 rumbo a Noruega y luego a Gran Bretaña, donde murió en 1948."
+   },
+   "refs": []
+  },
+  {
+   "id": "kazimir-malevich",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "born": 1879,
+   "died": 1935,
+   "dates": "1879–1935",
+   "countries": [
+    "RU"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Kazimir Malevich",
+   "movements": [
+    "suprematism"
+   ],
+   "key": "Russian painter who founded Suprematism in 1915, a language of pure geometric forms that fed Soviet graphic, product and architectural design.",
+   "more": "Born in Kyiv, he painted the Black Square in 1915 and launched Suprematism around it. After the 1917 revolution he taught in Vitebsk, where he led the group UNOVIS, and he later made architectural models and designs for porcelain based on Suprematist forms. His geometry marked Constructivist designers such as El Lissitzky, and through them the graphic design of the 1920s. He died in Leningrad in 1935.",
+   "es": {
+    "dates": "1879–1935",
+    "key": "Pintor ruso que fundó el suprematismo en 1915, un lenguaje de formas geométricas puras que alimentó el diseño gráfico, de producto y de arquitectura soviético.",
+    "more": "Nacido en Kiev, pintó el Cuadrado negro en 1915 y lanzó en torno a él el suprematismo. Tras la revolución de 1917 enseñó en Vitebsk, donde dirigió el grupo UNOVIS, y más tarde hizo maquetas de arquitectura y diseños de porcelana basados en formas suprematistas. Su geometría marcó a diseñadores constructivistas como El Lissitzky y, a través de ellos, al diseño gráfico de la década de 1920. Murió en Leningrado en 1935."
+   },
+   "refs": []
+  },
+  {
+   "id": "herbert-matter",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1907,
+   "died": 1984,
+   "dates": "1907–1984",
+   "countries": [
+    "CH",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Herbert Matter",
+   "movements": [
+    "new-vision"
+   ],
+   "key": "Swiss photographer and designer whose photomontage posters for Swiss tourism brought the New Vision to advertising, before he worked for Knoll in the United States.",
+   "more": "He studied in Paris and in the 1930s made tourist posters for Switzerland that combined bold photographs in photomontage. In 1936 he moved to the United States, where he worked as a photographer and designer for magazines and, from the late 1940s, for the furniture maker Knoll. He also taught at Yale. He died in 1984.",
+   "es": {
+    "dates": "1907–1984",
+    "key": "Fotógrafo y diseñador suizo cuyos carteles de fotomontaje para el turismo suizo llevaron la Nueva Visión a la publicidad, antes de trabajar para Knoll en Estados Unidos.",
+    "more": "Estudió en París y en la década de 1930 hizo carteles turísticos para Suiza que combinaban fotografías de gran impacto en fotomontaje. En 1936 se fue a Estados Unidos, donde trabajó como fotógrafo y diseñador para revistas y, desde fines de la década de 1940, para el fabricante de muebles Knoll. También enseñó en Yale. Murió en 1984."
+   },
+   "refs": []
+  },
+  {
+   "id": "alvin-lustig",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1915,
+   "died": 1955,
+   "dates": "1915–1955",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Alvin Lustig",
+   "movements": [
+    "new-york-school-graphic"
+   ],
+   "key": "American designer whose modern book jackets for New Directions brought abstract, symbolic imagery to the cover and made him a leading figure of American graphic modernism.",
+   "more": "Born in Denver, he designed book jackets in the 1940s, most famously for the publisher New Directions, using abstract and symbolic forms instead of literal illustration. He also worked in interior and product design and taught, including at Yale. Diabetes took his sight in his last years, and he died in New York in 1955.",
+   "es": {
+    "dates": "1915–1955",
+    "key": "Diseñador estadounidense cuyas sobrecubiertas modernas para New Directions llevaron la imagen abstracta y simbólica a la portada y lo hicieron figura del modernismo gráfico de su país.",
+    "more": "Nacido en Denver, diseñó sobrecubiertas de libros en la década de 1940, sobre todo para la editorial New Directions, con formas abstractas y simbólicas en lugar de ilustración literal. También trabajó en diseño de interiores y de producto y enseñó, entre otros lugares en Yale. La diabetes le quitó la vista en sus últimos años y murió en Nueva York en 1955."
+   },
+   "refs": []
+  }
+ ]
+}

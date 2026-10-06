@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Línea de Historia del Diseño</title>
+<meta name="description" content="Una línea de tiempo interactiva de la historia del diseño, enlazada a los hechos políticos, económicos, sociales, culturales y tecnológicos que la explican. Español e inglés.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="style.css?v=76">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <h1 data-i18n="title">Línea de Historia del Diseño</h1>
+    </div>
+    <div class="search" role="search">
+      <label for="q" class="sr" data-i18n="searchLbl">Buscar en la línea de tiempo</label>
+      <input id="q" type="search" placeholder="Buscar obras, diseñadores, movimientos, instituciones, contexto…" autocomplete="off" aria-controls="results" aria-expanded="false">
+      <div id="results" class="results" role="listbox" hidden></div>
+    </div>
+    <div class="zoom">
+      <button class="btn theme" id="themeBtn" type="button" aria-label="Tema"></button>
+      <button class="btn lang" id="langBtn" aria-label="View in English">EN</button>
+      <button class="btn info" id="infoBtn" type="button" aria-label="Acerca de la línea de tiempo" aria-pressed="false"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.3" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M8 7.2v4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="8" cy="4.9" r="0.95" fill="currentColor"/></svg></button>
+      <button class="btn info help-btn" id="helpBtn" type="button" aria-label="Ayuda" aria-pressed="false"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.3" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M6.1 6.3a1.95 1.95 0 1 1 2.9 1.7c-.7.4-1 .8-1 1.6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="8" cy="11.5" r="0.95" fill="currentColor"/></svg></button>
+    </div>
+  </header>
+
+  <div class="filters" id="filters"></div>
+
+  <main class="main">
+    <section class="timeline" aria-label="Línea de tiempo">
+      <div class="axis">
+        <div class="axis-corner" id="axisCorner"><input class="ax-y" id="yFrom" type="text" inputmode="numeric" maxlength="4" autocomplete="off" aria-label="Primer año visible"><span class="ax-l" aria-hidden="true">–</span><input class="ax-y" id="yTo" type="text" inputmode="numeric" maxlength="4" autocomplete="off" aria-label="Último año visible"><span class="ax-btns"><button class="ax-all" id="zoomFit" type="button" data-i18n="rangeAll">Todo</button><button class="ax-all" id="zoomVis" type="button" data-i18n="rangeFit">Ajustar</button></span></div>
+        <div class="axis-clip" id="axisClip"><div class="tmap" id="tmap" aria-hidden="true"></div><div class="axis-track" id="axis"></div><div class="axsel" id="axsel" hidden></div><button class="ax-edge l" id="edgeL" type="button" tabindex="-1">‹</button><button class="ax-edge r" id="edgeR" type="button" tabindex="-1">›</button></div>
+      </div>
+      <div class="tbody">
+        <div class="labels" id="labels"><div class="labels-inner" id="labelsInner"></div></div>
+        <div class="viewport" id="viewport" tabindex="0" aria-label="Línea de tiempo">
+          <div class="content" id="content"></div>
+        </div>
+        <div class="vsel" id="vsel" hidden></div>
+      </div>
+      <div class="help" id="help" hidden>
+        <div class="help-win" role="dialog" aria-modal="false" aria-labelledby="helpTitle">
+          <div class="help-head">
+            <h2 id="helpTitle"></h2>
+            <button class="p-btn" id="helpClose" type="button"><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M3 3l8 8M11 3l-8 8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></button>
+          </div>
+          <div class="help-body" id="helpBody"></div>
+        </div>
+      </div>
+    </section>
+    <div class="panel-resize" id="panelResize"></div>
+    <aside class="panel" id="panel" aria-live="polite"></aside>
+  </main>
+</div>
+<div class="mobile-notice" role="alert">
+  <div>
+    <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true"><rect x="5" y="7" width="34" height="23" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15 38h14M22 30v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <h2 data-i18n="mobileTitle">Solo en computador</h2>
+    <p data-i18n="mobileMsg">Esta línea de tiempo solo puede visualizarse en un computador (escritorio o notebook). Ábrela desde una pantalla más grande.</p>
+  </div>
+</div>
+<div class="tip" id="tip" hidden></div>
+<script src="app.js?v=76"></script>
+</body>
+</html>

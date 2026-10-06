@@ -1,0 +1,226 @@
+{
+ "production": [
+  {
+   "id": "postscript",
+   "sub": "processes",
+   "start": 1985,
+   "end": 1985,
+   "date": "1985",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "PostScript",
+   "short": "PostScript",
+   "key": "Adobe’s page-description language, built into the 1985 LaserWriter, described a page as outlines so the same file could be printed at any resolution.",
+   "origin": "Adobe was founded in 1982 by John Warnock and Charles Geschke, who had worked at Xerox’s research centre in Palo Alto. PostScript was developed there as a language to describe a page for printers, and Apple put it in the LaserWriter printer, introduced in 1985.",
+   "enabled": "Text, drawings and typefaces were described as outlines and curves instead of fixed dots, so the same file could be printed on a laser printer or on a professional typesetting machine at much higher resolution. The Linotronic typesetter also used PostScript in 1985, and PageMaker used it to print pages.",
+   "change": "A designer could check a layout on an office printer and then send the same file to be printed professionally. Typefaces became digital outline files that could be scaled to any size.",
+   "economy": "PostScript made Adobe an important company, and its font technology became a standard for printing in the late 1980s, which gave Adobe influence over how digital type was made and sold.",
+   "relations": "It was the technical basis of desktop publishing, together with the Macintosh and PageMaker, and many later formats, including PDF, descend from it.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-apple"
+    ],
+    "designers": [],
+    "works": [
+     "ray-gun-1992",
+     "design-quarterly-133-1986"
+    ]
+   },
+   "es": {
+    "name": "PostScript",
+    "short": "PostScript",
+    "date": "1985",
+    "key": "El lenguaje de descripción de página de Adobe, incorporado a la LaserWriter de 1985, describía una página con contornos, de modo que un mismo archivo podía imprimirse a cualquier resolución.",
+    "origin": "Adobe fue fundada en 1982 por John Warnock y Charles Geschke, que habían trabajado en el centro de investigación de Xerox en Palo Alto. Allí se desarrolló PostScript como lenguaje para describir una página a las impresoras, y Apple lo incorporó a la impresora LaserWriter, presentada en 1985.",
+    "enabled": "Texto, dibujos y tipografías se describían como contornos y curvas y no como puntos fijos, de modo que un mismo archivo podía imprimirse en una impresora láser o en una fotocomponedora profesional con mucha mayor resolución. La fotocomponedora Linotronic también usó PostScript en 1985, y PageMaker lo usaba para imprimir las páginas.",
+    "change": "Un diseñador podía revisar una diagramación en una impresora de oficina y luego enviar el mismo archivo para imprimirlo profesionalmente. Las tipografías pasaron a ser archivos digitales de contornos que podían escalarse a cualquier tamaño.",
+    "economy": "PostScript hizo de Adobe una empresa importante, y su tecnología de fuentes se convirtió en un estándar de impresión a fines de los años ochenta, lo que dio a Adobe influencia sobre cómo se hacía y se vendía la tipografía digital.",
+    "relations": "Fue la base técnica de la autoedición, junto con el Macintosh y PageMaker, y muchos formatos posteriores, incluido el PDF, descienden de él."
+   },
+   "refs": []
+  },
+  {
+   "id": "cad-cam",
+   "sub": "processes",
+   "start": 1980,
+   "end": 2026,
+   "cont": true,
+   "date": "1980 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "name": "Computer-aided design and manufacturing",
+   "short": "CAD/CAM",
+   "key": "From the 1980s, drawing and machining moved onto the computer: a shape modelled on screen could be sent straight to a machine tool.",
+   "origin": "Numerically controlled machine tools date from the 1950s, and Ivan Sutherland’s Sketchpad of 1963 showed that a computer could be drawn on. Systems such as Dassault’s CATIA, begun in the late 1970s for aircraft and car design, and AutoCAD, released by Autodesk in 1982 for personal computers, brought these ideas into ordinary design offices.",
+   "enabled": "Shapes could be drawn once as a digital model, changed without redrawing, checked on screen and passed to machines that cut the parts. Parametric modellers such as Pro/ENGINEER, from 1988, tied dimensions to one another so that a change in one part updated the rest.",
+   "change": "Complex curved forms, hard to describe with plans and sections, became buildable and repeatable, and designers could try many variants before committing to tooling. Frank Gehry’s office used CATIA to develop the titanium-clad surfaces of the Guggenheim Museum in Bilbao, opened in 1997.",
+   "economy": "Digital models shortened the path between drawing and factory, and let small studios work with tools that had once belonged only to aerospace and car makers.",
+   "relations": "CAD/CAM turned the screen into the designer’s main drawing board and made the model, not the drawing, the document handed to production. It is the base on which prototyping, digital fabrication and later parametric design were built.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "guggenheim-bilbao-1997",
+     "walt-disney-hall-2003",
+     "seattle-library-2004"
+    ]
+   },
+   "es": {
+    "name": "Diseño y fabricación asistidos por computador",
+    "short": "CAD/CAM",
+    "date": "1980 →",
+    "key": "Desde la década de 1980, el dibujo y el mecanizado pasaron al computador: una forma modelada en pantalla podía enviarse directamente a una máquina herramienta.",
+    "origin": "Las máquinas herramienta de control numérico datan de la década de 1950, y el Sketchpad de Ivan Sutherland, de 1963, mostró que se podía dibujar sobre un computador. Sistemas como CATIA, de Dassault, iniciado a fines de los años setenta para el diseño de aviones y autos, y AutoCAD, que Autodesk lanzó en 1982 para computadores personales, llevaron estas ideas a las oficinas de diseño corrientes.",
+    "enabled": "Una forma podía dibujarse una sola vez como modelo digital, modificarse sin redibujar, revisarse en pantalla y pasarse a máquinas que cortaban las piezas. Los modeladores paramétricos como Pro/ENGINEER, desde 1988, vinculaban las dimensiones entre sí, de modo que un cambio en una pieza actualizaba el resto.",
+    "change": "Las formas complejas y curvas, difíciles de describir con plantas y cortes, pasaron a ser construibles y repetibles, y los diseñadores podían probar muchas variantes antes de comprometerse con los moldes. La oficina de Frank Gehry usó CATIA para desarrollar las superficies revestidas de titanio del Museo Guggenheim de Bilbao, inaugurado en 1997.",
+    "economy": "Los modelos digitales acortaron el camino entre el dibujo y la fábrica, y permitieron que estudios pequeños trabajaran con herramientas que antes eran solo de las industrias aeroespacial y automotriz.",
+    "relations": "El CAD/CAM convirtió la pantalla en el principal tablero del diseñador e hizo del modelo, y no del plano, el documento que se entrega a producción. Es la base sobre la que se levantaron el prototipado, la fabricación digital y, más tarde, el diseño paramétrico."
+   },
+   "refs": []
+  },
+  {
+   "id": "rapid-prototyping",
+   "sub": "processes",
+   "start": 1990,
+   "end": 2026,
+   "cont": true,
+   "date": "1990 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Rapid prototyping and 3D printing",
+   "short": "Rapid prototyping",
+   "key": "Machines that build an object layer by layer from a digital model let designers hold a physical prototype within hours or days instead of weeks.",
+   "origin": "Chuck Hull invented stereolithography in 1983-84 and founded 3D Systems; Scott Crump patented fused deposition modelling in 1989 and founded Stratasys, and selective laser sintering was developed at the University of Texas at Austin in the 1980s. Through the 1990s these machines were used mainly in industry to make models and patterns.",
+   "enabled": "A part drawn in CAD could be built without a mould or a cutting tool, including shapes with internal cavities that machining cannot reach. Prototypes could be made, tested and corrected in many rounds.",
+   "change": "Designers could judge form, grip and fit in the hand early, and discard many versions cheaply. James Dyson has said that he built c. 5,000 prototypes before the first bagless cleaner, the DC01 of 1993, worked as he wanted, a process that later machines of this kind made much faster.",
+   "economy": "The expiry of key patents and the open RepRap project, started by Adrian Bowyer in 2005, helped bring low-cost printers to schools, studios and homes in the following years.",
+   "relations": "Rapid prototyping made iteration a normal part of design practice and fed the culture of making and testing early that later shaped design thinking and product design.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "james-dyson"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Prototipado rápido e impresión 3D",
+    "short": "Prototipado rápido",
+    "date": "1990 →",
+    "key": "Las máquinas que construyen un objeto por capas a partir de un modelo digital permitieron tener un prototipo físico en horas o días, en vez de semanas.",
+    "origin": "Chuck Hull inventó la estereolitografía en 1983-84 y fundó 3D Systems; Scott Crump patentó el modelado por deposición fundida en 1989 y fundó Stratasys, y la sinterización selectiva por láser se desarrolló en la Universidad de Texas en Austin en la década de 1980. Durante los años noventa estas máquinas se usaron sobre todo en la industria, para hacer maquetas y patrones.",
+    "enabled": "Una pieza dibujada en CAD podía construirse sin molde ni herramienta de corte, incluidas formas con cavidades internas a las que el mecanizado no llega. Los prototipos podían hacerse, probarse y corregirse en muchas rondas.",
+    "change": "Los diseñadores podían juzgar la forma, el agarre y el calce con la pieza en la mano desde temprano, y descartar muchas versiones a bajo costo. James Dyson ha dicho que construyó c. 5.000 prototipos antes de que la primera aspiradora sin bolsa, la DC01 de 1993, funcionara como quería, un proceso que las máquinas posteriores de este tipo volvieron mucho más rápido.",
+    "economy": "El vencimiento de patentes clave y el proyecto abierto RepRap, iniciado por Adrian Bowyer en 2005, ayudaron a que en los años siguientes llegaran impresoras de bajo costo a escuelas, estudios y hogares.",
+    "relations": "El prototipado rápido hizo de la iteración una parte normal de la práctica del diseño y alimentó la cultura de hacer y probar temprano que más tarde marcó el design thinking y el diseño de producto."
+   },
+   "refs": []
+  },
+  {
+   "id": "quick-response",
+   "sub": "processes",
+   "start": 1975,
+   "end": 2026,
+   "cont": true,
+   "date": "1975 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "ES",
+    "US"
+   ],
+   "name": "Quick-response supply chain",
+   "short": "Quick response",
+   "key": "A way of organising garment production around short lead times and sales data, so that stores can restock and change designs within weeks.",
+   "origin": "The term comes from the US apparel and textile industry of the mid-1980s, which sought to answer imports with faster replenishment based on bar codes and electronic exchange of orders. Zara, opened in A Coruña in 1975 by Amancio Ortega and later the flagship chain of Inditex, built its whole system on short cycles.",
+   "enabled": "Designs, cutting, sewing and shipping are kept close together and in small batches, and what sells in the shops tells the design team what to make next. Collections are renewed continually instead of twice a year.",
+   "change": "Clothing design became a continuous response to what customers bought, with many more styles, each made in small quantities and for a short time, rather than a seasonal collection fixed months ahead.",
+   "economy": "Speed and small batches reduce unsold stock and let the firm follow trends closely, at the cost of constant pressure on the factories, designers and workers who must deliver in a few weeks.",
+   "relations": "Quick response is the production side of fast fashion: it changed the designer’s task from creating a season to reading demand, and later became a point of criticism from the climate and labour debates.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-zara"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Cadena de suministro de respuesta rápida",
+    "short": "Respuesta rápida",
+    "date": "1975 →",
+    "key": "Una forma de organizar la producción de ropa en torno a plazos cortos y datos de venta, de modo que las tiendas repongan y cambien los diseños en pocas semanas.",
+    "origin": "El término viene de la industria textil y del vestuario de Estados Unidos de mediados de los años ochenta, que buscó responder a las importaciones con una reposición más rápida, basada en códigos de barras y en el intercambio electrónico de pedidos. Zara, abierta en A Coruña en 1975 por Amancio Ortega y luego cadena insignia de Inditex, montó todo su sistema sobre ciclos cortos.",
+    "enabled": "El diseño, el corte, la costura y el despacho se mantienen cerca unos de otros y en lotes pequeños, y lo que se vende en las tiendas le dice al equipo de diseño qué hacer después. Las colecciones se renuevan de forma continua, en vez de dos veces al año.",
+    "change": "El diseño de ropa pasó a ser una respuesta continua a lo que compraban los clientes, con muchos más modelos, cada uno hecho en pocas unidades y por poco tiempo, en lugar de una colección de temporada fijada con meses de anticipación.",
+    "economy": "La rapidez y los lotes pequeños reducen el stock sin vender y permiten seguir de cerca las tendencias, a costa de una presión constante sobre las fábricas, los diseñadores y los trabajadores que deben cumplir en pocas semanas.",
+    "relations": "La respuesta rápida es el lado productivo de la moda rápida: cambió la tarea del diseñador de crear una temporada a leer la demanda, y más tarde pasó a ser un punto de crítica en los debates climáticos y laborales."
+   },
+   "refs": []
+  },
+  {
+   "id": "cnc-unibody",
+   "sub": "processes",
+   "start": 2008,
+   "end": 2008,
+   "cont": false,
+   "date": "2008",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Unibody CNC machining",
+   "short": "Unibody CNC",
+   "key": "In October 2008 Apple introduced laptops whose enclosure was milled by CNC machines from a single block of aluminium, a process it called unibody.",
+   "origin": "Computer-controlled milling had long been used in industry, but not to produce the casing of a mass-market consumer product. Apple presented the new MacBook and MacBook Pro in October 2008, with Jonathan Ive explaining the process in the company’s own presentation of the products.",
+   "enabled": "A single piece of metal formed the body, which made it possible to have thin walls, a rigid structure and few visible parts, joints or fasteners.",
+   "change": "The enclosure became one clean volume instead of an assembly of panels, and the product’s form could be defined by its material and by a few cuts. The idea of a body machined from solid metal was later taken up by other devices of the company.",
+   "economy": "Apple had to invest in large numbers of CNC machines to make the process work at the scale of its production.",
+   "relations": "Unibody is a clear case of a production method that sets the aesthetic of a product and its brand: the reduction to one material and one form that Ive’s design team sought was possible only with this machining.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "jonathan-ive"
+    ],
+    "works": [
+     "macbook-air-2008"
+    ]
+   },
+   "es": {
+    "name": "Mecanizado CNC de carcasa única",
+    "short": "CNC unibody",
+    "date": "2008",
+    "key": "En octubre de 2008 Apple presentó portátiles cuya carcasa se fresaba con máquinas CNC a partir de un solo bloque de aluminio, un proceso que llamó unibody.",
+    "origin": "El fresado controlado por computador se usaba desde hacía tiempo en la industria, pero no para producir la carcasa de un producto de consumo masivo. Apple presentó el nuevo MacBook y el MacBook Pro en octubre de 2008, con Jonathan Ive explicando el proceso en la presentación de los productos hecha por la propia empresa.",
+    "enabled": "Una sola pieza de metal formaba el cuerpo, lo que permitía tener paredes delgadas, una estructura rígida y pocas partes, uniones o tornillos a la vista.",
+    "change": "La carcasa pasó a ser un volumen limpio, en vez de un ensamble de paneles, y la forma del producto podía definirse por su material y por unos pocos cortes. La idea de un cuerpo mecanizado en metal macizo la retomaron más tarde otros dispositivos de la empresa.",
+    "economy": "Apple tuvo que invertir en un gran número de máquinas CNC para que el proceso funcionara a la escala de su producción.",
+    "relations": "El unibody es un caso claro de un método de producción que fija la estética de un producto y de su marca: la reducción a un material y una forma que buscaba el equipo de diseño de Ive solo era posible con este mecanizado."
+   },
+   "refs": []
+  }
+ ]
+}

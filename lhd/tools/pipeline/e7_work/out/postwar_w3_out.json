@@ -1,0 +1,165 @@
+[
+ {
+  "rtype": "work",
+  "id": "falkland-lamp-1964",
+  "level": "normal",
+  "discipline": "product",
+  "type": "lamp",
+  "title": "Falkland lamp",
+  "designers": [
+   "bruno-munari"
+  ],
+  "maker": "Danese",
+  "year": 1964,
+  "date": "1964",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "materials": "Elastic knitted fabric tube, metal rings",
+  "tech": [],
+  "key": "Bruno Munari's lamp of elastic fabric stretched over metal rings, which folds away into a flat box.",
+  "more": "Munari designed it for Danese in 1964. A tube of stretch knitted fabric is held open by a series of rings of different sizes, giving a lantern-like shape. Taken out of its box it is hung from the ceiling, and it can be collapsed and packed again. It shows Munari's interest in simple, playful objects made from light industrial materials.",
+  "status": "Still in production by Danese.",
+  "es": {
+   "title": "Lámpara Falkland",
+   "date": "1964",
+   "materials": "Tubo de tela elástica de punto, anillos metálicos",
+   "key": "La lámpara de Bruno Munari hecha de tela elástica tendida sobre anillos metálicos, que se pliega en una caja plana.",
+   "more": "Munari la diseñó para Danese en 1964. Un tubo de tela de punto elástica se mantiene abierto con una serie de anillos de distintos tamaños, lo que da una forma de farol. Al sacarla de su caja se cuelga del techo, y se puede plegar y volver a guardar. Muestra el interés de Munari por los objetos simples y lúdicos hechos con materiales industriales livianos.",
+   "status": "Sigue en producción por Danese."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-design-culture",
+  "item": "falkland-lamp-1964",
+  "note": "Small Italian editors of objects, such as Danese, let designers experiment with industrial materials; Munari used a stretch fabric tube and rings to make a lamp that packs flat.",
+  "es": {
+   "note": "Pequeñas editoras italianas de objetos, como Danese, dejaron a los diseñadores experimentar con materiales industriales; Munari usó tela elástica y anillos para una lámpara que se guarda plana."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "engelbart-demo-1968",
+  "level": "normal",
+  "discipline": "product",
+  "type": "interface",
+  "title": "NLS and the computer mouse (\"Mother of All Demos\")",
+  "designers": [
+   "douglas-engelbart"
+  ],
+  "maker": "Stanford Research Institute",
+  "year": 1968,
+  "date": "1968",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Computer system with display, keyboard, chord keyset and mouse",
+  "tech": [],
+  "key": "The public demonstration in San Francisco of Douglas Engelbart's NLS system, which showed the mouse, hypertext and windows working together on one screen.",
+  "more": "Engelbart and his team at the Stanford Research Institute presented NLS in December 1968 at a computer conference in San Francisco. The system let one person edit linked text, work in several windows on a display and point with a mouse, in real time and with remote collaborators. The demo was later nicknamed the 'Mother of All Demos'. It put forward the idea of the computer as a tool for augmenting human work, and many of its elements became basic to interaction design.",
+  "status": "The demonstration survives as a film record; the original system no longer exists in use.",
+  "es": {
+   "title": "Sistema NLS y el ratón («la madre de todas las demos»)",
+   "date": "1968",
+   "materials": "Sistema informático con pantalla, teclado, teclado de acordes y ratón",
+   "key": "La demostración pública en San Francisco del sistema NLS de Douglas Engelbart, que mostró el ratón, el hipertexto y las ventanas funcionando juntos en una pantalla.",
+   "more": "Engelbart y su equipo del Stanford Research Institute presentaron NLS en diciembre de 1968 en un congreso de computación en San Francisco. El sistema permitía a una persona editar texto enlazado, trabajar en varias ventanas en una pantalla y señalar con un ratón, en tiempo real y con colaboradores a distancia. La demostración recibió después el apodo de «la madre de todas las demos». Planteó la idea del computador como herramienta para ampliar el trabajo humano, y muchos de sus elementos pasaron a ser básicos en el diseño de interacción.",
+   "status": "La demostración se conserva en registro fílmico; el sistema original ya no está en uso."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mainframe-computing",
+  "item": "engelbart-demo-1968",
+  "note": "Mainframes ran work in batches; Engelbart's team asked what a computer would be like used live by one person, and designed a screen, mouse and windows for real-time interaction.",
+  "es": {
+   "note": "Los mainframes procesaban trabajos por lotes; el equipo de Engelbart se preguntó cómo sería un computador usado en vivo por una persona y diseñó pantalla, ratón y ventanas para la interacción en tiempo real."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-cold-war",
+  "item": "engelbart-demo-1968",
+  "note": "Cold War research funding, including ARPA money for computing, paid for the lab where NLS was built, so interactive computing could be explored without a product to sell.",
+  "es": {
+   "note": "El financiamiento de investigación de la Guerra Fría, incluidos fondos de ARPA para computación, pagó el laboratorio donde se construyó NLS, y así se exploró la computación interactiva sin un producto que vender."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "connection",
+  "from": "engelbart-demo-1968",
+  "to": "xerox-star-interface-1981",
+  "note": "Researchers at Xerox PARC developed the graphical interface from ideas shown in NLS, such as the mouse and windows; the Star later brought them to an office product.",
+  "es": {
+   "note": "Investigadores de Xerox PARC desarrollaron la interfaz gráfica a partir de ideas mostradas en NLS, como el ratón y las ventanas; la Star las llevó después a un producto de oficina."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "sacco-1968",
+  "level": "normal",
+  "discipline": "product",
+  "type": "chair",
+  "title": "Sacco bean bag",
+  "designers": [],
+  "maker": "Piero Gatti, Cesare Paolini and Franco Teodoro for Zanotta",
+  "year": 1968,
+  "date": "1968",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "materials": "Polystyrene beads in a flexible fabric or leather-like cover",
+  "tech": [],
+  "key": "A seat with no fixed shape, a bag filled with polystyrene beads that molds itself to the body of whoever sits on it.",
+  "more": "Piero Gatti, Cesare Paolini and Franco Teodoro designed it in 1968 for Zanotta. It has no frame, legs or back: the beads inside the bag shift so that each person gives it a different shape. It is often seen as an example of Italian radical and anti-design thinking, and of a more informal way of sitting. It has no 'right' posture, which challenged the idea of the chair as a fixed form.",
+  "status": "Still in production by Zanotta.",
+  "es": {
+   "title": "Puf Sacco",
+   "date": "1968",
+   "materials": "Bolitas de poliestireno dentro de una funda flexible de tela o similar al cuero",
+   "key": "Un asiento sin forma fija, una bolsa llena de bolitas de poliestireno que se amolda al cuerpo de quien se sienta.",
+   "more": "Piero Gatti, Cesare Paolini y Franco Teodoro lo diseñaron en 1968 para Zanotta. No tiene estructura, patas ni respaldo: las bolitas del interior se desplazan y cada persona le da una forma distinta. Suele verse como un ejemplo del pensamiento radical y antidiseño italiano, y de una manera más informal de sentarse. No tiene una postura «correcta», lo que cuestionó la idea de la silla como forma fija.",
+   "status": "Sigue en producción por Zanotta."
+  },
+  "movements": [
+   "radical-design"
+  ],
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-youth-counterculture",
+  "item": "sacco-1968",
+  "note": "Young people's informal, hierarchy-free way of living asked for furniture to match; Sacco has no frame or upright posture, so each person sits as they like.",
+  "es": {
+   "note": "La vida informal y sin jerarquías de los jóvenes pidió muebles acordes; el Sacco no tiene estructura ni postura erguida, y cada persona se sienta como quiere."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-plastics",
+  "item": "sacco-1968",
+  "note": "Expanded polystyrene beads, cheap and light, became available as a filling; they let the seat flow into any shape, replacing the frame and upholstery of a chair.",
+  "es": {
+   "note": "Las bolitas de poliestireno expandido, baratas y livianas, pasaron a usarse como relleno; permitieron que el asiento tomara cualquier forma, sin la estructura ni la tapicería de una silla."
+  },
+  "refs": []
+ }
+]

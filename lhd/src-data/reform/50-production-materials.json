@@ -1,0 +1,194 @@
+{
+ "production": [
+  {
+   "id": "celluloid",
+   "sub": "materials",
+   "start": 1870,
+   "end": 1914,
+   "cont": true,
+   "date": "1870 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Celluloid",
+   "short": "Celluloid",
+   "key": "The first commercial plastic, made of cellulose nitrate and camphor, which imitated ivory and tortoiseshell and later served as the base of photographic film.",
+   "origin": "Alexander Parkes showed a cellulose-nitrate material, Parkesine, at the London International Exhibition of 1862. In the United States John Wesley Hyatt and his brother Isaiah patented a workable version in 1870 and named it celluloid, seeking a substitute for ivory.",
+   "enabled": "A material that could be moulded and rolled into sheets with heat, coloured and polished, so that combs, collars, brush handles and toilet sets could imitate ivory, tortoiseshell or coral at low cost. In thin, flexible, transparent sheets it also became the base of roll film, which Eastman used from 1889.",
+   "change": "Imitation became an industrial method: ornamental objects once limited to scarce natural materials could be made in quantity and in any colour. The material was also highly flammable, which limited its uses.",
+   "relations": "Roll film on a celluloid base let George Eastman’s Kodak cameras make photography a popular pastime, which is why the material is tied to the spread of the snapshot.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "kodak-no1"
+    ]
+   },
+   "es": {
+    "name": "Celuloide",
+    "short": "Celuloide",
+    "date": "1870 →",
+    "key": "El primer plástico comercial, hecho de nitrato de celulosa y alcanfor, que imitó el marfil y el carey y luego sirvió de base a la película fotográfica.",
+    "origin": "Alexander Parkes mostró un material de nitrato de celulosa, la parkesina, en la Exposición Internacional de Londres de 1862. En Estados Unidos John Wesley Hyatt y su hermano Isaiah patentaron en 1870 una versión viable y la llamaron celuloide, en busca de un sustituto del marfil.",
+    "enabled": "Un material que con calor podía moldearse y laminarse, teñirse y pulirse, de modo que peines, cuellos, mangos de cepillo y juegos de tocador pudieran imitar el marfil, el carey o el coral a bajo costo. En láminas delgadas, flexibles y transparentes también se volvió la base de la película en rollo, que Eastman usó desde 1889.",
+    "change": "La imitación se volvió un método industrial: objetos ornamentales antes limitados a materiales naturales escasos pudieron hacerse en cantidad y en cualquier color. El material era además muy inflamable, lo que limitó sus usos.",
+    "relations": "La película en rollo sobre base de celuloide permitió que las cámaras Kodak de George Eastman hicieran de la fotografía un pasatiempo popular, por lo que el material va ligado a la difusión de la instantánea."
+   },
+   "refs": []
+  },
+  {
+   "id": "art-glass",
+   "sub": "materials",
+   "start": 1890,
+   "end": 1914,
+   "cont": false,
+   "date": "1890–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "name": "Art glass",
+   "short": "Art glass",
+   "key": "Glass treated as an art material, with colour and texture built into the glass itself, as in Tiffany’s Favrile glass and Gallé’s cameo glass.",
+   "origin": "John La Farge and Louis Comfort Tiffany, working separately in the United States, patented opalescent glass in 1880 and 1881, in which colours swirl within the sheet. In Nancy, Émile Gallé made cameo glass, with layers of coloured glass cut back to leave plants and flowers in relief, and Tiffany patented his Favrile glass in 1894.",
+   "enabled": "Windows, lamp shades and vases whose colour and texture came from the glass itself and not from paint, such as the leaded shades of Tiffany’s lamps and Gallé’s vases decorated with plants.",
+   "change": "Glass became a field for the natural forms of art nouveau: flowers, plants and insects were set into the vase or shade itself, and an object could be at once useful and a signed work of art.",
+   "economy": "Both firms made unique pieces for collectors and cheaper series, so art glass lay between craft and manufacture.",
+   "relations": "Art glass is the glass of art nouveau: Tiffany’s lamp shades answered the new electric light in the home, and Gallé’s vases came from his study of plants.",
+   "links": {
+    "movements": [
+     "art-nouveau"
+    ],
+    "institutions": [],
+    "designers": [
+     "louis-comfort-tiffany",
+     "emile-galle"
+    ],
+    "works": [
+     "tiffany-lamps",
+     "galle-vases"
+    ]
+   },
+   "es": {
+    "name": "Vidrio artístico",
+    "short": "Vidrio artístico",
+    "date": "1890–1914",
+    "key": "El vidrio tratado como material de arte, con el color y la textura integrados en el vidrio mismo, como en el vidrio Favrile de Tiffany y el vidrio camafeo de Gallé.",
+    "origin": "John La Farge y Louis Comfort Tiffany, trabajando por separado en Estados Unidos, patentaron el vidrio opalescente en 1880 y 1881, en el que los colores se arremolinan dentro de la lámina. En Nancy, Émile Gallé hizo vidrio camafeo, con capas de vidrio de color rebajadas para dejar plantas y flores en relieve, y Tiffany patentó su vidrio Favrile en 1894.",
+    "enabled": "Ventanas, pantallas de lámpara y jarrones cuyo color y textura venían del vidrio mismo y no de la pintura, como las pantallas emplomadas de las lámparas de Tiffany y los vasos de Gallé decorados con plantas.",
+    "change": "El vidrio se volvió un terreno para las formas naturales del art nouveau: flores, plantas e insectos se incorporaron al jarrón o a la pantalla misma, y un objeto podía ser a la vez útil y una obra de arte firmada.",
+    "economy": "Ambas casas hicieron piezas únicas para coleccionistas y series más baratas, de modo que el vidrio artístico quedó entre el oficio y la manufactura.",
+    "relations": "El vidrio artístico es el vidrio del art nouveau: las pantallas de Tiffany respondieron a la nueva luz eléctrica en el hogar, y los vasos de Gallé nacieron de su estudio de las plantas."
+   },
+   "refs": []
+  },
+  {
+   "id": "reinforced-concrete",
+   "sub": "materials",
+   "start": 1890,
+   "end": 1914,
+   "cont": true,
+   "date": "1890 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "name": "Reinforced concrete",
+   "short": "Reinforced concrete",
+   "key": "Concrete cast around steel bars, which resists tension as well as weight and allowed thin floors, wide spans and frames that no longer needed thick walls.",
+   "origin": "Joseph Monier, a Paris gardener, patented reinforced garden tubs in 1867, and engineers developed systems for beams and floors in the following decades. François Hennebique patented his system of reinforced-concrete frames in 1892 and built up a network of licensed contractors.",
+   "enabled": "Frames of columns, beams and slabs cast in one piece, fire-resistant and able to span wide spaces, with walls freed from carrying the load. In Paris, Auguste Perret built the apartments at 25 bis rue Franklin in 1903–04 with a visible reinforced-concrete frame.",
+   "change": "Architects could design from the frame, with open plans and large windows, and leave surfaces plain and smooth; in factories such as Ford’s Highland Park plant, large floors and many windows suited the new methods of production.",
+   "relations": "Steel and cement were products of the second industrial revolution, and reinforced concrete carried their industrial methods into everyday buildings such as factories, apartment houses and sanatoria.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "purkersdorf-sanatorium",
+     "highland-park-plant"
+    ]
+   },
+   "es": {
+    "name": "Hormigón armado",
+    "short": "Hormigón armado",
+    "date": "1890 →",
+    "key": "Hormigón vaciado alrededor de barras de acero, que resiste tracción además de peso y permitió losas delgadas, grandes luces y estructuras que ya no necesitaban muros gruesos.",
+    "origin": "Joseph Monier, un jardinero parisino, patentó en 1867 macetones de hormigón armado, y en las décadas siguientes los ingenieros desarrollaron sistemas para vigas y pisos. François Hennebique patentó en 1892 su sistema de estructuras de hormigón armado y formó una red de contratistas con licencia.",
+    "enabled": "Estructuras de pilares, vigas y losas hechas de una sola pieza, resistentes al fuego y capaces de cubrir grandes luces, con muros liberados de cargar el peso. En París, Auguste Perret construyó en 1903–04 los departamentos de la rue Franklin 25 bis con una estructura de hormigón armado a la vista.",
+    "change": "Los arquitectos pudieron proyectar a partir de la estructura, con plantas abiertas y grandes ventanas, y dejar las superficies lisas y sin adorno; en fábricas como la planta de Highland Park de Ford, los pisos amplios y las muchas ventanas convenían a los nuevos métodos de producción.",
+    "relations": "El acero y el cemento fueron productos de la segunda revolución industrial, y el hormigón armado llevó sus métodos industriales a edificios cotidianos como fábricas, casas de departamentos y sanatorios."
+   },
+   "refs": []
+  },
+  {
+   "id": "iron-steel-frame",
+   "sub": "materials",
+   "start": 1851,
+   "end": 1914,
+   "cont": true,
+   "date": "1851 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Iron and steel frame",
+   "short": "Iron and steel frame",
+   "key": "A structure of iron, and from the 1880s of steel, columns and beams that carries the load and leaves walls free to be thin, glazed or open.",
+   "origin": "Cast and wrought iron had been used in mills, greenhouses and railway sheds since the late 1700s. The Crystal Palace of 1851 showed iron and glass at the scale of a whole building, steel became cheaper after Bessemer’s process of 1856, and in Chicago the Home Insurance Building by William Le Baron Jenney (1884–85) is often cited as the first tall building with a metal skeleton.",
+   "enabled": "Tall office buildings, wide train sheds and exhibition halls, department stores with open sales floors and factories with walls of glass, built quickly from standard parts made in a factory.",
+   "change": "Once the frame carried the load, the wall was free: Sullivan’s Carson Pirie Scott store opened its façade with wide windows, and Behrens’s turbine hall for AEG and Gropius’s Fagus factory showed the frame and the glass as the building’s image.",
+   "relations": "Railways and the iron industry supplied the beams and the engineers’ methods; the frame made possible both the engineers’ great halls and the architects’ new idea of a light, honest façade.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "joseph-paxton",
+     "victor-horta",
+     "hector-guimard",
+     "peter-behrens",
+     "louis-sullivan",
+     "gropius"
+    ],
+    "works": [
+     "crystal-palace",
+     "hotel-tassel",
+     "paris-metro-entrances",
+     "aeg-turbine-hall",
+     "fagus-factory",
+     "carson-pirie-scott",
+     "ascensor-concepcion",
+     "werkbund-cologne-1914"
+    ]
+   },
+   "es": {
+    "name": "Estructura de hierro y acero",
+    "short": "Estructura de acero",
+    "date": "1851 →",
+    "key": "Una estructura de pilares y vigas de hierro, y desde la década de 1880 de acero, que soporta la carga y deja los muros libres para ser delgados, vidriados o abiertos.",
+    "origin": "El hierro fundido y forjado se usaba en fábricas, invernaderos y cobertizos de ferrocarril desde fines del siglo XVIII. El Crystal Palace de 1851 mostró el hierro y el vidrio a escala de un edificio entero, el acero se abarató con el proceso de Bessemer de 1856, y en Chicago el Home Insurance Building de William Le Baron Jenney (1884–85) suele citarse como el primer edificio alto con esqueleto metálico.",
+    "enabled": "Edificios de oficinas altos, grandes cobertizos de estación y salones de exposición, grandes almacenes de pisos abiertos y fábricas de muros de vidrio, levantados con rapidez a partir de piezas estándar hechas en fábrica.",
+    "change": "Cuando la estructura soportó la carga, el muro quedó libre: el almacén Carson Pirie Scott de Sullivan abrió su fachada con anchas ventanas, y la sala de turbinas de Behrens para AEG y la fábrica Fagus de Gropius mostraron la estructura y el vidrio como la imagen del edificio.",
+    "relations": "El ferrocarril y la industria del hierro aportaron las vigas y los métodos de los ingenieros; la estructura hizo posibles tanto los grandes salones de los ingenieros como la nueva idea de los arquitectos de una fachada liviana y honesta."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,1389 @@
+{
+ "institutions": [
+  {
+   "id": "inst-bauhaus",
+   "level": "essential",
+   "kind": "school",
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1919,
+   "end": 1933,
+   "place": "Weimar, Dessau, Berlin",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Bauhaus",
+   "short": "Bauhaus",
+   "key": "The German school of art, craft and design founded by Walter Gropius in Weimar in 1919, whose teaching spread across the world when its teachers and students emigrated after the Nazis forced it to close.[1][4]",
+   "more": "Founded on 1 April 1919 in Weimar by merging the art academy and the school of arts and crafts,[1] it moved to Dessau in 1925 after the new conservative government of Thuringia cut its funds,[1][2] into a building designed by Gropius and opened in 1926.[3] Its directors were Gropius (1919–28), Hannes Meyer (1928–30) and Mies van der Rohe (1930–33).[2][6] Dessau’s Nazi-dominated council voted in August 1932 to close it;[2][3] it reopened privately in Berlin in October,[2][4] was raided and sealed by the police in April 1933[2][4] and was dissolved by its teachers that July.[2][4] Women were admitted but often steered to the weaving workshop, which Gunta Stölzl led from 1927.[5][6]",
+   "wiki": "Bauhaus",
+   "links": {
+    "designers": [
+     "gropius",
+     "hannes-meyer",
+     "mies-van-der-rohe",
+     "moholy-nagy",
+     "breuer",
+     "bayer",
+     "marianne-brandt",
+     "wagenfeld",
+     "gunta-stolzl",
+     "anni-albers",
+     "lilly-reich"
+    ],
+    "works": [
+     "bauhaus-dessau-building",
+     "wagenfeld-lamp",
+     "brandt-tea-infuser",
+     "kandem-lamp",
+     "wassily-chair",
+     "stolzl-tapestry",
+     "albers-wall-hanging",
+     "torten-estate",
+     "bauhaus-exhibition-poster-1923"
+    ]
+   },
+   "es": {
+    "name": "Bauhaus",
+    "short": "Bauhaus",
+    "place": "Weimar, Dessau, Berlín",
+    "key": "La escuela alemana de arte, oficio y diseño fundada por Walter Gropius en Weimar en 1919, cuya enseñanza se difundió por el mundo cuando sus profesores y estudiantes emigraron tras su cierre forzado por los nazis.[1][4]",
+    "more": "Fundada el 1 de abril de 1919 en Weimar al fusionar la academia de arte y la escuela de artes y oficios,[1] se trasladó a Dessau en 1925, después de que el nuevo gobierno conservador de Turingia le recortara los fondos,[1][2] a un edificio diseñado por Gropius e inaugurado en 1926.[3] Sus directores fueron Gropius (1919–28), Hannes Meyer (1928–30) y Mies van der Rohe (1930–33).[2][6] El concejo de Dessau, de mayoría nazi, votó en agosto de 1932 cerrarla;[2][3] reabrió como escuela privada en Berlín en octubre,[2][4] fue allanada y sellada por la policía en abril de 1933[2][4] y sus profesores la disolvieron en julio.[2][4] Admitió mujeres, pero a menudo las encaminó al taller de tejido, que Gunta Stölzl dirigió desde 1927.[5][6]"
+   },
+   "refs": [
+    {
+     "label": "Bauhaus Kooperation, Bauhaus Weimar",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/phases/bauhaus-weimar",
+     "checks": "Fundación el 1 de abril de 1919 por Walter Gropius al unir la antigua Academia de Bellas Artes del Gran Ducado de Sajonia con la escuela de artes aplicadas disuelta; tras los avances electorales conservadores de 1924 los fondos se recortaron a la mitad y los contratos terminaron el 31 de marzo de 1925; traslado a Dessau, ciudad gobernada por socialdemócratas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, Chronology",
+     "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+     "checks": "1925: los partidos conservadores recortan los fondos y el Bauhaus se traslada a Dessau; 1928 Gropius deja la dirección y asume Hannes Meyer (hasta 1930); 1930 Mies van der Rohe; 22 de agosto de 1932 el concejo de Dessau vota cerrar el Bauhaus; fase de Berlín como instituto privado; la Gestapo sella el edificio el 11 de abril de 1933; el 20 de julio de 1933 los profesores votan disolverlo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, Dessau",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/phases/dessau",
+     "checks": "Edificio de Dessau diseñado por Gropius e inaugurado en 1926; directores Gropius, Hannes Meyer (1928–30) y Mies van der Rohe (desde 1930); el concejo de mayoría nazi decide cerrar el Bauhaus en Dessau en 1932. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, Berlin",
+     "url": "https://bauhauskooperation.de/wissen/das-bauhaus/phasen/berlin",
+     "checks": "Fase de Berlín de octubre de 1932 a julio de 1933 en una antigua fábrica de teléfonos en Steglitz; allanamiento el 11 de abril de 1933; autodisolución del cuerpo docente el 20 de julio de 1933; muchos profesores y estudiantes emigraron y difundieron los principios de la Bauhaus por el mundo. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "German History in Documents and Images, «Weaving Workshop at the Dessau Bauhaus (1927)»",
+     "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/weaving-workshop-at-the-dessau-bauhaus-1927",
+     "checks": "Gunta Stölzl pasa a dirigir el taller de tejido en 1927 (primera y única maestra de la Bauhaus); la mayoría de las estudiantes de tejido eran mujeres a quienes la administración asignaba a ese taller al matricularse. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «The Bauhaus, 1919–1933»",
+     "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+     "checks": "Fundada en Weimar en 1919 por Gropius; traslado a Dessau en 1925; directores Gropius hasta 1928, Hannes Meyer 1928–1930 y Mies van der Rohe 1930–1933; el taller de tejido era sobre todo de mujeres, en parte porque se las desalentaba de participar en otras áreas; Stölzl dirigió el taller textil. No trata el recorte de fondos ni el cierre de 1932–33.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-vkhutemas",
+   "level": "essential",
+   "kind": "school",
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1920,
+   "end": 1930,
+   "place": "Moscow",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "Vkhutemas",
+   "short": "Vkhutemas",
+   "key": "The Higher Art and Technical Studios in Moscow, a Soviet state school founded in 1920 to prepare artists for industry.[1]",
+   "more": "Created by decree in December 1920 from the First and Second Free State Art Studios, themselves based on older Moscow art schools,[1] it had eight faculties, three of art (architecture, painting, sculpture) and five of production (graphics, textiles, ceramics, wood and metal),[1][2] and more than two thousand students.[2] Alexander Rodchenko was dean of the metalwork faculty from 1922[3] and Varvara Stepanova ran textiles;[4] Konstantin Melnikov and Moisei Ginzburg also taught there.[2] Renamed Vkhutein in 1927–28,[1][2][3] it closed in 1930, its faculties divided among other Moscow institutes.[1][3] It is often compared with the Bauhaus, which it resembled in curriculum and spirit but far exceeded in size.[2][3]",
+   "wiki": "Vkhutemas",
+   "links": {
+    "designers": [
+     "rodchenko",
+     "stepanova",
+     "el-lissitzky",
+     "melnikov"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "VKhUTEMAS",
+    "short": "VKhUTEMAS",
+    "place": "Moscú",
+    "key": "Los Talleres Superiores Artísticos y Técnicos de Moscú, escuela estatal soviética fundada en 1920 para formar artistas para la industria.[1]",
+    "more": "Creada por decreto en diciembre de 1920 a partir del Primer y el Segundo Estudio Artístico Estatal, a su vez basados en antiguas escuelas de arte moscovitas,[1] tenía ocho facultades, tres artísticas (arquitectura, pintura, escultura) y cinco de producción (gráfica, textil, cerámica, madera y metal),[1][2] y más de dos mil estudiantes.[2] Aleksandr Ródchenko fue decano de la facultad de metal desde 1922[3] y Varvara Stepánova dirigió la de textil;[4] Konstantín Mélnikov y Moiséi Guinzburg también enseñaron allí.[2] Rebautizada VKhUTEIN en 1927–28,[1][2][3] cerró en 1930 y sus facultades se repartieron entre otros institutos de Moscú.[1][3] Suele compararse con la Bauhaus, a la que se parecía en currículo y espíritu pero superaba con creces en tamaño.[2][3]"
+   },
+   "refs": [
+    {
+     "label": "VKHUTEMAS.ru, «Summary: VKHUTEMAS, the history»",
+     "url": "https://www.vkhutemas.ru/en/summary/",
+     "checks": "Decreto del Consejo de Comisarios del Pueblo del 18 de diciembre de 1920 para «preparar artistas maestros de la más alta calificación para la industria»; fusión del Primer y Segundo Estudio Artístico Estatal, basados en la Academia Stróganov y la Escuela de Pintura, Escultura y Arquitectura de Moscú; ocho facultades originales (arquitectura, pintura, escultura, poligrafía, textil, cerámica, madera y metal); rebautizada VKhUTEIN en septiembre de 1927; disuelta en el otoño de 1930 con sus facultades repartidas entre institutos moscovitas especializados. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Andrei Bokov, «Vkhutemas and the Pedagogy of Space, 1920–1930» (Rationalizing Intuition)",
+     "url": "https://repozytorium.biblos.pk.edu.pl/redo/resources/41591/file/suwFiles/BokovA_RationalizingIntuition.pdf",
+     "checks": "Matrícula de más de dos mil estudiantes, más de diez veces el tamaño de la Bauhaus; ocho departamentos (arquitectura, pintura, escultura y cinco «de producción»: madera, metal, cerámica, gráfica y textil); entre los profesores, Ródchenko, Stepánova, Mélnikov y Moiséi Guinzburg; rebautizada VKhUTEIN en 1927; década de 1920 a 1930; semejante a la Bauhaus en su espíritu «comunista»; parte del curso «Espacio» siguió en el Instituto de Arquitectura de Moscú. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, «VKhUTEMAS» (Objects: Photo, Schools)",
+     "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+     "checks": "Fundada en 1920 en Moscú como sucesora de los SVOMAS; Ródchenko nombrado decano de metalistería en 1922; cambio de nombre a VKhUTEIN en 1928; cierre definitivo en 1930; currículo parecido al de la Bauhaus. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Monoskop, «VKhUTEMAS»",
+     "url": "https://monoskop.org/VKhUTEMAS",
+     "checks": "Varvara Stepánova a cargo del departamento textil; Ródchenko decano del departamento de metal y madera desde febrero de 1922; Mélnikov profesor desde 1920; comparación con la Bauhaus. ⚠ Fuente secundaria (wiki de investigación) leída mediante resumen automático; da otra fecha para el cambio de nombre (1926) y unos 2.500 estudiantes, que no se usan.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-weissenhof",
+   "level": "normal",
+   "kind": "exhibition",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1927,
+   "end": 1927,
+   "place": "Stuttgart",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Weissenhof exhibition",
+   "short": "Weissenhof 1927",
+   "key": "The Deutscher Werkbund’s 1927 exhibition The Dwelling in Stuttgart, which built a model estate of modern houses by leading European architects.[2][3]",
+   "more": "It opened in July 1927 and was visited by about half a million people until October.[1][3] Mies van der Rohe was its artistic director.[2][3] Seventeen architects, among them Le Corbusier, Gropius and Hans Scharoun, built 21 houses with about 60 dwellings in some 21 weeks,[1][2] testing lightweight concrete, dry construction and skeleton frames.[1] Mies introduced there his tubular-steel cantilever chair, developed from a 1924 design by Mart Stam.[4]",
+   "wiki": "Werkbund_Exhibition_–_The_Dwelling",
+   "links": {
+    "designers": [
+     "mies-van-der-rohe",
+     "lilly-reich",
+     "le-corbusier",
+     "gropius",
+     "bruno-taut",
+     "breuer"
+    ],
+    "works": [
+     "weissenhof-estate",
+     "mr10-chair"
+    ]
+   },
+   "es": {
+    "name": "Exposición Weissenhof",
+    "short": "Weissenhof 1927",
+    "place": "Stuttgart",
+    "key": "La exposición La Vivienda del Deutscher Werkbund, en Stuttgart en 1927, que construyó un barrio modelo de casas modernas de destacados arquitectos europeos.[2][3]",
+    "more": "Se inauguró en julio de 1927 y la visitaron cerca de medio millón de personas hasta octubre.[1][3] Mies van der Rohe fue su director artístico.[2][3] Diecisiete arquitectos, entre ellos Le Corbusier, Gropius y Hans Scharoun, levantaron 21 casas con unas 60 viviendas en unas 21 semanas,[1][2] probando hormigón liviano, construcción en seco y estructuras de esqueleto.[1] Mies presentó allí su silla en voladizo de tubo de acero, desarrollada a partir de un diseño de 1924 de Mart Stam.[4]"
+   },
+   "refs": [
+    {
+     "label": "Planet Wissen (WDR), «Weißenhof-Siedlung»",
+     "url": "https://www.planet-wissen.de/kultur/architektur/bauhaus/pwie-weissenhof-siedlung-100.html",
+     "checks": "Exposición «Die Wohnung» inaugurada en julio de 1927; más de 500.000 visitantes entre julio y octubre; 21 casas con 63 viviendas hechas en solo 21 semanas; 17 arquitectos de Alemania, Austria, Países Bajos y Suiza (Le Corbusier, Gropius, Mies, que dirigía); hormigón liviano, construcción en seco y estructuras de esqueleto. ⚠ Fuente secundaria (divulgación); leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "IBA27, «100 Years Weissenhof»",
+     "url": "https://www.iba27.de/en/iba27/the-iba27/100-years-weissenhof/",
+     "checks": "Exposición «Die Wohnung» organizada por el Deutscher Werkbund con la ciudad de Stuttgart; 17 arquitectos bajo la dirección artística de Mies van der Rohe (entre ellos Le Corbusier, Gropius y Scharoun); 21 edificios modelo con 60 unidades de vivienda, terminados en cuatro meses y medio; unos 500.000 visitantes. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Weissenhofmuseum im Haus Le Corbusier, Siedlung",
+     "url": "https://weissenhofmuseum.de/en/siedlung/",
+     "checks": "Dirección artística de Mies van der Rohe; 17 arquitectos internacionales; exposición de cuatro meses con 500.000 visitantes; Gropius, Scharoun y Le Corbusier entre los participantes. ⚠ El museo cuenta 33 edificios (proyectos), no 21; la ficha usa las 21 casas de IBA, UNESCO y Planet Wissen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Mies van der Rohe, «MR» armchair",
+     "url": "https://www.metmuseum.org/art/collection/search/482117",
+     "checks": "Silla MR de acero tubular y mimbre, 1927, presentada por Mies van der Rohe en la exposición de Stuttgart de 1927 y desarrollada a partir de un diseño de 1924 de silla en voladizo de Mart Stam; creación conjunta con Lilly Reich.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-neues-frankfurt",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "architecture",
+    "product",
+    "graphic"
+   ],
+   "start": 1925,
+   "end": 1930,
+   "place": "Frankfurt am Main",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "New Frankfurt",
+   "short": "New Frankfurt",
+   "key": "The municipal housing and design programme of Frankfurt from 1925 to 1930, led by Ernst May, which built between 12,000 and 15,000 homes[1][2].",
+   "more": "Mayor Ludwig Landmann appointed Ernst May as head of city planning in 1925. His office designed estates such as Römerstadt and Praunheim, standard fittings and furniture, the Frankfurt Kitchen and street signs, and tested prefabricated concrete panels. It published the magazine Das neue Frankfurt (1926–33) and hosted the second CIAM congress in 1929. The Depression stopped building, and May left for the Soviet Union in 1930.",
+   "wiki": "New_Frankfurt",
+   "links": {
+    "designers": [
+     "ernst-may",
+     "schutte-lihotzky"
+    ],
+    "works": [
+     "frankfurt-kitchen",
+     "romerstadt",
+     "existenzminimum-exhibition"
+    ]
+   },
+   "es": {
+    "name": "Nuevo Frankfurt",
+    "short": "Nuevo Frankfurt",
+    "place": "Frankfurt del Meno",
+    "key": "El programa municipal de vivienda y diseño de Frankfurt entre 1925 y 1930, dirigido por Ernst May, que construyó entre 12.000 y 15.000 viviendas[1][2].",
+    "more": "El alcalde Ludwig Landmann nombró a Ernst May jefe de urbanismo en 1925. Su oficina diseñó conjuntos como Römerstadt y Praunheim, accesorios y muebles estándar, la Cocina de Frankfurt y letreros urbanos, y probó paneles prefabricados de hormigón. Publicó la revista Das neue Frankfurt (1926–33) y acogió el segundo congreso de los CIAM en 1929. La Depresión detuvo la construcción, y May partió a la Unión Soviética en 1930."
+   },
+   "refs": [
+    {
+     "label": "hessenschau, «100 Jahre Neues Frankfurt»",
+     "checks": "Unas 12.000 viviendas entre 1925 y 1930; Landmann llamó a May.",
+     "date": "2026-10-03",
+     "url": "https://www.hessenschau.de/kultur/100-jahre-neues-frankfurt-wie-ein-mega-bauprogramm-frankfurt-seit-100-jahren-praegt-v1,100-jahre-das-neue-frankfurt-programm-100.html"
+    },
+    {
+     "label": "Ciudad de Frankfurt, «May-Settlements»",
+     "checks": "Unas 15.000 viviendas entre 1925 y 1930 (las fuentes discrepan).",
+     "date": "2026-10-03",
+     "url": "https://frankfurt.de/english/discover-and-experience/sightseeing/historical-buildings/may-settlements"
+    }
+   ]
+  },
+  {
+   "id": "inst-london-transport",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1933,
+   "end": 1947,
+   "cont": true,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "London Transport",
+   "short": "London Transport",
+   "key": "London’s public transport authority from 1933, which brought the Underground, buses and trams under one board; its design policy under Frank Pick became a model of corporate identity.[1][6]",
+   "more": "The London Passenger Transport Board took over the city’s underground railways, buses and trams on 1 July 1933.[1][3] It ran them until 1947, and the British Transport Commission took over in 1948.[3] Frank Pick, at the Underground since 1906 and developing its publicity from 1908,[2] was its vice-chairman and chief executive until 1940.[2][6] He had commissioned Edward Johnston’s typeface and roundel,[2][5] and also used Charles Holden’s stations, Harry Beck’s map and posters by artists such as Edward McKnight Kauffer,[2][5] holding that the test of the goodness of a thing is its fitness for use.[4]",
+   "wiki": "London_Passenger_Transport_Board",
+   "links": {
+    "designers": [
+     "edward-johnston",
+     "harry-beck",
+     "mcknight-kauffer"
+    ],
+    "works": [
+     "johnston-typeface",
+     "tube-map-1933",
+     "power-poster",
+     "holden-stations"
+    ]
+   },
+   "es": {
+    "name": "London Transport",
+    "short": "London Transport",
+    "place": "Londres",
+    "key": "La autoridad de transporte público de Londres desde 1933, que reunió el metro, los buses y los tranvías bajo una sola junta; su política de diseño bajo Frank Pick se volvió modelo de identidad corporativa.[1][6]",
+    "more": "El London Passenger Transport Board asumió el metro, los buses y los tranvías de la ciudad el 1 de julio de 1933.[1][3] Los administró hasta 1947, y en 1948 tomó el control la British Transport Commission.[3] Frank Pick, en el Underground desde 1906 y desarrollando su publicidad desde 1908,[2] fue su vicepresidente y director ejecutivo hasta 1940.[2][6] Había encargado la tipografía y el logotipo circular de Edward Johnston,[2][5] y además usó las estaciones de Charles Holden, el mapa de Harry Beck y carteles de artistas como Edward McKnight Kauffer,[2][5] convencido de que la prueba de la bondad de una cosa está en su adecuación al uso.[4]"
+   },
+   "refs": [
+    {
+     "label": "London Transport Museum, «The formation of London Transport»",
+     "url": "https://www.ltmuseum.co.uk/visit/museum-guide/formation-london-transport",
+     "checks": "El London Passenger Transport Board comenzó el 1 de julio de 1933 y reunió bajo una sola autoridad el metro, los buses, los tranvías y los trolebuses; Frank Pick fue su director ejecutivo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "London Transport Museum, «Frank Pick: the man behind London Transport's identity»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/people/frank-pick-man-behind-london-transports-identity",
+     "checks": "Pick entró al Underground en 1906; en 1908 se le dio libertad para desarrollar su publicidad (carteles ilustrados); fue vicepresidente y director ejecutivo del LPTB desde 1933 y salió en 1940; encargó a Edward Johnston la tipografía y el logotipo circular; colaboró con Charles Holden en estaciones; encargó carteles a artistas de vanguardia.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "London Transport Museum, «Lord Ashfield: Creator of London Transport»",
+     "url": "https://www.ltmuseum.co.uk/collections/stories/people/lord-ashfield-creator-london-transport",
+     "checks": "El LPTB empezó el 1 de julio de 1933 con buses, tranvías y Underground; Pick fue vicepresidente a cargo de la gestión diaria; Ashfield fue presidente hasta 1947 y la British Transport Commission asumió en 1948. ⚠ No da el día exacto del fin del LPTB (31 dic. 1947 queda sin confirmar).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "London Transport Museum, blog «Frank Pick: Beauty < Immortality»",
+     "url": "https://www.ltmuseum.co.uk/blog/frank-pick-beauty-immortality",
+     "checks": "Cita de Pick: «The test of the goodness of a thing is its fitness for use…»; Johnston (1915–16) y el logotipo circular; ⚠ la página no fecha la cita.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Design Museum, «London Transport»",
+     "url": "https://designmuseum.org/london-transport",
+     "checks": "El LPTB se creó en 1933; Pick entró al Underground Group en 1906; mapa de Harry Beck (1931); estaciones de Charles Holden dirigidas por Pick; 128 carteles de McKnight Kauffer; tipografía de Johnston (1916) y logotipo circular.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "London Transport Museum, colecciones: «Frank C Pick, 1878–1941»",
+     "url": "https://www.ltmuseum.co.uk/collections/collections-online/people/item/2001-26251",
+     "checks": "Pick entró en 1906; fue vicepresidente del LPTB en 1933 y salió en 1940; trabajó con Johnston, Holden y McKnight Kauffer; su visión hizo de London Transport un modelo internacional de diseño. ⚠ Da 1907 para el inicio de su cargo de publicidad (la otra página da 1908).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-penguin-books",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1935,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Penguin Books",
+   "short": "Penguin Books",
+   "key": "The British publisher founded by Allen Lane in 1935 that sold good books as cheap paperbacks with a standard, recognisable design.[1][3]",
+   "more": "Allen Lane and his brothers Richard and John[2] launched the first ten Penguins on 30 July 1935,[1][5] at sixpence each, the price of a packet of cigarettes,[3][4] and sold them not only in bookshops but at railway stations, newsagents and chain stores such as Woolworths.[4] Within ten months a million Penguin books had been printed.[1] The penguin logo and the three-band cover, with a colour for each kind of book, were designed by Edward Young, then 21.[2][3] Pelican, for non-fiction, followed in 1937.[1]",
+   "wiki": "Penguin_Books",
+   "links": {
+    "designers": [],
+    "works": [
+     "penguin-covers"
+    ]
+   },
+   "es": {
+    "name": "Penguin Books",
+    "short": "Penguin Books",
+    "place": "Londres",
+    "key": "La editorial británica fundada por Allen Lane en 1935 que vendió buenos libros como libros de bolsillo baratos con un diseño estándar y reconocible.[1][3]",
+    "more": "Allen Lane y sus hermanos Richard y John[2] lanzaron los diez primeros Penguin el 30 de julio de 1935,[1][5] a seis peniques cada uno, el precio de un paquete de cigarrillos,[3][4] y los vendieron no solo en librerías sino en estaciones de tren, quioscos y cadenas como Woolworths.[4] En diez meses se habían impreso un millón de libros Penguin.[1] El logotipo del pingüino y la portada de tres franjas, con un color para cada tipo de libro, los diseñó Edward Young, de 21 años.[2][3] En 1937 siguió Pelican, para no ficción.[1]"
+   },
+   "refs": [
+    {
+     "label": "Penguin Books UK, «Our timeline»",
+     "url": "https://www.penguin.co.uk/about/company-timeline",
+     "checks": "Allen Lane publica los primeros Penguin en 1935; seis peniques; colores por tipo (naranja ficción, azul biografía, verde policial); lanzamiento el 30 de julio de 1935; en marzo de 1936, diez meses después, se habían impreso un millón de libros; en 1937 Pelican para no ficción. ⚠ Dice «impresos», no «vendidos».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Penguin Books UK, «How the Penguin logo has evolved through the years»",
+     "url": "https://www.penguin.co.uk/discover/articles/penguin-books-logo-history-edward-young-allen-lane",
+     "checks": "Lane y sus hermanos Dick y John propusieron la idea a The Bodley Head; Edward Young, de 21 años en 1935, diseñó el logotipo y la «tribuna» de tres franjas horizontales cuyo color cambia según el género.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Design Museum, «Penguin Books»",
+     "url": "https://designmuseum.org/penguin-books",
+     "checks": "Seis peniques, el precio de un paquete de cigarrillos; portadas sin ilustración con rejilla horizontal y color por género (naranja, verde, azul); Edward Young dibujó pingüinos en el zoológico de Londres. ⚠ Habla de «doce títulos» iniciales, lo que contradice a Penguin (diez).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Quaritch, catálogo «The first 30 years of Penguin: a complete set of U.K. first editions»",
+     "url": "https://www.quaritch.com/wp-content/uploads/2014/05/quaritch046.pdf",
+     "checks": "Los libros costaban seis peniques, como un paquete de cigarrillos, y se vendían en estaciones, quioscos y cadenas como Woolworths. ⚠ Catálogo de librero (fuente secundaria); no da el 30 de julio ni a los hermanos Lane.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Orkney News, «Penguin Books #OnThisDay» (30 jul. 2023)",
+     "url": "https://theorkneynews.scot/2023/07/30/penguin-books-onthisday/",
+     "checks": "Primer Penguin publicado el 30 de julio de 1935; lista de los diez primeros títulos. ⚠ Fuente secundaria (prensa local), usada solo para «diez».",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-moma",
+   "level": "essential",
+   "kind": "museum",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1929,
+   "end": null,
+   "place": "New York",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "MoMA",
+   "short": "MoMA",
+   "key": "The Museum of Modern Art in New York, opened in 1929, which went beyond painting and sculpture to collect and exhibit architecture, design, photography and film.[2][3]",
+   "more": "Founded by Abby Aldrich Rockefeller, Lillie P. Bliss and Mary Quinn Sullivan,[1][2] it opened on 7 November 1929, days after the Wall Street crash,[1][2] with Alfred H. Barr Jr. as its first director.[2] In 1932 it set up the world’s first curatorial department devoted to design and architecture.[1][3] Its exhibitions Modern Architecture: International Exhibition (1932),[1] which launched the label International Style,[3] and Machine Art (1934),[1] which showed machines, instruments and everyday metal and glass objects as industrial design,[1][4] helped bring modern design to a wide American audience.[3]",
+   "wiki": "Museum_of_Modern_Art",
+   "links": {
+    "designers": [
+     "mies-van-der-rohe",
+     "le-corbusier",
+     "gropius"
+    ],
+    "works": [
+     "cisitalia-202-1947"
+    ]
+   },
+   "es": {
+    "name": "MoMA",
+    "short": "MoMA",
+    "place": "Nueva York",
+    "key": "El Museo de Arte Moderno de Nueva York, abierto en 1929, que fue más allá de la pintura y la escultura para coleccionar y exhibir arquitectura, diseño, fotografía y cine.[2][3]",
+    "more": "Fundado por Abby Aldrich Rockefeller, Lillie P. Bliss y Mary Quinn Sullivan,[1][2] abrió el 7 de noviembre de 1929, días después del crac de Wall Street,[1][2] con Alfred H. Barr Jr. como primer director.[2] En 1932 creó el primer departamento curatorial del mundo dedicado al diseño y la arquitectura.[1][3] Sus exposiciones Modern Architecture: International Exhibition (1932),[1] que lanzó la etiqueta de Estilo Internacional,[3] y Machine Art (1934),[1] que mostró máquinas, instrumentos y objetos cotidianos de metal y vidrio como diseño industrial,[1][4] contribuyeron a llevar el diseño moderno a un público estadounidense amplio.[3]"
+   },
+   "refs": [
+    {
+     "label": "MoMA Archives, Exhibition Records 1929–1959 (finding aid)",
+     "url": "https://moma.org/research-and-learning/archives/finding-aids/MoMAExhFiles1929_1959b.html",
+     "checks": "Fundado por Abby Aldrich Rockefeller, Lillie P. Bliss y Mary Quinn Sullivan; Alfred H. Barr Jr. como director; primera exposición (Exh. #1) del 7 de nov. al 7 de dic. de 1929; Modern Architecture: International Exhibition (Exh. #15, 9 feb.–23 mar. 1932); Machine Art (Exh. #34, 5 mar.–29 abr. 1934); primer departamento curatorial (Arquitectura) en 1932; las carpetas de Machine Art incluyen instrumentos de medición, máquinas, vidrio y metalería. ⚠ No describe hélices ni resortes.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Art Story, «Museum of Modern Art Overview»",
+     "url": "https://www.theartstory.org/venue/museum-of-modern-art/",
+     "checks": "Abrió al público el 7 de nov. de 1929, poco después del crac de «Black Tuesday»; las tres fundadoras; Barr como primer director y curador fundador; concibió una colección permanente de pintura, escultura, fotografía, cine y arquitectura.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Transatlantic Perspectives, «Museum of Modern Art»",
+     "url": "https://www.transatlanticperspectives.org/entries/museum-of-modern-art/",
+     "checks": "Fundado en 1929; enfoque multidisciplinario (cine, arquitectura, diseño); Modern Architecture: International Exhibition en 1932, cuyo título de catálogo, The International Style, se volvió el nombre del estilo; primer departamento curatorial del mundo dedicado a diseño y arquitectura (1932); diseño moderno presentado a públicos amplios. ⚠ Dice «uno de los primeros museos de su tamaño» en exhibir arte moderno en EE. UU., no «el primero».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "EBSCO Research Starters, «New York's Museum of Modern Art Opens to the Public»",
+     "url": "https://www.ebsco.com/research-starters/arts-and-entertainment/new-yorks-museum-modern-art-opens-public",
+     "checks": "Fundado en 1929 por tres mujeres; Barr primer director; exposiciones tempranas de arquitectura moderna (1932) y diseño industrial (1934). ⚠ Da el 8 de nov. como apertura al público y «nueve días» tras el crac, lo que contradice al archivo del MoMA (7 de nov.).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-olivetti",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1931,
+   "end": null,
+   "place": "Ivrea",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Olivetti",
+   "short": "Olivetti",
+   "key": "The Italian typewriter maker, founded in 1908, which from the 1930s treated design as a total company culture, from products to posters.[1][5]",
+   "more": "Camillo Olivetti founded the firm in Ivrea in 1908.[2][7] His son Adriano created a development and advertising office in 1931, which from the start used important artists and designers;[1][3] the MP1, its first portable typewriter, followed in 1932.[1][7] In the 1930s the company hired architects and graphic artists,[1][5] and Giovanni Pintori began working with it in 1936.[6] In Ivrea Adriano had architects such as Luigi Figini and Gino Pollini enlarge the factory from 1934[4] and build workers’ housing and social facilities.[3] The timeline starts it in 1931, when its design programme began.[1][3]",
+   "wiki": "Olivetti",
+   "links": {
+    "designers": [],
+    "works": [
+     "lettera-22",
+     "elea-9003",
+     "valentine-typewriter"
+    ]
+   },
+   "es": {
+    "name": "Olivetti",
+    "short": "Olivetti",
+    "place": "Ivrea",
+    "key": "El fabricante italiano de máquinas de escribir, fundado en 1908, que desde los años treinta trató el diseño como una cultura total de empresa, del producto al cartel.[1][5]",
+    "more": "Camillo Olivetti fundó la empresa en Ivrea en 1908.[2][7] Su hijo Adriano creó en 1931 una oficina de desarrollo y publicidad, que desde el inicio contó con artistas y diseñadores importantes;[1][3] en 1932 siguió la MP1, su primera máquina de escribir portátil.[1][7] En los años treinta la empresa contrató arquitectos y artistas gráficos,[1][5] y Giovanni Pintori empezó a trabajar con ella en 1936.[6] En Ivrea Adriano encargó a arquitectos como Luigi Figini y Gino Pollini ampliar la fábrica desde 1934[4] y construir viviendas obreras y servicios sociales.[3] La línea la hace empezar en 1931, cuando comenzó su programa de diseño.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Archivio Storico Olivetti, «Pubblicità delle macchine per scrivere Olivetti»",
+     "url": "https://www.storiaolivetti.it/articolo/70-pubblicita-delle-macchine-per-scrivere-olivetti/",
+     "checks": "Camillo Olivetti fundó la empresa en Ivrea en 1908; el Ufficio Sviluppo e Pubblicità se constituyó en 1931 por Adriano Olivetti; la MP1, portátil, salió en 1932; se contrataron arquitectos y artistas gráficos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archivio Storico Olivetti, «Camillo Olivetti»",
+     "url": "https://www.storiaolivetti.it/articolo/62-camillo-olivetti/",
+     "checks": "El 29 de octubre de 1908 fundó en Ivrea la «Ing. C. Olivetti e C.» en una pequeña fábrica de ladrillo rojo proyectada por él.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archivio Storico Olivetti, «Adriano Olivetti»",
+     "url": "https://www.storiaolivetti.it/articolo/64-adriano-olivetti/",
+     "checks": "En 1931 creó un Servicio de Publicidad que contó desde el inicio con artistas y diseñadores importantes; entre los años treinta y cincuenta encargó a grandes arquitectos (Figini, Pollini, Zanuso, etc.) barrios para empleados, sedes de servicios sociales, biblioteca y comedor.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archivio Storico Olivetti, «Le officine Olivetti a Ivrea: 1896-1958»",
+     "url": "https://www.storiaolivetti.it/articolo/44-le-officine-olivetti-a-ivrea-1896-1958/",
+     "checks": "Desde 1934, bajo la dirección de Adriano, nuevos cuerpos de fábrica de estilo innovador dirigidos por los jóvenes arquitectos Luigi Figini y Gino Pollini; la fábrica forma parte de «Ivrea, ciudad industrial del siglo XX» (UNESCO, 2018).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archivio Storico Olivetti, «Il design dei prodotti Olivetti»",
+     "url": "https://www.storiaolivetti.it/articolo/89-il-design-dei-prodotti-olivetti/",
+     "checks": "Desde los años treinta Adriano Olivetti hizo del diseño política de empresa y reunió escritores, arquitectos, grafistas y artistas; MP1 (1932) de forma más plana y ligera; Studio 42 (1935) con diseñadores e ingenieros colaborando desde el inicio; Nizzoli desde 1938.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archivio Storico Olivetti, «Giovanni Pintori»",
+     "url": "https://www.storiaolivetti.it/articolo/77-giovanni-pintori/",
+     "checks": "El encuentro con Olivetti ocurre en 1936, cuando Adriano invita a Pintori a preparar las tablas del plan regulador del Valle d’Aosta; luego pasa a la Oficina de Publicidad Técnica.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Archivio Storico Olivetti, «Cronologia Olivetti 1908-1977»",
+     "url": "https://www.storiaolivetti.it/articolo/68-cronologia-olivetti-1908-1977/",
+     "checks": "1908: se constituye en Ivrea la sociedad «Ing. Olivetti et Compagnia» para producir máquinas de escribir; 1932: sale la MP1, primera máquina portátil.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-container-corporation",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1926,
+   "end": 1986,
+   "cont": true,
+   "place": "Chicago",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Container Corporation",
+   "short": "Container Corp.",
+   "key": "A Chicago maker of cardboard boxes, founded by Walter Paepcke in 1926, that became a pioneer of corporate design and of patronage of modern artists.[1]",
+   "more": "Elizabeth Paepcke encouraged her husband Walter to hire an art director, and in 1936 the company appointed Egbert Jacobson as its first,[1] creating one of the first full corporate identity programmes, with a new logo, stationery, advertising and redesigned trucks, factories and offices.[1] Its first commissioned artist, A. M. Cassandre, designed twelve advertisements in 1937–38.[1] Walter Paepcke also supported Moholy-Nagy’s efforts to set up a new Bauhaus in Chicago in the late 1930s,[1] the school founded as the New Bauhaus in 1937.[2] In 1968 the company merged with Montgomery Ward to form Marcor, which Mobil acquired in 1976.[1]",
+   "wiki": "Container_Corporation_of_America",
+   "links": {
+    "designers": [
+     "cassandre",
+     "moholy-nagy"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Container Corporation",
+    "short": "Container Corp.",
+    "place": "Chicago",
+    "key": "Un fabricante de cajas de cartón de Chicago, fundado por Walter Paepcke en 1926, que fue pionero del diseño corporativo y del mecenazgo de artistas modernos.[1]",
+    "more": "Elizabeth Paepcke animó a su marido Walter a contratar un director de arte, y en 1936 la empresa nombró a Egbert Jacobson como el primero,[1] creando uno de los primeros programas completos de identidad corporativa, con nuevo logotipo, papelería, avisos y camiones, fábricas y oficinas rediseñados.[1] Su primer artista encargado, A. M. Cassandre, diseñó doce avisos en 1937–38.[1] Walter Paepcke también apoyó los esfuerzos de Moholy-Nagy por crear una nueva Bauhaus en Chicago a fines de los años treinta,[1] la escuela fundada como New Bauhaus en 1937.[2] En 1968 la empresa se fusionó con Montgomery Ward para formar Marcor, que Mobil adquirió en 1976.[1]"
+   },
+   "refs": [
+    {
+     "label": "Chicago Design Archive, «The Container Corporation of America and Graphic Design in Chicago»",
+     "url": "https://chicagodesignarchive.org/essay/container-corporation-america-and-graphic-design-chicago",
+     "checks": "Walter Paepcke fundó CCA en 1926 (envases de cartón); Elizabeth Paepcke lo animó a contratar un director de arte; Egbert Jacobson, primer director de arte, 1936; «uno de los primeros programas completos de identidad corporativa» (logotipo, papelería, avisos, camiones, fábricas, oficinas); A. M. Cassandre fue el primer artista encargado, doce avisos en 1937–38; Paepcke apoyó a Moholy-Nagy para fundar una nueva Bauhaus en Chicago a fines de los años treinta; fusión con Montgomery Ward en 1968 (Marcor); Mobil compró Marcor en 1976.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Illinois Institute of Technology, Institute of Design, «The New Bauhaus»",
+     "url": "https://id.iit.edu/new-bauhaus/",
+     "checks": "El Institute of Design nació como The New Bauhaus en 1937, fundado por László Moholy-Nagy. ⚠ La página no menciona a Paepcke ni a la Container Corporation.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-cranbrook",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "architecture",
+    "product",
+    "fashion"
+   ],
+   "start": 1932,
+   "end": null,
+   "place": "Bloomfield Hills, Michigan",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Cranbrook Academy of Art",
+   "short": "Cranbrook",
+   "key": "An American graduate school of art, architecture and design founded in 1932, where students learned beside resident artists.",
+   "more": "Founded by George Gough Booth and Ellen Scripps Booth within the Cranbrook educational community, it was designed and first directed by the Finnish architect Eliel Saarinen; Loja Saarinen led textiles. Small groups worked in studios with an artist in residence rather than in classes. Its students in the late 1930s and 1940s included Charles and Ray Eames, Florence Knoll, Eero Saarinen and Harry Bertoia, who shaped American design after the war.",
+   "wiki": "Cranbrook_Academy_of_Art",
+   "links": {
+    "designers": [],
+    "works": [
+     "cranbrook-new-discourse-1989"
+    ]
+   },
+   "es": {
+    "name": "Academia de Arte Cranbrook",
+    "short": "Cranbrook",
+    "place": "Bloomfield Hills, Míchigan",
+    "key": "Una escuela de posgrado estadounidense de arte, arquitectura y diseño fundada en 1932, donde los estudiantes aprendían junto a artistas residentes.",
+    "more": "Fundada por George Gough Booth y Ellen Scripps Booth dentro de la comunidad educativa de Cranbrook, la diseñó y dirigió primero el arquitecto finlandés Eliel Saarinen; Loja Saarinen dirigió el textil. Pequeños grupos trabajaban en talleres con un artista residente en vez de en clases. Entre sus estudiantes de fines de los años treinta y de los cuarenta estuvieron Charles y Ray Eames, Florence Knoll, Eero Saarinen y Harry Bertoia, que dieron forma al diseño estadounidense de posguerra."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-black-mountain",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "fashion",
+    "architecture",
+    "graphic"
+   ],
+   "start": 1933,
+   "end": 1957,
+   "cont": true,
+   "place": "Black Mountain, North Carolina",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Black Mountain College",
+   "short": "Black Mountain",
+   "key": "An experimental American college founded in 1933 that put the arts at the centre of education and whose first art teacher, Josef Albers, came from the Bauhaus.[1][2]",
+   "more": "Conceived by John Andrew Rice, a scholar who had left Rollins College,[1] the college was owned and run by its faculty.[1] It welcomed Josef and Anni Albers, who left Germany after the Nazis closed the Bauhaus and reached New York in November 1933;[1][2][3] Josef led the art programme until 1949.[2][3] All members of the community took part in running the college, from farm work and building to kitchen duty.[1] It closed in 1957.[1]",
+   "wiki": "Black_Mountain_College",
+   "links": {
+    "designers": [
+     "anni-albers",
+     "buckminster-fuller"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Black Mountain College",
+    "short": "Black Mountain",
+    "place": "Black Mountain, Carolina del Norte",
+    "key": "Un college experimental estadounidense fundado en 1933 que puso las artes en el centro de la educación y cuyo primer profesor de arte, Josef Albers, venía de la Bauhaus.[1][2]",
+    "more": "Concebido por John Andrew Rice, un académico que había dejado Rollins College,[1] el college era propiedad de su facultad y lo administraba ella.[1] Acogió a Josef y Anni Albers, que dejaron Alemania después de que los nazis cerraran la Bauhaus y llegaron a Nueva York en noviembre de 1933;[1][2][3] Josef dirigió el programa de arte hasta 1949.[2][3] Todos los miembros de la comunidad participaban en el funcionamiento del college, del trabajo agrícola y la construcción a las tareas de cocina.[1] Cerró en 1957.[1]"
+   },
+   "refs": [
+    {
+     "label": "Black Mountain College Museum + Arts Center, «A Brief History»",
+     "url": "https://www.blackmountaincollege.org/history/",
+     "checks": "La historia empieza en 1933; concebido por John A. Rice, que salió de Rollins College entre polémicas; a 20 minutos de Asheville; los fundadores contrataron a Josef Albers como primer profesor de arte, que llegó con Anni desde la Alemania de Hitler; propiedad y gestión de la facultad, con las artes en el centro del aprendizaje; todos participaban en la operación (campo, construcción, cocina); cerró en 1957.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Black Mountain College Museum + Arts Center, «Josef Albers»",
+     "url": "https://www.blackmountaincollege.org/josef-albers/",
+     "checks": "Josef y Anni Albers llegaron en 1933 tras el cierre de la Bauhaus por el nazismo; Josef dirigió el programa de artes visuales hasta 1949. ⚠ No dice cuál fue el papel de Anni ni quién los invitó.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Josef & Anni Albers Foundation, Chronology",
+     "url": "https://www.albersfoundation.org/alberses/chronology",
+     "checks": "1933: Josef es invitado a dirigir el departamento de arte de Black Mountain College; llegan a Nueva York el 24 de noviembre de 1933; 1949: renuncian en febrero y se van en mayo. ⚠ No documenta que Anni enseñara tejido en BMC.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-new-bauhaus",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1937,
+   "end": 1938,
+   "place": "Chicago",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "New Bauhaus",
+   "short": "New Bauhaus",
+   "key": "The school of design opened by László Moholy-Nagy in Chicago in 1937, an attempt to continue the Bauhaus in the United States.[1][2]",
+   "more": "Invited by Chicago’s Association of Arts and Industries, Moholy-Nagy opened it in 1937 in a former mansion on Prairie Avenue.[1][2] It closed after one year because of financial problems, when the Association withdrew its support.[1][2] With support from Walter Paepcke of the Container Corporation, he reopened it in 1939 as the School of Design, renamed the Institute of Design by 1944.[1][2] In 1949 it became part of the Illinois Institute of Technology.[1][2]",
+   "wiki": "Institute_of_Design_at_the_Illinois_Institute_of_Technology",
+   "links": {
+    "designers": [
+     "moholy-nagy"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Nueva Bauhaus",
+    "short": "Nueva Bauhaus",
+    "place": "Chicago",
+    "key": "La escuela de diseño que László Moholy-Nagy abrió en Chicago en 1937, un intento de continuar la Bauhaus en Estados Unidos.[1][2]",
+    "more": "Invitado por la Asociación de Artes e Industrias de Chicago, Moholy-Nagy la abrió en 1937 en una antigua mansión de Prairie Avenue.[1][2] Cerró al año por problemas de financiamiento, cuando la Asociación retiró su apoyo.[1][2] Con el apoyo de Walter Paepcke, de la Container Corporation, la reabrió en 1939 como School of Design, rebautizada Institute of Design hacia 1944.[1][2] En 1949 pasó a formar parte del Illinois Institute of Technology.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Architectural Record, «The Bauhaus Centennial: Origin Story»",
+     "url": "https://www.architecturalrecord.com/articles/14112-the-bauhaus-centennial-origin-story",
+     "checks": "Moholy-Nagy fundó la New Bauhaus en Chicago en 1937 por invitación de la Association of Arts and Industries; problemas de financiamiento y cierre en 1938; en 1939 abrió la School of Design; en 1944 ya se llamaba Institute of Design; en 1949 se fusionó con el Illinois Institute of Technology; Walter Paepcke (Container Corporation of America) fue su mecenas. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Moholy-Nagy Foundation, «Teaching» (la New Bauhaus y el Institute of Design)",
+     "url": "https://moholy-nagy.org/teaching/",
+     "checks": "Clases desde octubre de 1937 en la mansión Marshall Field de Prairie Avenue; la Association abandonó su apoyo y no reabrió en el otoño de 1938; School of Design en febrero de 1939 con el respaldo de Walter Paepcke; reorganizada como Institute of Design en 1944; parte del IIT en 1949. ⚠ Sitio de la fundación de la familia del artista; leída mediante resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-tgp",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1937,
+   "end": null,
+   "place": "Mexico City",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "name": "Taller de Gráfica Popular",
+   "short": "TGP",
+   "key": "A collective printmaking workshop founded in Mexico City in 1937 to make political prints and posters in the interest of the people of Mexico.[1][2][3]",
+   "more": "Leopoldo Méndez, Pablo O’Higgins and Luis Arenal were among its founders, and it emerged from the circle of the League of Revolutionary Writers and Artists (LEAR), which dissolved in 1938.[1][2][3][4] Working mostly in linocut and woodcut, its members produced posters, leaflets and portfolios of prints against fascism and for trade unions, in the tradition of José Guadalupe Posada.[1][2][4] Artists from abroad, including exiles, joined it; Elizabeth Catlett worked there from 1946.[1][3][5] It still exists.[3][6]",
+   "wiki": "Taller_de_Gráfica_Popular",
+   "links": {
+    "designers": [
+     "leopoldo-mendez"
+    ],
+    "works": [
+     "tgp-posters"
+    ]
+   },
+   "es": {
+    "name": "Taller de Gráfica Popular",
+    "short": "TGP",
+    "place": "Ciudad de México",
+    "key": "Un taller colectivo de grabado fundado en Ciudad de México en 1937 para hacer estampas y carteles políticos en beneficio del pueblo de México.[1][2][3]",
+    "more": "Leopoldo Méndez, Pablo O’Higgins y Luis Arenal estuvieron entre sus fundadores, y surgió del círculo de la Liga de Escritores y Artistas Revolucionarios (LEAR), que se disolvió en 1938.[1][2][3][4] Trabajando sobre todo en linóleo y madera, sus integrantes produjeron carteles, volantes y carpetas de estampas contra el fascismo y a favor de los sindicatos, en la tradición de José Guadalupe Posada.[1][2][4] Se sumaron artistas extranjeros, entre ellos exiliados; Elizabeth Catlett trabajó allí desde 1946.[1][3][5] Todavía existe.[3][6]"
+   },
+   "refs": [
+    {
+     "label": "Afterall, «The Taller de Gráfica Popular: Collectivity, Popular Prints and Transient Muralism»",
+     "url": "https://www.afterall.org/articles/the-taller-de-grafica-popular-collectivity-popular-prints-and-transient-muralism/",
+     "checks": "Fundado en 1937 en Ciudad de México por Méndez, O’Higgins y Arenal; acta de fundación («estimular la producción gráfica en beneficio de los intereses del pueblo de México»); linóleo y madera; carteles, hojas sueltas y volantes; marco antifascista; tradición de Posada; artistas exiliados y migrantes (Catlett, Yampolsky, Hannes Meyer). Leído mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Art Institute of Chicago, «What May Come: The Taller de Gráfica Popular and the Mexican Political Print»",
+     "url": "https://www.artic.edu/exhibitions/1906/what-may-come-the-taller-de-grafica-popular-and-the-mexican-political-print",
+     "checks": "Fundación en 1937 por Méndez, Arenal y O’Higgins; surge en el ambiente antifascista y de izquierda; recoge el legado de Posada; miles de estampas, sobre todo linograbados y litografías; trabajos para grandes sindicatos y organizaciones antifascistas; miembros y artistas invitados extranjeros (de Catlett a Albers).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Met, Lauder Research Center, «Taller de Gráfica Popular»",
+     "url": "https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/taller-de-grafica-popular",
+     "checks": "Colectivo de grabado fundado en 1937; la lista completa de fundadores no se conoce (entre los primeros: Méndez, Anguiano, Arenal, Escobedo, O’Higgins); surge tras la disolución de la LEAR en 1938 (fundada cinco años antes); carteles, volantes, periódicos y libros; oposición a los fascismos; Catlett se une formalmente al mudarse a México en 1946; «sigue existiendo» como taller y archivo comunitario.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Resumen Latinoamericano, «Hace 86 años se fundó el Taller de Gráfica Popular»",
+     "url": "https://www.resumenlatinoamericano.org/2023/01/31/cultura-hace-86-anos-se-fundo-el-taller-de-grafica-popular-donde-la-causa-del-arte-es-social/",
+     "checks": "Fundado en 1937 por Méndez, O’Higgins, Zalce, Arenal, Aguirre y otros tras la disolución de la LEAR; grabado en linóleo y madera; carteles, panfletos, banderas y carpetas; causas sindicales, antimilitaristas y de los trabajadores. ⚠ Medio de prensa: fuente secundaria, solo para formatos y causas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "National Gallery of Art, «Who Is Elizabeth Catlett? 12 Things to Know»",
+     "url": "https://www.nga.gov/stories/articles/who-elizabeth-catlett-12-things-know",
+     "checks": "Catlett llegó a México en 1946 con una beca Julius Rosenwald y se unió al Taller de Gráfica Popular.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Routledge Encyclopedia of Modernism, «Taller de Gráfica Popular» (resumen)",
+     "url": "https://www.rem.routledge.com/articles/taller-de-grafica-popular",
+     "checks": "Fundado en Ciudad de México en 1937; sigue existiendo, aunque mantuvo su forma original hasta fines de los años cincuenta; miles de estampas y carteles hechos a mano. ⚠ Solo se pudo leer el resumen; el texto completo es de acceso restringido.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-chanel",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1914,
+   "end": null,
+   "place": "Paris, Deauville, Biarritz",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Chanel",
+   "short": "Chanel",
+   "key": "Gabrielle ‘Coco’ Chanel’s fashion house, begun as a hat shop in 1910, which made simple, practical clothes the height of Paris fashion.[1][2][3][4]",
+   "more": "Chanel opened a hat shop at 21 rue Cambon in Paris in 1910,[1][2][3] a boutique in Deauville in 1912 (one study gives 1913)[1][2][3] and a couture house in Biarritz in 1915;[1][2][3] in 1918 she bought 31 rue Cambon, still the house’s address.[1][2][4] Perfume followed in 1921.[2][3] She closed her couture house in 1939, at the start of the war, and reopened it in 1954.[2][3] The timeline starts the house in 1914, at the start of the period.",
+   "wiki": "Chanel",
+   "links": {
+    "designers": [
+     "coco-chanel"
+    ],
+    "works": [
+     "chanel-no-5",
+     "chanel-little-black-dress",
+     "chanel-tweed",
+     "chanel-jersey-1916",
+     "chanel-suit",
+     "chanel-255-bag-1955",
+     "lagerfeld-chanel-1983"
+    ]
+   },
+   "es": {
+    "name": "Chanel",
+    "short": "Chanel",
+    "place": "París, Deauville, Biarritz",
+    "key": "La casa de moda de Gabrielle «Coco» Chanel, iniciada como tienda de sombreros en 1910, que hizo de la ropa simple y práctica la cima de la moda parisina.[1][2][3][4]",
+    "more": "Chanel abrió una tienda de sombreros en el 21 de la rue Cambon de París en 1910,[1][2][3] una boutique en Deauville en 1912 (un estudio da 1913)[1][2][3] y una casa de costura en Biarritz en 1915;[1][2][3] en 1918 compró el 31 de la rue Cambon, que sigue siendo la dirección de la casa.[1][2][4] El perfume llegó en 1921.[2][3] Cerró su casa de costura en 1939, al comenzar la guerra, y la reabrió en 1954.[2][3] La línea hace empezar la casa en 1914, al inicio del período."
+   },
+   "refs": [
+    {
+     "label": "Chanel, «The House of Chanel: 1910s»",
+     "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+     "checks": "1910: sombrerería «Chanel Modes» en el 21 de la rue Cambon; 1912: primera boutique en Deauville; 1915: primera casa de costura en Biarritz; 1918: compra del 31 de la rue Cambon, que sigue siendo la sede. ⚠ Sitio de la propia casa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "ICOM Costume, dossier «Gabrielle Chanel» (Palais Galliera), cronología",
+     "url": "https://costume.mini.icom.museum/wp-content/uploads/sites/10/2020/10/dp_chanel_eng_bdef_0-1.pdf",
+     "checks": "1910 boutique «Chanel – Modes», 21 rue Cambon; 1912 boutique de sombreros en Deauville; 1915 primera casa en Biarritz; 1918 casa en el 31 de la rue Cambon; 1921 perfume N° 5; 1939 cierre de la casa al declararse la guerra; 1954 nueva colección (5 de febrero).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Enterprise & Society (Cambridge), «From the Margins to the Core of Haute Couture: The Entrepreneurial Journey of Coco Chanel»",
+     "url": "https://www.cambridge.org/core/journals/enterprise-and-society/article/from-the-margins-to-the-core-of-haute-couture-the-entrepreneurial-journey-of-coco-chanel/2EB663E94E9C67F6CB3B9CF962242FAD",
+     "checks": "Cronología: 1910 tienda en la rue Cambon; 1913 Deauville; 1915 Biarritz; 1918 rue Cambon 31; 1921 perfume; 1939 cierre; 1954 regreso; en 1931 era la casa de mayores ventas de París. ⚠ Leída mediante resumen automático; da Deauville en 1913 (Chanel y el ICOM dicen 1912).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Met, «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+     "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+     "checks": "Ropa sencilla y práctica que dejó atrás el corsé; el 31 de la rue Cambon sigue siendo el centro de la casa. ⚠ El resumen automático dio 1913 y 1953 para la primera tienda y el regreso; esas fechas no se usan.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-schiaparelli",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1927,
+   "end": 1954,
+   "cont": true,
+   "place": "Paris",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Schiaparelli",
+   "short": "Schiaparelli",
+   "key": "Elsa Schiaparelli’s Paris fashion house, opened in 1927, known for witty, Surrealist designs and collaborations with artists.[1][4][5]",
+   "more": "It began in 1927 with hand-knitted sweaters with trompe-l’œil bows,[1][2] one of which Vogue illustrated in December 1927.[4] In January 1935 it moved to 21 place Vendôme.[2][3] In the late 1930s it produced themed collections and worked with artists including Salvador Dalí, Jean Cocteau and Alberto Giacometti,[3] and it launched the perfume Shocking in 1937.[1][2] The couture house closed on 13 December 1954.[1][2]",
+   "wiki": "Elsa_Schiaparelli",
+   "links": {
+    "designers": [
+     "schiaparelli"
+    ],
+    "works": [
+     "lobster-dress",
+     "shocking-pink",
+     "skeleton-dress"
+    ]
+   },
+   "es": {
+    "name": "Schiaparelli",
+    "short": "Schiaparelli",
+    "place": "París",
+    "key": "La casa de moda de Elsa Schiaparelli en París, abierta en 1927, conocida por sus diseños ingeniosos y surrealistas y sus colaboraciones con artistas.[1][4][5]",
+    "more": "Comenzó en 1927 con suéteres tejidos a mano con lazos en trampantojo,[1][2] uno de los cuales Vogue ilustró en diciembre de 1927.[4] En enero de 1935 se trasladó al 21 de la place Vendôme.[2][3] A fines de los años treinta presentó colecciones temáticas y trabajó con artistas como Salvador Dalí, Jean Cocteau y Alberto Giacometti,[3] y lanzó el perfume Shocking en 1937.[1][2] La casa de costura cerró el 13 de diciembre de 1954.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "V&A, «Elsa Schiaparelli: a timeline»",
+     "url": "https://www.vam.ac.uk/articles/elsa-schiaparelli-a-timeline",
+     "checks": "1927: primeras colecciones de suéteres tejidos a mano con geometrías y lazos en trampantojo; 1935: traslado a la place Vendôme (interiores con Jean-Michel Frank y Giacometti); 1937: perfume Shocking; 1954: cierra el salón de costura y el perfume continúa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MAD Paris, «Shocking ! Les mondes surréalistes d’Elsa Schiaparelli», dossier de prensa",
+     "url": "https://madparis.fr/IMG/pdf/dp-shocking-schiap-fr.pdf",
+     "checks": "1927: primera colección de suéteres con lazos y corbatas en trampantojo; enero de 1935: traslado al 21 de la place Vendôme; 29 de abril de 1937: lanzamiento del perfume Shocking; 13 de diciembre de 1954: cierra el salón de costura.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, «Schiaparelli: Fashion Becomes Art», guía en letra grande",
+     "url": "https://www.vam.ac.uk/info/schiaparelli-fashion-becomes-art-exhibition-large-print-guide",
+     "checks": "El suéter con lazo trampantojo fue un éxito muy copiado; 21 place Vendôme desde 1935; colecciones temáticas desde 1935 (Circo y Pagana, 1938; Comedia moderna y Polisón, 1939); su círculo creativo incluía a Dalí, Cocteau y Giacometti.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Philadelphia Museum of Art, material educativo «Shocking! The Art and Fashion of Elsa Schiaparelli»",
+     "url": "https://legacyweb.philamuseum.org/doc_downloads/education/ex_resources/schiaparelli.pdf",
+     "checks": "Primera colección de suéteres tejidos a mano; el suéter negro con lazo blanco fue ilustrado en Vogue en diciembre de 1927; amistad y trabajo con Dalí, Cocteau y otros surrealistas; la casa cerró en 1954.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Elsa Schiaparelli»",
+     "url": "https://www.britannica.com/biography/Elsa-Schiaparelli",
+     "checks": "Su moda combinaba excentricidad con sencillez; humor (bolso en forma de teléfono); «Surrealist fashions of the 1930s». ⚠ Leída mediante resumen automático; esa lectura dio 1947 para el rosa shocking, dato que no se usa (otras fuentes dan 1937).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-zig-zag",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1919,
+   "end": null,
+   "place": "Santiago",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Zig-Zag",
+   "short": "Zig-Zag",
+   "key": "Chile’s leading publisher of magazines and books, which grew from the magazine Zig-Zag, founded in 1905.[1]",
+   "more": "Agustín Edwards Mac Clure founded the magazine Zig-Zag in February 1905;[1] the partnership between Edwards and the publisher and printer Gustavo Helfmann in 1919 marks the start of the publishing house,[1] formally constituted as Empresa Editora Zig-Zag in 1934.[1] It published magazines such as El Peneca for children[2] and, increasingly, books.[1] From 1940 the Spanish exile Mauricio Amster worked there as art director and designed many of its books.[3][4] The state bought it in 1971 and renamed it Quimantú;[1] a private Zig-Zag reappeared in the 1980s.[1]",
+   "links": {
+    "designers": [
+     "mauricio-amster",
+     "core-silva-ossa"
+    ],
+    "works": [
+     "el-peneca-covers",
+     "zig-zag-books-amster",
+     "zig-zag-magazine"
+    ]
+   },
+   "es": {
+    "name": "Zig-Zag",
+    "short": "Zig-Zag",
+    "place": "Santiago",
+    "key": "La principal editorial chilena de revistas y libros, que nació de la revista Zig-Zag, fundada en 1905.[1]",
+    "more": "Agustín Edwards Mac Clure fundó la revista Zig-Zag en febrero de 1905;[1] la asociación de Edwards con el impresor y editor Gustavo Helfmann en 1919 marca el inicio de la editorial,[1] constituida formalmente como Empresa Editora Zig-Zag en 1934.[1] Publicó revistas como El Peneca, para niños,[2] y, cada vez más, libros.[1] Desde 1940 el exiliado español Mauricio Amster trabajó allí como director artístico y diseñó muchos de sus libros.[3][4] El Estado la compró en 1971 y la rebautizó Quimantú;[1] en los años ochenta reapareció una Zig-Zag privada.[1]"
+   },
+   "refs": [
+    {
+     "label": "Memoria Chilena (Biblioteca Nacional de Chile), «Editorial Zig-Zag»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-589.html",
+     "checks": "Portada del número 1 de la revista, febrero de 1905; Agustín Edwards Mac Clure; la asociación con Gustavo Helfmann «marcó el comienzo de la editorial Zig-Zag en 1919»; en 1934 Helfmann crea la Empresa Editora Zig-Zag S.A. y la editorial pasa gradualmente a los libros; en 1971 el Estado la compra y la rebautiza Editora Nacional Quimantú; en los años ochenta reaparece Zig-Zag; fue la mayor editorial del país y del continente en los años 1950–60. ⚠ No confirma «Santiago»; Helfmann aparece como dueño de la Imprenta y Litografía Universo y de la revista Sucesos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Memoria Chilena, «El Peneca (1908-1960)»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3397.html",
+     "checks": "El Peneca, revista infantil semanal creada por Zig-Zag en 1908, con tiraje de 180.000 ejemplares en 1940. Hay discrepancia entre fuentes sobre su fin (1960 o 1972); no se usa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Memoria Chilena, «Mauricio Amster (1907-1980)»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3608.html",
+     "checks": "Amster ingresó a Zig-Zag en 1940 como director artístico, invitado por José María Souvirón; hizo innumerables proyectos y hasta tres o cuatro libros por día. Leído mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Biblioteca Nacional de Chile, «Exposición sobre Mauricio Amster»",
+     "url": "https://www.bibliotecanacional.gob.cl/noticias/exposicion-sobre-mauricio-amster?_noredirect=1",
+     "checks": "Amster llegó a Chile en el Winnipeg junto a otros refugiados españoles y empezó a trabajar en la Editorial Zig-Zag.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-artek",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1935,
+   "end": null,
+   "place": "Helsinki",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "name": "Artek",
+   "short": "Artek",
+   "key": "A Finnish company founded in 1935 by Alvar and Aino Aalto, Maire Gullichsen and Nils-Gustav Hahl to sell Aalto furniture and promote modern living.[1]",
+   "more": "Its name joins art and technology.[1] Its founders wanted «to sell furniture and promote a modern culture of living by exhibitions and other educational means».[1] Aino Aalto, its first design director, shaped much of its interior and design work.[2] It sold Aalto’s stacking stools and armchairs, among them the Paimio chair and Stool 60, made at first by Otto Korhonen’s firm in Turku,[3][4][5] and is still active.[1]",
+   "wiki": "Artek_(company)",
+   "links": {
+    "designers": [
+     "aalto-alvar-aino"
+    ],
+    "works": [
+     "paimio-chair",
+     "stool-60"
+    ]
+   },
+   "es": {
+    "name": "Artek",
+    "short": "Artek",
+    "place": "Helsinki",
+    "key": "Una empresa finlandesa fundada en 1935 por Alvar y Aino Aalto, Maire Gullichsen y Nils-Gustav Hahl para vender muebles de Aalto y promover una vida moderna.[1]",
+    "more": "Su nombre une arte y técnica.[1] Sus fundadores querían «vender muebles y promover una cultura moderna de habitar mediante exposiciones y otros medios educativos».[1] Aino Aalto, su primera directora de diseño, dio forma a buena parte de su trabajo de interiores y diseño.[2] Vendió los taburetes apilables y los sillones de Aalto, entre ellos la silla Paimio y el taburete 60, fabricados al comienzo por la empresa de Otto Korhonen en Turku,[3][4][5] y sigue activa.[1]"
+   },
+   "refs": [
+    {
+     "label": "Artek, «Company»",
+     "url": "https://www.artek.fi/en/company",
+     "checks": "Fundada en 1935 en Helsinki por Aino y Alvar Aalto, Maire Gullichsen y Nils-Gustav Hahl; el nombre une «art» y «technology»; objetivo: «to sell furniture and promote a modern culture of living by exhibitions and other educational means». ⚠ Sitio de la propia empresa; no da el mes de la fundación.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Alvar Aalto Foundation, «Aino Aalto»",
+     "url": "https://www.alvaraalto.fi/en/alvar-aalto-foundation/aino-aalto/",
+     "checks": "Aino Aalto fue la primera Design Director de Artek y creó su estilo; encargos de interiores; Artek se fundó en 1935 e incorporó muebles de Alvar y productos de Aino.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, «Modernism and the natural world: the designs of Alvar Aalto and Aino Aalto»",
+     "url": "https://www.vam.ac.uk/articles/modernism-and-the-natural-world-the-designs-of-alvar-aalto-andaino-aalto",
+     "checks": "Taburetes apilables y sillones fabricados para la venta por la empresa de Otto Korhonen y, desde 1935, por Artek (cofundada por los Aalto). ⚠ Leído mediante resumen automático; no nombra «Stool 60».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Alvar Aalto, Stacking Stools (model 60), 1933",
+     "url": "https://www.moma.org/collection/works/1883",
+     "checks": "Taburete 60, 1933, fabricado por Oy Huonekalu-ja Rakennustyötehdas Ab, Turku; donación de Artek-Pascoe, Inc.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Alvar Aalto Foundation, «Stool 60»",
+     "url": "https://www.alvaraalto.fi/en/work/stool-60/",
+     "checks": "Taburete 60 diseñado por Alvar Aalto en 1933 y fabricado por Huonekalutehdas Korhonen Oy (fábrica de muebles Korhonen). ⚠ La página no habla de Artek.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "inst-aiga",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1914,
+   "end": null,
+   "place": "New York",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "AIGA (American Institute of Graphic Arts)",
+   "short": "AIGA",
+   "key": "The American professional association of graphic design, founded in New York in 1914, which promoted standards and recognition for the craft and later led the DOT pictogram project.",
+   "more": "Founded in 1914 as the American Institute of Graphic Arts, it brought together designers, printers and publishers to raise the standing of graphic work through exhibitions, publications and awards. It later became a national professional body of designers. In the 1970s, at the request of the US Department of Transportation, it produced a set of public pictograms for airports and transport hubs.",
+   "links": {
+    "designers": [
+     "paul-rand"
+    ],
+    "works": [
+     "dot-symbol-signs-1974"
+    ]
+   },
+   "es": {
+    "name": "AIGA",
+    "short": "AIGA",
+    "place": "Nueva York",
+    "key": "La asociación profesional estadounidense de diseño gráfico, fundada en Nueva York en 1914, que promovió estándares y reconocimiento para el oficio y más tarde dirigió el proyecto de pictogramas del DOT.",
+    "more": "Fundada en 1914 como American Institute of Graphic Arts, reunió a diseñadores, impresores y editores para elevar el prestigio del trabajo gráfico mediante exposiciones, publicaciones y premios. Más tarde se convirtió en una organización profesional nacional de diseñadores. En los años setenta, a pedido del Departamento de Transporte de Estados Unidos, produjo un conjunto de pictogramas públicos para aeropuertos y terminales de transporte."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-dia",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1915,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Design and Industries Association",
+   "short": "DIA",
+   "key": "The British association founded in 1915 in the image of the German Werkbund, bringing manufacturers, retailers and designers together to promote well-designed industrial goods.",
+   "more": "Founded in London in 1915, the DIA was modelled on the Deutscher Werkbund, which had joined industry and designers in Germany. It sought to improve the design of everyday mass-produced goods by uniting makers, shopkeepers and designers in one body. It stayed active through the twentieth century as an advocate of good industrial design in Britain.",
+   "links": {
+    "institutions": [
+     "inst-werkbund"
+    ]
+   },
+   "es": {
+    "name": "Design and Industries Association (DIA)",
+    "short": "DIA",
+    "place": "Londres",
+    "key": "La asociación británica fundada en 1915 a imagen del Werkbund alemán, que reunió a fabricantes, comerciantes y diseñadores para promover bienes industriales bien diseñados.",
+    "more": "Fundada en Londres en 1915, la DIA siguió el modelo del Deutscher Werkbund, que había unido a la industria y los diseñadores en Alemania. Buscó mejorar el diseño de los bienes cotidianos producidos en serie reuniendo en un solo organismo a fabricantes, comerciantes y diseñadores. Siguió activa durante el siglo XX como defensora del buen diseño industrial en Gran Bretaña."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-triennale-milano",
+   "level": "normal",
+   "kind": "exhibition",
+   "disciplines": [
+    "product",
+    "architecture",
+    "graphic"
+   ],
+   "start": 1923,
+   "end": null,
+   "place": "Monza, Milan",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Triennale di Milano",
+   "short": "Triennale",
+   "key": "The Italian exhibition of decorative arts, design and architecture founded in Monza in 1923, later held in Milan, which became a showcase of Italian design.",
+   "more": "It began in 1923 as an international exhibition of decorative arts in the Villa Reale in Monza, and moved to Milan in 1933. Its shows of design, architecture and applied arts gave Italian designers and architects a public stage and a way to meet industry. Gio Ponti was among the figures who shaped its exhibitions.",
+   "links": {
+    "designers": [
+     "gio-ponti"
+    ],
+    "institutions": [
+     "inst-compasso-doro"
+    ]
+   },
+   "es": {
+    "name": "Trienal de Milán",
+    "short": "Trienal",
+    "place": "Monza, Milán",
+    "key": "La exposición italiana de artes decorativas, diseño y arquitectura fundada en Monza en 1923 y luego instalada en Milán, que se volvió una vitrina del diseño italiano.",
+    "more": "Comenzó en 1923 como exposición internacional de artes decorativas en la Villa Reale de Monza y se trasladó a Milán en 1933. Sus muestras de diseño, arquitectura y artes aplicadas dieron a diseñadores y arquitectos italianos un escenario público y un modo de acercarse a la industria. Gio Ponti fue una de las figuras que dieron forma a sus exposiciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-gm-art-and-colour",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1927,
+   "end": null,
+   "place": "Detroit",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "General Motors Art and Colour Section",
+   "short": "Art and Colour",
+   "key": "The styling studio General Motors created in 1927 under Harley Earl, the first of its kind in a large company, which made appearance a tool of yearly sales.",
+   "more": "General Motors set up the Art and Colour Section in 1927 and put Harley Earl in charge. It was a permanent studio in which stylists shaped the look of the cars, before the engineers had settled the mechanics. It made styling a regular part of making cars and a way to compete with rivals that sold on price. Later it was renamed Styling.",
+   "links": {
+    "designers": [
+     "harley-earl"
+    ]
+   },
+   "es": {
+    "name": "Sección de Arte y Color de General Motors",
+    "short": "Arte y Color",
+    "key": "El estudio de estilo que General Motors creó en 1927 bajo Harley Earl, el primero de su tipo en una gran empresa, que hizo de la apariencia una herramienta de ventas anuales.",
+    "more": "General Motors creó la Sección de Arte y Color en 1927 y puso a Harley Earl a cargo. Era un estudio permanente en el que estilistas daban forma a los autos, antes de que los ingenieros fijaran la mecánica. Hizo del estilo una parte regular de la fabricación de autos y un modo de competir con rivales que vendían por precio. Más tarde pasó a llamarse Styling.",
+    "place": "Detroit"
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-ciam",
+   "level": "essential",
+   "kind": "association",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1928,
+   "end": 1959,
+   "place": "La Sarraz, Switzerland",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH",
+    "FR"
+   ],
+   "name": "CIAM (Congrès Internationaux d'Architecture Moderne)",
+   "short": "CIAM",
+   "key": "The international congresses of modern architecture, founded in 1928 at La Sarraz, which brought together leading architects to define a common doctrine of functional housing and cities.",
+   "more": "Founded in June 1928 at La Sarraz in Switzerland by a group of architects that included Le Corbusier, it held congresses on housing, the functional city and related themes. Sigfried Giedion served as its secretary general. Its fourth congress, in 1933, led to the Athens Charter. It dissolved in 1959, after younger members questioned its doctrine.",
+   "links": {
+    "designers": [
+     "le-corbusier"
+    ]
+   },
+   "es": {
+    "name": "CIAM",
+    "short": "CIAM",
+    "place": "La Sarraz, Suiza",
+    "key": "Los congresos internacionales de arquitectura moderna, fundados en 1928 en La Sarraz, que reunieron a arquitectos destacados para definir una doctrina común de vivienda y ciudad funcionales.",
+    "more": "Fundado en junio de 1928 en La Sarraz, Suiza, por un grupo de arquitectos que incluía a Le Corbusier, celebró congresos sobre la vivienda, la ciudad funcional y otros temas. Sigfried Giedion fue su secretario general. Su cuarto congreso, en 1933, dio origen a la Carta de Atenas. Se disolvió en 1959, después de que miembros más jóvenes cuestionaran su doctrina."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-design-council",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1944,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Council of Industrial Design / Design Council",
+   "short": "Design Council",
+   "key": "The British government body founded in 1944 to promote good design in industry, later known as the Design Council, which organised the Britain Can Make It exhibition and the Design Centre.",
+   "more": "Set up in 1944 by the British government as the Council of Industrial Design, it aimed to improve the design of British goods, in part to help exports after the war. It organised the Britain Can Make It exhibition in 1946, took part in the Festival of Britain of 1951 and opened the Design Centre in London in 1956. It was renamed Design Council in 1972.",
+   "links": {},
+   "es": {
+    "name": "Council of Industrial Design (Design Council)",
+    "short": "Design Council",
+    "place": "Londres",
+    "key": "El organismo del gobierno británico fundado en 1944 para promover el buen diseño en la industria, luego llamado Design Council, que organizó la exposición Britain Can Make It y el Design Centre.",
+    "more": "Creado en 1944 por el gobierno británico como Council of Industrial Design, buscaba mejorar el diseño de los productos británicos, en parte para apoyar las exportaciones después de la guerra. Organizó la exposición Britain Can Make It en 1946, participó en el Festival de Gran Bretaña de 1951 y abrió el Design Centre en Londres en 1956. En 1972 pasó a llamarse Design Council."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-domus",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1928,
+   "end": null,
+   "place": "Milan",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Domus",
+   "short": "Domus",
+   "key": "The Milan magazine of architecture, design and art founded in 1928 by Gio Ponti, one of the main platforms of Italian design in the twentieth century.",
+   "more": "Domus was founded in Milan in 1928 by the architect Gio Ponti, who edited it for much of its history. It covered architecture, interiors, furniture and objects, and showed Italian designers to a wide readership at home and abroad. Together with Casabella, it became a place where Italian design culture was discussed and defined, and it is still published.",
+   "links": {
+    "designers": [
+     "gio-ponti"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Domus",
+    "short": "Domus",
+    "place": "Milán",
+    "key": "La revista milanesa de arquitectura, diseño y arte fundada en 1928 por Gio Ponti, una de las principales plataformas del diseño italiano del siglo XX.",
+    "more": "Domus se fundó en Milán en 1928 por el arquitecto Gio Ponti, que la dirigió durante buena parte de su historia. Trató de arquitectura, interiores, muebles y objetos, y mostró a los diseñadores italianos a un público amplio dentro y fuera del país. Junto con Casabella, fue un lugar donde se discutió y definió la cultura del diseño italiano, y todavía se publica."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,1174 @@
+{
+ "links": [
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "macro-modernism",
+   "note": "Modernism accepted what the Industrial Revolution had begun: design as a task separate from making, done for machines and series production instead of against them.",
+   "es": {
+    "note": "El modernismo aceptó lo que la Revolución Industrial había comenzado: el diseño como una tarea separada de la fabricación, hecha para las máquinas y la producción en serie y no contra ellas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-napoleonic-empire",
+   "item": "empire-regency",
+   "note": "A regime that needed images of legitimacy commissioned palace interiors and furniture in an antique vocabulary with imperial emblems, which defined the Empire style.",
+   "es": {
+    "note": "Un régimen que necesitaba imágenes de legitimidad encargó interiores y muebles de palacio en un vocabulario antiguo con emblemas imperiales, lo que definió el estilo Imperio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-restoration-europe",
+   "item": "biedermeier",
+   "note": "Censorship after 1815 pushed middle-class life towards the home, where families bought simplified, comfortable furniture in place of courtly Empire display.",
+   "es": {
+    "note": "La censura posterior a 1815 empujó la vida de la clase media hacia el hogar, donde las familias compraron muebles simplificados y cómodos en lugar de la pompa cortesana del estilo Imperio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-registered-designs",
+   "item": "inst-government-school-of-design",
+   "note": "Once designs could be protected by law, manufacturers had reason to pay for original patterns, and the school trained the designers that industry now needed.",
+   "es": {
+    "note": "Una vez que la ley podía proteger los diseños, a los fabricantes les convino pagar por patrones originales, y la escuela formó a los diseñadores que la industria ahora necesitaba."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "baskerville-virgil-1757",
+   "note": "Enlightenment taste for clarity favoured sober books; Baskerville dropped ornament and refined type, ink and paper for a clean, sharp page.",
+   "es": {
+    "note": "El gusto ilustrado por la claridad favoreció libros sobrios; Baskerville quitó el adorno y afinó letra, tinta y papel para lograr una página limpia y nítida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "baskerville-virgil-1757",
+   "note": "Coming from Birmingham manufacturing, Baskerville brought method to printing: he improved ink, pressed the sheets and used smooth wove paper.",
+   "es": {
+    "note": "Venido de la manufactura de Birmingham, Baskerville llevó método a la imprenta: mejoró la tinta, prensó los pliegos y usó papel avitelado liso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "bodoni-manuale-1788",
+   "note": "The classical ideal of order and symmetry pushed type design toward geometric, high-contrast letters with flat serifs.",
+   "es": {
+    "note": "El ideal clásico de orden y simetría empujó el diseño de letras hacia formas geométricas de alto contraste y serifas planas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-napoleonic-empire",
+   "item": "giambattista-bodoni",
+   "note": "Bodoni printed luxury editions for courts and governments of the Napoleonic era in Italy, which supported the costly care of his specimen.",
+   "es": {
+    "note": "Bodoni imprimió ediciones de lujo para cortes y gobiernos de la era napoleónica en Italia, lo que respaldó el costoso cuidado de su muestrario."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "didot-type-1784",
+   "note": "The rational printing of the Enlightenment sought maximum sharpness and geometric exactness, which led Didot to a vertical, highly contrasted roman.",
+   "es": {
+    "note": "La imprenta racional de la Ilustración buscó máxima nitidez y exactitud geométrica, y llevó a Didot a una romana vertical y de alto contraste."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-egyptomania",
+   "item": "caslon-egyptian-1816",
+   "note": "The craze for Egypt after Napoleon’s campaign made the name Egyptian fashionable and gave it to plain, even-stroke letters.",
+   "es": {
+    "note": "La fiebre egipcia tras la campaña de Napoleón puso de moda el nombre Egyptian y se lo dio a letras simples de trazo uniforme."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "caslon-egyptian-1816",
+   "note": "City streets full of signs and bills called for heavy letters that could be read from afar, and plain uniform strokes answered that.",
+   "es": {
+    "note": "Las calles llenas de letreros y avisos pedían letras gruesas legibles desde lejos, y los trazos simples y uniformes respondieron a eso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "bewick-quadrupeds-1790",
+   "note": "A growing reading public bought cheap illustrated books; end-grain engravings could be set with type and printed with the text.",
+   "es": {
+    "note": "Un público lector creciente compró libros ilustrados baratos; los grabados a contrafibra se componían con los tipos y se imprimían con el texto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "bewick-quadrupeds-1790",
+   "note": "Enlightenment natural history asked for exact images; Bewick engraved animals from observation of live or stuffed specimens.",
+   "es": {
+    "note": "La historia natural ilustrada pedía imágenes exactas; Bewick grabó los animales observando ejemplares vivos o disecados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-penny-post",
+   "item": "penny-black-1840",
+   "note": "The uniform prepaid rate of 1840 required a stamp that was easy to recognise and hard to forge, so it used a fine engraved portrait and check letters.",
+   "es": {
+    "note": "La tarifa única prepagada de 1840 exigió un sello fácil de reconocer y difícil de falsificar, y se usó un retrato grabado fino y letras de control."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways",
+   "item": "penny-black-1840",
+   "note": "Railways sped national mail delivery and made a single rate workable, which the stamp then came to symbolise.",
+   "es": {
+    "note": "El ferrocarril aceleró el reparto nacional del correo y volvió viable la tarifa única, que el sello pasó a simbolizar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "encyclopedie-plates-1762",
+   "note": "The Encyclopédie recorded trades and techniques with precise plates, giving dignity to the knowledge of manual work.",
+   "es": {
+    "note": "La Encyclopédie registró oficios y técnicas con láminas precisas y dio dignidad al saber del trabajo manual."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-division-of-labour",
+   "item": "encyclopedie-plates-1762",
+   "note": "The plates show workshops with separate tasks, picturing the division of labour that Adam Smith would later describe.",
+   "es": {
+    "note": "Las láminas muestran talleres con tareas separadas, es decir, la división del trabajo que Adam Smith describiría después."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-american-independence",
+   "item": "la-aurora-de-chile-1812",
+   "note": "The Chilean Junta used the country’s first newspaper to give public form to the patriot cause and to its government’s acts.",
+   "es": {
+    "note": "La Junta chilena usó el primer periódico del país para dar forma pública a la causa patriota y a los actos de su gobierno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "la-aurora-de-chile-1812",
+   "note": "Periodical press, printed on a press brought from the United States, spread Enlightenment and patriot ideas in a European newspaper format.",
+   "es": {
+    "note": "La prensa periódica, impresa en una imprenta traída de Estados Unidos, difundió ideas ilustradas y patriotas en formato de periódico europeo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-american-independence",
+   "item": "gaceta-de-buenos-aires-1810",
+   "note": "After the May Revolution the gazette put the authority of the new Junta into print and defended its legitimacy.",
+   "es": {
+    "note": "Tras la Revolución de Mayo la gaceta puso en papel la autoridad de la nueva Junta y defendió su legitimidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "gaceta-de-buenos-aires-1810",
+   "note": "As the printed voice of the patriot government, it adopted the format of the European periodical to reach readers weekly.",
+   "es": {
+    "note": "Como voz impresa del gobierno patriota, adoptó el formato del periódico europeo para llegar cada semana a los lectores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-american-independence",
+   "item": "bandera-belgrano-1812",
+   "note": "The war of independence required emblems of its own, and Belgrano proposed a flag for the patriot army in 1812.",
+   "es": {
+    "note": "La guerra de independencia exigió emblemas propios, y Belgrano propuso en 1812 una bandera para el ejército patriota."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-atlantic-revolutions",
+   "item": "bandera-belgrano-1812",
+   "note": "The flags and cockades of the American and French revolutions gave the model of a national emblem in simple colours, which Belgrano followed.",
+   "es": {
+    "note": "Las banderas y cucardas de las revoluciones norteamericana y francesa dieron el modelo del emblema nacional de colores simples, que Belgrano siguió."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "osterley-etruscan-room-1775",
+   "note": "Adam drew on Pompeian and Roman wall painting and vase motifs to compose a whole interior, from walls to furniture, as one antique-inspired scheme.",
+   "es": {
+    "note": "Adam tomó motivos de la pintura mural pompeyana y romana y de los vasos para componer un interior entero, de muros a muebles, como un solo esquema de inspiración antigua."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-napoleonic-empire",
+   "item": "malmaison-1800",
+   "note": "Joséphine and Napoleon commissioned interiors that staged the authority of the Consulate, and the tent-like council room gave that power a military image.",
+   "es": {
+    "note": "Joséphine y Napoleón encargaron interiores que escenificaban la autoridad del Consulado, y la sala del consejo en forma de tienda dio a ese poder una imagen militar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "malmaison-1800",
+   "note": "Percier and Fontaine adapted antique models to furniture and decoration, so that the knowledge of ancient forms became a repertoire for a modern household.",
+   "es": {
+    "note": "Percier y Fontaine adaptaron modelos antiguos a muebles y decoración, y así el conocimiento de las formas antiguas pasó a ser un repertorio para una casa moderna."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "altes-museum-1830",
+   "note": "The Enlightenment idea that art should educate citizens led to a purpose-built public museum, with a rotunda and galleries arranged for visitors.",
+   "es": {
+    "note": "La idea ilustrada de que el arte debía educar a los ciudadanos llevó a un museo público construido para ese fin, con rotonda y galerías pensadas para los visitantes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-restoration-europe",
+   "item": "altes-museum-1830",
+   "note": "After 1815 the Prussian state used classical architecture to give the restored order a dignified civic image, here a temple-like front for the royal collection.",
+   "es": {
+    "note": "Tras 1815 el Estado prusiano usó la arquitectura clásica para dar al orden restaurado una imagen cívica digna, aquí una fachada de templo para la colección real."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "bauakademie-1836",
+   "note": "After seeing English brick factories on his 1826 trip, Schinkel built a public building in plain brick with visible structure instead of a stone-clad classical facade.",
+   "es": {
+    "note": "Tras ver las fábricas inglesas de ladrillo en su viaje de 1826, Schinkel levantó un edificio público de ladrillo simple y estructura visible, en vez de una fachada clásica revestida de piedra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "westminster-1840",
+   "note": "The new Parliament was required to be Gothic or Elizabethan, so the Romantic link of Gothic with national tradition decided the style of the rebuilt palace.",
+   "es": {
+    "note": "Se exigió que el nuevo Parlamento fuera gótico o isabelino, así que el vínculo romántico del gótico con la tradición nacional decidió el estilo del palacio reconstruido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "westminster-1840",
+   "note": "Pugin designed tiles, wallpapers, metalwork and furniture for the building to be made by industrial processes, so a medieval look was produced in series.",
+   "es": {
+    "note": "Pugin diseñó baldosas, papeles murales, herrajes y muebles para fabricarse con procesos industriales, de modo que un aspecto medieval se produjo en serie."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "strawberry-hill-1750",
+   "note": "Walpole, a writer and antiquarian, made his own house a statement of taste for the medieval and picturesque, copying details from tombs and screens.",
+   "es": {
+    "note": "Walpole, escritor y anticuario, hizo de su casa una declaración de gusto por lo medieval y pintoresco, copiando detalles de tumbas y coros."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-revolutionary-dress",
+   "item": "empire-silhouette-1800",
+   "note": "After the Revolution the rigid corset and the marks of rank were dropped, and dress moved toward a simple, light silhouette.",
+   "es": {
+    "note": "Tras la Revolución se abandonaron el corsé rígido y las marcas de rango, y el vestido pasó a una silueta simple y ligera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "empire-silhouette-1800",
+   "note": "Imported cotton muslin and the taste for light fabrics supplied the material for the white dress with a high waist.",
+   "es": {
+    "note": "La muselina de algodón importada y el gusto por las telas livianas dieron el material al vestido blanco de talle alto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "empire-silhouette-1800",
+   "note": "The tunics on ancient statues and vases served as the model for the straight, high-waisted line of the dress.",
+   "es": {
+    "note": "Las túnicas de estatuas y vasos antiguos sirvieron de modelo a la línea recta de talle alto del vestido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "heideloff-gallery-of-fashion-1794",
+   "note": "Periodicals could carry hand-coloured fashion plates, so models from London reached readers in other cities.",
+   "es": {
+    "note": "Las publicaciones periódicas podían llevar láminas de moda coloreadas a mano, de modo que los modelos de Londres llegaban a lectoras de otras ciudades."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "heideloff-gallery-of-fashion-1794",
+   "note": "A growing female reading public paid subscriptions to learn what was in fashion, which made a monthly plate worth publishing.",
+   "es": {
+    "note": "Un público lector femenino en crecimiento pagaba suscripciones para saber qué estaba de moda, lo que hizo rentable publicar una lámina mensual."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "ackermann-fashion-plates-1809",
+   "note": "The monthly magazine gave subscribers up-to-date plates of dress and furniture, so models were chosen from print rather than from the shop.",
+   "es": {
+    "note": "La revista mensual daba a sus suscriptores láminas al día de vestidos y muebles, de modo que los modelos se elegían a partir de lo impreso y no de la tienda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "ackermann-fashion-plates-1809",
+   "note": "Urban middle-class readers used the plates to decide what dress and furniture to buy, so the magazine guided consumption.",
+   "es": {
+    "note": "Los lectores urbanos de clase media usaban las láminas para decidir qué vestidos y muebles comprar, y así la revista orientaba el consumo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-revolutionary-dress",
+   "item": "marie-antoinette-gowns-1775",
+   "note": "The costly gowns of the queen’s dressmaker stood for the rank-marked court dress that the Revolution later rejected for plainer clothing.",
+   "es": {
+    "note": "Los costosos vestidos de la modista de la reina representaban el vestido de corte marcado por el rango, que la Revolución rechazó después en favor de ropa más sencilla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-division-of-labour",
+   "item": "queens-ware-1765",
+   "note": "At Etruria Wedgwood split pottery making into separate tasks and standardised each piece, so design became a prior step and the cream-coloured ware could be repeated exactly.",
+   "es": {
+    "note": "En Etruria Wedgwood dividió la loza en tareas separadas y estandarizó cada pieza, así que el diseño pasó a ser un paso previo y la loza cremosa pudo repetirse idéntica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "queens-ware-1765",
+   "note": "A growing middle class wanted elegant tableware at a fair price, so Wedgwood offered plain, uniform ware and sold it with illustrated catalogues.",
+   "es": {
+    "note": "Una clase media creciente quería vajilla elegante a precio razonable, y Wedgwood ofreció una loza simple y uniforme que vendió con catálogos ilustrados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-clock-time",
+   "item": "queens-ware-1765",
+   "note": "Etruria imposed fixed hours and factory discipline on its workers, which made steady, repeatable output possible and suited a uniform product like Queen’s ware.",
+   "es": {
+    "note": "Etruria impuso horario fijo y disciplina de fábrica a sus operarios, lo que permitió una producción regular y repetible, propia de un producto uniforme como la Queen’s ware."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "wedgwood-jasperware-1775",
+   "note": "Prints of ancient cameos and vases had made antiquities familiar, so Wedgwood recast their reliefs as white figures on a coloured ground.",
+   "es": {
+    "note": "Los grabados de camafeos y vasos antiguos habían vuelto familiares las antigüedades, y Wedgwood reinterpretó sus relieves como figuras blancas sobre fondo de color."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "wedgwood-jasperware-1775",
+   "note": "Collectors and an educated bourgeoisie bought ornamental objects, so Wedgwood made jasperware as a decorative piece to display rather than to use.",
+   "es": {
+    "note": "Coleccionistas y una burguesía ilustrada compraban objetos de adorno, y Wedgwood hizo el jasperware como pieza decorativa para exhibir y no para usar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "chippendale-ribbon-chair-1754",
+   "note": "Merchants and landowners who had not bought designed furniture became customers, so Chippendale printed a catalogue of models for them to order.",
+   "es": {
+    "note": "Comerciantes y terratenientes que antes no compraban muebles de diseño pasaron a ser clientes, y Chippendale imprimió un catálogo de modelos para que los encargaran."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "chippendale-ribbon-chair-1754",
+   "note": "Colonial trade brought West Indian mahogany to Britain, a dense wood that allowed the fine carved ribbon backs of Chippendale’s chairs.",
+   "es": {
+    "note": "El comercio colonial trajo a Gran Bretaña la caoba de las Antillas, una madera densa que permitió los finos respaldos tallados en forma de cinta de las sillas de Chippendale."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "windsor-chair-1750",
+   "note": "Households and taverns of middling income needed cheap seats, so the Windsor was built from turned parts that were light and easy to assemble.",
+   "es": {
+    "note": "Hogares y tabernas de ingreso medio necesitaban asientos baratos, así que la Windsor se hizo con piezas torneadas, livianas y fáciles de armar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "windsor-chair-1750",
+   "note": "Town life multiplied small homes and public houses that needed many light, cheap chairs, which favoured the simple turned construction of the Windsor.",
+   "es": {
+    "note": "La vida urbana multiplicó casas pequeñas y locales públicos que necesitaban muchas sillas livianas y baratas, lo que favoreció la construcción simple y torneada de la Windsor."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-atlantic-revolutions",
+   "item": "shaker-ladderback-chair-1800",
+   "note": "The new American republic allowed self-governing religious communities, and the Shakers set by rule a plain design without ornament for their furniture.",
+   "es": {
+    "note": "La nueva república estadounidense permitió comunidades religiosas autónomas, y los shakers fijaron por regla un diseño sencillo y sin ornamento para sus muebles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "shaker-ladderback-chair-1800",
+   "note": "The Shakers took up mechanical tools early and made chairs in series in their workshops, so a plain design could be repeated and sold beyond the community.",
+   "es": {
+    "note": "Los shakers adoptaron pronto herramientas mecánicas y fabricaron sillas en serie en sus talleres, de modo que un diseño sencillo pudo repetirse y venderse fuera de la comunidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-steam-power",
+   "item": "thonet-boppard-chair-1836",
+   "note": "Steam softens beech so it can be bent in moulds; Thonet replaced carved joints with bent wood parts, a chair made of few pieces.",
+   "es": {
+    "note": "El vapor ablanda la madera de haya para curvarla en moldes; Thonet reemplazó las uniones talladas por piezas curvadas, una silla hecha de pocas partes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-restoration-europe",
+   "item": "thonet-boppard-chair-1836",
+   "note": "Biedermeier middle-class buyers wanted plain, light furniture; Thonet turned that taste into a serial piece with few parts.",
+   "es": {
+    "note": "Bajo el Biedermeier, la clientela burguesa quería muebles sobrios y livianos; Thonet convirtió ese gusto en una pieza de serie de pocas partes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-iron-construction",
+   "item": "stanhope-press-1800",
+   "note": "Cast iron replaced wood in the press frame, giving more strength and precision than a wooden press; the Stanhope was built entirely of iron.",
+   "es": {
+    "note": "El hierro fundido sustituyó a la madera en el armazón y dio más fuerza y precisión que una prensa de madera; la Stanhope se construyó toda en hierro."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "stanhope-press-1800",
+   "note": "A growing readership demanded more printed matter, which pushed printers to seek stronger, faster presses such as Stanhope's iron one.",
+   "es": {
+    "note": "Un público lector en aumento pedía más impresos, lo que llevó a los impresores a buscar prensas más fuertes y rápidas, como la de hierro de Stanhope."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-luddism",
+   "item": "jacquard-loom-1804",
+   "note": "Weavers feared the machine would threaten their trade, as in the protests against machines; the loom met resistance because it cut skilled labour.",
+   "es": {
+    "note": "Los tejedores temían que la máquina amenazara su oficio, como en las protestas contra las máquinas; el telar halló resistencia porque reducía el trabajo especializado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-napoleonic-empire",
+   "item": "jacquard-loom-1804",
+   "note": "Napoleon favoured the Lyon silk industry, and the loom, which wove complex patterns controlled by cards, was adopted with official support.",
+   "es": {
+    "note": "Napoleón favoreció la industria sedera de Lyon y el telar, que tejía dibujos complejos controlados por tarjetas, se adoptó con apoyo oficial."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "boulton-ormolu-vases-1770",
+   "note": "Fashionable interest in antique models led Boulton to make gilt-bronze vases copied from ancient forms for English buyers.",
+   "es": {
+    "note": "El gusto de moda por los modelos antiguos llevó a Boulton a hacer para compradores ingleses jarrones de bronce dorado copiados de formas de la Antigüedad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "boulton-ormolu-vases-1770",
+   "note": "Boulton made luxury goods in a large manufactory, so the vases were designed to be produced by many workers dividing the tasks.",
+   "es": {
+    "note": "Boulton fabricaba objetos de lujo en una manufactura grande, así que los jarrones se pensaron para hacerlos muchos obreros repartiéndose las tareas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-iron-construction",
+   "item": "ironbridge-1779",
+   "note": "Coalbrookdale's foundry could cast large iron parts, so a bridge arch over the Severn was designed as assembled cast-iron pieces.",
+   "es": {
+    "note": "La fundición de Coalbrookdale podía fundir grandes piezas de hierro, así que el arco del puente sobre el Severn se diseñó como un ensamble de piezas de hierro fundido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "ironbridge-1779",
+   "note": "Built in the English industrial heartland on the Severn, it served the carriage of coal and goods and showed iron as a structural material.",
+   "es": {
+    "note": "Levantado en el corazón industrial inglés, sobre el Severn, servía al transporte de carbón y productos y mostró el hierro como material estructural."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-clock-time",
+   "item": "inst-wedgwood",
+   "note": "Fixed hours and shop discipline at Etruria kept tasks in step, so Wedgwood divided work among workers and kept pieces uniform, making design a step before making.",
+   "es": {
+    "note": "Las horas fijas y la disciplina de taller en Etruria mantuvieron las tareas sincronizadas, así que Wedgwood dividió el trabajo entre los operarios y mantuvo uniformes las piezas, haciendo del diseño un paso previo a la fabricación."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-egyptomania",
+   "item": "empire-regency",
+   "note": "Interest in Egypt after Napoleon's expedition and the Description de l'Égypte supplied sphinxes and lotus motifs, which Empire and Regency designers added to their antique vocabulary.",
+   "es": {
+    "note": "El interés por Egipto tras la expedición de Napoleón y la Description de l'Égypte aportó esfinges y motivos de loto, que los diseñadores Imperio y Regencia sumaron a su vocabulario antiguo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "pierre-simon-fournier",
+   "note": "The Enlightenment drive to measure and classify led Fournier to propose a scale of points for type sizes and a systematic specimen manual.",
+   "es": {
+    "note": "El afán ilustrado de medir y clasificar llevó a Fournier a proponer una escala de puntos para los cuerpos de letra y un manual de especímenes sistemático."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "william-playfair",
+   "note": "Atlantic trade produced long series of export and import figures; Playfair drew them as curves so the trade balance could be read at a glance.",
+   "es": {
+    "note": "El comercio atlántico generó largas series de cifras de exportación e importación; Playfair las dibujó como curvas para leer la balanza comercial de un vistazo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-statistics-thematic-maps",
+   "item": "william-playfair",
+   "note": "States and merchants piled up numerical data, which created a need for a visual language to read it; Playfair’s charts supplied one.",
+   "es": {
+    "note": "El Estado y los comerciantes acumulaban datos numéricos, lo que creó la necesidad de un lenguaje visual para leerlos; los gráficos de Playfair lo ofrecieron."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "william-blake",
+   "note": "Romanticism prized individual vision; Blake etched text and image together on one plate, making his books without printer or publisher.",
+   "es": {
+    "note": "El romanticismo valoró la visión individual; Blake grabó texto e imagen juntos en una plancha y hizo sus libros sin impresor ni editor."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "alois-senefelder",
+   "note": "The public for texts and music grew faster than copper engraving could serve; Senefelder sought a cheap way to print from a drawing on stone in long runs.",
+   "es": {
+    "note": "El público de textos y música creció más rápido de lo que el grabado en cobre podía atender; Senefelder buscó imprimir barato y en tiradas largas desde un dibujo sobre piedra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "honore-daumier",
+   "note": "The weekly illustrated press needed images quick to reproduce; Daumier lithographed political caricatures for La Caricature and Le Charivari.",
+   "es": {
+    "note": "La prensa ilustrada semanal necesitaba imágenes rápidas de reproducir; Daumier litografió caricaturas políticas para La Caricature y Le Charivari."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "hokusai",
+   "note": "Ukiyo-e prints reached Paris from the 1860s, and Western illustrators took up flat areas of colour, contour line and asymmetry.",
+   "es": {
+    "note": "Las estampas ukiyo-e llegaron a París desde la década de 1860 y los ilustradores occidentales adoptaron áreas planas de color, línea de contorno y asimetría."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "inst-manufacture-de-jouy",
+   "note": "French makers wanted to copy the Indian printed cottons that the colonial trade made fashionable; Oberkampf’s Jouy works printed such cottons in France from 1760.",
+   "es": {
+    "note": "Los fabricantes franceses querían copiar los algodones estampados indios que el comercio colonial puso de moda; la fábrica de Oberkampf en Jouy los estampó en Francia desde 1760."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-steam-power",
+   "item": "inst-boulton-watt",
+   "note": "Steam power was still unusable in most works; Boulton’s capital and workshops turned Watt’s engine into a product sold for mills and mines, so factories could move away from rivers.",
+   "es": {
+    "note": "El capital y los talleres de Boulton hicieron de la máquina de Watt un producto para molinos y minas, y las fábricas pudieron alejarse de los ríos y sus ruedas hidráulicas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourbon-reforms-academies",
+   "item": "inst-academia-san-carlos",
+   "note": "The Crown founded the academy in 1783 to spread the neoclassical canon in New Spain and to replace the local Baroque taste with a style approved by the state.",
+   "es": {
+    "note": "La Corona fundó la academia en 1783 para difundir el canon neoclásico en Nueva España y reemplazar el gusto barroco local por un estilo aprobado por el Estado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "inst-ecole-beaux-arts",
+   "note": "Interest in antiquity became teaching: studio and Prix de Rome competition turned axial composition, symmetry and classical models into a method of design.",
+   "es": {
+    "note": "El interés por la Antigüedad se volvió enseñanza: el taller y el concurso del Premio de Roma hicieron de la composición axial, la simetría y los modelos clásicos un método de proyecto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "inst-aa-school",
+   "note": "Victorian cities grew fast and needed more architects than office apprenticeship could train, so young architects founded their own school in 1847.",
+   "es": {
+    "note": "Las ciudades victorianas crecieron deprisa y necesitaban más arquitectos de los que podía formar el aprendizaje en oficina, así que jóvenes arquitectos fundaron su propia escuela en 1847."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "th-laugier-essai-1753",
+   "note": "Enlightenment reason asked architecture to rest on essentials; Laugier argued from the primitive hut that only column, entablature and pediment were needed and dropped Baroque ornament.",
+   "es": {
+    "note": "La razón ilustrada pidió que la arquitectura se apoyara en lo esencial; Laugier sostuvo, desde la cabaña primitiva, que bastaban columna, entablamento y frontón, y descartó el ornamento barroco."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "th-winckelmann-history-1764",
+   "note": "Digs at Herculaneum and Pompeii gave an archaeological base to Winckelmann’s ideal of Greek simplicity, which he made a model for modern artists.",
+   "es": {
+    "note": "Las excavaciones de Herculano y Pompeya dieron una base arqueológica al ideal de sencillez griega de Winckelmann, que él propuso como modelo para los artistas modernos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "th-ruskin-seven-lamps-1849",
+   "note": "Romantic medievalism became a moral doctrine: Ruskin judged buildings by honest construction and the free work of the craftsman, with Gothic as the model.",
+   "es": {
+    "note": "El medievalismo romántico se volvió doctrina moral: Ruskin juzgó los edificios por su construcción honesta y el trabajo libre del artesano, con el gótico como modelo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "english-landscape-garden",
+   "note": "The Enlightenment cult of nature replaced the geometric French garden with lawns, lakes and groves arranged to look natural.",
+   "es": {
+    "note": "El culto ilustrado a la naturaleza reemplazó el jardín geométrico francés por praderas, lagos y arboledas dispuestos para parecer naturales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "english-landscape-garden",
+   "note": "The picturesque taste asked for ruins, views and surprise along the walk, so gardens were laid out with follies and changing scenes.",
+   "es": {
+    "note": "El gusto pintoresco pidió ruinas, vistas y sorpresa en el paseo, y los jardines se trazaron con fábricas decorativas y escenas cambiantes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "revolutionary-architecture",
+   "note": "Enlightenment reason and geometry as a moral language led Boullée and Ledoux to elementary forms, sphere and cube, without ornament.",
+   "es": {
+    "note": "La razón ilustrada y la geometría como lenguaje moral llevaron a Boullée y Ledoux a formas elementales, esfera y cubo, sin ornamento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-empire-paris",
+   "item": "beaux-arts",
+   "note": "The Second Empire made axial composition and classical ornament its official image, as in Paris’s new boulevards and opera house.",
+   "es": {
+    "note": "El Segundo Imperio hizo de la composición axial y el ornamento clásico su imagen oficial, como en los nuevos bulevares y la ópera de París."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-classical-archaeology",
+   "item": "beaux-arts",
+   "note": "Classical archaeology fed an architecture of monumental axes, symmetry and ornament, drawn from ruins surveyed by Prix de Rome students.",
+   "es": {
+    "note": "La arqueología clásica alimentó una arquitectura de ejes monumentales, simetría y ornamento, tomada de ruinas levantadas por los becarios del Premio de Roma."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "blenheim-park-1764",
+   "note": "The Enlightenment idea of nature as the model replaced geometric parterres with lakes and open lawns, so Brown shaped the ground to look natural.",
+   "es": {
+    "note": "La idea ilustrada de la naturaleza como modelo reemplazó los parterres geométricos por lagos y praderas abiertas, y Brown modeló el terreno para que pareciera natural."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "blenheim-park-1764",
+   "note": "The picturesque taste prized varied scenery, so the park became a sequence of views framed by water, trees and rises in the ground.",
+   "es": {
+    "note": "El gusto pintoresco apreciaba el paisaje variado, y el parque pasó a ser una sucesión de vistas enmarcadas por agua, árboles y desniveles del terreno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "saline-royale-1779",
+   "note": "Enlightenment faith in reason applied to an industrial site: a semicircular plan with the director’s house at the centre, supervising works and workers’ housing.",
+   "es": {
+    "note": "La fe ilustrada en la razón se aplicó a un sitio industrial: un plano semicircular con la casa del director al centro, que vigila las fábricas y las viviendas obreras."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "saline-royale-1779",
+   "note": "Salt production on an industrial scale called for a planned complex that organised work and living together, instead of scattered workshops.",
+   "es": {
+    "note": "La producción de sal a escala industrial pedía un conjunto planeado que organizara juntos el trabajo y la vida, en vez de talleres dispersos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "cenotaph-newton-1784",
+   "note": "The Enlightenment cult of Newton as hero of reason became a monument in pure geometry: an empty sphere about 150 metres across.",
+   "es": {
+    "note": "El culto ilustrado a Newton como héroe de la razón se volvió un monumento de geometría pura: una esfera vacía de unos 150 metros de diámetro."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "pantheon-paris-1790",
+   "note": "The rediscovery of antiquity led Soufflot to replace Baroque forms with a Roman temple portico on a church.",
+   "es": {
+    "note": "El redescubrimiento de la Antigüedad llevó a Soufflot a reemplazar las formas barrocas por un pórtico de templo romano en una iglesia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "pantheon-paris-1790",
+   "note": "A rationalist ideal: Soufflot wanted the structural lightness of Gothic buildings combined with the classical orders.",
+   "es": {
+    "note": "Un ideal racionalista: Soufflot quiso la ligereza estructural de los edificios góticos combinada con los órdenes clásicos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourbon-reforms-academies",
+   "item": "la-moneda-1805",
+   "note": "The Crown commissioned a sober, symmetrical building from an architect trained in Rome, bringing academic neoclassicism to Santiago.",
+   "es": {
+    "note": "La Corona encargó un edificio sobrio y simétrico a un arquitecto formado en Roma, y llevó el neoclasicismo académico a Santiago."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "soane-museum-1812",
+   "note": "Soane’s collecting of casts and antiquities, as in the Grand Tour, shaped interiors lit from above and enlarged by mirrors to display them.",
+   "es": {
+    "note": "El coleccionismo de vaciados y antigüedades de Soane, como en el Grand Tour, determinó interiores con luz cenital y espejos para exhibirlos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "royal-pavilion-1823",
+   "note": "The Romantic taste for the exotic led Nash to clothe the building in Indian domes and to decorate the rooms in a Chinese manner.",
+   "es": {
+    "note": "El gusto romántico por lo exótico llevó a Nash a revestir el edificio con cúpulas indias y a decorar las salas a la manera china."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-atlantic-revolutions",
+   "item": "university-of-virginia-1826",
+   "note": "The new American republic took forms from Rome and Palladio as the image of civic virtue for its university.",
+   "es": {
+    "note": "La nueva república estadounidense tomó formas de Roma y de Palladio como imagen de virtud cívica para su universidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoclassical-antiquarianism",
+   "item": "university-of-virginia-1826",
+   "note": "Jefferson reproduced classical models, with the Pantheon as the source of the Rotunda that houses the library.",
+   "es": {
+    "note": "Jefferson reprodujo modelos clásicos, con el Panteón como fuente de la Rotonda que alberga la biblioteca."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-iron-construction",
+   "item": "bibliotheque-sainte-genevieve-1850",
+   "note": "Cast iron made it possible to roof the reading room with light vaults on slender columns, which Labrouste left in view.",
+   "es": {
+    "note": "El hierro fundido permitió cubrir la sala de lectura con bóvedas ligeras sobre columnas delgadas, que Labrouste dejó a la vista."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "bibliotheque-sainte-genevieve-1850",
+   "note": "A wider reading public needed a large, well-lit hall open in the evening, so the library was planned around one big reading room.",
+   "es": {
+    "note": "Un público lector más amplio pedía una sala grande, bien iluminada y abierta de noche, y la biblioteca se planeó en torno a una gran sala de lectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "toile-de-jouy-1783",
+   "note": "After France lifted its ban on printed calicoes in 1759, Oberkampf printed cotton at Jouy; designs moved from Indian motifs to Huet’s pastoral scenes.",
+   "es": {
+    "note": "Tras levantar Francia en 1759 la prohibición de los calicós estampados, Oberkampf imprimió algodón en Jouy; los diseños pasaron de motivos indios a las escenas pastorales de Huet."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-revolutionary-dress",
+   "item": "brummell-tailoring-1810",
+   "note": "After 1789 silk and lace court dress lost credit; Brummell set the English model of dark cloth, close cut and no ornament.",
+   "es": {
+    "note": "Tras 1789 el traje cortesano de seda y encaje perdió crédito; Brummell fijó el modelo inglés de paño oscuro, corte ajustado y sin ornamento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "paisley-shawl-1820",
+   "note": "The East India Company imported Kashmir shawls; fashion demand led to copies woven in Paisley, the town that gave the motif its name.",
+   "es": {
+    "note": "La Compañía de las Indias Orientales importó chales de Cachemira; la demanda de moda llevó a imitarlos en Paisley, la ciudad que dio nombre al motivo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-enlightenment",
+   "item": "fournier-manuel-typographique-1764",
+   "note": "Measuring and systematising: a scale of points and an ordered catalogue of types.",
+   "es": {
+    "note": "Medir y sistematizar: una escala de puntos y un catálogo ordenado de tipos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-cotton-colonial-trade",
+   "item": "commercial-political-atlas-1786",
+   "note": "Foreign-trade series drawn as import and export curves on a single plane.",
+   "es": {
+    "note": "Series de comercio exterior dibujadas como curvas de importación y exportación en un solo plano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-statistics-thematic-maps",
+   "item": "commercial-political-atlas-1786",
+   "note": "The state and merchants accumulated data; Playfair gave them a visual language to read them.",
+   "es": {
+    "note": "El Estado y los comerciantes acumulaban datos; Playfair les dio un lenguaje visual para leerlos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "blake-songs-1794",
+   "note": "Romantic faith in the individual vision: the poet made text and image together on one plate.",
+   "es": {
+    "note": "La fe romántica en la visión individual: el poeta hizo texto e imagen juntos en una sola plancha."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "blake-songs-1794",
+   "note": "As printing mechanised, Blake rejected it and worked by hand, etching, printing and colouring his own books.",
+   "es": {
+    "note": "Mientras la impresión se mecanizaba, Blake la rechazó y trabajó a mano, grabando, imprimiendo y coloreando sus propios libros."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "senefelder-lehrbuch-1818",
+   "note": "A growing reading and music public needed text and drawing printed from stone, cheaply and in long runs.",
+   "es": {
+    "note": "Un público lector y de música creciente necesitó imprimir texto y dibujo desde la piedra, barato y en tiradas largas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "hokusai-great-wave-1831",
+   "note": "Ukiyo-e prints circulated in Paris and taught European artists flat colour and bold outline, which poster and Art Nouveau designers took up.",
+   "es": {
+    "note": "Las estampas ukiyo-e circularon por París y enseñaron a los artistas europeos el color plano y el contorno marcado, que cartelistas y diseñadores del Art Nouveau adoptaron."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "daumier-gargantua-1831",
+   "note": "The illustrated press needed images printed quickly in quantity; lithography let Daumier draw caricatures directly on the stone.",
+   "es": {
+    "note": "La prensa ilustrada necesitaba imágenes impresas rápido y en cantidad; la litografía permitió a Daumier dibujar caricaturas directamente sobre la piedra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-restoration-europe",
+   "item": "daumier-gargantua-1831",
+   "note": "Monarchic censorship pushed satire towards allegory and animalisation, so that the king could be shown without being named.",
+   "es": {
+    "note": "La censura monárquica empujó la sátira hacia la alegoría y la animalización, de modo que el rey pudiera mostrarse sin nombrarlo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-periodical-press",
+   "item": "illustrated-london-news-1842",
+   "note": "A market for illustrated press led to a weekly of engravings that readers could buy at a low price.",
+   "es": {
+    "note": "Un mercado de prensa ilustrada llevó a un semanario de grabados que los lectores podían comprar a bajo precio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways",
+   "item": "illustrated-london-news-1842",
+   "note": "The railway carried the weekly across the country, giving it a national circulation and a regular format.",
+   "es": {
+    "note": "El ferrocarril repartió el semanario por todo el país y le dio una tirada nacional y un formato regular."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-steam-power",
+   "item": "watt-rotative-engine-1781",
+   "note": "The ‘sun and planet’ gear turned steam into rotary motion, so engines could stand anywhere, not only beside water.",
+   "es": {
+    "note": "El engranaje «sol y planeta» convirtió el vapor en movimiento rotatorio, y las máquinas pudieron instalarse en cualquier lugar, no solo junto al agua."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "watt-rotative-engine-1781",
+   "note": "Mill and factory owners asked for a steady, continuous power, hence the engine’s form with flywheel and governor.",
+   "es": {
+    "note": "Los dueños de molinos y fábricas pedían una fuerza continua y regular, y de ahí la forma de la máquina con volante y regulador."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "willow-pattern-1790",
+   "note": "Demand for cheap porcelain-like tableware led potters to print the blue design by transfer onto earthenware instead of painting each piece by hand.",
+   "es": {
+    "note": "La demanda de vajilla barata, parecida a la porcelana, llevó a los alfareros a imprimir el diseño azul por transferencia sobre la loza, en vez de pintar cada pieza a mano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways",
+   "item": "rocket-locomotive-1829",
+   "note": "The Rainhill contest demanded speed and reliability, which pushed Stephenson to a tubular boiler and direct-driven cylinders that fixed the locomotive type.",
+   "es": {
+    "note": "El concurso de Rainhill exigió velocidad y fiabilidad, lo que llevó a Stephenson a una caldera tubular y cilindros de acción directa que fijaron el tipo de locomotora."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-steam-power",
+   "item": "ss-great-britain-1843",
+   "note": "Steam and the screw propeller allowed an iron hull far larger than wooden sailing ships, so Brunel designed the ship around them.",
+   "es": {
+    "note": "El vapor y la hélice permitieron un casco de hierro mucho mayor que los de madera y vela, y Brunel diseñó el barco en torno a ellos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-iron-construction",
+   "item": "ss-great-britain-1843",
+   "note": "Iron construction offered a hull built of frames and bulkheads rather than timber, a technique related to iron building, which Brunel applied to the ship.",
+   "es": {
+    "note": "La construcción en hierro permitió un casco de cuadernas y mamparos en lugar de madera, técnica emparentada con la construcción en hierro, que Brunel aplicó al barco."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-american-system",
+   "item": "singer-sewing-machine",
+   "note": "Armory-style standard parts let makers build sewing machines in quantity as a uniform product; Singer's agents sold it on instalments, bringing it into homes.",
+   "es": {
+    "note": "Las piezas estándar al estilo de las armerías permitieron fabricar máquinas de coser en cantidad como producto uniforme; los agentes de Singer la vendían a plazos y la llevaron a los hogares."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-american-system",
+   "item": "remington-no1",
+   "note": "Remington, an arms and sewing-machine maker, brought factory methods built on precise, repeatable parts to the typewriter that Sholes had developed.",
+   "es": {
+    "note": "Remington, fabricante de armas y máquinas de coser, llevó a la máquina de escribir de Sholes métodos de fábrica basados en piezas precisas y repetibles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-american-system",
+   "item": "ford-model-t",
+   "note": "A century of interchangeable-parts practice reached its peak when Ford designed a single model whose standard parts could be built on a moving assembly line.",
+   "es": {
+    "note": "Un siglo de práctica con piezas intercambiables llegó a su cima cuando Ford diseñó un modelo único cuyas piezas estándar podían fabricarse en una cadena de montaje móvil."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-photography",
+   "item": "new-vision",
+   "note": "Once the camera was available as an instrument, avant-garde designers used it to show unusual views (from above, from below, close-up) and made photographs a material of layout.",
+   "es": {
+    "note": "Con la cámara disponible como instrumento, los diseñadores de vanguardia la usaron para mostrar vistas inusuales (en picado, contrapicado, primer plano) y volvieron la foto material de diagramación."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-photography",
+   "item": "th-painting-photography-film",
+   "note": "After decades of photography, Moholy-Nagy treated light as a medium in itself; this led to the 'typophoto', which joined photograph and typography in one message.",
+   "es": {
+    "note": "Tras décadas de fotografía, Moholy-Nagy trató la luz como medio en sí mismo; de ahí la «tipofoto», que unía fotografía y tipografía en un solo mensaje."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-photography",
+   "item": "kodak-no1",
+   "note": "Photography had required chemicals and skill; Eastman put it in a simple box camera sold loaded with film, with a service that developed the pictures, so anyone could use it.",
+   "es": {
+    "note": "La fotografía exigía química y oficio; Eastman la puso en una cámara de caja simple, vendida con película y con un servicio de revelado, para que cualquiera pudiera usarla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "gothic-revival",
+   "note": "The Romantic taste for the medieval past turned the Gothic from picturesque decoration into a style with principles, built and argued for by Pugin and others.",
+   "es": {
+    "note": "El gusto romántico por el pasado medieval convirtió el gótico de decoración pintoresca en un estilo con principios, construido y defendido por Pugin y otros."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "inst-royal-society-of-arts",
+   "note": "New industry needed better models, so the Society offered public prizes for inventions and for designs applied to manufactures.",
+   "es": {
+    "note": "La nueva industria necesitaba mejores modelos, y la Sociedad ofreció premios públicos a inventos y a diseños aplicados a las manufacturas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-great-exhibition",
+   "item": "inst-royal-society-of-arts",
+   "note": "Albert, its president, and Cole, a member, built on the Society’s exhibitions of manufactures to plan the great public show of industry in 1851.",
+   "es": {
+    "note": "Alberto, su presidente, y Cole, socio, se apoyaron en las exposiciones de manufacturas de la Sociedad para planear en 1851 la gran muestra pública de la industria."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-division-of-labour",
+   "item": "th-smith-wealth-of-nations-1776",
+   "note": "Smith described and defended splitting work into simple tasks, the reorganisation that made the form of a product something decided before making.",
+   "es": {
+    "note": "Smith describió y defendió la división del trabajo en tareas simples, la reorganización que hizo de la forma del producto algo decidido antes de fabricarlo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "th-pugin-contrasts-1836",
+   "note": "The poverty of the industrial city led Pugin to set the medieval town against it as a moral model for building.",
+   "es": {
+    "note": "La miseria de la ciudad industrial llevó a Pugin a oponerle la ciudad medieval como modelo moral para construir."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-reading-public",
+   "item": "bodoni-manuale-1788",
+   "note": "A growing circle of readers and book collectors valued fine printing, so Bodoni issued a specimen book that presented his types themselves as objects of display.",
+   "es": {
+    "note": "Un círculo creciente de lectores y bibliófilos valoraba la impresión fina, así que Bodoni publicó un muestrario que presentaba sus propias letras como objeto de exhibición."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "brummell-tailoring-1810",
+   "note": "Distinction shifted from costly cloth to cut and cleanliness, a standard of dress that middle-class buyers could imitate without a court income.",
+   "es": {
+    "note": "La distinción pasó de la riqueza del tejido al corte y la limpieza, un modelo de vestir que la clase media podía imitar sin las rentas de la corte."
+   },
+   "refs": []
+  }
+ ]
+}

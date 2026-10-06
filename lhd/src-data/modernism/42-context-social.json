@@ -1,0 +1,496 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-womens-vote-work",
+   "track": "social",
+   "start": 1918,
+   "end": 1930,
+   "date": "c. 1918–1930",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "name": "Women’s vote and work",
+   "short": "Women’s vote",
+   "key": "Women won the vote in Britain, Germany and the United States between 1918 and 1920, and many of them also worked for wages.",
+   "happened": "Britain gave the vote to women over 30 who met a property qualification in 1918[1][2] and to women on equal terms with men in 1928;[2] German women voted for the first time in January 1919;[3] the US Nineteenth Amendment was ratified in August 1920.[4] Many women also worked for wages, though in Weimar Germany they were paid much less and were expected to leave work on marrying.[8]",
+   "effect": "Women’s clothes became simpler and freer of corsets, as in Chanel’s practical sportswear,[5] and kitchens were planned to save time and effort, as in the Frankfurt kitchen, which Schütte-Lihotzky designed after time-and-motion studies of housewives’ work.[6] Schools such as the Bauhaus admitted women, yet female students were mostly directed to the weaving workshop.[7]",
+   "wiki": "Representation_of_the_People_Act_1918",
+   "es": {
+    "name": "Voto y trabajo de las mujeres",
+    "short": "Voto femenino",
+    "date": "c. 1918–1930",
+    "key": "Las mujeres obtuvieron el voto en Gran Bretaña, Alemania y Estados Unidos entre 1918 y 1920, y muchas de ellas además trabajaban por un salario.",
+    "happened": "Gran Bretaña dio el voto a las mujeres mayores de 30 años que cumplían un requisito de propiedad en 1918[1][2] y a las mujeres en igualdad de condiciones con los hombres en 1928;[2] las alemanas votaron por primera vez en enero de 1919;[3] en Estados Unidos la Decimonovena Enmienda se ratificó en agosto de 1920.[4] Muchas mujeres además trabajaban por un salario, aunque en la Alemania de Weimar ganaban mucho menos y se esperaba que dejaran el empleo al casarse.[8]",
+    "effect": "La ropa de las mujeres se hizo más simple y sin corsé, como en la ropa deportiva práctica de Chanel,[5] y las cocinas se planificaron para ahorrar tiempo y esfuerzo, como la cocina de Frankfurt, que Schütte-Lihotzky diseñó tras estudios de tiempos y movimientos del trabajo de las dueñas de casa.[6] Escuelas como la Bauhaus admitieron mujeres, pero a las alumnas se las dirigía sobre todo al taller de tejido.[7]"
+   },
+   "refs": [
+    {
+     "label": "UK Parliament, Living Heritage, «1918 Representation of the People Act»",
+     "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-right-to-vote/the-right-to-vote/birmingham-and-the-equal-franchise/1918-representation-of-the-people-act/",
+     "checks": "La ley de 1918 dio el voto a las mujeres mayores de 30 años que cumplían un requisito de propiedad. ⚠ La página no trata 1928.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Representation of the People Acts»",
+     "url": "https://www.britannica.com/topic/Representation-of-the-People-Acts",
+     "checks": "Ley de 1918: voto a mujeres mayores de 30; ley de 1928: extendió el voto a las mujeres de 21 a 30 años (igualdad con los hombres).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Deutsches Historisches Museum, «Equal Rights, Equal Duties: Women’s Suffrage in Germany»",
+     "url": "https://www.dhm.de/journal/en/post/equal-rights-equal-duties-womens-suffrage-in-germany",
+     "checks": "Sufragio universal desde los 20 años anunciado el 12 de nov. de 1918; primer voto de las mujeres el 19 de enero de 1919 (82 % de participación; 37 diputadas de 423).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "US National Archives, «The 19th Amendment»",
+     "url": "https://www.archives.gov/exhibits/featured-documents/amendment-19",
+     "checks": "Tennessee fue el 36.º estado en ratificar el 18 de agosto de 1920, con lo que la enmienda quedó adoptada.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Met, «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+     "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+     "checks": "La ropa de Chanel permitió a las mujeres dejar el corsé; su ropa deportiva práctica se hizo popular; vida activa e independencia económica como ideal. ⚠ Lectura de la página vía resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, «The Frankfurt Kitchen» (Counter Space, 2010)",
+     "url": "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/",
+     "checks": "Schütte-Lihotzky hizo estudios de tiempos y movimientos y entrevistas con amas de casa; cocina diseñada con criterios de eficiencia, higiene y flujo de trabajo; unas 10.000 cocinas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, «The Bauhaus Women’s Class» (Google Arts & Culture)",
+     "url": "https://artsandculture.google.com/story/the-bauhaus-women%E2%80%99s-class-stiftung-bauhaus-dessau/swXxDJ_rSG37KQ?hl=en",
+     "checks": "Gropius admitió mujeres en el manifiesto de 1919, pero tras el curso básico las alumnas eran dirigidas al taller de tejido; las demás secciones y la arquitectura estaban cerradas a ellas hasta 1928.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Max-Planck-Gesellschaft, «100 years of women’s suffrage in Germany»",
+     "url": "https://www.mpg.de/12645803/100-years-female-suffrage-germany",
+     "checks": "Primer voto femenino el 19 de enero de 1919; en la República de Weimar las mujeres que trabajaban ganaban bastante menos y se suponía que dejarían el empleo al casarse. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-weimar-housing",
+   "track": "social",
+   "start": 1919,
+   "end": 1933,
+   "date": "1919–1933",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "AT",
+    "NL"
+   ],
+   "name": "Housing shortage",
+   "short": "Housing shortage",
+   "key": "After the First World War Central Europe faced a severe housing shortage, and city governments built social housing on a large scale.",
+   "happened": "The consequences of the war and the Weimar Republic’s new building laws had ended private housing construction, and in Berlin alone the demand for small flats was put at 100,000–130,000.[1] Cities such as Berlin, Vienna and Frankfurt built large estates of small, low-rent flats with public money: Berlin’s mortgage-servicing tax, introduced in 1924 after the inflation, financed more than 146,000 flats by 1931,[1] and Vienna’s housing tax of 1923 paid for more than 64,000 dwellings by 1932.[2] Under Ernst May, Frankfurt built about 12,000 homes between 1925 and 1930[3][4] (the city’s own website gives about 15,000).[6]",
+   "effect": "Small, cheap dwellings and their equipment became a central design problem: the Frankfurt kitchen, the first fitted kitchen made in quantity and in three sizes for different flats,[5] prefabricated components,[3] and the ‘minimum dwelling’ standard that the Berlin estates applied.[1]",
+   "wiki": "New_Frankfurt",
+   "es": {
+    "name": "Falta de vivienda",
+    "short": "Falta de vivienda",
+    "date": "1919–1933",
+    "key": "Tras la Primera Guerra Mundial, Europa central sufrió una grave falta de vivienda, y los gobiernos municipales construyeron vivienda social a gran escala.",
+    "happened": "Las consecuencias de la guerra y las nuevas leyes de construcción de la República de Weimar habían puesto fin a la construcción privada de viviendas, y solo en Berlín se estimaba la demanda de departamentos pequeños en 100.000–130.000.[1] Ciudades como Berlín, Viena y Frankfurt levantaron grandes conjuntos de departamentos pequeños y de arriendo bajo con dinero público: el impuesto de servicio hipotecario de Berlín, creado en 1924 tras la inflación, financió más de 146.000 viviendas hasta 1931,[1] y el impuesto a la vivienda de Viena de 1923 pagó más de 64.000 viviendas hasta 1932.[2] Con Ernst May, Frankfurt construyó unas 12.000 viviendas entre 1925 y 1930[3][4] (el sitio de la propia ciudad habla de unas 15.000).[6]",
+    "effect": "Las viviendas pequeñas y baratas, y su equipamiento, se volvieron un problema central del diseño: la cocina de Frankfurt, la primera cocina equipada fabricada en cantidad y en tres tamaños según el departamento,[5] los componentes prefabricados[3] y la «vivienda mínima» que aplicaron los conjuntos de Berlín.[1]"
+   },
+   "refs": [
+    {
+     "label": "UNESCO, World Heritage nomination «Housing estates in Berlin» (No 1230)",
+     "url": "https://whc.unesco.org/document/152136",
+     "checks": "Guerra agravó la falta de vivienda en Berlín; demanda de 100.000–130.000 viviendas pequeñas; guerra y nuevas leyes de Weimar acabaron con la construcción privada; reactivación tras la inflación con el impuesto Hauszinssteuer (1924); más de 146.000 viviendas en 1924–1931; estándares de vivienda mínima, con baño y cocina.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Werkbundsiedlung Wien, «The housing programme of Red Vienna»",
+     "url": "https://www.werkbundsiedlung-wien.at/en/background/the-housing-programme-of-red-vienna",
+     "checks": "Encuesta de 1919: más de 400.000 viviendas minúsculas sin servicios; impuesto a la construcción de vivienda de febrero de 1923; más de 64.000 viviendas hasta 1932.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, «Ernst May House»",
+     "url": "https://bauhauskooperation.de/en/reisen/orte/ortsdetailseite/ort-100",
+     "checks": "Más de 12.000 viviendas bajo la dirección de Ernst May en Frankfurt, 1925–1930; componentes prefabricados; cocina de Frankfurt; vivienda funcional con baño y cocina.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "hessenschau, «100 Jahre Neues Frankfurt»",
+     "url": "https://www.hessenschau.de/kultur/100-jahre-neues-frankfurt-wie-ein-mega-bauprogramm-frankfurt-seit-100-jahren-praegt-v1,100-jahre-das-neue-frankfurt-programm-100.html",
+     "checks": "Unas 12.000 viviendas entre 1925 y 1930 en más de 20 conjuntos; respuesta a la grave falta de vivienda de posguerra. ⚠ Medio periodístico (hr), no académico.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Frankfurt kitchen (Schütte-Lihotzky)",
+     "url": "https://collections.vam.ac.uk/item/O121079/frankfurt-kitchen-kitchen-schutte-lihotzky-margarete/",
+     "checks": "Primera cocina equipada fabricada en cantidad, en tres tamaños según el tamaño del departamento; unas 10.000 en los años 1920; inspirada en la gestión científica de Taylor.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Ciudad de Frankfurt, «May-Siedlungen»",
+     "url": "https://frankfurt.de/english/discover-and-experience/sightseeing/historical-buildings/may-settlements",
+     "checks": "El sitio oficial habla de unas 15.000 viviendas bajo May entre 1925 y 1930 (cifra distinta de las fuentes 3 y 4); la cocina de Frankfurt como primera cocina empotrada.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-hygienism",
+   "track": "social",
+   "start": 1920,
+   "end": 1939,
+   "date": "1920s–1930s",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "DE",
+    "FI"
+   ],
+   "name": "Hygiene and the modern home",
+   "short": "Hygienism",
+   "key": "The fight against tuberculosis and dirt made light, air, sun and washable surfaces a programme for houses, hospitals and furniture.",
+   "happened": "Before antibiotics, which arrived only with streptomycin in 1943, doctors treated tuberculosis with rest, sunlight and fresh air in sanatoriums,[1][2][7] and poor housing was linked to the disease.[3] Reformers attacked clutter and dark corners, and in 1925 Le Corbusier, in The Decorative Art of Today, proposed covering interiors with white Ripolin, a washable enamel.[4][5]",
+   "effect": "Large windows, balconies and terraces, roof gardens and uncluttered white interiors became signs of a healthy modern life,[3][5][7] and tubular-steel furniture was prized because its surface could be easily cleaned.[6]",
+   "wiki": "Paimio_Sanatorium",
+   "es": {
+    "name": "Higienismo y hogar moderno",
+    "short": "Higienismo",
+    "date": "años 1920–1930",
+    "key": "La lucha contra la tuberculosis y la suciedad hizo de la luz, el aire, el sol y las superficies lavables un programa para viviendas, hospitales y muebles.",
+    "happened": "Antes de los antibióticos, que llegaron solo con la estreptomicina en 1943, los médicos trataban la tuberculosis con reposo, sol y aire puro en sanatorios,[1][2][7] y la vivienda deficiente se vinculaba con la enfermedad.[3] Los reformadores atacaron el desorden y los rincones oscuros, y en 1925 Le Corbusier, en El arte decorativo de hoy, propuso cubrir los interiores con Ripolin blanco, un esmalte lavable.[4][5]",
+    "effect": "Las ventanas grandes, los balcones y terrazas, los jardines en azotea y los interiores blancos y despejados se volvieron signos de una vida moderna y sana,[3][5][7] y los muebles de tubo de acero se valoraron porque su superficie se limpiaba con facilidad.[6]"
+   },
+   "refs": [
+    {
+     "label": "Science Museum Group, «Tuberculosis Part two: Treatments and cures»",
+     "url": "https://www.sciencemuseum.org.uk/objects-and-stories/tuberculosis-part-two-treatments-and-cures",
+     "checks": "Sanatorios con grandes ventanas y terrazas para reposo, sol y aire; estreptomicina en 1943 (primer antibiótico eficaz); sanatorios como principal tratamiento. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, «Paimio Sanatorium, 1929–33»",
+     "url": "https://www.cooperhewitt.org/2021/12/10/paimio-sanatorium-1929-33/",
+     "checks": "Antes de los antibióticos, la mejor ciencia pedía ventilación cruzada y helioterapia; el sanatorio de Aalto con luz, aire, limpieza, verandas para reposar. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, «Modernist architecture: the Bauhaus and beyond»",
+     "url": "https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond",
+     "checks": "Vivienda deficiente vinculada a la tuberculosis; énfasis en ventilación, higiene y sol; jardines en azotea, ausencia de desorden, grandes ventanas y espacios al aire libre.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "e-flux (Mark Wigley), «Sick Architecture: Chronic Whiteness»",
+     "url": "https://www.e-flux.com/architecture/sick-architecture/360099/chronic-whiteness",
+     "checks": "Le Corbusier, L’art décoratif d’aujourd’hui (1925): esmalte Ripolin lavable y antibacteriano para todos los interiores; el blanco y los sanatorios de tuberculosis (luz, aire, ventilación, superficies lavables). ⚠ Ensayo de un académico en revista de arquitectura; lectura vía resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Getty, «Seeing the Light: the history of white»",
+     "url": "https://www.getty.edu/news/color-series-history-of-white/",
+     "checks": "Le Corbusier (1925) propuso pintar las casas de blanco Ripolin para la limpieza y la higiene («ya no hay rincones sucios y oscuros»). ⚠ No menciona la tuberculosis.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, B33 chair (Breuer)",
+     "url": "https://collections.vam.ac.uk/item/O1323794/b33-chair-chair-breuer-marcel-lajos/",
+     "checks": "El tubo de acero se consideraba higiénico porque su superficie se limpiaba con facilidad; la higiene fue una preocupación mayor del movimiento moderno.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Wellcome Collection, «The building as tool of healing»",
+     "url": "https://wellcomecollection.org/stories/the-building-as-tool-of-healing",
+     "checks": "Tuberculosis, enfermedad mortal en Europa y EE. UU. a comienzos del siglo XX; sin antibióticos, estadías largas en sanatorio; la forma del edificio, las ventanas y los balcones maximizaban el sol. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-home-electrification",
+   "track": "social",
+   "start": 1920,
+   "end": 1939,
+   "date": "1920s–1930s",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "name": "Electrified home",
+   "short": "Electrified home",
+   "key": "Electricity reached most city homes between the wars and brought new appliances, lamps and radios into domestic life.",
+   "happened": "In the United States seven in ten homes had electricity by 1930, against one in seven in 1910,[1] but only 14% of dwellings had a refrigerator in 1930 and 44% in 1940.[3] Electric washers and vacuum cleaners reduced the need for domestic servants, and housework was presented as a task to be made easier by machines.[1][2] Sales of electric refrigerators grew during the 1930s, helped from 1935 by New Deal loans.[4]",
+   "effect": "New domestic objects without a traditional form needed designers, and their casings became a field for styling: Raymond Loewy’s 1934 redesign of the Coldspot refrigerator for Sears raised sales from 15,000 to 275,000 units in five years,[5] and radios, at first housed in wooden cabinets imitating furniture, began to be sold in plastic cases in 1930 (Ekco).[6]",
+   "wiki": "Electrification",
+   "es": {
+    "name": "Electrificación del hogar",
+    "short": "Hogar eléctrico",
+    "date": "años 1920–1930",
+    "key": "La electricidad llegó a la mayoría de las casas urbanas entre las dos guerras y llevó a la vida doméstica nuevos artefactos, lámparas y radios.",
+    "happened": "En Estados Unidos siete de cada diez hogares tenían electricidad en 1930, frente a uno de cada siete en 1910,[1] pero solo el 14 % de las viviendas tenía refrigerador en 1930 y el 44 % en 1940.[3] Las lavadoras y aspiradoras eléctricas redujeron la necesidad de servicio doméstico, y el trabajo de la casa se presentó como una tarea que las máquinas debían aliviar.[1][2] Las ventas de refrigeradores eléctricos crecieron durante los años 1930, con impulso desde 1935 por los préstamos del New Deal.[4]",
+    "effect": "Objetos domésticos nuevos y sin forma tradicional necesitaron diseño, y sus carcasas se volvieron un campo para el estilo: el rediseño que Raymond Loewy hizo en 1934 del refrigerador Coldspot de Sears elevó las ventas de 15.000 a 275.000 unidades en cinco años,[5] y las radios, alojadas al principio en cajas de madera que imitaban muebles, empezaron a venderse en cajas de plástico en 1930 (Ekco).[6]"
+   },
+   "refs": [
+    {
+     "label": "Yale University, Energy History, «Electricity Consumption: Culture, Gender and Power»",
+     "url": "https://energyhistory.yale.edu/electricity-consumption-culture-gender-and-power",
+     "checks": "Siete de cada diez hogares estadounidenses electrificados en 1930 (uno de cada siete en 1910); lavadoras y aspiradoras eléctricas permitían prescindir de servicio doméstico; la publicidad apelaba a las mujeres. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopedia.com, «Electrification, Household»",
+     "url": "https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/electrification-household",
+     "checks": "Los electrodomésticos se alinearon con el ideal de familia nuclear sin servicio residente; el hogar «científico» haría innecesarios a los sirvientes; lavadoras y aspiradoras como alivio del trabajo doméstico. ⚠ Enciclopedia generalista; lectura vía resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "E. Cardia, «Household Technology: Was it the Engine of Liberation?» (NBER/CIREQ, 2008)",
+     "url": "https://users.nber.org/~confer/2008/si2008/PRB/cardia.pdf",
+     "checks": "Con datos de los censos de EE. UU.: 14 % de las viviendas con refrigerador moderno en 1930 y 44 % en 1940; 83 % con luz eléctrica en 1940. ⚠ Documento de trabajo académico; lectura vía resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian National Museum of American History, «Keeping your (food) cool»",
+     "url": "https://americanhistory.si.edu/explore/stories/keeping-your-food-cool-ice-harvesting-electric-refrigeration",
+     "checks": "Las ventas de refrigeradores eléctricos crecieron en los años 1930, con impulso desde 1935 por los préstamos del New Deal; el refrigerador General Electric Monitor Top (1927).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «Meet the Product Designer Who Made Mid-Century America Look Clean and Stylish»",
+     "url": "https://www.smithsonianmag.com/innovation/meet-product-designer-who-made-mid-century-america-look-clean-and-stylish-180972270/",
+     "checks": "Loewy rediseñó en 1934 el refrigerador Coldspot de Sears; las ventas pasaron de 15.000 a 275.000 unidades en cinco años.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, «Radio in the Round»",
+     "url": "https://www.cooperhewitt.org/2019/04/17/radio-in-the-round/",
+     "checks": "Las radios tenían cajas de madera que imitaban muebles tradicionales; en 1930 Ekco decidió vender radios en cajas de plástico y montó su producción de baquelita; Wells Coates, diseño moderno de baquelita. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-mass-leisure",
+   "track": "social",
+   "start": 1920,
+   "end": 1939,
+   "date": "1920s–1930s",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "GB",
+    "US",
+    "DE"
+   ],
+   "name": "Leisure, sport and tourism",
+   "short": "Leisure and sport",
+   "key": "Shorter working weeks, paid holidays and the cult of sport made leisure a mass experience between the wars.",
+   "happened": "Sport entered fashion: Chanel’s practical sportswear quickly became popular,[5] and, according to Lacoste, René Lacoste created a light polo shirt in 1933 to replace the stiff shirts of tennis players.[4] Ocean liners and railways competed for travellers with posters that sold the glamour of the journey.[6][7] In June 1936, after the Matignon Agreements,[1][2] France’s Popular Front law gave workers two weeks of paid holiday, together with a 40-hour week, with the implementing decrees issued from 1 August.[1][2] In Germany the Nazi organisation Strength through Joy used leisure and travel to promote the regime.[3]",
+   "effect": "Sportswear entered everyday fashion,[5] travel posters sold the excitement and glamour of liners and trains rather than technical facts,[6][7] and leisure became a political promise, from paid holidays in France[1][2] to the Nazi leisure programme.[3]",
+   "wiki": "Matignon_Agreements_(1936)",
+   "es": {
+    "name": "Ocio, deporte y turismo",
+    "short": "Ocio y deporte",
+    "date": "años 1920–1930",
+    "key": "Semanas laborales más cortas, vacaciones pagadas y el culto al deporte hicieron del ocio una experiencia de masas entre las dos guerras.",
+    "happened": "El deporte entró en la moda: la ropa deportiva práctica de Chanel se hizo popular con rapidez[5] y, según Lacoste, René Lacoste creó en 1933 un polo ligero para reemplazar las camisas rígidas de los tenistas.[4] Los transatlánticos y los trenes compitieron por los viajeros con carteles que vendían el glamour del viaje.[6][7] En junio de 1936, tras los Acuerdos de Matignon,[1][2] una ley del Frente Popular dio en Francia dos semanas de vacaciones pagadas a los trabajadores, junto con la semana de 40 horas, con los decretos de aplicación dictados desde el 1.º de agosto.[1][2] En Alemania la organización nazi Fuerza a través de la Alegría usó el ocio y los viajes para promover al régimen.[3]",
+    "effect": "La ropa deportiva entró en la moda diaria,[5] los carteles de viaje vendieron la emoción y el glamour de los transatlánticos y los trenes más que datos técnicos,[6][7] y el ocio se volvió una promesa política, desde las vacaciones pagadas en Francia[1][2] hasta el programa de ocio nazi.[3]"
+   },
+   "refs": [
+    {
+     "label": "Archives départementales du Gard, «1936, les premiers congés payés»",
+     "url": "https://archives.gard.fr/transmettre/pour-memoire/chroniques-passees/1936-les-premiers-conges-payes.html",
+     "checks": "Accords de Matignon firmados el 7 de junio de 1936; ley de congés payés promulgada el 20 de junio de 1936, en vigor desde el 1.º de agosto: dos semanas; semana de 40 horas; billete de tren con descuento (Léo Lagrange).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Yale University Press, «Léon Blum and the Forty-Hour Workweek»",
+     "url": "https://yalebooks.yale.edu/2015/07/30/leon-blum-and-the-forty-hour-workweek/",
+     "checks": "Matignon el 7 de junio de 1936; el gobierno del Frente Popular votó la semana de 40 horas el 21 de junio; dos semanas de vacaciones pagadas. ⚠ Texto de difusión de una editorial; lectura vía resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "USHMM, «Volkswagen»",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/volkswagen-1",
+     "checks": "Fuerza a través de la Alegría buscaba mostrar las ventajas del nacionalsocialismo mediante el ocio y los viajes. ⚠ La página no da la fecha de fundación (1933), por eso se quitó del texto.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Lacoste, «Our History»",
+     "url": "https://corporate.lacoste.com/our-history/",
+     "checks": "Según la propia empresa: en 1933 René Lacoste creó un polo ligero de piqué de algodón, ruptura con las camisas rígidas del tenis. ⚠ Fuente de fabricante actual.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Met, «Gabrielle “Coco” Chanel (1883–1971) and the House of Chanel»",
+     "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+     "checks": "Su ropa deportiva práctica se hizo popular rápidamente y fijó un nuevo estándar de ropa diaria. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Virginia Museum of Fine Arts, Cassandre, Normandie (1935)",
+     "url": "https://www.vmfa.museum/artworks/poster-77551",
+     "checks": "El cartel ayudó a vender el glamour y la emoción de viajar en transatlántico; el Normandie, el mayor y más rápido vapor, botado en 1932.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, comunicado «Posters by Cassandre» (6 ene. 1936)",
+     "url": "https://www.moma.org/docs/press_archives/307/releases/MOMA_1936_0003_1936-01-06_1936-49.pdf",
+     "checks": "Sus carteles de ferrocarril y vapores no dan cifras técnicas sino «la emoción y la magia del viaje» o hacen más increíble el tamaño de un transatlántico. ⚠ Lectura vía resumen.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-migration-exile",
+   "track": "social",
+   "start": 1933,
+   "end": 1945,
+   "date": "1933–1945",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "DE",
+    "ES",
+    "US",
+    "GB",
+    "MX",
+    "CL"
+   ],
+   "name": "Migration and exile",
+   "short": "Exile",
+   "key": "Persecution in Nazi Germany and the defeat of the Spanish Republic sent many designers, architects and teachers abroad.",
+   "happened": "In 1933 the Nazis closed the Bauhaus,[1][3] and its teachers began to leave: Gropius for England in 1934,[1] Moholy-Nagy for Amsterdam and London in 1934,[2] and Josef and Anni Albers for the United States.[3] After the Republican defeat in 1939 Spanish exiles went to France, Mexico and Chile: Josep Renau settled in Mexico City in June 1939,[7] and Mauricio Amster, with Neruda’s help, sailed to Chile on the Winnipeg and was in Santiago in September 1939.[5][6]",
+   "effect": "Exile spread modern design teaching and practice: Moholy-Nagy founded the New Bauhaus in Chicago in 1937,[2][4] Gropius joined Harvard in 1937,[1] and the Alberses taught at Black Mountain College.[3] Spanish exiles also renewed graphic design: Amster, art director at Zig-Zag, transformed Chilean book design,[5][6] and Renau won poster prizes and founded a graphic design studio in Mexico.[7]",
+   "wiki": "SS_Winnipeg",
+   "es": {
+    "name": "Migraciones y exilios",
+    "short": "Exilios",
+    "date": "1933–1945",
+    "key": "La persecución en la Alemania nazi y la derrota de la República española enviaron al extranjero a muchos diseñadores, arquitectos y docentes.",
+    "happened": "En 1933 los nazis cerraron la Bauhaus,[1][3] y sus profesores empezaron a partir: Gropius a Inglaterra en 1934,[1] Moholy-Nagy a Ámsterdam y Londres en 1934[2] y Josef y Anni Albers a Estados Unidos.[3] Tras la derrota republicana de 1939 los exiliados españoles se fueron a Francia, México y Chile: Josep Renau se instaló en Ciudad de México en junio de 1939,[7] y Mauricio Amster, con ayuda de Neruda, viajó a Chile en el Winnipeg y en septiembre de 1939 estaba en Santiago.[5][6]",
+    "effect": "El exilio difundió la enseñanza y la práctica del diseño moderno: Moholy-Nagy fundó la New Bauhaus en Chicago en 1937,[2][4] Gropius se incorporó a Harvard en 1937[1] y los Albers enseñaron en el Black Mountain College.[3] Los exiliados españoles también renovaron el diseño gráfico: Amster, director artístico de Zig-Zag, transformó el diseño de libros en Chile,[5][6] y Renau ganó premios de carteles y fundó un taller de diseño gráfico en México.[7]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Walter Gropius»",
+     "url": "https://www.britannica.com/biography/Walter-Gropius",
+     "checks": "Los nazis cerraron la Bauhaus en 1933; Gropius salió de Alemania en 1934 hacia Inglaterra; en 1937 se incorporó a Harvard. ⚠ Lectura vía resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «László Moholy-Nagy»",
+     "url": "https://www.britannica.com/biography/Laszlo-Moholy-Nagy",
+     "checks": "Huyó de la Alemania nazi en 1934 hacia Ámsterdam y Londres; en 1937 se trasladó a Chicago a organizar la New Bauhaus (luego Institute of Design del IIT), «la primera escuela estadounidense basada en el programa de la Bauhaus».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Black Mountain College Museum + Arts Center, «Josef Albers»",
+     "url": "https://www.blackmountaincollege.org/josef-albers/",
+     "checks": "En 1933 la Bauhaus cerró por presión del partido nazi y Josef y Anni Albers fueron invitados a enseñar en Black Mountain College; dirigió el programa de artes visuales hasta 1949.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Illinois Institute of Technology, Institute of Design, «The New Bauhaus»",
+     "url": "https://id.iit.edu/new-bauhaus/",
+     "checks": "Moholy-Nagy fundó la New Bauhaus en Chicago en 1937 como continuación estadounidense de la Bauhaus alemana. ⚠ Sitio de la propia institución.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Biblioteca Nacional de Chile, «Exposición sobre Mauricio Amster»",
+     "url": "https://www.bibliotecanacional.gob.cl/noticias/exposicion-sobre-mauricio-amster?_noredirect=1",
+     "checks": "Amster llegó a Chile en el Winnipeg en 1939 con otros refugiados españoles; trabajó con Zig-Zag, Cruz del Sur, Nascimento y Universidad; «revolucionó la industria editorial nacional».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Memoria Chilena, «Mauricio Amster»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3608.html",
+     "checks": "Huyó tras la derrota republicana; en Francia Neruda, cónsul especial para la emigración española, facilitó su pasaje en el Winnipeg en 1939; en septiembre de 1939 estaba en Santiago; director artístico de Zig-Zag, «3 ó 4 libros por día».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "IVAM, «Josep Renau»",
+     "url": "https://ivam.es/en/author/josep-renau/7029eb67-a22e-4903-9eb8-b8d64ed1aeb8/",
+     "checks": "Renau salió al exilio en febrero de 1939 y se instaló en Ciudad de México en junio; primer premio de carteles del MoMA (1942) y de la ONU (1946); fundó en 1950 su taller de diseño gráfico.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-literacy-campaigns",
+   "track": "social",
+   "start": 1919,
+   "end": 1939,
+   "date": "1919–1939",
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "countries": [
+    "RU",
+    "MX",
+    "ES"
+   ],
+   "name": "Literacy campaigns",
+   "short": "Literacy campaigns",
+   "key": "New revolutionary and republican states fought illiteracy with mass campaigns that needed posters, primers and schools.",
+   "happened": "Soviet Russia decreed the elimination of illiteracy in 1919. Post-revolutionary Mexico made public education a priority and in 1932 built new schools for the poor outskirts of its capital.[1] In Spain, the Republic at war created the Militias of Culture by decree on 30 January 1937 to teach soldiers to read.[2]",
+   "effect": "Reading became a design task: cheap and hygienic school buildings[1] and primers such as the Cartilla escolar antifascista, printed in Valencia in 1937 in editions of 25,000 and 100,000 copies.[3]",
+   "wiki": "Literacy",
+   "refs": [
+    {
+     "label": "Memórica (Gobierno de México), «Juan O’Gorman 1923-2023: las escuelas funcionalistas»",
+     "checks": "Escuelas funcionalistas de 1932 para la periferia de la Ciudad de México.",
+     "date": "2026-10-03",
+     "url": "https://memoricamexico.gob.mx/es/memorica/Juan_OGorman_Sala3"
+    },
+    {
+     "label": "Universidad de La Laguna, «Las Milicias de la Cultura»",
+     "checks": "Decreto del 30 de enero de 1937; alfabetización de soldados; cartillas del Ministerio de Instrucción Pública.",
+     "date": "2026-10-03",
+     "url": "https://www.ull.es/eventos/la-educacion-en-la-ii-republica/las-milicias-de-la-cultura/"
+    },
+    {
+     "label": "Instituto Cervantes, muestra «Cartilla escolar antifascista» (2022)",
+     "checks": "Cartilla de 1937, diseñada por Mauricio Amster; ediciones de 25.000 y 100.000 ejemplares en Valencia.",
+     "date": "2026-10-03",
+     "url": "https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/el-instituto-cervantes-inaugura-una-muestra-sobre-la"
+    }
+   ],
+   "es": {
+    "name": "Campañas de alfabetización",
+    "short": "Alfabetización",
+    "date": "1919–1939",
+    "key": "Los nuevos Estados revolucionarios y republicanos combatieron el analfabetismo con campañas masivas que necesitaban carteles, cartillas y escuelas.",
+    "happened": "La Rusia soviética decretó la eliminación del analfabetismo en 1919. El México posrevolucionario hizo de la educación pública una prioridad y en 1932 construyó escuelas nuevas para la periferia pobre de su capital.[1] En España, la República en guerra creó las Milicias de la Cultura por decreto del 30 de enero de 1937 para enseñar a leer a los soldados.[2]",
+    "effect": "Leer se volvió una tarea de diseño: escuelas baratas e higiénicas[1] y cartillas como la Cartilla escolar antifascista, impresa en Valencia en 1937 en ediciones de 25.000 y 100.000 ejemplares.[3]"
+   }
+  }
+ ]
+}

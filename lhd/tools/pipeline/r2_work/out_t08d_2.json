@@ -1,0 +1,293 @@
+[
+ {
+  "id": "charles-rennie-mackintosh",
+  "en": {
+   "key": "Scottish architect and designer who combined austere geometry with stylised plant forms in buildings and furniture, above all in Glasgow.[1][2]",
+   "more": "Mackintosh designed the Glasgow School of Art building, begun in the 1890s and completed in 1909,[1] and interiors such as the Willow Tea Rooms of 1903 for Catherine Cranston,[2] working with Margaret Macdonald, who became his wife in 1900.[1][2] His tall-backed chairs were admired in Vienna, where the Secession showed his work in 1900.[2] Born in Glasgow in 1868, he died in London in 1928.[1]"
+  },
+  "es": {
+   "key": "Arquitecto y diseñador escocés que combinó una geometría austera con formas vegetales estilizadas en edificios y muebles, sobre todo en Glasgow.[1][2]",
+   "more": "Mackintosh proyectó el edificio de la Escuela de Arte de Glasgow, iniciado en la década de 1890 y terminado en 1909,[1] e interiores como los Willow Tea Rooms de 1903 para Catherine Cranston,[2] junto con Margaret Macdonald, que fue su esposa desde 1900.[1][2] Sus sillas de respaldo alto fueron admiradas en Viena, donde la Secesión mostró su obra en 1900.[2] Nació en Glasgow en 1868 y murió en Londres en 1928.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Charles Rennie Mackintosh»",
+    "url": "https://www.britannica.com/biography/Charles-Rennie-Mackintosh",
+    "checks": "nació el 7 jun 1868 en Glasgow y murió el 10 dic 1928 en Londres; Escuela de Arte de Glasgow (1896–1909); casó con Margaret Macdonald en 1900; geometría y Art Nouveau. ⚠ No menciona los Willow Tea Rooms ni Viena.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Design Museum, «Charles Rennie Mackintosh»",
+    "url": "https://designmuseum.org/designers/charles-rennie-mackintosh",
+    "checks": "Willow Tea Rooms (1903) para Miss Cranston; matrimonio con Margaret Macdonald (1900), su principal socia creativa; sillas de respaldo alto; participó en las exposiciones de la Secesión de Viena (1900); mezcla de formas orgánicas y modernismo geométrico. ⚠ No confirma «interiores blancos» (quitado) ni lugar de nacimiento.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Britannica fecha la Escuela de Arte de Glasgow en 1896–1909; la ficha dice «iniciado en 1897». Se suavizó a «década de 1890»; el año de inicio no se confirmó.",
+   "Se quitaron «interiores blancos» (no confirmado). Que Macdonald colaborara en los Willow Tea Rooms no está explícito en las fuentes (solo que fue su principal socia creativa).",
+   "Fechas y lugares de vida (Glasgow 1868, Londres 1928) confirmados por Britannica."
+  ]
+ },
+ {
+  "id": "peter-behrens",
+  "en": {
+   "key": "German architect and designer who from 1907 gave the electrical firm AEG its buildings, products and graphics in one design line.[1][2]",
+   "more": "Born in Hamburg in 1868,[1][3] Behrens trained at the Hamburg art school and joined the Darmstadt artists' colony around 1900.[1] In 1907 AEG in Berlin engaged him as artistic adviser,[1][3] and he designed its turbine factory, products such as electric fans, and its logo, catalogues and advertising.[1][2][3] He was one of the founders of the Deutscher Werkbund in 1907.[2] Gropius, Mies van der Rohe and Le Corbusier all worked in his office for a time.[1] He died in Berlin in 1940.[3]"
+  },
+  "es": {
+   "key": "Arquitecto y diseñador alemán que desde 1907 dio a la empresa eléctrica AEG sus edificios, productos y gráfica en una sola línea de diseño.[1][2]",
+   "more": "Nacido en Hamburgo en 1868,[1][3] Behrens se formó en la escuela de arte de Hamburgo y se unió a la colonia de artistas de Darmstadt hacia 1900.[1] En 1907 AEG, en Berlín, lo contrató como asesor artístico,[1][3] y diseñó su fábrica de turbinas, productos como ventiladores eléctricos, y su logotipo, catálogos y publicidad.[1][2][3] Fue uno de los fundadores del Deutscher Werkbund en 1907.[2] Gropius, Mies van der Rohe y Le Corbusier trabajaron un tiempo en su oficina.[1] Murió en Berlín en 1940.[3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Peter Behrens»",
+    "url": "https://www.britannica.com/biography/Peter-Behrens",
+    "checks": "1868–1940, nacido en Hamburgo; formación en la escuela de bellas artes de Hamburgo; colonia de Darmstadt (según Britannica, 1900); en 1907 Rathenau lo nombró asesor artístico de AEG; logotipo, fábricas y productos (ventiladores); fábrica de turbinas 1909–12; Gropius, Mies y Le Corbusier se formaron en su oficina. ⚠ No da lugar de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "visitBerlin, «AEG Turbine Factory»",
+    "url": "https://www.visitberlin.de/en/aeg-turbine-factory",
+    "checks": "Behrens desarrolló el diseño corporativo de AEG (productos, tipografía, logotipo); encargo de la fábrica de turbinas en 1908 y apertura en 1909; cofundador del Werkbund en 1907. ⚠ Sitio oficial de turismo de Berlín, no académico.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "EBSCO Research Starters, «Peter Behrens»",
+    "url": "https://www.ebsco.com/research-starters/history/peter-behrens",
+    "checks": "nació el 14 abr 1868 en Hamburgo y murió el 27 feb 1940 en Berlín; asesor artístico de AEG desde 1907; materiales gráficos, catálogos y logotipo. ⚠ Da 1889 para Darmstadt (error evidente; no se usa).",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha dice que se unió a Darmstadt en 1899; Britannica da 1900 y EBSCO un 1889 erróneo. Se escribió «hacia 1900».",
+   "Se quitó «comenzó como pintor» (no confirmado; Britannica solo dice que estudió en la escuela de bellas artes de Hamburgo). «lámparas y hervidores» no se confirmó; se reemplazó por «ventiladores eléctricos» (Britannica).",
+   "La fábrica de turbinas se fecha 1908–09 (visitBerlin) o 1909–12 (Britannica); la ficha no da año y no se añadió."
+  ]
+ },
+ {
+  "id": "josef-hoffmann",
+  "en": {
+   "key": "Austrian architect and designer, a founder of the Vienna Secession’s circle and of the Wiener Werkstätte, who favoured geometric forms.[1][2][3]",
+   "more": "Hoffmann was a pupil of Otto Wagner and a member of the Vienna Secession.[1][2] With Koloman Moser and the financier Fritz Waerndorfer he founded the Wiener Werkstätte in 1903.[3] He designed the Purkersdorf Sanatorium and the Palais Stoclet in Brussels (1905–11),[1][4] and was a founder of the Austrian Werkbund in 1912.[2] Born in Moravia in 1870, he died in Vienna in 1956.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto y diseñador austríaco, fundador del círculo de la Secesión vienesa y de los Wiener Werkstätte, que prefirió las formas geométricas.[1][2][3]",
+   "more": "Hoffmann fue alumno de Otto Wagner y miembro de la Secesión de Viena.[1][2] Con Koloman Moser y el financista Fritz Waerndorfer fundó los Wiener Werkstätte en 1903.[3] Proyectó el Sanatorio de Purkersdorf y el Palacio Stoclet de Bruselas (1905–11),[1][4] y fue uno de los fundadores del Werkbund austríaco en 1912.[2] Nació en Moravia en 1870 y murió en Viena en 1956.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Josef Hoffmann»",
+    "url": "https://www.britannica.com/biography/Josef-Hoffmann",
+    "checks": "nació el 15 dic 1870 en Pirnitz, Moravia, y murió el 7 may 1956 en Viena; alumno de Otto Wagner; cofundó la Secesión (1899); Werkstätte en 1903; Sanatorio de Purkersdorf y Casa Stoclet; formas geométricas y líneas rectas.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Wien Geschichte Wiki, «Josef Hoffmann (Architekt)»",
+    "url": "https://www.geschichtewiki.wien.gv.at/Josef_Hoffmann_(Architekt)",
+    "checks": "nació el 15.12.1870 en Pirnitz (Moravia) y murió el 7.5.1956 en Viena; estudió con Wagner; cofundó la Secesión y los Wiener Werkstätte (1903); miembro fundador del Werkbund austríaco (1912); Palais Stoclet 1905–1911.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MAK Viena, «Die Frauen der Wiener Werkstätte»",
+    "url": "https://www.mak.at/frauenderww/digistory",
+    "checks": "la Wiener Werkstätte fue fundada en 1903 por Josef Hoffmann, Koloman Moser y el financista Fritz Waerndorfer.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "UNESCO, Patrimonio Mundial, «Stoclet House»",
+    "url": "https://whc.unesco.org/en/list/1298",
+    "checks": "Casa Stoclet en Bruselas proyectada y construida 1905–1911 por Josef Hoffmann; obra maestra de la Secesión vienesa.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Las fuentes fechan el Sanatorio de Purkersdorf en 1903 o 1903–05 (ficha: 1904–05); se quitó el rango de fechas.",
+   "«formas cuadradas» se cambió por «geométricas» (Britannica); «cuadradas» no se confirmó. Britannica da la Secesión en 1899 y Wien Geschichte Wiki en 1897 (la ficha no da año)."
+  ]
+ },
+ {
+  "id": "adolf-loos",
+  "en": {
+   "key": "Austrian architect and critic who rejected applied ornament in favour of plain surfaces and costly materials, and wrote Ornament and Crime.[1][2]",
+   "more": "Born in Brno, he spent some years in the United States in his youth and settled in Vienna,[1][2] where he wrote against the decorative arts of the Secession.[2] His essay Ornament and Crime argued for eliminating ornament from useful objects.[3] His Looshaus on the Michaelerplatz, opposite the Hofburg, has a plain upper façade above a marble base and caused a scandal when built in 1909–11.[1][2][3] He died in 1933 near Vienna.[1][3]"
+  },
+  "es": {
+   "key": "Arquitecto y crítico austriaco que rechazó el ornamento aplicado a favor de superficies lisas y materiales nobles, y escribió Ornamento y delito.[1][2]",
+   "more": "Nacido en Brno, pasó en su juventud algunos años en Estados Unidos y se estableció en Viena,[1][2] donde escribió contra las artes decorativas de la Secesión.[2] Su ensayo Ornamento y delito defendía eliminar el ornamento de los objetos útiles.[3] Su Looshaus de la Michaelerplatz, frente a la Hofburg, tiene una fachada superior lisa sobre un zócalo de mármol y provocó un escándalo al construirse en 1909–11.[1][2][3] Murió en 1933 cerca de Viena.[1][3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Adolf Loos»",
+    "url": "https://www.britannica.com/biography/Adolf-Loos",
+    "checks": "nació el 10 dic 1870 en Brno y murió el 23 ago 1933 cerca de Viena; EE. UU. 1893–97; rechazó el ornamento innecesario; superficies de mármol pulido en el edificio Goldman y Salatsch. ⚠ No menciona Ornamento y delito.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Austria-Forum (AEIOU), «Loos, Adolf»",
+    "url": "https://www.aeiou.at/aeiou.encyclop.l/l846666.htm",
+    "checks": "nació en Brünn (Brno) y murió el 23 ago 1933 en Viena; EE. UU. 1893–96; crítico de la Secesión y de los Wiener Werkstätte; Looshaus 1909–11 con gran polémica; ensayo «Ornament und Verbrechen» (1908).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "EBSCO Research Starters, «Adolf Loos»",
+    "url": "https://www.ebsco.com/research-starters/history/adolf-loos",
+    "checks": "murió el 23 ago 1933 en Kalksburg, cerca de Viena; Looshaus frente al palacio imperial con escándalo público; el ensayo sostiene que la cultura avanza con la eliminación del ornamento de los objetos útiles. ⚠ Fecha el ensayo en 1908 y el Looshaus 1909–12.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha fecha Ornamento y delito en 1910; AEIOU y EBSCO dan 1908. No se corrigió: se quitó el año del texto.",
+   "El lugar de muerte difiere entre fuentes (Viena según AEIOU; Kalksburg, cerca de Viena, según Britannica/EBSCO); se mantiene «cerca de Viena». EE. UU.: 1893–96/97 según la fuente."
+  ]
+ },
+ {
+  "id": "mariano-fortuny",
+  "en": {
+   "key": "Spanish-born designer in Venice who made the pleated silk Delphos gown and developed fabric printing and lighting systems.[1][2][3]",
+   "more": "Born in Granada in 1871,[2][3] Fortuny grew up in Paris and Venice and settled in Venice,[2][3] where he worked as a painter, photographer, stage designer and inventor.[2][3] Around 1907 he created the Delphos, a pleated silk gown designed to be worn without a corset,[1] and in 1909 he patented his pleating process.[1][2] He also printed fabrics[1][2] and designed a system of indirect stage lighting.[3] He died in Venice in 1949.[1][2]"
+  },
+  "es": {
+   "key": "Diseñador nacido en España y radicado en Venecia que creó el vestido de seda plisada Delphos y desarrolló sistemas de estampado de telas y de iluminación.[1][2][3]",
+   "more": "Nacido en Granada en 1871,[2][3] Fortuny creció en París y Venecia y se instaló en Venecia,[2][3] donde trabajó como pintor, fotógrafo, escenógrafo e inventor.[2][3] Hacia 1907 creó el Delphos, un vestido de seda plisada pensado para llevarse sin corsé,[1] y en 1909 patentó su proceso de plisado.[1][2] También estampó telas[1][2] y diseñó un sistema de iluminación escénica indirecta.[3] Murió en Venecia en 1949.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Cooper Hewitt, Smithsonian Design Museum, «Slip on a Delphos»",
+    "url": "https://www.cooperhewitt.org/2017/04/07/slip-on-a-delphos/",
+    "checks": "el Delphos se presentó hacia 1907 y se produjo casi sin cambios hasta la muerte de Fortuny en 1949; vestido pensado para llevarse sin corsé; patente del plisado en 1909 junto con procesos de teñido y estampado; basado en Venecia. ⚠ No da fecha ni lugar de nacimiento.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "National Gallery of Australia, «Mariano Fortuny»",
+    "url": "https://nga.gov.au/exhibitions/mariano-fortuny/",
+    "checks": "nació en Granada en 1871, se trasladó a Venecia en 1889 y permaneció allí hasta su muerte en 1949; pintor antes de la moda; patente del Delphos en 1909; produjo tintes, bloques y máquinas para estampar telas. ⚠ Da 1906 para el inicio de su trabajo textil.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museo Fortuny (Fundación Musei Civici di Venezia), «Mariano Fortuny y Madrazo»",
+    "url": "https://fortuny.visitmuve.it/en/il-museo/museum/mariano-fortuny-y-mandrazo/",
+    "checks": "1871–1949; nacido en Granada, formado en París, instalado en Venecia; pasó de la pintura al diseño escénico y la iluminación; cúpula de iluminación indirecta y difusa (1903–06); experimentos fotográficos. ⚠ No confirma que patentara el sistema de iluminación.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha decía «patentó sistemas de estampado y de iluminación»; las fuentes confirman patentes de plisado, teñido y estampado, pero no de la iluminación; se suavizó a «desarrolló».",
+   "«Hacia 1907» para el Delphos confirmado por Cooper Hewitt; el vestido plisado como patente es de 1909."
+  ]
+ },
+ {
+  "id": "paul-poiret",
+  "en": {
+   "key": "French couturier who in the 1900s dropped the corset for high-waisted, straight-hanging dresses.[1][3]",
+   "more": "Born in Paris in 1879,[2] Poiret worked for the houses of Doucet and Worth before opening his own house in 1903.[1][3] In the years that followed he showed dresses cut along straight lines, with a high waist, that did not need the corset.[1][3] He drew on Oriental and classical themes and worked with artists such as Raoul Dufy and Erté.[1] He died in Paris in 1944.[2]"
+  },
+  "es": {
+   "key": "Modisto francés que en la década de 1900 dejó el corsé por vestidos de talle alto y caída recta.[1][3]",
+   "more": "Nacido en París en 1879,[2] Poiret trabajó para las casas de Doucet y de Worth antes de abrir la suya propia en 1903.[1][3] En los años siguientes mostró vestidos de corte recto y talle alto que no necesitaban corsé.[1][3] Se inspiró en temas orientales y clásicos y trabajó con artistas como Raoul Dufy y Erté.[1] Murió en París en 1944.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Metropolitan Museum of Art, «Paul Poiret (1879–1944)»",
+    "url": "https://www.metmuseum.org/essays/paul-poiret-1879-1944",
+    "checks": "se formó con Chéruit, Doucet y Worth; abrió su casa en 1903; siluetas sin corsé hacia 1906; orientalismo; inspiración en quitones griegos antiguos, kimonos y caftanes; prendas cortadas en líneas rectas; colaboró con Raoul Dufy y Erté. ⚠ No menciona el talle alto ni a Paul Iribe.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, Leonard A. Lauder Research Center, «Paul Poiret»",
+    "url": "https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/poiret",
+    "checks": "fechas y lugares de vida: «Paris, 1879–Paris, 1944».",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Paul Poiret»",
+    "url": "https://www.britannica.com/biography/Paul-Poiret",
+    "checks": "1879–1944; trabajó con Worth; casa propia en 1903; reemplazó el corsé; revivió el estilo Imperio (de talle alto); influencias orientales. ⚠ El talle alto se infiere del estilo Imperio, no se dice textualmente.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha dice «desde c. 1908»; el Met sitúa las siluetas sin corsé hacia 1906. No se corrigió; se suavizó a «década de 1900».",
+   "Se quitó a Paul Iribe (no confirmado en las fuentes abiertas) y se añadió Erté (Met). «Talle alto» solo se infiere del estilo Imperio (Britannica)."
+  ]
+ },
+ {
+  "id": "marcello-nizzoli",
+  "en": {
+   "key": "Italian architect, graphic artist and industrial designer who shaped the look of Olivetti typewriters and of sewing machines in the postwar years.[1][2][3]",
+   "more": "Nizzoli came to design from painting, graphics and architecture, and worked for Olivetti from the 1930s.[1] He designed the Lettera 22 portable typewriter of 1950[2] and the Mirella sewing machine for Necchi in the 1950s.[1][3] He died in 1969.[1]"
+  },
+  "es": {
+   "key": "Arquitecto, grafista y diseñador industrial italiano que dio su aspecto a las máquinas de escribir Olivetti y a las máquinas de coser de la posguerra.[1][2][3]",
+   "more": "Nizzoli llegó al diseño desde la pintura, la gráfica y la arquitectura, y trabajó para Olivetti desde los años treinta.[1] Diseñó la máquina de escribir portátil Lettera 22 de 1950[2] y la máquina de coser Mirella para Necchi en los años cincuenta.[1][3] Murió en 1969.[1]"
+  },
+  "refs": [
+   {
+    "label": "Treccani, Dizionario Biografico, «Nizzoli, Marcello»",
+    "url": "https://www.treccani.it/enciclopedia/marcello-nizzoli_(Dizionario-Biografico)/",
+    "checks": "nació el 2 ene 1887 en San Rocco (Boretto) y murió el 31 jul 1969 en Camogli; pintura, gráfica, textiles; con Olivetti desde 1938; Lettera 22 (1950); Mirella para Necchi con Compasso d'oro; título honorario de arquitecto 1966. ⚠ Texto leído en resumen.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, «Marcello Nizzoli. Lettera 22 Portable Typewriter. 1950»",
+    "url": "https://www.moma.org/collection/works/2967",
+    "checks": "Lettera 22 de Nizzoli, 1950, fabricada por Olivetti en Ivrea.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, «Marcello Nizzoli. Mirella Sewing Machine. 1956»",
+    "url": "https://www.moma.org/collection/works/2627",
+    "checks": "Mirella de Nizzoli, 1956, fabricada por Necchi en Pavía.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha sitúa la Mirella a comienzos de los años cincuenta; MoMA la fecha en 1956 y Treccani en 1957. No se corrigió; se suavizó a «los años cincuenta».",
+   "Fechas de vida 1887–1969 confirmadas por Treccani (Boretto, Camogli); «desde los años treinta» consistente con 1938."
+  ]
+ },
+ {
+  "id": "harley-earl",
+  "en": {
+   "key": "American car designer who headed General Motors’ new Art and Colour Section from 1927 and made annual restyling a pillar of the industry.[1][2][3]",
+   "more": "Born in Hollywood in 1893,[1] he came from his father’s custom coachbuilding business to General Motors,[1] where he led the Art and Colour Section from 1927.[2][3] He championed clay modelling of cars,[3] show cars such as the Le Sabre,[3] and the tailfins of Cadillacs after the war.[1][3] He retired from GM in 1958[3] and died in 1969.[1]"
+  },
+  "es": {
+   "key": "Diseñador estadounidense de autos que dirigió desde 1927 la nueva sección Art and Colour de General Motors y convirtió el rediseño anual en un pilar de la industria.[1][2][3]",
+   "more": "Nacido en Hollywood en 1893,[1] pasó del taller de carrocerías a medida de su padre a General Motors,[1] donde dirigió la sección Art and Colour desde 1927.[2][3] Impulsó el modelado de autos en arcilla,[3] los autos de exhibición como el Le Sabre[3] y las aletas de los Cadillac de posguerra.[1][3] Se retiró de GM en 1958[3] y murió en 1969.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Harley Jefferson Earl»",
+    "url": "https://www.britannica.com/biography/Harley-Jefferson-Earl",
+    "checks": "1893–1969; nacido en Hollywood; taller de autos a medida de su padre; entró a GM en 1927 como jefe de diseño; modelos anuales; aletas de los Cadillac de posguerra. ⚠ No da lugar de muerte ni el año del Cadillac con aletas; la sección se llama «Art and Color».",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Henry Ford, colección digital (LaSalle 1927)",
+    "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/27613/",
+    "checks": "el éxito del LaSalle llevó a GM a crear su primera sección Art and Colour (luego Styling), con Harley Earl como director. ⚠ Solo ese dato.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Automotive Hall of Fame, «Harley J. Earl»",
+    "url": "https://automotivehalloffame.org/honoree/harley-j-earl-2/",
+    "checks": "Art and Colour Section de GM (1927); modelado en arcilla; Le Sabre; aletas de Cadillac; retiro en 1958; cambio anual de modelo. ⚠ La página se leyó solo en resumen; no confirma el año del Le Sabre ni del Cadillac.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha dice que «fundó» la sección en 1927; las fuentes dicen que GM la creó y lo nombró director; se suavizó a «dirigió».",
+   "Se quitaron los años del Le Sabre (1951) y del Cadillac con aletas (1948): no confirmados en las fuentes abiertas. Britannica dice solo «Cadillac de posguerra».",
+   "Lugar de muerte no incluido en la ficha ni confirmado por fuentes primarias."
+  ]
+ }
+]

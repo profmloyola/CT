@@ -1,0 +1,290 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-cold-war",
+   "track": "political",
+   "start": 1947,
+   "end": 1989,
+   "date": "1947–1989",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "US",
+    "RU",
+    "DE",
+    "CU",
+    "CL"
+   ],
+   "name": "Cold War and design as a way of life",
+   "short": "Cold War",
+   "key": "The rivalry between the United States and the Soviet Union, which also played out through exhibitions, consumer goods and everyday life.",
+   "happened": "After the Second World War the United States and the Soviet Union competed for influence in Europe and, later, in Latin America. The contest was fought not only with arms but with images of how people lived. In 1959 the American National Exhibition in Moscow set an American kitchen and everyday goods against Soviet claims, and in Brussels in 1958 the two powers built rival pavilions at the world’s fair.",
+   "effect": "Design became an instrument of persuasion. The American government sent exhibitions abroad that showed modern furniture, appliances and graphics as the visible face of a free, prosperous society, and in Moscow in 1959 Charles and Ray Eames showed the multi-screen film Glimpses of the USA. The Soviet side answered with its own display of industrial and technical achievement. In Latin America the same rivalry shaped development aid and, after 1959, the Cuban answer in posters and film.",
+   "es": {
+    "name": "Guerra Fría y diseño como modo de vida",
+    "short": "Guerra Fría",
+    "date": "1947–1989",
+    "key": "La rivalidad entre Estados Unidos y la Unión Soviética, que se libró también con exposiciones, bienes de consumo y vida cotidiana.",
+    "happened": "Después de la Segunda Guerra Mundial, Estados Unidos y la Unión Soviética compitieron por influencia en Europa y, más tarde, en América Latina. La disputa no se libró solo con armas, sino con imágenes de cómo vivía la gente. En 1959 la Exposición Nacional Estadounidense en Moscú puso una cocina norteamericana y bienes cotidianos frente a las afirmaciones soviéticas, y en Bruselas, en 1958, las dos potencias levantaron pabellones rivales en la feria mundial.",
+    "effect": "El diseño se volvió un instrumento de persuasión. El gobierno estadounidense envió al exterior exposiciones que mostraban muebles, artefactos y gráfica modernos como el rostro visible de una sociedad libre y próspera, y en Moscú, en 1959, Charles y Ray Eames presentaron la película de varias pantallas Glimpses of the USA. El lado soviético respondió con su propia muestra de logros industriales y técnicos. En América Latina la misma rivalidad marcó la ayuda al desarrollo y, desde 1959, la respuesta cubana en carteles y cine."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-marshall-plan",
+   "track": "political",
+   "start": 1948,
+   "end": 1952,
+   "date": "1948–1952",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "GB",
+    "FR",
+    "IT"
+   ],
+   "name": "Marshall Plan",
+   "short": "Marshall Plan",
+   "key": "The American aid programme that financed the recovery of Western Europe after the war and tied its industry to American models of production.",
+   "happened": "Announced by Secretary of State George Marshall in June 1947 and enacted in April 1948, the European Recovery Program sent some 13 billion dollars of aid to Western European countries over about four years. Much of it paid for food, fuel, raw materials and machinery. It was accompanied by missions that took European managers and engineers to American factories and by information campaigns, including a poster competition among the participating countries.",
+   "effect": "Recovery money and American production methods reached the factories that would later make the new European consumer goods, and the aid programme itself became a client for graphic design: the posters, leaflets and exhibitions of the plan promoted European cooperation in a common visual language. The productivity missions encouraged standardised, series production, a condition for the cheap, modern household goods of the 1950s.",
+   "es": {
+    "name": "Plan Marshall",
+    "short": "Plan Marshall",
+    "date": "1948–1952",
+    "key": "El programa estadounidense de ayuda que financió la recuperación de Europa occidental y acercó su industria a los modelos de producción norteamericanos.",
+    "happened": "Anunciado por el secretario de Estado George Marshall en junio de 1947 y aprobado en abril de 1948, el Programa de Recuperación Europea envió unos 13.000 millones de dólares en ayuda a los países de Europa occidental durante unos cuatro años. Buena parte pagó alimentos, combustible, materias primas y maquinaria. Lo acompañaron misiones que llevaron a gerentes e ingenieros europeos a fábricas estadounidenses y campañas de información, entre ellas un concurso de carteles entre los países participantes.",
+    "effect": "El dinero de la recuperación y los métodos de producción estadounidenses llegaron a las fábricas que después harían los nuevos bienes de consumo europeos, y el propio programa de ayuda se volvió cliente del diseño gráfico: los carteles, folletos y exposiciones del plan promovieron la cooperación europea con un lenguaje visual común. Las misiones de productividad alentaron la producción estandarizada y en serie, condición de los objetos domésticos modernos y baratos de los años cincuenta."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-german-reconstruction",
+   "track": "political",
+   "start": 1945,
+   "end": 1960,
+   "date": "1945–1960",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Reconstruction and re-education in Germany",
+   "short": "German reconstruction",
+   "key": "The rebuilding of a divided, occupied Germany, in which design was one way of making a democratic and modern country after Nazism.",
+   "happened": "Defeated in 1945, Germany was divided into four occupation zones, and in 1949 two states were founded, the Federal Republic in the west and the Democratic Republic in the east. In the west the occupying powers, above all the Americans, promoted democratic re-education, and the currency reform of June 1948 opened the way to the economic recovery of the 1950s.",
+   "effect": "Many Germans saw the Bauhaus and the Werkbund, which the Nazis had persecuted or dissolved, as a tradition untainted by the regime. The Hochschule für Gestaltung in Ulm, founded in 1953 by Inge Scholl, Otl Aicher and Max Bill with support that included American funds, set out to teach design as a democratic, responsible practice. Companies such as Braun, which employed Ulm teachers and graduates, turned that plain, rational approach into the look of the new West German household.",
+   "es": {
+    "name": "Reconstrucción y reeducación en Alemania",
+    "short": "Reconstrucción alemana",
+    "date": "1945–1960",
+    "key": "La reconstrucción de una Alemania dividida y ocupada, en la que el diseño fue una vía para hacer un país democrático y moderno tras el nazismo.",
+    "happened": "Derrotada en 1945, Alemania quedó dividida en cuatro zonas de ocupación, y en 1949 se fundaron dos Estados: la República Federal en el oeste y la República Democrática en el este. En el oeste las potencias ocupantes, sobre todo los estadounidenses, impulsaron la reeducación democrática, y la reforma monetaria de junio de 1948 abrió el camino a la recuperación económica de los años cincuenta.",
+    "effect": "Muchos alemanes vieron en la Bauhaus y en el Werkbund, que los nazis habían perseguido o disuelto, una tradición no manchada por el régimen. La Hochschule für Gestaltung de Ulm, fundada en 1953 por Inge Scholl, Otl Aicher y Max Bill con apoyos que incluyeron fondos estadounidenses, se propuso enseñar el diseño como una práctica democrática y responsable. Empresas como Braun, que empleó a profesores y egresados de Ulm, convirtieron ese enfoque sobrio y racional en la imagen del nuevo hogar de Alemania Occidental."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-unidad-popular-golpe",
+   "track": "political",
+   "start": 1970,
+   "end": 1973,
+   "date": "1970–1973",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Unidad Popular and the coup d’état, 1970–1973",
+   "short": "Unidad Popular",
+   "key": "The socialist government of Salvador Allende, which turned design into a tool of the state until the military coup of September 1973.",
+   "happened": "Salvador Allende, candidate of the Unidad Popular coalition, won the presidential election of September 1970 and took office in November. His government nationalised copper and a number of large firms, expanded the state’s productive sector and sought to bring culture and technology to the whole population. It was ended by the military coup of 11 September 1973, which began a dictatorship of 17 years.",
+   "effect": "The state became the main client of design in Chile. The publishing house Quimantú, formed in 1971 from the former Zig-Zag, issued cheap books and magazines with new covers for a mass readership; poster and mural work by political brigades filled the cities; and in CORFO, with the technological institute INTEC, designers and engineers, among them Gui Bonsiepe, worked on products and systems for the nationalised industries, including the Cybersyn project, whose operations room was designed in 1972–73. The coup stopped these projects and forced many of the people involved into exile.",
+   "es": {
+    "name": "Unidad Popular y golpe de Estado, 1970–1973",
+    "short": "Unidad Popular",
+    "date": "1970–1973",
+    "key": "El gobierno socialista de Salvador Allende, que hizo del diseño una herramienta del Estado hasta el golpe militar de septiembre de 1973.",
+    "happened": "Salvador Allende, candidato de la coalición Unidad Popular, ganó la elección presidencial de septiembre de 1970 y asumió en noviembre. Su gobierno nacionalizó el cobre y varias grandes empresas, amplió el sector productivo del Estado y buscó llevar la cultura y la tecnología a toda la población. Lo puso fin el golpe militar del 11 de septiembre de 1973, que dio inicio a una dictadura de 17 años.",
+    "effect": "El Estado pasó a ser el principal cliente del diseño en Chile. La editorial Quimantú, formada en 1971 a partir de la antigua Zig-Zag, publicó libros y revistas baratos con nuevas portadas para un público masivo; el trabajo de afiches y murales de las brigadas políticas llenó las ciudades; y en la CORFO, con el instituto tecnológico INTEC, diseñadores e ingenieros, entre ellos Gui Bonsiepe, trabajaron en productos y sistemas para las industrias nacionalizadas, incluido el proyecto Cybersyn, cuya sala de operaciones se diseñó en 1972–73. El golpe detuvo estos proyectos y llevó al exilio a muchas de las personas involucradas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-cuban-revolution",
+   "track": "political",
+   "start": 1959,
+   "end": 1975,
+   "date": "1959–1975",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CU"
+   ],
+   "name": "Cuban Revolution",
+   "short": "Cuban Revolution",
+   "key": "The revolution that took power in Cuba in 1959 and built a state-sponsored school of poster and film graphics.",
+   "happened": "The guerrilla movement led by Fidel Castro overthrew the dictator Fulgencio Batista on 1 January 1959. The new government allied with the Soviet Union, faced an American embargo and, in January 1966, hosted in Havana the Tricontinental Conference of peoples of Africa, Asia and Latin America. Cultural institutions were created at once, among them the film institute ICAIC, founded in March 1959.",
+   "effect": "The state needed to reach a large, newly literate public with little money and few imported materials. Designers working for ICAIC and for OSPAAAL, the solidarity organisation born of the 1966 conference, produced silkscreen posters in bright colours, with ideas borrowed from pop art, painting and photography, and the magazine Tricontinental carried a poster folded inside each issue to be distributed around the world. The Cuban poster became an international reference for political graphics.",
+   "es": {
+    "name": "Revolución Cubana",
+    "short": "Revolución Cubana",
+    "date": "1959–1975",
+    "key": "La revolución que tomó el poder en Cuba en 1959 y construyó una escuela de gráfica de carteles y cine sostenida por el Estado.",
+    "happened": "El movimiento guerrillero dirigido por Fidel Castro derrocó al dictador Fulgencio Batista el 1 de enero de 1959. El nuevo gobierno se alió con la Unión Soviética, enfrentó un embargo estadounidense y, en enero de 1966, fue sede en La Habana de la Conferencia Tricontinental de los pueblos de África, Asia y América Latina. Se crearon de inmediato instituciones culturales, entre ellas el instituto de cine ICAIC, fundado en marzo de 1959.",
+    "effect": "El Estado necesitaba llegar a un público amplio y recién alfabetizado con poco dinero y pocos materiales importados. Los diseñadores que trabajaron para el ICAIC y para la OSPAAAL, la organización de solidaridad nacida de la conferencia de 1966, produjeron carteles serigráficos de colores vivos, con ideas tomadas del arte pop, la pintura y la fotografía, y la revista Tricontinental llevaba un cartel plegado dentro de cada número para distribuirlo por el mundo. El cartel cubano se volvió una referencia internacional de la gráfica política."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-may-68",
+   "track": "political",
+   "start": 1968,
+   "end": 1968,
+   "date": "1968",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "IT"
+   ],
+   "name": "May 1968",
+   "short": "May ’68",
+   "key": "The student protests and general strike in France in May 1968, which made the street, the poster and the workshop a model of political design.",
+   "happened": "Student protests that began at Nanterre in March 1968 spread to the Sorbonne and the Latin Quarter in Paris, and in May a general strike joined millions of workers to the movement. The government of Charles de Gaulle came close to losing control before the strike wound down and elections were held in June. Students also occupied universities and cultural institutions elsewhere in Europe, including the Milan Triennale, which was occupied in May 1968.",
+   "effect": "Students and artists at the occupied École des Beaux-Arts in Paris formed the Atelier Populaire and, working collectively and anonymously, silkscreened thousands of posters for the strikers and demonstrators, in a few colours and with short, direct slogans. They showed how a message could be produced quickly and cheaply by a group. In design culture the year strengthened the questioning of the consumer society and of the designer’s role, which fed Italian radical design.",
+   "es": {
+    "name": "Mayo del 68",
+    "short": "Mayo del 68",
+    "date": "1968",
+    "key": "Las protestas estudiantiles y la huelga general de Francia en mayo de 1968, que hicieron de la calle, el cartel y el taller un modelo de diseño político.",
+    "happened": "Las protestas estudiantiles que comenzaron en Nanterre en marzo de 1968 se extendieron a la Sorbona y al Barrio Latino de París, y en mayo una huelga general sumó al movimiento a millones de trabajadores. El gobierno de Charles de Gaulle estuvo cerca de perder el control antes de que la huelga se apagara y de que se convocara a elecciones en junio. Los estudiantes ocuparon también universidades e instituciones culturales en otros lugares de Europa, entre ellas la Trienal de Milán, ocupada en mayo de 1968.",
+    "effect": "Estudiantes y artistas de la École des Beaux-Arts ocupada, en París, formaron el Atelier Populaire y, trabajando de forma colectiva y anónima, imprimieron en serigrafía miles de carteles para huelguistas y manifestantes, con pocos colores y lemas breves y directos. Mostraron cómo un grupo podía producir un mensaje rápido y barato. En la cultura del diseño, el año reforzó el cuestionamiento de la sociedad de consumo y del papel del diseñador, lo que alimentó el diseño radical italiano."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-brazil-developmentalism",
+   "track": "political",
+   "start": 1956,
+   "end": 1961,
+   "date": "1956–1961",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "name": "Kubitschek’s developmentalism and “fifty years in five”",
+   "short": "Kubitschek era",
+   "key": "The government of Juscelino Kubitschek, which pursued rapid industrialisation, built Brasília and made design a matter of national modernity.",
+   "happened": "Juscelino Kubitschek was president of Brazil from 1956 to 1961 and summed up his programme in the slogan “fifty years in five”. His Plano de Metas set targets for energy, transport and industry, and attracted foreign carmakers to build vehicles in Brazil. The new capital, Brasília, planned by Lúcio Costa with buildings by Oscar Niemeyer, was inaugurated on 21 April 1960.",
+   "effect": "Industrialisation created a demand for designers who could shape products for a national market, while Brasília made modern architecture and its furniture and graphics a symbol of the country’s future. The Escola Superior de Desenho Industrial (ESDI), founded in Rio de Janeiro in 1962 and influenced by the Ulm school, trained the first generation of Brazilian industrial and graphic designers.",
+   "es": {
+    "name": "Desarrollismo de Kubitschek y «cincuenta años en cinco»",
+    "short": "Era Kubitschek",
+    "date": "1956–1961",
+    "key": "El gobierno de Juscelino Kubitschek, que impulsó una industrialización acelerada, construyó Brasilia e hizo del diseño un asunto de modernidad nacional.",
+    "happened": "Juscelino Kubitschek fue presidente de Brasil entre 1956 y 1961 y resumió su programa en el lema «cincuenta años en cinco». Su Plano de Metas fijó objetivos en energía, transporte e industria, y atrajo a fabricantes extranjeros de automóviles para producir en Brasil. La nueva capital, Brasilia, planificada por Lúcio Costa con edificios de Oscar Niemeyer, se inauguró el 21 de abril de 1960.",
+    "effect": "La industrialización creó demanda de diseñadores que dieran forma a productos para un mercado nacional, y Brasilia hizo de la arquitectura moderna, con su mobiliario y su gráfica, un símbolo del futuro del país. La Escuela Superior de Diseño Industrial (ESDI), fundada en Río de Janeiro en 1962 e influida por la escuela de Ulm, formó a la primera generación de diseñadores industriales y gráficos brasileños."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-decolonisation",
+   "track": "political",
+   "start": 1947,
+   "end": 1975,
+   "cont": false,
+   "date": "1947–1975",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "IN",
+    "BD",
+    "PK"
+   ],
+   "name": "Decolonisation and new capitals",
+   "short": "Decolonisation",
+   "key": "The end of European empires after 1945, which left new states that wanted capitals and government buildings to symbolise independence.",
+   "happened": "India and Pakistan became independent in 1947 and the Partition divided the province of Punjab, leaving Lahore in Pakistan. Bangladesh, formerly East Pakistan, became independent in 1971. Many former colonies in Asia and Africa gained independence in the following decades.",
+   "effect": "New states needed buildings that could represent a modern, sovereign nation. India commissioned Chandigarh as the new capital of its Punjab, and Louis Kahn’s parliament complex in Dhaka, begun for East Pakistan, was completed for independent Bangladesh. In both cases Western architects were asked to give a new state its public image.",
+   "es": {
+    "name": "Descolonización y nuevas capitales",
+    "short": "Descolonización",
+    "date": "1947–1975",
+    "key": "El fin de los imperios europeos después de 1945, que dejó Estados nuevos que querían capitales y edificios de gobierno que simbolizaran la independencia.",
+    "happened": "India y Pakistán se independizaron en 1947 y la Partición dividió la provincia del Punjab, con Lahore en Pakistán. Bangladés, antes Pakistán Oriental, se independizó en 1971. Muchas excolonias de Asia y África obtuvieron la independencia en las décadas siguientes.",
+    "effect": "Los Estados nuevos necesitaron edificios que representaran a una nación moderna y soberana. India encargó Chandigarh como nueva capital de su Punjab, y el complejo parlamentario de Louis Kahn en Dhaka, iniciado para Pakistán Oriental, se terminó para el Bangladés independiente. En ambos casos se pidió a arquitectos occidentales que dieran su imagen pública a un Estado nuevo."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-us-urban-renewal",
+   "track": "political",
+   "start": 1949,
+   "end": 1974,
+   "cont": false,
+   "date": "1949–1974",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "US urban renewal, public housing and highways",
+   "short": "Urban renewal",
+   "key": "The federal programmes that, from the Housing Act of 1949, cleared city neighbourhoods to build public housing and urban highways.",
+   "happened": "The Housing Act of 1949 funded the clearance of areas that cities called slums and the building of public housing. The Federal-Aid Highway Act of 1956 added a national highway programme whose routes often ran through cities.",
+   "effect": "Public money favoured clearing whole districts and building large blocks on a tight budget, such as Pruitt-Igoe in St. Louis. The same programmes provoked criticism: Jane Jacobs argued in 1961 that clearance and urban highways destroyed street life.",
+   "es": {
+    "name": "Renovación urbana y vivienda pública en EE. UU.",
+    "short": "Renovación urbana",
+    "date": "1949–1974",
+    "key": "Los programas federales que, desde la ley de vivienda de 1949, despejaron barrios de las ciudades para construir vivienda pública y autopistas urbanas.",
+    "happened": "La ley de vivienda de 1949 financió el despeje de zonas que las ciudades llamaban tugurios y la construcción de vivienda pública. La ley federal de autopistas de 1956 sumó un programa nacional de carreteras cuyos trazados pasaban a menudo por las ciudades.",
+    "effect": "El dinero público favoreció despejar barrios enteros y levantar grandes bloques con poco presupuesto, como Pruitt-Igoe en St. Louis. Los mismos programas provocaron críticas: Jane Jacobs sostuvo en 1961 que el despeje y las autopistas urbanas destruían la vida de la calle."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-suez-crisis-1956",
+   "track": "political",
+   "start": 1956,
+   "end": 1957,
+   "date": "1956–1957",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "EG"
+   ],
+   "name": "Suez Crisis and fuel rationing",
+   "short": "Suez Crisis",
+   "key": "The 1956 crisis over the Suez Canal, which led to petrol rationing in Britain and made small, economical cars a priority.",
+   "happened": "In July 1956 Egypt nationalised the Suez Canal, and in the autumn Britain and France, with Israel, attacked Egypt. The canal was blocked and oil supplies from the Middle East were disrupted. Petrol was rationed in Britain from the end of 1956 into 1957.",
+   "effect": "The shortage made fuel economy a pressing concern for car buyers and makers. At the British Motor Corporation it strengthened the case for a very small, economical car, and Alec Issigonis was asked to design one for four people; the result was the Mini of 1959.",
+   "es": {
+    "name": "Crisis de Suez y racionamiento de combustible",
+    "short": "Crisis de Suez",
+    "date": "1956–1957",
+    "key": "La crisis de 1956 por el canal de Suez, que llevó al racionamiento de bencina en Gran Bretaña y puso en primer plano los autos pequeños y económicos.",
+    "happened": "En julio de 1956 Egipto nacionalizó el canal de Suez y, en otoño, Gran Bretaña y Francia, junto con Israel, atacaron Egipto. El canal quedó bloqueado y el suministro de petróleo desde Oriente Medio se vio alterado. La bencina se racionó en Gran Bretaña desde fines de 1956 hasta 1957.",
+    "effect": "La escasez hizo del ahorro de combustible una preocupación urgente para compradores y fabricantes de autos. En la British Motor Corporation reforzó la idea de un auto muy pequeño y económico, y Alec Issigonis recibió el encargo de diseñar uno para cuatro personas; el resultado fue el Mini de 1959."
+   },
+   "refs": []
+  }
+ ]
+}

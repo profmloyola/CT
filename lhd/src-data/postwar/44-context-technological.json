@@ -1,0 +1,183 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-transistor",
+   "track": "technological",
+   "start": 1947,
+   "end": 1965,
+   "date": "1947–1965",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "name": "Transistor",
+   "short": "Transistor",
+   "key": "The transistor, invented at Bell Labs in 1947, replaced the valve and made small, light, battery-powered electronics possible.",
+   "happened": "Bell Labs announced the transistor in 1947, the work of John Bardeen, Walter Brattain and William Shockley. The first commercial transistor radio, the Regency TR-1, went on sale in the United States in 1954, and in the following years Japanese firms such as Sony, founded in 1946, made small transistor radios for export.",
+   "effect": "Without hot valves, a power supply and a large cabinet, electronic products could shrink to the size of a hand and be carried around. Designers moved from the radio as a piece of furniture to a small plastic or metal case with a dial and a speaker grille, and the radio became a personal object, often bought for young people.",
+   "es": {
+    "name": "Transistor",
+    "short": "Transistor",
+    "date": "1947–1965",
+    "key": "El transistor, inventado en los Laboratorios Bell en 1947, reemplazó a la válvula y permitió aparatos electrónicos pequeños, livianos y a pilas.",
+    "happened": "Los Laboratorios Bell anunciaron el transistor en 1947, obra de John Bardeen, Walter Brattain y William Shockley. La primera radio a transistores comercial, la Regency TR-1, salió a la venta en Estados Unidos en 1954, y en los años siguientes empresas japonesas como Sony, fundada en 1946, fabricaron pequeñas radios a transistores para la exportación.",
+    "effect": "Sin válvulas calientes, fuente de poder ni un gran mueble, los productos electrónicos pudieron reducirse al tamaño de una mano y llevarse de un lado a otro. Los diseñadores pasaron de la radio como mueble a una caja pequeña de plástico o metal con una perilla y una rejilla de parlante, y la radio se volvió un objeto personal, a menudo comprado para los jóvenes."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-mainframe-computing",
+   "track": "technological",
+   "start": 1946,
+   "end": 1975,
+   "date": "1946–1975",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "IT"
+   ],
+   "name": "Mainframe computing",
+   "short": "Mainframes",
+   "key": "Large central computers, built by firms such as IBM, spread through business and government from the 1950s and gave companies a technological image to project.",
+   "happened": "After ENIAC (1945–46), UNIVAC I was delivered to the US Census Bureau in 1951, and IBM went on to dominate the market, announcing its System/360 family in 1964. Computers were rented to banks, insurers, universities and government departments, which housed them in dedicated rooms and fed them with punched cards.",
+   "effect": "Firms that sold or used these machines needed to look reliable and modern. IBM named Eliot Noyes its consultant director of design in 1956 and, with Paul Rand, built a coordinated image of products, buildings and graphics, while Olivetti in Italy commissioned Ettore Sottsass for its Elea computer. The idea of processing information by rules also began to reach design method.",
+   "es": {
+    "name": "Computadores centrales",
+    "short": "Computadores centrales",
+    "date": "1946–1975",
+    "key": "Los grandes computadores centrales, fabricados por empresas como IBM, se difundieron en la empresa y el Estado desde los años cincuenta y dieron a las compañías una imagen tecnológica que proyectar.",
+    "happened": "Después del ENIAC (1945–46), el UNIVAC I se entregó a la Oficina del Censo de Estados Unidos en 1951, e IBM pasó a dominar el mercado y anunció su familia System/360 en 1964. Los computadores se arrendaban a bancos, aseguradoras, universidades y reparticiones públicas, que los alojaban en salas especiales y los alimentaban con tarjetas perforadas.",
+    "effect": "Las empresas que vendían o usaban estas máquinas necesitaban verse confiables y modernas. IBM nombró a Eliot Noyes su director consultor de diseño en 1956 y, junto con Paul Rand, construyó una imagen coordinada de productos, edificios y gráfica, mientras Olivetti, en Italia, encargó a Ettore Sottsass su computador Elea. La idea de procesar información mediante reglas también empezó a llegar al método de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-space-race",
+   "track": "technological",
+   "start": 1957,
+   "end": 1972,
+   "date": "1957–1972",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "RU"
+   ],
+   "name": "Space race and the Moon landing",
+   "short": "Space race",
+   "key": "The rivalry between the United States and the Soviet Union in space, from Sputnik in 1957 to Apollo, made the future a popular style.",
+   "happened": "The Soviet Union launched Sputnik 1 in October 1957, Yuri Gagarin became the first person in space in April 1961, and NASA, created in 1958, landed Apollo 11 on the Moon in July 1969. The last Apollo landing came in December 1972. The launches were followed on television by a large public.",
+   "effect": "Rockets, capsules and astronauts gave designers a ready vocabulary of the future: smooth white surfaces, spheres, silver finishes and synthetic materials. It was taken up in fashion, in furniture and in domestic appliances, and in the sixties couturiers such as André Courrèges and Pierre Cardin presented collections in a ‘space age’ spirit.",
+   "es": {
+    "name": "Carrera espacial y llegada a la Luna",
+    "short": "Carrera espacial",
+    "date": "1957–1972",
+    "key": "La rivalidad entre Estados Unidos y la Unión Soviética en el espacio, del Sputnik de 1957 al Apolo, convirtió el futuro en un estilo popular.",
+    "happened": "La Unión Soviética lanzó el Sputnik 1 en octubre de 1957, Yuri Gagarin fue la primera persona en el espacio en abril de 1961, y la NASA, creada en 1958, llevó al Apolo 11 a la Luna en julio de 1969. El último alunizaje del programa Apolo fue en diciembre de 1972. Un público numeroso siguió los lanzamientos por televisión.",
+    "effect": "Cohetes, cápsulas y astronautas dieron a los diseñadores un vocabulario del futuro ya listo: superficies blancas y lisas, esferas, acabados plateados y materiales sintéticos. Se adoptó en la moda, en el mobiliario y en los electrodomésticos, y en los años sesenta modistos como André Courrèges y Pierre Cardin presentaron colecciones de espíritu «era espacial»."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-jet-age",
+   "track": "technological",
+   "start": 1952,
+   "end": 1970,
+   "date": "1952–1970",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Jet age",
+   "short": "Jet age",
+   "key": "Jet airliners, from the de Havilland Comet in 1952 to the Boeing 747 in 1970, made long-distance air travel faster and, in time, a mass experience.",
+   "happened": "BOAC began Comet services in May 1952, the first jet airliner in passenger service. The Boeing 707 entered service with Pan American in October 1958, and the wide-bodied Boeing 747 in January 1970. Airlines competed on speed, comfort and image, and airports grew into large public buildings.",
+   "effect": "Airlines became clients of design: they commissioned cabin interiors, liveries, uniforms and signage, and Lufthansa had Otl Aicher and his team build a new identity in the 1960s. Airport terminals such as Eero Saarinen’s TWA terminal in New York (1962) showed that a building for flying could be an image of the age, and travellers who crossed borders needed signs they could read without a common language.",
+   "es": {
+    "name": "Era del avión a reacción",
+    "short": "Era del jet",
+    "date": "1952–1970",
+    "key": "Los aviones de pasajeros a reacción, del de Havilland Comet de 1952 al Boeing 747 de 1970, hicieron el viaje aéreo de larga distancia más rápido y, con el tiempo, una experiencia masiva.",
+    "happened": "BOAC inició en mayo de 1952 los servicios del Comet, el primer avión de pasajeros a reacción en servicio. El Boeing 707 entró en servicio con Pan American en octubre de 1958 y el Boeing 747, de fuselaje ancho, en enero de 1970. Las aerolíneas compitieron en velocidad, comodidad e imagen, y los aeropuertos crecieron hasta convertirse en grandes edificios públicos.",
+    "effect": "Las aerolíneas se volvieron clientes del diseño: encargaron interiores de cabina, libreas, uniformes y señalética, y Lufthansa hizo que Otl Aicher y su equipo construyeran una nueva identidad en los años sesenta. Terminales como la de TWA de Eero Saarinen en Nueva York (1962) mostraron que un edificio para volar podía ser una imagen de la época, y los viajeros que cruzaban fronteras necesitaban señales legibles sin una lengua común."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-plastics",
+   "track": "technological",
+   "start": 1945,
+   "end": 1973,
+   "date": "1945–1973",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "IT",
+    "GB"
+   ],
+   "name": "Plastics and petrochemicals",
+   "short": "Plastics",
+   "key": "Cheap synthetic resins made from oil, widely available after the war, made plastic the characteristic material of postwar products.",
+   "happened": "Plastics such as polyethylene, polystyrene, PVC and nylon had been developed before and during the Second World War, and after it factories turned from military orders to consumer goods. Resins came from the petrochemical industry, which grew with cheap oil, until the oil crisis of 1973 raised their price.",
+   "effect": "Moulded plastic let designers make complex, seamless and coloured shapes in one piece, and it made household goods cheap enough for most families. Charles and Ray Eames used glass-fibre reinforced polyester for a moulded chair in 1950, and Italian firms such as Kartell, founded in 1949, built a reputation on plastic furniture. Plastic was also seen as a cheap imitation of other materials, and that doubt shaped how designers used it.",
+   "es": {
+    "name": "Plásticos y petroquímica",
+    "short": "Plásticos",
+    "date": "1945–1973",
+    "key": "Resinas sintéticas baratas derivadas del petróleo, de uso masivo después de la guerra, hicieron del plástico el material característico de los productos de posguerra.",
+    "happened": "Plásticos como el polietileno, el poliestireno, el PVC y el nailon se habían desarrollado antes y durante la Segunda Guerra Mundial, y al terminar esta las fábricas pasaron de los pedidos militares a los bienes de consumo. Las resinas venían de la industria petroquímica, que creció con el petróleo barato, hasta que la crisis de 1973 encareció su precio.",
+    "effect": "El plástico moldeado permitió a los diseñadores hacer formas complejas, sin costuras y de color en una sola pieza, y abarató los objetos domésticos hasta ponerlos al alcance de la mayoría de las familias. Charles y Ray Eames usaron poliéster reforzado con fibra de vidrio para una silla moldeada en 1950, y firmas italianas como Kartell, fundada en 1949, construyeron su prestigio sobre el mueble de plástico. El plástico también se veía como una imitación barata de otros materiales, y esa duda marcó cómo lo usaron los diseñadores."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-phototypesetting",
+   "track": "technological",
+   "start": 1950,
+   "end": 1975,
+   "date": "1950–1975",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "US",
+    "DE",
+    "GB"
+   ],
+   "name": "Phototypesetting",
+   "short": "Phototypesetting",
+   "key": "Machines that set type by exposing letters onto film, instead of casting metal, replaced hot-metal composition from the 1950s.",
+   "happened": "The first phototypesetting machines, developed in France by René Higonnet and Louis Moyroud, were in commercial use in the 1950s. Over the next two decades, firms such as Linotype, Monotype and others made photographic machines, which in the sixties and seventies increasingly displaced hot-metal composition in newspapers, books and advertising.",
+   "effect": "Letters no longer had a physical body of metal, so designers could set them tighter, overlap them and enlarge or reduce them freely, which led to the close-set headlines of the sixties and seventies. Type foundries had to redraw their faces for photographic setting, and typefaces could be sold as film and transfer sheets, as Letraset did from 1961.",
+   "es": {
+    "name": "Fotocomposición",
+    "short": "Fotocomposición",
+    "date": "1950–1975",
+    "key": "Máquinas que componen el texto exponiendo las letras sobre película, en vez de fundir metal, reemplazaron la composición en plomo desde los años cincuenta.",
+    "happened": "Las primeras máquinas de fotocomposición, desarrolladas en Francia por René Higonnet y Louis Moyroud, estaban en uso comercial en los años cincuenta. En las dos décadas siguientes, empresas como Linotype, Monotype y otras fabricaron máquinas fotográficas, que en los sesenta y setenta desplazaron cada vez más la composición en plomo en diarios, libros y publicidad.",
+    "effect": "Las letras ya no tenían un cuerpo físico de metal, así que los diseñadores pudieron componerlas más apretadas, superponerlas y ampliarlas o reducirlas con libertad, lo que llevó a los titulares muy compactos de los sesenta y setenta. Las fundiciones debieron redibujar sus tipos para la composición fotográfica, y las tipografías pudieron venderse en película y en láminas transferibles, como hizo Letraset desde 1961."
+   },
+   "refs": []
+  }
+ ]
+}

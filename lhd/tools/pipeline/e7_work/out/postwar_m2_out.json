@@ -1,0 +1,215 @@
+[
+ {
+  "rtype": "institution",
+  "id": "inst-independent-group",
+  "level": "normal",
+  "kind": "association",
+  "disciplines": [
+   "graphic",
+   "architecture",
+   "product"
+  ],
+  "start": 1952,
+  "end": 1955,
+  "place": "London (ICA)",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "name": "Independent Group",
+  "short": "Independent Group",
+  "key": "A discussion group at London’s Institute of Contemporary Arts in which artists, architects and critics took mass culture, advertising and consumer goods as a subject for serious study.",
+  "more": "It met at the Institute of Contemporary Arts in London in the early 1950s, and its members included the artists Richard Hamilton and Eduardo Paolozzi, the architects Alison and Peter Smithson and the critic Reyner Banham. They discussed American advertising, films, science fiction and industrial products as material for art and design rather than as bad taste. Their interest in popular imagery fed British pop art and a more open attitude to consumer design in the following decade.",
+  "links": {
+   "designers": [
+    "smithsons"
+   ],
+   "works": []
+  },
+  "es": {
+   "name": "Independent Group",
+   "short": "Independent Group",
+   "place": "Londres (ICA)",
+   "key": "Un grupo de discusión del Institute of Contemporary Arts de Londres en que artistas, arquitectos y críticos tomaron la cultura de masas, la publicidad y los bienes de consumo como tema de estudio serio.",
+   "more": "Se reunía en el Institute of Contemporary Arts de Londres a comienzos de los años cincuenta, y entre sus miembros estaban los artistas Richard Hamilton y Eduardo Paolozzi, los arquitectos Alison y Peter Smithson y el crítico Reyner Banham. Discutían la publicidad estadounidense, el cine, la ciencia ficción y los productos industriales como material para el arte y el diseño, y no como mal gusto. Su interés por la imaginería popular alimentó el arte pop británico y una actitud más abierta hacia el diseño de consumo en la década siguiente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-di-tella",
+  "level": "normal",
+  "kind": "school",
+  "disciplines": [
+   "graphic"
+  ],
+  "start": 1958,
+  "end": 1970,
+  "place": "Buenos Aires",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "AR"
+  ],
+  "name": "Instituto Torcuato Di Tella",
+  "short": "Di Tella",
+  "key": "A Buenos Aires cultural institute, backed by an industrial family’s foundation, that became a centre of avant-garde art and whose graphic design work renewed Argentine graphics in the 1960s.",
+  "more": "It was created in 1958 in Buenos Aires by the Di Tella foundation, set up in memory of the founder of the industrial firm SIAM Di Tella. Besides its art centre, it had a graphic design area that produced posters, publications and corporate identity work for the institute and other clients. It closed in 1970, in the political climate of the Argentine military government.",
+  "links": {
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Instituto Torcuato Di Tella",
+   "short": "Di Tella",
+   "place": "Buenos Aires",
+   "key": "Un instituto cultural de Buenos Aires, respaldado por la fundación de una familia industrial, que se volvió centro de arte de vanguardia y cuya gráfica renovó el diseño gráfico argentino de los años sesenta.",
+   "more": "Se creó en 1958 en Buenos Aires por la fundación Di Tella, establecida en memoria del fundador de la empresa industrial SIAM Di Tella. Además de su centro de arte, tuvo un área de diseño gráfico que produjo afiches, publicaciones y trabajos de identidad para el propio instituto y otros clientes. Cerró en 1970, en el clima político del gobierno militar argentino."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-icsid",
+  "level": "normal",
+  "kind": "association",
+  "disciplines": [
+   "product"
+  ],
+  "start": 1957,
+  "end": null,
+  "place": "London / Montreal",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "GB",
+   "CA"
+  ],
+  "name": "ICSID (World Design Organization)",
+  "short": "ICSID",
+  "key": "The International Council of Societies of Industrial Design, founded in 1957 to federate national design associations and define the profession; it is now called the World Design Organization.",
+  "more": "It was founded in 1957 as a federation of national societies of industrial designers, and organised international congresses where the profession’s definition and ethics were discussed. It promoted design education and the use of design in countries seeking industrial development, a line that connected it to design programmes outside Europe and North America. Its secretariat later moved to Montreal, and it is now known as the World Design Organization.",
+  "links": {
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "ICSID (hoy World Design Organization)",
+   "short": "ICSID",
+   "place": "Londres / Montreal",
+   "key": "El Consejo Internacional de Sociedades de Diseño Industrial, fundado en 1957 para federar a las asociaciones nacionales de diseñadores y definir la profesión; hoy se llama World Design Organization.",
+   "more": "Se fundó en 1957 como federación de sociedades nacionales de diseñadores industriales, y organizó congresos internacionales en que se discutieron la definición y la ética de la profesión. Impulsó la enseñanza del diseño y su uso en países que buscaban desarrollo industrial, una línea que lo vinculó con programas de diseño fuera de Europa y América del Norte. Su secretaría se trasladó después a Montreal, y hoy se conoce como World Design Organization."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "design-methods",
+  "level": "normal",
+  "disciplines": [
+   "product",
+   "architecture"
+  ],
+  "start": 1962,
+  "end": 1980,
+  "fadeIn": 1,
+  "fadeOut": 2,
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "GB",
+   "US",
+   "DE"
+  ],
+  "name": "Design methods movement",
+  "short": "Design methods",
+  "key": "A 1960s effort to make the design process systematic and scientific, drawing on operations research, computing and systems theory, and a forerunner of ‘design thinking’.",
+  "traits": [
+   "Design broken down into explicit steps",
+   "Problems stated as sets of requirements",
+   "Operations research and systems theory as models",
+   "Computers as a possible aid to design",
+   "Later doubts about the limits of a purely rational method"
+  ],
+  "context": "After the Second World War, operations research and the first computers made it seem possible to treat complex problems in explicit steps. A conference on design methods held in London in 1962 brought together designers, engineers and scientists around this idea. At the same time the school in Ulm taught methodology and systems thinking to its students.",
+  "shift": "From design as the intuition of a gifted individual to design as a process that can be described, taught and discussed. Christopher Alexander’s Notes on the Synthesis of Form (1964) stated the design problem as a set of requirements, and Herbert Simon’s The Sciences of the Artificial (1969) described design as a science of its own. By the 1970s some of its own supporters, among them Alexander, had turned against the idea, and its legacy lives on in later ‘design thinking’.",
+  "links": {
+   "institutions": [
+    "inst-hfg-ulm"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "name": "Movimiento de los métodos de diseño",
+   "short": "Métodos de diseño",
+   "key": "Un esfuerzo de los años sesenta por volver sistemático y científico el proceso de diseño, apoyado en la investigación operativa, la computación y la teoría de sistemas, y antecedente del «design thinking».",
+   "traits": [
+    "El diseño descompuesto en pasos explícitos",
+    "Los problemas formulados como conjuntos de requisitos",
+    "La investigación operativa y la teoría de sistemas como modelos",
+    "El computador como posible ayuda al diseño",
+    "Dudas posteriores sobre los límites de un método puramente racional"
+   ],
+   "context": "Tras la Segunda Guerra Mundial, la investigación operativa y los primeros computadores hicieron pensar que se podían tratar problemas complejos en pasos explícitos. Una conferencia sobre métodos de diseño celebrada en Londres en 1962 reunió a diseñadores, ingenieros y científicos en torno a esa idea. Al mismo tiempo, la escuela de Ulm enseñaba metodología y pensamiento sistémico a sus estudiantes.",
+   "shift": "Del diseño como intuición de un individuo dotado al diseño como proceso que se puede describir, enseñar y discutir. Las Notes on the Synthesis of Form de Christopher Alexander (1964) formularon el problema de diseño como un conjunto de requisitos, y The Sciences of the Artificial de Herbert Simon (1969) describió el diseño como una ciencia propia. En los años setenta algunos de sus propios partidarios, entre ellos Alexander, se volvieron contra la idea, y su legado sigue vivo en el posterior «design thinking»."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-pop-art",
+  "item": "inst-independent-group",
+  "note": "Interest in American advertising and consumer goods, studied seriously rather than dismissed, gave rise to British pop art; Hamilton and Paolozzi came from the group.",
+  "es": {
+   "note": "El interés por la publicidad estadounidense y los bienes de consumo, estudiados en serio y no descartados, dio origen al arte pop británico; Hamilton y Paolozzi venían del grupo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-consumer-society",
+  "item": "inst-independent-group",
+  "note": "Postwar abundance was analysed as culture, not just bad taste, so ads, packaging and products became legitimate subjects for designers and critics.",
+  "es": {
+   "note": "La abundancia de la posguerra se analizó como cultura y no solo como mal gusto, y así la publicidad, los envases y los productos pasaron a ser temas legítimos para diseñadores y críticos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-isi-cepal",
+  "item": "inst-di-tella",
+  "note": "Industrialisation and a firm with its own cultural foundation financed a centre for modern art and design in Buenos Aires, where graphic design was taught and practised.",
+  "es": {
+   "note": "La industrialización y una empresa con fundación cultural propia financiaron en Buenos Aires un centro de arte y diseño moderno, donde se enseñó y practicó el diseño gráfico."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-professionalisation-design",
+  "item": "inst-icsid",
+  "note": "As national design societies multiplied, they federated in 1957, and the ICSID turned their separate claims into an international definition of the profession.",
+  "es": {
+   "note": "Al multiplicarse las sociedades nacionales de diseño, se federaron en 1957, y el ICSID convirtió sus reclamos separados en una definición internacional de la profesión."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mainframe-computing",
+  "item": "design-methods",
+  "note": "Operations research and computing suggested breaking a problem into steps and data, and design methodologists applied the same idea to the design process.",
+  "es": {
+   "note": "La investigación operativa y la computación sugirieron descomponer un problema en pasos y datos, y los metodólogos del diseño aplicaron la misma idea al proceso de diseño."
+  },
+  "refs": []
+ }
+]

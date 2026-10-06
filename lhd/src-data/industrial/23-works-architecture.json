@@ -1,0 +1,658 @@
+{
+ "works": [
+  {
+   "id": "ironbridge-1779",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "bridge",
+   "title": "Iron Bridge, Coalbrookdale",
+   "designers": [],
+   "maker": "Abraham Darby III",
+   "year": 1779,
+   "date": "1779–81",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Cast iron",
+   "tech": [
+    "cast-iron"
+   ],
+   "key": "The first major bridge built wholly of cast iron, over the River Severn at Coalbrookdale, built by Abraham Darby III to a design proposed by Thomas Farnolls Pritchard.[1][2][3]",
+   "more": "Pritchard, an architect from Shrewsbury, proposed the iron bridge in 1773,[1][3] and the ironmaster Abraham Darby III oversaw the casting from November 1777;[3] the bridge opened on 1 January 1781, and 1779 is the date usually given.[1][2] The main span is about 30 metres,[1][2] and the members were jointed with mortises, tenons, dovetails and wedges, as in carpentry.[2] It was among the first to use cast iron structurally.[3] The bridge is closed to vehicles and lies within the Ironbridge Gorge World Heritage Site.[1][3]",
+   "status": "Preserved as a monument, open to pedestrians, in a World Heritage site.",
+   "es": {
+    "title": "Puente de hierro de Coalbrookdale",
+    "date": "1779–81",
+    "materials": "Hierro fundido",
+    "key": "El primer gran puente construido enteramente de hierro fundido, sobre el río Severn en Coalbrookdale, construido por Abraham Darby III sobre un diseño propuesto por Thomas Farnolls Pritchard.[1][2][3]",
+    "more": "Pritchard, arquitecto de Shrewsbury, propuso el puente de hierro en 1773,[1][3] y el maestro del hierro Abraham Darby III dirigió la fundición desde noviembre de 1777;[3] el puente se inauguró el 1 de enero de 1781 y 1779 es la fecha que suele darse.[1][2] El vano principal mide unos 30 metros[1][2] y los miembros se unieron con espigas, cajas, colas de milano y cuñas, como en carpintería.[2] Fue de los primeros en usar el hierro fundido como material estructural.[3] El puente está cerrado a vehículos y dentro del sitio Patrimonio Mundial de Ironbridge Gorge.[1][3]",
+    "status": "Conservado como monumento, abierto a peatones, dentro de un sitio Patrimonio Mundial.",
+    "short": "Puente de hierro"
+   },
+   "refs": [
+    {
+     "label": "Historic England, «The Iron Bridge» (List entry 1015325)",
+     "url": "https://www.historicengland.org.uk/listing/the-list/list-entry/1015325",
+     "checks": "Diseño de Thomas Pritchard, arquitecto de Shrewsbury, propuesto en 1773; Abraham Darby III dirigió la obra con hierro de la Coalbrookdale Company; fecha 1779; unos 100 pies de luz; «el primer puente completamente de hierro fundido»; cerrado al tráfico, peatonal, en el sitio Patrimonio Mundial (1987). ⚠ no menciona las juntas de carpintería.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Bridgeweb, «Iron Bridge»",
+     "url": "https://www.bridgeweb.com/Iron-works/5047",
+     "checks": "Obra de noviembre de 1777 a diciembre de 1780, apertura el 1 de enero de 1781; luz principal de 30,6 m; juntas de carpintería (espigas, cajas, colas de milano, cuñas) por el diseño de Thomas Gregory, modelista de madera. ⚠ sitio de ingeniería; no nombra a Pritchard ni a Darby.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Ironbridge Gorge Museum Trust, «The History of the Iron Bridge»",
+     "url": "https://www.ironbridge.org.uk/about-us/the-history-of-the-iron-bridge",
+     "checks": "Pritchard propuso el diseño en 1773; Darby III dirigió la producción desde noviembre de 1777; construido en 1779, primero en usar hierro fundido estructuralmente; Patrimonio Mundial UNESCO.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Iron Bridge"
+  },
+  {
+   "id": "osterley-etruscan-room-1775",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "interior",
+   "title": "Etruscan Room at Osterley Park",
+   "designers": [
+    "robert-adam"
+   ],
+   "maker": "Robert Adam",
+   "client": null,
+   "year": 1775,
+   "date": "c. 1775",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Painted plaster walls and ceiling, decorated furniture",
+   "tech": [],
+   "key": "A dressing room at Osterley Park near London in which Robert Adam painted walls, ceiling and furnishings in a single ‘Etruscan’ scheme.",
+   "more": "Adam remodelled Osterley Park for the Child family from the 1760s, and the Etruscan Room dates from the mid-1770s. Its painted decoration was based on motifs from Greek vases, then believed to be Etruscan, and from Roman and Pompeian wall painting. Adam designed the whole interior as one composition, from walls and ceiling to the furniture, rather than treating each element on its own.",
+   "status": "The house belongs to the National Trust and can be visited.",
+   "es": {
+    "title": "Sala etrusca de Osterley Park",
+    "date": "hacia 1775",
+    "materials": "Muros y cielo de yeso pintados, muebles decorados",
+    "key": "Un tocador de Osterley Park, cerca de Londres, donde Robert Adam pintó muros, cielo y muebles en un solo esquema «etrusco».",
+    "more": "Adam remodeló Osterley Park para la familia Child desde la década de 1760, y la sala etrusca data de mediados de la de 1770. Su decoración pintada se basó en motivos de vasos griegos, que entonces se creían etruscos, y en la pintura mural romana y pompeyana. Adam diseñó el interior entero como una sola composición, de los muros y el cielo a los muebles, en vez de tratar cada elemento por separado.",
+    "status": "La casa pertenece al National Trust y se puede visitar.",
+    "short": "Sala etrusca Osterley"
+   },
+   "refs": [],
+   "short": "Osterley Etruscan Room"
+  },
+  {
+   "id": "malmaison-1800",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "interior",
+   "title": "Interiors of Malmaison",
+   "designers": [
+    "percier-fontaine"
+   ],
+   "maker": "Charles Percier and Pierre Fontaine",
+   "client": "Joséphine and Napoleon Bonaparte",
+   "year": 1800,
+   "date": "1800",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Painted and gilded woodwork, silk and printed fabrics, mahogany furniture",
+   "tech": [],
+   "key": "The château near Paris that Joséphine Bonaparte bought in 1799 and that Percier and Fontaine redecorated as a Consulate-era setting for the Bonapartes.",
+   "more": "Joséphine bought Malmaison in 1799, and Percier and Fontaine worked on its interiors in the years that followed, including a council room in the form of a military tent. They adapted antique models to furniture and decoration, in a style that would later be called Empire. The house served as the seat of government life under the Consulate before the Tuileries became the main residence.",
+   "status": "Now a museum, the Musée national des châteaux de Malmaison et Bois-Préau.",
+   "es": {
+    "title": "Interiores de Malmaison",
+    "date": "1800",
+    "materials": "Maderas pintadas y doradas, sedas y telas estampadas, muebles de caoba",
+    "key": "El château cerca de París que Joséphine Bonaparte compró en 1799 y que Percier y Fontaine redecoraron como escenario de los Bonaparte en el Consulado.",
+    "more": "Joséphine compró Malmaison en 1799, y Percier y Fontaine trabajaron en sus interiores en los años siguientes, entre ellos una sala del consejo con forma de tienda de campaña militar. Adaptaron modelos antiguos a los muebles y la decoración, en un estilo que luego se llamaría Imperio. La casa fue sede de la vida de gobierno durante el Consulado, antes de que las Tullerías pasaran a ser la residencia principal.",
+    "status": "Hoy es museo: el Musée national des châteaux de Malmaison et Bois-Préau.",
+    "short": "Interiores Malmaison"
+   },
+   "refs": [],
+   "short": "Malmaison interiors"
+  },
+  {
+   "id": "altes-museum-1830",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Altes Museum, Berlin",
+   "designers": [
+    "karl-friedrich-schinkel"
+   ],
+   "maker": "Karl Friedrich Schinkel",
+   "client": "Kingdom of Prussia",
+   "year": 1830,
+   "date": "1825–1830",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Stone, stuccoed masonry",
+   "tech": [],
+   "key": "Schinkel’s museum on the Lustgarten in Berlin, with a long Ionic colonnade in front and a domed rotunda at its centre.",
+   "more": "Designed by Schinkel for the Prussian state and opened in 1830, it was built as a public museum for the royal collection of antiquities and paintings. Its front is a colonnade of eighteen Ionic columns facing the Lustgarten, and inside a central rotunda inspired by the Pantheon leads to the galleries. It is one of the best known buildings of German neoclassicism.",
+   "status": "Standing; part of Museum Island, restored after Second World War damage.",
+   "es": {
+    "title": "Altes Museum de Berlín",
+    "date": "1825–1830",
+    "materials": "Piedra, mampostería estucada",
+    "key": "El museo de Schinkel en el Lustgarten de Berlín, con una larga columnata jónica al frente y una rotonda con cúpula en el centro.",
+    "more": "Proyectado por Schinkel para el Estado prusiano e inaugurado en 1830, se construyó como museo público para la colección real de antigüedades y pinturas. Su fachada es una columnata de dieciocho columnas jónicas frente al Lustgarten, y dentro una rotonda central inspirada en el Panteón da paso a las galerías. Es uno de los edificios más conocidos del neoclasicismo alemán.",
+    "status": "Existe; forma parte de la Isla de los Museos y fue restaurado tras los daños de la Segunda Guerra Mundial."
+   },
+   "refs": []
+  },
+  {
+   "id": "bauakademie-1836",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Bauakademie, Berlin",
+   "designers": [
+    "karl-friedrich-schinkel"
+   ],
+   "maker": "Karl Friedrich Schinkel",
+   "client": "Kingdom of Prussia",
+   "year": 1836,
+   "date": "1832–1836",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Red brick with terracotta ornament, iron-reinforced vaults",
+   "tech": [],
+   "key": "Schinkel’s square red-brick building for the Prussian building academy, whose plain grid of bays shows its structure on the outside.",
+   "more": "Built in 1832–36 as home of the Prussian building academy, it was a four-storey block of brick whose facades repeated the same structural bay, with terracotta ornament. Schinkel had visited England in 1826 and looked closely at its brick factories and warehouses. The building was damaged in the Second World War and was demolished in 1962.",
+   "status": "Demolished in 1962; its reconstruction has long been debated.",
+   "es": {
+    "title": "Bauakademie de Berlín",
+    "date": "1832–1836",
+    "materials": "Ladrillo rojo con ornamento de terracota, bóvedas reforzadas con hierro",
+    "key": "El edificio cuadrado de ladrillo rojo de Schinkel para la academia prusiana de arquitectura, cuya trama simple de vanos muestra la estructura por fuera.",
+    "more": "Construido en 1832–36 como sede de la academia prusiana de arquitectura, era un bloque de ladrillo de cuatro pisos cuyas fachadas repetían el mismo vano estructural, con ornamento de terracota. Schinkel había visitado Inglaterra en 1826 y observó con atención sus fábricas y almacenes de ladrillo. El edificio quedó dañado en la Segunda Guerra Mundial y se demolió en 1962.",
+    "status": "Demolido en 1962; su reconstrucción se discute desde hace años."
+   },
+   "refs": []
+  },
+  {
+   "id": "westminster-1840",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Palace of Westminster",
+   "designers": [
+    "pugin"
+   ],
+   "maker": "Charles Barry",
+   "client": "Parliament of the United Kingdom",
+   "year": 1840,
+   "date": "1840–1870",
+   "production": {
+    "from": 1840,
+    "to": 1870,
+    "note": "construction began in 1840; the main work was finished by around 1870"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Magnesian limestone, cast iron, tiles, wallpapers, carved oak",
+   "tech": [
+    "iron-steel-frame"
+   ],
+   "key": "The Gothic Parliament on the Thames, rebuilt after the fire of 1834 to plans by Charles Barry, with interiors and details by A. W. N. Pugin.[1][3]",
+   "more": "A fire in 1834 destroyed nearly all of the old palace, and the 1835 competition for its replacement required designs in the Gothic or Elizabethan style.[1] Charles Barry won, and Pugin, commissioned in 1844 for the interiors, designed carved panelling, wallpapers, painted ceilings, encaustic floor tiles and a huge range of furniture.[1][3] The first stone was laid in 1840, most of the construction was done by 1860 and the Palace was complete in 1870.[2] It is regarded as one of the finest examples of Gothic Revival architecture in the world.[2]",
+   "status": "Still the seat of the UK Parliament; major restoration work is under way.",
+   "es": {
+    "title": "Palacio de Westminster",
+    "date": "1840–1870",
+    "materials": "Caliza magnesiana, hierro fundido, baldosas, papeles murales, roble tallado",
+    "key": "El Parlamento gótico a orillas del Támesis, reconstruido tras el incendio de 1834 según planos de Charles Barry, con interiores y detalles de A. W. N. Pugin.[1][3]",
+    "more": "Un incendio destruyó en 1834 casi todo el antiguo palacio, y el concurso de 1835 para reemplazarlo exigía diseños de estilo gótico o isabelino.[1] Ganó Charles Barry, y Pugin, encargado en 1844 de los interiores, diseñó paneles tallados, papeles murales, cielos pintados, baldosas de encáustica y una enorme variedad de muebles.[1][3] La primera piedra se colocó en 1840, la mayor parte de la obra estaba hecha hacia 1860 y el Palacio quedó terminado en 1870.[2] Se le considera uno de los mejores ejemplos de arquitectura neogótica del mundo.[2]",
+    "status": "Sigue siendo sede del Parlamento del Reino Unido; se realizan grandes obras de restauración.",
+    "production": {
+     "note": "las obras comenzaron en 1840; lo principal terminó hacia 1870"
+    }
+   },
+   "refs": [
+    {
+     "label": "UK Parliament, «Designing a new Palace of Westminster»",
+     "url": "https://webtest.parliament.uk/about/living-heritage/building/palace/big-ben/building-clock-tower/designing-a-new-palace-of-westminster",
+     "checks": "Incendio de 1834 que destruyó casi todo el palacio; concurso de 1835 que exigía estilo «gótico o isabelino»; Barry ganó; Pugin colaboró en los elementos decorativos. ⚠ no da fechas de obra.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Restoration and Renewal Programme (UK Parliament), «Barry and Pugin»",
+     "url": "https://www.restorationandrenewal.uk/palace/extraordinary-history/barry-and-pugin",
+     "checks": "Primera piedra en 1840; obra en su mayor parte terminada en 1860 y completa en 1870; estilo neogótico, «uno de los mejores ejemplos del mundo». ⚠ no trata los interiores de Pugin ni procesos industriales.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "UK Parliament, Heritage Collections, «The Architects of the Houses of Parliament: Barry, Pugin and Scott»",
+     "url": "https://heritagecollections.parliament.uk/stories/the-architects-barry-pugin-and-scott/",
+     "checks": "Barry ganó el concurso; Pugin, encargado en 1844 de los interiores: paneles tallados, papeles murales, cielos pintados y dorados, baldosas de encáustica y muebles. ⚠ no menciona fabricación industrial.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "gothic-revival"
+   ]
+  },
+  {
+   "id": "strawberry-hill-1750",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Strawberry Hill",
+   "designers": [],
+   "maker": "Horace Walpole",
+   "client": "Horace Walpole",
+   "year": 1750,
+   "date": "1749–1776",
+   "production": {
+    "from": 1750,
+    "to": 1776,
+    "note": "remodelled in stages from 1749; the main building campaigns were over by the mid-1770s"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Brick and stucco with Gothic details in plaster, wood and papier-mâché",
+   "tech": [],
+   "key": "The house at Twickenham that Horace Walpole turned into a small Gothic castle, helped by friends who drew designs from medieval tombs and screens.",
+   "more": "Walpole bought the house in 1749 and rebuilt it in stages as a ‘Gothic’ villa, with John Chute and Richard Bentley among those who drew designs. Many details were copied in plaster and wood from medieval tombs and cathedral screens. The house was an early landmark of the Gothic Revival, and Walpole’s novel The Castle of Otranto (1764) shares its taste for the medieval.",
+   "status": "Standing and restored; open to visitors.",
+   "es": {
+    "title": "Strawberry Hill",
+    "date": "1749–1776",
+    "materials": "Ladrillo y estuco con detalles góticos en yeso, madera y papel maché",
+    "key": "La casa de Twickenham que Horace Walpole convirtió en un pequeño castillo gótico, con ayuda de amigos que dibujaron diseños a partir de tumbas y coros medievales.",
+    "more": "Walpole compró la casa en 1749 y la reconstruyó por etapas como una villa «gótica», con John Chute y Richard Bentley entre quienes dibujaron diseños. Muchos detalles se copiaron en yeso y madera de tumbas y coros de catedrales medievales. La casa fue un hito temprano del neogótico, y la novela de Walpole El castillo de Otranto (1764) comparte su gusto por lo medieval.",
+    "status": "Existe y está restaurada; se puede visitar.",
+    "production": {
+     "note": "remodelada por etapas desde 1749; las obras principales terminaron hacia mediados de la década de 1770"
+    }
+   },
+   "refs": [],
+   "movements": [
+    "gothic-revival"
+   ]
+  },
+  {
+   "id": "blenheim-park-1764",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "garden",
+   "title": "Blenheim Park landscape",
+   "designers": [
+    "capability-brown"
+   ],
+   "year": 1764,
+   "date": "c. 1764–74",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Earth, water, turf and planted trees",
+   "tech": [],
+   "key": "Lancelot ‘Capability’ Brown’s remodelling of the park at Blenheim Palace, which replaced formal layouts with lake, lawns and clumps of trees.",
+   "more": "Brown began work at Blenheim, the Duke of Marlborough’s seat in Oxfordshire, in 1764 and kept at it until about 1774. He dammed the stream below the palace to make a broad lake, and shaped the surrounding ground into smooth lawns, belts and clumps of trees that frame successive views. It is one of the largest and best known examples of the English landscape garden.",
+   "status": "The park survives and is part of the Blenheim Palace World Heritage site.",
+   "movements": [
+    "english-landscape-garden"
+   ],
+   "es": {
+    "title": "Paisaje del parque de Blenheim",
+    "date": "c. 1764–74",
+    "materials": "Tierra, agua, césped y árboles plantados",
+    "key": "La remodelación de Lancelot «Capability» Brown del parque del palacio de Blenheim, que reemplazó los trazados formales por un lago, praderas y bosquetes.",
+    "more": "Brown empezó a trabajar en Blenheim, la residencia del duque de Marlborough en Oxfordshire, en 1764 y siguió hasta c. 1774. Represó el arroyo bajo el palacio para formar un lago amplio y modeló el terreno en praderas suaves, cinturones y bosquetes de árboles que enmarcan vistas sucesivas. Es uno de los ejemplos más grandes y conocidos del jardín paisajista inglés.",
+    "status": "El parque se conserva y forma parte del sitio Patrimonio Mundial del palacio de Blenheim.",
+    "short": "Parque de Blenheim"
+   },
+   "refs": [],
+   "short": "Blenheim Park"
+  },
+  {
+   "id": "saline-royale-1779",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Royal Saltworks of Arc-et-Senans",
+   "designers": [
+    "claude-nicolas-ledoux"
+   ],
+   "year": 1779,
+   "date": "1775–79",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Stone, brick and timber",
+   "tech": [],
+   "key": "Claude-Nicolas Ledoux’s royal saltworks in Franche-Comté, a semicircular industrial complex planned around the director’s house and the works.",
+   "more": "Ledoux built the saltworks near Arc-et-Senans in 1775–79 for the French crown, which taxed and controlled salt. The buildings, workshops and housing for the workers stand in a half-circle facing the director’s house at the centre, so that work, living quarters and supervision were laid out in one plan. Ledoux later imagined an ideal city, Chaux, as an extension of the complex, but only the saltworks was built.",
+   "status": "Preserved; the complex is a World Heritage site and is open to visitors.",
+   "es": {
+    "title": "Salinas reales de Arc-et-Senans",
+    "date": "1775–79",
+    "materials": "Piedra, ladrillo y madera",
+    "key": "Las salinas reales de Claude-Nicolas Ledoux en el Franco Condado, un conjunto industrial semicircular planeado en torno a la casa del director y las fábricas.",
+    "more": "Ledoux construyó las salinas cerca de Arc-et-Senans en 1775–79 para la corona francesa, que gravaba y controlaba la sal. Los edificios, los talleres y las viviendas de los trabajadores se disponen en medio círculo frente a la casa del director, en el centro, de modo que trabajo, vivienda y vigilancia quedaron en un mismo plano. Ledoux imaginó después una ciudad ideal, Chaux, como ampliación del conjunto, pero solo se construyeron las salinas.",
+    "status": "Se conserva; el conjunto es Patrimonio Mundial y está abierto al público.",
+    "short": "Salinas reales"
+   },
+   "refs": [],
+   "movements": [
+    "revolutionary-architecture"
+   ],
+   "short": "Royal Saltworks"
+  },
+  {
+   "id": "cenotaph-newton-1784",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "monument",
+   "title": "Cenotaph for Newton (project)",
+   "designers": [
+    "etienne-louis-boullee"
+   ],
+   "year": 1784,
+   "date": "1784",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Ink and wash on paper (unbuilt project)",
+   "tech": [],
+   "key": "Étienne-Louis Boullée’s unbuilt project of 1784 for a monument to Isaac Newton, a colossal hollow sphere with an interior meant to represent the universe.[1][2]",
+   "more": "The sphere would have been nearly 500 feet in height and diameter.[3] It was surrounded by cypress trees, and its shell was pierced with holes so that daylight would suggest a starry sky; at night an armillary sphere hung inside.[2][3] The project was never built.[1][2] Boullée’s drawings, about a hundred, were left to the Bibliothèque nationale,[2] and Britannica calls this his most famous visionary project.[1]",
+   "status": "Never built; the drawings are kept in the Bibliothèque nationale de France.",
+   "movements": [
+    "revolutionary-architecture"
+   ],
+   "es": {
+    "title": "Cenotafio de Newton (proyecto)",
+    "date": "1784",
+    "materials": "Tinta y aguada sobre papel (proyecto no construido)",
+    "key": "El proyecto no construido de Étienne-Louis Boullée de 1784 para un monumento a Isaac Newton: una esfera hueca colosal cuyo interior debía representar el universo.[1][2]",
+    "more": "La esfera habría medido casi 500 pies de alto y de diámetro.[3] Estaba rodeada de cipreses y su cáscara estaba perforada para que la luz del día evocara un cielo estrellado; de noche, una esfera armilar colgaba en el interior.[2][3] El proyecto nunca se construyó.[1][2] Los dibujos de Boullée, unos cien, quedaron legados a la Bibliothèque nationale,[2] y la Britannica lo llama su proyecto visionario más famoso.[1]",
+    "status": "Nunca se construyó; los dibujos se conservan en la Bibliothèque nationale de France.",
+    "short": "Cenotafio de Newton"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Étienne-Louis Boullée»",
+     "url": "https://britannica.com/print/article/75559",
+     "checks": "Diseño de 1784 de un monumento esférico colosal a Newton, no construido; interior de globo hueco que simboliza el universo; su proyecto visionario más famoso.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Public Domain Review, «Designing the Sublime: Boullée and Ledoux’s Architectural Revolution»",
+     "url": "https://publicdomainreview.org/essay/designing-the-sublime",
+     "checks": "Cenotafio de 1784: esfera hueca rodeada de cipreses, cáscara perforada en patrón de constelaciones para evocar un cielo estrellado; nunca construido; unos cien dibujos legados a la Bibliothèque nationale. ⚠ ensayo divulgativo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "History of Information (Jeremy Norman), «Boullée»",
+     "url": "https://historyofinformation.com/detail.php?id=426",
+     "checks": "Cenotafio de 1784 de casi 500 pies de alto y de diámetro; bóveda perforada para simular noche estrellada de día; esfera armilar nocturna; dibujos en la BnF. ⚠ fuente secundaria (bibliografía comercial).",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Cenotaph for Newton"
+  },
+  {
+   "id": "pantheon-paris-1790",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "church",
+   "title": "Panthéon, Paris",
+   "designers": [
+    "soufflot"
+   ],
+   "year": 1764,
+   "date": "1757–90",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Stone",
+   "tech": [],
+   "key": "Soufflot’s church of Sainte-Geneviève in Paris, with a Roman temple portico and a great dome, completed in 1790 and soon made a secular mausoleum.",
+   "more": "Jacques-Germain Soufflot began the church in 1757 and died in 1780, and others, among them Jean-Baptiste Rondelet, completed it in 1790. He joined a classical portico of Corinthian columns to a Greek-cross plan and aimed at the lightness of Gothic structure. In 1791 the Revolution turned the church into the Panthéon, a burial place for great men of the nation.",
+   "status": "Preserved; it is still the Panthéon, where notable French figures are buried.",
+   "es": {
+    "title": "Panteón de París",
+    "date": "1757–90",
+    "materials": "Piedra",
+    "key": "La iglesia de Santa Genoveva de Soufflot en París, con pórtico de templo romano y gran cúpula, terminada en 1790 y pronto convertida en mausoleo laico.",
+    "more": "Jacques-Germain Soufflot comenzó la iglesia en 1757 y murió en 1780; otros, entre ellos Jean-Baptiste Rondelet, la terminaron en 1790. Unió un pórtico clásico de columnas corintias a una planta de cruz griega y buscó la ligereza de la estructura gótica. En 1791 la Revolución convirtió la iglesia en el Panteón, lugar de sepultura de los grandes hombres de la nación.",
+    "status": "Se conserva; sigue siendo el Panteón, donde reposan figuras destacadas de Francia."
+   },
+   "refs": []
+  },
+  {
+   "id": "la-moneda-1805",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "palace",
+   "title": "La Moneda (Real Casa de Moneda), Santiago",
+   "designers": [
+    "joaquin-toesca"
+   ],
+   "year": 1784,
+   "date": "1784–1805",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Brick and stone masonry",
+   "tech": [],
+   "key": "The neoclassical royal mint of Santiago, designed by Joaquín Toesca and finished in c. 1805, later the seat of the Chilean presidency.",
+   "more": "Toesca, an Italian-born architect in the service of the Spanish crown, drew up the plans for the Real Casa de Moneda in the 1780s, and it was built over many years and finished in c. 1805 after his death, under Juan José de Goycolea. Its long, plain, symmetrical facade with a central pediment is a landmark of neoclassical architecture in Spanish America. From 1846 it was the seat of the government of Chile, and it was bombed in 1973 and later restored.",
+   "status": "Preserved; it is the Palace of La Moneda, the seat of the President of Chile.",
+   "es": {
+    "title": "La Moneda (Real Casa de Moneda), Santiago",
+    "date": "1784–1805",
+    "materials": "Albañilería de ladrillo y piedra",
+    "key": "La Real Casa de Moneda neoclásica de Santiago, proyectada por Joaquín Toesca y terminada c. 1805, luego sede de la presidencia de Chile.",
+    "more": "Toesca, arquitecto de origen italiano al servicio de la Corona española, trazó los planos de la Real Casa de Moneda en la década de 1780; se construyó a lo largo de muchos años y se terminó c. 1805, tras su muerte, bajo Juan José de Goycolea. Su fachada larga, sobria y simétrica, con un frontón central, es un hito de la arquitectura neoclásica de la América española. Desde 1846 fue sede del gobierno de Chile; fue bombardeada en 1973 y luego restaurada.",
+    "status": "Se conserva; es el Palacio de La Moneda, sede del presidente de Chile.",
+    "short": "La Moneda"
+   },
+   "refs": [],
+   "short": "La Moneda"
+  },
+  {
+   "id": "soane-museum-1812",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house-museum",
+   "title": "Sir John Soane's Museum",
+   "designers": [
+    "john-soane"
+   ],
+   "year": 1812,
+   "date": "1792–1824",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Brick, plaster and stone, with rooflights",
+   "tech": [],
+   "key": "The London house of the architect John Soane, rebuilt over three decades as a home, office and museum for his collection of antiquities and casts.",
+   "more": "Soane rebuilt and joined three houses at Lincoln’s Inn Fields between 1792 and 1824, filling them with casts, marbles, models and paintings. Rooms are lit from above by domes and skylights and enlarged by mirrors, so that light and space change from room to room. Under an Act of Parliament of 1833 he left the house to the nation as a museum, and it has been kept largely as he arranged it.",
+   "status": "Preserved as a museum, with Soane’s arrangement largely kept.",
+   "es": {
+    "title": "Casa-museo de Sir John Soane",
+    "date": "1792–1824",
+    "materials": "Ladrillo, yeso y piedra, con lucernarios",
+    "key": "La casa londinense del arquitecto John Soane, reconstruida a lo largo de tres décadas como vivienda, oficina y museo de su colección de antigüedades y vaciados.",
+    "more": "Soane reconstruyó y unió tres casas en Lincoln’s Inn Fields entre 1792 y 1824, y las llenó de vaciados, mármoles, modelos y pinturas. Las salas reciben luz desde arriba por cúpulas y lucernarios y se amplían con espejos, de modo que la luz y el espacio cambian de una sala a otra. Por una ley del Parlamento de 1833 legó la casa a la nación como museo, y se ha conservado en buena parte como él la dispuso.",
+    "status": "Se conserva como museo, en buena parte con la disposición de Soane.",
+    "short": "Museo Soane"
+   },
+   "refs": [],
+   "short": "Soane Museum"
+  },
+  {
+   "id": "royal-pavilion-1823",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "palace",
+   "title": "Royal Pavilion, Brighton",
+   "designers": [
+    "john-nash"
+   ],
+   "year": 1823,
+   "date": "1815–23",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Brick and stucco over an iron frame, with cast-iron details",
+   "tech": [],
+   "key": "The seaside palace of the Prince Regent in Brighton, remodelled by John Nash with Indian-style domes outside and Chinese-style rooms inside.",
+   "more": "Nash remodelled an earlier villa between 1815 and 1823 for the Prince Regent, later George IV, covering it in onion domes and minarets of Indian inspiration. The interiors were decorated in a Chinese taste, with elaborate painted and gilded rooms. It stands as the most striking example of the eclectic taste of the Regency.",
+   "status": "Preserved and open as a museum, owned by the city of Brighton and Hove.",
+   "movements": [
+    "empire-regency",
+    "historicism"
+   ],
+   "es": {
+    "title": "Pabellón Real de Brighton",
+    "date": "1815–23",
+    "materials": "Ladrillo y estuco sobre estructura de hierro, con detalles de hierro fundido",
+    "key": "El palacio costero del príncipe regente en Brighton, remodelado por John Nash con cúpulas de estilo indio por fuera y salas de estilo chino por dentro.",
+    "more": "Nash remodeló entre 1815 y 1823 una villa anterior para el príncipe regente, luego Jorge IV, y la cubrió de cúpulas bulbosas y minaretes de inspiración india. Los interiores se decoraron con gusto chino, en salas pintadas y doradas con gran profusión. Es el ejemplo más llamativo del gusto ecléctico del Regency.",
+    "status": "Se conserva y está abierto como museo; pertenece a la ciudad de Brighton y Hove.",
+    "short": "Pabellón Real"
+   },
+   "refs": [],
+   "short": "Royal Pavilion"
+  },
+  {
+   "id": "university-of-virginia-1826",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "campus",
+   "title": "University of Virginia (Rotunda and Lawn)",
+   "designers": [
+    "thomas-jefferson"
+   ],
+   "year": 1826,
+   "date": "1817–26",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Brick with stone and wood details",
+   "tech": [],
+   "key": "Thomas Jefferson’s campus at Charlottesville, a lawn lined by pavilions and ranges of rooms, closed at one end by the domed Rotunda.",
+   "more": "Jefferson planned the university and designed its buildings, built between 1817 and 1826: ten pavilions, each in a different classical manner, linked by colonnades with students’ rooms, around a grassy lawn. The Rotunda at its head, a library under a dome, is based on the Pantheon in Rome. The university opened in 1825.",
+   "status": "Preserved and in use as a university; with Monticello it is a World Heritage site.",
+   "es": {
+    "title": "Universidad de Virginia (Rotonda y Lawn)",
+    "date": "1817–26",
+    "materials": "Ladrillo con detalles de piedra y madera",
+    "key": "El campus de Thomas Jefferson en Charlottesville: un prado flanqueado por pabellones y galerías de habitaciones, cerrado en un extremo por la Rotonda con cúpula.",
+    "more": "Jefferson planeó la universidad y diseñó sus edificios, construidos entre 1817 y 1826: diez pabellones, cada uno en una manera clásica distinta, unidos por columnatas con habitaciones de estudiantes, en torno a un prado. La Rotonda de la cabecera, una biblioteca bajo una cúpula, se basa en el Panteón de Roma. La universidad abrió en 1825.",
+    "status": "Se conserva y sigue en uso como universidad; con Monticello es Patrimonio Mundial.",
+    "short": "Univ. de Virginia"
+   },
+   "refs": [],
+   "short": "Univ. of Virginia"
+  },
+  {
+   "id": "bibliotheque-sainte-genevieve-1850",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "library",
+   "title": "Bibliothèque Sainte-Geneviève",
+   "designers": [
+    "henri-labrouste"
+   ],
+   "year": 1850,
+   "date": "1838–50",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Stone, cast iron",
+   "tech": [
+    "cast-iron"
+   ],
+   "key": "Henri Labrouste’s library in Paris, with an austere arched stone facade carved with authors’ names and cast-iron columns and arches left exposed.[1][2]",
+   "more": "Britannica dates the library’s design to 1838–39 and its construction to 1843–50.[1] Its austere arcuated facade, inspired by Alberti, is carved with the names of authors.[1] Inside, the iron structure, columns and arches, is exposed rather than hidden, and Britannica admires the sensitive use of it together with the restraint of the decoration.[1][2] It is a pioneering example of iron shown openly in a major building.[1]",
+   "status": "Preserved; it is still a library, now part of the Sainte-Geneviève library of the University of Paris.",
+   "es": {
+    "title": "Biblioteca de Santa Genoveva",
+    "date": "1838–50",
+    "materials": "Piedra, hierro fundido",
+    "key": "La biblioteca de Henri Labrouste en París, con una austera fachada arqueada de piedra con nombres de autores tallados, y columnas y arcos de hierro fundido a la vista.[1][2]",
+    "more": "La Britannica fecha el proyecto de la biblioteca en 1838–39 y su construcción en 1843–50.[1] Su austera fachada arqueada, inspirada en Alberti, lleva tallados los nombres de autores.[1] En el interior, la estructura de hierro, columnas y arcos, queda a la vista y no escondida, y la Britannica admira su uso sensible junto con la sobriedad de la decoración.[1][2] Es un ejemplo pionero de hierro mostrado abiertamente en un edificio mayor.[1]",
+    "status": "Se conserva; sigue siendo biblioteca, hoy parte de la Biblioteca de Santa Genoveva de la Universidad de París.",
+    "short": "Sainte-Geneviève"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Library of Sainte-Geneviève»",
+     "url": "https://www.britannica.com/place/Library-of-Sainte-Genevieve",
+     "checks": "Proyectada en 1838–39 y construida de 1843 a 1850; fachada arqueada austera inspirada en Alberti con los nombres de autores tallados; columnas y arcos de hierro a la vista. ⚠ el resumen consultado no describe la sala de lectura ni las bóvedas.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Henri Labrouste»",
+     "url": "https://www.britannica.com/biography/Henri-Labrouste",
+     "checks": "Construida en 1843–50; admirada por la sobriedad de la decoración y el uso sensible de elementos estructurales de hierro a la vista (columnas y arcos); Labrouste pionero del hierro estructural.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Sainte-Geneviève"
+  }
+ ]
+}

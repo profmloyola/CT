@@ -1,0 +1,975 @@
+{
+ "movements": [
+  {
+   "id": "macro-modernism",
+   "level": "essential",
+   "macro": true,
+   "disciplines": [
+    "graphic",
+    "product",
+    "fashion",
+    "architecture"
+   ],
+   "start": 1907,
+   "end": 1970,
+   "fadeIn": 7,
+   "fadeOut": 10,
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [
+    "DE",
+    "FR",
+    "NL",
+    "RU",
+    "US"
+   ],
+   "parts": [
+    "futurism-typography",
+    "de-stijl",
+    "constructivism",
+    "bauhaus-movement",
+    "new-typography",
+    "new-objectivity",
+    "new-vision",
+    "international-style",
+    "good-design",
+    "ulm-functionalism",
+    "international-typographic-style",
+    "corporate-identity-design",
+    "suprematism",
+    "plakatstil",
+    "new-york-school-graphic"
+   ],
+   "name": "Modernism",
+   "short": "Modernism",
+   "key": "The broad movement that made the machine the model of design: standard types, new materials and elementary forms, in the belief that design could rationalise and improve everyday life for everyone.[1][2][4][5]",
+   "traits": [
+    "Form derived from function, use and production rather than from historical styles",
+    "Little or no applied ornament[1]",
+    "Standard types, modules and series production[1][2]",
+    "Steel, glass, concrete, plywood and other industrial materials[1][4]",
+    "Geometric form, sans-serif type and asymmetric layouts[1][3]",
+    "A universal language meant to cross national borders"
+   ],
+   "context": "The machine becomes the model: standardisation, new materials and the avant-gardes redefine what design is, while two wars, the Depression and dictatorships push it toward housing, propaganda and mass consumption. From the Deutscher Werkbund (1907) to the crisis of functionalism in the 1960s, it moved from the avant-gardes and the schools of the inter-war years[1][5] to the corporate and state design of the post-war decades.",
+   "shift": "Design stopped being the decoration of objects made by industry and became the planning of the objects themselves, of their production and of the environment where people live.[1][2]",
+   "shifts": [
+    "Designers adopt industry as their medium: standard types, tubular steel, plywood and mass production.",
+    "The avant-gardes give design a new visual language: geometry, photomontage, asymmetric typography.",
+    "Schools, exhibitions and museums (Bauhaus, Vkhutemas, Weissenhof, MoMA) turn a practice into a doctrine and a profession.",
+    "Social housing, the electrified home and women’s new roles make the dwelling and its equipment a central design problem.",
+    "Depression, dictatorship and war tie design to selling, propaganda, rationing and exile, which carries modernism across the Atlantic."
+   ],
+   "context_summary": {
+    "political": "Two world wars, the Russian Revolution, the Weimar Republic, Fascism, Nazism and the Spanish Civil War move design between propaganda, social reform and exile.",
+    "economic": "Fordism, rationalisation, credit and the 1929 crash make efficiency an aesthetic and design a tool for selling; war economies then impose scarcity and standards.",
+    "social": "Housing shortages, women’s work, hygiene and the electrified home call for small, standardised, healthy dwellings and equipment; exile scatters designers.",
+    "cultural": "The avant-gardes, cinema, the illustrated press and great exhibitions spread a modern visual language, from Paris to São Paulo and Mexico City.",
+    "technological": "Cars, aviation, radio, aerodynamics and electric transit change speed, form and the city."
+   },
+   "wiki": "Modernism",
+   "es": {
+    "name": "Modernismo",
+    "short": "Modernismo",
+    "key": "El gran movimiento que hizo de la máquina el modelo del diseño: tipos estándar, materiales nuevos y formas elementales, con la convicción de que el diseño podía racionalizar y mejorar la vida cotidiana de todos.[1][2][4][5]",
+    "traits": [
+     "La forma sale de la función, el uso y la producción, no de los estilos históricos",
+     "Poco o ningún ornamento aplicado[1]",
+     "Tipos estándar, módulos y producción en serie[1][2]",
+     "Acero, vidrio, hormigón, terciado y otros materiales industriales[1][4]",
+     "Forma geométrica, letras sin serifa y composiciones asimétricas[1][3]",
+     "Un lenguaje universal pensado para cruzar fronteras nacionales"
+    ],
+    "context": "La máquina se vuelve el modelo: la estandarización, los materiales nuevos y las vanguardias redefinen qué es el diseño, mientras dos guerras, la Depresión y las dictaduras lo empujan hacia la vivienda, la propaganda y el consumo masivo. Del Deutscher Werkbund (1907) a la crisis del funcionalismo en los años sesenta, pasó de las vanguardias y las escuelas de entreguerras[1][5] al diseño de empresas y Estados de la posguerra.",
+    "shift": "El diseño dejó de ser la decoración de objetos hechos por la industria y pasó a ser la planificación de los objetos mismos, de su producción y del entorno donde vive la gente.[1][2]",
+    "shifts": [
+     "Quienes diseñan adoptan la industria como medio: tipos estándar, tubo de acero, terciado y producción en serie.",
+     "Las vanguardias dan al diseño un lenguaje visual nuevo: geometría, fotomontaje, tipografía asimétrica.",
+     "Escuelas, exposiciones y museos (Bauhaus, VKhUTEMAS, Weissenhof, MoMA) convierten una práctica en doctrina y en profesión.",
+     "La vivienda social, el hogar electrificado y los nuevos roles de las mujeres hacen de la vivienda y su equipamiento un problema central del diseño.",
+     "La Depresión, las dictaduras y la guerra atan el diseño a la venta, la propaganda, el racionamiento y el exilio, que lleva el modernismo al otro lado del Atlántico."
+    ],
+    "context_summary": {
+     "political": "Dos guerras mundiales, la Revolución rusa, la República de Weimar, el fascismo, el nazismo y la Guerra Civil española mueven el diseño entre la propaganda, la reforma social y el exilio.",
+     "economic": "El fordismo, la racionalización, el crédito y el crac de 1929 convierten la eficiencia en una estética y el diseño en una herramienta de venta; luego las economías de guerra imponen escasez y estándares.",
+     "social": "La falta de vivienda, el trabajo de las mujeres, el higienismo y el hogar electrificado piden viviendas y equipamiento pequeños, estandarizados y sanos; el exilio dispersa a quienes diseñan.",
+     "cultural": "Las vanguardias, el cine, la prensa ilustrada y las grandes exposiciones difunden un lenguaje visual moderno, de París a São Paulo y Ciudad de México.",
+     "technological": "El automóvil, la aviación, la radio, la aerodinámica y el transporte eléctrico cambian la velocidad, la forma y la ciudad."
+    }
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Bauhaus»",
+     "url": "https://www.britannica.com/topic/Bauhaus",
+     "checks": "Gropius la fundó en 1919 para unir oficio, arte e industria con prototipos para la producción en serie; formas geométricas sin ornamento, acero tubular, tipografía sans-serif, colores primarios y soluciones de vivienda; cierre en 1933. ⚠ Leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Weissenhofmuseum, «The 1927 Exhibition»",
+     "url": "https://weissenhofmuseum.de/en/siedlung/die-ausstellung-1927/",
+     "checks": "La exposición «Die Wohnung» (Stuttgart, 1927) fue organizada por el Deutscher Werkbund con dirección artística de Mies van der Rohe; 17 arquitectos internacionales y 33 edificios; centrada en una vida moderna, sana, asequible y funcional; estandarización y métodos de construcción innovadores. ⚠ No trata la fundación del Werkbund en 1907.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Kristof Van Gansen, «“Bold German graphic design”…», InVisible Culture 23",
+     "url": "https://www.invisibleculturejournal.com/pub/bold-german-graphic-design/release/1",
+     "checks": "La Nueva Tipografía: composición asimétrica, letra sin serifa, fotografía y formatos normalizados; surgió de las vanguardias centroeuropeas y de la racionalización y estandarización.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Constructivism»",
+     "url": "https://www.britannica.com/art/Constructivism-art",
+     "checks": "Materiales industriales modernos (plástico, acero, vidrio), tecnología y funcionalismo; «artistas-ingenieros».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "VKhUTEMAS (sitio del centenario), «The History»",
+     "url": "https://www.vkhutemas.ru/en/the-history/",
+     "checks": "Escuela estatal de Moscú fundada por decreto de Lenin el 18 de diciembre de 1920 para formar artistas para la industria.",
+     "date": "2026-10-04"
+    }
+   ],
+   "links": {
+    "institutions": [
+     "inst-werkbund"
+    ],
+    "designers": [
+     "peter-behrens"
+    ]
+   }
+  },
+  {
+   "id": "arts-and-crafts",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "graphic",
+    "architecture"
+   ],
+   "start": 1861,
+   "end": 1914,
+   "fadeIn": 3,
+   "fadeOut": 3,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Arts and Crafts",
+   "short": "Arts and Crafts",
+   "key": "A British movement of designers and craftspeople who, following Ruskin and Morris, defended handwork, honest materials and the unity of art and life against industry.[1][2]",
+   "traits": [
+    "Respect for handwork and the skill of the maker[1][2]",
+    "Materials and construction left honest and visible,[3] without unnecessary ornament",
+    "Inspiration from medieval techniques and from nature[2]",
+    "Design of the whole home: furniture, textiles, metalwork and books[2]",
+    "A belief that manufacturing should be humane and meaningful for the maker and the user[1]"
+   ],
+   "context": "It grew in Britain out of Ruskin's criticism of industrial labour in The Nature of Gothic (1853).[4] Philip Webb worked with Morris on Red House, commissioned in 1859 and completed in 1860,[3] and Morris, Marshall, Faulkner & Co., founded in 1861,[3] made handcrafted furniture, textiles and metalwork.[2] The name comes from the Arts and Crafts Exhibition Society, founded in London in 1887, whose first show was held in 1888.[1] Similar ideas took root in the United States, where Gustav Stickley began The Craftsman in 1901[6] and Frank Lloyd Wright lectured on the art and craft of the machine at Hull House in 1901.[5]",
+   "shift": "From machine-made imitations of historical styles to design that shows how it was made and is planned for the whole house.[2] Morris and his circle made handwork a moral and social question,[1] a conviction that spread internationally in the 1890s,[2] although followers such as Wright came to accept the machine.[5]",
+   "es": {
+    "name": "Arts and Crafts",
+    "short": "Arts and Crafts",
+    "key": "Un movimiento británico de diseñadores y artesanos que, siguiendo a Ruskin y a Morris, defendió el trabajo manual, los materiales honestos y la unidad del arte y la vida frente a la industria.[1][2]",
+    "traits": [
+     "Respeto por el trabajo manual y la destreza de quien hace[1][2]",
+     "Materiales y construcción honestos y a la vista,[3] sin ornamento innecesario",
+     "Inspiración en técnicas medievales y en la naturaleza[2]",
+     "Diseño de todo el hogar: muebles, textiles, metalistería y libros[2]",
+     "La creencia de que la manufactura debe ser humana y significativa para quien hace y quien usa[1]"
+    ],
+    "context": "Creció en Gran Bretaña a partir de la crítica de Ruskin al trabajo industrial en La naturaleza de lo gótico (1853).[4] Philip Webb trabajó con Morris en la Casa Roja, encargada en 1859 y terminada en 1860,[3] y Morris, Marshall, Faulkner & Co., fundada en 1861,[3] hizo muebles, textiles y metalistería artesanales.[2] El nombre viene de la Arts and Crafts Exhibition Society, fundada en Londres en 1887, cuya primera muestra fue en 1888.[1] Ideas parecidas arraigaron en Estados Unidos, donde Gustav Stickley comenzó The Craftsman en 1901[6] y Frank Lloyd Wright dio una conferencia sobre el arte y el oficio de la máquina en Hull House en 1901.[5]",
+    "shift": "De las imitaciones hechas a máquina de estilos históricos a un diseño que muestra cómo fue hecho y que se planifica para toda la casa.[2] Morris y su círculo hicieron del trabajo manual una cuestión moral y social,[1] convicción que se extendió internacionalmente en la década de 1890,[2] aunque seguidores como Wright terminaron aceptando la máquina.[5]"
+   },
+   "refs": [
+    {
+     "label": "V&A, Arts and Crafts: an introduction",
+     "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+     "checks": "Confirma la cita de Ruskin sobre la mano, la cabeza y el corazón, la fundación de la Arts and Crafts Exhibition Society en Londres en 1887 como origen del nombre y su primera exposición en 1888, y a Morris como figura central del trabajo manual. ⚠ No habla de EE. UU.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Arts and Crafts movement",
+     "url": "https://www.britannica.com/art/Arts-and-Crafts-movement",
+     "checks": "Confirma a Morris, su firma de 1861 con Webb, Brown y Burne-Jones que hacía metalistería, textiles, muebles y libros, el rescate de técnicas medievales y la expansión internacional en la década de 1890. ⚠ No menciona vitrales ni papel mural.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "National Trust, Red House: history",
+     "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+     "checks": "Confirma que la Casa Roja, hecha con Philip Webb, fue encargada en 1859 y terminada en 1860, sin ornamento innecesario, y que inspiró la fundación de Morris, Marshall, Faulkner & Co. en 1861.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Cambridge University Press, 'The Nature of Gothic' (P. D. Anthony, John Ruskin's Labour)",
+     "url": "https://www.cambridge.org/core/books/john-ruskins-labour/nature-of-gothic/07CFB5EC663F581D519E134857941DA9",
+     "checks": "Confirma que The Nature of Gothic (1853) es crítica del trabajo industrial y que influyó en Morris y Burne-Jones.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Frank Lloyd Wright Foundation, The Art & Craft of the Machine",
+     "url": "https://franklloydwright.org/the-art-craft-of-the-machine/",
+     "checks": "Confirma que Wright dio la conferencia 'The Art and Craft of the Machine' en Hull House, Chicago, en 1901, y que veía la máquina como aliada de la democracia.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Stickley Museum, History",
+     "url": "https://www.stickleymuseum.org/history/",
+     "checks": "Confirma que Gustav Stickley lanzó la revista The Craftsman en 1901, que difundió la filosofía Arts and Crafts de Morris y Ruskin.",
+     "date": "2026-10-06"
+    }
+   ],
+   "links": {
+    "institutions": [
+     "inst-morris-and-co"
+    ],
+    "designers": [
+     "william-morris",
+     "philip-webb",
+     "frank-lloyd-wright"
+    ]
+   }
+  },
+  {
+   "id": "aesthetic-movement",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture",
+    "fashion"
+   ],
+   "start": 1860,
+   "end": 1900,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Aesthetic Movement",
+   "short": "Aesthetic",
+   "key": "A British taste for ‘art for art’s sake’ that valued beauty over moral or narrative content and spread from painting to furniture, ceramics, wallpaper and dress.",
+   "traits": [
+    "Beauty valued for its own sake",
+    "Japanese-inspired asymmetry and flat pattern",
+    "Sunflowers, peacock feathers and blue-and-white china",
+    "Simple, light, ebonised furniture",
+    "Artistic dress and the total interior"
+   ],
+   "context": "It grew in Britain from the 1860s among painters, architects and designers who rejected the heavy, moralising taste of the mid-Victorian decades. Japanese art, which became widely available in London after the 1860s, was a major source of its motifs and of its asymmetrical compositions. Shops such as Liberty & Co. sold the look to a middle-class public, and the movement was gently mocked on stage in the 1880s.",
+   "shift": "From furniture and rooms treated as sets of historical styles to the interior as one composed, personal work of art. Designers such as Christopher Dresser and E. W. Godwin applied the new taste to ceramics, metalwork and furniture with plain, light forms.",
+   "es": {
+    "name": "Esteticismo",
+    "short": "Esteticismo",
+    "key": "Un gusto británico por el «arte por el arte» que valoró la belleza por encima del contenido moral o narrativo y pasó de la pintura al mueble, la cerámica, el papel mural y el vestido.",
+    "traits": [
+     "La belleza valorada por sí misma",
+     "Asimetría y patrón plano de inspiración japonesa",
+     "Girasoles, plumas de pavo real y porcelana azul y blanca",
+     "Mobiliario simple, liviano y ebonizado",
+     "Vestido artístico y el interior como obra total"
+    ],
+    "context": "Creció en Gran Bretaña desde la década de 1860 entre pintores, arquitectos y diseñadores que rechazaban el gusto pesado y moralizante de las décadas victorianas medias. El arte japonés, que se hizo ampliamente accesible en Londres después de 1860, fue una fuente importante de sus motivos y de sus composiciones asimétricas. Tiendas como Liberty & Co. vendieron el estilo a un público de clase media, y el movimiento fue objeto de burlas suaves en el teatro en la década de 1880.",
+    "shift": "De muebles y salas tratados como conjuntos de estilos históricos al interior como una obra de arte única, compuesta y personal. Diseñadores como Christopher Dresser y E. W. Godwin aplicaron el nuevo gusto a cerámica, metalistería y mobiliario de formas simples y livianas."
+   },
+   "refs": [],
+   "links": {
+    "institutions": [
+     "inst-liberty"
+    ]
+   }
+  },
+  {
+   "id": "art-nouveau",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1890,
+   "end": 1914,
+   "fadeIn": 2,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "BE",
+    "FR",
+    "DE",
+    "AT",
+    "ES",
+    "GB"
+   ],
+   "name": "Art Nouveau",
+   "short": "Art Nouveau",
+   "key": "An international style of the 1890s and 1900s built on flowing lines and natural forms, known as Jugendstil in Germany and modernista in Spain, in buildings, posters, glass and furniture.[1][4]",
+   "traits": [
+    "Whiplash curves and sinuous organic lines[1][3]",
+    "Plant and flower motifs and forms taken from nature[3][4]",
+    "Ornament integrated throughout, from architecture to silverware[4]",
+    "Iron and glass used in unconventional forms[5]",
+    "Local variants under many names[1][4]"
+   ],
+   "context": "It emerged in the 1890s in Brussels and Paris,[1] among architects such as Victor Horta and Hector Guimard[1] and in the gallery of Siegfried Bing, whose Paris shop gave the style its name.[2] It took other names elsewhere: Jugendstil in Germany, Secession in Austria, modernista in Spain.[1][5] The Paris exposition of 1900 showed it to a very wide public.[1][3]",
+   "shift": "From the revival of past styles to an ornament drawn from living forms and meant to be 'new art'.[3] Ornament became integrated across design from architecture to silverware,[4] and iron and glass were shaped into dramatic, unconventional forms.[5]",
+   "es": {
+    "name": "Art nouveau, Jugendstil y modernisme",
+    "short": "Art Nouveau",
+    "key": "Un estilo internacional de las décadas de 1890 y 1900 basado en líneas fluidas y formas de la naturaleza, llamado Jugendstil en Alemania y modernista en España, en edificios, carteles, vidrio y muebles.[1][4]",
+    "traits": [
+     "Curvas de látigo y líneas orgánicas sinuosas[1][3]",
+     "Motivos de plantas y flores y formas tomadas de la naturaleza[3][4]",
+     "Ornamento integrado en todo, de la arquitectura a la platería[4]",
+     "Hierro y vidrio usados en formas poco convencionales[5]",
+     "Variantes locales con muchos nombres[1][4]"
+    ],
+    "context": "Surgió en la década de 1890 en Bruselas y París,[1] entre arquitectos como Victor Horta y Hector Guimard[1] y en la galería de Siegfried Bing, cuyo local parisino dio nombre al estilo.[2] Tomó otros nombres en otros lugares: Jugendstil en Alemania, Secesión en Austria, modernista en España.[1][5] La exposición de París de 1900 lo mostró a un público muy amplio.[1][3]",
+    "shift": "De la reedición de estilos del pasado a un ornamento sacado de formas vivas y pensado como 'arte nuevo'.[3] El ornamento se integró en todo el diseño, de la arquitectura a la platería,[4] y el hierro y el vidrio se modelaron en formas dramáticas y poco convencionales.[5]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Art Nouveau",
+     "url": "https://www.britannica.com/art/Art-Nouveau",
+     "checks": "Confirma un movimiento ornamental de c. 1890-1910 con línea larga, sinuosa y orgánica, origen en Bruselas y París en los años 1890 (Horta, Guimard), nombres Jugendstil, Secesión y modernismo, y la Exposición de París de 1900.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Siegfried Bing",
+     "url": "https://www.britannica.com/biography/Siegfried-Bing",
+     "checks": "Confirma que la galería parisina de Bing, 'L'Art Nouveau', dio nombre al estilo.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline: Art Nouveau",
+     "url": "https://www.metmuseum.org/essays/art-nouveau",
+     "checks": "Confirma el 'arte nuevo' inspirado en formas naturales, líneas sinuosas y curvas de látigo, la Exposición Universal de 1900 en París y nombres como Jugendstil. ⚠ No lista 'modernisme'.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "V&A, Art Nouveau: an international style",
+     "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+     "checks": "Confirma los nombres regionales (Art Nouveau en Francia vía Bing, Jugendstil y Sezessionstil, modernista en España), motivos orgánicos integrados 'de la arquitectura a la platería', y la Exposición de 1900.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Western architecture: Art Nouveau",
+     "url": "https://www.britannica.com/art/Western-architecture/Art-Nouveau",
+     "checks": "Confirma Jugendstil, Sezessionstil, Modernista, Horta y Guimard, y el hierro y el vidrio como materiales característicos en formas dramáticas.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "vienna-secession",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1897,
+   "end": 1914,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "name": "Vienna Secession",
+   "short": "Secession",
+   "key": "Viennese artists who left the established artists' association in 1897[1][2] and brought an ornamental, increasingly geometric modern style to exhibitions, magazines and applied arts.[1][4]",
+   "traits": [
+    "Square and grid geometry, later the 'square style' of the Wiener Werkstätte[4]",
+    "Ornamental design influenced by Art Nouveau, against academic convention[1]",
+    "Own exhibition building and 23 exhibitions between 1897 and 1905[2]",
+    "Graphic work and the magazine Ver Sacrum as art[1][3]",
+    "Craft and design placed beside painting"
+   ],
+   "context": "The Secession was founded in 1897 by artists around Gustav Klimt who broke from the conservative Künstlerhaus.[1][2][3] Its building by Joseph Maria Olbrich was completed in 1898,[1][2] and its magazine Ver Sacrum, launched in 1898, carried the group's graphic work.[3] Josef Hoffmann and Koloman Moser, who were involved with the Secession,[1] founded the Wiener Werkstätte in 1903.[4]",
+   "shift": "Design moved toward ornamental, flatter and more geometric forms,[1][4] and craft and applied arts were set beside painting. The Wiener Werkstätte, founded by Hoffmann and Moser in 1903 to preserve handcraft, carried this approach into jewellery, textiles and furniture.[4]",
+   "es": {
+    "name": "Secesión de Viena",
+    "short": "Secesión",
+    "key": "Artistas vieneses que dejaron la asociación oficial de artistas en 1897[1][2] y llevaron un estilo moderno ornamental y cada vez más geométrico a exposiciones, revistas y artes aplicadas.[1][4]",
+    "traits": [
+     "Geometría de cuadrados y retícula, luego el 'estilo cuadrado' de la Wiener Werkstätte[4]",
+     "Diseño ornamental influido por el Art Nouveau, frente a la convención académica[1]",
+     "Edificio propio de exposiciones y 23 exposiciones entre 1897 y 1905[2]",
+     "Obra gráfica y la revista Ver Sacrum como arte[1][3]",
+     "Oficio y diseño junto a la pintura"
+    ],
+    "context": "La Secesión se fundó en 1897 por artistas en torno a Gustav Klimt que rompieron con el conservador Künstlerhaus.[1][2][3] Su edificio, de Joseph Maria Olbrich, se completó en 1898,[1][2] y su revista Ver Sacrum, lanzada en 1898, difundió la obra gráfica del grupo.[3] Josef Hoffmann y Koloman Moser, que participaron en la Secesión,[1] fundaron la Wiener Werkstätte en 1903.[4]",
+    "shift": "El diseño avanzó hacia formas ornamentales, más planas y geométricas,[1][4] y el oficio y las artes aplicadas se pusieron junto a la pintura. La Wiener Werkstätte, fundada por Hoffmann y Moser en 1903 para preservar el trabajo artesanal, llevó este enfoque a joyas, textiles y muebles.[4]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Vienna Sezession",
+     "url": "https://www.britannica.com/topic/Vienna-Sezession",
+     "checks": "Confirma la fundación en 1897 por Klimt y otros, la ruptura con el Künstlerhaus, el edificio de Olbrich (1898), la revista Ver Sacrum, estética ornamental de influencia Art Nouveau y la participación de Hoffmann (luego Wiener Werkstätte) y Moser.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Google Arts & Culture, Gustav Klimt and the Secession",
+     "url": "https://artsandculture.google.com/story/gustav-klimt-and-the-secession/NgUhK-7sIQ8ruw?hl=en",
+     "checks": "Confirma la reunión inaugural del 3 de abril de 1897, a Klimt como primer presidente, el edificio de Olbrich terminado en 1898, 23 exposiciones entre 1897 y 1905 y la revista Ver Sacrum.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "History Today, The Vienna Secession is Founded",
+     "url": "https://www.historytoday.com/archive/months-past/vienna-secession-founded",
+     "checks": "Confirma que el 3 de abril de 1897 artistas liderados por Klimt se separaron del Künstlerhaus y que Ver Sacrum se lanzó en 1898.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Wiener Werkstätte",
+     "url": "https://www.britannica.com/topic/Wiener-Werkstatte",
+     "checks": "Confirma que la Wiener Werkstätte fue fundada en Viena en 1903 por Koloman Moser y Josef Hoffmann para preservar el oficio, con su estética geométrica del 'estilo cuadrado'.",
+     "date": "2026-10-06"
+    }
+   ],
+   "links": {
+    "institutions": [
+     "inst-wiener-werkstatte"
+    ]
+   }
+  },
+  {
+   "id": "illustrated-poster",
+   "level": "essential",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1880,
+   "end": 1914,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "GB",
+    "US",
+    "DE"
+   ],
+   "name": "Illustrated poster",
+   "short": "Illustr. poster",
+   "key": "The colour lithographic poster, begun by Chéret in 1866,[1] that made street advertising an art form, from Chéret and Toulouse-Lautrec in Paris to the Beggarstaffs in Britain.[3][4]",
+   "traits": [
+    "Large areas of flat colour[2]",
+    "Image and lettering drawn together, with prominent hand-lettered titles[2]",
+    "Bold silhouette readable at a distance[4]",
+    "Drawn by artists, printed by lithography[2]",
+    "Posters collected, with a 'poster mania' among collectors in the 1890s[3]"
+   ],
+   "context": "Colour lithography was brought to the poster in Paris by Jules Chéret from 1866,[1][2] and the French press freedom law of 1881 was followed by wider use of posters in the street.[3] By the 1890s Henri de Toulouse-Lautrec, Alphonse Mucha and others were designing posters for theatres, cabarets and consumer goods,[3] and collectors and dealers followed.[3]",
+   "shift": "The poster went from an ornate, text-heavy notice to bold images with large areas of colour and few words, made by an artist for a street audience.[2] In Britain the Beggarstaffs, William Nicholson and James Pryde, used simplified flat-colour designs in the 1890s,[4] and in the United States the modern poster emerged in the same decade, with artists such as Will Bradley.[5][6]",
+   "es": {
+    "name": "Cartel ilustrado",
+    "short": "Cartel ilustrado",
+    "key": "El cartel litográfico a color, iniciado por Chéret en 1866,[1] que hizo de la publicidad callejera una forma de arte, de Chéret y Toulouse-Lautrec en París a los Beggarstaffs en Gran Bretaña.[3][4]",
+    "traits": [
+     "Grandes áreas de color plano[2]",
+     "Imagen y letra dibujadas juntas, con títulos rotulados a mano bien visibles[2]",
+     "Silueta marcada, legible a distancia[4]",
+     "Dibujado por artistas, impreso en litografía[2]",
+     "Carteles coleccionados, con una 'manía del cartel' entre coleccionistas en la década de 1890[3]"
+    ],
+    "context": "La litografía a color fue llevada al cartel en París por Jules Chéret desde 1866,[1][2] y a la ley francesa de libertad de prensa de 1881 siguió un uso más amplio de carteles en la calle.[3] En la década de 1890 Henri de Toulouse-Lautrec, Alphonse Mucha y otros diseñaban carteles para teatros, cabarés y bienes de consumo,[3] y siguieron coleccionistas y marchantes.[3]",
+    "shift": "El cartel pasó de ser un aviso recargado y lleno de texto a imágenes audaces con grandes áreas de color y pocas palabras, hechas por un artista para un público de calle.[2] En Gran Bretaña los Beggarstaffs, William Nicholson y James Pryde, usaron diseños simplificados de color plano en la década de 1890,[4] y en Estados Unidos el cartel moderno surgió en la misma década, con artistas como Will Bradley.[5][6]"
+   },
+   "refs": [
+    {
+     "label": "V&A, A short history of the poster",
+     "url": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+     "checks": "Confirma que a Jules Chéret (1836-1932) se le atribuyen los primeros carteles litográficos en color, en 1866, con proceso de tres piedras. ⚠ No cubre la ley de 1881 ni a los Beggarstaffs.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Jules Chéret",
+     "url": "https://www.britannica.com/biography/Jules-Cheret",
+     "checks": "Confirma su taller litográfico de 1866 en París, su trabajo directo sobre la piedra, áreas de color plano, grandes figuras centrales y títulos rotulados a mano, más de 1.000 carteles para teatros, music halls y productos, y su influencia en Toulouse-Lautrec y Mucha.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Musée d'Orsay, exposición 'L'art est dans la rue' (2025)",
+     "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/presentation/art-street",
+     "checks": "Confirma el auge del cartel ilustrado a color en París desde la litografía de gran formato de los años 1860, a Chéret como padre del cartel moderno, a Toulouse-Lautrec y Mucha como autores, la 'manía del cartel' coleccionista de los 1890 y la ley de libertad de prensa de 1881. ⚠ No dice que la ley facilitara el pegado de carteles; solo que los carteles se politizaron después.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "University of Cambridge / Fitzwilliam Museum, Beggarstaffs: William Nicholson & James Pryde",
+     "url": "https://www.cam.ac.uk/stories/beggarstaffs",
+     "checks": "Confirma a William Nicholson (1872-1949) y James Pryde (1866-1941) como los 'Beggarstaffs' en los años 1890, con diseños simplificados de color plano y siluetas, hechos en collage y estarcido.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Will Bradley",
+     "url": "https://www.britannica.com/biography/Will-Bradley",
+     "checks": "Confirma a Bradley como diseñador estadounidense de portadas, tipografías y carteles en los años 1890. ⚠ No confirma influencia de los Beggarstaffs sobre él.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, The Art of the Literary Poster (Allison Rudnick, 2024)",
+     "url": "https://www.metmuseum.org/met-publications/the-art-of-the-literary-poster",
+     "checks": "Confirma que el cartel moderno surgió en los años 1890 como cultura visual popular en EE. UU., con Will H. Bradley entre sus autores.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "chicago-school",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1880,
+   "end": 1905,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Chicago School",
+   "short": "Chicago School",
+   "key": "The Chicago architects who, after the fire of 1871,[4] developed the steel-framed commercial skyscraper with large windows and light façades.[1][5]",
+   "traits": [
+    "Steel or iron skeleton carrying the weight of the building[2]",
+    "Fireproof cladding of terracotta[5]",
+    "Large windows set in a regular grid[5]",
+    "Façades that show the frame beneath",
+    "Tall commercial buildings for offices and department stores[1]"
+   ],
+   "context": "After the Great Fire of 1871 destroyed the centre of Chicago,[4] business owners rebuilt at first in four-storey brick, stone and iron, and the first skyscrapers, with steel frames and elevators, came 10 to 15 years later.[4] William Le Baron Jenney's Home Insurance Building (1884-85) is generally considered the first tall building carried by an iron and steel skeleton,[2] and Burnham & Root,[1] Holabird & Roche[5] and Adler & Sullivan[3] also built here. The World's Columbian Exposition of 1893, in classical style, led to a resurgence of interest in classical architecture.[7]",
+   "shift": "From thick load-bearing walls to a metal skeleton with a light skin, so that the façade became a curtain over the frame.[2] Louis Sullivan, a leading designer of the school,[3] wrote in 1896 that form ever follows function,[6] and Chicago has been called the 'birthplace of modern architecture'.[1]",
+   "links": {
+    "designers": [
+     "louis-sullivan"
+    ]
+   },
+   "es": {
+    "name": "Escuela de Chicago",
+    "short": "Escuela de Chicago",
+    "key": "Los arquitectos de Chicago que, tras el incendio de 1871,[4] desarrollaron el rascacielos comercial de estructura de acero con grandes ventanas y fachadas livianas.[1][5]",
+    "traits": [
+     "Esqueleto de acero o hierro que soporta el peso del edificio[2]",
+     "Revestimiento incombustible de terracota[5]",
+     "Grandes ventanas dispuestas en una retícula regular[5]",
+     "Fachadas que muestran la estructura que hay debajo",
+     "Edificios comerciales altos para oficinas y grandes almacenes[1]"
+    ],
+    "context": "Después de que el Gran Incendio de 1871 destruyó el centro de Chicago,[4] los dueños de negocios reconstruyeron al principio en ladrillo, piedra y hierro de cuatro pisos, y los primeros rascacielos, con estructura de acero y ascensores, llegaron de 10 a 15 años después.[4] El Home Insurance Building de William Le Baron Jenney (1884-85) se considera en general el primer edificio alto sostenido por un esqueleto de hierro y acero,[2] y aquí construyeron también Burnham & Root,[1] Holabird & Roche[5] y Adler & Sullivan.[3] La Exposición Colombina Mundial de 1893, de estilo clásico, provocó un resurgir del interés por la arquitectura clásica.[7]",
+    "shift": "De los gruesos muros portantes a un esqueleto metálico con una piel liviana, de modo que la fachada pasó a ser una cortina sobre la estructura.[2] Louis Sullivan, uno de los principales diseñadores de la escuela,[3] escribió en 1896 que la forma sigue siempre a la función,[6] y Chicago ha sido llamada 'cuna de la arquitectura moderna'.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Chicago school",
+     "url": "https://www.britannica.com/art/Chicago-school-architecture",
+     "checks": "Confirma a Burnham, Jenney, Root y Adler y Sullivan como integrantes, edificios como Montauk (1882), Auditorium (1887-89), Monadnock (1891) y Carson Pirie Scott (1898-1904), y que Chicago fue llamada 'cuna de la arquitectura moderna'.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, William Le Baron Jenney",
+     "url": "https://www.britannica.com/biography/William-Le-Baron-Jenney",
+     "checks": "Confirma el Home Insurance Building (1884-85) como el primer edificio alto de esqueleto interno de hierro y acero en lugar de muros portantes.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Louis Sullivan",
+     "url": "https://www.britannica.com/biography/Louis-Sullivan",
+     "checks": "Confirma a Sullivan (1856-1924) y su sociedad con Dankmar Adler (1879-95), su asociación a la Escuela de Chicago y a la idea de que la forma refleja el propósito.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Chicago Architecture Center, The Great Chicago Fire of 1871",
+     "url": "https://www.architecture.org/online-resources/architecture-encyclopedia/the-great-chicago-fire-of-1871",
+     "checks": "Confirma el incendio de 8-10 de octubre de 1871, la reconstrucción inmediata en ladrillo, piedra y hierro de cuatro pisos y que los primeros rascacielos de acero y ascensores llegaron 10-15 años después. ⚠ Desmiente que el incendio produjera de inmediato rascacielos.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Chicago Architecture Center, Marquette Building",
+     "url": "https://www.architecture.org/online-resources/buildings-of-chicago/marquette-building",
+     "checks": "Confirma el Marquette Building (1895) de Holabird & Roche con estructura de acero, revestimiento de terracota y 'grandes ventanas de Chicago' para luz y aire.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Jon Ochshorn (Cornell University), Sullivan's Eagle: Form and Function Artistically Considered",
+     "url": "https://jonochshorn.com/scholarship/writings/sullivans-eagle/",
+     "checks": "Confirma que Sullivan publicó 'form ever follows function' en 'The Tall Office Building Artistically Considered', Lippincott's Magazine, marzo de 1896.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, World's Columbian Exposition",
+     "url": "https://www.britannica.com/event/Worlds-Columbian-Exposition",
+     "checks": "Confirma la Exposición de 1893 con fachadas clásicas que renovaron el interés por la arquitectura clásica en EE. UU.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "catalan-modernisme",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1888,
+   "end": 1911,
+   "fadeIn": 2,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "ES"
+   ],
+   "name": "Catalan Modernisme",
+   "short": "Modernisme",
+   "key": "The Catalan version of Art Nouveau, centred on Barcelona, in which architects used curved forms, crafts and natural motifs to give the city a national identity.",
+   "traits": [
+    "Curved lines and forms taken from plants",
+    "Ceramic, wrought iron, stained glass and brick as visible decoration",
+    "Close work between architect and craftsmen",
+    "Buildings for the industrial middle class and for Catalan institutions"
+   ],
+   "context": "It grew in Catalonia during the Renaixença, the revival of Catalan culture, and the wealth of Barcelona’s industrial middle class, which commissioned houses, shops and public buildings. The 1888 Universal Exhibition in Barcelona is its usual starting point. Its best-known architects include Lluís Domènech i Montaner, Josep Puig i Cadafalch and Antoni Gaudí.",
+   "shift": "Architecture became a way of affirming a Catalan identity: the new bourgeoisie combined modern construction with local crafts and a language of ornament of its own, distinct from Madrid and from other European Art Nouveau.",
+   "es": {
+    "name": "Modernismo catalán",
+    "short": "Modernisme",
+    "key": "La versión catalana del Art Nouveau, centrada en Barcelona, en que los arquitectos usaron formas curvas, oficios y motivos naturales para dar a la ciudad una identidad nacional.",
+    "traits": [
+     "Líneas curvas y formas tomadas de las plantas",
+     "Cerámica, hierro forjado, vitral y ladrillo como decoración visible",
+     "Trabajo estrecho entre arquitecto y artesanos",
+     "Edificios para la burguesía industrial y para instituciones catalanas"
+    ],
+    "context": "Creció en Cataluña durante la Renaixença, el renacer de la cultura catalana, y con la riqueza de la burguesía industrial de Barcelona, que encargó casas, tiendas y edificios públicos. La Exposición Universal de Barcelona de 1888 es su punto de partida habitual. Entre sus arquitectos más conocidos están Lluís Domènech i Montaner, Josep Puig i Cadafalch y Antoni Gaudí.",
+    "shift": "La arquitectura pasó a ser una forma de afirmar una identidad catalana: la nueva burguesía combinó construcción moderna con oficios locales y un lenguaje ornamental propio, distinto del de Madrid y del de otros Art Nouveau europeos."
+   },
+   "refs": []
+  },
+  {
+   "id": "organic-architecture",
+   "level": "normal",
+   "era": "mode",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1890,
+   "end": 1960,
+   "fadeIn": 3,
+   "fadeOut": 4,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "FI"
+   ],
+   "name": "Organic architecture",
+   "short": "Organic",
+   "key": "An approach that designs buildings as unified wholes growing from their site, materials and use, rather than from fixed geometric rules.",
+   "traits": [
+    "Building, site and furniture conceived as one whole",
+    "Natural materials and forms that follow the landscape",
+    "Flowing, continuous space instead of closed boxes",
+    "Human use and comfort set above geometric purity"
+   ],
+   "context": "Frank Lloyd Wright developed the idea in the United States from the 1890s and called it organic architecture; his house Fallingwater (1936–39) is its best-known work. In Europe, Alvar Aalto in Finland and Hans Scharoun in Germany pursued related ideas in the middle of the century. It stood against the geometric, standardised rationalism of much International Style architecture.",
+   "shift": "From the building as an abstract volume to the building as part of its place: its plan, materials and furniture follow the site and the people who use it, and warmth and variety were defended against standardisation.",
+   "links": {
+    "designers": [
+     "frank-lloyd-wright",
+     "aalto-alvar-aino"
+    ]
+   },
+   "es": {
+    "name": "Arquitectura orgánica",
+    "short": "Orgánica",
+    "key": "Un enfoque que proyecta los edificios como totalidades unidas que crecen desde su sitio, sus materiales y su uso, y no desde reglas geométricas fijas.",
+    "traits": [
+     "Edificio, sitio y mobiliario concebidos como un todo",
+     "Materiales naturales y formas que siguen el paisaje",
+     "Espacio fluido y continuo en vez de cajas cerradas",
+     "El uso y la comodidad humanos por sobre la pureza geométrica"
+    ],
+    "context": "Frank Lloyd Wright desarrolló la idea en Estados Unidos desde la década de 1890 y la llamó arquitectura orgánica; su casa de la Cascada (Fallingwater, 1936–39) es su obra más conocida. En Europa, Alvar Aalto en Finlandia y Hans Scharoun en Alemania siguieron ideas afines a mediados de siglo. Se opuso al racionalismo geométrico y estandarizado de buena parte de la arquitectura del Estilo Internacional.",
+    "shift": "Del edificio como volumen abstracto al edificio como parte de su lugar: la planta, los materiales y el mobiliario siguen al sitio y a quienes lo usan, y se defendió la calidez y la variedad frente a la estandarización."
+   },
+   "refs": []
+  },
+  {
+   "id": "city-beautiful",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1893,
+   "end": 1910,
+   "fadeIn": 2,
+   "fadeOut": 3,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "City Beautiful movement",
+   "short": "City Beautiful",
+   "key": "An American movement that sought to improve cities through monumental civic centres, boulevards and parks planned with Beaux-Arts order.",
+   "traits": [
+    "Monumental civic buildings in classical style",
+    "Axes, boulevards and symmetrical plans",
+    "Parks and public space as part of the plan",
+    "Belief that beautiful surroundings improve citizens"
+   ],
+   "context": "It took shape in the United States after the World’s Columbian Exposition in Chicago in 1893, whose White City, planned by Daniel Burnham and others, showed a unified classical city. Reformers, architects and business leaders used it as an argument for civic improvement. Burnham’s plan for Chicago (1909), made with Edward Bennett, is its best-known plan.",
+   "shift": "Urban design moved from the building to the whole city plan: beauty and order in public space were presented as a means of social and civic reform.",
+   "es": {
+    "name": "Movimiento City Beautiful",
+    "short": "City Beautiful",
+    "key": "Un movimiento estadounidense que buscó mejorar las ciudades con centros cívicos monumentales, bulevares y parques planificados con el orden de la Beaux-Arts.",
+    "traits": [
+     "Edificios cívicos monumentales de estilo clásico",
+     "Ejes, bulevares y planos simétricos",
+     "Parques y espacio público como parte del plan",
+     "Creencia en que un entorno bello mejora a los ciudadanos"
+    ],
+    "context": "Tomó forma en Estados Unidos tras la Exposición Colombina Universal de Chicago de 1893, cuya Ciudad Blanca, planificada por Daniel Burnham y otros, mostró una ciudad clásica unificada. Reformadores, arquitectos y empresarios la usaron como argumento a favor del mejoramiento cívico. El plan de Chicago de Burnham (1909), hecho con Edward Bennett, es su plan más conocido.",
+    "shift": "El diseño urbano pasó del edificio al plan de toda la ciudad: la belleza y el orden del espacio público se presentaron como un medio de reforma social y cívica."
+   },
+   "refs": []
+  },
+  {
+   "id": "garden-city-movement",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1898,
+   "end": 1939,
+   "fadeIn": 2,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Garden city movement",
+   "short": "Garden city",
+   "key": "A British movement that proposed new, self-contained towns of limited size and low density, surrounded by farmland, as an alternative to the crowded industrial city.",
+   "traits": [
+    "Towns of limited size surrounded by a permanent green belt",
+    "Low density, with houses and gardens",
+    "Separate zones for homes, industry and civic life",
+    "Land held in common for the benefit of the community"
+   ],
+   "context": "Ebenezer Howard set out the idea in his book of 1898, later reissued as Garden Cities of To-morrow (1902). The first garden city, Letchworth, was begun in 1903 with plans by Raymond Unwin and Barry Parker, and Welwyn followed in 1920. The model was taken up in many countries and shaped suburbs and new towns.",
+   "shift": "Planning turned from improving the existing city to designing complete new towns, with housing, work and open land planned together; its ideas became a base of modern town planning.",
+   "es": {
+    "name": "Movimiento de la ciudad jardín",
+    "short": "Ciudad jardín",
+    "key": "Un movimiento británico que propuso ciudades nuevas, autosuficientes, de tamaño limitado y baja densidad, rodeadas de campo, como alternativa a la ciudad industrial hacinada.",
+    "traits": [
+     "Ciudades de tamaño limitado rodeadas de un cinturón verde permanente",
+     "Baja densidad, con casas y jardines",
+     "Zonas separadas para vivienda, industria y vida cívica",
+     "Suelo de propiedad común en beneficio de la comunidad"
+    ],
+    "context": "Ebenezer Howard expuso la idea en su libro de 1898, reeditado después como Garden Cities of To-morrow (1902). La primera ciudad jardín, Letchworth, se empezó en 1903 con planos de Raymond Unwin y Barry Parker, y Welwyn le siguió en 1920. El modelo se adoptó en muchos países y marcó los suburbios y las ciudades nuevas.",
+    "shift": "La planificación pasó de mejorar la ciudad existente a proyectar ciudades nuevas completas, con vivienda, trabajo y terreno abierto planificados juntos; sus ideas fueron una base del urbanismo moderno."
+   },
+   "refs": []
+  },
+  {
+   "id": "expressionist-architecture",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1910,
+   "end": 1925,
+   "fadeIn": 2,
+   "fadeOut": 3,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Expressionist architecture",
+   "short": "Expressionist",
+   "key": "A European current, strongest in Germany, of emotional and sculptural architecture in glass, brick and concrete, shaped by the war and by utopian hopes.",
+   "traits": [
+    "Sculptural, irregular and crystalline forms",
+    "Glass, brick and concrete used expressively",
+    "Buildings as symbols of a new society",
+    "Many projects that stayed on paper"
+   ],
+   "context": "It grew in Germany before and after the First World War, when building almost stopped and architects exchanged utopian drawings and letters, as in the Glass Chain circle around Bruno Taut. Taut’s Glass Pavilion at the Werkbund exhibition in Cologne (1914) is an early landmark. Erich Mendelsohn’s Einstein Tower (1919–21) is one of its few major built works.",
+   "shift": "Architecture was treated as an art of feeling and symbol, not only of function or construction; the movement left a repertoire of form that later modernists absorbed or rejected.",
+   "links": {
+    "designers": [
+     "bruno-taut"
+    ]
+   },
+   "es": {
+    "name": "Arquitectura expresionista",
+    "short": "Expresionista",
+    "key": "Una corriente europea, más fuerte en Alemania, de arquitectura emotiva y escultórica en vidrio, ladrillo y hormigón, marcada por la guerra y las esperanzas utópicas.",
+    "traits": [
+     "Formas escultóricas, irregulares y cristalinas",
+     "Vidrio, ladrillo y hormigón usados de modo expresivo",
+     "Edificios como símbolos de una sociedad nueva",
+     "Muchos proyectos que quedaron en el papel"
+    ],
+    "context": "Creció en Alemania antes y después de la Primera Guerra Mundial, cuando casi se detuvo la construcción y los arquitectos intercambiaron dibujos y cartas utópicos, como en el círculo de la Cadena de Cristal en torno a Bruno Taut. El Pabellón de Cristal de Taut en la exposición del Werkbund en Colonia (1914) es un hito temprano. La Torre Einstein de Erich Mendelsohn (1919–21) es una de sus pocas grandes obras construidas.",
+    "shift": "La arquitectura se trató como un arte del sentimiento y del símbolo, y no solo de la función o la construcción; el movimiento dejó un repertorio de formas que los modernistas posteriores absorbieron o rechazaron."
+   },
+   "refs": []
+  },
+  {
+   "id": "futurism-typography",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "architecture",
+    "fashion",
+    "product"
+   ],
+   "start": 1909,
+   "end": 1935,
+   "fadeIn": 0,
+   "fadeOut": 4,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT",
+    "RU"
+   ],
+   "name": "Futurism",
+   "short": "Futurism",
+   "key": "Marinetti’s movement of 1909: its ‘words in freedom’ broke the line of type, mixing typefaces and inks,[1][2] and it reached architecture, fashion and objects.",
+   "traits": [
+    "Words in freedom: poetry at once verbal and visual[1]",
+    "Mixed typefaces and several colours of ink on one page[2]",
+    "Onomatopoeia and type as sound[1]",
+    "The page as a visual as well as a verbal space[1]",
+    "Later applied to advertising, as in Depero’s work[3]",
+    "The manifesto as a public form of provocation, from Marinetti’s of 1909 to Sant’Elia’s of 1914",
+    "Architecture of the machine age in Antonio Sant’Elia’s drawings for a ‘new city’",
+    "Dress and objects in Thayaht’s TuTa suit and in Depero’s designs"
+   ],
+   "context": "Futurism, launched by Filippo Tommaso Marinetti in 1909, celebrated machines, speed and war. Its founding manifesto appeared in the Paris newspaper Le Figaro on 20 February 1909, and the movement made the manifesto a standard way to announce a design programme. Marinetti called for a ‘typographical revolution’ in which one page could use three or four colours of ink or even twenty typefaces,[2] and his book Zang Tumb Tuuum (1914), his first published collection of parole in libertà, put it into practice.[1] In architecture, Antonio Sant’Elia’s drawings and his 1914 manifesto imagined a city of the machine age, though little of it was built. In dress, Thayaht’s one-piece TuTa suit of 1919 applied Futurist ideas of simplicity and modern life to clothing. Fortunato Depero carried Futurist ideas into advertising in the 1930s, with his 1931 manifesto of Futurist advertising art and the Campari Soda bottle of 1932.[3] The movement was then close to the Fascist regime: Marinetti was one of the first supporters of Italian Fascism, and Futurist language marked the Exhibition of the Fascist Revolution (1932–34).[2]",
+   "shift": "It loosened typography from the regular line, treating the page as a space of visual as well as verbal poetry.[1][2] It also carried that break with tradition from the page to the building, the garment and the everyday object.",
+   "wiki": "Zang_Tumb_Tumb",
+   "es": {
+    "name": "Futurismo",
+    "short": "Futurismo",
+    "key": "El movimiento de Marinetti de 1909: sus «palabras en libertad» rompieron la línea tipográfica, mezclando tipos y tintas,[1][2] y llegó a la arquitectura, la moda y los objetos.",
+    "traits": [
+     "Palabras en libertad: poesía a la vez verbal y visual[1]",
+     "Mezcla de tipos y de varios colores de tinta en una página[2]",
+     "Onomatopeyas y letra como sonido[1]",
+     "La página como espacio visual además de verbal[1]",
+     "Luego aplicada a la publicidad, como en la obra de Depero[3]",
+     "El manifiesto como forma pública de provocación, del de Marinetti en 1909 al de Sant’Elia en 1914",
+     "Arquitectura de la era de la máquina en los dibujos de Antonio Sant’Elia para una «ciudad nueva»",
+     "Vestuario y objetos en el traje TuTa de Thayaht y en los diseños de Depero"
+    ],
+    "context": "El futurismo, lanzado por Filippo Tommaso Marinetti en 1909, celebró las máquinas, la velocidad y la guerra. Su manifiesto fundacional apareció en el diario parisino Le Figaro el 20 de febrero de 1909, y el movimiento hizo del manifiesto una manera habitual de anunciar un programa de diseño. Marinetti pidió una «revolución tipográfica» en la que una página pudiera usar tres o cuatro colores de tinta o incluso veinte tipos,[2] y su libro Zang Tumb Tuuum (1914), su primera colección publicada de parole in libertà, la puso en práctica.[1] En arquitectura, los dibujos de Antonio Sant’Elia y su manifiesto de 1914 imaginaron una ciudad de la era de la máquina, aunque casi nada de ella se construyó. En el vestuario, el traje de una pieza TuTa de Thayaht, de 1919, aplicó a la ropa las ideas futuristas de simplicidad y vida moderna. Fortunato Depero llevó las ideas futuristas a la publicidad en los años treinta, con su manifiesto de 1931 sobre el arte publicitario futurista y la botella del Campari Soda de 1932.[3] El movimiento estaba entonces cerca del régimen fascista: Marinetti fue de los primeros partidarios del fascismo italiano y el lenguaje futurista marcó la Exposición de la Revolución Fascista (1932–34).[2]",
+    "shift": "Soltó la tipografía de la línea regular y trató la página como un espacio de poesía visual además de verbal.[1][2] También llevó esa ruptura con la tradición de la página al edificio, la prenda y el objeto cotidiano."
+   },
+   "refs": [
+    {
+     "label": "MoMA, F. T. Marinetti, Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà (1914)",
+     "url": "https://www.moma.org/collection/works/31450",
+     "checks": "Libro de 1914 (Edizioni Futuriste di «Poesia», Milán), primera colección publicada de parole in libertà, «una forma de poesía a la vez verbal y visual»; título onomatopéyico que evoca la guerra mecanizada (asedio de Adrianópolis); composición tipográfica de Cesare Cavanna. ⚠ El registro escribe «Tumb Tumb»; la ficha usa «Tuuum».",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Hofstra University Library, «Exhibition of the Fascist Revolution» (PDF)",
+     "url": "https://www.hofstra.edu/pdf/library/libspc_weingrow_std_marzigliano.pdf",
+     "checks": "Marinetti (1876–1944) hablaba de una «revolución tipográfica» y de usar en una misma página tres o cuatro colores de tinta o incluso veinte tipos; fue de los primeros partidarios del fascismo italiano; Exposición de la Revolución Fascista (1932–34) con lenguaje futurista. ⚠ Fuente de biblioteca universitaria; no menciona Zang Tumb Tuuum ni a Depero.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Domus, «The story of Depero’s Campari Soda bottle» (2022)",
+     "url": "https://www.domusweb.it/en/design/2022/02/23/depero-campari-soda-bottle.html",
+     "checks": "Fortunato Depero diseñó en 1932 la botella del Campari Soda; su manifiesto de 1931 sobre el arte publicitario futurista sostiene que el producto artístico es utilitario e ideologizado. ⚠ No trata el libro Depero Futurista (1927).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "plakatstil",
+   "level": "normal",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1905,
+   "end": 1920,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Plakatstil (object poster)",
+   "short": "Plakatstil",
+   "key": "A German poster style that began in 1905 and reduced the image to the advertised object in flat colour with the brand name in large letters.",
+   "traits": [
+    "The product alone, drawn simply",
+    "Flat areas of strong colour",
+    "Brand name in large, bold lettering",
+    "Little or no background or narrative",
+    "Reads at a glance from the street"
+   ],
+   "context": "It arose in Berlin, where brand advertising was growing and posters competed on the street. Lucian Bernhard’s poster for Priester matches of 1905 reduced a busier design to two matches and the name, and it became the model. Ludwig Hohlwein in Munich later developed his own, more painterly version. The style faded around 1920.",
+   "shift": "From the illustrated poster, with scene and decoration, to an image that delivered the product and its name in one look. It set a pattern for later brand-led advertising, in which an object and a name carry the message.",
+   "links": {
+    "movements": [],
+    "designers": [],
+    "works": [
+     "priester-matches-1905"
+    ]
+   },
+   "es": {
+    "name": "Plakatstil (cartel de objeto)",
+    "short": "Plakatstil",
+    "key": "Un estilo alemán de cartel que comenzó en 1905 y redujo la imagen al objeto anunciado, en color plano y con el nombre de la marca en letras grandes.",
+    "traits": [
+     "Solo el producto, dibujado con sencillez",
+     "Áreas planas de color fuerte",
+     "Nombre de la marca en letras grandes y gruesas",
+     "Poco o ningún fondo ni narración",
+     "Se lee de un vistazo desde la calle"
+    ],
+    "context": "Surgió en Berlín, donde crecía la publicidad de marcas y los carteles competían en la calle. El cartel de Lucian Bernhard para los fósforos Priester de 1905 redujo un diseño más cargado a dos fósforos y el nombre, y se volvió el modelo. Ludwig Hohlwein, en Múnich, desarrolló después su propia versión, más pictórica. El estilo decayó hacia 1920.",
+    "shift": "Del cartel ilustrado, con escena y decoración, a una imagen que entrega el producto y su nombre de una sola mirada. Fijó un patrón para la publicidad posterior centrada en la marca, en que un objeto y un nombre llevan el mensaje."
+   },
+   "refs": []
+  }
+ ]
+}

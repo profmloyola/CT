@@ -1,0 +1,204 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-desktop-publishing",
+   "track": "technological",
+   "start": 1984,
+   "end": 2026,
+   "cont": true,
+   "date": "1984 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Desktop publishing and digital type",
+   "short": "Desktop publishing",
+   "key": "From 1984 to 1985 the Macintosh, the LaserWriter, PostScript and PageMaker let a person lay out and set type on a desk, work that had belonged to typesetters and printers.",
+   "happened": "Apple released the Macintosh in January 1984, and in 1985 it launched the LaserWriter printer, which used Adobe’s PostScript language. In the same year Aldus released PageMaker for the Macintosh. Together they allowed text, type and images to be arranged on screen and printed at near-professional quality from an ordinary office.",
+   "effect": "Typesetting and layout moved from specialist trades to the designer’s own desk, and designers could try out letterforms and layouts directly on screen. Emigre, founded in 1984 by Rudy VanderLans and Zuzana Licko, made magazines and typefaces with the new tools and became a showcase for experimental type, and the same tools put page layout in the hands of many non-designers.",
+   "es": {
+    "name": "Autoedición y tipografía digital",
+    "short": "Autoedición",
+    "date": "1984 →",
+    "key": "Entre 1984 y 1985 el Macintosh, la LaserWriter, PostScript y PageMaker permitieron componer y diagramar sobre un escritorio, un trabajo que antes era de tipógrafos e impresores.",
+    "happened": "Apple lanzó el Macintosh en enero de 1984 y en 1985 presentó la impresora LaserWriter, que usaba el lenguaje PostScript de Adobe. Ese mismo año Aldus lanzó PageMaker para el Macintosh. Juntos permitieron disponer texto, tipografía e imágenes en pantalla e imprimirlos con calidad casi profesional desde una oficina común.",
+    "effect": "La composición y la diagramación pasaron de los oficios especializados al escritorio del propio diseñador, que pudo probar letras y diagramaciones directamente en pantalla. Emigre, fundada en 1984 por Rudy VanderLans y Zuzana Licko, hizo revistas y tipografías con las nuevas herramientas y se volvió vitrina de la tipografía experimental, y las mismas herramientas pusieron la diagramación en manos de muchos que no eran diseñadores."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-web",
+   "track": "technological",
+   "start": 1991,
+   "end": 2026,
+   "cont": true,
+   "date": "1991 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "CH",
+    "US"
+   ],
+   "name": "The web",
+   "short": "The web",
+   "key": "The World Wide Web, proposed by Tim Berners-Lee at CERN in 1989 and opened to the public in the early 1990s, made the screen a place where design is published.",
+   "happened": "Tim Berners-Lee proposed the web at CERN in 1989, and the first website was running there in 1991. The Mosaic browser, released in 1993, brought images and pages to wide use, and style sheets (CSS) were proposed in 1994 to separate a page’s look from its content.",
+   "effect": "Graphic design acquired a new medium whose pages were not fixed: the reader’s browser, screen and installed typefaces changed how a page looked, so designers had to plan for variation rather than for one printed result. Interface and screen design became a major field of work, and publishing no longer required a press.",
+   "es": {
+    "name": "La web",
+    "short": "La web",
+    "date": "1991 →",
+    "key": "La World Wide Web, propuesta por Tim Berners-Lee en el CERN en 1989 y abierta al público a comienzos de los años noventa, hizo de la pantalla un lugar donde se publica diseño.",
+    "happened": "Tim Berners-Lee propuso la web en el CERN en 1989, y el primer sitio web funcionaba allí en 1991. El navegador Mosaic, lanzado en 1993, llevó las imágenes y las páginas a un uso amplio, y en 1994 se propusieron las hojas de estilo (CSS) para separar el aspecto de una página de su contenido.",
+    "effect": "El diseño gráfico ganó un medio nuevo cuyas páginas no eran fijas: el navegador, la pantalla y las tipografías instaladas del lector cambiaban el aspecto de la página, de modo que los diseñadores debieron planificar la variación y no un único resultado impreso. El diseño de interfaces y de pantallas pasó a ser un campo mayor de trabajo, y publicar ya no exigía una imprenta."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-smartphone",
+   "track": "technological",
+   "start": 1990,
+   "end": 2026,
+   "cont": true,
+   "date": "1990 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "JP",
+    "FI"
+   ],
+   "name": "Mobile phone and smartphone",
+   "short": "Smartphone",
+   "key": "The mobile phone grew from a portable voice device into a pocket computer with a touch screen, and the iPhone of 2007 set the model.",
+   "happened": "Mobile phones spread widely during the 1990s. Apple announced the iPhone in January 2007 and put it on sale in June, with a touch screen as its main control, and in July 2008 its App Store opened for outside software. Phones using Google’s Android system followed in 2008.",
+   "effect": "With a large touch screen in place of a keypad, the phone’s physical design was reduced to a flat glass face, and the interface became the product. Designers had to draw icons, gestures and screen layouts for small screens, and apps became a new kind of designed object, distributed to millions of users through app stores.",
+   "es": {
+    "name": "Teléfono móvil y smartphone",
+    "short": "Smartphone",
+    "date": "1990 →",
+    "key": "El teléfono móvil pasó de ser un aparato portátil de voz a un computador de bolsillo con pantalla táctil, y el iPhone de 2007 fijó el modelo.",
+    "happened": "Los teléfonos móviles se difundieron ampliamente en los años noventa. Apple anunció el iPhone en enero de 2007 y lo puso a la venta en junio, con una pantalla táctil como control principal, y en julio de 2008 abrió su App Store para software externo. Los teléfonos con el sistema Android de Google siguieron en 2008.",
+    "effect": "Con una gran pantalla táctil en lugar de un teclado, el diseño físico del teléfono se redujo a una cara plana de vidrio y la interfaz pasó a ser el producto. Los diseñadores debieron dibujar íconos, gestos y diagramaciones para pantallas pequeñas, y las aplicaciones se volvieron un nuevo tipo de objeto diseñado, distribuido a millones de usuarios por tiendas de aplicaciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-microelectronics",
+   "track": "technological",
+   "start": 1975,
+   "end": 1995,
+   "date": "1970–1995",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "JP"
+   ],
+   "name": "Microelectronics and miniaturisation",
+   "short": "Microelectronics",
+   "key": "The integrated circuit and the microprocessor shrank electronics so that the size of a device no longer depended on its components.",
+   "happened": "The integrated circuit was developed in 1958–59, and Intel’s 4004, a microprocessor on a single chip, appeared in 1971. Through the 1970s and 1980s calculators, watches, cameras and audio players shrank and became cheap, and Sony’s Walkman, launched in 1979, was a small cassette player that people could carry.",
+   "effect": "Once the electronics took up little room, designers decided the shape of an object by how it was held, carried and displayed rather than by the size of its parts. Personal, portable products such as the Walkman became possible, and electronic goods began to compete on appearance and brand as much as on technical performance.",
+   "es": {
+    "name": "Microelectrónica y miniaturización",
+    "short": "Microelectrónica",
+    "date": "1970–1995",
+    "key": "El circuito integrado y el microprocesador achicaron la electrónica, de modo que el tamaño de un aparato dejó de depender de sus componentes.",
+    "happened": "El circuito integrado se desarrolló en 1958–59, y el 4004 de Intel, un microprocesador en un solo chip, apareció en 1971. A lo largo de los años setenta y ochenta las calculadoras, los relojes, las cámaras y los reproductores de audio se achicaron y abarataron, y el Walkman de Sony, lanzado en 1979, era un pequeño reproductor de casetes que se podía llevar encima.",
+    "effect": "Una vez que la electrónica ocupó poco espacio, los diseñadores definieron la forma de un objeto según cómo se sostiene, se lleva y se exhibe, y no según el tamaño de sus partes. Los productos personales y portátiles, como el Walkman, se hicieron posibles, y los bienes electrónicos empezaron a competir tanto por su aspecto y su marca como por su rendimiento técnico."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-digital-music",
+   "track": "technological",
+   "start": 1995,
+   "end": 2010,
+   "date": "1995–2010",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "name": "Portable digital music",
+   "short": "Digital music",
+   "key": "Music compressed into files, the MP3 and then the iPod, separated music from its physical medium.",
+   "happened": "The MP3 audio format, approved as an international standard in 1993 and developed with the German Fraunhofer institute, made music files small enough to share over the internet. Napster, launched in 1999, spread the practice widely, and Apple introduced the iPod in October 2001 and opened the iTunes Store in 2003.",
+   "effect": "Music no longer needed a disc, a sleeve or a shelf, so the album cover shrank to a thumbnail on a screen and the player became the designed object. The iPod, with its white case, click wheel and white headphones, turned a music player into a recognisable product of its maker’s brand.",
+   "es": {
+    "name": "Música digital portátil",
+    "short": "Música digital",
+    "date": "1995–2010",
+    "key": "La música comprimida en archivos, el MP3 y luego el iPod, separó la música de su soporte físico.",
+    "happened": "El formato de audio MP3, aprobado como norma internacional en 1993 y desarrollado con el instituto alemán Fraunhofer, hizo que los archivos de música fueran lo bastante pequeños para compartirlos por internet. Napster, lanzado en 1999, difundió ampliamente la práctica, y Apple presentó el iPod en octubre de 2001 y abrió la tienda iTunes en 2003.",
+    "effect": "La música ya no necesitaba un disco, una carátula ni un estante, así que la portada del álbum se redujo a una miniatura en pantalla y el reproductor pasó a ser el objeto diseñado. El iPod, con su carcasa blanca, su rueda táctil y sus audífonos blancos, convirtió un reproductor de música en un producto reconocible de la marca de su fabricante."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-digital-fabrication",
+   "track": "technological",
+   "start": 1980,
+   "end": 2026,
+   "cont": true,
+   "date": "1980 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "CA"
+   ],
+   "name": "Computer-aided design and digital fabrication",
+   "short": "Digital fabrication",
+   "key": "Computer drawing and computer-controlled machines let designers model complex forms on screen and have them cut, built or printed directly.",
+   "happened": "Autodesk released AutoCAD in 1982, bringing computer drafting to ordinary computers, and in 1984 Chuck Hull patented stereolithography, an early method of 3D printing. In the 1990s architects and designers began to use software and numerically controlled machines to make complex curved shapes; Frank Gehry’s office used the aerospace software CATIA for the Guggenheim Museum in Bilbao, completed in 1997.",
+   "effect": "Forms that were hard to draw by hand or to measure for the builder, such as double-curved surfaces, became possible to design and build, and the same digital file could drive both the drawing and the machine. Designers could also make one-off pieces and prototypes without the cost of moulds or tooling.",
+   "es": {
+    "name": "Diseño asistido y fabricación digital",
+    "short": "Fabricación digital",
+    "date": "1980 →",
+    "key": "El dibujo por computador y las máquinas controladas por computador permitieron modelar formas complejas en pantalla y cortarlas, construirlas o imprimirlas directamente.",
+    "happened": "Autodesk lanzó AutoCAD en 1982 y llevó el dibujo por computador a los computadores comunes, y en 1984 Chuck Hull patentó la estereolitografía, uno de los primeros métodos de impresión 3D. En los años noventa arquitectos y diseñadores empezaron a usar software y máquinas de control numérico para hacer formas curvas complejas; la oficina de Frank Gehry usó el software aeroespacial CATIA para el Museo Guggenheim de Bilbao, terminado en 1997.",
+    "effect": "Formas difíciles de dibujar a mano o de medir para el constructor, como las superficies de doble curvatura, pasaron a ser posibles de diseñar y construir, y un mismo archivo digital podía guiar tanto el dibujo como la máquina. Los diseñadores también pudieron hacer piezas únicas y prototipos sin el costo de moldes ni de herramientas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-generative-ai",
+   "track": "technological",
+   "start": 2022,
+   "end": null,
+   "date": "2022 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Generative artificial intelligence",
+   "short": "Generative AI",
+   "key": "The family of models that, from 2022, produce images and text from written instructions, and which brought automation to creative work in design.",
+   "happened": "In 2022 several systems that generate images from a text description became available to the public, among them DALL·E 2 (April), Midjourney and Stable Diffusion. In November of the same year OpenAI released ChatGPT, a conversational assistant based on a language model, which reached a very wide audience within weeks.",
+   "effect": "The brief or the prompt became a new way of making an image, and part of the work of illustration and graphic design could be generated rather than drawn, which raised questions about authorship, the use of existing images for training and the value of craft. At the same time, writing in natural language became a new form of interface, so that interaction design had to consider dialogue as well as the screen.",
+   "es": {
+    "name": "Inteligencia artificial generativa",
+    "short": "IA generativa",
+    "date": "2022 →",
+    "key": "La familia de modelos que, desde 2022, producen imágenes y texto a partir de instrucciones escritas, y que llevó la automatización al trabajo creativo del diseño.",
+    "happened": "En 2022 varios sistemas que generan imágenes a partir de una descripción escrita quedaron al alcance del público, entre ellos DALL·E 2 (abril), Midjourney y Stable Diffusion. En noviembre del mismo año OpenAI lanzó ChatGPT, un asistente conversacional basado en un modelo de lenguaje, que alcanzó en pocas semanas a un público muy amplio.",
+    "effect": "La instrucción escrita pasó a ser una nueva manera de producir una imagen, y parte del trabajo de ilustración y diseño gráfico pudo generarse en lugar de dibujarse, lo que planteó preguntas sobre la autoría, el uso de imágenes existentes para el entrenamiento y el valor del oficio. A la vez, escribir en lenguaje natural se volvió una nueva forma de interfaz, de modo que el diseño de interacción debió considerar el diálogo además de la pantalla."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+[
+ {
+  "rtype": "designer",
+  "id": "eero-aarnio",
+  "name": "Eero Aarnio",
+  "born": 1932,
+  "died": null,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador finlandés del mueble pop de plástico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-plastics",
+    "mecanismo": "La fibra de vidrio permite una silla esférica de una pieza"
+   }
+  ],
+  "movements": [
+   "pop-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-plastics",
+    "item": "eero-aarnio",
+    "mecanismo": "La fibra de vidrio permite una silla esférica de una pieza"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "bruno-munari",
+  "name": "Bruno Munari",
+  "born": 1907,
+  "died": 1998,
+  "kind": "person",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador, artista y teórico italiano (lámparas, libros infantiles, pedagogía).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "Empresas pequeñas como Danese editan objetos experimentales"
+   }
+  ],
+  "movements": [
+   "italian-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "bruno-munari",
+    "mecanismo": "Empresas pequeñas como Danese editan objetos experimentales"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "douglas-engelbart",
+  "name": "Douglas Engelbart",
+  "born": 1925,
+  "died": 2013,
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Inventor del ratón y del sistema NLS; su demostración de 1968 funda el diseño de interacción.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-cold-war",
+    "mecanismo": "Financiamiento de la agencia militar ARPA para la investigación en computación interactiva"
+   }
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-cold-war",
+    "item": "douglas-engelbart",
+    "mecanismo": "Financiamiento de la agencia militar ARPA para la investigación en computación interactiva"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

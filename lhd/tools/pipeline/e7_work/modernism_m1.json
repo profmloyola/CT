@@ -1,0 +1,336 @@
+[
+ {
+  "rtype": "theory",
+  "id": "th-sant-elia-manifesto-1914",
+  "name": "Manifesto of Futurist Architecture",
+  "name_es": "Manifiesto de la arquitectura futurista",
+  "author": "Antonio Sant'Elia",
+  "year": 1914,
+  "genre": "manifesto",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "La ciudad como máquina en movimiento; antecedente directo del high-tech y de la megaestructura.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-electricity",
+    "mecanismo": "Centrales eléctricas, ascensores y tránsito en varios niveles se vuelven la nueva estética de la ciudad"
+   },
+   {
+    "tipo": "secundario",
+    "via": "futurism-typography",
+    "mecanismo": "Extiende el futurismo a la arquitectura"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-electricity",
+    "item": "th-sant-elia-manifesto-1914",
+    "mecanismo": "Centrales eléctricas, ascensores y tránsito en varios niveles se vuelven la nueva estética de la ciudad"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "futurism-typography"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-international-style-1932",
+  "name": "The International Style: Architecture since 1922",
+  "name_es": "El estilo internacional: arquitectura desde 1922",
+  "author": "Henry-Russell Hitchcock and Philip Johnson",
+  "year": 1932,
+  "genre": "architecture",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Libro y exposición del MoMA que dieron nombre y reglas al estilo internacional; texto obligatorio.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Antes y durante el exilio de los arquitectos europeos, el MoMA presenta su obra al público estadounidense como un estilo"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-moma",
+    "mecanismo": "Exposición «Modern Architecture: International Exhibition» (1932)"
+   },
+   {
+    "tipo": "secundario",
+    "via": "international-style",
+    "mecanismo": "Da nombre al movimiento"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-migration-exile",
+    "item": "th-international-style-1932",
+    "mecanismo": "Antes y durante el exilio de los arquitectos europeos, el MoMA presenta su obra al público estadounidense como un estilo"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.institutions": [
+    "inst-moma"
+   ],
+   "links.movements": [
+    "international-style"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-kepes-language-of-vision-1944",
+  "name": "Language of Vision",
+  "name_es": "El lenguaje de la visión",
+  "author": "György Kepes",
+  "year": 1944,
+  "genre": "pedagogy",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Manual de percepción y forma de la Nueva Bauhaus de Chicago, base de la enseñanza del diseño gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Docentes de la Bauhaus exiliados en Chicago convierten su pedagogía en manual"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-new-bauhaus",
+    "mecanismo": "Kepes enseña en la Nueva Bauhaus"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-migration-exile",
+    "item": "th-kepes-language-of-vision-1944",
+    "mecanismo": "Docentes de la Bauhaus exiliados en Chicago convierten su pedagogía en manual"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.institutions": [
+    "inst-new-bauhaus"
+   ]
+  }
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-domus",
+  "name": "Domus",
+  "name_es": "Domus",
+  "kind": "publication",
+  "start": 1928,
+  "end": null,
+  "place": "Milan",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Revista fundada por Gio Ponti; con Casabella, el principal medio del diseño italiano del siglo XX.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "La cultura del proyecto italiano se discute y difunde en revistas de arquitectura y diseño"
+   },
+   {
+    "tipo": "secundario",
+    "via": "gio-ponti",
+    "mecanismo": "La funda y la dirige durante décadas"
+   }
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "inst-domus",
+    "mecanismo": "La cultura del proyecto italiano se discute y difunde en revistas de arquitectura y diseño"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "gio-ponti"
+   ]
+  }
+ },
+ {
+  "rtype": "movement",
+  "id": "suprematism",
+  "name": "Suprematism",
+  "name_es": "Suprematismo",
+  "start": 1915,
+  "end": 1935,
+  "disciplines": [
+   "graphic",
+   "product",
+   "architecture"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fuente del vocabulario geométrico de Lisitski y del constructivismo; aparece en toda historia del diseño gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "La abstracción radical de la vanguardia → formas geométricas puras aplicadas a porcelana, carteles y arquitectura"
+   },
+   {
+    "tipo": "secundario",
+    "via": "el-lissitzky",
+    "mecanismo": "Lisitski traslada el suprematismo al libro y al cartel"
+   }
+  ],
+  "miembros": [
+   "suprematist-teapot-1923",
+   "kazimir-malevich",
+   "red-wedge-poster",
+   "el-lissitzky"
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-avant-gardes",
+    "item": "suprematism",
+    "mecanismo": "La abstracción radical de la vanguardia → formas geométricas puras aplicadas a porcelana, carteles y arquitectura"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "el-lissitzky"
+   ]
+  }
+ },
+ {
+  "rtype": "movement",
+  "id": "new-york-school-graphic",
+  "name": "American modernism in graphic design (New York School)",
+  "name_es": "Modernismo gráfico estadounidense (Escuela de Nueva York)",
+  "start": 1940,
+  "end": 1970,
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Versión estadounidense, intuitiva y publicitaria, del modernismo gráfico europeo (Rand, Lustig, Bass, Lubalin, Push Pin).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Los emigrados europeos llevan la vanguardia a Nueva York → se mezcla con la publicidad y el mercado editorial"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "La expansión publicitaria de la posguerra da encargos a una gráfica de ideas visuales y humor"
+   },
+   {
+    "tipo": "secundario",
+    "via": "paul-rand",
+    "mecanismo": "Rand es su figura central"
+   }
+  ],
+  "miembros": [
+   "paul-rand",
+   "saul-bass",
+   "alvin-lustig",
+   "herb-lubalin",
+   "milton-glaser",
+   "think-small",
+   "ibm-logo",
+   "avant-garde-lubalin-1968",
+   "inst-push-pin"
+  ],
+  "era": "modernism",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-migration-exile",
+    "item": "new-york-school-graphic",
+    "mecanismo": "Los emigrados europeos llevan la vanguardia a Nueva York → se mezcla con la publicidad y el mercado editorial"
+   },
+   {
+    "ctx": "ctx-consumer-society",
+    "item": "new-york-school-graphic",
+    "mecanismo": "La expansión publicitaria de la posguerra da encargos a una gráfica de ideas visuales y humor"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "paul-rand"
+   ]
+  }
+ }
+]

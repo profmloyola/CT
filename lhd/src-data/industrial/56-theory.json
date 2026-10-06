@@ -1,0 +1,488 @@
+{
+ "theories": [
+  {
+   "id": "th-chippendale-director",
+   "level": "essential",
+   "year": 1754,
+   "date": "1754",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "method",
+   "author": "Thomas Chippendale",
+   "name": "The Gentleman and Cabinet-Maker’s Director",
+   "short": "Chippendale",
+   "key": "Thomas Chippendale’s book of 1754, a pattern book of engraved furniture designs in the Gothic, Chinese and ‘modern’ tastes, offered to patrons and to cabinet-makers.",
+   "ideas": [
+    "Furniture could be shown on the page as engraved designs, drawn in plan and elevation.",
+    "The book gave models in several fashionable tastes, among them Gothic, Chinese and the ‘modern’ French taste, to be chosen by the client.",
+    "Cabinet-makers could use the plates as patterns for their own work.",
+    "The designer’s name could carry authority in the trade, as the title of the book made clear."
+   ],
+   "impact": "Published in London in 1754 under Chippendale’s own name, with later editions in the following years, it was one of the first books of furniture designs to come from a cabinet-maker rather than an architect. Its plates spread the styles of London to makers across Britain and abroad, and the name ‘Chippendale’ later came to label a whole kind of eighteenth-century furniture.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "thomas-chippendale"
+    ],
+    "works": [
+     "chippendale-ribbon-chair-1754"
+    ]
+   },
+   "es": {
+    "author": "Thomas Chippendale",
+    "name": "The Gentleman and Cabinet-Maker’s Director",
+    "short": "Chippendale",
+    "date": "1754",
+    "key": "El libro de Thomas Chippendale de 1754, un catálogo de diseños de muebles grabados en los gustos gótico, chino y «moderno», ofrecido a clientes y a ebanistas.",
+    "ideas": [
+     "El mueble podía mostrarse en la página como diseños grabados, dibujados en planta y alzado.",
+     "El libro daba modelos en varios gustos de moda, entre ellos el gótico, el chino y el gusto francés «moderno», para que el cliente eligiera.",
+     "Los ebanistas podían usar las láminas como patrones para su propio trabajo.",
+     "El nombre del diseñador podía dar autoridad en el oficio, como dejaba claro el título del libro."
+    ],
+    "impact": "Publicado en Londres en 1754 con el nombre del propio Chippendale, y con nuevas ediciones en los años siguientes, fue uno de los primeros libros de diseños de muebles que salió de un ebanista y no de un arquitecto. Sus láminas difundieron los estilos de Londres a talleres de toda Gran Bretaña y del extranjero, y el nombre «Chippendale» llegó a designar después todo un tipo de mueble del siglo XVIII."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-hepplewhite-guide",
+   "level": "normal",
+   "year": 1788,
+   "date": "1788",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "method",
+   "author": "George Hepplewhite",
+   "name": "The Cabinet-Maker and Upholsterer’s Guide",
+   "short": "Hepplewhite",
+   "key": "A pattern book of furniture designs published in London in 1788 under the name of George Hepplewhite, two years after his death, with lighter and simpler neoclassical forms.",
+   "ideas": [
+    "Furniture designs were offered as engraved plates, for cabinet-makers and their clients to choose from.",
+    "The designs favoured light, slender forms with straight lines and delicate ornament in the neoclassical taste.",
+    "The book gave guidance on the making and upholstering of furniture as well as on its looks."
+   ],
+   "impact": "It was published by Hepplewhite’s widow, Alice, in 1788, with new editions in the years after. Its designs, among them chairs with shield-shaped backs, became linked with the name of Hepplewhite, although little is known of the man himself.",
+   "links": {
+    "movements": [
+     "neoclassicism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "George Hepplewhite",
+    "name": "The Cabinet-Maker and Upholsterer’s Guide",
+    "short": "Hepplewhite",
+    "date": "1788",
+    "key": "Un catálogo de diseños de muebles publicado en Londres en 1788 con el nombre de George Hepplewhite, dos años después de su muerte, con formas neoclásicas más livianas y simples.",
+    "ideas": [
+     "Los diseños de muebles se ofrecían como láminas grabadas, para que ebanistas y clientes eligieran.",
+     "Los diseños favorecían formas livianas y esbeltas, de líneas rectas y ornamento delicado, en el gusto neoclásico.",
+     "El libro daba orientación sobre la fabricación y el tapizado de los muebles, además de su aspecto."
+    ],
+    "impact": "Lo publicó la viuda de Hepplewhite, Alice, en 1788, con nuevas ediciones en los años siguientes. Sus diseños, entre ellos las sillas de respaldo en forma de escudo, quedaron ligados al nombre de Hepplewhite, aunque se sabe poco del hombre mismo."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-sheraton-drawing-book",
+   "level": "normal",
+   "year": 1791,
+   "date": "1791–1794",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "method",
+   "author": "Thomas Sheraton",
+   "name": "The Cabinet-Maker and Upholsterer’s Drawing-Book",
+   "short": "Sheraton",
+   "key": "Thomas Sheraton’s book of furniture designs, issued in parts between 1791 and 1794, with slender neoclassical pieces and lessons in drawing for cabinet-makers.",
+   "ideas": [
+    "Furniture designs were issued as engraved plates in parts, for subscribers in the trade.",
+    "The designs favoured slender, straight-lined pieces in the neoclassical taste.",
+    "The book also taught cabinet-makers how to draw in geometry and perspective, so that they could present their designs."
+   ],
+   "impact": "Sheraton, a draughtsman and writer more than a maker, published it in London in parts from 1791 to 1794 and it spread the lighter neoclassical furniture of the end of the century among makers. Later works of his, such as the Cabinet Dictionary of 1803, continued the same line.",
+   "links": {
+    "movements": [
+     "neoclassicism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Thomas Sheraton",
+    "name": "The Cabinet-Maker and Upholsterer’s Drawing-Book",
+    "short": "Sheraton",
+    "date": "1791–1794",
+    "key": "El libro de diseños de muebles de Thomas Sheraton, publicado por partes entre 1791 y 1794, con piezas neoclásicas esbeltas y lecciones de dibujo para ebanistas.",
+    "ideas": [
+     "Los diseños de muebles salían como láminas grabadas en entregas, para suscriptores del oficio.",
+     "Los diseños favorecían piezas esbeltas y de líneas rectas en el gusto neoclásico.",
+     "El libro enseñaba además a los ebanistas a dibujar en geometría y perspectiva, para que pudieran presentar sus diseños."
+    ],
+    "impact": "Sheraton, más dibujante y escritor que fabricante, lo publicó en Londres por entregas de 1791 a 1794, y difundió entre los talleres el mueble neoclásico más liviano de fines del siglo. Obras posteriores suyas, como el Cabinet Dictionary de 1803, siguieron la misma línea."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-pugin-true-principles",
+   "level": "essential",
+   "year": 1841,
+   "date": "1841",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "architecture",
+   "author": "Augustus Welby Northmore Pugin",
+   "name": "The True Principles of Pointed or Christian Architecture",
+   "short": "Pugin",
+   "key": "Pugin’s book of 1841, which argued that Gothic architecture was the true Christian style and that its forms came honestly from construction and use.",
+   "ideas": [
+    "Good architecture has no feature that is not necessary for convenience, construction or propriety.",
+    "All ornament should enrich the essential construction of the building and not be added to it.",
+    "The pointed, Gothic style was for Pugin the architecture of Christian belief, and he set it against the classical styles.",
+    "The same rules of fitness and truth to materials apply to furniture, metalwork and other objects."
+   ],
+   "impact": "Published in London in 1841, it drew on lectures Pugin had given and was illustrated with his own drawings. Its demand that form and ornament come from structure influenced the Gothic Revival and, later, writers on design who argued for honesty to construction and material.",
+   "links": {
+    "movements": [
+     "historicism",
+     "gothic-revival"
+    ],
+    "institutions": [],
+    "designers": [
+     "pugin"
+    ],
+    "works": [
+     "westminster-1840"
+    ]
+   },
+   "es": {
+    "author": "Augustus Welby Northmore Pugin",
+    "name": "The True Principles of Pointed or Christian Architecture",
+    "short": "Pugin",
+    "date": "1841",
+    "key": "El libro de Pugin de 1841, que sostuvo que la arquitectura gótica era el verdadero estilo cristiano y que sus formas nacían con honestidad de la construcción y del uso.",
+    "ideas": [
+     "La buena arquitectura no tiene ningún elemento que no sea necesario para la comodidad, la construcción o la conveniencia.",
+     "Todo ornamento debe enriquecer la construcción esencial del edificio y no agregarse a ella.",
+     "El estilo apuntado, gótico, era para Pugin la arquitectura de la fe cristiana, y lo opuso a los estilos clásicos.",
+     "Las mismas reglas de adecuación y verdad con los materiales valen para el mueble, la metalistería y otros objetos."
+    ],
+    "impact": "Publicado en Londres en 1841, se apoyó en conferencias que Pugin había dado y se ilustró con dibujos suyos. Su exigencia de que la forma y el ornamento nacieran de la estructura influyó en el neogótico y, más tarde, en autores del diseño que defendieron la honestidad con la construcción y el material."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-journal-of-design",
+   "level": "normal",
+   "year": 1849,
+   "date": "1849–1852",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "Henry Cole",
+   "name": "Journal of Design and Manufactures",
+   "short": "Cole",
+   "key": "A British periodical edited by Henry Cole from 1849 to 1852, which criticised the design of industrial goods and pasted real samples of fabrics and papers into its pages.",
+   "ideas": [
+    "Machine-made goods should be judged for their design, and bad design should be named in print.",
+    "Ornament should respect the nature of the object and its material, and not copy natural forms or past styles without thought.",
+    "Manufacturers and designers should learn from each other, and the public should be educated in taste.",
+    "Real samples of printed and woven goods were attached to the issues so that readers could judge them."
+   ],
+   "impact": "It ran in six volumes from 1849 to 1852, published in London, with Cole as editor and writers such as Richard Redgrave and Ralph Wornum. It prepared the public and the trade for the debates around the Great Exhibition of 1851 and for the reform of design education.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-government-school-of-design"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Henry Cole",
+    "name": "Journal of Design and Manufactures",
+    "short": "Cole",
+    "date": "1849–1852",
+    "key": "Una revista británica dirigida por Henry Cole de 1849 a 1852, que criticó el diseño de los bienes industriales y pegó muestras reales de telas y papeles en sus páginas.",
+    "ideas": [
+     "Los bienes hechos a máquina debían juzgarse por su diseño, y el mal diseño debía nombrarse en letra impresa.",
+     "El ornamento debía respetar la naturaleza del objeto y de su material, y no copiar sin criterio formas naturales ni estilos del pasado.",
+     "Fabricantes y diseñadores debían aprender unos de otros, y el público debía educarse en el gusto.",
+     "Se pegaban a los números muestras reales de géneros estampados y tejidos para que los lectores los juzgaran."
+    ],
+    "impact": "Salió en seis volúmenes de 1849 a 1852, publicada en Londres, con Cole como director y autores como Richard Redgrave y Ralph Wornum. Preparó al público y a la industria para los debates en torno a la Gran Exposición de 1851 y para la reforma de la enseñanza del diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-laugier-essai-1753",
+   "level": "normal",
+   "year": 1753,
+   "date": "1753",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "genre": "architecture",
+   "author": "Marc-Antoine Laugier",
+   "name": "Essay on Architecture",
+   "short": "Laugier",
+   "key": "The Jesuit Marc-Antoine Laugier’s essay of 1753, which sought the principles of architecture in the primitive hut.",
+   "ideas": [
+    "Architecture should return to its natural origin, the primitive hut made of trunks, a beam and a roof.",
+    "Only the column, the entablature and the pediment are essential parts; everything else is a licence or an addition.",
+    "Columns should stand free and carry the entablature, not be buried in walls.",
+    "Engaged pilasters and decoration without a function are faults to be cut away."
+   ],
+   "impact": "Published anonymously in Paris in 1753 and expanded in 1755, with a frontispiece by Charles Eisen showing the hut. Its call for structural honesty and the removal of the Baroque ornament was widely read and became one of the founding texts of neoclassical theory.",
+   "links": {
+    "movements": [
+     "neoclassicism"
+    ],
+    "institutions": [],
+    "designers": [
+     "soufflot"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Marc-Antoine Laugier",
+    "name": "Ensayo sobre la arquitectura",
+    "short": "Laugier",
+    "date": "1753",
+    "key": "El ensayo de 1753 del jesuita Marc-Antoine Laugier, que buscó los principios de la arquitectura en la cabaña primitiva.",
+    "ideas": [
+     "La arquitectura debe volver a su origen natural, la cabaña primitiva hecha de troncos, una viga y un techo.",
+     "Solo la columna, el entablamento y el frontón son partes esenciales; todo lo demás es una licencia o un agregado.",
+     "Las columnas deben alzarse libres y sostener el entablamento, no quedar embebidas en los muros.",
+     "Las pilastras adosadas y la decoración sin función son defectos que hay que eliminar."
+    ],
+    "impact": "Publicado de forma anónima en París en 1753 y ampliado en 1755, con un frontispicio de Charles Eisen que muestra la cabaña. Su llamado a la honestidad estructural y a eliminar el ornamento barroco fue muy leído y se volvió uno de los textos fundacionales de la teoría neoclásica."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-winckelmann-history-1764",
+   "level": "essential",
+   "year": 1764,
+   "date": "1764",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "IT"
+   ],
+   "genre": "history",
+   "author": "Johann Joachim Winckelmann",
+   "name": "History of the Art of Antiquity",
+   "short": "Winckelmann",
+   "key": "Winckelmann’s history of ancient art of 1764, which presented Greek art as the highest model and made the study of antiquity the base of neoclassicism.",
+   "ideas": [
+    "Greek art reached a perfection that modern artists should imitate if they want to become great.",
+    "The ideal of Greek art is ‘noble simplicity and calm grandeur’, a phrase he had first used in 1755.",
+    "Art has a history of its own, with periods of rise, perfection and decline that can be told by style.",
+    "Works must be studied as objects in their setting, not only through ancient writers."
+   ],
+   "impact": "Published in Dresden in 1764, it was the first attempt at a history of ancient art organised by style and period. Written by the librarian and antiquarian who had also written on the finds at Herculaneum and Pompeii, it was widely translated and became the main theoretical base of neoclassicism.",
+   "links": {
+    "movements": [
+     "neoclassicism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Johann Joachim Winckelmann",
+    "name": "Historia del arte de la Antigüedad",
+    "short": "Winckelmann",
+    "date": "1764",
+    "key": "La historia del arte antiguo de Winckelmann de 1764, que presentó el arte griego como el modelo supremo y puso el estudio de la Antigüedad en la base del neoclasicismo.",
+    "ideas": [
+     "El arte griego alcanzó una perfección que los artistas modernos deben imitar si quieren llegar a ser grandes.",
+     "El ideal del arte griego es la «noble sencillez y serena grandeza», frase que había usado por primera vez en 1755.",
+     "El arte tiene una historia propia, con períodos de ascenso, perfección y decadencia que se pueden contar por estilos.",
+     "Las obras deben estudiarse como objetos en su contexto, no solo a través de los escritores antiguos."
+    ],
+    "impact": "Publicada en Dresde en 1764, fue el primer intento de una historia del arte antiguo organizada por estilos y períodos. Escrita por el bibliotecario y anticuario que también había escrito sobre los hallazgos de Herculano y Pompeya, se tradujo ampliamente y fue la principal base teórica del neoclasicismo."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-ruskin-seven-lamps-1849",
+   "level": "normal",
+   "year": 1849,
+   "date": "1849",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "John Ruskin",
+   "name": "The Seven Lamps of Architecture",
+   "short": "Ruskin",
+   "key": "John Ruskin’s book of 1849 that set out seven moral principles for architecture and held up Gothic building as the honest, hand-made ideal.",
+   "ideas": [
+    "Architecture has seven ‘lamps’ or principles: Sacrifice, Truth, Power, Beauty, Life, Memory and Obedience.",
+    "Truth forbids hiding the structure, imitating one material with another and using machine-made ornament.",
+    "Ornament carved by a free worker’s hand carries life; mechanical repetition kills it.",
+    "Old buildings are a memory of a nation and should be cared for, not restored.",
+    "Gothic building is the model, because it joined honest construction to the work of the craftsman."
+   ],
+   "impact": "Published in London in 1849 and followed by The Stones of Venice (1851–53), whose chapter ‘The Nature of Gothic’ pushed the argument further. It gave the Gothic Revival a moral doctrine and was the base of William Morris’s criticism of industrial production and of the Arts and Crafts movement.",
+   "links": {
+    "movements": [
+     "arts-and-crafts"
+    ],
+    "institutions": [],
+    "designers": [
+     "pugin"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "John Ruskin",
+    "name": "Las siete lámparas de la arquitectura",
+    "short": "Ruskin",
+    "date": "1849",
+    "key": "El libro de John Ruskin de 1849 que expuso siete principios morales para la arquitectura y propuso la construcción gótica como ideal honesto y hecho a mano.",
+    "ideas": [
+     "La arquitectura tiene siete «lámparas» o principios: Sacrificio, Verdad, Poder, Belleza, Vida, Memoria y Obediencia.",
+     "La Verdad prohíbe ocultar la estructura, imitar un material con otro y usar ornamento hecho a máquina.",
+     "El ornamento tallado por la mano de un obrero libre tiene vida; la repetición mecánica la mata.",
+     "Los edificios antiguos son la memoria de una nación y deben cuidarse, no restaurarse.",
+     "La construcción gótica es el modelo, porque unió la construcción honesta con el trabajo del artesano."
+    ],
+    "impact": "Publicado en Londres en 1849 y seguido por Las piedras de Venecia (1851–53), cuyo capítulo «La naturaleza del gótico» llevó el argumento más lejos. Dio al neogótico una doctrina moral y fue la base de la crítica de William Morris a la producción industrial y del movimiento Arts and Crafts."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-smith-wealth-of-nations-1776",
+   "level": "normal",
+   "year": 1776,
+   "date": "1776",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "society",
+   "author": "Adam Smith",
+   "name": "The Wealth of Nations",
+   "short": "Smith",
+   "key": "Adam Smith’s book of 1776 on the causes of national wealth, which opened with the division of labour, illustrated by the making of pins.",
+   "ideas": [
+    "Dividing a job into simple tasks, each done by a different worker, raises output far above what the same workers could make alone.",
+    "His example is a pin factory, where drawing the wire, cutting it and making the head are separate operations.",
+    "The division of labour is limited by the extent of the market, so larger markets allow more specialisation.",
+    "Wealth comes from the labour of a nation and from its productivity, not from hoarding gold and silver.",
+    "Smith also warned that a worker confined to a few simple operations may lose intelligence and initiative."
+   ],
+   "impact": "Published in London in 1776, with several further editions in Smith’s lifetime, it became the founding book of modern economics. Its picture of work divided into repeated tasks gave later writers on manufacture a way to describe the factory, and the separation between those who plan a product and those who make it.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "josiah-wedgwood"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Adam Smith",
+    "name": "La riqueza de las naciones",
+    "short": "Smith",
+    "date": "1776",
+    "key": "El libro de Adam Smith de 1776 sobre las causas de la riqueza de las naciones, que se abre con la división del trabajo, ilustrada con la fabricación de alfileres.",
+    "ideas": [
+     "Dividir una tarea en operaciones simples, cada una a cargo de un trabajador distinto, eleva la producción muy por encima de lo que los mismos obreros harían por separado.",
+     "Su ejemplo es una fábrica de alfileres, donde estirar el alambre, cortarlo y hacer la cabeza son operaciones separadas.",
+     "La división del trabajo está limitada por la extensión del mercado, de modo que los mercados más grandes permiten más especialización.",
+     "La riqueza viene del trabajo de una nación y de su productividad, no de acumular oro y plata.",
+     "Smith advirtió también que un obrero confinado a unas pocas operaciones simples puede perder inteligencia e iniciativa."
+    ],
+    "impact": "Publicado en Londres en 1776, con varias ediciones más en vida de Smith, se convirtió en el libro fundador de la economía moderna. Su imagen del trabajo dividido en tareas repetidas dio a escritores posteriores sobre la manufactura una forma de describir la fábrica y la separación entre quienes planifican un producto y quienes lo fabrican."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-pugin-contrasts-1836",
+   "level": "normal",
+   "year": 1836,
+   "date": "1836",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "Augustus Welby Northmore Pugin",
+   "name": "Contrasts",
+   "short": "Pugin",
+   "key": "Pugin’s book of 1836, which set medieval buildings beside modern ones in paired plates to argue that the Gothic city was morally and artistically superior.",
+   "ideas": [
+    "Paired plates put a medieval town or building beside its modern counterpart, to the modern one’s disadvantage.",
+    "The decline of architecture reflects a decline in faith and in the way society treats its poor.",
+    "Medieval Christian building is the model against which modern taste should be judged.",
+    "The industrial town, with its factories and institutions, is condemned as a loss rather than a progress."
+   ],
+   "impact": "Pugin, a convert to Catholicism since 1835, published it in 1836 and brought out an enlarged second edition in 1841. It was the first of his polemics for the Gothic and prepared the ground for True Principles (1841), where he turned the moral argument into rules for design.",
+   "links": {
+    "movements": [
+     "gothic-revival"
+    ],
+    "institutions": [],
+    "designers": [
+     "pugin"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Augustus Welby Northmore Pugin",
+    "name": "Contrastes",
+    "short": "Pugin",
+    "date": "1836",
+    "key": "El libro de Pugin de 1836, que puso edificios medievales junto a modernos en láminas pareadas para sostener que la ciudad gótica era moral y artísticamente superior.",
+    "ideas": [
+     "Láminas pareadas ponen una ciudad o un edificio medieval junto a su equivalente moderno, en desmedro de este último.",
+     "La decadencia de la arquitectura refleja una decadencia de la fe y del trato de la sociedad a sus pobres.",
+     "La construcción cristiana medieval es el modelo con que debe juzgarse el gusto moderno.",
+     "La ciudad industrial, con sus fábricas e instituciones, se condena como una pérdida y no como un progreso."
+    ],
+    "impact": "Pugin, converso al catolicismo desde 1835, lo publicó en 1836 y sacó una segunda edición ampliada en 1841. Fue la primera de sus polémicas a favor del gótico y preparó el terreno para True Principles (1841), donde convirtió el argumento moral en reglas de diseño."
+   },
+   "refs": []
+  }
+ ]
+}

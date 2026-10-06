@@ -1,0 +1,32 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-industrial-revolution",
+   "track": "economic",
+   "start": 1760,
+   "end": 1840,
+   "date": "c. 1760–1840",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Industrial Revolution",
+   "short": "Industrial Revolution",
+   "key": "The shift, first in Britain, from hand work to machines, factories and steam power, which separated the people who design from the people who make.",
+   "happened": "From the 1760s spinning machines, water-powered mills such as Richard Arkwright’s at Cromford (1771) and James Watt’s improved steam engine moved textile and later metal production into factories. Josiah Wedgwood’s pottery at Etruria (1769) divided work into specialised tasks and commissioned designs from artists for series production.",
+   "effect": "Design became a separate task: drawings and models prepared in advance for others, or for machines, to repeat. Cheap mass-made goods also provoked the nineteenth-century debates on quality and ornament that led to the reform movements.",
+   "wiki": "Industrial_Revolution",
+   "es": {
+    "name": "Revolución Industrial",
+    "short": "Revolución Industrial",
+    "date": "c. 1760–1840",
+    "key": "El paso, primero en Gran Bretaña, del trabajo manual a las máquinas, las fábricas y la energía del vapor, que separó a quienes diseñan de quienes fabrican.",
+    "happened": "Desde la década de 1760, las máquinas de hilar, las fábricas movidas por agua, como la de Richard Arkwright en Cromford (1771), y la máquina de vapor mejorada de James Watt llevaron a las fábricas la producción textil y después la del metal. La alfarería de Josiah Wedgwood en Etruria (1769) dividió el trabajo en tareas especializadas y encargó diseños a artistas para producirlos en serie.",
+    "effect": "Diseñar pasó a ser una tarea separada: dibujos y modelos preparados de antemano para que otros, o las máquinas, los repitieran. Los productos baratos hechos en masa también provocaron los debates del siglo XIX sobre la calidad y el ornamento que llevaron a los movimientos de reforma."
+   },
+   "refs": []
+  }
+ ]
+}

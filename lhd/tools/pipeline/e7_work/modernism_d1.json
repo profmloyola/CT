@@ -1,0 +1,265 @@
+[
+ {
+  "rtype": "designer",
+  "id": "antonio-sant-elia",
+  "name": "Antonio Sant'Elia",
+  "born": 1888,
+  "died": 1916,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Arquitecto futurista de la Città Nuova; murió en la guerra sin construir.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-first-world-war",
+    "mecanismo": "Muere en el frente en 1916; su obra queda en dibujos"
+   }
+  ],
+  "movements": [
+   "futurism-typography"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-first-world-war",
+    "item": "antonio-sant-elia",
+    "mecanismo": "Muere en el frente en 1916; su obra queda en dibujos"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "richard-neutra",
+  "name": "Richard Neutra",
+  "born": 1892,
+  "died": 1970,
+  "kind": "person",
+  "disciplines": [
+   "architecture"
+  ],
+  "countries": [
+   "AT",
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Arquitecto austríaco del modernismo californiano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-hygienism",
+    "mecanismo": "La casa como instrumento de salud: sol, aire y ejercicio"
+   }
+  ],
+  "movements": [
+   "international-style"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-hygienism",
+    "item": "richard-neutra",
+    "mecanismo": "La casa como instrumento de salud: sol, aire y ejercicio"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "kurt-schwitters",
+  "name": "Kurt Schwitters",
+  "born": 1887,
+  "died": 1948,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "DE",
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Artista dadá y tipógrafo de la Nueva Tipografía (revista Merz, publicidad para Hannover).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-avant-gardes",
+    "mecanismo": "El collage dadá pasa a la página impresa y a la publicidad"
+   }
+  ],
+  "movements": [
+   "dada",
+   "new-typography"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-avant-gardes",
+    "item": "kurt-schwitters",
+    "mecanismo": "El collage dadá pasa a la página impresa y a la publicidad"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "kazimir-malevich",
+  "name": "Kazimir Malevich",
+  "born": 1879,
+  "died": 1935,
+  "kind": "person",
+  "disciplines": [
+   "graphic",
+   "product",
+   "architecture"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Creador del suprematismo, cuyo lenguaje geométrico pasa al diseño soviético.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-russian-revolution",
+    "mecanismo": "La revolución entrega a la vanguardia escuelas y fábricas estatales"
+   }
+  ],
+  "movements": [
+   "suprematism"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-russian-revolution",
+    "item": "kazimir-malevich",
+    "mecanismo": "La revolución entrega a la vanguardia escuelas y fábricas estatales"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "herbert-matter",
+  "name": "Herbert Matter",
+  "born": 1907,
+  "died": 1984,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Fotógrafo y diseñador suizo de los carteles turísticos de fotomontaje; luego en Knoll y Nueva York.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-leisure",
+    "mecanismo": "El turismo de montaña pide imágenes de impacto → fotomontaje en el cartel"
+   }
+  ],
+  "movements": [
+   "new-vision"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-leisure",
+    "item": "herbert-matter",
+    "mecanismo": "El turismo de montaña pide imágenes de impacto → fotomontaje en el cartel"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "designer",
+  "id": "alvin-lustig",
+  "name": "Alvin Lustig",
+  "born": 1915,
+  "died": 1955,
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Diseñador de portadas modernas para New Directions; figura del modernismo gráfico estadounidense.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "new-york-school-graphic",
+    "mecanismo": "Miembro temprano de la escuela"
+   }
+  ],
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "new-york-school-graphic"
+   ]
+  }
+ }
+]

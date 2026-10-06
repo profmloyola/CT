@@ -1,0 +1,179 @@
+{
+ "production": [
+  {
+   "id": "plastic-laminate",
+   "sub": "materials",
+   "start": 1981,
+   "end": 1981,
+   "date": "1981",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Decorative plastic laminate",
+   "short": "Plastic laminate",
+   "key": "A cheap, printable surface material for kitchens and shops, which Memphis in 1981 turned into a loud decorative skin for furniture.",
+   "origin": "Laminates of paper and resin, sold under names such as Formica in the United States from the 1910s, were used mainly for hard-wearing kitchen and shop surfaces. Ettore Sottsass designed the Bacterio laminate pattern in 1978, and Memphis later worked with the Italian maker Abet Laminati on its patterns.",
+   "enabled": "A thin printed sheet could be glued over a plain wooden core, so a piece of furniture could carry any pattern or colour without paint or veneer. Memphis used it for furniture such as the Carlton bookcase of 1981, whose surfaces were covered in bold patterns.",
+   "change": "A material identified with cheap, hygienic surfaces became a decorative one. Memphis used it deliberately for its ordinary, even vulgar, associations, in colours and patterns that modern design had avoided.",
+   "economy": "The furniture was shown in Milan in September 1981 and sold as expensive designer pieces, even though the surface material was a common industrial product.",
+   "relations": "The laminate suited the Memphis idea that a surface could carry meaning, as part of the wider turn from functionalism to decoration and popular imagery.",
+   "links": {
+    "movements": [
+     "memphis"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "carlton-bookcase-1981"
+    ]
+   },
+   "es": {
+    "name": "Laminado plástico decorativo",
+    "short": "Laminado plástico",
+    "date": "1981",
+    "key": "Un material de superficie barato e imprimible para cocinas y comercios, que Memphis convirtió en 1981 en una piel decorativa y estridente para el mobiliario.",
+    "origin": "Los laminados de papel y resina, vendidos con nombres como Formica en Estados Unidos desde la década de 1910, se usaban sobre todo en superficies resistentes de cocinas y comercios. Ettore Sottsass diseñó el patrón de laminado Bacterio en 1978, y Memphis trabajó después con el fabricante italiano Abet Laminati en sus patrones.",
+    "enabled": "Una lámina fina impresa podía pegarse sobre un núcleo de madera simple, de modo que un mueble podía llevar cualquier patrón o color sin pintura ni chapa. Memphis lo usó en muebles como la biblioteca Carlton de 1981, cuyas superficies iban cubiertas de patrones llamativos.",
+    "change": "Un material identificado con superficies baratas e higiénicas pasó a ser uno decorativo. Memphis lo usó a propósito por sus asociaciones corrientes, incluso vulgares, en colores y patrones que el diseño moderno había evitado.",
+    "economy": "Los muebles se mostraron en Milán en septiembre de 1981 y se vendieron como piezas de diseñador caras, aunque el material de superficie era un producto industrial común.",
+    "relations": "El laminado calzaba con la idea de Memphis de que una superficie podía cargar significado, dentro del giro más amplio del funcionalismo hacia la decoración y la imaginería popular."
+   },
+   "refs": []
+  },
+  {
+   "id": "polycarbonate-shell",
+   "sub": "materials",
+   "start": 1998,
+   "end": 1998,
+   "date": "1998",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Translucent polycarbonate shells",
+   "short": "Polycarbonate shell",
+   "key": "The coloured translucent plastic case of the 1998 iMac showed the inside of a computer and made the casing a feature of the product.",
+   "origin": "Polycarbonate was invented in 1953, independently at Bayer and at General Electric, as a tough, clear thermoplastic. Apple’s iMac, launched in August 1998 and designed under Jonathan Ive, used a translucent coloured polycarbonate case.",
+   "enabled": "A moulded plastic shell could be tough, curved and see-through at once, so the parts inside could be glimpsed through a coloured case. The iMac came first in a blue-green colour and later in several others.",
+   "change": "The computer was no longer a beige box: its case became a colourful, friendly object meant for the home. The case was designed as a visible part of the product, not as a cover for the machinery.",
+   "economy": "The iMac was important for Apple’s recovery in the late 1990s, and the look of translucent, coloured plastic was soon copied for many other electronic goods.",
+   "relations": "The shell belongs to the rise of branding in the 1990s, in which a company’s products were recognised by a distinctive look, and to Apple’s design identity under Ive.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "imac-1998"
+    ]
+   },
+   "es": {
+    "name": "Carcasas de policarbonato translúcido",
+    "short": "Carcasa policarbonato",
+    "date": "1998",
+    "key": "La carcasa de plástico translúcido y de colores del iMac de 1998 mostró el interior de un computador e hizo de la envoltura un rasgo del producto.",
+    "origin": "El policarbonato se inventó en 1953, de forma independiente en Bayer y en General Electric, como un termoplástico duro y transparente. El iMac de Apple, lanzado en agosto de 1998 y diseñado bajo la dirección de Jonathan Ive, usó una carcasa de policarbonato translúcido de color.",
+    "enabled": "Una carcasa de plástico moldeado podía ser dura, curva y transparente a la vez, de modo que las piezas interiores se entreveían a través de una caja de color. El iMac salió primero en un azul verdoso y después en varios otros colores.",
+    "change": "El computador dejó de ser una caja beige: su carcasa pasó a ser un objeto colorido y amable pensado para el hogar. La carcasa se diseñó como parte visible del producto y no como una cubierta de la maquinaria.",
+    "economy": "El iMac fue importante para la recuperación de Apple a fines de los años noventa, y el aspecto de plástico translúcido y de colores fue copiado pronto para muchos otros bienes electrónicos.",
+    "relations": "La carcasa pertenece al auge de las marcas en los años noventa, en que los productos de una empresa se reconocían por un aspecto propio, y a la identidad de diseño de Apple bajo Ive."
+   },
+   "refs": []
+  },
+  {
+   "id": "scrap-materials",
+   "sub": "materials",
+   "start": 1975,
+   "end": 2026,
+   "cont": true,
+   "date": "1975 →",
+   "regions": [
+    "global",
+    "latin-america",
+    "europe"
+   ],
+   "countries": [
+    "BR",
+    "NL",
+    "GB"
+   ],
+   "name": "Scrap and recovered materials",
+   "short": "Scrap materials",
+   "key": "Designers made furniture and objects from waste, offcuts and discarded goods, a practice with long roots in popular reuse that became an accepted design strategy.",
+   "origin": "Reusing materials has always been part of popular craft and of informal economies, where scarcity makes waste valuable. From the 1980s designers began to take this practice into studio work: Ron Arad made the Rover chair in 1981 from a seat taken from a scrapped car.",
+   "enabled": "Found parts, offcuts and discarded objects could be assembled into furniture without moulds or factory tooling, in one-offs or small runs. Tejo Remy’s Chest of drawers of 1991 bound used drawers together with a strap, and the Campana brothers of Brazil made their Favela chair in 1991 from scraps of wood.",
+   "change": "The material’s history and imperfection became part of the object’s meaning. Instead of hiding wear, joins and mismatched parts, designers showed them, and reuse became a statement about consumption and waste.",
+   "economy": "Such pieces were usually made by hand and sold as limited-edition design, so they carried a high price although their materials cost little. In 2007 Martino Gamper made 100 chairs in 100 days, mostly by recombining discarded chairs.",
+   "relations": "It is close to the Droog design of the Netherlands in the 1990s, and to Latin American design that draws on popular reuse; in the 1990s it also fed the growing interest in sustainability.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "arpilleras-1974",
+     "favela-chair-1991",
+     "banquete-chair-2006"
+    ]
+   },
+   "es": {
+    "name": "Materiales de desecho y recuperados",
+    "short": "Materiales de desecho",
+    "date": "1975 →",
+    "key": "Diseñadores hicieron muebles y objetos con residuos, retazos y bienes desechados, una práctica con largas raíces en el reúso popular que pasó a ser una estrategia de diseño aceptada.",
+    "origin": "Reutilizar materiales ha sido siempre parte de la artesanía popular y de las economías informales, donde la escasez da valor a los desechos. Desde los años ochenta los diseñadores empezaron a llevar esta práctica al trabajo de estudio: Ron Arad hizo la silla Rover en 1981 con un asiento sacado de un auto desguazado.",
+    "enabled": "Piezas encontradas, retazos y objetos desechados podían ensamblarse en muebles sin moldes ni herramental de fábrica, en piezas únicas o series pequeñas. La cómoda de Tejo Remy de 1991 unía cajones usados con una correa, y los hermanos Campana, de Brasil, hicieron su silla Favela en 1991 con retazos de madera.",
+    "change": "La historia y la imperfección del material pasaron a ser parte del significado del objeto. En vez de ocultar el desgaste, las uniones y las piezas dispares, los diseñadores los mostraron, y el reúso se volvió una declaración sobre el consumo y los desechos.",
+    "economy": "Estas piezas solían hacerse a mano y venderse como diseño de edición limitada, de modo que tenían un precio alto aunque sus materiales costaran poco. En 2007 Martino Gamper hizo 100 sillas en 100 días, sobre todo recombinando sillas desechadas.",
+    "relations": "Se acerca al diseño Droog de los Países Bajos de los años noventa y al diseño latinoamericano que se nutre del reúso popular; en los años noventa también alimentó el creciente interés por la sostenibilidad."
+   },
+   "refs": []
+  },
+  {
+   "id": "recycled-biomaterials",
+   "sub": "materials",
+   "start": 1990,
+   "end": 2026,
+   "cont": true,
+   "date": "1990 →",
+   "regions": [
+    "global",
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Recycled materials and biomaterials",
+   "short": "Recycled materials",
+   "key": "Designers and firms began to use recycled plastics and materials grown from living organisms to reduce waste and the use of fossil resources.",
+   "origin": "Concern about waste and resources grew during the 1990s. In 1993 Patagonia began selling fleece made from recycled plastic bottles, and the book Cradle to Cradle (2002) argued that products should be designed so that their materials could be used again.",
+   "enabled": "Waste plastic could be turned into fibre and sheet for new products. Biomaterials, such as packaging grown from mycelium (the root-like network of fungi) by the American company Ecovative, founded in 2007, replace some foams and plastics.",
+   "change": "Choosing a material became an environmental decision as well as a technical and aesthetic one, and designers began to plan a product’s materials from its end of life backward, as well as from its look.",
+   "economy": "Recycled and bio-based materials often cost more or are made in small quantities, so their spread has depended on companies’ choices and on regulation and public concern about waste.",
+   "relations": "It is the material side of sustainable design and of the wider climate concern, and links to the cradle-to-cradle idea of closed material cycles.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "patagonia-synchilla-1985"
+    ]
+   },
+   "es": {
+    "name": "Materiales reciclados y biomateriales",
+    "short": "Reciclados y bio",
+    "date": "1990 →",
+    "key": "Diseñadores y empresas empezaron a usar plásticos reciclados y materiales cultivados a partir de organismos vivos para reducir los desechos y el uso de recursos fósiles.",
+    "origin": "La preocupación por los desechos y los recursos creció durante los años noventa. En 1993 Patagonia empezó a vender polar hecho con botellas plásticas recicladas, y el libro De la cuna a la cuna (2002) sostuvo que los productos debían diseñarse para que sus materiales pudieran volver a usarse.",
+    "enabled": "El plástico de desecho pudo convertirse en fibra y lámina para productos nuevos. Los biomateriales, como los embalajes cultivados con micelio (la red de filamentos de los hongos) por la empresa estadounidense Ecovative, fundada en 2007, reemplazan algunas espumas y plásticos.",
+    "change": "Elegir un material pasó a ser una decisión ambiental además de técnica y estética, y los diseñadores empezaron a planificar los materiales de un producto desde su fin de vida hacia atrás, además de desde su aspecto.",
+    "economy": "Los materiales reciclados y de base biológica suelen costar más o fabricarse en pequeñas cantidades, de modo que su difusión ha dependido de las decisiones de las empresas, de la regulación y de la preocupación pública por los desechos.",
+    "relations": "Es el lado material del diseño sostenible y de la preocupación climática más amplia, y se vincula con la idea de la cuna a la cuna de ciclos cerrados de materiales."
+   },
+   "refs": []
+  }
+ ]
+}

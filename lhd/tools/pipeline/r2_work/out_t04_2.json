@@ -1,0 +1,246 @@
+[
+ {
+  "id": "guggenheim-new-york-1959",
+  "en": {
+   "key": "Frank Lloyd Wright’s museum on Fifth Avenue, built around a spiral ramp that winds up to a skylit dome in place of a series of separate galleries.[1]",
+   "more": "Wright signed the contract in 1943, and the project took sixteen years; the museum opened on 21 October 1959, six months after his death in April.[1] Visitors follow a spiral ramp a quarter of a mile long, rising ninety-two feet to a skylit dome.[1] The building raised a lasting argument over whether such a strongly shaped space serves the art: in 1957 artists including Willem de Kooning petitioned against the design, and at the opening the building overshadowed the collection.[1] In 2019 it was inscribed in the UNESCO World Heritage serial site of eight works by Wright.[2]"
+  },
+  "es": {
+   "key": "El museo de Frank Lloyd Wright en la Quinta Avenida, construido en torno a una rampa espiral que sube hasta una cúpula con claraboya en vez de una serie de salas separadas.[1]",
+   "more": "Wright firmó el contrato en 1943 y el proyecto tomó dieciséis años; el museo se inauguró el 21 de octubre de 1959, seis meses después de su muerte, en abril.[1] Los visitantes siguen una rampa espiral de un cuarto de milla de largo que sube veintiocho metros (noventa y dos pies) hasta una cúpula con claraboya.[1] El edificio abrió una discusión duradera sobre si un espacio tan fuertemente formado sirve al arte: en 1957 artistas como Willem de Kooning presentaron una petición contra el proyecto y, en la inauguración, el edificio eclipsó a la colección.[1] En 2019 fue inscrito en el sitio seriado de ocho obras de Wright, Patrimonio Mundial de la UNESCO.[2]"
+  },
+  "refs": [
+   {
+    "label": "EBSCO Research Starters, «Wright-designed Guggenheim Museum opens»",
+    "url": "https://www.ebsco.com/research-starters/history/wright-designed-guggenheim-museum-opens",
+    "checks": "Inauguración el 21 de octubre de 1959; muerte de Wright en abril de 1959; contrato de 1943 y dieciséis años de proyecto; rampa de un cuarto de milla y 92 pies hasta una cúpula con claraboya; petición de 1957 (De Kooning); el edificio eclipsó a la colección. ⚠ fuente secundaria; no menciona UNESCO.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Guggenheim, «UNESCO World Heritage designation» (comunicado, julio 2019)",
+    "url": "https://www.guggenheim.org/wp-content/uploads/2019/07/UNESCO_PressRelease_1565_20190708.pdf",
+    "checks": "Inscripción en julio de 2019 como parte de las ocho obras de Wright; construcción 1956–1959. ⚠ fuente del propio museo.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «Hilla Rebay» y «worked on it from the 1940s for the Foundation»: las fuentes dan solo el contrato de 1943; la clienta Rebay no se confirmó (el campo client queda sin tocar).",
+   "Quité «white», «lift to the top» y «gently sloping»: ninguna fuente lo confirma.",
+   "«Replaced the stacked galleries» se suavizó a «in place of a series of separate galleries»; la oposición «sirve o compite» se atribuye a la petición de 1957 y a la crítica del estreno.",
+   "Materiales (hormigón armado, vidrio) no confirmados en las fuentes; no se tocan."
+  ]
+ },
+ {
+  "id": "icaic-ospaaal-posters",
+  "en": {
+   "key": "The solidarity posters of the OSPAAAL, founded in Havana in 1966,[1] and the film posters of Cuba’s film institute ICAIC, which made Cuban graphic design widely known.[2]",
+   "more": "The OSPAAAL was founded after the 1966 Tricontinental Conference in Havana.[1][2] More than 300 poster designs were made for it between 1967 and 2019, folded into the magazine Tricontinental for distribution.[1] They were printed mainly by offset lithography and also by silkscreen, usually with texts in English, French, Arabic and Spanish.[1] Alfredo Rostgaard was its art director.[1][2] With limited resources, artists made vibrant silkscreen designs mixing Constructivism, cubism, psychedelia and Afro-Cuban symbolism.[3]"
+  },
+  "es": {
+   "key": "Los carteles de solidaridad de la OSPAAAL, fundada en La Habana en 1966,[1] y los carteles de cine del instituto cubano ICAIC, que dieron a conocer el diseño gráfico cubano.[2]",
+   "more": "La OSPAAAL se fundó tras la Conferencia Tricontinental de 1966 en La Habana.[1][2] Para ella se hicieron más de 300 diseños de carteles entre 1967 y 2019, doblados dentro de la revista Tricontinental para su distribución.[1] Se imprimían sobre todo en offset y también en serigrafía, por lo general con textos en inglés, francés, árabe y español.[1] Alfredo Rostgaard fue su director de arte.[1][2] Con pocos recursos, los artistas hicieron vivos diseños serigráficos que mezclaban constructivismo, cubismo, psicodelia y simbolismo afrocubano.[3]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Solidarity and design: an introduction to OSPAAAL»",
+    "url": "https://www.vam.ac.uk/articles/solidarity-and-design-an-introduction-to-ospaaal",
+    "checks": "OSPAAAL fundada en 1966 tras la Conferencia Tricontinental de La Habana; más de 300 diseños entre 1967 y 2019; carteles doblados en la revista Tricontinental; offset como técnica principal y serigrafía secundaria; textos en inglés, francés, árabe y español; Rostgaard director de arte.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Stony Brook University, Zuccaire Gallery, «Printing Solidarity» (folleto)",
+    "url": "https://zuccairegallery.stonybrook.edu/_pdf/catalog_archive/Handout%20Printing%20Solidarity.pdf",
+    "checks": "OSPAAAL tras la Conferencia Tricontinental de 1966; más de trescientos carteles; Rostgaard director de arte de más años; reconocimiento internacional del diseño cubano de la época. ⚠ no menciona el ICAIC.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Brooklyn Rail, «Art of the Cuban Revolution»",
+    "url": "https://brooklynrail.org/2022/02/artseen/Art-of-the-Cuban-Revolution/",
+    "checks": "Diseños serigráficos vivos hechos con recursos limitados; mezcla de constructivismo, cubismo, psicodelia y simbolismo afrocubano; Rostgaard como director creativo. ⚠ reseña de exposiciones; no menciona el ICAIC.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Ninguna fuente consultada trata los carteles del ICAIC: su fundación en 1959, su encargo de carteles y «from the early 1960s» quedan sin confirmar; solo se conserva la mención del ICAIC sin fecha y sin marca propia (el campo year/date «1960» no se toca, pero los carteles de la OSPAAAL datan de 1967 según el V&A; revisar).",
+   "Corregí «screen print»: el V&A da offset como técnica principal y serigrafía como secundaria; el campo materials («Serigrafía sobre papel») queda sin tocar.",
+   "Quité «a cheap process», «distributed in several languages» como cifra general y «Alfredo Rostgaard worked for both»: no confirmado para el ICAIC.",
+   "Quité «liberation movements in Asia, Africa and Latin America» como descripción: las fuentes dicen solidaridad antiimperialista, no se citó textualmente."
+  ]
+ },
+ {
+  "id": "polypropylene-chair-1963",
+  "en": {
+   "key": "Robin Day’s stacking chair with a one-piece injection-moulded polypropylene shell on tubular steel legs, introduced by Hille in 1963 and sold in the millions.[1]",
+   "more": "Day designed it in 1962–63 for S. Hille & Co.; the shell is a single moulding fixed to a tubular steel frame, and the chair was made to stack.[1] One tool could turn out about 4,000 shells a week, one every 90 seconds, which kept each chair cheap.[1] Over 14 million have been sold and it is still in production; it won the Design Centre Award in 1965.[1] The Design Museum’s MoDiP calls it the first chair made of polypropylene and thinks it was made in greater numbers than any other mass-produced chair.[2]"
+  },
+  "es": {
+   "key": "La silla apilable de Robin Day con carcasa de polipropileno inyectado de una pieza sobre patas de tubo de acero, lanzada por Hille en 1963 y vendida por millones.[1]",
+   "more": "Day la diseñó en 1962–63 para S. Hille & Co.; la carcasa es una sola pieza moldeada, fijada a una estructura de tubo de acero, y la silla se hizo para apilarse.[1] Una sola matriz podía producir unas 4.000 carcasas por semana, una cada 90 segundos, lo que abarataba cada silla.[1] Se han vendido más de 14 millones y sigue en producción; ganó el Design Centre Award en 1965.[1] El MoDiP la llama la primera silla hecha de polipropileno y estima que se fabricó en mayor número que cualquier otra silla producida en serie.[2]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Polypropylene chair», O21635",
+    "url": "https://collections.vam.ac.uk/item/O21635/",
+    "checks": "Diseñada en 1962–63 e introducida en 1963; S. Hille & Co.; carcasa inyectada de una pieza sobre base tubular de acero apilable; 4.000 carcasas por semana, una cada 90 s; más de 14 millones vendidos; Design Centre Award 1965; sigue en producción.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MoDiP (Museum of Design in Plastics), «Robin Day»",
+    "url": "https://www.modip.ac.uk/exhibitions/spotlight/spotlight-designers/robin-day",
+    "checks": "Polyprop (1963) como «primera silla hecha de polipropileno»; consultor de Hille; sigue en producción; se cree fabricada en mayor número que cualquier otra silla producida en serie. ⚠ fuente de museo universitario.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "«Among the first chairs made from injection-moulded polypropylene» se cambió a lo que dice el MoDiP (la primera) con atribución.",
+   "Quité «schools, canteens, halls and homes» y «one of the most widely used British chairs»: no confirmados (sí «más que cualquier otra», atribuido al MoDiP).",
+   "«Bolted» se cambió a «fixed»: la fuente no dice tornillos. El V&A O21633 (Mark II) fecha el diseño en 1964; el año 1963 queda según O21635."
+  ]
+ },
+ {
+  "id": "brionvega-ts502-1964",
+  "en": {
+   "key": "Zanuso and Sapper’s portable radio of 1964 that closes into a compact cube, its casing hiding the controls and speaker until it opens on a hinge.[1][2]",
+   "more": "Marco Zanuso and Richard Sapper designed the TS 502 for Brionvega in 1964.[1][2] Closed, it measures 13 x 22.5 x 13 cm; a hinge opens it through 180 degrees.[1][2] The casing hides the tuning knobs, speaker and switches, and the design drew on Movado watches that slid into a protective case.[2] The Museo Omero calls it one of the most iconic objects in Italian design history.[2] MoMA, which dates it 1963, holds a gift from the manufacturer.[3]"
+  },
+  "es": {
+   "key": "La radio portátil de Zanuso y Sapper de 1964 que se cierra en un cubo compacto, con una carcasa que oculta los controles y el parlante hasta que se abre sobre una bisagra.[1][2]",
+   "more": "Marco Zanuso y Richard Sapper diseñaron la TS 502 para Brionvega en 1964.[1][2] Cerrada mide 13 x 22,5 x 13 cm; una bisagra la abre 180 grados.[1][2] La carcasa oculta las perillas de sintonía, el parlante y los interruptores, y el diseño se inspiró en relojes Movado que se deslizaban dentro de un estuche protector.[2] El Museo Omero la llama uno de los objetos más emblemáticos de la historia del diseño italiano.[2] El MoMA, que la fecha en 1963, tiene un ejemplar donado por el fabricante.[3]"
+  },
+  "refs": [
+   {
+    "label": "Cooper Hewitt, «TS 502 portable radio»",
+    "url": "https://collection.cooperhewitt.org/objects/18648915",
+    "checks": "Fecha 1964; Sapper y Zanuso; Brionvega; ABS y metal cromado; medidas cerrada 13 x 22,5 x 13 cm; versión abierta. ⚠ sin mención de Movado.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Museo Omero, «Radio TS502»",
+    "url": "https://museoomero.it/en/opere/radio-ts502/",
+    "checks": "Creada en 1964 por Zanuso y Sapper, producida por Brionvega; cápsula que se abre en dos cubos casi perfectos con bisagra de 180°; carcasa oculta perillas, parlante e interruptores; inspiración en relojes Movado; «uno de los objetos más emblemáticos del diseño italiano».",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MoMA, «Radio (model TS 502)»",
+    "url": "https://www.moma.org/collection/works/4034",
+    "checks": "Zanuso y Sapper, Brionvega; ABS y aluminio; donación del fabricante. ⚠ MoMA fecha la obra en 1963, distinto de 1964 en Cooper Hewitt y Museo Omero.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Discrepancia de fecha: MoMA 1963 vs Cooper Hewitt y Museo Omero 1964; se conserva 1964 y se anota el 1963 del MoMA.",
+   "Quité «transistor radio», «colours … fashionable personal possession» y «central work of Italian product design» (se atribuye al Museo Omero la valoración): no confirmados.",
+   "Materials («Plastic housing») queda sin tocar; las fuentes dicen ABS con metal cromado (Cooper Hewitt) o aluminio (MoMA)."
+  ]
+ },
+ {
+  "id": "vanna-venturi-house-1964",
+  "en": {
+   "key": "Robert Venturi’s house for his mother in Chestnut Hill, Philadelphia, which broke the modern rule of pure form with a split gable, a large chimney and an arch applied to the facade.[1]",
+   "more": "Venturi began designing it in 1959 for his mother, Vanna, and it was built in 1962–64 in Chestnut Hill.[3] The facade uses archetypal house features, a gable, a central entrance and a large chimney, rendered with calculated awkwardness; the arch over the entrance is described as merely applied to the surface.[1] Inside, the stair turns around the chimney and diminishes in size.[1] The house shows the ideas of ‘Complexity and Contradiction in Architecture’ (1966), whose author answered Mies’s ‘Less is more’ with ‘Less is a bore’.[1][2][4] It was recognized as the first Postmodern structure.[3]"
+  },
+  "es": {
+   "key": "La casa de Robert Venturi para su madre en Chestnut Hill, Filadelfia, que rompió la regla moderna de la forma pura con un frontón partido, una gran chimenea y un arco aplicado a la fachada.[1]",
+   "more": "Venturi comenzó a proyectarla en 1959 para su madre, Vanna, y se construyó en 1962–64 en Chestnut Hill.[3] La fachada usa rasgos arquetípicos de casa, un frontón, una entrada central y una gran chimenea, resueltos con torpeza calculada; el arco sobre la entrada se describe como un mero añadido a la superficie.[1] Adentro, la escalera gira en torno a la chimenea y se achica.[1] La casa muestra las ideas de «Complejidad y contradicción en la arquitectura» (1966), cuyo autor respondió al «Menos es más» de Mies con «Menos es aburrido» (‘Less is a bore’).[1][2][4] Fue reconocida de inmediato como la primera estructura posmoderna.[3]"
+  },
+  "refs": [
+   {
+    "label": "American Heritage, «Mother’s House»",
+    "url": "https://www.americanheritage.com/mothers-house",
+    "checks": "Casa de Venturi para su madre en Chestnut Hill; frontón partido, entrada central, gran chimenea, arco «aplicado»; escalera que gira en torno a la chimenea y disminuye; «Less is a bore» frente a Mies. ⚠ artículo de revista; fecha 1963–64.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Architectural Record, «Complexity and Contradiction in Architecture turns 50»",
+    "url": "https://www.architecturalrecord.com/articles/11630-icomplexity-and-contradictioni-in-architecture-turns-50",
+    "checks": "Casa Vanna Venturi terminada en 1964 en Chestnut Hill, ejemplo del libro de 1966.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "EBSCO Research Starters, «Robert Venturi»",
+    "url": "https://www.ebsco.com/research-starters/architecture/robert-venturi/",
+    "checks": "Proyecto desde 1959, construcción 1962–1964; «reconocida de inmediato como la primera estructura posmoderna»; libro de 1966. ⚠ fuente secundaria.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Premio Pritzker, «Robert Venturi, laureado 1991»",
+    "url": "https://pritzkerprize.com/laureates/1991",
+    "checks": "Libro de 1966; «Less is a bore» frente a Mies. ⚠ fecha de la casa dada como 1961, no se usa.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «a front like a child’s drawing», «a cut-off arch» (la fuente dice arco aplicado) y «mannered facade»: no confirmados tal cual.",
+   "«A stair that ends in nothing» se cambió por la escalera que gira y disminuye (American Heritage); la «escalera a ninguna parte» solo la da una fuente no aceptable.",
+   "«First built statement of Postmodernism» se atribuye ahora a EBSCO.",
+   "Fechas: American Heritage 1963–64, EBSCO 1962–64, Pritzker 1961; se usa EBSCO y el año 1964 (terminación) queda. El material «stucco» no se confirmó y no se toca."
+  ]
+ },
+ {
+  "id": "quant-miniskirt",
+  "en": {
+   "key": "The very short skirt that Mary Quant popularised in London in the 1960s, part of a shift in fashion that took youth, not the establishment, as its source of inspiration.[1][2]",
+   "more": "Quant opened her boutique Bazaar on the King’s Road in London, which Britannica dates to 1957.[1] The V&A’s 2019 exhibition on her dated her work from 1955.[2] Britannica credits her with the widespread popularity of the miniskirt and ‘hot pants’ and with the ‘Chelsea look’.[1] The V&A show said she popularised the mini-skirt, coloured tights and tailored trousers.[2]"
+  },
+  "es": {
+   "key": "La falda muy corta que Mary Quant popularizó en Londres en los años sesenta, parte de un cambio de la moda que tomó a la juventud, y no al establishment, como fuente de inspiración.[1][2]",
+   "more": "Quant abrió su boutique Bazaar en King’s Road, en Londres, que la Britannica fecha en 1957.[1] La exposición del V&A de 2019 sobre ella fechó su obra desde 1955.[2] La Britannica le atribuye la amplia popularidad de la minifalda y de los «hot pants» y el «Chelsea look».[1] La muestra del V&A dijo que popularizó la minifalda, las medias de colores y los pantalones entallados.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Mary Quant»",
+    "url": "https://www.britannica.com/biography/Mary-Quant",
+    "checks": "Boutique Bazaar en King’s Road, Londres, «en 1957»; popularidad de la minifalda y los «hot pants»; «Chelsea look»; la moda tomó a la juventud como fuente de inspiración. ⚠ Britannica da 1957 para Bazaar.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "King’s Road (patrocinador de la exposición del V&A), «Mary Quant»",
+    "url": "https://www.kingsroad.co.uk/experience/experience-in-the-past/",
+    "checks": "Exposición del V&A, abril de 2019 a febrero de 2020, sobre 1955–1975; popularizó la minifalda, medias de colores y pantalones. ⚠ fuente secundaria (sitio de calle comercial que cita al V&A).",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "El texto decía que Bazaar abrió en 1955; Britannica dice 1957 y el V&A fecha su obra desde 1955: se presenta la discrepancia y no se afirma un año.",
+   "Quité sin confirmar: «named after the Mini car», disputa con Courrèges, línea producida en serie vendida a tiendas, «bright colours and simple shapes», «mid-1960s» exacto, piezas en el V&A (solo hubo exposición con 120 prendas).",
+   "Materials (lana y sintéticos, jersey) y year/date 1965 no confirmados por las fuentes; no se tocan."
+  ]
+ },
+ {
+  "id": "salk-institute-1965",
+  "en": {
+   "key": "Louis Kahn’s research institute in La Jolla, California: concrete laboratories on either side of a bare travertine plaza that opens toward the Pacific.[1]",
+   "more": "Jonas Salk, creator of the polio vaccine, founded the institute, and Kahn’s buildings opened in 1965.[1][2] Kahn chose raw materials, pozzolanic concrete, teak, Corten steel and glass, left to age without paint.[2] The plaza is of Italian travertine with a water channel that Salk called ‘the river of life’.[1][2] Luis Barragán advised Kahn to leave the court open and free of planting: ‘If you put just stone, what you gain is a facade to the sky’.[1][2] Each laboratory floor has about 16,000 square feet of unobstructed space, with interstitial floors for services.[2]"
+  },
+  "es": {
+   "key": "El instituto de investigación de Louis Kahn en La Jolla, California: laboratorios de hormigón a ambos lados de una plaza desnuda de travertino abierta hacia el Pacífico.[1]",
+   "more": "Jonas Salk, creador de la vacuna contra la polio, fundó el instituto, y los edificios de Kahn se inauguraron en 1965.[1][2] Kahn eligió materiales crudos, hormigón puzolánico, teca, acero Corten y vidrio, dejados envejecer sin pintura.[2] La plaza es de travertino italiano, con un canal de agua que Salk llamó «el río de la vida».[1][2] Luis Barragán aconsejó a Kahn dejar el patio abierto y sin plantas: «Si pones solo piedra, lo que ganas es una fachada al cielo».[1][2] Cada piso de laboratorio tiene unos 16.000 pies cuadrados (unos 1.500 m²) de espacio libre, con pisos intersticiales para las instalaciones.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Cultural Landscape Foundation, «Salk Institute for Biological Studies»",
+    "url": "https://tclf.org/salk-institute-biological-studies",
+    "checks": "Instituto en La Jolla fundado por Jonas Salk; Kahn; plaza de travertino entre laboratorios de hormigón; canal de agua; Barragán aconsejó plaza abierta y sin plantas; vista al Pacífico. ⚠ da 1963 como fundación.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Salk Institute, «Virtual architecture tour»",
+    "url": "https://www.salk.edu/about/visiting-salk/virtual-architecture-tour/",
+    "checks": "Edificios de Kahn inaugurados en 1965; hormigón puzolánico, teca, acero Corten y vidrio; plaza de travertino italiano; «río de la vida»; cita de Barragán; 16.000 pies² por piso con pisos intersticiales. ⚠ fuente del propio instituto; da 1960 como fundación.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «two mirrored laboratory blocks», «teak and glass exposed» como descripción de fachada, «cast-in-place» y «landmark of late modern architecture»: no confirmados.",
+   "Fundación del instituto: tclf 1963 y salk.edu 1960; no se afirma año. Los campos tech (hormigón pretensado) y materials (travertino, hormigón in situ) quedan sin tocar y sin confirmar.",
+   "Barragán: la cita vive en salk.edu; tclf da el consejo sin cita."
+  ]
+ }
+]

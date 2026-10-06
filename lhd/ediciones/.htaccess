@@ -1,0 +1,7 @@
+# Modo ?editar: la revisión y las copias de seguridad solo se leen a través de editar.php.
+<FilesMatch "^(revision\.json|\.lock)$">
+  Require all denied
+</FilesMatch>
+<IfModule mod_autoindex.c>
+  Options -Indexes
+</IfModule>

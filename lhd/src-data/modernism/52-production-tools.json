@@ -1,0 +1,116 @@
+{
+ "production": [
+  {
+   "id": "leica-35mm",
+   "sub": "tools",
+   "start": 1925,
+   "end": 1945,
+   "cont": true,
+   "date": "1925 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Leica 35 mm camera",
+   "short": "Leica camera",
+   "key": "A small camera using 35 mm cinema film, launched by Leitz in 1925; it gave photojournalism and street photography new nimbleness and mobility.[1]",
+   "origin": "Oskar Barnack, an engineer at Leitz in Wetzlar, built a prototype around 1913–14 that used cinema film in a 24 × 36 mm frame. The production model, the Leica I, was presented at the Leipzig Spring Fair in 1925.",
+   "enabled": "Many exposures without reloading, and a street photography with new deftness and mobility.[1]",
+   "change": "Photographers of the ‘new vision’, such as Moholy-Nagy and Rodchenko, used extreme up and down angles, tilted horizons and fragmentary close-ups as defamiliarising devices.[1]",
+   "relations": "Rodchenko and Moholy-Nagy, leading figures of the New Vision,[1] worked in the years when the 35 mm camera made photography more mobile.[1]",
+   "links": {
+    "movements": [
+     "new-vision"
+    ],
+    "institutions": [],
+    "designers": [
+     "rodchenko",
+     "moholy-nagy"
+    ],
+    "works": [
+     "ussr-in-construction"
+    ]
+   },
+   "wiki": "Oskar_Barnack",
+   "es": {
+    "name": "Cámara Leica de 35 mm",
+    "short": "Cámara Leica",
+    "date": "1925 →",
+    "key": "Una cámara pequeña que usaba película de cine de 35 mm, lanzada por Leitz en 1925; dio al fotoperiodismo y a la fotografía callejera una soltura y una movilidad nuevas.[1]",
+    "origin": "Oskar Barnack, ingeniero de Leitz en Wetzlar, construyó un prototipo hacia 1913–14 que usaba película de cine en un cuadro de 24 × 36 mm. El modelo de serie, la Leica I, se presentó en la Feria de Primavera de Leipzig en 1925.",
+    "enabled": "Muchas tomas sin recargar, y una fotografía callejera de soltura y movilidad nuevas.[1]",
+    "change": "Fotógrafos de la «nueva visión», como Moholy-Nagy y Ródchenko, usaron ángulos extremos hacia arriba y hacia abajo, horizontes inclinados y primeros planos fragmentarios como recursos de extrañamiento.[1]",
+    "relations": "Ródchenko y Moholy-Nagy, figuras centrales de la Nueva Visión,[1] trabajaron en los años en que la cámara de 35 mm hizo la fotografía más móvil.[1]"
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «The New Vision of Photography»",
+     "url": "https://www.metmuseum.org/essays/the-new-vision-of-photography",
+     "checks": "Moholy-Nagy y Ródchenko usaron «ángulos extremos hacia arriba y hacia abajo, horizontes inclinados, primeros planos fragmentarios, formas abstractas» como recursos de extrañamiento; con la cámara de 35 mm, «a comienzos de los años treinta», el fotoperiodismo y la fotografía callejera ganaron gracia, soltura y movilidad. ⚠ El ensayo no nombra la Leica, a Barnack ni 1925, y no menciona revistas ilustradas",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "airbrush",
+   "sub": "tools",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920s →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "name": "Airbrush",
+   "short": "Airbrush",
+   "key": "A small spray gun for paint, used by advertising and commercial art studios to retouch photographs.[1]",
+   "origin": "The photographer Francis Stanley patented a paint atomiser in 1876 and Abner Peeler a ‘paint distributer’ in 1882; Charles Burdick patented two airbrush designs in 1892 and showed his products at the Chicago World’s Fair of 1893.[1] By the early twentieth century advertising and commercial art studios used the airbrush to retouch photographs.[1]",
+   "enabled": "The quick production of catalogues in several versions, and the retouching of product photographs so that machines, furniture, cars and jewellery looked ‘exquisitely finished’, as a trade source put it in 1921.[1]",
+   "change": "In 1936 the National Art Library of the V&A showed airbrushing, next to photomontage, as a new technique of modern commercial graphics.[2]",
+   "relations": "Herbert Bayer is among the designers whose commercial graphics the National Art Library collected in 1936.[2]",
+   "links": {
+    "movements": [
+     "art-deco",
+     "streamline-moderne"
+    ],
+    "institutions": [],
+    "designers": [
+     "bayer"
+    ],
+    "works": []
+   },
+   "wiki": "Airbrush",
+   "es": {
+    "name": "Aerógrafo",
+    "short": "Aerógrafo",
+    "date": "años 1920 →",
+    "key": "Una pequeña pistola que pulveriza pintura, usada por los estudios de publicidad y arte comercial para retocar fotografías.[1]",
+    "origin": "El fotógrafo Francis Stanley patentó un atomizador de pintura en 1876 y Abner Peeler un «distribuidor de pintura» en 1882; Charles Burdick patentó dos diseños de aerógrafo en 1892 y mostró sus productos en la Feria Mundial de Chicago de 1893.[1] A comienzos del siglo XX los estudios de publicidad y arte comercial usaban el aerógrafo para retocar fotografías.[1]",
+    "enabled": "La producción rápida de catálogos en varias versiones y el retoque de fotografías de productos para que máquinas, muebles, autos y joyas se vieran «exquisitamente terminados», como decía una fuente del oficio en 1921.[1]",
+    "change": "En 1936 la National Art Library del V&A mostró el aerógrafo, junto al fotomontaje, como una técnica nueva de la gráfica comercial moderna.[2]",
+    "relations": "Herbert Bayer figura entre los diseñadores cuya gráfica comercial reunió la National Art Library en 1936.[2]"
+   },
+   "refs": [
+    {
+     "label": "Smithsonian Lemelson Center, «How the Invention of the Air Brush Transformed Commercial Art»",
+     "url": "https://invention.si.edu/invention-stories/how-invention-air-brush-transformed-commercial-art",
+     "checks": "atomizador patentado por el fotógrafo Francis Stanley en 1876; patente de Abner Peeler en 1882; Air Brush Manufacturing Company en 1883; Charles Burdick patentó dos diseños en 1892 y expuso en la Feria Mundial de Chicago de 1893; a comienzos del siglo XX estudios de publicidad y arte comercial lo usaban para retocar fotografías; cita de 1921 sobre fotografías de máquinas, muebles, automóviles y joyas «exquisitamente terminadas»; producción rápida de catálogos",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Proof sheet for the Universal alphabet, Herbert Bayer",
+     "url": "https://collections.vam.ac.uk/item/O1348589/proof-sheet-for-the-universal-proof-bayer-herbert",
+     "checks": "en 1936 la National Art Library organizó la pequeña exposición «Modern Commercial Typography», que incluía técnicas nuevas como el aerógrafo y el fotomontaje; Bayer figura entre los diseñadores cuya obra reunió. ⚠ No dice que Bayer usara aerógrafo",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ]
+}

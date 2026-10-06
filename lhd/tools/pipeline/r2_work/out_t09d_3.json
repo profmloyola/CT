@@ -1,0 +1,286 @@
+[
+ {
+  "id": "superstudio",
+  "en": {
+   "key": "Florentine architecture group whose photomontages and drawings imagined a single gridded structure over the planet as a critique of consumer urbanism.[1][3]",
+   "more": "Superstudio was founded in Florence in 1966 by Adolfo Natalini and Cristiano Toraldo di Francia, with other members joining soon after.[1][2] It was one of the main groups of Italian Radical Design and worked mostly through drawings, photomontages, films and exhibitions rather than buildings.[2][3] Its Continuous Monument (1969) showed a mirrored grid crossing landscapes and cities as an ironic warning about uniform, mass-produced space.[3] The group stopped working around 1978.[1]"
+  },
+  "es": {
+   "key": "Grupo florentino de arquitectura cuyos fotomontajes y dibujos imaginaron una sola estructura cuadriculada sobre el planeta, como crítica al urbanismo del consumo.[1][3]",
+   "more": "Superstudio se fundó en Florencia en 1966 por Adolfo Natalini y Cristiano Toraldo di Francia, a quienes se sumaron otros integrantes poco después.[1][2] Fue uno de los principales grupos del Diseño Radical italiano y trabajó sobre todo con dibujos, fotomontajes, películas y exposiciones, más que con edificios.[2][3] Su Monumento continuo (1969) mostraba una retícula espejada que cruza paisajes y ciudades, como advertencia irónica sobre el espacio uniforme y producido en masa.[3] El grupo dejó de trabajar hacia 1978.[1]"
+  },
+  "refs": [
+   {
+    "label": "Centre Pompidou, «Superstudio»",
+    "url": "https://www.centrepompidou.fr/en/ressources/personne/cz66B8",
+    "checks": "grupo fundado en 1966 en Florencia y disuelto en 1978; integrantes Magris, Frassinelli, Natalini, Toraldo di Francia y Poli (1970–72). ⚠ No indica quiénes fueron los fundadores iniciales.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, «Superstudio»",
+    "url": "https://www.moma.org/artists/5733",
+    "checks": "colectivo italiano establecido en 1966; integrantes y obras (perspectivas, proyectos conceptuales, objetos de diseño). ⚠ Da disolución en 1982, no 1978; ⚠ no menciona películas, fotomontajes ni exposiciones ni «Diseño Radical».",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, «The Continuous Monument: On the River» (1969)",
+    "url": "https://www.moma.org/collection/works/934?locale=en",
+    "checks": "Monumento continuo 1969: estructuras blancas cuadriculadas sobre el paisaje, crítica irónica al utopismo moderno; técnica de papel impreso recortado. ⚠ No dice «espejada», ni «urbanismo del consumo», ni «masa/producido en masa».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "MoMA fecha la disolución en 1982 y el Centre Pompidou en 1978; se conserva 1978 (ficha) citando Pompidou.",
+   "«Retícula espejada», «crítica al urbanismo del consumo» y la fundación por Natalini y Toraldo di Francia como únicos fundadores no se confirman literalmente en las fuentes abiertas (MoMA habla de crítica al utopismo modernista y lista cinco/seis integrantes); se conservaron por la ficha."
+  ]
+ },
+ {
+  "id": "philip-johnson",
+  "en": {
+   "key": "American architect and curator who helped introduce the International Style to the United States and later turned toward historical references with the AT&T Building.[1][3]",
+   "more": "Born in New Haven in 1906, he organized the 1932 exhibition on modern architecture at the Museum of Modern Art with Henry-Russell Hitchcock and designed the Glass House in New Canaan in 1949.[1][2] His AT&T Building in New York, completed in 1984, with its broken pediment, became a symbol of postmodern architecture.[1][2][3] He received the first Pritzker Prize in 1979 and died in 2005.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto y curador estadounidense que ayudó a introducir el Estilo Internacional en Estados Unidos y que más tarde se volcó a las referencias históricas con el edificio AT&T.[1][3]",
+   "more": "Nacido en New Haven en 1906, organizó con Henry-Russell Hitchcock la exposición de 1932 sobre arquitectura moderna en el Museo de Arte Moderno y diseñó la Casa de Vidrio en New Canaan en 1949.[1][2] Su edificio AT&T en Nueva York, terminado en 1984, con su frontón quebrado, se volvió un símbolo de la arquitectura posmoderna.[1][2][3] Recibió el primer premio Pritzker en 1979 y murió en 2005.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Premio Pritzker, «Philip Johnson» (laureado 1979)",
+    "url": "https://www.pritzkerprize.com/laureates/1979",
+    "checks": "nació en 1906 y vivió hasta 2005; Glass House en New Canaan, 1949; acuñó «International School» para una exposición del MoMA; edificio AT&T 1984; primer Pritzker en 1979. ⚠ Da Cleveland, Ohio, como lugar de nacimiento (no New Haven).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Glass House, «Philip Johnson Biography»",
+    "url": "https://theglasshouse.org/learn/philip-johnson-biography/",
+    "checks": "nació el 8 de julio de 1906 en Cleveland, Ohio; murió el 25 de enero de 2005; copreparó con Hitchcock la exposición del MoMA de 1932; Glass House 1949; AT&T 1978–84; primer Pritzker 1979. ⚠ Lugar de nacimiento Cleveland, no New Haven.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Philip Johnson»",
+    "url": "https://www.britannica.com/biography/Philip-Johnson",
+    "checks": "defendió el Estilo Internacional y luego fue clave del posmodernismo; Glass House (1949), edificio AT&T (1984) con frontón quebrado; Pritzker 1979. ⚠ La versión abierta no da fechas de vida.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "ERROR DE LA FICHA: lugar de nacimiento. Pritzker y The Glass House dan Cleveland, Ohio (8 jul 1906), no New Haven. No se cambió el texto.",
+   "Fechas de vida 1906–2005 confirmadas (muerte 25 ene 2005)."
+  ]
+ },
+ {
+  "id": "frank-gehry",
+  "en": {
+   "key": "Canadian-American architect whose curved, fragmented metal buildings, such as the Guggenheim Bilbao, made architecture a city attraction.[1][2]",
+   "more": "Born in Toronto in 1929,[3] he settled in Los Angeles and in 1978 remodelled his own house in Santa Monica with corrugated metal and chain-link.[1][2][3] The Guggenheim Museum Bilbao (1997) and the Walt Disney Concert Hall (2003) brought him worldwide fame.[1][2] He won the Pritzker Prize in 1989.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto canadiense-estadounidense cuyos edificios curvos y fragmentados de metal, como el Guggenheim de Bilbao, hicieron de la arquitectura un atractivo urbano.[1][2]",
+   "more": "Nacido en Toronto en 1929,[3] se instaló en Los Ángeles y en 1978 remodeló su propia casa en Santa Mónica con chapa ondulada y malla metálica.[1][2][3] El Museo Guggenheim de Bilbao (1997) y la Walt Disney Concert Hall (2003) le dieron fama mundial.[1][2] Ganó el Premio Pritzker en 1989.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Frank Gehry»",
+    "url": "https://www.britannica.com/biography/Frank-Gehry",
+    "checks": "arquitecto canadiense-estadounidense (1929–2025); casa de Santa Monica 1978 con chapa ondulada y malla; Guggenheim Bilbao 1997; Disney Hall 2003; Pritzker 1989. ⚠ La versión abierta no detalla lugar de nacimiento.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Premio Pritzker, «Frank Gehry» (laureado 1989)",
+    "url": "https://www.pritzkerprize.com/laureates/1989",
+    "checks": "nacido en Canadá en 1929; residencia Gehry (1978, Santa Monica); Guggenheim Bilbao 1997; Pritzker 1989. ⚠ No habla de atractivo urbano ni de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Academy of Achievement, «Frank O. Gehry»",
+    "url": "https://achievement.org/achiever/frank-gehry/",
+    "checks": "nació en Toronto el 28 de febrero de 1929; se mudó a Los Ángeles en 1947; reconstruyó su casa de Santa Monica con malla metálica y materiales corrugados; Guggenheim Bilbao 1997; murió el 5 de diciembre de 2025. ⚠ Fecha la Disney Hall en 2004 (Britannica: 2003).",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "DATO DE LA FICHA DESACTUALIZADO: dates «b. 1929»/«n. 1929» sin año de muerte; Britannica (1929–2025) y Academy of Achievement dan muerte el 5 dic 2025 (a los 96). No se cambió.",
+   "Disney Hall: 2003 (Britannica) vs 2004 (Academy of Achievement); se mantiene 2003.",
+   "«Hicieron de la arquitectura un atractivo urbano» es interpretación no literal en las fuentes."
+  ]
+ },
+ {
+  "id": "giorgio-armani",
+  "en": {
+   "key": "Italian fashion designer who founded his house in 1975 and made the soft, unstructured jacket the basis of the modern power suit.[1]",
+   "more": "Born in Piacenza in 1934,[2] he founded Giorgio Armani in Milan in 1975 with Sergio Galeotti.[1][3] His jackets without stiff lining and in muted colours changed men’s and women’s tailoring, and the suits he made for the film American Gigolo (1980) spread his style in the United States.[1]"
+  },
+  "es": {
+   "key": "Diseñador de moda italiano que fundó su casa en 1975 e hizo de la chaqueta blanda y sin estructura la base del traje de poder moderno.[1]",
+   "more": "Nacido en Piacenza en 1934,[2] fundó Giorgio Armani en Milán en 1975 con Sergio Galeotti.[1][3] Sus chaquetas sin forro rígido y de colores apagados cambiaron la sastrería de hombres y mujeres, y los trajes que hizo para la película American Gigolo (1980) difundieron su estilo en Estados Unidos.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Giorgio Armani»",
+    "url": "https://www.britannica.com/biography/Giorgio-Armani",
+    "checks": "nació el 11 de julio de 1934 en Piacenza; murió en septiembre de 2025 en Milán; fundó su casa en 1975 con Sergio Galeotti; chaquetas sin estructura; American Gigolo (1980). ⚠ No confirma «forro rígido», «colores apagados», «traje de poder» ni la difusión en EE. UU.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Art Newspaper, «Giorgio Armani, designer who changed how museums engage with fashion, has died aged 91»",
+    "url": "https://www.theartnewspaper.com/2025/09/05/giorgio-armani-designer-who-changed-how-museums-engage-with-fashion-has-died-aged-91",
+    "checks": "nació en Piacenza en 1934; fundó su marca en 1975 con Sergio Galeotti; murió a los 91 años en 2025. ⚠ No detalla chaquetas ni American Gigolo.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Guggenheim Bilbao, «Giorgio Armani»",
+    "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/giorgio-armani-2",
+    "checks": "nació en 1934 en Piacenza; empresa fundada en 1975 con Galeotti; asociado a American Gigolo. ⚠ No confirma Milán como lugar de fundación.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Muerte en 2025 confirmada, pero Britannica da el 4 de septiembre y The Art Newspaper (nota del 5 sep) el 5; la ficha solo dice 2025.",
+   "Milán como sede de fundación, «forro rígido», «colores apagados» y la difusión en EE. UU. no están confirmados literalmente; se conservaron por la ficha."
+  ]
+ },
+ {
+  "id": "norman-foster",
+  "en": {
+   "key": "British architect, the best-known figure of high-tech architecture, whose firm has designed offices, airports and public buildings around the world.[1][2]",
+   "more": "Born in Manchester in 1935,[2] he founded Foster Associates in 1967.[1] His Hongkong and Shanghai Bank headquarters in Hong Kong, completed in 1986,[1] expressed its structure and services on the outside, and he later redesigned the Reichstag in Berlin with a glass dome.[1][2] He received the Pritzker Prize in 1999.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto británico, la figura más conocida de la arquitectura high-tech, cuya oficina ha proyectado oficinas, aeropuertos y edificios públicos en todo el mundo.[1][2]",
+   "more": "Nacido en Manchester en 1935,[2] fundó Foster Associates en 1967.[1] Su sede del Hongkong and Shanghai Bank en Hong Kong, terminada en 1986,[1] mostraba al exterior su estructura y sus instalaciones, y más tarde rediseñó el Reichstag de Berlín con una cúpula de vidrio.[1][2] Recibió el premio Pritzker en 1999.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Norman Foster»",
+    "url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+    "checks": "nació el 1 de junio de 1935 en Manchester; Foster Associates en 1967; HSBC Hong Kong (1986); Reichstag (1999); Pritzker 1999; estilo high-tech. ⚠ No describe la estructura exterior ni la cúpula de vidrio.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Premio Pritzker, «Norman Foster» (laureado 1999)",
+    "url": "https://www.pritzkerprize.com/laureates/1999",
+    "checks": "nació en Manchester en 1935; fundó Foster and Partners en Londres en 1967; obras en HSBC Hong Kong, aeropuerto de Chek Lap Kok, Reichstag; oficinas en más de veinte países; Pritzker 1999. ⚠ No da detalles de la cúpula ni de la estructura vista.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Foster Associates (1967) vs «Foster and Partners» (nombre posterior en Pritzker): coherente.",
+   "La descripción de la estructura vista del HSBC y la cúpula de vidrio del Reichstag no aparecen literalmente en las fuentes abiertas; se conservaron por la ficha."
+  ]
+ },
+ {
+  "id": "vivienne-westwood",
+  "en": {
+   "key": "British fashion designer who, with Malcolm McLaren, dressed British punk and later built a fashion of historical pastiche and political argument.[1][2]",
+   "more": "Born in Glossop, England, in 1941,[1] she ran a shop on the King’s Road in London with Malcolm McLaren, which was called SEX in 1974 and Seditionaries in 1976,[1][2] and from it came the clothes of British punk, with slogans, pins and torn cuts.[1][2] In 1981 she showed her Pirates collection, which drew on historical dress in a theatrical way.[1][2] She continued to use history, tailoring and provocation,[2][3] and in her later years she campaigned publicly on climate and political issues.[2] She died in London in 2022.[1]"
+  },
+  "es": {
+   "key": "Diseñadora de moda británica que, con Malcolm McLaren, vistió al punk británico y luego construyó una moda de pastiche histórico y argumento político.[1][2]",
+   "more": "Nacida en Glossop, Inglaterra, en 1941,[1] tuvo con Malcolm McLaren una tienda en la King’s Road de Londres, que se llamó SEX en 1974 y Seditionaries en 1976,[1][2] y de ella salió la ropa del punk británico, con consignas, alfileres y cortes rotos.[1][2] En 1981 presentó su colección Pirates, que recurría a la indumentaria histórica de manera teatral.[1][2] Siguió usando la historia, la sastrería y la provocación,[2][3] y en sus últimos años hizo campaña pública por causas climáticas y políticas.[2] Murió en Londres en 2022.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Vivienne Westwood»",
+    "url": "https://www.britannica.com/biography/Vivienne-Westwood",
+    "checks": "nació el 8 de abril de 1941 en Glossop, Derbyshire; murió el 29 de diciembre de 2022 en Londres; tienda SEX (1974) y Seditionaries (1976) con McLaren; ropa rasgada y con consignas; Pirates 1981; giro histórico. ⚠ No menciona alfileres ni la King’s Road.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "V&A, «Vivienne Westwood: punk, new romantic and beyond»",
+    "url": "https://www.vam.ac.uk/articles/vivienne-westwood-punk-new-romantic-and-beyond",
+    "checks": "SEX en 430 King’s Road, rebautizada Seditionaries en 1976; piezas punk con alfileres y cadenas; colección Pirate (1981) con siluetas históricas; sastrería y referencias históricas desde 1985; desde 2000 activismo por clima y libertades civiles. ⚠ No habla de «teatral».",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "V&A, «Vivienne Westwood» (colección)",
+    "url": "https://www.vam.ac.uk/collections/vivienne-westwood",
+    "checks": "piezas del periodo SEX y Seditionaries con McLaren, colecciones Pirates; la diseñadora reinterpreta estilos históricos; «tradicionalista, provocadora». ⚠ No trata el activismo.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Pirates 1981: Britannica la llama su primera colección de prêt-à-porter y el V&A la ubica en 1981; coherente con la ficha.",
+   "«Teatral» no aparece literalmente en las fuentes abiertas."
+  ]
+ },
+ {
+  "id": "rei-kawakubo",
+  "en": {
+   "key": "Japanese designer, founder of Comme des Garçons, who showed black, asymmetric and deliberately torn clothes in Paris from 1981.[1][3]",
+   "more": "She founded the label Comme des Garçons in Tokyo around 1969 and presented it in Paris in 1981 together with Yohji Yamamoto.[1][3] Her collections questioned Western ideas of the fitted, flattering garment through black, volume and unfinished edges.[1][2][3] She also built the Dover Street Market stores, which sell fashion and art together.[1]"
+  },
+  "es": {
+   "key": "Diseñadora japonesa, fundadora de Comme des Garçons, que desde 1981 mostró en París ropa negra, asimétrica y deliberadamente rasgada.[1][3]",
+   "more": "Fundó la marca Comme des Garçons en Tokio hacia 1969 y la presentó en París en 1981 junto con Yohji Yamamoto.[1][3] Sus colecciones cuestionaron la idea occidental de la prenda ajustada y favorecedora mediante el negro, el volumen y los bordes sin terminar.[1][2][3] También creó las tiendas Dover Street Market, que venden moda y arte en un mismo lugar.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Rei Kawakubo»",
+    "url": "https://www.britannica.com/biography/Rei-Kawakubo",
+    "checks": "nació el 11 de octubre de 1942 en Tokio; fundó Comme des Garçons en 1969; llegó a París en 1981; prendas oscuras, sobredimensionadas y asimétricas que no seguían el cuerpo; Dover Street Market. ⚠ No dice que Dover Street Market venda moda y arte juntos.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Rei Kawakubo/Comme des Garçons: Art of the In-Between» (2017)",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+    "checks": "exposición de 2017 con unas 140 prendas desde principios de los años 80; temas como Fashion/Anti-Fashion y Clothes/Not Clothes. ⚠ No trata fundación, París 1981 ni Dover Street Market.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopedia.com, «Yamamoto, Yohji»",
+    "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/yamamoto-yohji",
+    "checks": "en 1981 Yamamoto presentó en París su primera colección de prêt-à-porter femenina junto a Rei Kawakubo, con ropa deconstruida «inacabada y rasgada»; negro dominante. ⚠ Fuente sobre Yamamoto, confirma solo la presentación conjunta.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Fundación de Comme des Garçons «hacia 1969» confirmada por Britannica (1969 en Tokio); fecha de nacimiento 11 oct 1942 consistente con la ficha («b. 1942»).",
+   "El carácter «occidental» de la crítica a la prenda ajustada y «moda y arte juntos» no aparecen literalmente; se conservaron por la ficha."
+  ]
+ },
+ {
+  "id": "yohji-yamamoto",
+  "en": {
+   "key": "Japanese designer who, with Rei Kawakubo, brought loose, dark, asymmetric tailoring to the Paris catwalks in 1981.[1][3]",
+   "more": "Born in Tokyo,[2] he began his Y’s label in the 1970s and showed in Paris from 1981.[1][2][3] His work favours black, wide cuts and drapes that do not follow the body’s outline.[1][3] He also made a long collaboration with the sportswear brand Adidas.[1]"
+  },
+  "es": {
+   "key": "Diseñador japonés que, junto con Rei Kawakubo, llevó a las pasarelas de París en 1981 un corte holgado, oscuro y asimétrico.[1][3]",
+   "more": "Nacido en Tokio,[2] comenzó su marca Y’s en la década de 1970 y desfiló en París desde 1981.[1][2][3] Su obra prefiere el negro, los cortes amplios y los drapeados que no siguen el contorno del cuerpo.[1][3] También mantuvo una larga colaboración con la marca deportiva Adidas.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopedia.com, «Yamamoto, Yohji»",
+    "url": "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/yamamoto-yohji",
+    "checks": "nació el 3 de octubre de 1943 en Tokio; Y’s lanzada hacia 1972; en 1981 presentó en París junto a Rei Kawakubo; negro dominante, capas y volúmenes; diseñó zapatillas para Adidas en 2001 y luego la línea Y-3. ⚠ Solo desde 2001; «larga colaboración» es inferencia.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Bloomsbury Fashion Central, «Yohji Yamamoto»",
+    "url": "https://www.bloomsburyfashioncentral.com/products/fashion-photography-archive/article/yohji-yamamoto",
+    "checks": "nació en 1943 en Tokio; fundó su empresa en 1972 y lanzó Y’s con su primera colección en Tokio en 1977. ⚠ El resto del artículo está tras suscripción.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Dazed, «Yohji Yamamoto Expo» (exposición del V&A, 2011)",
+    "url": "https://www.dazeddigital.com/fashion/article/9944/1/yohji-yamamoto-expo",
+    "checks": "retrospectiva V&A 2011 a 30 años de su debut de 1981 en París junto a Comme des Garçons; paletas monocromas, siluetas asimétricas y proporciones sobredimensionadas. ⚠ Revista; no cubre Y’s ni Adidas.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Y’s: encyclopedia.com la fecha hacia 1972 y Bloomsbury en 1972–77; «década de 1970» es coherente.",
+   "Fuente 3 es una revista (Dazed) que reseña la exposición del V&A; no se halló una página institucional del V&A abierta sobre Yamamoto.",
+   "«Larga colaboración» con Adidas: las fuentes solo confirman desde 2001 (zapatillas y Y-3)."
+  ]
+ }
+]

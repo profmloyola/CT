@@ -1,0 +1,1198 @@
+{
+ "institutions": [
+  {
+   "id": "inst-hfg-ulm",
+   "level": "essential",
+   "kind": "school",
+   "disciplines": [
+    "product",
+    "graphic",
+    "architecture"
+   ],
+   "start": 1953,
+   "end": 1968,
+   "place": "Ulm",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "HfG Ulm",
+   "short": "HfG Ulm",
+   "key": "The Ulm School of Design, a German school founded in 1953 that trained designers in a rational, methodical way and shaped postwar design in Germany and beyond.",
+   "more": "It was founded by Inge Scholl, Otl Aicher and Max Bill as a school of democratic renewal after Nazism, and opened in 1953; Bill’s building on the Kuhberg followed in 1955. Its teaching drew on the Bauhaus basic course and then turned, under Tomás Maldonado and others, towards method, science and the social role of design. Teachers such as Hans Gugelot and Aicher worked for Braun and Lufthansa, and students such as Gui Bonsiepe carried its ideas to Latin America. It closed in 1968 after its public funding was withdrawn.",
+   "links": {
+    "designers": [],
+    "works": [
+     "lufthansa-identity",
+     "ulm-stool"
+    ],
+    "movements": [
+     "ulm-functionalism"
+    ]
+   },
+   "es": {
+    "name": "HfG de Ulm",
+    "short": "HfG Ulm",
+    "place": "Ulm",
+    "key": "La Escuela de Diseño de Ulm, una escuela alemana fundada en 1953 que formó diseñadores de manera racional y metódica y marcó el diseño de posguerra en Alemania y más allá.",
+    "more": "La fundaron Inge Scholl, Otl Aicher y Max Bill como una escuela de renovación democrática tras el nazismo, y abrió en 1953; el edificio de Bill en el Kuhberg llegó en 1955. Su enseñanza partió del curso básico de la Bauhaus y luego giró, con Tomás Maldonado y otros, hacia el método, la ciencia y el papel social del diseño. Profesores como Hans Gugelot y Aicher trabajaron para Braun y Lufthansa, y estudiantes como Gui Bonsiepe llevaron sus ideas a América Latina. Cerró en 1968 al retirársele el financiamiento público."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-braun",
+   "level": "essential",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1955,
+   "end": null,
+   "place": "Frankfurt",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Braun",
+   "short": "Braun",
+   "key": "The German electrical maker whose design department, set up in the 1950s, gave radios, record players and shavers a calm, functional look that became a model of industrial design.",
+   "more": "Braun was founded in Frankfurt by Max Braun in 1921, and after his death his sons Erwin and Artur ran it. From 1955 Erwin Braun and Fritz Eichler brought in designers linked to the Ulm school, among them Hans Gugelot, and the SK 4 radio-phonograph of 1956 was designed by Gugelot with Dieter Rams. Rams led the design department from 1961. The company was bought by Gillette in 1967.",
+   "links": {
+    "designers": [
+     "dieter-rams"
+    ],
+    "works": [
+     "braun-sk4",
+     "braun-et66-1987",
+     "braun-t3-1958"
+    ],
+    "movements": [
+     "ulm-functionalism"
+    ]
+   },
+   "es": {
+    "name": "Braun",
+    "short": "Braun",
+    "place": "Fráncfort",
+    "key": "La empresa alemana de artículos eléctricos cuyo departamento de diseño, creado en los años cincuenta, dio a radios, tocadiscos y afeitadoras un aspecto sereno y funcional que se volvió modelo del diseño industrial.",
+    "more": "Braun fue fundada en Fráncfort por Max Braun en 1921, y tras su muerte la dirigieron sus hijos Erwin y Artur. Desde 1955 Erwin Braun y Fritz Eichler incorporaron a diseñadores ligados a la escuela de Ulm, entre ellos Hans Gugelot, y el radiogramófono SK 4 de 1956 lo diseñó Gugelot con Dieter Rams. Rams dirigió el departamento de diseño desde 1961. La empresa fue comprada por Gillette en 1967."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-herman-miller",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1946,
+   "end": null,
+   "place": "Zeeland, Michigan",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Herman Miller",
+   "short": "Herman Miller",
+   "key": "The Michigan furniture maker that, with George Nelson as design director and the Eameses as designers, became a leading producer of modern American furniture.",
+   "more": "The firm in Zeeland, Michigan, took the name Herman Miller in 1923 and, under D. J. De Pree, turned to modern design after hiring George Nelson as design director in 1945. From 1946 it produced furniture by Nelson and by Charles and Ray Eames, including moulded plywood and plastic chairs that suited the small houses of the postwar boom. In the 1960s it moved into office furniture, notably with Robert Propst’s Action Office of 1964.",
+   "links": {
+    "designers": [
+     "eames"
+    ],
+    "works": [
+     "eames-lcw",
+     "eames-lounge",
+     "eames-fiberglass",
+     "eames-aluminium",
+     "marshmallow-sofa",
+     "noguchi-table-1947",
+     "action-office-ii-1968",
+     "girard-herman-miller-textiles-1952",
+     "aeron-chair-1994"
+    ],
+    "movements": [
+     "good-design"
+    ]
+   },
+   "es": {
+    "name": "Herman Miller",
+    "short": "Herman Miller",
+    "place": "Zeeland, Michigan",
+    "key": "La fabricante de muebles de Michigan que, con George Nelson como director de diseño y los Eames como diseñadores, se volvió una de las principales productoras de mobiliario moderno estadounidense.",
+    "more": "La empresa de Zeeland, Michigan, tomó el nombre de Herman Miller en 1923 y, bajo D. J. De Pree, se volcó al diseño moderno tras contratar en 1945 a George Nelson como director de diseño. Desde 1946 produjo muebles de Nelson y de Charles y Ray Eames, entre ellos sillas de terciado moldeado y de plástico que se ajustaban a las casas pequeñas del auge de posguerra. En los años sesenta pasó al mobiliario de oficina, sobre todo con el Action Office de Robert Propst, de 1964."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-knoll",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1946,
+   "end": null,
+   "place": "New York",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Knoll",
+   "short": "Knoll",
+   "key": "The New York furniture company of Hans and Florence Knoll that brought modern design to postwar American offices and homes and licensed modernist classics.",
+   "more": "Hans Knoll founded his furniture firm in New York in 1938, and Florence Knoll, an architect trained in the Bauhaus circle, joined it and led its Planning Unit for interiors; they married in 1946 and the company became Knoll Associates. It produced Eero Saarinen’s Womb and Tulip chairs, Harry Bertoia’s wire chairs and, under licence, pieces by Mies van der Rohe such as the Barcelona chair. Its work in corporate interiors tied it to the postwar office boom.",
+   "links": {
+    "designers": [
+     "eero-saarinen"
+    ],
+    "works": [
+     "tulip-chair",
+     "womb-chair",
+     "bertoia-diamond-1952"
+    ],
+    "movements": [
+     "good-design"
+    ]
+   },
+   "es": {
+    "name": "Knoll",
+    "short": "Knoll",
+    "place": "Nueva York",
+    "key": "La empresa neoyorquina de muebles de Hans y Florence Knoll que llevó el diseño moderno a oficinas y hogares estadounidenses de posguerra y produjo clásicos modernistas con licencia.",
+    "more": "Hans Knoll fundó su empresa de muebles en Nueva York en 1938, y Florence Knoll, arquitecta formada en el círculo de la Bauhaus, se sumó y dirigió su Unidad de Planificación de interiores; se casaron en 1946 y la empresa pasó a ser Knoll Associates. Produjo los sillones Womb y Tulip de Eero Saarinen, las sillas de alambre de Harry Bertoia y, con licencia, piezas de Mies van der Rohe como la silla Barcelona. Su trabajo en interiores corporativos la ató al auge de oficinas de posguerra."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-marimekko",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "fashion",
+    "product"
+   ],
+   "start": 1951,
+   "end": null,
+   "place": "Helsinki",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FI"
+   ],
+   "name": "Marimekko",
+   "short": "Marimekko",
+   "key": "The Finnish textile and clothing company known for large, bold printed fabrics, which made everyday cloth and simple dresses a symbol of modern Nordic design.",
+   "more": "Armi Ratia and her husband Viljo Ratia built it up from the textile printing firm Printex, and Marimekko began as a clothing line in 1951. It hired a group of designers, among them Maija Isola, who made the Unikko poppy print of 1964, and used large patterns in bright colour on cotton for dresses and home furnishings. Its simple, affordable clothes fitted the Nordic welfare state’s ideal of good everyday design.",
+   "links": {
+    "designers": [
+     "maija-isola"
+    ],
+    "works": [
+     "unikko-print"
+    ],
+    "movements": [
+     "scandinavian-design"
+    ]
+   },
+   "es": {
+    "name": "Marimekko",
+    "short": "Marimekko",
+    "place": "Helsinki",
+    "key": "La empresa finlandesa de textiles y ropa conocida por sus telas estampadas grandes y atrevidas, que hizo de la tela cotidiana y del vestido sencillo un símbolo del diseño nórdico moderno.",
+    "more": "Armi Ratia y su marido Viljo Ratia la levantaron a partir de la estampadora textil Printex, y Marimekko nació como línea de ropa en 1951. Contrató a un grupo de diseñadoras y diseñadores, entre ellos Maija Isola, que creó el estampado de amapolas Unikko de 1964, y usó grandes motivos de colores vivos sobre algodón para vestidos y artículos del hogar. Su ropa simple y asequible encajaba con el ideal de buen diseño cotidiano del Estado de bienestar nórdico."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-ikea",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1945,
+   "end": null,
+   "place": "Älmhult, Sweden",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "SE"
+   ],
+   "name": "IKEA",
+   "short": "IKEA",
+   "key": "Swedish furniture company founded by Ingvar Kamprad in 1943, which made modern design cheap by selling furniture in flat packs that customers carry home and assemble.",
+   "more": "Kamprad founded it in 1943 in Småland, Sweden, and began selling furniture by mail order before opening its first store in Älmhult in 1958. Its catalogue, first published in 1951, became its main way of reaching customers. Designer Gillis Lundgren is credited with the idea of taking the legs off a table to pack it flat, and from the 1950s the company designed furniture around flat packing, which cut transport and storage costs. It took the plain, light look of Scandinavian design to a mass public.",
+   "links": {
+    "designers": [],
+    "works": [
+     "ikea-billy-1979"
+    ],
+    "movements": [
+     "scandinavian-design"
+    ]
+   },
+   "es": {
+    "name": "IKEA",
+    "short": "IKEA",
+    "place": "Älmhult, Suecia",
+    "key": "Empresa sueca de muebles fundada por Ingvar Kamprad en 1943, que abarató el diseño moderno al vender muebles en cajas planas que el cliente lleva a casa y arma.",
+    "more": "Kamprad la fundó en 1943 en Småland, Suecia, y empezó vendiendo muebles por correo antes de abrir su primera tienda en Älmhult en 1958. Su catálogo, publicado por primera vez en 1951, fue su principal medio para llegar a los clientes. A Gillis Lundgren se le atribuye la idea de sacarle las patas a una mesa para embalarla plana, y desde los años cincuenta la empresa diseñó sus muebles pensando en la caja plana, lo que redujo los costos de transporte y almacenaje. Llevó el aspecto sencillo y liviano del diseño escandinavo a un público masivo."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-compasso-doro",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1954,
+   "end": null,
+   "place": "Milan, Italy",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Compasso d’Oro Award",
+   "short": "Compasso d’Oro",
+   "key": "Italian design prize created in 1954 by Gio Ponti with the Milan department store La Rinascente, and later run by the industrial design association ADI.",
+   "more": "Gio Ponti proposed it and La Rinascente launched it in Milan in 1954, to honour well-designed products on sale in Italy. Since 1964 it has been run by ADI, the Italian association for industrial design. Winning it became a mark of quality for Italian makers and designers, and the prize helped to give a public face to the idea that design was part of Italian industry and culture.",
+   "links": {
+    "designers": [],
+    "works": [
+     "lettera-22"
+    ],
+    "movements": [
+     "italian-design"
+    ],
+    "institutions": [
+     "inst-olivetti"
+    ]
+   },
+   "es": {
+    "name": "Premio Compasso d’Oro",
+    "short": "Compasso d’Oro",
+    "place": "Milán, Italia",
+    "key": "Premio italiano de diseño creado en 1954 por Gio Ponti junto con los grandes almacenes La Rinascente de Milán, y administrado después por la asociación de diseño industrial ADI.",
+    "more": "Gio Ponti lo propuso y La Rinascente lo lanzó en Milán en 1954, para distinguir productos bien diseñados que se vendían en Italia. Desde 1964 lo administra la ADI, la asociación italiana de diseño industrial. Ganarlo se volvió un sello de calidad para fabricantes y diseñadores italianos, y el premio ayudó a dar una cara pública a la idea de que el diseño era parte de la industria y la cultura de Italia."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-push-pin",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1954,
+   "end": 1980,
+   "place": "New York, USA",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Push Pin Studios",
+   "short": "Push Pin",
+   "key": "New York graphic design studio founded in 1954 by Milton Glaser, Seymour Chwast, Edward Sorel and Reynold Ruffins, which brought illustration and historical styles back into American graphic design.",
+   "more": "The four friends met as students at Cooper Union and began by publishing the Push Pin Almanack, a promotional mailing, before turning it into a studio. Against the austere, rational look of much corporate design of the time, its work drew on illustration and on styles of the past such as Victorian and Art Nouveau lettering and ornament. It became an influence on posters, record covers, magazines and books in the 1950s, 1960s and 1970s. Glaser left in 1974 to found his own studio.",
+   "links": {
+    "designers": [
+     "milton-glaser"
+    ],
+    "works": [],
+    "movements": [
+     "pop-design"
+    ]
+   },
+   "es": {
+    "name": "Push Pin Studios",
+    "short": "Push Pin",
+    "place": "Nueva York, Estados Unidos",
+    "key": "Estudio neoyorquino de diseño gráfico fundado en 1954 por Milton Glaser, Seymour Chwast, Edward Sorel y Reynold Ruffins, que devolvió la ilustración y los estilos históricos al diseño gráfico estadounidense.",
+    "more": "Los cuatro amigos se conocieron como estudiantes en Cooper Union y empezaron publicando el Push Pin Almanack, un envío promocional, antes de convertirlo en estudio. Frente al aspecto austero y racional de buena parte del diseño corporativo de la época, su trabajo recurrió a la ilustración y a estilos del pasado, como las letras y los ornamentos victorianos y Art Nouveau. Influyó en carteles, portadas de discos, revistas y libros de los años cincuenta, sesenta y setenta. Glaser lo dejó en 1974 para fundar su propio estudio."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-esdi",
+   "level": "essential",
+   "kind": "school",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1963,
+   "end": null,
+   "place": "Rio de Janeiro, Brazil",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "name": "Escola Superior de Desenho Industrial (ESDI)",
+   "short": "ESDI",
+   "key": "The first Brazilian higher-education school of industrial design, opened in Rio de Janeiro in 1963 and organised on the teaching model of the Ulm school.",
+   "more": "Created in the early 1960s in Rio de Janeiro, then in Guanabara state, it began classes in 1963. Its course, with a foundation year, methodological teaching and training in both product design and visual communication, followed the pedagogy of the Hochschule für Gestaltung in Ulm, and several of its first teachers had links with Ulm. It trained the first generations of professional designers in Brazil, at a time when the country was industrialising and wanted its own design.",
+   "links": {
+    "designers": [
+     "aloisio-magalhaes"
+    ],
+    "works": [],
+    "institutions": [
+     "inst-hfg-ulm"
+    ]
+   },
+   "es": {
+    "name": "Escola Superior de Desenho Industrial (ESDI)",
+    "short": "ESDI",
+    "place": "Río de Janeiro, Brasil",
+    "key": "La primera escuela brasileña de nivel superior de diseño industrial, abierta en Río de Janeiro en 1963 y organizada según el modelo pedagógico de la escuela de Ulm.",
+    "more": "Creada a comienzos de los años sesenta en Río de Janeiro, entonces en el estado de Guanabara, empezó sus clases en 1963. Su carrera, con un año de fundamentos, enseñanza metodológica y formación tanto en diseño de producto como en comunicación visual, siguió la pedagogía de la Hochschule für Gestaltung de Ulm, y varios de sus primeros docentes tenían vínculos con Ulm. Formó a las primeras generaciones de diseñadores profesionales de Brasil, en un momento en que el país se industrializaba y quería un diseño propio."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-cidi",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1962,
+   "end": 1970,
+   "place": "Buenos Aires, Argentina",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "AR"
+   ],
+   "name": "Centro de Investigación de Diseño Industrial (CIDI)",
+   "short": "CIDI",
+   "key": "Argentine research and teaching centre for industrial design, set up in Buenos Aires in 1962 within the national institute of industrial technology.",
+   "more": "It formed part of the Instituto Nacional de Tecnología Industrial (INTI), created to support Argentine industry in a period of industrialisation. The centre promoted industrial design as a profession linked to industry and drew on the methods taught at Ulm. It worked until 1970, and its members were among those who helped to establish industrial design as a university subject in Argentina.",
+   "links": {
+    "designers": [],
+    "works": [],
+    "institutions": [
+     "inst-hfg-ulm"
+    ]
+   },
+   "es": {
+    "name": "Centro de Investigación de Diseño Industrial (CIDI)",
+    "short": "CIDI",
+    "place": "Buenos Aires, Argentina",
+    "key": "Centro argentino de investigación y enseñanza del diseño industrial, creado en Buenos Aires en 1962 dentro del instituto nacional de tecnología industrial.",
+    "more": "Formó parte del Instituto Nacional de Tecnología Industrial (INTI), creado para apoyar a la industria argentina en un período de industrialización. El centro promovió el diseño industrial como una profesión ligada a la industria y se apoyó en los métodos enseñados en Ulm. Funcionó hasta 1970, y sus integrantes estuvieron entre quienes ayudaron a instalar el diseño industrial como carrera universitaria en Argentina."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-intec",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1971,
+   "end": 1973,
+   "place": "Santiago, Chile",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Instituto de Investigaciones Tecnológicas (INTEC)",
+   "short": "INTEC",
+   "key": "Chilean state technology institute under CORFO whose industrial design group worked for the Allende government until the 1973 coup.",
+   "more": "INTEC was linked to CORFO, the Chilean state development corporation, and during the Unidad Popular government of 1970–73 it hosted a group of industrial designers that included Gui Bonsiepe. The group worked on design for state-owned industry and for the project of the operations room of Cybersyn, the system for managing the nationalised economy. The military coup of September 1973 ended this work.",
+   "links": {
+    "designers": [],
+    "works": [
+     "cybersyn-opsroom"
+    ]
+   },
+   "es": {
+    "name": "Instituto de Investigaciones Tecnológicas (INTEC)",
+    "short": "INTEC",
+    "place": "Santiago, Chile",
+    "key": "Instituto estatal chileno de tecnología, dependiente de la CORFO, cuyo grupo de diseño industrial trabajó para el gobierno de Allende hasta el golpe de 1973.",
+    "more": "INTEC estaba ligado a la CORFO, la corporación estatal de fomento chilena, y durante el gobierno de la Unidad Popular de 1970–73 acogió a un grupo de diseñadores industriales en el que estaba Gui Bonsiepe. El grupo trabajó en diseño para la industria estatal y en el proyecto de la sala de operaciones de Cybersyn, el sistema para gestionar la economía nacionalizada. El golpe militar de septiembre de 1973 puso fin a ese trabajo."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-sony",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1946,
+   "end": null,
+   "place": "Tokyo, Japan",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "name": "Sony",
+   "short": "Sony",
+   "key": "Japanese electronics company founded in Tokyo in 1946 by Masaru Ibuka and Akio Morita, which made small transistor radios and other consumer electronics a world-wide export.",
+   "more": "Founded as Tokyo Tsushin Kogyo, it took the name Sony in 1958. It brought out its first transistor radio, the TR-55, in 1955 and the pocket-sized TR-63 in 1957, which it sold in the United States. Its small, portable products showed that Japanese industry, rebuilding after the war, could compete in design as well as price, and set the model for later Japanese consumer electronics.",
+   "links": {
+    "designers": [],
+    "works": [
+     "sony-tr63",
+     "sony-walkman-1979"
+    ]
+   },
+   "es": {
+    "name": "Sony",
+    "short": "Sony",
+    "place": "Tokio, Japón",
+    "key": "Empresa japonesa de electrónica fundada en Tokio en 1946 por Masaru Ibuka y Akio Morita, que hizo de las radios de transistores pequeñas y otros aparatos de consumo un producto de exportación mundial.",
+    "more": "Fundada como Tokyo Tsushin Kogyo, tomó el nombre Sony en 1958. Lanzó su primera radio de transistores, la TR-55, en 1955 y la TR-63, del tamaño de un bolsillo, en 1957, que vendió en Estados Unidos. Sus productos pequeños y portátiles mostraron que la industria japonesa, que se reconstruía tras la guerra, podía competir también en diseño y no solo en precio, y marcaron el modelo de la electrónica de consumo japonesa posterior."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-unimark",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1965,
+   "end": 1977,
+   "place": "Chicago and New York, USA",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Unimark International",
+   "short": "Unimark",
+   "key": "American design consultancy founded in Chicago in 1965 by Ralph Eckerstrom, Massimo Vignelli, Bob Noorda, Jay Doblin and others, which applied a rational, grid-based method to corporate identity and signage.",
+   "more": "It set out to offer companies a single, systematic design service, with the same method applied to logos, manuals, packaging and signs. Its best-known work includes the American Airlines logo of 1967 and the graphic standards for the New York subway, which Noorda and Vignelli drew up around 1970. It brought the Swiss-influenced international typographic style to American business, and closed in 1977.",
+   "links": {
+    "designers": [
+     "massimo-vignelli"
+    ],
+    "works": [
+     "nyc-transit-standards",
+     "american-airlines-logo"
+    ],
+    "movements": [
+     "corporate-identity-design"
+    ]
+   },
+   "es": {
+    "name": "Unimark International",
+    "short": "Unimark",
+    "place": "Chicago y Nueva York, Estados Unidos",
+    "key": "Consultora estadounidense de diseño fundada en Chicago en 1965 por Ralph Eckerstrom, Massimo Vignelli, Bob Noorda, Jay Doblin y otros, que aplicó un método racional y basado en retícula a la identidad corporativa y la señalética.",
+    "more": "Se propuso ofrecer a las empresas un servicio de diseño único y sistemático, con el mismo método aplicado a logotipos, manuales, envases y señales. Entre sus trabajos más conocidos están el logotipo de American Airlines de 1967 y las normas gráficas del metro de Nueva York, que Noorda y Vignelli prepararon hacia 1970. Llevó el estilo tipográfico internacional, de influencia suiza, al mundo empresarial estadounidense, y cerró en 1977."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-fiat",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1945,
+   "end": null,
+   "place": "Turin, Italy",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Fiat",
+   "short": "Fiat",
+   "key": "Italian car maker founded in Turin in 1899, which mass-produced small, cheap cars for Italian families, such as the 600 and the Nuova 500.",
+   "more": "Fiat was founded in Turin in 1899, with Giovanni Agnelli among its founders. Its Lingotto factory, built in the 1910s and 1920s, became a landmark of industrial architecture, with a test track on the roof. After the Second World War it put cars within reach of many Italian households with the 600 of 1955 and the Nuova 500 of 1957, both designed by Dante Giacosa. Its engineers and designers made it a central company in the Italian motor industry and in Italian design.",
+   "links": {
+    "designers": [],
+    "works": [
+     "fiat-500"
+    ],
+    "movements": [
+     "italian-design"
+    ]
+   },
+   "es": {
+    "name": "Fiat",
+    "short": "Fiat",
+    "place": "Turín, Italia",
+    "key": "Fabricante italiano de automóviles fundado en Turín en 1899, que produjo en masa autos pequeños y baratos para las familias italianas, como el 600 y el Nuova 500.",
+    "more": "Fiat se fundó en Turín en 1899, con Giovanni Agnelli entre sus fundadores. Su fábrica del Lingotto, construida en las décadas de 1910 y 1920, se volvió un hito de la arquitectura industrial, con una pista de pruebas en el techo. Tras la Segunda Guerra Mundial puso el automóvil al alcance de muchos hogares italianos con el 600 de 1955 y el Nuova 500 de 1957, ambos diseñados por Dante Giacosa. Sus ingenieros y diseñadores la hicieron una empresa central de la industria automotriz y del diseño italianos."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-levitt",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1945,
+   "end": 1968,
+   "place": "Long Island, New York, USA",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Levitt & Sons",
+   "short": "Levitt",
+   "key": "American home builder founded in 1929 by Abraham Levitt and his sons, famous for building thousands of similar houses at speed in the Levittown suburbs from 1947.",
+   "more": "Abraham Levitt founded the firm in 1929, and his sons William and Alfred ran it. After the Second World War it built Levittown on Long Island, New York, from 1947, followed by later Levittowns in Pennsylvania and New Jersey, applying assembly-line methods in which work teams moved from house to house, each doing one task. Its houses were sold largely to returning veterans and young families, and were at first sold only to white buyers. William Levitt sold the company in 1968. It became the model of the mass-produced American suburb.",
+   "links": {
+    "designers": [],
+    "works": [
+     "levittown"
+    ]
+   },
+   "es": {
+    "name": "Levitt & Sons",
+    "short": "Levitt",
+    "place": "Long Island, Nueva York, Estados Unidos",
+    "key": "Constructora estadounidense fundada en 1929 por Abraham Levitt y sus hijos, famosa por levantar a gran velocidad miles de casas parecidas en los suburbios de Levittown desde 1947.",
+    "more": "Abraham Levitt fundó la empresa en 1929 y sus hijos William y Alfred la dirigieron. Tras la Segunda Guerra Mundial construyó Levittown en Long Island, Nueva York, desde 1947, y luego otros Levittown en Pensilvania y Nueva Jersey, aplicando métodos de cadena de montaje en los que los equipos de trabajo pasaban de casa en casa, cada uno con una sola tarea. Sus casas se vendieron sobre todo a veteranos de guerra y familias jóvenes, y al principio solo a compradores blancos. William Levitt vendió la empresa en 1968. Se volvió el modelo del suburbio estadounidense producido en masa."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-case-study-houses",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1945,
+   "end": 1966,
+   "place": "Los Angeles, California",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Case Study House Program",
+   "short": "Case Study Houses",
+   "key": "A programme launched in 1945 by the Los Angeles magazine Arts & Architecture, which commissioned architects to design and build model modern houses for postwar living.",
+   "more": "The magazine’s editor, John Entenza, announced the programme in January 1945 and invited architects such as Charles and Ray Eames, Richard Neutra, Eero Saarinen and Pierre Koenig to design houses that used industrial materials and building techniques developed during the war. Many of the houses were built and opened to the public, and the magazine published them. The Eames House, completed in 1949, is the best known of them.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "eames-house"
+    ]
+   },
+   "es": {
+    "name": "Programa Case Study Houses",
+    "short": "Case Study Houses",
+    "place": "Los Ángeles, California",
+    "key": "Un programa lanzado en 1945 por la revista angelina Arts & Architecture, que encargó a arquitectos diseñar y construir casas modernas modelo para la vida de posguerra.",
+    "more": "El editor de la revista, John Entenza, anunció el programa en enero de 1945 e invitó a arquitectos como Charles y Ray Eames, Richard Neutra, Eero Saarinen y Pierre Koenig a diseñar casas con materiales industriales y técnicas constructivas desarrolladas durante la guerra. Muchas de las casas se construyeron y se abrieron al público, y la revista las publicó. La Eames House, terminada en 1949, es la más conocida."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-kartell",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1949,
+   "end": null,
+   "place": "Milan",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Kartell",
+   "short": "Kartell",
+   "key": "An Italian company founded in Milan in 1949 that became a leading maker of plastic furniture and household objects designed by well-known designers.",
+   "more": "Founded by Giulio Castelli, it began with plastic accessories and moved in the 1950s and 1960s to injection-moulded household goods and furniture. It produced Joe Colombo’s Universale chair, designed in the 1960s, one of the first chairs moulded in a single plastic material. Anna Castelli Ferrieri also designed for the company.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "joe-colombo"
+    ],
+    "works": [
+     "universale-4867",
+     "componibili-1967",
+     "louis-ghost-2002"
+    ]
+   },
+   "es": {
+    "name": "Kartell",
+    "short": "Kartell",
+    "place": "Milán",
+    "key": "Una empresa italiana fundada en Milán en 1949 que se volvió una de las principales fabricantes de muebles y objetos domésticos de plástico diseñados por diseñadores conocidos.",
+    "more": "Fundada por Giulio Castelli, empezó con accesorios de plástico y pasó en los años cincuenta y sesenta a artículos domésticos y muebles inyectados. Produjo la silla Universale de Joe Colombo, diseñada en los años sesenta, una de las primeras sillas moldeadas en un solo material plástico. Anna Castelli Ferrieri también diseñó para la empresa."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-giorgini-florence-shows",
+   "level": "normal",
+   "kind": "exhibition",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1951,
+   "end": null,
+   "place": "Florence",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Giorgini’s Florence fashion shows",
+   "short": "Giorgini shows",
+   "key": "Fashion shows organised in Florence from 1951 by Giovanni Battista Giorgini, which presented Italian fashion to foreign buyers and gave it an identity apart from Paris.",
+   "more": "Giorgini, an Italian buyer who exported Italian goods to American stores, invited American buyers and press to see Italian houses together in Florence in 1951. The shows later moved to the Sala Bianca of the Palazzo Pitti. Their success is usually taken as the start of Italian fashion as an international industry.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "pucci-prints-1951"
+    ]
+   },
+   "es": {
+    "name": "Desfiles de Giorgini en Florencia",
+    "short": "Desfiles Giorgini",
+    "place": "Florencia",
+    "key": "Desfiles organizados en Florencia desde 1951 por Giovanni Battista Giorgini, que presentaron la moda italiana a compradores extranjeros y le dieron una identidad propia frente a París.",
+    "more": "Giorgini, un comprador italiano que exportaba productos italianos a tiendas estadounidenses, invitó a compradores y prensa de Estados Unidos a ver juntas a las casas italianas en Florencia en 1951. Los desfiles pasaron después a la Sala Bianca del Palazzo Pitti. Su éxito suele tomarse como el comienzo de la moda italiana como industria internacional."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-bienal-sao-paulo",
+   "level": "normal",
+   "kind": "exhibition",
+   "disciplines": [
+    "graphic",
+    "architecture"
+   ],
+   "start": 1951,
+   "end": null,
+   "place": "São Paulo",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "name": "Bienal de São Paulo",
+   "short": "Bienal",
+   "key": "The main Latin American biennial of art, held in São Paulo since 1951, which brought international modern art and design to Brazil and showed Brazilian work abroad.",
+   "more": "Modelled on the Venice Biennale, it opened in 1951 with the support of the industrialist Francisco Matarazzo Sobrinho. Max Bill won the sculpture prize that year with Tripartite Unity, and his work was important for Brazilian concrete art. Later editions included architecture and graphic design, and the posters of the Biennial are part of Brazilian graphic design.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "max-bill"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Bienal de São Paulo",
+    "short": "Bienal",
+    "place": "São Paulo",
+    "key": "La principal bienal de arte de América Latina, realizada en São Paulo desde 1951, que trajo el arte y el diseño modernos internacionales a Brasil y mostró obra brasileña al mundo.",
+    "more": "Concebida según el modelo de la Bienal de Venecia, abrió en 1951 con el apoyo del industrial Francisco Matarazzo Sobrinho. Max Bill ganó ese año el premio de escultura con Unidad tripartita, y su obra fue importante para el arte concreto brasileño. Las ediciones siguientes incluyeron arquitectura y diseño gráfico, y los carteles de la Bienal forman parte del diseño gráfico brasileño."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-escuela-valparaiso",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "start": 1952,
+   "end": null,
+   "place": "Valparaíso and Ritoque",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Escuela de Arquitectura de Valparaíso (PUCV) y Ciudad Abierta",
+   "short": "PUCV Valparaíso",
+   "key": "A Chilean school of architecture and design at the Pontifical Catholic University of Valparaíso, which joined poetry, architecture and design and created the Open City at Ritoque.",
+   "more": "Founded c. 1952, it was shaped by the architect Alberto Cruz and the poet Godofredo Iommi, who with others took part in the Amereida journey across South America in 1965. The school teaches design through poetry and the shared experience of the American territory instead of European models. The Open City, an experimental community of buildings and workshops used by the school, was begun in 1970 at Ritoque, north of Valparaíso.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "alejandro-aravena"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Escuela de Arquitectura y Diseño de Valparaíso (PUCV) y Ciudad Abierta",
+    "short": "PUCV Valparaíso",
+    "place": "Valparaíso y Ritoque",
+    "key": "Una escuela chilena de arquitectura y diseño de la Pontificia Universidad Católica de Valparaíso que unió poesía, arquitectura y diseño y creó la Ciudad Abierta de Ritoque.",
+    "more": "Fundada c. 1952, la marcaron el arquitecto Alberto Cruz y el poeta Godofredo Iommi, que con otros participaron en la travesía de Amereida por Sudamérica en 1965. La escuela enseña el diseño a partir de la poesía y de la experiencia compartida del territorio americano, y no de modelos europeos. La Ciudad Abierta, una comunidad experimental de edificios y talleres que usa la escuela, se inició en 1970 en Ritoque, al norte de Valparaíso."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-team-10",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1953,
+   "end": 1981,
+   "place": "Europe",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "NL",
+    "FR"
+   ],
+   "name": "Team 10",
+   "short": "Team 10",
+   "key": "A group of younger architects, among them the Smithsons, Aldo van Eyck and Jaap Bakema, who challenged the functional city of the CIAM and called for a more human urbanism.",
+   "more": "They emerged from the younger members of the CIAM at its ninth congress in Aix-en-Provence in 1953 and prepared the tenth, at Dubrovnik in 1956, taking over its direction. The CIAM ended in 1959 and the group went on meeting until 1981. Its members stressed community, the street and the human scale over the zoned city of the Athens Charter.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-ciam"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Team 10",
+    "short": "Team 10",
+    "place": "Europa",
+    "key": "Un grupo de arquitectos más jóvenes, entre ellos los Smithson, Aldo van Eyck y Jaap Bakema, que cuestionó la ciudad funcional de los CIAM y pidió un urbanismo más humano.",
+    "more": "Surgió de los miembros más jóvenes de los CIAM en su noveno congreso, en Aix-en-Provence en 1953, y preparó el décimo, en Dubrovnik en 1956, haciéndose cargo de su dirección. Los CIAM terminaron en 1959 y el grupo siguió reuniéndose hasta 1981. Sus miembros pusieron la comunidad, la calle y la escala humana por encima de la ciudad zonificada de la Carta de Atenas."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-if-design-award",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1953,
+   "end": null,
+   "place": "Hannover",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "iF Design Award",
+   "short": "iF Design Award",
+   "key": "A German design award that began in Hannover in 1953 as a seal of good industrial design and grew into a major international competition.",
+   "more": "It began in 1953 in Hannover, linked to the city’s industrial fair, to select and promote well-designed German products during the postwar economic recovery. Over the following decades it widened from products to other fields of design and to entries from many countries. Today it is one of the best-known design awards, alongside the Red Dot.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-red-dot"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Premio iF de Diseño",
+    "short": "Premio iF",
+    "place": "Hannover",
+    "key": "Un premio alemán de diseño que nació en Hannover en 1953 como sello de buen diseño industrial y creció hasta ser un gran concurso internacional.",
+    "more": "Nació en 1953 en Hannover, ligado a la feria industrial de la ciudad, para seleccionar y promover productos alemanes bien diseñados durante la recuperación económica de posguerra. En las décadas siguientes pasó de los productos a otros campos del diseño y a participantes de muchos países. Hoy es uno de los premios de diseño más conocidos, junto con el Red Dot."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-red-dot",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1955,
+   "end": null,
+   "place": "Essen",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Red Dot Design Award",
+   "short": "Red Dot",
+   "key": "A German design award run from Essen, with roots in the design selections of the 1950s, which became an international seal for product, communication and concept design.",
+   "more": "Its roots lie in the promotion of good industrial design in Essen in the 1950s. The competition took the name Red Dot and its present international form only in the 1990s, so its early history should be read as that of a forerunner. It is now organised in several categories, among them product design, communication design and design concept.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-compasso-doro"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Premio Red Dot de Diseño",
+    "short": "Red Dot",
+    "place": "Essen",
+    "key": "Un premio alemán de diseño organizado desde Essen, con raíces en las selecciones de diseño de los años cincuenta, que se volvió un sello internacional para el diseño de producto, comunicación y concepto.",
+    "more": "Sus raíces están en la promoción del buen diseño industrial en Essen en los años cincuenta. El concurso adoptó el nombre Red Dot y su forma internacional actual solo en los años noventa, de modo que su historia temprana debe leerse como la de un antecedente. Hoy se organiza en varias categorías, entre ellas diseño de producto, diseño de comunicación y concepto de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-salone-del-mobile",
+   "level": "normal",
+   "kind": "exhibition",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1961,
+   "end": null,
+   "place": "Milan",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Salone del Mobile.Milano",
+   "short": "Salone del Mobile",
+   "key": "The furniture fair held in Milan since 1961, which became the main showcase of Italian design and the centre of Milan Design Week.",
+   "more": "Italian furniture makers started it in 1961 to promote their products, especially for export. It gave manufacturers and designers a yearly meeting point, and its fringe events grew into Milan Design Week. Memphis presented its first collection in Milan in September 1981, in the season of the fair.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-memphis-group"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Salón del Mueble de Milán",
+    "short": "Salón del Mueble",
+    "place": "Milán",
+    "key": "La feria del mueble realizada en Milán desde 1961, que se volvió la principal vitrina del diseño italiano y el centro de la Semana del Diseño de Milán.",
+    "more": "Fabricantes italianos de muebles la crearon en 1961 para promover sus productos, sobre todo para la exportación. Dio a fabricantes y diseñadores un punto de encuentro anual, y sus actividades paralelas crecieron hasta formar la Semana del Diseño de Milán. Memphis presentó su primera colección en Milán en septiembre de 1981, en la temporada de la feria."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-dad",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1962,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "D&AD (Design and Art Direction)",
+   "short": "D&AD",
+   "key": "A British association and awards scheme for design and advertising, founded in London in 1962, whose ‘pencil’ became a professional honour.",
+   "more": "Founded in London in 1962 by designers, photographers and art directors as Designers and Art Directors Association, it set up annual awards judged by peers and published the best work in an annual. Its Yellow Pencil and Black Pencil became symbols of excellence in British advertising and graphic design.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "D&AD",
+    "short": "D&AD",
+    "place": "Londres",
+    "key": "Una asociación y un sistema de premios británicos de diseño y publicidad, fundados en Londres en 1962, cuyo «lápiz» se volvió un galardón profesional.",
+    "more": "Fundada en Londres en 1962 por diseñadores, fotógrafos y directores de arte como Designers and Art Directors Association, creó premios anuales juzgados por pares y publicó los mejores trabajos en un anuario. Su Lápiz Amarillo y su Lápiz Negro se volvieron símbolos de excelencia en la publicidad y el diseño gráfico británicos."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-xerox-parc",
+   "level": "normal",
+   "kind": "company",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "start": 1970,
+   "end": null,
+   "place": "Palo Alto, California",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Xerox PARC",
+   "short": "Xerox PARC",
+   "key": "The Xerox research centre in Palo Alto, founded in 1970, where windows, icons, the mouse and the graphical interface were developed.",
+   "more": "The Palo Alto Research Center was set up by Xerox in 1970. Its Alto computer of 1973 combined a bitmapped screen, a mouse, windows and icons, and its team also worked on Ethernet and laser printing. Steve Jobs saw its work in 1979, and the graphical interface later reached the public through Apple’s Lisa and Macintosh.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "xerox-star-interface-1981"
+    ]
+   },
+   "es": {
+    "name": "Xerox PARC",
+    "short": "Xerox PARC",
+    "place": "Palo Alto, California",
+    "key": "El centro de investigación de Xerox en Palo Alto, fundado en 1970, donde se desarrollaron las ventanas, los íconos, el ratón y la interfaz gráfica.",
+    "more": "El Palo Alto Research Center fue creado por Xerox en 1970. Su computadora Alto de 1973 reunió pantalla de mapa de bits, ratón, ventanas e íconos, y su equipo trabajó también en Ethernet y en la impresión láser. Steve Jobs conoció su trabajo en 1979, y la interfaz gráfica llegó después al público con la Lisa y la Macintosh de Apple."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-quimantu",
+   "level": "normal",
+   "kind": "publication",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1971,
+   "end": 1973,
+   "place": "Santiago",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Editorial Quimantú",
+   "short": "Quimantú",
+   "key": "The state publishing house created in Chile under the Unidad Popular government, which issued cheap books and magazines in very large print runs until the 1973 coup.",
+   "more": "Quimantú took over the Zig-Zag publishing house in 1971, when the government of Salvador Allende bought it, and put out literature, popular education and political series in low-priced editions. To print at that scale and cost it relied on direct covers in strong colour and simple layouts. After the military coup of September 1973 the house was closed and its stock destroyed or dispersed.",
+   "links": {
+    "designers": [],
+    "movements": [],
+    "institutions": [],
+    "works": [
+     "quimantu-minilibros-1972"
+    ]
+   },
+   "es": {
+    "name": "Editorial Quimantú",
+    "short": "Quimantú",
+    "place": "Santiago",
+    "key": "La editorial estatal creada en Chile bajo el gobierno de la Unidad Popular, que publicó libros y revistas baratos en tiradas muy grandes hasta el golpe de 1973.",
+    "more": "Quimantú se hizo cargo de la editorial Zig-Zag en 1971, cuando la compró el gobierno de Salvador Allende, y publicó literatura, educación popular y series políticas en ediciones de bajo precio. Para imprimir a esa escala y a ese costo recurrió a portadas directas, de color intenso, y a diagramaciones simples. Tras el golpe militar de septiembre de 1973 la editorial fue cerrada y sus existencias destruidas o dispersadas."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-pentagram",
+   "level": "normal",
+   "kind": "studio",
+   "disciplines": [
+    "graphic",
+    "product",
+    "architecture"
+   ],
+   "start": 1972,
+   "end": null,
+   "place": "London",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Pentagram",
+   "short": "Pentagram",
+   "key": "The London design consultancy founded in 1972 as a partnership of designers from different fields, which became a world reference in graphic identity.",
+   "more": "Pentagram was formed in London in 1972 by partners from graphic design, product design and architecture, among them Alan Fletcher, Colin Forbes, Theo Crosby, Kenneth Grange and Mervyn Kurlansky. Each partner led his own projects and clients under a shared name, a model that departed from the single-author studio. It grew into a firm with offices abroad and remains active.",
+   "links": {
+    "designers": [
+     "paula-scher"
+    ],
+    "movements": [],
+    "institutions": [],
+    "works": [
+     "public-theater-identity-1994",
+     "citibank-logo-1998"
+    ]
+   },
+   "es": {
+    "name": "Pentagram",
+    "short": "Pentagram",
+    "place": "Londres",
+    "key": "La consultora de diseño londinense fundada en 1972 como sociedad de diseñadores de distintas áreas, que se volvió referencia mundial en identidad gráfica.",
+    "more": "Pentagram se formó en Londres en 1972 con socios del diseño gráfico, el diseño de producto y la arquitectura, entre ellos Alan Fletcher, Colin Forbes, Theo Crosby, Kenneth Grange y Mervyn Kurlansky. Cada socio dirigía sus propios proyectos y clientes bajo un nombre común, un modelo que se apartaba del estudio de autor único. Creció hasta tener oficinas en el extranjero y sigue activa."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-independent-group",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "graphic",
+    "architecture",
+    "product"
+   ],
+   "start": 1952,
+   "end": 1955,
+   "place": "London (ICA)",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Independent Group",
+   "short": "Independent Group",
+   "key": "A discussion group at London’s Institute of Contemporary Arts in which artists, architects and critics took mass culture, advertising and consumer goods as a subject for serious study.",
+   "more": "It met at the Institute of Contemporary Arts in London in the early 1950s, and its members included the artists Richard Hamilton and Eduardo Paolozzi, the architects Alison and Peter Smithson and the critic Reyner Banham. They discussed American advertising, films, science fiction and industrial products as material for art and design rather than as bad taste. Their interest in popular imagery fed British pop art and a more open attitude to consumer design in the following decade.",
+   "links": {
+    "designers": [
+     "smithsons"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Independent Group",
+    "short": "Independent Group",
+    "place": "Londres (ICA)",
+    "key": "Un grupo de discusión del Institute of Contemporary Arts de Londres en que artistas, arquitectos y críticos tomaron la cultura de masas, la publicidad y los bienes de consumo como tema de estudio serio.",
+    "more": "Se reunía en el Institute of Contemporary Arts de Londres a comienzos de los años cincuenta, y entre sus miembros estaban los artistas Richard Hamilton y Eduardo Paolozzi, los arquitectos Alison y Peter Smithson y el crítico Reyner Banham. Discutían la publicidad estadounidense, el cine, la ciencia ficción y los productos industriales como material para el arte y el diseño, y no como mal gusto. Su interés por la imaginería popular alimentó el arte pop británico y una actitud más abierta hacia el diseño de consumo en la década siguiente."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-di-tella",
+   "level": "normal",
+   "kind": "school",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1958,
+   "end": 1970,
+   "place": "Buenos Aires",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "AR"
+   ],
+   "name": "Instituto Torcuato Di Tella",
+   "short": "Di Tella",
+   "key": "A Buenos Aires cultural institute, backed by an industrial family’s foundation, that became a centre of avant-garde art and whose graphic design work renewed Argentine graphics in the 1960s.",
+   "more": "It was created in 1958 in Buenos Aires by the Di Tella foundation, set up in memory of the founder of the industrial firm SIAM Di Tella. Besides its art centre, it had a graphic design area that produced posters, publications and corporate identity work for the institute and other clients. It closed in 1970, in the political climate of the Argentine military government.",
+   "links": {
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Instituto Torcuato Di Tella",
+    "short": "Di Tella",
+    "place": "Buenos Aires",
+    "key": "Un instituto cultural de Buenos Aires, respaldado por la fundación de una familia industrial, que se volvió centro de arte de vanguardia y cuya gráfica renovó el diseño gráfico argentino de los años sesenta.",
+    "more": "Se creó en 1958 en Buenos Aires por la fundación Di Tella, establecida en memoria del fundador de la empresa industrial SIAM Di Tella. Además de su centro de arte, tuvo un área de diseño gráfico que produjo afiches, publicaciones y trabajos de identidad para el propio instituto y otros clientes. Cerró en 1970, en el clima político del gobierno militar argentino."
+   },
+   "refs": []
+  },
+  {
+   "id": "inst-icsid",
+   "level": "normal",
+   "kind": "association",
+   "disciplines": [
+    "product"
+   ],
+   "start": 1957,
+   "end": null,
+   "place": "London / Montreal",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "name": "ICSID (World Design Organization)",
+   "short": "ICSID",
+   "key": "The International Council of Societies of Industrial Design, founded in 1957 to federate national design associations and define the profession; it is now called the World Design Organization.",
+   "more": "It was founded in 1957 as a federation of national societies of industrial designers, and organised international congresses where the profession’s definition and ethics were discussed. It promoted design education and the use of design in countries seeking industrial development, a line that connected it to design programmes outside Europe and North America. Its secretariat later moved to Montreal, and it is now known as the World Design Organization.",
+   "links": {
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "ICSID (hoy World Design Organization)",
+    "short": "ICSID",
+    "place": "Londres / Montreal",
+    "key": "El Consejo Internacional de Sociedades de Diseño Industrial, fundado en 1957 para federar a las asociaciones nacionales de diseñadores y definir la profesión; hoy se llama World Design Organization.",
+    "more": "Se fundó en 1957 como federación de sociedades nacionales de diseñadores industriales, y organizó congresos internacionales en que se discutieron la definición y la ética de la profesión. Impulsó la enseñanza del diseño y su uso en países que buscaban desarrollo industrial, una línea que lo vinculó con programas de diseño fuera de Europa y América del Norte. Su secretaría se trasladó después a Montreal, y hoy se conoce como World Design Organization."
+   },
+   "refs": []
+  }
+ ]
+}

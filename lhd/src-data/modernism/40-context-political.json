@@ -1,0 +1,700 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-first-world-war",
+   "track": "political",
+   "start": 1914,
+   "end": 1918,
+   "date": "1914–1918",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "DE",
+    "US",
+    "RU"
+   ],
+   "name": "First World War",
+   "short": "World War I",
+   "key": "The first industrial war mobilised whole societies and turned the printed poster into a tool of the state.",
+   "happened": "Fought from July 1914 to the armistice of 11 November 1918.[1] Britain relied on volunteers until conscription in 1916,[2][3] and the United States entered the war in April 1917.[1][5] Britain ran recruitment poster campaigns, such as the Kitchener poster of November 1914,[2][4] and the United States used posters to recruit soldiers and to sell Liberty Loans that funded the war.[6]",
+   "effect": "Governments became major clients of graphic design (in the United States, artists were recruited through the Division of Pictorial Publicity), and the poster learned to address the viewer directly, as in Kitchener’s pointing finger.[4][6] In neutral countries such as the Netherlands,[7] artists gathered around the magazine De Stijl, founded in October 1917, which sought a universal art.[8][9]",
+   "wiki": "World_War_I",
+   "es": {
+    "name": "Primera Guerra Mundial",
+    "short": "1.ª Guerra Mundial",
+    "date": "1914–1918",
+    "key": "La primera guerra industrial movilizó sociedades enteras y convirtió el cartel impreso en una herramienta del Estado.",
+    "happened": "Se libró desde julio de 1914 hasta el armisticio del 11 de noviembre de 1918.[1] Gran Bretaña dependió de voluntarios hasta el servicio obligatorio de 1916,[2][3] y Estados Unidos entró en la guerra en abril de 1917.[1][5] Gran Bretaña hizo campañas de carteles de reclutamiento, como el de Kitchener de noviembre de 1914,[2][4] y Estados Unidos usó carteles para reclutar soldados y para vender bonos de la Libertad que financiaron la guerra.[6]",
+    "effect": "Los gobiernos se volvieron grandes clientes del diseño gráfico (en Estados Unidos se reclutó a artistas mediante la División de Publicidad Pictórica), y el cartel aprendió a interpelar directamente a quien lo mira, como el dedo de Kitchener que apunta.[4][6] En países neutrales como los Países Bajos,[7] artistas se reunieron en torno a la revista De Stijl, fundada en octubre de 1917, que buscaba un arte universal.[8][9]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, World War I",
+     "url": "https://www.britannica.com/event/World-War-I",
+     "checks": "Duración (28 de julio de 1914 al armisticio del 11 de noviembre de 1918); entrada de Estados Unidos en abril de 1917; conscripción británica en 1916. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Imperial War Museums, First World War Recruitment Posters",
+     "url": "https://www.iwm.org.uk/learning/resources/first-world-war-recruitment-posters",
+     "checks": "Reclutamiento voluntario hasta 1916 (el flujo de voluntarios decayó); conscripción desde marzo de 1916; los primeros carteles de reclutamiento usaron técnicas publicitarias y apelaciones emocionales, y el cartel de la Ley de Servicio Militar pasó a dar información legal. ⚠ No trata carteles de ahorro de guerra.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "UK Parliament, Living Heritage, Conscription: the First World War",
+     "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscription/",
+     "checks": "Reclutamiento voluntario insuficiente; campaña «Your Country Needs You» con más de un millón de enrolados hasta enero de 1915; Ley de Servicio Militar de enero de 1916 (solteros de 18 a 41 años) y segunda ley de mayo de 1916.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Imperial War Museums, «Your Country Needs You» (Art.IWM PST 2734 / objeto 16576)",
+     "url": "https://www.iwm.org.uk/collections/item/object/16576",
+     "checks": "Cartel de Alfred Leete, noviembre de 1914: Kitchener señala directamente al espectador («Don’t imagine you are not wanted»; hombres de 19 a 38 años); incluye sueldo y subsidios. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Library of Congress, Today in History: 6 de abril (entrada de EE. UU. en la guerra)",
+     "url": "https://www.loc.gov/item/today-in-history/april-06/",
+     "checks": "Declaración de guerra de Estados Unidos a Alemania el 6 de abril de 1917; la colección de carteles de la Primera Guerra Mundial reúne unos 1.900 carteles de 1914–1920.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Library of Congress, World War I: American Artists View the Great War (exposición en línea)",
+     "url": "https://www.loc.gov/exhibits/american-artists-view-the-great-war/online-exhibition.html",
+     "checks": "Carteles estadounidenses de reclutamiento (Tío Sam de Flagg), de bonos de la Libertad (Liberty Loans) para financiar la guerra y de movilización civil; artistas reclutados por la División de Publicidad Pictórica.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Netherlands: Queen Wilhelmina and World War I",
+     "url": "https://www.britannica.com/place/Netherlands/Queen-Wilhelmina-and-World-War-I",
+     "checks": "Los Países Bajos declararon su neutralidad al estallar la guerra en 1914.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Tate, Avant-garde apostle: Theo van Doesburg",
+     "url": "https://www.tate.org.uk/tate-etc/issue-18-spring-2010/avant-garde-apostle",
+     "checks": "Van Doesburg hizo el servicio militar en los Países Bajos neutrales; en octubre de 1917 lanzó la revista De Stijl con Mondrian y Huszár, que apareció hasta su muerte en 1931. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "National Galleries of Scotland, De Stijl (The Style)",
+     "url": "https://www.nationalgalleries.org/art-and-artists/glossary-terms/de-stijl-style",
+     "checks": "En 1917 Van Doesburg lanzó la revista De Stijl; el grupo buscaba un arte «universal, utópico». ⚠ No menciona la neutralidad neerlandesa (ver fuente 7).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-russian-revolution",
+   "track": "political",
+   "start": 1917,
+   "end": 1945,
+   "cont": true,
+   "date": "1917 →",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "Russian Revolution",
+   "short": "Russian Revolution",
+   "key": "The revolutions of 1917 and the civil war created a Soviet state that asked artists to help build a new society.",
+   "happened": "The tsarist regime fell in February 1917 and the Bolsheviks took power in October (dates in the old Russian calendar).[1][2] A civil war followed, which Britannica dates from 1918 to 1920, and the Soviet Union was founded in December 1922.[3] The new state ran its own art schools, such as VKhUTEMAS, and its own propaganda.[4][5][7]",
+   "effect": "Artists debated whether art should leave the easel and serve production; from that debate came Constructivism,[6] new schools such as VKhUTEMAS, founded in Moscow in 1920 to tie artistic practice to industry,[4][5] and new building types such as the workers’ club, as in Konstantin Melnikov’s Rusakov club.[8]",
+   "wiki": "Russian_Revolution",
+   "es": {
+    "name": "Revolución rusa",
+    "short": "Revolución rusa",
+    "date": "1917 →",
+    "key": "Las revoluciones de 1917 y la guerra civil crearon un Estado soviético que pidió a los artistas ayudar a construir una sociedad nueva.",
+    "happened": "El régimen zarista cayó en febrero de 1917 y los bolcheviques tomaron el poder en octubre (fechas del antiguo calendario ruso).[1][2] Siguió una guerra civil, que Britannica fecha entre 1918 y 1920, y la Unión Soviética se fundó en diciembre de 1922.[3] El nuevo Estado manejó sus propias escuelas de arte, como el VKhUTEMAS, y su propia propaganda.[4][5][7]",
+    "effect": "Los artistas discutieron si el arte debía dejar el caballete y servir a la producción; de ese debate salieron el constructivismo,[6] escuelas nuevas como el VKhUTEMAS, fundado en Moscú en 1920 para unir la práctica artística con la industria,[4][5] y tipos de edificio nuevos como el club obrero, como el club Rusakov de Konstantin Melnikov.[8]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, February Revolution",
+     "url": "https://www.britannica.com/topic/February-Revolution",
+     "checks": "Revolución de Febrero de 1917 (8–12 de marzo en calendario nuevo): cae la monarquía y se forma un Gobierno Provisional, derrocado después por los bolcheviques en octubre del mismo año. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Russian Revolution",
+     "url": "https://www.britannica.com/event/Russian-Revolution",
+     "checks": "Dos revoluciones en 1917: febrero (marzo, calendario nuevo) y octubre (noviembre, calendario nuevo), que llevó a los bolcheviques al poder y a la creación de la Unión Soviética. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Russian Civil War",
+     "url": "https://www.britannica.com/event/Russian-Civil-War",
+     "checks": "Guerra civil rusa fechada de 1918 a 1920 (Ejército Rojo contra el Ejército Blanco y potencias extranjeras); la Unión Soviética se formó oficialmente en diciembre de 1922. ⚠ Leída mediante resumen automático; Britannica no dice «hasta 1922» para la guerra.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Routledge Encyclopedia of Modernism, VKhUTEMAS",
+     "url": "https://www.rem.routledge.com/articles/vkhutemas",
+     "checks": "Escuela de artes y arquitectura de Moscú dependiente de Narkompros (comisario Lunacharski); heredera de los Svomas de 1918. ⚠ Da 1920–1927 como años de funcionamiento, mientras MoMA la da cerrada hacia 1930 (reorganizada como VKhUTEIN en 1928).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Object:Photo, VKhUTEMAS",
+     "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+     "checks": "VKhUTEMAS fundada en 1920 en Moscú, sucesora de Svomas; preparar artistas para la industria y la enseñanza superior vinculando práctica artística y objetivos productivos del Estado; constructivismo («arte como producción industrial»); reorganizada en 1928 y cerrada hacia 1930.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Routledge Encyclopedia of Modernism, Constructivism",
+     "url": "https://www.rem.routledge.com/articles/overview/constructivism",
+     "checks": "El constructivismo ruso surge de la Revolución bolchevique de 1917; quiso «derribar las barreras entre arte e industria»; su apoyo político declinó desde 1932 con el realismo socialista.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Gustav Klutsis, Let’s Fulfill the Plan of Great Works (1930)",
+     "url": "https://www.moma.org/collection/works/6487",
+     "checks": "Cartel litográfico de 1930, propaganda visual al servicio de las iniciativas del Estado soviético. ⚠ No dice qué organismo lo editó.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "RIBA Journal, Soviet Pavilion (París 1925)",
+     "url": "https://www.ribaj.com/culture/soviet-pavilion-exposition-internationale-des-arts-decoratifs-et-industriels-modernes-paris/",
+     "checks": "Konstantin Melnikov, pabellón soviético de 1925 (constructivismo); en los años veinte diseñó el club obrero Rusakov y su casa en Moscú. ⚠ No explica el club obrero como tipo de edificio ni menciona la casa comunal.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-weimar-republic",
+   "track": "political",
+   "start": 1919,
+   "end": 1933,
+   "date": "1919–1933",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "name": "Weimar Republic",
+   "short": "Weimar Republic",
+   "key": "Germany’s democratic republic between the First World War and Hitler’s rise to power.",
+   "happened": "Proclaimed in November 1918 and given a constitution in August 1919, it faced inflation, political turmoil and the 1929 crash, and ended when Hitler became chancellor in January 1933.[1][2]",
+   "effect": "City governments with modernising aims funded social housing and design schools: Frankfurt built more than 12,000 dwellings in 1925–1930 under Ernst May,[5] and Dessau gave the Bauhaus a home.[4][6] But political swings made them fragile: the Bauhaus left Weimar for Dessau in 1925 after the new conservative government of Thuringia halved its budget and cancelled the teachers’ contracts.[3][4]",
+   "wiki": "Weimar_Republic",
+   "es": {
+    "name": "República de Weimar",
+    "short": "Rep. de Weimar",
+    "date": "1919–1933",
+    "key": "La república democrática alemana entre la Primera Guerra Mundial y el ascenso de Hitler al poder.",
+    "happened": "Proclamada en noviembre de 1918 y dotada de constitución en agosto de 1919, enfrentó inflación, turbulencia política y el crac de 1929, y terminó cuando Hitler fue nombrado canciller en enero de 1933.[1][2]",
+    "effect": "Gobiernos municipales con afán modernizador financiaron vivienda social y escuelas de diseño: Fráncfort construyó más de 12.000 viviendas entre 1925 y 1930 bajo Ernst May,[5] y Dessau dio hogar a la Bauhaus.[4][6] Pero los vaivenes políticos las volvieron frágiles: la Bauhaus dejó Weimar por Dessau en 1925, después de que el nuevo gobierno conservador de Turingia le redujera el presupuesto a la mitad y cancelara los contratos de los profesores.[3][4]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Weimar Republic",
+     "url": "https://www.britannica.com/event/Weimar-Republic",
+     "checks": "República proclamada en noviembre de 1918; constitución en agosto de 1919; crisis de 1920–1923 con inflación y turbulencia política; estabilización 1924–1928; colapso económico tras el crac de 1929; fin de la república el 30 de enero de 1933 con Hitler como canciller. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "USHMM, Hitler and the Nazi Rise to Power, 1918–1933",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-nazi-rise-to-power",
+     "checks": "Hitler llega al poder el 30 de enero de 1933, nombrado canciller por Hindenburg; la Gran Depresión desestabiliza Alemania. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, Bauhaus Weimar",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/phases/bauhaus-weimar",
+     "checks": "Tras las elecciones de 1924, el partido de derecha Thüringer Ordnungsbund obtuvo la mayoría en el Landtag; el presupuesto de la Bauhaus se redujo a la mitad y los contratos de los profesores se cancelaron al 31 de marzo de 1925; Gropius y el profesorado renunciaron en diciembre de 1924 y Dessau resultó la ciudad más atractiva.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, Chronology",
+     "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+     "checks": "1924: tras avances de la derecha en Turingia, el Estado redujo drásticamente los fondos y se despidió a los maestros desde el 1 de abril de 1925; la escuela de Weimar cerró el 26 de diciembre de 1924; Dessau, gobernada por socialdemócratas, le ofreció una nueva sede.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, Ernst May House (Neues Frankfurt)",
+     "url": "https://bauhauskooperation.de/en/reisen/orte/ortsdetailseite/ort-100",
+     "checks": "Entre 1925 y 1930, bajo el comisionado de planificación Ernst May, Fráncfort construyó más de 12.000 viviendas en cinco años, con métodos industrializados; Römerstadt, primer conjunto de viviendas totalmente electrificado de Alemania. ⚠ No dice cómo se financió.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, Dessau",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/phases/dessau",
+     "checks": "La Bauhaus se trasladó a Dessau en 1925; el alcalde liberal Fritz Hesse y la ciudad la respaldaron; edificio de Gropius inaugurado en 1926; en 1931 el concejo pasó a dominio del NSDAP y decidió el cierre para 1932.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-italian-fascism",
+   "track": "political",
+   "start": 1922,
+   "end": 1943,
+   "date": "1922–1943",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Italian Fascism",
+   "short": "Italian Fascism",
+   "key": "Mussolini’s dictatorship, from the March on Rome in 1922 to his fall in 1943, mixed modern imagery with nationalism and self-sufficiency.",
+   "happened": "Mussolini took power after the March on Rome in October 1922[1] and ruled until July 1943, when the king dismissed him.[2] After the invasion of Ethiopia in 1935, the League of Nations imposed sanctions,[3][4] and from 1936 the regime pursued a policy of autarky,[3] under which the best steel was requisitioned for arms.[5]",
+   "effect": "The regime drew in modern architects, such as Giuseppe Terragni, who designed the Casa del Fascio in Como,[6] and Futurists such as Marinetti,[7] while autarky made imported materials scarce and pushed designers toward national ones, such as the cork Salvatore Ferragamo used for his wedge heels.[3][5]",
+   "wiki": "Italian_fascism",
+   "es": {
+    "name": "Fascismo italiano",
+    "short": "Fascismo italiano",
+    "date": "1922–1943",
+    "key": "La dictadura de Mussolini, desde la Marcha sobre Roma de 1922 hasta su caída en 1943, mezcló una imagen moderna con nacionalismo y autosuficiencia.",
+    "happened": "Mussolini tomó el poder tras la Marcha sobre Roma de octubre de 1922[1] y gobernó hasta julio de 1943, cuando el rey lo destituyó.[2] Después de la invasión de Etiopía en 1935, la Sociedad de las Naciones impuso sanciones,[3][4] y desde 1936 el régimen siguió una política de autarquía,[3] en la cual el mejor acero fue requisado para armas.[5]",
+    "effect": "El régimen atrajo a arquitectos modernos, como Giuseppe Terragni, autor de la Casa del Fascio de Como,[6] y a futuristas como Marinetti,[7] mientras la autarquía hizo escasos los materiales importados y empujó a quienes diseñaban hacia los nacionales, como el corcho que Salvatore Ferragamo usó en sus tacos de cuña.[3][5]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Italy: The Fascist era",
+     "url": "https://www.britannica.com/place/Italy/The-Fascist-era",
+     "checks": "Marcha sobre Roma en octubre de 1922 (unos 25.000 fascistas); el rey pidió a Mussolini formar gobierno el 29 de octubre. ⚠ El fragmento leído termina en 1924.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Benito Mussolini",
+     "url": "https://www.britannica.com/biography/Benito-Mussolini",
+     "checks": "Primer ministro de Italia 1922–1943; guerra ítalo-etíope (1935–1936); destituido por el rey el 25 de julio de 1943 tras el voto del Gran Consejo. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Pep Avilés, «Autarky and Material Contingencies in Italian Architectural Debate (1936–1954)», Footprint (TU Delft)",
+     "url": "https://journals.open.tudelft.nl/footprint/article/view/697",
+     "checks": "Tras la invasión de Etiopía de 1935 la Sociedad de las Naciones impuso sanciones, lo que llevó a la política de autarquía; escasez de metales estratégicos; los materiales locales y nacionales pasaron a primer plano y el hierro y el acero modernos fueron tachados de «antinacionales». ⚠ Resumen de la revista; no trata el corcho.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Indiana University, Digest, «The Italian Kitchen as a Site for the Practice of Autarchy»",
+     "url": "https://scholarworks.iu.edu/journals/index.php/digest/article/download/27897/33111/67916",
+     "checks": "Invasión de Etiopía en octubre de 1935, sanciones de la Sociedad de las Naciones al mes siguiente y esfuerzo del régimen por la autarquía (consumo y producción de bienes italianos); materiales sustitutos como el linóleo italiano. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondazione Ferragamo, Salvatore Ferragamo",
+     "url": "https://fondazione.ferragamo.com/en/salvatore-ferragamo",
+     "checks": "Sanciones de la Sociedad de las Naciones de octubre de 1935; Mussolini impone un programa de nacionalización y proteccionismo, «la autarquía»; el mejor acero fue requisado para armas; Ferragamo creó la primera cuña de corcho (patentada en 1937).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "SFMOMA, Giuseppe Terragni",
+     "url": "https://www.sfmoma.org/artist/Giuseppe_Terragni/",
+     "checks": "Terragni (1904–1943) impulsó el racionalismo italiano (Gruppo Sette, 1926); proyectó la Casa del Fascio de Como (edificio para actos de masas) bajo el régimen de Mussolini.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Sharon MacNett, «The Fascist-Futurist Challenge to Liberal Modernity», Trans-Humanities Journal (CSU)",
+     "url": "https://journals.calstate.edu/tthr/article/download/2697/2358",
+     "checks": "Marinetti y el futurismo mantuvieron una alianza prolongada con el régimen de Mussolini; Marinetti se fue haciendo más fervientemente fascista en los años veinte y treinta; Mussolini nunca emitió una política oficial de apoyo al futurismo. ⚠ Resumen automático; es una tesis de la autora.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-nazi-regime",
+   "track": "political",
+   "start": 1933,
+   "end": 1945,
+   "date": "1933–1945",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "AT"
+   ],
+   "name": "Nazism and exile",
+   "short": "Nazism and exile",
+   "key": "The Nazi dictatorship persecuted modern artists and designers, closed the Bauhaus and pushed a generation of the avant-garde into exile.",
+   "happened": "Hitler became chancellor in January 1933.[1] The Bauhaus, which the Dessau city council had voted to close in 1932, was raided by the Gestapo in Berlin in April 1933 and dissolved by its teachers in July.[2] Jewish and left-wing designers lost professional opportunities, and many emigrated.[3][4]",
+   "effect": "Modernism, and the Bauhaus in particular, was branded ‘cultural Bolshevism’,[3] yet the regime also used a mass product, the KdF-Wagen or ‘people’s car’, as propaganda for its ‘people’s community’.[5][6] The exiles carried Bauhaus teaching abroad: Gropius to Britain in 1934 and the United States in 1937,[7] and Hannes Meyer to Mexico in 1939.[8]",
+   "wiki": "Nazi_Germany",
+   "es": {
+    "name": "Nazismo y exilio",
+    "short": "Nazismo y exilio",
+    "date": "1933–1945",
+    "key": "La dictadura nazi persiguió a artistas y diseñadores modernos, cerró la Bauhaus y empujó al exilio a una generación de la vanguardia.",
+    "happened": "Hitler fue nombrado canciller en enero de 1933.[1] La Bauhaus, cuyo cierre en Dessau había votado el concejo municipal en 1932, fue allanada por la Gestapo en Berlín en abril de 1933 y disuelta por sus profesores en julio.[2] Los diseñadores judíos y de izquierda perdieron oportunidades profesionales, y muchos emigraron.[3][4]",
+    "effect": "El modernismo, y en particular la Bauhaus, fue tachado de «bolchevismo cultural»,[3] pero el régimen también usó un producto de masas, el KdF-Wagen o «coche del pueblo», como propaganda de su «comunidad popular».[5][6] Los exiliados llevaron la enseñanza de la Bauhaus al extranjero: Gropius a Gran Bretaña en 1934 y a Estados Unidos en 1937,[7] y Hannes Meyer a México en 1939.[8]"
+   },
+   "refs": [
+    {
+     "label": "USHMM, Hitler and the Nazi Rise to Power, 1918–1933",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-nazi-rise-to-power",
+     "checks": "Hitler nombrado canciller el 30 de enero de 1933; Decreto del Incendio del Reichstag y Ley Habilitante. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, Chronology",
+     "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+     "checks": "1932: el concejo de Dessau votó cerrar la Bauhaus desde el 1 de octubre tras la presión del partido nazi (22 de agosto); 1933: Mies la reabrió como escuela privada en Berlín; redada de la Gestapo el 11 de abril y sellado del edificio; el profesorado votó la disolución el 20 de julio de 1933.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "bauhaus imaginista, The Bauhaus, the Nazis and German Post-War Nation Building Processes",
+     "url": "https://www.bauhaus-imaginista.org/articles/6102/the-bauhaus-the-nazis-and-german-post-war-nation-building-processes/?0bbf55ceffc3073699d40c945ada9faf=058e129f86e68ab742b30ae38e490796",
+     "checks": "Los nazis veían la Bauhaus como «bolchevismo cultural»; cierre en 1933 por presión nazi; diseñadores judíos y de izquierda perdieron oportunidades profesionales; miembros exiliados como Moholy-Nagy y Bayer impulsaron programas de diseño en EE. UU.; algunos miembros colaboraron con la estrategia cultural nazi. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Künste im Exil (Deutsche Nationalbibliothek), Ernst May",
+     "url": "https://kuenste-im-exil.de/KIE/Content/EN/Persons/may-ernst-en.html",
+     "checks": "Carta de May de 1933 sobre la hostilidad política hacia quienes habían trabajado bajo la República; emigró a África Oriental en febrero de 1934 y volvió a Alemania en diciembre de 1953. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Deutsches Historisches Museum, LeMO, Volkswagen",
+     "url": "https://www.dhm.de/lemo/kapitel/ns-regime/industrie-und-wirtschaft/volkswagen",
+     "checks": "Hitler pidió públicamente un «Volkswagen» barato el 7 de marzo de 1934; encargo a Ferdinand Porsche en junio de 1934; la organización de ocio «Kraft durch Freude» montó un sistema de ahorro para trabajadores con unos 340.000 clientes; primera piedra en Fallersleben el 26 de mayo de 1938.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "USHMM, Volkswagen",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/volkswagen-1",
+     "checks": "El proyecto Volkswagen como herramienta de propaganda del Tercer Reich (plan de ahorro de 999 marcos, Goebbels, «Strength through Joy»); Hitler habló en la ceremonia de 1938 de «símbolo de la comunidad popular nacionalsocialista». ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, Walter Gropius",
+     "url": "https://bauhauskooperation.com/magazine/knowledge/walter-gropius",
+     "checks": "Gropius emigró a Inglaterra en 1934 y a Estados Unidos en 1937 (Graduate School of Design de Harvard).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, biografía de Hannes Meyer",
+     "url": "https://bauhauskooperation.com/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1437",
+     "checks": "Meyer emigró a la URSS en 1930 con exalumnos de la Bauhaus; en 1939 fue nombrado director del Instituto de Urbanismo y Planificación del Instituto Politécnico Nacional de México, donde apoyó al Taller de Gráfica Popular; destituido en 1941. ⚠ No es un exilio por persecución nazi directa.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-spanish-civil-war",
+   "track": "political",
+   "start": 1936,
+   "end": 1939,
+   "date": "1936–1939",
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "countries": [
+    "ES",
+    "CL",
+    "MX"
+   ],
+   "name": "Spanish Civil War",
+   "short": "Spanish Civil War",
+   "key": "The war between the Republic and Franco’s nationalists produced a great wave of political posters and an exile that reached Mexico and Chile.",
+   "happened": "The war began with a military coup in July 1936[1] and ended in March 1939 with Franco’s victory.[1] Hundreds of thousands of people fled, many of them to France.[1] In September 1939 the ship Winnipeg, arranged by Pablo Neruda, then consul for Spanish emigration in France, brought Spanish refugees to Chile.[4]",
+   "effect": "Trade unions, parties and ministries of the Republic commissioned thousands of posters,[2] and the Republic used a rationalist pavilion by Josep Lluís Sert and Luis Lacasa to argue its case abroad at the 1937 Paris exhibition, ‘Europe’s megaphone for the Republican cause’.[3][7] Exiled designers then renewed publishing in Latin America, as Mauricio Amster did in Chile,[4][5] while the poster artist Josep Renau settled in Mexico.[6]",
+   "wiki": "Spanish_Civil_War",
+   "es": {
+    "name": "Guerra Civil española",
+    "short": "Guerra Civil",
+    "date": "1936–1939",
+    "key": "La guerra entre la República y los nacionales de Franco produjo una gran ola de carteles políticos y un exilio que llegó a México y a Chile.",
+    "happened": "La guerra empezó con un golpe militar en julio de 1936[1] y terminó en marzo de 1939 con la victoria de Franco.[1] Cientos de miles de personas huyeron, muchas de ellas a Francia.[1] En septiembre de 1939 el barco Winnipeg, gestionado por Pablo Neruda, entonces cónsul para la emigración española en Francia, llevó refugiados españoles a Chile.[4]",
+    "effect": "Sindicatos, partidos y ministerios de la República encargaron miles de carteles,[2] y la República usó un pabellón racionalista de Josep Lluís Sert y Luis Lacasa para defender su causa en el extranjero, en la exposición de París de 1937, «el altavoz en Europa de la causa republicana».[3][7] Luego, diseñadores exiliados renovaron la edición en América Latina, como Mauricio Amster en Chile,[4][5] mientras el cartelista Josep Renau se instaló en México.[6]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, Spanish Civil War",
+     "url": "https://www.britannica.com/event/Spanish-Civil-War",
+     "checks": "Comienzo con el alzamiento militar del 17 de julio de 1936; fin con la victoria nacionalista de Franco, fechada el 28 de marzo de 1939; unas 500.000 personas huyeron de España, muchas a Francia. ⚠ Leída mediante resumen automático; el resumen da el 28 de marzo de 1939 como fin.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museu Nacional d’Art de Catalunya, Art and war. Posters of the Spanish Civil War",
+     "url": "https://www.museunacional.cat/en/topic-guide-art-and-war-posters-spanish-civil-war",
+     "checks": "Carteles encargados por sindicatos, partidos políticos y ministerios republicanos entre julio de 1936 y 1939; se produjeron miles; función propagandística. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museu Nacional d’Art de Catalunya, El Pabellón de la República Española en París",
+     "url": "https://www.museunacional.cat/es/el-pabellon-de-la-republica-espanola-en-paris",
+     "checks": "Pabellón de Sert y Lacasa, inaugurado en julio de 1937; «el altavoz en Europa de la causa republicana»; exhibió el Guernica de Picasso, la fuente de mercurio de Calder y obras de Miró y González. ⚠ Resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Biblioteca Nacional de Chile, Memoria Chilena, Mauricio Amster (1907–1980)",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-3608.html",
+     "checks": "Amster llegó a Chile en septiembre de 1939 a bordo del Winnipeg con refugiados españoles; Pablo Neruda, cónsul especial para la emigración española en Francia, facilitó su viaje; luego fue director de diseño de Zig-Zag y cofundó Cruz del Sur. ⚠ No da el número de refugiados del Winnipeg ni el puerto de llegada.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Biblioteca Nacional de Chile, Exposición sobre Mauricio Amster",
+     "url": "https://www.bibliotecanacional.gob.cl/noticias/exposicion-sobre-mauricio-amster?_noredirect=1",
+     "checks": "Amster llegó en el Winnipeg; en cuatro décadas de trabajo en Chile «renovó, de manera sustancial y definitiva, la industria editorial chilena»; Zig-Zag, Cruz del Sur y otras editoriales.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "IVAM, Josep Renau",
+     "url": "https://ivam.es/en/author/josep-renau/7029eb67-a22e-4903-9eb8-b8d64ed1aeb8/",
+     "checks": "Renau, director general de Bellas Artes de la República y uno de los principales cartelistas republicanos; salió de España en febrero de 1939 y se instaló en México (1939–1958), donde hizo murales con Siqueiros y Rivera. ⚠ Resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Ajuntament de Barcelona, Setmanes d’Arquitectura, The Pavilion of the Spanish Republic",
+     "url": "https://www.barcelona.cat/setmanesarquitectura/en/activities/pavilion-spanish-republic",
+     "checks": "Estructura racionalista de Josep Lluís Sert y Luis Lacasa, presentada en la Exposición Internacional de París de 1937 como respuesta republicana al fascismo; obras de Picasso y Calder.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-new-deal",
+   "track": "political",
+   "start": 1933,
+   "end": 1939,
+   "date": "1933–1939",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "New Deal",
+   "short": "New Deal",
+   "key": "Franklin D. Roosevelt’s programmes against the Depression, from public works to rural electrification.",
+   "happened": "Roosevelt took office in March 1933 and launched relief, public works and regulation.[1] The Rural Electrification Administration, created in 1935, brought power lines to farms that private utilities had not served.[2][3]",
+   "effect": "Public works and the spread of electricity to the countryside widened the potential market for electric household goods: electrified farms rose from 10% in 1935 to 90% in 1950,[2] and the REA itself commissioned modernist posters from Lester Beall to promote its benefits.[4] Streamlined styling, as in Raymond Loewy’s Coldspot refrigerator of 1934, was driven mainly by manufacturers seeking sales in the Depression,[5] so its link to the New Deal is one of climate, not strict cause.",
+   "wiki": "New_Deal",
+   "es": {
+    "name": "New Deal",
+    "short": "New Deal",
+    "date": "1933–1939",
+    "key": "Los programas de Franklin D. Roosevelt contra la Depresión, desde las obras públicas hasta la electrificación rural.",
+    "happened": "Roosevelt asumió en marzo de 1933 y puso en marcha ayudas, obras públicas y regulación.[1] La Administración de Electrificación Rural, creada en 1935, llevó tendido eléctrico a granjas que las empresas privadas no habían atendido.[2][3]",
+    "effect": "Las obras públicas y la llegada de la electricidad al campo ampliaron el mercado potencial de los artefactos eléctricos para el hogar: las granjas electrificadas pasaron del 10 % en 1935 al 90 % en 1950,[2] y la propia REA encargó carteles modernistas a Lester Beall para promover sus beneficios.[4] El diseño aerodinámico, como el refrigerador Coldspot de Raymond Loewy de 1934, respondió sobre todo a la búsqueda de ventas de los fabricantes durante la Depresión,[5] de modo que su vínculo con el New Deal es de clima, no de causa estricta."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, New Deal",
+     "url": "https://www.britannica.com/event/New-Deal",
+     "checks": "Programa de Roosevelt entre 1933 y 1939: alivio, recuperación y reforma ante la Gran Depresión; obras públicas y regulación; Roosevelt asumió en marzo de 1933. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Encyclopaedia Britannica, Rural Electrification Administration",
+     "url": "https://www.britannica.com/topic/Rural-Electrification-Administration",
+     "checks": "REA creada en 1935 dentro del New Deal para llevar electricidad a las granjas; las empresas privadas no habían servido a esas zonas poco pobladas; electrificación rural del 10 % de las granjas en 1935 al 90 % en 1950.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Living New Deal, Rural Electrification Administration (REA) (1935)",
+     "url": "https://livingnewdeal.org/glossary/rural-electrification-administration-rea-1935/",
+     "checks": "Creada por Roosevelt el 11 de mayo de 1935 (Orden Ejecutiva 7037); menos de 11 de cada 100 granjas tenían servicio eléctrico central; las empresas privadas no tenían incentivo para extender las redes; hasta 1943 instaló unas 380.000 millas de líneas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Lester Beall and the Rural Electrification Administration",
+     "url": "https://www.moma.org/explore/inside_out/2012/03/22/lester-beall-and-the-rural-electrification-administration/",
+     "checks": "La REA (1935) encargó a Lester Beall tres series de carteles modernistas («Light», «Running Water», «Radio») sobre los beneficios de la electricidad rural; seis se exhibieron en el MoMA en noviembre de 1937.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, Meet the Product Designer Who Made Mid-Century America Look Clean and Stylish",
+     "url": "https://www.smithsonianmag.com/innovation/meet-product-designer-who-made-mid-century-america-look-clean-and-stylish-180972270/",
+     "checks": "Durante la Depresión Loewy convenció a fabricantes de que el aspecto vende; su refrigerador Coldspot de 1934 para Sears pasó de 15.000 a 275.000 unidades vendidas en cinco años. ⚠ Leída mediante resumen automático; no vincula el estilo aerodinámico con el New Deal.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-second-world-war",
+   "track": "political",
+   "start": 1939,
+   "end": 1945,
+   "date": "1939–1945",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "DE",
+    "US",
+    "FR",
+    "IT"
+   ],
+   "name": "Second World War",
+   "short": "World War II",
+   "key": "The war of 1939–1945 put industry, materials and designers at the service of military production and national survival.",
+   "happened": "Germany invaded Poland on 1 September 1939; the war ended in Europe in May 1945 and in the Pacific in September.[1] Factories switched to military production,[1] and civilian goods were rationed or stopped, such as furniture in Britain and nylon stockings in the United States.[2][6]",
+   "effect": "Design was asked for standard, durable and affordable solutions, from the Jeep, designed to a US Army specification and built in nearly 650,000 units,[4][5] to Britain’s Utility Furniture, standardised designs ‘of sound construction’ at ‘reasonable prices’ created under Gordon Russell.[2][3] New materials such as nylon went to the military first: from February 1942 DuPont directed all nylon production to military needs such as parachutes.[6] Some designers worked for the war effort, like Karl Probst on the Jeep,[4] and others were displaced by it, like Ernst May, an exile in East Africa who was interned.[7]",
+   "wiki": "World_War_II",
+   "es": {
+    "name": "Segunda Guerra Mundial",
+    "short": "2.ª Guerra Mundial",
+    "date": "1939–1945",
+    "key": "La guerra de 1939–1945 puso la industria, los materiales y a quienes diseñan al servicio de la producción militar y de la supervivencia nacional.",
+    "happened": "Alemania invadió Polonia el 1 de septiembre de 1939; la guerra terminó en Europa en mayo de 1945 y en el Pacífico en septiembre.[1] Las fábricas pasaron a la producción militar,[1] y los bienes civiles se racionaron o se detuvieron, como los muebles en Gran Bretaña y las medias de nailon en Estados Unidos.[2][6]",
+    "effect": "Al diseño se le pidieron soluciones estándar, durables y económicas, desde el Jeep, diseñado según una especificación del Ejército estadounidense y fabricado en casi 650.000 unidades,[4][5] hasta el mobiliario Utility británico, de diseños estandarizados «de construcción sólida» y «a precios razonables», creados bajo Gordon Russell.[2][3] Materiales nuevos como el nailon fueron primero para el ejército: desde febrero de 1942 DuPont destinó toda la producción de nailon a necesidades militares, como los paracaídas.[6] Algunos diseñadores trabajaron para la guerra, como Karl Probst en el Jeep,[4] y otros fueron desplazados por ella, como Ernst May, exiliado en África Oriental, que fue internado.[7]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, World War II",
+     "url": "https://www.britannica.com/event/World-War-II",
+     "checks": "Alemania invadió Polonia el 1 de septiembre de 1939; fin en Europa el 8 de mayo de 1945 (día de la Victoria en Europa); rendición de Japón el 2 de septiembre de 1945; conversión de las economías a la producción de guerra. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Amgueddfa Cymru – Museum Wales, Rationing furniture during the Second World War",
+     "url": "https://museum.wales/blog/2168/Rationing-furniture-during-the-Second-World-War-/",
+     "checks": "Mobiliario Utility de la Board of Trade (1941–1942, catálogo de 1943), racionado con vales; fin del esquema en 1952; objetivo de muebles «de construcción sólida, diseños simples y agradables y a precios razonables»; comité asesor presidido por Gordon Russell.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Gordon Russell Design Museum, Furniture Wars (PDF)",
+     "url": "https://www.gordonrusselldesignmuseum.org/wp-content/uploads/2017/02/furniture-wars.pdf",
+     "checks": "Utility Furniture creado en 1942 por la Board of Trade ante la escasez de materiales; Gordon Russell presidió el panel de diseño; diseños estándar, austeros, «económicos y robustos»; unas 700 empresas de carpintería los produjeron. ⚠ Resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Gale, Karl K. Probst and the Birth of the Jeep",
+     "url": "https://blog.gale.com/karl-k-probst-and-the-birth-of-the-jeep/",
+     "checks": "Karl Probst diseñó el prototipo de Bantam en julio de 1940 según la especificación del Ejército de EE. UU.; Ford y Willys produjeron casi 600.000 unidades. ⚠ Blog de editorial; leído mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Heritage Museums & Gardens, 1942 Willys MB Jeep",
+     "url": "https://heritagemuseumsandgardens.org/hmg/1942-willys-jeep/",
+     "checks": "El Departamento de Guerra pidió un vehículo compacto 4x4; diseño final con aportes de Bantam, Willys-Overland y Ford; casi 650.000 unidades para la guerra.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Science History Institute, Synthetic Threads",
+     "url": "https://www.sciencehistory.org/stories/magazine/synthetic-threads/",
+     "checks": "Medias de nailon vendidas desde octubre de 1939; el 11 de febrero de 1942 DuPont destinó toda la producción de nailon a necesidades militares (paracaídas); la producción civil se reanudó al terminar la guerra en 1945. ⚠ Leída mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Künste im Exil (Deutsche Nationalbibliothek), Ernst May",
+     "url": "https://kuenste-im-exil.de/KIE/Content/EN/Persons/may-ernst-en.html",
+     "checks": "May emigró a África Oriental en 1934 y fue internado durante la Segunda Guerra Mundial; volvió a Alemania en 1953. ⚠ Resumen automático.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-red-vienna",
+   "track": "political",
+   "start": 1919,
+   "end": 1934,
+   "date": "1919–1934",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "name": "Red Vienna",
+   "short": "Red Vienna",
+   "key": "Vienna’s Social Democratic city government answered the post-war housing crisis with a vast municipal building programme and public education.",
+   "happened": "A 1919 survey confirmed bad conditions in the smallest flats, of which there were more than 400,000 in 1917, most without a toilet or running water.[1] The Social Democratic city government introduced a housing tax in February 1923 and built more than 64,000 municipal dwellings between 1923 and 1932.[1] The period ended with the political upheaval of February 1934.[2]",
+   "effect": "The city needed large housing blocks with running water, a toilet and daylight in every room, and shared laundries, baths and kindergartens.[1] It also needed to explain social statistics to its citizens: Otto Neurath’s museum, founded in 1925, developed the Vienna method of picture statistics, later called Isotype.[2]",
+   "wiki": "Red_Vienna",
+   "refs": [
+    {
+     "label": "Werkbundsiedlung Wien, «The housing programme of Red Vienna»",
+     "checks": "Más de 400.000 viviendas pequeñas en 1917, la mayoría sin baño ni agua (encuesta de 1919); impuesto de vivienda de febrero de 1923; más de 64.000 viviendas entre 1923 y 1932; agua, baño y luz en cada pieza; servicios comunes.",
+     "date": "2026-10-03",
+     "url": "https://www.werkbundsiedlung-wien.at/en/background/the-housing-programme-of-red-vienna"
+    },
+    {
+     "label": "Wien Geschichte Wiki, «Österreichisches Gesellschafts- und Wirtschafts-Museum»",
+     "checks": "Museo fundado en 1925 por iniciativa de Neurath; método vienés de estadística en imágenes; cierre tras febrero de 1934.",
+     "date": "2026-10-03",
+     "url": "https://www.geschichtewiki.wien.gv.at/%C3%96sterreichisches_Gesellschafts-_und_Wirtschafts-Museum"
+    }
+   ],
+   "es": {
+    "name": "Viena Roja",
+    "short": "Viena Roja",
+    "date": "1919–1934",
+    "key": "El gobierno socialdemócrata de Viena respondió a la crisis de vivienda de posguerra con un enorme programa municipal de construcción y educación pública.",
+    "happened": "Una encuesta de 1919 confirmó las malas condiciones de las viviendas más pequeñas, que en 1917 eran más de 400.000, la mayoría sin baño ni agua corriente.[1] El gobierno socialdemócrata de la ciudad creó un impuesto a la vivienda en febrero de 1923 y construyó más de 64.000 viviendas municipales entre 1923 y 1932.[1] El período terminó con la crisis política de febrero de 1934.[2]",
+    "effect": "La ciudad necesitó grandes bloques de viviendas con agua corriente, baño y luz natural en cada pieza, y lavanderías, baños y jardines infantiles comunes.[1] También necesitó explicar la estadística social a sus habitantes: el museo de Otto Neurath, fundado en 1925, desarrolló el método vienés de estadística en imágenes, más tarde llamado Isotype.[2]"
+   }
+  },
+  {
+   "id": "ctx-vargas-era",
+   "track": "political",
+   "start": 1930,
+   "end": 1945,
+   "date": "1930–1945",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "name": "Vargas era",
+   "short": "Vargas era",
+   "key": "Getúlio Vargas’s centralising government in Brazil used modern architecture to represent a new, modernising state.",
+   "happened": "Getúlio Vargas ruled Brazil from 1930 to 1945, from 1937 as the authoritarian Estado Novo. His government created a Ministry of Education and Health; a competition for its headquarters in Rio de Janeiro was held in 1935, and in 1936 Le Corbusier was invited as an adviser.[1]",
+   "effect": "The state became the main client of modern architecture in Brazil. Lúcio Costa’s team built the ministry (1936–1945) with a glass curtain wall and brise-soleil,[1] and in 1940 Juscelino Kubitschek, mayor of Belo Horizonte, commissioned Oscar Niemeyer to design the Pampulha complex.[2]",
+   "wiki": "Vargas_Era",
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Ministério da Educação e Saúde (MES)»",
+     "checks": "Concurso de 1935; Le Corbusier asesor en 1936; obras desde 1937; equipo de Lúcio Costa; muro cortina y quiebrasoles; inauguración por Vargas en 1945. ⚠ Las fechas del gobierno de Vargas (1930, 1937) no se leyeron en una fuente directa.",
+     "date": "2026-10-03",
+     "url": "https://enciclopedia.itaucultural.org.br/instituicoes/70502-ministerio-da-educacao-e-saude-mes"
+    },
+    {
+     "label": "Prefeitura de Belo Horizonte, «Conjunto Moderno da Pampulha»",
+     "checks": "Proyecto de 1940 encargado por el alcalde Juscelino Kubitschek; Niemeyer, Burle Marx y Portinari.",
+     "date": "2026-10-03",
+     "url": "https://portalbelohorizonte.com.br/filmcommission/cenarios-da-cidade/conjunto-moderno-da-pampulha"
+    }
+   ],
+   "es": {
+    "name": "Era Vargas",
+    "short": "Era Vargas",
+    "date": "1930–1945",
+    "key": "El gobierno centralizador de Getúlio Vargas en Brasil usó la arquitectura moderna para representar un Estado nuevo y modernizador.",
+    "happened": "Getúlio Vargas gobernó Brasil de 1930 a 1945; desde 1937, como el Estado Novo autoritario. Su gobierno creó un Ministerio de Educación y Salud; en 1935 se llamó a concurso para su sede en Río de Janeiro y en 1936 se invitó a Le Corbusier como asesor.[1]",
+    "effect": "El Estado se volvió el principal cliente de la arquitectura moderna en Brasil. El equipo de Lúcio Costa construyó el ministerio (1936–1945) con muro cortina de vidrio y quiebrasoles,[1] y en 1940 Juscelino Kubitschek, alcalde de Belo Horizonte, encargó a Oscar Niemeyer el conjunto de Pampulha.[2]"
+   }
+  },
+  {
+   "id": "ctx-stalinism-socialist-realism",
+   "track": "political",
+   "start": 1932,
+   "end": 1953,
+   "date": "1932–1953",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "RU"
+   ],
+   "name": "Stalinism and socialist realism",
+   "short": "Socialist realism",
+   "key": "Under Stalin the state ended the independent art groups of the 1920s and made socialist realism the only official style, closing the avant-garde’s room to work.",
+   "happened": "A decree of 23 April 1932 dissolved the independent artistic organisations of the Soviet Union and replaced them with single state unions. Socialist realism, the doctrine of art that depicted Soviet life in an accessible, optimistic way in the service of the Party, was set out as the official method in the following years. Stalin ruled until his death in March 1953, and in the late 1930s the repression struck many artists.",
+   "effect": "The commissions that had sustained the avant-garde now went to a state-defined style: Constructivism lost its institutional base as a programme, and the posters, magazines and buildings of the 1930s turned from experiment towards the glorification of the leader and the plans. Photomontage, a Constructivist invention, was kept as a tool of propaganda but placed at the service of the official cult, and designers such as Gustav Klutsis, who had made it the language of the Five-Year Plan, were arrested in the 1938 repression.",
+   "es": {
+    "name": "Estalinismo y realismo socialista",
+    "short": "Realismo socialista",
+    "date": "1932–1953",
+    "key": "Bajo Stalin el Estado terminó con los grupos artísticos independientes de los años veinte e hizo del realismo socialista el único estilo oficial, cerrando el espacio de trabajo de la vanguardia.",
+    "happened": "Un decreto del 23 de abril de 1932 disolvió las organizaciones artísticas independientes de la Unión Soviética y las reemplazó por uniones estatales únicas. El realismo socialista, la doctrina de un arte que mostraba la vida soviética de forma accesible y optimista al servicio del Partido, se fijó como método oficial en los años siguientes. Stalin gobernó hasta su muerte en marzo de 1953, y a fines de los años treinta la represión golpeó a muchos artistas.",
+    "effect": "Los encargos que habían sostenido a la vanguardia pasaron a un estilo definido por el Estado: el constructivismo perdió su base institucional como programa, y los carteles, las revistas y los edificios de los años treinta giraron del experimento hacia la glorificación del líder y de los planes. El fotomontaje, invento constructivista, se mantuvo como herramienta de propaganda pero puesto al servicio del culto oficial, y diseñadores como Gustav Klutsis, que lo había convertido en el lenguaje del Plan Quinquenal, fueron arrestados en la represión de 1938."
+   },
+   "refs": []
+  }
+ ]
+}

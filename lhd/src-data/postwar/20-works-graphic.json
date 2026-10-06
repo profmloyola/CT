@@ -1,0 +1,1573 @@
+{
+ "works": [
+  {
+   "id": "helvetica",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "typography",
+   "title": "Helvetica (Neue Haas Grotesk)",
+   "short": "Helvetica",
+   "designers": [
+    "max-miedinger"
+   ],
+   "maker": "Haas’sche Schriftgiesserei",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Metal type, later phototypesetting and digital fonts",
+   "tech": [],
+   "key": "A neutral sans-serif drawn by Max Miedinger and Edouard Hoffmann at the Haas type foundry in Switzerland, issued as Neue Haas Grotesk in 1957 and renamed Helvetica in 1960.[1][2]",
+   "more": "Miedinger and Hoffmann created it at the Haas foundry in Münchenstein, Switzerland, seeking a neutral typeface of great clarity for signage in many uses.[2] MoMA dates the metal type to 1956–57.[1] It was released in 1957 as Neue Haas Grotesk; Stempel, the foundry’s German parent company, renamed it Helvetica in 1960 to improve its marketability abroad.[2] Neue Helvetica, a reworking of the 1957 design to unify its structure, weights and widths, came out in 1983.[3] MoMA calls Helvetica one of the most important typefaces of the twentieth century.[4]",
+   "status": "Still in wide use; the redrawn Neue Helvetica family followed in 1983.",
+   "es": {
+    "title": "Helvetica (Neue Haas Grotesk)",
+    "short": "Helvetica",
+    "key": "Una grotesca neutra dibujada por Max Miedinger y Edouard Hoffmann en la fundición Haas, en Suiza, lanzada como Neue Haas Grotesk en 1957 y rebautizada Helvetica en 1960.[1][2]",
+    "more": "Miedinger y Hoffmann la crearon en la fundición Haas de Münchenstein, Suiza, en busca de una tipografía neutra y de gran claridad para señalética de usos diversos.[2] El MoMA fecha los tipos de metal en 1956-57.[1] Salió en 1957 como Neue Haas Grotesk; Stempel, la casa matriz alemana de la fundición, la rebautizó Helvetica en 1960 para mejorar su comercialización internacional.[2] Neue Helvetica, una reelaboración del diseño de 1957 para unificar su estructura, pesos y anchos, apareció en 1983.[3] El MoMA la llama una de las tipografías más importantes del siglo XX.[4]",
+    "status": "Sigue muy usada; la familia rediseñada Neue Helvetica apareció en 1983.",
+    "date": "1957",
+    "materials": "Tipos de metal, más tarde fotocomposición y tipografías digitales"
+   },
+   "refs": [
+    {
+     "label": "The Museum of Modern Art, «Helvetica Bold, 36 point, 1956-1957»",
+     "url": "https://www.moma.org/collection/works/106768",
+     "checks": "Max Miedinger y Edouard Hoffmann; 1956-57; fundición Haas, Suiza; tipos de metal.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Jeremy Norman, History of Information, «The Helvetica typeface debuts under a different name»",
+     "url": "https://www.historyofinformation.com/detail.php?id=2058",
+     "checks": "Miedinger y Hoffmann en la fundición Haas de Münchenstein; Neue Haas Grotesk, 1957; Stempel la renombró Helvetica en 1960 para su comercialización; busca neutralidad para señalética. ⚠ fuente secundaria (bibliografía comercial); resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "CreativePro, «Helvetica vs. Neue Helvetica: the same but different»",
+     "url": "https://creativepro.com/helvetica-vs-neue-helvetica-same-but-different/",
+     "checks": "Neue Helvetica, reelaboración de 1957 para unificar estructura, pesos y anchos, lanzada en 1983. ⚠ fuente secundaria; atribuye el lanzamiento de 1957 a Linotype, lo que no se usa.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Museum of Modern Art, «MoMA’s acquisition of Helvetica font» (comunicado)",
+     "url": "https://www.moma.org/documents/moma_press-release_387114.pdf",
+     "checks": "«Una de las tipografías más importantes del siglo XX»; primera tipografía adquirida por el MoMA; letras simples y bien proporcionadas.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "univers",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "typography",
+   "title": "Univers",
+   "short": "Univers",
+   "designers": [
+    "adrian-frutiger"
+   ],
+   "maker": "Deberny & Peignot",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "CH"
+   ],
+   "materials": "Metal type and phototypesetting matrices",
+   "tech": [],
+   "key": "A sans-serif family designed by Adrian Frutiger as a systematic set of 21 variants in weight and width, identified by numbers rather than names.[1][2][3]",
+   "more": "Frutiger created it for Deberny & Peignot, releasing it in 1957 for the Lumitype-Photon photocomposition system, with foundry type following in 1958.[1][3] Instead of names such as bold or condensed, each variant has a two-digit number, the first digit for weight and the second for width.[1][3] Otl Aicher chose Univers as the only typeface of the Munich 1972 Olympics, the first large-scale project in Germany to use it exhaustively and exclusively.[4] A redesign of 1997 was renamed Univers Next in 2010.[3]",
+   "status": "The family was later redrawn digitally as Univers Next and remains in use.",
+   "es": {
+    "title": "Univers",
+    "short": "Univers",
+    "key": "Una familia de tipografía sin serifas que Adrian Frutiger proyectó como un conjunto sistemático de 21 variantes de grosor y ancho, identificadas con números y no con nombres.[1][2][3]",
+    "more": "Frutiger la creó para Deberny & Peignot, que la lanzó en 1957 para el sistema de fotocomposición Lumitype-Photon, y los tipos de fundición siguieron en 1958.[1][3] En lugar de nombres como negrita o condensada, cada variante lleva un número de dos cifras, la primera para el grosor y la segunda para el ancho.[1][3] Otl Aicher eligió Univers como la única tipografía de los Juegos Olímpicos de Múnich 1972, el primer proyecto de gran escala en Alemania en usarla de forma exhaustiva y exclusiva.[4] Un rediseño de 1997 pasó a llamarse Univers Next en 2010.[3]",
+    "status": "La familia se redibujó en formato digital como Univers Next y sigue en uso.",
+    "date": "1957",
+    "materials": "Tipos de metal y matrices de fotocomposición"
+   },
+   "refs": [
+    {
+     "label": "Rochester Institute of Technology, «VI: Deberny et Peignot, post-war»",
+     "url": "https://www.rit.edu/amgweb/vi-deberny-et-peignot-post-war",
+     "checks": "Frutiger creó Univers para Deberny et Peignot en 1957; sistema Lumitype; 21 variantes de ancho y grosor con sistema de numeración. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Production Type, «Deberny et Peignot’s Univers, 1957»",
+     "url": "https://productiontype.com/article/deberny-et-peignot-s-univers-1957",
+     "checks": "Frutiger, Deberny et Peignot, Lumitype; «veintiuna variaciones consistentes»; diseñada con un plan maestro. ⚠ fuente de una fundición digital; resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Fonts In Use, «Univers»",
+     "url": "https://fontsinuse.com/typefaces/1160/univers",
+     "checks": "Lanzada para la Lumitype-Photon en 1957, tipos de fundición en 1958; primer dígito grosor (3–8) y segundo ancho (3–9); revisada en 1997 y rebautizada Univers Next en 2010. ⚠ fuente secundaria; resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Fonts In Use, «Organisationskomitee… München 1972: Richtlinien und Normen für die visuelle Gestaltung»",
+     "url": "https://fontsinuse.com/uses/38873/organisationskomitee-fuer-die-spiele-der-xx-o",
+     "checks": "Manual de Aicher (junio de 1969); Univers como única tipografía; primer proyecto de gran escala en Alemania en aplicarla de modo exhaustivo y exclusivo. ⚠ fuente secundaria; resumen automático.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "ibm-logo",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "logotype",
+   "title": "IBM logo",
+   "short": "IBM",
+   "designers": [
+    "paul-rand"
+   ],
+   "client": "IBM",
+   "year": 1956,
+   "date": "1956",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Letterforms in a slab-serif typeface; printed, stamped and applied in many media",
+   "tech": [],
+   "key": "Paul Rand’s 1956 redesign of the IBM wordmark in City Medium capitals, the base of the company’s unified identity.[1][2]",
+   "more": "Rand was brought in as a design consultant to IBM in 1956,[2] and that year redrew the company’s lettering in City Medium, replacing Beton Bold with a more solid and balanced look.[1] His work for IBM then reached products, printed materials and even buildings, at a time when Thomas Watson Jr. complained that the company had no design theme.[2] The eight-bar version followed in 1972 and has remained essentially unchanged.[1]",
+   "status": "The eight-bar version of 1972 is still the company’s logo.",
+   "es": {
+    "title": "Logotipo de IBM",
+    "short": "IBM",
+    "key": "El rediseño de 1956 de Paul Rand del logotipo de IBM, en mayúsculas City Medium, base de la identidad unificada de la empresa.[1][2]",
+    "more": "Rand fue contratado como consultor de diseño de IBM en 1956,[2] y ese año redibujó las letras de la empresa en City Medium, que reemplazó a la Beton Bold con un aspecto más sólido y equilibrado.[1] Su trabajo para IBM llegó luego a productos, impresos e incluso edificios, en una época en que Thomas Watson Jr. lamentaba que la empresa no tuviera un tema de diseño.[2] La versión de ocho barras llegó en 1972 y se ha mantenido casi sin cambios.[1]",
+    "status": "La versión de ocho barras de 1972 sigue siendo el logotipo de la empresa.",
+    "date": "1956",
+    "materials": "Letras en una tipografía de serifas rectas; impreso, estampado y aplicado en muchos medios"
+   },
+   "refs": [
+    {
+     "label": "IBM, «The IBM logo»",
+     "url": "https://www.ibm.com/history/logo",
+     "checks": "En 1956 Rand reemplazó Beton Bold por City Medium (B de contornos cuadrados, M de serifas asimétricas); en 1972 creó el logo de ocho barras, esencialmente sin cambios. ⚠ fuente corporativa; resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "IBM, «IBM design» (design program)",
+     "url": "https://www.ibm.com/history/design-program",
+     "checks": "Rand consultor desde 1956; su trabajo alcanzó productos, impresos y edificios; cita de Watson Jr. sobre la falta de tema de diseño. ⚠ fuente corporativa; resumen automático.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "new-york-school-graphic"
+   ]
+  },
+  {
+   "id": "lufthansa-identity",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "identity",
+   "title": "Lufthansa visual identity",
+   "short": "Lufthansa",
+   "designers": [
+    "otl-aicher"
+   ],
+   "maker": "HfG Ulm development group",
+   "client": "Deutsche Lufthansa",
+   "year": 1962,
+   "date": "1962",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Print, livery and signage; colour and typography system",
+   "tech": [],
+   "key": "The corporate identity that Otl Aicher and a team from the Ulm School of Design developed for the airline Lufthansa from 1962.",
+   "more": "Lufthansa, refounded in 1953, commissioned a new image from a development group of the Ulm School of Design led by Aicher. The group kept the crane emblem drawn in 1918 by Otto Firle, set it inside a circle and fixed a system of yellow and blue, a single sans-serif typeface and strict layout rules for aircraft, airports and printed matter. It is a landmark of the corporate identity manual in Europe.",
+   "status": "The crane in a circle and the blue and yellow scheme remain the airline’s identity.",
+   "es": {
+    "title": "Identidad visual de Lufthansa",
+    "short": "Lufthansa",
+    "key": "La identidad corporativa que Otl Aicher y un equipo de la Escuela de Diseño de Ulm desarrollaron para la aerolínea Lufthansa desde 1962.",
+    "more": "Lufthansa, refundada en 1953, encargó una nueva imagen a un grupo de desarrollo de la Escuela de Diseño de Ulm dirigido por Aicher. El grupo conservó la grulla dibujada en 1918 por Otto Firle, la encerró en un círculo y fijó un sistema de amarillo y azul, una única tipografía sin serifas y reglas estrictas de composición para aviones, aeropuertos e impresos. Es un hito del manual de identidad corporativa en Europa.",
+    "status": "La grulla en un círculo y el esquema azul y amarillo siguen siendo la identidad de la aerolínea.",
+    "date": "1962",
+    "materials": "Impresos, pintura de los aviones y señalética; sistema de color y tipografía"
+   },
+   "refs": []
+  },
+  {
+   "id": "munich72-pictograms",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "identity",
+   "title": "Munich 1972 pictograms and identity",
+   "short": "Munich 1972",
+   "designers": [
+    "otl-aicher"
+   ],
+   "client": "Organizing Committee of the 1972 Olympic Games",
+   "year": 1972,
+   "date": "1972",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Printed matter, signage, pictograms and uniforms; Univers typeface",
+   "tech": [],
+   "key": "The complete visual programme that Otl Aicher designed for the 1972 Munich Olympics, with a light palette, a grid-based set of sport pictograms and the Univers typeface.[1][2][3]",
+   "more": "Aicher was Commissioner for Visual Design of the Games and rejected the Nazi-era aesthetics of 1936: his palette excluded red, gold and black in favour of an ‘apolitical light blue’ and other fresh hues.[1][3] His pictograms were built on a grid, with schematic figures at 45-degree angles that he wanted to work like an alphabet.[2][3] The system tied together pictograms, Univers lettering, signage, uniforms and tickets.[1][2] The pictograms inspired the 1974 US Department of Transportation symbol system and spread widely in public signage.[3]",
+   "status": "The pictograms are widely reproduced and studied; the original design manuals survive in archives.",
+   "es": {
+    "title": "Pictogramas e identidad de Múnich 1972",
+    "short": "Múnich 1972",
+    "key": "El programa visual completo que Otl Aicher diseñó para los Juegos Olímpicos de Múnich 1972, con una paleta luminosa, un conjunto de pictogramas deportivos sobre retícula y la tipografía Univers.[1][2][3]",
+    "more": "Aicher fue comisionado de diseño visual de los Juegos y rechazó la estética de la era nazi de 1936: su paleta excluyó el rojo, el dorado y el negro en favor de un «azul claro apolítico» y otros tonos frescos.[1][3] Sus pictogramas se construyeron sobre una retícula, con figuras esquemáticas a 45 grados que quería que funcionaran como un alfabeto.[2][3] El sistema unió pictogramas, letras Univers, señalética, uniformes y entradas.[1][2] Los pictogramas inspiraron el sistema de símbolos del Departamento de Transporte de EE. UU. de 1974 y se difundieron en la señalética pública.[3]",
+    "status": "Los pictogramas se reproducen y estudian ampliamente; los manuales originales se conservan en archivos.",
+    "date": "1972",
+    "materials": "Impresos, señalética, pictogramas y uniformes; tipografía Univers"
+   },
+   "refs": [
+    {
+     "label": "Otl Aicher (sitio oficial), «The Rainbow Games»",
+     "url": "https://www.otlaicher.de/en/articles/the-rainbow-games/",
+     "checks": "Aicher como comisionado de diseño visual; rechazo de la estética de 1936 (paleta sin rojo, dorado ni negro, «azul claro apolítico»); sistema que une pictogramas, tipografía Univers, señalética, uniformes y entradas. ⚠ no menciona la retícula con líneas a 45 grados; sitio del legado del diseñador.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "SFMOMA, «Otl Aicher: München 1972»",
+     "url": "https://www.sfmoma.org/exhibition/otl-aicher/",
+     "checks": "Sistema integral que abarca señalética, impresos y uniformes del personal; retículas estructurales, paleta audaz y pictogramas. ⚠ no menciona Univers.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Smithsonian Magazine, «This Graphic Artist’s Olympic Pictograms Changed Urban Design Forever»",
+     "url": "https://www.smithsonianmag.com/innovation/this-graphic-artists-olympic-pictograms-changed-urban-design-forever-180978256/",
+     "checks": "Rechazo del nacionalismo de 1936; retícula y figuras esquemáticas a 45 grados, «como un alfabeto» (Ellen Lupton); paleta clara de azul, verde, plata, naranja y amarillo; influencia en el sistema del Departamento de Transporte de EE. UU. de 1974. ⚠ nombra la tipografía como Helvetica Bold, lo que contradice a Univers de la fuente 1.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "mexico68-identity",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "identity",
+   "title": "Mexico 1968 Olympic graphic identity",
+   "short": "Mexico 68",
+   "designers": [
+    "lance-wyman",
+    "ramirez-vazquez"
+   ],
+   "client": "Organizing Committee of the 1968 Olympic Games",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Printed matter, signage, pictograms and posters",
+   "tech": [],
+   "key": "The graphic programme for the 1968 Mexico City Games, with the ‘Mexico 68’ logo, pictograms, signage and other printed matter designed by Lance Wyman and a team.[1][2]",
+   "more": "Wyman led the graphic design with the architect Eduardo Terrazas and the signage expert Peter Murdoch, under Pedro Ramírez Vázquez, president of the organizing committee.[1][2] Wyman built the number 68 from the single line geometry of the five Olympic rings, and the same triple-line structure formed the lettering of ‘Mexico’.[1] The radiating lines were first rooted in op art, and the team worked with Huichol artists on colour studies.[1][2] The system also covered pictograms, colour-coded tickets, a modular street-furniture system, stamps, publications and wayfinding signs, and was even screen-printed on staff uniforms.[1][2][3] It gave the scattered Olympic venues one integrated visual system.[2]",
+   "status": "The logo and pictograms are widely reproduced and studied.",
+   "es": {
+    "title": "Identidad gráfica de México 68",
+    "short": "México 68",
+    "key": "El programa gráfico de los Juegos de Ciudad de México de 1968, con el logotipo «México 68», pictogramas, señalética y otros impresos diseñados por Lance Wyman y su equipo.[1][2]",
+    "more": "Wyman dirigió el diseño gráfico junto con el arquitecto Eduardo Terrazas y el especialista en señalética Peter Murdoch, bajo Pedro Ramírez Vázquez, presidente del comité organizador.[1][2] Wyman construyó el número 68 con la geometría de línea única de los cinco aros olímpicos, y la misma estructura de triple línea formó las letras de «México».[1] Las líneas radiantes tenían al principio raíz en el op art, y el equipo trabajó con artistas huicholes en estudios de color.[1][2] El sistema abarcó además pictogramas, entradas codificadas por colores, un sistema modular de mobiliario urbano, estampillas, publicaciones y letreros de orientación, y se estampó incluso en uniformes del personal.[1][2][3] Dio a las sedes olímpicas, dispersas, un solo sistema visual integrado.[2]",
+    "status": "El logotipo y los pictogramas se reproducen y estudian ampliamente.",
+    "date": "1968",
+    "materials": "Impresos, señalética, pictogramas y carteles"
+   },
+   "refs": [
+    {
+     "label": "Walker Art Center, «Lance Wyman on Mexico 68, the Olympics and the Tlatelolco massacre»",
+     "url": "https://www.walkerart.org/reader/lance-wyman-mexico-68-olympics-tlatelolco-massacre/",
+     "checks": "Equipo (Wyman, Terrazas, Murdoch, Trueblood, Goeritz, Ramírez Vázquez); logo con el 68 construido sobre la geometría de línea de los aros olímpicos y triple línea en «Mexico»; líneas radiantes de raíz op art y colaboración con artistas huicholes; alcance (pictogramas, estampillas, publicaciones, murales, señalética). ⚠ testimonio del propio Wyman.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "SEGD, «1968 Mexico City Olympics»",
+     "url": "https://segd.org/resources/1968-mexico-city-olympics-0/",
+     "checks": "Equipo (Wyman gráfica, Terrazas urbanismo, Murdoch proyectos especiales); op art (muestra «The Responsive Eye», MoMA 1965); estudios de color con artesanos huicholes; pictogramas, entradas por colores, mobiliario urbano modular de Murdoch; sistema visual integrado para sedes dispersas. ⚠ no confirma los carteles.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "LACMA, «Edecán Dress and Cape from the XIX Olympics» (1968)",
+     "url": "https://collections.lacma.org/object/207999",
+     "checks": "Uniforme de 1968 con el logotipo de Wyman (dos aros olímpicos en el 6 y el 8, líneas concéntricas) serigrafiado como patrón sobre el vestido; usado por el personal de prensa.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "tokyo64-pictograms",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "identity",
+   "title": "Tokyo 1964 pictograms and identity",
+   "short": "Tokyo 1964",
+   "designers": [
+    "katsumie"
+   ],
+   "client": "Organizing Committee of the 1964 Olympic Games",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Printed matter and signage; pictograms",
+   "tech": [],
+   "key": "The pictograms for sports and services of the 1964 Tokyo Olympics, a system made so that visitors who could not read Japanese could find their way.",
+   "more": "Masaru Katsumie led the work on the pictograms, with the graphic designer Yoshiro Yamashita among those who drew them. They were conceived because many foreign visitors could not read Japanese signs, and they were later adopted and adapted by other host cities. The Games also carried a wider design programme, including Yusaku Kamekura’s poster.",
+   "status": "The pictograms are known mainly through photographs and design histories.",
+   "es": {
+    "title": "Pictogramas e identidad de Tokio 1964",
+    "short": "Tokio 1964",
+    "key": "Los pictogramas de deportes y servicios de los Juegos de Tokio de 1964, un sistema pensado para que los visitantes que no leían japonés pudieran orientarse.",
+    "more": "Masaru Katsumie dirigió el trabajo de los pictogramas, y el diseñador gráfico Yoshiro Yamashita estuvo entre quienes los dibujaron. Se concibieron porque muchos visitantes extranjeros no podían leer los letreros en japonés, y más tarde otras ciudades sede los adoptaron y adaptaron. Los Juegos tuvieron además un programa de diseño más amplio, que incluyó el cartel de Yusaku Kamekura.",
+    "status": "Los pictogramas se conocen sobre todo por fotografías e historias del diseño.",
+    "date": "1964",
+    "materials": "Impresos y señalética; pictogramas"
+   },
+   "refs": []
+  },
+  {
+   "id": "vertigo-titles",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Vertigo titles and poster",
+   "short": "Vertigo",
+   "designers": [
+    "saul-bass"
+   ],
+   "client": "Paramount Pictures",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Animated titles on film; lithographed poster",
+   "tech": [],
+   "key": "Saul Bass’s title sequence and poster for Alfred Hitchcock’s film Vertigo, built around spirals that give the sense of dizziness.",
+   "more": "Bass designed the opening titles of the 1958 film and its poster around spiral forms. The spirals in the titles were made with the help of the animator John Whitney, who used a mechanical analogue computer, and they were set to Bernard Herrmann’s score. Bass treated titles as part of the film’s storytelling instead of a list of credits.",
+   "status": "The titles are preserved in the film and widely studied; the poster is reproduced in many books.",
+   "es": {
+    "title": "Títulos de crédito y cartel de Vértigo",
+    "short": "Vértigo",
+    "key": "La secuencia de títulos y el cartel de Saul Bass para la película Vértigo de Alfred Hitchcock, construidos con espirales que dan la sensación de vértigo.",
+    "more": "Bass diseñó los títulos de apertura de la película de 1958 y su cartel en torno a formas en espiral. Las espirales de los títulos se hicieron con ayuda del animador John Whitney, que usó un computador analógico mecánico, y acompañan la música de Bernard Herrmann. Bass trató los títulos como parte del relato de la película y no como una lista de créditos.",
+    "status": "Los títulos se conservan en la película y se estudian ampliamente; el cartel se reproduce en muchos libros.",
+    "date": "1958",
+    "materials": "Títulos animados en película; cartel litografiado"
+   },
+   "refs": []
+  },
+  {
+   "id": "nyc-transit-standards",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "signage",
+   "title": "New York City Transit Authority Graphic Standards Manual",
+   "designers": [
+    "massimo-vignelli"
+   ],
+   "maker": "Unimark International",
+   "year": 1970,
+   "date": "1970",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed manual; enamelled and printed signs in a limited set of colours and a single typeface",
+   "tech": [
+    "modular-systems"
+   ],
+   "key": "The 1970 manual by Unimark International that set one grid, one typeface and one colour code for the signs of the New York subway.",
+   "more": "Unimark, the design firm in which Massimo Vignelli and Bob Noorda worked, wrote the manual for the New York City Transit Authority and delivered it in 1970. It laid out a grid, a single sans-serif typeface (Helvetica in later use) and the colour coding of the lines, so that signs could be produced and placed to a common rule. It carried to public signage the method of the corporate identity manual.",
+   "status": "Its principles still shape subway signs; the manual was republished in a facsimile edition in 2012.",
+   "es": {
+    "title": "Manual de normas gráficas de la Autoridad de Tránsito de Nueva York",
+    "date": "1970",
+    "materials": "Manual impreso; letreros esmaltados e impresos en pocos colores y una sola tipografía",
+    "key": "El manual de 1970 de Unimark International que fijó una retícula, una tipografía y un código de colores únicos para la señalética del metro de Nueva York.",
+    "more": "Unimark, la firma de diseño en la que trabajaban Massimo Vignelli y Bob Noorda, redactó el manual para la Autoridad de Tránsito de Nueva York y lo entregó en 1970. Fijaba una retícula, una sola tipografía de palo seco (Helvetica en usos posteriores) y la codificación por colores de las líneas, de modo que los letreros pudieran producirse e instalarse con una regla común. Llevó a la señalética pública el método del manual de identidad corporativa.",
+    "status": "Sus principios siguen marcando la señalética del metro; el manual se reeditó en facsímil en 2012.",
+    "short": "Manual NYCTA"
+   },
+   "refs": [],
+   "short": "NYCTA Standards Manual"
+  },
+  {
+   "id": "dylan-poster",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Bob Dylan poster",
+   "designers": [
+    "milton-glaser"
+   ],
+   "client": "Columbia Records",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset lithograph on paper, flat colour",
+   "tech": [],
+   "key": "Milton Glaser’s 1966 black silhouette of Bob Dylan with a mane of curling, multicoloured hair, made as a bonus poster for a record.[1][2][3]",
+   "more": "Glaser drew Dylan’s profile as a bold black silhouette, with hair of writhing curves in bright, saturated colours.[1][3] He drew on a cut-out silhouetted self-portrait by Marcel Duchamp and on Islamic forms and colours.[2][3] It was made as a bonus insert for the album Bob Dylan’s Greatest Hits.[3][2] According to some reports, six million copies were distributed.[3] Its flat colour and curving line are still read as an image of psychedelic graphics.[1][2]",
+   "status": "Original posters are collected and exhibited; the image is often reproduced.",
+   "es": {
+    "title": "Cartel de Bob Dylan",
+    "date": "1966",
+    "materials": "Litografía offset sobre papel, color plano",
+    "key": "La silueta negra de Bob Dylan de Milton Glaser de 1966, con una melena de rizos multicolores, hecha como cartel de regalo para un disco.[1][2][3]",
+    "more": "Glaser dibujó el perfil de Dylan como una silueta negra marcada, con el pelo hecho de curvas ondulantes en colores vivos y saturados.[1][3] Se inspiró en una silueta recortada de un autorretrato de Marcel Duchamp y en formas y colores islámicos.[2][3] Se hizo como cartel de regalo insertado en el disco Bob Dylan’s Greatest Hits.[3][2] Según algunos informes, se distribuyeron seis millones de copias.[3] Su color plano y su línea curva se siguen leyendo como una imagen del grafismo psicodélico.[1][2]",
+    "status": "Los carteles originales se coleccionan y exhiben; la imagen se reproduce con frecuencia."
+   },
+   "refs": [
+    {
+     "label": "MoMA, Milton Glaser, «Dylan» (773.1983)",
+     "url": "https://www.moma.org/collection/works/8108",
+     "checks": "Año 1966, litografía offset, 83,8 x 55,8 cm; inspirado en un autorretrato de Duchamp; colores saturados sobre fondo blanco; encargo de CBS Records para promover Bob Dylan’s Greatest Hits. ⚠ la ficha nombra al cliente como CBS Records, no Columbia.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Cooper Hewitt, «Poster, Dylan»",
+     "url": "https://collection.cooperhewitt.org/objects/18710419",
+     "checks": "Fecha 1966; litografía offset sobre papel avitelado; creado para Columbia Records junto al álbum de 1967; inspirado en un autorretrato recortado de Duchamp y en formas y colores islámicos.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Smithsonian Music, «Object of the Day»",
+     "url": "https://music.si.edu/node/805",
+     "checks": "Cartel de regalo insertado en el álbum Bob Dylan’s Greatest Hits (1967); perfil negro inspirado en la silueta de Duchamp; curvas de colores; seis millones de copias «según algunos informes». ⚠ no menciona el ornamento islámico.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "new-alphabet",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "New Alphabet",
+   "designers": [
+    "wim-crouwel"
+   ],
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "NL"
+   ],
+   "materials": "Letterforms drawn on a grid of horizontal and vertical lines",
+   "tech": [],
+   "key": "Wim Crouwel’s experimental typeface of 1967, built only from horizontal and vertical lines to suit the coarse screens of cathode ray tubes.",
+   "more": "Crouwel designed it as a response to the limits of the cathode ray tube screens used to display and set type at the time. Its letters are made only of straight horizontal and vertical strokes, with the curves removed and some letters reshaped until they are hard to read. It was more a typographic experiment than a text face, and it later came to be reissued in digital form.",
+   "status": "Revived in digital form and widely shown as an icon of Dutch graphic design.",
+   "es": {
+    "title": "Nuevo alfabeto",
+    "date": "1967",
+    "materials": "Letras dibujadas sobre una retícula de líneas horizontales y verticales",
+    "key": "La tipografía experimental de Wim Crouwel de 1967, hecha solo de líneas horizontales y verticales para adaptarse a las pantallas gruesas de los tubos de rayos catódicos.",
+    "more": "Crouwel la diseñó como respuesta a los límites de las pantallas de tubo de rayos catódicos que se usaban entonces para mostrar y componer texto. Sus letras se construyen solo con trazos rectos horizontales y verticales, sin curvas, y algunas se rehicieron hasta volverse difíciles de leer. Fue más un experimento tipográfico que una letra de texto, y más tarde se reeditó en versión digital.",
+    "status": "Revivida en versión digital y muy exhibida como ícono del diseño gráfico neerlandés."
+   },
+   "refs": []
+  },
+  {
+   "id": "safety-poster-protect-child",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Protect the child!",
+   "designers": [
+    "muller-brockmann"
+   ],
+   "year": 1953,
+   "date": "1953",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Offset lithograph on paper, photograph and sans-serif type",
+   "tech": [],
+   "key": "Josef Müller-Brockmann’s road-safety poster of 1953, which paired a large photograph of a child with a short line of sans-serif type.",
+   "more": "As cars and road accidents increased, Switzerland ran road-safety campaigns, and Müller-Brockmann answered with a close photographic image and direct, plain lettering instead of an illustrated scene. The poster belongs to the group of his works that helped shape the Swiss typographic style, in which a photograph and a few words carry the whole message.",
+   "status": "Original prints are held in museum collections; the poster is often reproduced in histories of Swiss graphic design.",
+   "es": {
+    "title": "Cartel «¡Protejan al niño!»",
+    "date": "1953",
+    "materials": "Litografía offset sobre papel, fotografía y tipografía de palo seco",
+    "key": "El cartel de seguridad vial de Josef Müller-Brockmann de 1953, que unió una gran fotografía de un niño con una frase breve en tipografía de palo seco.",
+    "more": "Con el aumento de los autos y de los accidentes, Suiza hizo campañas de seguridad vial, y Müller-Brockmann respondió con una imagen fotográfica cercana y una letra directa y sobria, en lugar de una escena ilustrada. El cartel pertenece al grupo de sus obras que ayudaron a formar el estilo tipográfico suizo, en el que una fotografía y unas pocas palabras cargan todo el mensaje.",
+    "status": "Hay ejemplares originales en colecciones de museos; el cartel se reproduce a menudo en las historias del diseño gráfico suizo.",
+    "short": "¡Protejan al niño!"
+   },
+   "refs": [],
+   "short": "Protect the child!"
+  },
+  {
+   "id": "uk-road-signs",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "signage",
+   "title": "British road signs (Transport typeface)",
+   "designers": [
+    "kinneir-calvert"
+   ],
+   "client": "UK Ministry of Transport",
+   "year": 1959,
+   "date": "1959",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Reflective-faced metal signs lettered in a lower-case sans-serif",
+   "tech": [],
+   "key": "The system of road signs and the Transport typeface that Jock Kinneir and Margaret Calvert designed for Britain’s new motorways and later for all its roads.",
+   "more": "Kinneir and Calvert worked from the late 1950s on signs for the first motorways, where drivers at speed needed to read place names from afar. They chose a clear sans-serif alphabet, Transport, set in upper and lower case, because words with ascenders and descenders have a more recognisable shape than capitals. The system was first used on the M1 in 1959 and, after the Worboys Committee, was extended to the rest of Britain’s roads in the 1960s.",
+   "status": "Transport is still the basis of road signs in the United Kingdom.",
+   "es": {
+    "title": "Señalización vial británica (tipografía Transport)",
+    "date": "1959",
+    "materials": "Letreros metálicos con superficie reflectante, con letra de palo seco en caja baja",
+    "key": "El sistema de señales viales y la tipografía Transport que Jock Kinneir y Margaret Calvert diseñaron para las nuevas autopistas británicas y luego para todos sus caminos.",
+    "more": "Kinneir y Calvert trabajaron desde fines de los años cincuenta en las señales de las primeras autopistas, donde los conductores a alta velocidad debían leer los nombres de lugares a distancia. Eligieron un alfabeto claro de palo seco, Transport, en mayúsculas y minúsculas, porque las palabras con ascendentes y descendentes tienen una forma más reconocible que las mayúsculas. El sistema se usó primero en la M1 en 1959 y, tras el comité Worboys, se extendió en los años sesenta al resto de los caminos de Gran Bretaña.",
+    "status": "Transport sigue siendo la base de la señalización vial del Reino Unido.",
+    "short": "Señales británicas"
+   },
+   "refs": [],
+   "short": "British road signs"
+  },
+  {
+   "id": "larrea-covers",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Larrea covers for the Nueva Canción Chilena",
+   "designers": [],
+   "maker": "Vicente y Antonio Larrea",
+   "year": 1970,
+   "date": "c. 1970",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Offset printing on card, flat colour",
+   "tech": [],
+   "key": "Record sleeves by the Larrea brothers for Nueva Canción Chilena albums around 1970, with a plain, flat-colour look of their own.",
+   "more": "Around 1970 the Larrea brothers designed sleeves for albums of the Nueva Canción Chilena, the song movement that supported the Unidad Popular. The long-playing record was the main medium of young people’s music and its sleeve the main image of each artist, so the sleeves gave the movement a visual identity of its own. Their flat colours and simple drawing were suited to cheap printing.",
+   "status": "The sleeves survive on the original records and are collected and reissued.",
+   "es": {
+    "title": "Carátulas de la Nueva Canción Chilena (Larrea)",
+    "date": "c. 1970",
+    "materials": "Impresión offset sobre cartulina, color plano",
+    "key": "Carátulas de los hermanos Larrea para discos de la Nueva Canción Chilena hacia 1970, con un aspecto sobrio, de color plano y propio.",
+    "more": "Hacia 1970 los hermanos Larrea diseñaron carátulas para discos de la Nueva Canción Chilena, el movimiento de canciones que acompañó a la Unidad Popular. El disco de larga duración era el soporte principal de la música joven y su carátula la principal imagen de cada artista, de modo que las carátulas dieron al movimiento una identidad visual propia. Sus colores planos y su dibujo simple se prestaban para una impresión barata.",
+    "status": "Las carátulas se conservan en los discos originales y se coleccionan y reeditan.",
+    "short": "Carátulas de Larrea"
+   },
+   "refs": [],
+   "short": "Larrea covers"
+  },
+  {
+   "id": "brp-murals",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "mural",
+   "title": "Murals of the Brigada Ramona Parra",
+   "designers": [],
+   "maker": "Brigada Ramona Parra",
+   "year": 1970,
+   "date": "1970",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Cheap paint on public walls, painted collectively",
+   "tech": [],
+   "key": "The street murals of the Brigada Ramona Parra, a young communist painting brigade that covered Chilean walls with flat shapes and slogans in the 1970 campaign.",
+   "more": "The Brigada Ramona Parra was a brigade of young painters linked to the Communist Youth, named after a young communist killed in 1946. It painted walls in Santiago and other cities for Salvador Allende’s 1970 campaign and kept painting under his government. The murals were made collectively and with cheap paint, using flat colour, bold outlines and slogans that could be read from a distance. They took up the idea of the public wall as a political medium, as Mexican muralism had.",
+   "status": "Many murals were erased after the 1973 coup; the brigade’s style continues in later Chilean wall painting.",
+   "es": {
+    "title": "Murales de la Brigada Ramona Parra",
+    "date": "1970",
+    "materials": "Pintura barata sobre muros públicos, pintados en forma colectiva",
+    "key": "Los murales callejeros de la Brigada Ramona Parra, una brigada de jóvenes comunistas que cubrió los muros chilenos con formas planas y consignas en la campaña de 1970.",
+    "more": "La Brigada Ramona Parra fue una brigada de jóvenes pintores ligada a las Juventudes Comunistas, que lleva el nombre de una joven comunista muerta en 1946. Pintó muros en Santiago y otras ciudades para la campaña de Salvador Allende de 1970 y siguió pintando durante su gobierno. Los murales se hacían en forma colectiva y con pintura barata, con color plano, contornos marcados y consignas que se leían a distancia. Retomaron la idea del muro público como medio político, como había hecho el muralismo mexicano.",
+    "status": "Muchos murales se borraron tras el golpe de 1973; el estilo de la brigada continúa en la pintura mural chilena posterior.",
+    "short": "Murales Ramona Parra"
+   },
+   "refs": [],
+   "short": "Ramona Parra murals"
+  },
+  {
+   "id": "icaic-ospaaal-posters",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "ICAIC and OSPAAAL posters",
+   "designers": [],
+   "maker": "ICAIC and OSPAAAL",
+   "year": 1960,
+   "date": "from 1960",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CU"
+   ],
+   "materials": "Screen print on paper",
+   "tech": [
+    "screen-printing"
+   ],
+   "key": "The solidarity posters of the OSPAAAL, founded in Havana in 1966,[1] and the film posters of Cuba’s film institute ICAIC, which made Cuban graphic design widely known.[2]",
+   "more": "The OSPAAAL was founded after the 1966 Tricontinental Conference in Havana.[1][2] More than 300 poster designs were made for it between 1967 and 2019, folded into the magazine Tricontinental for distribution.[1] They were printed mainly by offset lithography and also by silkscreen, usually with texts in English, French, Arabic and Spanish.[1] Alfredo Rostgaard was its art director.[1][2] With limited resources, artists made vibrant silkscreen designs mixing Constructivism, cubism, psychedelia and Afro-Cuban symbolism.[3]",
+   "status": "Originals are held in museum and private collections and the posters are widely reproduced.",
+   "es": {
+    "title": "Carteles del ICAIC y la OSPAAAL",
+    "date": "desde 1960",
+    "materials": "Serigrafía sobre papel",
+    "key": "Los carteles de solidaridad de la OSPAAAL, fundada en La Habana en 1966,[1] y los carteles de cine del instituto cubano ICAIC, que dieron a conocer el diseño gráfico cubano.[2]",
+    "more": "La OSPAAAL se fundó tras la Conferencia Tricontinental de 1966 en La Habana.[1][2] Para ella se hicieron más de 300 diseños de carteles entre 1967 y 2019, doblados dentro de la revista Tricontinental para su distribución.[1] Se imprimían sobre todo en offset y también en serigrafía, por lo general con textos en inglés, francés, árabe y español.[1] Alfredo Rostgaard fue su director de arte.[1][2] Con pocos recursos, los artistas hicieron vivos diseños serigráficos que mezclaban constructivismo, cubismo, psicodelia y simbolismo afrocubano.[3]",
+    "status": "Hay originales en colecciones de museos y privadas, y los carteles se reproducen ampliamente.",
+    "short": "Carteles ICAIC/OSPAAAL"
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Solidarity and design: an introduction to OSPAAAL»",
+     "url": "https://www.vam.ac.uk/articles/solidarity-and-design-an-introduction-to-ospaaal",
+     "checks": "OSPAAAL fundada en 1966 tras la Conferencia Tricontinental de La Habana; más de 300 diseños entre 1967 y 2019; carteles doblados en la revista Tricontinental; offset como técnica principal y serigrafía secundaria; textos en inglés, francés, árabe y español; Rostgaard director de arte.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Stony Brook University, Zuccaire Gallery, «Printing Solidarity» (folleto)",
+     "url": "https://zuccairegallery.stonybrook.edu/_pdf/catalog_archive/Handout%20Printing%20Solidarity.pdf",
+     "checks": "OSPAAAL tras la Conferencia Tricontinental de 1966; más de trescientos carteles; Rostgaard director de arte de más años; reconocimiento internacional del diseño cubano de la época. ⚠ no menciona el ICAIC.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Brooklyn Rail, «Art of the Cuban Revolution»",
+     "url": "https://brooklynrail.org/2022/02/artseen/Art-of-the-Cuban-Revolution/",
+     "checks": "Diseños serigráficos vivos hechos con recursos limitados; mezcla de constructivismo, cubismo, psicodelia y simbolismo afrocubano; Rostgaard como director creativo. ⚠ reseña de exposiciones; no menciona el ICAIC.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "ICAIC/OSPAAAL posters"
+  },
+  {
+   "id": "iv-centenario-rio-symbol",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Symbol of the IV Centenary of Rio de Janeiro",
+   "short": "Rio IV Centenário",
+   "designers": [
+    "aloisio-magalhaes"
+   ],
+   "year": 1965,
+   "date": "1965",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Printed graphic mark, in several colours and sizes",
+   "tech": [],
+   "key": "The abstract geometric symbol that Aloísio Magalhães designed for the celebrations of Rio de Janeiro’s fourth centenary in 1965.",
+   "more": "Rio de Janeiro was founded in 1565, so 1965 marked its fourth centenary, and the city’s celebrations needed a mark that could appear on printed matter, signs and public events. Magalhães, a Brazilian graphic designer, answered with an abstract, geometric symbol instead of a traditional emblem. It belongs to the modern, programmatic approach to visual identity that he later applied to Brazilian institutions.",
+   "status": "The symbol is remembered as an early example of modern Brazilian identity design.",
+   "es": {
+    "title": "Símbolo del IV Centenario de Río de Janeiro",
+    "short": "Rio IV Centenário",
+    "date": "1965",
+    "materials": "Marca gráfica impresa, en varios colores y tamaños",
+    "key": "El símbolo abstracto y geométrico que Aloísio Magalhães diseñó para las celebraciones del cuarto centenario de Río de Janeiro en 1965.",
+    "more": "Río de Janeiro se fundó en 1565, de modo que 1965 fue su cuarto centenario, y las celebraciones de la ciudad necesitaban una marca que pudiera aparecer en impresos, letreros y actos públicos. Magalhães, diseñador gráfico brasileño, respondió con un símbolo abstracto y geométrico en lugar de un emblema tradicional. Pertenece al enfoque moderno y sistemático de la identidad visual que después aplicó a instituciones brasileñas.",
+    "status": "El símbolo se recuerda como un ejemplo temprano de diseño de identidad moderno en Brasil."
+   },
+   "refs": []
+  },
+  {
+   "id": "think-small",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "advertisement",
+   "title": "Volkswagen ‘Think Small’ advertisement (DDB)",
+   "short": "Think Small",
+   "designers": [],
+   "maker": "Doyle Dane Bernbach",
+   "client": "Volkswagen of America",
+   "year": 1959,
+   "date": "1959",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset print on magazine paper; photograph and type",
+   "tech": [],
+   "key": "The 1959 Volkswagen Beetle advertisement by Doyle Dane Bernbach, a small car inside a vast blank space under the headline ‘Think Small’.[1][2]",
+   "more": "Doyle Dane Bernbach made it for Volkswagen in 1959; the campaign is credited to art director Helmut Krone and copywriter Julian Koenig.[1][2] The ads placed a small car inside what looked like a gigantic, solid-coloured room, with the product’s benefits in fine print.[1] The approach used wit and honesty to make the car approachable, against rivals that sold luxury and status.[1] The headline was set in lower case,[2] and the campaign is credited with ushering in the ‘Creative Revolution’ in advertising.[1]",
+   "status": "Often counted among the most admired advertisements of the twentieth century.",
+   "es": {
+    "title": "Anuncio «Think Small» de Volkswagen (DDB)",
+    "short": "Think Small",
+    "date": "1959",
+    "materials": "Impresión offset en papel de revista; fotografía y tipografía",
+    "key": "El anuncio del Escarabajo de Volkswagen de 1959, hecho por Doyle Dane Bernbach: un auto pequeño dentro de un vasto espacio vacío bajo el titular «Think Small».[1][2]",
+    "more": "Doyle Dane Bernbach lo hizo para Volkswagen en 1959; la campaña se atribuye al director de arte Helmut Krone y al redactor Julian Koenig.[1][2] Los avisos ponían un auto pequeño dentro de lo que parecía una enorme habitación de un solo color, con los beneficios del producto en letra chica.[1] El enfoque usó ingenio y honestidad para hacer cercano al auto, frente a rivales que vendían lujo y estatus.[1] El titular iba en minúsculas,[2] y a la campaña se le atribuye haber dado inicio a la «Revolución Creativa» de la publicidad.[1]",
+    "status": "Se cuenta a menudo entre los anuncios más admirados del siglo XX."
+   },
+   "refs": [
+    {
+     "label": "University of Charlotte, Visual Rhetoric, «Think Small advertising campaign»",
+     "url": "https://pages.charlotte.edu/visualrhetoric/projects/individual-projects/think-small-advertising-campaign/",
+     "checks": "Campaña de 1959 de Krone (director de arte) y Koenig (redactor) en DDB; auto pequeño en una gran sala de un solo color con beneficios en letra chica; ingenio y honestidad frente a lujo y estatus; «Revolución Creativa». ⚠ proyecto académico de estudiantes; no menciona «Lemon».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Media Marketing, «65 years ago DDB dared Americans to think small»",
+     "url": "https://www.media-marketing.com/en/opinion/65-years-ago-ddb-dared-americans-to-think-small/",
+     "checks": "Krone y Koenig, DDB, finales de los cincuenta; Beetle pequeño sobre espacio en blanco; titular en minúsculas; filosofía de Bill Bernbach. ⚠ artículo de opinión de prensa especializada; llama a Krone «creative director».",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "new-york-school-graphic"
+   ]
+  },
+  {
+   "id": "atelier-populaire-posters",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Atelier Populaire posters (May 1968)",
+   "short": "Atelier Populaire",
+   "designers": [],
+   "maker": "Atelier Populaire (collective)",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Screen print on paper, mostly in one colour",
+   "tech": [
+    "screen-printing"
+   ],
+   "key": "The anonymous posters that students and artists printed in the occupied Paris art schools during the strikes and demonstrations of May 1968.[1][2]",
+   "more": "Students of the École des Beaux-Arts occupied its lithography studio on 14 May 1968 and made it a production centre, working as a collective of art students, artists and workers; it operated until police closed it on 27 June.[1][2] The group first used lithography but switched to screen printing, which was faster and portable, and made more than 350 different posters, typically in a single colour with bold lettering.[1][2] The posters were signed only ‘Atelier Populaire’ and were distributed free; the group rejected individual credit, commercial interests and the display of its work as fine art, saying it belonged in the streets and on factory walls.[1][2] The V&A holds examples, such as ‘La Presse Ment’ (May 1968).[3]",
+   "status": "Originals are held in museum and library collections; the posters have been widely reproduced.",
+   "es": {
+    "title": "Carteles del Atelier Populaire (Mayo del 68)",
+    "short": "Atelier Populaire",
+    "date": "1968",
+    "materials": "Serigrafía sobre papel, casi siempre a un color",
+    "key": "Los carteles anónimos que estudiantes y artistas imprimieron en las escuelas de arte ocupadas de París durante las huelgas y marchas de mayo de 1968.[1][2]",
+    "more": "Estudiantes de la École des Beaux-Arts ocuparon su taller de litografía el 14 de mayo de 1968 y lo convirtieron en un centro de producción, como un colectivo de estudiantes de arte, artistas y obreros; funcionó hasta que la policía lo cerró el 27 de junio.[1][2] El grupo usó primero la litografía pero pasó a la serigrafía, más rápida y portátil, e hizo más de 350 carteles distintos, por lo general a un solo color y con letras directas.[1][2] Los carteles se firmaban solo «Atelier Populaire» y se repartían gratis; el grupo rechazaba el crédito individual, los intereses comerciales y la exhibición de su obra como arte, y decía que su lugar estaba en las calles y en los muros de las fábricas.[1][2] El V&A conserva ejemplares, como «La Presse Ment» (mayo de 1968).[3]",
+    "status": "Los originales están en colecciones de museos y bibliotecas; los carteles se han reproducido ampliamente."
+   },
+   "refs": [
+    {
+     "label": "MACBA, «Atelier populaire»",
+     "url": "https://www.macba.cat/en/node/73384",
+     "checks": "Fundado el 14 de mayo de 1968 y activo hasta el 27 de junio, cuando la policía lo cerró; en los talleres de la École des Beaux-Arts ocupada; colectivo de estudiantes de arte, artistas y obreros; carteles anónimos, distribuidos gratis, contra el interés comercial y la autoría individual; más de 350 carteles en serigrafía y litografía.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Letterform Archive, «Atelier Populaire posters of May 1968»",
+     "url": "https://letterformarchive.org/news/atelier-populaire-posters-of-may-1968/",
+     "checks": "Ocupación del taller de litografía el 14 de mayo; paso de la litografía a la serigrafía por eficiencia y portabilidad; carteles a un color con letras toscas; firmados «Atelier Populaire»; rechazo del estatus de arte y de exhibirlos en lugares de cultura burguesa («en las calles o en los muros de las fábricas»).",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "V&A, «La Presse Ment» (Atelier Populaire, mayo de 1968)",
+     "url": "https://collections.vam.ac.uk/item/O120966",
+     "checks": "Cartel de mayo de 1968 en serigrafía sobre papel del Atelier Populaire, taller estudiantil; ejemplo en colección de museo.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "westinghouse-logo",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Westinghouse logo",
+   "short": "Westinghouse",
+   "designers": [
+    "paul-rand"
+   ],
+   "client": "Westinghouse Electric Corporation",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed and applied graphic mark",
+   "tech": [],
+   "key": "Paul Rand’s 1960 symbol for Westinghouse, a circle of connected dots and a ‘W’ made from simple geometry in blue.",
+   "more": "Westinghouse Electric, a large American maker of electrical equipment and a broadcaster, commissioned Rand to replace its older mark. His symbol was built from a circle, dots and a ‘W’, and was meant to be recognised at a glance, including on the small television screens of the day. Rand also designed a programme of applications for the company’s products and printed matter.",
+   "status": "The mark was used for decades and was later replaced as the company changed.",
+   "es": {
+    "title": "Logotipo de Westinghouse",
+    "short": "Westinghouse",
+    "date": "1960",
+    "materials": "Marca gráfica impresa y aplicada",
+    "key": "El símbolo que Paul Rand diseñó para Westinghouse en 1960, un círculo de puntos conectados y una «W» hechos con geometría simple en azul.",
+    "more": "Westinghouse Electric, gran fabricante estadounidense de equipos eléctricos y emisora de radio y televisión, encargó a Rand reemplazar su marca anterior. Su símbolo se construyó con un círculo, puntos y una «W», y buscaba reconocerse de un vistazo, también en las pequeñas pantallas de televisión de la época. Rand diseñó además un programa de aplicaciones para los productos y los impresos de la empresa.",
+    "status": "La marca se usó durante décadas y luego fue reemplazada cuando la empresa cambió."
+   },
+   "refs": []
+  },
+  {
+   "id": "american-airlines-logo",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "American Airlines logo",
+   "short": "American Airlines",
+   "designers": [
+    "massimo-vignelli"
+   ],
+   "maker": "Unimark International",
+   "client": "American Airlines",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Painted on aircraft and printed; red and blue on white",
+   "tech": [],
+   "key": "The 1967 identity for American Airlines by Massimo Vignelli of Unimark, with a stylised eagle and the airline’s name in Helvetica.",
+   "more": "Vignelli designed it at Unimark, the firm he co-founded, to give the airline a modern identity that was simple to apply to aircraft, airports and printed matter. It paired a stylised eagle with the name in Helvetica capitals, in red and blue on white. The identity was recorded in standards for its use.",
+   "status": "Used for more than four decades, until the airline replaced it in 2013.",
+   "es": {
+    "title": "Logotipo de American Airlines",
+    "short": "American Airlines",
+    "date": "1967",
+    "materials": "Pintado en aviones e impreso; rojo y azul sobre blanco",
+    "key": "La identidad de American Airlines de 1967 diseñada por Massimo Vignelli en Unimark, con un águila estilizada y el nombre de la aerolínea en Helvetica.",
+    "more": "Vignelli la diseñó en Unimark, la oficina que cofundó, para dar a la aerolínea una identidad moderna y fácil de aplicar en aviones, aeropuertos e impresos. Combinó un águila estilizada con el nombre en mayúsculas Helvetica, en rojo y azul sobre blanco. La identidad se registró en normas para su uso.",
+    "status": "Se usó por más de cuatro décadas, hasta que la aerolínea la reemplazó en 2013."
+   },
+   "refs": [],
+   "movements": [
+    "corporate-identity-design"
+   ]
+  },
+  {
+   "id": "chase-manhattan-logo",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Chase Manhattan Bank logo (Chermayeff & Geismar)",
+   "short": "Chase Manhattan",
+   "designers": [],
+   "maker": "Chermayeff & Geismar",
+   "client": "Chase Manhattan Bank",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Printed and applied graphic mark, in blue and white",
+   "tech": [],
+   "key": "The abstract octagonal symbol that Chermayeff & Geismar designed in 1960 for Chase Manhattan Bank in place of a traditional emblem.",
+   "more": "Chase Manhattan Bank, formed by a merger in 1955, was building a new headquarters in lower Manhattan and wanted a modern mark. Ivan Chermayeff and Tom Geismar, whose firm took the commission, drew four wedge shapes around a square gap to make an octagon, an abstract and neutral form that needed no words. It replaced the shields and emblems that banks usually used.",
+   "status": "A later version of the octagon is still the Chase logo.",
+   "es": {
+    "title": "Logotipo de Chase Manhattan Bank (Chermayeff & Geismar)",
+    "short": "Chase Manhattan",
+    "date": "1960",
+    "materials": "Marca gráfica impresa y aplicada, en azul y blanco",
+    "key": "El símbolo octogonal abstracto que Chermayeff & Geismar diseñaron en 1960 para el Chase Manhattan Bank en lugar de un emblema tradicional.",
+    "more": "El Chase Manhattan Bank, formado por una fusión en 1955, construía una nueva sede en el Bajo Manhattan y quería una marca moderna. Ivan Chermayeff y Tom Geismar, cuya oficina recibió el encargo, dibujaron cuatro cuñas alrededor de un vacío cuadrado para formar un octógono, una forma abstracta y neutra que no necesitaba palabras. Reemplazó los escudos y emblemas que solían usar los bancos.",
+    "status": "Una versión posterior del octógono sigue siendo el logotipo de Chase."
+   },
+   "refs": [],
+   "movements": [
+    "corporate-identity-design"
+   ]
+  },
+  {
+   "id": "blue-note-covers",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "cover",
+   "title": "Blue Note Records covers (Reid Miles)",
+   "short": "Blue Note",
+   "designers": [],
+   "maker": "Reid Miles",
+   "client": "Blue Note Records",
+   "year": 1956,
+   "date": "1956",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset print on card; photography and type, often in two colours",
+   "tech": [],
+   "key": "The record sleeves that Reid Miles designed for Blue Note Records from the mid-1950s, with bold type and cropped photographs by Francis Wolff.",
+   "more": "Blue Note, the jazz label founded in 1939 by Alfred Lion and Francis Wolff, used Miles as its main cover designer from the mid-1950s. He combined large, inventive typography with photographs of the musicians, many taken by Wolff, and often limited colour to one or two inks. On the long-playing record the sleeve was the main advertisement for the music, and the Blue Note covers gave the label a recognisable look.",
+   "status": "The sleeves have been reissued many times and remain widely copied.",
+   "es": {
+    "title": "Carátulas de Blue Note Records (Reid Miles)",
+    "short": "Blue Note",
+    "date": "1956",
+    "materials": "Impresión offset en cartulina; fotografía y tipografía, a menudo en dos colores",
+    "key": "Las carátulas que Reid Miles diseñó para Blue Note Records desde mediados de los años cincuenta, con tipografía audaz y fotografías recortadas de Francis Wolff.",
+    "more": "Blue Note, el sello de jazz fundado en 1939 por Alfred Lion y Francis Wolff, tuvo a Miles como su principal diseñador de carátulas desde mediados de los años cincuenta. Combinó una tipografía grande e inventiva con fotografías de los músicos, muchas tomadas por Wolff, y a menudo limitó el color a una o dos tintas. En el disco de larga duración la carátula era el principal aviso de la música, y las de Blue Note dieron al sello un aspecto inconfundible.",
+    "status": "Las carátulas se han reeditado muchas veces y se siguen imitando."
+   },
+   "refs": []
+  },
+  {
+   "id": "whole-earth-catalog",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "catalog",
+   "title": "Whole Earth Catalog",
+   "short": "Whole Earth",
+   "designers": [],
+   "maker": "Stewart Brand (Portola Institute)",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset print on paper; newsprint-style catalogue pages",
+   "tech": [],
+   "key": "Stewart Brand’s catalogue of tools, books and ideas for young communities, first published in 1968 with the Earth seen from space on its cover.",
+   "more": "Stewart Brand published the first Whole Earth Catalog in 1968 with the Portola Institute in California. It was a large paperback catalogue that reviewed tools, books and equipment for people building their own communities outside the consumer mainstream, with readers’ letters and reviews mixed in the pages. Its cover showed a photograph of the whole Earth from space, an image Brand had campaigned for. It was revised many times in the early 1970s.",
+   "status": "Out of print; copies are collected and many issues are digitised.",
+   "es": {
+    "title": "Whole Earth Catalog",
+    "short": "Whole Earth",
+    "date": "1968",
+    "materials": "Impresión offset en papel; páginas de catálogo de estilo diario",
+    "key": "El catálogo de herramientas, libros e ideas para comunidades jóvenes de Stewart Brand, publicado en 1968 con la Tierra vista desde el espacio en la portada.",
+    "more": "Stewart Brand publicó el primer Whole Earth Catalog en 1968 con el Portola Institute, en California. Era un gran catálogo en rústica que reseñaba herramientas, libros y equipos para quienes construían sus propias comunidades al margen del consumo habitual, con cartas y reseñas de lectores entre sus páginas. Su portada mostraba una fotografía de la Tierra entera vista desde el espacio, imagen por la que Brand había hecho campaña. Se revisó muchas veces a comienzos de los años setenta.",
+    "status": "Agotado; sus ejemplares se coleccionan y muchos números están digitalizados."
+   },
+   "refs": []
+  },
+  {
+   "id": "beethoven-poster-1955",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Beethoven poster",
+   "designers": [
+    "muller-brockmann"
+   ],
+   "client": "Tonhalle Zürich",
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Offset print on paper",
+   "tech": [],
+   "key": "Josef Müller-Brockmann’s 1955 poster for a Zurich Tonhalle concert of Beethoven, built from arcs and sans-serif type on a grid, an example of the Swiss style.[1][2]",
+   "more": "Müller-Brockmann designed it in 1955 for a concert of the Tonhalle-Gesellschaft in Zurich: its fourth extra concert, on 22 February 1955, with violinist Wolfgang Schneiderhan and conductor Carl Schuricht.[1] The poster is a lithograph, credited to Müller-Brockmann and printed by Lithographie & Cartonnage AG, Zurich, and it carries the name Beethoven prominently.[1] Instead of a picture it uses an abstract composition of arcs, sans-serif type and a structured grid, a way of giving music, an abstract art, a visual parallel.[2]",
+   "status": "Copies are held in museum collections.",
+   "es": {
+    "title": "Cartel Beethoven",
+    "date": "1955",
+    "materials": "Impresión offset sobre papel",
+    "key": "El cartel de Josef Müller-Brockmann de 1955 para un concierto de Beethoven en la Tonhalle de Zúrich, construido con arcos y texto sin serifa sobre una retícula, ejemplo del estilo suizo.[1][2]",
+    "more": "Müller-Brockmann lo diseñó en 1955 para un concierto de la Tonhalle-Gesellschaft de Zúrich: su cuarto concierto extra, el 22 de febrero de 1955, con el violinista Wolfgang Schneiderhan y el director Carl Schuricht.[1] El cartel es una litografía, firmada por Müller-Brockmann e impresa por Lithographie & Cartonnage AG, Zúrich, y lleva el nombre de Beethoven en lugar destacado.[1] En vez de una imagen usa una composición abstracta de arcos, tipografía sin serifa y una retícula estructurada, una forma de dar a la música, un arte abstracto, un paralelo visual.[2]",
+    "status": "Se conservan ejemplares en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "Cooper Hewitt, Smithsonian Design Museum, «Beethoven» (poster, 1955)",
+     "url": "https://collection.cooperhewitt.org/objects/2318803418",
+     "checks": "Fecha 1955, Müller-Brockmann, litografía sobre papel de 127,6 × 91 cm; concierto de la Tonhalle-Gesellschaft (4.º concierto extra), 22 de febrero de 1955, Schneiderhan y Schuricht; impresión de Lithographie & Cartonnage AG, Zúrich.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "People’s Graphic Design Archive, «Beethoven poster for the Zurich Town Hall»",
+     "url": "https://peoplesgdarchive.org/item/5754/beethoven-poster-for-the-zurich-town-hall",
+     "checks": "Arcos, retícula y tipografía sin serifa; estrategia abstracta que busca una «musicalidad» visual, estilo suizo. ⚠ archivo colaborativo; no corrobora «emblema» del cartel suizo.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "man-golden-arm-1955",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "film-titles",
+   "title": "The Man with the Golden Arm titles",
+   "designers": [
+    "saul-bass"
+   ],
+   "client": "Otto Preminger",
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Animated paper cut-outs on film; poster print",
+   "tech": [],
+   "key": "Saul Bass’s jagged-arm title sequence and poster for Otto Preminger’s 1955 film, which helped establish the film title as a design form.[1][2]",
+   "more": "For Preminger’s 1955 adaptation of Nelson Algren’s novel about drug addiction, Bass designed a poster and an animated title sequence around a distorted, disjointed arm.[1][2] Bass said the jagged form expressed the disjointed, jarring experience of the addict.[3][4] The sequence uses cut paper: white bars move against a black background before forming the arm.[1][4] Elmer Bernstein’s score was written at the same time, and Bass designed to its beat.[1][3] Preminger had the sequence shown only after the curtains opened fully, and it helped establish title design as a creative discipline.[1]",
+   "status": "The film and its titles survive and are widely shown.",
+   "es": {
+    "title": "Títulos de El hombre del brazo de oro",
+    "date": "1955",
+    "materials": "Recortes de papel animados en película; cartel impreso",
+    "key": "La secuencia de títulos y el cartel de brazo quebrado de Saul Bass para la película de Otto Preminger de 1955, que ayudó a establecer el título de crédito como forma de diseño.[1][2]",
+    "more": "Para la adaptación de Preminger, de 1955, de la novela de Nelson Algren sobre la drogadicción, Bass diseñó un cartel y una secuencia animada de títulos en torno a un brazo distorsionado y desarticulado.[1][2] Bass dijo que la forma quebrada expresaba la experiencia desarticulada y violenta del adicto.[3][4] La secuencia usa papel recortado: barras blancas se mueven sobre fondo negro antes de formar el brazo.[1][4] La música de Elmer Bernstein se compuso al mismo tiempo y Bass diseñó siguiendo su pulso.[1][3] Preminger hizo que se proyectara solo con las cortinas totalmente abiertas, y ayudó a establecer el diseño de títulos como disciplina creativa.[1]",
+    "status": "La película y sus títulos se conservan y se exhiben ampliamente.",
+    "short": "Títulos Brazo de oro"
+   },
+   "refs": [
+    {
+     "label": "Art of the Title, «The Man with the Golden Arm»",
+     "url": "https://www.artofthetitle.com/title/the-man-with-the-golden-arm/",
+     "checks": "Bass, 1955, Preminger sobre la novela de Algren; brazo distorsionado; barras blancas animadas sobre negro; música simultánea de Elmer Bernstein; Preminger exigió proyectarla con las cortinas abiertas; ayudó a establecer el diseño de títulos. ⚠ medio especializado.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «Saul Bass. Poster for the film The Man with the Golden Arm directed by Otto Preminger. 1955»",
+     "url": "https://www.moma.org/collection/works/5665",
+     "checks": "Cartel de Bass para el film de Preminger, 1955, litografía de 102,4 × 68,5 cm, donación de Otto Preminger Productions.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «Album cover for The Man with the Golden Arm. 1955»",
+     "url": "https://www.moma.org/collection/works/185648",
+     "checks": "Cita de Bass sobre la distorsión y desarticulación de la vida del adicto; trabajo simultáneo con Bernstein, que le dio el pulso.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "BFI, «Celebrating Saul Bass’s centenary: 10 essential title sequences»",
+     "url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+     "checks": "Brazo quebrado que expresa la experiencia desarticulada del adicto; técnica de papel recortado; influencia en el título animado como símbolo del tema del film.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Golden Arm titles"
+  },
+  {
+   "id": "optima-1958",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Optima",
+   "designers": [
+    "hermann-zapf"
+   ],
+   "maker": "D. Stempel AG",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Metal type; later phototype and digital fonts",
+   "tech": [],
+   "key": "Hermann Zapf’s humanist sans-serif with flared strokes, issued by Stempel in 1958.",
+   "more": "Zapf designed it in the first half of the 1950s and the Stempel foundry in Frankfurt issued it in 1958. Its strokes swell slightly toward the ends, like those of a roman letter, so it joins the clarity of a sans-serif with the modulation of classical forms.",
+   "status": "Still in use in digital versions.",
+   "es": {
+    "title": "Optima",
+    "date": "1958",
+    "materials": "Tipo de metal; luego fotocomposición y fuentes digitales",
+    "key": "La sans serif humanista de Hermann Zapf, de trazos que se ensanchan hacia los extremos, publicada por Stempel en 1958.",
+    "more": "Zapf la diseñó en la primera mitad de los años cincuenta y la fundición Stempel de Fráncfort la publicó en 1958. Sus trazos se ensanchan levemente hacia los extremos, como los de una letra romana, y así une la claridad de una sans serif con la modulación de las formas clásicas.",
+    "status": "Sigue en uso en versiones digitales."
+   },
+   "refs": []
+  },
+  {
+   "id": "peace-symbol-1958",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "symbol",
+   "title": "Peace symbol",
+   "designers": [
+    "gerald-holtom"
+   ],
+   "client": "Direct Action Committee Against Nuclear War",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Hand-drawn; first used on placards and banners",
+   "tech": [],
+   "key": "Gerald Holtom’s circle symbol for the 1958 British march against nuclear weapons, later the world’s emblem of peace.",
+   "more": "Holtom drew it in 1958 for the Aldermaston march against nuclear weapons, organised by the Direct Action Committee. It combines the semaphore letters N and D, for nuclear disarmament, inside a circle. Easy to draw by hand, it spread to the anti-war and youth movements of the 1960s.",
+   "status": "Public-domain emblem in constant use.",
+   "es": {
+    "title": "Símbolo de la paz",
+    "date": "1958",
+    "materials": "Dibujado a mano; usado primero en pancartas y estandartes",
+    "key": "El símbolo circular de Gerald Holtom para la marcha británica de 1958 contra las armas nucleares, luego emblema mundial de la paz.",
+    "more": "Holtom lo dibujó en 1958 para la marcha de Aldermaston contra las armas nucleares, organizada por el Comité de Acción Directa. Combina las letras N y D del semáforo, por desarme nuclear, dentro de un círculo. Fácil de dibujar a mano, pasó a los movimientos antiguerra y juveniles de los años sesenta.",
+    "status": "Emblema de uso libre y constante."
+   },
+   "refs": []
+  },
+  {
+   "id": "giselle-poster-1959",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Giselle poster",
+   "designers": [
+    "armin-hofmann"
+   ],
+   "client": "Stadttheater Basel",
+   "year": 1959,
+   "date": "1959",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "Armin Hofmann’s poster for the ballet Giselle in Basel, in which a reduced dancer’s form and large letters play off figure and ground.",
+   "more": "Hofmann, who taught at the Basel school of design, made it as a theatre poster in which the image is cut down to a few strong shapes and the lettering is part of the composition. The relation between the dark form and the empty ground, the contrast of positive and negative shape, is what made it one of the most cited works of the Basel school. It is often shown in courses as a model of how a poster can be built from form and counterform alone.",
+   "status": "Original prints survive in museum collections; the image is widely reproduced.",
+   "es": {
+    "date": "1959",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de Armin Hofmann para el ballet Giselle en Basilea, donde una forma reducida de bailarina y letras grandes juegan con figura y fondo.",
+    "more": "Hofmann, que enseñaba en la escuela de diseño de Basilea, lo hizo como cartel de teatro en el que la imagen se reduce a unas pocas formas fuertes y la letra forma parte de la composición. La relación entre la forma oscura y el fondo vacío, el contraste de forma positiva y negativa, lo convirtió en una de las obras más citadas de la escuela de Basilea. Se muestra a menudo en los cursos como modelo de cómo un cartel puede construirse solo con forma y contraforma.",
+    "status": "Se conservan ejemplares originales en colecciones de museos; la imagen se reproduce ampliamente.",
+    "title": "Cartel Giselle"
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "basel-school-typography"
+    ],
+    "institutions": [],
+    "designers": [
+     "armin-hofmann"
+    ],
+    "works": []
+   },
+   "movements": [
+    "basel-school-typography"
+   ]
+  },
+  {
+   "id": "wozzeck-poster-1964",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "Wozzeck poster",
+   "designers": [
+    "jan-lenica"
+   ],
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "PL"
+   ],
+   "materials": "Lithograph on paper",
+   "tech": [],
+   "key": "Jan Lenica’s poster for Alban Berg’s opera Wozzeck, a work of the Polish poster school in which the image is the author’s own interpretation.",
+   "more": "Lenica was one of the leading figures of the Polish poster school, which turned cultural posters for theatre, opera and film into a space for personal interpretation instead of advertising. In this poster he does not illustrate the opera scene by scene but offers his own distorted, expressive image of its tormented soldier. It belongs to the late phase of his poster work, made as he spent more time abroad.",
+   "status": "Prints are held in museum collections; the image is widely reproduced.",
+   "es": {
+    "date": "1964",
+    "materials": "Litografía sobre papel",
+    "key": "El cartel de Jan Lenica para la ópera Wozzeck de Alban Berg, obra de la escuela polaca del cartel en que la imagen es la interpretación propia del autor.",
+    "more": "Lenica fue una de las figuras principales de la escuela polaca del cartel, que convirtió los carteles culturales de teatro, ópera y cine en un espacio de interpretación personal y no de publicidad. En este cartel no ilustra la ópera escena por escena, sino que ofrece su propia imagen deformada y expresiva del atormentado soldado. Pertenece a la etapa tardía de su obra de carteles, hecha cuando pasaba más tiempo en el extranjero.",
+    "status": "Se conservan ejemplares en colecciones de museos; la imagen se reproduce ampliamente.",
+    "title": "Cartel Wozzeck"
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "polish-poster-school"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "movements": [
+    "polish-poster-school"
+   ]
+  },
+  {
+   "id": "sgt-pepper-cover-1967",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "album-cover",
+   "title": "Sgt. Pepper's Lonely Hearts Club Band cover",
+   "designers": [
+    "peter-blake",
+    "jann-haworth"
+   ],
+   "client": "EMI (Parlophone)",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Photograph of cardboard cut-outs, wax figures and flowers, printed on card sleeve",
+   "tech": [],
+   "key": "The Beatles’ 1967 album sleeve by Peter Blake and Jann Haworth, a crowded collage of cut-outs of famous people around the band in colourful uniforms.[1][2]",
+   "more": "The sleeve was released in 1967 by Parlophone/EMI, designed by Blake and Haworth and photographed by Michael Cooper.[1][2] It is a photo-collage of life-size cut-outs and figures from Madame Tussauds, with a real floral display in the foreground.[1][2] The V&A calls the album the first concept album and notes that the sleeve carried printed lyrics and a cardboard insert of cut-outs.[1] It sold 250,000 copies in Britain in the week after release.[1] Eye magazine calls the image possibly the best known printed image to emerge from rock.[2]",
+   "status": "Reissued many times; the cover is among the best known images of the 1960s.",
+   "es": {
+    "date": "1967",
+    "materials": "Fotografía de recortes de cartón, figuras de cera y flores, impresa en funda de cartulina",
+    "key": "La carátula del álbum de los Beatles de 1967 por Peter Blake y Jann Haworth, un collage abarrotado de recortes de personajes famosos alrededor de la banda con uniformes de colores.[1][2]",
+    "more": "La funda fue publicada en 1967 por Parlophone/EMI, diseñada por Blake y Haworth y fotografiada por Michael Cooper.[1][2] Es un fotocollage de recortes de tamaño natural y figuras de Madame Tussauds, con un arreglo floral real al frente.[1][2] El V&A considera el álbum el primer álbum conceptual y señala que la funda llevaba las letras impresas y un inserto de cartón con recortes.[1] Vendió 250.000 copias en Gran Bretaña la semana siguiente a su publicación.[1] La revista Eye lo califica como quizá la imagen impresa más conocida surgida del rock.[2]",
+    "status": "Reeditada muchas veces; la portada es una de las imágenes más conocidas de los años sesenta.",
+    "title": "Carátula de Sgt. Pepper",
+    "short": "Carátula Sgt. Pepper"
+   },
+   "refs": [
+    {
+     "label": "V&A, «Sgt. Pepper’s Lonely Hearts Club record sleeve, Sir Peter Blake» (O22955)",
+     "url": "https://collections.vam.ac.uk/item/O22955/sgt-peppers-lonely-hearts-club-record-sleeve-sir-peter-blake",
+     "checks": "Publicada en 1967 por Parlophone/EMI; Blake y Haworth, fotografía de Michael Cooper; recortes de tamaño natural y figuras de Madame Tussauds, arreglo floral; litografía offset; primer álbum conceptual; letras impresas e inserto de cartón; 250.000 copias en la primera semana. ⚠ no precisa «junio» ni que las letras fueran al reverso.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Eye magazine, «The celebrated Mr B» (primavera 2000)",
+     "url": "https://eyemagazine.com/feature/article/the-celebrated-mr-b",
+     "checks": "Creada por Blake con Jann Haworth; Michael Cooper fotografió; figuras de cera de Madame Tussauds, recortes, nombre en jacintos; «quizá la imagen impresa más conocida del rock». ⚠ lectura vía resumen automático.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "pop-design"
+   ],
+   "short": "Sgt. Pepper cover"
+  },
+  {
+   "id": "recycling-symbol-1970",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "symbol",
+   "title": "Recycling symbol",
+   "designers": [],
+   "client": "Container Corporation of America",
+   "year": 1970,
+   "date": "1970",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Vector symbol in one colour, for printing and for stamping on products",
+   "tech": [],
+   "key": "The three-arrow loop designed by student Gary Anderson in 1970, which became the universal sign for recycling.",
+   "more": "Anderson, then a student at the University of Southern California, won a contest held by the Container Corporation of America for the first Earth Day in 1970. His symbol of three folded arrows chasing one another in a triangle was easy to print on any package, in one colour and at any size. It was never tied to one company and spread to products and bins around the world.",
+   "status": "Still in use worldwide; the symbol is not protected as a trademark.",
+   "es": {
+    "date": "1970",
+    "materials": "Símbolo vectorial en un solo color, para imprimir y estampar en productos",
+    "key": "El bucle de tres flechas que el estudiante Gary Anderson diseñó en 1970 y que se volvió el signo universal del reciclaje.",
+    "more": "Anderson, entonces estudiante de la Universidad del Sur de California, ganó un concurso de la Container Corporation of America para el primer Día de la Tierra, en 1970. Su símbolo de tres flechas dobladas que se persiguen en un triángulo era fácil de imprimir en cualquier envase, en un solo color y a cualquier tamaño. Nunca quedó ligado a una empresa y se difundió por productos y contenedores de todo el mundo.",
+    "status": "Sigue en uso en todo el mundo; el símbolo no está protegido como marca.",
+    "title": "Símbolo de reciclaje"
+   },
+   "refs": [],
+   "maker": "Gary Anderson"
+  },
+  {
+   "id": "quimantu-minilibros-1972",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "book",
+   "title": "Quimantú Minilibros",
+   "designers": [],
+   "maker": "Editorial Nacional Quimantú",
+   "year": 1972,
+   "date": "c. 1972",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Offset printing on paper, pocket format with colour covers",
+   "tech": [],
+   "key": "A series of cheap pocket books published by the state publisher Quimantú in Chile under the Unidad Popular government.",
+   "more": "Quimantú was the state publishing house created in Chile in 1971, and the Minilibros were among its mass series, sold at a low price in a small format to reach new readers. Their covers were printed in bold, flat colour, which kept costs down and gave the series a recognisable look. The series ended when the publisher was intervened after the coup of September 1973.",
+   "status": "Copies survive in libraries and private collections; some titles have been reissued.",
+   "es": {
+    "date": "c. 1972",
+    "materials": "Impresión offset sobre papel, formato de bolsillo con portadas a color",
+    "key": "Una serie de libros de bolsillo baratos publicada por la editorial estatal Quimantú en Chile durante el gobierno de la Unidad Popular.",
+    "more": "Quimantú fue la editorial estatal creada en Chile en 1971, y los Minilibros fueron una de sus series masivas, vendida a bajo precio y en formato pequeño para llegar a nuevos lectores. Sus portadas se imprimían en colores planos y llamativos, lo que abarataba costos y daba a la serie un aspecto reconocible. La serie terminó cuando la editorial fue intervenida tras el golpe de septiembre de 1973.",
+    "status": "Se conservan ejemplares en bibliotecas y colecciones privadas; algunos títulos se han reeditado.",
+    "title": "Minilibros de Quimantú"
+   },
+   "refs": []
+  },
+  {
+   "id": "dot-symbol-signs-1974",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "symbol-set",
+   "title": "DOT passenger and pedestrian symbols",
+   "designers": [],
+   "maker": "AIGA (Cook and Shanosky Associates)",
+   "client": "US Department of Transportation",
+   "year": 1974,
+   "date": "1974",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Pictographic symbols for signs, in one colour",
+   "tech": [],
+   "key": "A set of 34 standard pictograms for transport buildings and public places, made by AIGA for the US Department of Transportation.",
+   "more": "The US Department of Transportation asked the design association AIGA for a common set of symbols for airports and other transport terminals, and the first 34 appeared in 1974. The designers, Roger Cook and Don Shanosky, drew on earlier pictogram systems, among them those of the Olympic Games. The symbols were released for free use and spread well beyond transport, so that many of them are now familiar in most countries.",
+   "status": "In wide use; the symbols are in the public domain.",
+   "es": {
+    "date": "1974",
+    "materials": "Símbolos pictográficos para señales, en un solo color",
+    "key": "Un conjunto de 34 pictogramas normalizados para edificios de transporte y lugares públicos, hecho por AIGA para el Departamento de Transporte de EE. UU.",
+    "more": "El Departamento de Transporte de EE. UU. encargó a la asociación de diseño AIGA un conjunto común de símbolos para aeropuertos y otras terminales, y los primeros 34 aparecieron en 1974. Los diseñadores, Roger Cook y Don Shanosky, se apoyaron en sistemas anteriores de pictogramas, entre ellos los de los Juegos Olímpicos. Los símbolos se liberaron para uso gratuito y se difundieron mucho más allá del transporte, de modo que hoy muchos resultan familiares en la mayoría de los países.",
+    "status": "De uso muy extendido; los símbolos son de dominio público.",
+    "title": "Símbolos DOT",
+    "short": "Símbolos DOT"
+   },
+   "refs": [],
+   "short": "DOT symbols"
+  },
+  {
+   "id": "festival-britain-emblem-1951",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "logo",
+   "title": "Festival of Britain emblem",
+   "designers": [
+    "abram-games"
+   ],
+   "maker": null,
+   "year": 1951,
+   "date": "1951",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Printed graphics",
+   "tech": [],
+   "movements": [],
+   "key": "Abram Games’s emblem for the 1951 Festival of Britain: a head of Britannia on a compass rose, with a festive banner of colours.",
+   "more": "Games won the competition to design the Festival’s emblem, and it appeared on posters, publications and signs for the 1951 events. It combines a classical figure with the compass rose, the sign of direction, in a simple and optimistic image of postwar Britain. The emblem set the visual tone of the Festival, which was meant to show a country looking forward.",
+   "status": "The emblem survives in prints, publications and archives.",
+   "es": {
+    "title": "Emblema del Festival de Gran Bretaña",
+    "date": "1951",
+    "materials": "Gráfica impresa",
+    "key": "El emblema de Abram Games para el Festival de Gran Bretaña de 1951: una cabeza de Britannia sobre una rosa de los vientos, con banderines de colores.",
+    "more": "Games ganó el concurso para diseñar el emblema del Festival, y este apareció en carteles, publicaciones y señales de los eventos de 1951. Combina una figura clásica con la rosa de los vientos, signo de orientación, en una imagen simple y optimista de la Gran Bretaña de posguerra. El emblema fijó el tono visual del Festival, que quería mostrar un país que mira hacia adelante.",
+    "status": "El emblema se conserva en impresos, publicaciones y archivos.",
+    "short": "Festival Britania"
+   },
+   "refs": [],
+   "short": "Festival of Britain"
+  },
+  {
+   "id": "fillmore-posters-1966",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "poster",
+   "title": "San Francisco psychedelic concert posters",
+   "designers": [],
+   "maker": "Wes Wilson, Victor Moscoso, Bonnie MacLean and others (Fillmore and Avalon Ballroom)",
+   "year": 1966,
+   "date": "1966–1968",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Offset lithography on paper",
+   "tech": [],
+   "movements": [
+    "pop-design"
+   ],
+   "key": "Concert posters for the Fillmore and Avalon ballrooms in San Francisco, with swollen, interlocking lettering and clashing colours.",
+   "more": "Artists such as Wes Wilson, Victor Moscoso and Bonnie MacLean made weekly posters for rock concerts in the mid-1960s. Wilson’s letters melt into one another and Moscoso used strongly contrasting colours that seem to vibrate, so the poster had to be deciphered rather than read at a glance. They broke with the clear, orderly layouts of Swiss graphic design and became a model for psychedelic graphics.",
+   "status": "Many posters are held in museum and library collections.",
+   "es": {
+    "title": "Carteles psicodélicos de conciertos de San Francisco",
+    "date": "1966–1968",
+    "materials": "Litografía offset sobre papel",
+    "key": "Carteles de conciertos para los salones Fillmore y Avalon de San Francisco, con letras hinchadas y entrelazadas y colores que chocan.",
+    "more": "Artistas como Wes Wilson, Victor Moscoso y Bonnie MacLean hicieron carteles semanales para conciertos de rock a mediados de los años sesenta. Las letras de Wilson se funden unas con otras y Moscoso usó colores muy contrastados que parecen vibrar, de modo que el cartel había que descifrarlo y no leerlo de un vistazo. Rompieron con las composiciones claras y ordenadas del diseño gráfico suizo y fueron un modelo de la gráfica psicodélica.",
+    "status": "Muchos carteles se conservan en colecciones de museos y bibliotecas.",
+    "short": "Carteles psicodélicos"
+   },
+   "refs": [],
+   "short": "Psychedelic posters"
+  },
+  {
+   "id": "black-panther-graphics-1967",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "print",
+   "title": "The Black Panther newspaper graphics",
+   "designers": [
+    "emory-douglas"
+   ],
+   "maker": "Black Panther Party",
+   "year": 1967,
+   "date": "1967–1980",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Newsprint",
+   "tech": [],
+   "movements": [],
+   "key": "Emory Douglas’s high-contrast illustrations and layouts for the newspaper of the Black Panther Party, sold widely from 1967.",
+   "more": "Douglas drew bold, simple images in strong black and white, often with a single flat colour, which suited cheap newsprint and could be read quickly in the street. The newspaper took them to a large readership and also to posters pinned up in public. The images turned the Party’s demands into direct, easily copied graphics.",
+   "status": "The newspaper and its illustrations survive in archives and collections.",
+   "es": {
+    "title": "Gráfica del periódico The Black Panther",
+    "date": "1967–1980",
+    "materials": "Papel de prensa",
+    "key": "Las ilustraciones y diagramaciones de alto contraste de Emory Douglas para el periódico del Partido Pantera Negra, de amplia circulación desde 1967.",
+    "more": "Douglas dibujó imágenes audaces y simples, en un blanco y negro fuerte y a menudo con un solo color plano, que convenían al papel de prensa barato y se leían rápido en la calle. El periódico las llevó a un público amplio y también a carteles pegados en espacios públicos. Las imágenes convirtieron las demandas del Partido en una gráfica directa y fácil de copiar.",
+    "status": "El periódico y sus ilustraciones se conservan en archivos y colecciones.",
+    "short": "Gráfica Black Panther"
+   },
+   "refs": [],
+   "short": "Black Panther graphics"
+  },
+  {
+   "id": "avant-garde-lubalin-1968",
+   "level": "normal",
+   "discipline": "graphic",
+   "type": "typeface",
+   "title": "Avant Garde magazine and ITC Avant Garde Gothic",
+   "designers": [
+    "herb-lubalin"
+   ],
+   "maker": "Avant Garde (Ralph Ginzburg); ITC",
+   "year": 1968,
+   "date": "1968–1970",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Photocomposed type; magazine print",
+   "tech": [],
+   "movements": [
+    "new-york-school-graphic"
+   ],
+   "key": "Herb Lubalin’s logo for Ralph Ginzburg’s Avant Garde magazine, developed with Tom Carnase into the typeface ITC Avant Garde Gothic.",
+   "more": "The magazine’s logo, from 1968, drew geometric letters joined by ligatures, with letters touching and sharing strokes. Lubalin and Carnase expanded it into a full alphabet, released by the International Typeface Corporation in 1970. Such tight spacing and ligatures were far easier with photocomposition than with metal type, and the face became a typical voice of the period’s expressive typography.",
+   "status": "The magazine ended after a few years; the typeface is still sold in digital form.",
+   "es": {
+    "title": "Revista Avant Garde y tipografía ITC Avant Garde Gothic",
+    "date": "1968–1970",
+    "materials": "Tipografía fotocompuesta; impresión de revista",
+    "key": "El logotipo de Herb Lubalin para la revista Avant Garde de Ralph Ginzburg, desarrollado con Tom Carnase hasta la tipografía ITC Avant Garde Gothic.",
+    "more": "El logotipo de la revista, de 1968, dibujaba letras geométricas unidas por ligaduras, con letras que se tocan y comparten trazos. Lubalin y Carnase lo ampliaron a un alfabeto completo, que la International Typeface Corporation lanzó en 1970. Ese espaciado ajustado y esas ligaduras eran mucho más fáciles con la fotocomposición que con tipos de metal, y la tipografía se volvió una voz típica de la tipografía expresiva de la época.",
+    "status": "La revista terminó a los pocos años; la tipografía se sigue vendiendo en formato digital.",
+    "short": "Avant Garde"
+   },
+   "refs": [],
+   "short": "Avant Garde"
+  }
+ ]
+}

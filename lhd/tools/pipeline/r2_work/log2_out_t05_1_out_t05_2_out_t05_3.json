@@ -1,0 +1,210 @@
+[
+ [
+  "unikko-print",
+  "ok",
+  [
+   "Corregí «used for dresses and later for household textiles»: Marimekko dice que Unikko se usó primero en cortinas, manteles, sofás y revestimientos, y en ropa solo 36 años después.",
+   "La oposición de Ratia a lo floral se atribuye a Marimekko y se reformula (creía fútil representar flores silvestres); no se confirmó que Isola lo hiciera «como respuesta».",
+   "Quité «printed in large, flat shapes on cotton», «screen-printed cotton» como hecho no confirmado (la fuente habla de pintado a mano del original) y la frase sobre el país de prosperidad creciente; materials queda sin tocar.",
+   "«Best-known image» pasa a atribución a Marimekko (fuente de la empresa); falta fuente independiente."
+  ]
+ ],
+ [
+  "ysl-le-smoking",
+  "ok",
+  [
+   "Quité «tailored jacket with satin lapels worn with trousers and a shirt»: ninguna fuente lo confirma para el modelo de 1966 (el V&A, ejemplar posterior, tiene cuello de terciopelo). materials («lana, ribetes de satén») queda sin tocar: parece dudoso para 1966.",
+   "«Met with caution» corregido: el Musée YSL dice que la clientela de alta costura lo rechazó (una sola pieza vendida) y el Met habla de escándalo.",
+   "«One of its signature pieces» se reemplaza por hechos: reaparece en cada colección hasta 2002 (Musée YSL)."
+  ]
+ ],
+ [
+  "atelier-populaire-posters",
+  "ok",
+  [
+   "Quité «pasted on walls and handed to demonstrators»: las fuentes dicen que se distribuían gratis y que su lugar era la calle y los muros de fábricas; no confirman que se entregaran a manifestantes.",
+   "Quité «blunt slogans and strong, simple images» como cita directa; queda «letras directas» (Letterform). Quité «made quickly»: se sostiene solo la eficiencia de la serigrafía.",
+   "materials («casi siempre a un color») queda sin tocar: Letterform dice «típicamente un color»."
+  ]
+ ],
+ [
+  "munich72-pictograms",
+  "ok",
+  [
+   "Quité «using only vertical, horizontal and 45-degree lines»: las fuentes solo confirman retícula y figuras a 45 grados.",
+   "Quité «blues and greens» como paleta exclusiva (el Smithsonian cita azul, verde, plata, naranja y amarillo y el sitio de Aicher habla de siete colores más blanco) y «cheerful».",
+   "Univers: lo da el sitio oficial de Aicher, pero el Smithsonian dice Helvetica Bold; conviene confirmarlo en el manual de 1972. Quité además «reference for later Olympic identities»: solo se sostiene la influencia en señalética (DOT 1974).",
+   "status dice que los manuales originales se conservan en archivos: no confirmado en las fuentes consultadas; no se toca."
+  ]
+ ],
+ [
+  "monumento-continuo",
+  "ok",
+  [
+   "Quité «ironic critique of modern architecture» y «a rational architecture carried to its limit, imposing a uniform model»: el MoMA lo lee como orden racional benigno sobre la naturaleza y Domus como metáfora de destrucción del objeto arquitectónico; la lectura crítica queda sin fuente (no consta en las fuentes consultadas).",
+   "Quité «gridded surface», «replacing every other building», «from deserts to cities», «made as photomontages» y «florentine group showed a monolithic block»: no confirmados; MoMA describe dibujos con papel impreso pegado. materials («Fotomontaje y collage») queda sin tocar.",
+   "Quité «one of the best-known images of Radical architecture» (también de la key): ninguna fuente consultada lo dice.",
+   "Domus fecha la obra 1969-70; MoMA, 1969: se mantiene 1969. Falta fuente para «never built», dicho solo en status (no tocado)."
+  ]
+ ],
+ [
+  "mexico68-identity",
+  "ok",
+  [
+   "Quité «posters» y «a single coherent graphic language» como afirmación directa: ninguna fuente confirma los carteles; la unidad se atribuye a SEGD como «sistema visual integrado».",
+   "Quité «close to … Mexican Huichol patterns»: las fuentes solo dicen que artistas huicholes colaboraron en estudios de color; el op art se matiza (raíz op art, Responsive Eye 1965).",
+   "Quité «the logo joins the rings with 68 in repeated parallel lines» como descripción propia y la reformulé según Walker (geometría de línea única de los aros).",
+   "Quité tickets/pictograms «sport»: SEGD solo dice pictogramas en general."
+  ]
+ ],
+ [
+  "ciudad-abierta-1970",
+  "ok",
+  [
+   "Quité «teachers and students … began it»: las fuentes dicen que se fundó bajo la escuela de la UCV, no quién la inició materialmente.",
+   "Quité «buildings are made on site by the community itself, in a continuing work» y «no final plan» como afirmación propia: Ventana en Blanco solo dice «no hay planos»; la construcción comunitaria y la continuidad no están confirmadas (status no tocado).",
+   "«A particular Chilean case of architecture bound to poetry and place» queda reemplazado por el vínculo con la poesía que sí dicen las fuentes."
+  ]
+ ],
+ [
+  "cybersyn-opsroom",
+  "ok",
+  [
+   "Quité «nationalised firms» y la mención de CORFO/INTEC como cliente y fabricante: ninguna fuente consultada los confirma (los campos maker/client no se tocaron; revisar).",
+   "Quité «so that officials could read the data at a glance and discuss it seated»: no confirmado; solo se mantiene lo de las sillas con botones y pantallas.",
+   "Suavicé «advised on it» a «principal architect» según la fuente. «El gobierno de Allende» en key sin fuente directa de Santiago/Allende más allá del contexto del proyecto.",
+   "status «photographs and drawings survive»: solo se confirmó destrucción de la sala; fotografías sin fuente directa consultada (theglassroom.org las menciona pero no se registró). El campo year 1972 coincide con 1972–73 de la fuente; materials sin tocar (fibra de vidrio según MIT: sillones de fibra de vidrio)."
+  ]
+ ],
+ [
+  "sydney-opera-house-1973",
+  "ok",
+  [
+   "Quité «first drawn freely and then reworked»: las fuentes dicen solo que la solución final fue esférica, no el proceso previo.",
+   "Corregí «won the competition in 1957»: Britannica da concurso de 1956 y fallo en enero de 1957; se escribió «judged in January 1957». El campo date «1957–1973» se mantiene.",
+   "Quité «Its form influenced later sculptural civic buildings»: ninguna fuente lo sostiene tal cual (UNESCO solo habla de «enduring influence on architecture»).",
+   "Quité «others finished the interiors»: Britannica dice que otros arquitectos continuaron y completaron la obra; se ajustó. Status «sigue en uso» confirmado solo por UNESCO como centro activo; materials sin tocar (UNESCO: azulejos cerámicos, base de granito; «cáscaras de hormigón» OK)."
+  ]
+ ],
+ [
+  "dvf-wrap-dress-1974",
+  "ok",
+  [
+   "Quité «launched in 1974 in New York», «comfortable», «put on alone», «day to evening», «moderate price» y «sold in the hundreds of thousands»: ninguna fuente fiable consultada lo confirma (solo blogs/tiendas en las búsquedas). El año 1974 se apoya solo en el cincuentenario de 2024 (Skirball); campos year/date no tocados.",
+   "Quité «symbol of the working woman»: las fuentes hablan de libertad y empoderamiento; lo reformulé así.",
+   "El campo materials «Printed jersey» no está confirmado (el Met cataloga un ejemplar en algodón/rayón); sin tocar. Status «La marca DVF lo sigue fabricando» sin fuente (no registrada).",
+   "Faltan fuentes sólidas sobre el lanzamiento y las ventas; conviene una segunda pasada (p. ej. Britannica completa, que no se pudo abrir)."
+  ]
+ ],
+ [
+  "westwood-punk-1976",
+  "ok",
+  [
+   "Quité «rips», «torn and safety-pinned tops», «taking fetish and work clothes out of their context», «young people around the shop» y «spread the punk look beyond music»: no confirmados por las fuentes (el V&A solo menciona alfileres de gancho como motivo gráfico de camisetas).",
+   "Reemplacé «in 1976 was called Seditionaries after earlier names including SEX»: las fuentes dan SEX 1974 y Seditionaries 1976 (el nombre previo Let It Rock/Too Fast to Live no se cita por no estar en el texto original).",
+   "Status «piezas originales en museos» sustentado por V&A y Met; «la marca de Westwood reedita algunos diseños» solo respaldado por el Met en forma de «aún en producción»; sin tocar el campo. materials de la ficha incluye caucho y muselina: no confirmados (V&A: algodón, lana, metal, cuero); sin tocar.",
+   "El título ES está en inglés («Westwood and McLaren punk clothes») en la ficha: parece un error de traducción, no lo toqué."
+  ]
+ ],
+ [
+  "arpilleras-1974",
+  "ok",
+  [
+   "Quité «from c. 1974» y «desde 1976 muchas trabajaron en talleres»: las fuentes dan «poco después del golpe» y «hacia 1975» para los primeros talleres, y 1976 solo como inicio de la Vicaría; el campo date «c. 1974–1990» quedó sin tocar (los años 1974 y 1990 no están confirmados).",
+   "Quité «lost their jobs» como origen y «hambre»: reemplazado por temas que las fuentes sí citan. «Embroidered»: el Museo de la Memoria distingue la técnica de aplicación del bordado tradicional; Crafts Council habla de piezas bordadas; mantuve «aplicados» solo.",
+   "Status («se conservan en museos y archivos; la técnica sigue practicándose») sin fuente consultada; sin tocar. materials dice «bordados sobre arpillera»: sin tocar. Smarthistory fecha las arpilleras en los años 1980, lo que contradice al Museo de la Memoria; se descartó por no ser fuente confiable en esa fecha."
+  ]
+ ],
+ [
+  "i-love-ny-1977",
+  "ok",
+  [
+   "Quité «1977» del texto (queda en year/date sin tocar): la fuente dice solo «fines de los setenta».",
+   "Quité «sin cobrar», «American Typewriter… suena a habla cotidiana», «el corazón hace de verbo» y «la crisis financiera»: no confirmados. «Sigue usándolo el estado» e «imitado sin fin» sin fuente.",
+   "Solo una fuente: se agotó el límite de uso antes de abrir MoMA y el 9/11 Memorial; conviene una segunda pasada."
+  ]
+ ],
+ [
+  "sony-walkman-1979",
+  "ok",
+  [
+   "Corregí «sold across the world under the Walkman name»: según el V&A se vendió con otros nombres (Soundabout, Stowaway, Freestyle) y Walkman se fijó como nombre único en abril de 1980.",
+   "Quité «sold with light headphones» y «headphone socket» como dato propio: ninguna fuente lo confirma tal cual; solo la segunda salida.",
+   "Suavicé «made listening to your own music in the street an everyday habit» a «nueva tendencia», como dice el V&A.",
+   "Reemplacé «founders Ibuka and Morita developed it» por lo que dicen las fuentes: Ibuka lo pidió y Morita convenció al directorio.",
+   "Campo `maker` y `designers` sin tocar; fuentes mencionan al ingeniero Nobutoshi Kihara en sitios no académicos (no verificado)."
+  ]
+ ],
+ [
+  "armani-american-gigolo-1980",
+  "ok",
+  [
+   "Quité «removing most of its lining and padding»: las fuentes hablan de quitar entretelas rígidas y estructura, no de forro y relleno; lo reformulé.",
+   "Quité «The jacket became the model of the executive suit and of a designer’s name as a brand»: ninguna fuente lo confirma.",
+   "No toqué `materials` («soft wool…») ni `status` («the cut remains a basis…»): no confirmados por las fuentes consultadas; pendientes de verificar.",
+   "«Made known to a wide American public» queda sostenido por la fuente del FIT (consolidó su presencia en EE. UU.); el V&A no habla de público."
+  ]
+ ],
+ [
+  "mtv-logo-1981",
+  "ok",
+  [
+   "Quité «redrawn on air in many colours, patterns and textures» y «a frame that content could fill»: las fuentes dicen solo que el logotipo no tendría colores fijos y podría hacerse de cualquier material; el uso al aire no se confirma.",
+   "Quité «with creative director Fred Seibert» como coautor: fue quien encargó y decidió, no diseñó; ahora figura como cliente.",
+   "La autoría de la M es contradictoria (Rogoff según Seibert, Gorman según Typeroom): no se atribuye.",
+   "No toqué `status` («has remained the channel’s mark»): no confirmado."
+  ]
+ ],
+ [
+  "xerox-star-interface-1981",
+  "ok",
+  [
+   "Quité «printers» de los íconos: ninguna fuente lo confirma; puse las categorías que sí cita la fuente.",
+   "Quité «announced in 1981» como «nació de la investigación sobre computadores personales»: lo reemplacé por el prototipo Alto en PARC (1972).",
+   "Precisé que se «vendió poco» principalmente por su precio, según los autores.",
+   "No toqué `status` (equipos en museos y emulaciones): no confirmado (DigiBarn documenta equipos Star, pero no se verificó el estado actual); `designers` está vacío: el artículo de Byte 1982 de Smith, Irby, Kimball, Verplank y Harslem y Norm Cox (DigiBarn) podrían atribuirse, pendiente."
+  ]
+ ],
+ [
+  "carlton-bookcase-1981",
+  "ok",
+  [
+   "Quité «presented in September of that year»: ninguna fuente consultada da el mes.",
+   "Quité «Memphis, the Milan group he led» y «Sottsass led it»: no confirmado (solo «Memphis Milano»).",
+   "Quité «branch out at angles from a central stem» y «covered in patterned laminate»: reemplazado por lo que dicen las fuentes (repisas inclinadas, cinco niveles, triángulos).",
+   "Quité «one of the best-known images of Memphis» y «rejected the sober look of functionalist furniture» como atribución propia: ahora es lo que dice el museo (cuestionó la funcionalidad).",
+   "`materials` («wood covered in plastic laminate») sin tocar: las fuentes difieren (MDF según el Met, chapa de madera según el MAD); `status` («still made by Memphis Milano») no confirmado; el ejemplar está en el Met y en el MAD (préstamo)."
+  ]
+ ],
+ [
+  "paris-debut-1981",
+  "ok",
+  [
+   "Quité «who already ran successful labels in Tokyo»: ninguna fuente lo confirma.",
+   "Quité «changed the taste of European fashion in the following decade»: suavizado a «otros diseñadores siguieron sus provocaciones» (TIME, solo sobre Kawakubo).",
+   "Los agujeros «deliberados» solo constan en las prendas posteriores de Comme des Garçons (V&A), no en el debut de 1981; no se confirma lo mismo para Yamamoto, cuya obra solo la menciona el NGV (negro, holgado, asimétrico).",
+   "No toqué `status` (ambos siguieron en París): no confirmado. `materials` («wool and cotton…») tampoco confirmado para 1981 (el Met lo documenta para 1982-83)."
+  ]
+ ],
+ [
+  "portland-building-1982",
+  "ok",
+  [
+   "Quité «giant keystones», «colossal keystone» y «pastel colours»: no confirmados; las fuentes discrepan en la paleta (verde y crema vs marrones y azules apagados), por eso dejé «muted» solo en la clave sin marca de color.",
+   "Corregí «competition of 1980»: PCAD da diciembre 1979 a enero 1980 (Metropolis dice 1979).",
+   "Corregí «Portlandia over the entrance»: es una estatua de cobre instalada en 1985, no de 1982; su ubicación exacta no se verificó.",
+   "Quité «widely read as a break with the plain glass box of Modernist office buildings»: ninguna fuente lo dice así.",
+   "`status` («still the home of city offices») sin tocar: PCAD lo confirma en general, pero hubo una renovación hasta 2020 (Metropolis dice que seguía vacío por la pandemia al publicarse); conviene actualizarlo. `materials` («concrete frame, painted stucco, glass»): Metropolis habla de hormigón pintado y ahora revestimiento de aluminio."
+  ]
+ ],
+ [
+  "swatch-1983",
+  "ok",
+  [
+   "Quité «developed by engineers at SMH»: Mock y Müller trabajaban en ETA según la tradición, pero las fuentes consultadas solo los llaman ingenieros; no se afirma su empleador. Por «Mock and Müller among its creators» dejé «bosquejo fundacional».",
+   "Quité «Its low cost let the Swiss industry answer cheap Asian quartz watches»: lo reemplacé por el contexto de crisis y la fusión en SMH que dicen las fuentes.",
+   "Cifra de piezas discrepante entre fuentes (91 vs 100 convencionales); se usó 51 vs 91.",
+   "No toqué `status` («still sold today»), `materials` ni `maker`: no verificados en esta ronda."
+  ]
+ ]
+]

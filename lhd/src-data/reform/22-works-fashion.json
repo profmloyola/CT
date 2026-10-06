@@ -1,0 +1,557 @@
+{
+ "works": [
+  {
+   "id": "strawberry-thief",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Strawberry Thief",
+   "designers": [
+    "william-morris"
+   ],
+   "maker": "Morris & Co.",
+   "client": null,
+   "year": 1883,
+   "date": "1883",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Cotton, indigo-discharge block printing",
+   "tech": [],
+   "key": "William Morris’s printed cotton of thrushes stealing strawberries, one of his best-known designs.[1]",
+   "more": "Morris designed it in 1883 for Morris & Co., and it was printed at the Merton Abbey works; in May 1883 he wrote that he was anxiously superintending the first printing.[1] It is indigo-discharged and block-printed cotton: the cloth is dipped in an indigo vat and blocks coated with a solvent then remove the colour where the pattern goes.[1][2] It was the first design in this technique to add red (alizarin) and yellow (weld) to the blue and white ground, and it was among the most expensive printed furnishings Morris & Co. offered.[1] According to the V&A the thrushes come from birds that stole the strawberries in the kitchen garden of his country home, Kelmscott Manor.[1]",
+   "status": "Original printed lengths survive in museums; the pattern is still reproduced as fabric and wallpaper.",
+   "es": {
+    "title": "El ladrón de fresas",
+    "date": "1883",
+    "materials": "Algodón, estampado a mano con bloques por descarga de índigo",
+    "key": "El algodón estampado de William Morris con tordos que roban fresas, uno de sus diseños más conocidos.[1]",
+    "more": "Morris lo diseñó en 1883 para Morris & Co., y se estampó en los talleres de Merton Abbey; en mayo de 1883 escribió que supervisaba con ansiedad la primera impresión.[1] Es algodón estampado con bloques por descarga de índigo: la tela se sumerge en una tina de índigo y luego unos bloques con solvente quitan el color donde va el dibujo.[1][2] Fue el primer diseño en esta técnica que sumó rojo (alizarina) y amarillo (gualda) al fondo azul y blanco, y fue uno de los estampados para tapicería más caros que ofrecía Morris & Co.[1] Según el V&A, los tordos vienen de las aves que robaban las fresas del huerto de su casa de campo, Kelmscott Manor.[1]",
+    "status": "Se conservan paños originales en museos; el diseño se sigue reproduciendo en tela y papel mural."
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Strawberry Thief» (furnishing fabric, Morris & Co.)",
+     "url": "https://collections.vam.ac.uk/item/O78889",
+     "checks": "Diseño de 1883 de Morris, producido 1883–1919 en Merton Abbey; «indigo-discharged and block-printed cotton»; carta de mayo de 1883 sobre la primera impresión; primer diseño con rojo y amarillo sobre fondo azul y blanco; de los estampados más caros de Morris & Co.; tordos del huerto de Kelmscott Manor. ⚠ no confirma que el estampado fuera a mano.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Victoria and Albert Museum, «Strawberry Thief» (bloque de estampación)",
+     "url": "https://collections.vam.ac.uk/item/O362274/",
+     "checks": "Diseño de 1883; proceso de descarga de índigo: tela teñida en tina y bloques con solvente que retiran el color; bloque tallado en peral. ⚠ bloque posterior hecho para Stead & McAlpin.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "fortuny-delphos",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Delphos dress",
+   "designers": [
+    "mariano-fortuny"
+   ],
+   "maker": null,
+   "client": null,
+   "year": 1907,
+   "date": "1907",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Finely pleated silk, glass beads",
+   "tech": [],
+   "key": "Mariano Fortuny’s long, pleated silk tunic, worn without a corset and named after the ancient Charioteer of Delphi.[1][2]",
+   "more": "Fortuny, a Spanish artist working in Venice, made the Delphos from pleated silk with glass beads, and the V&A says the line was produced in Venice from 1907.[1][2] The name comes from the bronze Charioteer of Delphi, whose tunic inspired it.[1][2] Fortuny filed a patent for the pleating process in 1909, which acknowledged Adèle Henriette Nigrin as inventor of the method.[2] The Met describes the gown as uncorseted, and the V&A, which updated its records in 2021, credits Nigrin as principal designer, possibly with Fortuny.[1][2]",
+   "status": "Many examples survive in museum collections; the pleated silk is the model for later pleated dresses.",
+   "es": {
+    "title": "Vestido Delphos",
+    "date": "1907",
+    "materials": "Seda finamente plisada, cuentas de vidrio",
+    "key": "La larga túnica de seda plisada de Mariano Fortuny, que se usaba sin corsé y lleva el nombre del antiguo Auriga de Delfos.[1][2]",
+    "more": "Fortuny, artista español que trabajaba en Venecia, hizo el Delphos en seda plisada con cuentas de vidrio, y el V&A indica que la línea se produjo en Venecia desde 1907.[1][2] El nombre viene del Auriga de Delfos, la estatua de bronce cuya túnica lo inspiró.[1][2] Fortuny solicitó en 1909 una patente del proceso de plisado, que reconocía a Adèle Henriette Nigrin como inventora del método.[2] El Met lo describe como un vestido sin corsé, y el V&A, que actualizó sus registros en 2021, atribuye a Nigrin el diseño principal, posiblemente con Fortuny.[1][2]",
+    "status": "Se conservan muchos ejemplares en colecciones de museos; la seda plisada es el modelo de vestidos plisados posteriores."
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Delphos», dress (O15558)",
+     "url": "https://collections.vam.ac.uk/item/O15558/delphos-delphos-dress-fortuny-mariano",
+     "checks": "Línea Delphos producida en Venecia desde 1907; seda plisada con cuentas de vidrio de Venecia; plisado patentado en 1909; nombre por el Auriga de Delfos; no requería ropa interior restrictiva; en octubre de 2021 el V&A acreditó a Henriette Nigrin como diseñadora principal, posiblemente con Fortuny.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Conserving the Delphos Gown»",
+     "url": "https://www.metmuseum.org/essays/costume-institute-conservation-delphos-fortuny-gown-pleats",
+     "checks": "Fortuny español (1871–1949) en Venecia; patente de 1909 que reconoce a Adèle Nigrin como inventora del método; seda y cuentas de vidrio; vestido sin corsé; inspirado en el Auriga de Delfos. ⚠ el Met data la introducción en 1909, el V&A la producción desde 1907.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "worth-haute-couture",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "collection",
+   "title": "Worth haute couture",
+   "designers": [
+    "charles-frederick-worth"
+   ],
+   "maker": "House of Worth",
+   "client": null,
+   "year": 1858,
+   "date": "1858",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Silk, lace and other luxury fabrics made to measure",
+   "tech": [],
+   "key": "The Paris house that Charles Frederick Worth, born in England, founded in 1858, where designs were shown on live models and garments carried a woven label with his name.[1][2]",
+   "more": "Worth, born in England in 1825, moved to Paris in 1845 and founded his own house in 1858,[1] at 7 rue de la Paix.[3] A variety of designs were shown on live models, and clients chose and had garments made to measure.[1] His garments carried woven labels with his name, which established brand identity.[1] The patronage of the Empress Eugénie raised his reputation.[1][2] Garments with the Worth label are in museum collections such as the V&A’s.[2]",
+   "status": "The house continued into the twentieth century; garments with the Worth label are in many museums.",
+   "es": {
+    "title": "Alta costura de Worth",
+    "date": "1858",
+    "materials": "Seda, encaje y otras telas de lujo, hechas a medida",
+    "key": "La casa parisina que Charles Frederick Worth, nacido en Inglaterra, fundó en 1858, donde se mostraban diseños en modelos vivas y las prendas llevaban una etiqueta tejida con su nombre.[1][2]",
+    "more": "Worth, nacido en Inglaterra en 1825, se trasladó a París en 1845 y fundó su propia casa en 1858,[1] en el n.º 7 de la rue de la Paix.[3] Se mostraba una variedad de diseños en modelos vivas, y las clientas elegían y mandaban hacer las prendas a su medida.[1] Sus prendas llevaban etiquetas tejidas con su nombre, que establecieron una identidad de marca.[1] El patrocinio de la emperatriz Eugenia elevó su reputación.[1][2] Hay prendas con la etiqueta Worth en colecciones de museos como la del V&A.[2]",
+    "status": "La casa siguió activa hasta bien entrado el siglo XX; hay prendas con la etiqueta Worth en muchos museos."
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, «Charles Frederick Worth (1825–1895) and the House of Worth»",
+     "url": "https://www.metmuseum.org/toah/hd/wrth/hd_wrth.htm",
+     "checks": "Nacido en Inglaterra en 1825; a París en 1845; negocio propio en 1858; diseños mostrados en modelos vivas, clientas eligen y encargan a medida; etiquetas tejidas con su nombre; patrocinio de la emperatriz Eugenia.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Victoria and Albert Museum, «Tea gown, Worth, Paris (c. 1900)»",
+     "url": "https://collections.vam.ac.uk/item/O16780",
+     "checks": "Worth nacido en Inglaterra, casa fundada en 1858; ascenso por el patrocinio de Eugenia; prenda con etiqueta «Worth Paris» en la colección. ⚠ es un vestido de c. 1900 de Jean-Philippe Worth.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Palais Galliera / Petit Palais, «Worth. Inventing Haute Couture»",
+     "url": "https://www.palaisgalliera.paris.fr/en/exhibitions/worth-inventing-haute-couture",
+     "checks": "Worth, nacido en Inglaterra, fundó su casa en el 7 rue de la Paix; estableció prácticas fundacionales de la alta costura.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "poiret-high-waist",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Poiret’s high-waisted line",
+   "short": "Poiret high waist",
+   "designers": [
+    "paul-poiret"
+   ],
+   "maker": "House of Poiret",
+   "client": null,
+   "year": 1908,
+   "date": "1908",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Light silks and other soft fabrics",
+   "tech": [],
+   "key": "Paul Poiret’s dresses of the years around 1908, with a high waist and a straight fall of cloth, designed to need less restrictive undergarments.[1][2][3]",
+   "more": "Poiret worked for Doucet and Worth and opened his own house in Paris in 1903.[1] By 1907 he had helped revive the Empire style, and the Met dates such high-waisted, column-shaped dresses with less restrictive undergarments to his work of 1908–1911.[2][4] He is often said to have abolished the corset around 1908, but FIT’s reading of 1906 fashion plates shows Paquin and Panem already showing loose Empire and Directoire lines.[3] Poiret himself later put it as «I freed the bust, and I shackled the legs».[2]",
+   "status": "Dresses of the period are held in museum collections.",
+   "es": {
+    "title": "Línea de talle alto de Poiret",
+    "short": "Talle alto de Poiret",
+    "date": "1908",
+    "materials": "Sedas livianas y otras telas blandas",
+    "key": "Los vestidos de Paul Poiret de los años en torno a 1908, con talle alto y caída recta de la tela, pensados para necesitar ropa interior menos restrictiva.[1][2][3]",
+    "more": "Poiret trabajó para Doucet y para Worth y abrió su propia casa en París en 1903.[1] Hacia 1907 había ayudado a revivir el estilo Imperio, y el Met data en 1908–1911 sus vestidos columnares de talle alto con ropa interior menos restrictiva.[2][4] Suele decirse que abolió el corsé hacia 1908, pero la lectura que hace FIT de los figurines de 1906 muestra que Paquin y Panem ya presentaban líneas Imperio y Directorio sueltas.[3] El propio Poiret lo resumió después así: «Liberé el busto y encadené las piernas».[2]",
+    "status": "Hay vestidos de la época en colecciones de museos."
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «Paul Poiret (1879–1944)»",
+     "url": "https://www.metmuseum.org/toah/hd/poir/hd_poir.htm",
+     "checks": "Trabajó para Jacques Doucet y Worth y fundó su propia casa en 1903; inspiración en el quitón griego; formas cilíndricas. ⚠ afirma que eliminó el corsé hacia 1906, lo que FIT discute.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Paul Poiret»",
+     "url": "https://www.britannica.com/EBchecked/topic/466443",
+     "checks": "Tienda propia en París en 1903; hacia 1907 ayudó a revivir el estilo Imperio; cita «liberé el busto, encadené las piernas». ⚠ no nombra a Doucet; resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "FIT, Material Mode, «The Myth of Poiret as Debunked by 1906»",
+     "url": "https://blog.fitnyc.edu/materialmode/2015/07/09/the-myth-of-poiret-as-debunked-by-1906/",
+     "checks": "Se le atribuye abolir el corsé hacia 1908; figurines de 1906 de Paquin y Panem con líneas Imperio y Directorio sueltas; Poiret aún en silueta con corsé en S en 1906. ⚠ blog de universidad, secundario.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Evening dress» (2009.300.1289)",
+     "url": "https://www.metmuseum.org/art/collection/search/155987",
+     "checks": "Vestido de 1910 de talle alto, silueta columnar, ropa interior menos restrictiva; diseños de 1908–1911. ⚠ el vestido concreto es de 1910.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "bloomer-costume",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Bloomer costume",
+   "designers": [],
+   "maker": "Elizabeth Smith Miller; promoted by Amelia Bloomer",
+   "client": null,
+   "year": 1851,
+   "date": "1851",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Wool or cotton cloth",
+   "tech": [],
+   "key": "The outfit of loose trousers worn under a short skirt that American women’s rights campaigners adopted in 1851 for freedom of movement.",
+   "more": "Elizabeth Smith Miller first wore the outfit in 1851 and Amelia Bloomer, who edited the temperance and women’s paper The Lily, publicised it widely, so that it took her name. It put full trousers gathered at the ankle under a skirt that fell to about the knee, in place of long, heavy skirts and petticoats. The press mocked it and many women gave it up after a few years, but it was a first public argument for dress that let women move.",
+   "status": "Only a few original garments survive; it is remembered through prints and cartoons of the time.",
+   "es": {
+    "title": "Traje Bloomer",
+    "date": "1851",
+    "materials": "Tela de lana o algodón",
+    "key": "El conjunto de pantalones sueltos bajo una falda corta que las defensoras de los derechos de la mujer en Estados Unidos adoptaron en 1851 para tener libertad de movimiento.",
+    "more": "Elizabeth Smith Miller lo usó por primera vez en 1851 y Amelia Bloomer, que dirigía el periódico de la templanza y de las mujeres The Lily, lo difundió ampliamente, de modo que tomó su nombre. Ponía pantalones amplios recogidos en el tobillo bajo una falda que llegaba más o menos a la rodilla, en lugar de las faldas y enaguas largas y pesadas. La prensa se burló y muchas mujeres lo dejaron a los pocos años, pero fue un primer argumento público a favor de un vestido que dejara moverse a las mujeres.",
+    "status": "Solo sobreviven unas pocas prendas originales; se le recuerda por grabados y caricaturas de la época."
+   },
+   "refs": []
+  },
+  {
+   "id": "butterick-patterns",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "pattern",
+   "title": "Butterick paper patterns",
+   "short": "Butterick patterns",
+   "designers": [],
+   "maker": "Ebenezer Butterick",
+   "client": null,
+   "year": 1863,
+   "date": "1863",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Tissue paper, printed",
+   "tech": [
+    "paper-patterns",
+    "sewing-machine"
+   ],
+   "key": "The tissue-paper dress patterns in graded sizes that Ebenezer Butterick began selling in 1863, so that clothes could be cut at home from a standard pattern.",
+   "more": "Butterick, a tailor in Sterling, Massachusetts, began in 1863 with patterns for boys’ shirts, cut in tissue paper in several sizes and sold in folded packets. His wife Ellen is said to have helped him develop the idea. The business grew with the home sewing machine, which made sewing at home quicker, and it moved to New York in the following years. In 1873 the firm began the fashion magazine The Delineator, which showed the models the patterns were cut for.",
+   "status": "The Butterick company still sells sewing patterns.",
+   "es": {
+    "title": "Patrones de papel Butterick",
+    "short": "Patrones Butterick",
+    "date": "1863",
+    "materials": "Papel de seda impreso",
+    "key": "Los patrones de vestidos en papel de seda y tallas graduadas que Ebenezer Butterick empezó a vender en 1863, para cortar la ropa en casa con un molde estándar.",
+    "more": "Butterick, un sastre de Sterling, Massachusetts, empezó en 1863 con patrones de camisas de niño, cortados en papel de seda en varias tallas y vendidos en paquetes doblados. Se dice que su esposa Ellen lo ayudó a desarrollar la idea. El negocio creció con la máquina de coser doméstica, que hizo más rápida la costura en casa, y en los años siguientes se trasladó a Nueva York. En 1873 la empresa empezó la revista de moda The Delineator, que mostraba los modelos para los que se cortaban los patrones.",
+    "status": "La empresa Butterick sigue vendiendo patrones de costura."
+   },
+   "refs": []
+  },
+  {
+   "id": "levis-riveted-jeans",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Levi Strauss riveted jeans",
+   "short": "Levi’s riveted jeans",
+   "designers": [],
+   "maker": "Levi Strauss & Co.; Jacob Davis",
+   "client": null,
+   "year": 1873,
+   "date": "1873",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cotton denim, copper rivets",
+   "tech": [],
+   "key": "The work trousers with metal rivets at the stress points that tailor Jacob Davis and the dry-goods merchant Levi Strauss patented in 1873.",
+   "more": "Jacob Davis, a tailor in Reno, Nevada, put copper rivets at the corners of pockets and the base of the fly, where work trousers tore, and asked his supplier of cloth, Levi Strauss of San Francisco, to join him in a patent. It was granted on 20 May 1873 and the trousers were made for miners, workers and others in hard-wearing denim. They became the ancestor of blue jeans.",
+   "status": "Levi Strauss & Co. still makes jeans; early pairs are held in company and museum collections.",
+   "es": {
+    "title": "Pantalón con remaches de Levi Strauss",
+    "short": "Pantalón con remaches",
+    "date": "1873",
+    "materials": "Mezclilla de algodón, remaches de cobre",
+    "key": "El pantalón de trabajo con remaches metálicos en los puntos de tensión que el sastre Jacob Davis y el comerciante Levi Strauss patentaron en 1873.",
+    "more": "Jacob Davis, sastre de Reno, Nevada, puso remaches de cobre en las esquinas de los bolsillos y en la base de la bragueta, donde se rompían los pantalones de trabajo, y pidió a su proveedor de telas, Levi Strauss de San Francisco, que se uniera a él para una patente. Se concedió el 20 de mayo de 1873 y los pantalones se hicieron para mineros, obreros y otros en mezclilla resistente. Fueron el antepasado de los jeans.",
+    "status": "Levi Strauss & Co. sigue fabricando jeans; hay pares antiguos en colecciones de la empresa y de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "liberty-artistic-dress",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Liberty artistic dress",
+   "designers": [],
+   "maker": "Liberty & Co.",
+   "client": null,
+   "year": 1884,
+   "date": "1884",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Soft silks and printed cottons",
+   "tech": [],
+   "key": "The loose, softly draped dresses in light fabrics that Liberty & Co. began to sell in London in 1884 for followers of the aesthetic style.",
+   "more": "Arthur Lasenby Liberty had opened his London shop in 1875 selling fabrics and goods from Japan and the East, and in 1884 his firm opened a costume department. It sold dresses with a loose cut and soft, hanging fabrics instead of stiff, tightly fitted ones, for women of the artistic and dress-reform circles. The architect E. W. Godwin is linked with the department, and the firm’s dyed and printed fabrics gave the dresses their colours.",
+   "status": "Dresses with the Liberty label are held in museums, including the V&A.",
+   "es": {
+    "title": "Vestido artístico de Liberty",
+    "date": "1884",
+    "materials": "Sedas suaves y algodones estampados",
+    "key": "Los vestidos sueltos y de caída blanda, en telas livianas, que Liberty & Co. empezó a vender en Londres en 1884 para los seguidores del estilo estético.",
+    "more": "Arthur Lasenby Liberty había abierto su tienda de Londres en 1875 con telas y objetos de Japón y Oriente, y en 1884 su empresa abrió un departamento de trajes. Vendía vestidos de corte suelto y telas blandas y colgantes en lugar de rígidas y ceñidas, para las mujeres de los círculos artísticos y de la reforma del vestido. Al arquitecto E. W. Godwin se le asocia con el departamento, y las telas teñidas y estampadas de la casa daban color a los vestidos.",
+    "status": "Hay vestidos con la etiqueta Liberty en museos, entre ellos el V&A.",
+    "short": "Vestido Liberty"
+   },
+   "refs": [],
+   "short": "Liberty dress"
+  },
+  {
+   "id": "crinoline-cage-1856",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Cage crinoline",
+   "designers": [],
+   "maker": "Crinoline manufacturers",
+   "client": null,
+   "year": 1856,
+   "date": "c. 1856",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR"
+   ],
+   "materials": "Spring-steel hoops, cotton tape",
+   "tech": [],
+   "key": "The petticoat frame of steel hoops that, from the mid-1850s, gave skirts their wide bell shape without layers of heavy petticoats.",
+   "more": "Light, flexible steel hoops held together by tape replaced the many layers of petticoats that had held skirts out, so the wide skirt became lighter and cheaper. It spread through Britain and France in the late 1850s and 1860s, reaching women of many classes. It is the emblematic silhouette of the Second Empire, and the fashion for it faded in the later 1860s.",
+   "status": "Surviving examples are kept in museum costume collections.",
+   "es": {
+    "title": "Crinolina de aros de acero",
+    "date": "c. 1856",
+    "materials": "Aros de acero flexible, cinta de algodón",
+    "key": "La armazón de aros de acero que, desde mediados de la década de 1850, dio a las faldas su forma de campana sin capas de pesadas enaguas.",
+    "more": "Los aros de acero ligeros y flexibles, unidos por cintas, reemplazaron las muchas capas de enaguas que sostenían las faldas, de modo que la falda amplia se volvió más liviana y barata. Se difundió por Gran Bretaña y Francia a fines de la década de 1850 y en la de 1860, y llegó a mujeres de muchas clases. Es la silueta emblemática del Segundo Imperio, y su moda decayó hacia fines de los años sesenta.",
+    "status": "Se conservan ejemplares en las colecciones de trajes de museos.",
+    "short": "Crinolina de aros"
+   },
+   "refs": [],
+   "short": "Cage crinoline"
+  },
+  {
+   "id": "perkin-mauve-1856",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dye",
+   "title": "Perkin's mauve",
+   "designers": [
+    "william-henry-perkin"
+   ],
+   "maker": "Perkin & Sons",
+   "client": null,
+   "year": 1856,
+   "date": "1856",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Aniline dye from coal tar, on silk",
+   "tech": [],
+   "key": "The first commercially successful synthetic dye, a purple discovered by the eighteen-year-old William Perkin in 1856.",
+   "more": "Perkin found it in 1856 while trying to make quinine from coal-tar chemicals, patented it, and set up a dye works near London with his family. Mauve was cheap and strong, and by around 1858 it was the fashionable colour in Britain and France. It opened the way for the synthetic dye industry.",
+   "status": "Samples of the dye and dyed cloth are kept in museum and university collections.",
+   "es": {
+    "title": "Malva de Perkin",
+    "date": "1856",
+    "materials": "Colorante de anilina derivado del alquitrán de hulla, sobre seda",
+    "key": "El primer colorante sintético de éxito comercial, un púrpura descubierto por William Perkin, de dieciocho años, en 1856.",
+    "more": "Perkin lo halló en 1856 mientras intentaba obtener quinina a partir de derivados del alquitrán de hulla, lo patentó y montó con su familia una fábrica de tintes cerca de Londres. El malva era barato e intenso y hacia 1858 era el color de moda en Gran Bretaña y Francia. Abrió el camino a la industria de los colorantes sintéticos.",
+    "status": "Se conservan muestras del colorante y de telas teñidas en colecciones de museos y universidades."
+   },
+   "refs": []
+  },
+  {
+   "id": "vuitton-flat-trunk-1858",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "trunk",
+   "title": "Louis Vuitton flat-topped trunk",
+   "designers": [
+    "louis-vuitton"
+   ],
+   "maker": "Louis Vuitton",
+   "client": null,
+   "year": 1858,
+   "date": "1858",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Waterproof coated canvas over a wooden frame, metal fittings",
+   "tech": [],
+   "key": "Louis Vuitton’s flat-topped trunk of coated canvas, light, waterproof and stackable in the luggage vans of trains and steamships.",
+   "more": "Vuitton, who opened his Paris workshop in 1854, replaced the domed trunk with one with a flat lid, so that it could be stacked in trains and ships. He covered it in light, waterproof canvas. Imitation of his trunks later led the firm to mark them with the Damier pattern (1888) and the monogram (1896).",
+   "status": "Original trunks survive in museums and in the firm’s collection; Louis Vuitton still makes trunks.",
+   "es": {
+    "title": "Baúl plano de Louis Vuitton",
+    "date": "1858",
+    "materials": "Lona recubierta impermeable sobre armazón de madera, herrajes metálicos",
+    "key": "El baúl de tapa plana de Louis Vuitton, de lona recubierta, liviano, impermeable y apilable en los vagones de equipaje de trenes y vapores.",
+    "more": "Vuitton, que abrió su taller en París en 1854, reemplazó el baúl de tapa abovedada por uno de tapa plana, que podía apilarse en trenes y barcos. Lo cubrió con una lona liviana e impermeable. La imitación de sus baúles llevó después a la casa a marcarlos con el diseño Damier (1888) y el monograma (1896).",
+    "status": "Se conservan baúles originales en museos y en la colección de la casa; Louis Vuitton sigue fabricando baúles.",
+    "short": "Baúl plano Vuitton"
+   },
+   "refs": [],
+   "short": "Vuitton flat trunk"
+  },
+  {
+   "id": "jaeger-woollen-system-1884",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Jaeger Sanitary Woollen System",
+   "designers": [],
+   "maker": "Dr. Jaeger’s Sanitary Woollen System Co.",
+   "client": null,
+   "year": 1884,
+   "date": "1884",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "DE"
+   ],
+   "materials": "Knitted wool",
+   "tech": [],
+   "key": "The all-wool clothing sold in London from 1884, based on the German professor Gustav Jäger’s idea that animal fibres were healthier than cotton or linen.",
+   "more": "Gustav Jäger, a German professor of zoology, argued that clothing should be made of wool against the skin, and the English businessman Lewis Tomalin took up the idea. In 1884 he opened a London shop selling underwear and other clothing under the name Dr. Jaeger’s Sanitary Woollen System. The firm turned a medical theory into a successful fashion brand, and the name Jaeger lasted into the twenty-first century.",
+   "status": "Original garments survive in museum costume collections.",
+   "es": {
+    "title": "Sistema de lana higiénica Jaeger",
+    "date": "1884",
+    "materials": "Lana tejida",
+    "key": "La ropa de pura lana vendida en Londres desde 1884, basada en la idea del profesor alemán Gustav Jäger de que las fibras animales eran más sanas que el algodón o el lino.",
+    "more": "Gustav Jäger, profesor alemán de zoología, sostenía que la ropa junto a la piel debía ser de lana, y el empresario inglés Lewis Tomalin retomó la idea. En 1884 abrió en Londres una tienda de ropa interior y otras prendas bajo el nombre Dr. Jaeger’s Sanitary Woollen System. La empresa convirtió una teoría médica en una marca de moda exitosa, y el nombre Jaeger llegó hasta el siglo XXI.",
+    "status": "Se conservan prendas originales en las colecciones de trajes de museos.",
+    "short": "Sistema Jaeger"
+   },
+   "refs": [],
+   "short": "Jaeger system"
+  },
+  {
+   "id": "shirtwaist-blouse-1895",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "blouse",
+   "title": "Shirtwaist blouse",
+   "designers": [],
+   "maker": "Ready-to-wear blouse makers, USA",
+   "client": null,
+   "year": 1895,
+   "date": "c. 1895",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "materials": "Washable cotton and linen",
+   "tech": [],
+   "key": "The tailored blouse worn with a skirt, washable and affordable, which became the everyday dress of office workers and cyclists in the 1890s.",
+   "more": "The shirtwaist was a blouse cut like a man’s shirt, usually worn with a separate skirt. Cotton and linen versions could be washed, bought ready-made or sewn at home from paper patterns. It was worn from the 1890s by the growing number of women clerks and by cyclists, and its makers employed thousands of women in the garment factories of New York.",
+   "status": "Surviving blouses are held in museum costume collections.",
+   "es": {
+    "title": "Blusa «shirtwaist»",
+    "date": "c. 1895",
+    "materials": "Algodón y lino lavables",
+    "key": "La blusa de corte camisero que se llevaba con falda, lavable y accesible, y que fue el traje diario de oficinistas y ciclistas en la década de 1890.",
+    "more": "La shirtwaist era una blusa cortada como camisa de hombre, que se usaba por lo general con una falda aparte. Las versiones de algodón y lino se podían lavar, comprar hechas o coser en casa con patrones de papel. La usaron desde la década de 1890 las oficinistas, cada vez más numerosas, y las ciclistas, y su fabricación dio empleo a miles de mujeres en los talleres de confección de Nueva York.",
+    "status": "Se conservan blusas en las colecciones de trajes de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "floge-reform-dress-1904",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "shop",
+   "title": "Schwestern Flöge salon",
+   "designers": [
+    "emilie-floge"
+   ],
+   "maker": "Schwestern Flöge",
+   "client": null,
+   "year": 1904,
+   "date": "1904",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Interior fittings, textiles and garments",
+   "tech": [],
+   "key": "The Vienna fashion house opened in 1904 by Emilie Flöge and her sisters, with interiors by Josef Hoffmann and Koloman Moser, which sold reform dress in the spirit of the Secession.",
+   "more": "Emilie Flöge ran the salon with her sisters Pauline and Helene, and its interior was designed by Josef Hoffmann and Koloman Moser. It sold loose dresses without a corset, close to Dress Reform and to the Vienna Secession circle of her friend Gustav Klimt. The salon treated clothing as part of one designed environment, and it closed in 1938.",
+   "status": "The salon closed in 1938 and its interior is lost; it is known from period photographs.",
+   "es": {
+    "title": "Salón Schwestern Flöge",
+    "date": "1904",
+    "materials": "Interiores, textiles y prendas",
+    "key": "La casa de modas vienesa abierta en 1904 por Emilie Flöge y sus hermanas, con interiores de Josef Hoffmann y Koloman Moser, que vendía vestido reformado en el espíritu de la Secesión.",
+    "more": "Emilie Flöge dirigió el salón con sus hermanas Pauline y Helene, y su interior lo diseñaron Josef Hoffmann y Koloman Moser. Vendía vestidos holgados, sin corsé, cercanos al vestido reformado y al círculo de la Secesión vienesa de su amigo Gustav Klimt. El salón trató la ropa como parte de un entorno diseñado como un todo, y cerró en 1938.",
+    "status": "El salón cerró en 1938 y su interior se perdió; se conoce por fotografías de la época."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+[
+ {
+  "rtype": "work",
+  "id": "weingart-posters-1977",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "poster",
+  "title": "Posters by Wolfgang Weingart",
+  "designers": [
+   "wolfgang-weingart"
+  ],
+  "movements": [
+   "new-wave-typography"
+  ],
+  "maker": "Kunstgewerbeschule Basel",
+  "year": 1977,
+  "date": "c. 1977–1985",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "materials": "Offset lithography on paper; layered photographic film and halftone screens",
+  "tech": [],
+  "key": "Wolfgang Weingart's posters of the late 1970s and early 1980s, in which layered film, visible halftone screens and broken, spaced type loosened the Swiss style.",
+  "more": "Weingart taught typography at the Kunstgewerbeschule Basel, the home of the Swiss style, and used his posters to test what that style left out. He built them by stacking and exposing pieces of film together, so that halftone dots, overlaps, bars and arrows stayed visible, and he spaced and tilted lines of type freely. The result, later grouped as New Wave typography, kept Swiss training but dropped its neutral, orderly look.",
+  "status": "Examples survive in museum collections and design archives.",
+  "es": {
+   "title": "Carteles de Wolfgang Weingart",
+   "date": "c. 1977–1985",
+   "materials": "Litografía offset sobre papel; capas de película fotográfica y tramas",
+   "key": "Los carteles de Wolfgang Weingart de fines de los años setenta y comienzos de los ochenta, en los que capas de película, tramas a la vista y una tipografía quebrada y espaciada soltaron el estilo suizo.",
+   "more": "Weingart enseñó tipografía en la Kunstgewerbeschule de Basilea, cuna del estilo suizo, y usó sus carteles para probar lo que ese estilo dejaba fuera. Los armaba apilando y exponiendo juntos trozos de película, de modo que las tramas, las superposiciones, las barras y las flechas quedaban a la vista, y espaciaba e inclinaba las líneas de texto con libertad. El resultado, agrupado después como tipografía de la Nueva Ola, conservó la formación suiza pero abandonó su aspecto neutro y ordenado.",
+   "status": "Se conservan ejemplares en colecciones de museos y archivos de diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "unknown-pleasures-1979",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "cover",
+  "title": "Unknown Pleasures (Joy Division)",
+  "designers": [
+   "peter-saville"
+  ],
+  "maker": "Factory Records",
+  "year": 1979,
+  "date": "1979",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "materials": "Printed card sleeve, white line image on black",
+  "tech": [],
+  "key": "Peter Saville's sleeve for Joy Division's first album, a field of white lines taken from the radio signal of a pulsar on a black ground, with almost no text.",
+  "more": "Joy Division's first album came out on Factory Records, a Manchester independent label, in 1979. The image is a plot of the successive pulses of the pulsar CP 1919, which the band suggested; Saville set it in white on black and kept the sleeve almost free of lettering. It looked nothing like the loud graphics of punk or of mainstream record covers, and it became one of the best-known images in pop design.",
+  "status": "The album is still in print, and the image is widely reproduced.",
+  "es": {
+   "title": "Unknown Pleasures (Joy Division)",
+   "date": "1979",
+   "materials": "Funda de cartón impresa, imagen de líneas blancas sobre negro",
+   "key": "La funda de Peter Saville para el primer disco de Joy Division, un campo de líneas blancas tomado de la señal de radio de un púlsar sobre fondo negro, casi sin texto.",
+   "more": "El primer disco de Joy Division salió en 1979 en Factory Records, un sello independiente de Mánchester. La imagen es un gráfico de los pulsos sucesivos del púlsar CP 1919, que propuso el propio grupo; Saville la puso en blanco sobre negro y dejó la funda casi sin letras. No se parecía en nada a los gráficos estridentes del punk ni a las portadas comerciales, y se volvió una de las imágenes más conocidas del diseño pop.",
+   "status": "El disco sigue editándose y la imagen se reproduce ampliamente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "pac-man-1980",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "interface",
+  "title": "Pac-Man",
+  "designers": [
+   "toru-iwatani"
+  ],
+  "maker": "Namco",
+  "year": 1980,
+  "date": "1980",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "materials": "Arcade cabinet with colour raster screen; pixel graphics",
+  "tech": [],
+  "key": "Toru Iwatani's arcade game for Namco, whose round yellow character, ghosts and maze made a video game readable and appealing to a wide public.",
+  "more": "Namco released it in Japan in 1980, and it was then sold abroad under the name Pac-Man. Iwatani designed a game without shooting, built around eating dots in a maze while avoiding four ghosts, each drawn in its own colour and behaving differently. The character, drawn as a simple circle with a missing wedge, gave a video game a recognisable face and turned it into a figure that could be sold on merchandise, in cartoons and on screens everywhere.",
+  "status": "The game is still published and re-released by Bandai Namco.",
+  "es": {
+   "title": "Pac-Man",
+   "date": "1980",
+   "materials": "Mueble de arcade con pantalla de barrido a color; gráficos de píxeles",
+   "key": "El videojuego de arcade de Toru Iwatani para Namco, cuyo personaje amarillo y redondo, sus fantasmas y su laberinto hicieron un videojuego legible y atractivo para un público amplio.",
+   "more": "Namco lo lanzó en Japón en 1980, y luego se vendió en el extranjero con el nombre de Pac-Man. Iwatani diseñó un juego sin disparos, centrado en comer puntos en un laberinto mientras se evitan cuatro fantasmas, cada uno dibujado de un color y con un comportamiento distinto. El personaje, dibujado como un círculo simple al que le falta una cuña, dio un rostro reconocible a un videojuego y lo convirtió en una figura que se vendió en productos, dibujos animados y pantallas de todo el mundo.",
+   "status": "El juego se sigue publicando y reeditando por Bandai Namco."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "silence-equals-death-1987",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "poster",
+  "title": "Silence = Death",
+  "designers": [],
+  "maker": "Silence=Death Project (Avram Finkelstein and others); adopted by ACT UP",
+  "year": 1987,
+  "date": "1987",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Offset lithography on paper, white type and pink triangle on black",
+  "tech": [],
+  "key": "A black poster with a pink triangle and the words Silence = Death, made in New York in 1987 and adopted by ACT UP as the image of its campaign.",
+  "more": "A group of New York artists and activists, the Silence=Death Project, made it in 1987 and pasted it in the streets, and ACT UP then took it up on posters, badges and T-shirts. The pink triangle points up, reversing the downward-pointing triangle that the Nazis made gay prisoners wear, and the short sentence sits in plain white capitals beneath it. It works as a sign read at a glance, and it became the model for activist graphics.",
+  "status": "Original posters are kept in museum collections; the image is still in use.",
+  "es": {
+   "title": "Silencio = Muerte",
+   "date": "1987",
+   "materials": "Litografía offset sobre papel, texto blanco y triángulo rosa sobre negro",
+   "key": "Un cartel negro con un triángulo rosa y las palabras Silencio = Muerte, hecho en Nueva York en 1987 y adoptado por ACT UP como la imagen de su campaña.",
+   "more": "Un grupo de artistas y activistas de Nueva York, el Silence=Death Project, lo hizo en 1987 y lo pegó en las calles, y luego ACT UP lo adoptó en carteles, chapas y poleras. El triángulo rosa apunta hacia arriba e invierte el triángulo con la punta hacia abajo que los nazis obligaban a llevar a los prisioneros homosexuales, y la frase breve va debajo, en mayúsculas blancas y sencillas. Funciona como un signo que se lee de un vistazo y se volvió el modelo de la gráfica activista.",
+   "status": "Se conservan carteles originales en colecciones de museos; la imagen sigue en uso."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "cranbrook-new-discourse-1989",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "poster",
+  "title": "Cranbrook Design: The New Discourse (poster)",
+  "designers": [
+   "katherine-mccoy"
+  ],
+  "maker": "Cranbrook Academy of Art",
+  "year": 1989,
+  "date": "1989",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Offset lithography on paper",
+  "tech": [],
+  "key": "Katherine McCoy's poster for Cranbrook Design: The New Discourse, a dense layering of text at different sizes that asks the reader to build the meaning.",
+  "more": "McCoy co-directed the graphic design programme at Cranbrook Academy of Art, a graduate school near Detroit, where she and her students read French literary theory and applied it to design. The poster announced the exhibition and book of the same name by layering blocks of text at several scales, so that there is no single order of reading. It is a well-known example of how the idea that readers make meaning entered graphic design in the United States.",
+  "status": "Copies are held in museum and design collections.",
+  "es": {
+   "title": "Cranbrook Design: The New Discourse (cartel)",
+   "date": "1989",
+   "materials": "Litografía offset sobre papel",
+   "key": "El cartel de Katherine McCoy para Cranbrook Design: The New Discourse, una capa densa de textos de distintos tamaños que pide al lector construir el sentido.",
+   "more": "McCoy codirigió el programa de diseño gráfico de la Cranbrook Academy of Art, una escuela de posgrado cerca de Detroit, donde ella y sus estudiantes leyeron teoría literaria francesa y la aplicaron al diseño. El cartel anunció la exposición y el libro del mismo nombre superponiendo bloques de texto en varias escalas, de modo que no hay un solo orden de lectura. Es un ejemplo conocido de cómo la idea de que el lector construye el sentido llegó al diseño gráfico en Estados Unidos.",
+   "status": "Hay ejemplares en colecciones de museos y de diseño."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "benetton-toscani-1989",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "advertisement",
+  "title": "United Colors of Benetton campaigns",
+  "designers": [
+   "oliviero-toscani"
+  ],
+  "maker": "Benetton",
+  "year": 1989,
+  "date": "1989",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "materials": "Colour photography reproduced in magazines and on billboards",
+  "tech": [],
+  "key": "The United Colors of Benetton campaigns photographed by Oliviero Toscani, which showed social subjects instead of clothes and placed only the brand's green logo.",
+  "more": "Toscani, the photographer behind the brand's advertising from the 1980s, replaced images of clothes with striking photographs of themes such as race, war and illness, signed only with the green Benetton logo. The same images appeared in many countries, and several caused public controversy and bans, which in turn gave them more attention. The campaigns became a central case of a brand that sells values and provocation instead of product.",
+  "status": "The images survive in magazines and archives and are still taught as a case study.",
+  "es": {
+   "title": "Campañas de United Colors of Benetton",
+   "date": "1989",
+   "materials": "Fotografía en color reproducida en revistas y en vallas publicitarias",
+   "key": "Las campañas de United Colors of Benetton fotografiadas por Oliviero Toscani, que mostraron temas sociales en lugar de ropa y solo pusieron el logo verde de la marca.",
+   "more": "Toscani, el fotógrafo detrás de la publicidad de la marca desde los años ochenta, reemplazó las imágenes de ropa por fotografías impactantes de temas como la raza, la guerra y la enfermedad, firmadas solo con el logo verde de Benetton. Las mismas imágenes aparecieron en muchos países, y varias provocaron polémica pública y prohibiciones, que a su vez les dieron más atención. Las campañas se volvieron un caso central de marca que vende valores y provocación en lugar de producto.",
+   "status": "Las imágenes se conservan en revistas y archivos y se siguen estudiando como caso."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "information-landscapes-1994",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "interface",
+  "title": "Information Landscapes",
+  "designers": [
+   "muriel-cooper"
+  ],
+  "movements": [
+   "interaction-design"
+  ],
+  "maker": "Visible Language Workshop, MIT Media Lab",
+  "year": 1994,
+  "date": "1994",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Software on a graphics workstation; real-time three-dimensional type",
+  "tech": [],
+  "key": "Muriel Cooper's experiments at MIT in which text and graphics float in a three-dimensional space that the reader moves through and zooms into.",
+  "more": "Cooper led the Visible Language Workshop at the MIT Media Lab, where she and her students built interfaces in which blocks of text, in different sizes and transparencies, are arranged in depth. The reader navigates by flying through them and zooming in, instead of turning pages or scrolling a window. It anticipated ideas of zoomable and layered interfaces that appeared later in ordinary screens.",
+  "status": "Known today through demonstration videos and papers; the system itself is no longer in use.",
+  "es": {
+   "title": "Paisajes de información",
+   "date": "1994",
+   "materials": "Software en una estación gráfica; tipografía tridimensional en tiempo real",
+   "key": "Los experimentos de Muriel Cooper en el MIT en los que texto y gráficos flotan en un espacio tridimensional por el que el lector se mueve y hace zoom.",
+   "more": "Cooper dirigió el Visible Language Workshop del MIT Media Lab, donde ella y sus estudiantes construyeron interfaces en las que bloques de texto, de distintos tamaños y transparencias, se disponen en profundidad. El lector navega volando entre ellos y acercándose, en lugar de pasar páginas o desplazar una ventana. Anticipó ideas de interfaces con zoom y por capas que llegaron después a las pantallas de uso común.",
+   "status": "Se conoce hoy por videos de demostración y artículos; el sistema en sí ya no se usa."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "windows-95-1995",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "interface",
+  "title": "Windows 95 interface",
+  "designers": [],
+  "movements": [
+   "interaction-design"
+  ],
+  "maker": "Microsoft",
+  "year": 1995,
+  "date": "1995",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Software interface with bitmap icons and grey raised buttons",
+  "tech": [],
+  "key": "Microsoft's 1995 operating system interface, whose desktop, taskbar and Start menu became the standard way of using a personal computer.",
+  "more": "Microsoft launched Windows 95 in 1995, with a taskbar listing open programs and a Start menu for opening them, together with icons on the desktop and buttons drawn with a raised look. It brought the graphical interface that Apple had popularised to the very large number of computers running Microsoft software. For many users it was the first graphical interface they used, and its elements were copied and kept by later versions of Windows.",
+  "status": "No longer sold or supported; it survives in emulators and in the lineage of later Windows interfaces.",
+  "es": {
+   "title": "Interfaz de Windows 95",
+   "date": "1995",
+   "materials": "Interfaz de software con íconos de mapa de bits y botones grises en relieve",
+   "key": "La interfaz del sistema operativo de Microsoft de 1995, cuyo escritorio, barra de tareas y menú Inicio se volvieron la forma estándar de usar un computador personal.",
+   "more": "Microsoft lanzó Windows 95 en 1995, con una barra de tareas que lista los programas abiertos y un menú Inicio para abrirlos, además de íconos en el escritorio y botones dibujados con aspecto de relieve. Llevó la interfaz gráfica que Apple había popularizado a la enorme cantidad de computadores que usaban software de Microsoft. Para muchos usuarios fue la primera interfaz gráfica que usaron, y sus elementos fueron copiados y conservados por las versiones posteriores de Windows.",
+   "status": "Ya no se vende ni tiene soporte; sobrevive en emuladores y en la línea de las interfaces posteriores de Windows."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "cdc-sars-cov-2-illustration-2020",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "infographic",
+  "title": "CDC illustration of SARS-CoV-2",
+  "designers": [],
+  "maker": "Alissa Eckert and Dan Higgins, Centers for Disease Control and Prevention",
+  "year": 2020,
+  "date": "2020",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Digital three-dimensional rendering",
+  "tech": [],
+  "key": "A three-dimensional illustration of the coronavirus made at the CDC, a grey sphere with red spikes that became the public image of the pandemic.",
+  "more": "Illustrators at the US Centers for Disease Control and Prevention made it in early 2020, when the virus could not be seen and the public had no picture of it. It shows a sphere covered in spikes, with the spikes coloured red so that they stand out from the grey body. It was released for free use and appeared in news reports, health campaigns and countless articles around the world.",
+  "status": "Available from the CDC image library; reproduced worldwide.",
+  "es": {
+   "title": "Ilustración del SARS-CoV-2 de los CDC",
+   "date": "2020",
+   "materials": "Representación digital tridimensional",
+   "key": "Una ilustración tridimensional del coronavirus hecha en los CDC, una esfera gris con espículas rojas que se volvió la imagen pública de la pandemia.",
+   "more": "Ilustradores de los Centros para el Control y la Prevención de Enfermedades de Estados Unidos la hicieron a comienzos de 2020, cuando el virus no se veía y el público no tenía una imagen de él. Muestra una esfera cubierta de espículas, con estas coloreadas de rojo para que destaquen del cuerpo gris. Se difundió de libre uso y apareció en noticias, campañas de salud e incontables artículos del mundo entero.",
+   "status": "Disponible en la biblioteca de imágenes de los CDC; reproducida en todo el mundo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "cosmopolitan-ai-cover-2022",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "cover",
+  "title": "Cosmopolitan cover made with DALL·E 2",
+  "designers": [],
+  "maker": "Karen X. Cheng with OpenAI, for Cosmopolitan",
+  "year": 2022,
+  "date": "2022",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Digital image generated with DALL·E 2 from a written prompt",
+  "tech": [
+   "generative-image-models"
+  ],
+  "key": "A 2022 cover of Cosmopolitan magazine presented as the first made with artificial intelligence, generated with DALL·E 2 from a written description.",
+  "more": "The cover image was produced with DALL·E 2, an image model from OpenAI, which the artist Karen X. Cheng worked with by writing and refining descriptions until she obtained a result she chose. It shows a figure in a space suit walking toward the viewer in a desert landscape. The magazine presented it as a first, and it was discussed as a sign that the work of the designer was shifting from drawing the image to directing and selecting it.",
+  "status": "Published as a magazine cover; the image is kept in the magazine's archive and online.",
+  "es": {
+   "title": "Portada de Cosmopolitan hecha con DALL·E 2",
+   "date": "2022",
+   "materials": "Imagen digital generada con DALL·E 2 a partir de una instrucción escrita",
+   "key": "Una portada de 2022 de la revista Cosmopolitan presentada como la primera hecha con inteligencia artificial, generada con DALL·E 2 a partir de una descripción escrita.",
+   "more": "La imagen de portada se produjo con DALL·E 2, un modelo de imágenes de OpenAI, con el que la artista Karen X. Cheng trabajó escribiendo y afinando descripciones hasta obtener un resultado que eligió. Muestra una figura con traje espacial que camina hacia quien mira en un paisaje desértico. La revista la presentó como una primicia, y se discutió como señal de que el trabajo del diseñador pasaba de dibujar la imagen a dirigirla y seleccionarla.",
+   "status": "Publicada como portada de revista; la imagen se conserva en el archivo de la revista y en línea."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-crisis-functionalism",
+  "item": "weingart-posters-1977",
+  "note": "Doubts about Swiss neutrality led Weingart to layer film, halftones and spaced type, so the poster showed its own making instead of a clean grid.",
+  "es": {
+   "note": "Las dudas sobre la neutralidad suiza llevaron a Weingart a superponer película, tramas y tipografía espaciada, de modo que el cartel mostraba su propia factura y no una retícula limpia."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-punk",
+  "item": "unknown-pleasures-1979",
+  "note": "Post-punk independent labels like Factory let designers work with almost no commercial brief, so Saville could make a cover with a pulsar plot and almost no text.",
+  "es": {
+   "note": "Los sellos independientes del pospunk como Factory dejaban trabajar casi sin encargo comercial, así que Saville pudo hacer una portada con un gráfico de púlsar y casi sin texto."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-microelectronics",
+  "item": "pac-man-1980",
+  "note": "Cheap microprocessors made coin-operated video games possible, so design had to work with a coarse pixel screen: a simple round character and clear ghost colours.",
+  "es": {
+   "note": "Los microprocesadores baratos hicieron posibles los videojuegos de salón, y el diseño debió trabajar con píxeles gruesos: un personaje redondo simple y colores claros para los fantasmas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-japan-consumer-economy",
+  "item": "pac-man-1980",
+  "note": "Japan's leisure and electronics industry exported games abroad, so Namco's character and maze were designed for a wide public and travelled as a global brand.",
+  "es": {
+   "note": "La industria japonesa del ocio y la electrónica exportó juegos al extranjero, y el personaje y el laberinto de Namco, pensados para un público amplio, viajaron como marca global."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-aids-crisis",
+  "item": "silence-equals-death-1987",
+  "note": "Against official silence on the epidemic, activists needed a sign that could be read at a glance in the street, so they used a triangle and a short slogan.",
+  "es": {
+   "note": "Frente al silencio oficial sobre la epidemia, los activistas necesitaban un signo que se leyera de un vistazo en la calle, y usaron un triángulo y una consigna breve."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-postmodern-culture",
+  "item": "cranbrook-new-discourse-1989",
+  "note": "French theory held that the reader builds the meaning of a text, so McCoy layered text blocks with no single order and left the reader to assemble the message.",
+  "es": {
+   "note": "La teoría francesa sostenía que el lector construye el sentido de un texto, así que McCoy superpuso bloques de texto sin un orden único y dejó al lector armar el mensaje."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-branding",
+  "item": "benetton-toscani-1989",
+  "note": "As brands competed on values rather than products, Benetton dropped clothes from its ads and used shocking social photographs signed only with a logo.",
+  "es": {
+   "note": "Al competir las marcas por valores y no por productos, Benetton sacó la ropa de sus avisos y usó fotografías sociales chocantes firmadas solo con un logo."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-globalisation",
+  "item": "benetton-toscani-1989",
+  "note": "Selling in many markets, Benetton ran one campaign everywhere, so its images relied on photographs rather than language and the same pictures crossed borders.",
+  "es": {
+   "note": "Al vender en muchos mercados, Benetton lanzó una sola campaña en todas partes, y sus imágenes se apoyaron en fotografías y no en el idioma, de modo que las mismas imágenes cruzaron fronteras."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-personal-computer",
+  "item": "information-landscapes-1994",
+  "note": "Personal computers with graphic screens let text be treated as an image, so Cooper's group tried type in depth that the reader flies through and zooms into.",
+  "es": {
+   "note": "Los computadores personales con pantalla gráfica permitieron tratar el texto como imagen, y el grupo de Cooper probó tipografía en profundidad por la que el lector vuela y hace zoom."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-personal-computer",
+  "item": "windows-95-1995",
+  "note": "As the personal computer reached most offices and homes, one familiar interface mattered more than novelty, and Windows 95 gave users a taskbar and Start menu.",
+  "es": {
+   "note": "Al llegar el computador personal a la mayoría de las oficinas y hogares, una interfaz familiar importó más que la novedad, y Windows 95 dio a los usuarios una barra de tareas y un menú Inicio."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-covid-19",
+  "item": "cdc-sars-cov-2-illustration-2020",
+  "note": "An invisible threat needed a recognisable picture for public communication, so the CDC rendered the virus as a grey sphere with red spikes.",
+  "es": {
+   "note": "Una amenaza invisible necesitaba una imagen reconocible para la comunicación pública, y los CDC representaron el virus como una esfera gris con espículas rojas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-generative-ai",
+  "item": "cosmopolitan-ai-cover-2022",
+  "note": "Images could now be generated from written instructions, so making the cover meant writing and refining prompts and choosing among results, not drawing.",
+  "es": {
+   "note": "Ahora las imágenes podían generarse desde instrucciones escritas, así que hacer la portada significó escribir y afinar descripciones y elegir entre resultados, no dibujar."
+  },
+  "refs": []
+ }
+]

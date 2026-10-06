@@ -1,0 +1,294 @@
+[
+ {
+  "id": "minard-napoleon-map-1869",
+  "en": {
+   "key": "Charles Joseph Minard’s 1869 flow map of the French army’s advance on Moscow and retreat in 1812–13, with the width of a band showing the army’s size.[1][2]",
+   "more": "Minard, a French civil engineer, made some fifty maps and charted flows of cotton, coal, wine and emigrants.[3] His lithograph, dated 20 November 1869, runs a band from the Niemen to Moscow and back, one millimetre wide for each 10,000 men, brown on the way in and black on the way out, thinning as the army shrinks.[1][2] A line of temperatures below records the cold of the retreat.[1][2] Edward Tufte wrote that it may well be the best statistical graphic ever drawn.[1][2]"
+  },
+  "es": {
+   "key": "El mapa de flujo de Charles Joseph Minard de 1869 sobre el avance y la retirada del ejército francés en 1812–13, donde el ancho de una banda muestra el tamaño del ejército.[1][2]",
+   "more": "Minard, ingeniero civil francés, hizo unos cincuenta mapas y trazó flujos de algodón, carbón, vino y emigrantes.[3] Su litografía, fechada el 20 de noviembre de 1869, lleva una banda del Niemen a Moscú y de vuelta, de un milímetro de ancho por cada 10.000 hombres, café a la ida y negra a la vuelta, cada vez más delgada a medida que el ejército se reduce.[1][2] Una línea de temperaturas abajo registra el frío de la retirada.[1][2] Edward Tufte escribió que bien puede ser el mejor gráfico estadístico jamás dibujado.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "datavis.ca, artículo sobre el mapa de Minard (jebs.pdf)",
+    "url": "https://datavis.ca/papers/jebs.pdf",
+    "checks": "Mapa publicado el 20 de noviembre de 1869; ancho de línea = tamaño del ejército; gráfico de temperaturas abajo; Minard ingeniero civil (canales y ferrocarriles) que pasó a mapas de flujo de mercancías y personas; cita de Tufte («may well be the best statistical graphic ever produced»). ⚠ resumen de la página; no confirma que se hiciera en París.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Jeremy Norman, History of Information, «Minard’s statistical graphic of Napoleon’s Russian campaign»",
+    "url": "https://historyofinformation.com/detail.php?id=2787",
+    "checks": "Litografía de 20 de noviembre de 1869; del río Niemen a Moscú; 1 mm por 10.000 hombres; café entrada, negro salida; temperaturas en escala Réaumur; Tufte «best statistical graphic ever drawn». ⚠ fuente secundaria (bibliografía comercial).",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "National Geographic, «Charles Minard» (historia de la cartografía)",
+    "url": "https://www.nationalgeographic.com/culture/article/charles-minard-cartography-infographics-history",
+    "checks": "Ingeniero civil y cartógrafo francés; unos 50 mapas; mapas de flujo de algodón, carbón, vino y emigración. ⚠ no menciona la litografía en París.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «made it in Paris»: ninguna fuente consultada da el lugar.",
+   "Quité «often cited as a model of how to show data» como afirmación propia: pasó a la cita atribuida de Tufte.",
+   "«Many maps of flows of goods and people» pasó a «unos cincuenta mapas» (National Geographic); añadí fecha exacta, escala y colores de la banda, que sí constan."
+  ]
+ },
+ {
+  "id": "opera-garnier-1875",
+  "en": {
+   "key": "Charles Garnier's opera house in Paris, opened in 1875, a lavish building with a grand marble staircase and richly decorated foyers.[3]",
+   "more": "Garnier, aged 36, won the competition for the new Paris opera in 1861, after it was launched in December 1860.[1][2] The project was commissioned by Napoleon III and the house opened in 1875 after some fifteen years of work, interrupted by the war of 1870 and the Commune.[3] A double staircase of coloured marbles leads to the foyers, whose vaults are covered with mosaics on a gold ground.[3] It was built as part of Baron Haussmann’s rebuilding of Paris.[3]"
+  },
+  "es": {
+   "key": "La ópera de París de Charles Garnier, inaugurada en 1875, un edificio suntuoso con una gran escalera de mármoles y foyers ricamente decorados.[3]",
+   "more": "Garnier, de 36 años, ganó en 1861 el concurso para la nueva ópera de París, convocado en diciembre de 1860.[1][2] El proyecto fue encargado por Napoleón III y el edificio se inauguró en 1875 tras unos quince años de obras, interrumpidas por la guerra de 1870 y la Comuna.[3] Una escalera doble de mármoles de colores lleva a los foyers, cuyas bóvedas están cubiertas de mosaicos sobre fondo dorado.[3] Se construyó dentro de la reconstrucción de París de Haussmann.[3]"
+  },
+  "refs": [
+   {
+    "label": "Opéra national de Paris, «Charles Garnier, architect»",
+    "url": "https://www.operadeparis.fr/en/magazine/350-years/case/charles-garnier-architect",
+    "checks": "Garnier ganó el concurso en 1861, nacido en 1825 (36 años); trabajó catorce años en el proyecto hasta 1875. ⚠ no trata de Napoleón III ni de la escalera.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Musée d’Orsay, «Opéra de Paris» (maqueta de Garnier)",
+    "url": "https://www.musee-orsay.fr/en/artworks/opera-de-paris-169019",
+    "checks": "Concurso convocado en diciembre de 1860, elección anunciada en junio de 1861.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Atout France, «The Palais Garnier, Paris national Opera»",
+    "url": "https://uk.france.fr/en/paris/article/palais-garnier-paris-national-opera",
+    "checks": "Encargo de Napoleón III; inaugurado en 1875 tras unos 15 años; escalera doble de mármoles de colores hacia los foyers; mosaicos sobre fondo dorado; interrupciones de 1870 y la Comuna; obra dentro de la reconstrucción de Haussmann. ⚠ no menciona la avenida de la Ópera.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «exuberant Beaux-Arts» y «as much a stage as the auditorium»: interpretación no sostenida por las fuentes consultadas.",
+   "Quité «at the end of the avenue de l’Opéra»: ninguna fuente lo confirma; lo dejé en el vínculo con Haussmann, que sí consta.",
+   "Corregí «competition held in 1861»: se convocó en dic. 1860 y se decidió en 1861 (Orsay). «Young architect» pasó a la edad, 36 años.",
+   "«Marble, sculpture and gilding» pasó a lo que consta: mármoles, mosaicos sobre fondo dorado."
+  ]
+ },
+ {
+  "id": "dresser-teapot",
+  "en": {
+   "key": "A teapot of plain geometric shapes and sharp angles that Christopher Dresser designed for industrial production.[1]",
+   "more": "Dresser visited Japan in 1876–77, and the trip steered him toward simplified, functional forms with minimal decoration.[2] His metalwork designs typically use symmetrical, rectilinear shapes and undecorated surfaces, made with the latest techniques of mass production.[1] The V&A’s example, of electroplated nickel silver with an ebonised wooden handle, was made in 1879 by James Dixon & Sons of Sheffield, whose costing book calls the design “English Japanese”; its body is stamped from six pieces.[1] Dresser also designed for the Birmingham firm Hukin & Heath, whose art adviser he was.[2][3]"
+  },
+  "es": {
+   "key": "Una tetera de formas geométricas simples y ángulos marcados que Christopher Dresser diseñó para la producción industrial.[1]",
+   "more": "Dresser viajó a Japón en 1876–77, y el viaje lo llevó hacia formas simplificadas y funcionales con un mínimo de decoración.[2] Sus diseños de metalistería suelen usar formas simétricas y rectilíneas y superficies sin decorar, hechas con las técnicas más recientes de producción en masa.[1] El ejemplar del V&A, de alpaca electrochapada con mango de madera ebonizada, lo fabricó en 1879 James Dixon & Sons, de Sheffield, cuyo libro de costos llama al diseño «English Japanese»; su cuerpo está estampado en seis piezas.[1] Dresser diseñó también para la casa de Birmingham Hukin & Heath, de la que fue asesor artístico.[2][3]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Teapot» (Christopher Dresser, James Dixon & Sons, 1879)",
+    "url": "https://collections.vam.ac.uk/item/O78328",
+    "checks": "Tetera de 1879, níquel plateado electrochapado con mango de ébano, fabricada por James Dixon & Sons (Sheffield); Dresser «padre del diseño industrial», técnicas de producción en masa; formas simétricas y rectilíneas; diseño n.º 2274 del libro de costos, «English Japanese»; cuerpo de seis piezas estampadas. ⚠ el fabricante en este ejemplar es Dixon, no Hukin & Heath.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Victorian Web, «Christopher Dresser»",
+    "url": "https://www.victorianweb.org/art/design/dresser/index.html",
+    "checks": "Visita a Japón en 1876 como representante oficial del gobierno británico; formas simplificadas y funcionales con mínima decoración; trabajó para Hukin & Heath. ⚠ sitio académico divulgativo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Victoria and Albert Museum, «Teapot» (Dresser para Hukin & Heath, 1878–79)",
+    "url": "https://collections.vam.ac.uk/item/O116235",
+    "checks": "Dresser asesor artístico de Hukin & Heath, de Birmingham; tetera de 1878–79. ⚠ ese ejemplar es de plata con marfil y esmalte, no electrochapado.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «some asymmetry»: el V&A describe las formas como simétricas y rectilíneas.",
+   "Corregí el fabricante: la tetera electrochapada con mango ebonizado del V&A es de James Dixon & Sons, no de Hukin & Heath; este las nombra solo como otra casa para la que Dresser trabajó. El campo «maker» de la ficha dice Hukin & Heath y conviene revisarlo.",
+   "«Form and function, not applied decoration, carried the design» pasó a la cita del V&A sobre superficies sin decorar; «drawing on what he had seen of Japanese objects» pasó a la influencia general del viaje y la nota «English Japanese»."
+  ]
+ },
+ {
+  "id": "edison-bulb-1879",
+  "en": {
+   "key": "The carbon-filament electric lamp that Thomas Edison and his Menlo Park team made practical in 1879, designed as one part of a whole electric lighting system.[1][2]",
+   "more": "In October 1879 Edison’s laboratory at Menlo Park, New Jersey, produced what The Henry Ford calls the first practical incandescent lamp; on 21 October a carbonised thread glowed for more than fourteen hours.[1][2] Edison patented a carbon-filament lamp on 1 November, and a high-resistance filament and a better vacuum, made with the Sprengel pump, helped it win out.[2][3] The filament’s high resistance meant most of the energy was used in the bulb rather than in the distribution system, and he went on to build a whole system around the lamp, with a power station in Manhattan.[2][3] It was shown to the public at Menlo Park on 31 December 1879.[1][2]"
+  },
+  "es": {
+   "key": "La lámpara eléctrica de filamento de carbono que Thomas Edison y su equipo de Menlo Park hicieron práctica en 1879, concebida como una pieza de un sistema completo de alumbrado eléctrico.[1][2]",
+   "more": "En octubre de 1879 el laboratorio de Edison en Menlo Park, Nueva Jersey, produjo lo que The Henry Ford llama la primera lámpara incandescente práctica; el 21 de octubre un hilo carbonizado brilló más de catorce horas.[1][2] Edison patentó una lámpara de filamento de carbono el 1 de noviembre, y un filamento de alta resistencia y un mejor vacío, logrado con la bomba Sprengel, ayudaron a que se impusiera.[2][3] La alta resistencia del filamento hacía que la mayor parte de la energía se usara en la ampolla y no en la red de distribución, y él pasó a construir todo un sistema en torno a la lámpara, con una central eléctrica en Manhattan.[2][3] Se mostró al público en Menlo Park el 31 de diciembre de 1879.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "The Henry Ford, «Paper Horseshoe Filament Lamp… Edison Lighting System, 1879»",
+    "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/83459",
+    "checks": "Octubre de 1879: «la primera lámpara incandescente práctica»; primera exhibición pública en Menlo Park (Nochevieja de 1879). ⚠ la lámpara de la ficha es de filamento de papel.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "ETHW (IEEE), «Edison’s Incandescent Lamp»",
+    "url": "https://ethw.org/Edison's_Incandescent_Lamp",
+    "checks": "21 de octubre de 1879, hilo carbonizado de más de 14 horas; patente del 1 de noviembre; demostración pública del 31 de diciembre; ventajas: material duradero, mejor vacío con bomba Sprengel, filamentos de alta resistencia; sistema completo (Pearl Street, redes de distribución). ⚠ Joseph Swan lo precedió con lámparas incandescentes.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Smithsonian National Museum of American History, «Link to Home: Lighting a Revolution»",
+    "url": "https://americanhistory.si.edu/lighting/scripts/s19b.htm",
+    "checks": "Filamento de fibras carbonizadas de alta resistencia: la energía se gasta en la ampolla y no en la red de distribución; laboratorio bien equipado de Menlo Park. ⚠ fecha la lámpara práctica en septiembre de 1879, no en octubre.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «his company went on to make it in numbers» y «the screw base became a standard shape»: ninguna fuente consultada lo confirma.",
+   "«Burn for hours» pasó a «más de catorce horas» el 21 de octubre (ETHW); añadí la patente y la demostración pública.",
+   "Hay discrepancia de fechas entre fuentes (Smithsonian: septiembre; Henry Ford y ETHW: octubre); mantuve 1879/octubre y lo atribuí.",
+   "Sobre el vacío, el texto original decía «vacuum glass bulb»; ahora se atribuye a ETHW el mejor vacío con bomba Sprengel."
+  ]
+ },
+ {
+  "id": "sagrada-familia-1882",
+  "en": {
+   "key": "Antoni Gaudí's unfinished expiatory church in Barcelona, begun in neo-Gothic form in 1882 and transformed by him into a structure of natural geometry.[1][2]",
+   "more": "The church, the Temple Expiatori de la Sagrada Família, was begun in 1882 under the architect Francisco de Paula del Villar, who designed it in neo-Gothic style; Gaudí took over in 1883 and transformed the project into his own vision.[1][2] His designs drew on light and nature, which he called his true master, and on geometric principles found in nature, as in his inclined columns.[2][3] He devoted himself exclusively to the temple until his death in 1926 and is buried in its crypt.[1][2] Pope Benedict XVI consecrated it as a minor basilica in 2010, and construction continues.[1]"
+  },
+  "es": {
+   "key": "La iglesia expiatoria inconclusa de Antoni Gaudí en Barcelona, iniciada en forma neogótica en 1882 y transformada por él en una estructura de geometría natural.[1][2]",
+   "more": "La iglesia, el Temple Expiatori de la Sagrada Família, se empezó en 1882 bajo el arquitecto Francisco de Paula del Villar, que la diseñó en estilo neogótico; Gaudí la asumió en 1883 y transformó el proyecto en su propia visión.[1][2] Sus diseños se nutrían de la luz y de la naturaleza, que decía era su verdadera maestra, y de principios geométricos hallados en la naturaleza, como en sus columnas inclinadas.[2][3] Se dedicó exclusivamente al templo hasta su muerte en 1926 y está enterrado en su cripta.[1][2] El papa Benedicto XVI la consagró como basílica menor en 2010, y la construcción continúa.[1]"
+  },
+  "refs": [
+   {
+    "label": "Sagrada Família (sitio oficial), «Historia de la basílica»",
+    "url": "https://sagradafamilia.org/es/historia-del-templo",
+    "checks": "1882 inicio con diseño neogótico de Villar; 1883 Gaudí lo asume y lo transforma; se dedica exclusivamente al templo hasta su muerte en 1926; consagración como basílica menor por Benedicto XVI en 2010; sigue en obras.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "World Monuments Fund, «Temple Expiatori de la Sagrada Família»",
+    "url": "https://wmf.org/node/13504",
+    "checks": "Obra iniciada en 1882 con Villar, Gaudí desde 1883 hasta su muerte en 1926 y enterrado en la cripta; principios geométricos de la naturaleza, columnas inclinadas. ⚠ no habla de financiamiento.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Sagrada Família (sitio oficial), «Antoni Gaudí»",
+    "url": "https://sagradafamilia.org/en/antoni-gaudi",
+    "checks": "Gaudí asume el proyecto en 1883 a los 31 años; inspiración en «la luz y la naturaleza, su verdadera maestra»; trabajó con maquetas.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «paid for by public subscription»: ninguna fuente consultada lo confirma.",
+   "«Gradually replaced that plan» pasó a «transformó el proyecto en su propia visión» (fuente oficial); «curved geometric surfaces» pasó a «principios geométricos de la naturaleza» y columnas inclinadas, que sí constan."
+  ]
+ },
+ {
+  "id": "strawberry-thief",
+  "en": {
+   "key": "William Morris’s printed cotton of thrushes stealing strawberries, one of his best-known designs.[1]",
+   "more": "Morris designed it in 1883 for Morris & Co., and it was printed at the Merton Abbey works; in May 1883 he wrote that he was anxiously superintending the first printing.[1] It is indigo-discharged and block-printed cotton: the cloth is dipped in an indigo vat and blocks coated with a solvent then remove the colour where the pattern goes.[1][2] It was the first design in this technique to add red (alizarin) and yellow (weld) to the blue and white ground, and it was among the most expensive printed furnishings Morris & Co. offered.[1] According to the V&A the thrushes come from birds that stole the strawberries in the kitchen garden of his country home, Kelmscott Manor.[1]"
+  },
+  "es": {
+   "key": "El algodón estampado de William Morris con tordos que roban fresas, uno de sus diseños más conocidos.[1]",
+   "more": "Morris lo diseñó en 1883 para Morris & Co., y se estampó en los talleres de Merton Abbey; en mayo de 1883 escribió que supervisaba con ansiedad la primera impresión.[1] Es algodón estampado con bloques por descarga de índigo: la tela se sumerge en una tina de índigo y luego unos bloques con solvente quitan el color donde va el dibujo.[1][2] Fue el primer diseño en esta técnica que sumó rojo (alizarina) y amarillo (gualda) al fondo azul y blanco, y fue uno de los estampados para tapicería más caros que ofrecía Morris & Co.[1] Según el V&A, los tordos vienen de las aves que robaban las fresas del huerto de su casa de campo, Kelmscott Manor.[1]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Strawberry Thief» (furnishing fabric, Morris & Co.)",
+    "url": "https://collections.vam.ac.uk/item/O78889",
+    "checks": "Diseño de 1883 de Morris, producido 1883–1919 en Merton Abbey; «indigo-discharged and block-printed cotton»; carta de mayo de 1883 sobre la primera impresión; primer diseño con rojo y amarillo sobre fondo azul y blanco; de los estampados más caros de Morris & Co.; tordos del huerto de Kelmscott Manor. ⚠ no confirma que el estampado fuera a mano.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Victoria and Albert Museum, «Strawberry Thief» (bloque de estampación)",
+    "url": "https://collections.vam.ac.uk/item/O362274/",
+    "checks": "Diseño de 1883; proceso de descarga de índigo: tela teñida en tina y bloques con solvente que retiran el color; bloque tallado en peral. ⚠ bloque posterior hecho para Stead & McAlpin.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «by hand», «a slow process» y «bleached out»: el V&A habla de bloques y de solvente que retira el color, y no confirma el estampado manual ni la lentitud.",
+   "Quité «in defiance of factory printing» y «hand-crafted textiles»: el V&A sitúa la producción en el taller industrial de Merton Abbey; interpretación no sostenida.",
+   "«Said to come from the birds in his own garden» pasó a atribución al V&A (huerto de Kelmscott Manor)."
+  ]
+ },
+ {
+  "id": "eiffel-tower-1889",
+  "en": {
+   "key": "The 300-metre wrought-iron tower built for the 1889 Paris Exposition, assembled from some 18,000 prefabricated parts.[1][2][3]",
+   "more": "Gustave Eiffel designed and built it between 1887 and 1889 for the International Exposition.[3] It was engineered by Maurice Koechlin and Émile Nouguier, with the architect Stephen Sauvestre contributing.[1] Its open structure of puddled iron, a low-carbon wrought iron, was made of 18,000 parts calculated and drawn in advance; two thirds of the 2.5 million rivets were driven at the factory and the rest hammered in on site, and the assembly took 22 months from 1 July 1887.[1][2] It opened on 31 March 1889 and, meant to stand only a few years, was kept thanks to public support; Guinness says it was the tallest man-made structure until the Chrysler Building passed it in 1931.[1]"
+  },
+  "es": {
+   "key": "La torre de hierro forjado de 300 metros levantada para la Exposición de París de 1889, montada con unas 18.000 piezas prefabricadas.[1][2][3]",
+   "more": "Gustave Eiffel la diseñó y construyó entre 1887 y 1889 para la Exposición Internacional.[3] Fue ideada por los ingenieros Maurice Koechlin y Émile Nouguier, con la contribución del arquitecto Stephen Sauvestre.[1] Su estructura abierta de hierro pudelado, un hierro forjado bajo en carbono, se hizo con 18.000 piezas calculadas y dibujadas de antemano; dos tercios de los 2,5 millones de remaches se pusieron en fábrica y el resto se martilló en obra, y el montaje duró 22 meses desde el 1 de julio de 1887.[1][2] Se inauguró el 31 de marzo de 1889 y, pensada para durar pocos años, se conservó gracias al apoyo del público; según Guinness fue la estructura artificial más alta hasta que el edificio Chrysler la superó en 1931.[1]"
+  },
+  "refs": [
+   {
+    "label": "Guinness World Records, «Tallest iron structure»",
+    "url": "https://www.guinnessworldrecords.com/world-records/513002-tallest-iron-structure",
+    "checks": "300 m; hierro pudelado (forjado bajo en carbono); ingenieros Koechlin y Nouguier con el arquitecto Sauvestre; inaugurada el 31 de marzo de 1889; pensada como temporal y conservada por apoyo público; la más alta hasta 1931 (Chrysler). ⚠ fuente de récords, no académica; da 1931, no 1930.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Tour Eiffel (sitio oficial), «The construction of the Eiffel Tower, an exemplary project»",
+    "url": "https://www.toureiffel.paris/en/news/130-years/construction-eiffel-tower-exemplary-project",
+    "checks": "18.000 piezas calculadas y dibujadas de antemano; dos tercios de 2,5 millones de remaches en fábrica y el resto en obra; montaje desde el 1 de julio de 1887; 22 meses; inauguración el 31 de marzo de 1889.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Eiffel Tower»",
+    "url": "https://britannica.com/topic/Eiffel-Tower-Paris-France",
+    "checks": "Estructura de hierro forjado diseñada y construida por Gustave Eiffel entre 1887 y 1889 para la Exposición Internacional. ⚠ el resumen consultado no nombra a Koechlin, Nouguier ni Sauvestre.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «tallest until 1930»: Guinness da 1931 (superada por el Chrysler); lo atribuí a Guinness.",
+   "«Thousands of parts… about two years» pasó a 18.000 piezas y 22 meses (sitio oficial); los remaches no se unieron solo en obra, dos tercios en fábrica.",
+   "Quité «built on the Champ de Mars as the entrance to the Exposition»: no confirmado en las fuentes consultadas.",
+   "«Designed by his engineers» pasó a «ideada por» según Guinness; la Britannica atribuye el diseño a Eiffel."
+  ]
+ },
+ {
+  "id": "cheret-posters",
+  "en": {
+   "key": "The colour lithograph posters of Jules Chéret, whose bright, moving figures turned the Paris street poster into a pictorial art.[1][2][3]",
+   "more": "Chéret apprenticed as a lithographer, worked in London from 1859 to 1866, and in 1866 set up his own lithography firm in Paris.[1][2] His posters for theatres, music halls, dance halls and products caught the joie de vivre of Parisian entertainment,[3] and his style featured young women in movement known as chérettes.[2] Unlike contemporaries who hired artists to design for craftsmen to copy, he worked directly on the stone.[1] He designed over a thousand posters and is called the father of the modern poster;[1][2] his posters were widely collected.[2]"
+  },
+  "es": {
+   "key": "Los carteles litografiados en color de Jules Chéret, cuyas figuras vivas y luminosas hicieron del cartel callejero de París un arte de la imagen.[1][2][3]",
+   "more": "Chéret se formó como litógrafo, trabajó en Londres de 1859 a 1866 y en 1866 abrió su propia casa de litografía en París.[1][2] Sus carteles para teatros, music halls, bailes y productos captaban la joie de vivre del espectáculo parisino,[3] y su estilo presentaba mujeres jóvenes en movimiento conocidas como chérettes.[2] A diferencia de sus contemporáneos, que contrataban artistas para diseñar y artesanos para copiar, él trabajaba directamente sobre la piedra.[1] Diseñó más de mil carteles y se le llama el padre del cartel moderno;[1][2] sus carteles se coleccionaron mucho.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Jules Chéret»",
+    "url": "https://www.britannica.com/biography/Jules-Cheret",
+    "checks": "Aprendiz de litógrafo desde 1849; en Londres 1859–1866; casa de litografía propia en París en 1866; trabajaba directamente sobre la piedra, a diferencia de quienes encargaban el diseño; más de 1.000 carteles; «padre del cartel moderno». ⚠ el resumen consultado no menciona las «chérettes».",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "EBSCO Research Starters, «Jules Chéret»",
+    "url": "https://www.ebsco.com/research-starters/history/jules-cheret/",
+    "checks": "Se fue a Londres en 1859; en 1866 volvió a Francia con la cromolitografía; «Chérettes»; más de 1.000 diseños; «padre del cartel moderno»; carteles coleccionados. ⚠ enciclopedia divulgativa.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Victoria and Albert Museum, «Poster: Chéret, Jules» (L’Arc en Ciel, 1893)",
+    "url": "https://collections.vam.ac.uk/item/O35228/poster-cheret-jules/",
+    "checks": "Litografía en color; cartel de teatro (Folies-Bergère); alegría de cabarés, music halls, bailes y teatros; popularizó el cartel pictórico en color.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «had learned lithography in London»: se formó como aprendiz de litógrafo desde 1849 y trabajó en Londres de 1859 a 1866 (Britannica).",
+   "Quité «a few bright colours» y «the lines and colour were all his own»: pasó a trabajar directamente sobre la piedra, que sí consta.",
+   "Quité «shown in exhibitions»: solo consta que se coleccionaron. «Dancing, laughing women» pasó a «mujeres jóvenes en movimiento»."
+  ]
+ }
+]

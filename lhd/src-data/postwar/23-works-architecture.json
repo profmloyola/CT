@@ -1,0 +1,2096 @@
+{
+ "works": [
+  {
+   "id": "unite-habitation",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Unité d’Habitation, Marseille",
+   "designers": [
+    "le-corbusier"
+   ],
+   "client": "French State",
+   "year": 1952,
+   "date": "1952",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Béton brut (raw reinforced concrete), glass, painted loggia panels",
+   "tech": [
+    "modulor",
+    "prestressed-concrete"
+   ],
+   "key": "Le Corbusier’s 18-storey apartment block in Marseille, a vertical community of duplex flats, interior streets and shared services raised on concrete pilotis.[1][3]",
+   "more": "It was commissioned in July 1945 by Raoul Dautry, France’s Minister of Reconstruction, and inaugurated on 14 October 1952 as part of post-war reconstruction.[1][2] The Fondation Le Corbusier counts 330 dwellings in 23 types, while the Cité de l’architecture counts 337, including 16 hotel rooms.[1][2] Many are two-level duplexes, with a shopping street on the seventh and eighth floors and a roof terrace with a gymnasium, theatre and nursery school.[1][2] Its design follows Le Corbusier’s Modulor system,[1][2] and exposed concrete (béton brut) is its aesthetic material; the Foundation presents it as an example of Brutalism.[1][2]",
+   "status": "Still inhabited; the building is listed as a historic monument and is part of Le Corbusier’s UNESCO World Heritage serial site.",
+   "es": {
+    "title": "Unité de Habitación de Marsella",
+    "date": "1952",
+    "materials": "Hormigón armado a la vista (béton brut), vidrio, paneles pintados en las logias",
+    "key": "El bloque de departamentos de 18 pisos de Le Corbusier en Marsella, una comunidad vertical de dúplex, calles interiores y servicios comunes levantada sobre pilotes de hormigón.[1][3]",
+    "more": "Fue encargada en julio de 1945 por Raoul Dautry, ministro de Reconstrucción de Francia, e inaugurada el 14 de octubre de 1952 como parte de la reconstrucción de posguerra.[1][2] La Fondation Le Corbusier cuenta 330 viviendas en 23 tipos, mientras que la Cité de l’architecture cuenta 337, incluidas 16 habitaciones de hotel.[1][2] Muchas son dúplex de dos niveles, con una calle comercial en los pisos séptimo y octavo y una terraza en la azotea con gimnasio, teatro y jardín infantil.[1][2] Su diseño sigue el Modulor de Le Corbusier,[1][2] y el hormigón a la vista (béton brut) es su material estético; la Fundación la presenta como ejemplo de brutalismo.[1][2]",
+    "status": "Sigue habitado; el edificio es monumento histórico y forma parte del sitio del Patrimonio Mundial de la UNESCO dedicado a la obra de Le Corbusier.",
+    "short": "Unité de Habitación"
+   },
+   "refs": [
+    {
+     "label": "Fondation Le Corbusier, «Unité d’habitation, Marseille, France, 1945-1952»",
+     "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-unite-dhabitation-marseille-france-1945-1952/",
+     "checks": "Encargo el 20 de julio de 1945 del ministro Raoul Dautry; inaugurada el 14 de octubre de 1952; 330 viviendas en 23 tipos; Modulor; hormigón sobre pilotes; calles interiores en pisos 7-8; terraza con gimnasio, teatro y guardería; dúplex; ejemplo de brutalismo; fachadas protegidas desde 1964, sitio UNESCO. ⚠ cifra de viviendas distinta de la Cité.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Cité de l’architecture et du patrimoine, «Cité radieuse» (dossier)",
+     "url": "https://www.citedelarchitecture.fr/sites/default/files/documents/2017-09/fo_citeradieuse_def_0.pdf",
+     "checks": "1945-1952; 337 departamentos (321 más 16 habitaciones de hotel); dúplex tipo E2; calle comercial a media altura; terraza; Modulor; béton brut; 36 pilotes; encargo del Ministerio de Reconstrucción y Urbanismo. ⚠ cifras distintas de la Fundación.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Unité d’Habitation»",
+     "url": "https://www.britannica.com/topic/Unite-dHabitation-urban-complex-Marseille-France",
+     "checks": "Bloque de 18 pisos en Marsella terminado en 1952, comunidad vertical de uso mixto con piso comercial a media altura y servicios comunes en la azotea; unidades de dos niveles.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Unité d’Habitation",
+   "movements": [
+    "brutalism-metabolism"
+   ]
+  },
+  {
+   "id": "ronchamp-chapel",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Notre-Dame-du-Haut, Ronchamp",
+   "designers": [
+    "le-corbusier"
+   ],
+   "client": "Roman Catholic Church (Besançon diocese)",
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Reinforced concrete, whitewashed walls, coloured glass",
+   "tech": [],
+   "key": "Le Corbusier’s pilgrimage chapel on a hill in eastern France, a sculptural building of white curved walls and a concrete shell roof, with light entering through openings.[2][3]",
+   "more": "It replaced the earlier chapel on the hill, destroyed in 1944,[1][3] and was built between 1953 and 1955[3] and inaugurated on 25 June 1955.[1] Reinforced concrete columns carry free-form walls built largely from stones salvaged from the ruins, under a curved roof of two thin concrete membranes.[2][3] Light is filtered through openings in the walls.[2] UNESCO describes it as a revolutionary approach to religious architecture, and it has belonged to the Le Corbusier serial World Heritage site since 2016.[4]",
+   "status": "Still a place of worship and pilgrimage, and open to visitors; part of Le Corbusier’s UNESCO World Heritage serial site.",
+   "es": {
+    "title": "Capilla de Notre-Dame-du-Haut en Ronchamp",
+    "date": "1955",
+    "materials": "Hormigón armado, muros encalados, vidrio de color",
+    "key": "La capilla de peregrinación de Le Corbusier en una colina del este de Francia, una obra escultórica de muros blancos y curvos y una cubierta de hormigón en forma de cascarón, con luz que entra por aberturas.[2][3]",
+    "more": "Reemplazó a la capilla anterior de la colina, destruida en 1944,[1][3] y se construyó entre 1953 y 1955[3] y se inauguró el 25 de junio de 1955.[1] Columnas de hormigón armado sostienen muros de forma libre, levantados en buena parte con piedras rescatadas de las ruinas, bajo una cubierta curva de dos delgadas membranas de hormigón.[2][3] La luz se filtra por aberturas de los muros.[2] La UNESCO la describe como un enfoque revolucionario de la arquitectura religiosa, y forma parte del sitio serial de Le Corbusier del Patrimonio Mundial desde 2016.[4]",
+    "status": "Sigue siendo lugar de culto y peregrinación, abierta a visitantes; forma parte del sitio del Patrimonio Mundial de la UNESCO dedicado a la obra de Le Corbusier.",
+    "short": "Capilla de Ronchamp"
+   },
+   "refs": [
+    {
+     "label": "Fondation Le Corbusier, «Chapelle Notre-Dame du Haut, Ronchamp»",
+     "url": "https://www.fondationlecorbusier.fr/en/?p=17619",
+     "checks": "Inaugurada el 25 de junio de 1955; reemplazó a la capilla destruida por bombardeo en 1944; hormigón; sitio UNESCO desde 2016.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Chapelle Le Corbusier Ronchamp (sitio oficial), «The chapel Notre-Dame du Haut»",
+     "url": "https://www.chapelle-lecorbusier-ronchamp.com/en/the-chapel-notre-dame-du-haut/",
+     "checks": "Destruida en 1944; obra de fines de 1953 a 1955; 15 columnas de hormigón armado y muros libres con piedras de la capilla destruida; cubierta de dos membranas de hormigón de 6 cm; luz filtrada por aberturas; lugar de peregrinación. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Chapelle Le Corbusier Ronchamp (sitio oficial), «The buildings»",
+     "url": "https://www.chapelle-lecorbusier-ronchamp.com/en/discovering-the-hill/the-buildings/",
+     "checks": "Capilla neogótica destruida en septiembre de 1944; obra entre 1953 y 1955; exterior blanco, fachadas curvas, concreto armado, muros mayormente con piedras de las ruinas; peregrinación activa. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "UNESCO World Heritage Centre, «The Architectural Work of Le Corbusier» (1321)",
+     "url": "https://whc.unesco.org/en/list/1321",
+     "checks": "Inscripción en 2016, 17 sitios en siete países; Ronchamp como componente; «enfoque revolucionario de la arquitectura religiosa». ⚠ resumen automático; verificar la cita textual.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Ronchamp chapel"
+  },
+  {
+   "id": "seagram-building",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Seagram Building",
+   "designers": [
+    "mies-van-der-rohe"
+   ],
+   "client": "Joseph E. Seagram & Sons",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, bronze-tinted glass, bronze, travertine",
+   "tech": [],
+   "key": "Mies van der Rohe’s bronze-and-glass tower on Park Avenue in New York, built for Joseph E. Seagram & Sons and set 100 feet back from the street behind an open plaza.[1]",
+   "more": "The 38-storey steel-frame tower was built between 1956 and 1958 for Joseph E. Seagram & Sons, with Philip Johnson as associated architect.[1] Its curtain wall has about 153,000 square feet of bronze and 122,000 of pinkish-grey tinted glass, and bronze I-beam extrusions on the exterior express its structure.[1] The tower stands 100 feet back from Park Avenue and covers only 52 per cent of its site.[1] The Landmarks Preservation Commission notes that its plaza influenced the 1961 zoning revision, which allowed larger buildings where public plazas were provided,[1] and it designated the building a landmark on 3 October 1989.[1]",
+   "status": "Still standing and in office use; a New York City landmark.",
+   "es": {
+    "title": "Edificio Seagram",
+    "date": "1958",
+    "materials": "Estructura de acero, vidrio bronceado, bronce, travertino",
+    "key": "La torre de bronce y vidrio de Mies van der Rohe en Park Avenue, Nueva York, construida para Joseph E. Seagram & Sons y retirada 100 pies de la calle tras una plaza abierta.[1]",
+    "more": "La torre de acero de 38 pisos se construyó entre 1956 y 1958 para Joseph E. Seagram & Sons, con Philip Johnson como arquitecto asociado.[1] Su muro cortina tiene unos 153.000 pies cuadrados de bronce y 122.000 de vidrio tintado gris rosado, y perfiles I de bronce extruido en el exterior expresan su estructura.[1] La torre se retira 100 pies de Park Avenue y ocupa solo el 52 por ciento del terreno.[1] La Comisión de Preservación de Monumentos señala que su plaza influyó en la revisión de la norma urbanística de 1961, que permitió edificios mayores si se ofrecían plazas públicas,[1] y la declaró monumento el 3 de octubre de 1989.[1]",
+    "status": "Sigue en pie y en uso como oficinas; es monumento de la ciudad de Nueva York."
+   },
+   "refs": [
+    {
+     "label": "New York City Landmarks Preservation Commission, «Seagram Building» (informe de designación)",
+     "url": "https://s-media.nyc.gov/agencies/lpc/lp/1664.pdf",
+     "checks": "Cliente Joseph E. Seagram & Sons; construcción 1956-1958; 38 pisos de estructura de acero; 153.000 pies² de bronce y 122.000 de vidrio tintado gris rosado; perfiles I de bronce de 4,5 × 6 pulgadas que expresan la estructura; 100 pies de retiro y 52 % del terreno; Philip Johnson arquitecto asociado; influyó en la norma de 1961; designado el 3 de octubre de 1989. ⚠ solo una fuente; no confirma travertino ni «modelo del rascacielos corporativo».",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "interbau-hansaviertel",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "estate",
+   "title": "Interbau, Hansaviertel, Berlin",
+   "designers": [
+    "gropius",
+    "le-corbusier",
+    "oscar-niemeyer"
+   ],
+   "client": "West Berlin Senate",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Reinforced concrete, brick, glass",
+   "tech": [],
+   "key": "The Hansaviertel in West Berlin, a war-ruined district rebuilt as the 1957 International Building Exhibition, with housing by architects from many countries.",
+   "more": "Interbau 1957 rebuilt a district of Berlin that had been largely destroyed in the war as a showcase of modern housing, with towers, slab blocks and low houses set among trees and open space. Architects invited from several countries took part, among them Walter Gropius, Oscar Niemeyer and Alvar Aalto. Le Corbusier’s Unité d’Habitation was built nearby on the exhibition grounds at the edge of the Olympic stadium area.",
+   "status": "Still a residential district; many of its buildings are protected monuments.",
+   "es": {
+    "title": "Interbau, Hansaviertel de Berlín",
+    "date": "1957",
+    "materials": "Hormigón armado, ladrillo, vidrio",
+    "key": "El Hansaviertel de Berlín Occidental, un barrio arrasado por la guerra y reconstruido como la Exposición Internacional de la Construcción de 1957, con viviendas de arquitectos de muchos países.",
+    "more": "Interbau 1957 reconstruyó como escaparate de la vivienda moderna un barrio de Berlín destruido en gran parte durante la guerra, con torres, bloques en barra y casas bajas entre árboles y espacios abiertos. Participaron arquitectos invitados de varios países, entre ellos Walter Gropius, Oscar Niemeyer y Alvar Aalto. La Unité d’Habitation de Le Corbusier se construyó cerca, en el recinto de la exposición, junto a la zona del estadio olímpico.",
+    "status": "Sigue siendo un barrio residencial; muchos de sus edificios están protegidos como monumentos.",
+    "short": "Interbau Hansaviertel"
+   },
+   "refs": [],
+   "short": "Interbau Hansaviertel"
+  },
+  {
+   "id": "eames-house",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Eames House (Case Study House 8)",
+   "designers": [
+    "eames"
+   ],
+   "client": "Arts & Architecture magazine",
+   "year": 1949,
+   "date": "1949",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, glass, stucco and plywood panels",
+   "tech": [
+    "modular-systems"
+   ],
+   "key": "The house and studio that Charles and Ray Eames built for themselves in Pacific Palisades, California, assembled from standard industrial steel parts.",
+   "more": "Case Study House 8 was part of the programme of model houses promoted by the magazine Arts & Architecture. Charles Eames and Eero Saarinen first drew a design, but after the steel parts had been ordered the Eameses redesigned it, with a lower profile and a steel frame of catalogue components with infill panels in bright colours. They finished it in 1949 and lived in it for the rest of their lives.",
+   "status": "Preserved and open to visitors by the Eames Foundation.",
+   "es": {
+    "title": "Casa Eames (Case Study House 8)",
+    "date": "1949",
+    "materials": "Estructura de acero, vidrio, paneles de estuco y de terciado",
+    "key": "La casa y taller que Charles y Ray Eames construyeron para sí mismos en Pacific Palisades, California, armada con piezas industriales de acero estándar.",
+    "more": "La Case Study House 8 formó parte del programa de casas modelo promovido por la revista Arts & Architecture. Charles Eames y Eero Saarinen hicieron un primer diseño, pero cuando ya se habían encargado las piezas de acero, los Eames lo rehicieron con un perfil más bajo y una estructura de acero de componentes de catálogo, con paneles de relleno de colores vivos. La terminaron en 1949 y vivieron en ella el resto de sus vidas.",
+    "status": "Conservada y abierta a visitas por la Fundación Eames.",
+    "short": "Casa Eames"
+   },
+   "refs": [],
+   "short": "Eames House",
+   "movements": [
+    "mid-century-modern"
+   ]
+  },
+  {
+   "id": "hfg-ulm-building",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "HfG Ulm building",
+   "designers": [
+    "max-bill"
+   ],
+   "client": "Hochschule für Gestaltung Ulm",
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Exposed reinforced concrete, brick infill, glass",
+   "tech": [
+    "modular-systems"
+   ],
+   "key": "Max Bill’s concrete school building on the Kuhberg hill above Ulm, which housed the Hochschule für Gestaltung and set the sober look of the school.",
+   "more": "Max Bill, one of the school’s founders and its first rector, designed the buildings, which were built in stages between about 1953 and 1955. They are an arrangement of low blocks linked by walkways, built on a concrete frame on a regular grid, with teaching rooms, workshops, a canteen and student housing. The plain concrete and strict modular order reflected the school’s ideas about rational design.",
+   "status": "The school closed in 1968; the buildings survive, house the HfG archive and are protected as a monument.",
+   "es": {
+    "title": "Edificio de la HfG de Ulm",
+    "date": "1955",
+    "materials": "Hormigón armado a la vista, relleno de ladrillo, vidrio",
+    "key": "El edificio de hormigón que Max Bill proyectó para la Hochschule für Gestaltung en la colina de Kuhberg, sobre Ulm, y que fijó el aspecto sobrio de la escuela.",
+    "more": "Max Bill, uno de los fundadores de la escuela y su primer rector, proyectó los edificios, que se construyeron por etapas entre c. 1953 y 1955. Son un conjunto de bloques bajos unidos por pasarelas, levantado con estructura de hormigón sobre una retícula regular, con aulas, talleres, comedor y residencia de estudiantes. El hormigón sin adornos y el orden modular estricto reflejaban las ideas de la escuela sobre el diseño racional.",
+    "status": "La escuela cerró en 1968; los edificios se conservan, alojan el archivo de la HfG y están protegidos como monumento.",
+    "short": "Edificio HfG Ulm"
+   },
+   "refs": [],
+   "short": "HfG Ulm building"
+  },
+  {
+   "id": "brasilia-plano-piloto",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Brasília: Pilot Plan and Praça dos Três Poderes",
+   "designers": [
+    "lucio-costa",
+    "oscar-niemeyer"
+   ],
+   "client": "Government of Brazil",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced and prestressed concrete, glass",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "The new Brazilian capital, whose Pilot Plan Lúcio Costa laid out on two intersecting axes and whose main public buildings Oscar Niemeyer designed.[1][2]",
+   "more": "Lúcio Costa designed the Pilot Plan, built between 1956 and 1960 as part of President Juscelino Kubitschek’s modernisation project.[1] Two intersecting axes structure it: a monumental east-west axis for administrative functions and a curved north-south axis that follows the terrain, with residents in six-storey superblocks raised on pylons.[1] Oscar Niemeyer designed the official buildings,[1][2] among them the Congress, the Planalto Palace and the Supreme Court around the Praça dos Três Poderes, dedicated on 21 April 1960 when the federal government began moving from Rio de Janeiro.[2] UNESCO inscribed the city in 1987.[1]",
+   "status": "Brasília is the capital of Brazil; its core is a UNESCO World Heritage site (1987).",
+   "es": {
+    "title": "Brasilia: Plan Piloto y Plaza de los Tres Poderes",
+    "date": "1957",
+    "materials": "Hormigón armado y pretensado, vidrio",
+    "key": "La nueva capital de Brasil, cuyo Plan Piloto trazó Lúcio Costa sobre dos ejes que se cruzan y cuyos principales edificios públicos proyectó Oscar Niemeyer.[1][2]",
+    "more": "Lúcio Costa proyectó el Plan Piloto, construido entre 1956 y 1960 como parte del proyecto de modernización del presidente Juscelino Kubitschek.[1] Lo estructuran dos ejes que se cruzan: un eje monumental este-oeste para las funciones administrativas y un eje curvo norte-sur que sigue el terreno, con vivienda en superbloques de seis pisos sobre pilotes.[1] Oscar Niemeyer proyectó los edificios oficiales,[1][2] entre ellos el Congreso, el Palacio del Planalto y el Supremo Tribunal en torno a la Plaza de los Tres Poderes, inaugurada el 21 de abril de 1960 cuando el gobierno federal comenzó a trasladarse desde Río de Janeiro.[2] La UNESCO inscribió la ciudad en 1987.[1]",
+    "status": "Brasilia es la capital de Brasil; su núcleo es sitio del Patrimonio Mundial de la UNESCO (1987).",
+    "short": "Plan Piloto Brasilia"
+   },
+   "refs": [
+    {
+     "label": "UNESCO World Heritage Centre, «Brasilia»",
+     "url": "https://whc.unesco.org/en/list/445/",
+     "checks": "Lúcio Costa, Plan Piloto; Niemeyer, edificios oficiales; Kubitschek; construcción 1956-1960; dos ejes que se cruzan (monumental este-oeste, curvo norte-sur); superbloques de seis pisos sobre pilotes; Plaza de los Tres Poderes; inscrita en 1987.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica Students, «Brasília»",
+     "url": "https://kids.britannica.com/students/article/Bras%C3%ADlia/273335",
+     "checks": "Costa trazó la ciudad y Niemeyer proyectó sus estructuras principales; el 21 de abril de 1960 se inauguró la Plaza de los Tres Poderes y comenzó el traslado del gobierno desde Río; Congreso, Planalto y Supremo Tribunal; patrimonio UNESCO 1987. ⚠ versión para estudiantes.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Brasília Pilot Plan"
+  },
+  {
+   "id": "alvorada-palace",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Palácio da Alvorada",
+   "designers": [
+    "oscar-niemeyer"
+   ],
+   "client": "Government of Brazil",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced and prestressed concrete, glass, marble",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Oscar Niemeyer’s palace for the president of Brazil in Brasília, a glass box ringed by slender white curved columns, one of the first buildings of the new capital.",
+   "more": "Completed in 1958, it was among the first monumental buildings of Brasília and serves as the official residence of the president. A veranda of curved concrete columns, which became a symbol of Niemeyer’s work, surrounds the glazed volume, and a ramp leads to the entrance. The thin columns seem to touch the ground only lightly, and their curve is repeated in the reflection on the pool beside it.",
+   "status": "Still the official residence of the president of Brazil.",
+   "es": {
+    "title": "Palacio de la Alvorada",
+    "date": "1958",
+    "materials": "Hormigón armado y pretensado, vidrio, mármol",
+    "key": "El palacio de Oscar Niemeyer para el presidente de Brasil en Brasilia, una caja de vidrio rodeada de esbeltas columnas blancas curvas, uno de los primeros edificios de la nueva capital.",
+    "more": "Terminado en 1958, fue de los primeros edificios monumentales de Brasilia y sirve de residencia oficial del presidente. Una galería de columnas curvas de hormigón, que se volvió símbolo de la obra de Niemeyer, rodea el volumen acristalado, y una rampa lleva a la entrada. Las columnas delgadas parecen tocar el suelo apenas, y su curva se repite en el reflejo del espejo de agua contiguo.",
+    "status": "Sigue siendo la residencia oficial del presidente de Brasil."
+   },
+   "refs": []
+  },
+  {
+   "id": "brasilia-cathedral",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Brasília Cathedral",
+   "designers": [
+    "oscar-niemeyer"
+   ],
+   "maker": "Oscar Niemeyer; structure by Joaquim Cardozo",
+   "client": "Archdiocese of Brasília",
+   "year": 1970,
+   "date": "1970",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced and prestressed concrete, glass",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Oscar Niemeyer’s cathedral for Brasília, a hyperboloid crown of curved concrete ribs rising from a circular base on the capital’s monumental axis.",
+   "more": "Sixteen curved concrete columns meet at the top in a hyperboloid form, with glass filling the gaps between them. Visitors enter through a dark underground passage and emerge into the bright nave. The engineer Joaquim Cardozo, Niemeyer’s frequent collaborator, calculated the structure, and the cathedral was consecrated in 1970.",
+   "status": "Standing and in use as the cathedral of Brasília.",
+   "es": {
+    "title": "Catedral de Brasilia",
+    "date": "1970",
+    "materials": "Hormigón armado y pretensado, vidrio",
+    "key": "La catedral de Oscar Niemeyer para Brasilia, una corona hiperboloide de costillas curvas de hormigón que se alza desde una base circular en el eje monumental de la capital.",
+    "more": "Dieciséis columnas curvas de hormigón se unen en lo alto en una forma de hiperboloide, con vidrio en los espacios entre ellas. Se entra por un pasaje subterráneo oscuro y se sale a una nave luminosa. El ingeniero Joaquim Cardozo, colaborador habitual de Niemeyer, calculó la estructura, y la catedral se consagró en 1970.",
+    "status": "En pie y en uso como catedral de Brasilia."
+   },
+   "refs": []
+  },
+  {
+   "id": "masp",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "São Paulo Museum of Art (MASP)",
+   "designers": [
+    "lina-bo-bardi"
+   ],
+   "client": "Museu de Arte de São Paulo",
+   "year": 1968,
+   "date": "1968",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Prestressed concrete, glass",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Lina Bo Bardi’s museum on Avenida Paulista, a glass and concrete building hung from prestressed beams above a free public space.[1][2]",
+   "more": "The main volume is held by prestressed concrete beams, leaving a free span of 74 metres at street level, for a long time the largest in Latin America.[2] The museum calls this space a multipurpose public square.[1] Inside, Bo Bardi displayed the paintings on glass easels of her own design, so that visitors move around the works and see their backs.[1][2] The building went up on Avenida Paulista in 1968, designed by Bo Bardi in 1957, and the museum calls it a landmark of 20th-century architecture.[1][2]",
+   "status": "Still the home of the museum, in use today.",
+   "es": {
+    "title": "Museo de Arte de São Paulo (MASP)",
+    "date": "1968",
+    "materials": "Hormigón pretensado, vidrio",
+    "key": "El museo de Lina Bo Bardi en la avenida Paulista, un edificio de vidrio y hormigón colgado de vigas pretensadas sobre un espacio público libre.[1][2]",
+    "more": "El volumen principal lo sostienen vigas de hormigón pretensado, que dejan una luz libre de 74 metros a nivel de calle, por mucho tiempo la mayor de América Latina.[2] El museo describe ese espacio como una plaza pública multiuso.[1] Adentro, Bo Bardi expuso las pinturas en caballetes de vidrio diseñados por ella, de modo que el visitante se mueve entre las obras y ve sus reversos.[1][2] El edificio se levantó en la avenida Paulista en 1968, proyectado por Bo Bardi en 1957, y el museo lo considera un hito de la arquitectura del siglo XX.[1][2]",
+    "status": "Sigue siendo la sede del museo y está en uso.",
+    "short": "MASP"
+   },
+   "refs": [
+    {
+     "label": "MASP, «About»",
+     "url": "https://masp.org.br/en/about",
+     "checks": "Edificio de Lina Bo Bardi en la avenida Paulista en 1968; luz libre bajo vigas de hormigón que forma una plaza pública multiuso; vidrio y hormigón; caballetes de vidrio en el segundo piso que permiten ver las obras por detrás; «hito de la arquitectura del siglo XX». ⚠ no da la cifra de la luz.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Docomomo Brasil, «Mulheres e o vão do MASP» (PDF)",
+     "url": "https://docomomobrasil.com/wp-content/uploads/2021/12/mulheres-vao-masp.pdf",
+     "checks": "Cuatro vigas pretensadas; luz libre de 74 m, por mucho tiempo la mayor de América Latina; inauguración en 1968, proyecto de 1957; cavaletes de vidrio. ⚠ el diseño de los caballetes como obra de Bo Bardi lo sostiene el sitio del museo solo de modo implícito.",
+     "date": "2026-10-06"
+    }
+   ],
+   "short": "MASP",
+   "movements": [
+    "brutalism-metabolism"
+   ]
+  },
+  {
+   "id": "casa-de-vidro",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Glass House (Casa de Vidro)",
+   "designers": [
+    "lina-bo-bardi"
+   ],
+   "client": "Lina Bo Bardi and Pietro Maria Bardi",
+   "year": 1951,
+   "date": "1951",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced concrete, glass",
+   "tech": [],
+   "key": "Lina Bo Bardi’s own house in São Paulo’s Morumbi district, a glass-walled box raised on slender pilotis above a wooded hillside.",
+   "more": "Bo Bardi designed it for herself and her husband, Pietro Maria Bardi, and finished it in 1951. The living areas sit in a glazed volume lifted on pilotis, open to the surrounding trees, while the service and bedroom wing stands at ground level. Over the years the vegetation grew around the house, which now holds the Instituto Bardi.",
+   "status": "Preserved; it houses the Instituto Bardi.",
+   "es": {
+    "title": "Casa de Vidro de Lina Bo Bardi",
+    "date": "1951",
+    "materials": "Hormigón armado, vidrio",
+    "key": "La casa propia de Lina Bo Bardi en el barrio Morumbi de São Paulo, una caja de paredes de vidrio levantada sobre pilotis delgados en una ladera boscosa.",
+    "more": "Bo Bardi la proyectó para ella y su marido, Pietro Maria Bardi, y la terminó en 1951. Los espacios de estar están en un volumen vidriado elevado sobre pilotis, abierto a los árboles del entorno, mientras que el ala de servicio y dormitorios queda a nivel del suelo. Con los años la vegetación creció alrededor de la casa, que hoy alberga el Instituto Bardi.",
+    "status": "Se conserva y alberga el Instituto Bardi.",
+    "short": "Casa de Vidro"
+   },
+   "refs": [],
+   "short": "Glass House"
+  },
+  {
+   "id": "unam-central-library",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "UNAM Central Library",
+   "designers": [
+    "juan-ogorman"
+   ],
+   "maker": "Juan O’Gorman with Gustavo Saavedra and Juan Martínez de Velasco",
+   "client": "National Autonomous University of Mexico",
+   "year": 1952,
+   "date": "1952",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Reinforced concrete, mosaics of coloured natural stone",
+   "tech": [],
+   "key": "Juan O’Gorman’s library for the new University City in Mexico City, a tower of books whose walls are covered with stone mosaic murals.",
+   "more": "O’Gorman designed it with Gustavo Saavedra and Juan Martínez de Velasco as a closed stack tower on a low reading block. He covered the blank walls of the tower with mosaics of coloured natural stones that tell the history and culture of Mexico, merging mural art with architecture. It stands on the central campus of the University City, inscribed on the UNESCO World Heritage List in 2007.",
+   "status": "In use as the university’s central library.",
+   "es": {
+    "title": "Biblioteca Central de la UNAM",
+    "date": "1952",
+    "materials": "Hormigón armado, mosaicos de piedras naturales de colores",
+    "key": "La biblioteca de Juan O’Gorman para la nueva Ciudad Universitaria de Ciudad de México, una torre de libros cuyos muros están cubiertos de murales de mosaico de piedra.",
+    "more": "O’Gorman la proyectó junto con Gustavo Saavedra y Juan Martínez de Velasco como una torre cerrada de depósito de libros sobre un bloque bajo de lectura. Cubrió los muros ciegos de la torre con mosaicos de piedras naturales de colores que narran la historia y la cultura de México, y así fundió el arte mural con la arquitectura. Se alza en el campus central de la Ciudad Universitaria, inscrito en la Lista del Patrimonio Mundial de la UNESCO en 2007.",
+    "status": "En uso como biblioteca central de la universidad.",
+    "short": "Biblioteca UNAM"
+   },
+   "refs": [],
+   "short": "UNAM Central Library"
+  },
+  {
+   "id": "museo-antropologia-mexico",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "National Museum of Anthropology, Mexico City",
+   "designers": [
+    "ramirez-vazquez"
+   ],
+   "maker": "Pedro Ramírez Vázquez with Rafael Mijares and Jorge Campuzano",
+   "client": "Mexican government",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Reinforced concrete, stone, volcanic rock cladding",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Pedro Ramírez Vázquez’s museum in Chapultepec Park, with exhibition halls around a great courtyard shaded by a huge concrete umbrella.",
+   "more": "Ramírez Vázquez led the project with the architects Rafael Mijares and Jorge Campuzano, and it opened in 1964. The halls for the pre-Hispanic cultures are arranged around a central courtyard, covered in part by a vast concrete roof held up by a single central column and crowned by a fountain. Reliefs, murals and sculptures are built into the architecture.",
+   "status": "In use as the national museum.",
+   "es": {
+    "title": "Museo Nacional de Antropología de México",
+    "date": "1964",
+    "materials": "Hormigón armado, piedra y revestimiento de roca volcánica",
+    "key": "El museo de Pedro Ramírez Vázquez en el Bosque de Chapultepec, con salas de exhibición en torno a un gran patio cubierto por un enorme paraguas de hormigón.",
+    "more": "Ramírez Vázquez dirigió el proyecto junto con los arquitectos Rafael Mijares y Jorge Campuzano, y se inauguró en 1964. Las salas de las culturas prehispánicas se disponen en torno a un patio central, cubierto en parte por una enorme cubierta de hormigón sostenida por una sola columna central y rematada por una fuente. Relieves, murales y esculturas se integran a la arquitectura.",
+    "status": "En uso como museo nacional.",
+    "short": "Museo de Antropología"
+   },
+   "refs": [],
+   "short": "Museum of Anthropology"
+  },
+  {
+   "id": "cuba-escuelas-arte",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "National Art Schools, Havana",
+   "designers": [
+    "ricardo-porro"
+   ],
+   "maker": "Ricardo Porro, Vittorio Garatti and Roberto Gottardi",
+   "client": "Cuban revolutionary government",
+   "year": 1961,
+   "date": "1961",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CU"
+   ],
+   "materials": "Catalan brick and terracotta vaults",
+   "tech": [],
+   "key": "A campus of art schools on the grounds of a former golf club in Havana, built with brick Catalan vaults and domes in place of scarce steel and concrete.",
+   "more": "The new government commissioned the schools in 1961, and Porro designed the schools of plastic arts and modern dance, while Vittorio Garatti and Roberto Gottardi designed others on the same site. With steel and concrete in short supply, they used local brick and terracotta in vaults and domes, with curving forms laid out like a village. Work was halted before completion and several buildings were left unfinished.",
+   "status": "Partly used as art schools; some buildings remain unfinished or restored in part.",
+   "es": {
+    "title": "Escuelas Nacionales de Arte de La Habana",
+    "date": "1961",
+    "materials": "Bóvedas catalanas de ladrillo y terracota",
+    "key": "Un campus de escuelas de arte en los terrenos de un antiguo club de golf de La Habana, construido con bóvedas y cúpulas catalanas de ladrillo en lugar de acero y hormigón escasos.",
+    "more": "El nuevo gobierno encargó las escuelas en 1961. Porro proyectó las de artes plásticas y danza moderna, mientras que Vittorio Garatti y Roberto Gottardi diseñaron otras en el mismo sitio. Como el acero y el hormigón escaseaban, usaron ladrillo y terracota locales en bóvedas y cúpulas, con formas curvas dispuestas como un poblado. Las obras se detuvieron antes de terminar y varios edificios quedaron inconclusos.",
+    "status": "En uso parcial como escuelas de arte; algunos edificios siguen inconclusos o restaurados solo en parte.",
+    "short": "Escuelas de Arte"
+   },
+   "refs": [],
+   "short": "National Art Schools"
+  },
+  {
+   "id": "casa-curutchet",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Curutchet House",
+   "designers": [
+    "le-corbusier"
+   ],
+   "client": "Dr. Pedro Domingo Curutchet",
+   "year": 1953,
+   "date": "1953",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "AR"
+   ],
+   "materials": "Reinforced concrete, brick, glass",
+   "tech": [
+    "modulor"
+   ],
+   "key": "Le Corbusier’s house and surgery for a doctor in La Plata, the only building he designed in Argentina, fitted between party walls around a courtyard with a ramp.",
+   "more": "Le Corbusier designed it from Paris in 1949 for the surgeon Pedro Domingo Curutchet, and it was built in the early 1950s. On a narrow lot between party walls, he separated the consulting rooms from the family home with a planted patio and linked them by a ramp, adding a brise-soleil on the street front. Proportions follow his Modulor system.",
+   "status": "Preserved as a museum and a World Heritage site.",
+   "es": {
+    "title": "Casa Curutchet de Le Corbusier",
+    "date": "1953",
+    "materials": "Hormigón armado, ladrillo, vidrio",
+    "key": "La casa y consultorio que Le Corbusier proyectó para un médico de La Plata, su única obra en Argentina, encajada entre medianeras en torno a un patio con una rampa.",
+    "more": "Le Corbusier la proyectó desde París en 1949 para el cirujano Pedro Domingo Curutchet, y se construyó a comienzos de los años cincuenta. En un lote angosto entre medianeras, separó el consultorio de la casa familiar con un patio plantado y los unió con una rampa, y agregó un parasol en la fachada a la calle. Sus proporciones siguen el sistema del Modulor.",
+    "status": "Se conserva como museo y es Patrimonio Mundial.",
+    "short": "Casa Curutchet"
+   },
+   "refs": [],
+   "short": "Curutchet House"
+  },
+  {
+   "id": "pirelli-tower",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Pirelli Tower, Milan",
+   "designers": [
+    "gio-ponti"
+   ],
+   "maker": "Gio Ponti with Pier Luigi Nervi and Arturo Danusso (structure)",
+   "client": "Pirelli",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Reinforced and prestressed concrete, steel and glass curtain wall",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "The Milan headquarters of the Pirelli tyre company, a slender skyscraper with a tapering plan and pointed ends, designed by Gio Ponti.",
+   "more": "Ponti designed it with a team of architects, and Pier Luigi Nervi and Arturo Danusso worked on the structure. Its plan narrows to pointed ends, and the façade is a glazed curtain wall, so it reads as a thin blade rather than a block. Finished in 1960 at c. 127 metres, it became the symbol of Milan’s postwar growth.",
+   "status": "Standing; since 1978 it has housed offices of the Lombardy regional government.",
+   "es": {
+    "title": "Torre Pirelli de Milán",
+    "date": "1958",
+    "materials": "Hormigón armado y pretensado, muro cortina de acero y vidrio",
+    "key": "La sede milanesa de la empresa de neumáticos Pirelli, un rascacielos esbelto de planta alargada con extremos en punta, proyectado por Gio Ponti.",
+    "more": "Ponti la proyectó con un equipo de arquitectos, y Pier Luigi Nervi y Arturo Danusso trabajaron en la estructura. Su planta se angosta hasta terminar en puntas y la fachada es un muro cortina vidriado, de modo que se lee como una hoja delgada y no como un bloque. Terminada en 1960 y de c. 127 metros, se volvió el símbolo del crecimiento de Milán en la posguerra.",
+    "status": "En pie; desde 1978 alberga oficinas del gobierno regional de Lombardía."
+   },
+   "refs": []
+  },
+  {
+   "id": "sas-royal-hotel",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "SAS Royal Hotel, Copenhagen",
+   "short": "SAS Royal Hotel",
+   "designers": [
+    "arne-jacobsen"
+   ],
+   "client": "Scandinavian Airlines System (SAS)",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "materials": "Steel frame, glass curtain wall, interior furniture and fittings",
+   "tech": [],
+   "key": "Arne Jacobsen’s hotel and air terminal tower for SAS in central Copenhagen, designed down to its furniture and cutlery.",
+   "more": "Built for Scandinavian Airlines and opened in 1960, it combined a hotel tower with a city air terminal in the centre of Copenhagen. Jacobsen designed not only the building but also its interiors, furniture and fittings; the Egg and Swan chairs were created for its lobby and rooms. Room 606 has been kept as a record of the original interior.",
+   "status": "Still standing and used as a hotel under a different name; room 606 survives with its original interior.",
+   "refs": [],
+   "es": {
+    "title": "SAS Royal Hotel de Copenhague",
+    "short": "SAS Royal Hotel",
+    "materials": "Estructura de acero, muro cortina de vidrio, mobiliario y equipamiento interior",
+    "key": "El hotel y torre terminal aérea que Arne Jacobsen diseñó para SAS en el centro de Copenhague, proyectado hasta los muebles y los cubiertos.",
+    "more": "Construido para Scandinavian Airlines e inaugurado en 1960, unió una torre de hotel con una terminal aérea urbana en el centro de Copenhague. Jacobsen diseñó no solo el edificio, sino también los interiores, los muebles y el equipamiento; las sillas Huevo y Cisne nacieron para su vestíbulo y sus habitaciones. La habitación 606 se ha conservado como testimonio del interior original.",
+    "status": "Sigue en pie y funciona como hotel con otro nombre; la habitación 606 se conserva con su interior original.",
+    "date": "1960"
+   }
+  },
+  {
+   "id": "twa-terminal",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "TWA Terminal at Idlewild (JFK)",
+   "short": "TWA Terminal",
+   "designers": [
+    "eero-saarinen"
+   ],
+   "client": "Trans World Airlines (TWA)",
+   "year": 1962,
+   "date": "1962",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Reinforced concrete shell, glass",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Eero Saarinen’s curved concrete terminal for TWA at New York’s Idlewild airport, shaped to suggest flight.",
+   "more": "Saarinen designed it for Trans World Airlines at Idlewild airport, renamed John F. Kennedy International in 1963. Its roof is a set of thin concrete shells whose swooping forms suggest a bird in flight, and its interior flows in curved, sculpted spaces. It opened in 1962, after Saarinen’s death in 1961.",
+   "status": "Closed as a terminal in 2001; restored and reopened in 2019 as a hotel.",
+   "refs": [],
+   "es": {
+    "title": "Terminal de TWA en Idlewild (JFK)",
+    "short": "Terminal TWA",
+    "materials": "Cáscara de hormigón armado, vidrio",
+    "key": "La terminal curva de hormigón que Eero Saarinen diseñó para TWA en el aeropuerto Idlewild de Nueva York, con una forma que sugiere el vuelo.",
+    "more": "Saarinen la diseñó para Trans World Airlines en el aeropuerto de Idlewild, rebautizado John F. Kennedy en 1963. Su techo es un conjunto de delgadas cáscaras de hormigón cuyas formas curvas evocan un ave en vuelo, y su interior fluye en espacios curvos y esculpidos. Se inauguró en 1962, después de la muerte de Saarinen en 1961.",
+    "status": "Dejó de ser terminal en 2001; fue restaurada y reabierta en 2019 como hotel.",
+    "date": "1962"
+   }
+  },
+  {
+   "id": "nakagin-capsule-tower",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Nakagin Capsule Tower",
+   "short": "Nakagin Tower",
+   "designers": [
+    "kurokawa"
+   ],
+   "year": 1972,
+   "date": "1972",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Concrete service towers, prefabricated steel capsules",
+   "tech": [
+    "prefab-panels"
+   ],
+   "key": "Kisho Kurokawa’s Tokyo tower of 140 prefabricated capsules plugged into two concrete cores, the best-known built work of Metabolism.",
+   "more": "Completed in 1972 in the Ginza district of Tokyo, it hung 140 small apartment capsules on two central concrete towers. Each capsule was built as a complete unit and was meant to be replaced individually as it aged, an idea taken from the Metabolist belief in architecture that grows and renews itself. In practice the capsules were never replaced.",
+   "status": "Demolished from 2022; some capsules were saved for museums and collections.",
+   "refs": [],
+   "es": {
+    "title": "Torre Cápsula Nakagin",
+    "short": "Torre Nakagin",
+    "materials": "Torres de servicio de hormigón, cápsulas de acero prefabricadas",
+    "key": "La torre de Kisho Kurokawa en Tokio, hecha de 140 cápsulas prefabricadas enchufadas a dos núcleos de hormigón, la obra construida más conocida del metabolismo.",
+    "more": "Terminada en 1972 en el barrio de Ginza, en Tokio, colgó 140 pequeños departamentos en forma de cápsula de dos torres centrales de hormigón. Cada cápsula se construyó como una unidad completa y debía reemplazarse por separado al envejecer, una idea tomada de la creencia metabolista en una arquitectura que crece y se renueva. En la práctica las cápsulas nunca se reemplazaron.",
+    "status": "Demolida desde 2022; algunas cápsulas se salvaron para museos y colecciones.",
+    "date": "1972"
+   },
+   "movements": [
+    "metabolism"
+   ]
+  },
+  {
+   "id": "fuller-geodesic-dome",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "United States Pavilion, Expo 67 (geodesic dome)",
+   "short": "Geodesic dome",
+   "designers": [
+    "buckminster-fuller"
+   ],
+   "client": "United States government",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "CA",
+    "US"
+   ],
+   "materials": "Steel tube lattice, acrylic panels",
+   "tech": [],
+   "key": "Buckminster Fuller’s huge geodesic dome for the American pavilion at Expo 67 in Montreal.",
+   "more": "The pavilion was a large near-spherical dome on Île Sainte-Hélène, made of a lattice of steel tubes covered with acrylic panels. It applied the geodesic principle Fuller had developed since the 1940s, in which a light structure of repeated triangular parts spans a large space without interior supports. It stood for the American presence at the fair, which was held in Montreal in 1967.",
+   "status": "The dome still stands as the Biosphere, an environmental museum; its acrylic skin burned in 1976.",
+   "refs": [],
+   "es": {
+    "title": "Pabellón de Estados Unidos en la Expo 67 (domo geodésico)",
+    "short": "Domo geodésico",
+    "materials": "Reticulado de tubos de acero, paneles acrílicos",
+    "key": "El enorme domo geodésico de Buckminster Fuller para el pabellón estadounidense de la Expo 67 en Montreal.",
+    "more": "El pabellón era un gran domo casi esférico en la isla de Santa Elena, hecho de un reticulado de tubos de acero cubierto con paneles acrílicos. Aplicaba el principio geodésico que Fuller desarrollaba desde los años cuarenta, en el que una estructura liviana de partes triangulares repetidas cubre un gran espacio sin apoyos interiores. Representó la presencia de Estados Unidos en la feria, celebrada en Montreal en 1967.",
+    "status": "El domo sigue en pie como la Biosfera, un museo del medioambiente; su cubierta acrílica se quemó en 1976.",
+    "date": "1967"
+   }
+  },
+  {
+   "id": "philips-pavilion",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "pavilion",
+   "title": "Philips Pavilion, Expo 58",
+   "short": "Philips Pavilion",
+   "designers": [
+    "le-corbusier"
+   ],
+   "maker": "Philips",
+   "client": "Philips",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "BE"
+   ],
+   "materials": "Precast concrete, steel cables",
+   "tech": [],
+   "key": "The curved concrete pavilion that Philips commissioned for the 1958 Brussels world’s fair, designed by Le Corbusier with Iannis Xenakis as an electronic spectacle of sound and light.",
+   "more": "Philips asked Le Corbusier to design a pavilion for the Brussels fair of 1958 to show its technology. Iannis Xenakis, who worked in Le Corbusier’s studio, did much of the architectural design of its tent-like curved surfaces. Inside it housed the Poème électronique, with music by Edgard Varèse and images chosen by Le Corbusier, played through hundreds of loudspeakers.",
+   "status": "Demolished after the fair; it survives only in drawings, photographs and recordings.",
+   "refs": [],
+   "es": {
+    "title": "Pabellón Philips de la Expo 58",
+    "short": "Pabellón Philips",
+    "materials": "Hormigón prefabricado, cables de acero",
+    "key": "El pabellón curvo de hormigón que Philips encargó para la feria mundial de Bruselas de 1958, diseñado por Le Corbusier con Iannis Xenakis como espectáculo electrónico de sonido y luz.",
+    "more": "Philips encargó a Le Corbusier un pabellón para la feria de Bruselas de 1958, con el fin de mostrar su tecnología. Iannis Xenakis, que trabajaba en el taller de Le Corbusier, hizo buena parte del diseño arquitectónico de sus superficies curvas, parecidas a una carpa. Por dentro albergó el Poème électronique, con música de Edgard Varèse e imágenes escogidas por Le Corbusier, difundido por cientos de altavoces.",
+    "status": "Demolido después de la feria; sobrevive solo en planos, fotografías y grabaciones.",
+    "date": "1958"
+   }
+  },
+  {
+   "id": "monumento-continuo",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Continuous Monument",
+   "short": "Continuous Monument",
+   "designers": [
+    "superstudio"
+   ],
+   "year": 1969,
+   "date": "1969",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Photomontage and collage",
+   "tech": [],
+   "key": "Superstudio’s 1969 drawings and photomontages of a single piece of architecture extended over the whole world.[1][2]",
+   "more": "Superstudio, a group founded in Florence in 1966, described the Continuous Monument as ‘a single piece of architecture to be extended over the whole world’.[1] MoMA reads the idea not as destructive sprawl but as a gesture that imposes rational order on nature without obliterating it, in a blend of Pop Art and utopian ambition.[1] Domus calls the work a conceptual metaphor and an operation of progressive destruction and reduction of the architectural object, with colossal spans that seem to stretch into infinity across the landscape and towards the metropolises.[3] MoMA holds several versions from 1969.[1][2]",
+   "status": "Never built, as intended; known through its photomontages and drawings.",
+   "refs": [
+    {
+     "label": "MoMA, Superstudio, «The Continuous Monument: New York Extrusion Project» (1969)",
+     "url": "https://www.moma.org/collection/works/938",
+     "checks": "Fecha 1969; grupo fundado en Florencia en 1966; cita «una sola pieza de arquitectura que se extiende sobre el mundo entero»; lectura del MoMA (orden racional sobre la naturaleza, mezcla de Pop Art y utopía); técnica de grafito, lápiz de color y papel impreso pegado. ⚠ el MoMA no la describe como crítica irónica.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "MoMA, «Superstudio» (ficha de autor)",
+     "url": "https://www.moma.org/collection/artists/5733",
+     "checks": "Colectivo italiano (1966-1982); el MoMA conserva varias versiones del Monumento continuo de 1969 (On the River, Alpine Lakes, New York Extrusion, etc.).",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Domus, «When Superstudio drew inspiration from Land Art»",
+     "url": "https://www.domusweb.it/en/from-the-archive/2020/01/24/when-superstudio-drew-inspiration-from-land-art.html",
+     "checks": "Metáfora conceptual y operación de destrucción y reducción progresiva del objeto arquitectónico; luces colosales que invaden el paisaje; fechado 1969-70; el dibujo como hecho conceptual. ⚠ no confirma que sea irónica ni que la superficie sea cuadriculada.",
+     "date": "2026-10-05"
+    }
+   ],
+   "es": {
+    "title": "Monumento continuo de Superstudio",
+    "short": "Monumento continuo",
+    "materials": "Fotomontaje y collage",
+    "key": "Los dibujos y fotomontajes de Superstudio de 1969 de una sola pieza de arquitectura extendida por todo el mundo.[1][2]",
+    "more": "Superstudio, un grupo fundado en Florencia en 1966, describió el Monumento continuo como «una sola pieza de arquitectura que se extiende sobre el mundo entero».[1] El MoMA lee la idea no como expansión destructiva sino como un gesto que impone orden racional a la naturaleza sin aniquilarla, en una mezcla de Pop Art y ambición utópica.[1] Domus lo llama una metáfora conceptual y una operación de destrucción y reducción progresiva del objeto arquitectónico, con luces colosales que parecen extenderse al infinito por el paisaje y hacia las metrópolis.[3] El MoMA conserva varias versiones de 1969.[1][2]",
+    "status": "Nunca se construyó, como era la intención; se conoce por sus fotomontajes y dibujos.",
+    "date": "1969"
+   }
+  },
+  {
+   "id": "no-stop-city",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "No-Stop City",
+   "short": "No-Stop City",
+   "designers": [
+    "archizoom"
+   ],
+   "year": 1970,
+   "date": "1970",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "materials": "Drawings, plans and collage",
+   "tech": [],
+   "key": "Archizoom’s 1970 city project: an endless, uniform interior like a factory or supermarket, lit and air-conditioned artificially.",
+   "more": "The Florentine group Archizoom, with Andrea Branzi among its members, imagined a city as a vast gridded floor plan with no exterior, like a factory or a supermarket, lit and air-conditioned artificially. Instead of designing an ideal city, it pushed the logic of consumer society and industrial production to its limit. It was presented in drawings and plans and became a reference of Radical design.",
+   "status": "Never built; known through its drawings and plans.",
+   "refs": [],
+   "es": {
+    "title": "No-Stop City de Archizoom",
+    "short": "No-Stop City",
+    "materials": "Dibujos, planos y collage",
+    "key": "El proyecto de ciudad de Archizoom de 1970: un interior interminable y uniforme, como una fábrica o un supermercado, iluminado y climatizado artificialmente.",
+    "more": "El grupo florentino Archizoom, con Andrea Branzi entre sus miembros, imaginó una ciudad como una inmensa planta cuadriculada sin exterior, como una fábrica o un supermercado, iluminada y climatizada de forma artificial. En lugar de diseñar una ciudad ideal, llevó al límite la lógica de la sociedad de consumo y de la producción industrial. Se presentó en dibujos y planos y se volvió una referencia del diseño radical.",
+    "status": "Nunca se construyó; se conoce por sus dibujos y planos.",
+    "date": "1970"
+   }
+  },
+  {
+   "id": "levittown",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Levittown",
+   "designers": [],
+   "maker": "Levitt & Sons",
+   "year": 1947,
+   "date": "1947",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Wood frame houses on concrete slabs",
+   "tech": [],
+   "key": "The first great mass-produced American suburb, built by Levitt & Sons on Long Island from 1947 for returning veterans and young families.",
+   "more": "Levitt & Sons built it on former farmland on Long Island, New York, starting in 1947, with thousands of near-identical houses put up in series by crews that each repeated one task, in the manner of an assembly line. Each house came with appliances, and the suburb was sold as a way of life. Black buyers were excluded by the developer’s policy, a limit that marked the whole postwar suburb.",
+   "status": "The houses survive, much altered and enlarged by later owners.",
+   "refs": [],
+   "es": {
+    "title": "Levittown",
+    "materials": "Casas con estructura de madera sobre losas de hormigón",
+    "key": "El primer gran suburbio estadounidense producido en masa, construido por Levitt & Sons en Long Island desde 1947 para veteranos y familias jóvenes.",
+    "more": "Levitt & Sons lo construyó sobre antiguos terrenos agrícolas de Long Island, Nueva York, desde 1947, con miles de casas casi idénticas levantadas en serie por cuadrillas que repetían cada una una sola tarea, al modo de una cadena de montaje. Cada casa incluía electrodomésticos y el suburbio se vendió como un estilo de vida. Los compradores negros fueron excluidos por la política de la empresa, una limitación que marcó a todo el suburbio de posguerra.",
+    "status": "Las casas se conservan, muy modificadas y ampliadas por sus dueños posteriores.",
+    "date": "1947"
+   }
+  },
+  {
+   "id": "casa-barragan-1948",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Casa Barragán, Mexico City",
+   "designers": [
+    "luis-barragan"
+   ],
+   "year": 1948,
+   "date": "1948",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Rendered masonry painted in strong colours, timber, glass",
+   "tech": [],
+   "key": "Luis Barragán’s own house and studio in Tacubaya, Mexico City, built in 1947–48, where colour, light and a large garden shape a quiet, private space.[1][2]",
+   "more": "UNESCO dates the house and studio to 1947–48 and places it in the Tacubaya area of Mexico City; it covers 1,161 square metres on a ground floor and two upper storeys, with a private garden.[2] From the street it looks like a nondescript two-storey building of straight lines with a handful of small windows, while indoors the walls are yellow, pink, orange and gold and the light is carefully designed.[1] The garden takes up nearly as much floor area as the house.[1] UNESCO says Barragán used colour and light as architectural elements and blended modernist principles with Mexican vernacular traditions.[2]",
+   "status": "Preserved as a house museum; part of UNESCO World Heritage since 2004.",
+   "es": {
+    "title": "Casa Barragán, Ciudad de México",
+    "date": "1948",
+    "materials": "Albañilería estucada y pintada en colores intensos, madera, vidrio",
+    "key": "La casa y taller del propio Luis Barragán en Tacubaya, Ciudad de México, construida en 1947–48, donde el color, la luz y un amplio jardín dan forma a un espacio sereno y privado.[1][2]",
+    "more": "La UNESCO fecha la casa y taller en 1947–48 y la sitúa en la zona de Tacubaya, en Ciudad de México; ocupa 1.161 metros cuadrados en una planta baja y dos pisos, con un jardín privado.[2] Desde la calle parece un edificio de dos pisos sin mayor interés, de líneas rectas y unas pocas ventanas pequeñas, mientras que adentro los muros son amarillos, rosados, naranjos y dorados y la luz está cuidadosamente diseñada.[1] El jardín ocupa casi tanta superficie como la casa.[1] La UNESCO señala que Barragán usó el color y la luz como elementos arquitectónicos y combinó principios modernos con tradiciones vernáculas mexicanas.[2]",
+    "status": "Se conserva como casa museo; es Patrimonio Mundial de la UNESCO desde 2004.",
+    "short": "Casa Barragán"
+   },
+   "refs": [
+    {
+     "label": "JSTOR Daily, «Casa Luis Barragán: Sacred Space of Mexican Modernism»",
+     "url": "https://daily.jstor.org/casa-luis-barragan-sacred-space-of-mexican-modernism",
+     "checks": "Vista desde la calle (edificio de dos pisos de líneas rectas y pocas ventanas), muros amarillo, rosa, naranja y dorado, luz diseñada, jardín casi tan grande como la casa; museo desde 1994 (gobierno de Jalisco); Patrimonio Mundial en 2004. ⚠ da 1948 como año de construcción; texto periodístico.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "UNESCO World Heritage Centre, «Luis Barragán House and Studio»",
+     "url": "https://whc.unesco.org/en/list/1136/",
+     "checks": "Construida en 1947–48, zona de Tacubaya, inscrita en 2004; 1.161 m² en planta baja y dos pisos con jardín privado; color y luz como elementos arquitectónicos; síntesis de modernismo y tradición vernácula mexicana.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Casa Barragán"
+  },
+  {
+   "id": "chandigarh-1951",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Chandigarh Capitol Complex",
+   "designers": [
+    "le-corbusier"
+   ],
+   "client": "Government of Punjab",
+   "year": 1951,
+   "date": "from 1951",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "IN",
+    "FR"
+   ],
+   "materials": "Béton brut (raw reinforced concrete)",
+   "tech": [
+    "modulor"
+   ],
+   "key": "Le Corbusier’s Capitol Complex for Chandigarh, the new capital of the Indian Punjab, with construction beginning in 1951 and monumental buildings in exposed concrete.[3][4]",
+   "more": "After Partition Punjab lost its historic capital, Lahore, and Chandigarh was conceived as the new one, with construction beginning in 1951.[4] In 1951 the Punjab government named Le Corbusier architectural advisor for the city,[3] and he worked with Pierre Jeanneret, Maxwell Fry and Jane Drew.[4] The Capitol Complex has three main buildings, the High Court, the Secretariat and the Legislative Assembly, plus monuments such as the 85-foot Open Hand.[2][4] Its monumental scale and exposed concrete were practical as well as expressive, with sun-control devices against the heat.[4] UNESCO inscribed the complex in 2016 within the serial site of Le Corbusier’s work, which it says introduced Brutalism among other trends,[1][2] and Britannica says his designs there influenced architects worldwide.[3]",
+   "status": "In use as the seat of government of Punjab and Haryana; part of Le Corbusier’s UNESCO World Heritage serial site since 2016.",
+   "es": {
+    "title": "Capital de Chandigarh",
+    "date": "desde 1951",
+    "materials": "Béton brut (hormigón armado a la vista)",
+    "key": "El Complejo del Capitolio de Le Corbusier en Chandigarh, la nueva capital del Punjab indio, cuya construcción comenzó en 1951, con edificios monumentales de hormigón a la vista.[3][4]",
+    "more": "Tras la Partición, el Punjab perdió su capital histórica, Lahore, y Chandigarh se concibió como la nueva, con obras que comenzaron en 1951.[4] En 1951 el gobierno del Punjab nombró a Le Corbusier asesor arquitectónico de la ciudad,[3] y él trabajó con Pierre Jeanneret, Maxwell Fry y Jane Drew.[4] El Capitolio tiene tres edificios principales, el Tribunal Superior, la Secretaría y la Asamblea Legislativa, además de monumentos como la Mano Abierta, de unos 26 metros de alto.[2][4] Su escala monumental y su hormigón a la vista eran tanto prácticos como expresivos, con dispositivos de control solar contra el calor.[4] La UNESCO inscribió el conjunto en 2016 dentro del sitio seriado de la obra de Le Corbusier, que según ella introdujo el brutalismo entre otras tendencias,[1][2] y Britannica dice que sus diseños allí influyeron en arquitectos de todo el mundo.[3]",
+    "status": "Está en uso como sede del gobierno de Punjab y Haryana; es parte del sitio seriado de Le Corbusier, Patrimonio Mundial de la UNESCO desde 2016.",
+    "short": "Capital Chandigarh"
+   },
+   "refs": [
+    {
+     "label": "UNESCO World Heritage Centre, «The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement»",
+     "url": "https://whc.unesco.org/en/list/1321/",
+     "checks": "Sitio seriado inscrito en 2016 con 17 componentes, entre ellos el Complejo del Capitolio de Chandigarh; menciona el Modulor y que la obra introdujo el purismo, el brutalismo y la arquitectura escultórica.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Incredible India (Gobierno de la India), «Capitol Complex»",
+     "url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh/capitol-complex",
+     "checks": "Tres edificios principales (Asamblea Legislativa, Secretaría, Tribunal Superior) y cuatro monumentos; Mano Abierta de 85 pies; Patrimonio Mundial en 2016. ⚠ sitio de turismo oficial.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Le Corbusier – The war years»",
+     "url": "https://www.britannica.com/biography/Le-Corbusier/The-war-years",
+     "checks": "En 1951 el gobierno del Punjab lo nombró asesor arquitectónico de la nueva capital; sus edificios influyeron de inmediato en arquitectos de todo el mundo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Ville de Chandigarh, Inde, 1950-1965»",
+     "url": "https://www.fondationlecorbusier.fr/oeuvre-architecture/realisations-chandigarh-inde-1952/",
+     "checks": "Tras la Partición el Punjab perdió Lahore; obras desde 1951; equipo con Pierre Jeanneret, Maxwell Fry y Jane Drew; Capitolio con Tribunal Superior (1955), Secretaría y Asamblea en hormigón a la vista y escala monumental; control solar. ⚠ la fuente dice que Le Corbusier se incorporó en 1950; Britannica da 1951 como nombramiento de asesor.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Chandigarh Capitol"
+  },
+  {
+   "id": "pruitt-igoe-1954",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Pruitt-Igoe",
+   "designers": [
+    "minoru-yamasaki"
+   ],
+   "client": "St. Louis Housing Authority",
+   "year": 1954,
+   "date": "1954",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Reinforced concrete, brick",
+   "tech": [],
+   "key": "The St. Louis public-housing project of 33 eleven-storey blocks by Yamasaki and Hellmuth, whose demolition from 1972 some historians took as the end of Modernism.[1][3]",
+   "more": "Completed in 1954, the project had 33 eleven-storey buildings and about 2,870 units, designed by Minoru Yamasaki and George Hellmuth.[1] Federal funds built it, but tenant rents had to cover upkeep, and as vacancies rose funding dried up.[1] Katharine Bristol attributes its decline to a fiscal squeeze, a growing share of the poorest residents, federal cost cuts and poor-quality hardware.[2] Demolition by implosion began in 1972,[1][4] and the site is now overgrown woodland.[1] According to some historians, the Modernist era ended with the demolition,[3] but Bristol and later commentators question the claim that design was to blame.[2][4]",
+   "status": "Demolished from 1972; the site is now wooded open land.",
+   "es": {
+    "title": "Pruitt-Igoe",
+    "date": "1954",
+    "materials": "Hormigón armado, ladrillo",
+    "key": "El conjunto de vivienda pública de St. Louis, de 33 bloques de once pisos de Yamasaki y Hellmuth, cuya demolición desde 1972 algunos historiadores tomaron como el fin del Modernismo.[1][3]",
+    "more": "Terminado en 1954, el conjunto tenía 33 edificios de once pisos y unas 2.870 unidades, proyectados por Minoru Yamasaki y George Hellmuth.[1] Lo construyeron fondos federales, pero los arriendos de los inquilinos debían cubrir el mantenimiento, y al aumentar las vacantes el financiamiento se agotó.[1] Katharine Bristol atribuye su decadencia a una asfixia fiscal, una proporción creciente de residentes muy pobres, recortes federales y herrajes de mala calidad.[2] La demolición por implosión comenzó en 1972,[1][4] y el terreno es hoy un bosque urbano sin cuidar.[1] Según algunos historiadores, la era moderna de la arquitectura terminó con la demolición,[3] pero Bristol y comentaristas posteriores cuestionan que la culpa fuera del diseño.[2][4]",
+    "status": "Demolido desde 1972; el terreno es hoy un espacio abierto cubierto de vegetación."
+   },
+   "refs": [
+    {
+     "label": "Atlas Obscura, «The Failed Paradise: Pruitt-Igoe»",
+     "url": "https://www.atlasobscura.com/articles/2636",
+     "checks": "Terminado en 1954; 33 edificios de once pisos, Yamasaki y Hellmuth, 2.870 unidades; fondos federales, arriendos para mantención, vacancia y deterioro; demolición en 1972 y retiro completo en 1977; sitio hoy bosque urbano. ⚠ medio divulgativo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Katharine G. Bristol, «The Pruitt-Igoe Myth», Journal of Architectural Education, 1991",
+     "url": "https://urbanpolicy.net/wp-content/uploads/2015/06/Bristol1991_Pruitt-Igoe_Myth.pdf",
+     "checks": "Proyecto de Leinweber, Yamasaki & Hellmuth, 1954, 33 edificios de once pisos; causas de la decadencia (presupuesto, composición de residentes, política federal, mala calidad); demolición desde 1972; el mito de que el diseño tuvo la culpa.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Postmodernism and its influence on society» (video)",
+     "url": "https://www.britannica.com/video/postmodernism-art-architecture-design-historians-end-demolition-March-1972/-205688",
+     "checks": "Según algunos historiadores, la era moderna terminó con la demolición de Pruitt-Igoe en marzo de 1972. ⚠ solo recoge la lectura, no la evalúa.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Architectural Record, «Imploding the Pruitt-Igoe Myth»",
+     "url": "https://www.architecturalrecord.com/articles/2442-imploding-the-pruitt-igoe-myth",
+     "checks": "33 edificios, 1954, Hellmuth y Yamasaki; implosiones desde 1972; el documental de Freidrichs cuestiona la conclusión simplista de que falló por el diseño.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "guggenheim-new-york-1959",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Solomon R. Guggenheim Museum, New York",
+   "designers": [
+    "frank-lloyd-wright"
+   ],
+   "client": "Solomon R. Guggenheim Foundation",
+   "year": 1959,
+   "date": "1959",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Reinforced concrete, glass",
+   "tech": [
+    "reinforced-concrete"
+   ],
+   "key": "Frank Lloyd Wright’s museum on Fifth Avenue, built around a spiral ramp that winds up to a skylit dome in place of a series of separate galleries.[1]",
+   "more": "Wright signed the contract in 1943, and the project took sixteen years; the museum opened on 21 October 1959, six months after his death in April.[1] Visitors follow a spiral ramp a quarter of a mile long, rising ninety-two feet to a skylit dome.[1] The building raised a lasting argument over whether such a strongly shaped space serves the art: in 1957 artists including Willem de Kooning petitioned against the design, and at the opening the building overshadowed the collection.[1] In 2019 it was inscribed in the UNESCO World Heritage serial site of eight works by Wright.[2]",
+   "status": "Open as a museum; part of the UNESCO World Heritage serial site of Frank Lloyd Wright’s works since 2019.",
+   "es": {
+    "title": "Museo Guggenheim de Nueva York",
+    "date": "1959",
+    "materials": "Hormigón armado, vidrio",
+    "key": "El museo de Frank Lloyd Wright en la Quinta Avenida, construido en torno a una rampa espiral que sube hasta una cúpula con claraboya en vez de una serie de salas separadas.[1]",
+    "more": "Wright firmó el contrato en 1943 y el proyecto tomó dieciséis años; el museo se inauguró el 21 de octubre de 1959, seis meses después de su muerte, en abril.[1] Los visitantes siguen una rampa espiral de un cuarto de milla de largo que sube veintiocho metros (noventa y dos pies) hasta una cúpula con claraboya.[1] El edificio abrió una discusión duradera sobre si un espacio tan fuertemente formado sirve al arte: en 1957 artistas como Willem de Kooning presentaron una petición contra el proyecto y, en la inauguración, el edificio eclipsó a la colección.[1] En 2019 fue inscrito en el sitio seriado de ocho obras de Wright, Patrimonio Mundial de la UNESCO.[2]",
+    "status": "Funciona como museo; es parte del sitio seriado de obras de Frank Lloyd Wright, Patrimonio Mundial de la UNESCO desde 2019.",
+    "short": "Guggenheim Nueva York"
+   },
+   "refs": [
+    {
+     "label": "EBSCO Research Starters, «Wright-designed Guggenheim Museum opens»",
+     "url": "https://www.ebsco.com/research-starters/history/wright-designed-guggenheim-museum-opens",
+     "checks": "Inauguración el 21 de octubre de 1959; muerte de Wright en abril de 1959; contrato de 1943 y dieciséis años de proyecto; rampa de un cuarto de milla y 92 pies hasta una cúpula con claraboya; petición de 1957 (De Kooning); el edificio eclipsó a la colección. ⚠ fuente secundaria; no menciona UNESCO.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Guggenheim, «UNESCO World Heritage designation» (comunicado, julio 2019)",
+     "url": "https://www.guggenheim.org/wp-content/uploads/2019/07/UNESCO_PressRelease_1565_20190708.pdf",
+     "checks": "Inscripción en julio de 2019 como parte de las ocho obras de Wright; construcción 1956–1959. ⚠ fuente del propio museo.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Guggenheim New York"
+  },
+  {
+   "id": "yoyogi-gymnasium-1964",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Yoyogi National Gymnasium",
+   "designers": [
+    "kenzo-tange"
+   ],
+   "client": "Government of Japan",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "materials": "Reinforced concrete, steel cables, steel roof",
+   "tech": [],
+   "key": "Kenzo Tange’s swimming and basketball halls for the 1964 Tokyo Olympics, whose roofs hang from steel cables slung between two great masts.",
+   "more": "Built for the 1964 Olympic Games in Tokyo, the complex has two halls with curving roofs suspended from cables, an engineering of tension that Tange developed with the structural engineer Yoshikatsu Tsuboi. The roofs span large column-free spaces and have a sweeping shape reminiscent of traditional Japanese roofs. It showed the world a modern Japanese architecture in a form no Western model had provided.",
+   "status": "In use as a sports and event venue; designated an Important Cultural Property of Japan.",
+   "es": {
+    "title": "Gimnasio Nacional de Yoyogi",
+    "date": "1964",
+    "materials": "Hormigón armado, cables de acero, cubierta de acero",
+    "key": "Los recintos de natación y básquetbol de Kenzo Tange para los Juegos Olímpicos de Tokio 1964, con techos colgados de cables de acero tendidos entre dos grandes mástiles.",
+    "more": "Construido para los Juegos Olímpicos de Tokio de 1964, el conjunto tiene dos recintos de techos curvos suspendidos de cables, una ingeniería de tracción que Tange desarrolló con el ingeniero estructural Yoshikatsu Tsuboi. Los techos cubren grandes espacios sin columnas y tienen una forma ondulante que recuerda los techos tradicionales japoneses. Mostró al mundo una arquitectura moderna japonesa con una forma que ningún modelo occidental había ofrecido.",
+    "status": "Sigue en uso como recinto deportivo y de eventos; es Bien Cultural Importante de Japón.",
+    "short": "Gimnasio Yoyogi"
+   },
+   "refs": [],
+   "movements": [
+    "metabolism"
+   ],
+   "short": "Yoyogi Gymnasium"
+  },
+  {
+   "id": "tlatelolco-1964",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Nonoalco-Tlatelolco Urban Complex",
+   "designers": [
+    "mario-pani"
+   ],
+   "client": "Mexican government",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [],
+   "key": "Mario Pani’s huge housing estate of tall slab blocks and plazas in Mexico City, planned as a self-contained city within the city.",
+   "more": "Designed by Mario Pani and built in the early 1960s, the complex grouped many apartment blocks of different heights, schools, services and open plazas on a site beside the Plaza de las Tres Culturas. It answered a housing shortage in the capital with an idea of Le Corbusier’s vertical city, adapted by Pani. The 1985 earthquake destroyed one block and led to the repair of others.",
+   "status": "Still inhabited, after repairs and the loss of one block in the 1985 earthquake.",
+   "es": {
+    "title": "Conjunto Urbano Nonoalco-Tlatelolco",
+    "date": "1964",
+    "materials": "Hormigón armado",
+    "key": "El enorme conjunto habitacional de bloques altos en placa y plazas de Mario Pani en Ciudad de México, pensado como una ciudad completa dentro de la ciudad.",
+    "more": "Proyectado por Mario Pani y construido a comienzos de los años sesenta, el conjunto reunió muchos bloques de departamentos de distintas alturas, escuelas, servicios y plazas abiertas en un terreno junto a la Plaza de las Tres Culturas. Respondió al déficit de vivienda de la capital con una idea de ciudad vertical de Le Corbusier, adaptada por Pani. El sismo de 1985 destruyó un bloque y llevó a reparar otros.",
+    "status": "Sigue habitado, tras reparaciones y la pérdida de un bloque en el sismo de 1985.",
+    "short": "Tlatelolco"
+   },
+   "refs": [],
+   "short": "Tlatelolco"
+  },
+  {
+   "id": "vanna-venturi-house-1964",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Vanna Venturi House",
+   "designers": [
+    "robert-venturi"
+   ],
+   "client": "Vanna Venturi",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Stucco-faced frame construction",
+   "tech": [],
+   "key": "Robert Venturi’s house for his mother in Chestnut Hill, Philadelphia, which broke the modern rule of pure form with a split gable, a large chimney and an arch applied to the facade.[1]",
+   "more": "Venturi began designing it in 1959 for his mother, Vanna, and it was built in 1962–64 in Chestnut Hill.[3] The facade uses archetypal house features, a gable, a central entrance and a large chimney, rendered with calculated awkwardness; the arch over the entrance is described as merely applied to the surface.[1] Inside, the stair turns around the chimney and diminishes in size.[1] The house shows the ideas of ‘Complexity and Contradiction in Architecture’ (1966), whose author answered Mies’s ‘Less is more’ with ‘Less is a bore’.[1][2][4] It was recognized as the first Postmodern structure.[3]",
+   "status": "Preserved and privately owned.",
+   "es": {
+    "title": "Casa Vanna Venturi",
+    "date": "1964",
+    "materials": "Construcción de entramado con muros estucados",
+    "key": "La casa de Robert Venturi para su madre en Chestnut Hill, Filadelfia, que rompió la regla moderna de la forma pura con un frontón partido, una gran chimenea y un arco aplicado a la fachada.[1]",
+    "more": "Venturi comenzó a proyectarla en 1959 para su madre, Vanna, y se construyó en 1962–64 en Chestnut Hill.[3] La fachada usa rasgos arquetípicos de casa, un frontón, una entrada central y una gran chimenea, resueltos con torpeza calculada; el arco sobre la entrada se describe como un mero añadido a la superficie.[1] Adentro, la escalera gira en torno a la chimenea y se achica.[1] La casa muestra las ideas de «Complejidad y contradicción en la arquitectura» (1966), cuyo autor respondió al «Menos es más» de Mies con «Menos es aburrido» (‘Less is a bore’).[1][2][4] Fue reconocida de inmediato como la primera estructura posmoderna.[3]",
+    "status": "Se conserva y es de propiedad privada."
+   },
+   "refs": [
+    {
+     "label": "American Heritage, «Mother’s House»",
+     "url": "https://www.americanheritage.com/mothers-house",
+     "checks": "Casa de Venturi para su madre en Chestnut Hill; frontón partido, entrada central, gran chimenea, arco «aplicado»; escalera que gira en torno a la chimenea y disminuye; «Less is a bore» frente a Mies. ⚠ artículo de revista; fecha 1963–64.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Architectural Record, «Complexity and Contradiction in Architecture turns 50»",
+     "url": "https://www.architecturalrecord.com/articles/11630-icomplexity-and-contradictioni-in-architecture-turns-50",
+     "checks": "Casa Vanna Venturi terminada en 1964 en Chestnut Hill, ejemplo del libro de 1966.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "EBSCO Research Starters, «Robert Venturi»",
+     "url": "https://www.ebsco.com/research-starters/architecture/robert-venturi/",
+     "checks": "Proyecto desde 1959, construcción 1962–1964; «reconocida de inmediato como la primera estructura posmoderna»; libro de 1966. ⚠ fuente secundaria.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Premio Pritzker, «Robert Venturi, laureado 1991»",
+     "url": "https://pritzkerprize.com/laureates/1991",
+     "checks": "Libro de 1966; «Less is a bore» frente a Mies. ⚠ fecha de la casa dada como 1961, no se usa.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "postmodern-architecture"
+   ]
+  },
+  {
+   "id": "plug-in-city-1964",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Plug-in City",
+   "designers": [
+    "archigram"
+   ],
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Drawings and collage",
+   "tech": [],
+   "key": "Archigram’s drawn vision of a city as a giant frame into which housing capsules and services plug and are replaced like consumer goods.",
+   "more": "Drawn by Peter Cook for the Archigram group in 1964, it imagined a megastructure with cranes and a permanent network of services into which short-lived units for living, working and shopping could be plugged in. It treated architecture as a changing, consumable product rather than a lasting monument. It was never built, but its images spread widely among students and architects.",
+   "status": "Never built; the drawings survive in collections.",
+   "es": {
+    "title": "Plug-in City",
+    "date": "1964",
+    "materials": "Dibujos y collage",
+    "key": "La visión dibujada de Archigram de una ciudad como un gigantesco armazón al que se enchufan cápsulas de vivienda y servicios que se reemplazan como bienes de consumo.",
+    "more": "Dibujada por Peter Cook para el grupo Archigram en 1964, imaginó una megaestructura con grúas y una red permanente de servicios a la que se podían enchufar unidades efímeras para vivir, trabajar y comprar. Trató la arquitectura como un producto cambiante y consumible y no como un monumento duradero. Nunca se construyó, pero sus imágenes se difundieron mucho entre estudiantes y arquitectos.",
+    "status": "Nunca se construyó; los dibujos se conservan en colecciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "salk-institute-1965",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Salk Institute",
+   "designers": [
+    "louis-kahn"
+   ],
+   "client": "Jonas Salk",
+   "year": 1965,
+   "date": "1965",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cast-in-place concrete, travertine, teak, glass",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Louis Kahn’s research institute in La Jolla, California: concrete laboratories on either side of a bare travertine plaza that opens toward the Pacific.[1]",
+   "more": "Jonas Salk, creator of the polio vaccine, founded the institute, and Kahn’s buildings opened in 1965.[1][2] Kahn chose raw materials, pozzolanic concrete, teak, Corten steel and glass, left to age without paint.[2] The plaza is of Italian travertine with a water channel that Salk called ‘the river of life’.[1][2] Luis Barragán advised Kahn to leave the court open and free of planting: ‘If you put just stone, what you gain is a facade to the sky’.[1][2] Each laboratory floor has about 16,000 square feet of unobstructed space, with interstitial floors for services.[2]",
+   "status": "Still home to the Salk Institute for Biological Studies.",
+   "es": {
+    "title": "Instituto Salk",
+    "date": "1965",
+    "materials": "Hormigón in situ, travertino, teca, vidrio",
+    "key": "El instituto de investigación de Louis Kahn en La Jolla, California: laboratorios de hormigón a ambos lados de una plaza desnuda de travertino abierta hacia el Pacífico.[1]",
+    "more": "Jonas Salk, creador de la vacuna contra la polio, fundó el instituto, y los edificios de Kahn se inauguraron en 1965.[1][2] Kahn eligió materiales crudos, hormigón puzolánico, teca, acero Corten y vidrio, dejados envejecer sin pintura.[2] La plaza es de travertino italiano, con un canal de agua que Salk llamó «el río de la vida».[1][2] Luis Barragán aconsejó a Kahn dejar el patio abierto y sin plantas: «Si pones solo piedra, lo que ganas es una fachada al cielo».[1][2] Cada piso de laboratorio tiene unos 16.000 pies cuadrados (unos 1.500 m²) de espacio libre, con pisos intersticiales para las instalaciones.[2]",
+    "status": "Sigue siendo la sede del Instituto Salk de Estudios Biológicos."
+   },
+   "refs": [
+    {
+     "label": "The Cultural Landscape Foundation, «Salk Institute for Biological Studies»",
+     "url": "https://tclf.org/salk-institute-biological-studies",
+     "checks": "Instituto en La Jolla fundado por Jonas Salk; Kahn; plaza de travertino entre laboratorios de hormigón; canal de agua; Barragán aconsejó plaza abierta y sin plantas; vista al Pacífico. ⚠ da 1963 como fundación.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Salk Institute, «Virtual architecture tour»",
+     "url": "https://www.salk.edu/about/visiting-salk/virtual-architecture-tour/",
+     "checks": "Edificios de Kahn inaugurados en 1965; hormigón puzolánico, teca, acero Corten y vidrio; plaza de travertino italiano; «río de la vida»; cita de Barragán; 16.000 pies² por piso con pisos intersticiales. ⚠ fuente del propio instituto; da 1960 como fundación.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "aterro-flamengo-1965",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Parque do Flamengo (Aterro), Rio de Janeiro",
+   "designers": [
+    "roberto-burle-marx"
+   ],
+   "client": "City of Rio de Janeiro",
+   "year": 1965,
+   "date": "c. 1961–65",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Landfill, planting, paving",
+   "tech": [],
+   "key": "A great public park on landfill along Rio’s bay, with gardens by Roberto Burle Marx, planned as a leisure ground for the whole city.",
+   "more": "Planned from about 1961 on land reclaimed from the bay and opened in stages by 1965, it was laid out with the team of the architect Affonso Eduardo Reidy, and Roberto Burle Marx designed its gardens, drawing on native Brazilian plants. It gave a growing Rio a large open space for sport, walking and leisure beside the sea. It remains one of the best-known examples of modern landscape design.",
+   "status": "Still a public park used daily by the city.",
+   "es": {
+    "title": "Parque do Flamengo (Aterro), Río de Janeiro",
+    "date": "c. 1961–65",
+    "materials": "Terraplén, vegetación, pavimentos",
+    "key": "Un gran parque público sobre relleno a lo largo de la bahía de Río, con jardines de Roberto Burle Marx, pensado como lugar de esparcimiento para toda la ciudad.",
+    "more": "Planificado desde c. 1961 sobre terreno ganado a la bahía e inaugurado por etapas hasta 1965, se trazó con el equipo del arquitecto Affonso Eduardo Reidy, y Roberto Burle Marx diseñó sus jardines con plantas nativas de Brasil. Dio a una Río en crecimiento un gran espacio abierto para el deporte, el paseo y el ocio junto al mar. Sigue siendo uno de los ejemplos más conocidos del paisajismo moderno.",
+    "status": "Sigue siendo un parque público de uso diario.",
+    "short": "Parque do Flamengo"
+   },
+   "refs": [],
+   "short": "Parque do Flamengo"
+  },
+  {
+   "id": "unidad-vecinal-portales-1966",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Unidad Vecinal Portales, Santiago",
+   "designers": [
+    "bresciani-valdes-castillo-huidobro"
+   ],
+   "year": 1966,
+   "date": "c. 1966",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [],
+   "key": "A modern housing neighbourhood in Santiago, designed by Bresciani, Valdés, Castillo and Huidobro from 1954, with apartment blocks, low houses and shared services.",
+   "more": "The project dates from 1954 and was built over the following years, with the complex usually dated c. 1966. It followed the idea of the neighbourhood unit: housing grouped around open spaces and services, in the language of modern architecture. It is among the best-known examples of social housing from the modern period in Chile.",
+   "status": "Still stands and is inhabited.",
+   "es": {
+    "title": "Unidad Vecinal Portales, Santiago",
+    "date": "c. 1966",
+    "materials": "Hormigón armado",
+    "key": "Un barrio moderno de vivienda en Santiago, proyectado por Bresciani, Valdés, Castillo y Huidobro desde 1954, con bloques de departamentos, casas bajas y servicios comunes.",
+    "more": "El proyecto data de 1954 y se construyó en los años siguientes; el conjunto suele fecharse c. 1966. Siguió la idea de unidad vecinal: viviendas agrupadas en torno a espacios abiertos y servicios, en el lenguaje de la arquitectura moderna. Es uno de los ejemplos más conocidos de vivienda social de la etapa moderna en Chile.",
+    "status": "Sigue en pie y habitado.",
+    "short": "U. V. Portales"
+   },
+   "refs": [],
+   "short": "U. V. Portales"
+  },
+  {
+   "id": "banco-de-londres-1966",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Banco de Londres y América del Sur, Buenos Aires",
+   "designers": [
+    "clorindo-testa"
+   ],
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "AR"
+   ],
+   "materials": "Exposed reinforced concrete, glass",
+   "tech": [],
+   "key": "Clorindo Testa’s bank headquarters in central Buenos Aires, a landmark of Argentine brutalism built in exposed concrete.",
+   "more": "Designed by Testa together with the studio SEPRA and finished in 1966, the building is known for its sculptural volume of raw concrete, which departs from the glass boxes usual in bank architecture. It is considered his key work and one of the main examples of brutalism in Latin America.",
+   "status": "Still stands in central Buenos Aires.",
+   "movements": [
+    "brutalism-metabolism"
+   ],
+   "es": {
+    "title": "Banco de Londres, Buenos Aires",
+    "date": "1966",
+    "materials": "Hormigón armado a la vista, vidrio",
+    "key": "La sede bancaria de Clorindo Testa en el centro de Buenos Aires, hito del brutalismo argentino construida en hormigón a la vista.",
+    "more": "Proyectado por Testa junto con el estudio SEPRA y terminado en 1966, el edificio es conocido por su volumen escultórico de hormigón en bruto, que se aparta de las cajas de vidrio habituales en la arquitectura bancaria. Se considera su obra clave y uno de los principales ejemplos de brutalismo en América Latina.",
+    "status": "Sigue en pie en el centro de Buenos Aires.",
+    "short": "Banco de Londres"
+   },
+   "refs": [],
+   "short": "Banco de Londres"
+  },
+  {
+   "id": "fau-usp-1969",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "FAU-USP, São Paulo",
+   "designers": [
+    "vilanova-artigas"
+   ],
+   "year": 1969,
+   "date": "1969",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [],
+   "key": "João Vilanova Artigas’s building for the Faculty of Architecture and Urbanism of the University of São Paulo, a concrete landmark of the Paulista school.",
+   "more": "Artigas designed it in the 1960s and it was finished c. 1969 on the university campus in São Paulo. A great roof of exposed concrete covers a continuous interior of open floors linked by ramps, so that students and teachers share one large space. It is a representative work of the Paulista school.",
+   "status": "Still in use by the faculty.",
+   "movements": [
+    "paulista-school"
+   ],
+   "es": {
+    "title": "FAU-USP, São Paulo",
+    "date": "1969",
+    "materials": "Hormigón armado",
+    "key": "El edificio de João Vilanova Artigas para la Facultad de Arquitectura y Urbanismo de la Universidad de São Paulo, hito de hormigón de la escuela paulista.",
+    "more": "Artigas lo proyectó en los años sesenta y se terminó c. 1969 en el campus universitario de São Paulo. Una gran cubierta de hormigón a la vista cobija un interior continuo de niveles abiertos unidos por rampas, de modo que estudiantes y profesores comparten un único espacio amplio. Es una obra representativa de la escuela paulista.",
+    "status": "Sigue en uso por la facultad."
+   },
+   "refs": []
+  },
+  {
+   "id": "ciudad-abierta-1970",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Ciudad Abierta (Amereida), Ritoque",
+   "designers": [
+    "alberto-cruz-covarrubias"
+   ],
+   "year": 1970,
+   "date": "1970 →",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "materials": "Mixed materials, built by hand on the coastal dunes",
+   "tech": [],
+   "key": "A community of buildings on the dunes of Ritoque, Chile, begun in 1970 under the architecture school of Valparaíso as a shared experiment in architecture and poetry.[1][2]",
+   "more": "It grew out of the 1965 Amereida journey, in which the poet Godofredo Iommi, Alberto Cruz and others set out from Tierra del Fuego, and which yielded the poem Amereida (1967).[1][2] In 1970 that poetic foundation led to the Ciudad Abierta on the Ritoque dunes, under the Architecture and Design School of the Catholic University of Valparaíso, joining ‘life, work and study’.[1][2] Cruz and Iommi led the project; the description of the site stresses that there are no plans or typological ideas, and that the workshops fuse life, study and work.[3]",
+   "status": "Still being built and used by the school community.",
+   "movements": [
+    "critical-regionalism"
+   ],
+   "es": {
+    "title": "Ciudad Abierta (Amereida), Ritoque",
+    "date": "1970 →",
+    "materials": "Materiales diversos, construidos a mano sobre las dunas de la costa",
+    "key": "Una comunidad de obras sobre las dunas de Ritoque, en Chile, iniciada en 1970 bajo la escuela de arquitectura de Valparaíso como experimento compartido de arquitectura y poesía.[1][2]",
+    "more": "Surgió de la travesía de Amereida de 1965, en que el poeta Godofredo Iommi, Alberto Cruz y otros partieron de Tierra del Fuego, y que dio el poema Amereida (1967).[1][2] En 1970 esa base poética llevó a la Ciudad Abierta en las dunas de Ritoque, bajo la Escuela de Arquitectura y Diseño de la Universidad Católica de Valparaíso, que une «vida, trabajo y estudio».[1][2] Cruz e Iommi encabezaron el proyecto; la descripción del lugar subraya que no hay planos ni ideas tipológicas y que los talleres funden vida, estudio y trabajo.[3]",
+    "status": "Se sigue construyendo y la usa la comunidad de la escuela.",
+    "short": "Ciudad Abierta"
+   },
+   "refs": [
+    {
+     "label": "Revista PM, «Ciudad Abierta de Amereida»",
+     "url": "https://www.revistapm.cl/reportajes/ciudad-abierta-de-amereida/",
+     "checks": "Travesía poética de 1965 (Iommi, Simons, Cruz y otros) desde Tierra del Fuego; poemarios Amereida (1967) y Amereida II (1986); en 1970 se funda la Ciudad Abierta en las dunas de Ritoque bajo la Escuela de Arquitectura y Diseño de la UCV; une «vida, trabajo y estudio».",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Memoria Chilena (Biblioteca Nacional de Chile), «Alberto Cruz Covarrubias (1917-2013)»",
+     "url": "https://www.memoriachilena.gob.cl/602/w3-article-654066.html",
+     "checks": "Cruz fundó con Iommi el Instituto de Arquitectura (1952); Travesía de Amereida (1965), poema Amereida (1967) e inspiración de la Ciudad Abierta (1970), comunidad experimental en Ritoque; relación arquitectura-poesía.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Ventana en Blanco, «Ciudad Abierta»",
+     "url": "https://ventanaenblanco.es/detalle/253/ciudad-abierta/",
+     "checks": "Cruz e Iommi lideran el proyecto con la Escuela de Arquitectura de Valparaíso; «no hay planos»; talleres como experiencia práctica; «La Poesía dice, la Arquitectura hace». ⚠ no da el año exacto de inicio (solo «casi 4 décadas» en 2013); no confirma construcción por la comunidad ni que continúe.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Ciudad Abierta"
+  },
+  {
+   "id": "munich-olympic-park-1972",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Munich Olympic Park",
+   "designers": [
+    "frei-otto",
+    "gunther-behnisch"
+   ],
+   "year": 1972,
+   "date": "1972",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Steel cable net, acrylic glass panels, concrete",
+   "tech": [],
+   "key": "The site of the 1972 Olympic Games in Munich, with a light tent-like roof of cables and acrylic glass by Frei Otto and the studio of Günter Behnisch.",
+   "more": "Behnisch and his studio won the competition for the park; Frei Otto designed the lightweight roof, a net of steel cables covered with transparent acrylic panels, which spans the stadium and other venues. The landscape was shaped on a former airfield, partly with rubble from the war. The soft, open design was meant to present a new, democratic Germany.",
+   "status": "Still in use for sport and public events.",
+   "es": {
+    "title": "Parque Olímpico de Múnich",
+    "date": "1972",
+    "materials": "Red de cables de acero, paneles de vidrio acrílico, hormigón",
+    "key": "El recinto de los Juegos Olímpicos de 1972 en Múnich, con una cubierta liviana de cables y vidrio acrílico, a modo de carpa, de Frei Otto y el estudio de Günter Behnisch.",
+    "more": "Behnisch y su estudio ganaron el concurso del parque; Frei Otto diseñó la cubierta liviana, una red de cables de acero cubierta con paneles acrílicos transparentes, que abarca el estadio y otros recintos. El paisaje se modeló sobre un antiguo aeródromo, en parte con escombros de la guerra. El diseño suave y abierto buscaba mostrar una Alemania nueva y democrática.",
+    "status": "Sigue en uso para deporte y eventos públicos.",
+    "short": "Parque Olímpico Múnich"
+   },
+   "refs": [],
+   "short": "Munich Olympic Park"
+  },
+  {
+   "id": "sydney-opera-house-1973",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Sydney Opera House",
+   "designers": [
+    "jorn-utzon"
+   ],
+   "year": 1973,
+   "date": "1957–1973",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "AU",
+    "DK"
+   ],
+   "materials": "Concrete shells clad in ceramic tiles, granite",
+   "tech": [],
+   "key": "The performing arts centre on Sydney Harbour, designed by the Danish architect Jørn Utzon, whose white sail-like shells became a symbol of the city and of twentieth-century architecture.[1][2]",
+   "more": "Utzon won the international competition, judged in January 1957.[2] The roof shells were made as segments of a single sphere, so that the ribs and prefabricated parts could be repeated, and the engineers at Ove Arup relied on electronic digital computers to analyse them.[3][4] Utzon resigned in 1966 and other Sydney architects finished the building under Arup’s supervision, which was completed in 1973.[1][2] UNESCO inscribed it in 2007 as a great architectural work of the twentieth century.[1]",
+   "status": "Still in use; listed as a UNESCO World Heritage site.",
+   "es": {
+    "title": "Ópera de Sídney",
+    "date": "1957–1973",
+    "materials": "Cáscaras de hormigón revestidas con cerámica, granito",
+    "key": "El centro de artes escénicas de la bahía de Sídney, diseñado por el arquitecto danés Jørn Utzon, cuyas cáscaras blancas, a modo de velas, se volvieron símbolo de la ciudad y de la arquitectura del siglo XX.[1][2]",
+    "more": "Utzon ganó el concurso internacional, fallado en enero de 1957.[2] Las cáscaras del techo se hicieron como segmentos de una misma esfera, para poder repetir las costillas y las piezas prefabricadas, y los ingenieros de Ove Arup recurrieron a computadores digitales electrónicos para analizarlas.[3][4] Utzon renunció en 1966 y otros arquitectos de Sídney terminaron el edificio bajo la supervisión de Arup, que se completó en 1973.[1][2] La UNESCO lo inscribió en 2007 como una gran obra arquitectónica del siglo XX.[1]",
+    "status": "Sigue en uso; es Patrimonio Mundial de la UNESCO."
+   },
+   "refs": [
+    {
+     "label": "UNESCO, Centro del Patrimonio Mundial, «Sydney Opera House»",
+     "url": "https://whc.unesco.org/en/list/166",
+     "checks": "Concurso internacional de 1957 ganado por Utzon; cáscaras de geometría esférica y elementos prefabricados; renuncia en 1966 y edificio inaugurado en 1973; revestimiento cerámico, base de granito; inscrito en 2007 como gran obra arquitectónica del siglo XX.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Sydney Opera House»",
+     "url": "https://www.britannica.com/print/article/577499",
+     "checks": "Concurso internacional (1956), entrada de Utzon elegida en enero de 1957; Utzon renunció en 1966; Hall, Littlemore y Todd continuaron bajo Ove Arup and Partners; terminado en septiembre de 1973; Patrimonio Mundial 2007. ⚠ fecha del concurso: 1956 el concurso, enero de 1957 el fallo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Arup, «Sydney Opera House»",
+     "url": "https://www.arup.com/projects/sydney-opera-house",
+     "checks": "Diez cáscaras de hormigón prefabricado derivadas de segmentos de una esfera de 75 m de diámetro; nervios prefabricados producidos en serie; más de un millón de baldosas cerámicas. ⚠ Arup es la empresa de los ingenieros (fuente interesada).",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Institution of Structural Engineers, «Sydney Opera House – 50 years on»",
+     "url": "https://www.istructe.org/resources/case-study/sydney-opera-house-50-years-on/",
+     "checks": "Uso extensivo de computadores digitales electrónicos para hacer posible la estructura; todos los techos mayores como segmentos de una misma esfera; más de doscientas costillas con una docena de perfiles. ⚠ no confirma las fechas de 1966.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "curitiba-rit-1974",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "project",
+   "title": "Curitiba integrated transport network",
+   "designers": [
+    "jaime-lerner"
+   ],
+   "year": 1974,
+   "date": "1974",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR"
+   ],
+   "materials": "Dedicated bus lanes, articulated buses",
+   "tech": [],
+   "key": "Curitiba’s system of buses on exclusive lanes, begun under mayor Jaime Lerner in 1974, a forerunner of what is now called bus rapid transit.",
+   "more": "Lerner, a trained architect and mayor from 1971, put the first express buses on their own lanes along main axes of the city plan in 1974. Buses were a cheaper and faster option than building a metro for a fast-growing city. The network was extended and improved over later years, and the model was taken up by cities in many countries.",
+   "status": "Still operating, much expanded since its start.",
+   "es": {
+    "title": "Red Integrada de Transporte de Curitiba",
+    "date": "1974",
+    "materials": "Carriles exclusivos para buses, buses articulados",
+    "key": "El sistema de buses de Curitiba en carriles exclusivos, iniciado bajo el alcalde Jaime Lerner en 1974, antecesor de lo que hoy se llama BRT, o transporte rápido en buses.",
+    "more": "Lerner, arquitecto de formación y alcalde desde 1971, puso en 1974 los primeros buses expresos en carriles propios a lo largo de los ejes principales del plan de la ciudad. Los buses eran una opción más barata y rápida que construir un metro para una ciudad de crecimiento veloz. La red se amplió y mejoró en los años siguientes, y el modelo fue adoptado por ciudades de muchos países.",
+    "status": "Sigue funcionando, muy ampliado desde su inicio.",
+    "short": "Transporte Curitiba"
+   },
+   "refs": [],
+   "short": "Curitiba transport"
+  },
+  {
+   "id": "jatiya-sangsad-dhaka-1982",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Jatiya Sangsad Bhaban, Dhaka",
+   "designers": [
+    "louis-kahn"
+   ],
+   "year": 1962,
+   "date": "1962–1982",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "BD",
+    "US"
+   ],
+   "materials": "Cast concrete with inlaid white marble bands",
+   "tech": [],
+   "key": "Louis Kahn’s national parliament in Dhaka, a monumental complex of concrete with large geometric openings, designed from 1962 and completed in 1982, eight years after his death.",
+   "more": "Kahn was commissioned in 1962, when the site was meant as a second capital of Pakistan; after Bangladesh’s independence the project was completed as its parliament, in 1982, after Kahn’s death in 1974. Its assembly hall is ringed by concrete blocks pierced by large circles, triangles and squares that give shade and light in the climate of Bengal. Western architects saw in it a model of monumental form built with local labour, shaded openings and plain materials.",
+   "status": "In use as the national parliament of Bangladesh.",
+   "es": {
+    "title": "Parlamento de Dacca",
+    "date": "1962–1982",
+    "materials": "Hormigón in situ con bandas de mármol blanco incrustado",
+    "key": "El parlamento nacional de Louis Kahn en Dacca, un complejo monumental de hormigón con grandes aberturas geométricas, proyectado desde 1962 y terminado en 1982, ocho años después de su muerte.",
+    "more": "A Kahn se le encargó en 1962, cuando el sitio estaba pensado como segunda capital de Pakistán; tras la independencia de Bangladés el proyecto se completó como su parlamento, en 1982, después de la muerte de Kahn en 1974. Su sala de asambleas está rodeada por bloques de hormigón perforados por grandes círculos, triángulos y cuadrados que dan sombra y luz en el clima de Bengala. Los arquitectos occidentales vieron en él un modelo de forma monumental hecha con mano de obra local, aberturas sombreadas y materiales simples.",
+    "status": "En uso como parlamento nacional de Bangladés.",
+    "short": "Parlamento de Dacca"
+   },
+   "refs": [],
+   "maker": "Louis Kahn (completed by his office)",
+   "short": "Jatiya Sangsad"
+  },
+  {
+   "id": "glass-house-1949",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Glass House, New Canaan",
+   "designers": [
+    "philip-johnson"
+   ],
+   "year": 1949,
+   "date": "1949",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, glass walls, brick floor and brick cylinder",
+   "tech": [],
+   "key": "Philip Johnson’s own house in New Canaan, Connecticut: a single rectangular room of steel and glass set in a wooded landscape.",
+   "more": "Johnson built it as his own residence, with four glass walls on a slim steel frame and a brick cylinder holding the bathroom and fireplace. It was designed at the same time as Mies van der Rohe’s Farnsworth House and drew directly on its idea of a glass pavilion, though it sits on the ground rather than above it. Johnson had named the International Style with Henry-Russell Hitchcock in 1932, and here he gave it a house that became one of its best-known images.",
+   "status": "Preserved and open to visitors as a museum site of the National Trust for Historic Preservation.",
+   "es": {
+    "title": "Casa de Vidrio, New Canaan",
+    "date": "1949",
+    "materials": "Estructura de acero, muros de vidrio, piso y cilindro de ladrillo",
+    "key": "La casa propia de Philip Johnson en New Canaan, Connecticut: una sola sala rectangular de acero y vidrio en medio de un paisaje de bosque.",
+    "more": "Johnson la construyó como su residencia, con cuatro muros de vidrio sobre una delgada estructura de acero y un cilindro de ladrillo que contiene el baño y la chimenea. Se proyectó al mismo tiempo que la Casa Farnsworth de Mies van der Rohe y se apoyó directamente en su idea de pabellón de vidrio, aunque descansa sobre el suelo y no sobre el aire. Johnson había bautizado el Estilo Internacional junto con Henry-Russell Hitchcock en 1932, y aquí le dio una casa que se volvió una de sus imágenes más conocidas.",
+    "status": "Se conserva y está abierta a visitas como sitio museo del National Trust for Historic Preservation.",
+    "short": "Casa de Vidrio"
+   },
+   "refs": [],
+   "movements": [
+    "international-style"
+   ],
+   "short": "Glass House"
+  },
+  {
+   "id": "farnsworth-house-1951",
+   "level": "essential",
+   "discipline": "architecture",
+   "type": "house",
+   "title": "Farnsworth House",
+   "designers": [
+    "mies-van-der-rohe"
+   ],
+   "client": "Edith Farnsworth",
+   "year": 1951,
+   "date": "1945–1951",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Painted steel frame, glass, travertine",
+   "tech": [],
+   "key": "Mies van der Rohe’s weekend house in Plano, Illinois, completed in 1951: a glass-walled box lifted on eight white steel columns about five feet above the ground.[1]",
+   "more": "Mies designed it for Dr Edith Farnsworth, a Chicago physician, as a weekend retreat on the Fox River, and it was completed in 1951.[1][2] Eight white steel columns carry the structure, with floor-to-ceiling plate glass walls and travertine on the floor slab and patio.[1] The interior has no walls except a single service core with bathrooms, kitchen and fireplace.[2] Raised on a welded steel frame more than five feet above ground, it lets floodwater pass beneath,[2] although the house has still flooded.[1][2] Costs and storage problems led to a dispute between client and architect.[1] The National Trust for Historic Preservation bought it in 2003 and has offered tours since 2004.[2]",
+   "status": "Preserved and open to visitors as a museum, owned by the National Trust for Historic Preservation.",
+   "es": {
+    "title": "Casa Farnsworth",
+    "date": "1945–1951",
+    "materials": "Estructura de acero pintado, vidrio, travertino",
+    "key": "La casa de fin de semana de Mies van der Rohe en Plano, Illinois, terminada en 1951: una caja con muros de vidrio levantada sobre ocho columnas de acero blancas a cerca de un metro y medio del suelo.[1]",
+    "more": "Mies la proyectó para la doctora Edith Farnsworth, médica de Chicago, como refugio de fin de semana junto al río Fox, y se terminó en 1951.[1][2] Ocho columnas de acero blancas sostienen la estructura, con muros de vidrio de piso a cielo y travertino en la losa del piso y el patio.[1] El interior no tiene muros salvo un único núcleo de servicios con baños, cocina y chimenea.[2] Elevada sobre una estructura de acero soldado a más de cinco pies del suelo, deja pasar bajo ella las aguas de las crecidas,[2] aunque la casa igualmente se ha inundado.[1][2] Los sobrecostos y los problemas de almacenamiento llevaron a una disputa entre clienta y arquitecto.[1] El National Trust for Historic Preservation la compró en 2003 y ofrece visitas desde 2004.[2]",
+    "status": "Se conserva y está abierta como museo, propiedad del National Trust for Historic Preservation."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Farnsworth House»",
+     "url": "https://www.britannica.com/print/article/1771537",
+     "checks": "Mies, Plano (Illinois), terminada en 1951; clienta Edith Farnsworth, médica de Chicago, refugio de fin de semana junto al Fox; ocho columnas blancas, unos 5 pies sobre el suelo, muros de vidrio, travertino; sobrecostos y disputa; inundaciones; National Trust propietario desde 2003. ⚠ da inundaciones de 1995 y 2008, la otra fuente 1996; no se citan años.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "National Trust for Historic Preservation (Savingplaces), «The Past, Present, and Future of Farnsworth House»",
+     "url": "https://savingplaces.org/stories/the-past-present-future-of-farnsworth-house",
+     "checks": "Terminada en 1951; médica Edith Farnsworth conoció a Mies en 1945; estructura de acero soldado a más de 5 pies; sin muros salvo un núcleo de servicios; adquirida por el Trust en 2003, abierta al público en 2004.",
+     "date": "2026-10-05"
+    }
+   ],
+   "movements": [
+    "international-style"
+   ]
+  },
+  {
+   "id": "lever-house-1952",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "skyscraper",
+   "title": "Lever House",
+   "designers": [
+    "som"
+   ],
+   "maker": "Skidmore, Owings & Merrill (Gordon Bunshaft)",
+   "client": "Lever Brothers",
+   "year": 1952,
+   "date": "1952",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel frame, glass curtain wall, stainless steel",
+   "tech": [],
+   "key": "The Park Avenue headquarters of the soap maker Lever Brothers, a glass-walled slab on stilts that set the model for the corporate tower in New York.",
+   "more": "Designed by Gordon Bunshaft of Skidmore, Owings & Merrill, it is a thin glass tower set on a low base that is raised on columns around an open courtyard. Its walls are a sealed curtain wall of tinted glass in stainless steel frames, hung from the structure instead of carrying it. Standing among masonry buildings on Park Avenue, it showed that a company could present itself through a clean, modern building, and many office towers followed its lead.",
+   "status": "Standing and protected as a New York City landmark; its curtain wall has been restored.",
+   "es": {
+    "title": "Lever House",
+    "date": "1952",
+    "materials": "Estructura de acero, muro cortina de vidrio, acero inoxidable",
+    "key": "La sede de la fábrica de jabones Lever Brothers en Park Avenue, una torre de vidrio sobre pilotes que fijó el modelo de la torre corporativa en Nueva York.",
+    "more": "Proyectada por Gordon Bunshaft, de Skidmore, Owings & Merrill, es una torre delgada de vidrio sobre una base baja que se levanta en columnas alrededor de un patio abierto. Sus muros son un muro cortina sellado de vidrio tintado con marcos de acero inoxidable, colgado de la estructura en vez de sostenerla. Entre los edificios de albañilería de Park Avenue, mostró que una empresa podía presentarse con un edificio limpio y moderno, y muchas torres de oficinas siguieron su ejemplo.",
+    "status": "En pie y protegida como monumento de la ciudad de Nueva York; su muro cortina fue restaurado."
+   },
+   "refs": [],
+   "movements": [
+    "international-style"
+   ]
+  },
+  {
+   "id": "caracas-ciudad-universitaria-1953",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "complex",
+   "title": "Ciudad Universitaria de Caracas",
+   "designers": [
+    "carlos-raul-villanueva"
+   ],
+   "year": 1953,
+   "date": "1940–1960",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "VE"
+   ],
+   "materials": "Reinforced concrete, glass, ceramic, murals and sculpture",
+   "tech": [],
+   "key": "Carlos Raúl Villanueva’s university campus in Caracas, a modern complex of covered walkways and halls that carries works by leading artists of its time.",
+   "more": "Villanueva planned the campus from the 1940s and it was built in stages over the following years. Buildings are linked by covered walkways and open plazas, and architecture is joined to art: the Aula Magna holds Alexander Calder’s suspended acoustic panels, and works by Fernand Léger and Victor Vasarely appear elsewhere on the site. He called this joining of architecture and the arts a synthesis of the arts.",
+   "status": "In use as the Universidad Central de Venezuela; UNESCO World Heritage Site since 2000.",
+   "es": {
+    "title": "Ciudad Universitaria de Caracas",
+    "date": "1940–1960",
+    "materials": "Hormigón armado, vidrio, cerámica, murales y escultura",
+    "key": "El campus de Carlos Raúl Villanueva en Caracas, un conjunto moderno de pasillos cubiertos y salas que reúne obras de grandes artistas de su época.",
+    "more": "Villanueva planificó el campus desde la década de 1940 y se construyó por etapas en los años siguientes. Los edificios se unen mediante pasillos cubiertos y plazas abiertas, y la arquitectura se junta con el arte: el Aula Magna lleva los paneles acústicos suspendidos de Alexander Calder, y en otros puntos hay obras de Fernand Léger y Victor Vasarely. Villanueva llamó a esta unión de arquitectura y artes una síntesis de las artes.",
+    "status": "En uso como sede de la Universidad Central de Venezuela; Patrimonio Mundial de la UNESCO desde 2000.",
+    "short": "Ciudad Universitaria"
+   },
+   "refs": [],
+   "movements": [
+    "macro-modernism"
+   ],
+   "short": "Ciudad Universitaria"
+  },
+  {
+   "id": "hunstanton-school-1954",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Hunstanton School",
+   "designers": [
+    "smithsons"
+   ],
+   "year": 1954,
+   "date": "1949–1954",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Exposed steel frame, brick infill, glass, concrete",
+   "tech": [],
+   "key": "Alison and Peter Smithson’s school in Hunstanton, Norfolk, a steel and glass building that leaves its structure and pipes in view.",
+   "more": "Won in a competition in 1949 and completed in 1954, the school has a steel frame filled with brick and glass, in a plan clearly influenced by Mies van der Rohe. The Smithsons left the frame, the brickwork and the services uncovered inside, with little finishing. Reyner Banham took it as the first example of what he called the New Brutalism.",
+   "status": "Still standing and a listed building.",
+   "es": {
+    "title": "Escuela de Hunstanton",
+    "date": "1949–1954",
+    "materials": "Estructura de acero a la vista, relleno de ladrillo, vidrio, hormigón",
+    "key": "La escuela de Alison y Peter Smithson en Hunstanton, Norfolk, un edificio de acero y vidrio que deja a la vista su estructura y sus cañerías.",
+    "more": "Ganada en un concurso en 1949 y terminada en 1954, la escuela tiene una estructura de acero rellena con ladrillo y vidrio, en una planta claramente influida por Mies van der Rohe. Los Smithson dejaron sin cubrir la estructura, la albañilería y las instalaciones, con muy poca terminación. Reyner Banham la tomó como el primer ejemplo de lo que llamó el Nuevo Brutalismo.",
+    "status": "Sigue en pie y es un edificio protegido."
+   },
+   "refs": [],
+   "movements": [
+    "brutalism-metabolism"
+   ]
+  },
+  {
+   "id": "los-manantiales-1958",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "building",
+   "title": "Los Manantiales Restaurant, Xochimilco",
+   "designers": [
+    "felix-candela"
+   ],
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "materials": "Reinforced concrete",
+   "tech": [
+    "prestressed-concrete"
+   ],
+   "key": "Félix Candela’s restaurant in Xochimilco, Mexico City, an eight-lobed roof of thin concrete shells shaped as hyperbolic paraboloids.",
+   "more": "Candela covered the restaurant with a concrete shell made of intersecting hyperbolic paraboloids, only a few centimetres thick, which makes eight curved lobes. A hyperbolic paraboloid is built from straight lines, so the formwork could be made of straight timber boards, and the thin shell used little concrete and steel. The building became a canonical example of how an engineer could make a great space with very little material.",
+   "status": "Still standing and in use as a restaurant.",
+   "es": {
+    "title": "Restaurante Los Manantiales, Xochimilco",
+    "date": "1958",
+    "materials": "Hormigón armado",
+    "key": "El restaurante de Félix Candela en Xochimilco, Ciudad de México, una cubierta de ocho lóbulos hecha con delgados cascarones de hormigón en forma de paraboloides hiperbólicos.",
+    "more": "Candela cubrió el restaurante con un cascarón de hormigón formado por paraboloides hiperbólicos que se cruzan, de apenas unos centímetros de espesor, y que dibuja ocho lóbulos curvos. Un paraboloide hiperbólico se construye con líneas rectas, de modo que el moldaje podía hacerse con tablas rectas de madera, y la lámina delgada gastaba poco hormigón y poco acero. El edificio se volvió un ejemplo canónico de cómo un ingeniero podía lograr un gran espacio con muy poco material.",
+    "status": "Sigue en pie y en uso como restaurante.",
+    "short": "Los Manantiales"
+   },
+   "refs": [],
+   "short": "Los Manantiales"
+  },
+  {
+   "id": "atlantida-church-1960",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "church",
+   "title": "Church of Christ the Worker, Atlántida",
+   "designers": [
+    "eladio-dieste"
+   ],
+   "year": 1960,
+   "date": "1958–1960",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "UY"
+   ],
+   "materials": "Reinforced brick",
+   "tech": [],
+   "key": "Eladio Dieste’s church in Atlántida, Uruguay, whose walls and roof are undulating thin shells of reinforced brick.",
+   "more": "Dieste built the church with his technique of reinforced brick, in which brick is laid with steel bars to make thin curved shells that carry load by their shape. The side walls and the roof vault undulate, which stiffens them and lets them be very thin. The result is a luminous interior made from a cheap local material.",
+   "status": "In use as a church; part of the UNESCO World Heritage listing for Dieste’s work since 2021.",
+   "es": {
+    "title": "Iglesia de Cristo Obrero, Atlántida",
+    "date": "1958–1960",
+    "materials": "Ladrillo armado",
+    "key": "La iglesia de Eladio Dieste en Atlántida, Uruguay, cuyos muros y bóveda son delgados cascarones ondulados de ladrillo armado.",
+    "more": "Dieste construyó la iglesia con su técnica del ladrillo armado, en que el ladrillo se coloca con barras de acero para formar cascarones curvos y delgados que resisten por su forma. Los muros laterales y la bóveda ondulan, lo que los rigidiza y permite que sean muy delgados. El resultado es un interior luminoso hecho con un material local y barato.",
+    "status": "En uso como iglesia; forma parte desde 2021 de la inscripción de la obra de Dieste en el Patrimonio Mundial de la UNESCO.",
+    "short": "Iglesia de Atlántida"
+   },
+   "refs": [],
+   "short": "Atlántida church"
+  },
+  {
+   "id": "habitat-67",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "Habitat 67",
+   "designers": [
+    "moshe-safdie"
+   ],
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "CA"
+   ],
+   "materials": "Precast concrete modules",
+   "tech": [
+    "prefab-panels"
+   ],
+   "key": "Moshe Safdie’s housing complex for the Montreal Expo, made of prefabricated concrete boxes stacked so that each home has its own terrace.",
+   "more": "Safdie designed it for Expo 67 as a model of industrialised housing: concrete modules were made in a casting yard on site and lifted into place by crane, piled on one another in a staggered pattern. The stagger gives each home a roof terrace on the module below, an attempt to combine the density of an apartment block with the garden of a house. It remained a single complex, since the plan for a larger prefabricated system was not carried out.",
+   "status": "Still standing and lived in as apartments.",
+   "es": {
+    "title": "Habitat 67",
+    "date": "1967",
+    "materials": "Módulos de hormigón prefabricado",
+    "key": "El conjunto de viviendas de Moshe Safdie para la Expo de Montreal, hecho de cajas prefabricadas de hormigón apiladas de modo que cada casa tiene su terraza.",
+    "more": "Safdie lo proyectó para la Expo 67 como modelo de vivienda industrializada: los módulos de hormigón se hicieron en un patio de moldeo en el lugar y se subieron con grúa, apilados unos sobre otros de forma escalonada. El escalonamiento da a cada casa una terraza sobre el techo del módulo de abajo, un intento de unir la densidad de un bloque de departamentos con el jardín de una casa. Quedó como un solo conjunto, porque el plan de un sistema prefabricado mayor no se realizó.",
+    "status": "Sigue en pie y habitado como departamentos."
+   },
+   "refs": []
+  },
+  {
+   "id": "previ-lima-1969",
+   "level": "normal",
+   "discipline": "architecture",
+   "type": "housing",
+   "title": "PREVI Experimental Housing, Lima",
+   "designers": [],
+   "maker": "Peruvian government and UNDP; international and Peruvian architects",
+   "year": 1969,
+   "date": "1969–1970s",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "PE"
+   ],
+   "materials": "Brick and concrete block, built by the residents in stages",
+   "tech": [],
+   "key": "A Peruvian government housing experiment in Lima that asked architects to design low, dense houses which families could enlarge themselves.",
+   "more": "PREVI was a project of the Peruvian government with United Nations support, in which international and Peruvian architects each designed a cluster of low-rise houses. The houses were planned as a first stage, with room left for the families to add rooms as they could afford them. It is remembered as an early test of progressive housing, a model taken up by later projects such as Quinta Monroy.",
+   "status": "Built and lived in; most houses have been greatly altered and enlarged by their residents.",
+   "es": {
+    "title": "PREVI, Proyecto Experimental de Vivienda, Lima",
+    "date": "1969–1970s",
+    "materials": "Ladrillo y bloque de hormigón, ampliados por los propios habitantes",
+    "key": "Un experimento de vivienda del gobierno peruano en Lima que pidió a arquitectos diseñar casas bajas y densas que las familias pudieran ampliar por sí mismas.",
+    "more": "PREVI fue un proyecto del gobierno peruano con apoyo de las Naciones Unidas, en que arquitectos peruanos e internacionales diseñaron cada uno un grupo de casas de baja altura. Las casas se pensaron como una primera etapa, con espacio para que las familias agregaran piezas cuando pudieran pagarlas. Se recuerda como una prueba temprana de vivienda progresiva, un modelo que retomaron proyectos posteriores como Quinta Monroy.",
+    "status": "Construido y habitado; la mayoría de las casas ha sido muy modificada y ampliada por sus habitantes.",
+    "short": "PREVI Lima"
+   },
+   "refs": [],
+   "short": "PREVI Lima"
+  }
+ ]
+}

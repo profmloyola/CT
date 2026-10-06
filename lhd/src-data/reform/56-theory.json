@@ -1,0 +1,680 @@
+{
+ "theories": [
+  {
+   "id": "th-grammar-of-ornament",
+   "level": "essential",
+   "year": 1856,
+   "date": "1856",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "method",
+   "author": "Owen Jones",
+   "name": "The Grammar of Ornament",
+   "short": "Jones",
+   "key": "Owen Jones’s 1856 pattern book, with 100 colour plates of ornament from many cultures and 37 propositions on how to design it.",
+   "ideas": [
+    "Ornament should be applied to the construction of an object and should not be what the construction is made to carry.",
+    "Decoration on a flat surface should be flat, and should not imitate relief or nature naturally.",
+    "Ornament from the Egyptian, Moorish, Chinese, Indian and other traditions can teach principles that European design had lost.",
+    "Colour should be used with order and method, and Jones favoured the primary colours balanced with neutral ones."
+   ],
+   "impact": "Published in London by Day & Son in 1856, with plates printed in colour by chromolithography. Jones had directed the decoration of the Crystal Palace in 1851, and the book became a standard source of patterns and of principles for designers, among them Christopher Dresser.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "christopher-dresser"
+    ],
+    "works": [
+     "crystal-palace"
+    ]
+   },
+   "es": {
+    "author": "Owen Jones",
+    "name": "The Grammar of Ornament",
+    "short": "Jones",
+    "date": "1856",
+    "key": "El libro de modelos de Owen Jones de 1856, con 100 láminas en color de ornamento de muchas culturas y 37 proposiciones sobre cómo diseñarlo.",
+    "ideas": [
+     "El ornamento debe aplicarse a la construcción de un objeto y no ser aquello que la construcción se ve obligada a cargar.",
+     "La decoración sobre una superficie plana debe ser plana, y no imitar el relieve ni la naturaleza al natural.",
+     "El ornamento de las tradiciones egipcia, morisca, china, india y otras puede enseñar principios que el diseño europeo había perdido.",
+     "El color debe usarse con orden y método, y Jones prefería los colores primarios equilibrados con neutros."
+    ],
+    "impact": "Publicado en Londres por Day & Son en 1856, con láminas impresas en color por cromolitografía. Jones había dirigido la decoración del Crystal Palace en 1851, y el libro se volvió una fuente habitual de modelos y de principios para los diseñadores, entre ellos Christopher Dresser."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-nature-of-gothic",
+   "level": "essential",
+   "year": 1853,
+   "date": "1853",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "John Ruskin",
+   "name": "The Nature of Gothic",
+   "short": "Ruskin",
+   "key": "The chapter of Ruskin’s The Stones of Venice (1853) that praised Gothic as the work of free craftsmen and condemned the division of labour of industry.",
+   "ideas": [
+    "Gothic building shows the free work of each craftsman, with his flaws and his invention, and Ruskin names its marks as savageness, changefulness, naturalism, grotesqueness, rigidity and redundance.",
+    "Industrial division of labour turns the worker into a tool, and perfect, mechanical finish is a sign of that servitude.",
+    "A society should value the worker’s freedom to think and invent over the polish of the product.",
+    "The quality of the work expresses the condition of the people who made it."
+   ],
+   "impact": "It is a chapter of the second volume of The Stones of Venice. William Morris admired it, and his Kelmscott Press printed it in 1892 with a preface by him; its ideas shaped the Arts and Crafts movement’s demand for the joy of the maker.",
+   "links": {
+    "movements": [
+     "arts-and-crafts"
+    ],
+    "institutions": [
+     "inst-kelmscott-press"
+    ],
+    "designers": [
+     "william-morris"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "John Ruskin",
+    "name": "La naturaleza de lo gótico",
+    "short": "Ruskin",
+    "date": "1853",
+    "key": "El capítulo de Las piedras de Venecia (1853) de Ruskin que elogió el gótico como obra de artesanos libres y condenó la división del trabajo de la industria.",
+    "ideas": [
+     "La construcción gótica muestra el trabajo libre de cada artesano, con sus fallas y su invención, y Ruskin nombra sus rasgos como lo salvaje, la variabilidad, el naturalismo, lo grotesco, la rigidez y la abundancia.",
+     "La división industrial del trabajo convierte al obrero en una herramienta, y el acabado perfecto y mecánico es señal de esa servidumbre.",
+     "Una sociedad debe valorar la libertad del trabajador para pensar e inventar por sobre el pulido del producto.",
+     "La calidad del trabajo expresa la condición de las personas que lo hicieron."
+    ],
+    "impact": "Es un capítulo del segundo tomo de Las piedras de Venecia. William Morris lo admiraba, y su Kelmscott Press lo imprimió en 1892 con un prólogo suyo; sus ideas moldearon la exigencia del movimiento Arts and Crafts de que el que hace disfrute su trabajo."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-dresser-principles",
+   "level": "normal",
+   "year": 1873,
+   "date": "1873",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "method",
+   "author": "Christopher Dresser",
+   "name": "Principles of Decorative Design",
+   "short": "Dresser",
+   "key": "Christopher Dresser’s 1873 handbook of rules for decorative design, which asks that ornament suit the object and its material and not imitate other things.",
+   "ideas": [
+    "Ornament should suit the object and the material it decorates.",
+    "A decoration should not pretend to be another material or a scene from nature.",
+    "Plants can teach designers how forms grow and are arranged, and need not be copied leaf by leaf.",
+    "Designers should learn from the ornament of many countries and periods, and not from one historical style."
+   ],
+   "impact": "A book by a trained botanist who became one of Britain’s first independent industrial designers, published in London in 1873 by Cassell. It joined the line of Owen Jones’s Grammar of Ornament in teaching principles instead of copying styles.",
+   "links": {
+    "movements": [
+     "aesthetic-movement"
+    ],
+    "institutions": [],
+    "designers": [
+     "christopher-dresser"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Christopher Dresser",
+    "name": "Principles of Decorative Design",
+    "short": "Dresser",
+    "date": "1873",
+    "key": "El manual de Christopher Dresser de 1873 con reglas de diseño decorativo, que pide que el ornamento convenga al objeto y a su material y no imite otras cosas.",
+    "ideas": [
+     "El ornamento debe convenir al objeto y al material que decora.",
+     "Una decoración no debe fingir ser otro material ni una escena de la naturaleza.",
+     "Las plantas pueden enseñar a los diseñadores cómo crecen y se ordenan las formas, sin necesidad de copiarlas hoja por hoja.",
+     "Los diseñadores deben aprender del ornamento de muchos países y épocas y no de un solo estilo histórico."
+    ],
+    "impact": "Un libro de un botánico de formación que llegó a ser uno de los primeros diseñadores industriales independientes de Gran Bretaña, publicado en Londres en 1873 por Cassell. Se sumó a la línea de The Grammar of Ornament de Owen Jones al enseñar principios en lugar de copiar estilos."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-sullivan-function",
+   "level": "essential",
+   "year": 1896,
+   "date": "1896",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Louis Sullivan",
+   "name": "The Tall Office Building Artistically Considered",
+   "short": "Sullivan",
+   "key": "Louis Sullivan’s 1896 essay on the tall steel-framed office building, which holds that form ever follows function and gave modern design its best-known phrase.",
+   "ideas": [
+    "Form ever follows function: the shape of a building should express its purpose and not copy a historical style.",
+    "The tall office building is a new problem and should be designed as a new kind of building, with shops below, repeated office floors above and a crowning attic.",
+    "Nature offers the example: in living things the shape reveals the life within.",
+    "The tall building should show its height and the lines of its structure as its main message."
+   ],
+   "impact": "Published in Lippincott’s Magazine in March 1896. Sullivan meant the phrase as an organic idea, not as a ban on ornament, but later modernists took it as the slogan of functional design.",
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ],
+    "institutions": [],
+    "designers": [
+     "louis-sullivan"
+    ],
+    "works": [
+     "carson-pirie-scott"
+    ]
+   },
+   "es": {
+    "author": "Louis Sullivan",
+    "name": "El edificio alto de oficinas considerado artísticamente",
+    "short": "Sullivan",
+    "date": "1896",
+    "key": "El ensayo de Louis Sullivan de 1896 sobre el edificio alto de oficinas con estructura de acero, que sostiene que la forma sigue siempre a la función y dio al diseño moderno su frase más conocida.",
+    "ideas": [
+     "La forma sigue siempre a la función: la forma de un edificio debe expresar su propósito y no copiar un estilo histórico.",
+     "El edificio alto de oficinas es un problema nuevo y debe proyectarse como un tipo nuevo de edificio, con locales abajo, pisos de oficinas repetidos arriba y un ático que lo remata.",
+     "La naturaleza ofrece el ejemplo: en los seres vivos la forma revela la vida que hay dentro.",
+     "El edificio alto debe mostrar su altura y las líneas de su estructura como su mensaje principal."
+    ],
+    "impact": "Publicado en Lippincott’s Magazine en marzo de 1896. Sullivan entendía la frase como una idea orgánica y no como una prohibición del ornamento, pero los modernistas posteriores la tomaron como el lema del diseño funcional."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-loos-ornament-and-crime",
+   "level": "essential",
+   "year": 1910,
+   "date": "c. 1908–1910",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "genre": "manifesto",
+   "author": "Adolf Loos",
+   "name": "Ornament and Crime",
+   "short": "Loos",
+   "key": "Adolf Loos’s polemic against ornament, written around 1908 and delivered as a lecture in Vienna in 1910, which held that cultural progress means removing ornament from everyday objects.",
+   "ideas": [
+    "Cultural development means removing ornament from objects of daily use.",
+    "Ornament on useful objects wastes the labour of the maker, the material and the money of the buyer.",
+    "Ornament goes out of fashion quickly, so an ornamented object ages faster than a plain one.",
+    "The modern person needs well-made, plain things, and art belongs in the work of the artist and not in a kettle or a chair."
+   ],
+   "impact": "Loos gave the lecture in Vienna in 1910; it appeared in French in 1913 and in German in 1929. Le Corbusier reprinted it in L’Esprit Nouveau in 1920, and it became a founding text of the modern case against ornament.",
+   "links": {
+    "movements": [
+     "macro-modernism"
+    ],
+    "institutions": [],
+    "designers": [
+     "adolf-loos"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Adolf Loos",
+    "name": "Ornamento y delito",
+    "short": "Loos",
+    "date": "c. 1908–1910",
+    "key": "La polémica de Adolf Loos contra el ornamento, escrita hacia 1908 y dada como conferencia en Viena en 1910, que sostuvo que el progreso cultural significa quitar el ornamento a los objetos cotidianos.",
+    "ideas": [
+     "El desarrollo cultural significa quitar el ornamento a los objetos de uso diario.",
+     "El ornamento en los objetos útiles malgasta el trabajo del artesano, el material y el dinero del comprador.",
+     "El ornamento pasa pronto de moda, así que un objeto ornamentado envejece más rápido que uno liso.",
+     "La persona moderna necesita cosas lisas y bien hechas, y el arte pertenece a la obra del artista y no a una tetera o una silla."
+    ],
+    "impact": "Loos dio la conferencia en Viena en 1910; apareció en francés en 1913 y en alemán en 1929. Le Corbusier la reprodujo en L’Esprit Nouveau en 1920, y se volvió un texto fundacional del argumento moderno contra el ornamento."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-semper-der-stil",
+   "level": "normal",
+   "year": 1860,
+   "date": "1860",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "architecture",
+   "author": "Gottfried Semper",
+   "name": "Der Stil",
+   "short": "Semper",
+   "key": "Gottfried Semper’s treatise on style in the technical and tectonic arts, which traced architecture back to textiles and to the working of materials.",
+   "ideas": [
+    "Forms arise from purpose, material and technique, and not from an inherited repertoire of styles.",
+    "The wall begins as a woven enclosure: textiles and the art of covering come before solid construction.",
+    "Cladding is a primary architectural act; the covering and the structure behind it are distinct things.",
+    "When a form passes from one material to another it keeps traces of its origin."
+   ],
+   "impact": "Semper published it in two volumes, in 1860 and 1863, under the full title ‘Style in the Technical and Tectonic Arts, or Practical Aesthetics’. Its idea of cladding was taken up by later architects in Vienna, and Adolf Loos wrote on the ‘principle of cladding’ in 1898.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "adolf-loos"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Gottfried Semper",
+    "name": "Der Stil (El estilo)",
+    "short": "Semper",
+    "date": "1860",
+    "key": "El tratado de Gottfried Semper sobre el estilo en las artes técnicas y tectónicas, que remontó la arquitectura a los textiles y al trabajo de los materiales.",
+    "ideas": [
+     "Las formas nacen del propósito, el material y la técnica, y no de un repertorio heredado de estilos.",
+     "El muro comienza como un cerramiento tejido: los textiles y el arte de cubrir son anteriores a la construcción maciza.",
+     "El revestimiento es un acto arquitectónico primario; el recubrimiento y la estructura que hay detrás son cosas distintas.",
+     "Cuando una forma pasa de un material a otro, conserva huellas de su origen."
+    ],
+    "impact": "Semper lo publicó en dos volúmenes, en 1860 y 1863, con el título completo «El estilo en las artes técnicas y tectónicas, o estética práctica». Su idea del revestimiento fue retomada por arquitectos posteriores en Viena, y Adolf Loos escribió sobre el «principio del revestimiento» en 1898."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-viollet-le-duc-entretiens",
+   "level": "normal",
+   "year": 1863,
+   "date": "1863",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "genre": "architecture",
+   "author": "Eugène Viollet-le-Duc",
+   "name": "Entretiens sur l’architecture",
+   "short": "Viollet-le-Duc",
+   "key": "Viollet-le-Duc’s lectures on architecture, which presented Gothic building as a rational system of structure and urged the honest use of new materials such as iron.",
+   "ideas": [
+    "Gothic architecture is a logical structure in which every element has a function and form follows from it.",
+    "Each material should be used according to its properties, without disguising it.",
+    "Architects should not copy past styles but apply the same reasoning to the means of their own time.",
+    "Iron can be combined with masonry to make lighter, more open structures."
+   ],
+   "impact": "Published in two volumes, in 1863 and 1872, with many of the author’s own drawings, including designs for iron-and-masonry construction. Its structural rationalism was influential among later architects, among them Victor Horta.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "victor-horta"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Eugène Viollet-le-Duc",
+    "name": "Conversaciones sobre arquitectura",
+    "short": "Viollet-le-Duc",
+    "date": "1863",
+    "key": "Las lecciones de Viollet-le-Duc sobre arquitectura, que presentaron la construcción gótica como un sistema racional de estructura y pidieron usar con honestidad materiales nuevos como el hierro.",
+    "ideas": [
+     "La arquitectura gótica es una estructura lógica en la que cada elemento tiene una función y la forma se sigue de ella.",
+     "Cada material debe usarse según sus propiedades, sin disfrazarlo.",
+     "Los arquitectos no deben copiar estilos del pasado, sino aplicar el mismo razonamiento a los medios de su época.",
+     "El hierro puede combinarse con la mampostería para lograr estructuras más livianas y abiertas."
+    ],
+    "impact": "Publicadas en dos volúmenes, en 1863 y 1872, con muchos dibujos del propio autor, entre ellos proyectos de construcción mixta de hierro y mampostería. Su racionalismo estructural influyó en arquitectos posteriores, entre ellos Victor Horta."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-moderne-architektur",
+   "level": "normal",
+   "year": 1896,
+   "date": "1896",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "genre": "architecture",
+   "author": "Otto Wagner",
+   "name": "Moderne Architektur",
+   "short": "Wagner",
+   "key": "Otto Wagner’s 1896 handbook for his students, which argued that architecture must start from the needs, materials and construction of modern life.",
+   "ideas": [
+    "Architecture must take its forms from modern life, not from historical styles.",
+    "Design starts from purpose, construction and material.",
+    "The modern city dweller and the modern city are the architect’s starting point.",
+    "Artistic form is the expression of what a building is for and how it is built."
+   ],
+   "impact": "Wagner wrote it for the students of his school at the Academy of Fine Arts in Vienna, where he had become professor in 1894, and published it in 1896. Later editions appeared under the title ‘Die Baukunst unserer Zeit’. Among his pupils were Josef Hoffmann and Joseph Maria Olbrich.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "josef-hoffmann"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Otto Wagner",
+    "name": "Arquitectura moderna",
+    "short": "Wagner",
+    "date": "1896",
+    "key": "El manual de Otto Wagner de 1896 para sus estudiantes, que sostuvo que la arquitectura debe partir de las necesidades, los materiales y la construcción de la vida moderna.",
+    "ideas": [
+     "La arquitectura debe tomar sus formas de la vida moderna, no de los estilos históricos.",
+     "El proyecto parte del propósito, la construcción y el material.",
+     "El habitante de la ciudad moderna y la ciudad moderna son el punto de partida del arquitecto.",
+     "La forma artística es la expresión de para qué sirve un edificio y de cómo está construido."
+    ],
+    "impact": "Wagner lo escribió para los estudiantes de su escuela en la Academia de Bellas Artes de Viena, donde era profesor desde 1894, y lo publicó en 1896. Las ediciones posteriores llevaron el título «Die Baukunst unserer Zeit». Entre sus alumnos estuvieron Josef Hoffmann y Joseph Maria Olbrich."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-garden-cities-of-tomorrow",
+   "level": "normal",
+   "year": 1898,
+   "date": "1898",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "society",
+   "author": "Ebenezer Howard",
+   "name": "To-morrow: A Peaceful Path to Real Reform (Garden Cities of To-morrow)",
+   "short": "Howard",
+   "key": "Ebenezer Howard’s 1898 book proposing new, planned towns of limited size that would join the advantages of town and country.",
+   "ideas": [
+    "Town and country should be joined in a ‘town-country’ that has the advantages of both.",
+    "A garden city would hold about 32,000 people and be surrounded by a permanent belt of farmland.",
+    "The land would be owned by the community, and rents would pay for the town’s services.",
+    "When a town reached its limit, growth would continue in a new town, forming a group of linked cities."
+   ],
+   "impact": "First published in 1898 as ‘To-morrow: A Peaceful Path to Real Reform’ and reissued in 1902 as ‘Garden Cities of To-morrow’. It led to the Garden City Association in 1899 and to Letchworth, begun in 1903 with a plan by Raymond Unwin and Barry Parker.",
+   "links": {
+    "movements": [
+     "garden-city-movement"
+    ],
+    "institutions": [],
+    "designers": [
+     "raymond-unwin"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Ebenezer Howard",
+    "name": "Ciudades jardín del mañana",
+    "short": "Howard",
+    "date": "1898",
+    "key": "El libro de Ebenezer Howard de 1898 que propuso ciudades nuevas y planificadas, de tamaño limitado, que unirían las ventajas de la ciudad y el campo.",
+    "ideas": [
+     "La ciudad y el campo deben unirse en una «ciudad-campo» que tenga las ventajas de ambos.",
+     "Una ciudad jardín tendría unos 32.000 habitantes y estaría rodeada por un cinturón permanente de tierras agrícolas.",
+     "El suelo sería propiedad de la comunidad, y las rentas pagarían los servicios de la ciudad.",
+     "Al llegar una ciudad a su límite, el crecimiento seguiría en una ciudad nueva, formando un grupo de ciudades conectadas."
+    ],
+    "impact": "Publicado primero en 1898 como «Mañana: un camino pacífico hacia la reforma real» y reeditado en 1902 como «Ciudades jardín del mañana». Condujo a la Garden City Association en 1899 y a Letchworth, iniciada en 1903 con un plan de Raymond Unwin y Barry Parker."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-veblen-leisure-class",
+   "level": "essential",
+   "year": 1899,
+   "date": "1899",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "society",
+   "author": "Thorstein Veblen",
+   "name": "The Theory of the Leisure Class",
+   "short": "Veblen",
+   "key": "Thorstein Veblen’s 1899 study of how the wealthy use goods and leisure to show status, which coined ‘conspicuous consumption’ and explained fashion as display.",
+   "ideas": [
+    "Wealthy people show their standing by spending conspicuously on goods that others can see.",
+    "Leisure itself is displayed as proof that one does not need to work.",
+    "The classes below imitate the tastes of those above, so spending habits spread down the social ladder.",
+    "Dress is a clear case: costly, impractical and constantly changing clothes announce that their wearer does not labour."
+   ],
+   "impact": "Veblen, an American economist, published it in New York in 1899. The phrase ‘conspicuous consumption’ comes from it, and it became a standard reference for understanding luxury, fashion and the display of status through objects.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "charles-frederick-worth"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Thorstein Veblen",
+    "name": "Teoría de la clase ociosa",
+    "short": "Veblen",
+    "date": "1899",
+    "key": "El estudio de Thorstein Veblen de 1899 sobre cómo los ricos usan bienes y ocio para mostrar su posición, que acuñó el «consumo ostentoso» y explicó la moda como exhibición.",
+    "ideas": [
+     "Los ricos muestran su posición gastando de manera ostentosa en bienes que otros pueden ver.",
+     "El ocio mismo se exhibe como prueba de que no se necesita trabajar.",
+     "Las clases inferiores imitan los gustos de las superiores, de modo que los hábitos de gasto bajan por la escala social.",
+     "El vestido es un caso claro: la ropa costosa, poco práctica y siempre cambiante anuncia que quien la lleva no trabaja."
+    ],
+    "impact": "Veblen, economista estadounidense, la publicó en Nueva York en 1899. De ella viene la expresión «consumo ostentoso», y se volvió una referencia habitual para entender el lujo, la moda y la exhibición de estatus mediante objetos."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-futurist-manifesto",
+   "level": "essential",
+   "year": 1909,
+   "date": "1909",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "genre": "manifesto",
+   "author": "Filippo Tommaso Marinetti",
+   "name": "Manifesto of Futurism",
+   "short": "Marinetti",
+   "key": "Marinetti’s manifesto of 1909, which founded Futurism by praising speed, machines and the city and rejecting the past, and which opened the way to futurist typography.",
+   "ideas": [
+    "Speed and the machine bring a new beauty: a racing car is more beautiful than a classical statue.",
+    "Museums, libraries and academies should be rejected as burial grounds of the past.",
+    "Courage, daring and revolt are essential elements of poetry.",
+    "Art should sing of crowds, factories and the modern city.",
+    "Syntax and the quiet page had to break to match this new energy."
+   ],
+   "impact": "It appeared in Le Figaro in Paris on 20 February 1909, after a first Italian printing in Bologna, and founded Futurism. Marinetti’s later ‘words in freedom’ broke syntax and scattered type across the page, the starting point of futurist typography and of the avant-garde poster-manifesto.",
+   "links": {
+    "movements": [
+     "futurism-typography"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Filippo Tommaso Marinetti",
+    "name": "Manifiesto futurista",
+    "short": "Marinetti",
+    "date": "1909",
+    "key": "El manifiesto de Marinetti de 1909, que fundó el futurismo al elogiar la velocidad, las máquinas y la ciudad y rechazar el pasado, y que abrió el camino a la tipografía futurista.",
+    "ideas": [
+     "La velocidad y la máquina traen una belleza nueva: un auto de carreras es más bello que una estatua clásica.",
+     "Museos, bibliotecas y academias deben rechazarse como cementerios del pasado.",
+     "El valor, la audacia y la rebelión son elementos esenciales de la poesía.",
+     "El arte debe cantar a las multitudes, las fábricas y la ciudad moderna.",
+     "La sintaxis y la página tranquila debían romperse para estar a la altura de esa energía."
+    ],
+    "impact": "Apareció en Le Figaro de París el 20 de febrero de 1909, tras una primera impresión italiana en Bolonia, y fundó el futurismo. Las «palabras en libertad» posteriores de Marinetti rompieron la sintaxis y esparcieron la tipografía por la página, punto de partida de la tipografía futurista y del cartel-manifiesto de vanguardia."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-morris-hopes-fears-1882",
+   "level": "essential",
+   "year": 1882,
+   "date": "1882",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "William Morris",
+   "name": "Hopes and Fears for Art",
+   "short": "Morris",
+   "key": "William Morris’s collection of lectures on the ‘lesser arts’, labour and the life of ordinary people, the founding text of Arts and Crafts thinking.",
+   "ideas": [
+    "The ‘lesser arts’ of everyday objects, houses and furnishings matter as much as painting and sculpture, and an age that neglects them is impoverished.",
+    "Art should be made by the people and for the people, as a source of pleasure to the maker as well as to the user.",
+    "Industrial production divorces the worker from the pleasure of making and fills the market with poor, imitative goods.",
+    "Beauty in daily life depends on a change in how society organises work."
+   ],
+   "impact": "The lectures were given from the late 1870s and gathered in a book published in London in 1882, with ‘The Lesser Arts’ and ‘The Art of the People’ among its chapters. They set out the social aim of the Arts and Crafts movement, which took up Morris’s call for honest handwork and a more equal society.",
+   "links": {
+    "movements": [
+     "arts-and-crafts"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "William Morris",
+    "name": "Esperanzas y temores para el arte",
+    "short": "Morris",
+    "date": "1882",
+    "key": "La colección de conferencias de William Morris sobre las «artes menores», el trabajo y la vida de la gente común, texto fundador del pensamiento del Arts and Crafts.",
+    "ideas": [
+     "Las «artes menores» de los objetos cotidianos, las casas y el mobiliario importan tanto como la pintura y la escultura, y una época que las descuida se empobrece.",
+     "El arte debe ser hecho por el pueblo y para el pueblo, como fuente de placer tanto para quien lo hace como para quien lo usa.",
+     "La producción industrial separa al trabajador del placer de hacer y llena el mercado de bienes pobres e imitativos.",
+     "La belleza en la vida diaria depende de un cambio en la forma en que la sociedad organiza el trabajo."
+    ],
+    "impact": "Las conferencias se dieron desde fines de la década de 1870 y se reunieron en un libro publicado en Londres en 1882, con «The Lesser Arts» y «The Art of the People» entre sus capítulos. Expusieron el propósito social del movimiento Arts and Crafts, que recogió el llamado de Morris a un trabajo manual honesto y a una sociedad más igualitaria."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-wright-art-craft-machine-1901",
+   "level": "normal",
+   "year": 1901,
+   "date": "1901",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "manifesto",
+   "author": "Frank Lloyd Wright",
+   "name": "The Art and Craft of the Machine",
+   "short": "Wright",
+   "key": "Frank Lloyd Wright’s 1901 lecture at Hull House in Chicago, which accepted the machine as the artist’s tool and called for simple forms designed for it.",
+   "ideas": [
+    "The machine is the characteristic tool of the age, and the artist should master it instead of avoiding it.",
+    "Machine work suits plain surfaces and simple forms, not imitations of handcarving.",
+    "Handcraft revivals that copy old hand-made ornament by machine misuse the tool.",
+    "Wright shared the Arts and Crafts regard for honest materials, but argued that Morris’s rejection of the machine was mistaken."
+   ],
+   "impact": "Wright gave it at Hull House, the Chicago settlement house, in 1901, in the circle of the city’s Arts and Crafts society. It is cited in nearly every history as the American answer to Morris, and it set out ideas on simplicity and the machine that Wright kept developing in his work.",
+   "links": {
+    "movements": [
+     "arts-and-crafts"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Frank Lloyd Wright",
+    "name": "El arte y el oficio de la máquina",
+    "short": "Wright",
+    "date": "1901",
+    "key": "La conferencia de Frank Lloyd Wright de 1901 en Hull House, Chicago, que aceptó la máquina como herramienta del artista y pidió formas simples pensadas para ella.",
+    "ideas": [
+     "La máquina es la herramienta característica de la época, y el artista debe dominarla en lugar de evitarla.",
+     "El trabajo a máquina conviene a superficies lisas y formas simples, no a imitaciones de talla a mano.",
+     "Los renacimientos artesanales que copian a máquina el ornamento hecho a mano usan mal la herramienta.",
+     "Wright compartía la estima del Arts and Crafts por los materiales honestos, pero sostenía que el rechazo de la máquina por parte de Morris era un error."
+    ],
+    "impact": "Wright la dio en Hull House, la casa de asentamiento de Chicago, en 1901, en el círculo de la sociedad de Arts and Crafts de la ciudad. Se cita en casi toda historia como la respuesta estadounidense a Morris, y expuso ideas sobre la simplicidad y la máquina que Wright siguió desarrollando en su obra."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-simmel-fashion-1904",
+   "level": "normal",
+   "year": 1904,
+   "date": "1904",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "genre": "society",
+   "author": "Georg Simmel",
+   "name": "Fashion",
+   "short": "Simmel",
+   "key": "Georg Simmel’s classic essay of 1904 explaining fashion as a balance between imitation and distinction, spreading from the upper classes downward.",
+   "ideas": [
+    "Fashion answers two needs at once: to imitate others and belong, and to set oneself apart.",
+    "A fashion starts in a higher class; when lower classes imitate it, the higher class drops it for a new one.",
+    "Fashion changes faster the more quickly it can spread, so it flourishes in wealthy, mobile societies.",
+    "A fashion marks a group from outside and binds it from within."
+   ],
+   "impact": "The essay appeared in 1904 in an American journal and in German the next year in a book on the philosophy of fashion. It became the standard starting point for sociological accounts of dress and taste, and the ‘trickle-down’ model it describes is still discussed and challenged.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "charles-frederick-worth"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Georg Simmel",
+    "name": "La moda",
+    "short": "Simmel",
+    "date": "1904",
+    "key": "El ensayo clásico de Georg Simmel de 1904 que explica la moda como un equilibrio entre imitación y distinción, difundido desde las clases altas hacia abajo.",
+    "ideas": [
+     "La moda responde a dos necesidades a la vez: imitar a otros y pertenecer, y distinguirse.",
+     "Una moda nace en una clase alta; cuando las clases bajas la imitan, la clase alta la abandona por una nueva.",
+     "La moda cambia más rápido mientras más rápido puede difundirse, por lo que florece en sociedades ricas y móviles.",
+     "Una moda marca a un grupo hacia fuera y lo une hacia dentro."
+    ],
+    "impact": "El ensayo apareció en 1904 en una revista estadounidense y en alemán al año siguiente, en un libro sobre la filosofía de la moda. Se volvió el punto de partida habitual de los estudios sociológicos del vestido y el gusto, y el modelo «de arriba abajo» que describe sigue discutiéndose y cuestionándose."
+   },
+   "refs": []
+  }
+ ]
+}

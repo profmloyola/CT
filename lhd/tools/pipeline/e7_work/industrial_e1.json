@@ -1,0 +1,18 @@
+{
+ "escribir_links": [
+  {
+   "ctx": "ctx-reading-public",
+   "item": "bodoni-manuale-1788",
+   "mecanismo": "Un público lector y bibliófilo creciente → ediciones de lujo y muestrarios que presentan la letra como objeto",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-middle-class-consumption",
+   "item": "brummell-tailoring-1810",
+   "mecanismo": "La distinción pasa de la riqueza del tejido al corte y la limpieza → un modelo imitable por las clases medias",
+   "tipo": "enlace",
+   "nota": ""
+  }
+ ]
+}

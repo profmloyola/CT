@@ -1,0 +1,147 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-urbanisation-working-class",
+   "track": "social",
+   "start": 1780,
+   "end": 1850,
+   "cont": false,
+   "date": "1780–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR"
+   ],
+   "name": "Urbanisation and the working class",
+   "short": "Urbanisation",
+   "key": "Industrial towns grew quickly and gathered a new class of wage workers and consumers, who crowded into cities that were full of signs, shops and street life.",
+   "happened": "In Britain, towns such as Manchester, Birmingham and Leeds grew many times over between the late eighteenth century and the mid-nineteenth, and by the census of 1851 about half the population lived in towns. Factory and mill work drew families from the countryside into housing built quickly and close to the workplace. A large wage-earning class appeared, with little skill in the trades but with a daily presence in the street.",
+   "effect": "The city became a place where design had to be read quickly and from a distance: shopkeepers and printers turned to heavier, more visible letters for posters and signs. Government concern about the taste and training of workers and manufacturers helped lead to the Government School of Design (1837). Small urban homes and public houses also created a market for cheap, light furniture.",
+   "es": {
+    "name": "Urbanización y clase obrera",
+    "short": "Urbanización",
+    "date": "1780–1850",
+    "key": "Las ciudades industriales crecieron rápido y reunieron a una nueva clase de asalariados y consumidores, en calles llenas de letreros, tiendas y vida pública.",
+    "happened": "En Gran Bretaña, ciudades como Manchester, Birmingham y Leeds se multiplicaron entre fines del siglo XVIII y mediados del XIX, y según el censo de 1851 cerca de la mitad de la población vivía en ciudades. El trabajo en fábricas y talleres llevó a familias del campo a viviendas levantadas deprisa y cerca del lugar de trabajo. Surgió una amplia clase asalariada, con poco dominio de los oficios tradicionales pero muy presente en la calle.",
+    "effect": "La ciudad se volvió un lugar donde el diseño debía leerse rápido y de lejos: comerciantes e impresores recurrieron a letras más gruesas y visibles para carteles y letreros. La preocupación del Estado por el gusto y la formación de obreros y fabricantes ayudó a crear la Government School of Design (1837). Las viviendas pequeñas y las tabernas urbanas también abrieron un mercado para muebles baratos y livianos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-clock-time",
+   "track": "social",
+   "start": 1760,
+   "end": 1850,
+   "cont": false,
+   "date": "1760–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Clock time and factory discipline",
+   "short": "Clock time",
+   "key": "Work moved from the rhythm of tasks and seasons to hours measured by the clock, and a fixed working day became a feature of the factory.",
+   "happened": "As workshops grew into factories, owners needed workers to arrive together and work the same hours so that machines and processes stayed in step. Bells, whistles, fines and time-keeping rules marked the working day, and clocks and watches spread among both employers and workers. Railways later made common time a public matter, with timetables that needed agreed hours across towns.",
+   "effect": "Time became something to be designed and displayed: factory clocks, public clocks and the pocket watch became everyday objects. The same logic shaped the design of work itself, in which tasks were divided, timed and repeated, as in the pottery works of Josiah Wedgwood at Etruria, where fixed hours and rules set the pace of production.",
+   "es": {
+    "name": "Tiempo de reloj y disciplina de fábrica",
+    "short": "Tiempo de reloj",
+    "date": "1760–1850",
+    "key": "El trabajo pasó del ritmo de las tareas y las estaciones a horas medidas por el reloj, y la jornada fija se volvió rasgo de la fábrica.",
+    "happened": "Cuando los talleres crecieron hasta ser fábricas, los dueños necesitaron que los obreros llegaran juntos y trabajaran las mismas horas para que máquinas y procesos marcharan al unísono. Campanas, silbatos, multas y reglas de puntualidad marcaron la jornada, y los relojes se difundieron entre empleadores y trabajadores. Más tarde el ferrocarril hizo del tiempo común un asunto público, con horarios que exigían horas acordadas entre ciudades.",
+    "effect": "El tiempo pasó a ser algo que se diseña y se exhibe: los relojes de fábrica, los relojes públicos y el reloj de bolsillo se volvieron objetos cotidianos. La misma lógica moldeó el diseño del propio trabajo, en el que las tareas se dividían, se medían y se repetían, como en la fábrica de cerámica de Josiah Wedgwood en Etruria, donde horarios y reglas fijas marcaban el ritmo de producción."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-luddism",
+   "track": "social",
+   "start": 1811,
+   "end": 1816,
+   "cont": false,
+   "date": "1811–1816",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Luddism and resistance to machines",
+   "short": "Luddism",
+   "key": "Textile workers in several English regions broke machines and attacked mills, protesting that new equipment and new work practices threatened their trades and wages.",
+   "happened": "Between 1811 and 1816 groups in Nottinghamshire, Yorkshire and Lancashire destroyed frames and looms and threatened mill owners, acting under the name of a figure called Ned Ludd. The government sent troops and passed the Frame-Breaking Act of 1812, which made machine breaking a capital offence. Their target was less the machine itself than the changes that came with it: lower pay, unregulated work and the loss of skilled status.",
+   "effect": "The conflict showed that machines were not neutral: who designed and owned them decided who kept skill and who lost it. It left the question of the machine and craft work open for later designers and critics, and it forms the background to the fears that met automatic looms such as the Jacquard loom.",
+   "es": {
+    "name": "Ludismo y resistencia a las máquinas",
+    "short": "Ludismo",
+    "date": "1811–1816",
+    "key": "Obreros textiles de varias regiones inglesas rompieron máquinas y atacaron fábricas en protesta porque el nuevo equipo y las nuevas prácticas amenazaban sus oficios y salarios.",
+    "happened": "Entre 1811 y 1816 grupos de Nottinghamshire, Yorkshire y Lancashire destruyeron telares y bastidores y amenazaron a dueños de fábricas, bajo el nombre de un personaje llamado Ned Ludd. El gobierno envió tropas y aprobó en 1812 la ley contra la destrucción de telares, que hizo de ella un delito castigado con la pena de muerte. Su blanco era menos la máquina misma que los cambios que la acompañaban: salarios más bajos, trabajo sin regulación y pérdida del estatus del oficio.",
+    "effect": "El conflicto mostró que las máquinas no son neutras: quién las diseñaba y quién las poseía decidía quién conservaba el oficio y quién lo perdía. Dejó abierta para diseñadores y críticos posteriores la pregunta por la máquina y el trabajo artesanal, y es parte del trasfondo de los temores que despertaron telares automáticos como el Jacquard."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-reading-public",
+   "track": "social",
+   "start": 1750,
+   "end": 1850,
+   "cont": false,
+   "date": "1750–1850",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "FR",
+    "DE"
+   ],
+   "name": "The expanding reading public",
+   "short": "Reading public",
+   "key": "More people learned to read and could afford printed matter, which created a market for novels, magazines and illustrated books.",
+   "happened": "Literacy rose across Europe during the period, especially in towns and among the middle class and artisans. Circulating libraries, reading societies, subscriptions and cheaper newspapers and books reached readers who earlier had little access to print. Women formed a large part of the new readership of novels and magazines.",
+   "effect": "Publishers began to design for a broad public: illustrated books, magazines with plates, and cheap editions needed clear pages, attractive images and low unit costs. This demand pushed printers toward faster presses, wood engraving that could sit beside type, and new kinds of title page and cover.",
+   "es": {
+    "name": "Público lector en expansión",
+    "short": "Público lector",
+    "date": "1750–1850",
+    "key": "Más personas aprendieron a leer y pudieron pagar impresos, lo que creó un mercado para novelas, revistas y libros ilustrados.",
+    "happened": "La alfabetización creció en Europa durante el período, sobre todo en las ciudades y entre la clase media y los artesanos. Las bibliotecas circulantes, las sociedades de lectura, las suscripciones y los diarios y libros más baratos llegaron a lectores que antes tenían poco acceso a lo impreso. Las mujeres fueron una parte importante del nuevo público de novelas y revistas.",
+    "effect": "Los editores comenzaron a diseñar para un público amplio: los libros ilustrados, las revistas con láminas y las ediciones baratas necesitaban páginas claras, imágenes atractivas y bajo costo por ejemplar. Esa demanda empujó a los impresores hacia prensas más rápidas, hacia el grabado en madera que podía ir junto al texto y hacia nuevos tipos de portada y cubierta."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-revolutionary-dress",
+   "track": "social",
+   "start": 1789,
+   "end": 1815,
+   "cont": false,
+   "date": "1789–1815",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "name": "Dress after the Revolution",
+   "short": "Revolutionary dress",
+   "key": "The French Revolution weakened dress codes tied to rank, and clothing turned simpler, lighter and more uniform, with political meaning attached to what people wore.",
+   "happened": "After 1789 aristocratic silks, wigs and rigid court dress became politically risky, and the tricolour cockade and the trousers of the sans-culottes became signs of republican allegiance. In 1793 the Convention declared freedom of dress, although the cockade remained required. Under the Directory and Consulate, light, loosely cut garments, often in white cotton, set the style for women, and under the Empire court dress returned in a more formal version.",
+   "effect": "Dress showed that clothing could carry political identity and that rank could be expressed by cut and material rather than by ornament. The move toward simple lines and light fabrics prepared the high-waisted gown of the Empire period and the plain dark coat that became the pattern for men's clothing.",
+   "es": {
+    "name": "Vestido tras la Revolución",
+    "short": "Vestido revolucionario",
+    "date": "1789–1815",
+    "key": "La Revolución Francesa debilitó los códigos de vestir ligados al rango, y la ropa se volvió más simple, liviana y uniforme, con un significado político en lo que cada cual vestía.",
+    "happened": "Después de 1789 las sedas aristocráticas, las pelucas y el rígido traje de corte se volvieron políticamente riesgosos, y la escarapela tricolor y el pantalón de los sans-culottes pasaron a ser señales de adhesión republicana. En 1793 la Convención declaró la libertad de vestido, aunque la escarapela siguió siendo obligatoria. Bajo el Directorio y el Consulado, las prendas ligeras y de corte suelto, a menudo de algodón blanco, marcaron la moda femenina, y bajo el Imperio el traje de corte volvió en una versión más formal.",
+    "effect": "El vestido mostró que la ropa podía llevar una identidad política y que el rango podía expresarse por el corte y el material en vez del adorno. El giro hacia líneas simples y telas livianas preparó el vestido de talle alto de la época del Imperio y el traje oscuro y sobrio que se volvió el patrón de la ropa masculina."
+   },
+   "refs": []
+  }
+ ]
+}

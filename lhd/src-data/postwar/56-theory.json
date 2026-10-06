@@ -1,0 +1,1539 @@
+{
+ "theories": [
+  {
+   "id": "th-rand-thoughts-on-design",
+   "level": "essential",
+   "year": 1947,
+   "date": "1947",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "typography",
+   "author": "Paul Rand",
+   "name": "Thoughts on Design",
+   "short": "Rand",
+   "key": "Paul Rand’s 1947 book, in which a New York designer argued that advertising and graphic design should be a union of form and content, simple, witty and built on the language of modern art.",
+   "ideas": [
+    "Design joins form and content: a layout is judged by how well it serves the idea it carries, not by decoration.",
+    "The graphic designer is a problem-solver who analyses and simplifies, not a decorator who dresses up a message.",
+    "The visual language of modern art, such as abstraction and collage, can be used in advertising to make it clearer and more direct.",
+    "Wit, surprise and the use of simple symbols make an image memorable and engage the viewer."
+   ],
+   "impact": "Published in New York in 1947, it presented Rand’s own work for advertising and magazines as a case for modern design in commerce. It was widely read by American designers, and its ideas about the symbol and the unity of form and content underlie his later work in corporate identity.",
+   "links": {
+    "movements": [
+     "corporate-identity-design"
+    ],
+    "institutions": [],
+    "designers": [
+     "paul-rand"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Paul Rand",
+    "name": "Pensamientos sobre el diseño",
+    "short": "Rand",
+    "date": "1947",
+    "key": "El libro de Paul Rand de 1947, en que un diseñador neoyorquino sostuvo que la publicidad y el diseño gráfico debían ser una unión de forma y contenido, simple, ingeniosa y basada en el lenguaje del arte moderno.",
+    "ideas": [
+     "El diseño une forma y contenido: una composición se juzga por lo bien que sirve a la idea que transmite, no por la decoración.",
+     "El diseñador gráfico es alguien que resuelve problemas, que analiza y simplifica, no un decorador que viste un mensaje.",
+     "El lenguaje visual del arte moderno, como la abstracción y el collage, puede usarse en la publicidad para hacerla más clara y directa.",
+     "El ingenio, la sorpresa y el uso de símbolos simples vuelven memorable una imagen y atraen al espectador."
+    ],
+    "impact": "Publicado en Nueva York en 1947, presentó el trabajo de Rand para publicidad y revistas como argumento a favor del diseño moderno en el comercio. Lo leyeron mucho los diseñadores estadounidenses, y sus ideas sobre el símbolo y la unidad de forma y contenido están en la base de su trabajo posterior en identidad corporativa."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-gute-form",
+   "level": "essential",
+   "year": 1949,
+   "date": "1949",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "genre": "manifesto",
+   "author": "Max Bill",
+   "name": "Die gute Form",
+   "short": "Bill",
+   "key": "Max Bill’s idea of ‘good form’, set out in 1949 in Switzerland, held that an object should be beautiful through its function and its proportions, without ornament or styling.",
+   "ideas": [
+    "The form of an object should come from its function and its material, not from decoration or fashion.",
+    "Beauty is not added to a useful object but arises from the way it fulfils its function.",
+    "Good proportion and simple geometry, even mathematical order, give an object lasting quality.",
+    "Durable, honest objects of good form are a cultural and social duty of industry, against short-lived styling."
+   ],
+   "impact": "Bill promoted ‘good form’ in Switzerland from 1949, including an exhibition of that name at the Swiss Industries Fair in Basel. The idea became a rallying cry of postwar German-speaking design, and Bill took it to the Ulm School of Design, which he helped found and led as its first rector from 1953.",
+   "links": {
+    "movements": [
+     "good-design",
+     "ulm-functionalism"
+    ],
+    "institutions": [],
+    "designers": [
+     "max-bill"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Max Bill",
+    "name": "«Die gute Form» (La buena forma)",
+    "short": "Bill",
+    "date": "1949",
+    "key": "La idea de «buena forma» de Max Bill, expuesta en 1949 en Suiza, sostenía que un objeto debe ser bello por su función y sus proporciones, sin ornamento ni styling.",
+    "ideas": [
+     "La forma de un objeto debe nacer de su función y de su material, no de la decoración ni de la moda.",
+     "La belleza no se agrega a un objeto útil, sino que surge de la manera en que cumple su función.",
+     "La buena proporción y la geometría simple, incluso el orden matemático, dan a un objeto una calidad duradera.",
+     "Los objetos durables y honestos, de buena forma, son un deber cultural y social de la industria, frente al styling efímero."
+    ],
+    "impact": "Bill promovió la «buena forma» en Suiza desde 1949, con una exposición de ese nombre en la Feria Suiza de Industrias de Basilea. La idea se volvió una consigna del diseño germanoparlante de posguerra, y Bill la llevó a la Escuela de Diseño de Ulm, que ayudó a fundar y dirigió como primer rector desde 1953."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-designing-for-people",
+   "level": "normal",
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Henry Dreyfuss",
+   "name": "Designing for People",
+   "short": "Dreyfuss",
+   "key": "Henry Dreyfuss’s 1955 book, in which an American industrial designer argued that a product must be shaped to fit the people who use it, through observation and testing.",
+   "ideas": [
+    "Products should be designed around the needs, comfort and safety of the people who use them.",
+    "The designer should test objects by use, and observe how people handle them, before settling the form.",
+    "The industrial designer works with engineers, manufacturers and sales staff from the start of a project, not at the end as a stylist.",
+    "A well-designed product earns trust and sells because it serves its user."
+   ],
+   "impact": "Published in New York in 1955, it described Dreyfuss’s practice with firms such as Bell Telephone, John Deere and the New York Central Railroad. It helped make the study of the user’s body and behaviour a part of industrial design, which he pursued further in his later book on human measurements.",
+   "links": {
+    "movements": [
+     "good-design",
+     "human-factors-ergonomics"
+    ],
+    "institutions": [],
+    "designers": [
+     "dreyfuss"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Henry Dreyfuss",
+    "name": "Diseñar para las personas",
+    "short": "Dreyfuss",
+    "date": "1955",
+    "key": "El libro de Henry Dreyfuss de 1955, en que un diseñador industrial estadounidense sostuvo que un producto debe adaptarse a las personas que lo usan, mediante la observación y las pruebas.",
+    "ideas": [
+     "Los productos deben diseñarse en torno a las necesidades, la comodidad y la seguridad de quienes los usan.",
+     "El diseñador debe probar los objetos con el uso y observar cómo la gente los maneja antes de fijar la forma.",
+     "El diseñador industrial trabaja con ingenieros, fabricantes y vendedores desde el inicio de un proyecto, no al final como estilista.",
+     "Un producto bien diseñado gana confianza y se vende porque sirve a su usuario."
+    ],
+    "impact": "Publicado en Nueva York en 1955, describió la práctica de Dreyfuss con empresas como Bell Telephone, John Deere y el ferrocarril New York Central. Ayudó a que el estudio del cuerpo y del comportamiento del usuario pasara a ser parte del diseño industrial, línea que él siguió en su libro posterior sobre las medidas humanas."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-hidden-persuaders",
+   "level": "normal",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "society",
+   "author": "Vance Packard",
+   "name": "The Hidden Persuaders",
+   "short": "Packard",
+   "key": "Vance Packard’s 1957 bestseller, which told readers how advertisers used motivational research to appeal to hidden desires and fears and so sell goods.",
+   "ideas": [
+    "Advertisers and market researchers study the unconscious motives of consumers, not only their stated reasons, in order to sell.",
+    "Products and packages are given symbolic meanings, such as status or security, that have little to do with their use.",
+    "Techniques of persuasion are also applied to politics, so that candidates are sold like products.",
+    "Such methods raise ethical questions about manipulating people’s choices without their knowledge."
+   ],
+   "impact": "A journalist’s popular account published in New York in 1957, it was a bestseller and made the public aware of motivational research in advertising. It started a line of critical books on consumer society by Packard, which includes The Waste Makers of 1960, and entered the debate on design and consumption.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "think-small"
+    ]
+   },
+   "es": {
+    "author": "Vance Packard",
+    "name": "Los persuasores ocultos",
+    "short": "Packard",
+    "date": "1957",
+    "key": "El éxito de ventas de Vance Packard de 1957, que contó a los lectores cómo los publicistas usaban la investigación motivacional para apelar a deseos y temores ocultos y así vender productos.",
+    "ideas": [
+     "Publicistas e investigadores de mercado estudian los motivos inconscientes de los consumidores, y no solo sus razones declaradas, para vender.",
+     "A los productos y envases se les dan significados simbólicos, como el estatus o la seguridad, que tienen poco que ver con su uso.",
+     "Las técnicas de persuasión se aplican también a la política, de modo que los candidatos se venden como productos.",
+     "Tales métodos plantean problemas éticos por manipular las decisiones de las personas sin que lo sepan."
+    ],
+    "impact": "Relato periodístico de divulgación publicado en Nueva York en 1957, fue un éxito de ventas y dio a conocer al público la investigación motivacional en la publicidad. Inició una serie de libros críticos de Packard sobre la sociedad de consumo, que incluye The Waste Makers de 1960, y entró al debate sobre diseño y consumo."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-waste-makers",
+   "level": "normal",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "society",
+   "author": "Vance Packard",
+   "name": "The Waste Makers",
+   "short": "Packard",
+   "key": "Vance Packard’s 1960 critique of how American industry built products to go out of date, so that people would keep buying new ones.",
+   "ideas": [
+    "American industry encourages people to replace things before they are worn out.",
+    "Products are made obsolete in three ways: in function, in quality and in desirability.",
+    "Styling changes are used to make last year’s model look old and push owners to buy again.",
+    "A society tied to constant buying wastes resources and shapes the values of its people."
+   ],
+   "impact": "Published in 1960, a few years after The Hidden Persuaders, it reached a wide public and helped to spread the term planned obsolescence and a critical view of consumer design.",
+   "links": {
+    "movements": [
+     "pop-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Vance Packard",
+    "name": "Los fabricantes de desperdicio",
+    "short": "Packard",
+    "date": "1960",
+    "key": "La crítica de Vance Packard de 1960 a cómo la industria estadounidense hacía productos para que quedaran obsoletos y la gente siguiera comprando otros nuevos.",
+    "ideas": [
+     "La industria estadounidense incita a reemplazar las cosas antes de que se gasten.",
+     "Los productos se vuelven obsoletos de tres maneras: en función, en calidad y en deseabilidad.",
+     "Los cambios de estilo se usan para que el modelo del año pasado parezca viejo y empujar a sus dueños a comprar otra vez.",
+     "Una sociedad atada a la compra constante desperdicia recursos y moldea los valores de su gente."
+    ],
+    "impact": "Publicado en 1960, pocos años después de Las persuasoras ocultas, llegó a un público amplio y ayudó a difundir el término obsolescencia programada y una mirada crítica del diseño de consumo."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-neue-grafik",
+   "level": "essential",
+   "year": 1958,
+   "date": "1958",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "genre": "typography",
+   "author": "Richard Paul Lohse, Josef Müller-Brockmann, Hans Neuburg, Carlo Vivarelli",
+   "name": "Neue Grafik (New Graphic Design)",
+   "short": "Lohse et al.",
+   "key": "The Swiss review of 1958–65, run by four Zurich designers and printed in several languages, which carried the rigorous grid-based style to an international audience.",
+   "ideas": [
+    "Design should be objective, clear and serve the message rather than the personality of the designer.",
+    "The grid gives an order to the page that is mathematical and can be repeated.",
+    "Photography and sans-serif type are the means of modern communication.",
+    "Good graphic design is an international language that works across borders."
+   ],
+   "impact": "Edited in Zurich by Richard Paul Lohse, Josef Müller-Brockmann, Hans Neuburg and Carlo Vivarelli and published in German, English and French, it took the Swiss approach to designers abroad and helped to form what became known as the International Typographic Style.",
+   "links": {
+    "movements": [
+     "international-typographic-style"
+    ],
+    "institutions": [],
+    "designers": [
+     "muller-brockmann"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Richard Paul Lohse, Josef Müller-Brockmann, Hans Neuburg, Carlo Vivarelli",
+    "name": "Neue Grafik (Nuevo diseño gráfico)",
+    "short": "Lohse et al.",
+    "date": "1958",
+    "key": "La revista suiza de 1958–65, dirigida por cuatro diseñadores de Zúrich e impresa en varios idiomas, que llevó a un público internacional el estilo riguroso basado en la retícula.",
+    "ideas": [
+     "El diseño debe ser objetivo, claro y servir al mensaje antes que a la personalidad del diseñador.",
+     "La retícula da a la página un orden matemático y repetible.",
+     "La fotografía y la tipografía sin serifas son los medios de la comunicación moderna.",
+     "El buen diseño gráfico es un lenguaje internacional que funciona más allá de las fronteras."
+    ],
+    "impact": "Editada en Zúrich por Richard Paul Lohse, Josef Müller-Brockmann, Hans Neuburg y Carlo Vivarelli y publicada en alemán, inglés y francés, llevó el enfoque suizo a diseñadores del extranjero y ayudó a formar lo que se conoció como Estilo Tipográfico Internacional."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-first-things-first",
+   "level": "essential",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "manifesto",
+   "author": "Ken Garland",
+   "name": "First Things First",
+   "short": "Garland",
+   "key": "A manifesto written by Ken Garland in 1964 and signed by some 400 designers and students, which asked designers to use their skills for more useful ends than selling.",
+   "ideas": [
+    "Designers’ skills are largely spent on advertising of trivial goods.",
+    "The authors ask for a change of priorities toward things of more lasting worth, such as signs, books and educational work.",
+    "They do not reject advertising but ask that its share of effort be reduced.",
+    "Designers are asked to think about what their work is for."
+   ],
+   "impact": "Published in London in 1964, it gathered many signatures from designers, photographers and students, was reported in the national press and was taken up again in a new version in 1999–2000.",
+   "links": {
+    "movements": [
+     "pop-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Ken Garland",
+    "name": "First Things First",
+    "short": "Garland",
+    "date": "1964",
+    "key": "Un manifiesto que Ken Garland escribió en 1964 y firmaron unos 400 diseñadores y estudiantes, que pidió a los diseñadores usar sus habilidades para fines más útiles que vender.",
+    "ideas": [
+     "Las habilidades de los diseñadores se gastan sobre todo en publicidad de bienes triviales.",
+     "Los autores piden un cambio de prioridades hacia cosas de valor más duradero, como señales, libros y trabajo educativo.",
+     "No rechazan la publicidad, pero piden que se reduzca la parte del esfuerzo que se le dedica.",
+     "Se pide a los diseñadores pensar para qué sirve su trabajo."
+    ],
+    "impact": "Publicado en Londres en 1964, reunió muchas firmas de diseñadores, fotógrafos y estudiantes, fue comentado en la prensa nacional y se retomó en una nueva versión en 1999–2000."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-notes-synthesis-form",
+   "level": "normal",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Christopher Alexander",
+   "name": "Notes on the Synthesis of Form",
+   "short": "Alexander",
+   "key": "Christopher Alexander’s 1964 book that treats design as the search for a good fit between a form and its context, and proposes to break a problem into parts.",
+   "ideas": [
+    "The design problem is a search for fit between a form and its context.",
+    "A problem can be broken into many small requirements and the links between them mapped.",
+    "These requirements can be grouped into sets that are solved one at a time.",
+    "Designers working by habit and intuition fail when problems grow too complex."
+   ],
+   "impact": "Published by Harvard University Press in 1964, it fed the design methods movement and the interest in using computers to handle design problems, which also marked teaching at schools such as Ulm.",
+   "links": {
+    "movements": [
+     "design-methods"
+    ],
+    "institutions": [
+     "inst-hfg-ulm"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Christopher Alexander",
+    "name": "Notas sobre la síntesis de la forma",
+    "short": "Alexander",
+    "date": "1964",
+    "key": "El libro de Christopher Alexander de 1964 que trata el diseño como la búsqueda de un buen ajuste entre una forma y su contexto, y propone descomponer un problema en partes.",
+    "ideas": [
+     "El problema de diseño es la búsqueda de un ajuste entre una forma y su contexto.",
+     "Un problema puede descomponerse en muchos requisitos pequeños y trazarse el mapa de sus vínculos.",
+     "Esos requisitos pueden agruparse en conjuntos que se resuelven uno a uno.",
+     "Los diseñadores que trabajan por hábito e intuición fracasan cuando los problemas se vuelven demasiado complejos."
+    ],
+    "impact": "Publicado por Harvard University Press en 1964, alimentó el movimiento de los métodos de diseño y el interés por usar computadores para tratar problemas de diseño, que también marcó la enseñanza en escuelas como Ulm."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-understanding-media",
+   "level": "normal",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "CA"
+   ],
+   "genre": "society",
+   "author": "Marshall McLuhan",
+   "name": "Understanding Media",
+   "short": "McLuhan",
+   "key": "Marshall McLuhan’s 1964 book, which argued that each medium reshapes society through its form more than through what it carries.",
+   "ideas": [
+    "Media are extensions of human senses and faculties: the wheel extends the foot, the book the eye, electric media the nervous system.",
+    "A medium changes the scale and pace of human affairs regardless of its content; the form of a medium matters more than the messages it carries.",
+    "Media can be sorted into ‘hot’ ones, which fill the senses with data and ask little of the audience, and ‘cool’ ones, which ask the audience to take part.",
+    "Electric media, above all television, were pulling people into a closely connected ‘global village’."
+   ],
+   "impact": "Published by McGraw-Hill in New York in 1964, with the subtitle The Extensions of Man, it made McLuhan famous well beyond the university. Its attention to television, advertising and image culture matched the preoccupations of pop art and pop design, and it gave designers and critics a vocabulary for talking about media as environments.",
+   "links": {
+    "movements": [
+     "pop-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Marshall McLuhan",
+    "name": "Comprender los medios de comunicación",
+    "short": "McLuhan",
+    "date": "1964",
+    "key": "El libro de Marshall McLuhan de 1964, que sostuvo que cada medio transforma la sociedad por su forma más que por lo que transporta.",
+    "ideas": [
+     "Los medios son extensiones de los sentidos y las facultades humanas: la rueda extiende el pie, el libro el ojo, los medios eléctricos el sistema nervioso.",
+     "Un medio cambia la escala y el ritmo de los asuntos humanos sin importar su contenido; la forma del medio pesa más que los mensajes que lleva.",
+     "Los medios pueden clasificarse en «calientes», que llenan los sentidos de datos y piden poco a la audiencia, y «fríos», que le piden participar.",
+     "Los medios eléctricos, sobre todo la televisión, estaban acercando a las personas en una «aldea global» estrechamente conectada."
+    ],
+    "impact": "Publicado por McGraw-Hill en Nueva York en 1964, con el subtítulo The Extensions of Man, hizo famoso a McLuhan mucho más allá de la universidad. Su atención a la televisión, la publicidad y la cultura de la imagen coincidía con las preocupaciones del arte pop y del diseño pop, y dio a diseñadores y críticos un vocabulario para hablar de los medios como entornos."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-design-for-the-real-world",
+   "level": "essential",
+   "year": 1971,
+   "date": "1971",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "SE"
+   ],
+   "genre": "society",
+   "author": "Victor Papanek",
+   "name": "Design for the Real World",
+   "short": "Papanek",
+   "key": "Victor Papanek’s book arguing that designers answer for the social and ecological consequences of what they make, and should design for real needs rather than for fashion.",
+   "ideas": [
+    "Designers are responsible for the social and environmental effects of their work, not only for its appearance or sales.",
+    "Much industrial design serves marketing and planned obsolescence instead of real needs, and Papanek criticizes it harshly.",
+    "Design should also serve people the market tends to ignore, such as children, the elderly, disabled people and communities in poor countries.",
+    "Good design is work for a team that includes users and specialists from other fields, and it should save resources rather than waste them."
+   ],
+   "impact": "It appeared first in Swedish in 1970 and in English from Pantheon in New York in 1971, and was translated into many languages. Written as concern about pollution and resource use grew and as the consumer society was being questioned, it became a founding text of socially and ecologically responsible design.",
+   "links": {
+    "movements": [
+     "radical-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "whole-earth-catalog"
+    ]
+   },
+   "es": {
+    "author": "Victor Papanek",
+    "name": "Diseñar para el mundo real",
+    "short": "Papanek",
+    "date": "1971",
+    "key": "El libro de Victor Papanek que sostuvo que los diseñadores responden por las consecuencias sociales y ecológicas de lo que hacen, y deben diseñar para necesidades reales y no para la moda.",
+    "ideas": [
+     "Los diseñadores son responsables de los efectos sociales y ambientales de su trabajo, no solo de su apariencia o de sus ventas.",
+     "Buena parte del diseño industrial sirve al marketing y a la obsolescencia programada en vez de a necesidades reales, y Papanek lo critica con dureza.",
+     "El diseño también debe servir a quienes el mercado suele ignorar, como niños, ancianos, personas con discapacidad y comunidades de países pobres.",
+     "El buen diseño es trabajo de un equipo que incluye a los usuarios y a especialistas de otras áreas, y debe ahorrar recursos en vez de derrocharlos."
+    ],
+    "impact": "Apareció primero en sueco en 1970 y en inglés, en Pantheon, Nueva York, en 1971, y se tradujo a muchos idiomas. Escrito cuando crecía la preocupación por la contaminación y el uso de recursos, y cuando se cuestionaba la sociedad de consumo, se volvió un texto fundacional del diseño con responsabilidad social y ecológica."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-learning-from-las-vegas",
+   "level": "essential",
+   "year": 1972,
+   "date": "1972",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Robert Venturi, Denise Scott Brown and Steven Izenour",
+   "name": "Learning from Las Vegas",
+   "short": "Venturi",
+   "key": "A study of the Las Vegas Strip by Venturi, Scott Brown and Izenour that took commercial signs and roadside buildings seriously as a source for architecture.",
+   "ideas": [
+    "Architects can learn from the ordinary commercial landscape of the car-oriented city, such as the Las Vegas Strip, instead of rejecting it.",
+    "On the Strip, signs and symbols carry the communication, and buildings are read from a moving car at a distance.",
+    "It sets the ‘duck’, a building that is itself a symbol, against the ‘decorated shed’, a plain building with applied signs, and favours the second.",
+    "Modernist purity and heroic originality are set aside in favour of ornament, symbolism and popular taste."
+   ],
+   "impact": "Published by MIT Press in 1972 and in a revised edition in 1977, it grew from a studio the authors ran at Yale in 1968 on the Las Vegas Strip. It became one of the key texts of postmodern architecture and of the turn towards pop culture in design.",
+   "links": {
+    "movements": [
+     "macro-postmodernism",
+     "pop-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Robert Venturi, Denise Scott Brown y Steven Izenour",
+    "name": "Aprendiendo de Las Vegas",
+    "short": "Venturi",
+    "date": "1972",
+    "key": "Un estudio de la Strip de Las Vegas de Venturi, Scott Brown e Izenour que tomó en serio los letreros y los edificios de carretera como fuente para la arquitectura.",
+    "ideas": [
+     "Los arquitectos pueden aprender del paisaje comercial corriente de la ciudad hecha para el auto, como la Strip de Las Vegas, en vez de rechazarlo.",
+     "En la Strip, los letreros y los símbolos llevan la comunicación, y los edificios se leen desde un auto en movimiento y a distancia.",
+     "Contrapone el «pato», un edificio que es en sí mismo un símbolo, al «cobertizo decorado», un edificio simple con letreros aplicados, y prefiere el segundo.",
+     "Deja de lado la pureza moderna y la originalidad heroica en favor del ornamento, el simbolismo y el gusto popular."
+    ],
+    "impact": "Publicado por MIT Press en 1972 y en una edición revisada en 1977, nació de un taller que los autores dirigieron en Yale en 1968 sobre la Strip de Las Vegas. Se volvió uno de los textos clave de la arquitectura posmoderna y del giro hacia la cultura popular en el diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-never-leave-well-enough-alone",
+   "level": "normal",
+   "year": 1951,
+   "date": "1951",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Raymond Loewy",
+   "name": "Never Leave Well Enough Alone",
+   "short": "Loewy",
+   "key": "Raymond Loewy’s 1951 autobiography, in which the pioneer industrial designer explains his work and argues that good design sells.",
+   "ideas": [
+    "Improving the look of a product makes it sell better, and the designer should be judged by that result.",
+    "The industrial designer works as an outside consultant who can redesign anything, from a package to a locomotive.",
+    "Even a successful product can be bettered, which is the sense of the title.",
+    "Loewy tells his career through cases such as the Coldspot refrigerator for Sears and the Lucky Strike pack."
+   ],
+   "impact": "Published in New York in 1951, it is a first-hand account by one of the best-known American industrial designers and helped make the profession’s public image of the designer as a seller’s ally.",
+   "links": {
+    "designers": [
+     "loewy"
+    ],
+    "movements": [],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Raymond Loewy",
+    "name": "Nunca dejes bien las cosas",
+    "short": "Loewy",
+    "date": "1951",
+    "key": "La autobiografía de Raymond Loewy de 1951, donde el pionero del diseño industrial explica su trabajo y sostiene que el buen diseño vende.",
+    "ideas": [
+     "Mejorar el aspecto de un producto lo hace vender más, y al diseñador se le debe juzgar por ese resultado.",
+     "El diseñador industrial trabaja como consultor externo que puede rediseñar cualquier cosa, desde un envase hasta una locomotora.",
+     "Incluso un producto exitoso puede mejorarse, que es el sentido del título.",
+     "Loewy cuenta su carrera a través de casos como el refrigerador Coldspot para Sears y la cajetilla Lucky Strike."
+    ],
+    "impact": "Publicado en Nueva York en 1951, es el relato en primera persona de uno de los diseñadores industriales estadounidenses más conocidos y ayudó a fijar la imagen pública de la profesión como aliada de quien vende."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-new-brutalism-banham",
+   "level": "normal",
+   "year": 1955,
+   "date": "1955",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "criticism",
+   "author": "Reyner Banham",
+   "name": "The New Brutalism (Banham)",
+   "short": "Banham",
+   "key": "Reyner Banham’s 1955 essay that named and defined the New Brutalism, taking the Smithsons’ school at Hunstanton as its first example.",
+   "ideas": [
+    "The New Brutalism is not only a style: Banham grants it an ethic of honesty about structure and materials.",
+    "He sets out three marks: memorability as an image, clear exhibition of structure, and valuation of materials ‘as found’.",
+    "The Smithsons’ Hunstanton school in Norfolk is the first building in which he sees them.",
+    "Le Corbusier’s Unité d’Habitation, with its exposed concrete, stands as a precedent."
+   ],
+   "impact": "Published in The Architectural Review in December 1955, it fixed the name for a tendency in British architecture and was later expanded into his 1966 book on the subject.",
+   "links": {
+    "designers": [],
+    "movements": [
+     "brutalism-metabolism"
+    ],
+    "institutions": [],
+    "works": [
+     "unite-habitation"
+    ]
+   },
+   "es": {
+    "author": "Reyner Banham",
+    "name": "El nuevo brutalismo (Banham)",
+    "short": "Banham",
+    "date": "1955",
+    "key": "El ensayo de Reyner Banham de 1955 que nombró y definió el nuevo brutalismo, con la escuela de los Smithson en Hunstanton como primer ejemplo.",
+    "ideas": [
+     "El nuevo brutalismo no es solo un estilo: Banham le atribuye una ética de honestidad con la estructura y los materiales.",
+     "Fija tres rasgos: la memorabilidad como imagen, la exhibición clara de la estructura y la valoración de los materiales «tal como son».",
+     "La escuela de los Smithson en Hunstanton, en Norfolk, es el primer edificio donde los ve.",
+     "La Unité d’Habitation de Le Corbusier, con su hormigón aparente, aparece como precedente."
+    ],
+    "impact": "Publicado en The Architectural Review en diciembre de 1955, fijó el nombre de una tendencia de la arquitectura británica y se amplió después en su libro de 1966 sobre el tema."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-measure-of-man-1960",
+   "level": "normal",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Henry Dreyfuss",
+   "name": "The Measure of Man",
+   "short": "Dreyfuss",
+   "key": "A 1960 book from Henry Dreyfuss’s studio that gathered the dimensions and abilities of the human body as data for designing products.",
+   "ideas": [
+    "Products should be fitted to the people who use them, so design starts from the body.",
+    "Charts give the dimensions of an average man and woman, the figures called Joe and Josephine.",
+    "They show reach, seated and standing posture and range of vision as measures for the designer.",
+    "Human data replace the designer’s guess when sizing seats, controls and workplaces."
+   ],
+   "impact": "It came out of the Dreyfuss studio in 1960, and the later editions were widely used as a reference by designers working on human factors.",
+   "links": {
+    "designers": [
+     "dreyfuss"
+    ],
+    "movements": [
+     "human-factors-ergonomics"
+    ],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Henry Dreyfuss",
+    "name": "La medida del hombre",
+    "short": "Dreyfuss",
+    "date": "1960",
+    "key": "Un libro de 1960 del estudio de Henry Dreyfuss que reunió las dimensiones y capacidades del cuerpo humano como datos para proyectar productos.",
+    "ideas": [
+     "Los productos deben ajustarse a quienes los usan, de modo que el diseño parte del cuerpo.",
+     "Los gráficos dan las dimensiones de un hombre y una mujer promedio, las figuras llamadas Joe y Josephine.",
+     "Muestran alcance, postura sentada y de pie y campo visual como medidas para el diseñador.",
+     "Los datos humanos reemplazan la intuición del diseñador al dimensionar asientos, controles y puestos de trabajo."
+    ],
+    "impact": "Salió del estudio de Dreyfuss en 1960, y sus ediciones posteriores se usaron mucho como referencia por los diseñadores que trabajaban en factores humanos."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-metabolism-1960",
+   "level": "normal",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "genre": "manifesto",
+   "author": "Kikutake, Kurokawa, Maki, Kawazoe et al.",
+   "name": "Metabolism: The Proposals for New Urbanism",
+   "short": "Metabolism",
+   "key": "The 1960 manifesto of the Japanese Metabolists, who imagined cities and buildings that grow and renew themselves like living organisms.",
+   "ideas": [
+    "Cities and buildings should change and grow like organisms, through renewal rather than fixed form.",
+    "Replaceable units attach to permanent structures, so each part can be renewed on its own cycle.",
+    "Society changes quickly, and architecture and urban planning must be able to follow it.",
+    "Proposals such as Kikutake’s Marine City imagined large structures rising above the sea or the old city."
+   ],
+   "impact": "Presented in Tokyo in 1960 at the World Design Conference by Kiyonori Kikutake, Kisho Kurokawa, Fumihiko Maki, Noboru Kawazoe and others. Its megastructural ideas reached Western architects, among them the Archigram group.",
+   "links": {
+    "designers": [
+     "kurokawa"
+    ],
+    "movements": [
+     "metabolism"
+    ],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Kikutake, Kurokawa, Maki, Kawazoe y otros",
+    "name": "Metabolismo: propuestas para un nuevo urbanismo",
+    "short": "Metabolism",
+    "date": "1960",
+    "key": "El manifiesto de 1960 de los metabolistas japoneses, que imaginaron ciudades y edificios que crecen y se renuevan como organismos vivos.",
+    "ideas": [
+     "Las ciudades y los edificios deben cambiar y crecer como organismos, por renovación y no por forma fija.",
+     "Unidades reemplazables se adosan a estructuras permanentes, de modo que cada parte se renueva en su propio ciclo.",
+     "La sociedad cambia rápido, y la arquitectura y el urbanismo deben poder seguirla.",
+     "Propuestas como la Ciudad Marina de Kikutake imaginaron grandes estructuras sobre el mar o sobre la ciudad antigua."
+    ],
+    "impact": "Presentado en Tokio en 1960, en la Conferencia Mundial del Diseño, por Kiyonori Kikutake, Kisho Kurokawa, Fumihiko Maki, Noboru Kawazoe y otros. Sus ideas megaestructurales llegaron a arquitectos occidentales, entre ellos el grupo Archigram."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-theory-design-machine-age",
+   "level": "essential",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "genre": "history",
+   "author": "Reyner Banham",
+   "name": "Theory and Design in the First Machine Age",
+   "short": "Banham",
+   "key": "Reyner Banham’s 1960 critical history of the Modern Movement, which asked how far its architects had really embraced the machine.",
+   "ideas": [
+    "The Modern Movement drew on Futurism and other sources as much as on the line from Arts and Crafts to the Bauhaus.",
+    "Its leaders admired the machine, but often designed in the geometric forms of an academic tradition rather than from technology.",
+    "Functionalism was in large part a style, and its claims about function and technology should be tested.",
+    "Banham reads the 1920s as a ‘first machine age’ and looks ahead to a second, of domestic appliances and electronics."
+   ],
+   "impact": "Published in London by the Architectural Press in 1960, it grew out of his doctoral thesis at the Courtauld Institute, supervised by Nikolaus Pevsner. It revised the account Pevsner had given in Pioneers of the Modern Movement.",
+   "links": {
+    "designers": [],
+    "movements": [
+     "international-style"
+    ],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Reyner Banham",
+    "name": "Teoría y diseño en la primera era de la máquina",
+    "short": "Banham",
+    "date": "1960",
+    "key": "La historia crítica del movimiento moderno que Reyner Banham publicó en 1960, que preguntó hasta qué punto sus arquitectos habían adoptado de verdad la máquina.",
+    "ideas": [
+     "El movimiento moderno se nutrió del futurismo y de otras fuentes tanto como de la línea que va de Arts and Crafts a la Bauhaus.",
+     "Sus líderes admiraban la máquina, pero con frecuencia proyectaban con las formas geométricas de una tradición académica y no desde la técnica.",
+     "El funcionalismo fue en buena parte un estilo, y sus afirmaciones sobre función y tecnología deben ponerse a prueba.",
+     "Banham lee los años veinte como una «primera era de la máquina» y mira hacia una segunda, de electrodomésticos y electrónica."
+    ],
+    "impact": "Publicado en Londres por la Architectural Press en 1960, nació de su tesis doctoral en el Courtauld Institute, dirigida por Nikolaus Pevsner. Revisó el relato que Pevsner había dado en Pioneers of the Modern Movement."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-death-life-great-american-cities",
+   "level": "essential",
+   "year": 1961,
+   "date": "1961",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "society",
+   "author": "Jane Jacobs",
+   "name": "The Death and Life of Great American Cities",
+   "short": "Jacobs",
+   "key": "Jane Jacobs’s 1961 critique of modern urban planning, which defended the street, mixed uses and old neighbourhoods as the base of a lively city.",
+   "ideas": [
+    "Busy sidewalks are made safe by ‘eyes on the street’, the watching of residents and shopkeepers.",
+    "A district needs several primary uses so that people are on the street at different hours.",
+    "Short blocks and a mix of old and new buildings keep a district varied and economically diverse.",
+    "Urban renewal and highway building destroy neighbourhoods that work, and planners should learn from how cities are actually used."
+   ],
+   "impact": "Published by Random House in 1961, it came from Jacobs’s work as an editor at Architectural Forum and from her fight against New York planning schemes of Robert Moses. It changed how planners and architects spoke about the city.",
+   "links": {
+    "designers": [],
+    "movements": [
+     "new-urbanism"
+    ],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Jane Jacobs",
+    "name": "Muerte y vida de las grandes ciudades",
+    "short": "Jacobs",
+    "date": "1961",
+    "key": "La crítica de Jane Jacobs de 1961 al urbanismo moderno, que defendió la calle, los usos mixtos y los barrios antiguos como base de una ciudad viva.",
+    "ideas": [
+     "Las veredas con movimiento son seguras gracias a los «ojos en la calle», la mirada de vecinos y comerciantes.",
+     "Un barrio necesita varios usos principales para que haya gente en la calle a distintas horas.",
+     "Las cuadras cortas y la mezcla de edificios antiguos y nuevos mantienen un barrio variado y de economía diversa.",
+     "La renovación urbana y las autopistas destruyen barrios que funcionan, y los planificadores deben aprender de cómo se usan de verdad las ciudades."
+    ],
+    "impact": "Publicado por Random House en 1961, nació del trabajo de Jacobs como editora en Architectural Forum y de su lucha contra proyectos urbanos de Robert Moses en Nueva York. Cambió el modo en que urbanistas y arquitectos hablaban de la ciudad."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-architecture-without-architects",
+   "level": "normal",
+   "year": 1964,
+   "date": "1964",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Bernard Rudofsky",
+   "name": "Architecture Without Architects",
+   "short": "Rudofsky",
+   "key": "The 1964 exhibition and book by Bernard Rudofsky at the Museum of Modern Art, which showed vernacular building from around the world as a challenge to the canon.",
+   "ideas": [
+    "Anonymous builders, working without architects, produced buildings of great quality in many cultures.",
+    "These buildings answer their site, climate and materials with simple means.",
+    "The history of architecture taught in the West had left out most of the world’s building.",
+    "Vernacular forms offer lessons to modern architects instead of mere curiosity."
+   ],
+   "impact": "The exhibition opened at the Museum of Modern Art in New York in November 1964, with a catalogue that became a widely read book, and it later toured. It drew attention to vernacular building.",
+   "links": {
+    "designers": [],
+    "movements": [],
+    "institutions": [
+     "inst-moma"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Bernard Rudofsky",
+    "name": "Arquitectura sin arquitectos",
+    "short": "Rudofsky",
+    "date": "1964",
+    "key": "La exposición y el libro de 1964 de Bernard Rudofsky en el Museo de Arte Moderno, que mostraron la construcción vernácula del mundo como un desafío al canon.",
+    "ideas": [
+     "Constructores anónimos, sin arquitectos, produjeron edificios de gran calidad en muchas culturas.",
+     "Esos edificios responden al sitio, al clima y a los materiales con medios simples.",
+     "La historia de la arquitectura que se enseñaba en Occidente había dejado fuera la mayor parte de lo que se construye en el mundo.",
+     "Las formas vernáculas ofrecen lecciones a los arquitectos modernos y no solo curiosidad."
+    ],
+    "impact": "La exposición se inauguró en el Museo de Arte Moderno de Nueva York en noviembre de 1964, con un catálogo que se volvió un libro muy leído, y luego itineró. Llamó la atención sobre la construcción vernácula."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-complexity-contradiction",
+   "level": "essential",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Robert Venturi",
+   "name": "Complexity and Contradiction in Architecture",
+   "short": "Venturi",
+   "key": "Robert Venturi’s 1966 book, a ‘gentle manifesto’ for an architecture of ambiguity and complexity against modernist purity.",
+   "ideas": [
+    "Architecture should accept complexity and contradiction instead of the simplicity of orthodox modernism.",
+    "Venturi answers Mies’s ‘less is more’ with ‘less is a bore’.",
+    "He favours ‘both-and’ over ‘either-or’: meanings that coexist and elements with double function.",
+    "He draws examples from Mannerism, the Baroque and the vernacular, and not only from modern buildings."
+   ],
+   "impact": "Published by the Museum of Modern Art in 1966, with a foreword by Vincent Scully, as the first of its Papers on Architecture. It opened the way to postmodern architecture and led to Learning from Las Vegas (1972).",
+   "links": {
+    "designers": [
+     "robert-venturi"
+    ],
+    "movements": [
+     "postmodern-architecture"
+    ],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Robert Venturi",
+    "name": "Complejidad y contradicción en la arquitectura",
+    "short": "Venturi",
+    "date": "1966",
+    "key": "El libro de Robert Venturi de 1966, un «manifiesto amable» por una arquitectura de ambigüedad y complejidad frente a la pureza modernista.",
+    "ideas": [
+     "La arquitectura debe aceptar la complejidad y la contradicción en lugar de la simplicidad del modernismo ortodoxo.",
+     "Venturi responde al «menos es más» de Mies con «menos es aburrido».",
+     "Prefiere el «tanto lo uno como lo otro» al «o lo uno o lo otro»: significados que coexisten y elementos con doble función.",
+     "Toma ejemplos del manierismo, el barroco y lo vernáculo, y no solo de edificios modernos."
+    ],
+    "impact": "Publicado por el Museo de Arte Moderno en 1966, con prólogo de Vincent Scully, como el primero de sus Papers on Architecture. Abrió el camino a la arquitectura posmoderna y llevó a Aprendiendo de Las Vegas (1972)."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-architettura-della-citta",
+   "level": "normal",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "genre": "architecture",
+   "author": "Aldo Rossi",
+   "name": "The Architecture of the City",
+   "short": "Rossi",
+   "key": "Aldo Rossi’s 1966 book that reads the city as a work built over time and founds the study of urban form on type and collective memory.",
+   "ideas": [
+    "The city is a human artefact built over time, and it is studied through its buildings and urban facts.",
+    "Types, not functions, persist: a building can change use and keep its form.",
+    "Monuments are permanent elements that give the city its structure and memory.",
+    "The collective memory of the inhabitants is what the city is made of."
+   ],
+   "impact": "Published in Padua by Marsilio in 1966 as L’architettura della città, it became the founding text of the Italian Tendenza and was translated into English in 1982.",
+   "links": {
+    "designers": [],
+    "movements": [
+     "tendenza"
+    ],
+    "institutions": [],
+    "works": []
+   },
+   "es": {
+    "author": "Aldo Rossi",
+    "name": "La arquitectura de la ciudad",
+    "short": "Rossi",
+    "date": "1966",
+    "key": "El libro de Aldo Rossi de 1966 que lee la ciudad como una obra construida en el tiempo y funda el estudio de la forma urbana en el tipo y la memoria colectiva.",
+    "ideas": [
+     "La ciudad es un artefacto humano construido en el tiempo, y se estudia a través de sus edificios y hechos urbanos.",
+     "Lo que persiste son los tipos y no las funciones: un edificio puede cambiar de uso y conservar su forma.",
+     "Los monumentos son elementos permanentes que dan a la ciudad su estructura y su memoria.",
+     "La memoria colectiva de los habitantes es aquello de que está hecha la ciudad."
+    ],
+    "impact": "Publicado en Padua por Marsilio en 1966 como L’architettura della città, se volvió el texto fundacional de la Tendenza italiana y se tradujo al inglés en 1982."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-barthes-fashion-system",
+   "level": "normal",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "genre": "criticism",
+   "author": "Roland Barthes",
+   "name": "Système de la mode",
+   "short": "Barthes",
+   "key": "Roland Barthes’s 1967 semiological study of fashion, which analyses the language that fashion magazines use to describe clothes.",
+   "ideas": [
+    "Fashion is studied as a system of signs, through the language written about clothes and not the clothes themselves.",
+    "Barthes distinguishes the real garment, the garment as image and the garment as written description.",
+    "The study rests on the captions and texts of fashion magazines of the late 1950s, such as Elle.",
+    "The meaning of a garment comes from the system of terms that describes it, not from its use."
+   ],
+   "impact": "Published by Éditions du Seuil in Paris in 1967, it made fashion an object of semiological analysis and was translated into English in 1983.",
+   "links": {
+    "designers": [
+     "christian-dior"
+    ],
+    "movements": [],
+    "institutions": [
+     "inst-vogue"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Roland Barthes",
+    "name": "El sistema de la moda",
+    "short": "Barthes",
+    "date": "1967",
+    "key": "El estudio semiológico de la moda de Roland Barthes de 1967, que analiza el lenguaje con que las revistas de moda describen la ropa.",
+    "ideas": [
+     "La moda se estudia como un sistema de signos, a través del lenguaje escrito sobre la ropa y no de la ropa misma.",
+     "Barthes distingue la prenda real, la prenda como imagen y la prenda como descripción escrita.",
+     "El estudio se apoya en los pies de foto y textos de revistas de moda de fines de los años cincuenta, como Elle.",
+     "El significado de una prenda proviene del sistema de términos que la describe, no de su uso."
+    ],
+    "impact": "Publicado por Éditions du Seuil en París en 1967, hizo de la moda un objeto de análisis semiológico y se tradujo al inglés en 1983."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-life-between-buildings",
+   "level": "normal",
+   "year": 1971,
+   "date": "1971",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DK"
+   ],
+   "genre": "architecture",
+   "author": "Jan Gehl",
+   "name": "Life Between Buildings",
+   "short": "Gehl",
+   "key": "Jan Gehl’s study of how people use public space, first published in Danish in 1971, which argued for designing cities at the scale of the pedestrian.",
+   "ideas": [
+    "Outdoor life in a city can be divided into necessary, optional and social activities, and good public space matters most for the optional and social ones.",
+    "The quality of the space between buildings decides whether people stay, walk or meet there.",
+    "Streets and squares should be designed to the human scale and the speed of walking, not to the speed of the car.",
+    "Observing how people actually behave in a place is the basis of design."
+   ],
+   "impact": "Gehl, a Danish architect, based it on his observation of public life, notably in Copenhagen, where the Strøget had been closed to cars in 1962. It appeared in English in 1987 and became a standard text for people-centred urban design.",
+   "links": {
+    "movements": [
+     "new-urbanism"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Jan Gehl",
+    "name": "La vida entre los edificios",
+    "short": "Gehl",
+    "date": "1971",
+    "key": "El estudio de Jan Gehl sobre cómo la gente usa el espacio público, publicado primero en danés en 1971, que propuso diseñar las ciudades a la escala del peatón.",
+    "ideas": [
+     "La vida al aire libre en la ciudad puede dividirse en actividades necesarias, opcionales y sociales, y el buen espacio público importa sobre todo para las opcionales y las sociales.",
+     "La calidad del espacio entre los edificios decide si la gente se queda, camina o se encuentra allí.",
+     "Calles y plazas deben proyectarse a la escala humana y a la velocidad del caminar, no a la del auto.",
+     "Observar cómo se comporta realmente la gente en un lugar es la base del diseño."
+    ],
+    "impact": "Gehl, arquitecto danés, lo basó en su observación de la vida pública, en especial en Copenhague, donde la Strøget se había cerrado a los autos en 1962. Apareció en inglés en 1987 y se volvió un texto de referencia del diseño urbano centrado en las personas."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-giedion-mechanization-1948",
+   "level": "normal",
+   "year": 1948,
+   "date": "1948",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "CH",
+    "US"
+   ],
+   "genre": "history",
+   "author": "Sigfried Giedion",
+   "name": "Mechanization Takes Command",
+   "short": "Giedion",
+   "key": "Sigfried Giedion’s 1948 history of how mechanization changed everyday life, told through anonymous objects such as the assembly line, the fitted kitchen and patented furniture.",
+   "ideas": [
+    "History can be written from anonymous, everyday objects and not only from famous works and architects.",
+    "Mechanization is a force that reshapes the household, food, work and furniture, and it has to be understood in its effects on people.",
+    "The study follows mechanization from the nineteenth century to the assembly line and the mechanized household.",
+    "Design belongs to the history of technology and culture as much as to the history of art."
+   ],
+   "impact": "Published in New York by Oxford University Press in 1948, with the subtitle ‘A Contribution to Anonymous History’, it followed Giedion’s Space, Time and Architecture (1941). It is often named as a founding work of the history of design.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "ford-model-t"
+    ]
+   },
+   "es": {
+    "author": "Sigfried Giedion",
+    "name": "La mecanización toma el mando",
+    "short": "Giedion",
+    "date": "1948",
+    "key": "La historia de 1948 de Sigfried Giedion sobre cómo la mecanización cambió la vida cotidiana, contada a través de objetos anónimos como la cadena de montaje, la cocina equipada y el mueble patentado.",
+    "ideas": [
+     "La historia puede escribirse a partir de objetos anónimos y cotidianos, y no solo de obras y arquitectos famosos.",
+     "La mecanización es una fuerza que transforma el hogar, la alimentación, el trabajo y el mobiliario, y debe entenderse por sus efectos en las personas.",
+     "El estudio sigue la mecanización desde el siglo XIX hasta la cadena de montaje y el hogar mecanizado.",
+     "El diseño pertenece a la historia de la técnica y de la cultura tanto como a la historia del arte."
+    ],
+    "impact": "Publicado en Nueva York por Oxford University Press en 1948, con el subtítulo «una contribución a la historia anónima», siguió a Espacio, tiempo y arquitectura (1941) de Giedion. Suele citarse como una obra fundadora de la historia del diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-barthes-mythologies-1957",
+   "level": "normal",
+   "year": 1957,
+   "date": "1957",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "genre": "criticism",
+   "author": "Roland Barthes",
+   "name": "Mythologies",
+   "short": "Barthes",
+   "key": "Roland Barthes’s 1957 collection of short essays that read everyday things, from the Citroën DS to plastic and soap powders, as signs that carry myths.",
+   "ideas": [
+    "Everyday objects and images carry meanings that present a particular culture as if it were natural.",
+    "The essays take in wrestling, advertising, food, toys, plastic and the new Citroën.",
+    "Myth is a kind of speech: any object can become a sign once society gives it a meaning.",
+    "Reading objects as signs is a task of criticism."
+   ],
+   "impact": "Published by Éditions du Seuil in Paris in 1957, it gathered pieces Barthes had written for the press in the mid-1950s and added the theoretical essay ‘Myth Today’. It opened the semiotic reading of consumer objects and advertising, and appeared in English in 1972.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "citroen-ds"
+    ]
+   },
+   "es": {
+    "author": "Roland Barthes",
+    "name": "Mitologías",
+    "short": "Barthes",
+    "date": "1957",
+    "key": "La colección de 1957 de breves ensayos de Roland Barthes que leen las cosas cotidianas, del Citroën DS al plástico y los detergentes, como signos que portan mitos.",
+    "ideas": [
+     "Los objetos y las imágenes cotidianas portan significados que presentan una cultura particular como si fuera natural.",
+     "Los ensayos abarcan el catch, la publicidad, la comida, los juguetes, el plástico y el nuevo Citroën.",
+     "El mito es una forma de habla: cualquier objeto puede volverse signo cuando la sociedad le da un sentido.",
+     "Leer los objetos como signos es una tarea de la crítica."
+    ],
+    "impact": "Publicado por Éditions du Seuil en París en 1957, reunió textos que Barthes había escrito para la prensa a mediados de los años cincuenta y agregó el ensayo teórico «El mito, hoy». Abrió la lectura semiótica de los objetos de consumo y de la publicidad, y apareció en inglés en 1972."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-lynch-image-city-1960",
+   "level": "normal",
+   "year": 1960,
+   "date": "1960",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "architecture",
+   "author": "Kevin Lynch",
+   "name": "The Image of the City",
+   "short": "Lynch",
+   "key": "Kevin Lynch’s 1960 study of how people picture and find their way through a city, which gave planners and designers a vocabulary of paths, edges, districts, nodes and landmarks.",
+   "ideas": [
+    "A city’s legibility, how easily its parts can be recognised and organised into a pattern, shapes how people experience it.",
+    "People build a mental image of the city from five elements: paths, edges, districts, nodes and landmarks.",
+    "The study drew on interviews and sketch maps of residents in Boston, Jersey City and Los Angeles.",
+    "Planners and designers can shape cities so that they are easier to read."
+   ],
+   "impact": "Published by the MIT Press and Harvard University Press in 1960, it came out of research at the Massachusetts Institute of Technology. Its terms became common in urban design and in wayfinding and signage design.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "tube-map-1933"
+    ]
+   },
+   "es": {
+    "author": "Kevin Lynch",
+    "name": "La imagen de la ciudad",
+    "short": "Lynch",
+    "date": "1960",
+    "key": "El estudio de 1960 de Kevin Lynch sobre cómo las personas se representan una ciudad y se orientan en ella, que dio a urbanistas y diseñadores un vocabulario de sendas, bordes, barrios, nodos e hitos.",
+    "ideas": [
+     "La legibilidad de una ciudad, la facilidad con que sus partes se reconocen y se ordenan en un esquema, condiciona cómo la viven las personas.",
+     "Las personas construyen una imagen mental de la ciudad a partir de cinco elementos: sendas, bordes, barrios, nodos e hitos.",
+     "El estudio se apoyó en entrevistas y mapas dibujados por residentes de Boston, Jersey City y Los Ángeles.",
+     "Urbanistas y diseñadores pueden dar forma a las ciudades para que sean más fáciles de leer."
+    ],
+    "impact": "Publicado por MIT Press y Harvard University Press en 1960, nació de una investigación en el Instituto de Tecnología de Massachusetts. Sus términos se volvieron comunes en el diseño urbano y en el diseño de orientación y señalética."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-albers-interaction-color-1963",
+   "level": "normal",
+   "year": 1963,
+   "date": "1963",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "pedagogy",
+   "author": "Josef Albers",
+   "name": "Interaction of Color",
+   "short": "Albers",
+   "key": "Josef Albers’s 1963 colour manual, which teaches by experiment how a colour changes with the colours around it, and which remains in use in art and design schools.",
+   "ideas": [
+    "Colour is deceptive: the same colour looks different depending on its surroundings.",
+    "Colour is learned by experiment and observation with coloured papers, not by memorising theory.",
+    "The effects of colour contrast, transparency and spacing can be studied in exercises.",
+    "The book grew out of Albers’s teaching at Yale and earlier at Black Mountain College."
+   ],
+   "impact": "Published by Yale University Press in 1963, first as a boxed folio with original silkscreen prints, it condensed the colour course Albers had taught since the Bauhaus. Later editions made it widely available.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-black-mountain"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Josef Albers",
+    "name": "La interacción del color",
+    "short": "Albers",
+    "date": "1963",
+    "key": "El manual de color de Josef Albers de 1963, que enseña mediante experimentos cómo un color cambia según los colores que lo rodean, y que sigue en uso en escuelas de arte y diseño.",
+    "ideas": [
+     "El color engaña: un mismo color se ve distinto según su entorno.",
+     "El color se aprende mediante experimentos y observación con papeles de color, no memorizando teoría.",
+     "Los efectos del contraste, la transparencia y el espaciado de los colores pueden estudiarse con ejercicios.",
+     "El libro nació de la enseñanza de Albers en Yale y antes en Black Mountain College."
+    ],
+    "impact": "Publicado por Yale University Press en 1963, primero como un folio en caja con serigrafías originales, condensó el curso de color que Albers enseñaba desde la Bauhaus. Ediciones posteriores lo difundieron ampliamente."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-munari-arte-come-mestiere-1966",
+   "level": "normal",
+   "year": 1966,
+   "date": "1966",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "genre": "criticism",
+   "author": "Bruno Munari",
+   "name": "Design as Art (Arte come mestiere)",
+   "short": "Munari",
+   "key": "Bruno Munari’s 1966 book that argues for the designer as an artist of everyday life, working on ordinary objects and communication rather than on isolated masterpieces.",
+   "ideas": [
+    "The designer is an artist who works on the objects and messages of everyday life.",
+    "Art should not be separated from daily life, nor reserved for museums and collectors.",
+    "Design needs method and a clear idea of the problem, not only taste.",
+    "Small things well made, such as a chair, a lamp or a poster, matter as much as great works."
+   ],
+   "impact": "Published by Laterza in Bari in 1966, it was translated into English as Design as Art in 1971. It is a classic text of Italian design culture, written by a designer who worked in graphics, toys and objects.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "bruno-munari"
+    ],
+    "works": []
+   },
+   "es": {
+    "author": "Bruno Munari",
+    "name": "El arte como oficio",
+    "short": "Munari",
+    "date": "1966",
+    "key": "El libro de 1966 de Bruno Munari que defiende al diseñador como artista de la vida cotidiana, que trabaja en objetos corrientes y en la comunicación y no en obras maestras aisladas.",
+    "ideas": [
+     "El diseñador es un artista que trabaja en los objetos y mensajes de la vida cotidiana.",
+     "El arte no debe separarse de la vida diaria ni reservarse a los museos y coleccionistas.",
+     "El diseño necesita método y una idea clara del problema, no solo gusto.",
+     "Las cosas pequeñas bien hechas, como una silla, una lámpara o un afiche, importan tanto como las grandes obras."
+    ],
+    "impact": "Publicado por Laterza en Bari en 1966, se tradujo al inglés como Design as Art en 1971. Es un texto clásico de la cultura del diseño italiano, escrito por un diseñador que trabajó en gráfica, juguetes y objetos."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-ruder-typographie-1967",
+   "level": "normal",
+   "year": 1967,
+   "date": "1967",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "CH"
+   ],
+   "genre": "typography",
+   "author": "Emil Ruder",
+   "name": "Typographie",
+   "short": "Ruder",
+   "key": "Emil Ruder’s 1967 typography manual from the Basel school, which set out a rigorous teaching of type, white space and legibility and became a pillar of the Swiss style.",
+   "ideas": [
+    "Typography serves the reader: its first task is to communicate and be legible.",
+    "The white space around and inside letters is as much a part of the design as the black of the type.",
+    "Good typography comes from discipline, exercises and attention to detail.",
+    "The typographer works with contrasts of size, weight and form in a clear structure."
+   ],
+   "impact": "Published in Teufen, Switzerland, by Arthur Niggli in 1967, and subtitled as a textbook of design, it came from Ruder’s teaching at the Basel school of design. With Josef Müller-Brockmann’s work it is among the main references of the Swiss typographic style.",
+   "links": {
+    "movements": [
+     "basel-school-typography"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Emil Ruder",
+    "name": "Typographie",
+    "short": "Ruder",
+    "date": "1967",
+    "key": "El manual de tipografía de Emil Ruder de 1967, de la Escuela de Basilea, que expuso una enseñanza rigurosa de la letra, el espacio en blanco y la legibilidad, y se volvió un pilar del estilo suizo.",
+    "ideas": [
+     "La tipografía sirve al lector: su primera tarea es comunicar y ser legible.",
+     "El espacio en blanco alrededor y dentro de las letras es tan parte del diseño como el negro de la tipografía.",
+     "La buena tipografía nace de la disciplina, los ejercicios y la atención al detalle.",
+     "El tipógrafo trabaja con contrastes de tamaño, peso y forma dentro de una estructura clara."
+    ],
+    "impact": "Publicado en Teufen, Suiza, por Arthur Niggli en 1967, y subtitulado como libro de enseñanza del diseño, nació de la docencia de Ruder en la escuela de diseño de Basilea. Junto con la obra de Josef Müller-Brockmann es una de las principales referencias del estilo tipográfico suizo."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-simon-sciences-artificial-1969",
+   "level": "normal",
+   "year": 1969,
+   "date": "1969",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Herbert A. Simon",
+   "name": "The Sciences of the Artificial",
+   "short": "Simon",
+   "key": "Herbert Simon’s 1969 book that defines design as the devising of actions to turn existing situations into preferred ones, a basis of design methods and later of design thinking.",
+   "ideas": [
+    "Artificial things, made by people, can be studied as a science of design.",
+    "Design is the devising of courses of action that change existing situations into preferred ones.",
+    "People solve problems with bounded rationality: they search for solutions that are good enough.",
+    "Complex systems can be understood as hierarchies of simpler parts."
+   ],
+   "impact": "Published by the MIT Press in 1969 and revised in later editions, it came from the work of an economist and computer scientist on decision-making and artificial intelligence. It became a core text of the design methods movement.",
+   "links": {
+    "movements": [
+     "design-methods"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Herbert A. Simon",
+    "name": "Las ciencias de lo artificial",
+    "short": "Simon",
+    "date": "1969",
+    "key": "El libro de 1969 de Herbert Simon que define el diseño como la concepción de acciones para convertir situaciones existentes en preferidas, base de los métodos de diseño y, más tarde, del design thinking.",
+    "ideas": [
+     "Las cosas artificiales, hechas por las personas, pueden estudiarse como una ciencia del diseño.",
+     "El diseño es la concepción de cursos de acción que cambian situaciones existentes en preferidas.",
+     "Las personas resuelven problemas con racionalidad limitada: buscan soluciones suficientemente buenas.",
+     "Los sistemas complejos pueden entenderse como jerarquías de partes más simples."
+    ],
+    "impact": "Publicado por MIT Press en 1969 y revisado en ediciones posteriores, surgió del trabajo de un economista y científico de la computación sobre toma de decisiones e inteligencia artificial. Se volvió un texto central del movimiento de métodos de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-maldonado-speranza-1970",
+   "level": "normal",
+   "year": 1970,
+   "date": "1970",
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "countries": [
+    "IT",
+    "AR"
+   ],
+   "genre": "criticism",
+   "author": "Tomás Maldonado",
+   "name": "La speranza progettuale (Design, Nature, and Revolution)",
+   "short": "Maldonado",
+   "key": "Tomás Maldonado’s 1970 book on design, environment and society, in which a former rector of Ulm argued that design must answer for its effects on the world.",
+   "ideas": [
+    "Design should be understood in relation to the environment and society and not only to the market.",
+    "Consumer society and industrial production create problems that design cannot ignore.",
+    "A responsible design project needs critical thought and a social purpose.",
+    "The designer cannot be neutral about the consequences of what is produced."
+   ],
+   "impact": "Published in Turin by Einaudi in 1970 under the subtitle ‘Ambiente e società’, it appeared in English as Design, Nature, and Revolution in 1972. Maldonado, born in Buenos Aires, taught at the Ulm school and was its rector in the mid-1960s.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-hfg-ulm"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Tomás Maldonado",
+    "name": "La esperanza proyectual",
+    "short": "Maldonado",
+    "date": "1970",
+    "key": "El libro de 1970 de Tomás Maldonado sobre diseño, ambiente y sociedad, en el que un antiguo rector de Ulm sostuvo que el diseño debe responder por sus efectos en el mundo.",
+    "ideas": [
+     "El diseño debe entenderse en relación con el ambiente y la sociedad y no solo con el mercado.",
+     "La sociedad de consumo y la producción industrial crean problemas que el diseño no puede ignorar.",
+     "Un proyecto de diseño responsable necesita pensamiento crítico y un propósito social.",
+     "El diseñador no puede ser neutral ante las consecuencias de lo que se produce."
+    ],
+    "impact": "Publicado en Turín por Einaudi en 1970 con el subtítulo «Ambiente e società», apareció en inglés como Design, Nature, and Revolution en 1972. Maldonado, nacido en Buenos Aires, fue profesor de la escuela de Ulm y su rector a mediados de los años sesenta."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-rittel-webber-1973",
+   "level": "normal",
+   "year": 1973,
+   "date": "1973",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "genre": "method",
+   "author": "Horst Rittel and Melvin Webber",
+   "name": "Dilemmas in a General Theory of Planning",
+   "short": "Rittel and Webber",
+   "key": "Horst Rittel and Melvin Webber’s 1973 paper that named ‘wicked problems’, social problems with no definitive formulation or final solution, and ended the confidence of early design methods.",
+   "ideas": [
+    "Planning problems are ‘wicked’: they cannot be defined once and solved by a technical procedure.",
+    "Every wicked problem is in some sense unique and a symptom of another problem.",
+    "Solutions are not true or false but better or worse, and each attempt has consequences.",
+    "The planner’s optimism in technical, step-by-step methods is therefore misplaced."
+   ],
+   "impact": "Published in the journal Policy Sciences in 1973, it was written by Rittel, a design theorist who taught at Berkeley, and Webber, a planner there. It is among the most cited texts in design and planning theory.",
+   "links": {
+    "movements": [
+     "design-methods"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Horst Rittel and Melvin Webber",
+    "name": "Dilemas de una teoría general de la planificación",
+    "short": "Rittel and Webber",
+    "date": "1973",
+    "key": "El artículo de 1973 de Horst Rittel y Melvin Webber que dio nombre a los «problemas perversos», problemas sociales sin formulación definitiva ni solución final, y puso fin a la confianza de los primeros métodos de diseño.",
+    "ideas": [
+     "Los problemas de planificación son «perversos»: no pueden definirse de una vez ni resolverse con un procedimiento técnico.",
+     "Cada problema perverso es en algún sentido único y síntoma de otro problema.",
+     "Las soluciones no son verdaderas o falsas, sino mejores o peores, y cada intento tiene consecuencias.",
+     "Por eso el optimismo del planificador en los métodos técnicos paso a paso está fuera de lugar."
+    ],
+    "impact": "Publicado en la revista Policy Sciences en 1973, lo escribieron Rittel, un teórico del diseño que enseñaba en Berkeley, y Webber, urbanista de la misma universidad. Es uno de los textos más citados de la teoría del diseño y la planificación."
+   },
+   "refs": []
+  },
+  {
+   "id": "th-mari-autoprogettazione-1974",
+   "level": "normal",
+   "year": 1974,
+   "date": "1974",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "genre": "manifesto",
+   "author": "Enzo Mari",
+   "name": "Autoprogettazione",
+   "short": "Mari",
+   "key": "Enzo Mari’s 1974 project of furniture plans that anyone could build from rough boards and nails, a critique of consumption and a forerunner of open design.",
+   "ideas": [
+    "People can make their own furniture from simple boards and nails, following drawings.",
+    "Making a piece shows people how it is built and what design involves.",
+    "The project criticises consumer society and the industry that sells furniture.",
+    "The plans were meant to be shared freely and not produced by a firm."
+   ],
+   "impact": "Presented by Mari in Milan in 1974 as a set of drawings for furniture to be built at home, it was later published as a book and reissued in the 2000s. It is often cited as an early model of open and do-it-yourself design.",
+   "links": {
+    "movements": [
+     "radical-design"
+    ],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "author": "Enzo Mari",
+    "name": "Autoproyectación",
+    "short": "Mari",
+    "date": "1974",
+    "key": "El proyecto de 1974 de Enzo Mari de planos de muebles que cualquiera podía construir con tablas en bruto y clavos, una crítica al consumo y un antecedente del diseño abierto.",
+    "ideas": [
+     "Las personas pueden hacer sus propios muebles con tablas simples y clavos, siguiendo dibujos.",
+     "Hacer una pieza enseña cómo se construye y en qué consiste el diseño.",
+     "El proyecto critica la sociedad de consumo y la industria que vende muebles.",
+     "Los planos estaban pensados para compartirse libremente y no para que los produjera una empresa."
+    ],
+    "impact": "Presentado por Mari en Milán en 1974 como un conjunto de dibujos de muebles para construir en casa, se publicó después como libro y se reeditó en los años 2000. Suele citarse como un modelo temprano de diseño abierto y «hazlo tú mismo»."
+   },
+   "refs": []
+  }
+ ]
+}

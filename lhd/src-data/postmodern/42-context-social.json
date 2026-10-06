@@ -1,0 +1,255 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-feminisms",
+   "track": "social",
+   "start": 1975,
+   "end": 2026,
+   "cont": true,
+   "date": "1970 →",
+   "regions": [
+    "europe",
+    "north-america",
+    "latin-america"
+   ],
+   "countries": [],
+   "name": "Feminisms and new gender identities",
+   "short": "Feminisms",
+   "key": "Feminist movements from the 1970s, and later debates on gender identity, questioned who designs, who is represented and how bodies and roles are pictured.",
+   "happened": "Second-wave feminism grew from the late 1960s, and in 1975 the United Nations held its first world conference on women, in Mexico City, and declared International Women’s Year. In later decades feminist and queer movements widened the debate to gender identity and diversity, and in Latin America large feminist mobilisations took place in the 2010s.",
+   "effect": "Design began to be read for its images of women and men, and the field’s own history of overlooking women designers was challenged. In fashion and graphics, designers played with gender codes, and campaigns and posters of feminist movements made visual identity a tool of public protest.",
+   "es": {
+    "name": "Feminismos y nuevas identidades de género",
+    "short": "Feminismos",
+    "date": "1970 →",
+    "key": "Los movimientos feministas desde los años setenta, y luego los debates sobre identidad de género, cuestionaron quién diseña, quién aparece representado y cómo se muestran los cuerpos y los roles.",
+    "happened": "El feminismo de la segunda ola creció desde fines de los años sesenta, y en 1975 Naciones Unidas celebró en Ciudad de México su primera conferencia mundial sobre la mujer y declaró el Año Internacional de la Mujer. En las décadas siguientes los movimientos feministas y queer ampliaron el debate a la identidad de género y la diversidad, y en América Latina hubo grandes movilizaciones feministas en los años 2010.",
+    "effect": "El diseño empezó a leerse por sus imágenes de mujeres y hombres, y se cuestionó que su propia historia hubiera pasado por alto a las diseñadoras. En la moda y la gráfica, los diseñadores jugaron con los códigos de género, y las campañas y afiches de los movimientos feministas hicieron de la identidad visual una herramienta de protesta pública."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-climate-crisis",
+   "track": "social",
+   "start": 1990,
+   "end": 2026,
+   "cont": true,
+   "date": "1990 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [],
+   "name": "Climate crisis and sustainability",
+   "short": "Climate",
+   "key": "Growing scientific evidence of human-caused climate change made the environmental cost of products a question for design from about 1990.",
+   "happened": "The Intergovernmental Panel on Climate Change published its first assessment report in 1990, and the Kyoto Protocol was adopted in 1997. The Paris Agreement of 2015 set a shared goal of limiting warming, and public concern about waste, plastics and emissions kept growing.",
+   "effect": "Designers were asked to consider materials, energy and what happens to an object when it is discarded. This fed approaches such as sustainable design, recycled materials and the idea that products should be designed for reuse, and it made durability and repair arguments about design rather than only about engineering.",
+   "es": {
+    "name": "Crisis climática y sostenibilidad",
+    "short": "Clima",
+    "date": "1990 →",
+    "key": "La creciente evidencia científica del cambio climático de origen humano hizo del costo ambiental de los productos un tema del diseño desde c. 1990.",
+    "happened": "El Panel Intergubernamental sobre Cambio Climático publicó su primer informe de evaluación en 1990, y el Protocolo de Kioto se adoptó en 1997. El Acuerdo de París de 2015 fijó una meta común de limitar el calentamiento, y la preocupación pública por los residuos, los plásticos y las emisiones siguió creciendo.",
+    "effect": "Se pidió a los diseñadores considerar los materiales, la energía y lo que ocurre con un objeto cuando se desecha. Esto alimentó enfoques como el diseño sostenible, los materiales reciclados y la idea de que los productos deben diseñarse para reutilizarse, y convirtió la durabilidad y la reparación en asuntos del diseño y no solo de la ingeniería."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-urban-informality",
+   "track": "social",
+   "start": 1975,
+   "end": 2026,
+   "cont": true,
+   "date": "1975 →",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [],
+   "name": "Urban informality and housing deficit",
+   "short": "Informality",
+   "key": "In Latin America, rapid urban growth left many people building their own homes in informal settlements, which made housing a central problem for design.",
+   "happened": "From the mid-twentieth century Latin American cities grew fast through migration from the countryside, and large parts of them were built outside formal planning and markets, in settlements such as favelas, villas and poblaciones. Governments and the public sector often could not supply enough housing, and the shortage remained a major issue in the following decades.",
+   "effect": "Architects and designers took up low-cost housing, incremental building and the layouts of informal neighbourhoods as design problems in their own right. The scarcity of money and materials also encouraged designs that reused what was at hand and let residents finish and extend their own homes.",
+   "es": {
+    "name": "Informalidad urbana y déficit de vivienda",
+    "short": "Informalidad",
+    "date": "1975 →",
+    "key": "En América Latina, el rápido crecimiento urbano dejó a muchas personas construyendo sus propias casas en asentamientos informales, lo que hizo de la vivienda un problema central del diseño.",
+    "happened": "Desde mediados del siglo XX las ciudades latinoamericanas crecieron rápido por la migración del campo, y grandes partes de ellas se levantaron al margen de la planificación y del mercado formales, en asentamientos como las favelas, las villas y las poblaciones. Los Estados a menudo no lograron proveer suficientes viviendas, y la carencia siguió siendo un problema mayor en las décadas siguientes.",
+    "effect": "Arquitectos y diseñadores asumieron la vivienda de bajo costo, la construcción por etapas y la trama de los barrios informales como problemas de diseño por derecho propio. La escasez de dinero y de materiales también estimuló diseños que reutilizan lo que hay a mano y dejan que los propios habitantes terminen y amplíen sus casas."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-ageing-accessibility",
+   "track": "social",
+   "start": 1980,
+   "end": 2026,
+   "cont": true,
+   "date": "1980 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Ageing and accessible design",
+   "short": "Accessibility",
+   "key": "As populations aged and disability rights advanced, accessibility became a design requirement and not only a special need.",
+   "happened": "Life expectancy rose in North America and Europe, so the share of older people grew. The Americans with Disabilities Act was signed in the United States in 1990, requiring access in public places, and designers such as Ronald Mace argued for universal design, meaning environments usable by as many people as possible.",
+   "effect": "Designers began to test products and interfaces with older and disabled users and to treat ease of use as part of the brief. Kitchen tools, buildings, transport and, later, computer screens were rethought so that more people could use them without special adaptations.",
+   "es": {
+    "name": "Envejecimiento y diseño accesible",
+    "short": "Accesibilidad",
+    "date": "1980 →",
+    "key": "Con el envejecimiento de la población y el avance de los derechos de las personas con discapacidad, la accesibilidad pasó a ser un requisito del diseño y no solo una necesidad especial.",
+    "happened": "La esperanza de vida aumentó en Norteamérica y Europa, y con ella la proporción de personas mayores. En 1990 se firmó en Estados Unidos la Ley de Estadounidenses con Discapacidades, que exigió acceso en los lugares públicos, y diseñadores como Ronald Mace defendieron el diseño universal, es decir, entornos que puedan usar la mayor cantidad posible de personas.",
+    "effect": "Los diseñadores empezaron a probar productos e interfaces con usuarios mayores y con discapacidad y a tratar la facilidad de uso como parte del encargo. Utensilios de cocina, edificios, transporte y, más tarde, pantallas de computador se repensaron para que más personas pudieran usarlos sin adaptaciones especiales."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-human-rights-resistance",
+   "track": "social",
+   "start": 1975,
+   "end": 1990,
+   "cont": false,
+   "date": "1974–1990",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL",
+    "AR",
+    "BR"
+   ],
+   "name": "Resistance and human rights under dictatorships",
+   "short": "Resistance",
+   "key": "Under the military dictatorships of Latin America, families of victims and opposition groups organised to denounce abuses and to resist through images, crafts and slogans.",
+   "happened": "After the coup in Chile in 1973 and the one in Argentina in 1976, military governments in the region detained, tortured and killed opponents. Groups such as the Vicaría de la Solidaridad in Chile, created in 1976 under the Catholic Church, and the Mothers of the Plaza de Mayo in Argentina, who began marching in 1977, documented and denounced the abuses.",
+   "effect": "Open public criticism was dangerous, so protest often took the form of cloth, posters, symbols and street actions that were easy to make and to pass from hand to hand. Handmade objects such as the arpilleras sewn by Chilean women carried testimony abroad, and shared symbols, like the white headscarves of the Mothers, became a visual language of memory.",
+   "es": {
+    "name": "Resistencia y derechos humanos bajo dictaduras",
+    "short": "Resistencia",
+    "date": "1974–1990",
+    "key": "Bajo las dictaduras militares de América Latina, familiares de víctimas y grupos opositores se organizaron para denunciar los abusos y resistir mediante imágenes, artesanías y consignas.",
+    "happened": "Tras el golpe de Estado en Chile en 1973 y el de Argentina en 1976, los gobiernos militares de la región detuvieron, torturaron y mataron a opositores. Agrupaciones como la Vicaría de la Solidaridad en Chile, creada en 1976 bajo la Iglesia católica, y las Madres de Plaza de Mayo en Argentina, que empezaron a marchar en 1977, documentaron y denunciaron los abusos.",
+    "effect": "La crítica pública abierta era peligrosa, así que la protesta tomó a menudo la forma de telas, afiches, símbolos y acciones callejeras fáciles de hacer y de pasar de mano en mano. Objetos hechos a mano, como las arpilleras que cosieron mujeres chilenas, llevaron el testimonio al extranjero, y símbolos compartidos, como los pañuelos blancos de las Madres, se volvieron un lenguaje visual de la memoria."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-natural-disasters-humanitarian",
+   "track": "social",
+   "start": 1995,
+   "end": 2026,
+   "cont": true,
+   "date": "1995 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP",
+    "NZ"
+   ],
+   "name": "Earthquakes and humanitarian emergency housing",
+   "short": "Disaster housing",
+   "key": "Destructive earthquakes such as Kobe in 1995 and Christchurch in 2011 led architects to design quick, cheap and temporary buildings and shelters from light, recyclable materials.",
+   "happened": "The Great Hanshin earthquake struck Kobe in January 1995 and destroyed many buildings, including churches and homes. The earthquakes in Christchurch in 2010 and 2011 damaged the city and made its Anglican cathedral unusable. Communities needed shelter and gathering places quickly and with little money.",
+   "effect": "Architects such as Shigeru Ban worked with cheap, light and recyclable materials like cardboard tubes, which could be assembled fast and taken apart, and showed that emergency buildings could be well designed. Temporary structures became accepted as architecture, and the approach was used in later disasters.",
+   "es": {
+    "name": "Terremotos y vivienda de emergencia",
+    "short": "Vivienda de emergencia",
+    "date": "1995 →",
+    "key": "Terremotos destructivos como los de Kobe en 1995 y Christchurch en 2011 llevaron a los arquitectos a diseñar edificios y refugios rápidos, baratos y provisorios con materiales livianos y reciclables.",
+    "happened": "El gran terremoto de Hanshin golpeó Kobe en enero de 1995 y destruyó muchos edificios, entre ellos iglesias y casas. Los terremotos de Christchurch de 2010 y 2011 dañaron la ciudad e inutilizaron su catedral anglicana. Las comunidades necesitaron refugio y lugares de reunión con rapidez y con poco dinero.",
+    "effect": "Arquitectos como Shigeru Ban trabajaron con materiales baratos, livianos y reciclables como los tubos de cartón, que se armaban rápido y podían desmontarse, y mostraron que los edificios de emergencia podían estar bien diseñados. Las estructuras provisorias se aceptaron como arquitectura y el enfoque se usó en desastres posteriores."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-social-urbanism-medellin",
+   "track": "social",
+   "start": 1995,
+   "end": 2015,
+   "cont": false,
+   "date": "1995–2015",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CO"
+   ],
+   "name": "Social urbanism in Medellín",
+   "short": "Social urbanism",
+   "key": "After the violence of the 1990s, Medellín invested in high-quality public buildings, transport and parks in its poorest hillside districts, a model known as social urbanism.",
+   "happened": "Medellín suffered very high levels of violence in the 1980s and 1990s, concentrated in informal neighbourhoods on the hillsides above the city. In the 2000s the city government made public works in these districts a priority, with projects such as the Metrocable cable cars and library parks.",
+   "effect": "Good design was used as a tool of inclusion: public buildings and transport of high quality were placed in the most stigmatised districts so that their residents were connected to the city and had access to culture. Medellín became an international example of urban design as social policy.",
+   "es": {
+    "name": "Urbanismo social en Medellín",
+    "short": "Urbanismo social",
+    "date": "1995–2015",
+    "key": "Tras la violencia de los años noventa, Medellín invirtió en edificios públicos, transporte y parques de alta calidad en sus barrios más pobres de ladera, un modelo conocido como urbanismo social.",
+    "happened": "Medellín sufrió niveles muy altos de violencia en los años ochenta y noventa, concentrados en los barrios informales de las laderas sobre la ciudad. En la década de 2000 el gobierno municipal hizo de las obras públicas en esos barrios una prioridad, con proyectos como los teleféricos del Metrocable y los parques biblioteca.",
+    "effect": "El buen diseño se usó como herramienta de inclusión: edificios públicos y transporte de alta calidad se emplazaron en los barrios más estigmatizados para conectar a sus habitantes con la ciudad y darles acceso a la cultura. Medellín se volvió un ejemplo internacional del diseño urbano como política social."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-aids-crisis",
+   "track": "social",
+   "start": 1981,
+   "end": null,
+   "date": "1981 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "FR"
+   ],
+   "name": "AIDS crisis",
+   "short": "AIDS crisis",
+   "key": "The epidemic that began to be recognised in 1981 and the official indifference that met it, which produced an activist graphic culture in the United States and Europe.",
+   "happened": "The first cases of what became known as AIDS were reported in the United States in 1981, and the epidemic spread through the decade among communities that governments and much of the public were slow to defend. In 1987 the activist group ACT UP was founded in New York, and campaigns and organisations in Europe also began to demand treatment and information.",
+   "effect": "Design became a tool of protest and of public solidarity. Activists used the means of advertising, with strong images, short slogans and posters pasted in the street, to say what official campaigns did not, as in the pink triangle and slogan of 1987. A few years later the red ribbon (1991) showed the opposite pole: a sign so simple that anyone could wear it, which spread without a brand or an owner.",
+   "es": {
+    "name": "Crisis del sida",
+    "short": "Crisis del sida",
+    "date": "1981 →",
+    "key": "La epidemia que empezó a reconocerse en 1981 y la indiferencia oficial con que fue recibida, que produjo una cultura gráfica activista en Estados Unidos y Europa.",
+    "happened": "Los primeros casos de lo que se conoció como sida se informaron en Estados Unidos en 1981, y la epidemia se extendió durante la década entre comunidades que los gobiernos y buena parte del público tardaron en defender. En 1987 se fundó en Nueva York el grupo activista ACT UP, y también en Europa surgieron campañas y organizaciones que exigían tratamiento e información.",
+    "effect": "El diseño se volvió herramienta de protesta y de solidaridad pública. Los activistas usaron los medios de la publicidad, con imágenes fuertes, lemas breves y afiches pegados en la calle, para decir lo que las campañas oficiales no decían, como en el triángulo rosa y la consigna de 1987. Pocos años después el lazo rojo (1991) mostró el polo opuesto: un signo tan simple que cualquiera podía llevarlo, y que se difundió sin marca ni dueño."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-covid-19",
+   "track": "social",
+   "start": 2020,
+   "end": 2022,
+   "date": "2020–2022",
+   "regions": [
+    "global"
+   ],
+   "countries": [],
+   "name": "COVID-19 pandemic",
+   "short": "COVID-19 pandemic",
+   "key": "The pandemic that began in 2019 and spread worldwide in 2020, which closed public life for months and moved much of design practice, teaching and exhibition onto screens.",
+   "happened": "A new coronavirus, SARS-CoV-2, was identified at the end of 2019, and in March 2020 the World Health Organization described the outbreak as a pandemic. Governments imposed lockdowns, travel restrictions and bans on gatherings in many countries, and trade fairs, exhibitions, schools and offices closed or went online.",
+   "effect": "Design events that depended on physical meeting had to be cancelled or rethought: the Milan furniture fair of 2020 did not take place and its next edition, in 2021, was reformulated. Studios and schools worked remotely, and the public communication of health, with masks, distancing signs and images of the virus, became a large field of information design.",
+   "es": {
+    "name": "Pandemia de COVID-19",
+    "short": "Pandemia de COVID-19",
+    "date": "2020–2022",
+    "key": "La pandemia que comenzó en 2019 y se extendió por el mundo en 2020, que cerró la vida pública durante meses y trasladó a las pantallas buena parte de la práctica, la enseñanza y la exhibición del diseño.",
+    "happened": "Un nuevo coronavirus, el SARS-CoV-2, se identificó a fines de 2019, y en marzo de 2020 la Organización Mundial de la Salud calificó el brote de pandemia. Los gobiernos impusieron cuarentenas, restricciones de viaje y prohibiciones de reunión en muchos países, y las ferias, las exposiciones, las escuelas y las oficinas cerraron o pasaron a lo virtual.",
+    "effect": "Los eventos de diseño que dependían del encuentro físico debieron cancelarse o repensarse: la feria del mueble de Milán de 2020 no se realizó y su siguiente edición, en 2021, se reformuló. Los estudios y las escuelas trabajaron a distancia, y la comunicación pública de la salud, con mascarillas, señales de distanciamiento e imágenes del virus, se volvió un gran campo del diseño de información."
+   },
+   "refs": []
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+[
+ {
+  "id": "masp",
+  "en": {
+   "key": "Lina Bo Bardi’s museum on Avenida Paulista, a glass and concrete building hung from prestressed beams above a free public space.[1][2]",
+   "more": "The main volume is held by prestressed concrete beams, leaving a free span of 74 metres at street level, for a long time the largest in Latin America.[2] The museum calls this space a multipurpose public square.[1] Inside, Bo Bardi displayed the paintings on glass easels of her own design, so that visitors move around the works and see their backs.[1][2] The building went up on Avenida Paulista in 1968, designed by Bo Bardi in 1957, and the museum calls it a landmark of 20th-century architecture.[1][2]"
+  },
+  "es": {
+   "key": "El museo de Lina Bo Bardi en la avenida Paulista, un edificio de vidrio y hormigón colgado de vigas pretensadas sobre un espacio público libre.[1][2]",
+   "more": "El volumen principal lo sostienen vigas de hormigón pretensado, que dejan una luz libre de 74 metros a nivel de calle, por mucho tiempo la mayor de América Latina.[2] El museo describe ese espacio como una plaza pública multiuso.[1] Adentro, Bo Bardi expuso las pinturas en caballetes de vidrio diseñados por ella, de modo que el visitante se mueve entre las obras y ve sus reversos.[1][2] El edificio se levantó en la avenida Paulista en 1968, proyectado por Bo Bardi en 1957, y el museo lo considera un hito de la arquitectura del siglo XX.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "MASP, «About»",
+    "url": "https://masp.org.br/en/about",
+    "checks": "Edificio de Lina Bo Bardi en la avenida Paulista en 1968; luz libre bajo vigas de hormigón que forma una plaza pública multiuso; vidrio y hormigón; caballetes de vidrio en el segundo piso que permiten ver las obras por detrás; «hito de la arquitectura del siglo XX». ⚠ no da la cifra de la luz.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Docomomo Brasil, «Mulheres e o vão do MASP» (PDF)",
+    "url": "https://docomomobrasil.com/wp-content/uploads/2021/12/mulheres-vao-masp.pdf",
+    "checks": "Cuatro vigas pretensadas; luz libre de 74 m, por mucho tiempo la mayor de América Latina; inauguración en 1968, proyecto de 1957; cavaletes de vidrio. ⚠ el diseño de los caballetes como obra de Bo Bardi lo sostiene el sitio del museo solo de modo implícito.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «c. 70 metros» a 74 metros (Docomomo).",
+   "Quité «dos vigas rojas» y «cuatro pilares»: la fuente habla de cuatro vigas pretensadas y ninguna confirma el color rojo ni el número de pilares; dejé «vigas pretensadas».",
+   "Quité «las obras parecían flotar» y «el edificio se inauguró en 1968» pasó a «se levantó»: el museo dice que se trasladó a Paulista en 1968; la fecha de la inauguración oficial no se verificó.",
+   "Campo materials «Hormigón pretensado, vidrio»: consistente con las fuentes."
+  ]
+ },
+ {
+  "id": "pompidou-centre-1977",
+  "en": {
+   "key": "The Paris arts centre by Renzo Piano and Richard Rogers, with its pipes and ducts on the outside to leave the floors free.[1][2]",
+   "more": "Won in a 1971 international competition by Piano and Rogers, with G. F. Franchini working on the competition, programme and interiors, and formally opened on 31 January 1977.[1][2] A steel and glass structure holds large open plateaus of 50 by 170 metres, while the services sit along the street façade, coloured blue for air, green for water, yellow for electricity and red for vertical circulation.[2] Britannica describes its brightly coloured exposed pipes and ducts as a high-tech look that made it controversial, and it quickly became one of the world’s most visited cultural monuments.[1]"
+  },
+  "es": {
+   "key": "El centro de arte de París de Renzo Piano y Richard Rogers, con tuberías y ductos por fuera para dejar libres los pisos.[1][2]",
+   "more": "Ganado en 1971 en un concurso internacional por Piano y Rogers, con G. F. Franchini trabajando en el concurso, el programa y los interiores, se inauguró formalmente el 31 de enero de 1977.[1][2] Una estructura de acero y vidrio sostiene grandes plantas libres de 50 por 170 metros, mientras los servicios van por la fachada hacia la calle, coloreados azul para el aire, verde para el agua, amarillo para la electricidad y rojo para la circulación vertical.[2] Britannica describe sus tuberías y ductos expuestos de colores vivos como una estética high-tech que lo hizo polémico, y pronto fue uno de los monumentos culturales más visitados del mundo.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Pompidou Centre»",
+    "url": "https://www.britannica.com/topic/Pompidou-Centre",
+    "checks": "Concurso de 1971 ganado por Piano y Rogers; inauguración formal el 31 de enero de 1977 por Giscard d’Estaing; tuberías y ductos exteriores de colores vivos, aspecto industrial high-tech y polémico; uno de los monumentos culturales más visitados.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Renzo Piano Building Workshop, «Centre Georges Pompidou»",
+    "url": "https://www.rpbw.com/project/centre-georges-pompidou",
+    "checks": "Concurso internacional de 1971 ganado por Piano y Rogers, apertura 1977; Franchini en concurso, programa e interiores; estructura de acero con fachadas de vidrio; plateaus de 50 x 170 m; código de colores azul/verde/amarillo/rojo. ⚠ sitio del propio estudio (fuente primaria con interés).",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «para el Estado francés» y «en la explanada de Beaubourg»: no confirmados en las fuentes abiertas.",
+   "Quité las «escaleras mecánicas por fuera» y el vínculo de que el diseño «buscaba adaptarse a usos cambiantes»: las fuentes hablan de espacios libres y servicios en fachada, no de escaleras mecánicas; el código de color es por servicio (aire, agua, electricidad, circulación), no genérico «por función».",
+   "Reemplacé «se volvió el modelo de la arquitectura high-tech» por la descripción de Britannica; «atrajo multitudes desde el comienzo» pasó a «pronto fue uno de los más visitados».",
+   "status («cerrado por renovación desde 2025») no verificado; no se tocó."
+  ]
+ },
+ {
+  "id": "god-save-the-queen-1977",
+  "en": {
+   "key": "Jamie Reid’s sleeve for the Sex Pistols’ 1977 single, a portrait of the Queen with her eyes and mouth covered by ransom-note lettering.[1][2]",
+   "more": "Jamie Reid designed the sleeve for the Sex Pistols’ single, released in 1977 to coincide with the Queen’s Silver Jubilee.[1][2] It used a defaced version of Peter Grugeon’s official jubilee portrait of Elizabeth II, her eyes and mouth hidden by the song title and the band’s name in ransom-note-style lettering.[1][2] Reid’s graphic politics were influenced by the Situationist International.[2] The BBC banned the record, and high-street chains such as Woolworths and W.H. Smith refused to stock it.[1]"
+  },
+  "es": {
+   "key": "La carátula de Jamie Reid para el sencillo de los Sex Pistols de 1977, un retrato de la reina con los ojos y la boca tapados por letras tipo carta de rescate.[1][2]",
+   "more": "Jamie Reid diseñó la carátula del sencillo de los Sex Pistols, publicado en 1977 para coincidir con el Jubileo de Plata de la reina.[1][2] Usó una versión intervenida del retrato oficial del jubileo de Isabel II, obra de Peter Grugeon, con los ojos y la boca tapados por el título de la canción y el nombre del grupo en letras al estilo de carta de rescate.[1][2] La política gráfica de Reid estuvo influida por la Internacional Situacionista.[2] La BBC prohibió el disco, y cadenas como Woolworths y W.H. Smith se negaron a venderlo.[1]"
+  },
+  "refs": [
+   {
+    "label": "National Portrait Gallery, Londres, «Queen Elizabeth II (‘God Save the Queen’)»",
+    "url": "https://www.npg.org.uk/collections/search/portrait/mw288622",
+    "checks": "Carátula del sencillo de Jamie Reid, 1977; versión intervenida del retrato oficial del jubileo de plata de Peter Grugeon; sencillo lanzado en 1977 para coincidir con el jubileo; prohibido por la BBC y no vendido por Woolworths y W.H. Smith. ⚠ no menciona Virgin ni el mes.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "V&A, «God Save the Queen» (afiche, S.1286-1982)",
+    "url": "https://collections.vam.ac.uk/item/O1159869/god-save-the-queen-poster-reid-jamie/",
+    "checks": "Afiche promocional del sencillo, 1977: foto en blanco y negro de Isabel II con ojos y boca tapados por título y nombre del grupo en tipografía tipo carta de rescate; año del Jubileo de Plata; influencia situacionista en Reid. ⚠ describe el afiche, no la carátula; el fondo de la bandera no se menciona en el texto.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «mayo de 1977» y «publicado por Virgin Records»: ninguna fuente consultada lo dice (el campo maker queda sin tocar).",
+   "Quité «letras recortadas de tipografía de diario»: las fuentes dicen solo estilo carta de rescate; dejé ese término. materials («Fotografía y letras recortadas») no se tocó; las fuentes dan offset/litografía para el afiche.",
+   "Quité «una de las piezas más conocidas del diseño británico» y «el aspecto crudo de recortar y pegar pasó a representar la gráfica punk»: ninguna fuente abierta lo dice así.",
+   "Agregué el dato verificado de Peter Grugeon y de las prohibiciones comerciales (NPG)."
+  ]
+ },
+ {
+  "id": "emigre-magazine-1984",
+  "en": {
+   "key": "The Berkeley magazine of graphic design and typography founded by Rudy VanderLans and Zuzana Licko, which became a showcase for digital type and layout.[1][2]",
+   "more": "Emigre was founded in Berkeley in 1984 by VanderLans and Licko and ran until 2005.[1][2] Its pages were a forum for design criticism, with unconventional layouts and a pioneering use of Macintosh computers.[2] It was also an independent digital type foundry, Emigre Fonts, and the magazine was its experimental platform.[2][3] It ran for 69 issues.[3]"
+  },
+  "es": {
+   "key": "La revista de diseño gráfico y tipografía de Berkeley fundada por Rudy VanderLans y Zuzana Licko, que se volvió una vitrina de la tipografía y la diagramación digitales.[1][2]",
+   "more": "Emigre fue fundada en Berkeley en 1984 por VanderLans y Licko y circuló hasta 2005.[1][2] Sus páginas fueron un foro de crítica de diseño, con diagramaciones poco convencionales y un uso pionero de los computadores Macintosh.[2] Fue además una fundición tipográfica digital independiente, Emigre Fonts, y la revista fue su plataforma de experimentación.[2][3] Salió en 69 números.[3]"
+  },
+  "refs": [
+   {
+    "label": "Readymag Stories, «Rudy VanderLans and Zuzana Licko» (Emigre)",
+    "url": "https://readymag.com/designstories/emigre/timeline",
+    "checks": "Fundación en 1984 en Berkeley por VanderLans y Licko; revista de 69 números hasta 2005. ⚠ fuente secundaria divulgativa.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Letterform Archive, «New in the Online Archive: Emigre Magazine»",
+    "url": "https://letterformarchive.org/news/new-in-the-online-archive-complete-emigre-magazine/",
+    "checks": "Fundición digital independiente y revista de 1984 a 2005; foro de crítica de diseño; diagramaciones poco convencionales y uso pionero del Macintosh; colección completa recibida en 2016.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA, «Emigre Magazine, issues 1-69»",
+    "url": "https://www.moma.org/collection/works/101653",
+    "checks": "1984–2005, 69 números; Emigre Fonts, primera fundición tipográfica digital; plataforma experimental de VanderLans y Licko con los primeros computadores personales.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité que partió «con obra de artistas y diseñadores emigrados» y el giro posterior «al diseño y la tipografía»: ninguna fuente lo confirma con claridad (Readymag solo lo insinúa).",
+   "Quité que «Licko dibujó» las fuentes para la revista y que se vendieron fuentes de ella: las fuentes confirman Emigre Fonts, no la autoría de Licko por fuente.",
+   "Quité «diagramaron en el computador tras la llegada del Macintosh» como secuencia; queda «uso pionero del Macintosh».",
+   "Los campos materials (offset, tabloide) y status («se conservan en bibliotecas») no verificados; sí hay colecciones en MoMA y Letterform Archive. Licko como único designer es discutible: la ficha lo da solo a ella y las fuentes atribuyen a ambos fundadores."
+  ]
+ },
+ {
+  "id": "macintosh-128k-1984",
+  "en": {
+   "key": "Apple’s compact all-in-one computer of 1984, with a graphical interface and a mouse, which presented the personal computer as a friendly object.[1][2]",
+   "more": "Apple introduced the Macintosh in January 1984.[1][2] Screen, drive and electronics sat in a single compact case with a carrying handle and a built-in 9-inch screen and floppy drive.[2][3] Its graphical interface let users click icons with a one-button mouse.[1][2] Apple later introduced the LaserWriter printer, which made desktop publishing possible.[1]"
+  },
+  "es": {
+   "key": "El computador compacto todo en uno de Apple de 1984, con interfaz gráfica y mouse, que presentó el computador personal como un objeto amable.[1][2]",
+   "more": "Apple presentó el Macintosh en enero de 1984.[1][2] Pantalla, disquetera y electrónica iban en una sola carcasa compacta con asa para llevarla, pantalla integrada de 9 pulgadas y disquetera incorporada.[2][3] Su interfaz gráfica permitía hacer clic en íconos con un mouse de un botón.[1][2] Apple introdujo después la impresora LaserWriter, que hizo posible la edición de escritorio.[1]"
+  },
+  "refs": [
+   {
+    "label": "Smithsonian National Museum of American History, «Apple Macintosh Microcomputer»",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_334371",
+    "checks": "Presentado en enero de 1984; pantalla monocroma de 9 pulgadas; interfaz gráfica con íconos; mouse de un botón; 128K de RAM; LaserWriter que habilitó la edición de escritorio.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Computer History Museum, «A Computer for the Rest of Us»",
+    "url": "https://computerhistory.org/blog/a-computer-for-the-rest-of-us/",
+    "checks": "Presentado en 1984; carcasa compacta todo en uno con asa; pantalla de 9 pulgadas; disquetera de 3,5 pulgadas integrada; interfaz gráfica con mouse. ⚠ da el 24 de enero.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Computer History Museum, «January 22: Apple Computer Launches the Macintosh»",
+    "url": "https://www.computerhistory.org/tdih/January/22/",
+    "checks": "Lanzamiento en enero de 1984; «primer computador exitoso con mouse e interfaz gráfica». ⚠ da el 22 de enero (el otro texto del CHM da el 24): por eso se deja «enero de 1984».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «junto con una impresora láser ayudó a iniciar la edición de escritorio» como causa directa: el Smithsonian solo dice que LaserWriter «permitió» la edición de escritorio; lo reformulé.",
+   "Cita [3] se usa para la carcasa y la disquetera; el CHM da dos fechas distintas (22 y 24 de enero), por lo que la fecha queda en «enero de 1984».",
+   "Quité «presentó el computador personal como un objeto amable» de las marcas: es interpretación sin fuente directa; se mantiene en key solo como resumen sin cifra (⚠ suavizar si se desea).",
+   "El campo materials («carcasa de plástico beige») no verificado: ninguna fuente abierta lo dice; status («máquinas originales en museos») consistente con el Smithsonian."
+  ]
+ },
+ {
+  "id": "att-building-1984",
+  "en": {
+   "key": "Philip Johnson’s New York skyscraper, recognised as the first postmodern tower, with a broken-pediment crown.[1][2]",
+   "more": "Designed by Philip Johnson with John Burgee and built between 1978 and 1984, the 37-storey tower on Madison Avenue is clad in pinkish-gray granite and crowned by a colossal broken pediment.[1] New York’s Landmarks Preservation Commission, which designated it in 2018, calls it the world’s first skyscraper built in the postmodern style, and its vice chair said it established postmodernism as a legitimate architectural movement.[1][2]"
+  },
+  "es": {
+   "key": "El rascacielos neoyorquino de Philip Johnson, reconocido como la primera torre posmoderna, con remate de frontón partido.[1][2]",
+   "more": "Proyectado por Philip Johnson con John Burgee y construido entre 1978 y 1984, la torre de 37 pisos en la avenida Madison está revestida de granito gris rosáceo y coronada por un colosal frontón partido.[1] La Comisión de Preservación de Monumentos de Nueva York, que la declaró monumento en 2018, la llama el primer rascacielos del mundo construido en estilo posmoderno, y su vicepresidente dijo que estableció el posmodernismo como un movimiento arquitectónico legítimo.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "NYC Landmarks Preservation Commission, comunicado de prensa sobre la designación del edificio AT&T (31 de julio de 2018)",
+    "url": "https://www.nyc.gov/site/lpc/about/pr2018/073118.page",
+    "checks": "Johnson y Burgee; construido 1978–84; granito gris rosáceo; colosal frontón partido; 37 pisos; 550 Madison Avenue entre las calles 55 y 56; monumento individual en 2018; primer rascacielos posmoderno del mundo; cita de Frederick Bland.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Architectural Record, «Philip Johnson and John Burgee’s AT&T Building receives landmark designation»",
+    "url": "https://architecturalrecord.com/articles/13588-philip-johnson-and-john-burgees-att-building-receives-landmark-designation",
+    "checks": "Termina en 1984; granito rosa Stony Creek y frontón partido; cita de Bland sobre el posmodernismo. ⚠ da la designación el 1 de agosto de 2018, mientras la LPC da el 31 de julio: el texto dice solo «2018».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité la comparación del frontón con un mueble Chippendale y la «gran entrada en arco» que recuerda edificios clásicos/renacentistas: ninguna fuente abierta lo confirma.",
+   "Quité «ruptura deliberada con la caja de vidrio del Estilo Internacional» y «referencia histórica como opción corporativa»: no confirmados; sustituí por la valoración de la LPC.",
+   "Cambié «primera torre posmoderna» a «reconocido como» (según la LPC). Fecha de designación discrepa por un día entre fuentes. Quité «para AT&T»: ninguna fuente abierta lo declara explícitamente. Materials: la fuente dice granito gris rosáceo / rosa Stony Creek, compatible; «sobre estructura de acero» no verificado, no se tocó."
+  ]
+ },
+ {
+  "id": "kettle-9093-1985",
+  "en": {
+   "key": "Michael Graves’s stainless-steel kettle for Alessi, with a little bird on the spout that whistles when the water boils.[1][2]",
+   "more": "The American architect Graves designed it in 1985 for the Italian firm Alessi, which made it.[1][2] A bird-shaped whistle sounds when the water boils, and the Groninger Museum describes the kettle as elegant but at the same time playful and fun.[1] The example in the National Gallery of Victoria has a cream plastic handle and bird whistle and a black plastic ball on the lid.[2] According to the Groninger Museum, it became one of the best-selling Alessi objects in the world.[1]"
+  },
+  "es": {
+   "key": "La tetera de acero inoxidable de Michael Graves para Alessi, con un pajarito en el pico que silba cuando el agua hierve.[1][2]",
+   "more": "El arquitecto estadounidense Graves la diseñó en 1985 para la empresa italiana Alessi, que la fabricó.[1][2] Un silbato en forma de pájaro suena cuando el agua hierve, y el Groninger Museum describe la tetera como elegante y a la vez lúdica y divertida.[1] El ejemplar del National Gallery of Victoria tiene mango y silbato de pájaro de plástico crema y una bola negra de plástico en la tapa.[2] Según el Groninger Museum, se volvió uno de los objetos de Alessi más vendidos del mundo.[1]"
+  },
+  "refs": [
+   {
+    "label": "Groninger Museum, «Whistling bird teakettle (9093)» (1986.0391)",
+    "url": "https://grm-collections.adlibhosting.com/ais6/Details/museum/5280",
+    "checks": "Diseño de Michael Graves, fabricante Alessi, 1985; acero inoxidable y plástico; silbato en forma de pájaro; «elegante y a la vez lúdico»; uno de los objetos de Alessi más vendidos del mundo.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "National Gallery of Victoria, «Kettle 9093» (2017.1170.a-c)",
+    "url": "https://ngv.vic.gov.au/explore/collection/work/127705",
+    "checks": "Graves para Alessi, hacia 1985; acero inoxidable 18/10; mango y silbato de pájaro de plástico crema, bola de tapa negra. ⚠ fecha «circa 1985»; la tetera de ese ejemplar tiene mango crema, no azul.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «mango azul»: el ejemplar del NGV tiene mango crema; la versión azul no la confirma ninguna fuente abierta.",
+   "Quité «un detalle casi de juguete» y «ejemplo de cómo la empresa vendía objetos de autor como emblemas de su marca»: interpretación sin fuente; sustituí por el juicio del museo.",
+   "«Poliamida» (materials) no confirmado: las fuentes dicen «plástico»; no se tocó el campo. «Acero inoxidable» confirmado. Año 1985: Groninger exacto, NGV «circa»."
+  ]
+ },
+ {
+  "id": "air-jordan-1-1985",
+  "en": {
+   "key": "The basketball shoe Nike launched in 1985 with Michael Jordan, which tied a shoe to an athlete’s name and became a collector’s object.[1][2]",
+   "more": "Nike signed Michael Jordan in 1984 and the Air Jordan 1 debuted in 1985, according to Sotheby’s the work of designer Peter Moore.[2] The Smithsonian’s African American History museum holds a 1985 pair, made by Nike, in red and black leather with rubber soles, and printed ‘AIR JORDAN’ above a winged basketball.[1] Sotheby’s calls it one of the most coveted grails of all time and credits it with launching sneaker collecting culture.[2]"
+  },
+  "es": {
+   "key": "La zapatilla de básquetbol que Nike lanzó en 1985 con Michael Jordan, que ligó un zapato al nombre de un deportista y se volvió objeto de colección.[1][2]",
+   "more": "Nike fichó a Michael Jordan en 1984 y la Air Jordan 1 debutó en 1985, según Sotheby’s obra del diseñador Peter Moore.[2] El museo de Historia Afroamericana del Smithsonian conserva un par de 1985, hecho por Nike, de cuero rojo y negro con suelas de goma y la inscripción «AIR JORDAN» sobre un balón alado.[1] Sotheby’s la llama uno de los «grails» más codiciados de todos los tiempos y le atribuye haber lanzado la cultura de coleccionar zapatillas.[2]"
+  },
+  "refs": [
+   {
+    "label": "Smithsonian NMAAHC, «Pair of red and black Air Jordan I high top sneakers made by Nike» (2014.221.1ab)",
+    "url": "https://nmaahc.si.edu/object/nmaahc_2014.221.1ab",
+    "checks": "Par de 1985 hecho por Nike; cuero rojo y negro, suelas de goma, cordones de nailon; texto «AIR JORDAN» sobre balón alado; asociado a Michael Jordan. ⚠ no menciona la cámara de aire ni a Peter Moore.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Sotheby’s, «Inspiration behind the Air Jordan sneaker line»",
+    "url": "https://www.sothebys.com/en/articles/inspiration-behind-the-air-jordan-sneaker-line",
+    "checks": "Nike firmó a Jordan en 1984; debutó en 1985; silueta original de Peter Moore; cuero y unidad Air; «uno de los grails más codiciados» y origen de la cultura de coleccionar zapatillas. ⚠ casa de subastas, fuente secundaria; el diseñador se atribuye con «según».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «en colores llamativos», «se vendió bajo el nombre y la imagen del jugador», «la publicidad de Nike construyó un relato» y la creación posterior de Jordan Brand como marca aparte, y que se «sigue reeditando»: ninguna fuente abierta lo detalla.",
+   "Peter Moore y la «cámara de aire en el talón» solo los da Sotheby’s (la ubicación en el talón no se confirmó); atribuido con «según». Diseñador: la ficha deja designers vacío; no se tocó.",
+   "Fuente débil: no se encontró museo ni archivo que confirme a Peter Moore; recomiendo una segunda revisión (p. ej. Nike o la colección Smithsonian de publicidad de Nike)."
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "rtype": "link",
+  "ctx": "ctx-mexican-muralism",
+  "item": "casa-barragan-1948",
+  "note": "Muralism made a modern art rooted in Mexican identity and colour a public ideal; Barragán carried that into architecture with intense coloured walls, local craft and a walled patio.",
+  "es": {
+   "note": "El muralismo hizo de un arte moderno arraigado en la identidad y el color de México un ideal público; Barragán lo llevó a la arquitectura con muros de color intenso, oficio local y patio cerrado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-baby-boom-suburbs",
+  "item": "eames-lounge",
+  "note": "Prosperous suburban families wanted comfortable modern furnishings for the living room; the Eameses offered a leather and plywood chair as a refined, modern club chair.",
+  "es": {
+   "note": "Las familias suburbanas acomodadas querían muebles modernos y cómodos para el living; los Eames ofrecieron un sillón de cuero y terciado como un sillón club moderno y refinado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-cinema",
+  "item": "man-golden-arm-1955",
+  "note": "Cinema competed with television for audiences, so studios cared more about publicity; Bass turned the title sequence into an animated graphic piece that set the film's mood.",
+  "es": {
+   "note": "El cine competía con la televisión por el público y los estudios cuidaron más la promoción; Bass convirtió la secuencia de títulos en una pieza gráfica animada que fijaba el ánimo de la película."
+  },
+  "refs": []
+ }
+]

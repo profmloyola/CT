@@ -1,0 +1,135 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-festival-of-britain",
+  "name": "Festival of Britain",
+  "name_es": "Festival de Gran Bretaña",
+  "track": "cultural",
+  "start": 1951,
+  "end": 1951,
+  "date": "1951",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "prioridad": "A",
+  "curso": "Exposición nacional de 1951 que presentó el diseño moderno británico de la posguerra y lanzó a Robin y Lucienne Day.",
+  "explica": [
+   {
+    "id": "day-calyx-1951",
+    "mecanismo": "El festival exhibe interiores modernos → Lucienne Day presenta allí su tela Calyx"
+   },
+   {
+    "id": "festival-britain-emblem-1951",
+    "mecanismo": "El festival necesita una imagen de optimismo nacional → emblema de Abram Games"
+   },
+   {
+    "id": "inst-design-council",
+    "mecanismo": "El Consejo de Diseño Industrial selecciona los objetos expuestos y fija un gusto oficial moderno"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-festival-of-britain",
+    "item": "day-calyx-1951",
+    "mecanismo": "El festival exhibe interiores modernos → Lucienne Day presenta allí su tela Calyx"
+   },
+   {
+    "ctx": "ctx-festival-of-britain",
+    "item": "inst-design-council",
+    "mecanismo": "El Consejo de Diseño Industrial selecciona los objetos expuestos y fija un gusto oficial moderno"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-civil-rights",
+  "name": "Civil rights and Black Power movements",
+  "name_es": "Derechos civiles y Black Power",
+  "track": "social",
+  "start": 1954,
+  "end": 1975,
+  "date": "c. 1954–1975",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "A",
+  "curso": "La lucha por los derechos civiles en Estados Unidos produce una gráfica militante propia y alimenta la crítica social del diseño.",
+  "explica": [
+   {
+    "id": "black-panther-graphics-1967",
+    "mecanismo": "El partido necesita comunicar con su comunidad → Emory Douglas crea una gráfica de periódico directa y de alto contraste"
+   },
+   {
+    "id": "icaic-ospaaal-posters",
+    "mecanismo": "La solidaridad tricontinental incluye la lucha afroestadounidense → carteles de OSPAAAL sobre ella"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-civil-rights",
+    "item": "icaic-ospaaal-posters",
+    "mecanismo": "La solidaridad tricontinental incluye la lucha afroestadounidense → carteles de OSPAAAL sobre ella"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "context",
+  "id": "ctx-suez-crisis-1956",
+  "name": "Suez Crisis and fuel rationing",
+  "name_es": "Crisis de Suez y racionamiento de combustible",
+  "track": "political",
+  "start": 1956,
+  "end": 1957,
+  "date": "1956–1957",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB",
+   "EG"
+  ],
+  "prioridad": "B",
+  "curso": "Propuesto por la decisión D3 para dar al Mini (★) un segundo enlace directo con mecanismo cierto.",
+  "explica": [
+   {
+    "id": "mini-1959",
+    "mecanismo": "El racionamiento de combustible tras Suez → BMC encarga a Issigonis un auto muy pequeño y económico para cuatro personas"
+   }
+  ],
+  "era": "postwar",
+  "nota": "Contexto con un solo enlace (meta C4: 2). ⚠ Verificar la relación causal en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-suez-crisis-1956",
+    "item": "mini-1959",
+    "mecanismo": "El racionamiento de combustible tras Suez → BMC encarga a Issigonis un auto muy pequeño y económico para cuatro personas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

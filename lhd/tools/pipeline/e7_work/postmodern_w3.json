@@ -1,0 +1,253 @@
+[
+ {
+  "rtype": "work",
+  "id": "ikea-billy-1979",
+  "title": "Billy bookcase",
+  "title_es": "Librero Billy",
+  "year": 1979,
+  "discipline": "product",
+  "designers": [],
+  "maker": "Gillis Lundgren for IKEA",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "SE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Mueble de embalaje plano vendido por decenas de millones; diseño global de masas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-globalisation",
+    "mecanismo": "Producción y venta mundial con logística de embalaje plano"
+   }
+  ],
+  "era": "postmodern",
+  "type": "furniture",
+  "tech": [
+   "flat-pack"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-globalisation",
+    "item": "ikea-billy-1979",
+    "mecanismo": "Producción y venta mundial con logística de embalaje plano"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "grid-compass-1982",
+  "title": "GRiD Compass",
+  "title_es": "GRiD Compass",
+  "year": 1982,
+  "discipline": "product",
+  "designers": [
+   "bill-moggridge"
+  ],
+  "maker": "GRiD Systems",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Primer portátil con pantalla abatible; su diseño llevó a Moggridge a acuñar «diseño de interacción».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "El computador sale del escritorio → forma de concha con pantalla abatible"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-knowledge-work",
+    "mecanismo": "Ejecutivos y técnicos necesitan computar fuera de la oficina"
+   }
+  ],
+  "era": "postmodern",
+  "type": "laptop",
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-personal-computer",
+    "item": "grid-compass-1982",
+    "mecanismo": "El computador sale del escritorio → forma de concha con pantalla abatible"
+   },
+   {
+    "ctx": "ctx-knowledge-work",
+    "item": "grid-compass-1982",
+    "mecanismo": "Ejecutivos y técnicos necesitan computar fuera de la oficina"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "how-high-the-moon-1986",
+  "title": "How High the Moon armchair",
+  "title_es": "Sillón How High the Moon",
+  "year": 1986,
+  "discipline": "product",
+  "designers": [
+   "shiro-kuramata"
+  ],
+  "maker": "Vitra",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Sillón de malla metálica, casi inmaterial; icono del diseño japonés de los ochenta.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-consumer-economy",
+    "mecanismo": "El auge económico japonés financia un diseño experimental"
+   },
+   {
+    "tipo": "secundario",
+    "via": "memphis",
+    "mecanismo": "Kuramata participa en Memphis"
+   }
+  ],
+  "era": "postmodern",
+  "type": "chair",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-japan-consumer-economy",
+    "item": "how-high-the-moon-1986",
+    "mecanismo": "El auge económico japonés financia un diseño experimental"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "memphis"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "game-boy-1989",
+  "title": "Game Boy",
+  "title_es": "Game Boy",
+  "year": 1989,
+  "discipline": "product",
+  "designers": [
+   "gunpei-yokoi"
+  ],
+  "maker": "Nintendo",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Consola portátil de componentes baratos y probados; uno de los productos electrónicos más vendidos.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Componentes maduros y baratos → consola resistente y de batería duradera"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-consumer-economy",
+    "mecanismo": "Electrónica de consumo japonesa para el mundo"
+   }
+  ],
+  "era": "postmodern",
+  "type": "device",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-microelectronics",
+    "item": "game-boy-1989",
+    "mecanismo": "Componentes maduros y baratos → consola resistente y de batería duradera"
+   },
+   {
+    "ctx": "ctx-japan-consumer-economy",
+    "item": "game-boy-1989",
+    "mecanismo": "Electrónica de consumo japonesa para el mundo"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "muji-cd-player-1999",
+  "title": "Muji wall-mounted CD player",
+  "title_es": "Reproductor de CD de pared de Muji",
+  "year": 1999,
+  "discipline": "product",
+  "designers": [
+   "naoto-fukasawa"
+  ],
+  "maker": "Muji",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Se enciende tirando de un cordón, como un ventilador de baño: diseño sin pensamiento («without thought»).",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "inst-muji",
+    "mecanismo": "Producto de Muji"
+   },
+   {
+    "tipo": "secundario",
+    "via": "minimalism-fashion-product",
+    "mecanismo": "Minimalismo de producto"
+   }
+  ],
+  "era": "postmodern",
+  "type": "audio-player",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "minimalism-fashion-product"
+   ]
+  }
+ }
+]

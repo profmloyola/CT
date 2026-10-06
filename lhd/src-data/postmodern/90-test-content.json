@@ -1,0 +1,211 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-personal-computer",
+   "track": "technological",
+   "start": 1977,
+   "cont": true,
+   "date": "1977 →",
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "The personal computer",
+   "short": "Personal computer",
+   "key": "Computers made for individuals rather than only for specialists, from the Apple II (1977) to the Macintosh (1984).",
+   "happened": "The Apple II, introduced in 1977, became a big seller.[1] Early computers had been complicated machines for scientists and engineers;[2] the Macintosh, released in January 1984, gave a personal computer a bit-mapped screen on which each pixel was controlled individually.[1]",
+   "effect": "Bit-mapped screens became a design medium: icons and typefaces had to be drawn pixel by pixel, as Susan Kare did on 32 × 32 grids for the Macintosh.[1][3]",
+   "wiki": "Personal_computer",
+   "es": {
+    "name": "El computador personal",
+    "short": "Computador personal",
+    "date": "1977 →",
+    "key": "Computadores hechos para personas y no solo para especialistas, desde el Apple II (1977) hasta el Macintosh (1984).",
+    "happened": "El Apple II, presentado en 1977, se vendió muy bien.[1] Los primeros computadores habían sido máquinas complejas para científicos e ingenieros;[2] el Macintosh, lanzado en enero de 1984, dio a un computador personal una pantalla de mapa de bits en que cada píxel se controlaba por separado.[1]",
+    "effect": "Las pantallas de mapa de bits se volvieron un medio de diseño: los íconos y las tipografías debían dibujarse píxel por píxel, como hizo Susan Kare en grillas de 32 × 32 para el Macintosh.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "SIGCIS, Hintz, estudio sobre Susan Kare (PDF)",
+     "url": "https://www.sigcis.org/files/Hintz.pdf",
+     "checks": "Kare nació en 1954 en Ithaca; estudió inglés y bellas artes en Mount Holyoke (1975) y obtuvo M.A. y Ph.D. en bellas artes en NYU (1978); en enero de 1983 empezó un trabajo de medio tiempo en Apple diseñando fuentes e íconos para el Macintosh; íconos de 32 × 32 píxeles blancos o negros (1024 puntos), primero en papel cuadriculado; Happy Mac; pulió íconos ya existentes como la papelera; fuentes Chicago, New York, Geneva, London, Toronto y Venice; Apple II presentado en 1977; Macintosh lanzado en enero de 1984; pantalla de mapa de bits solo en blanco y negro. ⚠ Documento con aviso «no citar sin permiso del autor»; leído a través de un resumen automático; no confirma la resolución 512 × 342 ni el año del IBM PC.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «How Susan Kare Designed User-Friendly Icons for the First Macintosh» (9 oct. 2019)",
+     "url": "https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/",
+     "checks": "joven escultora cuando Andy Hertzfeld la llamó para crear gráficos y tipografías para el computador personal que Apple planeaba lanzar en 1984; ícono del computador sonriente y papelera, hoy omnipresentes; Chicago, tipografía de sistema en negrita de mayúsculas de nueve píxeles; pantallas CRT primitivas con cuadrados negros; los primeros computadores eran máquinas complejas para científicos e ingenieros. ⚠ Atribuye a Kare la creación de la papelera, mientras Hintz dice que ella pulió una ya existente.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Susan Kare, Apple Macintosh OS icon sketchbook, 1982",
+     "url": "https://www.moma.org/collection/works/188382",
+     "checks": "cuaderno de bocetos de 1982 en tinta y rotulador sobre papel; papel cuadriculado en que cada cuadrado es un píxel; pictogramas como las tijeras para cortar y el cubo de basura para borrar; «lenguaje visual propio del Mac OS original»; las obras son copropiedad de MoMA y SFMOMA.",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ],
+ "designers": [
+  {
+   "id": "susan-kare",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1954,
+   "died": null,
+   "dates": "born 1954",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Susan Kare",
+   "movements": [
+    "interaction-design"
+   ],
+   "institutions": [
+    "inst-apple"
+   ],
+   "key": "American graphic designer who drew the icons and bitmap typefaces of the original Macintosh interface.[1][2]",
+   "more": "Born in 1954 in Ithaca, New York, she studied fine arts and took a Ph.D. in the subject at NYU in 1978.[1] In January 1983 she began a part-time job at Apple designing fonts and icons for the Macintosh.[1] She drew the smiling Happy Mac,[1][3] reworked existing icons such as the trash can[1] and made typefaces such as Chicago and Geneva,[1] working on graph paper with one square for each pixel.[2]",
+   "wiki": "Susan_Kare",
+   "es": {
+    "key": "Diseñadora gráfica estadounidense que dibujó los íconos y las tipografías de mapa de bits de la interfaz del Macintosh original.[1][2]",
+    "more": "Nacida en 1954 en Ithaca, Nueva York, estudió bellas artes y se doctoró en esa disciplina en la Universidad de Nueva York en 1978.[1] En enero de 1983 empezó un trabajo de medio tiempo en Apple diseñando fuentes e íconos para el Macintosh.[1] Dibujó el Happy Mac sonriente,[1][3] retocó íconos ya existentes, como la papelera,[1] y creó tipografías como Chicago y Geneva,[1] trabajando en papel cuadriculado con un cuadrado por cada píxel.[2]",
+    "dates": "nacida en 1954"
+   },
+   "refs": [
+    {
+     "label": "SIGCIS, Hintz, estudio sobre Susan Kare (PDF)",
+     "url": "https://www.sigcis.org/files/Hintz.pdf",
+     "checks": "Kare nació en 1954 en Ithaca; estudió inglés y bellas artes en Mount Holyoke (1975) y obtuvo M.A. y Ph.D. en bellas artes en NYU (1978); en enero de 1983 empezó un trabajo de medio tiempo en Apple diseñando fuentes e íconos para el Macintosh; íconos de 32 × 32 píxeles blancos o negros (1024 puntos), primero en papel cuadriculado; Happy Mac; pulió íconos ya existentes como la papelera; fuentes Chicago, New York, Geneva, London, Toronto y Venice; Apple II presentado en 1977; Macintosh lanzado en enero de 1984; pantalla de mapa de bits solo en blanco y negro. ⚠ Documento con aviso «no citar sin permiso del autor»; leído a través de un resumen automático; no confirma la resolución 512 × 342 ni el año del IBM PC.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Susan Kare, Apple Macintosh OS icon sketchbook, 1982",
+     "url": "https://www.moma.org/collection/works/188382",
+     "checks": "cuaderno de bocetos de 1982 en tinta y rotulador sobre papel; papel cuadriculado en que cada cuadrado es un píxel; pictogramas como las tijeras para cortar y el cubo de basura para borrar; «lenguaje visual propio del Mac OS original»; las obras son copropiedad de MoMA y SFMOMA.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «How Susan Kare Designed User-Friendly Icons for the First Macintosh» (9 oct. 2019)",
+     "url": "https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/",
+     "checks": "joven escultora cuando Andy Hertzfeld la llamó para crear gráficos y tipografías para el computador personal que Apple planeaba lanzar en 1984; ícono del computador sonriente y papelera, hoy omnipresentes; Chicago, tipografía de sistema en negrita de mayúsculas de nueve píxeles; pantallas CRT primitivas con cuadrados negros; los primeros computadores eran máquinas complejas para científicos e ingenieros. ⚠ Atribuye a Kare la creación de la papelera, mientras Hintz dice que ella pulió una ya existente.",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ],
+ "works": [
+  {
+   "id": "macintosh-icons-1984",
+   "level": "essential",
+   "discipline": "graphic",
+   "type": "interface",
+   "title": "Macintosh icons",
+   "short": "Macintosh icons",
+   "designers": [
+    "susan-kare"
+   ],
+   "maker": null,
+   "client": "Apple Computer",
+   "year": 1984,
+   "date": "1984",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "key": "The icons and bitmap typefaces Susan Kare drew for the original Macintosh, built pixel by pixel on a graph-paper grid.[1][2]",
+   "more": "The original Macintosh had a bit-mapped screen that showed only black and white.[1] Kare drew each icon on graph paper with one square for each pixel; an icon was 32 × 32 pixels, about a thousand dots in a single colour.[1][4]\n\nMoMA, which holds her icon sketchbook, describes the set as a visual language that did not depend on text, with pictograms such as scissors for cutting and a trash can for deleting.[2]",
+   "where": [],
+   "status": "Designs such as the smiling computer and the trash can are now ubiquitous in computing.[3]",
+   "wiki": "Macintosh_128K",
+   "es": {
+    "title": "Íconos del Macintosh",
+    "short": "Íconos del Macintosh",
+    "date": "1984",
+    "key": "Los íconos y las tipografías de mapa de bits que Susan Kare dibujó para el Macintosh original, construidos píxel por píxel en una grilla de papel cuadriculado.[1][2]",
+    "more": "El Macintosh original tenía una pantalla de mapa de bits que mostraba solo blanco y negro.[1] Kare dibujó cada ícono en papel cuadriculado con un cuadrado por cada píxel; un ícono medía 32 × 32 píxeles, cerca de mil puntos en un solo color.[1][4]\n\nEl MoMA, que conserva su cuaderno de bocetos de íconos, describe el conjunto como un lenguaje visual que no dependía del texto, con pictogramas como las tijeras para cortar y el cubo de basura para borrar.[2]",
+    "status": "Diseños como el computador sonriente y la papelera son hoy omnipresentes en la informática.[3]"
+   },
+   "refs": [
+    {
+     "label": "SIGCIS, Hintz, estudio sobre Susan Kare (PDF)",
+     "url": "https://www.sigcis.org/files/Hintz.pdf",
+     "checks": "Kare nació en 1954 en Ithaca; estudió inglés y bellas artes en Mount Holyoke (1975) y obtuvo M.A. y Ph.D. en bellas artes en NYU (1978); en enero de 1983 empezó un trabajo de medio tiempo en Apple diseñando fuentes e íconos para el Macintosh; íconos de 32 × 32 píxeles blancos o negros (1024 puntos), primero en papel cuadriculado; Happy Mac; pulió íconos ya existentes como la papelera; fuentes Chicago, New York, Geneva, London, Toronto y Venice; Apple II presentado en 1977; Macintosh lanzado en enero de 1984; pantalla de mapa de bits solo en blanco y negro. ⚠ Documento con aviso «no citar sin permiso del autor»; leído a través de un resumen automático; no confirma la resolución 512 × 342 ni el año del IBM PC.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Susan Kare, Apple Macintosh OS icon sketchbook, 1982",
+     "url": "https://www.moma.org/collection/works/188382",
+     "checks": "cuaderno de bocetos de 1982 en tinta y rotulador sobre papel; papel cuadriculado en que cada cuadrado es un píxel; pictogramas como las tijeras para cortar y el cubo de basura para borrar; «lenguaje visual propio del Mac OS original»; las obras son copropiedad de MoMA y SFMOMA.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Magazine, «How Susan Kare Designed User-Friendly Icons for the First Macintosh» (9 oct. 2019)",
+     "url": "https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/",
+     "checks": "joven escultora cuando Andy Hertzfeld la llamó para crear gráficos y tipografías para el computador personal que Apple planeaba lanzar en 1984; ícono del computador sonriente y papelera, hoy omnipresentes; Chicago, tipografía de sistema en negrita de mayúsculas de nueve píxeles; pantallas CRT primitivas con cuadrados negros; los primeros computadores eran máquinas complejas para científicos e ingenieros. ⚠ Atribuye a Kare la creación de la papelera, mientras Hintz dice que ella pulió una ya existente.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, audio, Susan Kare, Sketches for Graphic User Interface Icons, 1982–1983",
+     "url": "https://www.moma.org/audio/playlist/12/363",
+     "checks": "testimonio de Kare: sin computador, usó papel cuadriculado; en el Macintosh había unos 32 píxeles en media pulgada; un ícono era de 32 × 32, cerca de mil píxeles, en un solo color.",
+     "date": "2026-10-04"
+    }
+   ],
+   "movements": [
+    "interaction-design"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "macintosh-icons-1984",
+   "note": "The Macintosh had a black-and-white bit-mapped screen, so Kare drew each icon on graph paper, one square for each pixel.[1][2]",
+   "es": {
+    "note": "El Macintosh tenía una pantalla de mapa de bits en blanco y negro, así que Kare dibujó cada ícono en papel cuadriculado, un cuadrado por cada píxel.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "SIGCIS, Hintz, estudio sobre Susan Kare (PDF)",
+     "url": "https://www.sigcis.org/files/Hintz.pdf",
+     "checks": "Kare nació en 1954 en Ithaca; estudió inglés y bellas artes en Mount Holyoke (1975) y obtuvo M.A. y Ph.D. en bellas artes en NYU (1978); en enero de 1983 empezó un trabajo de medio tiempo en Apple diseñando fuentes e íconos para el Macintosh; íconos de 32 × 32 píxeles blancos o negros (1024 puntos), primero en papel cuadriculado; Happy Mac; pulió íconos ya existentes como la papelera; fuentes Chicago, New York, Geneva, London, Toronto y Venice; Apple II presentado en 1977; Macintosh lanzado en enero de 1984; pantalla de mapa de bits solo en blanco y negro. ⚠ Documento con aviso «no citar sin permiso del autor»; leído a través de un resumen automático; no confirma la resolución 512 × 342 ni el año del IBM PC.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "MoMA, Susan Kare, Apple Macintosh OS icon sketchbook, 1982",
+     "url": "https://www.moma.org/collection/works/188382",
+     "checks": "cuaderno de bocetos de 1982 en tinta y rotulador sobre papel; papel cuadriculado en que cada cuadrado es un píxel; pictogramas como las tijeras para cortar y el cubo de basura para borrar; «lenguaje visual propio del Mac OS original»; las obras son copropiedad de MoMA y SFMOMA.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "susan-kare",
+   "note": "A new medium, the bit-mapped screen, created the job of designing icons and screen fonts: in 1983 Apple hired Kare to make both for the Macintosh.[1]",
+   "es": {
+    "note": "Un medio nuevo, la pantalla de mapa de bits, creó el oficio de diseñar íconos y tipografías de pantalla: en 1983 Apple contrató a Kare para hacer ambos para el Macintosh.[1]"
+   },
+   "refs": [
+    {
+     "label": "SIGCIS, Hintz, estudio sobre Susan Kare (PDF)",
+     "url": "https://www.sigcis.org/files/Hintz.pdf",
+     "checks": "Kare nació en 1954 en Ithaca; estudió inglés y bellas artes en Mount Holyoke (1975) y obtuvo M.A. y Ph.D. en bellas artes en NYU (1978); en enero de 1983 empezó un trabajo de medio tiempo en Apple diseñando fuentes e íconos para el Macintosh; íconos de 32 × 32 píxeles blancos o negros (1024 puntos), primero en papel cuadriculado; Happy Mac; pulió íconos ya existentes como la papelera; fuentes Chicago, New York, Geneva, London, Toronto y Venice; Apple II presentado en 1977; Macintosh lanzado en enero de 1984; pantalla de mapa de bits solo en blanco y negro. ⚠ Documento con aviso «no citar sin permiso del autor»; leído a través de un resumen automático; no confirma la resolución 512 × 342 ni el año del IBM PC.",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ]
+}

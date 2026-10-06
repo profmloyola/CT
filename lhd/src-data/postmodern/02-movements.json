@@ -1,0 +1,1020 @@
+{
+ "movements": [
+  {
+   "id": "memphis",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1981,
+   "end": 1988,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Memphis",
+   "short": "Memphis",
+   "key": "A Milan group led by Ettore Sottsass that in 1981 showed furniture and objects in bright colours and patterned laminates, against the sober taste of functionalism.",
+   "traits": [
+    "Bright colours and bold, clashing patterns",
+    "Plastic laminates and cheap materials used as decoration",
+    "Playful geometric forms, with furniture like small buildings",
+    "Ornament, humour and reference to popular culture",
+    "Objects as signs and emotions, not only as tools"
+   ],
+   "context": "Memphis began in Milan in December 1980 around Ettore Sottsass and a group of younger designers, and showed its first collection at the Milan furniture fair in September 1981. Its name came from a Bob Dylan song that was playing during the founding evening. It arose from the Italian debate over the crisis of functionalism, and alongside Alchimia. The group wound up in 1988.",
+   "shift": "From the ‘good form’ that follows function to an object that speaks, amuses and carries meaning. Memphis made decoration, colour and kitsch acceptable in serious design, and its images were quickly taken up by fashion, advertising and interiors.",
+   "es": {
+    "name": "Memphis",
+    "short": "Memphis",
+    "key": "Un grupo milanés liderado por Ettore Sottsass que en 1981 mostró muebles y objetos de colores vivos y laminados estampados, frente al gusto sobrio del funcionalismo.",
+    "traits": [
+     "Colores vivos y estampados atrevidos que chocan entre sí",
+     "Laminados plásticos y materiales baratos usados como decoración",
+     "Formas geométricas juguetonas, con muebles que parecen pequeños edificios",
+     "Ornamento, humor y referencias a la cultura popular",
+     "Objetos como signos y emociones, no solo como herramientas"
+    ],
+    "context": "Memphis nació en Milán en diciembre de 1980 en torno a Ettore Sottsass y un grupo de diseñadores más jóvenes, y mostró su primera colección en la feria del mueble de Milán en septiembre de 1981. Su nombre vino de una canción de Bob Dylan que sonaba la noche de la fundación. Surgió del debate italiano sobre la crisis del funcionalismo y junto a Alchimia. El grupo se disolvió en 1988.",
+    "shift": "De la «buena forma» que sigue a la función a un objeto que habla, divierte y lleva significado. Memphis hizo aceptables la decoración, el color y el kitsch en el diseño serio, y sus imágenes pasaron pronto a la moda, la publicidad y los interiores."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-postmodernism",
+     "alchimia"
+    ],
+    "institutions": [
+     "inst-memphis-group"
+    ]
+   }
+  },
+  {
+   "id": "alchimia",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1976,
+   "end": 1992,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "IT"
+   ],
+   "name": "Alchimia",
+   "short": "Alchimia",
+   "key": "A Milan studio founded in 1976 that made ‘redesign’ and ironic, decorated furniture a form of critique of modern design, and was a forerunner of Memphis.",
+   "traits": [
+    "Redesign: reworking classic objects with new decoration",
+    "Surfaces painted, patterned and covered with pastiche",
+    "Furniture as a statement and as a work in small series",
+    "Irony toward good taste and functionalism",
+    "Mixing of high art and popular images"
+   ],
+   "context": "Studio Alchimia was founded in Milan in 1976 by Alessandro Guerriero and grew in the Italian Radical Design milieu. Alessandro Mendini joined it later in the decade and gave it its theoretical voice, and his Proust armchair of 1978, an old chair covered in pointillist-style decoration, became one of its emblems. Ettore Sottsass worked with it before he founded Memphis.",
+   "shift": "From the faith that form follows function to design as commentary on culture. Alchimia showed that an existing object could be reread by changing its surface and meaning, and it opened the way for the playfulness of Memphis and of postmodern design.",
+   "es": {
+    "name": "Alchimia",
+    "short": "Alchimia",
+    "key": "Un estudio milanés fundado en 1976 que hizo del «rediseño» y del mueble irónico y decorado una crítica del diseño moderno, y que fue antecesor de Memphis.",
+    "traits": [
+     "Rediseño: reelaborar objetos clásicos con decoración nueva",
+     "Superficies pintadas, estampadas y cubiertas de pastiche",
+     "Mueble como declaración y como obra en series pequeñas",
+     "Ironía frente al buen gusto y al funcionalismo",
+     "Mezcla de arte culto e imágenes populares"
+    ],
+    "context": "Studio Alchimia lo fundó en Milán en 1976 Alessandro Guerriero y creció en el ambiente del Diseño Radical italiano. Alessandro Mendini se unió después, en esa misma década, y le dio su voz teórica; su sillón Proust de 1978, una silla antigua cubierta de decoración de estilo puntillista, se volvió uno de sus emblemas. Ettore Sottsass trabajó con ella antes de fundar Memphis.",
+    "shift": "De la fe en que la forma sigue a la función al diseño como comentario sobre la cultura. Alchimia mostró que un objeto existente podía releerse cambiando su superficie y su significado, y abrió el camino al juego de Memphis y del diseño posmoderno."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-postmodernism"
+    ],
+    "designers": [
+     "alessandro-mendini"
+    ]
+   }
+  },
+  {
+   "id": "deconstructivism",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1982,
+   "end": 2000,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "NL",
+    "AT"
+   ],
+   "name": "Deconstructivism",
+   "short": "Deconstructivism",
+   "key": "An architecture of fragmented, tilted and colliding volumes, named by a 1988 exhibition at the Museum of Modern Art in New York that brought together seven architects.",
+   "traits": [
+    "Fragmented volumes that seem to collide or tilt",
+    "Rejection of the right angle, symmetry and tidy order",
+    "Forms that look unstable, though they are built to stand",
+    "Interest in Russian constructivism and in the philosophy of deconstruction",
+    "Heavy use of computers to draw and build complex forms"
+   ],
+   "context": "The idea came together in the early 1980s, with the competition for the Parc de la Villette in Paris (1982–83), won by Bernard Tschumi. In 1988 the exhibition ‘Deconstructivist Architecture’ at MoMA, curated by Philip Johnson and Mark Wigley, showed Frank Gehry, Daniel Libeskind, Rem Koolhaas, Zaha Hadid, Peter Eisenman, Coop Himmelb(l)au and Tschumi. The architects were not a group, and several of them rejected the label.",
+   "shift": "From the clean, orderly volumes of modern and postmodern architecture to forms that disturb and fragment. Computer drawing later made such shapes buildable, and Gehry’s Guggenheim Museum in Bilbao (1997) became the best-known result.",
+   "es": {
+    "name": "Deconstructivismo",
+    "short": "Deconstructivismo",
+    "key": "Una arquitectura de volúmenes fragmentados, inclinados y en colisión, bautizada por una exposición de 1988 en el Museo de Arte Moderno de Nueva York que reunió a siete arquitectos.",
+    "traits": [
+     "Volúmenes fragmentados que parecen chocar o inclinarse",
+     "Rechazo del ángulo recto, la simetría y el orden pulcro",
+     "Formas que parecen inestables aunque están construidas para resistir",
+     "Interés por el constructivismo ruso y por la filosofía de la deconstrucción",
+     "Uso intensivo del computador para dibujar y construir formas complejas"
+    ],
+    "context": "La idea se fue armando a comienzos de los años ochenta, con el concurso del Parc de la Villette en París (1982–83), que ganó Bernard Tschumi. En 1988 la exposición «Deconstructivist Architecture» del MoMA, curada por Philip Johnson y Mark Wigley, mostró a Frank Gehry, Daniel Libeskind, Rem Koolhaas, Zaha Hadid, Peter Eisenman, Coop Himmelb(l)au y Tschumi. Los arquitectos no formaban un grupo y varios rechazaron la etiqueta.",
+    "shift": "De los volúmenes limpios y ordenados de la arquitectura moderna y posmoderna a formas que perturban y fragmentan. El dibujo por computador permitió después construir esas formas, y el Museo Guggenheim de Bilbao de Gehry (1997) fue el resultado más conocido."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-postmodernism"
+    ],
+    "designers": [
+     "frank-gehry",
+     "zaha-hadid",
+     "rem-koolhaas"
+    ]
+   }
+  },
+  {
+   "id": "new-wave-typography",
+   "level": "essential",
+   "disciplines": [
+    "graphic"
+   ],
+   "start": 1975,
+   "end": 1995,
+   "fadeIn": 1,
+   "fadeOut": 2,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "CH",
+    "US",
+    "GB"
+   ],
+   "name": "New Wave and experimental typography",
+   "short": "New Wave",
+   "key": "A break with the tidy Swiss grid, led by Wolfgang Weingart in Basel and carried to the US and Britain, that made layers and dense texture part of the message.",
+   "traits": [
+    "Layered, overlapping and irregular layouts",
+    "Type used as texture and image, not only to carry text",
+    "Deliberate play with spacing, weight and angle",
+    "Magazines and posters as places for experiment",
+    "Tools that changed with the Macintosh and bitmap fonts"
+   ],
+   "context": "Its starting point was the teaching of Wolfgang Weingart, who taught typography in Basel from 1968 and whose students from the United States took his ideas home. In the 1980s the movement grew around Cranbrook, April Greiman’s work in Los Angeles and Emigre magazine, founded in 1984 by Zuzana Licko and Rudy VanderLans. In Britain the punk scene fed magazines such as The Face, with Neville Brody’s design, and in the early 1990s David Carson’s Ray Gun carried the style to a wide audience.",
+   "shift": "From the neutral, grid-based clarity of the Swiss style to a typography that shows its own making and invites the reader to interpret it. The Macintosh and desktop publishing from 1984 put these tools in many designers’ hands, and the debate over legibility that followed became one of the central arguments of the period.",
+   "es": {
+    "name": "New Wave y tipografía experimental",
+    "short": "New Wave",
+    "key": "Una ruptura con la grilla suiza ordenada, liderada por Wolfgang Weingart en Basilea y llevada a Estados Unidos y Gran Bretaña, que hizo de las capas y la textura densa parte del mensaje.",
+    "traits": [
+     "Composiciones en capas, superpuestas e irregulares",
+     "Tipografía usada como textura e imagen, no solo para llevar texto",
+     "Juego deliberado con el espaciado, el peso y la inclinación",
+     "Revistas y afiches como lugares de experimentación",
+     "Herramientas que cambiaron con el Macintosh y las fuentes de mapa de bits"
+    ],
+    "context": "Su punto de partida fue la enseñanza de Wolfgang Weingart, que dio clases de tipografía en Basilea desde 1968 y cuyos estudiantes estadounidenses llevaron sus ideas a casa. En los años ochenta el movimiento creció en torno a Cranbrook, el trabajo de April Greiman en Los Ángeles y la revista Emigre, fundada en 1984 por Zuzana Licko y Rudy VanderLans. En Gran Bretaña la escena punk alimentó revistas como The Face, con diseño de Neville Brody, y a comienzos de los noventa Ray Gun, de David Carson, llevó el estilo a un público amplio.",
+    "shift": "De la claridad neutra y basada en la grilla del estilo suizo a una tipografía que muestra cómo está hecha e invita al lector a interpretarla. El Macintosh y la autoedición desde 1984 pusieron esas herramientas en manos de muchos diseñadores, y el debate sobre la legibilidad que siguió fue uno de los argumentos centrales de la época."
+   },
+   "refs": [],
+   "links": {
+    "movements": [
+     "macro-postmodernism"
+    ],
+    "institutions": [
+     "inst-emigre"
+    ]
+   }
+  },
+  {
+   "id": "critical-speculative-design",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "start": 1990,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Critical and speculative design",
+   "short": "Critical design",
+   "key": "A current that uses design to question assumptions and imagine alternative futures, not to sell products, through prototypes, scenarios and fictions.",
+   "traits": [
+    "Objects made to provoke questions, not to be sold",
+    "Scenarios and fictions as design tools",
+    "Technology examined for its social and cultural effects",
+    "Galleries, exhibitions and books as the main places of work",
+    "Design as a way to debate possible futures"
+   ],
+   "context": "Anthony Dunne and Fiona Raby developed the idea at the Royal College of Art in London from the 1990s; Dunne’s book Hertzian Tales (1999) argued for a critical design that questions the role of electronic products in everyday life, and with Raby he later turned to speculative design. The line grew with the culture of the internet and with students and studios in Europe and the United States, and it is summed up in their book Speculative Everything (2013).",
+   "shift": "From design as a solution to a client’s problem to design as a question put to the public. Critical and speculative design turned prototypes and fictions into a kind of research and criticism, especially of new technologies.",
+   "es": {
+    "name": "Diseño crítico y especulativo",
+    "short": "Diseño crítico",
+    "key": "Una corriente que usa el diseño para cuestionar supuestos e imaginar futuros alternativos, y no para vender productos, mediante prototipos, escenarios y ficciones.",
+    "traits": [
+     "Objetos hechos para provocar preguntas y no para venderse",
+     "Escenarios y ficciones como herramientas de diseño",
+     "La tecnología examinada por sus efectos sociales y culturales",
+     "Galerías, exposiciones y libros como principales lugares de trabajo",
+     "Diseño como modo de debatir futuros posibles"
+    ],
+    "context": "Anthony Dunne y Fiona Raby desarrollaron la idea en el Royal College of Art de Londres desde los años noventa; el libro de Dunne Hertzian Tales (1999) defendió un diseño crítico que cuestiona el papel de los productos electrónicos en la vida cotidiana, y con Raby se volcó después al diseño especulativo. La corriente creció con la cultura de internet y con estudiantes y estudios de Europa y Estados Unidos, y se resume en su libro Speculative Everything (2013).",
+    "shift": "Del diseño como solución al problema de un cliente al diseño como pregunta dirigida al público. El diseño crítico y especulativo convirtió los prototipos y las ficciones en una forma de investigación y de crítica, en especial de las nuevas tecnologías."
+   },
+   "refs": []
+  },
+  {
+   "id": "sustainable-design",
+   "level": "essential",
+   "disciplines": [
+    "product",
+    "architecture",
+    "fashion"
+   ],
+   "start": 1990,
+   "end": null,
+   "fadeIn": 2,
+   "fadeOut": 0,
+   "regions": [
+    "global"
+   ],
+   "countries": [],
+   "name": "Sustainable design",
+   "short": "Sustainable design",
+   "key": "A current that asks designers to weigh the environmental and social cost of an object across its whole life, from materials to disposal.",
+   "traits": [
+    "Thinking about the whole life of a product, from raw material to disposal",
+    "Fewer and better materials, reused or recycled where possible",
+    "Products made to last, repair or take apart",
+    "Waste treated as a design problem rather than an afterthought"
+   ],
+   "context": "The idea of sustainable development was set out in the Brundtland report of 1987, and the Rio Earth Summit of 1992 made environmental limits a public issue. Designers such as Victor Papanek had already criticised wasteful design in the 1970s, but from the 1990s the concern reached firms, schools and standards. Books such as Cradle to Cradle (2002) gave it a vocabulary.",
+   "shift": "From designing the object for the moment of sale to designing for its whole life: the choice of material, the way it is assembled and what happens to it afterwards became part of the design brief.",
+   "es": {
+    "name": "Diseño sostenible",
+    "short": "Diseño sostenible",
+    "key": "Una corriente que pide a quienes diseñan sopesar el costo ambiental y social de un objeto a lo largo de toda su vida, desde los materiales hasta su eliminación.",
+    "traits": [
+     "Pensar en toda la vida del producto, desde la materia prima hasta su eliminación",
+     "Menos materiales y mejores, reutilizados o reciclados cuando se puede",
+     "Productos hechos para durar, repararse o desarmarse",
+     "Los residuos tratados como un problema de diseño y no como un asunto posterior"
+    ],
+    "context": "La idea de desarrollo sostenible quedó formulada en el informe Brundtland de 1987, y la Cumbre de la Tierra de Río, en 1992, hizo de los límites ambientales un tema público. Diseñadores como Victor Papanek ya habían criticado el diseño derrochador en los años setenta, pero desde los noventa la preocupación llegó a las empresas, las escuelas y las normas. Libros como De la cuna a la cuna (2002) le dieron un vocabulario.",
+    "shift": "De diseñar el objeto para el momento de la venta a diseñarlo para toda su vida: la elección del material, el modo de ensamblarlo y lo que ocurre con él después pasaron a formar parte del encargo de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "interaction-design",
+   "level": "essential",
+   "disciplines": [
+    "graphic",
+    "product"
+   ],
+   "start": 1984,
+   "end": null,
+   "fadeIn": 2,
+   "fadeOut": 0,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Interaction design",
+   "short": "Interaction design",
+   "key": "The practice of designing how people act on and respond to digital products, from the graphical interface of the 1980s to touch screens and the web.",
+   "traits": [
+    "Design of the dialogue between a person and a machine",
+    "Interfaces built on windows, icons, menus and later touch",
+    "Testing with real users and iterating",
+    "Designers, programmers and psychologists working together"
+   ],
+   "context": "The Xerox Star (1981) and the Apple Macintosh (1984) brought the graphical interface to a wide public. Bill Moggridge, who designed the GRiD Compass laptop in 1982, and Bill Verplank are usually credited with the term interaction design in the mid-1980s. Don Norman’s The Design of Everyday Things (1988) made the way people understand products a central question.",
+   "shift": "From designing the outward form of a machine to designing its behaviour: what the user sees, does and expects at each step became the object of design, and later spread to the web and the smartphone.",
+   "es": {
+    "name": "Diseño de interacción y de experiencia",
+    "short": "Diseño de interacción",
+    "key": "La práctica de diseñar cómo las personas actúan sobre los productos digitales y cómo estos les responden, desde la interfaz gráfica de los años ochenta hasta las pantallas táctiles y la web.",
+    "traits": [
+     "Diseño del diálogo entre una persona y una máquina",
+     "Interfaces basadas en ventanas, íconos, menús y más tarde el tacto",
+     "Pruebas con usuarios reales e iteración",
+     "Diseñadores, programadores y psicólogos trabajando juntos"
+    ],
+    "context": "El Xerox Star (1981) y el Apple Macintosh (1984) llevaron la interfaz gráfica a un público amplio. A Bill Moggridge, que diseñó el portátil GRiD Compass en 1982, y a Bill Verplank se les atribuye comúnmente el término diseño de interacción, a mediados de los años ochenta. La obra de Don Norman, La psicología de los objetos cotidianos (1988), puso en el centro la forma en que las personas entienden los productos.",
+    "shift": "De diseñar la forma externa de una máquina a diseñar su comportamiento: lo que el usuario ve, hace y espera en cada paso se volvió objeto de diseño, y más tarde pasó a la web y al teléfono inteligente."
+   },
+   "refs": [],
+   "links": {
+    "institutions": [
+     "inst-ideo",
+     "inst-xerox-parc"
+    ]
+   }
+  },
+  {
+   "id": "critical-regionalism",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1981,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "PT",
+    "ES",
+    "CO"
+   ],
+   "name": "Critical regionalism",
+   "short": "Critical regionalism",
+   "key": "An approach that resists uniform international architecture by tying modern building to place, climate, materials and craft.",
+   "traits": [
+    "Modern form mediated by local conditions",
+    "Attention to site, climate and light",
+    "Local materials and building craft",
+    "Resistance to placeless, uniform architecture"
+   ],
+   "context": "The term was coined by Alexander Tzonis and Liane Lefaivre in 1981 and developed by Kenneth Frampton in the 1980s, as a response to the spread of a uniform international architecture. Frampton and others pointed to architects such as Álvaro Siza in Portugal as examples.",
+   "shift": "From the same building everywhere to a modern architecture that draws its form from the place. The idea reached beyond Europe: in Latin America, for example, the Colombian Rogelio Salmona built in brick in dialogue with local tradition, which fed back into debates in the West about modernity and place.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "alvaro-siza",
+     "rogelio-salmona"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Regionalismo crítico",
+    "short": "Regionalismo crítico",
+    "key": "Un enfoque que resiste la arquitectura internacional uniforme al atar la construcción moderna al lugar, el clima, los materiales y el oficio.",
+    "traits": [
+     "Forma moderna mediada por las condiciones locales",
+     "Atención al sitio, al clima y a la luz",
+     "Materiales locales y oficio constructivo",
+     "Resistencia a una arquitectura uniforme y sin lugar"
+    ],
+    "context": "El término lo acuñaron Alexander Tzonis y Liane Lefaivre en 1981 y lo desarrolló Kenneth Frampton en los años ochenta, como respuesta a la difusión de una arquitectura internacional uniforme. Frampton y otros señalaron como ejemplos a arquitectos como Álvaro Siza en Portugal.",
+    "shift": "De un mismo edificio en todas partes a una arquitectura moderna que saca su forma del lugar. La idea llegó más allá de Europa: en Latinoamérica, por ejemplo, el colombiano Rogelio Salmona construyó en ladrillo en diálogo con la tradición local, lo que alimentó en Occidente el debate sobre modernidad y lugar."
+   },
+   "refs": []
+  },
+  {
+   "id": "new-urbanism",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1981,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "New Urbanism",
+   "short": "New Urbanism",
+   "key": "A North American planning movement for compact, walkable, mixed neighbourhoods governed by urban codes, as an alternative to car-dependent suburbs.",
+   "traits": [
+    "Compact, walkable neighbourhoods",
+    "Mixed uses and housing types",
+    "Streets and squares as public space",
+    "Urban codes in place of zoning by single use",
+    "Traditional town forms as a model"
+   ],
+   "context": "Andrés Duany and Elizabeth Plater-Zyberk began the town of Seaside, Florida, in 1981, and it became the movement’s best-known early example. The Congress for the New Urbanism was founded in 1993 and adopted its Charter in 1996; Disney’s town of Celebration, Florida, from the 1990s, brought the model to a wide public.",
+   "shift": "From zoning that separates uses and designs for the car to a code that fixes the form of streets, blocks and buildings so that daily life can happen on foot. Critics have pointed to the nostalgic image of some of its towns and to the way a few became exclusive.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-cnu"
+    ],
+    "designers": [
+     "duany-plater-zyberk"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Nuevo urbanismo",
+    "short": "Nuevo urbanismo",
+    "key": "Un movimiento urbanístico norteamericano a favor de barrios compactos, caminables y mixtos regidos por códigos urbanos, como alternativa a los suburbios dependientes del auto.",
+    "traits": [
+     "Barrios compactos y caminables",
+     "Usos y tipos de vivienda mezclados",
+     "Calles y plazas como espacio público",
+     "Códigos urbanos en lugar de zonificación por uso único",
+     "Las formas tradicionales de pueblo como modelo"
+    ],
+    "context": "Andrés Duany y Elizabeth Plater-Zyberk iniciaron el pueblo de Seaside, en Florida, en 1981, y este se volvió el primer ejemplo conocido del movimiento. El Congreso para el Nuevo Urbanismo se fundó en 1993 y adoptó su Carta en 1996; el pueblo de Celebration, de Disney, en Florida, llevó desde los años noventa el modelo a un público amplio.",
+    "shift": "De una zonificación que separa los usos y proyecta para el auto a un código que fija la forma de calles, manzanas y edificios para que la vida diaria pueda hacerse a pie. La crítica ha señalado la imagen nostálgica de algunos de sus pueblos y que unos pocos se volvieron exclusivos."
+   },
+   "refs": []
+  },
+  {
+   "id": "architectural-minimalism",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1985,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP",
+    "CH",
+    "GB"
+   ],
+   "name": "Architectural minimalism",
+   "short": "Minimalism",
+   "key": "An austere architecture that reduces building to material, light, proportion and empty space, as a reply to postmodern ornament.",
+   "traits": [
+    "Bare surfaces and few materials",
+    "Light and shadow as the main means of design",
+    "Emptiness and silence as qualities",
+    "Precise proportion and detail",
+    "Ornament reduced to the limit"
+   ],
+   "context": "It is associated with architects such as Tadao Ando in Japan, Peter Zumthor in Switzerland, the Japanese firm SANAA and John Pawson in Britain, who worked from the 1980s and 1990s as a reply to the ornament and quotation of postmodernism. Many looked back to the ‘less is more’ of Mies van der Rohe.",
+   "shift": "From historical quotation and ornament to concrete, stone and wood, light and bare space. Ando’s work in Japan, which joins modern concrete with the Japanese tradition of space and light, gave Western architects another way of making simplicity.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "tadao-ando",
+     "mies-van-der-rohe"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Minimalismo arquitectónico",
+    "short": "Minimalismo",
+    "key": "Una arquitectura austera que reduce el edificio a materia, luz, proporción y vacío, como respuesta al ornamento posmoderno.",
+    "traits": [
+     "Superficies desnudas y pocos materiales",
+     "La luz y la sombra como medios principales del proyecto",
+     "El vacío y el silencio como cualidades",
+     "Proporción y detalle precisos",
+     "Ornamento reducido al límite"
+    ],
+    "context": "Se asocia con arquitectos como Tadao Ando en Japón, Peter Zumthor en Suiza, la oficina japonesa SANAA y John Pawson en Gran Bretaña, que trabajaron desde los años ochenta y noventa como respuesta al ornamento y la cita del posmodernismo. Muchos miraron al «menos es más» de Mies van der Rohe.",
+    "shift": "De la cita histórica y el ornamento al hormigón, la piedra y la madera, la luz y el espacio desnudo. La obra de Ando en Japón, que une el hormigón moderno con la tradición japonesa del espacio y la luz, dio a los arquitectos occidentales otra manera de hacer simplicidad."
+   },
+   "refs": []
+  },
+  {
+   "id": "green-architecture",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1990,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "europe",
+    "global"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "name": "Green and bioclimatic architecture",
+   "short": "Green architecture",
+   "key": "An architecture that makes climate, energy and materials a starting point of the design, from passive solar buildings to rating systems.",
+   "traits": [
+    "Design for local climate and sun",
+    "Energy efficiency and passive heating and cooling",
+    "Choice of low-impact materials",
+    "Rating systems for buildings",
+    "Renewable energy built into the project"
+   ],
+   "context": "Passive and solar building took shape in the 1970s after the oil crisis of 1973. The first British rating system for buildings, BREEAM, appeared in 1990, and in the United States LEED followed in 1998; with the climate crisis, sustainability moved from a specialist concern to a requirement of nearly every brief.",
+   "shift": "From a building designed as an object with mechanical systems added later to one whose orientation, envelope, materials and energy use are decided from the start, and measured. Bioclimatic design also drew on the vernacular building of hot and cold climates around the world.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Arquitectura verde y bioclimática",
+    "short": "Arquitectura verde",
+    "key": "Una arquitectura que toma el clima, la energía y los materiales como punto de partida del proyecto, desde los edificios solares pasivos hasta los sistemas de certificación.",
+    "traits": [
+     "Diseño para el clima y el sol locales",
+     "Eficiencia energética y climatización pasiva",
+     "Elección de materiales de bajo impacto",
+     "Sistemas de certificación de edificios",
+     "Energía renovable integrada al proyecto"
+    ],
+    "context": "La edificación pasiva y solar tomó forma en los años setenta tras la crisis del petróleo de 1973. El primer sistema británico de certificación de edificios, BREEAM, apareció en 1990 y en Estados Unidos lo siguió LEED en 1998; con la crisis climática, la sostenibilidad pasó de ser una preocupación de especialistas a una exigencia de casi todo encargo.",
+    "shift": "De un edificio pensado como objeto al que se agregan sistemas mecánicos a uno cuya orientación, envolvente, materiales y uso de energía se deciden desde el inicio, y se miden. El diseño bioclimático se nutrió también de la construcción vernácula de climas cálidos y fríos del mundo."
+   },
+   "refs": []
+  },
+  {
+   "id": "participatory-social-architecture",
+   "level": "essential",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1990,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "CL",
+    "BF",
+    "JP"
+   ],
+   "name": "Participatory and socially engaged architecture",
+   "short": "Social architecture",
+   "key": "An architecture in which the architect works with the community and on tight budgets to answer housing and public needs.",
+   "traits": [
+    "Design with the future users",
+    "Tight budgets and local materials",
+    "Incremental, expandable housing",
+    "Emergency and community buildings",
+    "The architect as mediator"
+   ],
+   "context": "Examples include the Rural Studio, founded in 1993 at Auburn University in Alabama, the Chilean office Elemental led by Alejandro Aravena, the school in Gando by Francis Kéré in Burkina Faso, and Shigeru Ban’s emergency shelters of paper tubes.",
+   "shift": "From the architect as author of an object to the architect as mediator who works with residents, with minimal means. Elemental’s housing at Quinta Monroy in Iquique, which gives families a half-built house to complete themselves, and Kéré’s work with local labour and materials in Africa have been cited by architects in Europe and North America as models.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "alejandro-aravena"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Arquitectura participativa y social",
+    "short": "Arquitectura social",
+    "key": "Una arquitectura en que el arquitecto trabaja con la comunidad y con presupuestos ajustados para responder a necesidades de vivienda y de uso público.",
+    "traits": [
+     "Proyectar con los futuros usuarios",
+     "Presupuestos ajustados y materiales locales",
+     "Vivienda incremental y ampliable",
+     "Edificios de emergencia y comunitarios",
+     "El arquitecto como mediador"
+    ],
+    "context": "Entre los ejemplos están el Rural Studio, fundado en 1993 en la Universidad de Auburn, en Alabama; la oficina chilena Elemental, dirigida por Alejandro Aravena; la escuela de Gando de Francis Kéré en Burkina Faso; y los refugios de emergencia de tubos de cartón de Shigeru Ban.",
+    "shift": "Del arquitecto autor de un objeto al arquitecto mediador que trabaja con los habitantes, con medios mínimos. La vivienda de Elemental en Quinta Monroy, en Iquique, que entrega a las familias media casa para que la completen, y el trabajo de Kéré con mano de obra y materiales locales en África han sido citados como modelos por arquitectos de Europa y Norteamérica."
+   },
+   "refs": []
+  },
+  {
+   "id": "digital-architecture",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1993,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE"
+   ],
+   "name": "Digital architecture and blobitecture",
+   "short": "Digital architecture",
+   "key": "Architecture whose form is generated and built with computer-aided design and manufacture, giving curving, blob-like buildings.",
+   "traits": [
+    "Complex curved surfaces",
+    "Software as a tool of form, not only of drawing",
+    "Digital fabrication of unique parts",
+    "Continuous, flowing volumes"
+   ],
+   "context": "From the 1990s architects such as Frank Gehry used software to describe and build free curves. Gehry’s office adapted CATIA, a program from the aerospace industry, for the Guggenheim Museum Bilbao; the American theorist Greg Lynn argued for ‘blob’ forms made with animation software.",
+   "shift": "From forms that had to be reduced to what drawings and standard parts could build to complex curves that could be modelled, measured and fabricated. This line of work later led to parametric design and to the claims of parametricism.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "frank-gehry"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Arquitectura digital y blob",
+    "short": "Arquitectura digital",
+    "key": "Arquitectura cuya forma se genera y se construye con diseño y fabricación asistidos por computador, que dio edificios curvos y blandos como una gota.",
+    "traits": [
+     "Superficies curvas complejas",
+     "El software como herramienta de forma, no solo de dibujo",
+     "Fabricación digital de piezas únicas",
+     "Volúmenes continuos y fluidos"
+    ],
+    "context": "Desde los años noventa arquitectos como Frank Gehry usaron programas para describir y construir curvas libres. La oficina de Gehry adaptó CATIA, un programa de la industria aeroespacial, para el Museo Guggenheim de Bilbao; el teórico estadounidense Greg Lynn defendió las formas «blob» hechas con programas de animación.",
+    "shift": "De formas que había que reducir a lo que los planos y las piezas estándar podían construir a curvas complejas que se podían modelar, medir y fabricar. Esta línea de trabajo llevó más tarde al diseño paramétrico y a las tesis del parametricismo."
+   },
+   "refs": []
+  },
+  {
+   "id": "landscape-urbanism",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 1982,
+   "end": null,
+   "fadeIn": 1,
+   "fadeOut": 0,
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "FR"
+   ],
+   "name": "Landscape urbanism",
+   "short": "Landscape urbanism",
+   "key": "A current of urban design that holds that landscape, rather than the building, should organize the city, especially on post-industrial land.",
+   "traits": [
+    "Landscape as the basis of urban order",
+    "Sites understood as processes that change over time",
+    "Post-industrial land reclaimed as landscape",
+    "Infrastructure, ecology and public space designed together"
+   ],
+   "context": "Its starting point is the international competition for the Parc de la Villette in Paris, launched in 1982 and won by Bernard Tschumi in 1983, often cited as an early built example. The name itself took hold in the late 1990s around Charles Waldheim, who organized a conference on it in Chicago in 1997.",
+   "shift": "From the empty plot to be filled with buildings to land seen as a living system of water, soil and use, which designers shape over time. It gave designers a method for the large areas left empty by industry.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [
+     "bernard-tschumi"
+    ],
+    "works": []
+   },
+   "es": {
+    "name": "Urbanismo paisajístico",
+    "short": "Urbanismo paisajístico",
+    "key": "Una corriente del diseño urbano que sostiene que el paisaje, y no el edificio, debe ordenar la ciudad, sobre todo en terrenos postindustriales.",
+    "traits": [
+     "El paisaje como base del orden urbano",
+     "Sitios entendidos como procesos que cambian en el tiempo",
+     "Terrenos postindustriales recuperados como paisaje",
+     "Infraestructura, ecología y espacio público proyectados juntos"
+    ],
+    "context": "Su punto de partida es el concurso internacional para el Parc de la Villette en París, convocado en 1982 y ganado por Bernard Tschumi en 1983, que se cita a menudo como un ejemplo construido temprano. El nombre mismo se afianzó a fines de los años noventa en torno a Charles Waldheim, que organizó un congreso sobre el tema en Chicago en 1997.",
+    "shift": "Del solar vacío que se llena de edificios a un terreno visto como un sistema vivo de agua, suelo y uso, que los proyectistas moldean en el tiempo. Dio a los proyectistas un método para las grandes áreas que dejó vacías la industria."
+   },
+   "refs": []
+  },
+  {
+   "id": "parametricism",
+   "level": "normal",
+   "disciplines": [
+    "architecture"
+   ],
+   "start": 2008,
+   "end": null,
+   "fadeIn": 1,
+   "regions": [
+    "europe",
+    "global"
+   ],
+   "name": "Parametricism",
+   "short": "Parametricism",
+   "key": "A style declared by Patrik Schumacher in 2008 that designs buildings as continuous, differentiated systems generated with algorithms, best known through Zaha Hadid Architects.",
+   "traits": [
+    "Smooth, flowing and continuously varying forms",
+    "Design driven by algorithms and parameters",
+    "Components that differ from one another within one system",
+    "Digital fabrication as the means of building",
+    "Declared as a successor to modernism, and widely debated"
+   ],
+   "context": "Schumacher, a partner at Zaha Hadid Architects, declared parametricism a style at the Venice Architecture Biennale in 2008. It grew out of the use of scripting and parametric software in architecture schools and offices from the 1990s. Critics have questioned its claims, its formal sameness and its social value.",
+   "shift": "From the composition of separate parts to fields of related elements whose form is generated by rules. Zaha Hadid’s buildings are its main reference, and through her firm’s international commissions the approach reached Asia, the Middle East and Europe.",
+   "links": {
+    "designers": [
+     "zaha-hadid"
+    ]
+   },
+   "es": {
+    "name": "Parametricismo",
+    "short": "Parametricismo",
+    "key": "Un estilo que Patrik Schumacher declaró en 2008 y que proyecta los edificios como sistemas continuos y diferenciados generados con algoritmos, conocido sobre todo por Zaha Hadid Architects.",
+    "traits": [
+     "Formas suaves, fluidas y de variación continua",
+     "Diseño guiado por algoritmos y parámetros",
+     "Componentes distintos entre sí dentro de un mismo sistema",
+     "La fabricación digital como medio de construcción",
+     "Declarado sucesor del modernismo y muy discutido"
+    ],
+    "context": "Schumacher, socio de Zaha Hadid Architects, declaró el parametricismo como estilo en la Bienal de Arquitectura de Venecia de 2008. Surgió del uso de scripts y software paramétrico en escuelas y oficinas de arquitectura desde los años noventa. Sus críticos han cuestionado sus pretensiones, su uniformidad formal y su valor social.",
+    "shift": "De la composición de partes separadas a campos de elementos relacionados cuya forma la generan reglas. Los edificios de Zaha Hadid son su principal referencia y, a través de los encargos internacionales de su oficina, el enfoque llegó a Asia, Medio Oriente y Europa."
+   },
+   "refs": []
+  },
+  {
+   "id": "punk-fashion",
+   "level": "normal",
+   "disciplines": [
+    "fashion",
+    "graphic"
+   ],
+   "start": 1976,
+   "end": 1980,
+   "fadeIn": 1,
+   "regions": [
+    "europe"
+   ],
+   "name": "Punk",
+   "short": "Punk",
+   "key": "British clothing and graphics of the late 1970s: torn garments, safety pins and slogans, with cut-and-paste posters, fanzines and photocopies, made by hand or bought from Westwood and McLaren’s shop.",
+   "traits": [
+    "Ripped and deliberately damaged clothes",
+    "Safety pins, chains and straps",
+    "Slogan and provocative images on T-shirts",
+    "Do-it-yourself assembly",
+    "Clothing as protest",
+    "Cut-and-paste collage and ransom-note lettering, as in Jamie Reid’s work for the Sex Pistols",
+    "Fanzines and posters made with scissors, glue and the photocopier"
+   ],
+   "context": "Punk grew in London and New York in the mid-1970s. Malcolm McLaren and Vivienne Westwood ran a shop on the King’s Road in London, known as SEX from 1974, that sold and showed the clothes later associated with the Sex Pistols.",
+   "shift": "From fashion as polish and status to clothing as open provocation, in which damage and improvisation were the style. The look was quickly absorbed by high fashion, and Westwood kept using its elements in her own collections.",
+   "links": {
+    "designers": [
+     "vivienne-westwood"
+    ]
+   },
+   "es": {
+    "name": "Punk",
+    "short": "Punk",
+    "key": "Ropa y gráfica británicas de fines de los setenta: prendas rasgadas, alfileres y consignas, con afiches de collage, fanzines y fotocopias, hechos a mano o comprados en la tienda de Westwood y McLaren.",
+    "traits": [
+     "Ropa rasgada y dañada a propósito",
+     "Alfileres de gancho, cadenas y correas",
+     "Consignas e imágenes provocadoras en las poleras",
+     "Armado hecho por uno mismo",
+     "La ropa como protesta",
+     "Collage de recortes y letras tipo carta anónima, como en la obra de Jamie Reid para los Sex Pistols",
+     "Fanzines y afiches hechos con tijeras, pegamento y fotocopiadora"
+    ],
+    "context": "El punk creció en Londres y Nueva York a mediados de los años setenta. Malcolm McLaren y Vivienne Westwood tenían una tienda en King’s Road, en Londres, conocida como SEX desde 1974, que vendía y mostraba la ropa asociada después con los Sex Pistols.",
+    "shift": "De la moda como pulcritud y estatus a la ropa como provocación abierta, donde el daño y la improvisación eran el estilo. La alta moda absorbió pronto el look, y Westwood siguió usando sus elementos en sus propias colecciones."
+   },
+   "refs": []
+  },
+  {
+   "id": "streetwear",
+   "level": "normal",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1980,
+   "end": null,
+   "fadeIn": 1,
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "name": "Streetwear",
+   "short": "Streetwear",
+   "key": "Casual clothing drawn from skate, surf and hip hop culture, sold through small labels and limited releases and later adopted by luxury brands worldwide.",
+   "traits": [
+    "Sneakers, hoodies, T-shirts and caps as the core",
+    "Logos and graphics as identity",
+    "Limited releases and scarcity",
+    "Roots in skate, surf and hip hop"
+   ],
+   "context": "From the 1980s, young people in American cities and coastal California, in skate, surf and hip hop scenes, made casual clothing their badge of identity. Run-DMC’s 1986 song ‘My Adidas’ and their later deal with Adidas showed how a music group could tie a brand to a street style.",
+   "shift": "From clothing set by designers and seasons to clothing set by subcultures and small labels, which brands then followed. The style spread worldwide through music, magazines and later the internet, and today shapes much of mainstream and luxury fashion.",
+   "links": {
+    "works": [
+     "run-dmc-adidas-1986"
+    ]
+   },
+   "es": {
+    "name": "Streetwear",
+    "short": "Streetwear",
+    "key": "Ropa informal que nace de la cultura del skate, el surf y el hip hop, vendida por marcas pequeñas y en ediciones limitadas, y adoptada después por las marcas de lujo de todo el mundo.",
+    "traits": [
+     "Zapatillas, polerones, poleras y gorros como base",
+     "Logos y gráficos como identidad",
+     "Ediciones limitadas y escasez",
+     "Raíces en el skate, el surf y el hip hop"
+    ],
+    "context": "Desde los años ochenta, jóvenes de ciudades estadounidenses y de la costa de California, en las escenas del skate, el surf y el hip hop, hicieron de la ropa informal su insignia de identidad. La canción «My Adidas» de Run-DMC, de 1986, y su acuerdo posterior con Adidas mostraron cómo un grupo musical podía vincular una marca a un estilo callejero.",
+    "shift": "De la ropa fijada por diseñadores y temporadas a la ropa fijada por subculturas y marcas pequeñas, que las grandes marcas luego siguieron. El estilo se difundió por el mundo a través de la música, las revistas y después internet, y hoy marca buena parte de la moda masiva y de lujo."
+   },
+   "refs": []
+  },
+  {
+   "id": "japanese-avant-garde-fashion",
+   "level": "normal",
+   "disciplines": [
+    "fashion"
+   ],
+   "start": 1981,
+   "end": null,
+   "fadeIn": 1,
+   "regions": [
+    "global"
+   ],
+   "name": "Japanese avant-garde fashion",
+   "short": "Japanese avant-garde",
+   "key": "Fashion from Japanese designers, led by Rei Kawakubo and Yohji Yamamoto, who showed in Paris from 1981 with loose, black, asymmetric and deliberately unfinished clothes.",
+   "traits": [
+    "Black and dark tones",
+    "Loose, oversized and asymmetric cuts",
+    "Holes, raw edges and unfinished seams",
+    "Clothes that do not follow the body’s outline",
+    "Anti-fashion stance"
+   ],
+   "context": "Rei Kawakubo of Comme des Garçons and Yohji Yamamoto presented their collections in Paris in 1981, when Japan’s growing consumer economy gave Japanese labels the means to export. Their clothes surprised the Paris press, which was used to fitted and colourful dress.",
+   "shift": "From clothing that shapes the body to clothing as a space around it, and from perfect finish to visible construction. This changed what Western designers and critics took fashion to be, and left a mark on deconstruction in fashion in the following decades.",
+   "links": {
+    "designers": [
+     "rei-kawakubo",
+     "yohji-yamamoto"
+    ]
+   },
+   "es": {
+    "name": "Moda de vanguardia japonesa",
+    "short": "Vanguardia japonesa",
+    "key": "Moda de diseñadores japoneses, encabezados por Rei Kawakubo y Yohji Yamamoto, que desde 1981 mostraron en París ropa holgada, negra, asimétrica y deliberadamente inacabada.",
+    "traits": [
+     "Negro y tonos oscuros",
+     "Cortes holgados, de gran tamaño y asimétricos",
+     "Agujeros, bordes sin terminar y costuras a la vista",
+     "Ropa que no sigue el contorno del cuerpo",
+     "Postura de antimoda"
+    ],
+    "context": "Rei Kawakubo, de Comme des Garçons, y Yohji Yamamoto presentaron sus colecciones en París en 1981, cuando la economía de consumo en crecimiento de Japón dio a las marcas japonesas los medios para exportar. Su ropa sorprendió a la prensa parisina, acostumbrada a una moda ajustada y colorida.",
+    "shift": "De la ropa que da forma al cuerpo a la ropa como espacio a su alrededor, y del acabado perfecto a la construcción visible. Esto cambió lo que diseñadores y críticos occidentales entendían por moda, y dejó huella en la deconstrucción en la moda de las décadas siguientes."
+   },
+   "refs": []
+  },
+  {
+   "id": "universal-design",
+   "level": "normal",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "start": 1985,
+   "end": null,
+   "fadeIn": 1,
+   "regions": [
+    "north-america",
+    "global"
+   ],
+   "name": "Universal design",
+   "short": "Universal design",
+   "key": "The idea that products and environments should be usable by everyone, to the greatest extent possible, without special adaptation; the term was coined by architect Ronald Mace.",
+   "traits": [
+    "Usable by people of different abilities and ages",
+    "Flexible in use",
+    "Simple and intuitive",
+    "Designed from the start, not adapted afterwards",
+    "Equal access as a design aim"
+   ],
+   "context": "The ageing of populations and the disability rights movement led, in the United States, to accessibility laws such as the Americans with Disabilities Act of 1990. Ronald Mace, an architect who used a wheelchair, promoted the term at North Carolina State University, where the Center for Universal Design formed in 1989 and set out seven principles in 1997.",
+   "shift": "From designing for an average user and adding special solutions for exceptions to designing from the start for the widest range of people. The idea reached design in many countries and complements usability, which looks at ease of use for general users.",
+   "links": {},
+   "es": {
+    "name": "Diseño universal",
+    "short": "Diseño universal",
+    "key": "La idea de que productos y entornos deben poder ser usados por todas las personas, en la mayor medida posible y sin adaptaciones especiales; el término lo acuñó el arquitecto Ronald Mace.",
+    "traits": [
+     "Utilizable por personas de distintas capacidades y edades",
+     "Flexible en el uso",
+     "Simple e intuitivo",
+     "Pensado desde el inicio, no adaptado después",
+     "El acceso equitativo como objetivo de diseño"
+    ],
+    "context": "El envejecimiento de la población y el movimiento por los derechos de las personas con discapacidad llevaron, en Estados Unidos, a leyes de accesibilidad como la Ley de Estadounidenses con Discapacidades de 1990. Ronald Mace, arquitecto que usaba silla de ruedas, impulsó el término en la Universidad Estatal de Carolina del Norte, donde en 1989 se formó el Center for Universal Design, que fijó siete principios en 1997.",
+    "shift": "De diseñar para un usuario promedio y añadir soluciones especiales para las excepciones a diseñar desde el inicio para la gama más amplia de personas. La idea llegó al diseño de muchos países y complementa la usabilidad, que atiende a la facilidad de uso para el público general."
+   },
+   "refs": []
+  },
+  {
+   "id": "minimalism-fashion-product",
+   "level": "normal",
+   "disciplines": [
+    "fashion",
+    "product"
+   ],
+   "start": 1988,
+   "end": 2008,
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "DE",
+    "AT",
+    "US",
+    "GB",
+    "JP"
+   ],
+   "name": "Minimalism in fashion and product design",
+   "short": "Minimalism",
+   "key": "A reduced, quiet style of the 1990s in clothes and objects, from Jil Sander and Helmut Lang to Muji, Jasper Morrison and Naoto Fukasawa.",
+   "traits": [
+    "Plain, reduced forms with little or no ornament",
+    "Muted colours and careful attention to materials and cut",
+    "Discreet or absent logos",
+    "Everyday objects designed to be unobtrusive",
+    "Fashion and product design sharing one restrained look"
+   ],
+   "context": "It followed the 1980s, a decade of postmodern quotation, ornament and conspicuous logos. In fashion, designers such as Jil Sander, Helmut Lang and Calvin Klein made clean, spare clothes; in product design, Muji sold plain household goods under no brand name, and Morrison and Fukasawa designed objects that seek to go unnoticed. Japan’s designers, Fukasawa and Muji among them, were central to the product side.",
+   "shift": "From the citation, ornament and showy label of the 1980s to reduced form, material and function. Morrison and Fukasawa gave the idea a name in 2006 with their ‘Super Normal’ exhibition in Tokyo, which celebrated ordinary, well-made objects.",
+   "links": {
+    "movements": [],
+    "institutions": [
+     "inst-muji"
+    ],
+    "designers": [],
+    "works": []
+   },
+   "es": {
+    "name": "Minimalismo en moda y producto",
+    "short": "Minimalismo",
+    "key": "Un estilo reducido y silencioso de los años noventa en ropa y objetos, de Jil Sander y Helmut Lang a Muji, Jasper Morrison y Naoto Fukasawa.",
+    "traits": [
+     "Formas simples y reducidas, con poco o ningún ornamento",
+     "Colores apagados y atención cuidadosa a los materiales y al corte",
+     "Logos discretos o ausentes",
+     "Objetos cotidianos diseñados para pasar inadvertidos",
+     "Moda y diseño de producto con una misma apariencia sobria"
+    ],
+    "context": "Siguió a los años ochenta, una década de cita posmoderna, ornamento y logos ostentosos. En la moda, diseñadores como Jil Sander, Helmut Lang y Calvin Klein hicieron ropa limpia y escueta; en el diseño de producto, Muji vendía artículos domésticos simples sin marca, y Morrison y Fukasawa diseñaban objetos que buscan pasar inadvertidos. Los diseñadores japoneses, entre ellos Fukasawa y Muji, fueron centrales en el lado del producto.",
+    "shift": "De la cita, el ornamento y la etiqueta vistosa de los ochenta a la forma, el material y la función reducidos. Morrison y Fukasawa le dieron nombre a la idea en 2006 con su exposición «Super Normal» en Tokio, que celebró los objetos ordinarios y bien hechos."
+   },
+   "refs": []
+  }
+ ]
+}

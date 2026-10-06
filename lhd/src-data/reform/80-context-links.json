@@ -1,0 +1,1813 @@
+{
+ "links": [
+  {
+   "ctx": "ctx-great-exhibition",
+   "item": "crystal-palace",
+   "note": "The 1851 exhibition needed a huge hall, quick to raise and to take down; Paxton answered with prefabricated iron and glass parts made in factories and assembled on site.",
+   "es": {
+    "note": "La Exposición de 1851 exigía un recinto enorme, rápido de montar y desmontable; Paxton respondió con piezas prefabricadas de hierro y vidrio, hechas en fábrica y ensambladas en el sitio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways-steamships",
+   "item": "crystal-palace",
+   "note": "Railways could carry excursion crowds to London in 1851, so a hall built to hold the exhibition's mass of visitors and goods was a workable proposition.",
+   "es": {
+    "note": "El ferrocarril podía llevar multitudes de excursionistas a Londres en 1851, de modo que un recinto pensado para la masa de visitantes y mercaderías de la muestra era viable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-gothic-revival",
+   "item": "red-house",
+   "note": "Medievalism had become a moral argument about honest making, so Webb and Morris built a plain red-brick house from medieval and vernacular sources, not period-style fashion.",
+   "es": {
+    "note": "El medievalismo se había vuelto un argumento moral sobre el hacer honesto, así que Webb y Morris levantaron una casa de ladrillo a la vista con fuentes medievales y vernáculas, sin estilo de época."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "red-house",
+   "note": "With the home seen as a place of comfort and morality, Morris and his circle designed and furnished the house as a whole; fitting it out led to Morris, Marshall, Faulkner & Co. in 1861.",
+   "es": {
+    "note": "Con el hogar visto como lugar de comodidad y moral, Morris y su círculo diseñaron y amoblaron la casa como un todo; equiparla llevó a fundar Morris, Marshall, Faulkner & Co. en 1861."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-forms-science",
+   "item": "hotel-tassel",
+   "note": "Natural history had given designers a vocabulary of plants, so Horta let the iron of columns and railings curl into tendril-like curves that run through the whole house.",
+   "es": {
+    "note": "La historia natural había dado a los diseñadores un vocabulario de plantas, y Horta dejó que el hierro de columnas y barandas se curvara como zarcillos que recorren toda la casa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "hotel-tassel",
+   "note": "Industrial iron was now a common building material, so Horta left slender iron columns visible, and metal normally hidden became the decoration of a bourgeois home.",
+   "es": {
+    "note": "El hierro industrial ya era material común de construcción, así que Horta dejó a la vista delgadas columnas de hierro, y el metal que solía ocultarse pasó a decorar una casa burguesa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-paris-1900",
+   "item": "paris-metro-entrances",
+   "note": "The Métro opened in July 1900, the year of the Paris fair, and Guimard's cast-iron entrances carried Art Nouveau out of the exhibition and into the street.",
+   "es": {
+    "note": "El metro se inauguró en julio de 1900, año de la Exposición de París, y los accesos de hierro fundido de Guimard sacaron el art nouveau de la feria y lo llevaron a la calle."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "paris-metro-entrances",
+   "note": "Electric traction made an underground railway workable, and Guimard's entrances added lamps held on stem-like arms, so the new power became part of the design.",
+   "es": {
+    "note": "La tracción eléctrica hizo posible un ferrocarril subterráneo, y Guimard sumó a los accesos lámparas sostenidas por brazos como tallos, de modo que la nueva energía entró en el diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-catalan-renaixenca",
+   "item": "casa-batllo",
+   "note": "The Catalan revival gave architects a national cause, and Barcelona's wealthy bourgeoisie commissioned buildings like Gaudí's Casa Batlló to show a Catalan identity.",
+   "es": {
+    "note": "La Renaixença dio a los arquitectos una causa nacional, y la burguesía adinerada de Barcelona encargó edificios como la Casa Batlló de Gaudí para afirmar una identidad catalana."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-forms-science",
+   "item": "casa-batllo",
+   "note": "Gaudí drew on natural structures, not historical styles, so the façade, columns and roof of Casa Batlló echo bones, scales and stems.",
+   "es": {
+    "note": "Gaudí se basó en estructuras naturales y no en estilos históricos, así que la fachada, las columnas y el techo de la Casa Batlló evocan huesos, escamas y tallos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "aeg-turbine-hall",
+   "note": "Large electrical corporations like AEG wanted to appear modern and serious, so Behrens gave their turbine hall the monumental treatment of architecture.",
+   "es": {
+    "note": "Grandes empresas eléctricas como AEG querían verse modernas y serias, y Behrens dio a su sala de turbinas el tratamiento monumental de una obra de arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "aeg-turbine-hall",
+   "note": "AEG made electrical equipment, so a hall for building turbines became its public face; Behrens, its artistic adviser, made a steel-and-glass factory into architecture.",
+   "es": {
+    "note": "AEG fabricaba equipos eléctricos, así que una nave para construir turbinas pasó a ser su rostro público; Behrens, su asesor artístico, convirtió una fábrica de acero y vidrio en arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "robie-house",
+   "note": "Wright had seen Japanese architecture and prints in Chicago, and the long eaves and open plan of his Prairie houses, Robie House among them, are often linked to them.",
+   "es": {
+    "note": "Wright había visto arquitectura y grabados japoneses en Chicago, y los aleros largos y la planta abierta de sus casas de la pradera, entre ellas la Robie, suelen vincularse con ellos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "robie-house",
+   "note": "With electric light available in homes, Wright designed built-in lights and art-glass windows together with the building rather than adding fixtures later.",
+   "es": {
+    "note": "Con la luz eléctrica ya disponible en los hogares, Wright diseñó luminarias integradas y vitrales junto con el edificio, en vez de añadir artefactos después."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "palais-stoclet",
+   "note": "Vienna's debate on ornament and the modern home led Hoffmann and the Wiener Werkstätte to design the Stoclet mansion's building, furniture and fittings as one work.",
+   "es": {
+    "note": "El debate vienés sobre el ornamento y el hogar moderno llevó a Hoffmann y la Wiener Werkstätte a diseñar el palacio Stoclet, con sus muebles y accesorios, como una sola obra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "palais-stoclet",
+   "note": "A wealthy upper-bourgeois patron could fund the home as a complete work, so Hoffmann designed the house together with the furniture, textiles and tableware of the Wiener Werkstätte.",
+   "es": {
+    "note": "Un mecenas de la alta burguesía pudo financiar el hogar como obra total, así que Hoffmann diseñó la casa junto con los muebles, textiles y vajilla de los Wiener Werkstätte."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "secession-building",
+   "note": "Artists who broke with the academy needed their own exhibition hall, so Olbrich built one for them, and its dome of gilded laurel became the Secession’s emblem.",
+   "es": {
+    "note": "Los artistas que rompieron con la academia necesitaban su propia sala de exposiciones, así que Olbrich les construyó una, y su cúpula de laurel dorado se volvió el emblema de la Secesión."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "purkersdorf-sanatorium",
+   "note": "Rest cures and hygiene called for white, smooth, washable surfaces, which Hoffmann turned into a geometric language.",
+   "es": {
+    "note": "La cura de reposo y la higiene pedían superficies blancas, lisas y lavables, que Hoffmann convirtió en un lenguaje geométrico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "fagus-factory",
+   "note": "A shoe-last firm wanted a rational, bright image for its works, so Gropius gave the main block glass walls that reveal its structure.",
+   "es": {
+    "note": "Una fábrica de hormas de calzado quiso una imagen racional y luminosa, así que Gropius dio al bloque principal muros de vidrio que dejan ver la estructura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-women-office-work",
+   "item": "larkin-building",
+   "note": "The mail-order firm employed hundreds of clerks, many of them women, and Wright organised their work around one large central court.",
+   "es": {
+    "note": "La empresa de venta por correo empleaba a cientos de oficinistas, muchas de ellas mujeres, y Wright organizó su trabajo en torno a un gran patio central."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "carson-pirie-scott",
+   "note": "A department store needed open sales floors and plenty of light, which Sullivan solved with a steel frame and wide Chicago windows.",
+   "es": {
+    "note": "El gran almacén necesitaba pisos de venta abiertos y mucha luz, y Sullivan lo resolvió con una estructura de acero y anchas ventanas de Chicago."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "glasgow-school-of-art",
+   "note": "Japanese-inspired lattices and grids gave Mackintosh a geometry that he combined with Scottish tradition in the school.",
+   "es": {
+    "note": "Los entramados y celosías de inspiración japonesa le dieron a Mackintosh una geometría que combinó con la tradición escocesa en la escuela."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "willow-tea-rooms",
+   "note": "Tea rooms were public places where women could meet, so Cranston had Mackintosh and Macdonald design each one as a complete interior.",
+   "es": {
+    "note": "Los salones de té eran lugares públicos donde las mujeres podían reunirse, así que Cranston encargó a Mackintosh y Macdonald diseñar cada uno como un interior completo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation",
+   "item": "ascensor-concepcion",
+   "note": "Valparaíso grew with immigration and trade up its steep hills, and funicular lifts solved the access to them.",
+   "es": {
+    "note": "Valparaíso crecía con la inmigración y el comercio por sus cerros empinados, y los ascensores resolvieron el acceso a ellos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-national-unifications",
+   "item": "werkbund-cologne-1914",
+   "note": "In the unified German Empire the Werkbund wanted to show a united, competitive German industrial design against Britain and France.",
+   "es": {
+    "note": "En el Imperio alemán unificado, el Werkbund quiso mostrar un diseño industrial alemán unido y competitivo frente a Gran Bretaña y Francia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "bloemenwerf",
+   "note": "Van de Velde designed the house, its furniture and even his wife’s reformed dress as one home free of the corset and of historicism.",
+   "es": {
+    "note": "Van de Velde diseñó la casa, el mobiliario y hasta el vestido reformado de su esposa como un hogar total libre del corsé y del historicismo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-forms-science",
+   "item": "castel-beranger",
+   "note": "Plant-like, asymmetric motifs from natural forms were applied by Guimard to the facade and railings of an apartment block.",
+   "es": {
+    "note": "Los motivos vegetales y asimétricos de las formas naturales fueron aplicados por Guimard en la fachada y las rejas de un edificio de renta."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "looshaus",
+   "note": "In a Vienna arguing over ornament, a smooth facade on a marble base facing the Hofburg caused a scandal.",
+   "es": {
+    "note": "En una Viena que discutía sobre el ornamento, una fachada lisa sobre un zócalo de mármol frente a la Hofburg causó un escándalo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-taylorism",
+   "item": "highland-park-plant",
+   "note": "Ford organised the plant around studied work flows, and in 1913 introduced the moving assembly line for the Model T.",
+   "es": {
+    "note": "Ford organizó la planta en torno a flujos de trabajo estudiados y en 1913 introdujo la cadena de montaje móvil para el Modelo T."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "highland-park-plant",
+   "note": "Making a cheap car in volume could not be done in a workshop, so Ford had a factory built for that one purpose: Kahn’s open concrete blocks at Highland Park.",
+   "es": {
+    "note": "Fabricar un auto económico en volumen no se podía hacer en un taller, así que Ford mandó construir una fábrica para ese solo fin: los bloques abiertos de hormigón de Kahn en Highland Park."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-great-exhibition",
+   "item": "thonet-chair-14",
+   "note": "Thonet showed bentwood furniture at London in 1851 and won a medal; that recognition helped open the markets his light, cheap chairs, like the no. 14, later filled.",
+   "es": {
+    "note": "Thonet mostró muebles de madera curvada en Londres en 1851 y ganó una medalla; ese reconocimiento ayudó a abrir los mercados que luego llenaron sus sillas livianas y baratas, como la n.º 14."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "thonet-chair-14",
+   "note": "Cafés and halls of the urban middle class needed many light, stackable, easily replaced seats; the no. 14, shipped in parts, was bought by the million.",
+   "es": {
+    "note": "Los cafés y salones de la burguesía urbana necesitaban muchos asientos livianos, apilables y fáciles de reponer; la n.º 14, despachada en piezas, se vendió por millones."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "singer-sewing-machine",
+   "note": "Machine-made production, a network of agents and instalment payments carried the Singer machine to households and workshops around the world.",
+   "es": {
+    "note": "La fabricación mecanizada, una red de agentes y la venta a plazos llevaron la máquina Singer a hogares y talleres de todo el mundo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "singer-sewing-machine",
+   "note": "Sewing moved from the workshop into the home: the machine became a household appliance, sold to the family as part of the well-run domestic interior.",
+   "es": {
+    "note": "La costura salió del taller y entró al hogar: la máquina se volvió un aparato doméstico, ofrecido a la familia como parte del interior bien administrado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "hill-house-chair",
+   "note": "Japanese taste in composition led Mackintosh to a very high, straight-lined back, treated less as a seat than as a sculptural form.",
+   "es": {
+    "note": "El gusto japonés por la composición llevó a Mackintosh a un respaldo muy alto y rectilíneo, tratado menos como asiento que como forma escultórica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "hill-house-chair",
+   "note": "The home as an expression of its owner: the publisher Blackie commissioned a whole house, so Mackintosh designed the chair as part of a total interior.",
+   "es": {
+    "note": "El hogar como expresión de su dueño: el editor Blackie encargó una casa entera, así que Mackintosh diseñó la silla como parte de un interior total."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "sitzmaschine",
+   "note": "Viennese debate over ornament and the modern home led Hoffmann to a geometric reclining armchair for a sanatorium, a rationalist emblem of the Wiener Werkstätte.",
+   "es": {
+    "note": "El debate vienés sobre el ornamento y el hogar moderno llevó a Hoffmann a un sillón reclinable geométrico para un sanatorio, emblema racionalista de los Wiener Werkstätte."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "aeg-kettle",
+   "note": "Electrified homes opened a market for household appliances, and AEG gave them forms of their own, built from standard parts, instead of inherited ornament.",
+   "es": {
+    "note": "La electrificación de las casas abrió un mercado de aparatos domésticos, y AEG les dio formas propias, hechas de piezas estándar, en vez de ornamentos heredados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "aeg-arc-lamp",
+   "note": "Public electric light had no tradition of form, so Behrens treated the arc lamp as an industrial object with a coherent, simple geometry.",
+   "es": {
+    "note": "La luz eléctrica pública no tenía una tradición de forma, así que Behrens trató la lámpara de arco como un objeto industrial de geometría simple y coherente."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "ford-model-t",
+   "note": "A simple, sturdy and cheap car turned the invention into a product for the masses.",
+   "es": {
+    "note": "Un automóvil simple, robusto y barato convirtió el invento en un producto de masas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-safety-bicycle",
+   "item": "safety-bicycle",
+   "note": "The chain drive and equal-sized wheels made a stable, low, cheaper vehicle than the high-wheeler, and it spread within a few years.",
+   "es": {
+    "note": "La transmisión por cadena y las ruedas iguales dieron un vehículo estable, bajo y más barato que el de rueda alta, y se difundió en pocos años."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "benz-motorwagen",
+   "note": "Benz designed the vehicle around its own combustion engine and patented it as a whole, the start of the industry that would most transform product design.",
+   "es": {
+    "note": "Benz diseñó el vehículo en torno a su propio motor de combustión y lo patentó como un todo, inicio de la industria que más transformaría el diseño de producto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "tiffany-lamps",
+   "note": "Electric light at home created a new object, the table lamp, which Tiffany offered with shades of coloured glass.",
+   "es": {
+    "note": "La luz eléctrica en el hogar creó un objeto nuevo, la lámpara de mesa, que Tiffany ofreció con pantallas de vidrio de colores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-forms-science",
+   "item": "galle-vases",
+   "note": "Gallé was also a botanist, so he drew his motifs from plants observed from life and carried them into glass, mixing enamels and layers of colour.",
+   "es": {
+    "note": "Gallé, que además era botánico, sacó sus motivos de plantas observadas del natural y los llevó al vidrio, combinando esmaltes y capas de color."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-paris-1900",
+   "item": "lalique-jewellery",
+   "note": "The 1900 Exposition gave Art Nouveau an international public; Lalique’s dragonfly and winged-woman jewels shown there made him famous.",
+   "es": {
+    "note": "La Exposición de 1900 dio al Art nouveau un público internacional; las joyas de libélulas y mujeres aladas que Lalique mostró allí lo hicieron famoso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "dresser-teapot",
+   "note": "After his 1876–77 trip to Japan, Dresser took the geometric, asymmetric forms of Japanese objects into industrial metalwork such as this teapot.",
+   "es": {
+    "note": "Tras su viaje a Japón en 1876–77, Dresser llevó las formas geométricas y asimétricas de los objetos japoneses a la metalistería industrial, como esta tetera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-snapshot-photography",
+   "item": "kodak-no1",
+   "note": "Eastman sold the camera already loaded with a roll and developed it at his factory, so photography no longer needed professional skill or chemicals.",
+   "es": {
+    "note": "Eastman vendió la cámara ya cargada con rollo y la revelaba en su fábrica, así que fotografiar ya no exigía oficio profesional ni químicos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "kodak-no1",
+   "note": "Mass advertising sold the camera as a service: the buyer only pressed the button and the firm did the rest, a message built into its product.",
+   "es": {
+    "note": "La publicidad masiva vendió la cámara como un servicio: el comprador solo apretaba el botón y la firma hacía el resto, mensaje que definió el producto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-women-office-work",
+   "item": "remington-no1",
+   "note": "As offices grew, the typewriter created the trade of typist, which women came to fill in the new offices.",
+   "es": {
+    "note": "Al crecer las oficinas, la máquina de escribir creó el oficio de mecanógrafa, que las mujeres llegaron a ocupar en las nuevas oficinas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "morris-chair",
+   "note": "A middle-class home seeking comfort without pomp found its model in a plain armchair with an adjustable back and loose cushions.",
+   "es": {
+    "note": "Un hogar burgués que buscaba comodidad sin pompa encontró su modelo en un sillón sencillo de respaldo ajustable y cojines sueltos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "ww-metalwork",
+   "note": "In Vienna’s debate over ornament and the modern home, the workshop made geometric perforated metal by hand for the taste of the well-off.",
+   "es": {
+    "note": "En el debate vienés sobre el ornamento y la casa moderna, el taller hizo a mano metal perforado geométrico para el gusto de la burguesía acomodada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-labour-movement",
+   "item": "strawberry-thief",
+   "note": "Morris turned socialist in 1883; his hand-printed indigo cotton, made against factory printing, put that rejection of industrial work into a design.",
+   "es": {
+    "note": "Morris se volvió socialista en 1883; su algodón estampado a mano con índigo, hecho contra la estampación fabril, plasmó en un diseño ese rechazo al trabajo industrial."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-classical-archaeology",
+   "item": "fortuny-delphos",
+   "note": "Excavations at Delphi unearthed the bronze Charioteer; Fortuny named his pleated tunic after it and echoed the statue’s folds.",
+   "es": {
+    "note": "Las excavaciones en Delfos sacaron a la luz el Auriga de bronce; Fortuny nombró su túnica plisada en su honor y evocó los pliegues de la estatua."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "fortuny-delphos",
+   "note": "Dress reformers attacked the corset, and Fortuny offered a loose pleated tunic worn without one, taken up in artistic circles.",
+   "es": {
+    "note": "Las reformistas del vestido atacaron el corsé, y Fortuny ofreció una túnica plisada suelta que se usaba sin él, adoptada en círculos artísticos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "poiret-high-waist",
+   "note": "Criticism of the corset on grounds of health opened the way for Poiret’s dresses, with the waist raised and a straight fall, cut without it.",
+   "es": {
+    "note": "La crítica al corsé por razones de salud abrió camino a los vestidos de Poiret, de talle alto y caída recta, cortados sin él."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "bloomer-costume",
+   "note": "Doctors and women criticised corsets and heavy skirts, so in 1851 campaigners adopted trousers under a short skirt, designing dress around freedom of movement.",
+   "es": {
+    "note": "Médicos y mujeres criticaban corsés y faldas pesadas, así que en 1851 las activistas adoptaron pantalones bajo una falda corta, diseñando el vestido para moverse con libertad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "butterick-patterns",
+   "note": "Mail-order and magazine selling reached homes everywhere, so Butterick sold patterns through agents, shops and magazines, spreading fashion by post.",
+   "es": {
+    "note": "La venta por correo y revistas llegaba a todos los hogares, así que Butterick vendió patrones por agentes, tiendas y revistas, y difundió la moda por correo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-british-empire-trade",
+   "item": "liberty-artistic-dress",
+   "note": "Imperial trade brought fabrics and prints from India and Japan, which Liberty turned into fashionable dresses for aesthetic taste.",
+   "es": {
+    "note": "El comercio imperial trajo telas y estampados de India y Japón, que Liberty transformó en vestidos de moda para el gusto estético."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "liberty-artistic-dress",
+   "note": "The taste for Japanese objects and fabrics led Liberty, which sold them, to offer dresses with looser silhouettes drawing on the kimono.",
+   "es": {
+    "note": "El gusto por objetos y telas japonesas llevó a Liberty, que los vendía, a ofrecer vestidos de siluetas más sueltas inspiradas en el kimono."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "bass-triangle",
+   "note": "The British trade mark law of 1875 opened a register, and Bass registered its red triangle in 1876, making a simple sign a legally owned brand.",
+   "es": {
+    "note": "La ley británica de marcas de 1875 abrió un registro y Bass inscribió su triángulo rojo en 1876, con lo que un signo simple pasó a ser marca de propiedad legal."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "coca-cola-logo",
+   "note": "With names and logos now ownable, a recognisable script mark replaced the generic name of a tonic on bottles and advertisements.",
+   "es": {
+    "note": "Al poder poseerse nombres y logotipos, una marca caligráfica reconocible reemplazó al nombre genérico de un tónico en botellas y avisos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-gothic-revival",
+   "item": "kelmscott-chaucer",
+   "note": "Admiration for medieval crafts and books led Morris to design Gothic-style type, borders and initials drawn from 15th-century printed books.",
+   "es": {
+    "note": "La admiración por los oficios y libros medievales llevó a Morris a diseñar letras de aire gótico, orlas y capitulares tomadas de libros impresos del siglo XV."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-labour-movement",
+   "item": "kelmscott-chaucer",
+   "note": "Morris’s socialist critique of poor industrial work led him to make a handcrafted book as a reply to the thin mechanical printing of his day.",
+   "es": {
+    "note": "La crítica socialista de Morris al mal trabajo industrial lo llevó a hacer un libro artesanal como respuesta a la pobre impresión mecánica de su época."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "cheret-posters",
+   "note": "The French press law of 1881 freed bill-posting, so Paris filled with posters and collectors, and Chéret’s colour lithographs became sought-after.",
+   "es": {
+    "note": "La ley francesa de prensa de 1881 liberó el pegado de carteles, así que París se llenó de afiches y coleccionistas, y las litografías en color de Chéret fueron buscadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "cheret-posters",
+   "note": "Large-format colour lithography let advertisers print bright colour posters for theatres and products, which Chéret made his speciality.",
+   "es": {
+    "note": "La cromolitografía de gran formato permitió imprimir anuncios en color para teatros y productos, que Chéret convirtió en su especialidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "moulin-rouge-la-goulue",
+   "note": "The Moulin Rouge was a commercial leisure business that needed constant advertising, so it commissioned a poster to draw in customers.",
+   "es": {
+    "note": "El Moulin Rouge era un negocio de ocio comercial que necesitaba publicidad constante, así que encargó un cartel para atraer clientes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "mucha-gismonda",
+   "note": "Poster collecting was growing in the 1890s, and Bernhardt’s commission of Gismonda in 1894 made Mucha’s poster a collectors’ item.",
+   "es": {
+    "note": "El coleccionismo de carteles crecía en la década de 1890, y el encargo de Bernhardt en 1894 convirtió el cartel de Mucha en objeto de coleccionistas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "beardsley-salome",
+   "note": "Japanese prints offered another way to compose images, and Beardsley took from them flat line, large empty areas and asymmetry in his black-and-white drawings.",
+   "es": {
+    "note": "Los grabados japoneses ofrecían otra manera de componer imágenes, y Beardsley tomó de ellos la línea plana, los vacíos amplios y la asimetría en sus dibujos en blanco y negro."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "ver-sacrum",
+   "note": "Vienna's debate over art and modernity gave the Secession its own platform; Ver Sacrum let its artists design page layout and lettering themselves, as one unified work.",
+   "es": {
+    "note": "El debate vienés sobre arte y modernidad dio a la Secesión su propia tribuna; Ver Sacrum dejó que sus artistas diseñaran ellos mismos la página y las letras, como una obra unificada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "behrens-aeg-logo",
+   "note": "Once marks were legal property, firms had reason to guard a distinct image; AEG gave its mark, brochures and catalogues a single visual line under Behrens.",
+   "es": {
+    "note": "Con las marcas ya protegidas como propiedad, las empresas tuvieron motivo para cuidar una imagen propia; AEG dio a su marca, folletos y catálogos una sola línea visual con Behrens."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "behrens-aeg-logo",
+   "note": "An electrical firm sold a new technology and wanted to look modern, so AEG hired Behrens to give its mark, products and print a modern, unified look.",
+   "es": {
+    "note": "Una empresa eléctrica vendía una tecnología nueva y quiso verse moderna, así que AEG contrató a Behrens para darle a su marca, productos e impresos una imagen moderna y unificada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "michelin-bibendum",
+   "note": "Motoring opened a new public of drivers; Michelin, selling tyres to them, gave the product a friendly mascot, Bibendum, to make it recognisable.",
+   "es": {
+    "note": "El automóvil abrió un público nuevo de automovilistas; Michelin, que les vendía neumáticos, dio al producto una mascota simpática, Bibendum, para hacerlo reconocible."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "michelin-bibendum",
+   "note": "The poster craze made the illustrated poster the way to catch the public eye; Bibendum was born in an 1898 O'Galop poster drawn in that style.",
+   "es": {
+    "note": "La fiebre del cartel hizo del cartel ilustrado el modo de atraer las miradas; Bibendum nació en un cartel de O'Galop de 1898, dibujado en ese estilo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation",
+   "item": "lira-popular",
+   "note": "Santiago's growing, newly literate urban public could buy cheap print, so popular poets issued verse sheets with engravings and sold them in the streets.",
+   "es": {
+    "note": "El público urbano de Santiago, en crecimiento y recién alfabetizado, podía comprar impresos baratos; los poetas populares editaron pliegos con grabados y los vendieron en la calle."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nitrate-boom",
+   "item": "lira-popular",
+   "note": "The nitrate boom filled the pampa with workers and news of hardship and crime; popular poets turned these stories into verse sheets with engravings.",
+   "es": {
+    "note": "El auge del salitre llenó la pampa de obreros y de noticias de penurias y crímenes; los poetas populares convirtieron esas historias en pliegos de versos con grabados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation",
+   "item": "zig-zag-magazine",
+   "note": "Chile's growing cities gave a mass readership; Zig-Zag served it as an illustrated weekly, using halftone photographs and mechanical typesetting for large, cheap runs.",
+   "es": {
+    "note": "Las ciudades chilenas en crecimiento dieron un público masivo; Zig-Zag lo atendió con un semanario ilustrado, con fotograbado y composición mecánica para tirajes grandes y baratos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mexican-revolution",
+   "item": "posada-catrina",
+   "note": "As the Porfiriato neared its fall, Posada used a broadsheet etching to mock an elite that imitated French fashion, in the skeleton later called Catrina.",
+   "es": {
+    "note": "Cuando el porfiriato se acercaba a su caída, Posada usó un grabado en hoja suelta para burlarse de una élite que imitaba la moda francesa, en el esqueleto luego llamado Catrina."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation",
+   "item": "posada-catrina",
+   "note": "Mexico City's popular urban public bought cheap prints, so Posada's etchings were made and sold as loose broadsheets for that readership.",
+   "es": {
+    "note": "El público popular urbano de Ciudad de México compraba grabados baratos, así que los grabados de Posada se hacían y vendían como hojas sueltas para ese público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "montgomery-ward-catalogue",
+   "note": "Mail-order selling reached rural customers far from shops, so Ward's catalogue used engravings and listed prices to stand in for the shop counter.",
+   "es": {
+    "note": "La venta por correo llegó a clientes rurales lejos de las tiendas, así que el catálogo de Ward usó grabados y precios listados para reemplazar el mostrador."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways-steamships",
+   "item": "montgomery-ward-catalogue",
+   "note": "Railways carried orders and parcels across the country, so a single printed catalogue could serve customers everywhere and replace the local shop.",
+   "es": {
+    "note": "El ferrocarril llevaba pedidos y paquetes por todo el país, así que un solo catálogo impreso podía atender a clientes en todas partes y reemplazar la tienda local."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-great-exhibition",
+   "item": "inst-south-kensington",
+   "note": "The Great Exhibition's profits and its comparison of nations' manufactures led to a museum and training system giving makers and students good examples of design.",
+   "es": {
+    "note": "Las ganancias de la Gran Exposición y su comparación de las manufacturas de las naciones llevaron a un museo y un sistema de enseñanza que dieron a fabricantes y alumnos buenos ejemplos de diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-great-exhibition",
+   "item": "th-grammar-of-ornament",
+   "note": "Having directed the Crystal Palace's decoration in 1851, Jones gathered ornament from many cultures into a book of plates and propositions for designers.",
+   "es": {
+    "note": "Tras dirigir la decoración del Palacio de Cristal en 1851, Jones reunió ornamentos de muchas culturas en un libro de láminas y proposiciones para diseñadores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-national-unifications",
+   "item": "inst-werkbund",
+   "note": "Once Germany became one empire in 1871 it competed as a single industrial nation for export markets; the Werkbund of 1907 made the quality of manufactured goods a national aim.",
+   "es": {
+    "note": "Desde 1871 Alemania, ya un solo imperio, compitió como nación industrial por mercados de exportación; el Werkbund de 1907 hizo de la calidad de sus productos un objetivo nacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-national-unifications",
+   "item": "th-werkbund-debate",
+   "note": "In the united German nation, Muthesius defended standard types as the way to win export markets, while Van de Velde defended the artist’s freedom; the debate asked who should shape national design.",
+   "es": {
+    "note": "En la Alemania unida, Muthesius defendió los tipos estándar para ganar mercados de exportación y Van de Velde la libertad del artista: ¿quién debía dar forma al diseño nacional?"
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-british-empire-trade",
+   "item": "inst-liberty",
+   "note": "Imperial trade brought Japanese and Eastern goods to London; Liberty opened in 1875 to sell them and turned that supply into a taste, later adding its own fabrics.",
+   "es": {
+    "note": "El comercio imperial llevó a Londres bienes japoneses y orientales; Liberty abrió en 1875 para venderlos y convirtió esa oferta en un gusto, y luego sumó telas propias."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-british-empire-trade",
+   "item": "inst-south-kensington",
+   "note": "Empire and trade brought objects from India and the East to Britain; the museum gathered such pieces as examples for manufacturers and design students to study.",
+   "es": {
+    "note": "El imperio y el comercio trajeron objetos de la India y de Oriente a Gran Bretaña; el museo reunió piezas así como modelos para que fabricantes y estudiantes de diseño las estudiaran."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-catalan-renaixenca",
+   "item": "art-nouveau",
+   "note": "The Renaixença made Catalan identity a cause, and architects and designers adopted the flowing, natural forms of Art Nouveau as modernisme, a style that could be read as Catalan.",
+   "es": {
+    "note": "La Renaixença hizo de la identidad catalana una causa, y arquitectos y diseñadores adoptaron las formas fluidas del Art Nouveau como modernisme, un estilo leído como catalán."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "inst-aeg",
+   "note": "Electricity and the rise of large corporations made firms like AEG big enough to need a single public image, so in 1907 it hired Behrens to design its buildings, products and graphics.",
+   "es": {
+    "note": "La electricidad y las grandes corporaciones crearon empresas como AEG, que necesitaban una imagen pública única; en 1907 contrató a Behrens para diseñar sus edificios, productos y gráfica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-labour-movement",
+   "item": "arts-and-crafts",
+   "note": "Concern for how workers lived, which Morris shared as a socialist, led the movement to defend handwork and the worker’s pleasure in making against the division of labour in the factory.",
+   "es": {
+    "note": "La preocupación por cómo vivían los obreros, compartida por Morris como socialista, llevó al movimiento a defender el trabajo manual y el placer de hacer frente a la división del trabajo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "arts-and-crafts",
+   "note": "As the middle class sought a comfortable, moral and clean home, Arts and Crafts designers answered with simple, honest furnishings for the whole house in place of cluttered commercial interiors.",
+   "es": {
+    "note": "Cuando la clase media buscó un hogar cómodo, moral y limpio, el Arts and Crafts respondió con muebles simples y honestos para toda la casa, en vez de interiores recargados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "illustrated-poster",
+   "note": "Cafés, music halls and cabarets needed constant advertising, so colour lithographed posters, like Chéret’s and Toulouse-Lautrec’s, became the street’s medium for selling nightlife.",
+   "es": {
+    "note": "Cafés, music halls y cabarés necesitaban publicidad constante, así que los afiches litografiados a color, como los de Chéret y Toulouse-Lautrec, vendieron la vida nocturna en la calle."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "aesthetic-movement",
+   "note": "Dress reformers attacked the tight corset and heavy skirts; Aesthetic circles proposed loose, artistic gowns as an alternative, taking dress into the movement’s taste.",
+   "es": {
+    "note": "Las reformistas atacaron el corsé ajustado y las faldas pesadas; los círculos esteticistas propusieron túnicas sueltas y artísticas, llevando el vestido al gusto del movimiento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "art-nouveau",
+   "note": "Japanese prints, with flat colour, asymmetric composition and bold contour, gave designers a way of composing images and ornament that Art Nouveau posters and decoration adopted.",
+   "es": {
+    "note": "Las estampas japonesas, con color plano, composición asimétrica y contorno marcado, dieron a los diseñadores otra forma de componer imágenes y ornamento, que el art nouveau adoptó en carteles y decoración."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "aesthetic-movement",
+   "note": "Japanese objects and prints, newly available in London, offered an ideal of refined beauty without narrative, and Aesthetic designers borrowed their asymmetry and simplicity.",
+   "es": {
+    "note": "Los objetos y estampas japoneses, ya accesibles en Londres, ofrecieron un ideal de belleza refinada sin relato, y los diseñadores esteticistas tomaron su asimetría y sencillez."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-victorian-taste-crisis",
+   "item": "inst-south-kensington",
+   "note": "The debate over over-decorated goods after 1851 led Henry Cole to found a museum of manufactures in 1852, so makers and students could study good examples.",
+   "es": {
+    "note": "El debate sobre los productos sobrecargados tras 1851 llevó a Henry Cole a fundar en 1852 un museo de manufacturas, para que fabricantes y alumnos estudiaran buenos ejemplos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-victorian-taste-crisis",
+   "item": "th-grammar-of-ornament",
+   "note": "With the debate on bad taste open, Owen Jones answered in 1856 with colour plates of historic ornament and propositions, giving designers principles in place of fashion.",
+   "es": {
+    "note": "Con el debate sobre el mal gusto abierto, Owen Jones respondió en 1856 con láminas de ornamento histórico y proposiciones, dando a los diseñadores principios en lugar de moda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-gothic-revival",
+   "item": "th-nature-of-gothic",
+   "note": "Where the Gothic Revival was a matter of style, Ruskin in 1853 made it a moral argument: Gothic showed free craftsmen, industry's division of labour did not.",
+   "es": {
+    "note": "Donde el neogótico era cuestión de estilo, Ruskin en 1853 lo convirtió en argumento moral: lo gótico mostraba artesanos libres; la división del trabajo industrial, no."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-forms-science",
+   "item": "art-nouveau",
+   "note": "Natural history and the science of life gave designers plants and organic growth to study, which Art Nouveau stylised into flowing lines and curving ornament.",
+   "es": {
+    "note": "La historia natural y la ciencia de la vida dieron a los diseñadores plantas y crecimiento orgánico que estudiar, y el art nouveau los estilizó en líneas fluidas y ornamento curvo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "vienna-secession",
+   "note": "Young Viennese artists broke from the established association in 1897 to open the city to modern art, which brought a geometric, restrained style to exhibitions and interiors.",
+   "es": {
+    "note": "Jóvenes artistas vieneses rompieron en 1897 con la asociación establecida para abrir la ciudad al arte moderno, lo que llevó un estilo geométrico y sobrio a exposiciones e interiores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "th-loos-ornament-and-crime",
+   "note": "In a Vienna arguing over ornament and the modern home, Loos took the argument to its limit in 1910: progress meant removing ornament from everyday objects.",
+   "es": {
+    "note": "En una Viena que discutía sobre ornamento y hogar moderno, Loos llevó el argumento al límite en 1910: progresar era quitar el ornamento de los objetos cotidianos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "mucha-gismonda",
+   "note": "Theatres in big cities needed constant advertising, so Bernhardt needed a new poster for Gismonda at Christmas 1894, and Mucha drew it in a tall format.",
+   "es": {
+    "note": "Los teatros de las grandes ciudades necesitaban publicidad constante, así que Bernhardt requirió un cartel nuevo para Gismonda en la Navidad de 1894, y Mucha lo dibujó en formato alto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "ford-model-t",
+   "note": "Steel, electricity and large corporations made mass production possible, so Ford designed a simple, cheap car around the moving assembly line he adopted in 1913.",
+   "es": {
+    "note": "El acero, la electricidad y las grandes corporaciones hicieron posible la producción en masa, así que Ford diseñó un auto simple y barato en torno a la línea de montaje móvil que adoptó en 1913."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-gothic-revival",
+   "item": "strawberry-thief",
+   "note": "Medievalism made hand craft a moral ideal, so Morris had Strawberry Thief block-printed by hand in indigo discharge, against factory printing.",
+   "es": {
+    "note": "El medievalismo hizo del oficio manual un ideal moral, así que Morris hizo estampar Strawberry Thief a mano con bloques, por reserva al índigo, frente a la estampación de fábrica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-synthetic-chemistry",
+   "item": "strawberry-thief",
+   "note": "Aniline dyes made bright colours cheap, but Morris rejected them and used natural dyes with indigo discharge printing, so the chemical change shaped his textile method by opposition.",
+   "es": {
+    "note": "Los tintes de anilina abarataron los colores vivos, pero Morris los rechazó y usó tintes naturales con estampado por reserva al índigo; el cambio químico moldeó su método textil por oposición."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-telephone",
+   "item": "dbh-1001-telephone",
+   "note": "A subscriber network needed a simple set for home and office, so the DBH 1001 joined microphone and receiver in a single handset.",
+   "es": {
+    "note": "Una red de abonados necesitaba un aparato simple para casa y oficina, así que el DBH 1001 unió micrófono y auricular en un solo microteléfono."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-telephone",
+   "item": "model-302-telephone",
+   "note": "Bell's mass network called for a standardized, sturdy set for daily use, which led to the Model 302 as a uniform product for many subscribers.",
+   "es": {
+    "note": "La red masiva de Bell exigía un aparato estandarizado y resistente para el uso diario, lo que llevó al Modelo 302 como producto uniforme para muchos abonados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-childrens-book-market",
+   "item": "john-tenniel",
+   "note": "As the illustrated children’s book became a middle-class business, Tenniel drew for the wood engraver with a firm, defined line, which made his Alice images clear in print.",
+   "es": {
+    "note": "Al volverse negocio de la clase media el libro ilustrado infantil, Tenniel dibujó para el grabador en madera con un trazo firme y definido, lo que dio claridad impresa a sus imágenes de Alicia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-statistics-thematic-maps",
+   "item": "charles-joseph-minard",
+   "note": "State statistics and public-works engineers dealt in transport flows; Minard drew them as bands whose width is proportional to the quantity carried.",
+   "es": {
+    "note": "La estadística de Estado y los ingenieros de obras públicas manejaban flujos de transporte; Minard los dibujó como bandas de ancho proporcional a la cantidad transportada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-childrens-book-market",
+   "item": "kate-greenaway",
+   "note": "With a market for colour picture books for children, Greenaway worked with the printer Edmund Evans, who reproduced her drawings in colour from wood blocks.",
+   "es": {
+    "note": "Con un mercado de libros ilustrados infantiles en color, Greenaway colaboró con el impresor Edmund Evans, que reprodujo sus dibujos a color con bloques de madera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "theophile-steinlen",
+   "note": "Montmartre cabarets needed to draw a crowd with street posters; Steinlen reduced the black cat of the Chat Noir to a few flat areas of colour.",
+   "es": {
+    "note": "Los cabarets de Montmartre necesitaban atraer público con carteles de calle; Steinlen redujo el gato negro del Chat Noir a unas pocas áreas planas de color."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "lucian-bernhard",
+   "note": "As the registered trademark became the value of the product, Bernhard cut the poster down to the brand name and the object.",
+   "es": {
+    "note": "Al volverse la marca registrada el valor del producto, Bernhard redujo el cartel al nombre de la marca y al objeto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "inst-chambre-syndicale",
+   "note": "As names and labels became assets, couture houses needed to protect their models from copying; the Chambre syndicale defended them collectively.",
+   "es": {
+    "note": "Cuando los nombres y las etiquetas pasaron a ser un activo, las casas de costura necesitaron proteger sus modelos de la copia; la Cámara sindical los defendió en conjunto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-victorian-taste-crisis",
+   "item": "inst-aces",
+   "note": "Faced with industrial Victorian taste, craftsmen built their own exhibition circuit, which gave signed handwork the standing of art.",
+   "es": {
+    "note": "Frente al gusto victoriano industrial, los artesanos crearon su propio circuito de exposición, que dio a la obra manual firmada la categoría de arte."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-fashion-magazines",
+   "item": "inst-vogue",
+   "note": "Magazines carried fashion to readers far from the couture houses; Vogue made illustration and later photography its language for presenting it.",
+   "es": {
+    "note": "Las revistas llevaron la moda a lectoras lejos de las casas de costura; Vogue hizo de la ilustración y luego de la fotografía su lenguaje para presentarla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "inst-ibm",
+   "note": "The postwar corporate office demanded coherent machines and surroundings; IBM answered with a design programme covering products, buildings and graphics.",
+   "es": {
+    "note": "La oficina corporativa de posguerra pidió máquinas y entornos coherentes; IBM respondió con un programa de diseño que abarcó productos, edificios y gráfica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "th-garden-cities-of-tomorrow",
+   "note": "The squalor of the industrial city led Howard to propose joining city and country in new towns of about 32,000 people.",
+   "es": {
+    "note": "Las condiciones de la ciudad industrial llevaron a Howard a proponer unir ciudad y campo en ciudades nuevas de unos 32.000 habitantes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "th-veblen-leisure-class",
+   "note": "Department stores offered the new fortunes a stage for display; Veblen explained that buying as a way of showing status.",
+   "es": {
+    "note": "Los grandes almacenes ofrecieron a las nuevas fortunas un escenario de exhibición; Veblen explicó esa compra como una forma de mostrar estatus."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-avant-gardes",
+   "item": "th-futurist-manifesto",
+   "note": "Speed, machines and noise fed an aggressive aesthetic that rejected the past; the manifesto turned it into a programme for breaking syntax and the page.",
+   "es": {
+    "note": "Velocidad, máquinas y ruido alimentaron una estética agresiva que rechazaba el pasado; el manifiesto la convirtió en programa para romper la sintaxis y la página."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chicago-fire-1871",
+   "item": "chicago-school",
+   "note": "Rebuilding the Loop after the fire required tall, fireproof buildings with metal structure, which the Chicago architects developed.",
+   "es": {
+    "note": "Reconstruir el Loop tras el incendio exigió edificios altos e incombustibles de estructura metálica, que los arquitectos de Chicago desarrollaron."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "chicago-school",
+   "note": "Department stores and offices wanted tall, bright buildings, so architects replaced heavy walls with light façades over a frame.",
+   "es": {
+    "note": "Los grandes almacenes y las oficinas pedían edificios altos y luminosos, y los arquitectos reemplazaron los muros pesados por fachadas livianas sobre una estructura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "chicago-school",
+   "note": "Cheap steel and the electric elevator made the skeleton frame practical, freeing the wall from carrying the building’s weight.",
+   "es": {
+    "note": "El acero barato y el ascensor eléctrico hicieron viable la estructura esqueleto, y el muro dejó de cargar el peso del edificio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "th-futurist-manifesto",
+   "note": "The speed of the motor car became a model of beauty for the Futurists, who put it at the centre of their manifesto.",
+   "es": {
+    "note": "La velocidad del automóvil se volvió modelo de belleza para los futuristas, que la pusieron en el centro de su manifiesto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-catalan-renaixenca",
+   "item": "catalan-modernisme",
+   "note": "The Renaixença revived Catalan identity; the industrial bourgeoisie of Barcelona commissioned buildings that expressed it with local crafts and a language of ornament of its own.",
+   "es": {
+    "note": "La Renaixença reavivó la identidad catalana; la burguesía industrial de Barcelona encargó edificios que la expresaban con oficios locales y un lenguaje ornamental propio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-columbian-exposition-1893",
+   "item": "city-beautiful",
+   "note": "The 1893 White City showed a unified, monumental planned city; reformers took it as a model, so planning for civic improvement turned to classical order and axes.",
+   "es": {
+    "note": "La Ciudad Blanca de 1893 mostró una ciudad planificada, unitaria y monumental; los reformadores la tomaron como modelo y la planificación cívica adoptó el orden clásico y los ejes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "garden-city-movement",
+   "note": "Crowded working-class housing in industrial cities led Howard to propose new towns of low density surrounded by countryside, with homes, work and open land planned together.",
+   "es": {
+    "note": "El hacinamiento obrero de las ciudades industriales llevó a Howard a proponer ciudades nuevas de baja densidad rodeadas de campo, con vivienda, trabajo y terreno abierto planificados juntos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-first-world-war",
+   "item": "expressionist-architecture",
+   "note": "War and the postwar crisis halted building and fed utopian hopes; architects turned to paper projects of glass, brick and sculptural form as emotional visions of a new society.",
+   "es": {
+    "note": "La guerra y la crisis posterior detuvieron la construcción y alimentaron esperanzas utópicas; los arquitectos dibujaron visiones de vidrio, ladrillo y forma escultórica de una sociedad nueva."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-empire-paris",
+   "item": "haussmann-paris-1853",
+   "note": "Imperial power and mass expropriation let the regime cut boulevards through the old city, reorganising Paris's streets and buildings by plan.",
+   "es": {
+    "note": "El poder imperial y las expropiaciones masivas permitieron abrir bulevares en la ciudad antigua y reorganizar por plan las calles y edificios de París."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways",
+   "item": "haussmann-paris-1853",
+   "note": "The new railway termini needed links to the centre, so the boulevards were laid out to connect the stations with the heart of Paris.",
+   "es": {
+    "note": "Las nuevas estaciones ferroviarias necesitaban conexión con el centro, así que los bulevares se trazaron para unirlas con el corazón de París."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "haussmann-paris-1853",
+   "note": "Overcrowded districts were cited for hygiene and security, which justified opening broad, straight streets through them.",
+   "es": {
+    "note": "Los barrios hacinados se invocaban por razones de higiene y seguridad, lo que justificó abrir calles anchas y rectas a través de ellos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "central-park-1858",
+   "note": "New York's rapid growth and crowding made a large green space seem necessary, so a big park was set aside in the middle of the grid.",
+   "es": {
+    "note": "El rápido crecimiento y hacinamiento de Nueva York hizo necesario un gran espacio verde, por lo que se reservó un gran parque en medio de la cuadrícula."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "central-park-1858",
+   "note": "An urban middle class seeking promenade and recreation led the Greensward plan to separate carriages, riders and walkers on distinct routes.",
+   "es": {
+    "note": "Una clase media urbana que buscaba paseo y recreo llevó al plan Greensward a separar carruajes, jinetes y peatones en recorridos distintos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-romanticism-gothic",
+   "item": "central-park-1858",
+   "note": "The Romantic taste for the picturesque, via Downing and the English park, led Olmsted and Vaux to design seemingly spontaneous, winding nature inside the grid.",
+   "es": {
+    "note": "El gusto romántico por lo pintoresco, vía Downing y el parque inglés, llevó a Olmsted y Vaux a proyectar una naturaleza sinuosa y aparentemente espontánea dentro de la cuadrícula."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "eixample-barcelona-1859",
+   "note": "Hygienist concern for light and air led Cerdà to fix blocks with chamfered corners and open courtyards for ventilation and sun.",
+   "es": {
+    "note": "La preocupación higienista por la luz y el aire llevó a Cerdà a fijar manzanas con esquinas achaflanadas y patios abiertos para ventilación y sol."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-catalan-renaixenca",
+   "item": "eixample-barcelona-1859",
+   "note": "The Catalan middle class, with new wealth and cultural pride, settled the Eixample and filled it with modernisme houses.",
+   "es": {
+    "note": "La burguesía catalana, con nueva riqueza y orgullo cultural, ocupó el Ensanche y lo llenó de casas modernistas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "eixample-barcelona-1859",
+   "note": "Demolishing the walls (from 1854) freed land, so growth could be ordered by a plan and the crowded old city relieved.",
+   "es": {
+    "note": "El derribo de las murallas (desde 1854) liberó suelo, de modo que el crecimiento pudo ordenarse con un plan y descongestionar la ciudad antigua."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-empire-paris",
+   "item": "opera-garnier-1875",
+   "note": "The Second Empire called the competition and displayed its power through an opulent opera house at the end of a new avenue.",
+   "es": {
+    "note": "El Segundo Imperio convocó el concurso y exhibió su poder con una ópera opulenta al final de una avenida nueva."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "opera-garnier-1875",
+   "note": "The opera was a place where the bourgeoisie displayed itself, so the grand staircase and foyers were designed as the spectacle.",
+   "es": {
+    "note": "La ópera era un lugar de exhibición de la burguesía, de modo que la gran escalera y los foyers se diseñaron como el espectáculo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-catalan-renaixenca",
+   "item": "sagrada-familia-1882",
+   "note": "Catholic piety and Catalan identity funded an expiatory church by public subscription, giving Barcelona a national-religious landmark.",
+   "es": {
+    "note": "La piedad católica y la identidad catalana financiaron un templo expiatorio por suscripción popular y dieron a Barcelona un hito religioso y nacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-gothic-revival",
+   "item": "sagrada-familia-1882",
+   "note": "Gaudí inherited a neo-Gothic project from Villar and transformed it with geometry drawn from nature.",
+   "es": {
+    "note": "Gaudí heredó de Villar un proyecto neogótico y lo transformó con una geometría tomada de la naturaleza."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chicago-fire-1871",
+   "item": "home-insurance-building-1885",
+   "note": "Rebuilding the Loop after the fire demanded tall, fireproof buildings, which led to Jenney's metal-framed block.",
+   "es": {
+    "note": "Reconstruir el Loop tras el incendio exigía edificios altos e incombustibles, lo que llevó al edificio de estructura metálica de Jenney."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "home-insurance-building-1885",
+   "note": "Cheap mass-produced steel let Jenney build a skeleton frame that carried the building and freed the walls from bearing the load.",
+   "es": {
+    "note": "El acero barato de la producción masiva permitió a Jenney levantar una estructura de esqueleto que sostenía el edificio y liberaba a los muros de cargar el peso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "eiffel-tower-1889",
+   "note": "The iron industry made it possible to build a 300-metre tower from prefabricated parts assembled on site.",
+   "es": {
+    "note": "La industria del hierro permitió construir una torre de 300 metros con piezas prefabricadas ensambladas en obra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways-steamships",
+   "item": "eiffel-tower-1889",
+   "note": "Railway viaduct and bridge engineering (Eiffel, Garabit) supplied the wrought-iron lattice and the riveted assembly that made the tower possible.",
+   "es": {
+    "note": "La ingeniería ferroviaria de viaductos y puentes (Eiffel, Garabit) aportó la celosía de hierro forjado y el montaje remachado que hicieron posible la torre."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urbanisation-working-class",
+   "item": "letchworth-1903",
+   "note": "The crowding of the industrial city led to building a new low-density town instead of extending the old one.",
+   "es": {
+    "note": "El hacinamiento de la ciudad industrial llevó a construir una ciudad nueva de baja densidad en vez de ampliar la antigua."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-labour-movement",
+   "item": "letchworth-1903",
+   "note": "The project answered the reform of working-class housing by keeping the land under common ownership.",
+   "es": {
+    "note": "El proyecto respondió a la reforma de la vivienda obrera manteniendo el suelo bajo propiedad común."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "hill-house-1904",
+   "note": "Japonisme's taste for plain volumes and vertical lines is echoed in the house's uncluttered interior and spare forms, as in Glasgow circles.",
+   "es": {
+    "note": "El gusto del japonismo por volúmenes sobrios y líneas verticales resuena en el interior despejado y las formas austeras de la casa, como en los círculos de Glasgow."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "postsparkasse-1906",
+   "note": "Wagner's rationalism and his use of aluminium and glass reflect the modernising turn of Vienna around 1900.",
+   "es": {
+    "note": "El racionalismo de Wagner y su uso del aluminio y el vidrio reflejan el giro modernizador de la Viena de 1900."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-catalan-renaixenca",
+   "item": "palau-musica-catalana-1908",
+   "note": "The Orfeó Català, a choral society of the Catalan cultural revival, commissioned a hall that voiced Catalan identity, expressed through ceramic, sculpture and stained glass.",
+   "es": {
+    "note": "El Orfeó Català, sociedad coral del renacimiento cultural catalán, encargó una sala que expresara la identidad catalana mediante cerámica, escultura y vitrales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-columbian-exposition-1893",
+   "item": "plan-of-chicago-1909",
+   "note": "The classical White City of 1893 showed a unified, axial city; Burnham, its chief of construction, made that model the basis of a plan for the real city.",
+   "es": {
+    "note": "La Ciudad Blanca clásica de 1893 mostró una ciudad unificada y axial; Burnham, su director de obras, hizo de ese modelo la base de un plan para la ciudad real."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "plan-of-chicago-1909",
+   "note": "As the automobile spread, the plan provided for wide avenues and main approaches to move traffic through the city.",
+   "es": {
+    "note": "Al difundirse el automóvil, el plan previó avenidas anchas y grandes accesos para mover el tráfico por la ciudad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-centenaries-1910",
+   "item": "museo-bellas-artes-santiago-1910",
+   "note": "For the 1910 centenary the Chilean State commissioned a monumental palace in European Beaux-Arts style to house the national art museum.",
+   "es": {
+    "note": "Para el Centenario de 1910 el Estado chileno encargó un palacio monumental de estilo Beaux-Arts europeo para alojar el museo nacional de arte."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nitrate-boom",
+   "item": "museo-bellas-artes-santiago-1910",
+   "note": "Wealth from nitrate exports financed public buildings in European taste, of which this Beaux-Arts palace is an example.",
+   "es": {
+    "note": "La riqueza de las exportaciones de salitre financió edificios públicos de gusto europeo, y este palacio Beaux-Arts es un ejemplo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "crinoline-cage-1856",
+   "note": "Department stores sold the steel-hoop cage at low prices, so the voluminous silhouette spread to all classes.",
+   "es": {
+    "note": "Los grandes almacenes vendían la jaula de aros de acero a bajo precio, de modo que la silueta voluminosa se extendió a todas las clases."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-synthetic-chemistry",
+   "item": "perkin-mauve-1856",
+   "note": "Coal-tar chemistry made it possible to produce a new, cheap colour that displaced natural dyes and created the fashion for mauve.",
+   "es": {
+    "note": "La química del alquitrán de hulla permitió producir un color nuevo y barato que desplazó a los tintes naturales y creó la moda del malva."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways-steamships",
+   "item": "vuitton-flat-trunk-1858",
+   "note": "Luggage was stacked on trains and steamships, so Vuitton replaced the domed trunk with a flat, waterproof one.",
+   "es": {
+    "note": "En trenes y vapores se apilaba el equipaje, así que Vuitton cambió el baúl abovedado por uno plano e impermeable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "vuitton-flat-trunk-1858",
+   "note": "Imitations led the firm to adopt the Damier canvas (1888) and the monogram (1896) as a registered signature.",
+   "es": {
+    "note": "Las imitaciones llevaron a la casa a adoptar la lona Damier (1888) y el monograma (1896) como firma registrada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "jaeger-woollen-system-1884",
+   "note": "Gustav Jäger’s theory of wool and health gave a medical basis to reformed clothing; the system was sold in London from 1884.",
+   "es": {
+    "note": "La teoría de Gustav Jäger sobre la lana y la salud dio una base médica a la ropa reformada; el sistema se vendió en Londres desde 1884."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "jaeger-woollen-system-1884",
+   "note": "Bourgeois hygiene carried the concern for air and fabrics from the home to underclothing.",
+   "es": {
+    "note": "El higienismo burgués trasladó la preocupación por el aire y los tejidos del hogar a la ropa interior."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-women-office-work",
+   "item": "shirtwaist-blouse-1895",
+   "note": "Women office workers needed a blouse that was washable, cheap and easy to combine with a skirt.",
+   "es": {
+    "note": "Las oficinistas necesitaban una blusa lavable, barata y combinable con falda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-safety-bicycle",
+   "item": "shirtwaist-blouse-1895",
+   "note": "The bicycle called for clothing that let women move, and the shirtwaist gave free arms and a practical upper body.",
+   "es": {
+    "note": "La bicicleta exigió ropa que dejara moverse a las mujeres, y la shirtwaist dio brazos libres y un torso práctico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-vienna-1900",
+   "item": "floge-reform-dress-1904",
+   "note": "Klimt and the Secession circle carried total design into the wardrobe, with the salon’s interior by Hoffmann and Moser.",
+   "es": {
+    "note": "Klimt y el círculo de la Secesión llevaron el diseño integral al guardarropa, con el interior del salón a cargo de Hoffmann y Moser."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-dress-reform",
+   "item": "floge-reform-dress-1904",
+   "note": "Its loose, corset-free dress came out of the dress reform movement.",
+   "es": {
+    "note": "Su vestido holgado, sin corsé, nació del movimiento de reforma del vestido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-childrens-book-market",
+   "item": "alice-tenniel-1865",
+   "note": "A growing market for children’s books paid for pictures in every volume; Tenniel’s drawings, cut on wood by the Dalziels, suited cheap letterpress printing.",
+   "es": {
+    "note": "Un mercado creciente de libros infantiles financió imágenes en cada volumen; los dibujos de Tenniel, tallados en madera por los Dalziel, se adaptaban a la impresión tipográfica barata."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-statistics-thematic-maps",
+   "item": "minard-napoleon-map-1869",
+   "note": "States gathered statistics on people and goods, so Minard drew them as bands whose width is proportional to the quantity, placed on the map.",
+   "es": {
+    "note": "Los Estados reunían estadísticas de personas y mercancías, así que Minard las dibujó como bandas de ancho proporcional a la cantidad, puestas sobre el mapa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-railways-steamships",
+   "item": "minard-napoleon-map-1869",
+   "note": "Railways and steamships made flows of goods and people a matter for engineers; Minard, an engineer, carried that flow-map method over to the movement of an army.",
+   "es": {
+    "note": "Ferrocarriles y vapores hicieron de los flujos de mercancías y personas asunto de ingenieros; Minard, ingeniero, llevó ese método de mapas de flujo al desplazamiento de un ejército."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-childrens-book-market",
+   "item": "under-the-window-1879",
+   "note": "Gift books for children sold well at Christmas, so Evans printed Greenaway’s drawings in delicate colour from wood blocks at a price families could pay.",
+   "es": {
+    "note": "Los libros de regalo infantiles se vendían bien en Navidad, así que Evans imprimió los dibujos de Greenaway en color delicado con bloques de madera a un precio que las familias podían pagar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "beggarstaffs-hamlet-1894",
+   "note": "With posters everywhere, a design had to be read at a glance; the Beggarstaffs cut flat silhouettes from paper in place of detailed drawing.",
+   "es": {
+    "note": "Con carteles por todas partes, un diseño debía leerse de un vistazo; los Beggarstaffs recortaron siluetas planas de papel en lugar de un dibujo detallado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-leisure",
+   "item": "tournee-chat-noir-1896",
+   "note": "Cabarets competed for a public of city pleasure-seekers, so the Chat Noir announced its tour with a street poster of a single bold cat.",
+   "es": {
+    "note": "Los cabarets competían por un público urbano en busca de diversión, así que el Chat Noir anunció su gira con un cartel callejero de un solo gato audaz."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "tournee-chat-noir-1896",
+   "note": "In a street crowded with posters, Steinlen reduced the cat to a few bold flat shapes that could be read from afar.",
+   "es": {
+    "note": "En una calle llena de carteles, Steinlen redujo el gato a pocas formas planas y atrevidas que se leían de lejos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "akzidenz-grotesk-1896",
+   "note": "Advertising and catalogues multiplied the jobbing printer’s work, and the foundry answered with a plain sans serif without ornament, easy to set in quantity.",
+   "es": {
+    "note": "La publicidad y los catálogos multiplicaron el trabajo de imprenta suelto, y la fundición respondió con una sans serif sencilla y sin adorno, fácil de componer en cantidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latam-urbanisation",
+   "item": "caras-y-caretas-1898",
+   "note": "Growing cities with immigrants and rising literacy created a mass public, which a cheap weekly of photographs and cartoons could reach.",
+   "es": {
+    "note": "Las ciudades en crecimiento, con inmigrantes y una alfabetización en alza, crearon un público masivo al que podía llegar un semanario barato de fotos y caricaturas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "priester-matches-1905",
+   "note": "As the brand name became a firm’s asset, Bernhard cut the poster down to the name and the product, so the brand was what the passer-by remembered.",
+   "es": {
+    "note": "Al volverse el nombre de marca un activo de la empresa, Bernhard redujo el cartel al nombre y al producto, de modo que la marca fuera lo que el transeúnte recordaba."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-telephone",
+   "item": "bell-telephone-1876",
+   "note": "The idea of a network of subscribers needed an instrument simple to use at home and in the office, which later settled into the handset-and-transmitter type.",
+   "es": {
+    "note": "La idea de una red de abonados exigía un aparato simple de usar en casa y en la oficina, que después se asentó en el tipo de auricular y micrófono."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-electricity",
+   "item": "edison-bulb-1879",
+   "note": "A durable, low-current carbon filament made domestic electric light possible, and the bulb and its base were then standardised.",
+   "es": {
+    "note": "Un filamento de carbono duradero y de baja corriente hizo posible la luz eléctrica doméstica, y luego la ampolla y su casquillo se estandarizaron."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "edison-bulb-1879",
+   "note": "The lamp was designed as one part of a system of generator, network and lamp, made in numbers by Edison’s company.",
+   "es": {
+    "note": "La lámpara se diseñó como parte de un sistema de generador, red y lámpara, fabricado en cantidad por la empresa de Edison."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-automobile",
+   "item": "mercedes-35hp-1901",
+   "note": "Racing and the car trade demanded stability and power, which moved the chassis from the carriage to a layout of its own for the car.",
+   "es": {
+    "note": "Las carreras y el comercio de autos exigieron estabilidad y potencia, lo que llevó el chasis del carruaje a una disposición propia del automóvil."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-trademark-branding",
+   "item": "gillette-safety-razor-1903",
+   "note": "Brand and mass advertising sold a cheap handle and a disposable blade bought again and again, in recognisable packaging and logo.",
+   "es": {
+    "note": "La marca y la publicidad masiva vendieron un mango barato y una hoja desechable comprada una y otra vez, con envase y logotipo reconocibles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-fashion-magazines",
+   "item": "gazette-du-bon-ton-1912",
+   "note": "A fashion press that sold couture through images needed costly colour plates; Vogel's pochoir plates let a few illustrators fix the couturier's look on paper.",
+   "es": {
+    "note": "Una prensa de moda que vendía alta costura con imágenes necesitaba láminas en color; las del pochoir de Vogel dejaron a pocos ilustradores fijar en papel el estilo del modisto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-empire-paris",
+   "item": "worth-haute-couture",
+   "note": "A court of the Empress Eugénie that set fashion in Paris gave Worth rich clients; he showed his own seasonal models to them instead of copying orders.",
+   "es": {
+    "note": "Una corte con la emperatriz Eugenia como árbitro de la moda en París le dio a Worth clientas ricas; les mostró modelos propios de temporada en vez de copiar encargos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-victorian-taste-crisis",
+   "item": "th-morris-hopes-fears-1882",
+   "note": "Poor, over-decorated industrial goods → Morris calls for an art made by the people and for the people, with pleasure in the making.",
+   "es": {
+    "note": "Bienes industriales pobres y recargados → Morris pide un arte hecho por el pueblo y para el pueblo, con placer en el hacer."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-labour-movement",
+   "item": "th-morris-hopes-fears-1882",
+   "note": "Concern for the factory worker’s life → Morris ties the quality of everyday objects to a change in how work is organised.",
+   "es": {
+    "note": "La preocupación por la vida del obrero fabril → Morris liga la calidad de los objetos cotidianos a un cambio en la organización del trabajo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "th-wright-art-craft-machine-1901",
+   "note": "Machines that cut and repeat with precision → Wright argues for plain forms designed for the machine, not imitations of handwork.",
+   "es": {
+    "note": "Máquinas que cortan y repiten con precisión → Wright defiende formas simples pensadas para la máquina, no imitaciones del trabajo manual."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "th-simmel-fashion-1904",
+   "note": "Mass retail spreads goods quickly across classes → Simmel explains fashion as imitation from below and distinction from above.",
+   "es": {
+    "note": "El comercio masivo difunde rápido los bienes entre clases → Simmel explica la moda como imitación desde abajo y distinción desde arriba."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-national-unifications",
+   "item": "inst-darmstadt-colony",
+   "note": "German states compete for cultural and industrial prestige → the Hesse court sponsors a model of housing and applied arts.",
+   "es": {
+    "note": "Los Estados alemanes compiten por prestigio cultural e industrial → la corte de Hesse patrocina un modelo de vivienda y artes aplicadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "plakatstil",
+   "note": "Brand advertising needs the product recognised at a glance → posters reduce the image to a flat object and a large name.",
+   "es": {
+    "note": "La publicidad de marcas exige reconocer el producto de un vistazo → el cartel reduce la imagen a un objeto plano y un nombre grande."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japonisme",
+   "item": "inst-maison-art-nouveau",
+   "note": "Bing, a dealer in Japanese art, turns that taste into a programme of new decorative arts shown in his Paris gallery.",
+   "es": {
+    "note": "Bing, marchante de arte japonés, convierte ese gusto en un programa de nuevas artes decorativas expuestas en su galería de París."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "cfa-voysey",
+   "note": "Hygiene and household-advice culture favoured light, plain, easy-to-clean rooms → Voysey’s white houses and unornamented furniture and papers.",
+   "es": {
+    "note": "La cultura de la higiene y los manuales domésticos favoreció ambientes claros, simples y fáciles de limpiar → casas blancas, y muebles y papeles sin ornamento superfluo en Voysey."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-childrens-book-market",
+   "item": "walter-crane",
+   "note": "Expanding schooling and a market for children’s books → colour toy books whose pictures carry the page, drawn by Crane and printed by Evans.",
+   "es": {
+    "note": "La escolarización en expansión y un mercado de libros infantiles → toy books en color donde la imagen lleva la página, dibujados por Crane e impresos por Evans."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "will-bradley",
+   "note": "The poster craze reached the United States in the 1890s → Bradley’s posters and magazine covers in flat colour and flowing line.",
+   "es": {
+    "note": "La moda del cartel llegó a Estados Unidos en la década de 1890 → carteles y portadas de revista de Bradley, en color plano y línea fluida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "ludwig-hohlwein",
+   "note": "Brand advertising needed posters that work at a glance → Hohlwein’s flat colour and synthetic silhouette for commercial clients.",
+   "es": {
+    "note": "La publicidad de marcas necesitaba carteles que se leyeran de un vistazo → color plano y silueta sintética en Hohlwein, para clientes comerciales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "gustav-stickley",
+   "note": "Magazine and catalogue selling reached a national middle-class public → Stickley sold Craftsman furniture by catalogue and promoted it in The Craftsman.",
+   "es": {
+    "note": "La venta por revista y catálogo llegó a un público nacional de clase media → Stickley vendió muebles Craftsman por catálogo y los promovió en The Craftsman."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "wainwright-building-1891",
+   "note": "Cheap steel and the elevator made tall offices pay; Sullivan chose to express the frame as vertical piers, giving the office tower its own form.",
+   "es": {
+    "note": "El acero barato y el ascensor hicieron rentable la oficina en altura; Sullivan optó por expresar el armazón como pilares verticales y dio forma propia a la torre de oficinas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-bourgeois-home-hygiene",
+   "item": "voysey-orchard-1899",
+   "note": "The middle-class home was now meant to be light, simple and easy to clean; Voysey answered with plain white walls and uncluttered rooms.",
+   "es": {
+    "note": "Se esperaba que la casa de clase media fuera luminosa, sencilla y fácil de limpiar; Voysey respondió con muros blancos lisos y habitaciones despejadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-national-unifications",
+   "item": "ernst-ludwig-house-1901",
+   "note": "Within the united German Empire, the Hessian grand duke used art patronage to give his state prestige; the colony and Olbrich’s building were its showcase.",
+   "es": {
+    "note": "Dentro del Imperio alemán unificado, el gran duque de Hesse usó el mecenazgo artístico para dar prestigio a su Estado; la colonia y el edificio de Olbrich fueron su vitrina."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-childrens-book-market",
+   "item": "crane-babys-opera-1877",
+   "note": "Wider schooling and colour printing created a middle-class market for children’s books; Crane designed whole pages for the child’s eye, printed in colour by Evans.",
+   "es": {
+    "note": "La escolarización y la impresión en color crearon un mercado de clase media para libros infantiles; Crane diseñó páginas enteras para el ojo del niño, impresas en color por Evans."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "bradley-chap-book-1894",
+   "note": "As the poster craze reached literary magazines, Bradley turned a magazine’s publicity into a collectable poster with Beardsley-like line and flat colour.",
+   "es": {
+    "note": "Cuando la fiebre del cartel llegó a las revistas literarias, Bradley convirtió la publicidad de una revista en un cartel coleccionable de línea cercana a Beardsley y color plano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "hohlwein-posters-1908",
+   "note": "With consumer brands advertising by poster, clients needed images read in a moment; Hohlwein cut figures down to a few flat colour shapes.",
+   "es": {
+    "note": "Con las marcas de consumo anunciándose en carteles, los clientes necesitaban imágenes que se leyeran en un instante; Hohlwein redujo las figuras a unas pocas formas de color plano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-advertising-catalogue",
+   "item": "stickley-craftsman-1901",
+   "note": "Magazine and catalogue selling carried the solid Craftsman piece across the country, so a workshop’s style became a national product.",
+   "es": {
+    "note": "La revista y la venta por catálogo llevaron la pieza Craftsman sólida por todo el país, y el estilo de un taller se volvió un producto nacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-second-industrial-revolution",
+   "item": "dresser-teapot",
+   "note": "Cheap electroplating let factories make silver-look tableware; Dresser drew plain geometric forms that machines could repeat, with form and not applied ornament carrying the design.",
+   "es": {
+    "note": "El electrochapado abarató la vajilla de aspecto plateado; Dresser dibujó formas geométricas simples que la máquina podía repetir, y la forma, no el ornamento aplicado, sostenía el diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-poster-craze",
+   "item": "moulin-rouge-la-goulue",
+   "note": "With posters filling Paris streets and attracting collectors, a cabaret commissioned an artist for one; Lautrec's lithograph made a work of publicity that people sought out.",
+   "es": {
+    "note": "Con carteles que llenaban las calles de París y atraían a coleccionistas, un cabaré encargó uno a un artista; la litografía de Lautrec hizo de la publicidad una obra que la gente buscaba."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-department-stores",
+   "item": "worth-haute-couture",
+   "note": "Worth trained in the drapers' novelty trade (Swan & Edgar, then Gagelin in Paris); in his own house he sold designs under his name, not only cloth.",
+   "es": {
+    "note": "Worth se formó en el comercio de novedades de los pañeros (Swan & Edgar, luego Gagelin en París); en su propia casa vendió diseños con su nombre y no solo telas."
+   },
+   "refs": []
+  }
+ ]
+}

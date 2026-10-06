@@ -1,0 +1,549 @@
+[
+ {
+  "rtype": "production",
+  "id": "photocopying",
+  "name": "Xerography and the photocopier",
+  "name_es": "Xerografía y fotocopiadora",
+  "sub": "tools",
+  "start": 1959,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "La fotocopiadora de oficina (Xerox 914, 1959) da a cualquiera un medio de impresión: base del fanzine punk y de la gráfica «hazlo tú mismo».",
+  "anclas": [
+   "sniffin-glue-1976"
+  ],
+  "era": "postwar",
+  "nota": "Reemplaza a `xerox-914`, que quedó en reserva en la etapa 2.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-giedion-mechanization-1948",
+  "name": "Mechanization Takes Command",
+  "name_es": "La mecanización toma el mando",
+  "author": "Sigfried Giedion",
+  "year": 1948,
+  "genre": "history",
+  "regions": [
+   "europe",
+   "north-america"
+  ],
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Historia «anónima» de los objetos y la mecanización (cocina, cadena de montaje, mueble patentado): fundadora de la historia del diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-fordism",
+    "mecanismo": "La cadena de montaje y la cocina racional se estudian como hechos culturales"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-space-time-architecture",
+    "mecanismo": "Continúa su historia de la modernidad"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-fordism",
+    "item": "th-giedion-mechanization-1948",
+    "mecanismo": "La cadena de montaje y la cocina racional se estudian como hechos culturales"
+   }
+  ],
+  "escribir_conexiones": [
+   {
+    "from": "th-giedion-mechanization-1948",
+    "to": "th-space-time-architecture",
+    "mecanismo": "Continúa su historia de la modernidad"
+   }
+  ],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-barthes-mythologies-1957",
+  "name": "Mythologies",
+  "name_es": "Mitologías",
+  "author": "Roland Barthes",
+  "year": 1957,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Ensayos sobre el Citroën DS, el plástico o la publicidad: inaugura la lectura semiótica de los objetos de consumo.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-consumer-society",
+    "mecanismo": "Los objetos de consumo de la posguerra se leen como signos y mitos"
+   },
+   {
+    "tipo": "secundario",
+    "via": "citroen-ds",
+    "mecanismo": "Su ensayo sobre el DS es lectura habitual en los cursos"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-consumer-society",
+    "item": "th-barthes-mythologies-1957",
+    "mecanismo": "Los objetos de consumo de la posguerra se leen como signos y mitos"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.works": [
+    "citroen-ds"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-lynch-image-city-1960",
+  "name": "The Image of the City",
+  "name_es": "La imagen de la ciudad",
+  "author": "Kevin Lynch",
+  "year": 1960,
+  "genre": "architecture",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Legibilidad urbana (sendas, bordes, nodos, hitos): base de la señalética y del diseño urbano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-motorisation",
+    "mecanismo": "La ciudad del automóvil se vuelve difícil de leer → estudio de cómo la gente se orienta"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-motorisation",
+    "item": "th-lynch-image-city-1960",
+    "mecanismo": "La ciudad del automóvil se vuelve difícil de leer → estudio de cómo la gente se orienta"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-albers-interaction-color-1963",
+  "name": "Interaction of Color",
+  "name_es": "La interacción del color",
+  "author": "Josef Albers",
+  "year": 1963,
+  "genre": "pedagogy",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Manual de color de un maestro de la Bauhaus, Black Mountain y Yale; sigue en uso en las escuelas.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-migration-exile",
+    "mecanismo": "Un profesor de la Bauhaus exiliado traslada su curso de color a Estados Unidos"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-black-mountain",
+    "mecanismo": "Enseña en Black Mountain College"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-migration-exile",
+    "item": "th-albers-interaction-color-1963",
+    "mecanismo": "Un profesor de la Bauhaus exiliado traslada su curso de color a Estados Unidos"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.institutions": [
+    "inst-black-mountain"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-munari-arte-come-mestiere-1966",
+  "name": "Design as Art (Arte come mestiere)",
+  "name_es": "El arte como oficio",
+  "author": "Bruno Munari",
+  "year": 1966,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Defensa del diseñador como artista de la vida cotidiana; texto clásico del diseño italiano.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-italian-design-culture",
+    "mecanismo": "El diseño italiano se piensa como cultura y no solo como industria"
+   },
+   {
+    "tipo": "secundario",
+    "via": "bruno-munari",
+    "mecanismo": "Autor"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-italian-design-culture",
+    "item": "th-munari-arte-come-mestiere-1966",
+    "mecanismo": "El diseño italiano se piensa como cultura y no solo como industria"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "bruno-munari"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-ruder-typographie-1967",
+  "name": "Typographie",
+  "name_es": "Typographie",
+  "author": "Emil Ruder",
+  "year": 1967,
+  "genre": "typography",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Manual de la Escuela de Basilea; con Müller-Brockmann, la otra referencia del estilo suizo.",
+  "links": [
+   {
+    "tipo": "secundario",
+    "via": "basel-school-typography",
+    "mecanismo": "Sistematiza la enseñanza de Basilea"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "basel-school-typography"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-simon-sciences-artificial-1969",
+  "name": "The Sciences of the Artificial",
+  "name_es": "Las ciencias de lo artificial",
+  "author": "Herbert A. Simon",
+  "year": 1969,
+  "genre": "method",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Define el diseño como el paso de una situación existente a una preferida; base teórica de los métodos y del «design thinking».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mainframe-computing",
+    "mecanismo": "La computación y la inteligencia artificial llevan a pensar el diseño como resolución de problemas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "design-methods",
+    "mecanismo": "Texto de referencia del movimiento"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mainframe-computing",
+    "item": "th-simon-sciences-artificial-1969",
+    "mecanismo": "La computación y la inteligencia artificial llevan a pensar el diseño como resolución de problemas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "design-methods"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-maldonado-speranza-1970",
+  "name": "La speranza progettuale (Design, Nature, and Revolution)",
+  "name_es": "La esperanza proyectual",
+  "author": "Tomás Maldonado",
+  "year": 1970,
+  "genre": "criticism",
+  "regions": [
+   "europe",
+   "latin-america"
+  ],
+  "countries": [
+   "IT",
+   "AR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "El rector argentino de Ulm sobre ecología y proyecto; pieza clave de la teoría latinoamericana del diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-ecology",
+    "mecanismo": "La crisis ambiental exige un proyecto responsable del entorno"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-hfg-ulm",
+    "mecanismo": "Maldonado fue profesor y rector de Ulm"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-ecology",
+    "item": "th-maldonado-speranza-1970",
+    "mecanismo": "La crisis ambiental exige un proyecto responsable del entorno"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.institutions": [
+    "inst-hfg-ulm"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-rittel-webber-1973",
+  "name": "Dilemmas in a General Theory of Planning",
+  "name_es": "Dilemas de una teoría general de la planificación",
+  "author": "Horst Rittel and Melvin Webber",
+  "year": 1973,
+  "genre": "method",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Introduce los «problemas perversos» (wicked problems): fin del optimismo metodológico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-us-urban-renewal",
+    "mecanismo": "El fracaso de la planificación urbana técnica → los problemas sociales no tienen solución única"
+   },
+   {
+    "tipo": "secundario",
+    "via": "design-methods",
+    "mecanismo": "Cierra la primera etapa del movimiento"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-us-urban-renewal",
+    "item": "th-rittel-webber-1973",
+    "mecanismo": "El fracaso de la planificación urbana técnica → los problemas sociales no tienen solución única"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "design-methods"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-mari-autoprogettazione-1974",
+  "name": "Autoprogettazione",
+  "name_es": "Autoproyectación",
+  "author": "Enzo Mari",
+  "year": 1974,
+  "genre": "manifesto",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Muebles que cualquiera arma con tablas y clavos: crítica al consumo y antecedente del diseño abierto.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-oil-crisis",
+    "mecanismo": "La crisis y la crítica al consumo → muebles autoconstruidos con material corriente"
+   },
+   {
+    "tipo": "secundario",
+    "via": "radical-design",
+    "mecanismo": "Versión práctica de la crítica radical"
+   }
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-oil-crisis",
+    "item": "th-mari-autoprogettazione-1974",
+    "mecanismo": "La crisis y la crítica al consumo → muebles autoconstruidos con material corriente"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "radical-design"
+   ]
+  }
+ },
+ {
+  "rtype": "movement",
+  "id": "metabolism",
+  "name": "Metabolism",
+  "name_es": "Metabolismo",
+  "start": 1960,
+  "end": 1975,
+  "disciplines": [
+   "architecture"
+  ],
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Separar del actual «Brutalismo y Metabolismo»: corriente japonesa de la ciudad-estructura con cápsulas reemplazables.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-miracle",
+    "mecanismo": "El crecimiento acelerado de las ciudades japonesas → megaestructuras que crecen y cambian por partes"
+   },
+   {
+    "tipo": "secundario",
+    "via": "th-metabolism-1960",
+    "mecanismo": "Su manifiesto de 1960 fija el programa"
+   }
+  ],
+  "miembros": [
+   "nakagin-capsule-tower",
+   "kurokawa",
+   "kenzo-tange",
+   "th-metabolism-1960",
+   "yoyogi-gymnasium-1964"
+  ],
+  "era": "postwar",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-japan-miracle",
+    "item": "metabolism",
+    "mecanismo": "El crecimiento acelerado de las ciudades japonesas → megaestructuras que crecen y cambian por partes"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

@@ -1,0 +1,60 @@
+[
+ {
+  "rtype": "context",
+  "id": "ctx-stalinism-socialist-realism",
+  "track": "political",
+  "start": 1932,
+  "end": 1953,
+  "date": "1932–1953",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "name": "Stalinism and socialist realism",
+  "short": "Socialist realism",
+  "key": "Under Stalin the state ended the independent art groups of the 1920s and made socialist realism the only official style, closing the avant-garde’s room to work.",
+  "happened": "A decree of 23 April 1932 dissolved the independent artistic organisations of the Soviet Union and replaced them with single state unions. Socialist realism, the doctrine of art that depicted Soviet life in an accessible, optimistic way in the service of the Party, was set out as the official method in the following years. Stalin ruled until his death in March 1953, and in the late 1930s the repression struck many artists.",
+  "effect": "The commissions that had sustained the avant-garde now went to a state-defined style: Constructivism lost its institutional base as a programme, and the posters, magazines and buildings of the 1930s turned from experiment towards the glorification of the leader and the plans. Photomontage, a Constructivist invention, was kept as a tool of propaganda but placed at the service of the official cult, and designers such as Gustav Klutsis, who had made it the language of the Five-Year Plan, were arrested in the 1938 repression.",
+  "es": {
+   "name": "Estalinismo y realismo socialista",
+   "short": "Realismo socialista",
+   "date": "1932–1953",
+   "key": "Bajo Stalin el Estado terminó con los grupos artísticos independientes de los años veinte e hizo del realismo socialista el único estilo oficial, cerrando el espacio de trabajo de la vanguardia.",
+   "happened": "Un decreto del 23 de abril de 1932 disolvió las organizaciones artísticas independientes de la Unión Soviética y las reemplazó por uniones estatales únicas. El realismo socialista, la doctrina de un arte que mostraba la vida soviética de forma accesible y optimista al servicio del Partido, se fijó como método oficial en los años siguientes. Stalin gobernó hasta su muerte en marzo de 1953, y a fines de los años treinta la represión golpeó a muchos artistas.",
+   "effect": "Los encargos que habían sostenido a la vanguardia pasaron a un estilo definido por el Estado: el constructivismo perdió su base institucional como programa, y los carteles, las revistas y los edificios de los años treinta giraron del experimento hacia la glorificación del líder y de los planes. El fotomontaje, invento constructivista, se mantuvo como herramienta de propaganda pero puesto al servicio del culto oficial, y diseñadores como Gustav Klutsis, que lo había convertido en el lenguaje del Plan Quinquenal, fueron arrestados en la represión de 1938."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-stalinism-socialist-realism",
+  "item": "constructivism",
+  "note": "The state dissolved independent art groups in 1932 and imposed socialist realism, so Constructivism lost its institutions and ended as a programme.",
+  "es": {
+   "note": "El Estado disolvió en 1932 los grupos artísticos independientes e impuso el realismo socialista, así que el constructivismo perdió sus instituciones y terminó como programa."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-stalinism-socialist-realism",
+  "item": "ussr-in-construction",
+  "note": "The magazine kept its avant-garde montage and fold-outs but turned them to celebrating state projects, such as the 1933 White Sea Canal issue.",
+  "es": {
+   "note": "La revista conservó el montaje y los desplegables de vanguardia, pero los puso al servicio de celebrar obras del Estado, como el número de 1933 sobre el canal del mar Blanco."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-stalinism-socialist-realism",
+  "item": "gustav-klutsis",
+  "note": "The state that adopted his photomontage for its propaganda turned on its makers: Klutsis was arrested in 1938 and killed at Butovo.",
+  "es": {
+   "note": "El Estado que usó su fotomontaje para su propaganda se volvió contra sus autores: Klutsis fue arrestado en 1938 y asesinado en Butovo."
+  },
+  "refs": []
+ }
+]

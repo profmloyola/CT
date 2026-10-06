@@ -1,0 +1,299 @@
+[
+ {
+  "id": "muller-brockmann",
+  "en": {
+   "key": "Swiss graphic designer in Zurich who became a leading voice of the Swiss style, with grid-based posters and the review Neue Grafik.[1][2]",
+   "more": "Born in Rapperswil in 1914,[1] he worked in Zurich as a designer and teacher.[1][2] He was one of the editors of the review Neue Grafik, which from 1958 spread the Swiss approach to the world.[1] His posters, such as the road-safety poster of 1953 and his concert posters for the Zurich Tonhalle,[2] use photography or abstract forms with a strict grid and sans-serif type.[1][3] He wrote Grid Systems in Graphic Design (1981)[2] and died in 1996.[1]"
+  },
+  "es": {
+   "key": "Diseñador gráfico suizo de Zúrich que fue una voz principal del estilo suizo, con carteles basados en retícula y la revista Neue Grafik.[1][2]",
+   "more": "Nacido en Rapperswil en 1914,[1] trabajó en Zúrich como diseñador y docente.[1][2] Fue uno de los editores de la revista Neue Grafik, que desde 1958 difundió al mundo el enfoque suizo.[1] Sus carteles, como el de seguridad vial de 1953 y los de conciertos para la Tonhalle de Zúrich,[2] usan fotografía o formas abstractas con una retícula estricta y letra sin serifa.[1][3] Escribió Sistemas reticulares en el diseño gráfico (1981)[2] y murió en 1996.[1]"
+  },
+  "refs": [
+   {
+    "label": "Historisches Lexikon der Schweiz, «Müller-Brockmann, Josef»",
+    "url": "https://hls-dhs-dss.ch/articles/027870/2010-02-02/",
+    "checks": "nació el 9 de mayo de 1914 en Rapperswil (SG) y murió el 30 de agosto de 1996 en Unterengstringen; enseñó en la Escuela de Artes Aplicadas de Zúrich desde 1957; editó Neue Grafik en 1958-1965; series de carteles para la Tonhalle; combinó tipografía, fotografía y dibujo. ⚠ No menciona Grid Systems ni el cartel de 1953.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Josef Müller-Brockman»",
+    "url": "https://www.britannica.com/biography/Josef-Muller-Brockman",
+    "checks": "diseñador, educador y escritor con base en Zúrich; serie de carteles de conciertos de Zúrich con formas geométricas elementales y tipografía; cartel de seguridad vial de 1953; Grid Systems (1981). ⚠ No da fechas de vida en el extracto abierto.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Victoria and Albert Museum, «Musica Viva» (cartel de Müller-Brockmann)",
+    "url": "https://collections.vam.ac.uk/item/O110243/musica-viva-poster-josef-muller-brockmann/",
+    "checks": "estilo basado en retículas geométricas simples y tipografías sin serifa; cartel de 1959 para un concierto en la Tonhalle de Zúrich. ⚠ Solo confirma la retícula y la letra sin serifa; el uso de fotografía viene de la ref. 1.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Rapperswil y 1914/1996 confirmados por el HLS; el HLS da la muerte en Unterengstringen (no aparece en la ficha).",
+   "Neue Grafik: el HLS fecha la edición en 1958-1965; la frase «difundió al mundo» no se verifica literalmente en las fuentes abiertas (Eye la sugería), se mantiene citada a la ref. 1 de forma suave.",
+   "El cartel de seguridad vial de 1953 lo menciona Britannica sin más detalle."
+  ]
+ },
+ {
+  "id": "lina-bo-bardi",
+  "en": {
+   "key": "Italian-born Brazilian architect and designer, author of the MASP building, the Casa de Vidro and SESC Pompéia, who worked with popular culture.[1][3]",
+   "more": "Born in Rome in 1914, she studied architecture there[1][2] and moved to Brazil in 1946 with Pietro Maria Bardi.[1][2] She designed the Casa de Vidro in São Paulo (1951), the MASP building on Avenida Paulista (1968) and the conversion of a factory into SESC Pompéia (1986).[1][2][3] She drew on Brazilian popular culture.[1][3] She died in São Paulo in 1992.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecta y diseñadora brasileña de origen italiano, autora del edificio del MASP, la Casa de Vidro y el SESC Pompéia, que trabajó con la cultura popular.[1][3]",
+   "more": "Nacida en Roma en 1914, estudió arquitectura allí[1][2] y se trasladó a Brasil en 1946 con Pietro Maria Bardi.[1][2] Diseñó la Casa de Vidro en São Paulo (1951), el edificio del MASP en la avenida Paulista (1968) y la transformación de una fábrica en el SESC Pompéia (1986).[1][2][3] Se apoyó en la cultura popular brasileña.[1][3] Murió en São Paulo en 1992.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Lina Bo Bardi»",
+    "url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+    "checks": "nació el 5 de diciembre de 1914 en Roma y murió en São Paulo en 1992; se instaló en Brasil en 1946; Casa de Vidro (1951), MASP (1968), SESC Pompéia (1986); su obra fundió modernismo y populismo.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Instituto Bardi, «Lina Bo Bardi»",
+    "url": "https://institutobardi.org.br/en/grupo_the-founders/04_lina-bo-bardi_en/",
+    "checks": "nacida en Roma en 1914, murió en São Paulo en 1992; estudió arquitectura en Roma (1934-1939); llegó a Brasil en 1946 con Pietro Maria Bardi; Casa de Vidro 1951; MASP inaugurado en 1968 en la avenida Paulista. ⚠ Da 1982 como apertura del SESC Pompéia; no menciona la cultura popular.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Enciclopédia Itaú Cultural, «Lina Bo Bardi»",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoas/526-lina-bo-bardi",
+    "checks": "llegó a Brasil en 1946 con Pietro Maria Bardi; MASP (1968), Casa de Vidro (1951) y SESC Pompéia como fábrica readaptada; veía la cultura popular brasileña como vital para el modernismo. ⚠ No fecha el SESC en 1986.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité la Bowl Chair y «y la artesanía» (en key y more): ninguna fuente abierta confirma la silla ni el vínculo con la artesanía; en su lugar queda solo la cultura popular, confirmada.",
+   "Quité «que estudió y difundió»: no se verifica.",
+   "SESC Pompéia: Britannica da 1986 (la ficha coincide), el Instituto Bardi da 1982 como apertura y Itaú 1977 como inicio; es una diferencia de criterio (proyecto/apertura/conclusión), no se cambia.",
+   "Fechas 1914–1992 confirmadas; la fecha exacta de muerte difiere entre fuentes (20 vs 29 de marzo), irrelevante para la ficha."
+  ]
+ },
+ {
+  "id": "ettore-sottsass",
+  "en": {
+   "key": "Italian designer who worked for Olivetti from 1958 and later led the irreverent Memphis group in Milan.[1][2]",
+   "more": "He began as an architect and from 1958 was a consultant designer for Olivetti,[1][2] where he worked on the Elea 9003 computer and the Valentine portable typewriter of 1969.[1] In 1981 he founded the Memphis group in Milan,[2][3] which broke with functionalist sobriety;[1][2] the Carlton bookcase is among its best-known pieces.[2] He was born in Innsbruck in 1917 and died in Milan in 2007.[1][2]"
+  },
+  "es": {
+   "key": "Diseñador italiano que trabajó para Olivetti desde 1958 y luego lideró en Milán el irreverente grupo Memphis.[1][2]",
+   "more": "Comenzó como arquitecto y desde 1958 fue diseñador consultor de Olivetti,[1][2] donde trabajó en el computador Elea 9003 y en la máquina de escribir portátil Valentine de 1969.[1] En 1981 fundó en Milán el grupo Memphis,[2][3] que rompió con la sobriedad funcionalista;[1][2] el librero Carlton es una de sus piezas más conocidas.[2] Nació en Innsbruck en 1917 y murió en Milán en 2007.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Design Museum, Londres, «Ettore Sottsass»",
+    "url": "https://designmuseum.org/designers/ettore-sottsass",
+    "checks": "nació en Innsbruck (1917) y murió en Milán (2007); consultor de diseño de Olivetti desde 1958; Elea 9003 (1959); Valentine (1969); Memphis en Milán; rechazó el funcionalismo puro. ⚠ Da 1980 para Memphis; lo describe como calculadora, no menciona a Perry King.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museum Boijmans Van Beuningen, «Ettore Sottsass»",
+    "url": "https://www.boijmans.nl/en/collection/artists/16682/ettore-sottsass",
+    "checks": "nacido en Innsbruck (1917), muerto en Milán (2007); consultor de Olivetti desde 1958; fundador de Memphis (1981-1987); librero Carlton, pieza emblemática de Memphis; Memphis buscaba devolver una dimensión simbólica y emocional al diseño. ⚠ Fecha la Valentine en 1970; no confirma que empezara como arquitecto de formación.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Ettore Sottsass»",
+    "url": "https://www.britannica.com/biography/Ettore-Sottsass",
+    "checks": "arquitecto y diseñador industrial; Olivetti (1958–80); fundó Memphis, epítome del diseño posmoderno. ⚠ Da 1980 para Memphis; el extracto no trae fechas de vida.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «dio forma a los gabinetes» del Elea 9003 y «con Perry King»: las fuentes solo confirman su trabajo en el Elea 9003 y la Valentine, no el detalle de las carcasas ni la coautoría.",
+   "Quité «colores vivos, patrones y laminados plásticos» y «colorido» en key: no confirmado en las fuentes abiertas; queda «irreverente» y la ruptura con el funcionalismo.",
+   "Fundación de Memphis: Boijmans da 1981 (como la ficha), Design Museum y Britannica 1980; posible discrepancia, no se cambia.",
+   "Valentine: Design Museum 1969 (como la ficha), Boijmans 1970."
+  ]
+ },
+ {
+  "id": "saul-bass",
+  "en": {
+   "key": "American graphic designer who turned film title sequences and posters into short works of design, and also designed corporate logos.[1][2][3]",
+   "more": "Born in New York in 1920,[1] Bass became known for his work with Otto Preminger and Alfred Hitchcock, with imaginative title sequences.[1][3] His titles for Vertigo (1958) are among his best-known work.[1] He also designed corporate identities, among them logos for the Bell telephone company (AT&T) in 1969.[1][3][4] He died in Los Angeles in 1996.[1]"
+  },
+  "es": {
+   "key": "Diseñador gráfico estadounidense que convirtió los títulos de crédito y los carteles de cine en pequeñas obras de diseño, y también diseñó logotipos corporativos.[1][2][3]",
+   "more": "Nacido en Nueva York en 1920,[1] Bass se hizo conocido por su trabajo con Otto Preminger y Alfred Hitchcock, con títulos de crédito imaginativos.[1][3] Sus títulos para Vértigo (1958) están entre sus obras más conocidas.[1] También diseñó identidades corporativas, entre ellas logotipos de la telefónica Bell (AT&T) en 1969.[1][3][4] Murió en Los Ángeles en 1996.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Saul Bass»",
+    "url": "https://www.britannica.com/biography/Saul-Bass",
+    "checks": "nació el 8 de mayo de 1920 en el Bronx, Nueva York, y murió el 25 de abril de 1996 en Los Ángeles; títulos de crédito como nueva forma de arte; Preminger (The Man with the Golden Arm, 1955) y Hitchcock (Vertigo 1958); logotipos corporativos como AT&T. ⚠ No menciona el cartel de Vértigo ni el año 1969.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museum of Modern Art, «Saul Bass»",
+    "url": "https://www.moma.org/artists/372",
+    "checks": "estadounidense, 1920–1996; carteles de cine, sobre todo para producciones de Otto Preminger, en la colección. ⚠ No da lugares ni menciona Vértigo ni Bell.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "AIGA Eye on Design, «Saul Bass, the Filmmaker’s Graphic Designer»",
+    "url": "https://eyeondesign.aiga.org/design-history-101/",
+    "checks": "colaboró con Hitchcock y Preminger, con títulos como los de The Man with the Golden Arm; logotipos para AT&T y otras empresas; carteles para Preminger desde 1954.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "AT&T, «Logo evolution fact sheet»",
+    "url": "https://www.att.com/Common/files/pdf/logo_evolution_factsheet.pdf",
+    "checks": "el sexto y último logotipo Bell se introdujo en 1969. ⚠ No atribuye ese diseño a Bass; la autoría de Bass del logo Bell de 1969 no queda confirmada por esta fuente.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «se trasladó a Los Ángeles» (no confirmado; solo consta su muerte allí), «formas planas atrevidas» y «animados» (no verificados) y «su cartel para Vértigo» (no confirmado; solo los títulos).",
+   "Logotipo Bell de 1969: Britannica y AIGA confirman logotipos de AT&T de Bass y AT&T confirma un logo Bell en 1969, pero ninguna fuente abierta liga ambos de forma explícita; se suaviza a «logotipos de la telefónica Bell (AT&T) en 1969» y queda ⚠.",
+   "Fechas y lugares de vida confirmados (Britannica)."
+  ]
+ },
+ {
+  "id": "otl-aicher",
+  "en": {
+   "key": "German graphic designer and co-founder of the Ulm school who led the visual design of Lufthansa and of the 1972 Munich Olympics.[1][2][3]",
+   "more": "Aicher co-founded the Hochschule für Gestaltung in Ulm in the early 1950s with Inge Scholl and Max Bill.[1] He developed the corporate design of Lufthansa[1][2] and led the design of the 1972 Munich Olympic Games, including its pictograms.[1][3] He died in 1991.[1][2]"
+  },
+  "es": {
+   "key": "Diseñador gráfico alemán y cofundador de la escuela de Ulm que dirigió el diseño visual de Lufthansa y de los Juegos Olímpicos de Múnich 1972.[1][2][3]",
+   "more": "Aicher cofundó la Hochschule für Gestaltung de Ulm a comienzos de los años cincuenta junto a Inge Scholl y Max Bill.[1] Desarrolló el diseño corporativo de Lufthansa[1][2] y dirigió el diseño de los Juegos Olímpicos de Múnich 1972, incluidos sus pictogramas.[1][3] Murió en 1991.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Isny im Allgäu, «Otl Aicher»",
+    "url": "https://www.isny.de/otlaicher/otl-aicher?lang=en",
+    "checks": "nació el 13 de mayo de 1922 en Ulm y murió el 1 de septiembre de 1991 en Günzburg; cofundó la HfG Ulm en 1953 con Inge Aicher-Scholl y Max Bill; identidades visuales de Braun y Lufthansa; sistema de pictogramas de Múnich 1972.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "HfG-Archiv Ulm, «The bequest of Otl Aicher»",
+    "url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+    "checks": "Aicher (1922–91), cofundador de la HfG Ulm; identidades corporativas para Braun y Lufthansa; responsable del diseño de los Juegos de Múnich y de su sistema de pictogramas. ⚠ Menciona «1968» como año del encargo y no fecha los Juegos; no fecha el trabajo para Lufthansa («desde los años sesenta» no confirmado).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Cooper Hewitt, «Faster, Higher, Stronger»",
+    "url": "https://www.cooperhewitt.org/2017/12/29/faster-higher-stronger/",
+    "checks": "Otl Aicher (1922–1991) creó el sistema de pictogramas de los Juegos de Múnich 1972; modernizó Braun y Lufthansa; cofundó la escuela de diseño de Ulm.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «desde los años sesenta» para Lufthansa: ninguna fuente abierta fecha ese trabajo.",
+   "El HfG-Archiv habla de «1968» para el encargo de Múnich; no contradice 1972 (año de los Juegos, confirmado por Cooper Hewitt). La fundación de la HfG se fecha en 1953 (Isny), coherente con «comienzos de los cincuenta».",
+   "Fechas de vida 1922–1991 y lugares (Ulm; Günzburg) confirmados."
+  ]
+ },
+ {
+  "id": "robert-venturi",
+  "en": {
+   "key": "American architect and theorist who challenged orthodox modernism with ‘Complexity and Contradiction in Architecture’ (1966) and became a founder of postmodern architecture.[1][2][3]",
+   "more": "His Vanna Venturi House in Philadelphia, designed in 1964 for his mother,[1][3] broke the modernist rule of pure, simple forms with its deliberate contradictions.[1][3] His book Complexity and Contradiction in Architecture (1966) answered Mies’s ‘less is more’ with ‘less is a bore’,[2] and with Denise Scott Brown and Steven Izenour he wrote Learning from Las Vegas (1972).[1][2] He received the Pritzker Prize in 1991.[1][2] Born in Philadelphia in 1925,[2] he died there in 2018.[3]"
+  },
+  "es": {
+   "key": "Arquitecto y teórico estadounidense que desafió el modernismo ortodoxo con «Complejidad y contradicción en la arquitectura» (1966) y fue uno de los fundadores de la arquitectura posmoderna.[1][2][3]",
+   "more": "Su Casa Vanna Venturi en Filadelfia, proyectada en 1964 para su madre,[1][3] rompió con la regla modernista de las formas puras y simples mediante sus contradicciones deliberadas.[1][3] Su libro Complejidad y contradicción en la arquitectura (1966) respondió al «menos es más» de Mies con «menos es aburrido»,[2] y con Denise Scott Brown y Steven Izenour escribió Aprendiendo de Las Vegas (1972).[1][2] Recibió el Premio Pritzker en 1991.[1][2] Nació en Filadelfia en 1925[2] y murió allí en 2018.[3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Robert Venturi»",
+    "url": "https://www.britannica.com/biography/Robert-Venturi",
+    "checks": "estudió en Princeton; Complexity and Contradiction in Architecture (1966) criticó la falta de complejidad e ironía del modernismo; Vanna Venturi House (1964) para su madre; Learning from Las Vegas (1972); Premio Pritzker 1991. ⚠ El extracto no da fechas de vida.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Premio Pritzker, «Robert Venturi» (laureado 1991)",
+    "url": "https://www.pritzkerprize.com/laureates/1991",
+    "checks": "nacido en Filadelfia en 1925, fallecido en 2018; Pritzker 1991; libros de 1966 y 1972 (con Denise Scott Brown y Steven Izenour); respondió a «menos es más» de Mies con «menos es aburrido». ⚠ Fecha la casa Vanna Venturi en 1961 (construcción) y no menciona el frontón partido.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Society of Architectural Historians, «Obituary: Robert Venturi (1925-2018)»",
+    "url": "https://sah.org/2018/09/20/obituary-robert-venturi-1925-2018/",
+    "checks": "nació el 25 de junio de 1925 y murió el 18 de septiembre de 2018 en Filadelfia; Casa Vanna Venturi completada en 1964 en Chestnut Hill para su madre; Complexity and Contradiction (1966) reorientó el pensamiento arquitectónico; renovó la arquitectura posmoderna. ⚠ No cita la frase «less is a bore».",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «mediante su frontón partido» (no confirmado en las fuentes abiertas).",
+   "Casa Vanna Venturi: Britannica y SAH dan 1964 (completada); Pritzker da 1961. La ficha dice «proyectada en 1964», que parece ser el año de conclusión; posible error de la ficha, no se cambia.",
+   "SAH solo dice «Pennsylvania» para el nacimiento; Filadelfia 1925 viene del Pritzker."
+  ]
+ },
+ {
+  "id": "verner-panton",
+  "en": {
+   "key": "Danish designer who used plastics, bright colour and curved forms to make furniture, lamps and interiors for the pop 1960s.[1][2][3]",
+   "more": "Panton trained as an architect and worked in Denmark and Switzerland.[1] His Panton chair, a single moulded cantilever form, was developed in the late 1950s and produced from 1967,[2] and his Flowerpot lamp dates from 1968.[3] He also designed complete interiors in saturated colour.[1] He died in 1998.[1]"
+  },
+  "es": {
+   "key": "Diseñador danés que usó plásticos, color intenso y formas curvas para crear muebles, lámparas e interiores de los años sesenta pop.[1][2][3]",
+   "more": "Panton se formó como arquitecto y trabajó en Dinamarca y Suiza.[1] Su silla Panton, una sola forma moldeada en voladizo, se desarrolló a fines de los años cincuenta y se produjo desde 1967,[2] y su lámpara Flowerpot es de 1968.[3] También diseñó interiores completos en colores saturados.[1] Murió en 1998.[1]"
+  },
+  "refs": [
+   {
+    "label": "Cooper Hewitt, «Verner Panton» (biografía)",
+    "url": "https://collection.cooperhewitt.org/people/18045471/bio",
+    "checks": "danés (1926–1998); título de arquitecto por la Real Academia Danesa en 1951; director artístico de la empresa suiza Mira-X; Visiona: entornos en colores saturados; materiales como plástico moldeado por inyección. ⚠ No da lugares de nacimiento ni de muerte.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Vitra, «Panton Chair»",
+    "url": "https://www.vitra.com/en-us/about-vitra/original/panton-chair",
+    "checks": "concebida a fines de los años cincuenta; primera silla en voladizo de plástico de una pieza; primera producción en 1967 (150 unidades). ⚠ Fuente del fabricante; no cubre la vida de Panton.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "&Tradition, «Verner Panton»",
+    "url": "https://www.andtradition.com/designers/verner-panton",
+    "checks": "Panton (1926–1998), diseñador danés formado como arquitecto; el color como herramienta central; lámpara Flowerpot creada en 1968. ⚠ Fuente del fabricante.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Fechas 1926–1998 confirmadas; ninguna fuente de las abiertas de alta calidad da lugar de nacimiento/muerte (solo una fuente comercial), por eso no se afirma.",
+   "«Trabajó en Dinamarca y Suiza» se apoya en Cooper Hewitt (Mira-X, empresa suiza), lo que es indicio, no prueba directa de residencia; se mantiene citado.",
+   "«Curvas» en key no se verifica literalmente; queda como en la ficha."
+  ]
+ },
+ {
+  "id": "sergio-rodrigues",
+  "en": {
+   "key": "Brazilian furniture designer from Rio de Janeiro who made a modern Brazilian style in native woods, best known for the Mole armchair of 1957.[1][2]",
+   "more": "Born in Rio de Janeiro in 1927,[1] he trained as an architect[1] and became one of the main figures of modern Brazilian furniture.[1][2] He worked with solid native woods such as jacarandá and with Brazilian craft techniques.[1][2] The Mole armchair, from 1957, with a wide wooden frame and leather cushions, is his best-known piece.[1][2] He died in Rio de Janeiro in 2014.[1]"
+  },
+  "es": {
+   "key": "Diseñador de muebles brasileño de Río de Janeiro que creó un estilo moderno brasileño en maderas nativas, conocido sobre todo por el sillón Mole de 1957.[1][2]",
+   "more": "Nacido en Río de Janeiro en 1927,[1] se formó como arquitecto[1] y llegó a ser una de las figuras principales del mueble moderno brasileño.[1][2] Trabajó con maderas macizas nativas, como el jacarandá, y con técnicas artesanales brasileñas.[1][2] El sillón Mole, de 1957, con una amplia estructura de madera y cojines de cuero, es su pieza más conocida.[1][2] Murió en Río de Janeiro en 2014.[1]"
+  },
+  "refs": [
+   {
+    "label": "Enciclopédia Itaú Cultural, «Sergio Rodrigues»",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoas/13099-sergio-rodrigues",
+    "checks": "nació el 22 de septiembre de 1927 en Río de Janeiro y murió el 1 de septiembre de 2014 en la misma ciudad; ingresó en 1947 a la Facultad Nacional de Arquitectura y se tituló en 1951; maderas nativas (jacarandá, freijó); poltrona Mole (1957) con estructura robusta de madera y correas de cuero; mantuvo técnicas artesanales.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Mole Armchair and Ottoman»",
+    "url": "https://www.metmuseum.org/art/collection/search/772912",
+    "checks": "Sergio Rodrigues (1927–2014), de Río de Janeiro, «padre del diseño moderno en Brasil»; sillón Mole de 1957 en jacarandá con cojines de cuero negro; vocabulario formal brasileño. ⚠ No cubre la formación como arquitecto.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Fechas y lugares 1927/2014 en Río de Janeiro confirmados (Itaú Cultural).",
+   "«Estructura amplia» se apoya en «grossura e robustez» de Itaú; «técnicas artesanales» en Itaú Cultural."
+  ]
+ }
+]

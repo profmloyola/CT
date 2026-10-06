@@ -1,0 +1,347 @@
+[
+ {
+  "rtype": "production",
+  "id": "safety-elevator",
+  "name": "Safety elevator",
+  "name_es": "Ascensor de seguridad",
+  "sub": "tools",
+  "start": 1853,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "prioridad": "B",
+  "curso": "El freno de seguridad de Otis (1853–1857) hace habitables los pisos altos: condición técnica del rascacielos.",
+  "anclas": [
+   "home-insurance-building-1885",
+   "wainwright-building-1891"
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-morris-hopes-fears-1882",
+  "name": "Hopes and Fears for Art",
+  "name_es": "Esperanzas y temores para el arte",
+  "author": "William Morris",
+  "year": 1882,
+  "genre": "criticism",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "essential",
+  "prioridad": "A",
+  "curso": "Las conferencias de Morris (desde 1877) sobre las «artes menores» y el trabajo: el texto fundador del Arts and Crafts. Morris es ★ y hoy no tiene ningún texto propio en la línea.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-victorian-taste-crisis",
+    "mecanismo": "La mala calidad de la producción industrial → Morris pide un arte hecho por el pueblo y para el pueblo"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-labour-movement",
+    "mecanismo": "Su crítica del trabajo industrial converge con el socialismo de la década de 1880"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Programa teórico del movimiento"
+   }
+  ],
+  "era": "reform",
+  "duda": "Año de la primera conferencia («The Decorative Arts», 1877) y de la edición (1882): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-victorian-taste-crisis",
+    "item": "th-morris-hopes-fears-1882",
+    "mecanismo": "La mala calidad de la producción industrial → Morris pide un arte hecho por el pueblo y para el pueblo"
+   },
+   {
+    "ctx": "ctx-labour-movement",
+    "item": "th-morris-hopes-fears-1882",
+    "mecanismo": "Su crítica del trabajo industrial converge con el socialismo de la década de 1880"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "arts-and-crafts"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-wright-art-craft-machine-1901",
+  "name": "The Art and Craft of the Machine",
+  "name_es": "El arte y el oficio de la máquina",
+  "author": "Frank Lloyd Wright",
+  "year": 1901,
+  "genre": "manifesto",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Conferencia de Hull House: a diferencia de Morris, Wright acepta la máquina como herramienta del artista. Hito citado en toda historia.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-second-industrial-revolution",
+    "mecanismo": "La máquina moderna puede cortar y repetir con precisión → Wright propone formas simples pensadas para ella"
+   },
+   {
+    "tipo": "secundario",
+    "via": "arts-and-crafts",
+    "mecanismo": "Responde al Arts and Crafts desde Chicago"
+   }
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-second-industrial-revolution",
+    "item": "th-wright-art-craft-machine-1901",
+    "mecanismo": "La máquina moderna puede cortar y repetir con precisión → Wright propone formas simples pensadas para ella"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "arts-and-crafts"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-simmel-fashion-1904",
+  "name": "Fashion",
+  "name_es": "La moda",
+  "author": "Georg Simmel",
+  "year": 1904,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Teoría clásica de la moda como tensión entre imitación y distinción (difusión «de arriba abajo»).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-department-stores",
+    "mecanismo": "La moda se difunde rápido entre clases gracias al comercio masivo → Simmel la explica como imitación y distinción"
+   }
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-department-stores",
+    "item": "th-simmel-fashion-1904",
+    "mecanismo": "La moda se difunde rápido entre clases gracias al comercio masivo → Simmel la explica como imitación y distinción"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-darmstadt-colony",
+  "name": "Darmstadt Artists’ Colony",
+  "name_es": "Colonia de Artistas de Darmstadt (Mathildenhöhe)",
+  "kind": "association",
+  "start": 1899,
+  "end": 1914,
+  "place": "Darmstadt",
+  "disciplines": [
+   "architecture",
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Colonia creada por el gran duque Ernesto Luis; Olbrich y Behrens ensayan allí la obra de arte total del Jugendstil.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-national-unifications",
+    "mecanismo": "Los Estados alemanes compiten por prestigio cultural e industrial → mecenazgo de un modelo de vivienda y artes aplicadas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "joseph-maria-olbrich",
+    "mecanismo": "Olbrich proyecta sus edificios principales"
+   }
+  ],
+  "era": "reform",
+  "obras": [
+   "ernst-ludwig-house-1901"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-national-unifications",
+    "item": "inst-darmstadt-colony",
+    "mecanismo": "Los Estados alemanes compiten por prestigio cultural e industrial → mecenazgo de un modelo de vivienda y artes aplicadas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "joseph-maria-olbrich"
+   ]
+  }
+ },
+ {
+  "rtype": "movement",
+  "id": "plakatstil",
+  "name": "Plakatstil (object poster)",
+  "name_es": "Plakatstil (cartel de objeto)",
+  "start": 1905,
+  "end": 1920,
+  "disciplines": [
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Paso del cartel ilustrado al cartel moderno reducido a objeto y marca; capítulo fijo de Meggs.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-mass-advertising-catalogue",
+    "mecanismo": "La publicidad de marcas pide reconocer el producto de un vistazo → objeto plano y nombre en grande"
+   },
+   {
+    "tipo": "secundario",
+    "via": "priester-matches-1905",
+    "mecanismo": "El cartel de Bernhard para Priester es el punto de partida del estilo"
+   }
+  ],
+  "miembros": [
+   "priester-matches-1905",
+   "lucian-bernhard",
+   "hohlwein-posters-1908",
+   "ludwig-hohlwein"
+  ],
+  "era": "reform",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-mass-advertising-catalogue",
+    "item": "plakatstil",
+    "mecanismo": "La publicidad de marcas pide reconocer el producto de un vistazo → objeto plano y nombre en grande"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.works": [
+    "priester-matches-1905"
+   ]
+  }
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-maison-art-nouveau",
+  "name": "Maison de l'Art Nouveau (Siegfried Bing)",
+  "name_es": "Maison de l'Art Nouveau (Siegfried Bing)",
+  "kind": "company",
+  "start": 1895,
+  "end": 1905,
+  "place": "Paris",
+  "disciplines": [
+   "product",
+   "graphic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "La galería de Bing da su nombre al Art Nouveau y une japonismo, artes decorativas y diseño moderno.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japonisme",
+    "mecanismo": "Bing, comerciante de arte japonés, convierte ese gusto en un programa de artes decorativas nuevas"
+   },
+   {
+    "tipo": "secundario",
+    "via": "art-nouveau",
+    "mecanismo": "El nombre del movimiento viene de su galería"
+   }
+  ],
+  "era": "reform",
+  "obras": [
+   "bloemenwerf-chair-1895",
+   "tiffany-lamps"
+  ],
+  "duda": "Año de cierre (c. 1904–1905): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-japonisme",
+    "item": "inst-maison-art-nouveau",
+    "mecanismo": "Bing, comerciante de arte japonés, convierte ese gusto en un programa de artes decorativas nuevas"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "art-nouveau"
+   ]
+  }
+ }
+]

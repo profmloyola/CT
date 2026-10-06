@@ -1,0 +1,907 @@
+{
+ "works": [
+  {
+   "id": "thonet-chair-14",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Thonet chair no. 14",
+   "designers": [
+    "michael-thonet"
+   ],
+   "maker": "Gebrüder Thonet",
+   "year": 1859,
+   "date": "1859",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Bentwood beech, cane or pressed-wood seat",
+   "tech": [
+    "steam-bentwood"
+   ],
+   "key": "The bentwood café chair that Thonet made from six pieces of bent beech, light, cheap and easy to ship in parts.[1][2][3]",
+   "more": "Michael Thonet’s bentwood furniture was shown at the Great Exhibition of 1851 in London.[1][2] In 1853 he formed Gebrüder Thonet with his sons, and by 1856 he had perfected bending solid beechwood with heat, enabling mass production.[1] The no. 14 coffee house chair of 1859 had six pieces and ten screws and was shipped disassembled.[3] Bentwood furniture was lightweight, affordable and durable, suited to hotels and restaurants, and spread across Europe and America.[2] By 1870 the Vienna firm made about 400,000 pieces a year.[1]",
+   "status": "Still in production by Thonet, as model 214.",
+   "es": {
+    "title": "Silla n.º 14 de Thonet",
+    "date": "1859",
+    "materials": "Haya curvada al vapor, asiento de mimbre o de madera prensada",
+    "key": "La silla de café de madera curvada que Thonet hizo con seis piezas de haya curvada, liviana, barata y fácil de despachar en partes.[1][2][3]",
+    "more": "Los muebles de madera curvada de Michael Thonet se mostraron en la Gran Exposición de 1851 en Londres.[1][2] En 1853 formó Gebrüder Thonet con sus hijos, y hacia 1856 había perfeccionado el curvado con calor de haya maciza, lo que permitió la producción en masa.[1] La silla de café n.º 14 de 1859 tenía seis piezas y diez tornillos y se despachaba desarmada.[3] Los muebles de madera curvada eran livianos, económicos y durables, aptos para hoteles y restaurantes, y se difundieron por Europa y América.[2] Hacia 1870 la empresa vienesa fabricaba unas 400.000 piezas al año.[1]",
+    "status": "Sigue en producción por Thonet, como modelo 214."
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Michael Thonet»",
+     "url": "https://www.britannica.com/biography/Michael-Thonet",
+     "checks": "Presente en la Gran Exposición de 1851; Gebrüder Thonet en 1853; curvado de haya maciza perfeccionado hacia 1856; unas 400.000 piezas al año hacia 1870. ⚠ no menciona medalla ni el n.º 14.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Bentwood furniture»",
+     "url": "https://www.britannica.com/topic/bentwood-furniture",
+     "checks": "Varillas curvadas con vapor; Thonet en la Gran Exposición de 1851; livianos, económicos, durables, para hoteles y restaurantes; difusión por Europa y América.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Thonet GmbH, «Original»",
+     "url": "https://www.thonet.de/en/company/original",
+     "checks": "Silla de café n.º 14 (hoy 214) de 1859, con «seis piezas, diez tornillos», despachada desarmada. ⚠ sitio de la propia empresa; sigue en producción como 214.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "singer-sewing-machine",
+   "level": "essential",
+   "discipline": "product",
+   "type": "machine",
+   "title": "Singer sewing machine",
+   "short": "Singer",
+   "designers": [],
+   "maker": "I. M. Singer & Co.",
+   "year": 1851,
+   "date": "1851",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cast iron, steel, wood",
+   "tech": [
+    "sewing-machine"
+   ],
+   "key": "Isaac Singer’s sewing machine, patented in 1851, which sewed with a straight vertical needle and was worked by a foot treadle, sold on instalment plans.[1][2]",
+   "more": "Singer received patent no. 8,294 on 12 August 1851 for a machine with a straight, vertically moving needle, cast-iron parts and a wooden treadle that left both hands free to guide the cloth.[1] He partnered that year with the lawyer Edward Clark, and by 1860 their company was the largest producer of sewing machines in the world.[2][3] Singer made the machines affordable through instalment payment plans,[2][3] and showed the machine at social gatherings to convince people of how easy it was to use.[1] The archive records agents and dealers and correspondence from foreign markets.[3] Britannica calls it the first practical domestic sewing machine.[2]",
+   "status": "Singer machines went through many models for over a century; the company still bears the name.",
+   "es": {
+    "title": "Máquina de coser Singer",
+    "short": "Singer",
+    "date": "1851",
+    "materials": "Fierro fundido, acero, madera",
+    "key": "La máquina de coser de Isaac Singer, patentada en 1851, que cosía con aguja recta vertical y se accionaba con pedal, vendida con pagos a plazo.[1][2]",
+    "more": "Singer obtuvo la patente n.º 8.294 el 12 de agosto de 1851 para una máquina con aguja recta de movimiento vertical, piezas de fierro fundido y un pedal de madera que dejaba ambas manos libres para guiar la tela.[1] Ese año se asoció con el abogado Edward Clark, y hacia 1860 su empresa era la mayor productora de máquinas de coser del mundo.[2][3] Singer hizo asequibles las máquinas con pagos a plazo,[2][3] y las mostraba en reuniones sociales para convencer a la gente de lo fácil que era usarlas.[1] El archivo registra agentes y distribuidores y correspondencia de mercados extranjeros.[3] La Britannica la llama la primera máquina de coser doméstica práctica.[2]",
+    "status": "Las máquinas Singer pasaron por muchos modelos durante más de un siglo; la empresa aún lleva el nombre."
+   },
+   "refs": [
+    {
+     "label": "Smithsonian National Museum of American History, «1851 - Isaac Singer’s Sewing Machine Patent Model»",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1071133",
+     "checks": "Patente n.º 8.294 del 12 de agosto de 1851; aguja recta de movimiento vertical; piezas de fierro fundido y pedal de madera; Singer demostraba la máquina en reuniones sociales.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Isaac Singer»",
+     "url": "https://www.britannica.com/biography/Isaac-Singer",
+     "checks": "Se asoció con Edward Clark en 1851; en 1860 la empresa era la mayor productora de máquinas de coser; planes de crédito a plazo; «primera máquina de coser doméstica práctica». ⚠ habla de brazo voladizo, no de pedal.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Hagley Museum and Library, Singer Manufacturing Company records (finding aid)",
+     "url": "https://findingaids.hagley.org/repositories/3/resources/1122",
+     "checks": "Patente 8.294 del 12 de agosto de 1851; Clark, abogado, llevaba los litigios; pagos a plazo; agentes y distribuidores en 1870–72; correspondencia de mercados extranjeros (carta de La Habana, 1865). ⚠ la empresa se constituyó en 1863.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "hill-house-chair",
+   "level": "essential",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Hill House chair",
+   "designers": [
+    "charles-rennie-mackintosh"
+   ],
+   "client": "Walter Blackie",
+   "year": 1902,
+   "date": "1902",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Ebonised wood",
+   "tech": [],
+   "key": "Mackintosh’s tall black ladder-back chair for Hill House, with a high back of horizontal bars and slats, designed as part of a coordinated interior.[1][2][3]",
+   "more": "Mackintosh designed Hill House in Helensburgh in 1902–04 for the publisher Walter Blackie, with chimneypieces, stencilling, furniture and fittings designed by him.[2] His wife Margaret Macdonald Mackintosh collaborated on the interiors, and the black ladder-back chair is a distinctive feature of the house.[1] The National Trust for Scotland says the ladder-back chairs were designed purely for decorative purposes.[4] Cassina describes the 1902 design as an ashwood frame stained black with a notably tall back of horizontal bars and crossed slats, and has produced it since 1973 in its I Maestri collection.[3] The Trust has cared for the house since 1982.[1][2]",
+   "status": "The original survives at Hill House; reissued by Cassina.",
+   "es": {
+    "title": "Silla de Hill House",
+    "date": "1902",
+    "materials": "Madera ebonizada",
+    "key": "La silla negra de respaldo alto, de travesaños, que Mackintosh diseñó para Hill House, con un respaldo de barras y listones horizontales pensado como parte de un interior coordinado.[1][2][3]",
+    "more": "Mackintosh diseñó Hill House en Helensburgh en 1902–04 para el editor Walter Blackie, con chimeneas, estarcidos, mobiliario y accesorios diseñados por él.[2] Su esposa Margaret Macdonald Mackintosh colaboró en los interiores, y la silla negra de travesaños es un rasgo distintivo de la casa.[1] El National Trust for Scotland dice que las sillas de travesaños se diseñaron solo con fines decorativos.[4] Cassina describe el diseño de 1902 como un armazón de fresno teñido de negro con un respaldo notablemente alto de barras horizontales y listones cruzados, y lo produce desde 1973 en su colección I Maestri.[3] El Trust cuida la casa desde 1982.[1][2]",
+    "status": "El original se conserva en Hill House; reeditada por Cassina."
+   },
+   "refs": [
+    {
+     "label": "Europeana, «The Hill House in Helensburgh»",
+     "url": "https://europeana.eu/da/stories/the-hill-house-in-helensburgh",
+     "checks": "Blackie encargó la casa en 1902; Margaret Macdonald colaboró; muebles y accesorios a medida; la silla negra de travesaños es rasgo distintivo; National Trust for Scotland la cuida desde 1982.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Historic Environment Scotland, «The Hill House» (LB34761)",
+     "url": "https://portal.historicenvironment.scot/designation/LB34761",
+     "checks": "Diseñada en 1902–1904 para Walter W. Blackie; chimeneas, estarcidos, mobiliario y accesorios diseñados por Mackintosh; museo del Trust desde 1982.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Cassina, ficha «292 Hill House 1»",
+     "url": "https://www.smow.de/pdf/Cassina_292%20HILL%20HOUSE%201%20(1)_engl.pdf",
+     "checks": "Diseño de 1902; armazón de fresno teñido de negro; respaldo muy alto de barras horizontales y listones cruzados; producida desde 1973 en I Maestri. ⚠ ficha del fabricante alojada en un comercio; la URL lleva espacios tal como la devolvió la búsqueda.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "National Trust for Scotland, «The Great Eight at the Hill House»",
+     "url": "https://nts.org.uk/stories/the-great-eight-at-the-hill-house",
+     "checks": "Las sillas de travesaños se diseñaron solo con fines decorativos, con patrones geométricos de influencia japonesa.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "sitzmaschine",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Sitzmaschine",
+   "designers": [
+    "josef-hoffmann"
+   ],
+   "maker": "Jacob & Josef Kohn",
+   "client": "Purkersdorf Sanatorium",
+   "year": 1905,
+   "date": "1905",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Bentwood beech, wooden balls, upholstered seat and back",
+   "tech": [
+    "steam-bentwood"
+   ],
+   "key": "Josef Hoffmann’s ‘sitting machine’, a bentwood armchair with an adjustable back, designed with the Purkersdorf Sanatorium in mind.",
+   "more": "Hoffmann designed it around 1905, in the years when he built the Purkersdorf Sanatorium near Vienna, as a geometric armchair whose back can be tilted. The frame is of bentwood, the technique perfected by Thonet, and the Viennese firm Jacob & Josef Kohn made it. Its name, Sitzmaschine, expresses the rational and functional attitude of the Wiener Werkstätte circle.",
+   "status": "Reproduced today.",
+   "es": {
+    "title": "Sitzmaschine",
+    "date": "1905",
+    "materials": "Haya curvada, bolas de madera, asiento y respaldo tapizados",
+    "key": "La «máquina de sentarse» de Josef Hoffmann, un sillón de madera curvada con respaldo regulable, pensado para el Sanatorio de Purkersdorf.",
+    "more": "Hoffmann la diseñó hacia 1905, en los años en que construyó el Sanatorio de Purkersdorf cerca de Viena, como un sillón geométrico cuyo respaldo se puede inclinar. La estructura es de madera curvada, la técnica perfeccionada por Thonet, y la fabricó la casa vienesa Jacob & Josef Kohn. Su nombre, Sitzmaschine, expresa la actitud racional y funcional del círculo de la Wiener Werkstätte.",
+    "status": "Se reproduce hoy."
+   },
+   "refs": []
+  },
+  {
+   "id": "aeg-kettle",
+   "level": "normal",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "AEG electric kettle",
+   "designers": [
+    "peter-behrens"
+   ],
+   "maker": "AEG",
+   "client": "AEG",
+   "year": 1909,
+   "date": "1909",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Sheet metal (brass, copper or nickel-plated), with cane handle",
+   "tech": [],
+   "key": "Peter Behrens’s electric kettles for AEG, made in several shapes from a few standard parts.",
+   "more": "When AEG appointed Peter Behrens as its artistic adviser in 1907, he designed not only buildings and graphics but also its products. His kettles, first shown in 1909, came in several shapes and finishes that were assembled from a smaller number of standardised parts, which suited serial manufacture. They gave a new domestic appliance a plain form of its own, without inherited ornament.",
+   "status": "Original examples are kept in museums.",
+   "es": {
+    "title": "Hervidor eléctrico de AEG",
+    "short": "Hervidor de AEG",
+    "date": "1909",
+    "materials": "Chapa metálica (latón, cobre o niquelada), con asa de mimbre",
+    "key": "Los hervidores eléctricos de Peter Behrens para AEG, hechos en varias formas a partir de unas pocas piezas estándar.",
+    "more": "Cuando AEG nombró a Peter Behrens su asesor artístico en 1907, él diseñó no solo edificios y gráfica, sino también sus productos. Sus hervidores, mostrados desde 1909, venían en varias formas y acabados que se armaban a partir de un número menor de piezas estandarizadas, lo que convenía a la fabricación en serie. Dieron a un nuevo aparato doméstico una forma sencilla propia, sin ornamentos heredados.",
+    "status": "Se conservan ejemplares originales en museos."
+   },
+   "refs": [],
+   "short": "AEG electric kettle"
+  },
+  {
+   "id": "aeg-arc-lamp",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "AEG arc lamp",
+   "designers": [
+    "peter-behrens"
+   ],
+   "maker": "AEG",
+   "client": "AEG",
+   "year": 1907,
+   "date": "1907",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Metal housing, glass",
+   "tech": [],
+   "key": "Peter Behrens’s arc lamp for AEG, an electric street light given a plain industrial form instead of a historical lamp-post style.",
+   "more": "Among the first products Behrens designed for AEG after joining it in 1907 was an arc lamp, the kind of electric light used in streets and large interiors. Electric light had no tradition of form, and Behrens treated the lamp as an industrial object, with simple geometry, rather than dressing it up as a gas lamp. It belonged to his wider work for AEG, which also covered its buildings, catalogues and trademark.",
+   "status": "Examples survive in museum collections.",
+   "es": {
+    "title": "Lámpara de arco de AEG",
+    "date": "1907",
+    "materials": "Carcasa metálica, vidrio",
+    "key": "La lámpara de arco de Peter Behrens para AEG, una luz eléctrica de calle a la que dio una forma industrial sencilla en vez de un estilo histórico de farol.",
+    "more": "Entre los primeros productos que Behrens diseñó para AEG tras incorporarse en 1907 hubo una lámpara de arco, el tipo de luz eléctrica que se usaba en calles y grandes interiores. La luz eléctrica no tenía tradición formal, y Behrens trató la lámpara como un objeto industrial, de geometría simple, en lugar de vestirla como un farol de gas. Formó parte de su trabajo más amplio para AEG, que abarcó también sus edificios, catálogos y marca.",
+    "status": "Se conservan ejemplares en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "ford-model-t",
+   "level": "essential",
+   "discipline": "product",
+   "type": "car",
+   "title": "Ford Model T",
+   "designers": [],
+   "maker": "Ford Motor Company",
+   "year": 1908,
+   "date": "1908",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Steel, wood, glass",
+   "tech": [],
+   "key": "Henry Ford’s simple, practical and cheap car, built from 1908 to 1927 and made in over 15 million units on a moving assembly line.[1][2]",
+   "more": "Ford built the Model T from 1908 to 1927, conceived as practical, affordable transportation for the common man.[2] The moving assembly line was working at Highland Park by 1913, and by early 1914 a finished car could come off it every 93 minutes, against 12½ hours before.[1][3] The touring car fell from $850 in 1908 to under $300 by 1925.[2] The 15 millionth car was the last, built on 26 May 1927.[1] The Model T showed that an industrial product could be designed around the demands of mass production.[2]",
+   "status": "No longer in production since 1927; many survive in collections and with enthusiasts.",
+   "es": {
+    "title": "Ford modelo T",
+    "date": "1908",
+    "materials": "Acero, madera, vidrio",
+    "key": "El auto simple, práctico y barato de Henry Ford, fabricado de 1908 a 1927 en más de 15 millones de unidades en una cadena de montaje móvil.[1][2]",
+    "more": "Ford fabricó el modelo T de 1908 a 1927, concebido como transporte práctico y asequible para el hombre común.[2] La cadena de montaje móvil funcionaba en Highland Park en 1913, y a comienzos de 1914 salía un auto terminado cada 93 minutos, frente a 12½ horas antes.[1][3] El modelo descapotable bajó de 850 dólares en 1908 a menos de 300 en 1925.[2] El auto número 15 millones fue el último, construido el 26 de mayo de 1927.[1] El modelo T mostró que un producto industrial podía diseñarse en torno a las exigencias de la producción en masa.[2]",
+    "status": "Fuera de producción desde 1927; muchos se conservan en colecciones y entre aficionados."
+   },
+   "refs": [
+    {
+     "label": "ASME, «Ford Model T», Landmark #233",
+     "url": "https://www.asme.org/about-asme/engineering-history/landmarks/233-model-t",
+     "checks": "Modelo T 1908–1927; cadena de montaje móvil en Highland Park hacia 1913; el auto 15 millonesimo fue el último, 26 de mayo de 1927; precio de 850 a 550 dólares en cinco años.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Model T»",
+     "url": "https://Www.Britannica.Com/technology/Model-T",
+     "checks": "Construido por Ford de 1908 a 1927; concebido como transporte práctico y barato; producción en cadena redujo costos (de 850 dólares en 1908 a menos de 300 en 1925); más de 15 millones. ⚠ resumen automático.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Henry Ford, «Ford Methods and the Ford Shops»",
+     "url": "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops",
+     "checks": "Línea de montaje en Highland Park en 1913 por etapas; a comienzos de 1914 un Model T cada 93 minutos frente a 12½ horas; unos 15 millones de autos. ",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "safety-bicycle",
+   "level": "normal",
+   "discipline": "product",
+   "type": "vehicle",
+   "title": "Rover safety bicycle",
+   "designers": [],
+   "maker": "J. K. Starley, Coventry",
+   "year": 1885,
+   "date": "1885",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Steel tube, wood, rubber",
+   "tech": [],
+   "key": "John Kemp Starley’s Rover of 1885, a bicycle with two wheels of equal size and chain drive to the rear wheel, steadier and safer than the high-wheeler.",
+   "more": "Starley, who worked in Coventry, brought out the Rover in 1885 with a low frame, wheels of similar size and a chain driving the rear wheel. Unlike the penny-farthing, it let the rider sit low with feet near the ground, and it was far steadier. The type, in which the same layout remains today, made cycling a cheap and everyday means of transport in the following years.",
+   "status": "Original examples survive in museums.",
+   "es": {
+    "title": "Bicicleta de seguridad Rover",
+    "short": "Bicicleta Rover",
+    "date": "1885",
+    "materials": "Tubo de acero, madera, caucho",
+    "key": "El Rover de John Kemp Starley de 1885, una bicicleta de ruedas iguales y transmisión por cadena a la rueda trasera, más estable y segura que la de rueda alta.",
+    "more": "Starley, que trabajaba en Coventry, lanzó el Rover en 1885 con un cuadro bajo, ruedas de tamaño parecido y una cadena que movía la rueda trasera. A diferencia del biciclo de rueda alta, permitía ir sentado bajo, con los pies cerca del suelo, y era mucho más estable. El tipo, cuya disposición básica sigue siendo la actual, hizo del ciclismo un medio de transporte barato y cotidiano en los años siguientes.",
+    "status": "Se conservan ejemplares originales en museos."
+   },
+   "refs": [],
+   "short": "Rover safety bicycle"
+  },
+  {
+   "id": "benz-motorwagen",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Benz Patent-Motorwagen",
+   "designers": [],
+   "maker": "Benz & Cie.",
+   "year": 1886,
+   "date": "1886",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Steel tube, wood, iron",
+   "tech": [],
+   "key": "Karl Benz’s three-wheeled vehicle of 1886, patented as a complete automobile driven by its own internal-combustion engine.",
+   "more": "Karl Benz, working in Mannheim, applied for a patent in January 1886 for a vehicle conceived as a whole, with a light single-cylinder engine at the rear driving a three-wheeled frame. It was not a carriage with an engine added, but a machine designed around its engine. In 1888 his wife Bertha Benz made a long trip in one, which helped to show its practical use.",
+   "status": "Original and replica vehicles are kept at the Mercedes-Benz Museum in Stuttgart.",
+   "es": {
+    "title": "Benz Patent-Motorwagen",
+    "date": "1886",
+    "materials": "Tubo de acero, madera, hierro",
+    "key": "El vehículo de tres ruedas de Karl Benz de 1886, patentado como un automóvil completo movido por su propio motor de combustión interna.",
+    "more": "Karl Benz, que trabajaba en Mannheim, solicitó en enero de 1886 la patente de un vehículo concebido como un todo, con un motor liviano de un cilindro atrás que movía un bastidor de tres ruedas. No era un coche de caballos con motor agregado, sino una máquina diseñada en torno a su motor. En 1888 su esposa Bertha Benz hizo un viaje largo en uno, lo que ayudó a mostrar su utilidad práctica.",
+    "status": "Se conservan vehículos originales y réplicas en el Museo Mercedes-Benz de Stuttgart."
+   },
+   "refs": []
+  },
+  {
+   "id": "tiffany-lamps",
+   "level": "normal",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Tiffany lamps",
+   "designers": [
+    "louis-comfort-tiffany"
+   ],
+   "maker": "Tiffany Studios",
+   "year": 1900,
+   "date": "1900",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Leaded favrile glass shades, bronze bases",
+   "tech": [
+    "art-glass"
+   ],
+   "key": "Table lamps with shades of coloured glass pieces set in lead, made in New York by the studios of Louis Comfort Tiffany.",
+   "more": "Electric light in the home created a new object, the table lamp, and Tiffany made it a showcase for his coloured art glass. The shades were assembled from many cut pieces of glass in nature motifs such as flowers, dragonflies and wisteria, on bronze bases. Tiffany’s studio employed women glass cutters, and Clara Driscoll, who led that department, is credited with designing a number of the best-known models.",
+   "status": "Original lamps are in museums and private collections; the type is widely imitated.",
+   "es": {
+    "title": "Lámparas de Tiffany",
+    "date": "1900",
+    "materials": "Pantallas de vidrio favrile emplomado, bases de bronce",
+    "key": "Lámparas de mesa con pantallas de piezas de vidrio de colores unidas con plomo, hechas en Nueva York por los talleres de Louis Comfort Tiffany.",
+    "more": "La luz eléctrica en el hogar creó un objeto nuevo, la lámpara de mesa, y Tiffany la convirtió en vitrina de su vidrio artístico de colores. Las pantallas se armaban con muchas piezas de vidrio cortado en motivos de la naturaleza, como flores, libélulas y glicinas, sobre bases de bronce. El taller de Tiffany empleaba a mujeres cortadoras de vidrio, y se atribuye a Clara Driscoll, quien dirigía ese departamento, el diseño de varios de los modelos más conocidos.",
+    "status": "Las lámparas originales están en museos y colecciones privadas; el tipo se imita mucho."
+   },
+   "refs": []
+  },
+  {
+   "id": "galle-vases",
+   "level": "normal",
+   "discipline": "product",
+   "type": "object",
+   "title": "Gallé vases",
+   "designers": [
+    "emile-galle"
+   ],
+   "maker": "Gallé workshops, Nancy",
+   "year": 1900,
+   "date": "1900",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Multi-layered glass, cut and etched, with enamels and applied pieces",
+   "tech": [
+    "art-glass"
+   ],
+   "key": "Vases of layered glass carved with plants and flowers, made by Émile Gallé’s workshops in Nancy.",
+   "more": "Gallé, who was also a keen botanist, took his motifs from plants and flowers he observed, and worked them in glass of several layers of colour, cut or etched back to leave the design in relief. He also used enamels and applied pieces, and often added lines of poetry to the glass. He led the art nouveau group in Nancy, and his workshops kept producing after his death in 1904.",
+   "status": "Many vases survive in museums and collections, notably in Nancy and Paris.",
+   "es": {
+    "title": "Vasos de Gallé",
+    "date": "1900",
+    "materials": "Vidrio de varias capas, tallado y grabado al ácido, con esmaltes y piezas aplicadas",
+    "key": "Vasos de vidrio en capas con plantas y flores en relieve, hechos por los talleres de Émile Gallé en Nancy.",
+    "more": "Gallé, que además era un aficionado a la botánica, sacó sus motivos de plantas y flores que observaba y los trabajó en vidrio de varias capas de color, tallado o grabado al ácido para dejar el diseño en relieve. Usó también esmaltes y piezas aplicadas, y a menudo agregó versos al vidrio. Encabezó el grupo art nouveau de Nancy, y sus talleres siguieron produciendo tras su muerte en 1904.",
+    "status": "Muchos vasos se conservan en museos y colecciones, sobre todo en Nancy y París."
+   },
+   "refs": []
+  },
+  {
+   "id": "lalique-jewellery",
+   "level": "normal",
+   "discipline": "product",
+   "type": "jewellery",
+   "title": "Lalique jewellery",
+   "designers": [
+    "rene-lalique"
+   ],
+   "year": 1900,
+   "date": "1900",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Gold, enamel, glass, horn and gemstones",
+   "tech": [],
+   "key": "René Lalique’s jewels of enamel, glass and horn with dragonflies, insects and women’s bodies, which made his name at the Paris exhibition of 1900.",
+   "more": "Lalique treated jewellery as art and not as a display of costly stones: he used enamel, glass and horn alongside gold and gems, and drew on plants, insects and the female body. His dragonfly and winged-woman pieces, shown at the Exposition Universelle of 1900, brought him wide fame. Around 1900 he was already the leading jeweller of art nouveau in Paris.",
+   "status": "Major pieces survive in museums, among them the Gulbenkian Museum in Lisbon.",
+   "es": {
+    "title": "Joyas de Lalique",
+    "date": "1900",
+    "materials": "Oro, esmalte, vidrio, cuerno y piedras",
+    "key": "Las joyas de René Lalique de esmalte, vidrio y cuerno con libélulas, insectos y cuerpos de mujer, que lo consagraron en la Exposición de París de 1900.",
+    "more": "Lalique trató la joyería como arte y no como exhibición de piedras costosas: usó esmalte, vidrio y cuerno junto al oro y las gemas, y se inspiró en plantas, insectos y el cuerpo femenino. Sus piezas de libélulas y mujeres con alas, mostradas en la Exposición Universal de 1900, le dieron gran fama. Hacia 1900 ya era el joyero principal del art nouveau en París.",
+    "status": "Piezas importantes se conservan en museos, entre ellos el Museo Gulbenkian de Lisboa."
+   },
+   "refs": []
+  },
+  {
+   "id": "dresser-teapot",
+   "level": "essential",
+   "discipline": "product",
+   "type": "kitchenware",
+   "title": "Dresser teapot",
+   "designers": [
+    "christopher-dresser"
+   ],
+   "maker": "Hukin & Heath",
+   "year": 1879,
+   "date": "1879",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Electroplated metal, ebonised or wooden handle",
+   "tech": [],
+   "key": "A teapot of plain geometric shapes and sharp angles that Christopher Dresser designed for industrial production.[1]",
+   "more": "Dresser visited Japan in 1876–77, and the trip steered him toward simplified, functional forms with minimal decoration.[2] His metalwork designs typically use symmetrical, rectilinear shapes and undecorated surfaces, made with the latest techniques of mass production.[1] The V&A’s example, of electroplated nickel silver with an ebonised wooden handle, was made in 1879 by James Dixon & Sons of Sheffield, whose costing book calls the design “English Japanese”; its body is stamped from six pieces.[1] Dresser also designed for the Birmingham firm Hukin & Heath, whose art adviser he was.[2][3]",
+   "status": "Examples are held in museums, among them the Victoria and Albert Museum.",
+   "es": {
+    "title": "Tetera de Dresser",
+    "date": "1879",
+    "materials": "Metal electrochapado, mango de madera",
+    "key": "Una tetera de formas geométricas simples y ángulos marcados que Christopher Dresser diseñó para la producción industrial.[1]",
+    "more": "Dresser viajó a Japón en 1876–77, y el viaje lo llevó hacia formas simplificadas y funcionales con un mínimo de decoración.[2] Sus diseños de metalistería suelen usar formas simétricas y rectilíneas y superficies sin decorar, hechas con las técnicas más recientes de producción en masa.[1] El ejemplar del V&A, de alpaca electrochapada con mango de madera ebonizada, lo fabricó en 1879 James Dixon & Sons, de Sheffield, cuyo libro de costos llama al diseño «English Japanese»; su cuerpo está estampado en seis piezas.[1] Dresser diseñó también para la casa de Birmingham Hukin & Heath, de la que fue asesor artístico.[2][3]",
+    "status": "Hay ejemplares en museos, entre ellos el Victoria and Albert Museum."
+   },
+   "refs": [
+    {
+     "label": "Victoria and Albert Museum, «Teapot» (Christopher Dresser, James Dixon & Sons, 1879)",
+     "url": "https://collections.vam.ac.uk/item/O78328",
+     "checks": "Tetera de 1879, níquel plateado electrochapado con mango de ébano, fabricada por James Dixon & Sons (Sheffield); Dresser «padre del diseño industrial», técnicas de producción en masa; formas simétricas y rectilíneas; diseño n.º 2274 del libro de costos, «English Japanese»; cuerpo de seis piezas estampadas. ⚠ el fabricante en este ejemplar es Dixon, no Hukin & Heath.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Victorian Web, «Christopher Dresser»",
+     "url": "https://www.victorianweb.org/art/design/dresser/index.html",
+     "checks": "Visita a Japón en 1876 como representante oficial del gobierno británico; formas simplificadas y funcionales con mínima decoración; trabajó para Hukin & Heath. ⚠ sitio académico divulgativo.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Victoria and Albert Museum, «Teapot» (Dresser para Hukin & Heath, 1878–79)",
+     "url": "https://collections.vam.ac.uk/item/O116235",
+     "checks": "Dresser asesor artístico de Hukin & Heath, de Birmingham; tetera de 1878–79. ⚠ ese ejemplar es de plata con marfil y esmalte, no electrochapado.",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "id": "kodak-no1",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Kodak No. 1 camera",
+   "designers": [],
+   "maker": "Eastman Dry Plate and Film Company",
+   "year": 1888,
+   "date": "1888",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Wooden box covered in leather, lens, roll film",
+   "tech": [
+    "celluloid"
+   ],
+   "key": "George Eastman’s simple box camera, sold already loaded with film so that anyone could take photographs.",
+   "more": "The camera was sold loaded with a roll of film for 100 exposures; once the roll was used the owner sent the whole camera back to the factory in Rochester, which developed the pictures and returned the camera reloaded. This took photography out of the hands of professionals and hobbyists with chemicals, and was backed by wide advertising. From 1889 the firm moved the film to a celluloid base.",
+   "status": "Original cameras survive in museum collections.",
+   "es": {
+    "title": "Cámara Kodak n.º 1",
+    "date": "1888",
+    "materials": "Caja de madera forrada en cuero, lente, rollo de película",
+    "key": "La sencilla cámara de caja de George Eastman, que se vendía con la película ya cargada para que cualquiera pudiera sacar fotos.",
+    "more": "La cámara se vendía cargada con un rollo para 100 tomas; cuando se acababa, el dueño enviaba la cámara entera a la fábrica de Rochester, que revelaba las fotos y devolvía la cámara recargada. Así la fotografía salió de las manos de los profesionales y de los aficionados con productos químicos, y se apoyó en una amplia publicidad. Desde 1889 la empresa pasó la película a una base de celuloide.",
+    "status": "Se conservan cámaras originales en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "remington-no1",
+   "level": "normal",
+   "discipline": "product",
+   "type": "machine",
+   "title": "Remington No. 1 typewriter",
+   "short": "Remington No. 1",
+   "designers": [],
+   "maker": "E. Remington & Sons",
+   "year": 1874,
+   "date": "1874",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Cast iron, steel and wood, japanned with painted decoration",
+   "tech": [
+    "typewriter"
+   ],
+   "key": "The first typewriter sold commercially in the United States, built by the gun and tool maker Remington from the invention of Christopher Latham Sholes.",
+   "more": "Remington, a maker of firearms and sewing machines in Ilion, New York, began production in 1873 of the machine Sholes and his partners had developed, and put it on sale in 1874. It printed capital letters only and carried the QWERTY keyboard layout that became the standard. The decoration of the metal frame echoed that of sewing machines. Typing created a new trade, the typist, which women came to fill in the new offices.",
+   "status": "Surviving machines are in museum collections.",
+   "es": {
+    "title": "Máquina de escribir Remington n.º 1",
+    "short": "Remington n.º 1",
+    "date": "1874",
+    "materials": "Hierro fundido, acero y madera, laqueados con decoración pintada",
+    "key": "La primera máquina de escribir vendida comercialmente en Estados Unidos, fabricada por Remington, firma de armas y herramientas, a partir de la invención de Christopher Latham Sholes.",
+    "more": "Remington, fabricante de armas y máquinas de coser en Ilion, Nueva York, empezó en 1873 a producir la máquina que Sholes y sus socios habían desarrollado, y la puso a la venta en 1874. Escribía solo en mayúsculas y llevaba la disposición de teclado QWERTY, que se volvió el estándar. La decoración del armazón metálico recordaba la de las máquinas de coser. Escribir a máquina creó un oficio nuevo, el de mecanógrafa, que las mujeres llegaron a ocupar en las nuevas oficinas.",
+    "status": "Se conservan máquinas en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "morris-chair",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Morris chair",
+   "designers": [
+    "william-morris",
+    "philip-webb"
+   ],
+   "maker": "Morris, Marshall, Faulkner & Co.",
+   "year": 1866,
+   "date": "1866",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Ebonised wood frame, upholstered cushions",
+   "tech": [],
+   "key": "A wooden armchair with an adjustable back, sold by Morris’s firm and attributed to Philip Webb, that became the model for the reclining chair.",
+   "more": "Morris, Marshall, Faulkner & Co., the firm William Morris founded in 1861 and which later became Morris & Co., sold an armchair whose back could be set at several angles by moving a rod, with loose cushions. The design is attributed to Philip Webb and was based on a traditional country chair, in line with the firm’s liking for plain, honest furniture. The type was widely copied, and in the United States any such reclining chair came to be called a Morris chair.",
+   "status": "Examples are in museums, including the Victoria and Albert Museum; versions are still made.",
+   "es": {
+    "title": "Sillón Morris",
+    "date": "1866",
+    "materials": "Armazón de madera ebonizada, cojines tapizados",
+    "key": "Un sillón de madera con respaldo ajustable, vendido por la firma de Morris y atribuido a Philip Webb, que se volvió el modelo del sillón reclinable.",
+    "more": "Morris, Marshall, Faulkner & Co., la firma que William Morris fundó en 1861 y que más tarde pasó a ser Morris & Co., vendió un sillón cuyo respaldo se podía fijar en varios ángulos moviendo una varilla, con cojines sueltos. El diseño se atribuye a Philip Webb y se basó en una silla campesina tradicional, en línea con el gusto de la firma por el mueble sencillo y honesto. El tipo se copió mucho, y en Estados Unidos todo sillón reclinable así llegó a llamarse sillón Morris.",
+    "status": "Hay ejemplares en museos, entre ellos el Victoria and Albert Museum; aún se hacen versiones."
+   },
+   "refs": []
+  },
+  {
+   "id": "ww-metalwork",
+   "level": "normal",
+   "discipline": "product",
+   "type": "object",
+   "title": "Wiener Werkstätte metalwork",
+   "short": "WW metalwork",
+   "designers": [
+    "josef-hoffmann",
+    "koloman-moser"
+   ],
+   "maker": "Wiener Werkstätte",
+   "year": 1905,
+   "date": "1905",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "AT"
+   ],
+   "materials": "Perforated sheet metal, silver-plated or nickel-silver",
+   "tech": [],
+   "key": "Baskets, trays and bowls of perforated metal with a square grid, made by the Wiener Werkstätte to designs by Josef Hoffmann and Koloman Moser.",
+   "more": "The Wiener Werkstätte, founded in Vienna in 1903 by Hoffmann, Moser and the patron Fritz Waerndorfer, made metal objects in its own workshop, among them baskets, trays and bowls of sheet metal pierced in a regular square grid. The geometric design, with little applied ornament, was made by hand by skilled craftsmen for the taste of Vienna’s well-off. Hoffmann was the main designer of these pieces, and Moser also designed some.",
+   "status": "Pieces are held by museums, among them the MAK in Vienna.",
+   "es": {
+    "title": "Metalistería de los Wiener Werkstätte",
+    "short": "Metalistería WW",
+    "date": "1905",
+    "materials": "Chapa metálica perforada, plateada o alpaca",
+    "key": "Cestas, bandejas y fuentes de metal perforado con retícula cuadrada, hechas por los Wiener Werkstätte según diseños de Josef Hoffmann y Koloman Moser.",
+    "more": "Los Wiener Werkstätte, fundados en Viena en 1903 por Hoffmann, Moser y el mecenas Fritz Waerndorfer, hacían objetos de metal en su propio taller, entre ellos cestas, bandejas y fuentes de chapa perforada en una retícula cuadrada regular. El diseño geométrico, con poco ornamento aplicado, lo hacían a mano artesanos expertos para el gusto de la burguesía acomodada de Viena. Hoffmann fue el principal diseñador de estas piezas, y Moser también diseñó algunas.",
+    "status": "Hay piezas en museos, entre ellos el MAK de Viena."
+   },
+   "refs": []
+  },
+  {
+   "id": "bell-telephone-1876",
+   "level": "normal",
+   "discipline": "product",
+   "type": "device",
+   "title": "Bell telephone",
+   "designers": [
+    "alexander-graham-bell"
+   ],
+   "year": 1876,
+   "date": "1876",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Wood, brass, iron and copper wire",
+   "tech": [],
+   "key": "Alexander Graham Bell’s first working telephone, patented in 1876, which carried speech by electric current along a wire.",
+   "more": "Bell patented his telephone in the United States in March 1876 and carried speech over a wire in Boston days later. The early instruments were handheld devices with a membrane and an electromagnet, which served for both speaking and listening. The Bell Telephone Company was founded in 1877, and the aim of connecting many subscribers pushed later telephones towards a simple instrument for home and office.",
+   "status": "Early Bell instruments are kept in museum collections.",
+   "es": {
+    "title": "Teléfono de Bell",
+    "date": "1876",
+    "materials": "Madera, latón, hierro y alambre de cobre",
+    "key": "El primer teléfono funcional de Alexander Graham Bell, patentado en 1876, que transmitió la voz por corriente eléctrica a lo largo de un cable.",
+    "more": "Bell patentó su teléfono en Estados Unidos en marzo de 1876 y transmitió la voz por un cable en Boston pocos días después. Los primeros aparatos eran dispositivos de mano con una membrana y un electroimán, que servían tanto para hablar como para escuchar. La Bell Telephone Company se fundó en 1877, y el propósito de conectar a muchos abonados empujó a los teléfonos posteriores hacia un aparato simple para el hogar y la oficina.",
+    "status": "Se conservan aparatos tempranos de Bell en colecciones de museos."
+   },
+   "refs": []
+  },
+  {
+   "id": "edison-bulb-1879",
+   "level": "essential",
+   "discipline": "product",
+   "type": "lamp",
+   "title": "Edison incandescent lamp",
+   "designers": [
+    "thomas-edison"
+   ],
+   "year": 1879,
+   "date": "1879",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Glass bulb, carbonised filament, metal base",
+   "tech": [],
+   "key": "The carbon-filament electric lamp that Thomas Edison and his Menlo Park team made practical in 1879, designed as one part of a whole electric lighting system.[1][2]",
+   "more": "In October 1879 Edison’s laboratory at Menlo Park, New Jersey, produced what The Henry Ford calls the first practical incandescent lamp; on 21 October a carbonised thread glowed for more than fourteen hours.[1][2] Edison patented a carbon-filament lamp on 1 November, and a high-resistance filament and a better vacuum, made with the Sprengel pump, helped it win out.[2][3] The filament’s high resistance meant most of the energy was used in the bulb rather than in the distribution system, and he went on to build a whole system around the lamp, with a power station in Manhattan.[2][3] It was shown to the public at Menlo Park on 31 December 1879.[1][2]",
+   "status": "Early Edison lamps survive in museum collections, and the screw-base bulb is still the standard shape of household lamps.",
+   "es": {
+    "date": "1879",
+    "materials": "Vidrio, filamento carbonizado, casquillo metálico",
+    "key": "La lámpara eléctrica de filamento de carbono que Thomas Edison y su equipo de Menlo Park hicieron práctica en 1879, concebida como una pieza de un sistema completo de alumbrado eléctrico.[1][2]",
+    "more": "En octubre de 1879 el laboratorio de Edison en Menlo Park, Nueva Jersey, produjo lo que The Henry Ford llama la primera lámpara incandescente práctica; el 21 de octubre un hilo carbonizado brilló más de catorce horas.[1][2] Edison patentó una lámpara de filamento de carbono el 1 de noviembre, y un filamento de alta resistencia y un mejor vacío, logrado con la bomba Sprengel, ayudaron a que se impusiera.[2][3] La alta resistencia del filamento hacía que la mayor parte de la energía se usara en la ampolla y no en la red de distribución, y él pasó a construir todo un sistema en torno a la lámpara, con una central eléctrica en Manhattan.[2][3] Se mostró al público en Menlo Park el 31 de diciembre de 1879.[1][2]",
+    "status": "Se conservan lámparas Edison tempranas en colecciones de museos, y la ampolla de casquillo de rosca sigue siendo la forma estándar de las lámparas domésticas.",
+    "title": "Lámpara incandescente de Edison",
+    "short": "Lámpara de Edison"
+   },
+   "refs": [
+    {
+     "label": "The Henry Ford, «Paper Horseshoe Filament Lamp… Edison Lighting System, 1879»",
+     "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/83459",
+     "checks": "Octubre de 1879: «la primera lámpara incandescente práctica»; primera exhibición pública en Menlo Park (Nochevieja de 1879). ⚠ la lámpara de la ficha es de filamento de papel.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "ETHW (IEEE), «Edison’s Incandescent Lamp»",
+     "url": "https://ethw.org/Edison's_Incandescent_Lamp",
+     "checks": "21 de octubre de 1879, hilo carbonizado de más de 14 horas; patente del 1 de noviembre; demostración pública del 31 de diciembre; ventajas: material duradero, mejor vacío con bomba Sprengel, filamentos de alta resistencia; sistema completo (Pearl Street, redes de distribución). ⚠ Joseph Swan lo precedió con lámparas incandescentes.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Smithsonian National Museum of American History, «Link to Home: Lighting a Revolution»",
+     "url": "https://americanhistory.si.edu/lighting/scripts/s19b.htm",
+     "checks": "Filamento de fibras carbonizadas de alta resistencia: la energía se gasta en la ampolla y no en la red de distribución; laboratorio bien equipado de Menlo Park. ⚠ fecha la lámpara práctica en septiembre de 1879, no en octubre.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Edison lamp"
+  },
+  {
+   "id": "bloemenwerf-chair-1895",
+   "level": "normal",
+   "discipline": "product",
+   "type": "chair",
+   "title": "Bloemenwerf chair",
+   "designers": [
+    "henry-van-de-velde"
+   ],
+   "year": 1895,
+   "date": "1895",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "BE"
+   ],
+   "materials": "Wood, woven seat",
+   "tech": [],
+   "key": "A wooden chair with curved legs and an open back that Henry van de Velde designed for his own house, Bloemenwerf, near Brussels.",
+   "more": "Van de Velde designed the house Bloemenwerf at Uccle, near Brussels, and the furniture inside it, so that the objects belonged to one whole. The chair shows his move from painting to design: its line is curved and decorative, in the spirit of Belgian Art Nouveau, yet the form stays simple and made for use.",
+   "status": "Examples survive in museum collections.",
+   "es": {
+    "date": "1895",
+    "materials": "Madera, asiento tejido",
+    "key": "Una silla de madera de patas curvas y respaldo abierto que Henry van de Velde diseñó para su propia casa, Bloemenwerf, cerca de Bruselas.",
+    "more": "Van de Velde proyectó la casa Bloemenwerf en Uccle, cerca de Bruselas, y el mobiliario de su interior, para que los objetos formaran un conjunto. La silla muestra su paso de la pintura al diseño: su línea es curva y decorativa, en el espíritu del Art Nouveau belga, pero la forma sigue siendo simple y pensada para el uso.",
+    "status": "Se conservan ejemplares en colecciones de museos.",
+    "title": "Silla Bloemenwerf"
+   },
+   "refs": [],
+   "movements": [
+    "art-nouveau"
+   ]
+  },
+  {
+   "id": "mercedes-35hp-1901",
+   "level": "normal",
+   "discipline": "product",
+   "type": "car",
+   "title": "Mercedes 35 HP",
+   "designers": [
+    "wilhelm-maybach"
+   ],
+   "maker": "Daimler-Motoren-Gesellschaft",
+   "year": 1901,
+   "date": "1901",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE"
+   ],
+   "materials": "Pressed-steel frame, wood and metal body, honeycomb radiator",
+   "tech": [],
+   "key": "The car that Wilhelm Maybach designed for Daimler in 1901, with a low frame and a front engine behind a honeycomb radiator, often seen as the first modern car.",
+   "more": "Built by Daimler-Motoren-Gesellschaft at the order of Emil Jellinek, who raced under the name Mercedes, it was shown at the Nice races in March 1901. It had a longer, lower frame and a wider wheelbase than earlier cars, which made it steadier at speed, and it no longer looked like a horse carriage. It set the layout that cars followed afterwards.",
+   "status": "Rare today; the model is preserved above all as a landmark in the history of Mercedes-Benz.",
+   "es": {
+    "date": "1901",
+    "materials": "Bastidor de acero estampado, carrocería de madera y metal, radiador de panal",
+    "key": "El automóvil que Wilhelm Maybach diseñó para Daimler en 1901, con chasis bajo y motor delantero tras un radiador de panal, considerado a menudo el primer auto moderno.",
+    "more": "Construido por Daimler-Motoren-Gesellschaft por encargo de Emil Jellinek, que corría con el nombre de Mercedes, se presentó en la semana de carreras de Niza en marzo de 1901. Tenía un chasis más largo y bajo y una distancia entre ejes mayor que los autos anteriores, lo que lo hacía más estable a velocidad, y ya no parecía un carruaje. Fijó la disposición que siguieron los autos después.",
+    "status": "Es una pieza rara hoy; el modelo se conserva sobre todo como hito de la historia de Mercedes-Benz.",
+    "title": "Mercedes 35 HP"
+   },
+   "refs": []
+  },
+  {
+   "id": "gillette-safety-razor-1903",
+   "level": "normal",
+   "discipline": "product",
+   "type": "razor",
+   "title": "Gillette safety razor",
+   "designers": [
+    "king-camp-gillette"
+   ],
+   "year": 1903,
+   "date": "from 1903",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Metal handle and head, thin steel blades",
+   "tech": [],
+   "key": "King Camp Gillette’s safety razor with a cheap handle and a thin disposable blade, a product whose design and business model were one.",
+   "more": "Gillette conceived the idea in the 1890s and developed it with the engineer William Nickerson; his company began selling the razor in 1903. The blade was thin and cheap enough to throw away when dull, and the handle was a lasting object, so that the profit lay in the repeated purchase of blades rather than in the razor itself.",
+   "status": "The Gillette name and the disposable-blade razor remain in production; early razors survive in collections.",
+   "es": {
+    "date": "desde 1903",
+    "materials": "Mango y cabezal metálicos, hojas delgadas de acero",
+    "key": "La máquina de afeitar de seguridad de King Camp Gillette, con mango barato y una hoja delgada desechable: un producto cuyo diseño y modelo de negocio eran una sola cosa.",
+    "more": "Gillette concibió la idea en la década de 1890 y la desarrolló con el ingeniero William Nickerson; su empresa empezó a vender la máquina en 1903. La hoja era tan delgada y barata que se botaba al perder el filo, y el mango era un objeto duradero, de modo que el negocio estaba en la compra repetida de hojas y no en la máquina misma.",
+    "status": "El nombre Gillette y la máquina de hoja desechable siguen en producción; se conservan máquinas tempranas en colecciones.",
+    "title": "Máquina de afeitar de seguridad Gillette",
+    "short": "Afeitadora Gillette"
+   },
+   "refs": [],
+   "short": "Gillette razor"
+  },
+  {
+   "id": "stickley-craftsman-1901",
+   "level": "normal",
+   "discipline": "product",
+   "type": "furniture",
+   "title": "Craftsman furniture and The Craftsman",
+   "designers": [
+    "gustav-stickley"
+   ],
+   "maker": "Craftsman Workshops",
+   "year": 1901,
+   "date": "1901–1916",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "materials": "Solid oak with exposed joinery; printed magazine",
+   "tech": [],
+   "key": "Gustav Stickley’s plain oak furniture and his magazine The Craftsman, which spread the American Arts and Crafts across the country.",
+   "more": "Stickley made solid, rectilinear furniture in his Craftsman Workshops in New York State and showed its joints openly as a point of honesty. From 1901 he published The Craftsman, a magazine that presented his furniture and Arts and Crafts ideas to a wide public. Together, workshop and magazine made the style known as Craftsman or Mission.",
+   "status": "Original pieces are collected and kept in museums; the style has been reissued.",
+   "movements": [
+    "arts-and-crafts"
+   ],
+   "es": {
+    "title": "Muebles Craftsman y la revista The Craftsman",
+    "date": "1901–1916",
+    "materials": "Roble macizo con ensambles a la vista; revista impresa",
+    "key": "Los muebles sencillos de roble de Gustav Stickley y su revista The Craftsman, que difundieron el Arts and Crafts estadounidense por todo el país.",
+    "more": "Stickley fabricó muebles macizos y rectilíneos en sus Craftsman Workshops del estado de Nueva York y mostró abiertamente los ensambles como una cuestión de honestidad. Desde 1901 publicó The Craftsman, una revista que presentó sus muebles y las ideas del Arts and Crafts a un público amplio. Juntos, taller y revista dieron fama al estilo llamado Craftsman o Mission.",
+    "status": "Las piezas originales se coleccionan y se conservan en museos; el estilo se ha reeditado.",
+    "short": "Muebles Craftsman"
+   },
+   "refs": [],
+   "short": "Craftsman furniture"
+  }
+ ]
+}

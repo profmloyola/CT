@@ -1,0 +1,224 @@
+{
+ "concepts": [
+  {
+   "id": "standardisation",
+   "name": "Standardisation",
+   "terms": [
+    "standardis",
+    "standardiz",
+    "prefabricat"
+   ],
+   "wiki": "Standardization",
+   "key": "Fixing common sizes, parts and layouts so that objects and buildings can be made repeatedly and cheaply.[2] In Germany an industry committee organised it from 1917, first for weapons and munitions.[1]",
+   "es": {
+    "name": "Estandarización",
+    "key": "Fijar medidas, piezas y disposiciones comunes para que objetos y edificios puedan fabricarse de manera repetida y barata.[2] En Alemania un comité de la industria la organizó desde 1917, primero para armas y municiones.[1]"
+   },
+   "refs": [
+    {
+     "label": "Cambridge University Press, «Ernst Neufert’s ‘Lebensgestaltungslehre’: formatting life beyond the built» (artículo académico)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6626A6B18EDEB920F223AD37C393D4A4/S2058850X20000132a.pdf/ernst_neuferts_lebensgestaltungslehre_formatting_life_beyond_the_built.pdf",
+     "checks": "Origen institucional de la normalización alemana: Normenausschuss der deutschen Industrie, 1917, para racionalizar la producción de armas y municiones; la palabra alemana Norm está entre la regla técnica y la conducta social. ⚠ Resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, «Dessau-Törten Housing Estate»",
+     "url": "https://bauhaus-dessau.de/en/venues/dessau-toerten-housing-estate/",
+     "checks": "Gropius: fabricar viviendas en serie con métodos de producción en masa; Törten como prototipo de vivienda barata producida en serie.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "functionalism",
+   "name": "Functionalism",
+   "terms": [
+    "functionalis",
+    "form follows function"
+   ],
+   "wiki": "Functionalism_(architecture)",
+   "key": "The idea that the form of an object or building should come from its use and its way of being made, not from applied ornament. At the Weissenhof estate of 1927 seventeen architects showed ‘modern, healthy, affordable and functional living’ in buildings without ornament.[1][2]",
+   "es": {
+    "name": "Funcionalismo",
+    "key": "La idea de que la forma de un objeto o edificio debe nacer de su uso y de su modo de hacerse, no de un ornamento aplicado. En la colonia Weissenhof de 1927, diecisiete arquitectos mostraron una «vivienda moderna, sana, asequible y funcional» en edificios sin ornamento.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Internationale Bauausstellungen, «1927 Weissenhofsiedlung Stuttgart»",
+     "url": "https://www.internationale-bauausstellungen.de/geschichte/1927-weissenhofsiedlung-stuttgart-zeugnis-neuen-bauens/",
+     "checks": "La arquitectura de la Weissenhof, «sin adorno ni ornamento»; programa modelo de vivienda para el habitante moderno de la gran ciudad.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Museo de Weissenhof, «Die Ausstellung 1927»",
+     "url": "https://www.weissenhofmuseum.de/en/siedlung/die-ausstellung-1927/",
+     "checks": "Diecisiete arquitectos mostraron treinta y tres propuestas para una vivienda moderna, sana, asequible y funcional, en la exposición Die Wohnung (Werkbund, 1927).",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "gesamtkunstwerk",
+   "name": "Total work of art",
+   "terms": [
+    "total work of art",
+    "gesamtkunstwerk"
+   ],
+   "wiki": "Gesamtkunstwerk",
+   "key": "The idea of uniting architecture and the other arts in one work. Gropius’s 1919 Bauhaus manifesto described a guild of architects, sculptors and painters creating one single work,[1] and the school aimed at a ‘synthesis of the arts’ around a representative building.[2]",
+   "es": {
+    "name": "Obra de arte total",
+    "key": "La idea de unir la arquitectura y las demás artes en una sola obra. El manifiesto de la Bauhaus de Gropius (1919) describía un gremio de arquitectos, escultores y pintores que creaban una sola obra,[1] y la escuela aspiraba a una «síntesis de las artes» en torno a un edificio representativo.[2]"
+   },
+   "refs": [
+    {
+     "label": "The Metropolitan Museum of Art, «The Bauhaus, 1919–1933»",
+     "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+     "checks": "Misión de reflejar la unidad de todas las artes; el Manifiesto de la Bauhaus (1919) describía un gremio artesanal utópico que reunía arquitectura, escultura y pintura en una sola expresión creativa.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Bauhaus Kooperation, «Bauhaus Weimar»",
+     "url": "https://bauhauskooperation.com/knowledge/the-bauhaus/phases/bauhaus-weimar",
+     "checks": "Meta de la formación: trabajo colectivo en un edificio representativo, la «síntesis del arte» según Gropius, en el que participaban todos los talleres.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "streamlining",
+   "name": "Streamlining",
+   "terms": [
+    "streamlin",
+    "aerodynamic",
+    "teardrop"
+   ],
+   "wiki": "Streamliner",
+   "key": "Shaping objects with smooth, rounded forms that reduce air resistance, and, by extension, giving static products the look of speed.[1] The look spread to products with no reason to be aerodynamic, such as pencil sharpeners and kitchen mixers.[1]",
+   "es": {
+    "name": "Aerodinámica",
+    "key": "Dar a los objetos formas lisas y redondeadas que reducen la resistencia del aire y, por extensión, dar a productos estáticos aspecto de velocidad.[1] El aspecto se extendió a productos sin razón para ser aerodinámicos, como los sacapuntas y las batidoras.[1]"
+   },
+   "refs": [
+    {
+     "label": "PBS, American Experience, «Streamliners: designers»",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/",
+     "checks": "El diseño aerodinámico deriva de las formas eficientes de peces y aves; formas curvas y afinadas ofrecen menos resistencia al aire; lápices sacapuntas, bolígrafos y batidoras adoptaron el aspecto; Loewy y Bel Geddes; efecto en las ventas durante la Depresión.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Popular Science, «The teardrop car design»",
+     "url": "https://www.popsci.com/technology/teardrop-car-design/",
+     "checks": "Carl Breer, de Chrysler, consultó a Orville Wright y probó modelos en túnel de viento a comienzos de los años treinta; todos los autos probados eran más aerodinámicos yendo hacia atrás que hacia adelante. ⚠ Revista de divulgación.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "styling",
+   "name": "Styling",
+   "terms": [
+    "styling",
+    "restyl"
+   ],
+   "wiki": "Industrial_design",
+   "key": "Redesigning the outer shell of a product to make it more attractive and sell better, often without changing its mechanism.[1][2] In 1929 Raymond Loewy gave the Gestetner duplicator a new housing over its existing mechanism.[2]",
+   "es": {
+    "name": "Styling",
+    "key": "Rediseñar la carcasa de un producto para hacerlo más atractivo y que venda mejor, a menudo sin cambiar su mecanismo.[1][2] En 1929 Raymond Loewy dio a la copiadora Gestetner una nueva carcasa sobre su mecanismo existente.[2]"
+   },
+   "refs": [
+    {
+     "label": "Smithsonian Magazine, «Meet the product designer who made mid-century America look clean and stylish»",
+     "url": "https://www.smithsonianmag.com/innovation/meet-product-designer-who-made-mid-century-america-look-clean-and-stylish-180972270/",
+     "checks": "Primer encargo de Loewy (Gestetner, 1929): una carcasa aerodinámica para ocultar las partes móviles; su idea de que entre dos productos iguales en precio, función y calidad se vende más el de mejor aspecto; refrigerador Sears de 1934 con ventas de 15.000 a 275.000 unidades en cinco años. ⚠ Prensa de divulgación; cifras atribuidas.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Hagley Library, «Gestetner Cyclostyle… design by Raymond Loewy»",
+     "url": "https://www.hagley.org/librarynews/gestetner-cyclostyle-office-duplication-machine-design-raymond-loewy",
+     "checks": "En 1929 Loewy rediseñó el aspecto exterior del duplicador Gestetner (modelo 66), con carcasa y base nuevas, manteniendo el mecanismo interno; primer proyecto comercial de diseño industrial.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "corporate-identity",
+   "name": "Corporate identity",
+   "terms": [
+    "identity",
+    "roundel",
+    "logo"
+   ],
+   "wiki": "Corporate_identity",
+   "key": "A coordinated visual system of lettering, symbols, buildings and printed matter that presents an organisation as one recognisable whole. At London Transport, Frank Pick had a typeface made and wanted signage and furniture to match the stations,[1] and Chicago’s Container Corporation had ‘one of the first full corporate identity programs’.[2]",
+   "es": {
+    "name": "Identidad corporativa",
+    "key": "Un sistema visual coordinado de letras, símbolos, edificios e impresos que presenta a una organización como un todo reconocible. En London Transport, Frank Pick hizo diseñar una tipografía y quiso que la señalética y el mobiliario combinaran con las estaciones,[1] y la Container Corporation de Chicago tuvo «uno de los primeros programas completos de identidad corporativa».[2]"
+   },
+   "refs": [
+    {
+     "label": "Design Museum, «London Transport»",
+     "url": "https://designmuseum.org/london-transport",
+     "checks": "Frank Pick encargó a Edward Johnston en 1916 el rediseño del círculo y la tipografía Johnston Sans; «nada se construirá que no haya sido diseñado específicamente para ajustarse al esquema arquitectónico»; señalética, mobiliario y hasta papeleros coherentes con el edificio; estaciones de Charles Holden en la extensión de la línea Piccadilly (1932).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Chicago Design Archive, «Container Corporation of America and Graphic Design in Chicago»",
+     "url": "https://chicagodesignarchive.org/essay/container-corporation-america-and-graphic-design-chicago",
+     "checks": "Egbert Jacobson, contratado en 1936, diseñó «uno de los primeros programas completos de identidad corporativa», con logotipo, papelería, facturas, publicidad y rediseño de camiones, fábricas y oficinas. ⚠ No define el término ni su origen.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "minimum-dwelling",
+   "name": "Minimum dwelling",
+   "terms": [
+    "minimum dwelling",
+    "existenzminimum"
+   ],
+   "wiki": "Congrès_Internationaux_d'Architecture_Moderne",
+   "key": "Small, low-cost dwellings that still give a family the basics of hygiene and comfort, studied by modern architects to house many people cheaply. In Red Vienna the new flats of 38–48 m² had running water, a toilet and a window lighting every habitable room;[1] Gropius’s Törten houses of 1926–28 measured 57–75 m².[2]",
+   "es": {
+    "name": "Vivienda mínima",
+    "key": "Viviendas pequeñas y baratas que aun así dan a una familia lo básico de higiene y comodidad, estudiadas por arquitectos modernos para alojar a mucha gente a bajo costo. En la Viena Roja los departamentos nuevos de 38–48 m² tenían agua corriente, baño y una ventana en cada pieza habitable;[1] las casas de Törten de Gropius (1926–28) medían 57–75 m².[2]"
+   },
+   "refs": [
+    {
+     "label": "Werkbundsiedlung Wien, «The housing programme of Red Vienna»",
+     "url": "https://www.werkbundsiedlung-wien.at/en/background/the-housing-programme-of-red-vienna",
+     "checks": "Viviendas de 38–48 m² con agua corriente y retrete, y cada pieza habitable con luz directa desde una ventana; más de 64.000 viviendas hasta 1932.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Stiftung Bauhaus Dessau, «Dessau-Törten Housing Estate»",
+     "url": "https://bauhaus-dessau.de/en/venues/dessau-toerten-housing-estate/",
+     "checks": "314 casas de entre 57 y 75 m², cada una con un huerto de 350–400 m²; vivienda barata producida en serie en la República de Weimar.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "grid",
+   "name": "Grid",
+   "terms": [
+    "grid"
+   ],
+   "wiki": "Grid_(graphic_design)",
+   "key": "A system of lines and modules that orders the elements of a page, a series of covers or a building. In 1919 Theo van Doesburg subdivided a square canvas into smaller squares used as modules.[1]",
+   "es": {
+    "name": "Retícula",
+    "key": "Un sistema de líneas y módulos que ordena los elementos de una página, una serie de portadas o un edificio. En 1919 Theo van Doesburg subdividió un lienzo cuadrado en cuadrados menores usados como módulos.[1]"
+   },
+   "refs": [
+    {
+     "label": "MoMA, Boletín del Museo vol. XX n.º 2 (1952-53), exposición De Stijl",
+     "url": "https://www.moma.org/documents/moma_catalogue_1798_300159061.pdf",
+     "checks": "p. 9: en 1919 van Doesburg subdividió un lienzo perfectamente cuadrado en cuadrados menores que usó como módulos de composición (Mondrian lo adoptó después por un tiempo).",
+     "date": "2026-10-04"
+    }
+   ]
+  }
+ ]
+}

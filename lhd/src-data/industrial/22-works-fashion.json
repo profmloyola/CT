@@ -1,0 +1,292 @@
+{
+ "works": [
+  {
+   "id": "empire-silhouette-1800",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "High-waisted Empire-style dress",
+   "designers": [],
+   "maker": "Parisian dressmakers",
+   "client": null,
+   "year": 1800,
+   "date": "c. 1795–1815",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "materials": "White cotton muslin, sometimes with silk trim",
+   "tech": [],
+   "key": "The light, high-waisted, straight-skirted dress of white muslin that replaced wide skirts in fashionable dress around 1800, with a classical line.[1][2]",
+   "more": "After the French Revolution the fashionable dress had the waistline directly under the bust and a slim skirt that replaced the panniers, usually in semi-sheer white muslin worn over a pale slip.[1] Its line was taken from classical antiquity: the Met relates it to the chiton of the ancient Greeks and Romans.[2] It was not corset-free, since a French dress of 1804–14 in the Met has a corset with gussets that support the breasts and raise the waist effect.[3] The style stayed in fashion into the 1820s.[2]",
+   "status": "Many examples survive in costume collections.",
+   "es": {
+    "title": "Vestido de talle alto de estilo Imperio",
+    "date": "hacia 1795–1815",
+    "materials": "Muselina blanca de algodón, a veces con ribetes de seda",
+    "key": "El vestido ligero de talle alto y falda recta, de muselina blanca, que reemplazó a las faldas anchas en la moda hacia 1800, con una línea clásica.[1][2]",
+    "more": "Tras la Revolución francesa el vestido de moda tenía la cintura justo bajo el busto y una falda angosta que reemplazó a los paniers, por lo general de muselina blanca semitransparente sobre una enagua clara.[1] Su línea venía de la Antigüedad clásica: el Met la relaciona con el quitón de griegos y romanos.[2] No prescindía del corsé: un vestido francés de 1804–14 del Met lleva un corsé con cuñas que sostienen el busto y marcan el efecto de talle alto.[3] El estilo siguió de moda hasta la década de 1820.[2]",
+    "status": "Se conservan muchos ejemplares en colecciones de vestuario.",
+    "short": "Vestido Imperio"
+   },
+   "refs": [
+    {
+     "label": "FIDM Museum, «The Empire Era Silhouette»",
+     "url": "https://fidmmuseum.org/learn/articles/empire-era-silhouette",
+     "checks": "Talle alto bajo el busto, falda delgada que reemplazó los paniers, muselina blanca semitransparente sobre enagua pálida; inspiración clásica tras la Revolución. ⚠ no menciona Gran Bretaña.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, vestido de silueta Imperio, 1800–05",
+     "url": "https://www.metmuseum.org/art/collection/search/158252",
+     "checks": "Origen en el quitón de griegos y romanos; estilo neoclásico tras la Revolución y vigente hasta la década de 1820, antes de que la cintura descendiera. ⚠ el objeto es estadounidense.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «French Empire dress (1804–14)», 07.146.5",
+     "url": "https://www.metmuseum.org/toah/works-of-art/07.146.5",
+     "checks": "Vestido francés de algodón con talle alto y corsé con cuñas que sostiene el busto; el talle alto era un efecto deliberado del corsé.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Empire dress"
+  },
+  {
+   "id": "heideloff-gallery-of-fashion-1794",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "magazine",
+   "title": "Gallery of Fashion",
+   "designers": [],
+   "maker": "Nikolaus von Heideloff",
+   "client": "Subscribers in Britain",
+   "year": 1794,
+   "date": "1794–1802",
+   "production": {
+    "from": 1794,
+    "to": 1802,
+    "note": "issued monthly from April 1794 until 1802"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Hand-coloured engraved plates with printed text",
+   "tech": [],
+   "key": "Nikolaus von Heideloff’s monthly London periodical of hand-coloured fashion plates, one of the first to carry fashion news to readers in other places.",
+   "more": "Published in London by the German-born artist Nikolaus von Heideloff from 1794 to 1802, it gave subscribers a monthly plate of fashionable dress with a short description. The plates were engraved and coloured by hand. It showed what was worn in London and was an early model for later fashion magazines.",
+   "status": "Bound sets survive in libraries and museums.",
+   "es": {
+    "title": "Gallery of Fashion de Heideloff",
+    "date": "1794–1802",
+    "materials": "Láminas grabadas coloreadas a mano con texto impreso",
+    "key": "La publicación mensual de láminas de moda coloreadas a mano que Nikolaus von Heideloff editó en Londres, una de las primeras en llevar noticias de moda a lectoras de otros lugares.",
+    "more": "Publicada en Londres por el artista de origen alemán Nikolaus von Heideloff de 1794 a 1802, daba a los suscriptores una lámina mensual de vestido de moda con una breve descripción. Las láminas se grababan y coloreaban a mano. Mostraba lo que se llevaba en Londres y fue un modelo temprano para las revistas de moda posteriores.",
+    "status": "Se conservan colecciones encuadernadas en bibliotecas y museos.",
+    "production": {
+     "note": "salía cada mes, desde abril de 1794 hasta 1802"
+    },
+    "short": "Gallery of Fashion"
+   },
+   "refs": [],
+   "short": "Gallery of Fashion"
+  },
+  {
+   "id": "ackermann-fashion-plates-1809",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "magazine",
+   "title": "Fashion plates of Ackermann’s Repository",
+   "designers": [],
+   "maker": "Rudolph Ackermann",
+   "client": "Subscribers of the Repository",
+   "year": 1809,
+   "date": "1809–1828",
+   "production": {
+    "from": 1809,
+    "to": 1828,
+    "note": "issued monthly with the Repository from 1809 to 1828"
+   },
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Hand-coloured engraved plates",
+   "tech": [],
+   "key": "The hand-coloured plates of dresses and furniture that Rudolph Ackermann’s monthly Repository of Arts brought to subscribers.",
+   "more": "Rudolph Ackermann, a German-born publisher in London, began the Repository of Arts, Literature, Commerce, Manufactures, Fashions and Politics in 1809 and issued it monthly until 1828. Each number carried plates of fashionable dress and of furniture designs. They show what fashionable people wore and bought in Regency Britain.",
+   "status": "Many plates survive in libraries, museums and print collections.",
+   "es": {
+    "title": "Láminas de moda de Ackermann's Repository",
+    "date": "1809–1828",
+    "materials": "Láminas grabadas coloreadas a mano",
+    "key": "Las láminas coloreadas a mano de vestidos y muebles que el Repository of Arts, publicación mensual de Rudolph Ackermann, llevaba a sus suscriptores.",
+    "more": "Rudolph Ackermann, editor de origen alemán en Londres, comenzó en 1809 el Repository of Arts, Literature, Commerce, Manufactures, Fashions and Politics y lo publicó cada mes hasta 1828. Cada número traía láminas de vestidos de moda y de diseños de muebles. Muestran lo que vestía y compraba la gente a la moda en la Gran Bretaña de la Regencia.",
+    "status": "Se conservan muchas láminas en bibliotecas, museos y colecciones de grabados.",
+    "production": {
+     "note": "salía cada mes con el Repository, de 1809 a 1828"
+    },
+    "short": "Láminas Ackermann"
+   },
+   "refs": [],
+   "short": "Ackermann plates"
+  },
+  {
+   "id": "marie-antoinette-gowns-1775",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "dress",
+   "title": "Rose Bertin’s court gowns for Marie Antoinette",
+   "designers": [
+    "rose-bertin"
+   ],
+   "maker": "Rose Bertin",
+   "client": "Marie Antoinette",
+   "year": 1775,
+   "date": "c. 1775–1785",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Silk, trimmings, lace and ribbons over wide hoops",
+   "tech": [],
+   "key": "The elaborate silk court gowns and trimmings that the dressmaker Rose Bertin made for Queen Marie Antoinette and that set fashion at Versailles.",
+   "more": "Rose Bertin was a Paris dressmaker who supplied Marie Antoinette from the 1770s, and the queen’s dress was widely copied at court and abroad. Court gowns kept the wide hoops and elaborate trimmings of the French style. Later in the 1780s the queen also wore simpler muslin dresses, which drew criticism, and the Revolution ended court dress of this kind.",
+   "status": "Few garments securely linked to Bertin survive; the gowns are known mostly from portraits and fashion prints.",
+   "es": {
+    "title": "Vestidos de corte de Rose Bertin para María Antonieta",
+    "date": "hacia 1775–1785",
+    "materials": "Seda, adornos, encaje y cintas sobre amplios aros",
+    "key": "Los elaborados vestidos de corte de seda y sus adornos que la modista Rose Bertin hizo para la reina María Antonieta y que marcaron la moda en Versalles.",
+    "more": "Rose Bertin era una modista parisina que vistió a María Antonieta desde la década de 1770, y el vestir de la reina se copió ampliamente en la corte y en el extranjero. Los vestidos de corte conservaban los amplios aros y los adornos elaborados del estilo francés. Más tarde, en la década de 1780, la reina también usó vestidos más simples de muselina, que despertaron críticas, y la Revolución puso fin a ese tipo de vestido de corte.",
+    "status": "Se conservan pocas prendas con vínculo seguro con Bertin; los vestidos se conocen sobre todo por retratos y estampas de moda.",
+    "short": "Vestidos de Bertin"
+   },
+   "refs": [],
+   "short": "Bertin’s court gowns"
+  },
+  {
+   "id": "toile-de-jouy-1783",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Toile de Jouy, 'Les Travaux de la Manufacture'",
+   "designers": [
+    "jean-baptiste-huet"
+   ],
+   "year": 1783,
+   "date": "1783",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "materials": "Copperplate-printed cotton",
+   "tech": [],
+   "key": "Jean-Baptiste Huet’s ‘Les Travaux de la Manufacture’, a printed cotton showing the stages of work at Oberkampf’s factory at Jouy.",
+   "more": "Huet drew the design for the Oberkampf manufactory at Jouy-en-Josas, near Versailles, in 1783. It shows, in one monochrome copperplate-printed scene, workers carrying out the stages of making and printing the cloth. Copperplate printing allowed fine pictorial detail on cotton, and the pastoral and narrative scenes of Jouy gave the name ‘toile de Jouy’ to a whole genre of printed furnishing fabric.",
+   "status": "Examples survive in museum collections, notably in France.",
+   "era": "industrial",
+   "es": {
+    "title": "Tela de Jouy, «Los trabajos de la manufactura»",
+    "date": "1783",
+    "materials": "Algodón estampado con plancha de cobre",
+    "key": "«Los trabajos de la manufactura» de Jean-Baptiste Huet: un algodón estampado que muestra las etapas del trabajo en la fábrica de Oberkampf en Jouy.",
+    "more": "Huet dibujó el diseño para la manufactura de Oberkampf en Jouy-en-Josas, cerca de Versalles, en 1783. Muestra, en una sola escena monocroma estampada con plancha de cobre, a los obreros haciendo las etapas de fabricación y estampado de la tela. El grabado en cobre permitía un detalle pictórico fino sobre algodón, y las escenas pastorales y narrativas de Jouy dieron nombre de «toile de Jouy» a todo un género de telas estampadas de decoración.",
+    "status": "Se conservan ejemplares en colecciones de museos, sobre todo en Francia.",
+    "short": "Tela de Jouy"
+   },
+   "refs": [],
+   "short": "Toile de Jouy"
+  },
+  {
+   "id": "brummell-tailoring-1810",
+   "level": "essential",
+   "discipline": "fashion",
+   "type": "garment",
+   "title": "Beau Brummell’s plain tailored coat",
+   "designers": [
+    "beau-brummell"
+   ],
+   "year": 1810,
+   "date": "c. 1810",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB"
+   ],
+   "materials": "Dark wool cloth, white linen",
+   "tech": [],
+   "key": "The dark, close-cut coat without ornament that Beau Brummell made the model of English men’s dress in the early 1800s.[1][2]",
+   "more": "Brummell (1778–1840), the recognised arbiter of fashion in Regency England through his friendship with the Prince of Wales,[2] rejected the silk, lace and embroidery of the eighteenth century.[1] National Geographic lists dark, well-fitted wool coats and crisp white linen among his signature style.[1] Britannica stresses cleanliness, quality tailoring and understated elegance.[2] The date is approximate, since his influence spans the first years of the century.",
+   "status": "No single garment survives as the work; its model lives on in the tailored suit.",
+   "es": {
+    "title": "El frac sobrio de Beau Brummell",
+    "date": "c. 1810",
+    "materials": "Paño oscuro de lana, lino blanco",
+    "key": "El frac oscuro, ajustado y sin ornamento que Beau Brummell convirtió en el modelo del vestir masculino inglés a comienzos del siglo XIX.[1][2]",
+    "more": "Brummell (1778–1840), árbitro reconocido de la moda en la Inglaterra de la Regencia por su amistad con el príncipe de Gales,[2] rechazó la seda, el encaje y el bordado del siglo XVIII.[1] National Geographic enumera entre su estilo característico los abrigos de lana oscuros y bien entallados y el lino blanco impecable.[1] La Britannica subraya la limpieza, la buena sastrería y la elegancia discreta.[2] La fecha es aproximada, pues su influencia abarca los primeros años del siglo.",
+    "status": "No sobrevive una prenda única como obra; su modelo sigue vivo en el traje sastre.",
+    "short": "Frac de Brummell"
+   },
+   "refs": [
+    {
+     "label": "National Geographic, «This 19th-century London dandy caused a style revolution»",
+     "url": "https://www.nationalgeographic.com/history/history-magazine/article/beau-brummell-nineteenth-century-fashion",
+     "checks": "Rechazo de seda, encaje y bordado del siglo XVIII; abrigos de lana oscuros y entallados, cravats de lino blanco; trajes ajustados; elegancia por sobriedad. ⚠ divulgación histórica.",
+     "date": "2026-10-05"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Beau Brummell»",
+     "url": "https://www.britannica.com/print/article/82094",
+     "checks": "Árbitro reconocido de la moda a comienzos del siglo XIX por su cercanía con el príncipe de Wales; limpieza, buena sastrería y elegancia discreta; vida 1778–1840. ⚠ no describe prendas.",
+     "date": "2026-10-05"
+    }
+   ],
+   "short": "Brummell’s coat"
+  },
+  {
+   "id": "paisley-shawl-1820",
+   "level": "normal",
+   "discipline": "fashion",
+   "type": "textile",
+   "title": "Paisley shawl",
+   "designers": [],
+   "year": 1820,
+   "date": "c. 1820",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "GB",
+    "IN"
+   ],
+   "materials": "Woven wool or silk, Jacquard-woven",
+   "tech": [],
+   "key": "The woven shawl with the teardrop boteh motif, copied in Paisley, Scotland, from Kashmir shawls imported to Britain.",
+   "more": "Kashmir shawls reached Britain through the East India Company and became fashionable. Weavers in Paisley and other British towns imitated them at lower prices, and the town gave its name to the boteh pattern. The Indian boteh thus entered Western design: a motif from Kashmir became a pattern of British industrial weaving. The date is approximate, since the shawl trade in Paisley ran from about 1800 to 1870.",
+   "status": "Many shawls survive in museums; the paisley pattern is still used in textiles.",
+   "es": {
+    "title": "Chal de Paisley",
+    "date": "c. 1820",
+    "materials": "Lana o seda tejida, tejido en telar Jacquard",
+    "key": "El chal tejido con el motivo de gota boteh, imitado en Paisley, Escocia, a partir de los chales de Cachemira importados a Gran Bretaña.",
+    "more": "Los chales de Cachemira llegaron a Gran Bretaña por la Compañía de las Indias Orientales y se pusieron de moda. Tejedores de Paisley y de otras ciudades británicas los imitaron a menor precio, y la ciudad dio su nombre al diseño boteh. El boteh indio entró así en el diseño occidental: un motivo de Cachemira pasó a ser un diseño de la tejeduría industrial británica. La fecha es aproximada, pues el negocio de chales en Paisley va de c. 1800 a 1870.",
+    "status": "Se conservan muchos chales en museos; el diseño paisley se sigue usando en textiles."
+   },
+   "refs": [],
+   "maker": "Paisley weavers, Scotland"
+  }
+ ]
+}

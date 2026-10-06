@@ -1,0 +1,344 @@
+[
+ {
+  "rtype": "work",
+  "id": "wainwright-building-1891",
+  "level": "essential",
+  "discipline": "architecture",
+  "type": "skyscraper",
+  "title": "Wainwright Building",
+  "designers": [
+   "louis-sullivan"
+  ],
+  "maker": "Adler & Sullivan",
+  "year": 1891,
+  "date": "1890–1891",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Steel frame clad in red brick and terracotta",
+  "tech": [
+   "iron-steel-frame"
+  ],
+  "key": "The red-brick office tower in St Louis in which Louis Sullivan made the steel frame visible as vertical piers rising to a deep cornice.",
+  "more": "Designed by Adler & Sullivan and finished in 1891, the Wainwright Building has a steel frame hidden behind brick and terracotta. Sullivan gave the facade continuous vertical piers and recessed the spandrels between them, so that the eye reads height rather than stacked floors. Its division into a base, a shaft of repeated offices and a decorated top became a model for the early skyscraper.",
+  "status": "Still standing in St Louis, restored and used as offices.",
+  "movements": [
+   "chicago-school"
+  ],
+  "es": {
+   "title": "Edificio Wainwright",
+   "date": "1890–1891",
+   "materials": "Armazón de acero revestido de ladrillo rojo y terracota",
+   "key": "La torre de oficinas de ladrillo rojo en St. Louis en que Louis Sullivan hizo visible el armazón de acero como pilares verticales que suben hasta una cornisa profunda.",
+   "more": "Diseñado por Adler & Sullivan y terminado en 1891, el edificio Wainwright tiene un armazón de acero oculto tras el ladrillo y la terracota. Sullivan dio a la fachada pilares verticales continuos y retranqueó los antepechos entre ellos, de modo que la vista lee altura y no pisos apilados. Su división en base, fuste de oficinas repetidas y remate decorado se volvió un modelo para el rascacielos temprano.",
+   "status": "Se conserva en St. Louis, restaurado y usado como oficinas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-second-industrial-revolution",
+  "item": "wainwright-building-1891",
+  "note": "Cheap steel and the elevator made tall offices pay; Sullivan chose to express the frame as vertical piers, giving the office tower its own form.",
+  "es": {
+   "note": "El acero barato y el ascensor hicieron rentable la oficina en altura; Sullivan optó por expresar el armazón como pilares verticales y dio forma propia a la torre de oficinas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-trademark-branding",
+  "item": "wainwright-building-1891",
+  "sin_enlace": true,
+  "motivo": "El vínculo con el registro de marcas y la imagen corporativa no se sostiene sin inventar un mecanismo; queda con un solo enlace directo (excepción C4c)."
+ },
+ {
+  "rtype": "work",
+  "id": "voysey-orchard-1899",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "house",
+  "title": "The Orchard, Chorleywood",
+  "designers": [
+   "cfa-voysey"
+  ],
+  "maker": null,
+  "year": 1899,
+  "date": "1899",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "materials": "Roughcast walls, tile roof, timber and local materials",
+  "tech": [],
+  "key": "C. F. A. Voysey’s own house at Chorleywood, plain, white-walled and low, a model of the domestic Arts and Crafts.",
+  "more": "Voysey designed The Orchard in 1899 for himself and his family at Chorleywood in Hertfordshire. Its roughcast walls, long sloping roof and simple windows avoid the ornament of Victorian villas and put light and plainness first. Voysey’s houses became known in Germany through Hermann Muthesius.",
+  "status": "Still standing at Chorleywood as a private house.",
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "es": {
+   "title": "The Orchard, Chorleywood",
+   "date": "1899",
+   "materials": "Muros revocados, techo de tejas, madera y materiales locales",
+   "key": "La casa que C. F. A. Voysey hizo para sí mismo en Chorleywood, sencilla, de muros blancos y baja, modelo del Arts and Crafts doméstico.",
+   "more": "Voysey proyectó The Orchard en 1899 para sí mismo y su familia en Chorleywood, en Hertfordshire. Sus muros revocados, su largo techo inclinado y sus ventanas simples evitan el ornamento de las villas victorianas y ponen primero la luz y la sencillez. Las casas de Voysey se dieron a conocer en Alemania por Hermann Muthesius.",
+   "status": "Se conserva en Chorleywood como casa particular."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-bourgeois-home-hygiene",
+  "item": "voysey-orchard-1899",
+  "note": "The middle-class home was now meant to be light, simple and easy to clean; Voysey answered with plain white walls and uncluttered rooms.",
+  "es": {
+   "note": "Se esperaba que la casa de clase media fuera luminosa, sencilla y fácil de limpiar; Voysey respondió con muros blancos lisos y habitaciones despejadas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "ernst-ludwig-house-1901",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "building",
+  "title": "Ernst Ludwig House, Darmstadt",
+  "designers": [
+   "joseph-maria-olbrich"
+  ],
+  "maker": null,
+  "year": 1901,
+  "date": "1901",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "materials": "Brick and plaster with a decorated entrance",
+  "tech": [],
+  "key": "Joseph Maria Olbrich’s studio building for the artists’ colony on the Mathildenhöhe in Darmstadt, the centre of the 1901 exhibition.",
+  "more": "Olbrich built it for the colony that Grand Duke Ernst Ludwig of Hesse founded at Darmstadt in 1899. It housed studios for the artists and gave the colony its main building, with a large arched entrance and a long, low body. The colony’s exhibition of 1901 opened here and made Darmstadt a name in the German reform of the arts.",
+  "status": "Still standing on the Mathildenhöhe, which is a protected cultural site.",
+  "es": {
+   "title": "Casa Ernst Ludwig, Darmstadt",
+   "date": "1901",
+   "materials": "Ladrillo y revoque con un portal decorado",
+   "key": "El edificio de talleres de Joseph Maria Olbrich para la colonia de artistas de la Mathildenhöhe en Darmstadt, centro de la exposición de 1901.",
+   "more": "Olbrich lo construyó para la colonia que el gran duque Ernesto Luis de Hesse fundó en Darmstadt en 1899. Albergaba los talleres de los artistas y dio a la colonia su edificio principal, con un gran portal en arco y un cuerpo largo y bajo. La exposición de la colonia de 1901 se inauguró aquí e hizo de Darmstadt un nombre en la reforma alemana de las artes.",
+   "status": "Se conserva en la Mathildenhöhe, un conjunto cultural protegido."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-national-unifications",
+  "item": "ernst-ludwig-house-1901",
+  "note": "Within the united German Empire, the Hessian grand duke used art patronage to give his state prestige; the colony and Olbrich’s building were its showcase.",
+  "es": {
+   "note": "Dentro del Imperio alemán unificado, el gran duque de Hesse usó el mecenazgo artístico para dar prestigio a su Estado; la colonia y el edificio de Olbrich fueron su vitrina."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "crane-babys-opera-1877",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "book",
+  "title": "The Baby's Opera",
+  "designers": [
+   "walter-crane"
+  ],
+  "maker": "Edmund Evans (printer)",
+  "year": 1877,
+  "date": "1877",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "materials": "Colour wood-block printing on paper, bound book",
+  "tech": [],
+  "key": "Walter Crane’s book of old nursery rhymes with colour pictures, printed by Edmund Evans, an early model of the illustrated children’s book.",
+  "more": "Crane drew the pictures for this collection of nursery rhymes, and the printer Edmund Evans engraved and printed them in colour. Each page sets the rhyme in a decorative frame with flat colour and clear outline. Crane, Kate Greenaway and Randolph Caldecott, all printed by Evans, made the late 1870s a high point of the Victorian children’s book.",
+  "status": "Copies survive in libraries and museums, and the book has been reprinted.",
+  "es": {
+   "title": "The Baby's Opera",
+   "date": "1877",
+   "materials": "Impresión en color con tacos de madera sobre papel, libro encuadernado",
+   "key": "El libro de antiguas canciones infantiles de Walter Crane con ilustraciones en color, impreso por Edmund Evans, un modelo temprano del libro infantil ilustrado.",
+   "more": "Crane dibujó las ilustraciones de esta colección de canciones infantiles, y el impresor Edmund Evans las grabó e imprimió en color. Cada página pone la rima en un marco decorativo, con color plano y contorno claro. Crane, Kate Greenaway y Randolph Caldecott, todos impresos por Evans, hicieron de fines de la década de 1870 una cumbre del libro infantil victoriano.",
+   "status": "Se conservan ejemplares en bibliotecas y museos, y el libro se ha reeditado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-childrens-book-market",
+  "item": "crane-babys-opera-1877",
+  "note": "Wider schooling and colour printing created a middle-class market for children’s books; Crane designed whole pages for the child’s eye, printed in colour by Evans.",
+  "es": {
+   "note": "La escolarización y la impresión en color crearon un mercado de clase media para libros infantiles; Crane diseñó páginas enteras para el ojo del niño, impresas en color por Evans."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "connection",
+  "from": "crane-babys-opera-1877",
+  "to": "under-the-window-1879",
+  "note": "Both were printed in colour by Edmund Evans for the same children’s book market, which Greenaway’s book extended after Crane’s.",
+  "es": {
+   "note": "Ambos los imprimió en color Edmund Evans para el mismo mercado de libros infantiles, que el libro de Greenaway prolongó después del de Crane."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "bradley-chap-book-1894",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "poster",
+  "title": "Posters and covers for The Chap-Book",
+  "designers": [
+   "will-bradley"
+  ],
+  "maker": "Stone & Kimball, Chicago",
+  "year": 1894,
+  "date": "1894–1896",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Lithographed posters and printed covers on paper",
+  "tech": [],
+  "key": "Will Bradley’s posters and covers for the Chicago literary magazine The Chap-Book, the American form of Art Nouveau line and flat colour.",
+  "more": "Stone & Kimball of Chicago published The Chap-Book from 1894, and Bradley designed posters and covers for it. He used strong curving line and a few flat colours, in a style close to that of Aubrey Beardsley in Britain. The work helped to make the literary poster fashionable in the United States.",
+  "status": "Original posters and issues survive in museums and libraries.",
+  "movements": [
+   "art-nouveau"
+  ],
+  "es": {
+   "title": "Carteles y portadas para The Chap-Book",
+   "date": "1894–1896",
+   "materials": "Carteles litografiados y portadas impresas sobre papel",
+   "key": "Los carteles y portadas de Will Bradley para la revista literaria The Chap-Book de Chicago, la versión estadounidense de la línea y el color plano del Art Nouveau.",
+   "more": "Stone & Kimball, de Chicago, publicó The Chap-Book desde 1894, y Bradley diseñó para ella carteles y portadas. Usó una línea curva fuerte y pocos colores planos, en un estilo cercano al de Aubrey Beardsley en Gran Bretaña. El trabajo ayudó a poner de moda el cartel literario en Estados Unidos.",
+   "status": "Se conservan carteles y números originales en museos y bibliotecas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-poster-craze",
+  "item": "bradley-chap-book-1894",
+  "note": "As the poster craze reached literary magazines, Bradley turned a magazine’s publicity into a collectable poster with Beardsley-like line and flat colour.",
+  "es": {
+   "note": "Cuando la fiebre del cartel llegó a las revistas literarias, Bradley convirtió la publicidad de una revista en un cartel coleccionable de línea cercana a Beardsley y color plano."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "hohlwein-posters-1908",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "poster",
+  "title": "Posters by Ludwig Hohlwein",
+  "designers": [
+   "ludwig-hohlwein"
+  ],
+  "maker": null,
+  "year": 1908,
+  "date": "c. 1906–1914",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "materials": "Lithographs on paper",
+  "tech": [],
+  "key": "The posters of Ludwig Hohlwein in Munich, built from a few flat patches of colour and simplified figures that can be read at a glance.",
+  "more": "Hohlwein, an architect by training, turned to poster design in Munich in the 1900s and became the second great figure of the Plakatstil after Lucian Bernhard. His posters reduce figures and objects to bold shapes of flat colour, often with strong contrasts of light and dark. He worked for many commercial clients and kept producing posters for decades.",
+  "status": "Original posters survive in museum and library collections.",
+  "movements": [
+   "plakatstil"
+  ],
+  "es": {
+   "title": "Carteles de Ludwig Hohlwein",
+   "date": "c. 1906–1914",
+   "materials": "Litografías sobre papel",
+   "key": "Los carteles de Ludwig Hohlwein en Múnich, hechos con pocas manchas planas de color y figuras simplificadas que se leen de un vistazo.",
+   "more": "Hohlwein, arquitecto de formación, se dedicó al cartel en Múnich en la década de 1900 y fue la segunda gran figura del Plakatstil después de Lucian Bernhard. Sus carteles reducen figuras y objetos a formas audaces de color plano, a menudo con fuertes contrastes de luz y sombra. Trabajó para muchos clientes comerciales y siguió produciendo carteles durante décadas.",
+   "status": "Se conservan carteles originales en colecciones de museos y bibliotecas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-advertising-catalogue",
+  "item": "hohlwein-posters-1908",
+  "note": "With consumer brands advertising by poster, clients needed images read in a moment; Hohlwein cut figures down to a few flat colour shapes.",
+  "es": {
+   "note": "Con las marcas de consumo anunciándose en carteles, los clientes necesitaban imágenes que se leyeran en un instante; Hohlwein redujo las figuras a unas pocas formas de color plano."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "stickley-craftsman-1901",
+  "level": "normal",
+  "discipline": "product",
+  "type": "furniture",
+  "title": "Craftsman furniture and The Craftsman",
+  "designers": [
+   "gustav-stickley"
+  ],
+  "maker": "Craftsman Workshops",
+  "year": 1901,
+  "date": "1901–1916",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Solid oak with exposed joinery; printed magazine",
+  "tech": [],
+  "key": "Gustav Stickley’s plain oak furniture and his magazine The Craftsman, which spread the American Arts and Crafts across the country.",
+  "more": "Stickley made solid, rectilinear furniture in his Craftsman Workshops in New York State and showed its joints openly as a point of honesty. From 1901 he published The Craftsman, a magazine that presented his furniture and Arts and Crafts ideas to a wide public. Together, workshop and magazine made the style known as Craftsman or Mission.",
+  "status": "Original pieces are collected and kept in museums; the style has been reissued.",
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "es": {
+   "title": "Muebles Craftsman y la revista The Craftsman",
+   "date": "1901–1916",
+   "materials": "Roble macizo con ensambles a la vista; revista impresa",
+   "key": "Los muebles sencillos de roble de Gustav Stickley y su revista The Craftsman, que difundieron el Arts and Crafts estadounidense por todo el país.",
+   "more": "Stickley fabricó muebles macizos y rectilíneos en sus Craftsman Workshops del estado de Nueva York y mostró abiertamente los ensambles como una cuestión de honestidad. Desde 1901 publicó The Craftsman, una revista que presentó sus muebles y las ideas del Arts and Crafts a un público amplio. Juntos, taller y revista dieron fama al estilo llamado Craftsman o Mission.",
+   "status": "Las piezas originales se coleccionan y se conservan en museos; el estilo se ha reeditado."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-advertising-catalogue",
+  "item": "stickley-craftsman-1901",
+  "note": "Magazine and catalogue selling carried the solid Craftsman piece across the country, so a workshop’s style became a national product.",
+  "es": {
+   "note": "La revista y la venta por catálogo llevaron la pieza Craftsman sólida por todo el país, y el estilo de un taller se volvió un producto nacional."
+  },
+  "refs": []
+ }
+]

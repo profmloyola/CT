@@ -1,0 +1,2812 @@
+{
+ "links": [
+  {
+   "ctx": "ctx-branding",
+   "item": "macintosh-icons-1984",
+   "note": "Apple sold the Mac to non-specialists, so its interface needed a friendly face; Kare’s small, clear icons gave the computer an approachable look.",
+   "es": {
+    "note": "Apple vendía el Mac a quienes no eran especialistas, así que su interfaz necesitaba una cara amable; los íconos pequeños y claros de Kare dieron al computador un aspecto cercano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "kare-chicago-geneva-1984",
+   "note": "The Mac put screen fonts in front of ordinary users, so Chicago and Geneva had to be legible as bitmaps and became the public’s first system typefaces.",
+   "es": {
+    "note": "El Mac puso fuentes de pantalla ante usuarios comunes, así que Chicago y Geneva debieron ser legibles como mapas de bits y fueron las primeras tipografías de sistema del gran público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nyc-fiscal-crisis",
+   "item": "i-love-ny-1977",
+   "note": "With New York near bankruptcy, tourism became a way to bring in money and lift spirits; the I ♥ NY campaign sold the place with a simple, friendly mark.",
+   "es": {
+    "note": "Con Nueva York al borde de la quiebra, el turismo era una forma de traer dinero y levantar el ánimo; la campaña I ♥ NY vendió el lugar con una marca simple y amable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "i-love-ny-1977",
+   "note": "Postmodern taste welcomed everyday, popular language, so Glaser paired a heart with a typewriter-style typeface instead of a formal logotype.",
+   "es": {
+    "note": "El gusto posmoderno acogía el lenguaje cotidiano y popular, así que Glaser unió un corazón con una tipografía de máquina de escribir en vez de un logotipo formal."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "emigre-magazine-1984",
+   "note": "With the Macintosh, from 1985 the magazine could be set and laid out in-house without professional typesetting, so digital type became its subject.",
+   "es": {
+    "note": "Con el Macintosh, desde 1985 la revista pudo componerse y diagramarse sin fotocomposición profesional, y la tipografía digital pasó a ser su tema."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "emigre-magazine-1984",
+   "note": "Postmodern culture favoured mixture, so the magazine joined typography, criticism and art in a deliberately hybrid look.",
+   "es": {
+    "note": "La cultura posmoderna favorecía la mezcla, así que la revista unió tipografía, crítica y arte en una estética deliberadamente híbrida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "emigre-bitmap-fonts-1985",
+   "note": "Low screen and printer resolution limited what letters could be, and Licko made those pixel limits the shape of her typefaces.",
+   "es": {
+    "note": "La baja resolución de pantalla e impresora limitaba cómo podían ser las letras, y Licko hizo de esos límites del píxel la forma de sus tipografías."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "ray-gun-1992",
+   "note": "Digital layout let designers overlap and distort text on screen without going through a typesetter, which Carson pushed in Ray Gun.",
+   "es": {
+    "note": "La composición digital permitió superponer y distorsionar texto en pantalla sin pasar por el taller, y Carson lo llevó al límite en Ray Gun."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "the-face-1981",
+   "note": "Post-punk energy and do-it-yourself style gave youth culture its own look, which The Face carried to the page in Brody’s lettering and bold layouts.",
+   "es": {
+    "note": "La energía pospunk y el estilo hazlo tú mismo dieron a la cultura juvenil un aspecto propio, que The Face llevó a la página con el lettering y los diseños audaces de Brody."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mtv-club",
+   "item": "the-face-1981",
+   "note": "British club culture was The Face’s audience and subject, so its pages were designed to speak to that scene’s taste for style.",
+   "es": {
+    "note": "La cultura de club británica era el público y el tema de The Face, así que sus páginas se diseñaron para hablarle al gusto por el estilo de esa escena."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "design-quarterly-133-1986",
+   "note": "With the Macintosh, Greiman could make a six-foot folded poster with digital imagery herself, which no traditional layout process offered.",
+   "es": {
+    "note": "Con el Macintosh, Greiman pudo hacer ella misma un póster plegado de casi dos metros con imagen digital, algo que el montaje tradicional no ofrecía."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "public-theater-identity-1994",
+   "note": "As institutions began to think of themselves as brands, the Public Theater took a loud, recognisable typographic identity as its mark.",
+   "es": {
+    "note": "Cuando las instituciones empezaron a pensarse como marcas, el Public Theater adoptó una identidad tipográfica ruidosa y reconocible como su sello."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "citibank-logo-1998",
+   "note": "The 1998 Citicorp-Travelers merger needed one mark for the new group, so Scher drew a simple lowercase wordmark that joined both names in a single sign.",
+   "es": {
+    "note": "La fusión de Citicorp y Travelers de 1998 pidió una sola marca para el nuevo grupo, y Scher dibujó un logotipo simple en minúsculas que unía ambos nombres en un solo signo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "citibank-logo-1998",
+   "note": "The bank worked in many countries, so its identity had to be one simple mark that could be applied the same way on branches, cards and advertising everywhere.",
+   "es": {
+    "note": "El banco operaba en muchos países, así que su identidad debía ser una marca simple y única, aplicable igual en sucursales, tarjetas y publicidad en todas partes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "aiga-detroit-poster-1999",
+   "note": "Postmodern culture favoured the personal and confessional over a single rational style, so Sagmeister made his own cut skin the medium and showed the pain of making it.",
+   "es": {
+    "note": "La cultura posmoderna privilegió lo personal y confesional frente a un estilo único y racional, y Sagmeister hizo de su propia piel cortada el soporte y mostró el dolor de hacerlo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-obama-2008",
+   "item": "hope-poster-2008",
+   "note": "The poster began as support for Obama's 2008 campaign; the campaign took it up with the word HOPE and it became the image most associated with that campaign.",
+   "es": {
+    "note": "El cartel nació como apoyo a la campaña de Obama en 2008; la campaña lo adoptó con la palabra HOPE y se volvió la imagen más asociada a ella."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "hope-poster-2008",
+   "note": "Online sharing replaced the print run: the image spread through websites, e-mail and social networks and was reworked by countless people.",
+   "es": {
+    "note": "La circulación en línea reemplazó a la imprenta: la imagen se difundió por sitios web, correo y redes sociales y fue reelaborada por incontables personas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plebiscite-1988",
+   "item": "franja-del-no-1988",
+   "note": "With only a fifteen-minute nightly slot in the month before the vote, the NO team had to win voters fast, so it filled it with short pieces, songs and testimonies.",
+   "es": {
+    "note": "Con solo 15 minutos diarios en el mes previo al voto, el equipo del NO debía convencer rápido, así que llenó la franja de piezas breves, canciones y testimonios."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chile-dictatorship",
+   "item": "franja-del-no-1988",
+   "note": "After years of fear under the regime, the NO answered with a joyful message: a rainbow sign and the slogan 'Chile, la alegría ya viene'.",
+   "es": {
+    "note": "Tras años de miedo bajo el régimen, el NO respondió con un mensaje alegre: un arcoíris como signo y el lema «Chile, la alegría ya viene»."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chile-market-economy",
+   "item": "franja-del-no-1988",
+   "note": "In a Chile opened to private business and consumption, the NO team used the language of advertising to speak to voters.",
+   "es": {
+    "note": "En un Chile abierto a la empresa privada y al consumo, el equipo del NO usó el lenguaje publicitario para hablarle al electorado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-2008",
+   "item": "patagonia-dont-buy-this-jacket-2011",
+   "note": "After the 2008 recession, Patagonia used a Black Friday 2011 ad to question consumption itself, asking readers to think before buying.",
+   "es": {
+    "note": "Tras la recesión de 2008, Patagonia usó un aviso del Black Friday de 2011 para cuestionar el consumo mismo, pidiendo pensar antes de comprar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "patagonia-dont-buy-this-jacket-2011",
+   "note": "As the environmental cost of products became a design question, the ad tied buying less to that cost and launched with a call to reduce, repair, reuse and recycle.",
+   "es": {
+    "note": "Al volverse el costo ambiental de los productos una cuestión de diseño, el aviso lo ligó a comprar menos y nació junto con un llamado a reducir, reparar, reutilizar y reciclar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-web",
+   "item": "first-website-1991",
+   "note": "The web needed a first page to explain itself, so Berners-Lee wrote plain text with links to other documents, leaving layout to the browser.",
+   "es": {
+    "note": "La web necesitaba una primera página que se explicara a sí misma, y Berners-Lee escribió texto simple con enlaces a otros documentos, dejando la composición al navegador."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "first-website-1991",
+   "note": "The first site showed how anyone could make pages and link them to other documents, the basis of a later culture of publishing and linking.",
+   "es": {
+    "note": "El primer sitio mostró cómo cualquiera podía hacer páginas y enlazarlas con otros documentos, base de una cultura posterior de publicar y enlazar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-web",
+   "item": "verdana-1996",
+   "note": "Text now had to be read on low-resolution screens, so Carter drew wide, generously spaced letters whose similar characters stay distinct on a grid of few pixels.",
+   "es": {
+    "note": "El texto ahora debía leerse en pantallas de baja resolución, así que Carter dibujó letras anchas y bien espaciadas, con caracteres parecidos distinguibles en una grilla de pocos píxeles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "bell-centennial-1978",
+   "note": "Directories were now made in huge runs on cheap paper at high speed, where ink spreads, so Carter cut notches into letter joins to keep names legible.",
+   "es": {
+    "note": "Las guías se imprimían en tiradas enormes, en papel barato y a alta velocidad, donde la tinta se expande, así que Carter cortó muescas en las uniones de las letras para mantener legibles los nombres."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "think-different-1997",
+   "note": "With the brand now the company's main asset, Apple's 1997 campaign sold an attitude through portraits, without showing computers, to renew its image.",
+   "es": {
+    "note": "Con la marca como principal activo de la empresa, la campaña de Apple de 1997 vendió una actitud con retratos, sin mostrar computadores, para renovar su imagen."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "think-different-1997",
+   "note": "Apple struggled against Windows PCs, so in 1997 it sold an attitude, not computers: portraits of admired figures with only the logo and ‘Think different’.",
+   "es": {
+    "note": "Apple tenía dificultades frente a los PC con Windows, así que en 1997 vendió una actitud y no computadores: retratos de figuras admiradas con solo el logo y «Think different»."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-smartphone",
+   "item": "material-design-2014",
+   "note": "With the interface as the product on touch screens of many sizes, Google set one set of rules, layers and motion, for phones, tablets and the web.",
+   "es": {
+    "note": "Con la interfaz como producto en pantallas táctiles de distintos tamaños, Google fijó un solo conjunto de reglas, capas y movimiento, para teléfonos, tabletas y la web."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-platform-economy",
+   "item": "material-design-2014",
+   "note": "As apps from Google and outside developers shared one platform, Material Design gave them common guidelines across phones, tablets and the web.",
+   "es": {
+    "note": "Como las apps de Google y de desarrolladores externos compartían una plataforma, Material Design les dio pautas comunes en teléfonos, tabletas y la web."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mtv-club",
+   "item": "mtv-logo-1981",
+   "note": "A channel on air all day needed to catch the eye in seconds, so MTV’s block M was redrawn in ever-changing colours and textures instead of one fixed look.",
+   "es": {
+    "note": "Un canal al aire todo el día debía llamar la atención en segundos, así que la M de bloque de MTV se redibujaba con colores y texturas cambiantes en vez de una apariencia fija."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "mtv-logo-1981",
+   "note": "As identity became a central task, MTV’s logo was made a frame: a fixed block M that content could fill with changing colours and textures.",
+   "es": {
+    "note": "Al volverse la identidad una tarea central, el logo de MTV se hizo un marco: una M de bloque fija que los contenidos llenaban con colores y texturas cambiantes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "wired-magazine-1993",
+   "note": "Layout moved onto the designer’s desktop computer, which allowed Wired’s dense, layered pages with fluorescent and metallic inks.",
+   "es": {
+    "note": "La maquetación pasó al computador del propio diseñador, lo que permitió las páginas densas y superpuestas de Wired, con tintas fluorescentes y metálicas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "carlton-bookcase-1981",
+   "note": "Once bare, sober form stopped being a virtue, Sottsass covered the bookcase in bright patterned laminate and gave it a figurative, totem-like shape.",
+   "es": {
+    "note": "Cuando la forma sobria y sin ornamento dejó de ser una virtud, Sottsass cubrió el librero con laminado colorido de patrones y le dio una forma figurativa, como un tótem."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "carlton-bookcase-1981",
+   "note": "Once ornament and colour were legitimate again, Sottsass treated the bookcase as a sign to play with: a loud, almost figurative object, not a plain storage unit.",
+   "es": {
+    "note": "Una vez que el ornamento y el color volvieron a ser legítimos, Sottsass trató el librero como un signo con el cual jugar: un objeto estridente, casi figurativo, y no un simple mueble de guardar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "first-chair-1983",
+   "note": "With form no longer bound to use, De Lucchi built a chair from a circle, a sphere and a light frame, closer to a small figure than to a seat.",
+   "es": {
+    "note": "Con la forma ya no atada al uso, De Lucchi armó una silla con un círculo, una esfera y una estructura liviana, más cercana a una figura pequeña que a un asiento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "proust-armchair-1978",
+   "note": "Quotation and irony became acceptable, so Mendini did not draw a new chair but redecorated a baroque-style armchair with painted pointillist dots.",
+   "es": {
+    "note": "La cita y la ironía se volvieron aceptables, así que Mendini no dibujó una silla nueva sino que redecoró un sillón de estilo barroco con puntos pintados puntillistas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "kettle-9093-1985",
+   "note": "As brands became companies’ main asset, Alessi sold author-designed objects such as Graves’s kettle as emblems of its brand.",
+   "es": {
+    "note": "Al volverse la marca el principal activo de las empresas, Alessi vendió objetos de autor, como la tetera de Graves, como emblemas de su marca."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "kettle-9093-1985",
+   "note": "As humour and meaning were counted as part of an object’s function, Graves put a small whistling bird on the spout of a kitchen kettle.",
+   "es": {
+    "note": "Al considerarse el humor y el significado parte de la función de un objeto, Graves puso un pequeño pájaro silbante en el pico de una tetera de cocina."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "anna-g-corkscrew-1994",
+   "note": "In a brand-led market, Alessi sold Mendini’s smiling-figure corkscrew as a catalogue product, giving its brand a popular, emotional object.",
+   "es": {
+    "note": "En un mercado guiado por la marca, Alessi vendió el sacacorchos de figura sonriente de Mendini como producto de catálogo, dándole a su marca un objeto popular y de valor emocional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "juicy-salif-1990",
+   "note": "As the brand became a company's main asset, Starck made a squeezer that was more sculpture than utensil, turning the product into an author's brand for Alessi.",
+   "es": {
+    "note": "Cuando la marca pasó a ser el principal activo de una empresa, Starck hizo un exprimidor más escultura que utensilio, que convirtió el producto en marca de autor para Alessi."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "juicy-salif-1990",
+   "note": "Postmodern culture questioned the rule that form follows function; Starck's squeezer put image above function, as an object to display more than to use.",
+   "es": {
+    "note": "La cultura posmoderna cuestionó la regla de que la forma sigue a la función; el exprimidor de Starck puso la imagen sobre la función, como objeto para exhibir más que para usar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "swatch-1983",
+   "note": "Quartz electronics replaced the mechanical movement, so a watch needed far fewer parts; Swatch used this to build a cheap watch in plastic.",
+   "es": {
+    "note": "La electrónica de cuarzo reemplazó al mecanismo, y el reloj necesitó muchas menos piezas; Swatch lo aprovechó para fabricar un reloj barato en plástico."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "swatch-1983",
+   "note": "With brand and image central to selling, Swatch issued watches in many colours and editions, so a cheap watch became a fashion object and a collectable.",
+   "es": {
+    "note": "Con la marca y la imagen en el centro de la venta, Swatch lanzó relojes en muchos colores y ediciones, y un reloj barato pasó a ser objeto de moda y de colección."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "apple-iic-1984",
+   "note": "Computers made for individuals, not specialists, reached the home; Apple's IIc gave that idea a compact, portable-looking case.",
+   "es": {
+    "note": "Los computadores hechos para individuos y no solo para especialistas llegaron al hogar; el IIc de Apple dio a esa idea una carcasa compacta de aspecto portátil."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "apple-iic-1984",
+   "note": "As identity became a design task, Apple with frog design created the Snow White language with the IIc, giving its products one recognisable look.",
+   "es": {
+    "note": "Al volverse la identidad una tarea de diseño, Apple creó con frog design el lenguaje Snow White con el IIc, que dio a sus productos una apariencia reconocible."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "imac-1998",
+   "note": "The personal computer was still hard for ordinary users; the iMac made it accessible at home, as an all-in-one that was easy to plug in and connect to the internet.",
+   "es": {
+    "note": "El computador personal aún era difícil para el usuario común; el iMac lo hizo accesible en el hogar, como equipo todo en uno fácil de conectar y de usar con internet."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "imac-1998",
+   "note": "With the brand as a central asset, the iMac's colour and translucent plastic made Apple's computers friendly and visible, and returned the company to popular culture.",
+   "es": {
+    "note": "Con la marca como activo central, el color y el plástico translúcido del iMac hicieron amigables y visibles los computadores de Apple y devolvieron la empresa a la cultura popular."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-music",
+   "item": "ipod-2001",
+   "note": "Music compressed into files no longer needed a physical medium; the iPod carried thousands of songs in a pocket player with a simple interface.",
+   "es": {
+    "note": "La música comprimida en archivos ya no necesitaba un soporte físico; el iPod llevó miles de canciones en un reproductor de bolsillo con una interfaz simple."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "ipod-2001",
+   "note": "Tiny hard disks and smaller electronics meant that storage no longer set the size of a device, so the iPod could hold many songs in a pocket-sized body.",
+   "es": {
+    "note": "Los discos duros diminutos y la electrónica más pequeña hicieron que el almacenamiento ya no fijara el tamaño del aparato, y el iPod pudo guardar muchas canciones en un cuerpo de bolsillo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "ipod-2001",
+   "note": "With brand image central, the iPod's white earphones and its campaign made the player a recognisable emblem of the Apple brand.",
+   "es": {
+    "note": "Con la imagen de marca en el centro, los auriculares blancos del iPod y su campaña volvieron al reproductor un emblema reconocible de la marca Apple."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-smartphone",
+   "item": "iphone-2007",
+   "note": "The mobile phone was becoming a pocket computer; the iPhone joined phone, internet and music in a single touch screen and dropped the keypad.",
+   "es": {
+    "note": "El teléfono móvil se volvía un computador de bolsillo; el iPhone unió teléfono, internet y música en una sola pantalla táctil y eliminó el teclado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "iphone-2007",
+   "note": "With design and manufacturing now separable across countries, Apple designed the iPhone in California and had it assembled in China.",
+   "es": {
+    "note": "Al poder separarse el diseño y la fabricación entre países, Apple diseñó el iPhone en California y lo hizo ensamblar en China."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "sony-walkman-1979",
+   "note": "Integrated circuits shrank amplifiers and cassette mechanisms, so Sony could drop recording and speakers and make a stereo player small enough to carry.",
+   "es": {
+    "note": "Los circuitos integrados redujeron amplificador y mecanismo de casete, y Sony pudo quitar la grabación y el parlante para hacer un reproductor estéreo portátil."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "sony-walkman-1979",
+   "note": "Japan's electronics firms already sold consumer goods worldwide, so Sony designed the player for a global market and sold it under the single Walkman name.",
+   "es": {
+    "note": "Como las firmas japonesas de electrónica ya vendían al mundo, Sony pensó el reproductor para un mercado global y lo vendió bajo el único nombre Walkman."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "dyson-dc01-1993",
+   "note": "As firms treated image as a core asset, Dyson sold its cyclone technology and the visible clear bin as the mark of the brand, not only as a cheaper cleaner.",
+   "es": {
+    "note": "Al tratar las empresas la imagen como un activo central, Dyson vendió su tecnología ciclónica y el depósito transparente visible como seña de marca, no solo como aspiradora."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ageing-accessibility",
+   "item": "oxo-good-grips-1990",
+   "note": "Designing for hands weakened by arthritis led to thick, soft, finned handles; because they were easier to grip, they sold to everyone, not only to people with limited grip.",
+   "es": {
+    "note": "Al diseñar para manos debilitadas por la artritis se hicieron mangos gruesos, blandos y con aletas; como eran más fáciles de sujetar, se vendieron a todos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "fairphone-2013",
+   "note": "As concern about waste and environmental cost grew, Fairphone aimed for traceable materials, repairability and a longer working life instead of quick replacement.",
+   "es": {
+    "note": "Al crecer la preocupación por los residuos y el costo ambiental, Fairphone buscó materiales rastreables, reparación y larga vida útil en vez del reemplazo rápido."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-smartphone",
+   "item": "fairphone-2013",
+   "note": "Smartphones were replaced every year or two, so Fairphone designed a phone meant to be repaired and kept longer, with traceable supply chains.",
+   "es": {
+    "note": "Como los smartphones se reemplazaban cada uno o dos años, Fairphone diseñó un teléfono pensado para repararse y conservarse más, con cadena de suministro trazable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-informality",
+   "item": "favela-chair-1991",
+   "note": "Informal Latin American settlements are built by hand from whatever material is available; the Campanas copied that method, piling wood offcuts into a chair.",
+   "es": {
+    "note": "Los asentamientos informales latinoamericanos se construyen a mano con el material disponible; los Campana remedaron ese método apilando retazos de madera en una silla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "favela-chair-1991",
+   "note": "As popular building and craft techniques came to be seen as a source for designers, the Campanas assembled the chair by hand from offcuts, without a fixed plan.",
+   "es": {
+    "note": "Al verse las técnicas populares de construcción y oficio como fuente para el diseño, los Campana armaron la silla a mano con retazos, sin plan fijo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "vermelha-chair-1998",
+   "note": "Popular hand techniques became a design source, so the Campanas wound red cord by hand around a metal frame, making each chair slightly different.",
+   "es": {
+    "note": "Al volverse las técnicas manuales populares una fuente de diseño, los Campana enrollaron a mano cuerda roja sobre una estructura metálica, y cada silla resultó algo distinta."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "banquete-chair-2006",
+   "note": "Everyday popular objects became material for designers, so the Campanas covered a frame in second-hand toys, joining a popular plaything with a gallery piece.",
+   "es": {
+    "note": "Al volverse los objetos populares cotidianos material de diseño, los Campana cubrieron una estructura con juguetes usados, uniendo juguete popular y pieza de galería."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-human-rights-resistance",
+   "item": "arpilleras-1974",
+   "note": "Under the dictatorship, women of detained or jobless families sewed scraps into scenes denouncing it; workshops of the Vicaría sold them abroad as testimony.",
+   "es": {
+    "note": "Bajo la dictadura, mujeres de familias de detenidos o cesantes cosieron retazos en escenas de denuncia; talleres de la Vicaría las vendieron al exterior como testimonio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chile-dictatorship",
+   "item": "arpilleras-1974",
+   "note": "Repression and job losses left women with detained relatives and no income; from 1976 they sewed scenes of protest in workshops of the Vicaría de la Solidaridad.",
+   "es": {
+    "note": "La represión y la cesantía dejaron a mujeres con familiares detenidos y sin ingresos; desde 1976 cosieron escenas de protesta en talleres de la Vicaría de la Solidaridad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "westwood-punk-1976",
+   "note": "Punk made anger a youth style, so the Seditionaries shop sold slogan T-shirts, safety pins and rips that let young people wear that rage.",
+   "es": {
+    "note": "El punk hizo de la rabia un estilo juvenil, así que la tienda vendió camisetas con consignas, alfileres y cortes rotos con los que los jóvenes vestían esa rabia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "westwood-punk-1976",
+   "note": "Postmodern taste for quotation and irony led the shop to lift fetish and work clothes out of context and treat them mockingly.",
+   "es": {
+    "note": "El gusto posmoderno por la cita y la ironía llevó a la tienda a sacar de contexto ropa fetichista y de trabajo y tratarla con ironía."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "westwood-pirates-1981",
+   "note": "A culture that mixed and quoted the past made Westwood cite historical dress, turning pirate shirts and bicorn hats into theatrical pastiche.",
+   "es": {
+    "note": "Una cultura que mezclaba y citaba el pasado llevó a Westwood a citar trajes históricos y convertir camisas piratas y bicornios en pastiche teatral."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "westwood-pirates-1981",
+   "note": "Once punk had made her name, Westwood left its scandal behind and showed historical collections on the catwalk, moving to fashion.",
+   "es": {
+    "note": "Una vez que el punk le dio nombre, Westwood dejó atrás su escándalo y presentó colecciones históricas en la pasarela, pasando a la moda de referencia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "margiela-tabi-1988",
+   "note": "Postmodern quotation of other cultures led Margiela to take the Japanese split-toe tabi and set it in Paris fashion without explanation.",
+   "es": {
+    "note": "La cita posmoderna de otras culturas llevó a Margiela a tomar el tabi japonés de dedo dividido y ponerlo en la moda de París sin explicarlo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "mcqueen-highland-rape-1995",
+   "note": "With fashion open to narrative and provocation, McQueen turned the runway into a staged, controversial story about Scotland and England.",
+   "es": {
+    "note": "Con una moda abierta a la narración y la provocación, McQueen convirtió la pasarela en un relato teatral y polémico sobre Escocia e Inglaterra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "mcqueen-skull-scarf-2003",
+   "note": "When the brand became a company’s main asset, a simple skull print was made a repeatable accessory that carried the McQueen label’s identity.",
+   "es": {
+    "note": "Cuando la marca pasó a ser el principal activo de una empresa, un estampado simple de calaveras se volvió un accesorio repetible que llevaba la identidad de McQueen."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "mcqueen-skull-scarf-2003",
+   "note": "With luxury sold in markets worldwide, a cheaper, easily recognised scarf print could carry the label’s image to all of them.",
+   "es": {
+    "note": "Con el lujo vendido en mercados de todo el mundo, un estampado de pañuelo más barato y fácil de reconocer podía llevar la imagen de la marca a todos ellos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "mcqueen-plato-atlantis-2010",
+   "note": "As the web reached a public audience, the show was streamed live by SHOWstudio, so a runway once seen by guests was open to viewers online.",
+   "es": {
+    "note": "Al llegar la web al gran público, SHOWstudio transmitió el desfile en vivo, y lo que antes veían los invitados quedó abierto a espectadores en internet."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "mcqueen-plato-atlantis-2010",
+   "note": "Digital image tools let the designers generate the collection’s reptile-like patterns on screen and print them directly onto fabric.",
+   "es": {
+    "note": "Las herramientas de imagen digital permitieron generar en pantalla los estampados de aire reptil de la colección e imprimirlos directamente sobre la tela."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "paris-debut-1981",
+   "note": "Japan’s consumer boom gave Kawakubo and Yamamoto successful labels in Tokyo, a base from which they could take their collections to Paris.",
+   "es": {
+    "note": "El auge del consumo en Japón dio a Kawakubo y Yamamoto marcas exitosas en Tokio, una base desde la cual pudieron llevar sus colecciones a París."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "paris-debut-1981",
+   "note": "Questioning of single rules fed designs in black, asymmetric, torn clothes that challenged the Western rule that dress should shape the body.",
+   "es": {
+    "note": "El cuestionamiento de las reglas únicas alimentó prendas negras, asimétricas y rasgadas que desafiaron la regla occidental de que el vestir debe moldear el cuerpo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "gaultier-cone-bra-1990",
+   "note": "As feminist debates questioned how bodies and roles were pictured, Gaultier put underwear on show and played with gender roles in a corset for Madonna.",
+   "es": {
+    "note": "Al cuestionar los feminismos cómo se representaban cuerpos y roles, Gaultier sacó la ropa interior a la vista y jugó con los roles de género en un corset para Madonna."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mtv-club",
+   "item": "gaultier-cone-bra-1990",
+   "note": "In a pop culture driven by televised music and image, a stage costume reached a mass audience: Madonna's 1990 tour carried Gaultier's corset worldwide through filming.",
+   "es": {
+    "note": "En una cultura pop movida por música e imagen televisadas, un vestuario de escenario llegó a un público masivo: la gira de Madonna de 1990 difundió el corset de Gaultier filmada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "nike-air-max-1987",
+   "note": "As the brand became a firm's main asset, a hidden technology was worth showing: the Air Max made the cushioning visible in a heel window, a sign of Nike.",
+   "es": {
+    "note": "Al volverse la marca el principal activo de la empresa, convenía mostrar la tecnología oculta: el Air Max dejó la cámara de aire visible en el talón, seña de Nike."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "nike-air-max-1987",
+   "note": "With manufacturing moved to lower-cost countries, Nike designed in the US and had its shoes made under contract in Asia for a world market.",
+   "es": {
+    "note": "Con la manufactura trasladada a países de menor costo, Nike diseñaba en Estados Unidos y fabricaba por contrato en Asia para un mercado mundial."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "air-jordan-1-1985",
+   "note": "Brands sold identity more than product: Nike tied a shoe to an athlete's name and image, and the Air Jordan 1 became a collector's object.",
+   "es": {
+    "note": "Las marcas vendían identidad más que producto: Nike ligó una zapatilla al nombre y la imagen de un deportista, y la Air Jordan 1 se volvió objeto de coleccionista."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "prada-nylon-backpack-1984",
+   "note": "As the logo became a source of value, Prada took a plain utilitarian nylon with no ornament and made it a luxury object marked by a small triangle with the name.",
+   "es": {
+    "note": "Al volverse el logo fuente de valor, Prada tomó un nylon utilitario sin ornamento y lo hizo objeto de lujo, marcado por un pequeño triángulo con el nombre."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "prada-nylon-backpack-1984",
+   "note": "With modernism's single rational taste in question, Prada inverted the ranking of noble and humble materials, selling plain nylon as luxury.",
+   "es": {
+    "note": "Con el gusto único y racional del modernismo en duda, Prada invirtió la jerarquía de materiales nobles y humildes y vendió nylon simple como lujo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "patagonia-synchilla-1985",
+   "note": "As brands became carriers of identity, technical clothing for climbers moved into everyday dress, and wearing Patagonia fleece became a sign of who you were.",
+   "es": {
+    "note": "Al volverse las marcas portadoras de identidad, la ropa técnica para escaladores pasó al vestir cotidiano, y usar polar Patagonia pasó a ser señal de identidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-informality",
+   "item": "quinta-monroy-2004",
+   "note": "Where families had long lived in an informal settlement in Iquique, Elemental built the half of the house they could not build alone and left room to extend it.",
+   "es": {
+    "note": "Donde las familias vivían hace años en un campamento informal de Iquique, Elemental construyó la mitad de la casa que no podían hacer solas y dejó espacio para ampliarla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chile-market-economy",
+   "item": "quinta-monroy-2004",
+   "note": "In Chile's market model housing was paid with a fixed-value state subsidy, so Elemental fitted the design to that budget: half a good house, not a small one.",
+   "es": {
+    "note": "En el modelo de mercado chileno la vivienda se pagaba con un subsidio estatal de valor fijo, así que Elemental ajustó el diseño a ese monto: media casa buena, no una chica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoliberalism",
+   "item": "quinta-monroy-2004",
+   "note": "Since the state subsidised demand instead of building directly, the project had to work within a subsidy paid to families, which set its budget.",
+   "es": {
+    "note": "Como el Estado subsidiaba la demanda en vez de construir directo, el proyecto debió funcionar dentro de un subsidio entregado a las familias, que fijó su presupuesto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chile-market-economy",
+   "item": "villa-verde-2013",
+   "note": "Chile’s housing policy relied on state subsidies for private building, so Elemental designed a half-house that fit the subsidy and left families to finish the rest.",
+   "es": {
+    "note": "La política habitacional chilena se apoyó en subsidios estatales a la construcción privada, así que Elemental diseñó media casa ajustada al subsidio y dejó a las familias terminar el resto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "sesc-pompeia-1986",
+   "note": "Popular culture was seen as a source for design, so Bo Bardi kept the old factory and gave it an inner ‘street’, a fireplace and walkways drawn from everyday popular life.",
+   "es": {
+    "note": "Al verse la cultura popular como fuente de diseño, Bo Bardi conservó la fábrica y le dio una ‘calle’ interior, un fogón y pasarelas tomados de la vida popular cotidiana."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "teatro-oficina-1984",
+   "note": "Popular culture became a source for design, so Bo Bardi and Elito built the theatre as a covered street with a plain, austere finish instead of a closed hall.",
+   "es": {
+    "note": "La cultura popular pasó a ser fuente de diseño, y Bo Bardi y Elito hicieron el teatro como una calle cubierta, con un acabado austero y simple, en vez de una sala cerrada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-latin-popular-craft",
+   "item": "biblioteca-virgilio-barco-2001",
+   "note": "Local craft was valued as a source for design, so Salmona laid exposed brick by hand in curved, stepped forms for a public library, not an industrial finish.",
+   "es": {
+    "note": "Al valorarse el oficio local como fuente de diseño, Salmona colocó ladrillo a la vista a mano, en formas curvas y escalonadas, en una biblioteca pública, sin acabado industrial."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "portland-building-1982",
+   "note": "Once form following function was questioned, Graves answered the modernist glass box with colour, columns and garlands on a municipal building.",
+   "es": {
+    "note": "Una vez cuestionado que la forma siguiera a la función, Graves respondió a la caja de vidrio modernista con color, columnas y guirnaldas en un edificio municipal."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "portland-building-1982",
+   "note": "Postmodern culture embraced quotation and ornament, so Graves used historical motifs such as the giant keystone and garlands as decoration on a public building.",
+   "es": {
+    "note": "La cultura posmoderna adoptó la cita y el ornamento, así que Graves usó motivos históricos, como la clave gigante y las guirnaldas, como decoración en un edificio público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "humana-building-1985",
+   "note": "As a company’s image became a central asset, Humana wanted a headquarters that was itself a landmark, and Graves gave it a pink granite tower with a distinct profile.",
+   "es": {
+    "note": "Al volverse la imagen una pieza central de la empresa, Humana quiso una sede que fuera un hito, y Graves le dio una torre de granito rosado con un perfil propio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "guggenheim-bilbao-1997",
+   "note": "Computer modelling let Gehry’s office use CATIA to define and build the curved titanium forms that would have been very hard to document by hand.",
+   "es": {
+    "note": "El modelado digital permitió a la oficina de Gehry usar CATIA para definir y construir las formas curvas de titanio, muy difíciles de documentar a mano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "guggenheim-bilbao-1997",
+   "note": "As cities used landmark museums to attract visitors, declining industrial Bilbao commissioned Gehry’s museum to revive itself, giving rise to the ‘Bilbao effect’.",
+   "es": {
+    "note": "Al usar las ciudades museos emblemáticos para atraer visitantes, la Bilbao industrial en declive encargó el museo de Gehry para reactivarse, lo que dio origen al ‘efecto Bilbao’."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "walt-disney-hall-2003",
+   "note": "Digital modelling let each curved steel panel be defined and fabricated, so a skin of sails could be built as designed.",
+   "es": {
+    "note": "El modelado digital permitió definir y fabricar cada panel de acero curvo, así que una piel de velas pudo construirse tal como se diseñó."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "gehry-house-1978",
+   "note": "As the modern rule of plain, finished form lost authority, Gehry wrapped an old bungalow in chain-link, raw wood and corrugated metal instead of hiding the everyday.",
+   "es": {
+    "note": "Al perder autoridad la regla moderna de la forma limpia y terminada, Gehry envolvió un bungaló viejo en malla, madera cruda y metal acanalado en vez de ocultar lo cotidiano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "gehry-house-1978",
+   "note": "Postmodern culture accepted mixture and the ordinary, so cheap materials such as plywood and corrugated metal could become the deliberate language of a building.",
+   "es": {
+    "note": "La cultura posmoderna aceptó la mezcla y lo cotidiano, así que materiales baratos como la madera terciada y el metal acanalado pudieron ser el lenguaje deliberado de un edificio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "vitra-design-museum-1989",
+   "note": "As design became a collectable culture, Vitra built a museum for its industrial design collection and made it an authored work of architecture.",
+   "es": {
+    "note": "Al volverse el diseño una cultura coleccionable, Vitra construyó un museo para su colección de diseño industrial y lo hizo una obra de arquitectura de autor."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "seattle-library-2004",
+   "note": "As information and media moved online, the library was rethought from a store of books into a public place for many media and activities.",
+   "es": {
+    "note": "Al pasar la información y los medios a la red, la biblioteca se repensó de depósito de libros a lugar público para múltiples medios y actividades."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "kunsthal-rotterdam-1992",
+   "note": "Postmodern taste for mixture led to a building that joins rough and refined materials and public routes crossing it, like an urban collage.",
+   "es": {
+    "note": "El gusto posmoderno por la mezcla llevó a un edificio que une materiales rudos y refinados y recorridos públicos que lo cruzan, como un collage urbano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoliberalism",
+   "item": "th-no-logo",
+   "note": "Deregulated markets let firms hand manufacturing to contractors and compete on image; Klein’s book takes this shift to brand building as its subject.",
+   "es": {
+    "note": "Los mercados desregulados permitieron a las empresas subcontratar la fabricación y competir por imagen; el libro de Klein toma ese giro hacia la construcción de marca como tema."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plebiscite-1988",
+   "item": "equipo-campana-del-no",
+   "note": "The plebiscite gave the opposition a daily television slot, and the NO team used it to answer with joy, a rainbow logo and a jingle rather than denunciation alone.",
+   "es": {
+    "note": "El plebiscito dio a la oposición un espacio diario de televisión, y el equipo del No lo usó para responder con alegría, un logo arcoíris y un jingle, no solo con denuncia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-obama-2008",
+   "item": "shepard-fairey",
+   "note": "The internet let independent artists make and spread images for the 2008 campaign without central control; Fairey produced his Hope portrait of Obama in that setting.",
+   "es": {
+    "note": "Internet permitió que artistas independientes hicieran y difundieran imágenes de la campaña de 2008 sin control central; Fairey creó su retrato Hope de Obama en ese escenario."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nyc-fiscal-crisis",
+   "item": "milton-glaser",
+   "note": "The fiscal crisis pushed New York to market itself to visitors and firms; in 1977 the state’s campaign took its I ♥ NY logo from Milton Glaser.",
+   "es": {
+    "note": "La crisis fiscal empujó a Nueva York a venderse a visitantes y empresas; en 1977 la campaña del estado tomó su logo I ♥ NY de Milton Glaser."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-human-rights-resistance",
+   "item": "arpilleristas",
+   "note": "Open criticism was dangerous under the dictatorship, so women denounced abuses in cloth that was easy to make and to carry abroad, as the arpilleras did.",
+   "es": {
+    "note": "La crítica abierta era peligrosa bajo la dictadura, así que las mujeres denunciaron los abusos en tela, fácil de hacer y de llevar al extranjero, como hicieron las arpilleras."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "ray-gun-1992",
+   "note": "Postmodern culture licensed mixing and rule-breaking; Carson’s Ray Gun layered and distorted type instead of following a regular typographic grid.",
+   "es": {
+    "note": "La cultura posmoderna legitimó la mezcla y la ruptura de reglas; la Ray Gun de Carson superpuso y distorsionó la tipografía en vez de seguir una grilla regular."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-spain-transition-eu",
+   "item": "guggenheim-bilbao-1997",
+   "note": "The autonomous Basque government paid for the Guggenheim as a landmark museum, using architecture to give a post-industrial city a new image and economy.",
+   "es": {
+    "note": "El gobierno autónomo vasco financió el Guggenheim como museo emblemático, y usó la arquitectura para dar a una ciudad postindustrial una nueva imagen y economía."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "guggenheim-bilbao-1997",
+   "note": "As Basque steelworks and shipyards declined, Bilbao bet on a landmark museum as an engine of economic renewal, and the building was designed to draw visitors.",
+   "es": {
+    "note": "Con el declive de la siderurgia y los astilleros vascos, Bilbao apostó por un museo emblemático como motor de renovación económica, y el edificio se diseñó para atraer visitantes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-fast-fashion",
+   "item": "inst-zara",
+   "note": "Zara renewed its collections in small batches every few weeks, using shop sales data to decide what to make next, which shortened the path from design to store.",
+   "es": {
+    "note": "Zara renovaba sus colecciones en series pequeñas cada pocas semanas y usaba los datos de venta de las tiendas para decidir qué producir, lo que acortó el camino del diseño a la tienda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "gilbert-baker",
+   "note": "The gay liberation movement sought a shared emblem, so Baker designed a flag of eight coloured stripes for San Francisco in 1978.",
+   "es": {
+    "note": "El movimiento de liberación gay buscaba un emblema común, y Baker diseñó en 1978 una bandera de ocho franjas de colores para San Francisco."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "javier-mariscal",
+   "note": "Big events came to be treated as licensable brands, so Mariscal drew Cobi, a cubist-line mascot that could carry the Barcelona 1992 Games.",
+   "es": {
+    "note": "Los grandes eventos pasaron a tratarse como marcas licenciables, y Mariscal dibujó a Cobi, una mascota de línea cubista que pudo encarnar los Juegos de Barcelona 1992."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "erik-spiekermann",
+   "note": "Desktop publishing opened font sales beyond the big foundries, so FontShop could distribute typefaces by independent designers, among them Spiekermann’s own.",
+   "es": {
+    "note": "La edición de escritorio abrió la venta de fuentes más allá de las grandes fundiciones, así que FontShop pudo distribuir tipografías de autor, entre ellas las del propio Spiekermann."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-smartphone",
+   "item": "shigetaka-kurita",
+   "note": "Mobile data services needed compact symbols, so Kurita drew 176 pictograms of 12 by 12 pixels for NTT Docomo’s i-mode.",
+   "es": {
+    "note": "Los servicios móviles de datos pedían símbolos compactos, y Kurita dibujó 176 pictogramas de 12 por 12 píxeles para el i-mode de NTT Docomo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "tobias-frere-jones",
+   "note": "Digital type design let one designer remake the city’s sign-lettering tradition, and Frere-Jones systematised it as a type family.",
+   "es": {
+    "note": "El diseño digital de tipografías permitió que un diseñador rehiciera la tradición de rótulos de la ciudad, y Frere-Jones la sistematizó en una familia tipográfica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "inst-aga-khan-award",
+   "note": "As one building model spread worldwide, the award backed projects rooted in local tradition, climate and materials, giving regional identity a public standard in architecture.",
+   "es": {
+    "note": "Al difundirse un solo modelo de edificio por el mundo, el premio respaldó proyectos arraigados en la tradición, el clima y los materiales locales, y dio a la identidad regional un estándar público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "inst-pritzker",
+   "note": "A global circuit of prizes and competitions raised a small international group of architects to cult status; the Pritzker was its most visible honour.",
+   "es": {
+    "note": "Un circuito global de premios y concursos elevó a un grupo internacional reducido de arquitectos a la categoría de culto; el Pritzker fue su honor más visible."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-star-architecture",
+   "item": "inst-pritzker",
+   "note": "As cities competed through iconic buildings, a prize for the individual architect made the author, not the building type, the mark of quality.",
+   "es": {
+    "note": "Al competir las ciudades con edificios-icono, un premio al arquitecto individual hizo del autor, y no del tipo de edificio, la marca de calidad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "inst-venice-architecture-biennale",
+   "note": "Its 1980 exhibition, The Presence of the Past, put historical reference and the Strada Novissima before a wide public and made the postmodern turn visible in architecture.",
+   "es": {
+    "note": "Su exposición de 1980, La presencia del pasado, mostró la referencia histórica y la Strada Novissima a un público amplio y volvió visible el giro posmoderno en la arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-star-architecture",
+   "item": "inst-venice-architecture-biennale",
+   "note": "With cities and architects seeking visibility, the Biennale became a global showcase where star architects present their work.",
+   "es": {
+    "note": "Con ciudades y arquitectos en busca de visibilidad, la Bienal se volvió un escaparate global donde los arquitectos-estrella presentan su obra."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "inst-cnu",
+   "note": "The car-based suburb spread low-density sprawl; the CNU answered with a charter for compact, walkable neighbourhoods and the repair of existing centres.",
+   "es": {
+    "note": "El suburbio del automóvil extendió una periferia de baja densidad; el CNU respondió con una carta que propone barrios compactos y caminables y la recuperación de los centros existentes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoliberalism",
+   "item": "inst-rural-studio",
+   "note": "As the state withdrew from housing the poorest, a social need went unmet; the studio answered it by teaching students through real buildings for local residents.",
+   "es": {
+    "note": "Al retirarse el Estado de la vivienda de los más pobres quedó una necesidad social sin atender; el taller la enfrentó enseñando a los estudiantes mediante obras reales para los vecinos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-fast-fashion",
+   "item": "inst-fashion-revolution",
+   "note": "Rana Plaza in 2013 exposed the labour cost behind fast fashion; the campaign turned it into a demand that brands disclose who makes their clothes.",
+   "es": {
+    "note": "Rana Plaza, en 2013, expuso el costo laboral detrás de la moda rápida; la campaña lo convirtió en la exigencia de que las marcas revelen quién hace su ropa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "th-language-postmodern-architecture",
+   "note": "Jencks dated the ‘death’ of modern architecture to the 1972 demolition of Pruitt-Igoe and offered double coding, a language for specialists and public, in its place.",
+   "es": {
+    "note": "Jencks fechó la «muerte» de la arquitectura moderna en la demolición de Pruitt-Igoe en 1972 y ofreció en su lugar el doble código, un lenguaje para especialistas y público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "th-pattern-language",
+   "note": "Against a functionalism designed by experts, it offered a method of patterns that users could choose and combine themselves.",
+   "es": {
+    "note": "Frente a un funcionalismo proyectado por expertos, ofreció un método de patrones que los propios usuarios podían elegir y combinar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "th-delirious-new-york",
+   "note": "It rereads Manhattan as the product of the metropolis and not of a plan, opposing the modern urbanism of the plan with an appreciation of existing urban culture.",
+   "es": {
+    "note": "Relee Manhattan como producto de la metrópoli y no de un plan, y opone al urbanismo moderno del plan una valoración de la cultura urbana existente."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "th-delirious-new-york",
+   "note": "Against rationalist urbanism, it proposed reading the real metropolis as a source for design.",
+   "es": {
+    "note": "Frente al urbanismo racionalista, propuso leer la metrópoli real como fuente de proyecto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-nyc-fiscal-crisis",
+   "item": "th-delirious-new-york",
+   "note": "Written as New York was in fiscal crisis, it presents the dense city as a cultural laboratory rather than a failure.",
+   "es": {
+    "note": "Escrito mientras Nueva York vivía su crisis fiscal, presenta la ciudad densa como un laboratorio cultural y no como un fracaso."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "th-visual-display-quantitative-information",
+   "note": "The computer made charts trivial to produce; Tufte answered with principles such as the data-ink ratio to resist decoration.",
+   "es": {
+    "note": "El computador hizo trivial producir gráficos; Tufte respondió con principios, como la relación datos-tinta, para resistir el adorno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "th-towards-critical-regionalism",
+   "note": "Against a universal civilisation spreading one building type everywhere, it proposed an architecture of resistance anchored in place, climate and material.",
+   "es": {
+    "note": "Frente a una civilización universal que extendía un mismo tipo de edificio por todas partes, propuso una arquitectura de resistencia anclada en el lugar, el clima y la materia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "th-towards-critical-regionalism",
+   "note": "After functionalism’s crisis it offered an alternative both to the International Style and to postmodern pastiche.",
+   "es": {
+    "note": "Tras la crisis del funcionalismo ofreció una alternativa tanto al estilo internacional como al pastiche posmoderno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "th-sml-xl",
+   "note": "Globalisation made cities look alike and buildings grow ever larger; Koolhaas answered with ‘The Generic City’ and ‘Bigness’, naming both as conditions that architecture must now work within.",
+   "es": {
+    "note": "La globalización volvió parecidas a las ciudades y cada vez más grandes a los edificios; Koolhaas respondió con «La ciudad genérica» y «Bigness», que nombran ambos como condiciones con que ahora debe trabajar la arquitectura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "th-parametricism-manifesto",
+   "note": "As computational design tools spread through architecture offices, Schumacher argued that they justified a single style built on continuous, parametrically varied forms.",
+   "es": {
+    "note": "Cuando las herramientas de diseño computacional se difundieron por las oficinas de arquitectura, Schumacher sostuvo que justificaban un estilo único basado en formas continuas y variadas paramétricamente."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "critical-regionalism",
+   "note": "As the same architectural forms spread worldwide, critics asked for building tied to place, climate and craft, so that modern design would not erase local differences.",
+   "es": {
+    "note": "Al difundirse las mismas formas arquitectónicas por todo el mundo, la crítica pidió una construcción atada al lugar, el clima y el oficio, para que el diseño moderno no borrara las diferencias locales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mass-motorisation",
+   "item": "new-urbanism",
+   "note": "Car-dependent suburbs spread the city over a wide area; New Urbanists answered with compact, walkable and mixed neighbourhoods set by urban codes.",
+   "es": {
+    "note": "Los suburbios dependientes del auto extendieron la ciudad sobre un área amplia; los nuevos urbanistas respondieron con barrios compactos, caminables y mixtos fijados por códigos urbanos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "architectural-minimalism",
+   "note": "Japan’s prosperity paid for buildings such as Ando’s, in concrete, light and empty space, which cut ornament to the limit and became a model abroad.",
+   "es": {
+    "note": "La prosperidad japonesa financió edificios como los de Ando, de hormigón, luz y espacio vacío, que redujeron el ornamento al límite y se volvieron un modelo en el extranjero."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "architectural-minimalism",
+   "note": "Against the ornament and quotation of postmodern architecture, minimalists returned to the discipline of light, material and proportion.",
+   "es": {
+    "note": "Frente al ornamento y la cita de la arquitectura posmoderna, los minimalistas volvieron al rigor de la luz, el material y la proporción."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "green-architecture",
+   "note": "Buildings use a large share of the world’s energy, and the climate crisis moved climate, materials and energy to the start of design.",
+   "es": {
+    "note": "Los edificios usan una gran parte de la energía del mundo, y la crisis climática puso el clima, los materiales y la energía al comienzo del proyecto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-oil-crisis",
+   "item": "green-architecture",
+   "note": "Dearer energy after the 1973 oil crisis opened the way for passive and solar building, which later became general practice.",
+   "es": {
+    "note": "El encarecimiento de la energía tras la crisis del petróleo de 1973 abrió paso a la edificación pasiva y solar, que más tarde se volvió práctica general."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "digital-architecture",
+   "note": "Computer-aided design and digital fabrication made complex curved forms measurable and buildable, as in Gehry’s use of CATIA at Bilbao.",
+   "es": {
+    "note": "El diseño asistido y la fabricación digital hicieron medibles y construibles las formas curvas complejas, como en el uso de CATIA por Gehry en Bilbao."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "landscape-urbanism",
+   "note": "Abandoned industrial land came to be seen as a landscape of processes to reclaim over time, not as a plot to be filled with buildings.",
+   "es": {
+    "note": "Los terrenos industriales abandonados pasaron a verse como un paisaje de procesos que recuperar en el tiempo, y no como un solar que llenar de edificios."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-informality",
+   "item": "participatory-social-architecture",
+   "note": "The housing deficit and informal settlements left states with little money per family, so architects designed ‘half a house’ to be completed by residents, with their participation.",
+   "es": {
+    "note": "El déficit de vivienda y los asentamientos informales dejaron al Estado con poco dinero por familia, así que los arquitectos diseñaron «media casa» que los habitantes completan, con su participación."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "parametricism",
+   "note": "Algorithms and digital fabrication made it feasible to design and build many different components in one system, so architects could make continuous, varied forms.",
+   "es": {
+    "note": "Los algoritmos y la fabricación digital hicieron viable diseñar y construir muchos componentes distintos en un mismo sistema, y los arquitectos pudieron hacer formas continuas y variadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-star-architecture",
+   "item": "parametricism",
+   "note": "The ‘Bilbao effect’ made cities reward spectacular sculptural buildings by famous names, which created demand for the fluid, signature forms that parametricism offered.",
+   "es": {
+    "note": "El «efecto Bilbao» hizo que las ciudades premiaran edificios escultóricos y espectaculares de firmas famosas, lo que creó demanda de las formas fluidas y de autor que ofrecía el parametricismo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "punk-fashion",
+   "note": "The punk subculture treated appearance as protest, so clothes were deliberately torn, pinned and covered in slogans instead of being finished and neat.",
+   "es": {
+    "note": "La subcultura punk trató la apariencia como protesta, así que la ropa se rasgó, se prendió con alfileres y se llenó de consignas a propósito, en vez de ser pulcra y terminada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-hip-hop",
+   "item": "streetwear",
+   "note": "Hip hop and skate scenes made casual clothes a mark of group identity, so sneakers, caps and sportswear became the core of a new fashion built outside fashion houses.",
+   "es": {
+    "note": "El hip hop y el skate hicieron de la ropa informal una marca de identidad, así que zapatillas, gorros y ropa deportiva pasaron a ser el núcleo de una moda nueva, hecha fuera de las casas de moda."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "japanese-avant-garde-fashion",
+   "note": "Japan’s economic boom gave its labels the means to show in Paris, where Kawakubo and Yamamoto presented radical, loose black clothes unlike the fitted Western styles.",
+   "es": {
+    "note": "El auge económico de Japón dio a sus marcas los medios para mostrar en París, donde Kawakubo y Yamamoto presentaron ropa negra, holgada y radical, distinta de los estilos occidentales ajustados."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ageing-accessibility",
+   "item": "universal-design",
+   "note": "Ageing populations and disability rights laws made accessibility a duty, so designers began to plan for the widest range of users from the start instead of adding special fixes.",
+   "es": {
+    "note": "El envejecimiento y las leyes por los derechos de las personas con discapacidad hicieron de la accesibilidad un deber, y se empezó a diseñar para la gama más amplia de usuarios desde el inicio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-may-68",
+   "item": "pompidou-centre-1977",
+   "note": "After May 1968 France sought a more open, accessible culture; the Pompidou answered with a flexible ‘cultural machine’ of open floors with services on the outside.",
+   "es": {
+    "note": "Tras Mayo del 68 Francia buscó una cultura más abierta y accesible; el Pompidou respondió con una «máquina cultural» flexible de plantas libres y servicios por fuera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "pompidou-centre-1977",
+   "note": "The French state wanted a mass cultural centre, and the Pompidou answered with flexible open spaces that challenged the idea of a museum of fixed galleries.",
+   "es": {
+    "note": "El Estado francés quiso un centro cultural masivo, y el Pompidou respondió con espacios abiertos flexibles que desafiaron la idea de museo de salas fijas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "pompidou-centre-1977",
+   "note": "As closed functionalism lost credit, the Pompidou turned technology into image: structure and services left visible on the outside.",
+   "es": {
+    "note": "Cuando el funcionalismo cerrado perdió crédito, el Pompidou convirtió la tecnología en imagen: estructura y servicios quedaron a la vista por fuera."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "piazza-d-italia-1978",
+   "note": "Postmodern culture revalued historical quotation; Moore made the classical orders ironic, in steel, neon and water, and so gave the square its language.",
+   "es": {
+    "note": "La cultura posmoderna revaloró la cita histórica; Moore volvió irónicos los órdenes clásicos, en acero, neón y agua, y así dio su lenguaje a la plaza."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "teatro-del-mondo-1979",
+   "note": "As postmodern culture returned to memory and the city’s forms, Rossi built a theatre of simple, typological volumes that echoed Venice’s towers.",
+   "es": {
+    "note": "Cuando la cultura posmoderna volvió a la memoria y a las formas de la ciudad, Rossi construyó un teatro de volúmenes simples y tipológicos que evocaban las torres de Venecia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "strada-novissima-1980",
+   "note": "Postmodern culture turned to the historic city; twenty architects built a street of façades that imitated one, and showed it to a wide public.",
+   "es": {
+    "note": "La cultura posmoderna se volvió hacia la ciudad histórica; veinte arquitectos levantaron una calle de fachadas que la imitaba y la mostraron a un público amplio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-baby-boom-suburbs",
+   "item": "seaside-florida-1981",
+   "note": "Against the scattered suburb of the postwar boom, Seaside set a town code of walkable streets and mixed types, planned as a small town.",
+   "es": {
+    "note": "Contra el suburbio disperso del auge de posguerra, Seaside impuso un código urbano de calles caminables y tipos mixtos, planeado como pueblo pequeño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "seaside-florida-1981",
+   "note": "In the postmodern return to the past, the town took back traditional house types and images, such as porches and picket fences, as its answer.",
+   "es": {
+    "note": "En el regreso posmoderno al pasado, el pueblo recuperó tipos y imágenes tradicionales de casa, como porches y cercos de madera, como respuesta."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-decolonisation",
+   "item": "jatiya-sangsad-dhaka-1982",
+   "note": "Independence made Bangladesh need a seat of government; the unfinished capital Kahn began in 1962 was completed as its parliament.",
+   "es": {
+    "note": "La independencia dejó a Bangladés necesitado de una sede de gobierno; la capital inconclusa que Kahn comenzó en 1962 se completó como su parlamento."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "staatsgalerie-stuttgart-1984",
+   "note": "As museums became urban attractions, Stuttgart held a competition for a new gallery whose monumental, colourful form drew visitors.",
+   "es": {
+    "note": "Cuando los museos se volvieron atractivo urbano, Stuttgart convocó un concurso para una nueva galería cuya forma monumental y colorida atrajo visitantes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "staatsgalerie-stuttgart-1984",
+   "note": "Postmodern culture mixed registers; Stirling combined historical monumentality in stone with industrial colours in the steel details.",
+   "es": {
+    "note": "La cultura posmoderna mezcló registros; Stirling combinó la monumentalidad histórica de la piedra con colores industriales en los detalles de acero."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "att-building-1984",
+   "note": "Postmodern culture made historical quotation acceptable; the broken-pediment crown made the reference to classical forms explicit on a skyscraper.",
+   "es": {
+    "note": "La cultura posmoderna volvió aceptable la cita histórica; la corona de frontón partido hizo explícita la referencia a formas clásicas en un rascacielos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-corporate-office-boom",
+   "item": "att-building-1984",
+   "note": "In the corporate office boom, a company wanting a recognisable identity chose a tower with a distinctive top, granite and arched entrance.",
+   "es": {
+    "note": "En el auge de las oficinas corporativas, una empresa que quería una identidad reconocible eligió una torre con remate distintivo, granito y entrada en arco."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "hsbc-hong-kong-1986",
+   "note": "As global banks built regional headquarters, the HSBC used a high-tech tower in Hong Kong as its corporate image.",
+   "es": {
+    "note": "Cuando los bancos globales levantaron sedes regionales, el HSBC usó una torre high-tech en Hong Kong como imagen de empresa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "hsbc-hong-kong-1986",
+   "note": "The office, now full of electronics, needed flexibility; hung column-free floors and prefabricated service modules answered it.",
+   "es": {
+    "note": "La oficina, ya llena de electrónica, necesitaba flexibilidad; los pisos colgados sin columnas y los módulos de servicio prefabricados respondieron a ello."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoliberalism",
+   "item": "lloyds-building-1986",
+   "note": "Financial deregulation in London demanded flexible office headquarters; Lloyd’s answered with open floors and services moved to the outside.",
+   "es": {
+    "note": "La desregulación financiera de Londres exigió sedes de oficinas flexibles; Lloyd’s respondió con plantas abiertas y servicios llevados al exterior."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-spain-transition-eu",
+   "item": "museo-romano-merida-1986",
+   "note": "Spain’s new democratic institutions commissioned quality cultural buildings; Moneo’s museum was the result, a modern brick building on the Roman site.",
+   "es": {
+    "note": "Las nuevas instituciones democráticas de España encargaron edificios culturales de calidad; el museo de Moneo fue el resultado, un edificio moderno de ladrillo sobre el sitio romano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "institut-monde-arabe-1987",
+   "note": "Mitterrand’s grands travaux made flagship cultural buildings a state policy; the institute became one, with a facade of light-sensitive diaphragms.",
+   "es": {
+    "note": "Los grands travaux de Mitterrand hicieron de los edificios culturales emblemáticos una política de Estado; el instituto fue uno, con fachada de diafragmas sensibles a la luz."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "parc-de-la-villette-1987",
+   "note": "The old slaughterhouse site was freed for new use; Tschumi turned it into a park with a grid of red folies and no central hierarchy.",
+   "es": {
+    "note": "El antiguo recinto de los mataderos quedó libre para un nuevo uso; Tschumi lo convirtió en parque con una retícula de folies rojas y sin jerarquía central."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "parc-de-la-villette-1987",
+   "note": "Postmodern culture questioned unity and origin; the park applies it by overlapping three independent systems instead of one composition.",
+   "es": {
+    "note": "La cultura posmoderna cuestionó la unidad y el origen; el parque la aplica superponiendo tres sistemas independientes en vez de una sola composición."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "louvre-pyramid-1989",
+   "note": "The museum had to receive mass audiences, so access was rebuilt as a glass pyramid over an underground lobby in the courtyard.",
+   "es": {
+    "note": "El museo debía recibir un público masivo, así que el acceso se rehízo como una pirámide de vidrio sobre un vestíbulo subterráneo en el patio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "church-of-the-light-1989",
+   "note": "Japan’s economic comfort let a small chapel be built in concrete of very high finish, which became the hallmark of Ando’s work.",
+   "es": {
+    "note": "La holgura económica de Japón permitió levantar una capilla pequeña en hormigón de altísima terminación, que se volvió sello de la obra de Ando."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-spain-transition-eu",
+   "item": "barcelona-olympic-village-1992",
+   "note": "The democratic city used the Games to open itself to the sea, with new housing, beaches and a promenade on its old coast.",
+   "es": {
+    "note": "La ciudad democrática usó los Juegos para abrirse al mar, con nuevas viviendas, playas y un paseo en su antigua costa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "barcelona-olympic-village-1992",
+   "note": "An obsolete industrial waterfront in Poblenou was replanned as a residential district, with the street grid extended to the sea.",
+   "es": {
+    "note": "Un frente industrial obsoleto del Poblenou se replanificó como barrio residencial, con la trama de calles extendida hasta el mar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "kansai-airport-1994",
+   "note": "Japan’s economy of the 1980s funded an airport on an artificial island, with a terminal by a European high-tech architect.",
+   "es": {
+    "note": "La economía japonesa de los ochenta financió un aeropuerto sobre una isla artificial, con una terminal de un arquitecto high-tech europeo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "kansai-airport-1994",
+   "note": "Growing air travel demanded very large terminals; Piano answered with one long hall under a curved steel and glass roof.",
+   "es": {
+    "note": "El crecimiento del transporte aéreo exigió terminales de gran escala; Piano respondió con un solo vestíbulo largo bajo una cubierta curva de acero y vidrio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "marika-alderton-house-1994",
+   "note": "The tropical climate called for passive cooling; Murcutt raised the floor and used cross ventilation instead of mechanical air conditioning.",
+   "es": {
+    "note": "El clima tropical pedía enfriamiento pasivo; Murcutt elevó el suelo y usó ventilación cruzada en vez de climatización mecánica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-disasters-humanitarian",
+   "item": "paper-church-kobe-1995",
+   "note": "The earthquake destroyed the church and left little money and time; Ban rebuilt it quickly with recyclable cardboard tubes.",
+   "es": {
+    "note": "El terremoto destruyó la iglesia y dejó poco dinero y tiempo; Ban la reconstruyó rápido con tubos de cartón reciclable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "paper-church-kobe-1995",
+   "note": "Concern for waste and impact favoured recyclable, low-impact materials; the church was built of paper tubes that could be reused.",
+   "es": {
+    "note": "La preocupación por los residuos y el impacto favoreció materiales reciclables y de bajo impacto; la iglesia se hizo con tubos de papel reutilizables."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "therme-vals-1996",
+   "note": "Growing wellness and leisure travel brought visitors to remote Alpine Vals; the baths turned local stone into an attraction in themselves.",
+   "es": {
+    "note": "El turismo de bienestar y ocio llevó visitantes al remoto Vals alpino; las termas convirtieron la piedra local en una atracción en sí misma."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-asian-gulf-boom",
+   "item": "petronas-towers-1996",
+   "note": "Malaysia’s 1990s boom and the state oil firm wanted a national symbol; Pelli drew twin towers on Islamic geometry. Its Asian skyline later pressed Western firms to tall, regional-motif towers.",
+   "es": {
+    "note": "El auge malasio de los noventa y la petrolera estatal buscaron un símbolo nacional; Pelli trazó torres gemelas sobre geometría islámica, modelo luego para torres occidentales con motivos regionales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reunification",
+   "item": "jewish-museum-berlin-1999",
+   "note": "With Berlin again the capital, Germany faced its Jewish past in the city itself; Libeskind answered with a zigzag plan cut by voids rather than a conventional museum.",
+   "es": {
+    "note": "Con Berlín otra vez capital, Alemania enfrentó su pasado judío en la propia ciudad; Libeskind respondió con una planta en zigzag cortada por vacíos, en vez de un museo convencional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-memory-culture",
+   "item": "jewish-museum-berlin-1999",
+   "note": "The culture of memory asked for ways to show loss without a heroic monument; Libeskind used voids, sharp angles and empty spaces to make absence the content of the building.",
+   "es": {
+    "note": "La cultura de la memoria pidió mostrar la pérdida sin un monumento heroico; Libeskind usó vacíos, ángulos agudos y espacios vacíos para hacer de la ausencia el contenido del edificio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reunification",
+   "item": "reichstag-dome-1999",
+   "note": "The Bundestag’s return to Berlin required rebuilding the Reichstag; Foster added a glass dome that visitors can climb, putting the public above the chamber.",
+   "es": {
+    "note": "El regreso del Bundestag a Berlín exigió reconstruir el Reichstag; Foster añadió una cúpula de vidrio que se puede subir, poniendo al público sobre el hemiciclo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "reichstag-dome-1999",
+   "note": "Concern over energy use made daylight and natural ventilation a goal; the dome’s mirrored cone sends light into the chamber and draws air out, cutting energy use.",
+   "es": {
+    "note": "La preocupación por el consumo de energía hizo de la luz natural y la ventilación natural una meta; el cono de espejos de la cúpula envía luz a la sala y extrae aire, reduciendo el consumo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "serralves-museum-1999",
+   "note": "As museums of contemporary art multiplied, Siza placed this one inside a park, with white volumes and windows that frame the garden instead of closing in on the art.",
+   "es": {
+    "note": "Al multiplicarse los museos de arte contemporáneo, Siza ubicó este dentro de un parque, con volúmenes blancos y ventanas que enmarcan el jardín en vez de encerrarse en el arte."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "tate-modern-2000",
+   "note": "The closure of Bankside Power Station in 1981 left a vast empty shell on the south bank; Tate reused it, and the museum became a spur for regenerating the area.",
+   "es": {
+    "note": "El cierre de la central de Bankside en 1981 dejó un enorme casco vacío en la ribera sur; la Tate lo reutilizó y el museo impulsó la regeneración de la zona."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "tate-modern-2000",
+   "note": "Cities began to count on museums of modern art to draw visitors; Tate Modern put one in a former power station, with the Turbine Hall as a huge public space.",
+   "es": {
+    "note": "Las ciudades empezaron a contar con museos de arte moderno para atraer visitantes; la Tate Modern instaló uno en una antigua central eléctrica, con la Sala de Turbinas como enorme espacio público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-web",
+   "item": "sendai-mediatheque-2001",
+   "note": "As information moved online, the library became a place of media; Ito dropped the grid for tubes holding free floors. Its structure-as-space was studied abroad as an alternative to the grid.",
+   "es": {
+    "note": "Al pasar la información a la red, la biblioteca se volvió lugar de medios; Ito dejó la retícula por tubos que sostienen plantas libres, una alternativa a la retícula que se estudió fuera de Japón."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-informality",
+   "item": "gando-school-2001",
+   "note": "Gando lacked school buildings, so Kéré had villagers build in local clay with a ventilated roof. Shown at MoMA in 2010, it became a model for building with community and climate.",
+   "es": {
+    "note": "A Gando le faltaban escuelas, así que Kéré hizo que los vecinos construyeran en arcilla con techo ventilado. Mostrada en el MoMA en 2010, fue modelo de construir con la comunidad y el clima."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "kanazawa-museum-2004",
+   "note": "The museum was conceived as an open public space of the city: a glass circle with no front, entered from all sides. It won the Golden Lion at Venice in 2004 and shaped Western museum design.",
+   "es": {
+    "note": "El museo se concibió como espacio público abierto: un círculo de vidrio sin frente, con acceso por todos lados. Ganó el León de Oro de Venecia en 2004 e influyó en el diseño occidental de museos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-social-urbanism-medellin",
+   "item": "metrocable-medellin-2004",
+   "note": "Medellín’s social urbanism put public investment in its poorest hillsides; the cable car links the informal slope to the metro, so transport became the first public work there.",
+   "es": {
+    "note": "El urbanismo social de Medellín llevó inversión pública a sus laderas más pobres; el teleférico une la ladera informal con el metro, y el transporte fue ahí la primera obra pública."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-urban-informality",
+   "item": "metrocable-medellin-2004",
+   "note": "Informal neighbourhoods on steep slopes lacked road access; a cable car, which needs no roads, gave them a quick link to the city’s centre and jobs.",
+   "es": {
+    "note": "Los barrios informales de ladera empinada carecían de acceso vial; un teleférico, que no necesita calles, les dio un enlace rápido con el centro y el empleo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-german-reunification",
+   "item": "holocaust-memorial-berlin-2005",
+   "note": "The reunified state placed a national memorial beside the Brandenburg Gate, and Eisenman answered with an abstract grid of stelae rather than a figurative monument.",
+   "es": {
+    "note": "El Estado reunificado situó un memorial nacional junto a la Puerta de Brandeburgo, y Eisenman respondió con una retícula abstracta de estelas y no con un monumento figurativo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-memory-culture",
+   "item": "holocaust-memorial-berlin-2005",
+   "note": "A culture of memory that distrusted pathos led Eisenman to a grid of blank stelae, without a figurative symbol, in which visitors lose their bearings.",
+   "es": {
+    "note": "Una cultura de la memoria que desconfiaba del patetismo llevó a Eisenman a una retícula de estelas lisas, sin símbolo figurativo, en la que el visitante pierde la orientación."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-chile-market-economy",
+   "item": "casa-poli-2005",
+   "note": "A private market for second homes let a client commission a house at the sea’s edge, and the architects built it as a pure concrete cube.",
+   "es": {
+    "note": "Un mercado privado de segundas viviendas permitió a un cliente encargar una casa al borde del mar, y los arquitectos la resolvieron como un cubo puro de hormigón."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-social-urbanism-medellin",
+   "item": "parque-biblioteca-espana-2007",
+   "note": "Social urbanism put quality public buildings in the poorest hillside districts to reduce exclusion, so the library was designed as a landmark for its neighbourhood.",
+   "es": {
+    "note": "El urbanismo social puso edificios públicos de calidad en las laderas más pobres para reducir la exclusión, y así la biblioteca se proyectó como un hito para su barrio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-asian-gulf-boom",
+   "item": "birds-nest-2008",
+   "note": "Beijing 2008 commissioned an iconic stadium from foreign architects as a showcase of China’s rise, so the structure itself was designed as a visible emblem.",
+   "es": {
+    "note": "Beijing 2008 encargó un estadio icónico a arquitectos extranjeros como escaparate del ascenso de China, y la estructura misma se diseñó como emblema visible."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "ningbo-history-museum-2008",
+   "note": "Mass demolition of historic districts in China made salvaged brick and tile abundant, and Wang Shu used them to build the museum’s walls.",
+   "es": {
+    "note": "La demolición masiva de barrios históricos en China dejó ladrillo y teja en abundancia, y Wang Shu los usó para levantar los muros del museo. Una respuesta local a la globalización."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-asian-gulf-boom",
+   "item": "burj-khalifa-2010",
+   "note": "Oil capital turned record height into a city brand, so Dubai commissioned the tallest tower possible, shaped to be an emblem.",
+   "es": {
+    "note": "El capital petrolero convirtió la altura récord en marca de ciudad, y Dubái encargó la torre más alta posible, con una forma pensada como emblema."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "burj-khalifa-2010",
+   "note": "Global capital, engineering and labour made it possible to build a record tower in the desert, designed by a US firm and built by international contractors.",
+   "es": {
+    "note": "El capital, la ingeniería y la mano de obra globales hicieron posible una torre récord en el desierto, diseñada por una firma estadounidense y construida por contratistas internacionales."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-human-rights-resistance",
+   "item": "museo-memoria-santiago-2010",
+   "note": "Reports on human rights violations under the dictatorship created the demand for a national museum, whose programme is to hold their archives and testimonies.",
+   "es": {
+    "note": "Los informes sobre violaciones de derechos humanos bajo la dictadura crearon la demanda de un museo nacional, cuyo programa es albergar sus archivos y testimonios."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-memory-culture",
+   "item": "museo-memoria-santiago-2010",
+   "note": "The rise of memorial museums supplied a building type that mixes archive, exhibition and public space, which the Santiago museum follows.",
+   "es": {
+    "note": "El auge de los museos-memoriales dio un tipo de edificio que mezcla archivo, exposición y espacio público, y que el museo de Santiago sigue."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-housing-reconstruction",
+   "item": "tour-bois-le-pretre-2011",
+   "note": "Obsolete postwar social housing towers could be enlarged instead of demolished, so the architects added winter gardens and balconies to the existing frame.",
+   "es": {
+    "note": "Las torres de vivienda social de posguerra, obsoletas, podían ampliarse en vez de demolerse, y los arquitectos añadieron jardines de invierno y balcones a la estructura existente."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "tour-bois-le-pretre-2011",
+   "note": "Concern over carbon led the architects to refurbish rather than demolish, avoiding the emissions of demolition and new construction.",
+   "es": {
+    "note": "La preocupación por el carbono llevó a los arquitectos a rehabilitar en vez de demoler, evitando las emisiones de la demolición y de la obra nueva."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-asian-gulf-boom",
+   "item": "cctv-headquarters-2012",
+   "note": "The Chinese state entrusted OMA with an emblematic media headquarters for its global projection, which allowed an experimental form instead of a standard tower.",
+   "es": {
+    "note": "El Estado chino confió a OMA una sede mediática emblemática para su proyección global, lo que permitió una forma experimental en vez de una torre estándar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "cctv-headquarters-2012",
+   "note": "Digital structural calculation made it possible to engineer a looped tower with an irregular steel frame, which a conventional tower design would not have needed.",
+   "es": {
+    "note": "El cálculo estructural digital permitió resolver una torre en bucle con una estructura irregular de acero, algo que un diseño de torre convencional no habría necesitado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "heydar-aliyev-center-2012",
+   "note": "Parametric modelling made it possible to design and build a continuous envelope without corners, with walls, roof and plaza flowing as one surface.",
+   "es": {
+    "note": "El modelado paramétrico permitió diseñar y construir una envolvente continua sin esquinas, con muros, techo y plaza fluyendo como una sola superficie."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-asian-gulf-boom",
+   "item": "heydar-aliyev-center-2012",
+   "note": "Oil revenue funded an icon-building cultural centre in Baku, whose purpose was to give the capital a landmark image.",
+   "es": {
+    "note": "La renta petrolera financió un centro cultural-icono en Bakú, cuyo fin era dar a la capital una imagen emblemática."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-natural-disasters-humanitarian",
+   "item": "cardboard-cathedral-2013",
+   "note": "The 2011 earthquake put the cathedral out of use, so the diocese asked for a temporary replacement: Ban built it with cardboard tubes, cheap and quick to raise.",
+   "es": {
+    "note": "El sismo de 2011 dejó inutilizada la catedral, y la diócesis pidió un reemplazo temporal: Ban lo construyó con tubos de cartón, baratos y rápidos de levantar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "bosco-verticale-2014",
+   "note": "Growing concern about urban heat and air led architects to treat vegetation as part of the building: Boeri put trees on the balconies of the façade.",
+   "es": {
+    "note": "La preocupación creciente por el calor y el aire de las ciudades llevó a tratar la vegetación como parte del edificio: Boeri puso árboles en los balcones de la fachada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "armani-american-gigolo-1980",
+   "note": "Armani’s personal name worked as a brand, and licences and a Hollywood film spread his style beyond Milan, so a jacket cut became an international label.",
+   "es": {
+    "note": "El nombre de Armani funcionó como marca, y las licencias y una película de Hollywood difundieron su estilo más allá de Milán: un corte de chaqueta se volvió una marca internacional."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-neoliberalism",
+   "item": "armani-american-gigolo-1980",
+   "note": "As finance and business grew in the 1980s, the executive needed a uniform; Armani’s soft suit gave the new professional class an image of ease and power.",
+   "es": {
+    "note": "Con el auge de las finanzas y los negocios en los años ochenta, el ejecutivo necesitó un uniforme; el traje blando de Armani dio a la nueva clase profesional una imagen de soltura y poder."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-hip-hop",
+   "item": "run-dmc-adidas-1986",
+   "note": "Hip hop made everyday sneakers a sign of belonging; the group wore the Superstar as part of its look, and the shoe became an emblem of the culture.",
+   "es": {
+    "note": "El hip hop hizo de las zapatillas de uso diario un signo de pertenencia; el grupo usó la Superstar como parte de su imagen, y el calzado se volvió un emblema de esa cultura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mtv-club",
+   "item": "run-dmc-adidas-1986",
+   "note": "Music television put the group’s look before a national audience, so a street style of the Superstar spread through video far beyond New York.",
+   "es": {
+    "note": "La televisión musical puso la imagen del grupo ante un público nacional, así que un estilo callejero con la Superstar se difundió por video mucho más allá de Nueva York."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "run-dmc-adidas-1986",
+   "note": "Adidas signed the group in 1986 rather than an athlete, treating a musician’s image as marketing for the brand.",
+   "es": {
+    "note": "En 1986 Adidas firmó con el grupo y no con un deportista, y trató la imagen de un músico como publicidad de la marca."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "miyake-a-poc-1998",
+   "note": "Computer-programmed knitting could make shaped fabric directly, so Miyake designed whole garments in one piece, without seams or sewing.",
+   "es": {
+    "note": "El tejido programado por computador pudo fabricar tela ya con forma, así que Miyake diseñó prendas completas de una sola pieza, sin costuras ni confección."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "stella-mccartney-label-2001",
+   "note": "Environmental concern about the animal and material costs of fashion led McCartney to design a luxury line without leather or fur.",
+   "es": {
+    "note": "La preocupación ambiental por los costos animales y materiales de la moda llevó a McCartney a diseñar una línea de lujo sin cuero ni pieles."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-digital-fabrication",
+   "item": "van-herpen-crystallization-2010",
+   "note": "3D printers, until then used for prototypes, could build rigid shapes layer by layer, so van Herpen designed couture forms that sewing could not make.",
+   "es": {
+    "note": "Las impresoras 3D, hasta entonces usadas para prototipos, podían construir formas rígidas por capas, así que van Herpen diseñó formas de alta costura que la costura no podía lograr."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "off-white-the-ten-2017",
+   "note": "Social networks and resale turned limited releases into events, so Abloh designed the shoes to be seen, shared and collected.",
+   "es": {
+    "note": "Las redes sociales y la reventa convirtieron los lanzamientos limitados en eventos, y Abloh diseñó las zapatillas para ser vistas, compartidas y coleccionadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-tourism",
+   "item": "frutiger-typeface-1975",
+   "note": "Mass air travel brought huge airports like Roissy, where people had to read signs from far away and at an angle, so Frutiger drew open, distinct letters.",
+   "es": {
+    "note": "El viaje aéreo masivo trajo aeropuertos enormes como Roissy, donde había que leer letreros de lejos y en ángulo, así que Frutiger dibujó letras abiertas y bien diferenciadas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-space-race",
+   "item": "nasa-worm-logo-1975",
+   "note": "After the space race, NASA wanted a modern, unified image; the studio’s manual replaced the old emblem with a stylised logotype applied by common rules.",
+   "es": {
+    "note": "Tras la carrera espacial, la NASA quiso una imagen moderna y unificada; el manual del estudio reemplazó el antiguo emblema por un logotipo estilizado aplicado con reglas comunes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "apple-rainbow-logo-1977",
+   "note": "The Apple II offered colour graphics, so Apple marked its difference with a logo of colour stripes.",
+   "es": {
+    "note": "El Apple II ofrecía gráficos en color, así que Apple marcó su diferencia con un logotipo de franjas de color."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "rainbow-flag-1978",
+   "note": "Movements for sexual diversity needed a shared emblem, and Baker made a flag of colour stripes in San Francisco.",
+   "es": {
+    "note": "Los movimientos de diversidad sexual necesitaban un emblema común, y Baker hizo en San Francisco una bandera de franjas de color."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "xerox-star-interface-1981",
+   "note": "Office users had no technical training, so the Star used a desktop metaphor with windows and icons.",
+   "es": {
+    "note": "Los usuarios de oficina no tenían formación técnica, así que el Star usó una metáfora de escritorio con ventanas e íconos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "xerox-star-interface-1981",
+   "note": "Xerox sought the office of the future as paper declined, so the Star showed documents as icons on screen.",
+   "es": {
+    "note": "Xerox buscaba la oficina del futuro ante el declive del papel, así que el Star mostró los documentos como íconos en pantalla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "cobi-1987",
+   "note": "Events came to be run as brands with licences, so the Games got a mascot with a personality of its own.",
+   "es": {
+    "note": "Los eventos pasaron a gestionarse como marcas con licencias, así que los Juegos tuvieron una mascota con personalidad propia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "ff-meta-1991",
+   "note": "Desktop publishing opened the sale of digital fonts by their authors, and Meta was made for both screen and paper.",
+   "es": {
+    "note": "La edición de escritorio abrió la venta de fuentes digitales por sus autores, y Meta se pensó para pantalla y papel."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-smartphone",
+   "item": "emoji-1999",
+   "note": "Short mobile messages left little room for tone, so Kurita drew 12-by-12-pixel pictograms to convey it.",
+   "es": {
+    "note": "Los mensajes cortos por móvil dejaban poco espacio al tono, así que Kurita dibujó pictogramas de 12 por 12 píxeles para transmitirlo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "emoji-1999",
+   "note": "Western messaging platforms adopted emoji after Unicode included them, which made a Japanese invention a global visual language.",
+   "es": {
+    "note": "Las plataformas de mensajería occidentales adoptaron los emoji tras su inclusión en Unicode, lo que hizo de un invento japonés un lenguaje visual global."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-obama-2008",
+   "item": "gotham-2000",
+   "note": "The 2008 campaign needed a sober, recognisable identity, and used Gotham across all its material.",
+   "es": {
+    "note": "La campaña de 2008 necesitaba una identidad sobria y reconocible, y usó Gotham en todo su material."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "gotham-2000",
+   "note": "Global brands came to demand a lettering system of their own, and Gotham was adopted as a typographic identity.",
+   "es": {
+    "note": "Las marcas globales llegaron a exigir un sistema de letra propio, y Gotham se adoptó como identidad tipográfica."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-smartphone",
+   "item": "windows-phone-metro-2010",
+   "note": "A small touchscreen favoured an interface of type and tiles without ornament, which Metro made its principle.",
+   "es": {
+    "note": "Una pantalla táctil pequeña favorecía una interfaz de tipografía y baldosas sin adorno, que Metro convirtió en su principio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "zx-spectrum-1982",
+   "note": "The cheap home microcomputer called for a minimal plastic case and a rubber keyboard to keep the price low.",
+   "es": {
+    "note": "El microordenador barato para el hogar pedía una carcasa mínima de plástico y un teclado de goma para mantener el precio bajo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "zx-spectrum-1982",
+   "note": "Cheap chips let Sinclair lower the price and size of the machine, so the case could be slim and simple.",
+   "es": {
+    "note": "Los chips baratos permitieron a Sinclair bajar el precio y el tamaño de la máquina, así que la carcasa pudo ser delgada y simple."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "macintosh-128k-1984",
+   "note": "A computer for non-technical users led to a compact, single-piece machine with a friendly face.",
+   "es": {
+    "note": "Un computador para usuarios no técnicos llevó a una máquina compacta, de una sola pieza y de cara amable."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-desktop-publishing",
+   "item": "macintosh-128k-1984",
+   "note": "Its graphical screen and the laser printer opened the way to desktop publishing.",
+   "es": {
+    "note": "Su pantalla gráfica y la impresora láser abrieron el camino de la edición de escritorio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "braun-et66-1987",
+   "note": "As functionalism lost its authority, Braun kept its rule that every key should be read at a glance, grouping them by function and colour instead of adding ornament.",
+   "es": {
+    "note": "Cuando el funcionalismo perdió autoridad, Braun mantuvo su regla de que cada tecla se lea de un vistazo, agrupándolas por función y color en vez de añadir adorno."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "thinkpad-700c-1992",
+   "note": "Mobile office workers needed a machine that was solid, neutral and fit for the briefcase; Sapper answered with a plain black box rather than a styled consumer gadget.",
+   "es": {
+    "note": "El trabajador de oficina móvil necesitaba una máquina sólida y neutra que cupiera en el maletín; Sapper respondió con una caja negra simple y no con un artilugio de consumo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "thinkpad-700c-1992",
+   "note": "Smaller chips and screens made a laptop usable for real work, which let the design focus on a compact, durable case around a keyboard and colour display.",
+   "es": {
+    "note": "Chips y pantallas más pequeños hicieron utilizable el portátil para el trabajo real, y el diseño pudo centrarse en una carcasa compacta y resistente en torno a un teclado y una pantalla a color."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "freitag-messenger-1993",
+   "note": "Growing environmental awareness made reuse a design position: the bag turns discarded tarpaulin and belts into a product whose worn surfaces make every piece unique.",
+   "es": {
+    "note": "La conciencia ambiental creciente hizo del reuso una postura de diseño: el bolso convierte lonas y cinturones desechados en un producto cuyas superficies gastadas hacen única cada pieza."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "aeron-chair-1994",
+   "note": "Hours of screen work called for support without thick cushions, so the chair holds the body with a tensioned mesh and many adjustments.",
+   "es": {
+    "note": "Las horas de trabajo ante pantallas pidieron un soporte sin cojines gruesos, así que la silla sostiene el cuerpo con una malla tensada y muchos ajustes."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-ageing-accessibility",
+   "item": "aeron-chair-1994",
+   "note": "Concern for fit across different bodies led to three sizes (A, B, C) and a breathable mesh, so one design could serve people of varied build.",
+   "es": {
+    "note": "La preocupación por ajustarse a cuerpos distintos llevó a tres tamaños (A, B, C) y a una malla transpirable, de modo que un diseño sirviera a personas de complexión variada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "toyota-prius-1997",
+   "note": "Pressure to cut emissions led Toyota to pair a petrol engine with an electric motor and to shape the body for low drag, making the hybrid a visible brand signal.",
+   "es": {
+    "note": "La presión por reducir emisiones llevó a Toyota a unir un motor a gasolina con uno eléctrico y a moldear la carrocería para reducir el arrastre, haciendo del híbrido una señal visible de marca."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-jet-age",
+   "item": "lockheed-lounge-1986",
+   "note": "Aircraft construction, with aluminium skins fixed by rivets, supplied the image and technique Newson applied to a hand-made lounge chair.",
+   "es": {
+    "note": "La construcción aeronáutica, con pieles de aluminio remachadas, dio a Newson la imagen y la técnica para una chaise longue hecha a mano."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "air-chair-1999",
+   "note": "Injection moulding in plastic let Morrison make a stackable chair as one light shell, cheap enough to serve homes, cafés and public spaces.",
+   "es": {
+    "note": "El moldeo por inyección de plástico permitió a Morrison hacer una silla apilable en una sola carcasa liviana, barata para casas, cafés y espacios públicos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "macbook-air-2008",
+   "note": "Ever smaller electronic components allowed a laptop thin enough to drop the optical drive, so Apple's design could prioritise lightness.",
+   "es": {
+    "note": "Componentes electrónicos cada vez más pequeños permitieron un notebook tan delgado que se pudo quitar la unidad óptica, y el diseño priorizó la liviandad."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-consumer-society",
+   "item": "rag-chair-1991",
+   "note": "A culture of discarding goods gave Remy his material: used clothes pressed into a block turned waste into a seat and a comment on consumption.",
+   "es": {
+    "note": "La cultura de desechar objetos dio a Remy su material: ropa usada prensada en un bloque convirtió el desperdicio en asiento y en comentario sobre el consumo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "louis-ghost-2002",
+   "note": "Postmodern ease in quoting past styles led Starck to take an 18th-century French armchair outline and render it in clear moulded polycarbonate.",
+   "es": {
+    "note": "La soltura posmoderna para citar estilos pasados llevó a Starck a tomar el contorno de un sillón francés del siglo XVIII y hacerlo en policarbonato transparente moldeado."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-plastics",
+   "item": "louis-ghost-2002",
+   "note": "Injection moulding let Kartell make the whole seat as a single transparent piece, so a historic shape became a mass-produced plastic chair.",
+   "es": {
+    "note": "El moldeo por inyección permitió a Kartell fabricar todo el asiento en una pieza transparente, y una forma histórica pasó a ser una silla de plástico en serie."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "vitra-fire-station-1993",
+   "note": "Vitra used commissions to authored architects on its grounds to build a distinct corporate identity; Hadid's fire station became part of that image.",
+   "es": {
+    "note": "Vitra encargó obras a arquitectos de autor en su recinto para construir una identidad corporativa propia; el cuartel de bomberos de Hadid pasó a ser parte de esa imagen."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-luxury-conglomerates",
+   "item": "alexander-mcqueen",
+   "note": "Groups renewed historic houses with young designers: McQueen, with his own label, was named chief designer at Givenchy in 1996.",
+   "es": {
+    "note": "Los grupos renovaron casas históricas con jóvenes diseñadores: McQueen, que ya tenía su propia marca, fue nombrado diseñador jefe de Givenchy en 1996."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-luxury-conglomerates",
+   "item": "marc-jacobs",
+   "note": "Louis Vuitton, within LVMH, added ready-to-wear and made Jacobs its creative director in 1997, linking the house’s name to a designer.",
+   "es": {
+    "note": "Louis Vuitton, dentro de LVMH, sumó el prêt-à-porter y nombró director creativo a Jacobs en 1997, con lo que ligó el nombre de la casa a un diseñador."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-luxury-conglomerates",
+   "item": "lagerfeld-chanel-1983",
+   "note": "The historic house as a global brand: the designer reinterprets its codes each season and the collection renews the brand’s image.",
+   "es": {
+    "note": "La casa histórica como marca global: el diseñador reinterpreta sus códigos cada temporada y la colección renueva la imagen de la marca."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-rana-plaza",
+   "item": "inst-fashion-revolution",
+   "note": "The collapse showed who makes clothes; the campaign born that year turned it into a yearly question to brands about where and how garments are made.",
+   "es": {
+    "note": "El derrumbe mostró quién fabrica la ropa; la campaña nacida ese año lo convirtió en una pregunta anual a las marcas sobre dónde y cómo se hacen las prendas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-rana-plaza",
+   "item": "stella-mccartney-label-2001",
+   "note": "Brands that already defended responsible fashion, like McCartney’s, gained visibility after the collapse as sustainability became a public concern.",
+   "es": {
+    "note": "Las marcas que ya defendían una moda responsable, como la de McCartney, ganaron visibilidad tras el derrumbe, cuando la sustentabilidad pasó a ser un tema público."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-covid-19",
+   "item": "inst-salone-del-mobile",
+   "note": "Health restrictions led to the cancellation of the 2020 Milan fair and forced the 2021 edition to be reformulated.",
+   "es": {
+    "note": "Las restricciones sanitarias llevaron a cancelar la feria de Milán de 2020 y obligaron a reformular la edición de 2021."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-generative-ai",
+   "item": "interaction-design",
+   "note": "Conversational assistants (ChatGPT, November 2022) moved the interface from the graphical screen to dialogue in natural language.",
+   "es": {
+    "note": "Los asistentes conversacionales (ChatGPT, noviembre de 2022) llevaron la interfaz de la pantalla gráfica al diálogo en lenguaje natural."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-isi-cepal",
+   "item": "th-bonsiepe-dependencia-1978",
+   "note": "The theory of dependence → design seen as a tool of technological autonomy for countries on the periphery.",
+   "es": {
+    "note": "La teoría de la dependencia → el diseño visto como herramienta de autonomía tecnológica para los países de la periferia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "th-hebdige-subculture-1979",
+   "note": "Punk's recycled objects and open rejection of the mainstream → Hebdige reads its style as bricolage of signs and as resistance.",
+   "es": {
+    "note": "Los objetos reciclados del punk y su rechazo abierto a lo establecido → Hebdige lee su estilo como bricolaje de signos y como resistencia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-industrial-revolution",
+   "item": "th-forty-objects-desire-1986",
+   "note": "Factory production, the division of labour and mass consumption → Forty explains design as shaped by them, not by designers' genius alone.",
+   "es": {
+    "note": "La producción en fábrica, la división del trabajo y el consumo masivo → Forty explica el diseño como moldeado por ellos, no solo por el genio de los diseñadores."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-climate-crisis",
+   "item": "th-brundtland-1987",
+   "note": "Environmental damage framed as a problem of development → a definition of sustainability that later design took as its starting point.",
+   "es": {
+    "note": "El daño ambiental planteado como problema de desarrollo → una definición de sostenibilidad que el diseño posterior tomó como punto de partida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "minimalism-fashion-product",
+   "note": "Reaction against 1980s quotation, ornament and loud logos → reduced form, plain materials and discreet labels in clothes and objects.",
+   "es": {
+    "note": "Reacción contra la cita, el ornamento y los logos ostentosos de los ochenta → forma reducida, materiales simples y etiquetas discretas en ropa y objetos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "denise-scott-brown",
+   "note": "Unequal credit between partners becomes a public debate on authorship and gender, and her case makes shared authorship in architectural practice a question of design history.",
+   "es": {
+    "note": "El reconocimiento desigual entre socios se vuelve un debate público sobre autoría y género, y su caso hace de la autoría compartida en la práctica arquitectónica un tema de la historia del diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "diller-scofidio-renfro",
+   "note": "Deindustrialisation leaves obsolete elevated rail; the studio keeps the structure and turns it into a linear public park, a model for reusing industrial infrastructure.",
+   "es": {
+    "note": "La desindustrialización deja una vía elevada obsoleta; el estudio conserva la estructura y la convierte en un parque público lineal, modelo de reutilización de infraestructura industrial."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "miuccia-prada",
+   "note": "As branding turns logos into value, an industrial nylon with only a discreet logo plate becomes a luxury bag, so the brand mark replaces costly materials as the sign of status.",
+   "es": {
+    "note": "Cuando la marca convierte el logo en valor, un nailon industrial con solo una discreta placa se vuelve bolso de lujo: la marca reemplaza a los materiales caros como signo de estatus."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "karl-lagerfeld",
+   "note": "The fashion house is managed as a global brand: a creative director renews its codes and logo each season, so a historic name becomes a recognisable, repeatable product line.",
+   "es": {
+    "note": "La casa de moda se gestiona como marca global: un director creativo renueva sus códigos y su logo cada temporada, y un nombre histórico se vuelve una línea de productos reconocible y repetible."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "donna-karan",
+   "note": "As more women reach management posts, they need work clothes of their own, not copies of the male suit; her interchangeable pieces answer with a modular wardrobe.",
+   "es": {
+    "note": "Con más mujeres en cargos directivos surge la necesidad de ropa de trabajo propia, no copiada del traje masculino; sus prendas intercambiables responden con un guardarropa modular."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mtv-club",
+   "item": "marc-jacobs",
+   "note": "Grunge music spread by MTV makes thrift-store flannel and worn layers a mass youth look, and the designer carries it to the runway as a collection.",
+   "es": {
+    "note": "La música grunge difundida por MTV vuelve un look juvenil masivo la franela de segunda mano y las capas gastadas, y el diseñador lo lleva a la pasarela como colección."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "helmut-lang",
+   "note": "The web lets a collection reach buyers and the press without a runway show, so presentation moves from a staged event to an image shown online.",
+   "es": {
+    "note": "La web permite que una colección llegue a compradores y prensa sin desfile, y la presentación pasa de ser un evento escenificado a una imagen mostrada en línea."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "jamie-reid",
+   "note": "Punk demands cheap, aggressive graphics that look improvised, so cut-and-paste collage and ransom-note letters replace polished typesetting.",
+   "es": {
+    "note": "El punk pide una gráfica barata, agresiva y de apariencia improvisada, y el collage de recortes y las letras de nota de rescate reemplazan a la composición tipográfica pulida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "wolfgang-weingart",
+   "note": "As confidence in strict functionalism fades, he answers with layers, textures and broken type, so the grid becomes a starting point rather than a rule.",
+   "es": {
+    "note": "Al decaer la confianza en el funcionalismo estricto, responde con capas, texturas y tipografía rota, y la retícula pasa de regla a punto de partida."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "peter-saville",
+   "note": "After punk, independent labels give designers free rein over sleeves, so a cover can omit the band's name and work as an autonomous object.",
+   "es": {
+    "note": "Tras el punk, los sellos independientes dan libertad total a las portadas, y una tapa puede omitir el nombre de la banda y funcionar como objeto autónomo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "toru-iwatani",
+   "note": "Cheap microprocessors make arcade video games possible; with so little graphics power, the designer reduces the character to a few simple shapes that Western players also recognise.",
+   "es": {
+    "note": "Los microprocesadores baratos hacen posibles los videojuegos de salón; con tan poca capacidad gráfica, el diseñador reduce el personaje a pocas formas simples que también el público occidental reconoce."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "katherine-mccoy",
+   "note": "French theory suggests that a text can be read in several ways, so layouts become layered, open compositions that invite the reader to interpret rather than receive a single message.",
+   "es": {
+    "note": "La teoría francesa sugiere que un texto admite varias lecturas, y las composiciones se vuelven abiertas y en capas, que invitan al lector a interpretar en vez de recibir un único mensaje."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "oliviero-toscani",
+   "note": "As global brands competed on image, Toscani's Benetton campaigns sold values and controversy, using news-like photographs instead of showing the product.",
+   "es": {
+    "note": "Al competir las marcas globales por su imagen, las campañas de Benetton de Toscani vendieron valores y polémica, con fotos de tono noticioso en vez de mostrar el producto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "muriel-cooper",
+   "note": "Once the screen became interactive, Cooper explored type that moves and layers in navigable three-dimensional space rather than staying fixed on a page.",
+   "es": {
+    "note": "Al volverse interactiva la pantalla, Cooper exploró una tipografía que se mueve y se superpone en un espacio tridimensional navegable, en vez de quedar fija en una página."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "bill-moggridge",
+   "note": "As computers left the office and became portable, Moggridge had to design how people used them, not just the casing, as in the GRiD Compass.",
+   "es": {
+    "note": "Al salir el computador de la oficina y volverse portátil, Moggridge debió diseñar cómo lo usaban las personas y no solo la carcasa, como en el GRiD Compass."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "gunpei-yokoi",
+   "note": "Cheap, proven electronic components let Yokoi make low-cost handheld consoles, so he built the Game & Watch and Game Boy on mature technology.",
+   "es": {
+    "note": "Los componentes electrónicos baratos y probados permitieron a Yokoi hacer consolas portátiles económicas, y construyó el Game & Watch y el Game Boy sobre tecnología madura."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "sainsbury-wing-1991",
+   "note": "Architects now accepted quotation and irony, so the extension echoes Wilkins’s neoclassical façade and bends its rules instead of hiding beside it in a plain modern box.",
+   "es": {
+    "note": "Como los arquitectos aceptaban ya la cita y la ironía, la ampliación se hace eco de la fachada neoclásica de Wilkins y dobla sus reglas, en lugar de esconderse junto a ella en una caja moderna lisa."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "high-line-2009",
+   "note": "An obsolete industrial railway was no longer needed, so instead of demolition it was reused as a park, with the old rails and steel kept as part of the design.",
+   "es": {
+    "note": "Como una vía férrea industrial obsoleta ya no se necesitaba, en vez de demolerla se reutilizó como parque, con los rieles y el acero antiguos conservados como parte del diseño."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-star-architecture",
+   "item": "elbphilharmonie-2017",
+   "note": "A port city looking to renew its old docks commissioned a famous firm for a landmark, so the hall became a sculptural icon built over a former warehouse.",
+   "es": {
+    "note": "Una ciudad portuaria que buscaba renovar sus antiguos muelles encargó un hito a un estudio famoso, y así la sala se volvió un ícono escultórico levantado sobre un antiguo almacén."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "lagerfeld-chanel-1983",
+   "note": "As a fashion house’s name became its main asset, Chanel’s old codes (tweed, double C, chains) were turned into recognisable brand signs and renewed each season.",
+   "es": {
+    "note": "Cuando el nombre de una casa de moda pasó a ser su principal activo, los viejos códigos de Chanel (tweed, doble C, cadenas) se volvieron signos de marca reconocibles y se renovaron cada temporada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "seven-easy-pieces-1985",
+   "note": "As more women entered management jobs, Karan designed a wardrobe of few flexible pieces to work in, rather than clothes for display.",
+   "es": {
+    "note": "Como más mujeres llegaban a cargos directivos, Karan diseñó un guardarropa de pocas piezas flexibles para trabajar, y no ropa para lucirse."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-mtv-club",
+   "item": "grunge-perry-ellis-1992",
+   "note": "Music television spread the grunge look of flannel and thrift-store layers to a young audience, and Jacobs remade it in luxury fabrics for the runway.",
+   "es": {
+    "note": "La televisión musical difundió entre el público joven el aspecto grunge de franela y ropa de segunda mano, y Jacobs lo rehízo en telas de lujo para la pasarela."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-feminisms",
+   "item": "body-meets-dress-1997",
+   "note": "As feminist debate questioned how women’s bodies are pictured, Kawakubo’s padded dresses broke the normative silhouette; shown in Paris, they put that question before Western fashion.",
+   "es": {
+    "note": "Cuando el feminismo cuestionó cómo se representa el cuerpo de la mujer, los vestidos rellenos de Kawakubo rompieron la silueta normativa y llevaron esa pregunta a la moda occidental."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-internet-culture",
+   "item": "helmut-lang-1998",
+   "note": "As the web reached the public, a collection could be shown to an audience online, without a runway, an early step towards fashion presented on screen.",
+   "es": {
+    "note": "Cuando la web llegó al público, una colección pudo mostrarse en línea, sin pasarela, un paso temprano hacia la moda presentada en pantalla."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "sniffin-glue-1976",
+   "note": "Punk held that anyone could take part, so a fanzine could be made with handwriting, a photocopier and staples instead of a printer and a designer.",
+   "es": {
+    "note": "El punk sostenía que cualquiera podía participar, así que un fanzine podía hacerse con letra a mano, fotocopiadora y corchetes, sin imprenta ni diseñador."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "god-save-the-queen-1977",
+   "note": "Punk rejected polish and craft, so Reid made the sleeve from a found portrait and cut-out letters, and the cut-and-paste look became punk’s graphic style.",
+   "es": {
+    "note": "El punk rechazaba el pulido y el oficio, así que Reid hizo la carátula con un retrato encontrado y letras recortadas, y el aspecto de recorte y pegado se volvió el estilo gráfico del punk."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-deindustrialisation-regeneration",
+   "item": "god-save-the-queen-1977",
+   "note": "In a Britain of decline and unemployment, Reid turned the official portrait of the Queen into a graphic of anger against the institution.",
+   "es": {
+    "note": "En una Gran Bretaña de declive y desempleo, Reid convirtió el retrato oficial de la reina en una gráfica de rabia contra la institución."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-crisis-functionalism",
+   "item": "weingart-posters-1977",
+   "note": "Doubts about Swiss neutrality led Weingart to layer film, halftones and spaced type, so the poster showed its own making instead of a clean grid.",
+   "es": {
+    "note": "Las dudas sobre la neutralidad suiza llevaron a Weingart a superponer película, tramas y tipografía espaciada, de modo que el cartel mostraba su propia factura y no una retícula limpia."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-punk",
+   "item": "unknown-pleasures-1979",
+   "note": "Post-punk independent labels like Factory let designers work with almost no commercial brief, so Saville could make a cover with a pulsar plot and almost no text.",
+   "es": {
+    "note": "Los sellos independientes del pospunk como Factory dejaban trabajar casi sin encargo comercial, así que Saville pudo hacer una portada con un gráfico de púlsar y casi sin texto."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "pac-man-1980",
+   "note": "Cheap microprocessors made coin-operated video games possible, so design had to work with a coarse pixel screen: a simple round character and clear ghost colours.",
+   "es": {
+    "note": "Los microprocesadores baratos hicieron posibles los videojuegos de salón, y el diseño debió trabajar con píxeles gruesos: un personaje redondo simple y colores claros para los fantasmas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "pac-man-1980",
+   "note": "Japan's leisure and electronics industry exported games abroad, so Namco's character and maze were designed for a wide public and travelled as a global brand.",
+   "es": {
+    "note": "La industria japonesa del ocio y la electrónica exportó juegos al extranjero, y el personaje y el laberinto de Namco, pensados para un público amplio, viajaron como marca global."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-aids-crisis",
+   "item": "silence-equals-death-1987",
+   "note": "Against official silence on the epidemic, activists needed a sign that could be read at a glance in the street, so they used a triangle and a short slogan.",
+   "es": {
+    "note": "Frente al silencio oficial sobre la epidemia, los activistas necesitaban un signo que se leyera de un vistazo en la calle, y usaron un triángulo y una consigna breve."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-postmodern-culture",
+   "item": "cranbrook-new-discourse-1989",
+   "note": "French theory held that the reader builds the meaning of a text, so McCoy layered text blocks with no single order and left the reader to assemble the message.",
+   "es": {
+    "note": "La teoría francesa sostenía que el lector construye el sentido de un texto, así que McCoy superpuso bloques de texto sin un orden único y dejó al lector armar el mensaje."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-branding",
+   "item": "benetton-toscani-1989",
+   "note": "As brands competed on values rather than products, Benetton dropped clothes from its ads and used shocking social photographs signed only with a logo.",
+   "es": {
+    "note": "Al competir las marcas por valores y no por productos, Benetton sacó la ropa de sus avisos y usó fotografías sociales chocantes firmadas solo con un logo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "benetton-toscani-1989",
+   "note": "Selling in many markets, Benetton ran one campaign everywhere, so its images relied on photographs rather than language and the same pictures crossed borders.",
+   "es": {
+    "note": "Al vender en muchos mercados, Benetton lanzó una sola campaña en todas partes, y sus imágenes se apoyaron en fotografías y no en el idioma, de modo que las mismas imágenes cruzaron fronteras."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "information-landscapes-1994",
+   "note": "Personal computers with graphic screens let text be treated as an image, so Cooper's group tried type in depth that the reader flies through and zooms into.",
+   "es": {
+    "note": "Los computadores personales con pantalla gráfica permitieron tratar el texto como imagen, y el grupo de Cooper probó tipografía en profundidad por la que el lector vuela y hace zoom."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "windows-95-1995",
+   "note": "As the personal computer reached most offices and homes, one familiar interface mattered more than novelty, and Windows 95 gave users a taskbar and Start menu.",
+   "es": {
+    "note": "Al llegar el computador personal a la mayoría de las oficinas y hogares, una interfaz familiar importó más que la novedad, y Windows 95 dio a los usuarios una barra de tareas y un menú Inicio."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-covid-19",
+   "item": "cdc-sars-cov-2-illustration-2020",
+   "note": "An invisible threat needed a recognisable picture for public communication, so the CDC rendered the virus as a grey sphere with red spikes.",
+   "es": {
+    "note": "Una amenaza invisible necesitaba una imagen reconocible para la comunicación pública, y los CDC representaron el virus como una esfera gris con espículas rojas."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-generative-ai",
+   "item": "cosmopolitan-ai-cover-2022",
+   "note": "Images could now be generated from written instructions, so making the cover meant writing and refining prompts and choosing among results, not drawing.",
+   "es": {
+    "note": "Ahora las imágenes podían generarse desde instrucciones escritas, así que hacer la portada significó escribir y afinar descripciones y elegir entre resultados, no dibujar."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-globalisation",
+   "item": "ikea-billy-1979",
+   "note": "Selling worldwide called for goods that ship cheaply, so IKEA designed Billy as flat-packed panels, which cut transport volume and let one design be sold in many countries.",
+   "es": {
+    "note": "Para vender en todo el mundo se necesitaban bienes baratos de transportar, así que IKEA diseñó Billy como paneles en paquete plano, que reducen el volumen de transporte y permiten vender un mismo diseño en muchos países."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-personal-computer",
+   "item": "grid-compass-1982",
+   "note": "Once the computer left the desk, it needed a form that could be carried: Moggridge hinged the flat screen over the keyboard, making a single closed case.",
+   "es": {
+    "note": "Cuando el computador salió del escritorio necesitó una forma transportable: Moggridge abatió la pantalla plana sobre el teclado y logró una sola caja cerrada."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "grid-compass-1982",
+   "note": "Executives and technicians who worked with information needed to compute away from the office, so the Compass was built as a rugged, portable machine for them.",
+   "es": {
+    "note": "Ejecutivos y técnicos que trabajaban con información necesitaban computar fuera de la oficina, así que el Compass se hizo como una máquina portátil y robusta para ellos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "how-high-the-moon-1986",
+   "note": "Japan’s booming economy of the 1980s paid for experimental design; Kuramata could make a near-immaterial mesh chair that took form and material beyond ordinary furniture.",
+   "es": {
+    "note": "El auge económico japonés de los años ochenta financió un diseño experimental; Kuramata pudo hacer un sillón de malla casi inmaterial que llevó la forma y el material más allá del mueble corriente."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-microelectronics",
+   "item": "game-boy-1989",
+   "note": "Mature, cheap electronic components were available by 1989, so Yokoi built the console from them, giving a tough, low-priced device with long battery life.",
+   "es": {
+    "note": "En 1989 había componentes electrónicos maduros y baratos, y Yokoi construyó la consola con ellos, logrando un aparato resistente, de precio bajo y pilas de larga duración."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-japan-consumer-economy",
+   "item": "game-boy-1989",
+   "note": "Japanese consumer electronics was already sold around the world, and Nintendo used that reach to make a pocket console a global product.",
+   "es": {
+    "note": "La electrónica de consumo japonesa ya se vendía por el mundo, y Nintendo usó ese alcance para hacer de una consola de bolsillo un producto global."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-hip-hop",
+   "item": "air-jordan-1-1985",
+   "note": "Hip hop made sneakers a sign of identity and status; Nike’s athlete-named shoe was taken up as a street object, tying brand, music and style.",
+   "es": {
+    "note": "El hip hop hizo de las zapatillas un signo de identidad y estatus; el zapato de Nike con nombre de deportista fue adoptado como objeto callejero, ligando marca, música y estilo."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-knowledge-work",
+   "item": "macintosh-128k-1984",
+   "note": "As office work centred on the screen, Apple designed a compact computer with icons and a mouse, so that people could use it without learning commands.",
+   "es": {
+    "note": "Al centrarse el trabajo de oficina en la pantalla, Apple diseñó un computador compacto con íconos y mouse, para que se usara sin aprender comandos."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "vitra-fire-station-1993",
+   "note": "As brands and cities began commissioning well-known architects for their image, Vitra gave its factory grounds a building by Zaha Hadid.",
+   "es": {
+    "note": "Cuando marcas y ciudades empezaron a encargar su imagen a arquitectos conocidos, Vitra dio a los terrenos de su fábrica un edificio de Zaha Hadid."
+   },
+   "refs": []
+  },
+  {
+   "ctx": "ctx-design-museums",
+   "item": "inst-design-museum-london",
+   "note": "As design became a collectable culture, Terence Conran opened a museum in London in 1989 to show industrial, graphic, fashion and architectural design to a wide public.",
+   "es": {
+    "note": "Al volverse el diseño una cultura coleccionable, Terence Conran abrió en Londres en 1989 un museo para mostrar a un público amplio el diseño industrial, gráfico, de moda y de arquitectura."
+   },
+   "refs": []
+  }
+ ]
+}

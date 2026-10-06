@@ -1,0 +1,286 @@
+[
+ {
+  "id": "queens-ware-1765",
+  "en": {
+   "key": "Josiah Wedgwood’s refined cream-coloured earthenware, durable and simply decorated, which became a standard domestic pottery with a worldwide market.[1][2]",
+   "more": "Wedgwood refined the existing cream-coloured earthenware with Cornish clay and stone and better shaping and glazing,[1] and named it Queen’s ware after Queen Charlotte, whose patronage Britannica dates to 1765.[1][2] He showed his services in a ticket-only showroom in Greek Street, London.[1] In 1769 he established his Etruria factory near Stoke-on-Trent.[3] Britannica calls Queen’s ware the standard domestic pottery, with a worldwide market.[2]"
+  },
+  "es": {
+   "key": "La loza color crema refinada de Josiah Wedgwood, resistente y de decoración simple, que pasó a ser la loza doméstica estándar con un mercado mundial.[1][2]",
+   "more": "Wedgwood refinó la loza cremosa existente con arcilla y piedra de Cornualles y mejor modelado y vidriado,[1] y la llamó Queen’s ware por la reina Carlota, cuyo patrocinio la Britannica fecha en 1765.[1][2] Exhibió sus servicios en una sala de exhibición de Greek Street, en Londres, solo con entrada por invitación.[1] En 1769 fundó su fábrica de Etruria, cerca de Stoke-on-Trent.[3] La Britannica la llama la loza doméstica estándar, con mercado mundial.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Potteries.org, «Wedgwood’s Queen’s Ware»",
+    "url": "https://thepotteries.org/queens.htm",
+    "checks": "Queen’s ware como refinamiento de la loza cremosa existente (arcilla y piedra de Cornualles, mejor forma y vidriado); regalo de un servicio a la reina Carlota en 1765 y nombre «Queensware»; sala de exhibición de Greek Street, Londres, con entrada por invitación. ⚠ sitio local de historia, no académico.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Josiah Wedgwood»",
+    "url": "https://www.britannica.com/print/article/638741",
+    "checks": "Nombre por el patrocinio de la reina Carlota en 1765; loza «well finished, clean, simple decoration», durable; «la loza doméstica estándar» con mercado mundial. ⚠ no habla de catálogos ni de la división del trabajo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Science Museum Group, «Josiah Wedgwood 1730–1795»",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap25018",
+    "checks": "Etruria establecida en 1769 cerca de Stoke-on-Trent con Thomas Bentley. ⚠ fecha el patrocinio de Carlota en 1762, no 1765.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «light», «middle-class market» y «replaced piece by piece»: ninguna fuente lo confirma.",
+   "Quité los catálogos ilustrados y la división de tareas en Etruria: no los sostiene ninguna fuente abierta.",
+   "«Ordenó una vajilla» pasó a «cuyo patrocinio»: la fuente habla de un servicio de té regalado; y la fecha del patrocinio es 1765 (Britannica, Potteries) pero el Science Museum dice 1762: se atribuye a la Britannica.",
+   "«Una de las más exportadas» pasó a lo que dice la Britannica: mercado mundial."
+  ]
+ },
+ {
+  "id": "ironbridge-1779",
+  "en": {
+   "key": "The first major bridge built wholly of cast iron, over the River Severn at Coalbrookdale, built by Abraham Darby III to a design proposed by Thomas Farnolls Pritchard.[1][2][3]",
+   "more": "Pritchard, an architect from Shrewsbury, proposed the iron bridge in 1773,[1][3] and the ironmaster Abraham Darby III oversaw the casting from November 1777;[3] the bridge opened on 1 January 1781, and 1779 is the date usually given.[1][2] The main span is about 30 metres,[1][2] and the members were jointed with mortises, tenons, dovetails and wedges, as in carpentry.[2] It was among the first to use cast iron structurally.[3] The bridge is closed to vehicles and lies within the Ironbridge Gorge World Heritage Site.[1][3]"
+  },
+  "es": {
+   "key": "El primer gran puente construido enteramente de hierro fundido, sobre el río Severn en Coalbrookdale, construido por Abraham Darby III sobre un diseño propuesto por Thomas Farnolls Pritchard.[1][2][3]",
+   "more": "Pritchard, arquitecto de Shrewsbury, propuso el puente de hierro en 1773,[1][3] y el maestro del hierro Abraham Darby III dirigió la fundición desde noviembre de 1777;[3] el puente se inauguró el 1 de enero de 1781 y 1779 es la fecha que suele darse.[1][2] El vano principal mide unos 30 metros[1][2] y los miembros se unieron con espigas, cajas, colas de milano y cuñas, como en carpintería.[2] Fue de los primeros en usar el hierro fundido como material estructural.[3] El puente está cerrado a vehículos y dentro del sitio Patrimonio Mundial de Ironbridge Gorge.[1][3]"
+  },
+  "refs": [
+   {
+    "label": "Historic England, «The Iron Bridge» (List entry 1015325)",
+    "url": "https://www.historicengland.org.uk/listing/the-list/list-entry/1015325",
+    "checks": "Diseño de Thomas Pritchard, arquitecto de Shrewsbury, propuesto en 1773; Abraham Darby III dirigió la obra con hierro de la Coalbrookdale Company; fecha 1779; unos 100 pies de luz; «el primer puente completamente de hierro fundido»; cerrado al tráfico, peatonal, en el sitio Patrimonio Mundial (1987). ⚠ no menciona las juntas de carpintería.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Bridgeweb, «Iron Bridge»",
+    "url": "https://www.bridgeweb.com/Iron-works/5047",
+    "checks": "Obra de noviembre de 1777 a diciembre de 1780, apertura el 1 de enero de 1781; luz principal de 30,6 m; juntas de carpintería (espigas, cajas, colas de milano, cuñas) por el diseño de Thomas Gregory, modelista de madera. ⚠ sitio de ingeniería; no nombra a Pritchard ni a Darby.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Ironbridge Gorge Museum Trust, «The History of the Iron Bridge»",
+    "url": "https://www.ironbridge.org.uk/about-us/the-history-of-the-iron-bridge",
+    "checks": "Pritchard propuso el diseño en 1773; Darby III dirigió la producción desde noviembre de 1777; construido en 1779, primero en usar hierro fundido estructuralmente; Patrimonio Mundial UNESCO.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «cast and raised between 1779 and 1781»: las fuentes dan producción desde 1777 e inauguración el 1 de enero de 1781; 1779 figura como fecha de construcción en Historic England. Dejé el campo date «1779–81».",
+   "Quité «cast in sections at the Coalbrookdale works» (solo se confirma hierro de la Coalbrookdale Company) y «symbol of the new industrial technology»: no confirmados tal cual.",
+   "«Primer gran puente en arco» pasó a «primer gran puente enteramente de hierro fundido», fórmula de las fuentes; «Pritchard» como diseñador pasó a «propuesto por», más cauto.",
+   "Los pesos del hierro difieren (300 t / 384 t / 385 t) y no se usan."
+  ]
+ },
+ {
+  "id": "watt-rotative-engine-1781",
+  "en": {
+   "key": "The steam engine that Boulton and Watt adapted from 1781 to turn a shaft, with Watt’s sun-and-planet gear, so that steam could drive machinery and not only pump.[1][2]",
+   "more": "James Watt had improved the steam engine in 1769 with a separate condenser,[1] but it moved only up and down. In 1781 he patented the sun-and-planet gear, an epicyclic gear that turns the beam’s reciprocating motion into rotation on the flywheel shaft,[1][2] and with his partner Matthew Boulton, whom he joined in 1775, made engines for wider industrial use.[1] A centrifugal governor to regulate speed followed in 1788.[1]"
+  },
+  "es": {
+   "key": "La máquina de vapor que Boulton y Watt adaptaron desde 1781 para hacer girar un eje, con el engranaje «sol y planeta» de Watt, de modo que el vapor moviera maquinaria y no solo bombeara.[1][2]",
+   "more": "James Watt había mejorado en 1769 la máquina de vapor con un condensador separado,[1] pero solo se movía arriba y abajo. En 1781 patentó el engranaje «sol y planeta», un engranaje epicicloidal que convierte el movimiento alternativo de la viga en rotación en el eje del volante,[1][2] y con su socio Matthew Boulton, con quien se asoció en 1775, fabricó máquinas para usos industriales más amplios.[1] Un regulador centrífugo para controlar la velocidad llegó en 1788.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «James Watt»",
+    "url": "https://www.britannica.com/summary/James-Watt",
+    "checks": "Condensador separado (1769); engranaje sol y planeta en 1781 para convertir el movimiento arriba-abajo en rotación continua; sociedad con Boulton desde 1775; regulador centrífugo en 1788. ⚠ no menciona el volante.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Science Museum Group, «Model of Sun and Planet Gearing»",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co51167",
+    "checks": "Engranaje patentado por Watt en 1781 (solo este de sus alternativas entró en uso); engranaje epicicloidal con rueda solar en el eje del volante y planeta en la biela, que convierte movimiento alternativo en rotativo. ⚠ modelo de 1782–84; el Energy Route (ERIH) da 1782 como año de la patente, contradicción no resuelta.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «anywhere» y «mills and factories»: las fuentes hablan de maquinaria industrial en general.",
+   "Quité el volante «y más tarde» como acompañante del regulador: el regulador se fecha en 1788 (Britannica); el volante figura solo en la descripción del engranaje.",
+   "Año de la patente: Britannica y Science Museum dicen 1781; ERIH dice 1782. Se mantiene 1781."
+  ]
+ },
+ {
+  "id": "cenotaph-newton-1784",
+  "en": {
+   "key": "Étienne-Louis Boullée’s unbuilt project of 1784 for a monument to Isaac Newton, a colossal hollow sphere with an interior meant to represent the universe.[1][2]",
+   "more": "The sphere would have been nearly 500 feet in height and diameter.[3] It was surrounded by cypress trees, and its shell was pierced with holes so that daylight would suggest a starry sky; at night an armillary sphere hung inside.[2][3] The project was never built.[1][2] Boullée’s drawings, about a hundred, were left to the Bibliothèque nationale,[2] and Britannica calls this his most famous visionary project.[1]"
+  },
+  "es": {
+   "key": "El proyecto no construido de Étienne-Louis Boullée de 1784 para un monumento a Isaac Newton: una esfera hueca colosal cuyo interior debía representar el universo.[1][2]",
+   "more": "La esfera habría medido casi 500 pies de alto y de diámetro.[3] Estaba rodeada de cipreses y su cáscara estaba perforada para que la luz del día evocara un cielo estrellado; de noche, una esfera armilar colgaba en el interior.[2][3] El proyecto nunca se construyó.[1][2] Los dibujos de Boullée, unos cien, quedaron legados a la Bibliothèque nationale,[2] y la Britannica lo llama su proyecto visionario más famoso.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Étienne-Louis Boullée»",
+    "url": "https://britannica.com/print/article/75559",
+    "checks": "Diseño de 1784 de un monumento esférico colosal a Newton, no construido; interior de globo hueco que simboliza el universo; su proyecto visionario más famoso.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Public Domain Review, «Designing the Sublime: Boullée and Ledoux’s Architectural Revolution»",
+    "url": "https://publicdomainreview.org/essay/designing-the-sublime",
+    "checks": "Cenotafio de 1784: esfera hueca rodeada de cipreses, cáscara perforada en patrón de constelaciones para evocar un cielo estrellado; nunca construido; unos cien dibujos legados a la Bibliothèque nationale. ⚠ ensayo divulgativo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "History of Information (Jeremy Norman), «Boullée»",
+    "url": "https://historyofinformation.com/detail.php?id=426",
+    "checks": "Cenotafio de 1784 de casi 500 pies de alto y de diámetro; bóveda perforada para simular noche estrellada de día; esfera armilar nocturna; dibujos en la BnF. ⚠ fuente secundaria (bibliografía comercial).",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «about 150 metres»: la fuente da «casi 500 pies» (≈150 m), se conserva la cifra de la fuente.",
+   "Quité «circular base/circular terraces»: ninguna fuente lo confirma; también «probably could not have been built» y «best known image… of the Enlightenment» (pasa a «proyecto visionario más famoso», Britannica).",
+   "«Large dramatic views by day and night» pasó a la descripción del interior de día y de noche; los dibujos «del BnF» se cita como legado, sin precisar el medio (tinta y aguada no confirmado)."
+  ]
+ },
+ {
+  "id": "commercial-political-atlas-1786",
+  "en": {
+   "key": "William Playfair’s book of charts of England’s trade, which brought the line graph and the bar chart into use in place of tables.[1][2]",
+   "more": "Published in London in 1786 after a private circulation in 1785,[1] its full title promised to represent by means of stained copper-plate charts the progress of the commerce, revenues, expenditure and debts of England during the eighteenth century.[2] Playfair drew line graphs of time series, in 43 variants, and one bar chart.[1] One chart shows England’s exports and imports, with the area between the lines marking surplus or deficit.[3] The charts let the reader grasp the figures at a glance, without tables.[1]"
+  },
+  "es": {
+   "key": "El libro de gráficos de William Playfair sobre el comercio de Inglaterra, que introdujo el gráfico de líneas y el de barras en lugar de las tablas.[1][2]",
+   "more": "Publicado en Londres en 1786 tras una circulación privada en 1785,[1] su título completo prometía representar mediante gráficos en plancha de cobre coloreados el progreso del comercio, los ingresos, los gastos y las deudas de Inglaterra durante el siglo XVIII.[2] Playfair trazó gráficos de líneas de series de tiempo, en 43 variantes, y un gráfico de barras.[1] Uno muestra las exportaciones e importaciones de Inglaterra, con el área entre las líneas como superávit o déficit.[3] Los gráficos permitían captar las cifras de un vistazo, sin tablas.[1]"
+  },
+  "refs": [
+   {
+    "label": "Jeremy Norman, History of Information, «William Playfair»",
+    "url": "https://historyofinformation.com/detail.php?id=2527",
+    "checks": "Línea (43 variantes) y barras (un ejemplo) en el Commercial and Political Atlas; circulación privada en 1785 y publicación en Londres en 1786; grabados en cobre; permitía captar la información de un vistazo sin tablas. ⚠ fuente secundaria.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "BRANCH Collective, «Commercial and Political Atlas»",
+    "url": "https://branchcollective.org/?p=1745",
+    "checks": "Título completo («stained copper-plate charts… commerce, revenues, expenditure, and debts of England… eighteenth century»); gráficos de líneas y barras en vez de tablas. ⚠ solo la ficha; el artículo de Sachs no se leyó.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Notes de la SMC, «William Playfair’s Statistical Graphs»",
+    "url": "https://notes.math.ca/en/?p=11700",
+    "checks": "Gráfico de 1786 de series de exportaciones e importaciones de Inglaterra, con la zona coloreada entre líneas como superávit o déficit; Playfair como inventor del gráfico de barras.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «Scotland’s trade» como sede del gráfico de barras y «other countries»: ninguna fuente abierta lo confirma.",
+   "Quité «he argued that the eye grasps figures more quickly»: no atribuido a Playfair en las fuentes; queda la afirmación sobre el efecto, fundada en Norman.",
+   "«Single grid, with no text tables» suavizado a «sin tablas»; «copperplate… stained» y títulos según el título completo."
+  ]
+ },
+ {
+  "id": "empire-silhouette-1800",
+  "en": {
+   "key": "The light, high-waisted, straight-skirted dress of white muslin that replaced wide skirts in fashionable dress around 1800, with a classical line.[1][2]",
+   "more": "After the French Revolution the fashionable dress had the waistline directly under the bust and a slim skirt that replaced the panniers, usually in semi-sheer white muslin worn over a pale slip.[1] Its line was taken from classical antiquity: the Met relates it to the chiton of the ancient Greeks and Romans.[2] It was not corset-free, since a French dress of 1804–14 in the Met has a corset with gussets that support the breasts and raise the waist effect.[3] The style stayed in fashion into the 1820s.[2]"
+  },
+  "es": {
+   "key": "El vestido ligero de talle alto y falda recta, de muselina blanca, que reemplazó a las faldas anchas en la moda hacia 1800, con una línea clásica.[1][2]",
+   "more": "Tras la Revolución francesa el vestido de moda tenía la cintura justo bajo el busto y una falda angosta que reemplazó a los paniers, por lo general de muselina blanca semitransparente sobre una enagua clara.[1] Su línea venía de la Antigüedad clásica: el Met la relaciona con el quitón de griegos y romanos.[2] No prescindía del corsé: un vestido francés de 1804–14 del Met lleva un corsé con cuñas que sostienen el busto y marcan el efecto de talle alto.[3] El estilo siguió de moda hasta la década de 1820.[2]"
+  },
+  "refs": [
+   {
+    "label": "FIDM Museum, «The Empire Era Silhouette»",
+    "url": "https://fidmmuseum.org/learn/articles/empire-era-silhouette",
+    "checks": "Talle alto bajo el busto, falda delgada que reemplazó los paniers, muselina blanca semitransparente sobre enagua pálida; inspiración clásica tras la Revolución. ⚠ no menciona Gran Bretaña.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, vestido de silueta Imperio, 1800–05",
+    "url": "https://www.metmuseum.org/art/collection/search/158252",
+    "checks": "Origen en el quitón de griegos y romanos; estilo neoclásico tras la Revolución y vigente hasta la década de 1820, antes de que la cintura descendiera. ⚠ el objeto es estadounidense.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «French Empire dress (1804–14)», 07.146.5",
+    "url": "https://www.metmuseum.org/toah/works-of-art/07.146.5",
+    "checks": "Vestido francés de algodón con talle alto y corsé con cuñas que sostiene el busto; el talle alto era un efecto deliberado del corsé.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «replaced corsets» / «dropped the rigid corset»: el Met muestra que se seguía usando corsé (con cuñas); se dice que era distinto, sin afirmar su ausencia.",
+   "Quité «and soon in Britain» y GB como difusión: ninguna fuente abierta lo confirma (el campo countries no se tocó).",
+   "«Hasta la década de 1810» pasó a «1820» según el Met; quité «statues and vases» (el Met habla del quitón) y «hoops of court dress» pasó a paniers."
+  ]
+ },
+ {
+  "id": "jacquard-loom-1804",
+  "en": {
+   "key": "The loom whose chain of punched cards controls which warp threads rise, so that complex patterns can be woven automatically.[1][2]",
+   "more": "Jacquard introduced the attachment that defines the loom in 1804–05, as an improvement on earlier automatic looms.[1][3] Punched cards pass against needles: where a hole lets a needle through, the thread is lifted, and where there is none, it stays.[2][3] Lyon’s silk weavers fiercely resisted it and burned machines.[1] In 1806 the state acquired the patent and gave Jacquard a pension and royalties,[1][3] and by 1812 France had 11,000 such looms.[1]"
+  },
+  "es": {
+   "key": "El telar cuya cadena de tarjetas perforadas decide qué hilos de urdimbre se levantan, de modo que se tejen dibujos complejos de forma automática.[1][2]",
+   "more": "Jacquard introdujo el aditamento que define el telar en 1804–05, como mejora de telares automáticos anteriores.[1][3] Las tarjetas perforadas pasan contra agujas: donde un agujero deja pasar la aguja, el hilo se levanta, y donde no lo hay, se queda.[2][3] Los tejedores de seda de Lyon se resistieron con fuerza y quemaron máquinas.[1] En 1806 el Estado adquirió la patente y dio a Jacquard una pensión y regalías,[1][3] y en 1812 Francia tenía 11.000 telares de este tipo.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Joseph-Marie Jacquard»",
+    "url": "https://www.britannica.com/print/article/299152",
+    "checks": "Tarjetas perforadas intercambiables para tejer cualquier dibujo automáticamente; aditamento de 1804–05; resistencia y quema de máquinas por los tejedores de Lyon; el Estado adquirió la patente en 1806 con pensión y regalías; 11.000 telares en Francia en 1812.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Science Museum Group, «Jacquard Hand Loom»",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8405056/jacquard-hand-loom-loom",
+    "checks": "Bucle de tarjetas perforadas cuyos agujeros dejan pasar pasadores que controlan qué hilos de urdimbre suben; máquina desarrollada en Francia en 1804–05. ⚠ el objeto es un telar de mano de Bolton, c. 1910.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopedia.com, «Joseph Marie Jacquard»",
+    "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/joseph-marie-jacquard",
+    "checks": "Mecanismo de tarjetas perforadas ya en 1804; 1806: invención declarada de propiedad pública con pensión y regalías; resistencia violenta de los tejedores de Lyon. ⚠ enciclopedia de referencia genérica.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "«Patentó en 1804» pasó a «introdujo en 1804–05»: las fuentes no dan la fecha de patente de 1804.",
+   "Quité «sin un segundo operario» y que se usó en «otros centros textiles» (se reemplaza por la cifra de Francia en 1812): no confirmados; quité también «sedas con figuras más rápido»."
+  ]
+ },
+ {
+  "id": "brummell-tailoring-1810",
+  "en": {
+   "key": "The dark, close-cut coat without ornament that Beau Brummell made the model of English men’s dress in the early 1800s.[1][2]",
+   "more": "Brummell (1778–1840), the recognised arbiter of fashion in Regency England through his friendship with the Prince of Wales,[2] rejected the silk, lace and embroidery of the eighteenth century.[1] National Geographic lists dark, well-fitted wool coats and crisp white linen among his signature style.[1] Britannica stresses cleanliness, quality tailoring and understated elegance.[2] The date is approximate, since his influence spans the first years of the century."
+  },
+  "es": {
+   "key": "El frac oscuro, ajustado y sin ornamento que Beau Brummell convirtió en el modelo del vestir masculino inglés a comienzos del siglo XIX.[1][2]",
+   "more": "Brummell (1778–1840), árbitro reconocido de la moda en la Inglaterra de la Regencia por su amistad con el príncipe de Gales,[2] rechazó la seda, el encaje y el bordado del siglo XVIII.[1] National Geographic enumera entre su estilo característico los abrigos de lana oscuros y bien entallados y el lino blanco impecable.[1] La Britannica subraya la limpieza, la buena sastrería y la elegancia discreta.[2] La fecha es aproximada, pues su influencia abarca los primeros años del siglo."
+  },
+  "refs": [
+   {
+    "label": "National Geographic, «This 19th-century London dandy caused a style revolution»",
+    "url": "https://www.nationalgeographic.com/history/history-magazine/article/beau-brummell-nineteenth-century-fashion",
+    "checks": "Rechazo de seda, encaje y bordado del siglo XVIII; abrigos de lana oscuros y entallados, cravats de lino blanco; trajes ajustados; elegancia por sobriedad. ⚠ divulgación histórica.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Beau Brummell»",
+    "url": "https://www.britannica.com/print/article/82094",
+    "checks": "Árbitro reconocido de la moda a comienzos del siglo XIX por su cercanía con el príncipe de Wales; limpieza, buena sastrería y elegancia discreta; vida 1778–1840. ⚠ no describe prendas.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «Regency London» como lugar y «paño» como material único (las fuentes hablan de lana) y «spotless linen» pasó a «crisp white linen».",
+   "Atribuí a National Geographic el detalle de prendas (abrigos de lana oscuros, lino blanco), pues Britannica no lo describe; el «frac» del título no se confirma en las fuentes."
+  ]
+ }
+]

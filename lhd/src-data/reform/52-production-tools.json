@@ -1,0 +1,177 @@
+{
+ "production": [
+  {
+   "id": "sewing-machine",
+   "sub": "tools",
+   "start": 1851,
+   "end": 1913,
+   "cont": true,
+   "date": "1851 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Sewing machine",
+   "short": "Sewing machine",
+   "key": "The machine that stitched cloth mechanically, improved in the 1840s and 1850s and sold by Singer from 1851, moved sewing from the hand to the factory and the home.",
+   "origin": "Barthélemy Thimonnier in France and Elias Howe in the United States made early machines, and Howe patented a lockstitch machine in 1846. Isaac Merritt Singer patented his own machine in 1851 and founded his company that year, with a design that stitched with a needle moving up and down and a foot treadle.",
+   "enabled": "Seams were stitched much faster than by hand, and the machine could be used in a workshop, in a factory or at home. Clothing, shoes, upholstery and household linen were made on it.",
+   "change": "Garments could be cut and assembled in standard parts, which led to ready-made clothing in standard sizes. The machine set the tolerances of what could be sewn, so straight seams and gathers became common features of fashion, and a family could sew at home.",
+   "economy": "Singer sold the machine through agents and showrooms and offered instalment payment, which made the machine a household purchase. Factories making ready-to-wear clothing grew with it.",
+   "relations": "The sewing machine made possible the paper patterns that spread fashion to the home, and its role in dress reform and in women’s work, in the home and in the workshop, was widely discussed.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "butterick-patterns",
+     "singer-sewing-machine"
+    ]
+   },
+   "es": {
+    "name": "Máquina de coser",
+    "short": "Máquina de coser",
+    "date": "1851 →",
+    "key": "La máquina que cosía la tela mecánicamente, perfeccionada en las décadas de 1840 y 1850 y vendida por Singer desde 1851, trasladó la costura de la mano a la fábrica y al hogar.",
+    "origin": "Barthélemy Thimonnier en Francia y Elias Howe en Estados Unidos hicieron máquinas tempranas, y Howe patentó en 1846 una máquina de pespunte. Isaac Merritt Singer patentó su propia máquina en 1851 y fundó ese año su empresa, con un diseño que cosía con una aguja que subía y bajaba y un pedal.",
+    "enabled": "Las costuras se cosían mucho más rápido que a mano, y la máquina podía usarse en un taller, en una fábrica o en la casa. En ella se hacían ropa, zapatos, tapicería y ropa blanca del hogar.",
+    "change": "Las prendas pudieron cortarse y armarse en piezas estándar, lo que condujo a la ropa hecha en tallas estándar. La máquina fijó los límites de lo que podía coserse, así que las costuras rectas y los frunces se volvieron rasgos comunes de la moda, y una familia podía coser en casa.",
+    "economy": "Singer vendió la máquina por medio de agentes y salas de exhibición y ofreció el pago en cuotas, lo que hizo de ella una compra del hogar. Las fábricas de ropa hecha crecieron junto con ella.",
+    "relations": "La máquina de coser hizo posibles los patrones de papel que llevaron la moda al hogar, y se discutió mucho su papel en la reforma del vestido y en el trabajo de las mujeres, en la casa y en el taller."
+   },
+   "refs": []
+  },
+  {
+   "id": "typewriter",
+   "sub": "tools",
+   "start": 1874,
+   "end": 1913,
+   "cont": true,
+   "date": "1874 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Typewriter",
+   "short": "Typewriter",
+   "key": "The first commercially made typewriter, built from the design of Christopher Latham Sholes and sold by Remington from 1874, put printed letters on the office desk.",
+   "origin": "Christopher Latham Sholes, with Carlos Glidden and Samuel Soule, developed a typewriter in Milwaukee in the late 1860s. E. Remington and Sons, a firearms maker, began to produce it in 1873, and the Sholes and Glidden machine went on sale in 1874.",
+   "enabled": "A clerk could produce clear, uniform text, and carbon paper made copies, much faster than by hand. The keyboard, with the QWERTY arrangement, became the standard way of arranging letters.",
+   "change": "Handwriting gave way to type in business correspondence, and the look of the office document, with its uniform letters and lines, changed with it. The keyboard became a model for later machines, from typesetting to the computer.",
+   "economy": "The typewriter led to the new trade of the typist and stenographer, which many women entered in the 1880s and 1890s, and offices bought machines in large numbers. Many makers entered the market, among them Underwood and Remington.",
+   "relations": "The machine is linked to the growth of women’s office work, and its keyboard influenced the keyboards of the typesetting machines of the same years.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "remington-no1"
+    ]
+   },
+   "es": {
+    "name": "Máquina de escribir",
+    "short": "Máquina de escribir",
+    "date": "1874 →",
+    "key": "La primera máquina de escribir fabricada comercialmente, basada en el diseño de Christopher Latham Sholes y vendida por Remington desde 1874, puso las letras impresas sobre el escritorio.",
+    "origin": "Christopher Latham Sholes, con Carlos Glidden y Samuel Soule, desarrolló una máquina de escribir en Milwaukee a fines de la década de 1860. E. Remington and Sons, un fabricante de armas, comenzó a producirla en 1873, y la máquina Sholes y Glidden salió a la venta en 1874.",
+    "enabled": "Un empleado podía producir un texto claro y uniforme, y el papel carbón sacaba copias, mucho más rápido que a mano. El teclado, con la disposición QWERTY, se volvió la forma habitual de ordenar las letras.",
+    "change": "La letra de molde reemplazó a la escritura a mano en la correspondencia comercial, y con ella cambió el aspecto del documento de oficina, con sus letras y líneas uniformes. El teclado fue un modelo para máquinas posteriores, desde la composición tipográfica hasta el computador.",
+    "economy": "La máquina dio origen al oficio nuevo de la mecanógrafa y la taquígrafa, al que entraron muchas mujeres en las décadas de 1880 y 1890, y las oficinas compraron máquinas en gran número. Muchos fabricantes entraron al mercado, entre ellos Underwood y Remington.",
+    "relations": "La máquina se vincula con el crecimiento del trabajo de oficina de las mujeres, y su teclado influyó en los teclados de las máquinas de componer de esos mismos años."
+   },
+   "refs": []
+  },
+  {
+   "id": "paper-patterns",
+   "sub": "tools",
+   "start": 1863,
+   "end": 1913,
+   "cont": true,
+   "date": "1863 →",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Paper patterns",
+   "short": "Paper patterns",
+   "key": "Sewing patterns printed on tissue paper and sold by size, which Ebenezer Butterick began selling in 1863, let a garment be cut at home from a published design.",
+   "origin": "Ebenezer Butterick, a tailor in Massachusetts, began to sell tissue-paper patterns for men’s and boys’ shirts in 1863, and soon added patterns for women’s and children’s clothes. They were sold in graded sizes, with printed marks that guided the cutting and the sewing.",
+   "enabled": "A pattern could be cut in many sizes from a single design, so fashions could be shared among thousands of buyers. Home sewers with a sewing machine could make garments that followed the latest style without a dressmaker.",
+   "change": "Fashion no longer depended on the dressmaker’s own pattern: a style could be published in a magazine and made at home. The sizes of the patterns helped to fix standard measures for clothing.",
+   "economy": "The patterns were sold through agents, shops and magazines, and fashion publications grew with the business. The patterns made it possible to spread fashion by mail.",
+   "relations": "The patterns depended on the sewing machine in the home, and publishers such as Butterick tied them to fashion magazines, linking the pattern to the mass press.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "butterick-patterns"
+    ]
+   },
+   "es": {
+    "name": "Patrones de papel",
+    "short": "Patrones de papel",
+    "date": "1863 →",
+    "key": "Patrones de costura impresos en papel de seda y vendidos por talla, que Ebenezer Butterick empezó a vender en 1863, permitieron cortar en casa una prenda a partir de un diseño publicado.",
+    "origin": "Ebenezer Butterick, un sastre de Massachusetts, empezó a vender en 1863 patrones de papel de seda para camisas de hombres y niños, y pronto agregó patrones de ropa de mujer y de niños. Se vendían en tallas graduadas, con marcas impresas que guiaban el corte y la costura.",
+    "enabled": "Un patrón podía cortarse en muchas tallas a partir de un solo diseño, de modo que las modas podían compartirse entre miles de compradoras. Quienes cosían en casa con máquina de coser podían hacer prendas al último estilo sin modista.",
+    "change": "La moda dejó de depender del patrón propio de la modista: un estilo podía publicarse en una revista y hacerse en casa. Las tallas de los patrones ayudaron a fijar medidas estándar para la ropa.",
+    "economy": "Los patrones se vendían por medio de agentes, tiendas y revistas, y las publicaciones de moda crecieron junto con el negocio. Los patrones permitieron difundir la moda por correo.",
+    "relations": "Los patrones dependían de la máquina de coser en el hogar, y editores como Butterick los ligaron a las revistas de moda, vinculando el patrón con la prensa de masas."
+   },
+   "refs": []
+  },
+  {
+   "id": "safety-elevator",
+   "sub": "tools",
+   "start": 1853,
+   "end": 1913,
+   "cont": true,
+   "date": "1853 →",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Safety elevator",
+   "short": "Safety elevator",
+   "key": "The passenger lift fitted with Elisha Otis’s safety brake, which made the upper floors of tall buildings safe and rentable.",
+   "origin": "Hoists existed before, but a snapped rope meant a fall. Elisha Otis developed a safety brake in the early 1850s and showed it at the New York exhibition of 1853–54, and the first Otis passenger lift went into a New York department store in 1857.",
+   "enabled": "Passengers could ride a steam-driven or later electric car without fear that a broken rope would send it down the shaft. Floors that no one wished to climb to could now be used for offices, shops and homes.",
+   "change": "Height stopped being a drawback: the top floors, once the cheapest, became attractive, and architects could plan buildings of many storeys around a shaft of lifts. Together with the steel frame it made the skyscraper a practical building type.",
+   "economy": "Otis’s firm in New York grew into the leading maker of lifts. Developers, who rent floor area, saw taller buildings pay, which pushed tall office buildings in American cities.",
+   "relations": "The lift is the technical condition of the tall office building, built with iron and steel frames in Chicago and New York in the 1880s and 1890s.",
+   "links": {
+    "movements": [],
+    "institutions": [],
+    "designers": [],
+    "works": [
+     "home-insurance-building-1885",
+     "wainwright-building-1891"
+    ]
+   },
+   "es": {
+    "name": "Ascensor de seguridad",
+    "short": "Ascensor seguridad",
+    "date": "1853 →",
+    "key": "El ascensor de pasajeros con el freno de seguridad de Elisha Otis, que hizo seguros y arrendables los pisos altos de los edificios.",
+    "origin": "Ya existían montacargas, pero una cuerda cortada significaba una caída. Elisha Otis desarrolló un freno de seguridad a comienzos de la década de 1850 y lo mostró en la exposición de Nueva York de 1853–54, y el primer ascensor de pasajeros Otis se instaló en 1857 en una tienda por departamentos de Nueva York.",
+    "enabled": "Los pasajeros podían subir en una cabina movida a vapor y más tarde eléctrica sin temer que una cuerda rota la precipitara por el hueco. Pisos a los que nadie quería subir a pie pasaron a usarse como oficinas, tiendas y viviendas.",
+    "change": "La altura dejó de ser un inconveniente: los pisos superiores, antes los más baratos, pasaron a ser atractivos, y los arquitectos pudieron proyectar edificios de muchos pisos en torno a un hueco de ascensores. Junto con la estructura de acero hizo del rascacielos un tipo de edificio viable.",
+    "economy": "La empresa de Otis en Nueva York llegó a ser el principal fabricante de ascensores. A los promotores, que arriendan superficie, les convenía construir más alto, lo que impulsó los edificios de oficinas altos en las ciudades estadounidenses.",
+    "relations": "El ascensor es la condición técnica del edificio de oficinas alto, levantado con estructuras de hierro y acero en Chicago y Nueva York en las décadas de 1880 y 1890."
+   },
+   "refs": []
+  }
+ ]
+}

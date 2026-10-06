@@ -1,0 +1,472 @@
+[
+ {
+  "rtype": "work",
+  "id": "weingart-posters-1977",
+  "title": "Posters by Wolfgang Weingart",
+  "title_es": "Carteles de Wolfgang Weingart",
+  "year": 1977,
+  "discipline": "graphic",
+  "designers": [
+   "wolfgang-weingart"
+  ],
+  "maker": "Kunstgewerbeschule Basel",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Capas de película, tramas y tipografía rota: la New Wave nace dentro de la escuela suiza. Quedó fuera de la etapa 6.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-crisis-functionalism",
+    "mecanismo": "Se cuestiona la neutralidad del estilo suizo → collage de película y tipografía expresiva"
+   },
+   {
+    "tipo": "secundario",
+    "via": "new-wave-typography",
+    "mecanismo": "Origen del movimiento"
+   }
+  ],
+  "era": "postmodern",
+  "date": "c. 1977–1985",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-crisis-functionalism",
+    "item": "weingart-posters-1977",
+    "mecanismo": "Se cuestiona la neutralidad del estilo suizo → collage de película y tipografía expresiva"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "movements": [
+    "new-wave-typography"
+   ]
+  }
+ },
+ {
+  "rtype": "work",
+  "id": "unknown-pleasures-1979",
+  "title": "Unknown Pleasures (Joy Division)",
+  "title_es": "Unknown Pleasures (Joy Division)",
+  "year": 1979,
+  "discipline": "graphic",
+  "designers": [
+   "peter-saville"
+  ],
+  "maker": "Factory Records",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Portada con el gráfico de las señales de un púlsar; diseño de sello independiente.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "Los sellos independientes del pospunk dan libertad total al diseño"
+   }
+  ],
+  "era": "postmodern",
+  "type": "cover",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-punk",
+    "item": "unknown-pleasures-1979",
+    "mecanismo": "Los sellos independientes del pospunk dan libertad total al diseño"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "pac-man-1980",
+  "title": "Pac-Man",
+  "title_es": "Pac-Man",
+  "year": 1980,
+  "discipline": "graphic",
+  "designers": [
+   "toru-iwatani"
+  ],
+  "maker": "Namco",
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Personaje y laberinto pensados para un público amplio; el videojuego como diseño de interacción y de personaje.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-microelectronics",
+    "mecanismo": "Microprocesadores baratos crean el videojuego de salón"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-japan-consumer-economy",
+    "mecanismo": "La industria japonesa del ocio se vuelve global"
+   }
+  ],
+  "era": "postmodern",
+  "type": "interface",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-microelectronics",
+    "item": "pac-man-1980",
+    "mecanismo": "Microprocesadores baratos crean el videojuego de salón"
+   },
+   {
+    "ctx": "ctx-japan-consumer-economy",
+    "item": "pac-man-1980",
+    "mecanismo": "La industria japonesa del ocio se vuelve global"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "silence-equals-death-1987",
+  "title": "Silence = Death",
+  "title_es": "Silencio = Muerte",
+  "year": 1987,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Silence=Death Project (Avram Finkelstein and others); adopted by ACT UP",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Triángulo rosa invertido sobre negro; modelo del activismo gráfico.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-aids-crisis",
+    "mecanismo": "Frente al silencio oficial → un signo de lectura inmediata para la protesta"
+   }
+  ],
+  "era": "postmodern",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-aids-crisis",
+    "item": "silence-equals-death-1987",
+    "mecanismo": "Frente al silencio oficial → un signo de lectura inmediata para la protesta"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "cranbrook-new-discourse-1989",
+  "title": "Cranbrook Design: The New Discourse (poster)",
+  "title_es": "Cranbrook Design: The New Discourse (cartel)",
+  "year": 1989,
+  "discipline": "graphic",
+  "designers": [
+   "katherine-mccoy"
+  ],
+  "maker": "Cranbrook Academy of Art",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Cartel de capas de texto que lleva el postestructuralismo al diseño.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "La teoría francesa propone que el lector construye el sentido"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-cranbrook",
+    "mecanismo": "Programa de posgrado de Cranbrook"
+   }
+  ],
+  "era": "postmodern",
+  "type": "poster",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-postmodern-culture",
+    "item": "cranbrook-new-discourse-1989",
+    "mecanismo": "La teoría francesa propone que el lector construye el sentido"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "benetton-toscani-1989",
+  "title": "United Colors of Benetton campaigns",
+  "title_es": "Campañas de United Colors of Benetton",
+  "year": 1989,
+  "discipline": "graphic",
+  "designers": [
+   "oliviero-toscani"
+  ],
+  "maker": "Benetton",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "level": "normal",
+  "prioridad": "A",
+  "curso": "Publicidad sin producto con temas sociales: caso central de marca y polémica.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-branding",
+    "mecanismo": "La marca global se diferencia con valores y escándalo"
+   },
+   {
+    "tipo": "directo",
+    "ctx": "ctx-globalisation",
+    "mecanismo": "Una sola campaña para todos los mercados"
+   }
+  ],
+  "era": "postmodern",
+  "date": "c. 1984–2000",
+  "type": "advertisement",
+  "duda": "Fechas de inicio y fin de la colaboración (1982–2000): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-branding",
+    "item": "benetton-toscani-1989",
+    "mecanismo": "La marca global se diferencia con valores y escándalo"
+   },
+   {
+    "ctx": "ctx-globalisation",
+    "item": "benetton-toscani-1989",
+    "mecanismo": "Una sola campaña para todos los mercados"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "information-landscapes-1994",
+  "title": "Information Landscapes",
+  "title_es": "Paisajes de información",
+  "year": 1994,
+  "discipline": "graphic",
+  "designers": [
+   "muriel-cooper"
+  ],
+  "maker": "Visible Language Workshop, MIT Media Lab",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Tipografía en un espacio tridimensional navegable; anticipa la interfaz con zoom.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "La pantalla gráfica permite navegar el texto en profundidad"
+   }
+  ],
+  "era": "postmodern",
+  "type": "interface",
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-personal-computer",
+    "item": "information-landscapes-1994",
+    "mecanismo": "La pantalla gráfica permite navegar el texto en profundidad"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "windows-95-1995",
+  "title": "Windows 95 interface",
+  "title_es": "Interfaz de Windows 95",
+  "year": 1995,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Microsoft",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Barra de tareas y menú Inicio: la interfaz gráfica que se volvió estándar mundial.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-personal-computer",
+    "mecanismo": "El computador personal llega a la mayoría de las oficinas y hogares"
+   }
+  ],
+  "era": "postmodern",
+  "type": "interface",
+  "movements": [
+   "interaction-design"
+  ],
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-personal-computer",
+    "item": "windows-95-1995",
+    "mecanismo": "El computador personal llega a la mayoría de las oficinas y hogares"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "cdc-sars-cov-2-illustration-2020",
+  "title": "CDC illustration of SARS-CoV-2",
+  "title_es": "Ilustración del SARS-CoV-2 de los CDC",
+  "year": 2020,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Alissa Eckert and Dan Higgins, Centers for Disease Control and Prevention",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "La imagen del virus (esfera gris con espículas rojas) que dio rostro a la pandemia; caso de ilustración científica y comunicación pública. Ancla del contexto de COVID-19 (D5).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-covid-19",
+    "mecanismo": "Una amenaza invisible necesita una imagen reconocible para la comunicación pública"
+   }
+  ],
+  "era": "postmodern",
+  "type": "infographic",
+  "duda": "Autores y fecha (enero de 2020): verificar en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-covid-19",
+    "item": "cdc-sars-cov-2-illustration-2020",
+    "mecanismo": "Una amenaza invisible necesita una imagen reconocible para la comunicación pública"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "work",
+  "id": "cosmopolitan-ai-cover-2022",
+  "title": "Cosmopolitan cover made with DALL·E 2",
+  "title_es": "Portada de Cosmopolitan hecha con DALL·E 2",
+  "year": 2022,
+  "discipline": "graphic",
+  "designers": [],
+  "maker": "Karen X. Cheng with OpenAI, for Cosmopolitan",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Presentada como la primera portada de revista generada con IA (junio de 2022). Ancla del contexto de IA generativa (D5).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-generative-ai",
+    "mecanismo": "La imagen se genera desde una instrucción escrita; el diseñador pasa a dirigir y seleccionar"
+   }
+  ],
+  "era": "postmodern",
+  "type": "cover",
+  "tech": [
+   "generative-image-models"
+  ],
+  "duda": "Autoría, número y fecha (junio de 2022): verificar en la Parte II.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-generative-ai",
+    "item": "cosmopolitan-ai-cover-2022",
+    "mecanismo": "La imagen se genera desde una instrucción escrita; el diseñador pasa a dirigir y seleccionar"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ }
+]

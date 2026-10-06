@@ -1,0 +1,166 @@
+[
+ {
+  "id": "rem-koolhaas",
+  "en": {
+   "key": "Dutch architect and writer, co-founder of OMA, who combined built projects with books on the modern city.[1][2]",
+   "more": "Born in Rotterdam in 1944,[2] he co-founded the Office for Metropolitan Architecture (OMA) in 1975.[2] He wrote Delirious New York (1978)[1][2] and later S,M,L,XL (1995).[1][2] His built work includes the Kunsthal in Rotterdam (1992)[1] and the Seattle Central Library (2004).[1] He won the Pritzker Prize in 2000.[1][2]"
+  },
+  "es": {
+   "key": "Arquitecto y escritor neerlandés, cofundador de OMA, que combinó obra construida con libros sobre la ciudad moderna.[1][2]",
+   "more": "Nacido en Róterdam en 1944,[2] cofundó la Office for Metropolitan Architecture (OMA) en 1975.[2] Escribió Delirious New York (1978)[1][2] y más tarde S,M,L,XL (1995).[1][2] Entre sus obras construidas están la Kunsthal de Róterdam (1992)[1] y la Biblioteca Central de Seattle (2004).[1] Ganó el Premio Pritzker en 2000.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Rem Koolhaas»",
+    "url": "https://www.britannica.com/biography/Rem-Koolhaas",
+    "checks": "arquitecto neerlandés de edificios y escritos; Seattle Public Library (2004); Kunsthal (1992); Delirious New York (1978) y S, M, L, XL (1995); Premio Pritzker 2000; fundó OMA. ⚠ No da el año de fundación de OMA ni lugar de nacimiento.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Pritzker Architecture Prize, «Rem Koolhaas» (laureado 2000)",
+    "url": "https://www.pritzkerprize.com/laureates/2000",
+    "checks": "nació en Róterdam en 1944; fundó OMA en 1975; Pritzker 2000; Delirious New York (1978) y S, M, L, XL con Bruce Mau. ⚠ Fecha la Kunsthal en 1993 (la ficha dice 1992); no menciona la biblioteca de Seattle.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Kunsthal: Britannica la fecha en 1992 y el Pritzker en 1993; se mantiene 1992 de la ficha, a revisar.",
+   "Koolhaas figura sin muerte y 'b. 1944': consistente con las fuentes."
+  ]
+ },
+ {
+  "id": "philippe-starck",
+  "en": {
+   "key": "French designer who made the author a brand, working across interiors, furniture and everyday objects, best known for the Juicy Salif lemon squeezer.[1][2]",
+   "more": "Born in Paris in 1949,[1][2] he became widely known in the 1980s for interiors such as the Café Costes in Paris[1][3] and for work on the private apartments of President Mitterrand at the Élysée.[3] He designed for Italian firms such as Alessi and Kartell,[1][3] among them the Juicy Salif squeezer of 1990.[1][2] His name became a selling point in itself, and his work shows how in these years the signature of the designer began to weigh as much as the function of the object."
+  },
+  "es": {
+   "key": "Diseñador francés que convirtió al autor en marca, con trabajos en interiores, mobiliario y objetos cotidianos, conocido sobre todo por el exprimidor Juicy Salif.[1][2]",
+   "more": "Nacido en París en 1949,[1][2] se hizo conocido en los años ochenta por interiores como el Café Costes de París[1][3] y por su trabajo en los departamentos privados del presidente Mitterrand en el Elíseo.[3] Diseñó para empresas italianas como Alessi y Kartell,[1][3] entre ellos el exprimidor Juicy Salif de 1990.[1][2] Su nombre pasó a ser un argumento de venta en sí mismo, y su obra muestra cómo en esos años la firma del diseñador empezó a pesar tanto como la función del objeto."
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Philippe Starck»",
+    "url": "https://www.britannica.com/biography/Philippe-Starck",
+    "checks": "nació el 18 de enero de 1949 en París; interiores, mobiliario y objetos; Juicy Salif para Alessi; Louis Ghost para Kartell; Café Costes (1982). ⚠ No menciona a Mitterrand.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Juicy Salif Lemon Squeezer»",
+    "url": "https://www.metmuseum.org/art/collection/search/491871",
+    "checks": "Juicy Salif de 1990, fabricado por Alessi; Starck nacido en París en 1949.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "MoMA PS1, «Philippe Starck: Furniture and Objects» (1999)",
+    "url": "https://www.moma.org/calendar/exhibitions/4665",
+    "checks": "nacido en París en 1949; Café Costes (1984); encargos en el Palacio del Elíseo del presidente Mitterrand; colaboraciones con Alessi y Kartell. ⚠ No precisa que fueran los departamentos privados.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Café Costes: Britannica lo fecha en 1982 y MoMA PS1 en 1984; la ficha dice solo 'años ochenta', sin conflicto.",
+   "Departamentos privados de Mitterrand: la fuente dice solo 'trabajo en el Elíseo'; el detalle 'privados' no está confirmado.",
+   "La última frase (firma del diseñador pesa tanto como la función) es interpretativa y no tiene fuente; se deja sin marca.",
+   "Fecha de muerte: no figura, coherente (vivo según fuentes)."
+  ]
+ },
+ {
+  "id": "zaha-hadid",
+  "en": {
+   "key": "Iraqi-British architect whose sweeping, dynamic forms made her the first woman to win the Pritzker Prize, in 2004.[1][2]",
+   "more": "Born in Baghdad in 1950,[1][2] she studied at the Architectural Association in London[1][2] and worked with Rem Koolhaas’s office OMA.[1][2] Her first major built work was the Vitra fire station in Weil am Rhein (1993).[1][2] She founded her own London studio[1][2] and died in Miami in 2016.[1]"
+  },
+  "es": {
+   "key": "Arquitecta iraquí-británica cuyas formas amplias y dinámicas la hicieron la primera mujer en ganar el Premio Pritzker, en 2004.[1][2]",
+   "more": "Nacida en Bagdad en 1950,[1][2] estudió en la Architectural Association de Londres[1][2] y trabajó con la oficina OMA de Rem Koolhaas.[1][2] Su primera obra construida importante fue la estación de bomberos de Vitra en Weil am Rhein (1993).[1][2] Fundó su propio estudio en Londres[1][2] y murió en Miami en 2016.[1]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Zaha Hadid»",
+    "url": "https://www.britannica.com/biography/Zaha-Hadid",
+    "checks": "nació el 31 de octubre de 1950 en Bagdad; murió el 31 de marzo de 2016 en Miami; arquitecta iraquí-británica; Architectural Association; OMA; estación de bomberos de Vitra (1993); estudio propio en Londres; primera mujer con el Pritzker (2004).",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Pritzker Architecture Prize, «Zaha Hadid» (laureada 2004)",
+    "url": "https://www.pritzkerprize.com/laureates/2004",
+    "checks": "nacida en Bagdad en 1950; Architectural Association; se unió a OMA; práctica propia en Londres (1980); Vitra (1993); primera mujer Pritzker en 2004. ⚠ No trata su muerte.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Fechas 1950–2016 confirmadas. El texto 'primera obra construida importante' se apoya en Britannica ('early signature work') y el Pritzker ('breakthrough'), de forma aproximada."
+  ]
+ },
+ {
+  "id": "herzog-de-meuron",
+  "en": {
+   "key": "Swiss practice of Jacques Herzog and Pierre de Meuron, whose Tate Modern and Beijing National Stadium made them authors of global landmark buildings.[1][2]",
+   "more": "Jacques Herzog and Pierre de Meuron, both born in 1950,[1][2] founded their office in Basel in 1978.[1][2] They are known for attention to surfaces and materials[1][2] and for large cultural buildings, including the conversion of Bankside power station into Tate Modern in London (2000)[2] and the National Stadium in Beijing (2008).[1] They received the Pritzker Prize in 2001.[1][2]"
+  },
+  "es": {
+   "key": "Estudio suizo de Jacques Herzog y Pierre de Meuron, cuyos Tate Modern y Estadio Nacional de Pekín los hicieron autores de edificios emblemáticos globales.[1][2]",
+   "more": "Jacques Herzog y Pierre de Meuron, ambos nacidos en 1950,[1][2] fundaron su oficina en Basilea en 1978.[1][2] Son conocidos por su atención a las superficies y los materiales[1][2] y por grandes edificios culturales, entre ellos la transformación de la central eléctrica de Bankside en la Tate Modern de Londres (2000)[2] y el Estadio Nacional de Pekín (2008).[1] Recibieron el premio Pritzker en 2001.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Jacques Herzog and Pierre de Meuron»",
+    "url": "https://www.britannica.com/biography/Jacques-Herzog-and-Pierre-de-Meuron",
+    "checks": "ambos nacidos en Basilea en 1950 (Jacques 19 de abril, Pierre 8 de mayo); firma fundada en 1978; Pritzker 2001; experimentación con superficies y materiales; Estadio Nacional de Pekín (Juegos de 2008) y Tate Modern. ⚠ No da el año de apertura de Tate Modern.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Pritzker Architecture Prize, «Jacques Herzog and Pierre de Meuron» (laureados 2001)",
+    "url": "https://www.pritzkerprize.com/laureates/2001",
+    "checks": "nacidos en Basilea en 1950; práctica fundada en 1978; Pritzker 2001; conversión de la central de Bankside en Tate Modern, terminada en 2000; el jurado destaca su trabajo sobre la 'envoltura' del edificio. ⚠ No menciona el estadio de Pekín.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "La ficha da 'est. 1978' y born 1950; confirmados. 'Basilea' como lugar de fundación: las fuentes dicen que ambos nacieron en Basilea y fundaron en 1978; no se verificó explícitamente la ciudad de fundación."
+  ]
+ },
+ {
+  "id": "hermanos-campana",
+  "en": {
+   "key": "Brazilian brothers from São Paulo who turned scraps, rope and everyday materials into furniture that is both popular craft and gallery object.[1][2][3]",
+   "more": "Humberto Campana, born in 1953,[2] trained as a lawyer, and his brother Fernando, born in 1961,[2][3] as an architect;[3] both work in São Paulo.[3] Their Favela chair of 1991 is built of wood offcuts nailed together,[2] in a way that recalls the self-built houses of the favelas.[3] They later made the Vermelha chair (1998), wound by hand from rope,[1] and the Banquete chair (2006), covered in soft toys.[3] Their work joins Brazilian popular techniques to international design.[1][3]"
+  },
+  "es": {
+   "key": "Hermanos brasileños de São Paulo que convirtieron retazos, cuerdas y materiales cotidianos en muebles que son a la vez artesanía popular y objeto de galería.[1][2][3]",
+   "more": "Humberto Campana, nacido en 1953,[2] se formó como abogado, y su hermano Fernando, nacido en 1961,[2][3] como arquitecto;[3] ambos trabajan en São Paulo.[3] Su silla Favela de 1991 se arma con recortes de madera clavados entre sí,[2] de un modo que recuerda las casas autoconstruidas de las favelas.[3] Más tarde hicieron la silla Vermelha (1998), enrollada a mano con cuerda,[1] y la silla Banquete (2006), cubierta de peluches.[3] Su obra une técnicas populares brasileñas con el diseño internacional.[1][3]"
+  },
+  "refs": [
+   {
+    "label": "MoMA, «Fernando Campana, Humberto Campana. Vermelha Chair» (1993)",
+    "url": "https://www.moma.org/collection/works/3202",
+    "checks": "la silla Vermelha, hecha con cuerda tejida a mano sobre estructura metálica, inspirada en la cultura callejera y las técnicas de tejido brasileñas; fabricada por Edra. ⚠ La fecha en MoMA es 1993, no 1998.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Metropolitan Museum of Art, «Favela Chair» (Humberto Campana)",
+    "url": "https://www.metmuseum.org/art/collection/search/499106",
+    "checks": "silla Favela de 1991 por Humberto (n. 1953) y Fernando (n. 1961) Campana; madera, clavos y cola con recortes de madera; adquirida en 2013 (Edra). ⚠ No confirma la formación de abogado.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Architectural Record, «Tribute: Fernando Campana (1961–2022)»",
+    "url": "https://www.architecturalrecord.com/articles/15946-tribute-brazilian-architect-and-designer-fernando-campana-1961-2022",
+    "checks": "Fernando nació en Brotas (estado de São Paulo), arquitecto titulado en 1984; Humberto se formó como abogado; estudio en São Paulo; Favela con restos de cajones que evoca las barriadas; Banquete con peluches. ⚠ Fecha Vermelha en 1993 y Banquete en 2002; Fernando murió el 16 de noviembre de 2022.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Vermelha: MoMA la fecha en 1993; la ficha dice 1998. No se cambia, a revisar.",
+   "Banquete: Architectural Record lo ubica en 2002; la ficha dice 2006. No se cambia, a revisar.",
+   "Fernando Campana murió el 16 de noviembre de 2022 (MoMA 1961–2022; Architectural Record); la ficha lo da por vivo ('died: null', 'both work in São Paulo', 'dates' sin muerte). Revisar fechas y tiempo verbal.",
+   "'Popular craft and gallery object' y 'une técnicas populares con diseño internacional' son síntesis interpretativas apoyadas parcialmente en las fuentes."
+  ]
+ }
+]

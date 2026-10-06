@@ -1,0 +1,352 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-mass-car",
+   "track": "technological",
+   "start": 1920,
+   "end": 1929,
+   "date": "1920s",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "FR",
+    "DE",
+    "IT"
+   ],
+   "name": "Mass car",
+   "short": "Mass car",
+   "key": "In the 1920s the car became an everyday product in the United States and a symbol of modern life in Europe.",
+   "happened": "Ford had built 15 million Model Ts by 1927, when the last one left the Highland Park plant on 26 May.[1] The Model T’s price fell from about $950 in 1909 to about $260 by 1924, which put the car within reach of middle-class and rural buyers.[2] All-steel bodies were first made in large numbers in the United States, for the 1914 Dodge, with bodies supplied by Budd.[3] According to Citroën, its B10 of 1924 was the first car with an all-steel body.[4]",
+   "effect": "In Vers une architecture (1923), Le Corbusier held up the car, like the aeroplane, as the product of logic and selection applied to a standard, a model for architecture.[5] In 1934 German firms and the government took up the idea of a cheap ‘people’s car’, with a target price of 990 Reichsmarks, and Ferdinand Porsche was contracted to build prototypes.[6]",
+   "wiki": "Ford_Model_T",
+   "es": {
+    "name": "Automóvil de masas",
+    "short": "Auto de masas",
+    "date": "años 1920",
+    "key": "En los años veinte el automóvil se volvió un producto cotidiano en Estados Unidos y un símbolo de la vida moderna en Europa.",
+    "happened": "Ford había fabricado 15 millones de Model T en 1927, cuando el último salió de la planta de Highland Park el 26 de mayo.[1] El precio del Model T bajó de unos 950 dólares en 1909 a unos 260 en 1924, lo que dejó el auto al alcance de compradores de clase media y rurales.[2] Las carrocerías de acero se hicieron primero en grandes cantidades en Estados Unidos, para el Dodge de 1914, con carrocerías de Budd.[3] Según Citroën, su B10 de 1924 fue el primer auto con carrocería totalmente de acero.[4]",
+    "effect": "En Vers une architecture (1923), Le Corbusier presentó el auto, igual que el avión, como producto de la lógica y de la selección aplicada a un estándar, un modelo para la arquitectura.[5] En 1934 empresas alemanas y el gobierno retomaron la idea de un «auto del pueblo» barato, con un precio meta de 990 reichsmark, y se contrató a Ferdinand Porsche para construir prototipos.[6]"
+   },
+   "refs": [
+    {
+     "label": "The Henry Ford, Fifteen-millionth Ford Model T, 26 May 1927",
+     "url": "https://www.thehenryford.org/collections/explore/artifact/280343",
+     "checks": "Quince millones de Model T; el número 15 millones salió de Highland Park el 26 de mayo de 1927, fin simbólico de la producción.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "NBER Working Paper 31454, «The Model T» (Eli, Hausman, Rhode)",
+     "url": "https://www.nber.org/system/files/working_papers/w31454/w31454.pdf",
+     "checks": "El Model T convirtió el auto de artículo de lujo en producto cotidiano; precio de unos 950 dólares (1909) a unos 260 (1924); producción máxima en 1923. ⚠ leído mediante resumen automático.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Times Colonist (Bill Vance), «All-steel car broke new ground»",
+     "url": "https://www.timescolonist.com/driving/bill-vance-all-steel-car-broke-new-ground-4671811",
+     "checks": "El Dodge de 1914, con carrocería de Budd, fue el primer auto totalmente de acero producido en grandes cantidades. ⚠ artículo periodístico, fuente secundaria.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Citroën UK, historia de la marca",
+     "url": "https://citroen.co.uk/about-citroen/our-brand/history",
+     "checks": "Según Citroën, el B10 de 1924 fue «el primer auto con carrocería totalmente de acero». ⚠ fuente del fabricante: se atribuye en el texto.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Vers une architecture» (1923)",
+     "url": "https://www.fondationlecorbusier.fr/en/work-book/vers-une-architecture-le-corbusier-1923/",
+     "checks": "Le Corbusier propone el auto y el avión como modelos de lógica, selección y estándar («el Partenón es un producto de la selección aplicada a un estándar»). ⚠ detalle del capítulo del auto leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Volkswagen AG, Crónica 1934–1937: el «auto del pueblo»",
+     "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1934-to-1937-the-german-peoples-car-as-a-communal-project-of-the-german-automotive-industry-17353",
+     "checks": "7 de marzo de 1934: Hitler respalda un auto barato; propuesta de Porsche (17 de enero de 1934); contrato de la asociación de la industria el 22 de junio de 1934; precio meta de 990 Reichsmark; varias marcas presentaron versiones propias. ⚠ fuente corporativa.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-aviation",
+   "track": "technological",
+   "start": 1914,
+   "end": 1945,
+   "cont": true,
+   "date": "1914 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "GB",
+    "FR"
+   ],
+   "name": "Aviation",
+   "short": "Aviation",
+   "key": "From the warplanes of 1914 to the all-metal airliners of the 1930s, aviation was the most admired technology of the age.",
+   "happened": "The First World War turned the aeroplane into an industry. Charles Lindbergh flew alone and non-stop from New York to Paris on 20–21 May 1927.[1] In the 1930s all-metal airliners such as the Douglas DC-3, which first flew in 1935, made passenger air travel a regular, profitable business; by 1939 DC-3s carried 90 per cent of the world’s airline traffic.[2]",
+   "effect": "The aeroplane offered designers a model of form shaped by performance: in Vers une architecture (1923) Le Corbusier took the lesson of the aeroplane to be the logic with which its problem was stated and solved, and complained that the problem of the house was not stated.[3] Aeronautics also fed car design: Chrysler’s Carl Breer began his research for the Airflow after watching a formation of military aeroplanes.[4] The streamlined look then spread to trains and to everyday objects such as pencil sharpeners and kitchen mixers.[5]",
+   "wiki": "Aviation",
+   "es": {
+    "name": "Aviación",
+    "short": "Aviación",
+    "date": "1914 →",
+    "key": "Desde los aviones de guerra de 1914 hasta los aviones de pasajeros totalmente metálicos de los años treinta, la aviación fue la tecnología más admirada de la época.",
+    "happened": "La Primera Guerra Mundial convirtió el avión en una industria. Charles Lindbergh cruzó solo y sin escalas de Nueva York a París el 20 y 21 de mayo de 1927.[1] En los años treinta, aviones de pasajeros totalmente metálicos como el Douglas DC-3, que voló por primera vez en 1935, hicieron de los viajes aéreos un negocio regular y rentable; en 1939 los DC-3 transportaban el 90 % del tráfico aéreo mundial.[2]",
+    "effect": "El avión ofreció a quienes diseñaban un modelo de forma determinada por el rendimiento: en Vers une architecture (1923) Le Corbusier vio la lección del avión en la lógica con que se planteó y resolvió su problema, y lamentó que el problema de la casa no estuviera planteado.[3] La aeronáutica también alimentó el diseño de autos: Carl Breer, de Chrysler, empezó su investigación para el Airflow tras ver una formación de aviones militares.[4] El aspecto aerodinámico pasó luego a los trenes y a objetos cotidianos como sacapuntas y batidoras.[5]"
+   },
+   "refs": [
+    {
+     "label": "Smithsonian National Air and Space Museum, Ryan NYP «Spirit of St. Louis»",
+     "url": "https://airandspace.si.edu/collection-objects/ryan-nyp-spirit-st-louis-charles-lindbergh/nasm_A19280021000",
+     "checks": "Lindbergh voló solo y sin escalas de Nueva York a París, despegando el 20 de mayo de 1927 (llegada el 21).",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Smithsonian Air & Space Quarterly, «Triumph of the Gooney Bird» (DC-3)",
+     "url": "https://airandspace.si.edu/air-and-space-quarterly/summer-2023/dc3-triumph",
+     "checks": "El DC-3 voló por primera vez en 1935; construcción totalmente metálica; según C. R. Smith (American Airlines) fue el primer avión que daba dinero solo con pasajeros; en 1939 el 90 % del tráfico aéreo mundial.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Fondation Le Corbusier, «Vers une architecture» (1923)",
+     "url": "https://www.fondationlecorbusier.fr/en/work-book/vers-une-architecture-le-corbusier-1923/",
+     "checks": "«La lección del avión está en la lógica que presidió el planteamiento del problema y su realización»; «el problema de la casa no está planteado». ⚠ leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Frist Art Museum, 1935 Chrysler Imperial Airflow Coupe",
+     "url": "https://fristartmuseum.org/1935-chrysler-imperial-model-c-2-airflow-coupe/",
+     "checks": "Carl Breer se inspiró en una formación de aviones militares y pensó en la resistencia del aire; ensayos en túnel de viento dieron forma al Airflow.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "PBS American Experience, «Streamliners: Designers»",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/",
+     "checks": "El aerodinamismo nació de la eficiencia en el aire; se extendió a sacapuntas, lapiceros, batidoras y balanzas de baño; el Burlington Zephyr (1934) llevó el estilo de los ingenieros a los diseñadores.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-radio-broadcasting",
+   "track": "technological",
+   "start": 1920,
+   "end": 1945,
+   "cont": true,
+   "date": "1920 →",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "name": "Radio broadcasting",
+   "short": "Radio",
+   "key": "Regular radio broadcasting began in 1920 and by the 1930s had brought a new piece of equipment into millions of homes.",
+   "happened": "The American station KDKA broadcast the results of the presidential election on 2 November 1920.[1] The British Broadcasting Company began daily transmissions from London on 14 November 1922,[2] and by 1926 more than two million broadcast-reception licences had been issued in Britain.[3] Governments soon used radio for propaganda.",
+   "effect": "The radio set was a new object with no traditional form. Early sets were expensive status symbols whose wooden housings often imitated traditional cabinet furniture.[4] In 1932 the British maker Ekco held a competition for modern plastic casings, won by Wells Coates, whose AD-65, made from 1934, had a moulded Bakelite case.[4][5]",
+   "wiki": "History_of_radio",
+   "es": {
+    "name": "Radiodifusión",
+    "short": "Radio",
+    "date": "1920 →",
+    "key": "Las transmisiones regulares de radio comenzaron en 1920 y en los años treinta habían llevado un aparato nuevo a millones de hogares.",
+    "happened": "La emisora estadounidense KDKA transmitió los resultados de la elección presidencial el 2 de noviembre de 1920.[1] La British Broadcasting Company inició transmisiones diarias desde Londres el 14 de noviembre de 1922,[2] y hacia 1926 se habían emitido en Gran Bretaña más de dos millones de licencias de recepción.[3] Los gobiernos pronto usaron la radio para la propaganda.",
+    "effect": "El receptor de radio era un objeto nuevo sin forma tradicional. Los primeros aparatos eran caros, símbolos de estatus, y sus cajas de madera a menudo imitaban muebles tradicionales.[4] En 1932 el fabricante británico Ekco hizo un concurso para carcasas plásticas modernas, que ganó Wells Coates, cuyo AD-65, fabricado desde 1934, tenía una caja de baquelita moldeada.[4][5]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, KDKA",
+     "url": "https://www.britannica.com/topic/KDKA",
+     "checks": "KDKA transmitió los resultados de la elección Harding–Cox el 2 de noviembre de 1920 y se la considera la primera emisora comercial de Estados Unidos.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Science and Media Museum, «This week in broadcasting history: the BBC began daily transmissions»",
+     "url": "https://blog.scienceandmediamuseum.org.uk/this-week-in-broadcasting-history-the-bbc-began-daily-transmissions/",
+     "checks": "Transmisiones diarias de la BBC desde el 14 de noviembre de 1922, desde el estudio 2LO de Londres. ⚠ no da cifras de licencias.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The National Archives (UK), «Royal Charter for the BBC» (carta de Balfour, 1926)",
+     "url": "https://www.nationalarchives.gov.uk/education/resources/twenties-britain-part-two/royal-charter-for-bbc/",
+     "checks": "«Se han emitido más de dos millones de licencias» de recepción; la licencia de la British Broadcasting Company expiraba el 31 de diciembre de 1926.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, «Radio in the Round»",
+     "url": "https://www.cooperhewitt.org/2019/04/17/radio-in-the-round/",
+     "checks": "Los primeros receptores eran caros y sus cajas de madera a menudo imitaban muebles tradicionales; Ekco, en el concurso de 1932, buscó cajas plásticas modernas; la baquelita permitía un estilo simple y reducía herramental.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "V&A, Ekco AD-65 radio, Wells Coates",
+     "url": "https://collections.vam.ac.uk/item/O22790/ekco-ad-65-radio-coates-wells/",
+     "checks": "Wells Coates ganó el encargo en un concurso; caja moldeada en baquelita café oscura; diseñada en 1932 y fabricada en 1934 por E. K. Cole.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-aerodynamics",
+   "track": "technological",
+   "start": 1930,
+   "end": 1939,
+   "date": "1930s",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "CZ"
+   ],
+   "name": "Aerodynamics",
+   "short": "Aerodynamics",
+   "key": "Wind-tunnel research moved from aircraft to cars and trains in the 1930s and made the teardrop the shape of speed.",
+   "happened": "Engineers tested scale models in wind tunnels to reduce drag; Chrysler authorised a wind tunnel of its own in 1928.[5] Paul Jaray, who had worked at the Zeppelin works until 1923, began developing streamlined car bodies in 1921 and obtained a patent for them (applied for in 1922, granted in 1927).[1][2] Wind-tunnel tests shaped Chrysler’s Airflow of 1934, and showed that conventional cars of the time were more efficient driven backwards.[3][4] Fast streamlined trains followed: Germany’s Flying Hamburger entered regular service in 1933,[7] and in the United States the stainless-steel Pioneer Zephyr was unveiled in 1934.[6]",
+   "effect": "Streamlining began as engineering for moving vehicles and became a style: pencil sharpeners and kitchen mixers, which had no reason to be aerodynamic, took on the look,[8] and so did radios such as Wells Coates’s round Ekco AD-65 of 1934.[9] The success of the Zephyr moved streamlining from engineers to professional designers.[8]",
+   "wiki": "Streamliner",
+   "es": {
+    "name": "Aerodinámica",
+    "short": "Aerodinámica",
+    "date": "años 1930",
+    "key": "La investigación en túneles de viento pasó de los aviones a los autos y trenes en los años treinta e hizo de la gota de agua la forma de la velocidad.",
+    "happened": "Los ingenieros probaron maquetas a escala en túneles de viento para reducir la resistencia del aire; Chrysler autorizó en 1928 un túnel propio.[5] Paul Jaray, que trabajó en la fábrica Zeppelin hasta 1923, empezó a desarrollar carrocerías aerodinámicas en 1921 y obtuvo una patente (solicitada en 1922 y concedida en 1927).[1][2] Pruebas en túnel de viento dieron forma al Airflow de Chrysler de 1934 y mostraron que los autos convencionales de la época eran más eficientes yendo en reversa.[3][4] Siguieron trenes rápidos aerodinámicos: el «Hamburgués Volador» alemán entró en servicio regular en 1933,[7] y en Estados Unidos se presentó en 1934 el Pioneer Zephyr de acero inoxidable.[6]",
+    "effect": "La aerodinámica empezó como ingeniería para vehículos en movimiento y se volvió un estilo: sacapuntas y batidoras, que no tenían razón de ser aerodinámicos, adoptaron el aspecto,[8] y también radios como el Ekco AD-65 redondo de Wells Coates, de 1934.[9] El éxito del Zephyr pasó el aerodinamismo de los ingenieros a diseñadores profesionales.[8]"
+   },
+   "refs": [
+    {
+     "label": "Academia.edu, «The Teardrop that Fell from the Sky: Paul Jaray and Automotive Aerodynamics»",
+     "url": "https://www.academia.edu/8722978/The_Teardrop_that_Fell_from_the_Sky_Paul_Jaray_and_Automotive_Aerodynamics",
+     "checks": "Jaray en los talleres Zeppelin desde hacia 1912 hasta 1923; empezó a desarrollar carrocerías aerodinámicas en 1921; patente obtenida en 1927; ensayos en túnel de viento. ⚠ texto leído mediante resumen.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Curbside Classic, «An Illustrated History of Automotive Aerodynamics, Part 1»",
+     "url": "https://www.curbsideclassic.com/automotive-histories/automotive-history-an-illustrated-history-of-automotive-aerodynamics-part-1-1899-1939/",
+     "checks": "Patente de Jaray solicitada en 1922 y concedida en 1927, influyente entre fabricantes europeos. ⚠ sitio divulgativo, no académico.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Frist Art Museum, 1935 Chrysler Imperial Airflow Coupe",
+     "url": "https://fristartmuseum.org/1935-chrysler-imperial-model-c-2-airflow-coupe/",
+     "checks": "Pruebas en túnel de viento: los autos convencionales de los años treinta eran más eficientes yendo en reversa; esto dio forma al Airflow.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "The Henry Ford, 1934 DeSoto Airflow Sedan",
+     "url": "https://www.thehenryford.org/collections/explore/artifact/27480",
+     "checks": "Forma aerodinámica del Airflow de 1934 «desarrollada con pruebas en túnel de viento»; diseñado por Carl Breer.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Ate Up With Motor, «Changing Winds: The 1934–1937 Chrysler Airflow»",
+     "url": "https://ateupwithmotor.com/model-histories/chrysler-desoto-airflow-history/",
+     "checks": "Chrysler instaló su propio túnel de viento en 1928 y probó numerosas maquetas a escala para reducir la resistencia. ⚠ sitio divulgativo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "American-Rails.com, Pioneer Zephyr (CB&Q 9900)",
+     "url": "https://www.american-rails.com/9900.html",
+     "checks": "El Zephyr de Budd, de acero inoxidable, presentado el 18 de abril de 1934; primer «streamliner» diésel, primero de acero inoxidable y primero en servicio regular. ⚠ sitio divulgativo.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "DB Museum, Fliegender Hamburger VT 877",
+     "url": "https://dbmuseum.de/en/nuremberg/vehicles/fliegender-hamburger-vt-877",
+     "checks": "El «Hamburgués Volador» entró en servicio regular Berlín–Hamburgo en 1933 (construido en 1931), el primero de los «trenes voladores» de la Reichsbahn. ⚠ la página no habla de forma aerodinámica.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "PBS American Experience, «Streamliners: Designers»",
+     "url": "https://www.pbs.org/wgbh/americanexperience/features/biography/streamliners-designers/",
+     "checks": "El aerodinamismo se aplicó a sacapuntas, lapiceros y batidoras que no tenían razón de ser aerodinámicos; el triunfo del Zephyr (1934) pasó el estilo de los ingenieros a los diseñadores.",
+     "date": "2026-10-04"
+    },
+    {
+     "label": "Cooper Hewitt, «Radio in the Round»",
+     "url": "https://www.cooperhewitt.org/2019/04/17/radio-in-the-round/",
+     "checks": "El Ekco AD-65 de Wells Coates (1934) «ejemplificó el aerodinamismo» con su forma circular sin esquinas.",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ctx-underground-expansion",
+   "track": "technological",
+   "start": 1916,
+   "end": 1939,
+   "date": "1916–1930s",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "GB",
+    "RU",
+    "DE"
+   ],
+   "name": "Metros and electric transit",
+   "short": "Mass transit",
+   "key": "Electric underground railways, trams and buses grew fast between the wars and carried millions of daily passengers through big cities.",
+   "happened": "In 1916 Frank Pick commissioned Edward Johnston to give the London Underground one lettering and one symbol.[1] London’s Underground extended its lines to new suburbs, for example to Edgware in 1924 and Morden in 1926 and the Piccadilly line in 1932–33; in 1933 a public board, London Transport, took over all the city’s transit. Moscow opened its first metro line in 1935.",
+   "effect": "Large networks needed a single identity, legible signs and maps that passengers could read at a glance; transit companies became major clients of designers, typographers and architects.",
+   "wiki": "History_of_the_London_Underground",
+   "es": {
+    "name": "Metro y transporte eléctrico",
+    "short": "Transporte urbano",
+    "date": "1916–años 1930",
+    "key": "Los ferrocarriles subterráneos eléctricos, los tranvías y los buses crecieron rápido entre las dos guerras y llevaron a millones de pasajeros diarios por las grandes ciudades.",
+    "happened": "En 1916 Frank Pick encargó a Edward Johnston una sola letra y un solo símbolo para el metro de Londres.[1] El metro de Londres extendió sus líneas hacia nuevos suburbios, por ejemplo hasta Edgware en 1924 y Morden en 1926, y la línea Piccadilly en 1932–33; en 1933 un organismo público, London Transport, tomó todo el transporte de la ciudad. Moscú abrió su primera línea de metro en 1935.",
+    "effect": "Las grandes redes necesitaron una identidad única, señales legibles y mapas que se pudieran leer de un vistazo; las empresas de transporte se volvieron grandes clientes de diseñadores, tipógrafos y arquitectos."
+   },
+   "refs": [
+    {
+     "label": "Design Museum, «London Transport»",
+     "checks": "Bullseye de 1908; Pick encargó a Johnston en 1916 la tipografía y el rediseño del logotipo; registrado como marca en 1917.",
+     "date": "2026-10-03",
+     "url": "https://designmuseum.org/london-transport"
+    }
+   ]
+  },
+  {
+   "id": "ctx-early-television",
+   "track": "technological",
+   "start": 1935,
+   "end": 1939,
+   "date": "1935–1939",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "name": "Early television",
+   "short": "Television",
+   "key": "Regular television broadcasts began in Germany in 1935 and in Britain in 1936, but reached few homes before the war stopped them.",
+   "happened": "Berlin’s Paul Nipkow station began a regular service in March 1935 and showed the 1936 Olympics in public viewing rooms. The BBC opened its high-definition service at Alexandra Palace on 2 November 1936. In the United States, RCA presented television at the New York World’s Fair in April 1939. The BBC closed its service when war broke out in September 1939; German broadcasts continued on a small scale until 1944.",
+   "effect": "Before 1945 television was more a promise than a product: it was shown as part of the ‘world of tomorrow’ next to streamlined designs, while its real effect on homes and graphic design came after the war.",
+   "wiki": "History_of_television",
+   "es": {
+    "name": "Primeras transmisiones de televisión",
+    "short": "Televisión",
+    "date": "1935–1939",
+    "key": "Las transmisiones regulares de televisión empezaron en Alemania en 1935 y en Gran Bretaña en 1936, pero llegaron a pocos hogares antes de que la guerra las detuviera.",
+    "happened": "La estación Paul Nipkow de Berlín inició un servicio regular en marzo de 1935 y mostró los Juegos Olímpicos de 1936 en salas públicas. La BBC abrió su servicio de alta definición en Alexandra Palace el 2 de noviembre de 1936. En Estados Unidos, RCA presentó la televisión en la Feria Mundial de Nueva York en abril de 1939. La BBC cerró su servicio al estallar la guerra en septiembre de 1939; las transmisiones alemanas siguieron a pequeña escala hasta 1944.",
+    "effect": "Antes de 1945 la televisión fue más una promesa que un producto: se exhibió como parte del «mundo del mañana», junto a diseños aerodinámicos, y su efecto real en el hogar y en el diseño gráfico llegó después de la guerra."
+   },
+   "refs": []
+  }
+ ]
+}

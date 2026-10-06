@@ -1,0 +1,209 @@
+[
+ {
+  "rtype": "designer",
+  "id": "cfa-voysey",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "born": 1857,
+  "died": 1941,
+  "dates": "1857–1941",
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "C. F. A. Voysey",
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "institutions": [],
+  "key": "English architect and designer of the Arts and Crafts, known for plain, light country houses and for wallpapers, textiles and furniture.",
+  "more": "Voysey designed houses with white roughcast walls, long low roofs and simple, well-lit interiors, such as Broadleys on Windermere and Perrycroft near Malvern. He also designed wallpapers, textiles and furniture with stylised plant and bird motifs, often for the same houses. His restrained, unornamented rooms were admired on the Continent as a forerunner of modern design.",
+  "es": {
+   "dates": "1857–1941",
+   "key": "Arquitecto y diseñador inglés del Arts and Crafts, conocido por casas de campo sencillas y luminosas y por sus papeles pintados, textiles y muebles.",
+   "more": "Voysey proyectó casas de muros blancos revocados, techos largos y bajos e interiores simples y bien iluminados, como Broadleys, junto al lago Windermere, y Perrycroft, cerca de Malvern. También diseñó papeles pintados, textiles y muebles con motivos estilizados de plantas y aves, a menudo para esas mismas casas. Sus ambientes sobrios y sin ornamento fueron admirados en el continente como un anticipo del diseño moderno."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "walter-crane",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic",
+   "product"
+  ],
+  "born": 1845,
+  "died": 1915,
+  "dates": "1845–1915",
+  "countries": [
+   "GB"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Walter Crane",
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "institutions": [],
+  "key": "English illustrator and designer of the Arts and Crafts, author of colour picture books for children and of socialist graphics.",
+  "more": "Crane became widely known for his toy books of the 1860s and 1870s, printed in colour by Edmund Evans. He also designed wallpapers, tiles and textiles, and made cartoons and banners for the socialist movement. He taught and wrote on design, and was a leading figure of the Art Workers’ Guild and of the Arts and Crafts Exhibition Society.",
+  "es": {
+   "dates": "1845–1915",
+   "key": "Ilustrador y diseñador inglés del Arts and Crafts, autor de libros infantiles ilustrados en color y de gráfica socialista.",
+   "more": "Crane se hizo ampliamente conocido por sus toy books de las décadas de 1860 y 1870, impresos en color por Edmund Evans. También diseñó papeles pintados, azulejos y textiles, e hizo caricaturas y estandartes para el movimiento socialista. Enseñó y escribió sobre diseño, y fue una figura destacada del Art Workers’ Guild y de la Arts and Crafts Exhibition Society."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "will-bradley",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1868,
+  "died": 1962,
+  "dates": "1868–1962",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Will H. Bradley",
+  "movements": [
+   "art-nouveau"
+  ],
+  "institutions": [],
+  "key": "American poster artist, illustrator and typographer, the leading figure of Art Nouveau graphics in the United States.",
+  "more": "Bradley made his name in the 1890s with posters and covers for magazines such as The Inland Printer and Harper’s, in a style of flat shapes and flowing line influenced by Beardsley and by Japanese prints. He ran his own press, the Wayside Press, and later worked as an art editor and typographic adviser for publishers and magazines.",
+  "es": {
+   "dates": "1868–1962",
+   "key": "Cartelista, ilustrador y tipógrafo estadounidense, figura principal de la gráfica Art Nouveau en Estados Unidos.",
+   "more": "Bradley se hizo conocido en la década de 1890 con carteles y portadas para revistas como The Inland Printer y Harper’s, en un estilo de formas planas y línea fluida influido por Beardsley y por el grabado japonés. Tuvo su propia imprenta, la Wayside Press, y más tarde trabajó como director de arte y asesor tipográfico para editoriales y revistas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "ludwig-hohlwein",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "graphic"
+  ],
+  "born": 1874,
+  "died": 1949,
+  "dates": "1874–1949",
+  "countries": [
+   "DE"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "name": "Ludwig Hohlwein",
+  "movements": [
+   "plakatstil"
+  ],
+  "institutions": [],
+  "key": "German poster artist based in Munich, a leading figure of the Plakatstil, whose later work also served Nazi propaganda.",
+  "more": "Trained as an architect, Hohlwein turned to posters in the first decade of the twentieth century and became one of the most sought-after commercial poster artists in Germany. His posters reduced a product or figure to a bold silhouette in a few flat colours. He worked for many brands and shops and, from the 1930s, also for the Nazi regime and its organisations.",
+  "es": {
+   "dates": "1874–1949",
+   "key": "Cartelista alemán con base en Múnich, figura del Plakatstil, cuya obra posterior también sirvió a la propaganda nazi.",
+   "more": "Formado como arquitecto, Hohlwein se volcó a los carteles en la primera década del siglo XX y llegó a ser uno de los cartelistas comerciales más solicitados de Alemania. Sus carteles reducían un producto o una figura a una silueta contundente en pocos colores planos. Trabajó para muchas marcas y tiendas y, desde la década de 1930, también para el régimen nazi y sus organizaciones."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "designer",
+  "id": "gustav-stickley",
+  "level": "normal",
+  "kind": "person",
+  "disciplines": [
+   "product"
+  ],
+  "born": 1858,
+  "died": 1942,
+  "dates": "1858–1942",
+  "countries": [
+   "US"
+  ],
+  "regions": [
+   "north-america"
+  ],
+  "name": "Gustav Stickley",
+  "movements": [
+   "arts-and-crafts"
+  ],
+  "institutions": [],
+  "key": "American furniture maker who spread the Arts and Crafts in the United States through his Craftsman furniture and his magazine.",
+  "more": "Stickley, influenced by Ruskin and Morris, made solid oak furniture with visible joinery, known as Craftsman furniture, from around 1900. In 1901 he began the magazine The Craftsman, which published articles on design and house plans. His workshops in Eastwood, New York, sold through catalogues, and his firm went bankrupt in 1915.",
+  "es": {
+   "dates": "1858–1942",
+   "key": "Fabricante de muebles estadounidense que difundió el Arts and Crafts en Estados Unidos con sus muebles Craftsman y su revista.",
+   "more": "Stickley, influido por Ruskin y Morris, hizo desde c. 1900 muebles de roble macizo con uniones a la vista, conocidos como muebles Craftsman. En 1901 comenzó la revista The Craftsman, que publicaba artículos de diseño y planos de casas. Sus talleres de Eastwood, Nueva York, vendían por catálogo, y su empresa quebró en 1915."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-bourgeois-home-hygiene",
+  "item": "cfa-voysey",
+  "note": "Hygiene and household-advice culture favoured light, plain, easy-to-clean rooms → Voysey’s white houses and unornamented furniture and papers.",
+  "es": {
+   "note": "La cultura de la higiene y los manuales domésticos favoreció ambientes claros, simples y fáciles de limpiar → casas blancas, y muebles y papeles sin ornamento superfluo en Voysey."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-childrens-book-market",
+  "item": "walter-crane",
+  "note": "Expanding schooling and a market for children’s books → colour toy books whose pictures carry the page, drawn by Crane and printed by Evans.",
+  "es": {
+   "note": "La escolarización en expansión y un mercado de libros infantiles → toy books en color donde la imagen lleva la página, dibujados por Crane e impresos por Evans."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-poster-craze",
+  "item": "will-bradley",
+  "note": "The poster craze reached the United States in the 1890s → Bradley’s posters and magazine covers in flat colour and flowing line.",
+  "es": {
+   "note": "La moda del cartel llegó a Estados Unidos en la década de 1890 → carteles y portadas de revista de Bradley, en color plano y línea fluida."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-advertising-catalogue",
+  "item": "ludwig-hohlwein",
+  "note": "Brand advertising needed posters that work at a glance → Hohlwein’s flat colour and synthetic silhouette for commercial clients.",
+  "es": {
+   "note": "La publicidad de marcas necesitaba carteles que se leyeran de un vistazo → color plano y silueta sintética en Hohlwein, para clientes comerciales."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-advertising-catalogue",
+  "item": "gustav-stickley",
+  "note": "Magazine and catalogue selling reached a national middle-class public → Stickley sold Craftsman furniture by catalogue and promoted it in The Craftsman.",
+  "es": {
+   "note": "La venta por revista y catálogo llegó a un público nacional de clase media → Stickley vendió muebles Craftsman por catálogo y los promovió en The Craftsman."
+  },
+  "refs": []
+ }
+]

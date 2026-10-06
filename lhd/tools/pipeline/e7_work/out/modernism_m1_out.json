@@ -1,0 +1,359 @@
+[
+ {
+  "rtype": "theory",
+  "id": "th-sant-elia-manifesto-1914",
+  "level": "normal",
+  "year": 1914,
+  "date": "1914",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "genre": "manifesto",
+  "author": "Antonio Sant'Elia",
+  "name": "Manifesto of Futurist Architecture",
+  "short": "Sant'Elia",
+  "key": "The 1914 Futurist manifesto that imagined the modern city as a huge, noisy building site of machines, lifts and traffic on several levels, with no place for the past.",
+  "ideas": [
+   "The Futurist house should be like a gigantic machine, built with new materials such as iron, glass, cement and reinforced concrete.",
+   "Decoration should be abandoned: the beauty of the new architecture lies in its lines, its use and its newness.",
+   "Lifts, power stations and roads on several levels are part of the look of the new city, not something to hide.",
+   "Each generation should build its own city, and buildings should be short-lived and easy to replace."
+  ],
+  "impact": "Signed by Antonio Sant'Elia in Milan in 1914 and tied to the Futurist movement led by Marinetti, it came with drawings of his imagined ‘New City’ (Città Nuova), which were never built. Its image of a dense, many-levelled city of machines was later remembered by architects of the megastructure and high-tech generations.",
+  "links": {
+   "movements": [
+    "futurism-typography"
+   ],
+   "institutions": [],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Antonio Sant'Elia",
+   "name": "Manifiesto de la arquitectura futurista",
+   "short": "Sant'Elia",
+   "date": "1914",
+   "key": "El manifiesto futurista de 1914 que imaginó la ciudad moderna como una enorme obra ruidosa de máquinas, ascensores y tránsito en varios niveles, sin lugar para el pasado.",
+   "ideas": [
+    "La casa futurista debe ser como una gigantesca máquina, construida con materiales nuevos como el hierro, el vidrio, el cemento y el hormigón armado.",
+    "Hay que abandonar la decoración: la belleza de la nueva arquitectura está en sus líneas, su uso y su novedad.",
+    "Los ascensores, las centrales eléctricas y las calles en varios niveles forman parte del aspecto de la nueva ciudad y no hay que esconderlos.",
+    "Cada generación debe construir su propia ciudad, y los edificios deben ser efímeros y fáciles de reemplazar."
+   ],
+   "impact": "Firmado por Antonio Sant'Elia en Milán en 1914 y ligado al movimiento futurista que lideraba Marinetti, venía con dibujos de su imaginada «Ciudad Nueva» (Città Nuova), que nunca se construyó. Su imagen de una ciudad densa y de muchos niveles hecha de máquinas fue recordada después por los arquitectos de las generaciones de la megaestructura y el high-tech."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-electricity",
+  "item": "th-sant-elia-manifesto-1914",
+  "note": "Power stations, lifts and multi-level traffic, products of electrification, become the new look of the city; Sant'Elia proposes showing them in architecture instead of hiding them.",
+  "es": {
+   "note": "Centrales eléctricas, ascensores y tránsito en varios niveles, fruto de la electrificación, pasan a ser la nueva imagen de la ciudad; Sant'Elia propone mostrarlos en la arquitectura y no esconderlos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-international-style-1932",
+  "level": "essential",
+  "year": 1932,
+  "date": "1932",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "architecture",
+  "author": "Henry-Russell Hitchcock and Philip Johnson",
+  "name": "The International Style: Architecture since 1922",
+  "short": "Hitchcock & Johnson",
+  "key": "The 1932 book and Museum of Modern Art exhibition that named the new European architecture ‘the International Style’ and gave it a short list of rules.",
+  "ideas": [
+   "Modern architecture of the 1920s had formed a single style, not a set of separate national movements.",
+   "Architecture should be conceived as volume, an enclosed space, rather than as mass.",
+   "Regularity and balance in the composition replace axial symmetry.",
+   "Good proportion, the materials and the technical perfection of the building replace applied ornament."
+  ],
+  "impact": "Written by the historian Henry-Russell Hitchcock and the architect Philip Johnson for the exhibition ‘Modern Architecture: International Exhibition’ at the Museum of Modern Art in New York in 1932, with Alfred Barr, it presented the work of Le Corbusier, Gropius, Mies van der Rohe, Oud and others to an American public as a style. The label stuck, although it left out much of the social aims of the European architects.",
+  "links": {
+   "movements": [
+    "international-style"
+   ],
+   "institutions": [
+    "inst-moma"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "Henry-Russell Hitchcock y Philip Johnson",
+   "name": "El estilo internacional: arquitectura desde 1922",
+   "short": "Hitchcock y Johnson",
+   "date": "1932",
+   "key": "El libro y la exposición de 1932 del Museo de Arte Moderno que llamaron «estilo internacional» a la nueva arquitectura europea y le dieron una breve lista de reglas.",
+   "ideas": [
+    "La arquitectura moderna de los años veinte había formado un solo estilo, y no un conjunto de movimientos nacionales separados.",
+    "La arquitectura debe concebirse como volumen, un espacio cerrado, y no como masa.",
+    "La regularidad y el equilibrio de la composición reemplazan la simetría axial.",
+    "La buena proporción, los materiales y la perfección técnica del edificio reemplazan el ornamento aplicado."
+   ],
+   "impact": "Escrito por el historiador Henry-Russell Hitchcock y el arquitecto Philip Johnson para la exposición «Modern Architecture: International Exhibition» del Museo de Arte Moderno de Nueva York en 1932, con Alfred Barr, presentó la obra de Le Corbusier, Gropius, Mies van der Rohe, Oud y otros a un público estadounidense como un estilo. La etiqueta se impuso, aunque dejó fuera buena parte de los fines sociales de los arquitectos europeos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-migration-exile",
+  "item": "th-international-style-1932",
+  "note": "As European architects emigrate, the MoMA presents their work to the US public as one style with rules; the label travels with them and shapes what American architects and clients copy.",
+  "es": {
+   "note": "Mientras los arquitectos europeos emigran, el MoMA presenta su obra al público estadounidense como un estilo con reglas; la etiqueta viaja con ellos y marca lo que copian arquitectos y clientes de EE. UU."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "theory",
+  "id": "th-kepes-language-of-vision-1944",
+  "level": "normal",
+  "year": 1944,
+  "date": "1944",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "genre": "pedagogy",
+  "author": "György Kepes",
+  "name": "Language of Vision",
+  "short": "Kepes",
+  "key": "György Kepes’s 1944 book on visual perception and the organisation of form, a teaching manual that carried the Bauhaus approach to American graphic design.",
+  "ideas": [
+   "Seeing is an active process of organising what the eye receives, and the designer works with that organisation.",
+   "Basic visual elements such as line, shape, colour and texture can be studied and taught as a language.",
+   "Visual forms are shaped by the laws of perception, such as figure and ground, rhythm and the grouping of shapes.",
+   "Painting, photography, advertising and design draw on the same visual language and should be taught together."
+  ],
+  "impact": "Kepes, a Hungarian who had worked with Moholy-Nagy in Berlin and London, taught at the New Bauhaus in Chicago, and the book came out there in 1944 with many illustrations from art, photography and advertising. It became a standard text in design schools in the United States, where Kepes later taught at MIT.",
+  "links": {
+   "movements": [],
+   "institutions": [
+    "inst-new-bauhaus"
+   ],
+   "designers": [],
+   "works": []
+  },
+  "es": {
+   "author": "György Kepes",
+   "name": "El lenguaje de la visión",
+   "short": "Kepes",
+   "date": "1944",
+   "key": "El libro de György Kepes de 1944 sobre la percepción visual y la organización de la forma, un manual de enseñanza que llevó el enfoque de la Bauhaus al diseño gráfico estadounidense.",
+   "ideas": [
+    "Ver es un proceso activo de organizar lo que recibe el ojo, y el diseñador trabaja con esa organización.",
+    "Los elementos visuales básicos, como la línea, la forma, el color y la textura, pueden estudiarse y enseñarse como un lenguaje.",
+    "Las formas visuales se rigen por las leyes de la percepción, como figura y fondo, el ritmo y la agrupación de formas.",
+    "La pintura, la fotografía, la publicidad y el diseño recurren a un mismo lenguaje visual y deben enseñarse juntos."
+   ],
+   "impact": "Kepes, húngaro que había trabajado con Moholy-Nagy en Berlín y Londres, enseñaba en la Nueva Bauhaus de Chicago, y el libro salió allí en 1944 con muchas ilustraciones de arte, fotografía y publicidad. Se volvió un texto de referencia en las escuelas de diseño de Estados Unidos, donde Kepes enseñó después en el MIT."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-migration-exile",
+  "item": "th-kepes-language-of-vision-1944",
+  "note": "Bauhaus teachers exiled in Chicago turn their pedagogy into a printed manual, so a course taught in Germany becomes a textbook for American design schools.",
+  "es": {
+   "note": "Docentes de la Bauhaus exiliados en Chicago convierten su pedagogía en un manual impreso, y un curso dado en Alemania pasa a ser texto de estudio de las escuelas de diseño estadounidenses."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "institution",
+  "id": "inst-domus",
+  "level": "normal",
+  "kind": "publication",
+  "disciplines": [
+   "architecture",
+   "product"
+  ],
+  "start": 1928,
+  "end": null,
+  "place": "Milan",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "name": "Domus",
+  "short": "Domus",
+  "key": "The Milan magazine of architecture, design and art founded in 1928 by Gio Ponti, one of the main platforms of Italian design in the twentieth century.",
+  "more": "Domus was founded in Milan in 1928 by the architect Gio Ponti, who edited it for much of its history. It covered architecture, interiors, furniture and objects, and showed Italian designers to a wide readership at home and abroad. Together with Casabella, it became a place where Italian design culture was discussed and defined, and it is still published.",
+  "links": {
+   "designers": [
+    "gio-ponti"
+   ],
+   "works": []
+  },
+  "es": {
+   "name": "Domus",
+   "short": "Domus",
+   "place": "Milán",
+   "key": "La revista milanesa de arquitectura, diseño y arte fundada en 1928 por Gio Ponti, una de las principales plataformas del diseño italiano del siglo XX.",
+   "more": "Domus se fundó en Milán en 1928 por el arquitecto Gio Ponti, que la dirigió durante buena parte de su historia. Trató de arquitectura, interiores, muebles y objetos, y mostró a los diseñadores italianos a un público amplio dentro y fuera del país. Junto con Casabella, fue un lugar donde se discutió y definió la cultura del diseño italiano, y todavía se publica."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-italian-design-culture",
+  "item": "inst-domus",
+  "note": "Italian design culture needs a place to argue and show its work; Domus gives architects and designers a magazine that spreads Italian projects and ideas at home and abroad.",
+  "es": {
+   "note": "La cultura del diseño italiano necesita un lugar donde discutir y mostrar su trabajo; Domus da a arquitectos y diseñadores una revista que difunde proyectos e ideas italianas dentro y fuera del país."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "suprematism",
+  "level": "normal",
+  "disciplines": [
+   "graphic",
+   "product",
+   "architecture"
+  ],
+  "start": 1915,
+  "end": 1935,
+  "fadeIn": 1,
+  "fadeOut": 2,
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "name": "Suprematism",
+  "short": "Suprematism",
+  "key": "A Russian abstract movement led by Kazimir Malevich that reduced painting to pure geometric forms, and whose vocabulary passed to Soviet graphic design, ceramics and architecture.",
+  "traits": [
+   "Pure geometric forms: square, circle, cross, rectangle",
+   "A few flat colours on a white ground",
+   "Forms that seem to float and tilt in an undefined space",
+   "Abstraction without reference to objects",
+   "Painting that leads to design and architecture"
+  ],
+  "context": "It was announced by Malevich at the exhibition ‘0.10’ in Petrograd in December 1915, where he showed his Black Square, and it formed in the Russian avant-garde at the height of the First World War. After the 1917 revolution its followers, including El Lissitzky, took it to the new Soviet schools and workshops. Its public life faded in the 1930s, when abstract art lost official favour in the USSR.",
+  "shift": "From painting about objects to a system of pure forms that could be built and printed. Lissitzky developed it in his Prouns and in books and posters, and from the 1920s it reached ceramics and architectural models, and later European and American graphic design.",
+  "links": {
+   "designers": [
+    "el-lissitzky"
+   ],
+   "works": []
+  },
+  "es": {
+   "name": "Suprematismo",
+   "short": "Suprematismo",
+   "key": "Un movimiento abstracto ruso liderado por Kazimir Malévich que redujo la pintura a formas geométricas puras, y cuyo vocabulario pasó al diseño gráfico, la cerámica y la arquitectura soviéticos.",
+   "traits": [
+    "Formas geométricas puras: cuadrado, círculo, cruz, rectángulo",
+    "Pocos colores planos sobre fondo blanco",
+    "Formas que parecen flotar e inclinarse en un espacio indefinido",
+    "Abstracción sin referencia a objetos",
+    "Una pintura que conduce al diseño y a la arquitectura"
+   ],
+   "context": "Lo anunció Malévich en la exposición «0,10» de Petrogrado en diciembre de 1915, donde mostró su Cuadrado negro, y se formó en la vanguardia rusa en plena Primera Guerra Mundial. Tras la revolución de 1917, sus seguidores, entre ellos El Lissitzky, lo llevaron a las nuevas escuelas y talleres soviéticos. Su vida pública se apagó en los años treinta, cuando el arte abstracto perdió el favor oficial en la URSS.",
+   "shift": "De una pintura sobre objetos a un sistema de formas puras que podía construirse e imprimirse. Lissitzky lo desarrolló en sus Proun y en libros y carteles, y desde los años veinte llegó a la cerámica y a las maquetas de arquitectura, y más tarde al diseño gráfico europeo y estadounidense."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-avant-gardes",
+  "item": "suprematism",
+  "note": "Radical abstraction in the avant-garde reduces art to pure geometric forms, which designers then apply to porcelain, posters and architectural models.",
+  "es": {
+   "note": "La abstracción radical de la vanguardia reduce el arte a formas geométricas puras, que los diseñadores aplican después a la porcelana, los carteles y las maquetas de arquitectura."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "movement",
+  "id": "new-york-school-graphic",
+  "level": "normal",
+  "disciplines": [
+   "graphic"
+  ],
+  "start": 1940,
+  "end": 1970,
+  "fadeIn": 1,
+  "fadeOut": 2,
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "name": "American modernism in graphic design (New York School)",
+  "short": "New York School",
+  "key": "The American version of European graphic modernism, more intuitive and playful, which mixed avant-garde form with advertising and publishing in New York from about 1940.",
+  "traits": [
+   "European modern form adapted to advertising and publishing",
+   "Visual ideas, wit and humour instead of strict grids",
+   "Simple, memorable symbols and trademarks",
+   "Free use of photography, drawing and collage",
+   "Designer as an author of ideas, not only of layouts"
+  ],
+  "context": "European emigrants, many of them driven out by Nazism, brought the avant-garde to New York in the 1930s and 1940s, where it met a large advertising industry and a lively publishing market. After the Second World War, the growth of consumer society gave graphic designers many commissions from companies and magazines.",
+  "shift": "From the doctrinal, systematic modernism of the European avant-garde to a looser style in which an idea, a joke or a striking image mattered as much as the system. Paul Rand is its best-known figure, and designers such as Saul Bass, Alvin Lustig, Herb Lubalin and Milton Glaser worked in related ways.",
+  "links": {
+   "designers": [
+    "paul-rand"
+   ],
+   "works": []
+  },
+  "es": {
+   "name": "Modernismo gráfico estadounidense (Escuela de Nueva York)",
+   "short": "Escuela de Nueva York",
+   "key": "La versión estadounidense del modernismo gráfico europeo, más intuitiva y lúdica, que mezcló la forma de vanguardia con la publicidad y la edición en Nueva York desde c. 1940.",
+   "traits": [
+    "Forma moderna europea adaptada a la publicidad y la edición",
+    "Ideas visuales, ingenio y humor en vez de retículas estrictas",
+    "Símbolos y marcas simples y memorables",
+    "Uso libre de la fotografía, el dibujo y el collage",
+    "El diseñador como autor de ideas, no solo de diagramaciones"
+   ],
+   "context": "Emigrados europeos, muchos de ellos expulsados por el nazismo, llevaron la vanguardia a Nueva York en los años treinta y cuarenta, donde se encontró con una gran industria publicitaria y un mercado editorial activo. Tras la Segunda Guerra Mundial, el auge de la sociedad de consumo dio a los diseñadores gráficos muchos encargos de empresas y revistas.",
+   "shift": "Del modernismo doctrinario y sistemático de la vanguardia europea a un estilo más libre, en que una idea, una broma o una imagen llamativa importaban tanto como el sistema. Paul Rand es su figura más conocida, y diseñadores como Saul Bass, Alvin Lustig, Herb Lubalin y Milton Glaser trabajaron de modos afines."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-migration-exile",
+  "item": "new-york-school-graphic",
+  "note": "European emigrants bring the avant-garde to New York, where it mixes with advertising and the publishing market and loses its doctrine in favour of visual ideas.",
+  "es": {
+   "note": "Los emigrados europeos llevan la vanguardia a Nueva York, donde se mezcla con la publicidad y el mercado editorial y cambia la doctrina por las ideas visuales."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-consumer-society",
+  "item": "new-york-school-graphic",
+  "note": "The postwar growth of advertising and consumer markets gives commissions to graphic designers, who answer with visual ideas and humour that sell and are remembered.",
+  "es": {
+   "note": "La expansión de la publicidad y del consumo en la posguerra da encargos a los diseñadores gráficos, que responden con ideas visuales y humor que venden y se recuerdan."
+  },
+  "refs": []
+ }
+]

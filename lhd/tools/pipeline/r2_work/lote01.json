@@ -1,0 +1,130 @@
+[
+ {
+  "id": "baskerville-virgil-1757",
+  "en": {
+   "key": "The quarto Virgil printed in Birmingham in 1757, Baskerville’s first book and the first to use his refined type, printed in part on the new wove paper.[1][2]",
+   "more": "Baskerville, a Birmingham manufacturer, developed a refined type of his own and, with the papermaker James Whatman, a smooth wove paper before issuing this edition of Virgil’s works.[1] Whatman could supply wove paper for only part of the edition, so some sheets are wove and others laid.[2] The way Baskerville glazed or hot-pressed his paper was a trade secret.[2] A modern bibliography calls the book a defining moment in bookmaking.[2]"
+  },
+  "es": {
+   "key": "El Virgilio en cuarto impreso en Birmingham en 1757, primer libro de Baskerville y el primero en usar su tipo refinado, impreso en parte en el nuevo papel avitelado.[1][2]",
+   "more": "Baskerville, fabricante de Birmingham, desarrolló un tipo refinado propio y, con el papelero James Whatman, un papel avitelado liso antes de publicar esta edición de las obras de Virgilio.[1] Whatman pudo proveer papel avitelado solo para una parte de la edición, así que algunos pliegos son de papel avitelado y otros de papel verjurado.[2] El modo en que Baskerville satinaba o prensaba en caliente su papel era un secreto de oficio.[2] Una bibliografía moderna lo considera un momento decisivo en la hechura de libros.[2]"
+  },
+  "refs": [
+   {
+    "label": "Princeton University Library, Graphic Arts, «The Baskerville Virgil»",
+    "url": "https://www.princeton.edu/~graphicarts/2010/01/the_baskerville_virgil.html",
+    "checks": "Impreso en Birmingham («Birminghamiae: Typis Johannis Baskerville, 1757»); primer libro con el tipo refinado de Baskerville y el papel avitelado nuevo de Whatman, de superficie lisa y uniforme; parte del Virgilio se imprimió en papel avitelado y parte en verjurado. ⚠ el registro de catálogo de un ejemplar dice «1757 [i.e. 1771]»; el resto de las fuentes da 1757.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Jeremy Norman, History of Information, «Baskerville’s first book is the first book printed partially on wove paper»",
+    "url": "https://www.historyofinformation.com/detail.php?id=2970",
+    "checks": "Primer libro de Baskerville; primero impreso en parte en papel avitelado de Whatman, que solo pudo proveer una parte; el método de satinado o prensado en caliente era secreto de oficio; formato 4to; valoración «momento decisivo». ⚠ fuente secundaria (bibliografía comercial).",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «sharp letters, wide margins and glossy smooth paper» y «no ornaments, generous margins, high-contrast strokes»: ninguna fuente consultada lo confirma.",
+   "Corregí «printed on smooth wove paper»: solo una parte de la edición es de papel avitelado.",
+   "Quité «years improving his types, ink, press and paper», la presión posterior de los pliegos como fuente de brillo y el vínculo con Bodoni y Didot: no confirmados."
+  ]
+ },
+ {
+  "id": "bodoni-manuale-1788",
+  "en": {
+   "key": "The 1818 edition of Bodoni’s Manuale tipografico, a two-volume specimen of the types of the ducal press of Parma, which he directed, issued by his widow after his death; the first specimen dates from 1788.[1][2]",
+   "more": "Giambattista Bodoni was called to Parma in 1768 to set up and run the ducal printing office, which he directed until his death on 30 November 1813.[1] In 1788 he issued a first Manuale tipografico with a hundred roman alphabets, fifty italics and twenty-eight Greek alphabets.[1] His widow, Margherita Dall’Aglio, completed his projects and in 1818 printed the final, much enlarged Manuale in two volumes, the result of more than forty years of work.[1][2] Britannica describes its pages as pure in form, with sparse layout and generous margins.[3]"
+  },
+  "es": {
+   "key": "La edición de 1818 del Manuale tipografico de Bodoni, un muestrario en dos volúmenes de los tipos de la imprenta ducal de Parma, que él dirigió, publicado por su viuda tras su muerte; el primer muestrario es de 1788.[1][2]",
+   "more": "Giambattista Bodoni fue llamado a Parma en 1768 para crear y dirigir la imprenta ducal, que dirigió hasta su muerte, el 30 de noviembre de 1813.[1] En 1788 publicó un primer Manuale tipografico con cien alfabetos romanos, cincuenta cursivos y veintiocho alfabetos griegos.[1] Su viuda, Margherita Dall’Aglio, completó sus proyectos y en 1818 imprimió el Manuale final, muy ampliado, en dos volúmenes, fruto de más de cuarenta años de trabajo.[1][2] La Britannica describe sus páginas como de forma pura, con composición escasa y márgenes generosos.[3]"
+  },
+  "refs": [
+   {
+    "label": "Museo Bodoniano, «Biography»",
+    "url": "https://museobodoniano.com/biography/",
+    "checks": "Llamado a Parma en febrero de 1768 por Fernando de Borbón para fundar y dirigir la imprenta ducal; primer Manuale de 1788 (cien alfabetos romanos, cincuenta cursivos, veintiocho griegos); murió el 30 de noviembre de 1813; su viuda Margherita Dall’Aglio imprimió en 1818 el Manuale final en dos volúmenes, más de cuarenta años de trabajo.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Princeton University Library, Graphic Arts, «The specimen book to end all specimen books»",
+    "url": "https://graphicarts.princeton.edu/2016/05/31/the-specimen-book-to-end-all-specimen-books/",
+    "checks": "Muestrario de 1788 como primera versión; edición de 1818 muy ampliada, en dos volúmenes, póstuma, publicada por la viuda Margherita; Bodoni murió en 1813.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Manuale tipografico»",
+    "url": "https://www.britannica.com/topic/Manuale-tipografico",
+    "checks": "Primera edición de 1788 y segunda de 1818 publicada por la viuda; «pureza de forma, páginas escasas, márgenes y interlineado generosos». ⚠ el resumen consultado no menciona los dos volúmenes.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «letters oppose thick strokes to hairline strokes and use flat serifs… Neoclassical taste» y «austere and orderly»: ninguna fuente consultada lo dice (la Britannica habla de pureza de forma y márgenes generosos).",
+   "«Types he cut» pasó a «types of the ducal press, which he directed»: lo que sostiene la fuente es la dirección de la imprenta."
+  ]
+ },
+ {
+  "id": "penny-black-1840",
+  "en": {
+   "key": "The first adhesive postage stamp, put on sale in London on 1 May 1840 and valid from 6 May: a profile of Queen Victoria in black, with different corner letters on each stamp against forgery.[1][2]",
+   "more": "Rowland Hill, appointed to the Treasury to put the postal Act into operation, organised the design competition and decided that each stamp should carry variable lettering for security.[1] The portrait came from William Wyon’s City Medal of the Queen: Henry Corbould drew it from the medal and Charles and Frederick Heath engraved the head on a die.[1][2] The background was white-line machine engraving of the kind used on banknotes, supplied by Perkins Bacon & Petch,[1] and corner letters were punched so that every stamp in a sheet was unique.[2] The red Maltese Cross cancellation could be removed and the stamp reused, so black cancellations were safer and the stamp was changed to the Penny Red after about 68 million Penny Blacks.[2]"
+  },
+  "es": {
+   "key": "El primer sello postal adhesivo, puesto a la venta en Londres el 1 de mayo de 1840 y válido desde el 6 de mayo: un perfil de la reina Victoria en negro, con letras de esquina distintas en cada sello contra la falsificación.[1][2]",
+   "more": "Rowland Hill, nombrado en el Tesoro para poner en marcha la ley postal, organizó el concurso de diseño y decidió que cada sello llevara letras variables por seguridad.[1] El retrato venía de la medalla de la ciudad de Londres de William Wyon: Henry Corbould lo dibujó a partir de la medalla y Charles y Frederick Heath grabaron la cabeza en un cuño.[1][2] El fondo era un grabado mecánico de línea blanca, como el de los billetes, proporcionado por Perkins Bacon & Petch,[1] y las letras de esquina se punzonaban para que cada sello de una hoja fuera único.[2] La cancelación con la cruz de Malta roja podía quitarse y el sello reutilizarse, así que las cancelaciones negras eran más seguras y el sello pasó a ser el Penny Red tras unos 68 millones de Penny Black.[2]"
+  },
+  "refs": [
+   {
+    "label": "The Postal Museum, «The first ever stamp: the Penny Black»",
+    "url": "https://www.postalmuseum.org/collections/highlights/the-first-ever-stamp-the-penny-black/",
+    "checks": "A la venta en Londres el 1 de mayo de 1840 y válido desde el 6; Hill nombrado en el Tesoro, organizó el concurso y decidió las letras variables; retrato de la cabeza de la reina esculpida por William Wyon para la medalla de la ciudad, que Corbould dibujó y los Heath grabaron en un cuño; fondo de grabado mecánico de línea blanca como el de los billetes, de Perkins Bacon & Petch; la cancelación roja podía quitarse sin dañar el sello.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Royal Mint Museum, «William Wyon & the Penny Black»",
+    "url": "https://www.royalmintmuseum.org.uk/journal/guest-articles/penny-black/",
+    "checks": "Medalla de Wyon como base; Perkins Bacon encargó el dibujo a Corbould, que los Heath grabaron; letras de esquina punzonadas, únicas en cada sello; válido desde el 6 de mayo de 1840; el negro se reemplazó porque la cancelación roja podía quitarse; unos 68 millones de Penny Black antes del cambio al Penny Red.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí la causa del cambio a rojo: no era que la cancelación roja «no se viera bien» sobre negro, sino que podía quitarse y reutilizarse el sello (Royal Mint Museum y Postal Museum).",
+   "Quité «engraved in recess» (las fuentes hablan de grabado mecánico de línea blanca para el fondo) y «penny post a uniform rate paid in advance» (no confirmado en lo consultado).",
+   "«Check letters in the lower corners» pasó a «corner letters»: las fuentes no precisan que fueran las esquinas inferiores."
+  ]
+ },
+ {
+  "id": "encyclopedie-plates-1762",
+  "en": {
+   "key": "The volumes of plates of the Encyclopédie, published from 1762 to 1772, which show trades, tools and workshops step by step in precise engravings.[1][2]",
+   "more": "The plates of the Encyclopédie, edited by Diderot and d’Alembert, came out in eleven volumes from 1762 to 1772, with more than 2,500 illustrations, far above the 600 or so first planned.[1][2] A craft was introduced with one or more plates of a clean, orderly workshop or warehouse, and the next plates showed the elements of the craft or the steps of production, in trades from glass-making and printing to shipbuilding.[1] Louis-Jacques Goussier was the principal designer.[1] The St Andrews collections note that the plates were also meant to promote French industries by glorifying domestic manufacture rather than showing workshops objectively.[1]"
+  },
+  "es": {
+   "key": "Los volúmenes de láminas de la Encyclopédie, publicados de 1762 a 1772, que muestran oficios, herramientas y talleres paso a paso en grabados precisos.[1][2]",
+   "more": "Las láminas de la Encyclopédie, editadas por Diderot y d’Alembert, salieron en once volúmenes de 1762 a 1772, con más de 2.500 ilustraciones, muy por encima de las 600 previstas al comienzo.[1][2] Un oficio se presentaba con una o más láminas de un taller o almacén limpio y ordenado, y las siguientes mostraban los elementos del oficio o los pasos de la producción, en oficios que van de la fabricación de vidrio y la imprenta a la construcción naval.[1] Louis-Jacques Goussier fue el dibujante principal.[1] Las colecciones de St Andrews señalan que las láminas también buscaban promover las industrias francesas al glorificar la manufactura nacional en vez de mostrar los talleres con objetividad.[1]"
+  },
+  "refs": [
+   {
+    "label": "University of St Andrews, «The plates of Diderot & d’Alembert’s Encyclopédie (1751–1772)»",
+    "url": "https://university-collections.wp.st-andrews.ac.uk/2013/07/08/52-weeks-of-inspiring-illustrations-week-51-the-plates-of-diderot-dalemberts-encyclopedie-1751-1772/",
+    "checks": "Estructura de las láminas (taller ordenado y luego elementos o pasos); oficios (vidrio, imprenta, queso, construcción naval, grabado); Goussier, dibujante principal; 11 volúmenes y más de 2.500 ilustraciones frente a unas 600 previstas; publicación de 1762 a 1772; propósito de promoción de las industrias francesas. ⚠ el texto atribuye a Goussier «más de 900 láminas» en 1747–1760; no se usa la cifra.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Bodleian Libraries, «Publishing history: Diderot’s and d’Alembert’s Encyclopédie»",
+    "url": "https://libguides.bodleian.ox.ac.uk/c.php?g=423240&p=2886513",
+    "checks": "«Once volúmenes de ilustraciones se publicaron de 1762 a 1772». No identifica a los dibujantes.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «view of the workshop above and tools and operations laid out below» (la fuente describe un taller y luego los pasos, no esa disposición en la misma lámina) y «treated manual work as knowledge worth recording… division of tasks»: interpretación no sostenida por las fuentes.",
+   "«Many of them» (Goussier) pasó a «principal designer», que es lo que dice la fuente."
+  ]
+ }
+]

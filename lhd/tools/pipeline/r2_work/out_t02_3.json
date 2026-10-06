@@ -1,0 +1,284 @@
+[
+ {
+  "id": "palais-stoclet",
+  "en": {
+   "key": "Josef Hoffmann’s mansion in Brussels for the banker Adolphe Stoclet, built in 1905–11 as a total work of art in which architecture, decoration, furniture and garden were designed together.[1]",
+   "more": "The facades are clad in white marble outlined with bronze framing.[2] Gustav Klimt made the great mosaics of the dining room, working with the workshop of Leopold Forstner,[2][3] and the house embodied the principles of the Wiener Werkstätte as a Gesamtkunstwerk.[2] It stands on the Avenue de Tervueren.[3] UNESCO inscribed it in 2009 as one of the most accomplished and homogeneous buildings of the Vienna Secession, one that foreshadowed Art Deco and modernism.[1]"
+  },
+  "es": {
+   "key": "La mansión de Josef Hoffmann en Bruselas para el banquero Adolphe Stoclet, construida en 1905–11 como una obra de arte total en que arquitectura, decoración, muebles y jardín se diseñaron juntos.[1]",
+   "more": "Las fachadas van revestidas de mármol blanco delineado con marcos de bronce.[2] Gustav Klimt hizo los grandes mosaicos del comedor, con el taller de Leopold Forstner,[2][3] y la casa encarnaba los principios de los Wiener Werkstätte como Gesamtkunstwerk.[2] Está en la avenida de Tervueren.[3] La UNESCO la inscribió en 2009 como uno de los edificios más logrados y homogéneos de la Secesión vienesa, que anticipó el Art Déco y el modernismo.[1]"
+  },
+  "refs": [
+   {
+    "label": "UNESCO World Heritage Centre, «Stoclet House»",
+    "url": "https://whc.unesco.org/en/list/1298/",
+    "checks": "Inscripción en 2009; obra de Josef Hoffmann por encargo del banquero Adolphe Stoclet; construida 1905–1911; mármol y bronce; Klimt y Moser; Wiener Werkstätte; Gesamtkunstwerk que integra arquitectura, decoración, muebles y jardín; anticipa el Art Déco; «una de las obras más logradas y homogéneas de la Secesión vienesa». ⚠ leído mediante resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "UNESCO World Heritage Centre, documento de evaluación de Stoclet House",
+    "url": "https://whc.unesco.org/document/152282",
+    "checks": "Construida 1905–1911 por Hoffmann; fachadas de mármol blanco con marcos de bronce; grandes mosaicos del comedor de Klimt; Wiener Werkstätte y Gesamtkunstwerk. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Vielfalt der Moderne, «Brussels: Palais Stoclet»",
+    "url": "https://vielfaltdermoderne.de/en/palais-stoclet-2/",
+    "checks": "Avenida de Tervueren 275–282; mosaico de Klimt en colaboración con el taller de Leopold Forstner; Patrimonio Mundial en 2009; residencia privada no abierta al público; mármol exterior noruego Turilim. ⚠ fuente secundaria (portal de patrimonio moderno).",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité la torre con figuras esculpidas y los «volúmenes escalonados»: ninguna fuente consultada los confirma.",
+   "Quité «cumbre del giro de la Secesión hacia la forma geométrica»; lo sustituí por lo que dice la UNESCO (una de las obras más logradas de la Secesión; anticipa el Art Déco).",
+   "«Financista» pasó a «banquero» (UNESCO).",
+   "Campo `materials`: dice «mármol de Thasos»; la UNESCO solo dice mármol blanco y un portal patrimonial dice mármol noruego Turilim (exterior): posible error de la ficha, no tocado.",
+   "El estado «sigue siendo una residencia privada» solo lo sostiene el portal Vielfalt der Moderne; campo `status` no tocado."
+  ]
+ },
+ {
+  "id": "fagus-factory",
+  "en": {
+   "key": "The shoe-last factory at Alfeld, built in 1911 by Walter Gropius and Adolf Meyer, whose main block has a three-storey glass façade with corners left free of supports.[1]",
+   "more": "UNESCO dates Gropius’s design to around 1910 and singles out its vast expanses of glass panels and functionalist aesthetics.[2] Where the two glass walls meet at the corners there are no supports at all, which was possible thanks to steel reinforcement hidden in the roof structure.[1] The complex predates and influenced the Bauhaus,[2] and the commission launched Gropius’s career.[1] It was inscribed on the World Heritage list in 2011[2] and is still used for production.[1]"
+  },
+  "es": {
+   "key": "La fábrica de hormas de calzado de Alfeld, construida en 1911 por Walter Gropius y Adolf Meyer, cuyo edificio principal tiene una fachada de vidrio de tres pisos con las esquinas libres de apoyos.[1]",
+   "more": "La UNESCO sitúa el diseño de Gropius hacia 1910 y destaca sus vastas superficies de paneles de vidrio y su estética funcionalista.[2] Donde se encuentran los dos muros de vidrio, en las esquinas, no hay ningún apoyo, algo posible gracias a un refuerzo de acero oculto en la estructura del techo.[1] El conjunto es anterior a la Bauhaus y la influyó,[2] y el encargo lanzó la carrera de Gropius.[1] Fue inscrita en la lista del Patrimonio Mundial en 2011[2] y sigue usándose para producir.[1]"
+  },
+  "refs": [
+   {
+    "label": "Bauhaus Kooperation, «Fagus Factory»",
+    "url": "https://bauhauskooperation.de/en/reisen/orte/ortsdetailseite/ort-14",
+    "checks": "Alfeld; construida en 1911 por Gropius y Adolf Meyer; fachada de vidrio de tres pisos; esquinas sin apoyos, con refuerzo de acero oculto en el techo; fábrica de hormas de calzado; único sitio Patrimonio Mundial aún en producción; lanzó la carrera de Gropius. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "UNESCO World Heritage Centre, «Fagus Factory in Alfeld»",
+    "url": "https://whc.unesco.org/en/list/1368/",
+    "checks": "Diseño de Gropius desde cerca de 1910; grandes superficies de paneles de vidrio y estética funcionalista; anterior e influyente para la Bauhaus; inscrita en 2011. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «pilares de ladrillo», «vidrio colgado delante de la estructura» y el nombre de Carl Benscheidt: ninguna fuente consultada lo confirma (el campo `client` queda sin verificar).",
+   "«Gropius con Adolf Meyer desde 1911» pasó a «construida en 1911»; la UNESCO fecha el diseño hacia 1910 (posible discrepancia con `year` 1911).",
+   "«Precursor de la Bauhaus» se atribuye a la UNESCO (anterior e influyente).",
+   "Campo `materials`/`tech` (ladrillo, estructura de acero): no verificado en las fuentes."
+  ]
+ },
+ {
+  "id": "looshaus",
+  "en": {
+   "key": "Adolf Loos’s building of 1909–11 on Michaelerplatz in Vienna, whose bare plastered upper floors above a marble base caused a scandal.[1][2]",
+   "more": "Loos built it for the menswear firm Goldman & Salatsch,[1] in a reinforced-concrete skeleton.[2] The base is clad in Cipollino marble from Euboea with four columns,[1][2] while the four upper storeys are smooth lime plaster painted grey, with red window frames.[2] The plain facade shocked the public and authorities, and Franz Joseph I is quoted calling it the ‘house without eyebrows’;[1] work was halted in September 1910 when the authorities demanded decorative bands.[2] Loos proposed copper flower boxes as a compromise, accepted by May 1912,[1][2] and defended the building in a lecture in December 1911.[2] Raiffeisenbank Wien acquired it in 1987 and restored it.[1]"
+  },
+  "es": {
+   "key": "El edificio de Adolf Loos de 1909–11 en la Michaelerplatz de Viena, cuyos pisos superiores de enlucido liso sobre un zócalo de mármol causaron escándalo.[1][2]",
+   "more": "Loos lo construyó para la casa de moda masculina Goldman & Salatsch,[1] con un esqueleto de hormigón armado.[2] La base va revestida de mármol cipollino de Eubea, con cuatro columnas,[1][2] y los cuatro pisos superiores son de enlucido de cal liso pintado gris, con marcos de ventana rojos.[2] La fachada lisa conmocionó al público y a las autoridades, y se cita a Francisco José I llamándola la «casa sin cejas»;[1] la obra se detuvo en septiembre de 1910 cuando las autoridades exigieron bandas decorativas.[2] Loos propuso jardineras de cobre como compromiso, aceptado hacia mayo de 1912,[1][2] y defendió el edificio en una conferencia en diciembre de 1911.[2] El Raiffeisenbank Wien lo adquirió en 1987 y lo restauró.[1]"
+  },
+  "refs": [
+   {
+    "label": "Wien Geschichte Wiki, «Looshaus»",
+    "url": "https://www.geschichtewiki.wien.gv.at/Looshaus",
+    "checks": "Construido 1909–1911 para Goldman & Salatsch en Michaelerplatz 3; mármol cipollino de Eubea y cuatro columnas; fachada superior austera; Francisco José I habló de «casa sin cejas»; obra detenida temporalmente; jardineras de cobre; Raiffeisenbank Wien lo adquirió en 1987 y lo restauró. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Vielfalt der Moderne, «Vienna: Looshaus»",
+    "url": "https://vielfaltdermoderne.de/en/looshaus-2/",
+    "checks": "1909–1911; esqueleto de hormigón armado; mármol cipollino y cuatro columnas; cuatro pisos de enlucido de cal gris con marcos rojos; obra detenida en septiembre de 1910; jardineras de cobre aceptadas en mayo de 1912; conferencia de diciembre de 1911; la firma es «menswear outfitter». ⚠ fuente secundaria (portal de patrimonio moderno); resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «frente a la Hofburg»: ninguna fuente consultada lo dice (queda sin verificar).",
+   "Quité «tiendas y oficinas abajo, viviendas arriba» y la relación con «Ornamento y delito» de 1908: no confirmados (la conferencia de diciembre de 1911 sí).",
+   "«Sastres» pasó a «casa de moda masculina» (menswear outfitter).",
+   "El nombre del cliente aparece como «Goldman & Salatsch» en el Wiki de Viena y «Goldmann» en la otra fuente; se mantuvo la grafía de la ficha.",
+   "«Hoy es un banco»: las fuentes dicen que Raiffeisenbank lo adquirió en 1987; campo `status` no tocado."
+  ]
+ },
+ {
+  "id": "zang-tumb-tuuum-1914",
+  "en": {
+   "key": "Marinetti’s 1914 book of ‘words in freedom’, drawn from his experience as a war correspondent at the siege of Adrianople, with bold text at varying angles, sizes and alignments.[1][2]",
+   "more": "MoMA describes it as Marinetti’s first published collection of parole in libertà, a poetry both verbal and visual, created in 1912 and published in 1914.[1] It documents his own experience covering the siege of Adrianople in the Balkan War.[1] It was published in Milan by Edizioni Futuriste di Poesia, with typography by Cesare Cavanna.[1] Its title evokes the sounds of mechanised war, such as shelling and explosions.[1] In the National Gallery of Art copy, text in different sizes and orientations conveys movement, and onomatopoeia gives a sense of sound and energy.[2]"
+  },
+  "es": {
+   "key": "El libro de «palabras en libertad» de Marinetti de 1914, nacido de su experiencia como corresponsal de guerra en el sitio de Adrianópolis, con texto en negrita de ángulos, tamaños y alineaciones variados.[1][2]",
+   "more": "El MoMA lo describe como la primera colección publicada de parole in libertà de Marinetti, una poesía a la vez verbal y visual, creada en 1912 y publicada en 1914.[1] Documenta su experiencia directa cubriendo el sitio de Adrianópolis en la guerra de los Balcanes.[1] Fue publicado en Milán por Edizioni Futuriste di Poesia, con tipografía de Cesare Cavanna.[1] Su título evoca los sonidos de la guerra mecanizada, como los cañonazos y las explosiones.[1] En el ejemplar de la National Gallery of Art, el texto de tamaños y orientaciones distintos transmite movimiento, y la onomatopeya da sensación de sonido y energía.[2]"
+  },
+  "refs": [
+   {
+    "label": "MoMA, «Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà»",
+    "url": "https://www.moma.org/collection/works/31450",
+    "checks": "Marinetti; Edizioni Futuriste di «Poesia», Milán; 1914; libro tipográfico con tipografía de Cesare Cavanna; primera colección publicada de parole in libertà; creada en 1912, publicada en 1914; corresponsal de guerra en el sitio de Adrianópolis en la guerra de los Balcanes; título evoca los sonidos de la guerra mecanizada. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "National Gallery of Art, «Zang Tumb Tuuum: Adrianopoli Ottobre 1912»",
+    "url": "https://www.nga.gov/artworks/143903-zang-tumb-tuuum-adrianopoli-ottobre-1912-parole-liberta",
+    "checks": "Volumen de 1914 de Edizioni Futuriste di «Poesia»; texto en negrita con ángulos, tamaños y alineaciones variados; onomatopeya que transmite movimiento y energía; sitio de 1912 de Adrianópolis y Marinetti corresponsal. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «rompe la sintaxis y la caja regular», «signos matemáticos» y «emblema de la tipografía futurista»: ninguna fuente consultada lo dice.",
+   "«Guerra de los Balcanes de 1912–13» pasó a «guerra de los Balcanes» y el sitio a 1912: las fuentes dan solo el año 1912 (octubre) para el sitio.",
+   "El campo `materials` («Tipografía sobre papel») es coherente con «libro con tipografía» (MoMA); la grafía de las fuentes es «Zang Tumb Tumb» y la ficha usa «Tuuum» (el NGA sí usa Tuuum)."
+  ]
+ },
+ {
+  "id": "tatlin-tower-1920",
+  "en": {
+   "key": "Vladimir Tatlin’s project for a leaning iron spiral tower, designed in 1919–20 as a monument to the Third International and meant to be the world’s tallest structure; it was never built.[1][2]",
+   "more": "Tatlin designed it in 1919–20 in Petrograd.[1] The proposed tower, some 400 metres high, had two latticed spirals containing four rotating geometric volumes.[1] Britannica describes a leaning iron framework supporting a glass cylinder, cone and cube that could turn at different speeds.[2] Tatlin showed a five-metre model on 8 November 1920,[1] and a model about 6.7 metres high was shown at the exhibition of the VIII Congress of the Soviets in December 1920.[2] The original models are lost; reconstructions were made in Stockholm in 1968, Paris in 1979 and Moscow in 1993–94.[1] Britannica says it was never built because the Soviet government disapproved of nonfigurative art, and calls it one of the first buildings conceived entirely in abstract terms.[2]"
+  },
+  "es": {
+   "key": "El proyecto de Vladimir Tatlin de una torre de espiral de hierro inclinada, diseñada en 1919–20 como monumento a la III Internacional y destinada a ser la estructura más alta del mundo; nunca se construyó.[1][2]",
+   "more": "Tatlin la diseñó en 1919–20 en Petrogrado.[1] La torre propuesta, de unos 400 metros de altura, tenía dos espirales de celosía que contenían cuatro volúmenes geométricos giratorios.[1] La Britannica describe una estructura de hierro inclinada que sostenía un cilindro, un cono y un cubo de vidrio que podían girar a distintas velocidades.[2] Tatlin exhibió una maqueta de cinco metros el 8 de noviembre de 1920,[1] y una maqueta de unos 6,7 metros de alto se mostró en la exposición del VIII Congreso de los Soviets en diciembre de 1920.[2] Las maquetas originales se perdieron; se hicieron reconstrucciones en Estocolmo en 1968, París en 1979 y Moscú en 1993–94.[1] La Britannica dice que no se construyó porque el gobierno soviético desaprobaba el arte no figurativo, y la llama uno de los primeros edificios concebidos enteramente en términos abstractos.[2]"
+  },
+  "refs": [
+   {
+    "label": "Tate Papers, «The Model of Vladimir Tatlin’s Monument to the Third International»",
+    "url": "https://www.tate.org.uk/research/tate-papers/08/model-of-vladimir-tatlins-monument-to-the-third-international-reconstruction-as-instrument-of-research-and-states-of-knowledge",
+    "checks": "Diseño en 1919–20 en Petrogrado; maqueta de cinco metros exhibida el 8 de noviembre de 1920; torre de 400 m con dos espirales y cuatro volúmenes giratorios; originales perdidos; reconstrucciones de Estocolmo 1968, París 1979 y Moscú 1993–94. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Vladimir Tatlin»",
+    "url": "https://www.britannica.com/biography/Vladimir-Yevgrafovich-Tatlin",
+    "checks": "Encargado en 1919; maqueta de 6,7 m en el VIII Congreso de los Soviets, diciembre de 1920; más de 396 m, la estructura más alta del mundo; armazón de hierro con cilindro, cono y cubo de vidrio que giraban a distintas velocidades; nunca construido por la desaprobación soviética del arte no figurativo; constructivismo. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «superar la altura de la torre Eiffel»: ninguna fuente consultada la compara con la torre Eiffel (sí dicen más de 396 m y «la más alta del mundo»).",
+   "Quité «sede / edificio de oficinas de la Internacional Comunista» y la exhibición «en Petrogrado»: las fuentes dicen monumento, y la ficha de Tate fecha la maqueta en noviembre de 1920 sin que el resumen precise el lugar; la Britannica sitúa otra muestra en Moscú en diciembre de 1920.",
+   "Quité «solo se hicieron maquetas» y «símbolo de unión entre arte, ingeniería y revolución»: no confirmados; los dos textos discrepan en los volúmenes (cubo, pirámide, hemisferio, cilindro según Tate; cilindro, cono, cubo según Britannica).",
+   "Campos `client` («gobierno soviético») y `materials` («maqueta de madera y metal»): no confirmados por las fuentes; no tocados. La Britannica dice «encargado en 1919» sin decir por quién."
+  ]
+ },
+ {
+  "id": "bauhaus-exhibition-poster-1923",
+  "en": {
+   "key": "Joost Schmidt’s poster for the Bauhaus exhibition in Weimar in 1923, a lithograph that reflects the school’s new typography.[1][2]",
+   "more": "MoMA’s copy is a lithograph of 66.7 by 47.3 cm printed by von Reineck & Klein, Weimar, a gift of Walter Gropius.[1] The exhibition ran from July to September 1923 and was the first public Bauhaus exhibition, at which Gropius gave the lecture ‘Art and Technology: A New Unity’.[3] It was both a showcase of the school’s teaching and achievements and a report to the local government that funded the school.[2] Schmidt (1893–1948), a sculpture student who later became a Bauhaus teacher and head of the printing and advertising workshop, shows in it the influence of his teacher Oskar Schlemmer.[2]"
+  },
+  "es": {
+   "key": "El cartel de Joost Schmidt para la exposición de la Bauhaus en Weimar en 1923, una litografía que refleja la nueva tipografía de la escuela.[1][2]",
+   "more": "El ejemplar del MoMA es una litografía de 66,7 por 47,3 cm impresa por von Reineck & Klein, Weimar, donación de Walter Gropius.[1] La exposición se realizó de julio a septiembre de 1923 y fue la primera exposición pública de la Bauhaus, en la que Gropius dio la conferencia «Arte y técnica: una nueva unidad».[3] Fue a la vez una vitrina de la enseñanza y los logros de la escuela y un informe al gobierno local que la financiaba.[2] Schmidt (1893–1948), estudiante de escultura que luego fue profesor de la Bauhaus y jefe del taller de impresión y publicidad, muestra en él la influencia de su maestro Oskar Schlemmer.[2]"
+  },
+  "refs": [
+   {
+    "label": "MoMA, «Joost Schmidt. Staatliches Bauhaus Ausstellung. 1923»",
+    "url": "https://www.moma.org/collection/works/6235",
+    "checks": "Litografía de Joost Schmidt, 1923; 66,7 × 47,3 cm; impresor von Reineck & Klein, Weimar; donación de Walter Gropius; anuncia la exposición Bauhaus de 1923. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "German History in Documents and Images, «Poster for Bauhaus Exhibition in Weimar (1923)»",
+    "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/poster-for-bauhaus-exhibition-in-weimar-1923",
+    "checks": "Joost Schmidt (1893–1948), estudiante de escultura, luego profesor y jefe del taller de impresión y publicidad; refleja la nueva tipografía de la Bauhaus; influencia de Schlemmer; exposición de julio a septiembre de 1923 que fue vitrina y a la vez informe al gobierno local que financiaba la escuela. ⚠ no describe formas ni colores del cartel; resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MoMA Magazine, «Having a Wonderful Time at the Bauhaus Exhibition in Weimar, 1923»",
+    "url": "https://www.moma.org/explore/inside_out/2015/06/25/having-a-wonderful-time-at-the-bauhaus-exhibition-in-weimar-1923-3/",
+    "checks": "Exposición de julio a septiembre de 1923 en Weimar, la primera exposición pública de la Bauhaus; conferencia de Gropius «Arte y técnica: una nueva unidad». ⚠ resumen automático; no habla del cartel.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {
+   "materials": "Lithograph on paper"
+  },
+  "issues": [
+   "Corregí la técnica: MoMA registra una litografía, no una impresión tipográfica (letterpress). Se propone `other.materials`; hay que actualizar también `es.materials` («Litografía sobre papel»).",
+   "Quité «formas geométricas simples y gruesas letras de bloque en pocos colores»: ninguna fuente describe el diseño del cartel.",
+   "Quité «lema» y «estado de Turingia»: las fuentes dan la conferencia «Arte y técnica: una nueva unidad» y un «gobierno local»; no nombran a Turingia.",
+   "Quité «identidad gráfica reconocible»: interpretación sin fuente."
+  ]
+ },
+ {
+  "id": "merz-magazine-1923",
+  "en": {
+   "key": "Kurt Schwitters’s magazine from Hanover, published from 1923 to 1932, with numbering up to 24, though three numbers never appeared, and aligned at first with Dada.[1][3]",
+   "more": "The first issue centred on ‘Holland Dada’ with contributions from Hans Arp, Theo van Doesburg and Francis Picabia.[1] MoMA calls the magazine the decisive site of Schwitters’s collaborations with the international avant-garde and a kind of manifesto for his movement.[3] Merz 8/9 of April–July 1924, titled Nasci, was co-edited by Schwitters and El Lissitzky and shows typographic innovation influenced by Constructivism and De Stijl.[1] Later issues included children’s books and a phonetic sonata.[1] Merz 3 of 1923 was a portfolio of lithographs and collage prints published by Schwitters’s own press, Merzverlag, in Hanover;[2] MoMA counts twenty-two issues in all.[2]"
+  },
+  "es": {
+   "key": "La revista de Kurt Schwitters desde Hannover, publicada de 1923 a 1932, con numeración hasta el 24, aunque tres números nunca salieron, y alineada al comienzo con el dadá.[1][3]",
+   "more": "El primer número se centró en «Holland Dada», con contribuciones de Hans Arp, Theo van Doesburg y Francis Picabia.[1] El MoMA la llama el lugar decisivo de las colaboraciones de Schwitters con la vanguardia internacional y una especie de manifiesto de su movimiento.[3] Merz 8/9, de abril a julio de 1924, titulado Nasci, fue coeditado por Schwitters y El Lissitzky y muestra innovación tipográfica influida por el constructivismo y De Stijl.[1] Números posteriores incluyeron libros infantiles y una sonata fonética.[1] Merz 3, de 1923, fue una carpeta de litografías y estampas con collage publicada por la propia editorial de Schwitters, Merzverlag, en Hannover;[2] el MoMA cuenta veintidós números en total.[2]"
+  },
+  "refs": [
+   {
+    "label": "Victoria and Albert Museum, «Merz» (periódico de Kurt Schwitters)",
+    "url": "https://collections.vam.ac.uk/item/O1543844/merz-periodical-kurt-schwitters/",
+    "checks": "Hannover, 1923–1932; 24 números numerados, pero los 10, 22 y 23 anunciados y no producidos; primer número «Holland Dada» con Arp, van Doesburg y Picabia; Merz 8/9 «Nasci» (abril–julio de 1924) coeditado con El Lissitzky, con influencia constructivista y de De Stijl; libros infantiles y sonata fonética. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MoMA, «Kurt Schwitters. Plate 2 from Merz 3. 1923»",
+    "url": "https://www.moma.org/collection/works/91117",
+    "checks": "Merz 3 (1923): carpeta de litografías y estampas tipográficas con collage, publicada por Merzverlag en Hannover; entre 1923 y 1932 Schwitters publicó veintidós números esporádicos (cifra distinta a la del V&A). ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MoMA, «The Electro-Library: European Avant-Garde Magazines from the 1920s»",
+    "url": "https://www.moma.org/slideshows/43/799",
+    "checks": "Merz publicada en Hannover desde 1923; «lugar decisivo» de sus colaboraciones con la vanguardia internacional y «una especie de manifiesto» de su movimiento; primeros números de estética dadá. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «mezcló el collage dadá con la nueva tipografía» y «caso claro de un artista que difunde nuevas ideas sobre la página» como afirmaciones generales; lo reemplacé por lo que dicen las fuentes.",
+   "Cifra de números: V&A habla de 24 numerados con tres no producidos y MoMA de 22; quedó reflejada la discrepancia en lugar de afirmar «24 números».",
+   "«Poemas y collages» de los números: no confirmado para toda la revista; solo se cita lo que dicen las fuentes (Merz 3 con collages).",
+   "El Lissitzky coeditó Merz 8/9 «Nasci» en abril–julio de 1924 (V&A); se mantuvo «1924» para el año."
+  ]
+ },
+ {
+  "id": "plan-voisin-1925",
+  "en": {
+   "key": "Le Corbusier’s 1925 proposal to rebuild central Paris, erasing medieval and nineteenth-century districts for a vertical city of glass office towers; it was never built.[1][2]",
+   "more": "It was presented in the Pavillon de l’Esprit Nouveau at the 1925 exhibition[1] and was named after the Voisin aircraft and automobile makers, who backed it.[1] The pavilion’s aims included applying its principles to a plan for the centre of Paris, the ‘Plan Voisin’, by Le Corbusier and Pierre Jeanneret.[3] Le Corbusier argued for densification, with buildings of up to 60 storeys instead of the usual six, and for an airport at the centre of the city.[1] MoMA calls it a polemical proposal that made him a public figure, and says it influenced urban development worldwide.[2] It was never carried out.[1][2]"
+  },
+  "es": {
+   "key": "La propuesta de Le Corbusier de 1925 de reconstruir el centro de París, borrando los barrios medievales y del siglo XIX para levantar una ciudad vertical de torres de oficinas de vidrio; nunca se construyó.[1][2]",
+   "more": "Se presentó en el Pavillon de l’Esprit Nouveau en la exposición de 1925[1] y debe su nombre a los fabricantes de aviones y automóviles Voisin, que la respaldaron.[1] Entre los objetivos del pabellón estaba aplicar sus principios a un plan para el centro de París, el «Plan Voisin», de Le Corbusier y Pierre Jeanneret.[3] Le Corbusier defendía la densificación, con edificios de hasta 60 pisos en vez de los habituales seis, y un aeropuerto en el centro de la ciudad.[1] El MoMA lo llama una propuesta polémica que lo convirtió en figura pública, y dice que influyó en el desarrollo urbano en todo el mundo.[2] Nunca se ejecutó.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Fondation Le Corbusier, «Plan Voisin, France, 1925»",
+    "url": "https://www.fondationlecorbusier.fr/en/work-architecture/projects-plan-voisin-france-1925/",
+    "checks": "Proyecto no realizado de 1925 para el centro de París; nombrado por los fabricantes Voisin de aviones y automóviles, que lo respaldaron; presentado en el Pabellón del Espíritu Nuevo de 1925; edificios de hasta 60 pisos en vez de 6; aeropuerto en el centro. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "MoMA, «Le Corbusier. Plan Voisin for Paris. 1925»",
+    "url": "https://www.moma.org/audio/playlist/269/3495",
+    "checks": "Transformación completa del centro de París: edificios medievales y del siglo XIX borrados y reemplazados por una «ciudad vertical de rascacielos de oficinas de vidrio»; propuesta polémica; lo volvió figura pública; nunca construido; influyó en el desarrollo urbano. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   },
+   {
+    "label": "Musée des Arts Décoratifs, «Pavillon de l’Esprit Nouveau»",
+    "url": "https://madparis.fr/pavillon-de-l-esprit-nouveau",
+    "checks": "Uno de los objetivos del pabellón era aplicar al centro de París el plan «Voisin»; patrocinio «G. Voisin»; plan de Le Corbusier y Pierre Jeanneret. ⚠ resumen automático.",
+    "date": "2026-10-05"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «torres cruciformes», «parques», «autopistas», «al norte del Sena» y «Rive Droite» en la frase de las torres: las fuentes sólidas consultadas no los dicen (solo un sitio de divulgación, no aceptado como fuente); quedan sin verificar.",
+   "Quité «Gabriel» Voisin y «gran maqueta»: las fuentes dicen solo «Voisin»; la maqueta no se confirma (el campo `status` y `materials` hablan de maqueta, no tocados).",
+   "«Torres idénticas» quitado; «formuló las ideas de la ciudad moderna que luego retomó la renovación urbana» pasó a la atribución al MoMA de influencia en el desarrollo urbano."
+  ]
+ }
+]

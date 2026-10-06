@@ -1,0 +1,487 @@
+[
+ {
+  "rtype": "work",
+  "id": "citta-nuova-1914",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "project",
+  "title": "La Città Nuova",
+  "designers": [
+   "antonio-sant-elia"
+  ],
+  "maker": null,
+  "year": 1914,
+  "date": "1914",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "IT"
+  ],
+  "materials": "Ink and pencil drawings on paper",
+  "tech": [],
+  "movements": [
+   "futurism-typography"
+  ],
+  "key": "Antonio Sant’Elia’s drawings of a futurist city of tiered skyscrapers, external lifts and traffic on several levels, shown in Milan in 1914.",
+  "more": "Sant’Elia showed the drawings in Milan in 1914 with the group Nuove Tendenze, and they were never built. They imagine the city as a vast machine, with stepped blocks, lifts on the façades, power stations and transport at different heights, and no ornament. Sant’Elia died in the war in 1916, but the images became a reference for later ideas of the modern city.",
+  "status": "Never built; the drawings survive.",
+  "es": {
+   "title": "La Città Nuova",
+   "date": "1914",
+   "materials": "Dibujos a tinta y lápiz sobre papel",
+   "key": "Los dibujos de Antonio Sant’Elia de una ciudad futurista de rascacielos escalonados, ascensores exteriores y tráfico en varios niveles, expuestos en Milán en 1914.",
+   "more": "Sant’Elia mostró los dibujos en Milán en 1914 con el grupo Nuove Tendenze, y nunca se construyeron. Imaginan la ciudad como una enorme máquina, con bloques escalonados, ascensores en las fachadas, centrales eléctricas y transporte a distintas alturas, sin ornamento. Sant’Elia murió en la guerra en 1916, pero las imágenes quedaron como referencia para ideas posteriores de la ciudad moderna.",
+   "status": "Nunca se construyó; se conservan los dibujos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-electricity",
+  "item": "citta-nuova-1914",
+  "note": "Electric power stations and lifts made tall, dense and tiered buildings workable, so Sant’Elia drew the city as a vertical machine served by power and lifts.",
+  "es": {
+   "note": "Las centrales eléctricas y los ascensores hacían viables los edificios altos, densos y escalonados; por eso Sant’Elia dibujó la ciudad como una máquina vertical servida por energía y ascensores."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "dom-ino-1914",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "project",
+  "title": "Dom-ino House (project)",
+  "designers": [
+   "le-corbusier"
+  ],
+  "maker": null,
+  "year": 1914,
+  "date": "1914–1915",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FR",
+   "CH"
+  ],
+  "materials": "Reinforced concrete",
+  "tech": [
+   "reinforced-concrete"
+  ],
+  "key": "Le Corbusier’s diagram of a house reduced to concrete slabs on columns with a stair, leaving plan and façade free of load-bearing walls.",
+  "more": "Le Corbusier drew it in 1914–15 with the engineer Max Du Bois as a standard frame for rebuilding the war-damaged towns of Flanders. It is a skeleton of floor slabs carried by columns, joined by a stair, into which walls and windows could be fitted in any arrangement. It was a project, not a built house, but it became the basis of his later ‘five points’ of architecture.",
+  "status": "Never built as designed; the diagram is widely reproduced.",
+  "es": {
+   "title": "Casa Dom-ino (proyecto)",
+   "date": "1914–1915",
+   "materials": "Hormigón armado",
+   "key": "El esquema de Le Corbusier de una casa reducida a losas de hormigón sobre pilares con una escalera, que deja planta y fachada libres de muros portantes.",
+   "more": "Le Corbusier lo dibujó en 1914–15 con el ingeniero Max Du Bois como estructura estándar para reconstruir las ciudades de Flandes dañadas por la guerra. Es un esqueleto de losas sostenidas por pilares, unidas por una escalera, en el que muros y ventanas podían disponerse de cualquier manera. Fue un proyecto y no una casa construida, pero pasó a ser la base de sus posteriores «cinco puntos» de la arquitectura.",
+   "status": "No se construyó tal como se diseñó; el esquema se reproduce ampliamente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-first-world-war",
+  "item": "dom-ino-1914",
+  "note": "The destruction in Flanders called for fast rebuilding, so Le Corbusier and Du Bois proposed a standard concrete frame that could be repeated and filled in freely.",
+  "es": {
+   "note": "La destrucción en Flandes exigía reconstruir rápido, y Le Corbusier y Du Bois propusieron una estructura estándar de hormigón, repetible y que se podía rellenar con libertad."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "lovell-health-house-1929",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "house",
+  "title": "Lovell Health House",
+  "designers": [
+   "richard-neutra"
+  ],
+  "maker": null,
+  "year": 1929,
+  "date": "1927–1929",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Steel frame, concrete, glass and stucco",
+  "tech": [],
+  "movements": [
+   "international-style"
+  ],
+  "key": "Richard Neutra’s house in Los Angeles for the health-minded Philip Lovell, often called the first steel-framed house of the International Style in the United States.",
+  "more": "Philip Lovell, who promoted natural health and exercise, commissioned a house on a hillside in Los Angeles, and Neutra finished it in 1929. It has a light steel frame with large glazed areas, terraces and a pool, designed for sun, air and an active life. It was included in the 1932 International Style exhibition at the Museum of Modern Art.",
+  "status": "Still standing in Los Angeles.",
+  "es": {
+   "title": "Casa Lovell (Health House)",
+   "date": "1927–1929",
+   "materials": "Estructura de acero, hormigón, vidrio y estuco",
+   "key": "La casa de Richard Neutra en Los Ángeles para Philip Lovell, un cliente preocupado por la salud, a menudo considerada la primera casa de estructura de acero del estilo internacional en Estados Unidos.",
+   "more": "Philip Lovell, que promovía la vida natural y el ejercicio, encargó una casa en una ladera de Los Ángeles, y Neutra la terminó en 1929. Tiene una estructura liviana de acero con grandes paños de vidrio, terrazas y una piscina, pensada para el sol, el aire y una vida activa. Se incluyó en la exposición del estilo internacional de 1932 en el Museo de Arte Moderno.",
+   "status": "Sigue en pie en Los Ángeles."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-hygienism",
+  "item": "lovell-health-house-1929",
+  "note": "A client who preached healthy living asked for a house for it, and Neutra answered with a light steel frame, large glazing, terraces and a pool for sun, air and exercise.",
+  "es": {
+   "note": "Un cliente que predicaba la vida sana pidió una casa para ella, y Neutra respondió con una estructura liviana de acero, grandes vidrios, terrazas y una piscina para el sol, el aire y el ejercicio."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "paimio-sanatorium-1933",
+  "level": "normal",
+  "discipline": "architecture",
+  "type": "building",
+  "title": "Paimio Sanatorium",
+  "designers": [
+   "aalto-alvar-aino"
+  ],
+  "maker": null,
+  "year": 1933,
+  "date": "1929–1933",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "FI"
+  ],
+  "materials": "Reinforced concrete, glass",
+  "tech": [],
+  "key": "Alvar Aalto’s tuberculosis sanatorium in Finland, designed down to the furniture, with patient rooms, terraces and wards planned around sun, air and rest.",
+  "more": "Aalto won the competition in 1929 and the sanatorium opened in 1933. Rooms, balconies and rest terraces were arranged to give patients sun and air, the standard treatment of the time. Aalto also designed the furniture, lamps and fittings for it, among them the Paimio chair, so that the building and its objects were thought of as one design for the patient.",
+  "status": "Still standing and open to visits.",
+  "es": {
+   "title": "Sanatorio de Paimio",
+   "date": "1929–1933",
+   "materials": "Hormigón armado, vidrio",
+   "key": "El sanatorio para tuberculosos de Alvar Aalto en Finlandia, diseñado hasta el mobiliario, con habitaciones, terrazas y salas pensadas en torno al sol, el aire y el reposo.",
+   "more": "Aalto ganó el concurso en 1929 y el sanatorio abrió en 1933. Habitaciones, balcones y terrazas de reposo se dispusieron para dar sol y aire a los pacientes, el tratamiento habitual de la época. Aalto diseñó también para él el mobiliario, las lámparas y los accesorios, entre ellos la silla Paimio, de modo que el edificio y sus objetos se pensaron como un solo diseño para el paciente.",
+   "status": "Sigue en pie y se puede visitar."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-hygienism",
+  "item": "paimio-sanatorium-1933",
+  "note": "Tuberculosis was treated with sun, air and rest, so Aalto oriented the wards, gave them terraces and designed the furniture and fittings around the patient’s needs.",
+  "es": {
+   "note": "La tuberculosis se trataba con sol, aire y reposo, así que Aalto orientó las salas, les dio terrazas y diseñó el mobiliario y los accesorios en torno a las necesidades del paciente."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "connection",
+  "from": "paimio-sanatorium-1933",
+  "to": "paimio-chair",
+  "note": "Aalto designed the Paimio chair for the sanatorium’s patients, so that the furniture belonged to the building’s design.",
+  "es": {
+   "note": "Aalto diseñó la silla Paimio para los pacientes del sanatorio, de modo que el mobiliario formara parte del diseño del edificio."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "dlia-golosa-1923",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "book",
+  "title": "For the Voice (Dlia golosa)",
+  "designers": [
+   "el-lissitzky"
+  ],
+  "maker": "State Publishing House, Berlin",
+  "year": 1923,
+  "date": "1923",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU",
+   "DE"
+  ],
+  "materials": "Letterpress printing from typographic type and rules",
+  "tech": [],
+  "movements": [
+   "constructivism"
+  ],
+  "key": "El Lissitzky’s typographic design for a book of Vladimir Mayakovsky’s poems, built from type and rules and made to be read aloud.",
+  "more": "Lissitzky designed it in Berlin in 1923 for the Russian state publisher, and it was printed there. He composed the pages from letters, rules and other ordinary pieces of the printer’s case, so that type became image. A thumb index of tabs lets the reader find each poem quickly, since the poems were meant to be read aloud.",
+  "status": "Copies survive in libraries and museums; it has been reprinted in facsimile.",
+  "es": {
+   "title": "Para la voz (Dlia golosa)",
+   "date": "1923",
+   "materials": "Impresión tipográfica con tipos y filetes",
+   "key": "El diseño tipográfico de El Lissitzky para un libro de poemas de Vladimir Maiakovski, construido con tipos y filetes y pensado para leerse en voz alta.",
+   "more": "Lissitzky lo diseñó en Berlín en 1923 para la editorial estatal rusa, y se imprimió allí. Compuso las páginas con letras, filetes y otras piezas corrientes de la caja tipográfica, de modo que la tipografía se volvió imagen. Un índice de pestañas permite encontrar rápido cada poema, porque los poemas estaban pensados para leerse en voz alta.",
+   "status": "Se conservan ejemplares en bibliotecas y museos; se ha reeditado en facsímil."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-avant-gardes",
+  "item": "dlia-golosa-1923",
+  "note": "As the avant-garde broke up the page, Lissitzky built the poems’ layout from the printer’s own letters and rules, which became the picture.",
+  "es": {
+   "note": "Cuando la vanguardia rompió la página, Lissitzky construyó la diagramación de los poemas con las letras y filetes de la propia imprenta, que pasaron a ser la imagen."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-russian-revolution",
+  "item": "dlia-golosa-1923",
+  "note": "Revolutionary poetry was meant to be declaimed, so Lissitzky added a thumb index of tabs to find each poem quickly when reading aloud.",
+  "es": {
+   "note": "La poesía revolucionaria estaba hecha para declamarse, así que Lissitzky agregó un índice de pestañas para encontrar rápido cada poema al leer en voz alta."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "merz-magazine-1923",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "magazine",
+  "title": "Merz",
+  "designers": [
+   "kurt-schwitters"
+  ],
+  "maker": null,
+  "year": 1923,
+  "date": "1923–1932",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "materials": "Letterpress printing on paper",
+  "tech": [],
+  "movements": [
+   "dada"
+  ],
+  "key": "Kurt Schwitters’s magazine from Hanover, which mixed Dada collage and new typography and ran for 24 issues.",
+  "more": "Schwitters published Merz from Hanover as the voice of his own Merz art, and issues carried his collages, poems and typographic experiments. An issue of 1924, Nasci, was edited together with El Lissitzky. The magazine is a clear case of an avant-garde artist using his own publication to spread new ideas about the page.",
+  "status": "Issues are held in libraries and museums.",
+  "es": {
+   "title": "Merz",
+   "date": "1923–1932",
+   "materials": "Impresión tipográfica sobre papel",
+   "key": "La revista de Kurt Schwitters desde Hannover, que mezcló el collage dadá con la nueva tipografía y tuvo 24 números.",
+   "more": "Schwitters publicó Merz desde Hannover como la voz de su propio arte Merz, y los números incluían sus collages, poemas y experimentos tipográficos. Un número de 1924, Nasci, se editó junto con El Lissitzky. La revista es un caso claro de un artista de vanguardia que usa su propia publicación para difundir nuevas ideas sobre la página.",
+   "status": "Se conservan números en bibliotecas y museos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-avant-gardes",
+  "item": "merz-magazine-1923",
+  "note": "Avant-garde groups had no place in the mainstream press, so Schwitters ran his own magazine to circulate Merz collage and the new typography.",
+  "es": {
+   "note": "Los grupos de vanguardia no tenían lugar en la prensa corriente, así que Schwitters editó su propia revista para difundir el collage Merz y la nueva tipografía."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "matter-swiss-posters-1935",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "poster",
+  "title": "Swiss tourism posters",
+  "designers": [
+   "herbert-matter"
+  ],
+  "maker": "Swiss National Tourist Office",
+  "year": 1935,
+  "date": "1934–1936",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "CH"
+  ],
+  "materials": "Photolithograph on paper",
+  "tech": [],
+  "movements": [
+   "new-vision"
+  ],
+  "key": "Herbert Matter’s photomontage posters for Swiss tourism, which used close-up photographs and dramatic scale to sell mountains and winter sport.",
+  "more": "Matter made the series in the mid-1930s for the Swiss National Tourist Office, combining photographs with bold changes of scale and cropping. The posters replaced the painted landscape with the photographic image as the main selling tool. They link the New Vision photography of the 1920s with the Swiss graphic design that followed.",
+  "status": "Prints are held in museum collections.",
+  "es": {
+   "title": "Carteles turísticos suizos",
+   "date": "1934–1936",
+   "materials": "Fotolitografía sobre papel",
+   "key": "Los carteles de fotomontaje de Herbert Matter para el turismo suizo, que usaron fotografías en primer plano y una escala dramática para vender montañas y deportes de invierno.",
+   "more": "Matter hizo la serie a mediados de los años treinta para la Oficina Nacional Suiza de Turismo, combinando fotografías con cambios audaces de escala y encuadre. Los carteles reemplazaron el paisaje pintado por la imagen fotográfica como principal herramienta de venta. Unen la fotografía de la Nueva Visión de los años veinte con el diseño gráfico suizo que vino después.",
+   "status": "Se conservan ejemplares en colecciones de museos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-mass-leisure",
+  "item": "matter-swiss-posters-1935",
+  "note": "Tourism and winter sport were growing mass pastimes, so Matter replaced the painted view with striking photomontage to sell the Swiss mountains.",
+  "es": {
+   "note": "El turismo y los deportes de invierno eran pasatiempos de masas en crecimiento, así que Matter reemplazó la vista pintada por un fotomontaje llamativo para vender las montañas suizas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "lustig-new-directions-1941",
+  "level": "normal",
+  "discipline": "graphic",
+  "type": "cover",
+  "title": "Book jackets for New Directions",
+  "designers": [
+   "alvin-lustig"
+  ],
+  "maker": "New Directions",
+  "year": 1941,
+  "date": "c. 1941–1955",
+  "regions": [
+   "north-america"
+  ],
+  "countries": [
+   "US"
+  ],
+  "materials": "Offset lithography on paper",
+  "tech": [],
+  "movements": [
+   "new-york-school-graphic"
+  ],
+  "key": "Alvin Lustig’s abstract jackets for the modern literature published by New Directions, a model of American book design.",
+  "more": "Starting in 1941, Lustig designed jackets and books for the publisher New Directions, which printed experimental and modern writers. Instead of illustrating the story, he built each cover from abstract forms and simple type, in a way close to modern painting. The series showed American publishers that a book cover could be modern design.",
+  "status": "Original jackets are held in libraries and museums.",
+  "es": {
+   "title": "Sobrecubiertas para New Directions",
+   "date": "c. 1941–1955",
+   "materials": "Offset sobre papel",
+   "key": "Las sobrecubiertas abstractas de Alvin Lustig para la literatura moderna que publicaba New Directions, un modelo del diseño editorial estadounidense.",
+   "more": "Desde 1941, Lustig diseñó sobrecubiertas y libros para la editorial New Directions, que publicaba autores modernos y experimentales. En vez de ilustrar el relato, construyó cada portada con formas abstractas y tipografía sencilla, de un modo cercano a la pintura moderna. La serie mostró a los editores estadounidenses que una portada podía ser diseño moderno.",
+   "status": "Se conservan sobrecubiertas originales en bibliotecas y museos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "suprematist-teapot-1923",
+  "level": "normal",
+  "discipline": "product",
+  "type": "kitchenware",
+  "title": "Suprematist teapot",
+  "designers": [
+   "kazimir-malevich"
+  ],
+  "maker": "State Porcelain Factory, Petrograd",
+  "year": 1923,
+  "date": "1923",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "RU"
+  ],
+  "materials": "Porcelain",
+  "tech": [],
+  "movements": [
+   "suprematism"
+  ],
+  "key": "Kazimir Malevich’s teapot of 1923, a Suprematist design of stacked geometric forms made at the former Imperial Porcelain Factory.",
+  "more": "After the revolution the former Imperial Porcelain Factory in Petrograd became the State Porcelain Factory and took on avant-garde artists. Malevich designed the teapot there in 1923 as a Suprematist object, composed of cubes, cylinders and a long spout. It shows his geometry moving from painting to a domestic object.",
+  "status": "Examples are held in museum collections.",
+  "es": {
+   "title": "Tetera suprematista",
+   "date": "1923",
+   "materials": "Porcelana",
+   "key": "La tetera de Kazimir Malevich de 1923, un diseño suprematista de formas geométricas apiladas hecho en la antigua Fábrica Imperial de Porcelana.",
+   "more": "Después de la revolución, la antigua Fábrica Imperial de Porcelana de Petrogrado pasó a ser la Fábrica Estatal de Porcelana y acogió a artistas de vanguardia. Malevich diseñó allí la tetera en 1923 como un objeto suprematista, compuesto de cubos, cilindros y un pico largo. Muestra su geometría pasando de la pintura a un objeto doméstico.",
+   "status": "Se conservan ejemplares en colecciones de museos."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-russian-revolution",
+  "item": "suprematist-teapot-1923",
+  "note": "The revolution put the former imperial porcelain factory in state hands, and it hired avant-garde artists, so Malevich could design a Suprematist teapot there.",
+  "es": {
+   "note": "La revolución puso en manos del Estado la antigua fábrica imperial de porcelana, que contrató a artistas de vanguardia, y así Malevich pudo diseñar allí una tetera suprematista."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "work",
+  "id": "volksempfanger-1933",
+  "level": "normal",
+  "discipline": "product",
+  "type": "radio",
+  "title": "Volksempfänger VE 301",
+  "designers": [],
+  "maker": "Walter Maria Kersting (design); several German manufacturers",
+  "year": 1933,
+  "date": "1933",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "DE"
+  ],
+  "materials": "Bakelite case, electronic components",
+  "tech": [
+   "bakelite"
+  ],
+  "key": "The cheap ‘people’s receiver’ radio of 1933, designed by Walter Maria Kersting so that the Nazi regime could bring its broadcasts into every home.",
+  "more": "Shown at the Berlin radio exhibition of 1933, the VE 301 was a small, simple set in a bakelite case, made by several German firms to a common design and sold cheaply. Its name refers to 30 January 1933, the day Hitler came to power. Its simple circuit mainly received local stations, which suited a regime that wanted its own broadcasts heard in every home.",
+  "status": "Many sets survive in museums and private collections.",
+  "es": {
+   "title": "Volksempfänger VE 301 (receptor del pueblo)",
+   "date": "1933",
+   "materials": "Caja de baquelita, componentes electrónicos",
+   "key": "La radio barata «receptor del pueblo» de 1933, diseñada por Walter Maria Kersting para que el régimen nazi llevara sus transmisiones a cada hogar.",
+   "more": "Presentado en la exposición de radio de Berlín de 1933, el VE 301 era un aparato pequeño y sencillo en caja de baquelita, fabricado por varias empresas alemanas con un diseño común y vendido barato. Su nombre alude al 30 de enero de 1933, el día en que Hitler llegó al poder. Su circuito simple recibía sobre todo emisoras locales, algo que convenía a un régimen que quería que sus propias transmisiones se oyeran en cada hogar.",
+   "status": "Se conservan muchos aparatos en museos y colecciones privadas."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-nazi-regime",
+  "item": "volksempfanger-1933",
+  "note": "The regime wanted its broadcasts in every home, so the set was made cheap, in bakelite and from a common design, with a simple circuit that mostly received local stations.",
+  "es": {
+   "note": "El régimen quería sus transmisiones en cada hogar, así que el aparato se hizo barato, de baquelita y con un diseño común, con un circuito simple que recibía sobre todo emisoras locales."
+  },
+  "refs": []
+ },
+ {
+  "rtype": "link",
+  "ctx": "ctx-radio-broadcasting",
+  "item": "volksempfanger-1933",
+  "note": "Radio had become a mass medium, so a small standard receiver was designed to put broadcasting within reach of ordinary households.",
+  "es": {
+   "note": "La radio se había vuelto un medio de masas, así que se diseñó un pequeño receptor estándar para poner la transmisión al alcance de los hogares corrientes."
+  },
+  "refs": []
+ }
+]

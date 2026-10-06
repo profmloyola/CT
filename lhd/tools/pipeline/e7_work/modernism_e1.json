@@ -1,0 +1,81 @@
+{
+ "escribir_links": [
+  {
+   "ctx": "ctx-weimar-republic",
+   "item": "bauhausbucher",
+   "mecanismo": "Una escuela pública de la república difunde su programa en una serie de libros",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-mass-car",
+   "item": "chrysler-building",
+   "mecanismo": "El auto de masas como símbolo → ornamentos de la torre que citan tapas de radiador y emblemas de Chrysler",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-avant-gardes",
+   "item": "e1027-house",
+   "mecanismo": "Las ideas de De Stijl y de la revista de Badovici → casa de vacaciones moderna, plegable y con muebles propios",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-mass-leisure",
+   "item": "fallingwater-1937",
+   "mecanismo": "El fin de semana de una familia urbana acomodada → casa de campo sobre la cascada, integrada al paisaje",
+   "tipo": "enlace",
+   "nota": "Segundo enlace: excepción C4c."
+  },
+  {
+   "ctx": "ctx-avant-gardes",
+   "item": "futura",
+   "mecanismo": "La geometría de la vanguardia y la Nueva Tipografía → un palo seco de círculos, triángulos y rectas",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-literacy-campaigns",
+   "item": "isotype-charts",
+   "mecanismo": "La educación de adultos obreros → estadísticas en pictogramas que se leen sin formación previa",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-semana-arte-moderna",
+   "item": "ministry-education-rio",
+   "mecanismo": "El modernismo brasileño de 1922 busca un arte nacional moderno → síntesis de vanguardia, azulejo y paisaje tropical",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-italian-fascism",
+   "item": "moka-express",
+   "mecanismo": "La autarquía fascista promueve el aluminio como metal nacional → cafetera de aluminio fundido para el hogar",
+   "tipo": "enlace",
+   "nota": "⚠ Verificar. Segundo enlace: excepción C4c."
+  },
+  {
+   "ctx": "ctx-weimar-housing",
+   "item": "stam-cantilever-chair",
+   "mecanismo": "La vivienda mínima pide muebles ligeros y baratos → silla de tubo mostrada en la Weissenhof (1927)",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-taylorism",
+   "item": "van-nelle-factory",
+   "mecanismo": "La organización científica del trabajo → fábrica de flujo continuo, luminosa y vertical",
+   "tipo": "enlace",
+   "nota": ""
+  },
+  {
+   "ctx": "ctx-safety-bicycle",
+   "item": "wassily-chair",
+   "mecanismo": "El manillar de tubo de la bicicleta sugiere a Breuer un mueble de acero tubular curvado",
+   "tipo": "enlace",
+   "nota": "Las fuentes del productivo tubular-steel (Britannica, MoMA, Pompidou) ya sostienen la anécdota."
+  }
+ ]
+}

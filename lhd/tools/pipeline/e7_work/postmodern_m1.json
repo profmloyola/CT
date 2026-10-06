@@ -1,0 +1,280 @@
+[
+ {
+  "rtype": "production",
+  "id": "generative-image-models",
+  "name": "Text-to-image generative models",
+  "name_es": "Modelos generativos de texto a imagen",
+  "sub": "tools",
+  "start": 2022,
+  "regions": [
+   "global"
+  ],
+  "countries": [
+   "US",
+   "GB"
+  ],
+  "prioridad": "B",
+  "curso": "DALL·E 2, Midjourney y Stable Diffusion (2022) generan imágenes a partir de una descripción escrita; nueva herramienta del diseño gráfico.",
+  "anclas": [
+   "cosmopolitan-ai-cover-2022"
+  ],
+  "era": "postmodern",
+  "nota": "Aprobado en el V4 (D5), como ancla técnica del contexto de IA generativa.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-bonsiepe-dependencia-1978",
+  "name": "Diseño industrial, tecnología y dependencia",
+  "name_es": "Diseño industrial, tecnología y dependencia",
+  "author": "Gui Bonsiepe",
+  "year": 1978,
+  "genre": "society",
+  "regions": [
+   "latin-america"
+  ],
+  "countries": [
+   "MX",
+   "CL",
+   "AR"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Teoría del diseño en la periferia: el texto latinoamericano más citado del período.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-isi-cepal",
+    "mecanismo": "La teoría de la dependencia → el diseño como herramienta de autonomía tecnológica"
+   },
+   {
+    "tipo": "secundario",
+    "via": "gui-bonsiepe",
+    "mecanismo": "Autor"
+   }
+  ],
+  "era": "postmodern",
+  "duda": "Edición (México, 1978): verificar.",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-isi-cepal",
+    "item": "th-bonsiepe-dependencia-1978",
+    "mecanismo": "La teoría de la dependencia → el diseño como herramienta de autonomía tecnológica"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.designers": [
+    "gui-bonsiepe"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-hebdige-subculture-1979",
+  "name": "Subculture: The Meaning of Style",
+  "name_es": "Subcultura: el significado del estilo",
+  "author": "Dick Hebdige",
+  "year": 1979,
+  "genre": "society",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "El estilo de las subculturas (mods, punks) como resistencia: base de la historia de la moda y del streetwear.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-punk",
+    "mecanismo": "El punk se estudia como bricolaje de signos y rechazo"
+   },
+   {
+    "tipo": "secundario",
+    "via": "punk-fashion",
+    "mecanismo": "Su objeto de estudio principal"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-punk",
+    "item": "th-hebdige-subculture-1979",
+    "mecanismo": "El punk se estudia como bricolaje de signos y rechazo"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "punk-fashion"
+   ]
+  }
+ },
+ {
+  "rtype": "theory",
+  "id": "th-forty-objects-desire-1986",
+  "name": "Objects of Desire: Design and Society since 1750",
+  "name_es": "Objetos de deseo: diseño y sociedad desde 1750",
+  "author": "Adrian Forty",
+  "year": 1986,
+  "genre": "history",
+  "regions": [
+   "europe"
+  ],
+  "countries": [
+   "GB"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Historia social del diseño desde 1750: es, literalmente, la tesis de la LHD (el diseño como respuesta al contexto). Conviene citarla en «Acerca de».",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-industrial-revolution",
+    "mecanismo": "Forty explica el diseño a partir de la fábrica, la división del trabajo y el consumo"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-industrial-revolution",
+    "item": "th-forty-objects-desire-1986",
+    "mecanismo": "Forty explica el diseño a partir de la fábrica, la división del trabajo y el consumo"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {}
+ },
+ {
+  "rtype": "theory",
+  "id": "th-brundtland-1987",
+  "name": "Our Common Future (Brundtland Report)",
+  "name_es": "Nuestro futuro común (Informe Brundtland)",
+  "author": "World Commission on Environment and Development",
+  "year": 1987,
+  "genre": "society",
+  "regions": [
+   "global"
+  ],
+  "countries": [],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Define el desarrollo sostenible; punto de partida del diseño sostenible.",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-climate-crisis",
+    "mecanismo": "La crisis ambiental se formula como problema de desarrollo → noción de sostenibilidad"
+   },
+   {
+    "tipo": "secundario",
+    "via": "sustainable-design",
+    "mecanismo": "Marco conceptual del movimiento"
+   }
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-climate-crisis",
+    "item": "th-brundtland-1987",
+    "mecanismo": "La crisis ambiental se formula como problema de desarrollo → noción de sostenibilidad"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.movements": [
+    "sustainable-design"
+   ]
+  }
+ },
+ {
+  "rtype": "movement",
+  "id": "minimalism-fashion-product",
+  "name": "Minimalism in fashion and product design",
+  "name_es": "Minimalismo en moda y producto",
+  "start": 1988,
+  "end": 2008,
+  "disciplines": [
+   "fashion",
+   "product"
+  ],
+  "regions": [
+   "europe",
+   "global"
+  ],
+  "countries": [
+   "DE",
+   "AT",
+   "US",
+   "GB",
+   "JP"
+  ],
+  "level": "normal",
+  "prioridad": "B",
+  "curso": "Reacción de los noventa contra el exceso de los ochenta (Jil Sander, Helmut Lang, Calvin Klein; Muji, Morrison, Fukasawa).",
+  "links": [
+   {
+    "tipo": "directo",
+    "ctx": "ctx-postmodern-culture",
+    "mecanismo": "Reacción contra la cita, el ornamento y el logo ostentoso de los ochenta → forma reducida y materiales"
+   },
+   {
+    "tipo": "secundario",
+    "via": "inst-muji",
+    "mecanismo": "Muji es su versión de producto sin marca"
+   }
+  ],
+  "miembros": [
+   "helmut-lang-1998",
+   "helmut-lang",
+   "muji-cd-player-1999",
+   "naoto-fukasawa",
+   "jasper-morrison",
+   "air-chair-1999",
+   "inst-muji"
+  ],
+  "era": "postmodern",
+  "_src": [
+   "etapa7"
+  ],
+  "estado": "aprobado-V4",
+  "escribir_links": [
+   {
+    "ctx": "ctx-postmodern-culture",
+    "item": "minimalism-fashion-product",
+    "mecanismo": "Reacción contra la cita, el ornamento y el logo ostentoso de los ochenta → forma reducida y materiales"
+   }
+  ],
+  "escribir_conexiones": [],
+  "campos": {
+   "links.institutions": [
+    "inst-muji"
+   ]
+  }
+ }
+]

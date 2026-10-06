@@ -1,0 +1,346 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-german-italian-miracle",
+   "track": "economic",
+   "start": 1950,
+   "end": 1963,
+   "date": "1950–1963",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "DE",
+    "IT"
+   ],
+   "name": "The German and Italian economic “miracles”",
+   "short": "Economic miracles",
+   "key": "Fast growth in West Germany and Italy turned two ruined economies into large consumer markets that used design to sell and to export.",
+   "happened": "West Germany grew rapidly after the currency reform of 1948 and Italy’s boom reached its height between about 1958 and 1963. Industry modernised, exports rose, and for the first time many families could buy appliances, scooters and small cars.",
+   "effect": "Firms that sold to a growing domestic and export market made design part of their strategy: Olivetti’s Lettera 22 typewriter (1950, Marcello Nizzoli) and Braun’s SK 4 radio-phonograph (1956, Hans Gugelot and Dieter Rams) were products of companies that bet on a recognisable, coherent look. Italian industrial design grew from the same demand, with makers of appliances, furniture and vehicles hiring architects as designers.",
+   "es": {
+    "name": "Los «milagros» económicos alemán e italiano",
+    "short": "Milagros económicos",
+    "date": "1950–1963",
+    "key": "El rápido crecimiento de Alemania Occidental e Italia convirtió dos economías arruinadas en grandes mercados de consumo que usaron el diseño para vender y exportar.",
+    "happened": "Alemania Occidental creció con rapidez tras la reforma monetaria de 1948 y el boom italiano llegó a su apogeo entre c. 1958 y 1963. La industria se modernizó, subieron las exportaciones y, por primera vez, muchas familias pudieron comprar electrodomésticos, scooters y autos pequeños.",
+    "effect": "Las empresas que vendían a un mercado interno y externo en expansión hicieron del diseño parte de su estrategia: la máquina de escribir Lettera 22 de Olivetti (1950, Marcello Nizzoli) y el radiotocadiscos SK 4 de Braun (1956, Hans Gugelot y Dieter Rams) fueron productos de empresas que apostaron por una imagen reconocible y coherente. El diseño industrial italiano nació de la misma demanda, con fabricantes de electrodomésticos, muebles y vehículos que contrataron arquitectos como diseñadores."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-consumer-society",
+   "track": "economic",
+   "start": 1950,
+   "end": 1973,
+   "date": "1950–1973",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "name": "Consumer society and credit",
+   "short": "Consumer society",
+   "key": "Rising wages, instalment credit and mass advertising made buying the centre of everyday life and pushed firms to renew products by their looks.",
+   "happened": "In the United States and then in Western Europe, higher wages and spreading hire-purchase and credit let ordinary households buy cars, appliances and furniture. Manufacturers competed on novelty, and critics such as Vance Packard (The Waste Makers, 1960) attacked the habit of making goods obsolete by fashion.",
+   "effect": "Styling became a sales tool: American carmakers changed the look of their models every year, and the fins on the 1948 Cadillac set a trend that others followed. The same system provoked a counter-current in design, from the argument for lasting, restrained objects to the later criticism of waste and of the consumer as a target.",
+   "es": {
+    "name": "Sociedad de consumo y crédito",
+    "short": "Sociedad de consumo",
+    "date": "1950–1973",
+    "key": "Los salarios en alza, el crédito en cuotas y la publicidad masiva pusieron la compra en el centro de la vida diaria y empujaron a las empresas a renovar los productos por su aspecto.",
+    "happened": "En Estados Unidos y luego en Europa occidental, los salarios más altos y la difusión de la compra a plazos y del crédito permitieron a los hogares comunes comprar autos, electrodomésticos y muebles. Los fabricantes compitieron en novedad, y críticos como Vance Packard (The Waste Makers, 1960) atacaron el hábito de volver obsoletos los bienes por moda.",
+    "effect": "El estilo se volvió una herramienta de ventas: los fabricantes de autos estadounidenses cambiaban cada año la apariencia de sus modelos, y las aletas del Cadillac de 1948 marcaron una tendencia que otros siguieron. El mismo sistema provocó una corriente contraria en el diseño, desde la defensa de objetos duraderos y sobrios hasta la crítica posterior al derroche y al consumidor como blanco."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-isi-cepal",
+   "track": "economic",
+   "start": 1948,
+   "end": 1973,
+   "date": "1948–1973",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "BR",
+    "MX",
+    "AR",
+    "CL"
+   ],
+   "name": "Import-substituting industrialisation and CEPAL",
+   "short": "Import substitution",
+   "key": "Latin American governments, guided in part by the UN’s CEPAL, protected and built domestic industry, creating a need for locally designed products.",
+   "happened": "The UN Economic Commission for Latin America (CEPAL), founded in 1948, with Raúl Prebisch as its leading voice, argued that the region should industrialise to depend less on exporting raw materials. Governments raised tariffs, backed state and private industry, and encouraged domestic production of goods that had been imported.",
+   "effect": "Local factories making appliances, furniture, vehicles and packaged goods needed their own products and brands rather than copies of imports, which opened a field for industrial and graphic design. Schools of industrial design appeared in this climate, among them the ESDI in Rio de Janeiro (founded 1962), as did national programmes for design.",
+   "es": {
+    "name": "Industrialización por sustitución de importaciones (CEPAL)",
+    "short": "Industrialización ISI",
+    "date": "1948–1973",
+    "key": "Los gobiernos latinoamericanos, guiados en parte por la CEPAL de la ONU, protegieron y construyeron industria propia, lo que creó la necesidad de productos diseñados localmente.",
+    "happened": "La Comisión Económica para América Latina (CEPAL) de la ONU, fundada en 1948 y con Raúl Prebisch como su voz principal, sostuvo que la región debía industrializarse para depender menos de la exportación de materias primas. Los gobiernos subieron aranceles, respaldaron la industria estatal y privada y fomentaron la producción nacional de bienes que antes se importaban.",
+    "effect": "Las fábricas locales de electrodomésticos, muebles, vehículos y productos envasados necesitaron productos y marcas propios en vez de copias de lo importado, lo que abrió un campo al diseño industrial y gráfico. En ese clima aparecieron escuelas de diseño industrial, como la ESDI de Río de Janeiro (fundada en 1962), y programas nacionales de diseño."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-tv-advertising",
+   "track": "economic",
+   "start": 1950,
+   "end": 1970,
+   "date": "1950–1970",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Television advertising",
+   "short": "TV advertising",
+   "key": "Television commercials made brands and packages recognisable in seconds and turned trademarks into a core design task.",
+   "happened": "In the United States television spread through most households during the 1950s, and commercial channels sold airtime to advertisers; in Britain commercial television began in 1955. Brands now reached the home as moving images, in short spots seen by very large audiences.",
+   "effect": "A logo or a pack had to be recognised at a glance on a small screen and on the shop shelf, which favoured simple marks, bold colour and consistent identity across products. Large companies commissioned complete identity programmes, such as Paul Rand’s work for IBM and Westinghouse, and graphic designers began to treat the brand as a system.",
+   "es": {
+    "name": "Publicidad televisiva",
+    "short": "Publicidad televisiva",
+    "date": "1950–1970",
+    "key": "Los comerciales de televisión hicieron reconocibles las marcas y los envases en segundos y convirtieron la marca en una tarea central del diseño.",
+    "happened": "En Estados Unidos la televisión llegó a la mayoría de los hogares durante los años cincuenta, y los canales comerciales vendían tiempo de aire a los avisadores; en Gran Bretaña la televisión comercial comenzó en 1955. Las marcas llegaban ahora al hogar como imagen en movimiento, en spots breves vistos por audiencias muy grandes.",
+    "effect": "Un logo o un envase debía reconocerse de un vistazo en una pantalla pequeña y en la góndola, lo que favoreció marcas simples, colores fuertes y una identidad coherente entre productos. Las grandes empresas encargaron programas completos de identidad, como los de Paul Rand para IBM y Westinghouse, y los diseñadores gráficos empezaron a tratar la marca como un sistema."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-oil-crisis",
+   "track": "economic",
+   "start": 1973,
+   "end": 1974,
+   "date": "1973–1974",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "The 1973 oil crisis",
+   "short": "Oil crisis",
+   "key": "The oil embargo and price rise of 1973 made petroleum-based materials and fuel-hungry products costly, and gave energy and resources a place in design.",
+   "happened": "After the Arab–Israeli war of October 1973, Arab oil producers imposed an embargo on some countries and the price of crude oil rose sharply within months. Fuel was rationed or queued for in several countries, and governments introduced measures to save energy, including lower speed limits in the United States.",
+   "effect": "Plastics, made from oil, lost their image as a cheap and limitless material, and the optimism of plastic furniture and objects of the 1960s cooled. Demand grew for smaller, more economical cars and for lighter and more efficient products, while the crisis lent weight to the ecological arguments about waste and resources that designers were already raising.",
+   "es": {
+    "name": "La crisis del petróleo de 1973",
+    "short": "Crisis del petróleo",
+    "date": "1973–1974",
+    "key": "El embargo y el alza del precio del petróleo de 1973 encarecieron los materiales derivados del crudo y los productos que gastaban mucho combustible, y dieron un lugar a la energía y los recursos en el diseño.",
+    "happened": "Tras la guerra árabe-israelí de octubre de 1973, los productores árabes de petróleo impusieron un embargo a algunos países y el precio del crudo subió con fuerza en pocos meses. Varios países racionaron el combustible o tuvieron filas para conseguirlo, y los gobiernos adoptaron medidas de ahorro de energía, como límites de velocidad más bajos en Estados Unidos.",
+    "effect": "Los plásticos, que se hacen del petróleo, perdieron su imagen de material barato e ilimitado, y se enfrió el optimismo de los muebles y objetos de plástico de los años sesenta. Creció la demanda de autos más pequeños y económicos y de productos más livianos y eficientes, y la crisis dio peso a los argumentos ecológicos sobre el derroche y los recursos que los diseñadores ya planteaban."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-jet-tourism",
+   "track": "economic",
+   "start": 1958,
+   "end": 1973,
+   "date": "1958–1973",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "name": "Mass tourism and airports",
+   "short": "Jet tourism",
+   "key": "Passenger jets and cheaper flights created crowds of travellers who needed airports, signs and airline identities that anyone could read.",
+   "happened": "Transatlantic jet services began in 1958 with the Boeing 707, and the Boeing 747, which entered service in 1970, carried many more passengers per flight. Air travel, once for the few, became common for holidays and business, and new and larger airports were built.",
+   "effect": "Airports became a new kind of building and sign system for unaccustomed travellers: Eero Saarinen’s TWA Flight Center at New York (1962) made the terminal an expressive form, and Jock Kinneir and Margaret Calvert devised clear signage for Gatwick airport before applying the same thinking to British roads. Airlines also adopted identities and uniforms as a way to stand out in a crowded market.",
+   "es": {
+    "name": "Turismo de masas y aeropuertos",
+    "short": "Turismo de masas",
+    "date": "1958–1973",
+    "key": "Los aviones a reacción y los vuelos más baratos crearon multitudes de viajeros que necesitaban aeropuertos, señales e identidades de aerolínea que cualquiera pudiera leer.",
+    "happened": "Los servicios transatlánticos a reacción comenzaron en 1958 con el Boeing 707, y el Boeing 747, que entró en servicio en 1970, llevó muchos más pasajeros por vuelo. El viaje en avión, antes de pocos, se volvió común para las vacaciones y los negocios, y se construyeron aeropuertos nuevos y más grandes.",
+    "effect": "Los aeropuertos se volvieron un nuevo tipo de edificio y de sistema de señales para viajeros sin experiencia: el TWA Flight Center de Eero Saarinen en Nueva York (1962) hizo de la terminal una forma expresiva, y Jock Kinneir y Margaret Calvert idearon una señalética clara para el aeropuerto de Gatwick antes de aplicar la misma idea a los caminos británicos. Las aerolíneas también adoptaron identidades y uniformes para destacar en un mercado repleto."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-japan-miracle",
+   "track": "economic",
+   "start": 1955,
+   "end": 1973,
+   "date": "1955–1973",
+   "regions": [
+    "global"
+   ],
+   "countries": [
+    "JP"
+   ],
+   "name": "The Japanese economic “miracle”",
+   "short": "Japanese miracle",
+   "key": "Japan’s rapid growth turned it into an exporter of electronics and cars and a source of ideas, from small consumer products to Metabolist city planning.",
+   "happened": "From the mid-1950s Japan’s economy grew at very high rates, and its firms exported electronics, cameras, motorcycles and cars. Sony, for example, sold one of the first pocket transistor radios, the TR-55, in 1955, and the Tokyo Olympics of 1964 showed the new Japan with the Shinkansen and new sports halls.",
+   "effect": "Japanese firms made compact, well-made consumer goods for Western markets, which led European and American makers to reconsider the size and finish of their own products. The same confidence in growth supported the Metabolist architects, who proposed cities and buildings of replaceable parts and presented them at the World Design Conference in Tokyo in 1960.",
+   "es": {
+    "name": "El «milagro» económico japonés",
+    "short": "Milagro japonés",
+    "date": "1955–1973",
+    "key": "El rápido crecimiento de Japón lo convirtió en exportador de electrónica y autos y en fuente de ideas, desde pequeños productos de consumo hasta el urbanismo metabolista.",
+    "happened": "Desde mediados de los años cincuenta la economía japonesa creció a tasas muy altas, y sus empresas exportaron electrónica, cámaras, motocicletas y autos. Sony, por ejemplo, vendió en 1955 una de las primeras radios de transistores de bolsillo, la TR-55, y los Juegos Olímpicos de Tokio de 1964 mostraron al nuevo Japón con el Shinkansen y nuevos recintos deportivos.",
+    "effect": "Las empresas japonesas hicieron bienes de consumo compactos y bien terminados para los mercados occidentales, lo que llevó a los fabricantes europeos y estadounidenses a repensar el tamaño y el acabado de sus propios productos. La misma confianza en el crecimiento sostuvo a los arquitectos metabolistas, que propusieron ciudades y edificios de partes reemplazables y los presentaron en la Conferencia Mundial de Diseño de Tokio en 1960."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-mass-motorisation",
+   "track": "economic",
+   "start": 1950,
+   "end": 1970,
+   "date": "1950–1970",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "DE",
+    "IT",
+    "GB"
+   ],
+   "name": "Mass motorisation",
+   "short": "Mass motorisation",
+   "key": "The private car became a household good in Europe and the United States, and with it came small cars, motorways and a new graphic language of the road.",
+   "happened": "In the United States the car was already common, and the Interstate Highway Act of 1956 funded a national network of motorways. In Europe, small cheap models such as the Volkswagen Beetle, the Fiat 500 (1957) and the Mini (1959) put the car within reach of ordinary families as wages rose.",
+   "effect": "Designers had to rethink the car for the small, cheap and urban: the Mini packed its space into a short body with the engine across the front. The growth of fast traffic also called for new road signs, and in Britain Jock Kinneir and Margaret Calvert designed the signs for the motorways and, later, for all roads, so that drivers could read them at speed.",
+   "es": {
+    "name": "Motorización de masas",
+    "short": "Motorización de masas",
+    "date": "1950–1970",
+    "key": "El auto particular se volvió un bien de hogar en Europa y Estados Unidos, y con él llegaron los autos pequeños, las autopistas y un nuevo lenguaje gráfico del camino.",
+    "happened": "En Estados Unidos el auto ya era común, y la ley de autopistas interestatales de 1956 financió una red nacional de autopistas. En Europa, modelos pequeños y baratos como el Volkswagen Escarabajo, el Fiat 500 (1957) y el Mini (1959) pusieron el auto al alcance de las familias comunes a medida que subían los salarios.",
+    "effect": "Los diseñadores debieron repensar el auto para lo pequeño, lo barato y lo urbano: el Mini concentró su espacio en una carrocería corta con el motor transversal al frente. El crecimiento del tráfico rápido también exigió nuevas señales viales, y en Gran Bretaña Jock Kinneir y Margaret Calvert diseñaron las señales de las autopistas y, más tarde, de todos los caminos, para que los conductores pudieran leerlas a velocidad."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-pret-a-porter",
+   "track": "economic",
+   "start": 1955,
+   "end": 1970,
+   "date": "1955–1970",
+   "regions": [
+    "europe"
+   ],
+   "countries": [
+    "FR",
+    "GB"
+   ],
+   "name": "Prêt-à-porter and boutiques",
+   "short": "Prêt-à-porter",
+   "key": "Ready-to-wear and young boutiques moved fashion from the made-to-measure salon to the shop, and made youth the market that set the pace.",
+   "happened": "In London, Mary Quant opened her shop Bazaar on the King’s Road in 1955, selling clothes for young women made in small factories. In Paris, couturiers followed with ready-to-wear lines, and Yves Saint Laurent opened his Rive Gauche boutique in 1966.",
+   "effect": "Fashion design had to work for serial production and for a young customer who bought off the rack: shorter hemlines, simple cuts and affordable fabrics replaced the long fittings of the couture house. The boutique itself became part of the design, with its own look and music, and the couture houses lost the sole lead they had held.",
+   "es": {
+    "name": "Prêt-à-porter y boutiques",
+    "short": "Prêt-à-porter",
+    "date": "1955–1970",
+    "key": "La ropa lista para usar y las boutiques jóvenes sacaron a la moda del salón a medida y llevaron a la tienda, e hicieron de la juventud el mercado que marcaba el paso.",
+    "happened": "En Londres, Mary Quant abrió en 1955 su tienda Bazaar en King’s Road, donde vendía ropa para mujeres jóvenes hecha en pequeñas fábricas. En París, los modistos siguieron con líneas de prêt-à-porter, y Yves Saint Laurent abrió su boutique Rive Gauche en 1966.",
+    "effect": "El diseño de moda debió funcionar para la producción en serie y para una clienta joven que compraba en la percha: faldas más cortas, cortes simples y telas accesibles reemplazaron las largas pruebas de la casa de alta costura. La boutique misma pasó a ser parte del diseño, con su propia imagen y música, y las casas de alta costura perdieron el liderazgo exclusivo que habían tenido."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-mexico-miracle",
+   "track": "economic",
+   "start": 1954,
+   "end": 1970,
+   "date": "1954–1970",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "name": "The “Mexican miracle” and stabilising development",
+   "short": "Mexican miracle",
+   "key": "Steady growth and a stable currency expanded Mexico’s cities and middle class and paid for public works that showed the country as modern.",
+   "happened": "From the mid-1950s to about 1970 the Mexican economy grew at high, steady rates with low inflation and a stable exchange rate, under the policy known as desarrollo estabilizador. Industry, cities and an urban middle class grew, and the state invested in universities, housing and large public works.",
+   "effect": "Growth gave the state and companies the means to commission modern architecture and graphic identity at a large scale, such as the buildings of the Ciudad Universitaria and the Torre Latinoamericana (1956). It reached a peak with the Olympic Games of 1968, whose graphic identity by Lance Wyman, Pedro Ramírez Vázquez and Eduardo Terrazas set a model for a whole event.",
+   "es": {
+    "name": "El «milagro mexicano» y el desarrollo estabilizador",
+    "short": "Milagro mexicano",
+    "date": "1954–1970",
+    "key": "El crecimiento sostenido y la moneda estable ampliaron las ciudades y la clase media de México y pagaron obras públicas que mostraban al país como moderno.",
+    "happened": "Desde mediados de los años cincuenta hasta c. 1970 la economía mexicana creció a tasas altas y estables, con baja inflación y tipo de cambio estable, bajo la política conocida como desarrollo estabilizador. Crecieron la industria, las ciudades y una clase media urbana, y el Estado invirtió en universidades, vivienda y grandes obras públicas.",
+    "effect": "El crecimiento dio al Estado y a las empresas los medios para encargar arquitectura moderna e identidad gráfica a gran escala, como los edificios de la Ciudad Universitaria y la Torre Latinoamericana (1956). Llegó a su punto más alto con los Juegos Olímpicos de 1968, cuya identidad gráfica, de Lance Wyman, Pedro Ramírez Vázquez y Eduardo Terrazas, fijó un modelo para todo un evento."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-corporate-office-boom",
+   "track": "economic",
+   "start": 1945,
+   "end": 1970,
+   "date": "1945–1970",
+   "regions": [
+    "north-america"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "The corporate and office boom in the United States",
+   "short": "Corporate boom",
+   "key": "Postwar American corporations grew into large white-collar organisations that built glass headquarters, furnished open offices and adopted visual identities.",
+   "happened": "After 1945 American firms expanded, and the number of office and managerial workers grew. Companies built tall headquarters in Manhattan and other cities, such as Lever House (1952, Skidmore, Owings and Merrill) and the Seagram Building (1958, Mies van der Rohe and Philip Johnson).",
+   "effect": "Modern architecture became the style of corporate prestige, and the office created a market for planned interiors and furniture: Florence Knoll’s planning unit furnished corporate interiors, and Herman Miller’s Action Office (1964, Robert Propst) answered the changing work of the office. Large firms also turned to graphic designers such as Paul Rand for a unified corporate identity.",
+   "es": {
+    "name": "El auge corporativo y de oficinas en Estados Unidos",
+    "short": "Auge corporativo",
+    "date": "1945–1970",
+    "key": "Las corporaciones estadounidenses de posguerra se convirtieron en grandes organizaciones de empleados que construyeron sedes de vidrio, amoblaron oficinas abiertas y adoptaron identidades visuales.",
+    "happened": "Después de 1945 las empresas estadounidenses se expandieron y creció el número de empleados de oficina y de ejecutivos. Las compañías levantaron sedes altas en Manhattan y otras ciudades, como la Lever House (1952, Skidmore, Owings and Merrill) y el edificio Seagram (1958, Mies van der Rohe y Philip Johnson).",
+    "effect": "La arquitectura moderna se volvió el estilo del prestigio corporativo, y la oficina creó un mercado de interiores y muebles planificados: la unidad de planificación de Florence Knoll amobló interiores corporativos, y el Action Office de Herman Miller (1964, Robert Propst) respondió a la nueva forma de trabajar en la oficina. Las grandes empresas también recurrieron a diseñadores gráficos como Paul Rand para una identidad corporativa unificada."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-knowledge-work",
+   "track": "economic",
+   "start": 1968,
+   "end": 2000,
+   "cont": false,
+   "date": "1968–2000",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "countries": [
+    "US"
+   ],
+   "name": "Knowledge work and the screen office",
+   "short": "Knowledge work",
+   "key": "The shift of office work towards information, projects and computer screens, which changed what office furniture and equipment had to do.",
+   "happened": "The economist Peter Drucker used the term ‘knowledge worker’ in 1959, and from the 1960s a growing share of office jobs involved handling information. By the 1980s and 1990s the computer screen had become the centre of the desk.",
+   "effect": "Furniture and equipment were redesigned for people working on projects and in front of screens: Action Office II (1968) gave the employee a more autonomous workspace, the ThinkPad 700C (1992) answered the mobile worker, and the Aeron chair (1994) responded to long hours at a screen.",
+   "es": {
+    "name": "Trabajo del conocimiento y la oficina de pantallas",
+    "short": "Trabajo conocimiento",
+    "date": "1968–2000",
+    "key": "El desplazamiento del trabajo de oficina hacia la información, los proyectos y las pantallas, que cambió lo que debían hacer el mobiliario y los equipos de oficina.",
+    "happened": "El economista Peter Drucker usó la expresión «trabajador del conocimiento» en 1959, y desde los años sesenta una parte creciente de los empleos de oficina consistió en manejar información. En los años ochenta y noventa la pantalla del computador pasó a ser el centro del escritorio.",
+    "effect": "El mobiliario y los equipos se rediseñaron para quienes trabajaban por proyectos y frente a pantallas: Action Office II (1968) dio al empleado un puesto más autónomo, el ThinkPad 700C (1992) respondió al trabajador móvil y la silla Aeron (1994) a las largas horas ante la pantalla."
+   },
+   "refs": []
+  }
+ ]
+}

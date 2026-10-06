@@ -1,0 +1,3568 @@
+{
+ "designers": [
+  {
+   "id": "eames",
+   "level": "essential",
+   "kind": "duo",
+   "disciplines": [
+    "product",
+    "architecture"
+   ],
+   "born": 1907,
+   "died": 1988,
+   "dates": "Charles 1907–1978 · Ray 1912–1988",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Charles and Ray Eames",
+   "movements": [
+    "good-design",
+    "mid-century-modern"
+   ],
+   "institutions": [
+    "inst-herman-miller",
+    "inst-cranbrook"
+   ],
+   "key": "American husband-and-wife design team who brought moulded plywood, plastics and industrial methods into everyday furniture and housing.[1][2]",
+   "more": "Charles Eames and Ray Kaiser married in 1941 and worked together in Los Angeles.[1][2][3] They developed moulded plywood furniture, some of it during the Second World War,[1][2] and later chairs in fibreglass for Herman Miller.[1][3] They also designed their own house in Pacific Palisades and made films and exhibitions.[1][2][3] Charles died in 1978 and Ray in 1988.[2]",
+   "es": {
+    "dates": "Charles 1907–1978 · Ray 1912–1988",
+    "key": "Dupla estadounidense de marido y mujer que llevó el terciado moldeado, los plásticos y los métodos industriales al mueble y a la vivienda de uso cotidiano.[1][2]",
+    "more": "Charles Eames y Ray Kaiser se casaron en 1941 y trabajaron juntos en Los Ángeles.[1][2][3] Desarrollaron muebles de terciado moldeado, parte de ellos durante la Segunda Guerra Mundial,[1][2] y más tarde sillas de fibra de vidrio para Herman Miller.[1][3] También diseñaron su propia casa en Pacific Palisades e hicieron películas y exposiciones.[1][2][3] Charles murió en 1978 y Ray en 1988.[2]"
+   },
+   "short": "Eames",
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Charles Eames»",
+     "url": "https://www.britannica.com/biography/Charles-Eames",
+     "checks": "muebles de terciado moldeado producidos en serie por Herman Miller desde 1946; tras casarse fundaron un estudio en California; influencia más allá del mueble, incluida la película «Powers of Ten». ⚠ No da fechas de vida.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Charles & Ray Eames Foundation, «Biography»",
+     "url": "https://eamesfoundation.org/charles-ray/biography/",
+     "checks": "Charles 1907–1978 y Ray 1912–1988; se casaron en 1941 y se mudaron a Los Ángeles; innovaciones en terciado moldeado durante la guerra; muebles con Herman Miller; trabajo en arquitectura, cine y exposiciones. ⚠ No cita la fibra de vidrio ni el aluminio.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Ray Eames»",
+     "url": "https://www.britannica.com/biography/Ray-Eames",
+     "checks": "Ray Kaiser se casó con Charles en 1941; silla de terciado DCM y sillones de fibra de vidrio; libros, películas, exposiciones y muebles. ⚠ No cita la casa de Pacific Palisades; esta consta en la Fundación Eames (https://eamesfoundation.org/house/history/: diseñada 1945, terminada 1949), página también abierta.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "george-nelson",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1908,
+   "died": 1986,
+   "dates": "1908–1986",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "George Nelson",
+   "movements": [
+    "good-design",
+    "mid-century-modern"
+   ],
+   "institutions": [
+    "inst-herman-miller"
+   ],
+   "key": "American designer and writer who led design at Herman Miller from 1946 and shaped its catalogue of modern office and home furniture.",
+   "more": "Trained as an architect, Nelson became design director of Herman Miller in 1946 and brought in other designers, among them Charles Eames. His own studio produced furniture such as the Marshmallow sofa, designed in the 1950s, and he wrote on architecture and design. He died in 1986.",
+   "es": {
+    "dates": "1908–1986",
+    "key": "Diseñador y escritor estadounidense que dirigió el diseño de Herman Miller desde 1946 y definió su catálogo de muebles modernos para la oficina y el hogar.",
+    "more": "De formación arquitecto, Nelson fue director de diseño de Herman Miller desde 1946 e incorporó a otros diseñadores, entre ellos Charles Eames. Su propio estudio produjo muebles como el sofá Marshmallow, diseñado en los años cincuenta, y escribió sobre arquitectura y diseño. Murió en 1986."
+   },
+   "short": "Nelson",
+   "refs": []
+  },
+  {
+   "id": "eero-saarinen",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1910,
+   "died": 1961,
+   "dates": "1910–1961",
+   "countries": [
+    "US",
+    "FI"
+   ],
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "name": "Eero Saarinen",
+   "movements": [
+    "good-design",
+    "mid-century-modern"
+   ],
+   "institutions": [
+    "inst-knoll",
+    "inst-cranbrook"
+   ],
+   "key": "Finnish-American architect and designer whose sculptural buildings and single-stem furniture gave postwar American modernism a more organic form.[1][2]",
+   "more": "Son of the architect Eliel Saarinen, he was born in Finland and became an American architect.[1][3] He designed the Tulip and Womb chairs for Knoll[1][2][4] and, among other buildings, the TWA terminal at New York's Idlewild airport.[1][3] He died in 1961, before the terminal and several other projects were completed.[1]",
+   "es": {
+    "dates": "1910–1961",
+    "key": "Arquitecto y diseñador finlandés-estadounidense cuyos edificios escultóricos y muebles de un solo pie dieron al modernismo estadounidense de posguerra una forma más orgánica.[1][2]",
+    "more": "Hijo del arquitecto Eliel Saarinen, nació en Finlandia y se hizo arquitecto estadounidense.[1][3] Diseñó para Knoll las sillas Tulip y Womb[1][2][4] y, entre otros edificios, la terminal de TWA en el aeropuerto Idlewild de Nueva York.[1][3] Murió en 1961, antes de que se terminara la terminal y varios otros proyectos.[1]"
+   },
+   "short": "Saarinen",
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Eero Saarinen»",
+     "url": "https://www.britannica.com/biography/Eero-Saarinen",
+     "checks": "nació el 20 de agosto de 1910 en Kirkkonummi, Finlandia; murió el 1 de septiembre de 1961 en Ann Arbor, Michigan; hijo de Eliel Saarinen; mesa y sillas de pedestal (tulipán) y silla Womb fabricadas por Knoll; terminal TWA en Idlewild, no terminada en vida.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Cranbrook Art Museum, «Eero Saarinen, Pedestal or Tulip Side Chair»",
+     "url": "https://cranbrookartmuseum.org/artwork/eero-saarinen-pedestal-tulip-side-chair/",
+     "checks": "Saarinen (1910–1961), arquitecto nacido en Finlandia; silla Tulip diseñada 1955–57 para Knoll; aplicó principios escultóricos a edificios y muebles, entre ellos la terminal TWA. ⚠ No trata la silla Womb.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Smithsonian Archives of American Art, «Aline and Eero Saarinen papers, Biographical Note»",
+     "url": "https://www.aaa.si.edu/collections/aline-and-eero-saarinen-papers-5589/biographical-note",
+     "checks": "nació en 1910 en Kirkkonummi, Finlandia y murió en 1961; título de Yale 1934; trabajó en el estudio de su padre Eliel; terminal TWA. ⚠ No detalla la emigración ni la terminación del terminal.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, colección, «Eero Saarinen»",
+     "url": "https://www.metmuseum.org/art/collection/search/482520",
+     "checks": "Saarinen, estadounidense nacido en Finlandia, Kirkkonummi 1910 – Ann Arbor, Michigan 1961; sofá Womb (n.º 73) de 1950 fabricado por Knoll.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "arne-jacobsen",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1902,
+   "died": 1971,
+   "dates": "1902–1971",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Arne Jacobsen",
+   "movements": [
+    "scandinavian-design"
+   ],
+   "institutions": [],
+   "key": "Danish architect and designer whose buildings and moulded-plywood chairs made Danish modernism known abroad.[1][3]",
+   "more": "Jacobsen designed buildings in Denmark and the SAS Royal Hotel in Copenhagen, completed around 1960,[1][2][3] where he also designed the interiors and furniture.[1][2][3] His Ant, Series 7 and Egg chairs were made by Fritz Hansen.[2][3] He died in 1971.[1][2]",
+   "es": {
+    "dates": "1902–1971",
+    "key": "Arquitecto y diseñador danés cuyos edificios y sillas de terciado moldeado dieron a conocer el modernismo danés en el extranjero.[1][3]",
+    "more": "Jacobsen proyectó edificios en Dinamarca y el Hotel SAS Royal de Copenhague, terminado hacia 1960,[1][2][3] donde diseñó también los interiores y el mobiliario.[1][2][3] Sus sillas Ant, Serie 7 y Egg las fabricó Fritz Hansen.[2][3] Murió en 1971.[1][2]"
+   },
+   "short": "Jacobsen",
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Arne Jacobsen»",
+     "url": "https://www.britannica.com/biography/Arne-Jacobsen",
+     "checks": "nació el 11 de febrero de 1902 en Copenhague; murió el 24 de marzo de 1971 en Copenhague; edificios modernos austeros; silla apilable de tres patas (1952) y silla Egg (1959) de renombre internacional; edificio SAS (1959) con arquitectura e interiores diseñados por él. ⚠ No nombra a Fritz Hansen.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Victoria and Albert Museum, «Egg armchair»",
+     "url": "https://collections.vam.ac.uk/item/O137614/egg-armchair-armchair-jacobsen-arne-emil/",
+     "checks": "Jacobsen (danés, 1902–1971); la silla Egg, fabricada por Fritz Hansen, se diseñó para el vestíbulo del Royal Hotel de Copenhague, que él proyectó entre 1956 y 1961. ⚠ No trata las sillas Ant ni Serie 7 ni la fecha 'hacia 1960'.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Fritz Hansen, «Arne Jacobsen» (fabricante, fuente corporativa)",
+     "url": "https://www.fritzhansen.com/en/about-us/arnejacobsen",
+     "checks": "Ant (1952) con Fritz Hansen; Serie 7 derivada del modelo 3207 de madera laminada; silla Egg (1958) para el SAS Royal Hotel, terminado en 1960, con arquitectura, interiores y mobiliario de Jacobsen; vida 1902–1971. ⚠ Fuente del fabricante; 'terciado moldeado' no aparece literalmente (habla de cáscara de madera laminada de doble curvatura).",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "hans-wegner",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1914,
+   "died": 2007,
+   "dates": "1914–2007",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Hans Wegner",
+   "movements": [
+    "scandinavian-design"
+   ],
+   "institutions": [],
+   "key": "Danish furniture designer, trained as a cabinetmaker, whose chairs refined traditional wooden forms into the Danish modern style.",
+   "more": "Wegner trained as a cabinetmaker and designed several hundred chairs. Among the best known are the Wishbone chair, produced by Carl Hansen & Søn from around 1950, and the Round chair of the same years. He died in 2007.",
+   "es": {
+    "dates": "1914–2007",
+    "key": "Diseñador de muebles danés, formado como ebanista, cuyas sillas depuraron las formas tradicionales en madera hasta darles el estilo moderno danés.",
+    "more": "Wegner se formó como ebanista y diseñó varios cientos de sillas. Entre las más conocidas están la silla Wishbone, producida por Carl Hansen & Søn desde c. 1950, y la silla Round de los mismos años. Murió en 2007."
+   },
+   "short": "Wegner",
+   "refs": []
+  },
+  {
+   "id": "verner-panton",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1926,
+   "died": 1998,
+   "dates": "1926–1998",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Verner Panton",
+   "movements": [
+    "pop-design"
+   ],
+   "institutions": [],
+   "key": "Danish designer who used plastics, bright colour and curved forms to make furniture, lamps and interiors for the pop 1960s.[1][2][3]",
+   "more": "Panton trained as an architect and worked in Denmark and Switzerland.[1] His Panton chair, a single moulded cantilever form, was developed in the late 1950s and produced from 1967,[2] and his Flowerpot lamp dates from 1968.[3] He also designed complete interiors in saturated colour.[1] He died in 1998.[1]",
+   "es": {
+    "dates": "1926–1998",
+    "key": "Diseñador danés que usó plásticos, color intenso y formas curvas para crear muebles, lámparas e interiores de los años sesenta pop.[1][2][3]",
+    "more": "Panton se formó como arquitecto y trabajó en Dinamarca y Suiza.[1] Su silla Panton, una sola forma moldeada en voladizo, se desarrolló a fines de los años cincuenta y se produjo desde 1967,[2] y su lámpara Flowerpot es de 1968.[3] También diseñó interiores completos en colores saturados.[1] Murió en 1998.[1]"
+   },
+   "short": "Panton",
+   "refs": [
+    {
+     "label": "Cooper Hewitt, «Verner Panton» (biografía)",
+     "url": "https://collection.cooperhewitt.org/people/18045471/bio",
+     "checks": "danés (1926–1998); título de arquitecto por la Real Academia Danesa en 1951; director artístico de la empresa suiza Mira-X; Visiona: entornos en colores saturados; materiales como plástico moldeado por inyección. ⚠ No da lugares de nacimiento ni de muerte.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Vitra, «Panton Chair»",
+     "url": "https://www.vitra.com/en-us/about-vitra/original/panton-chair",
+     "checks": "concebida a fines de los años cincuenta; primera silla en voladizo de plástico de una pieza; primera producción en 1967 (150 unidades). ⚠ Fuente del fabricante; no cubre la vida de Panton.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "&Tradition, «Verner Panton»",
+     "url": "https://www.andtradition.com/designers/verner-panton",
+     "checks": "Panton (1926–1998), diseñador danés formado como arquitecto; el color como herramienta central; lámpara Flowerpot creada en 1968. ⚠ Fuente del fabricante.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "dieter-rams",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1932,
+   "dates": "n. 1932",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Dieter Rams",
+   "movements": [
+    "ulm-functionalism"
+   ],
+   "institutions": [
+    "inst-braun"
+   ],
+   "key": "German industrial designer and head of design at Braun,[1][2] known for restrained radios, record players and appliances and for his ten principles of good design.[2][3]",
+   "more": "Rams joined Braun in 1955 and led its design department from 1961 until 1995.[1][2] He worked closely with Hans Gugelot and others on audio equipment and household appliances,[2] and also designed furniture for Vitsœ.[1] His ten principles of good design, formulated later, summarise his approach.[2][3]",
+   "es": {
+    "dates": "n. 1932",
+    "key": "Diseñador industrial alemán y jefe de diseño de Braun,[1][2] conocido por radios, tocadiscos y electrodomésticos sobrios y por sus diez principios del buen diseño.[2][3]",
+    "more": "Rams entró a Braun en 1955 y dirigió su departamento de diseño de 1961 a 1995.[1][2] Trabajó junto a Hans Gugelot y otros en equipos de audio y artefactos domésticos,[2] y diseñó además muebles para Vitsœ.[1] Sus diez principios del buen diseño, formulados más tarde, resumen su enfoque.[2][3]"
+   },
+   "short": "Rams",
+   "refs": [
+    {
+     "label": "Vitsœ, «Dieter Rams»",
+     "url": "https://www.vitsoe.com/us/about/dieter-rams",
+     "checks": "nació en 1932 en Wiesbaden; entró a Braun en 1955 y fue jefe de diseño desde 1961 durante 34 años; muebles para Vitsœ (sistema 606, 1960); principio «Less, but better». ⚠ Fuente de la empresa Vitsœ.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Design Museum, Londres, «Dieter Rams»",
+     "url": "https://designmuseum.org/designers/dieter-rams",
+     "checks": "nacido en 1932 en Wiesbaden; Braun en 1955; radiofonógrafo SK 4 (1956) con Hans Gugelot; director de diseño hasta 1995; diez principios del buen diseño. ⚠ Fecha su nombramiento en 1962 y no cita electrodomésticos con Gugelot.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Philadelphia Museum of Art, «Dieter Rams: Principled Design»",
+     "url": "https://www.philamuseum.org/exhibitions/dieter-rams-principled-design",
+     "checks": "nacido en 1932; Braun desde 1955, jefe de diseño en 1961; radios, cámaras, electrodomésticos y muebles; diez principios establecidos en los años setenta.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "hans-gugelot",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1920,
+   "died": 1965,
+   "dates": "1920–1965",
+   "countries": [
+    "CH",
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Hans Gugelot",
+   "movements": [],
+   "institutions": [
+    "inst-hfg-ulm",
+    "inst-braun"
+   ],
+   "key": "Dutch-born Swiss designer who taught at the Ulm school and gave Braun’s products a modular, systematic design in the 1950s.",
+   "more": "Born in the Dutch East Indies and trained in Switzerland, Gugelot taught at the Hochschule für Gestaltung in Ulm. With Dieter Rams he designed the Braun SK 4 radio-phonograph of 1956, and he applied modular systems to furniture and equipment. He died in 1965.",
+   "es": {
+    "dates": "1920–1965",
+    "key": "Diseñador suizo de origen neerlandés que enseñó en la escuela de Ulm y dio a los productos de Braun un diseño modular y sistemático en los años cincuenta.",
+    "more": "Nacido en las Indias Orientales Neerlandesas y formado en Suiza, Gugelot enseñó en la Hochschule für Gestaltung de Ulm. Junto a Dieter Rams diseñó el radiotocadiscos Braun SK 4 de 1956 y aplicó sistemas modulares al mobiliario y a los equipos. Murió en 1965."
+   },
+   "short": "Gugelot",
+   "refs": []
+  },
+  {
+   "id": "otl-aicher",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1922,
+   "died": 1991,
+   "dates": "1922–1991",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Otl Aicher",
+   "movements": [
+    "corporate-identity-design"
+   ],
+   "institutions": [
+    "inst-hfg-ulm"
+   ],
+   "key": "German graphic designer and co-founder of the Ulm school who led the visual design of Lufthansa and of the 1972 Munich Olympics.[1][2][3]",
+   "more": "Aicher co-founded the Hochschule für Gestaltung in Ulm in the early 1950s with Inge Scholl and Max Bill.[1] He developed the corporate design of Lufthansa[1][2] and led the design of the 1972 Munich Olympic Games, including its pictograms.[1][3] He died in 1991.[1][2]",
+   "es": {
+    "dates": "1922–1991",
+    "key": "Diseñador gráfico alemán y cofundador de la escuela de Ulm que dirigió el diseño visual de Lufthansa y de los Juegos Olímpicos de Múnich 1972.[1][2][3]",
+    "more": "Aicher cofundó la Hochschule für Gestaltung de Ulm a comienzos de los años cincuenta junto a Inge Scholl y Max Bill.[1] Desarrolló el diseño corporativo de Lufthansa[1][2] y dirigió el diseño de los Juegos Olímpicos de Múnich 1972, incluidos sus pictogramas.[1][3] Murió en 1991.[1][2]"
+   },
+   "short": "Aicher",
+   "refs": [
+    {
+     "label": "Isny im Allgäu, «Otl Aicher»",
+     "url": "https://www.isny.de/otlaicher/otl-aicher?lang=en",
+     "checks": "nació el 13 de mayo de 1922 en Ulm y murió el 1 de septiembre de 1991 en Günzburg; cofundó la HfG Ulm en 1953 con Inge Aicher-Scholl y Max Bill; identidades visuales de Braun y Lufthansa; sistema de pictogramas de Múnich 1972.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "HfG-Archiv Ulm, «The bequest of Otl Aicher»",
+     "url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+     "checks": "Aicher (1922–91), cofundador de la HfG Ulm; identidades corporativas para Braun y Lufthansa; responsable del diseño de los Juegos de Múnich y de su sistema de pictogramas. ⚠ Menciona «1968» como año del encargo y no fecha los Juegos; no fecha el trabajo para Lufthansa («desde los años sesenta» no confirmado).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Cooper Hewitt, «Faster, Higher, Stronger»",
+     "url": "https://www.cooperhewitt.org/2017/12/29/faster-higher-stronger/",
+     "checks": "Otl Aicher (1922–1991) creó el sistema de pictogramas de los Juegos de Múnich 1972; modernizó Braun y Lufthansa; cofundó la escuela de diseño de Ulm.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "max-bill",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "architecture",
+    "graphic"
+   ],
+   "born": 1908,
+   "died": 1994,
+   "dates": "1908–1994",
+   "countries": [
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Max Bill",
+   "movements": [
+    "ulm-functionalism"
+   ],
+   "institutions": [
+    "inst-hfg-ulm"
+   ],
+   "key": "Swiss architect, artist and designer, a Bauhaus student who helped found the Ulm school and promoted «good form» in postwar design.",
+   "more": "Bill studied at the Bauhaus in Dessau in the late 1920s and worked in Zurich as an architect, artist and designer. He co-founded the Hochschule für Gestaltung in Ulm, designed its building and was its first rector. His Ulm stool is among his best-known designs. He died in 1994.",
+   "es": {
+    "dates": "1908–1994",
+    "key": "Arquitecto, artista y diseñador suizo, alumno de la Bauhaus, que ayudó a fundar la escuela de Ulm e impulsó la «buena forma» en el diseño de posguerra.",
+    "more": "Bill estudió en la Bauhaus de Dessau a fines de los años veinte y trabajó en Zúrich como arquitecto, artista y diseñador. Cofundó la Hochschule für Gestaltung de Ulm, diseñó su edificio y fue su primer rector. El taburete de Ulm es uno de sus diseños más conocidos. Murió en 1994."
+   },
+   "short": "Bill",
+   "refs": []
+  },
+  {
+   "id": "gui-bonsiepe",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "born": 1934,
+   "dates": "n. 1934",
+   "countries": [
+    "DE",
+    "CL"
+   ],
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "name": "Gui Bonsiepe",
+   "movements": [],
+   "institutions": [
+    "inst-intec",
+    "inst-hfg-ulm"
+   ],
+   "key": "German designer and teacher, trained at Ulm, who worked in Chile in the early 1970s and later taught design in Latin America.[1][2]",
+   "more": "Bonsiepe studied at the Hochschule für Gestaltung in Ulm, where he later taught.[1][3] In 1970–73 he worked in Chile on the state’s design effort during the Unidad Popular government, including the Cybersyn operations room.[1][2][3] He later taught and wrote on design in Latin America and Europe.[1][3]",
+   "es": {
+    "dates": "n. 1934",
+    "key": "Diseñador y docente alemán, formado en Ulm, que trabajó en Chile a comienzos de los años setenta y luego enseñó diseño en América Latina.[1][2]",
+    "more": "Bonsiepe estudió en la Hochschule für Gestaltung de Ulm, donde más tarde fue docente.[1][3] Entre 1970 y 1973 trabajó en Chile en el esfuerzo de diseño del Estado durante el gobierno de la Unidad Popular, incluida la sala de operaciones de Cybersyn.[1][2][3] Después enseñó y escribió sobre diseño en América Latina y Europa.[1][3]"
+   },
+   "short": "Bonsiepe",
+   "refs": [
+    {
+     "label": "ZKM Karlsruhe, «Gui Bonsiepe»",
+     "url": "https://zkm.de/en/person/gui-bonsiepe",
+     "checks": "nacido en 1934 en Alemania; estudió en la HfG Ulm (egresó en 1959) y trabajó allí en investigación y docencia 1960–1968; consultor en Chile, Argentina y Brasil; 1970–1973 jefe del equipo de diseño del proyecto Cybersyn; profesor en Colonia (1993–2003) y en ESDI, Río de Janeiro. ⚠ No nombra a la Unidad Popular.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "AI & Society (Springer), «Cybernetics, operations research and information theory at the Ulm School of Design and its influence on Latin America»",
+     "url": "https://link.springer.com/article/10.1007/s00146-021-01339-1",
+     "checks": "estudió en el departamento de información de la HfG Ulm; en Chile 1970–1973 dirigió el equipo de diseño de Cybersyn bajo el gobierno de Allende, incluida la estética de la sala de operaciones; alumnos alemanes de Ulm emigraron a América Latina a enseñar y ejercer.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "German Design Council, «Gui Bonsiepe turns 90»",
+     "url": "https://www.german-design-council.de/en/design-perspectives/article-detail/gui-bonsiepe-turns-90",
+     "checks": "nacido en 1934; estudió en la HfG Ulm desde 1955 y fue docente y editor de la revista ulm; jefe de diseño de INTEC en Chile bajo Allende (sala Opsroom); enseñó diseño de interfaces en Colonia 1993–2003. ⚠ Su lugar de nacimiento no se usa (la página lo da como Ulm, dato dudoso).",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "marcello-nizzoli",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1887,
+   "died": 1969,
+   "dates": "1887–1969",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Marcello Nizzoli",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [
+    "inst-olivetti"
+   ],
+   "key": "Italian architect, graphic artist and industrial designer who shaped the look of Olivetti typewriters and of sewing machines in the postwar years.[1][2][3]",
+   "more": "Nizzoli came to design from painting, graphics and architecture, and worked for Olivetti from the 1930s.[1] He designed the Lettera 22 portable typewriter of 1950[2] and the Mirella sewing machine for Necchi in the 1950s.[1][3] He died in 1969.[1]",
+   "es": {
+    "dates": "1887–1969",
+    "key": "Arquitecto, grafista y diseñador industrial italiano que dio su aspecto a las máquinas de escribir Olivetti y a las máquinas de coser de la posguerra.[1][2][3]",
+    "more": "Nizzoli llegó al diseño desde la pintura, la gráfica y la arquitectura, y trabajó para Olivetti desde los años treinta.[1] Diseñó la máquina de escribir portátil Lettera 22 de 1950[2] y la máquina de coser Mirella para Necchi en los años cincuenta.[1][3] Murió en 1969.[1]"
+   },
+   "short": "Nizzoli",
+   "refs": [
+    {
+     "label": "Treccani, Dizionario Biografico, «Nizzoli, Marcello»",
+     "url": "https://www.treccani.it/enciclopedia/marcello-nizzoli_(Dizionario-Biografico)/",
+     "checks": "nació el 2 ene 1887 en San Rocco (Boretto) y murió el 31 jul 1969 en Camogli; pintura, gráfica, textiles; con Olivetti desde 1938; Lettera 22 (1950); Mirella para Necchi con Compasso d'oro; título honorario de arquitecto 1966. ⚠ Texto leído en resumen.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, «Marcello Nizzoli. Lettera 22 Portable Typewriter. 1950»",
+     "url": "https://www.moma.org/collection/works/2967",
+     "checks": "Lettera 22 de Nizzoli, 1950, fabricada por Olivetti en Ivrea.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, «Marcello Nizzoli. Mirella Sewing Machine. 1956»",
+     "url": "https://www.moma.org/collection/works/2627",
+     "checks": "Mirella de Nizzoli, 1956, fabricada por Necchi en Pavía.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "ettore-sottsass",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1917,
+   "died": 2007,
+   "dates": "1917–2007",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Ettore Sottsass",
+   "movements": [
+    "italian-design",
+    "pop-design",
+    "memphis"
+   ],
+   "institutions": [
+    "inst-olivetti"
+   ],
+   "key": "Italian designer who worked for Olivetti from 1958 and later led the irreverent Memphis group in Milan.[1][2]",
+   "more": "He began as an architect and from 1958 was a consultant designer for Olivetti,[1][2] where he worked on the Elea 9003 computer and the Valentine portable typewriter of 1969.[1] In 1981 he founded the Memphis group in Milan,[2][3] which broke with functionalist sobriety;[1][2] the Carlton bookcase is among its best-known pieces.[2] He was born in Innsbruck in 1917 and died in Milan in 2007.[1][2]",
+   "es": {
+    "dates": "1917–2007",
+    "key": "Diseñador italiano que trabajó para Olivetti desde 1958 y luego lideró en Milán el irreverente grupo Memphis.[1][2]",
+    "more": "Comenzó como arquitecto y desde 1958 fue diseñador consultor de Olivetti,[1][2] donde trabajó en el computador Elea 9003 y en la máquina de escribir portátil Valentine de 1969.[1] En 1981 fundó en Milán el grupo Memphis,[2][3] que rompió con la sobriedad funcionalista;[1][2] el librero Carlton es una de sus piezas más conocidas.[2] Nació en Innsbruck en 1917 y murió en Milán en 2007.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Design Museum, Londres, «Ettore Sottsass»",
+     "url": "https://designmuseum.org/designers/ettore-sottsass",
+     "checks": "nació en Innsbruck (1917) y murió en Milán (2007); consultor de diseño de Olivetti desde 1958; Elea 9003 (1959); Valentine (1969); Memphis en Milán; rechazó el funcionalismo puro. ⚠ Da 1980 para Memphis; lo describe como calculadora, no menciona a Perry King.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Museum Boijmans Van Beuningen, «Ettore Sottsass»",
+     "url": "https://www.boijmans.nl/en/collection/artists/16682/ettore-sottsass",
+     "checks": "nacido en Innsbruck (1917), muerto en Milán (2007); consultor de Olivetti desde 1958; fundador de Memphis (1981-1987); librero Carlton, pieza emblemática de Memphis; Memphis buscaba devolver una dimensión simbólica y emocional al diseño. ⚠ Fecha la Valentine en 1970; no confirma que empezara como arquitecto de formación.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Ettore Sottsass»",
+     "url": "https://www.britannica.com/biography/Ettore-Sottsass",
+     "checks": "arquitecto y diseñador industrial; Olivetti (1958–80); fundó Memphis, epítome del diseño posmoderno. ⚠ Da 1980 para Memphis; el extracto no trae fechas de vida.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "castiglioni",
+   "level": "normal",
+   "kind": "duo",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1913,
+   "died": 2002,
+   "dates": "1918–2002 / 1913–1968",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Achille and Pier Giacomo Castiglioni",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [],
+   "key": "Italian brothers, Achille and Pier Giacomo, who designed witty, ingenious lamps and everyday objects, among them the Arco lamp for Flos.",
+   "more": "Achille (1918–2002) and Pier Giacomo (1913–1968) Castiglioni worked together in Milan, both trained as architects. They designed lamps, radios, furniture and exhibition displays, often by reusing ready-made parts such as tractor seats or car headlamps. The Arco floor lamp for Flos (1962) lit a table without hanging from the ceiling. Achille kept designing for decades after his brother’s death in 1968.",
+   "es": {
+    "dates": "1918–2002 / 1913–1968",
+    "key": "Hermanos italianos, Achille y Pier Giacomo, que diseñaron lámparas y objetos cotidianos ingeniosos y llenos de humor, entre ellos la lámpara Arco para Flos.",
+    "more": "Achille (1918–2002) y Pier Giacomo (1913–1968) Castiglioni trabajaron juntos en Milán, ambos formados como arquitectos. Diseñaron lámparas, radios, muebles y montajes de exposición, a menudo reutilizando piezas ya hechas, como asientos de tractor o focos de auto. La lámpara de pie Arco para Flos (1962) iluminaba una mesa sin colgar del techo. Achille siguió diseñando durante décadas después de la muerte de su hermano en 1968."
+   },
+   "refs": [],
+   "short": "Castiglioni"
+  },
+  {
+   "id": "joe-colombo",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1930,
+   "died": 1971,
+   "dates": "1930–1971",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Joe Colombo",
+   "movements": [
+    "italian-design",
+    "pop-design"
+   ],
+   "institutions": [],
+   "key": "Italian designer of the 1960s who explored plastics and compact, multi-purpose furniture, and died young in 1971.",
+   "more": "Born in Milan in 1930, Colombo worked first as a painter and then as an architect and designer. He made furniture and objects for Italian firms such as Kartell, including the Universale chair of 1967, an injection-moulded plastic chair in interlocking parts. He was interested in flexible, multi-function living units for small spaces. He died in Milan in 1971, aged 41.",
+   "es": {
+    "dates": "1930–1971",
+    "key": "Diseñador italiano de los años sesenta que exploró los plásticos y los muebles compactos y multifuncionales, y murió joven en 1971.",
+    "more": "Nacido en Milán en 1930, Colombo trabajó primero como pintor y luego como arquitecto y diseñador. Hizo muebles y objetos para empresas italianas como Kartell, entre ellos la silla Universale de 1967, una silla de plástico moldeado por inyección en piezas encajables. Le interesaban las unidades de vivienda flexibles y multifuncionales para espacios pequeños. Murió en Milán en 1971, a los 41 años."
+   },
+   "refs": []
+  },
+  {
+   "id": "gio-ponti",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1891,
+   "died": 1979,
+   "dates": "1891–1979",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Gio Ponti",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [],
+   "key": "Italian architect and designer who founded the magazine Domus in 1928 and designed the Pirelli Tower and the Superleggera chair.",
+   "more": "Born in Milan in 1891, Ponti trained as an architect and worked across buildings, ceramics, furniture and interiors. He founded Domus in 1928 and used it for decades to argue for Italian design that joined craft and industry. His Pirelli Tower in Milan (1958) was an emblem of the postwar boom, and his Superleggera chair for Cassina (1957) was a very light seat of slender ash. He died in Milan in 1979.",
+   "es": {
+    "dates": "1891–1979",
+    "key": "Arquitecto y diseñador italiano que fundó la revista Domus en 1928 y diseñó la Torre Pirelli y la silla Superleggera.",
+    "more": "Nacido en Milán en 1891, Ponti se formó como arquitecto y trabajó en edificios, cerámica, muebles e interiores. Fundó Domus en 1928 y la usó durante décadas para defender un diseño italiano que uniera oficio e industria. Su Torre Pirelli en Milán (1958) fue un emblema del auge de posguerra, y su silla Superleggera para Cassina (1957) era un asiento muy liviano de delgadas piezas de fresno. Murió en Milán en 1979."
+   },
+   "refs": []
+  },
+  {
+   "id": "paul-rand",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1914,
+   "died": 1996,
+   "dates": "1914–1996",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Paul Rand",
+   "movements": [
+    "corporate-identity-design",
+    "new-york-school-graphic"
+   ],
+   "institutions": [],
+   "key": "American graphic designer who brought European modernism to US advertising and made the corporate logos of IBM, Westinghouse and others.[1][2]",
+   "more": "Born in Brooklyn in 1914,[1][2] Rand began in magazine and advertising design in the late 1930s,[1] combining modern art with wit and plain layout.[1] He wrote Thoughts on Design (1947)[1] and later taught at Yale.[1][2] As a consultant he designed identities for IBM (1956), Westinghouse (1960) and other large firms,[1][2][3] treating the logo as a simple, durable symbol.[1] He died in Norwalk, Connecticut, in 1996.[1][2]",
+   "es": {
+    "dates": "1914–1996",
+    "key": "Diseñador gráfico estadounidense que llevó el modernismo europeo a la publicidad de su país e hizo los logotipos corporativos de IBM, Westinghouse y otras empresas.[1][2]",
+    "more": "Nacido en Brooklyn en 1914,[1][2] Rand comenzó en el diseño de revistas y publicidad a fines de los años treinta,[1] combinando arte moderno con ingenio y composición simple.[1] Escribió Thoughts on Design (1947)[1] y más tarde enseñó en Yale.[1][2] Como consultor diseñó identidades para IBM (1956), Westinghouse (1960) y otras grandes empresas,[1][2][3] tratando el logotipo como un símbolo simple y duradero.[1] Murió en Norwalk, Connecticut, en 1996.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Paul Rand»",
+     "url": "https://www.britannica.com/biography/Paul-Rand",
+     "checks": "nació el 15 de agosto de 1914 en Brooklyn; murió el 26 de noviembre de 1996 en Norwalk, Connecticut; director de arte de Esquire y Apparel Arts (1937–41); Thoughts on Design (1947); logotipos de Westinghouse (1960), ABC (1962) e IBM; profesor en Yale desde 1956; signos y símbolos como mensajes. ⚠ Fecha de IBM: Britannica menciona 1972 para el logotipo de bandas, no 1956.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Yale Bulletin & Calendar, obituario de Paul Rand",
+     "url": "https://archives.news.yale.edu/ybc/v25.n16.obit.03.html",
+     "checks": "nació en Brooklyn en 1914; murió de cáncer el 26 de noviembre en Norwalk, Connecticut; profesor en Yale 1956–1985; identidades de IBM (1956), Westinghouse y UPS (1961), ABC (1962).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Smithsonian American Art Museum, «Paul Rand»",
+     "url": "https://americanart.si.edu/artist/paul-rand-3936",
+     "checks": "nació en Nueva York (Kings County) en 1914 y murió en Norwalk, Connecticut en 1996; logotipos de IBM, ABC, Westinghouse y UPS; profesor emérito en Yale. ⚠ Solo dice 'Nueva York' como lugar de nacimiento.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "saul-bass",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1920,
+   "died": 1996,
+   "dates": "1920–1996",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Saul Bass",
+   "movements": [
+    "corporate-identity-design",
+    "new-york-school-graphic"
+   ],
+   "institutions": [],
+   "key": "American graphic designer who turned film title sequences and posters into short works of design, and also designed corporate logos.[1][2][3]",
+   "more": "Born in New York in 1920,[1] Bass became known for his work with Otto Preminger and Alfred Hitchcock, with imaginative title sequences.[1][3] His titles for Vertigo (1958) are among his best-known work.[1] He also designed corporate identities, among them logos for the Bell telephone company (AT&T) in 1969.[1][3][4] He died in Los Angeles in 1996.[1]",
+   "es": {
+    "dates": "1920–1996",
+    "key": "Diseñador gráfico estadounidense que convirtió los títulos de crédito y los carteles de cine en pequeñas obras de diseño, y también diseñó logotipos corporativos.[1][2][3]",
+    "more": "Nacido en Nueva York en 1920,[1] Bass se hizo conocido por su trabajo con Otto Preminger y Alfred Hitchcock, con títulos de crédito imaginativos.[1][3] Sus títulos para Vértigo (1958) están entre sus obras más conocidas.[1] También diseñó identidades corporativas, entre ellas logotipos de la telefónica Bell (AT&T) en 1969.[1][3][4] Murió en Los Ángeles en 1996.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Saul Bass»",
+     "url": "https://www.britannica.com/biography/Saul-Bass",
+     "checks": "nació el 8 de mayo de 1920 en el Bronx, Nueva York, y murió el 25 de abril de 1996 en Los Ángeles; títulos de crédito como nueva forma de arte; Preminger (The Man with the Golden Arm, 1955) y Hitchcock (Vertigo 1958); logotipos corporativos como AT&T. ⚠ No menciona el cartel de Vértigo ni el año 1969.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Museum of Modern Art, «Saul Bass»",
+     "url": "https://www.moma.org/artists/372",
+     "checks": "estadounidense, 1920–1996; carteles de cine, sobre todo para producciones de Otto Preminger, en la colección. ⚠ No da lugares ni menciona Vértigo ni Bell.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "AIGA Eye on Design, «Saul Bass, the Filmmaker’s Graphic Designer»",
+     "url": "https://eyeondesign.aiga.org/design-history-101/",
+     "checks": "colaboró con Hitchcock y Preminger, con títulos como los de The Man with the Golden Arm; logotipos para AT&T y otras empresas; carteles para Preminger desde 1954.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "AT&T, «Logo evolution fact sheet»",
+     "url": "https://www.att.com/Common/files/pdf/logo_evolution_factsheet.pdf",
+     "checks": "el sexto y último logotipo Bell se introdujo en 1969. ⚠ No atribuye ese diseño a Bass; la autoría de Bass del logo Bell de 1969 no queda confirmada por esta fuente.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "massimo-vignelli",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1931,
+   "died": 2014,
+   "dates": "1931–2014",
+   "countries": [
+    "IT",
+    "US"
+   ],
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "name": "Massimo Vignelli",
+   "movements": [
+    "international-typographic-style"
+   ],
+   "institutions": [
+    "inst-unimark"
+   ],
+   "key": "Italian-born designer who in the US co-founded Unimark and applied a strict, grid-based modernism to signs, logos and publications.",
+   "more": "Born in Milan in 1931, Vignelli moved to the United States in 1965 and co-founded Unimark International in New York that year. Unimark designed the American Airlines logo (1967) and, with Bob Noorda, the New York subway graphics standards manual (1970). He later worked with his wife Lella at Vignelli Associates, founded in 1971. He died in New York in 2014.",
+   "es": {
+    "dates": "1931–2014",
+    "key": "Diseñador de origen italiano que en Estados Unidos cofundó Unimark y aplicó un modernismo estricto, basado en retículas, a señales, logotipos y publicaciones.",
+    "more": "Nacido en Milán en 1931, Vignelli se trasladó a Estados Unidos en 1965 y ese año cofundó Unimark International en Nueva York. Unimark diseñó el logotipo de American Airlines (1967) y, con Bob Noorda, el manual de normas gráficas del metro de Nueva York (1970). Más tarde trabajó con su esposa Lella en Vignelli Associates, fundada en 1971. Murió en Nueva York en 2014."
+   },
+   "refs": []
+  },
+  {
+   "id": "milton-glaser",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1929,
+   "died": 2020,
+   "dates": "1929–2020",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Milton Glaser",
+   "movements": [
+    "pop-design",
+    "new-york-school-graphic"
+   ],
+   "institutions": [
+    "inst-push-pin"
+   ],
+   "key": "American graphic designer, co-founder of Push Pin Studios, known for the 1966 Bob Dylan poster and the I ♥ NY logo.[1][3]",
+   "more": "Born in New York in 1929,[1][2] Glaser co-founded Push Pin Studios in 1954 with Seymour Chwast and others,[1] a studio that drew on illustration and popular imagery rather than strict modernism.[1] His Dylan poster (1966) was folded into a record sleeve,[3] and his I ♥ NY logo was made for a New York State campaign in the late 1970s.[2][3] He also co-founded New York magazine in 1968.[3] He died in 2020.[2]",
+   "es": {
+    "dates": "1929–2020",
+    "key": "Diseñador gráfico estadounidense, cofundador de Push Pin Studios, conocido por el cartel de Bob Dylan de 1966 y el logotipo I ♥ NY.[1][3]",
+    "more": "Nacido en Nueva York en 1929,[1][2] Glaser cofundó en 1954 Push Pin Studios con Seymour Chwast y otros,[1] un estudio que se nutrió de la ilustración y la imaginería popular más que del modernismo estricto.[1] Su cartel de Dylan (1966) venía plegado dentro de un disco,[3] y su logotipo I ♥ NY se hizo para una campaña del estado de Nueva York a fines de los años setenta.[2][3] También cofundó la revista New York en 1968.[3] Murió en 2020.[2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Milton Glaser»",
+     "url": "https://www.britannica.com/biography/Milton-Glaser",
+     "checks": "vida 1929–2020; cofundó Push Pin en 1954 con Seymour Chwast, Reynold Ruffins y Edward Sorel; mezcla de cómic, arte moderno y otras influencias; cartel para un álbum de Dylan; contribuyó a fundar New York Magazine. ⚠ Fecha el cartel en 1967; no menciona el plegado en el disco.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "NPR, «Milton Glaser, Designer Behind The I ♥ NY Logo, Dies On 91st Birthday»",
+     "url": "https://www.npr.org/2020/06/27/884195779/milton-glaser-designer-behind-the-i-ny-logo-dies-on-91st-birthday",
+     "checks": "nació el 26 de junio de 1929 en el Bronx (Nueva York) y murió en 2020 a los 91 años; I ♥ NY de 1977 para una iniciativa del estado de Nueva York. ⚠ No confirma el lugar de muerte.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Centre Pompidou, «Focus on... Dylan by Milton Glaser»",
+     "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-dylan-by-milton-glaser",
+     "checks": "cartel de Dylan diseñado en 1966, plegado dentro de cada copia del álbum Greatest Hits; cofundó la revista New York en 1968; I ♥ NY en 1977.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "muller-brockmann",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1914,
+   "died": 1996,
+   "dates": "1914–1996",
+   "countries": [
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Josef Müller-Brockmann",
+   "movements": [
+    "international-typographic-style"
+   ],
+   "institutions": [],
+   "key": "Swiss graphic designer in Zurich who became a leading voice of the Swiss style, with grid-based posters and the review Neue Grafik.[1][2]",
+   "more": "Born in Rapperswil in 1914,[1] he worked in Zurich as a designer and teacher.[1][2] He was one of the editors of the review Neue Grafik, which from 1958 spread the Swiss approach to the world.[1] His posters, such as the road-safety poster of 1953 and his concert posters for the Zurich Tonhalle,[2] use photography or abstract forms with a strict grid and sans-serif type.[1][3] He wrote Grid Systems in Graphic Design (1981)[2] and died in 1996.[1]",
+   "es": {
+    "dates": "1914–1996",
+    "key": "Diseñador gráfico suizo de Zúrich que fue una voz principal del estilo suizo, con carteles basados en retícula y la revista Neue Grafik.[1][2]",
+    "more": "Nacido en Rapperswil en 1914,[1] trabajó en Zúrich como diseñador y docente.[1][2] Fue uno de los editores de la revista Neue Grafik, que desde 1958 difundió al mundo el enfoque suizo.[1] Sus carteles, como el de seguridad vial de 1953 y los de conciertos para la Tonhalle de Zúrich,[2] usan fotografía o formas abstractas con una retícula estricta y letra sin serifa.[1][3] Escribió Sistemas reticulares en el diseño gráfico (1981)[2] y murió en 1996.[1]"
+   },
+   "refs": [
+    {
+     "label": "Historisches Lexikon der Schweiz, «Müller-Brockmann, Josef»",
+     "url": "https://hls-dhs-dss.ch/articles/027870/2010-02-02/",
+     "checks": "nació el 9 de mayo de 1914 en Rapperswil (SG) y murió el 30 de agosto de 1996 en Unterengstringen; enseñó en la Escuela de Artes Aplicadas de Zúrich desde 1957; editó Neue Grafik en 1958-1965; series de carteles para la Tonhalle; combinó tipografía, fotografía y dibujo. ⚠ No menciona Grid Systems ni el cartel de 1953.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Josef Müller-Brockman»",
+     "url": "https://www.britannica.com/biography/Josef-Muller-Brockman",
+     "checks": "diseñador, educador y escritor con base en Zúrich; serie de carteles de conciertos de Zúrich con formas geométricas elementales y tipografía; cartel de seguridad vial de 1953; Grid Systems (1981). ⚠ No da fechas de vida en el extracto abierto.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Victoria and Albert Museum, «Musica Viva» (cartel de Müller-Brockmann)",
+     "url": "https://collections.vam.ac.uk/item/O110243/musica-viva-poster-josef-muller-brockmann/",
+     "checks": "estilo basado en retículas geométricas simples y tipografías sin serifa; cartel de 1959 para un concierto en la Tonhalle de Zúrich. ⚠ Solo confirma la retícula y la letra sin serifa; el uso de fotografía viene de la ref. 1.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "adrian-frutiger",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1928,
+   "died": 2015,
+   "dates": "1928–2015",
+   "countries": [
+    "CH",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Adrian Frutiger",
+   "movements": [
+    "international-typographic-style"
+   ],
+   "institutions": [],
+   "key": "Swiss typeface designer who made Univers (1957) and later the Frutiger typeface for Paris Charles de Gaulle airport signs.[1][2]",
+   "more": "Born near Interlaken in 1928,[2] he trained as a compositor and studied in Zurich before joining the Paris foundry Deberny & Peignot in 1952.[1] There he designed Univers, issued in 1957 as a coherent family of 21 variants for phototypesetting.[1][3] Later he set up his own studio in Paris and drew a typeface for the signs of Charles de Gaulle airport, which became the Frutiger typeface.[2][3] He died in 2015.[2]",
+   "es": {
+    "dates": "1928–2015",
+    "key": "Diseñador suizo de tipos que creó Univers (1957) y más tarde la tipografía Frutiger para la señalética del aeropuerto Charles de Gaulle de París.[1][2]",
+    "more": "Nacido cerca de Interlaken en 1928,[2] se formó como cajista y estudió en Zúrich antes de entrar en 1952 a la fundición parisina Deberny & Peignot.[1] Allí diseñó Univers, lanzada en 1957 como una familia coherente de 21 variantes para la fotocomposición.[1][3] Más tarde abrió su propio estudio en París y dibujó una tipografía para la señalética del aeropuerto Charles de Gaulle, que se convirtió en la tipografía Frutiger.[2][3] Murió en 2015.[2]"
+   },
+   "refs": [
+    {
+     "label": "Presidencia de la Confederación Suiza (aboutswitzerland.eda.admin.ch), «Adrian Frutiger, forever true to type»",
+     "url": "https://www.aboutswitzerland.eda.admin.ch/en/adrian-frutiger-forever-true-to-type",
+     "checks": "vida 1928–2015; nació cerca de Interlaken; formación de cajista y estudios en Zúrich; ingreso en Deberny & Peignot en 1952; Univers en 1957 con 21 series; tipografía Frutiger desarrollada para la señalética del aeropuerto Charles de Gaulle. ⚠ No fecha la fundación del estudio propio.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "swissinfo.ch, «Master of the Univers: Swiss font legend Adrian Frutiger dies»",
+     "url": "https://www.swissinfo.ch/eng/society/master-of-the-univers_swiss-font-legend-adrian-frutiger-dies/41659284",
+     "checks": "nació en 1928 en Unterseen (Oberland bernés) y murió en 2015; Univers; estudio propio establecido en 1960; la tipografía Frutiger en Charles de Gaulle. ⚠ Sitúa su muerte en Berna; otras fuentes dicen Bremgarten bei Bern; no se afirma lugar de muerte.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Eye Magazine, «Reputations: Adrian Frutiger» (entrevista de 1999)",
+     "url": "https://www.eyemagazine.com/feature/article/reputations-adrian-frutiger",
+     "checks": "Univers (1954-57) con 21 variantes pensadas para la fotocomposición; el trabajo de señalética en Charles de Gaulle. ⚠ No confirma que Univers saliera también en metal.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "max-miedinger",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1910,
+   "died": 1980,
+   "dates": "1910–1980",
+   "countries": [
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Max Miedinger",
+   "movements": [
+    "international-typographic-style"
+   ],
+   "institutions": [],
+   "key": "Swiss typeface designer who drew Neue Haas Grotesk in 1957, later renamed Helvetica.",
+   "more": "Born in Zurich in 1910, he trained as a typesetter and worked as a typographer and in type sales before joining the Haas type foundry in Münchenstein. There, with the foundry’s director Eduard Hoffmann, he drew the Neue Haas Grotesk of 1957. It was renamed Helvetica in 1960 when the German firm Stempel and Linotype brought it out in more weights. He died in 1980.",
+   "es": {
+    "dates": "1910–1980",
+    "key": "Diseñador suizo de tipos que dibujó la Neue Haas Grotesk en 1957, rebautizada más tarde como Helvetica.",
+    "more": "Nacido en Zúrich en 1910, se formó como tipógrafo y trabajó como tipógrafo y en ventas de tipos antes de entrar a la fundición Haas en Münchenstein. Allí, con el director de la fundición, Eduard Hoffmann, dibujó la Neue Haas Grotesk de 1957. Fue rebautizada Helvetica en 1960, cuando las empresas Stempel y Linotype la lanzaron en más pesos. Murió en 1980."
+   },
+   "refs": []
+  },
+  {
+   "id": "wim-crouwel",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1928,
+   "died": 2019,
+   "dates": "1928–2019",
+   "countries": [
+    "NL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Wim Crouwel",
+   "movements": [
+    "international-typographic-style"
+   ],
+   "institutions": [],
+   "key": "Dutch graphic designer, co-founder of Total Design and author of rigorously gridded posters for the Stedelijk Museum and of the New Alphabet of 1967.",
+   "more": "He worked in Amsterdam and in 1963 co-founded the design studio Total Design, which brought a systematic, grid-based approach to corporate and cultural identities in the Netherlands. His posters and catalogues for the Stedelijk Museum in Amsterdam are among the best known examples of Dutch modernist graphic design. In 1967 he proposed the New Alphabet, a typeface built only from straight lines and conceived for the limits of cathode-ray-tube screens. Born in Groningen in 1928, he died in Amsterdam in 2019.",
+   "es": {
+    "dates": "1928–2019",
+    "key": "Diseñador gráfico neerlandés, cofundador de Total Design y autor de afiches de rigurosa retícula para el Stedelijk Museum y del Nuevo alfabeto de 1967.",
+    "more": "Trabajó en Ámsterdam y en 1963 cofundó el estudio Total Design, que llevó un enfoque sistemático, basado en la retícula, a las identidades corporativas y culturales de los Países Bajos. Sus afiches y catálogos para el Stedelijk Museum de Ámsterdam están entre los ejemplos más conocidos del diseño gráfico moderno neerlandés. En 1967 propuso el Nuevo alfabeto, una tipografía hecha solo de líneas rectas y pensada para las limitaciones de las pantallas de tubo de rayos catódicos. Nació en Groninga en 1928 y murió en Ámsterdam en 2019."
+   },
+   "refs": []
+  },
+  {
+   "id": "christian-dior",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1905,
+   "died": 1957,
+   "dates": "1905–1957",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Christian Dior",
+   "movements": [],
+   "institutions": [],
+   "key": "French couturier who founded his Paris house in 1946 and made the New Look of 1947 the dominant silhouette of postwar fashion.[1][2]",
+   "more": "He opened his own couture house in Paris in 1946.[1][2] His first collection, in February 1947, with a marked waist and very full skirts, was named the New Look by the press and set the line of the years after the war.[1][2] The house grew into a global business with licences, which later became a model for the fashion industry.[1][2] He died in 1957, and the young Yves Saint Laurent took over as head of the house.[1][3] Born in Granville in 1905, he died in Italy.[1]",
+   "es": {
+    "dates": "1905–1957",
+    "key": "Modisto francés que fundó su casa en París en 1946 e hizo del New Look de 1947 la silueta dominante de la moda de posguerra.[1][2]",
+    "more": "Abrió su propia casa de alta costura en París en 1946.[1][2] Su primera colección, en febrero de 1947, con la cintura marcada y faldas muy amplias, fue bautizada «New Look» por la prensa y fijó la línea de los años posteriores a la guerra.[1][2] La casa se convirtió en un negocio global con licencias, que más tarde sirvió de modelo a la industria de la moda.[1][2] Murió en 1957 y el joven Yves Saint Laurent pasó a dirigir la casa.[1][3] Nació en Granville en 1905 y murió en Italia.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Christian Dior»",
+     "url": "https://www.britannica.com/biography/Christian-Dior-French-designer",
+     "checks": "nació el 21 de enero de 1905 en Granville; murió el 24 de octubre de 1957 en Montecatini, Italia; casa fundada en 1946; New Look en febrero de 1947, dominante en la década siguiente; expansión por licencias; la casa siguió con otros directores creativos.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «Christian Dior (1905–1957)»",
+     "url": "https://www.metmuseum.org/essays/christian-dior-1905-1957",
+     "checks": "abrió su casa en 1946; debut de 1947 con hombros redondeados, cintura ceñida y falda muy amplia; licencias desde 1948; murió en 1957. ⚠ No dice 'bautizado por la prensa' ni el lugar de muerte.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica, «Yves Saint Laurent»",
+     "url": "https://www.britannica.com/biography/Yves-Saint-Laurent-French-designer",
+     "checks": "fue asistente de Dior a los 17 años y, tras la muerte de Dior en 1957, asumió la dirección de la casa a los 21.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "balenciaga",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1895,
+   "died": 1972,
+   "dates": "1895–1972",
+   "countries": [
+    "ES",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Cristóbal Balenciaga",
+   "movements": [],
+   "institutions": [],
+   "key": "Spanish couturier, admired by his peers as a master, who worked in Paris from 1937 and shaped the looser silhouettes of the 1950s.[1][2][3]",
+   "more": "Born in Getaria in the Basque Country,[1][2][3] he began in Spain and opened a house in Paris in 1937.[1][2][3] Among other couturiers he was admired as a master, Dior calling him \"the master of us all\";[3] in the 1950s he moved away from the marked waist towards looser lines, such as the sack dress of 1957.[1][2] He closed his house in 1968,[1][2][3] and he died in Spain in 1972.[1][2] Designers who trained in his house include André Courrèges.[2]",
+   "es": {
+    "dates": "1895–1972",
+    "key": "Modisto español, admirado por sus pares como un maestro, que trabajó en París desde 1937 y dio forma a las siluetas más sueltas de los años cincuenta.[1][2][3]",
+    "more": "Nacido en Getaria, en el País Vasco,[1][2][3] comenzó en España y abrió una casa en París en 1937.[1][2][3] Entre los demás modistos era admirado como un maestro, y Dior lo llamó «el maestro de todos nosotros»;[3] en los años cincuenta se alejó de la cintura marcada hacia líneas más sueltas, como el vestido saco de 1957.[1][2] Cerró su casa en 1968[1][2][3] y murió en España en 1972.[1][2] Entre quienes se formaron en su casa está André Courrèges.[2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Cristóbal Balenciaga»",
+     "url": "https://www.britannica.com/biography/Cristobal-Balenciaga",
+     "checks": "nació el 21 de enero de 1895 en Guetaria (Getaria), España; se trasladó a París en 1937; en 1968 la casa cerró y él se retiró; siluetas sueltas a fines de los años cincuenta; murió el 23 de marzo de 1972 en Valencia (España). ⚠ No menciona el vestido saco ni a Courrèges.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Heilbrunn Timeline, «Cristobal Balenciaga (1895–1972)»",
+     "url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+     "checks": "nació el 21 de enero de 1895 en Guetaria; murió en España en 1972; abrió su casa en París en agosto de 1937; vestido saco de 1957 y nueva silueta; el salón cerró en 1968; entre quienes se formaron con él, André Courrèges. ⚠ Da el 24 de marzo de 1972 como fecha de muerte (Britannica: 23).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Museo Cristóbal Balenciaga (Getaria), «Cristóbal Balenciaga»",
+     "url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+     "checks": "nació el 21 de enero de 1895 en Getaria; en 1937 se trasladó a París; período parisino 1937–1968; Dior lo llamó «el maestro de todos nosotros». ⚠ La página no da la fecha de muerte.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "mary-quant",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1930,
+   "died": 2023,
+   "dates": "1930–2023",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Mary Quant",
+   "movements": [],
+   "institutions": [],
+   "key": "British designer whose Chelsea boutique and mass-produced young clothes made her the best-known name of London fashion in the 1960s and the figure linked to the miniskirt.[1][2]",
+   "more": "Trained as an art student in London,[2] she opened the boutique Bazaar on the King’s Road in Chelsea in the mid-1950s with her partners.[1][2] She designed short, simple clothes for young women and later a line produced in series for shops,[1][2] so that her fashion reached a young mass public.[1] She is associated with the miniskirt of the mid-1960s, although others also claimed it.[1][2] Born in London in 1930, she died in England in 2023.[1]",
+   "es": {
+    "dates": "1930–2023",
+    "key": "Diseñadora británica cuya boutique de Chelsea y cuya ropa joven producida en serie la volvieron el nombre más conocido de la moda londinense de los años sesenta y la figura asociada a la minifalda.[1][2]",
+    "more": "Formada como estudiante de arte en Londres,[2] abrió la boutique Bazaar en King’s Road, en Chelsea, a mediados de los años cincuenta con sus socios.[1][2] Diseñó ropa corta y sencilla para mujeres jóvenes y más tarde una línea producida en serie para tiendas,[1][2] de modo que su moda llegó a un público joven y masivo.[1] Se la asocia con la minifalda de mediados de los sesenta, aunque otros también la reclamaron.[1][2] Nació en Londres en 1930 y murió en Inglaterra en 2023.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Mary Quant»",
+     "url": "https://www.britannica.com/biography/Mary-Quant",
+     "checks": "nació el 11 de febrero de 1930 en Londres y murió el 13 de abril de 2023 en Surrey, Inglaterra; estudió en Goldsmiths; cofundó Bazaar en King’s Road, Chelsea; moda juvenil y producción en masa; popularizó la minifalda en los sesenta. ⚠ Fecha Bazaar en 1957 (V&A: 1955).",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Victoria and Albert Museum, «Introducing Mary Quant»",
+     "url": "https://www.vam.ac.uk/articles/introducing-mary-quant",
+     "checks": "Bazaar abierto en 1955 en King’s Road con Alexander Plunket Greene y Archie McNair; estudió ilustración en Goldsmiths (1953); línea Ginger Group de 1963 para el mercado masivo; Courrèges como otro posible creador de la minifalda; vida 1930–2023. ⚠ No detalla «ropa corta y sencilla» ni la fecha exacta de la minifalda.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "yves-saint-laurent",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1936,
+   "died": 2008,
+   "dates": "1936–2008",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Yves Saint Laurent",
+   "movements": [],
+   "institutions": [],
+   "key": "French couturier who took over Dior at 21,[1] founded his own house in 1961[1] and opened the Rive Gauche ready-to-wear boutique in 1966.[1][2]",
+   "more": "Born in Oran, Algeria, in 1936,[1][2] he became head of the house of Dior after Christian Dior’s death in 1957.[1][2] He opened his own house in Paris in 1961 with Pierre Bergé.[1] In the 1960s he turned art and menswear into women’s clothes, as in the Mondrian dress of 1965 and Le Smoking of 1966,[1][2] and he opened the Rive Gauche boutique in 1966 to sell ready-to-wear.[1][2] He died in Paris in 2008.[2]",
+   "es": {
+    "dates": "1936–2008",
+    "key": "Modisto francés que asumió la dirección de Dior a los 21 años,[1] fundó su propia casa en 1961[1] y abrió en 1966 la boutique de prêt-à-porter Rive Gauche.[1][2]",
+    "more": "Nacido en Orán, Argelia, en 1936,[1][2] pasó a dirigir la casa Dior tras la muerte de Christian Dior en 1957.[1][2] Abrió su propia casa en París en 1961 junto a Pierre Bergé.[1] En los años sesenta convirtió el arte y el vestuario masculino en ropa de mujer, como en el vestido Mondrian de 1965 y Le Smoking de 1966,[1][2] y abrió la boutique Rive Gauche en 1966 para vender prêt-à-porter.[1][2] Murió en París en 2008.[2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopedia.com, «Yves Saint Laurent» (referencia biográfica)",
+     "url": "https://www.encyclopedia.com/people/literature-and-arts/fashion-biographies/yves-saint-laurent",
+     "checks": "nació el 1 de agosto de 1936 en Orán, Argelia; jefe de diseño de Dior a los 21 años tras la muerte de Dior en 1957; casa propia en 1961 con Pierre Bergé; vestido Mondrian (1965), Le Smoking (1966); Rive Gauche en 1966. ⚠ Habla de «línea» de prêt-à-porter, no de boutique.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Encyclopaedia Britannica (edición para estudiantes), «Yves Saint Laurent»",
+     "url": "https://kids.britannica.com/students/article/Yves-Saint-Laurent/335360",
+     "checks": "vida 1936–2008; nació en Orán; murió en París el 1 de junio de 2008; asumió Dior en 1957; Rive Gauche en 1966; transformó prendas masculinas en ropa femenina. ⚠ Fecha la apertura de su casa en 1962.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "pierre-cardin",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1922,
+   "died": 2020,
+   "dates": "1922–2020",
+   "countries": [
+    "FR",
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Pierre Cardin",
+   "movements": [
+    "space-age-fashion"
+   ],
+   "institutions": [],
+   "key": "French couturier of Italian birth who opened his house in 1950, took ready-to-wear and licensing into couture and designed geometric, space-inspired clothes in the 1960s.",
+   "more": "Born near Treviso in Italy, he moved to France as a child and opened his own house in Paris in 1950. He was one of the first couturiers to design ready-to-wear and to license his name widely. In the 1960s he showed geometric, unisex clothes, with tunics, helmets and bold shapes, inspired by the space race. He died in 2020.",
+   "es": {
+    "dates": "1922–2020",
+    "key": "Modisto francés de origen italiano que abrió su casa en 1950, llevó el prêt-à-porter y las licencias a la alta costura y diseñó en los años sesenta ropa geométrica de inspiración espacial.",
+    "more": "Nacido cerca de Treviso, en Italia, se mudó a Francia de niño y abrió su propia casa en París en 1950. Fue uno de los primeros modistos en diseñar prêt-à-porter y en licenciar su nombre de forma amplia. En los años sesenta presentó ropa geométrica y unisex, con túnicas, cascos y formas atrevidas, inspirada en la carrera espacial. Murió en 2020."
+   },
+   "refs": []
+  },
+  {
+   "id": "andre-courreges",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1923,
+   "died": 2016,
+   "dates": "1923–2016",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "André Courrèges",
+   "movements": [
+    "space-age-fashion"
+   ],
+   "institutions": [],
+   "key": "French couturier, trained with Balenciaga, whose 1964 collection of white boots, trousers and geometric short dresses defined space-age fashion.",
+   "more": "Born in Pau in 1923, he worked for years in the house of Balenciaga and opened his own house in Paris in 1961. His 1964 collection, with short, geometric dresses and trousers in clean white and silver tones, and flat white boots, became the best known image of space-age fashion. His clothes were cut with the precision learnt from his master. He died in 2016.",
+   "es": {
+    "dates": "1923–2016",
+    "key": "Modisto francés, formado con Balenciaga, cuya colección de 1964 con botas blancas, pantalones y vestidos cortos geométricos definió la moda de la era espacial.",
+    "more": "Nacido en Pau en 1923, trabajó años en la casa de Balenciaga y abrió la suya en París en 1961. Su colección de 1964, con vestidos cortos y geométricos y pantalones en blancos y plateados nítidos, y botas blancas bajas, se volvió la imagen más conocida de la moda de la era espacial. Su ropa se cortaba con la precisión aprendida de su maestro. Murió en 2016."
+   },
+   "refs": []
+  },
+  {
+   "id": "maija-isola",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1927,
+   "died": 2001,
+   "dates": "1927–2001",
+   "countries": [
+    "FI"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Maija Isola",
+   "movements": [
+    "scandinavian-design"
+   ],
+   "institutions": [
+    "inst-marimekko"
+   ],
+   "key": "Finnish textile designer, the best-known printmaker of Marimekko, whose large, bold patterns such as Unikko of 1964 became icons of Finnish design.",
+   "more": "Born in Riihimäki in 1927, she trained as a painter and designed textile prints for the Finnish firm that became Marimekko, working with its founder Armi Ratia. Her large, colourful, hand-drawn patterns, often abstract or based on flowers, gave the firm much of its identity. The poppy pattern Unikko, from 1964, is her best-known design. She died in 2001.",
+   "es": {
+    "dates": "1927–2001",
+    "key": "Diseñadora textil finlandesa, la estampadora más conocida de Marimekko, cuyos patrones grandes y atrevidos, como Unikko de 1964, se volvieron íconos del diseño finlandés.",
+    "more": "Nacida en Riihimäki en 1927, se formó como pintora y diseñó estampados textiles para la empresa finlandesa que llegó a ser Marimekko, trabajando con su fundadora Armi Ratia. Sus patrones grandes, coloridos y dibujados a mano, a menudo abstractos o basados en flores, dieron a la firma buena parte de su identidad. El estampado de amapolas Unikko, de 1964, es su diseño más conocido. Murió en 2001."
+   },
+   "refs": []
+  },
+  {
+   "id": "lina-bo-bardi",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture",
+    "product"
+   ],
+   "born": 1914,
+   "died": 1992,
+   "dates": "1914–1992",
+   "countries": [
+    "IT",
+    "BR"
+   ],
+   "regions": [
+    "europe",
+    "latin-america"
+   ],
+   "name": "Lina Bo Bardi",
+   "movements": [],
+   "institutions": [],
+   "key": "Italian-born Brazilian architect and designer, author of the MASP building, the Casa de Vidro and SESC Pompéia, who worked with popular culture.[1][3]",
+   "more": "Born in Rome in 1914, she studied architecture there[1][2] and moved to Brazil in 1946 with Pietro Maria Bardi.[1][2] She designed the Casa de Vidro in São Paulo (1951), the MASP building on Avenida Paulista (1968) and the conversion of a factory into SESC Pompéia (1986).[1][2][3] She drew on Brazilian popular culture.[1][3] She died in São Paulo in 1992.[1][2]",
+   "es": {
+    "dates": "1914–1992",
+    "key": "Arquitecta y diseñadora brasileña de origen italiano, autora del edificio del MASP, la Casa de Vidro y el SESC Pompéia, que trabajó con la cultura popular.[1][3]",
+    "more": "Nacida en Roma en 1914, estudió arquitectura allí[1][2] y se trasladó a Brasil en 1946 con Pietro Maria Bardi.[1][2] Diseñó la Casa de Vidro en São Paulo (1951), el edificio del MASP en la avenida Paulista (1968) y la transformación de una fábrica en el SESC Pompéia (1986).[1][2][3] Se apoyó en la cultura popular brasileña.[1][3] Murió en São Paulo en 1992.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Lina Bo Bardi»",
+     "url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+     "checks": "nació el 5 de diciembre de 1914 en Roma y murió en São Paulo en 1992; se instaló en Brasil en 1946; Casa de Vidro (1951), MASP (1968), SESC Pompéia (1986); su obra fundió modernismo y populismo.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Instituto Bardi, «Lina Bo Bardi»",
+     "url": "https://institutobardi.org.br/en/grupo_the-founders/04_lina-bo-bardi_en/",
+     "checks": "nacida en Roma en 1914, murió en São Paulo en 1992; estudió arquitectura en Roma (1934-1939); llegó a Brasil en 1946 con Pietro Maria Bardi; Casa de Vidro 1951; MASP inaugurado en 1968 en la avenida Paulista. ⚠ Da 1982 como apertura del SESC Pompéia; no menciona la cultura popular.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Enciclopédia Itaú Cultural, «Lina Bo Bardi»",
+     "url": "https://enciclopedia.itaucultural.org.br/pessoas/526-lina-bo-bardi",
+     "checks": "llegó a Brasil en 1946 con Pietro Maria Bardi; MASP (1968), Casa de Vidro (1951) y SESC Pompéia como fábrica readaptada; veía la cultura popular brasileña como vital para el modernismo. ⚠ No fecha el SESC en 1986.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "sergio-rodrigues",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1927,
+   "died": 2014,
+   "dates": "1927–2014",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Sergio Rodrigues",
+   "movements": [],
+   "institutions": [],
+   "key": "Brazilian furniture designer from Rio de Janeiro who made a modern Brazilian style in native woods, best known for the Mole armchair of 1957.[1][2]",
+   "more": "Born in Rio de Janeiro in 1927,[1] he trained as an architect[1] and became one of the main figures of modern Brazilian furniture.[1][2] He worked with solid native woods such as jacarandá and with Brazilian craft techniques.[1][2] The Mole armchair, from 1957, with a wide wooden frame and leather cushions, is his best-known piece.[1][2] He died in Rio de Janeiro in 2014.[1]",
+   "es": {
+    "dates": "1927–2014",
+    "key": "Diseñador de muebles brasileño de Río de Janeiro que creó un estilo moderno brasileño en maderas nativas, conocido sobre todo por el sillón Mole de 1957.[1][2]",
+    "more": "Nacido en Río de Janeiro en 1927,[1] se formó como arquitecto[1] y llegó a ser una de las figuras principales del mueble moderno brasileño.[1][2] Trabajó con maderas macizas nativas, como el jacarandá, y con técnicas artesanales brasileñas.[1][2] El sillón Mole, de 1957, con una amplia estructura de madera y cojines de cuero, es su pieza más conocida.[1][2] Murió en Río de Janeiro en 2014.[1]"
+   },
+   "refs": [
+    {
+     "label": "Enciclopédia Itaú Cultural, «Sergio Rodrigues»",
+     "url": "https://enciclopedia.itaucultural.org.br/pessoas/13099-sergio-rodrigues",
+     "checks": "nació el 22 de septiembre de 1927 en Río de Janeiro y murió el 1 de septiembre de 2014 en la misma ciudad; ingresó en 1947 a la Facultad Nacional de Arquitectura y se tituló en 1951; maderas nativas (jacarandá, freijó); poltrona Mole (1957) con estructura robusta de madera y correas de cuero; mantuvo técnicas artesanales.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Metropolitan Museum of Art, «Mole Armchair and Ottoman»",
+     "url": "https://www.metmuseum.org/art/collection/search/772912",
+     "checks": "Sergio Rodrigues (1927–2014), de Río de Janeiro, «padre del diseño moderno en Brasil»; sillón Mole de 1957 en jacarandá con cojines de cuero negro; vocabulario formal brasileño. ⚠ No cubre la formación como arquitecto.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "aloisio-magalhaes",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1927,
+   "died": 1982,
+   "dates": "1927–1982",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Aloísio Magalhães",
+   "movements": [
+    "corporate-identity-design"
+   ],
+   "institutions": [
+    "inst-esdi"
+   ],
+   "key": "Brazilian graphic designer and cultural administrator, author of the symbol of Rio’s IV Centenary in 1965 and a key figure in modern Brazilian visual identity.",
+   "more": "Born in Recife in 1927, he began as an artist and became one of the pioneers of graphic design in Brazil, designing identities and symbols for public and private institutions. He designed the symbol of the IV Centenary of Rio de Janeiro in 1965 and taught at the ESDI school in Rio. In his last years he worked on the protection of Brazil’s cultural heritage. He died in Venice in 1982.",
+   "es": {
+    "dates": "1927–1982",
+    "key": "Diseñador gráfico brasileño y gestor cultural, autor del símbolo del IV Centenario de Río en 1965 y figura clave de la identidad visual moderna brasileña.",
+    "more": "Nacido en Recife en 1927, comenzó como artista y llegó a ser uno de los pioneros del diseño gráfico en Brasil, con identidades y símbolos para instituciones públicas y privadas. Diseñó el símbolo del IV Centenario de Río de Janeiro en 1965 y enseñó en la escuela ESDI de Río. En sus últimos años trabajó en la protección del patrimonio cultural de Brasil. Murió en Venecia en 1982."
+   },
+   "refs": []
+  },
+  {
+   "id": "lance-wyman",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1937,
+   "dates": "1937–",
+   "countries": [
+    "US",
+    "MX"
+   ],
+   "regions": [
+    "north-america",
+    "latin-america"
+   ],
+   "name": "Lance Wyman",
+   "movements": [
+    "corporate-identity-design"
+   ],
+   "institutions": [],
+   "key": "American graphic designer who led the visual identity of the Mexico City 1968 Olympics, built from a logotype, pictograms and a colour system.[1][2]",
+   "more": "Wyman worked with Eduardo Terrazas and Peter Murdoch on the identity of the 1968 Games,[2] in which the five Olympic rings were echoed in a repeating line pattern inspired in part by Mexican folk art.[1][2] He also designed pictograms for the Mexico City Metro stations from 1969,[1] so that people who could not read could find their stop.[3] Born in 1937,[1] he went on to design signs and maps for other cities.[1]",
+   "es": {
+    "dates": "1937–",
+    "key": "Diseñador gráfico estadounidense que dirigió la identidad visual de los Juegos Olímpicos de México 1968, construida con un logotipo, pictogramas y un sistema de color.[1][2]",
+    "more": "Wyman trabajó con Eduardo Terrazas y Peter Murdoch en la identidad de los Juegos de 1968,[2] en la que los cinco aros olímpicos se repetían en un patrón de líneas inspirado en parte en el arte popular mexicano.[1][2] También diseñó desde 1969 los pictogramas de las estaciones del Metro de Ciudad de México,[1] para que quienes no sabían leer pudieran encontrar su parada.[3] Nacido en 1937,[1] siguió diseñando señalización y mapas para otras ciudades.[1]"
+   },
+   "refs": [
+    {
+     "label": "AIGA, «2017 AIGA Medalist: Lance Wyman»",
+     "url": "https://www.aiga.org/membership-community/aiga-awards/2017-aiga-medalist-lance-wyman",
+     "checks": "nació el 2 de julio de 1937 en Newark, Nueva Jersey; identidad de México 68 con los aros olímpicos, Op Art e inspiración en arte popular mexicano; pictogramas del Metro de Ciudad de México (1969); mapas del Metro de Washington (1971–1976). ⚠ No nombra a Terrazas ni Murdoch.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "SEGD, «1968 Mexico City Olympics»",
+     "url": "https://segd.org/resources/1968-mexico-city-olympics-0/",
+     "checks": "Wyman dirigió el diseño gráfico con Peter Murdoch (proyectos especiales) y junto a Eduardo Terrazas (diseño urbano); aros olímpicos con líneas radiantes inspiradas en Op Art y patrones prehispánicos; sistema pictográfico; colaboración con artesanos huicholes y arte popular mexicano. ⚠ No cita los aros como «patrón de líneas repetido» sino líneas concéntricas.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Designboom, «Interview with graphic designer Lance Wyman»",
+     "url": "https://www.designboom.com/design/lance-wyman-interview-10-14-2014-2/",
+     "checks": "nació en Newark en 1937; se instaló en Ciudad de México en 1967; logotipo México 68; pictogramas del Metro (1969) para ayudar a pasajeros analfabetos o que no hablan español. ⚠ Entrevista en revista de diseño.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "archizoom",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1966,
+   "died": 1974,
+   "dates": "1966–1974",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Archizoom Associati",
+   "movements": [
+    "radical-design"
+   ],
+   "institutions": [],
+   "key": "Florentine group of young architects that used ironic, Pop-inspired projects to criticise the consumer city and functionalist design.",
+   "more": "Archizoom was founded in Florence in 1966 by Andrea Branzi, Gilberto Corretti, Paolo Deganello and Massimo Morozzi, later joined by Dario and Lucia Bartolini. It belonged to the Italian Radical Design of the late 1960s, with furniture and drawings that mocked good taste. Its best-known project, No-Stop City (1969–72), imagined the city as an endless supermarket or factory. The group ended in 1974.",
+   "es": {
+    "dates": "1966–1974",
+    "key": "Grupo florentino de jóvenes arquitectos que usó proyectos irónicos, de inspiración pop, para criticar la ciudad de consumo y el diseño funcionalista.",
+    "more": "Archizoom se fundó en Florencia en 1966 por Andrea Branzi, Gilberto Corretti, Paolo Deganello y Massimo Morozzi, a quienes se sumaron después Dario y Lucia Bartolini. Perteneció al Diseño Radical italiano de fines de los años sesenta, con muebles y dibujos que se burlaban del buen gusto. Su proyecto más conocido, No-Stop City (1969–72), imaginó la ciudad como un supermercado o una fábrica sin fin. El grupo terminó en 1974."
+   },
+   "refs": []
+  },
+  {
+   "id": "superstudio",
+   "level": "essential",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1966,
+   "died": 1978,
+   "dates": "1966–1978",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Superstudio",
+   "movements": [
+    "radical-design"
+   ],
+   "institutions": [],
+   "key": "Florentine architecture group whose photomontages and drawings imagined a single gridded structure over the planet as a critique of consumer urbanism.[1][3]",
+   "more": "Superstudio was founded in Florence in 1966 by Adolfo Natalini and Cristiano Toraldo di Francia, with other members joining soon after.[1][2] It was one of the main groups of Italian Radical Design and worked mostly through drawings, photomontages, films and exhibitions rather than buildings.[2][3] Its Continuous Monument (1969) showed a mirrored grid crossing landscapes and cities as an ironic warning about uniform, mass-produced space.[3] The group stopped working around 1978.[1]",
+   "es": {
+    "dates": "1966–1978",
+    "key": "Grupo florentino de arquitectura cuyos fotomontajes y dibujos imaginaron una sola estructura cuadriculada sobre el planeta, como crítica al urbanismo del consumo.[1][3]",
+    "more": "Superstudio se fundó en Florencia en 1966 por Adolfo Natalini y Cristiano Toraldo di Francia, a quienes se sumaron otros integrantes poco después.[1][2] Fue uno de los principales grupos del Diseño Radical italiano y trabajó sobre todo con dibujos, fotomontajes, películas y exposiciones, más que con edificios.[2][3] Su Monumento continuo (1969) mostraba una retícula espejada que cruza paisajes y ciudades, como advertencia irónica sobre el espacio uniforme y producido en masa.[3] El grupo dejó de trabajar hacia 1978.[1]"
+   },
+   "refs": [
+    {
+     "label": "Centre Pompidou, «Superstudio»",
+     "url": "https://www.centrepompidou.fr/en/ressources/personne/cz66B8",
+     "checks": "grupo fundado en 1966 en Florencia y disuelto en 1978; integrantes Magris, Frassinelli, Natalini, Toraldo di Francia y Poli (1970–72). ⚠ No indica quiénes fueron los fundadores iniciales.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, «Superstudio»",
+     "url": "https://www.moma.org/artists/5733",
+     "checks": "colectivo italiano establecido en 1966; integrantes y obras (perspectivas, proyectos conceptuales, objetos de diseño). ⚠ Da disolución en 1982, no 1978; ⚠ no menciona películas, fotomontajes ni exposiciones ni «Diseño Radical».",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "MoMA, «The Continuous Monument: On the River» (1969)",
+     "url": "https://www.moma.org/collection/works/934?locale=en",
+     "checks": "Monumento continuo 1969: estructuras blancas cuadriculadas sobre el paisaje, crítica irónica al utopismo moderno; técnica de papel impreso recortado. ⚠ No dice «espejada», ni «urbanismo del consumo», ni «masa/producido en masa».",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "ramirez-vazquez",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1919,
+   "died": 2013,
+   "dates": "1919–2013",
+   "countries": [
+    "MX"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Pedro Ramírez Vázquez",
+   "movements": [],
+   "institutions": [],
+   "key": "Mexican architect who designed the National Museum of Anthropology (1964) and presided over the organising committee of the 1968 Olympic Games.",
+   "more": "Born in Mexico City in 1919, he led the design of the National Museum of Anthropology in Chapultepec, opened in 1964, which brought together architecture, sculpture and murals around a large courtyard. He also presided over the organising committee of the Mexico 1968 Games, whose graphic programme was developed under his direction. He designed the new Basilica of Guadalupe (1976) and died in 2013.",
+   "es": {
+    "dates": "1919–2013",
+    "key": "Arquitecto mexicano que diseñó el Museo Nacional de Antropología (1964) y presidió el comité organizador de los Juegos Olímpicos de 1968.",
+    "more": "Nacido en Ciudad de México en 1919, dirigió el diseño del Museo Nacional de Antropología, en Chapultepec, inaugurado en 1964, que reunió arquitectura, escultura y murales en torno a un gran patio. También presidió el comité organizador de los Juegos de México 1968, cuyo programa gráfico se desarrolló bajo su dirección. Diseñó la nueva Basílica de Guadalupe (1976) y murió en 2013."
+   },
+   "refs": []
+  },
+  {
+   "id": "kinneir-calvert",
+   "level": "normal",
+   "kind": "duo",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1917,
+   "died": 1994,
+   "dates": "1917–1994 / 1936–",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jock Kinneir and Margaret Calvert",
+   "movements": [],
+   "institutions": [],
+   "key": "British graphic design partnership that created the road sign system and the Transport typeface for the British motorways and roads.",
+   "more": "Jock Kinneir began with signage for Gatwick airport in the 1950s, and Margaret Calvert joined him. In 1957–58 their system for the new motorways was adopted after tests, and they extended it to all-purpose roads in the 1960s, with the Transport lettering in upper and lower case and a set of pictogram signs. They also designed the Rail Alphabet for British Rail in the 1960s. Kinneir lived 1917–1994; Calvert was born in 1936.",
+   "es": {
+    "dates": "1917–1994 / 1936–",
+    "key": "Dupla británica de diseño gráfico que creó el sistema de señales viales y la tipografía Transport para las autopistas y los caminos de Gran Bretaña.",
+    "more": "Jock Kinneir empezó con la señalización del aeropuerto de Gatwick en los años cincuenta, y Margaret Calvert se sumó a él. En 1957–58 su sistema para las nuevas autopistas fue adoptado tras pruebas, y lo extendieron a los caminos generales en los años sesenta, con la tipografía Transport en mayúsculas y minúsculas y un conjunto de señales con pictogramas. También diseñaron el Rail Alphabet para British Rail en los años sesenta. Kinneir vivió entre 1917 y 1994; Calvert nació en 1936."
+   },
+   "refs": [],
+   "short": "Kinneir & Calvert"
+  },
+  {
+   "id": "dascanio",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1891,
+   "died": 1981,
+   "dates": "1891–1981",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Corradino D’Ascanio",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [],
+   "key": "Italian aeronautical engineer who designed the Vespa scooter for Piaggio in 1946.",
+   "more": "D’Ascanio was an aeronautical engineer who had worked on helicopters before and during the Second World War. At Piaggio he designed the Vespa in 1946, with a stressed steel body that protects the rider, a front wheel carried on one side like an aircraft undercarriage, and the gear control on the handlebar. He is said to have disliked the motorcycles of the time. Born in 1891, he died in 1981.",
+   "es": {
+    "dates": "1891–1981",
+    "key": "Ingeniero aeronáutico italiano que diseñó la scooter Vespa para Piaggio en 1946.",
+    "more": "D’Ascanio era un ingeniero aeronáutico que había trabajado en helicópteros antes y durante la Segunda Guerra Mundial. En Piaggio diseñó la Vespa en 1946, con una carrocería de acero autoportante que protege al conductor, una rueda delantera sostenida por un solo lado como el tren de aterrizaje de un avión y el mando de cambios en el manubrio. Se dice que le desagradaban las motocicletas de su tiempo. Nacido en 1891, murió en 1981."
+   },
+   "refs": []
+  },
+  {
+   "id": "bertoni",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1903,
+   "died": 1964,
+   "dates": "1903–1964",
+   "countries": [
+    "FR",
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Flaminio Bertoni",
+   "movements": [],
+   "institutions": [],
+   "key": "Italian-born designer and sculptor who shaped Citroën cars, among them the Traction Avant, the 2CV and the DS.",
+   "more": "Born in Italy in 1903, Bertoni worked for Citroën in France from the early 1930s, where he took part in the bodywork of the Traction Avant and the 2CV. He is best known for the DS of 1955, whose smooth body he designed with the engineer André Lefèbvre. He was also a sculptor and painter, and died in 1964.",
+   "es": {
+    "dates": "1903–1964",
+    "key": "Diseñador y escultor nacido en Italia que dio forma a autos de Citroën, entre ellos el Traction Avant, el 2CV y el DS.",
+    "more": "Nacido en Italia en 1903, Bertoni trabajó para Citroën en Francia desde comienzos de los años treinta, donde participó en la carrocería del Traction Avant y del 2CV. Es más conocido por el DS de 1955, cuya carrocería lisa diseñó junto con el ingeniero André Lefèbvre. También fue escultor y pintor, y murió en 1964."
+   },
+   "refs": []
+  },
+  {
+   "id": "kurokawa",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1934,
+   "died": 2007,
+   "dates": "1934–2007",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Kisho Kurokawa",
+   "movements": [
+    "metabolism"
+   ],
+   "institutions": [],
+   "key": "Japanese architect, a founder of the Metabolist group, who designed the Nakagin Capsule Tower in Tokyo (1972).",
+   "more": "Kurokawa was one of the young architects who launched the Metabolist group in 1960, which proposed cities that grow and renew themselves like living organisms. He built the idea in the Nakagin Capsule Tower (1972), where prefabricated capsules were meant to be replaced as needed. Born in 1934, he died in Tokyo in 2007.",
+   "es": {
+    "dates": "1934–2007",
+    "key": "Arquitecto japonés, uno de los fundadores del grupo metabolista, que diseñó la Torre Cápsula Nakagin de Tokio (1972).",
+    "more": "Kurokawa fue uno de los jóvenes arquitectos que lanzaron el grupo metabolista en 1960, que proponía ciudades que crecen y se renuevan como organismos vivos. Llevó la idea a la práctica en la Torre Cápsula Nakagin (1972), donde las cápsulas prefabricadas debían reemplazarse según hiciera falta. Nacido en 1934, murió en Tokio en 2007."
+   },
+   "refs": []
+  },
+  {
+   "id": "katsumie",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1909,
+   "died": 1983,
+   "dates": "1909–1983",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Masaru Katsumie",
+   "movements": [],
+   "institutions": [],
+   "key": "Japanese graphic designer who directed the design programme of the Tokyo 1964 Olympic Games, including its sports pictograms.",
+   "more": "Katsumie was a leading figure of Japanese graphic design who headed the design team of the Tokyo Olympics in 1964. Under him a group of designers made pictograms for sports and services so that visitors who could not read Japanese could find their way, and other host cities later followed the idea. He lived from 1909 to 1983.",
+   "es": {
+    "dates": "1909–1983",
+    "key": "Diseñador gráfico japonés que dirigió el programa de diseño de los Juegos Olímpicos de Tokio 1964, con sus pictogramas deportivos.",
+    "more": "Katsumie fue una figura central del diseño gráfico japonés que encabezó el equipo de diseño de los Juegos Olímpicos de Tokio en 1964. Bajo su dirección un grupo de diseñadores hizo pictogramas de deportes y servicios para que los visitantes que no leían japonés pudieran orientarse, y otras ciudades sede siguieron luego la idea. Vivió entre 1909 y 1983."
+   },
+   "refs": []
+  },
+  {
+   "id": "ricardo-porro",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1925,
+   "died": 2014,
+   "dates": "1925–2014",
+   "countries": [
+    "CU",
+    "FR"
+   ],
+   "regions": [
+    "latin-america",
+    "europe"
+   ],
+   "name": "Ricardo Porro",
+   "movements": [],
+   "institutions": [],
+   "key": "Cuban architect who designed the School of Plastic Arts of the National Art Schools in Havana (begun 1961), built in Catalan brick vaults.",
+   "more": "Born in Camagüey in 1925, Porro designed the School of Plastic Arts for the National Art Schools in Havana, begun in 1961 together with Vittorio Garatti and Roberto Gottardi, who designed other schools of the complex. With steel and concrete scarce, the buildings used brick and Catalan vaults. Porro left Cuba in 1966 and lived in Paris, where he died in 2014.",
+   "es": {
+    "dates": "1925–2014",
+    "key": "Arquitecto cubano que diseñó la Escuela de Artes Plásticas de las Escuelas Nacionales de Arte de La Habana (iniciadas en 1961), con bóvedas catalanas de ladrillo.",
+    "more": "Nacido en Camagüey en 1925, Porro diseñó la Escuela de Artes Plásticas de las Escuelas Nacionales de Arte de La Habana, iniciadas en 1961 junto con Vittorio Garatti y Roberto Gottardi, que proyectaron otras escuelas del conjunto. Como el acero y el hormigón escaseaban, los edificios usaron ladrillo y bóvedas catalanas. Porro dejó Cuba en 1966 y vivió en París, donde murió en 2014."
+   },
+   "refs": []
+  },
+  {
+   "id": "luis-barragan",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1902,
+   "died": 1988,
+   "dates": "1902–1988",
+   "countries": [
+    "MX"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Luis Barragán",
+   "key": "Mexican architect whose walls of strong colour, plain volumes, light and water gardens made a personal, rooted modernism; Pritzker Prize in 1980.[1][2]",
+   "more": "He trained as an engineer in Guadalajara and turned to architecture largely on his own.[1][2] In 1948 he built his own house and studio in Tacubaya, Mexico City, which became his key work,[2][3] and he also designed the Jardines del Pedregal housing development in the capital.[1] In 1980 he received the Pritzker Prize.[1][2] Born in Guadalajara in 1902, he died in Mexico City in 1988.[1][2]",
+   "es": {
+    "dates": "1902–1988",
+    "key": "Arquitecto mexicano cuyos muros de color intenso, volúmenes sencillos, luz y jardines con agua hicieron un modernismo personal y arraigado; Premio Pritzker en 1980.[1][2]",
+    "more": "Se formó como ingeniero en Guadalajara y llegó a la arquitectura en gran parte por cuenta propia.[1][2] En 1948 construyó su casa y taller en Tacubaya, Ciudad de México, que se volvió su obra clave,[2][3] y también proyectó el fraccionamiento Jardines del Pedregal en la capital.[1] En 1980 recibió el Premio Pritzker.[1][2] Nació en Guadalajara en 1902 y murió en Ciudad de México en 1988.[1][2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Luis Barragán»",
+     "url": "https://www.britannica.com/biography/Luis-Barragan",
+     "checks": "nació el 9 de marzo de 1902 en Guadalajara; murió el 22 de noviembre de 1988 en Ciudad de México; ingeniería civil en la Escuela Libre de Ingenieros (1923); Premio Pritzker 1980; color, agua y superficies de estuco; El Pedregal (1943–52). ⚠ No menciona la casa de Tacubaya.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Premio Pritzker, «Luis Barragán, laureado 1980»",
+     "url": "https://www.pritzkerprize.com/laureates/1980",
+     "checks": "vida 1902–1988; nació en Guadalajara y se formó como ingeniero antes de ser autodidacta en arquitectura; Casa Barragán (1948, Ciudad de México); Pritzker 1980.. ⚠ No menciona Tacubaya ni El Pedregal.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Gobierno de la Ciudad de México, «Casa Luis Barragán»",
+     "url": "https://mexicocity.cdmx.gob.mx/venues/luis-barragan-house-studio/?lang=en",
+     "checks": "la casa y estudio está en Tacubaya; Barragán la diseñó y habitó desde 1948 hasta su muerte en 1988; museo de la Fundación de Arquitectura Tapatía.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "minoru-yamasaki",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1912,
+   "died": 1986,
+   "dates": "1912–1986",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Minoru Yamasaki",
+   "key": "American architect of Japanese descent who designed the Pruitt-Igoe housing in St. Louis and the original World Trade Center towers in New York.",
+   "more": "Born in Seattle, he built his career in the United States, with a base in Michigan. He designed the Pruitt-Igoe housing project in St. Louis, begun in the 1950s and later demolished, a case often cited in debates on modern public housing. He was also the architect of the original World Trade Center in New York, built in the early 1970s. He died in Detroit in 1986.",
+   "es": {
+    "dates": "1912–1986",
+    "key": "Arquitecto estadounidense de ascendencia japonesa que proyectó las viviendas de Pruitt-Igoe en St. Louis y las torres originales del World Trade Center en Nueva York.",
+    "more": "Nacido en Seattle, hizo su carrera en Estados Unidos, con base en Míchigan. Proyectó el conjunto de viviendas Pruitt-Igoe en St. Louis, iniciado en la década de 1950 y demolido después, caso muy citado en los debates sobre la vivienda pública moderna. Fue también el arquitecto del World Trade Center original de Nueva York, construido a comienzos de los años setenta. Murió en Detroit en 1986."
+   },
+   "refs": []
+  },
+  {
+   "id": "kenzo-tange",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1913,
+   "died": 2005,
+   "dates": "1913–2005",
+   "countries": [
+    "JP"
+   ],
+   "regions": [
+    "global"
+   ],
+   "name": "Kenzo Tange",
+   "key": "Japanese architect who joined modern concrete and structure to Japanese tradition, from the Hiroshima Peace Centre to the Yoyogi gymnasium for the 1964 Olympics.",
+   "more": "He designed the Hiroshima Peace Memorial Park buildings and the Yoyogi National Gymnasium in Tokyo for the 1964 Olympic Games, whose roof hangs from cables. His 1960 plan for Tokyo Bay proposed a city growing along a linear axis and drew the attention of the Metabolists, a group of younger Japanese architects. His expressive use of concrete and structure, rooted in Japanese forms, was noticed abroad and won him the Pritzker Prize in 1987. Born in Osaka in 1913, he died in Tokyo in 2005.",
+   "es": {
+    "dates": "1913–2005",
+    "key": "Arquitecto japonés que unió el hormigón y la estructura modernos a la tradición japonesa, desde el Centro de la Paz de Hiroshima hasta el gimnasio de Yoyogi para los Juegos Olímpicos de 1964.",
+    "more": "Proyectó los edificios del Parque Memorial de la Paz de Hiroshima y el Gimnasio Nacional de Yoyogi en Tokio para los Juegos Olímpicos de 1964, cuyo techo cuelga de cables. Su plan de 1960 para la bahía de Tokio proponía una ciudad que crecía a lo largo de un eje lineal y llamó la atención de los metabolistas, un grupo de arquitectos japoneses más jóvenes. Su uso expresivo del hormigón y la estructura, enraizado en formas japonesas, se notó en el extranjero y le valió el Premio Pritzker en 1987. Nació en Osaka en 1913 y murió en Tokio en 2005."
+   },
+   "refs": [],
+   "movements": [
+    "metabolism"
+   ]
+  },
+  {
+   "id": "mario-pani",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1911,
+   "died": 1993,
+   "dates": "1911–1993",
+   "countries": [
+    "MX"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Mario Pani",
+   "key": "Mexican architect and urbanist who planned the large housing blocks of Mexico City, from the Multifamiliar Miguel Alemán to Nonoalco-Tlatelolco.",
+   "more": "He designed the Multifamiliar Miguel Alemán (1949), one of the first large modern housing blocks in Mexico City, and took part in the planning of the University City of UNAM. His best-known project is the Nonoalco-Tlatelolco housing complex, built in the early 1960s and opened in 1964. Born in Mexico City in 1911, he died there in 1993.",
+   "es": {
+    "dates": "1911–1993",
+    "key": "Arquitecto y urbanista mexicano que planificó los grandes conjuntos de vivienda de Ciudad de México, desde el Multifamiliar Miguel Alemán hasta Nonoalco-Tlatelolco.",
+    "more": "Proyectó el Multifamiliar Miguel Alemán (1949), uno de los primeros grandes bloques de vivienda modernos de Ciudad de México, y participó en la planificación de la Ciudad Universitaria de la UNAM. Su proyecto más conocido es el conjunto habitacional Nonoalco-Tlatelolco, construido a comienzos de los años sesenta e inaugurado en 1964. Nació en Ciudad de México en 1911 y murió allí en 1993."
+   },
+   "refs": []
+  },
+  {
+   "id": "robert-venturi",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1925,
+   "died": 2018,
+   "dates": "1925–2018",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Robert Venturi",
+   "key": "American architect and theorist who challenged orthodox modernism with ‘Complexity and Contradiction in Architecture’ (1966) and became a founder of postmodern architecture.[1][2][3]",
+   "more": "His Vanna Venturi House in Philadelphia, designed in 1964 for his mother,[1][3] broke the modernist rule of pure, simple forms with its deliberate contradictions.[1][3] His book Complexity and Contradiction in Architecture (1966) answered Mies’s ‘less is more’ with ‘less is a bore’,[2] and with Denise Scott Brown and Steven Izenour he wrote Learning from Las Vegas (1972).[1][2] He received the Pritzker Prize in 1991.[1][2] Born in Philadelphia in 1925,[2] he died there in 2018.[3]",
+   "es": {
+    "dates": "1925–2018",
+    "key": "Arquitecto y teórico estadounidense que desafió el modernismo ortodoxo con «Complejidad y contradicción en la arquitectura» (1966) y fue uno de los fundadores de la arquitectura posmoderna.[1][2][3]",
+    "more": "Su Casa Vanna Venturi en Filadelfia, proyectada en 1964 para su madre,[1][3] rompió con la regla modernista de las formas puras y simples mediante sus contradicciones deliberadas.[1][3] Su libro Complejidad y contradicción en la arquitectura (1966) respondió al «menos es más» de Mies con «menos es aburrido»,[2] y con Denise Scott Brown y Steven Izenour escribió Aprendiendo de Las Vegas (1972).[1][2] Recibió el Premio Pritzker en 1991.[1][2] Nació en Filadelfia en 1925[2] y murió allí en 2018.[3]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Robert Venturi»",
+     "url": "https://www.britannica.com/biography/Robert-Venturi",
+     "checks": "estudió en Princeton; Complexity and Contradiction in Architecture (1966) criticó la falta de complejidad e ironía del modernismo; Vanna Venturi House (1964) para su madre; Learning from Las Vegas (1972); Premio Pritzker 1991. ⚠ El extracto no da fechas de vida.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Premio Pritzker, «Robert Venturi» (laureado 1991)",
+     "url": "https://www.pritzkerprize.com/laureates/1991",
+     "checks": "nacido en Filadelfia en 1925, fallecido en 2018; Pritzker 1991; libros de 1966 y 1972 (con Denise Scott Brown y Steven Izenour); respondió a «menos es más» de Mies con «menos es aburrido». ⚠ Fecha la casa Vanna Venturi en 1961 (construcción) y no menciona el frontón partido.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Society of Architectural Historians, «Obituary: Robert Venturi (1925-2018)»",
+     "url": "https://sah.org/2018/09/20/obituary-robert-venturi-1925-2018/",
+     "checks": "nació el 25 de junio de 1925 y murió el 18 de septiembre de 2018 en Filadelfia; Casa Vanna Venturi completada en 1964 en Chestnut Hill para su madre; Complexity and Contradiction (1966) reorientó el pensamiento arquitectónico; renovó la arquitectura posmoderna. ⚠ No cita la frase «less is a bore».",
+     "date": "2026-10-06"
+    }
+   ],
+   "movements": [
+    "postmodern-architecture"
+   ]
+  },
+  {
+   "id": "archigram",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1961,
+   "died": 1974,
+   "dates": "1961–1974",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Archigram",
+   "key": "British group of young architects whose drawings of walking cities, capsules and plug-in structures imagined an architecture that moves and can be changed.",
+   "more": "Formed in London in 1961 around the magazine Archigram, which appeared until 1974, with members including Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb and David Greene. They built almost nothing but spread their ideas through collage-like drawings and projects such as Plug-in City (1964) by Cook and Walking City by Herron, which looked to pop culture and technology rather than to the austerity of orthodox modernism.",
+   "es": {
+    "dates": "1961–1974",
+    "key": "Grupo británico de jóvenes arquitectos cuyos dibujos de ciudades caminantes, cápsulas y estructuras enchufables imaginaron una arquitectura que se mueve y puede cambiarse.",
+    "more": "Se formó en Londres en 1961 en torno a la revista Archigram, que apareció hasta 1974, con integrantes como Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb y David Greene. Construyeron casi nada, pero difundieron sus ideas con dibujos de aire de collage y proyectos como Plug-in City (1964), de Cook, y Walking City, de Herron, que miraban a la cultura pop y la tecnología más que a la austeridad del modernismo ortodoxo."
+   },
+   "refs": []
+  },
+  {
+   "id": "louis-kahn",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1901,
+   "died": 1974,
+   "dates": "1901–1974",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Louis Kahn",
+   "key": "American architect who gave modern buildings a monumental, almost ancient presence in brick and concrete, with the Salk Institute among his masterpieces.[1][2]",
+   "more": "Born on the island of Saaremaa, in present-day Estonia,[1][2] he grew up in Philadelphia and taught at Yale and the University of Pennsylvania.[2][3] His Yale University Art Gallery (1953) and the Salk Institute in La Jolla, California (1965), show his handling of light, mass and order.[1][3] He died in 1974 in New York, in a railway station on his way home.[2]",
+   "es": {
+    "dates": "1901–1974",
+    "key": "Arquitecto estadounidense que dio a los edificios modernos una presencia monumental, casi antigua, en ladrillo y hormigón, con el Instituto Salk entre sus obras maestras.[1][2]",
+    "more": "Nacido en la isla de Saaremaa, en la actual Estonia,[1][2] creció en Filadelfia y enseñó en Yale y en la Universidad de Pensilvania.[2][3] Su Galería de Arte de la Universidad de Yale (1953) y el Instituto Salk en La Jolla, California (1965), muestran su manejo de la luz, la masa y el orden.[1][3] Murió en 1974 en Nueva York, en una estación de tren, cuando volvía a casa.[2]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Louis I. Kahn»",
+     "url": "https://www.britannica.com/biography/Louis-I-Kahn",
+     "checks": "nació el 20 de febrero de 1901 en Osel (Saaremaa), Estonia; murió el 17 de marzo de 1974 en Nueva York; formas poderosas y masivas, concreto y ladrillo; Galería de Arte de Yale (1952–54); Instituto Salk, La Jolla (1959–65); profesor en Yale (1947) y Penn (1957). ⚠ No menciona la estación de tren.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Design Museum (Londres), «Louis Kahn»",
+     "url": "https://designmuseum.org/designers/louis-kahn",
+     "checks": "nació en Saaremaa (Ösel) el 20 de febrero de 1901; la familia llegó a Filadelfia en 1906; enseñó en Yale desde 1947 y en Penn; murió el 17 de marzo de 1974 de un infarto en Pennsylvania Station, Nueva York, al volver de la India.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Philadelphia Architects and Buildings, «Kahn, Louis Isadore (1901–1974)»",
+     "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21829",
+     "checks": "vida 1901–1974; formación en Filadelfia y B.Arch. en Penn (1924); enseñó en Yale desde 1947 y en Penn desde 1955; Galería de Arte de Yale (1953); Instituto Salk. ⚠ Da Pärnu como lugar de nacimiento, en conflicto con Britannica y Design Museum (Saaremaa).",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "roberto-burle-marx",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1909,
+   "died": 1994,
+   "dates": "1909–1994",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Roberto Burle Marx",
+   "key": "Brazilian landscape designer who made the modern garden from native plants and flowing, abstract plans, working with the leading architects of Brazil.",
+   "more": "He designed the roof garden of the Ministry of Education and Health in Rio de Janeiro (1930s–40s) with Lucio Costa and Oscar Niemeyer, and later the gardens of the Aterro do Flamengo in Rio, begun in the 1960s with Affonso Reidy, and the Copacabana promenade. He used Brazilian plants at a time when imported species were the norm. Born in São Paulo in 1909, he died in Rio de Janeiro in 1994.",
+   "es": {
+    "dates": "1909–1994",
+    "key": "Paisajista brasileño que hizo el jardín moderno con plantas nativas y trazados fluidos y abstractos, trabajando con los principales arquitectos de Brasil.",
+    "more": "Diseñó el jardín de la azotea del Ministerio de Educación y Salud en Río de Janeiro (años treinta y cuarenta) con Lucio Costa y Oscar Niemeyer, y más tarde los jardines del Aterro do Flamengo en Río, iniciados en los años sesenta con Affonso Reidy, y el paseo de Copacabana. Usó plantas brasileñas en una época en que las especies importadas eran la norma. Nació en São Paulo en 1909 y murió en Río de Janeiro en 1994."
+   },
+   "refs": []
+  },
+  {
+   "id": "bresciani-valdes-castillo-huidobro",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1954,
+   "died": null,
+   "dates": "",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Bresciani, Valdés, Castillo y Huidobro",
+   "key": "Chilean architects’ partnership of Carlos Bresciani, Héctor Valdés, Fernando Castillo and Carlos Huidobro, known for the Unidad Vecinal Portales in Santiago.",
+   "more": "The four architects designed the Unidad Vecinal Portales in Santiago, a neighbourhood unit of low and medium-rise housing around shared open spaces, built in stages from the 1950s to the mid-1960s. It became a reference for modern social housing in Chile.",
+   "es": {
+    "dates": "",
+    "key": "Sociedad de arquitectos chilenos formada por Carlos Bresciani, Héctor Valdés, Fernando Castillo y Carlos Huidobro, conocida por la Unidad Vecinal Portales de Santiago.",
+    "more": "Los cuatro arquitectos proyectaron la Unidad Vecinal Portales en Santiago, una unidad vecinal de viviendas bajas y medianas en torno a espacios abiertos compartidos, construida por etapas desde los años cincuenta hasta mediados de los sesenta. Se volvió un referente de la vivienda social moderna en Chile."
+   },
+   "refs": [],
+   "short": "Bresciani et al."
+  },
+  {
+   "id": "clorindo-testa",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1923,
+   "died": 2013,
+   "dates": "1923–2013",
+   "countries": [
+    "AR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Clorindo Testa",
+   "key": "Argentine architect and painter, born in Italy, who led the brutalist turn of Buenos Aires with the Banco de Londres and the National Library.",
+   "more": "The Banco de Londres y América del Sur in Buenos Aires, designed with the studio SEPRA and finished in 1966, was his best-known work, a bank raised on large concrete supports. He also designed the National Library in Buenos Aires, begun in the 1960s with Francisco Bullrich and Alicia Cazzaniga. He was also a painter. Born in Naples in 1923, he died in Buenos Aires in 2013.",
+   "es": {
+    "dates": "1923–2013",
+    "key": "Arquitecto y pintor argentino, nacido en Italia, que encabezó el giro brutalista de Buenos Aires con el Banco de Londres y la Biblioteca Nacional.",
+    "more": "El Banco de Londres y América del Sur en Buenos Aires, proyectado con el estudio SEPRA y terminado en 1966, fue su obra más conocida, un banco levantado sobre grandes soportes de hormigón. También proyectó la Biblioteca Nacional de Buenos Aires, iniciada en los años sesenta con Francisco Bullrich y Alicia Cazzaniga. Fue además pintor. Nació en Nápoles en 1923 y murió en Buenos Aires en 2013."
+   },
+   "refs": []
+  },
+  {
+   "id": "vilanova-artigas",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1915,
+   "died": 1985,
+   "dates": "1915–1985",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "João Batista Vilanova Artigas",
+   "key": "Brazilian architect and teacher, leading figure of the Paulista school of concrete architecture and designer of the FAU-USP building in São Paulo.",
+   "more": "He taught at the architecture faculty of the University of São Paulo and designed its building, the FAU-USP, in the 1960s with Carlos Cascaldi, a large concrete hall under a single roof with open ramps and no doors between floors. His houses and schools in São Paulo shaped the Paulista brutalism. Born in Curitiba in 1915, he died in São Paulo in 1985.",
+   "es": {
+    "dates": "1915–1985",
+    "key": "Arquitecto y profesor brasileño, figura central de la escuela paulista de arquitectura en hormigón y autor del edificio de la FAU-USP en São Paulo.",
+    "more": "Enseñó en la facultad de arquitectura de la Universidad de São Paulo y proyectó su edificio, la FAU-USP, en los años sesenta con Carlos Cascaldi, un gran salón de hormigón bajo una sola cubierta, con rampas abiertas y sin puertas entre los pisos. Sus casas y escuelas en São Paulo marcaron el brutalismo paulista. Nació en Curitiba en 1915 y murió en São Paulo en 1985."
+   },
+   "refs": [],
+   "movements": [
+    "paulista-school"
+   ],
+   "short": "Vilanova Artigas"
+  },
+  {
+   "id": "alberto-cruz-covarrubias",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1917,
+   "died": 2013,
+   "dates": "c. 1917–c. 2013",
+   "countries": [
+    "CL"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Alberto Cruz Covarrubias",
+   "key": "Chilean architect who, with the poet Godofredo Iommi, founded the Valparaíso School and the Ciudad Abierta, joining architecture, poetry and teaching.",
+   "more": "With Godofredo Iommi he led the Valparaíso School, linked to the architecture institute of the Pontificia Universidad Católica de Valparaíso from the early 1950s, which taught design through poetry and shared work. In 1970 the group began the Ciudad Abierta at Ritoque, north of Valparaíso, a place where its members live, build and test their ideas, and which remains his central work.",
+   "es": {
+    "dates": "c. 1917–c. 2013",
+    "key": "Arquitecto chileno que, junto con el poeta Godofredo Iommi, fundó la Escuela de Valparaíso y la Ciudad Abierta, uniendo arquitectura, poesía y enseñanza.",
+    "more": "Con Godofredo Iommi dirigió la Escuela de Valparaíso, ligada al instituto de arquitectura de la Pontificia Universidad Católica de Valparaíso desde comienzos de los años cincuenta, que enseñó el diseño a través de la poesía y el trabajo compartido. En 1970 el grupo inició la Ciudad Abierta en Ritoque, al norte de Valparaíso, un lugar donde sus integrantes viven, construyen y prueban sus ideas, y que sigue siendo su obra central."
+   },
+   "refs": [],
+   "short": "Alberto Cruz"
+  },
+  {
+   "id": "frei-otto",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1925,
+   "died": 2015,
+   "dates": "1925–2015",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Frei Otto",
+   "movements": [],
+   "institutions": [],
+   "key": "German architect and engineer who made lightweight tensile and membrane structures his life's work.",
+   "more": "He founded the Institute for Lightweight Structures at Stuttgart in 1964 and designed the German pavilion for Expo 67 in Montreal with Rolf Gutbrod. With Günter Behnisch's office he designed the tensioned roof of the Munich Olympic Park of 1972. He received the Pritzker Prize in 2015, the year he died.",
+   "es": {
+    "dates": "1925–2015",
+    "key": "Arquitecto e ingeniero alemán que hizo de las estructuras ligeras de tensión y membrana la obra de su vida.",
+    "more": "Fundó en 1964 el Instituto de Estructuras Ligeras en Stuttgart y diseñó con Rolf Gutbrod el pabellón alemán de la Expo 67 de Montreal. Con la oficina de Günter Behnisch proyectó la cubierta tensada del Parque Olímpico de Múnich de 1972. Recibió el premio Pritzker en 2015, el año en que murió."
+   },
+   "refs": []
+  },
+  {
+   "id": "gunther-behnisch",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1922,
+   "died": 2010,
+   "dates": "1922–2010",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Günter Behnisch",
+   "movements": [],
+   "institutions": [],
+   "key": "German architect whose Stuttgart office led the design of the Munich Olympic Park for the 1972 Games.",
+   "more": "He ran the Stuttgart office Behnisch & Partner. It won the competition for the Olympic Park in Munich, built for the 1972 Games, where the buildings were joined by Frei Otto's tensioned roofs into a landscape meant to look open and light. He later designed the Bundestag building in Bonn, completed in 1992.",
+   "es": {
+    "dates": "1922–2010",
+    "key": "Arquitecto alemán cuya oficina de Stuttgart dirigió el diseño del Parque Olímpico de Múnich para los Juegos de 1972.",
+    "more": "Dirigió la oficina Behnisch & Partner de Stuttgart. Esta ganó el concurso del Parque Olímpico de Múnich, construido para los Juegos de 1972, donde los edificios se unieron con las cubiertas tensadas de Frei Otto en un paisaje pensado como abierto y liviano. Más tarde proyectó el edificio del Bundestag en Bonn, terminado en 1992."
+   },
+   "refs": []
+  },
+  {
+   "id": "jorn-utzon",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1918,
+   "died": 2008,
+   "dates": "1918–2008",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jørn Utzon",
+   "movements": [],
+   "institutions": [],
+   "key": "Danish architect who won the competition for the Sydney Opera House in 1957 with a design of shell-like roofs on a great podium.",
+   "more": "His competition entry for the Sydney Opera House was chosen in 1957, and the shells of its roofs became one of the best-known silhouettes of modern architecture. He left the project in 1966 after disputes with the government of New South Wales, and the building opened in 1973 without him. He also designed Bagsværd Church near Copenhagen, and received the Pritzker Prize in 2003.",
+   "es": {
+    "dates": "1918–2008",
+    "key": "Arquitecto danés que ganó en 1957 el concurso de la Ópera de Sídney con un diseño de techos en forma de cáscaras sobre un gran podio.",
+    "more": "Su propuesta para la Ópera de Sídney fue elegida en 1957, y las cáscaras de sus techos se volvieron una de las siluetas más conocidas de la arquitectura moderna. Dejó el proyecto en 1966 tras disputas con el gobierno de Nueva Gales del Sur, y el edificio se inauguró en 1973 sin él. También proyectó la iglesia de Bagsværd, cerca de Copenhague, y recibió el premio Pritzker en 2003."
+   },
+   "refs": []
+  },
+  {
+   "id": "jaime-lerner",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1937,
+   "died": 2021,
+   "dates": "1937–2021",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Jaime Lerner",
+   "movements": [],
+   "institutions": [],
+   "key": "Brazilian architect and urban planner who, as mayor of Curitiba, made public transport and the city's streets a field of design.",
+   "more": "Trained as an architect, he was mayor of Curitiba in several terms from 1971 and later governor of Paraná. Under his leadership Curitiba built a bus system with dedicated lanes, opened in 1974, which became the model of what is now called bus rapid transit (BRT) and was copied in many cities of the world.",
+   "es": {
+    "dates": "1937–2021",
+    "key": "Arquitecto y urbanista brasileño que, como alcalde de Curitiba, hizo del transporte público y de las calles de la ciudad un campo de diseño.",
+    "more": "Formado como arquitecto, fue alcalde de Curitiba en varios períodos desde 1971 y más tarde gobernador de Paraná. Bajo su dirección Curitiba construyó un sistema de buses con pistas exclusivas, inaugurado en 1974, que se volvió el modelo de lo que hoy se llama transporte rápido en buses (BRT) y fue copiado en muchas ciudades del mundo."
+   },
+   "refs": []
+  },
+  {
+   "id": "louis-reard",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1897,
+   "died": 1984,
+   "dates": "1897–1984",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Louis Réard",
+   "movements": [],
+   "institutions": [],
+   "key": "French engineer who launched the bikini, a two-piece swimsuit, in Paris in 1946.",
+   "more": "He ran the lingerie business he took over from his mother when he presented his two-piece swimsuit in Paris in July 1946. He named it after Bikini Atoll, where the United States had just carried out nuclear tests, hoping that it would make as much impact. It was so brief that it was banned from beaches in several countries for years.",
+   "es": {
+    "dates": "1897–1984",
+    "key": "Ingeniero francés que lanzó el bikini, un traje de baño de dos piezas, en París en 1946.",
+    "more": "Dirigía el negocio de lencería que había recibido de su madre cuando presentó su traje de baño de dos piezas en París en julio de 1946. Lo bautizó en alusión al atolón de Bikini, donde Estados Unidos acababa de hacer pruebas nucleares, con la esperanza de causar un impacto similar. Era tan breve que durante años fue prohibido en las playas de varios países."
+   },
+   "refs": []
+  },
+  {
+   "id": "lucienne-day",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1917,
+   "died": 2010,
+   "dates": "1917–2010",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Lucienne Day",
+   "movements": [],
+   "institutions": [],
+   "key": "British textile designer whose abstract printed fabrics brought contemporary art into the postwar home.",
+   "more": "She trained at the Royal College of Art and worked with her husband, the furniture designer Robin Day. Her printed furnishing fabric Calyx, made for the firm Heal's and shown at the Festival of Britain in 1951, set a fashion for light, abstract patterns inspired by modern painting. She went on to design for Heal's and other British makers for decades.",
+   "es": {
+    "dates": "1917–2010",
+    "key": "Diseñadora textil británica cuyas telas estampadas abstractas llevaron el arte contemporáneo al hogar de posguerra.",
+    "more": "Estudió en el Royal College of Art y trabajó junto a su marido, el diseñador de muebles Robin Day. Su tela estampada Calyx, hecha para la firma Heal's y mostrada en el Festival de Gran Bretaña de 1951, impuso la moda de los motivos abstractos y ligeros inspirados en la pintura moderna. Siguió diseñando durante décadas para Heal's y otros fabricantes británicos."
+   },
+   "refs": []
+  },
+  {
+   "id": "hubert-de-givenchy",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1927,
+   "died": 2018,
+   "dates": "1927–2018",
+   "countries": [
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Hubert de Givenchy",
+   "movements": [],
+   "institutions": [],
+   "key": "French couturier who opened his own house in 1952 and dressed Audrey Hepburn in clean, elegant lines.",
+   "more": "He trained with Elsa Schiaparelli, among others, and opened the House of Givenchy in Paris in 1952. His long partnership with the actress Audrey Hepburn began with the film Sabrina (1954), and the black dress he made for her in Breakfast at Tiffany's (1961) became one of the best-known costumes in cinema. He retired from the house in 1995.",
+   "es": {
+    "dates": "1927–2018",
+    "key": "Modista francés que abrió su propia casa en 1952 y vistió a Audrey Hepburn con líneas limpias y elegantes.",
+    "more": "Se formó con Elsa Schiaparelli, entre otros, y abrió la Casa Givenchy en París en 1952. Su larga relación con la actriz Audrey Hepburn comenzó con la película Sabrina (1954), y el vestido negro que le hizo para Desayuno en Tiffany's (1961) se volvió uno de los trajes más conocidos del cine. Se retiró de la casa en 1995."
+   },
+   "refs": []
+  },
+  {
+   "id": "zuzu-angel",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1921,
+   "died": 1976,
+   "dates": "1921–1976",
+   "countries": [
+    "BR"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Zuzu Angel",
+   "movements": [],
+   "institutions": [],
+   "key": "Brazilian fashion designer who built her collections on Brazilian motifs and later turned them into a protest against the military dictatorship.",
+   "more": "Based in Rio de Janeiro, she drew on Brazilian popular culture and craft for her clothes and sold them in the United States. After her son Stuart was arrested and killed by the military regime in 1971, she used her collections to denounce his disappearance and the repression. She died in a car crash in Rio in 1976, a death her family always denounced as a murder by the regime.",
+   "es": {
+    "dates": "1921–1976",
+    "key": "Diseñadora de moda brasileña que construyó sus colecciones sobre motivos brasileños y luego las convirtió en una protesta contra la dictadura militar.",
+    "more": "Con base en Río de Janeiro, se inspiró en la cultura popular y la artesanía de Brasil para su ropa y la vendió en Estados Unidos. Tras la detención y muerte de su hijo Stuart a manos del régimen militar en 1971, usó sus colecciones para denunciar su desaparición y la represión. Murió en un accidente de auto en Río en 1976, una muerte que su familia denunció siempre como un asesinato del régimen."
+   },
+   "refs": []
+  },
+  {
+   "id": "diane-von-furstenberg",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1946,
+   "died": null,
+   "dates": "1946–",
+   "countries": [
+    "US",
+    "BE"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Diane von Furstenberg",
+   "movements": [],
+   "institutions": [],
+   "key": "Belgian-born American designer whose jersey wrap dress of 1974 became a symbol of women's independent dress.",
+   "more": "Born in Brussels, she began designing in Italy and settled in New York in the 1970s. Her jersey wrap dress, which tied at the waist and needed no fastenings, sold in great numbers from 1974 and made her a fashion name. It was an easy, affordable dress for working women, and she has remained active as a designer and businesswoman.",
+   "es": {
+    "dates": "1946–",
+    "key": "Diseñadora estadounidense nacida en Bélgica cuyo vestido cruzado de jersey de 1974 se volvió símbolo del vestir independiente de las mujeres.",
+    "more": "Nacida en Bruselas, comenzó a diseñar en Italia y se instaló en Nueva York en la década de 1970. Su vestido cruzado de jersey, que se anudaba a la cintura y no necesitaba cierres, se vendió en gran cantidad desde 1974 y la hizo un nombre de la moda. Era un vestido fácil y asequible para mujeres que trabajaban, y ella sigue activa como diseñadora y empresaria."
+   },
+   "refs": []
+  },
+  {
+   "id": "hermann-zapf",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1918,
+   "died": 2015,
+   "dates": "1918–2015",
+   "countries": [
+    "DE"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Hermann Zapf",
+   "movements": [],
+   "institutions": [],
+   "key": "German type designer and calligrapher, author of Palatino and Optima, who carried the letterform from metal type to digital composition.",
+   "more": "He trained as a retoucher and taught himself calligraphy, then drew Palatino (1949) and Optima (1952–55) for the Stempel foundry in Frankfurt. He also designed Melior and Zapfino, and later worked on computer-aided typography. His faces kept the proportions of the Renaissance and of calligraphy through every change of technology.",
+   "es": {
+    "dates": "1918–2015",
+    "key": "Diseñador de tipos y calígrafo alemán, autor de Palatino y Optima, que llevó la letra desde el tipo de metal a la composición digital.",
+    "more": "Se formó como retocador y aprendió caligrafía por su cuenta, y luego dibujó Palatino (1949) y Optima (1952–55) para la fundición Stempel de Fráncfort. También diseñó Melior y Zapfino, y más tarde trabajó en tipografía asistida por computador. Sus tipos conservaron las proporciones del Renacimiento y de la caligrafía a través de todos los cambios de tecnología."
+   },
+   "refs": []
+  },
+  {
+   "id": "gerald-holtom",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1914,
+   "died": 1985,
+   "dates": "1914–1985",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Gerald Holtom",
+   "movements": [],
+   "institutions": [],
+   "key": "British textile designer and artist who created the peace symbol for the 1958 anti-nuclear march.",
+   "more": "A conscientious objector in the Second World War, he designed the symbol in 1958 for the Direct Action Committee's march from London to Aldermaston, and the Campaign for Nuclear Disarmament (CND) adopted it. It combines the semaphore signals for N and D, for nuclear disarmament, inside a circle. The sign spread far beyond Britain and became a common emblem of peace.",
+   "es": {
+    "dates": "1914–1985",
+    "key": "Diseñador textil y artista británico que creó el símbolo de la paz para la marcha antinuclear de 1958.",
+    "more": "Objetor de conciencia en la Segunda Guerra Mundial, diseñó el símbolo en 1958 para la marcha del Comité de Acción Directa de Londres a Aldermaston, y la Campaña por el Desarme Nuclear (CND) lo adoptó. Combina las señales de semáforo de las letras N y D, de desarme nuclear, dentro de un círculo. El signo se difundió mucho más allá de Gran Bretaña y se volvió un emblema común de la paz."
+   },
+   "refs": []
+  },
+  {
+   "id": "armin-hofmann",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1920,
+   "died": 2020,
+   "dates": "1920–2020",
+   "countries": [
+    "CH"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Armin Hofmann",
+   "movements": [
+    "international-typographic-style",
+    "basel-school-typography"
+   ],
+   "institutions": [],
+   "key": "Swiss graphic designer and teacher at Basel whose posters and teaching shaped the Swiss school of typography.",
+   "more": "He taught at the Basel School of Design from 1947, where he trained generations of designers, and also taught as a guest in the United States, including at Yale. His posters, such as the one for the theatre's Giselle of 1959, work with form, counterform and a few lines of type. His Graphic Design Manual (1965) set out the method he taught.",
+   "es": {
+    "dates": "1920–2020",
+    "key": "Diseñador gráfico y profesor suizo en Basilea cuyos carteles y enseñanza dieron forma a la escuela suiza de tipografía.",
+    "more": "Enseñó en la Escuela de Diseño de Basilea desde 1947, donde formó a generaciones de diseñadores, y fue también profesor invitado en Estados Unidos, entre otros lugares en Yale. Sus carteles, como el de Giselle para el teatro de 1959, trabajan con forma, contraforma y pocas líneas de texto. Su Graphic Design Manual (1965) expuso el método que enseñaba."
+   },
+   "refs": []
+  },
+  {
+   "id": "jan-lenica",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1928,
+   "died": 2001,
+   "dates": "1928–2001",
+   "countries": [
+    "PL"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Jan Lenica",
+   "movements": [
+    "polish-poster-school"
+   ],
+   "institutions": [],
+   "key": "Polish graphic artist and animator, a leading figure of the Polish poster school with a free, painterly and surreal style.",
+   "more": "Born in Poznań in 1928, he made theatre, opera and film posters in Poland in the 1950s and early 1960s, when the state commissioned cultural posters rather than commercial advertising. He also worked in animated film and later lived abroad. He died in 2001.",
+   "es": {
+    "dates": "1928–2001",
+    "key": "Artista gráfico y animador polaco, figura destacada de la escuela polaca del cartel, de estilo libre, pictórico y surrealista.",
+    "more": "Nacido en Poznań en 1928, hizo carteles de teatro, ópera y cine en Polonia en los años cincuenta y comienzos de los sesenta, cuando el Estado encargaba carteles culturales y no publicidad comercial. También trabajó en cine de animación y más tarde vivió en el extranjero. Murió en 2001."
+   },
+   "refs": []
+  },
+  {
+   "id": "peter-blake",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1932,
+   "died": null,
+   "dates": "b. 1932",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Peter Blake",
+   "movements": [],
+   "institutions": [],
+   "key": "British pop artist who, with Jann Haworth, designed the cover of the Beatles’ Sgt. Pepper’s Lonely Hearts Club Band (1967).",
+   "more": "Born in 1932, he was among the first British pop artists, working with collage and images from popular culture. His collage cover for Sgt. Pepper’s Lonely Hearts Club Band, a crowd of figures around the band, made the record sleeve a work of art in itself.",
+   "es": {
+    "dates": "n. 1932",
+    "key": "Artista pop británico que, junto a Jann Haworth, diseñó la carátula de Sgt. Pepper’s Lonely Hearts Club Band (1967) de los Beatles.",
+    "more": "Nacido en 1932, fue de los primeros artistas pop británicos y trabajó con collage e imágenes de la cultura popular. Su carátula-collage de Sgt. Pepper’s Lonely Hearts Club Band, una multitud de figuras alrededor del grupo, convirtió la funda del disco en una obra en sí misma."
+   },
+   "refs": []
+  },
+  {
+   "id": "jann-haworth",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1942,
+   "died": null,
+   "dates": "b. 1942",
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Jann Haworth",
+   "movements": [],
+   "institutions": [],
+   "key": "American-born pop artist in London who co-designed the Sgt. Pepper cover with Peter Blake and contributed its crowd of life-size figures.",
+   "more": "Born in the United States in 1942, she settled in Britain and worked with soft sculpture and pop imagery. She and Peter Blake created the 1967 Sgt. Pepper’s Lonely Hearts Club Band cover, and she made many of the figures that crowd it.",
+   "es": {
+    "dates": "n. 1942",
+    "key": "Artista pop nacida en Estados Unidos y radicada en Londres que co-diseñó la carátula de Sgt. Pepper con Peter Blake y aportó su multitud de figuras a tamaño natural.",
+    "more": "Nacida en Estados Unidos en 1942, se instaló en Gran Bretaña y trabajó con escultura blanda e imaginería pop. Ella y Peter Blake crearon en 1967 la carátula de Sgt. Pepper’s Lonely Hearts Club Band, y ella hizo muchas de las figuras que la pueblan."
+   },
+   "refs": []
+  },
+  {
+   "id": "earl-tupper",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1907,
+   "died": 1983,
+   "dates": "1907–1983",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Earl Tupper",
+   "movements": [],
+   "institutions": [],
+   "key": "American inventor and chemist who turned polyethylene into the airtight Tupperware containers of the late 1940s.",
+   "more": "Born in 1907, he worked at DuPont and then founded his own plastics company. In the 1940s he refined polyethylene waste into a flexible, durable plastic and designed airtight-lid containers, sold from 1946 as Tupperware. He died in 1983.",
+   "es": {
+    "dates": "1907–1983",
+    "key": "Inventor y químico estadounidense que convirtió el polietileno en los recipientes herméticos Tupperware de fines de los años cuarenta.",
+    "more": "Nacido en 1907, trabajó en DuPont y luego fundó su propia empresa de plásticos. En los años cuarenta refinó residuos de polietileno hasta obtener un plástico flexible y duradero y diseñó recipientes con tapa hermética, vendidos desde 1946 como Tupperware. Murió en 1983."
+   },
+   "refs": []
+  },
+  {
+   "id": "isamu-noguchi",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1904,
+   "died": 1988,
+   "dates": "1904–1988",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Isamu Noguchi",
+   "movements": [
+    "mid-century-modern"
+   ],
+   "institutions": [],
+   "key": "American-Japanese sculptor who also designed furniture, lamps and gardens, bringing sculptural form into everyday objects.",
+   "more": "Born in Los Angeles in 1904, he was a sculptor and set designer as well as a designer of furniture and the Akari paper lamps. His glass-topped coffee table for Herman Miller (1947), with a freeform wooden base, is among his best-known designs. He died in 1988.",
+   "es": {
+    "dates": "1904–1988",
+    "key": "Escultor estadounidense-japonés que también diseñó muebles, lámparas y jardines, llevando la forma escultórica a los objetos cotidianos.",
+    "more": "Nacido en Los Ángeles en 1904, fue escultor y escenógrafo, además de diseñador de muebles y de las lámparas de papel Akari. Su mesa de centro con cubierta de vidrio para Herman Miller (1947), de base de madera de forma libre, es de sus diseños más conocidos. Murió en 1988."
+   },
+   "refs": []
+  },
+  {
+   "id": "finn-juhl",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1912,
+   "died": 1989,
+   "dates": "1912–1989",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Finn Juhl",
+   "movements": [],
+   "institutions": [],
+   "key": "Danish architect and furniture designer whose sculptural, organic chairs gave Danish modern a more expressive voice.",
+   "more": "Born in 1912, he trained as an architect and designed furniture with carved, curving forms in which seat and back float free of the frame. His Chieftain chair (1949) is one of his best-known works. He died in 1989.",
+   "es": {
+    "dates": "1912–1989",
+    "key": "Arquitecto y diseñador de muebles danés cuyas sillas escultóricas y orgánicas dieron al diseño moderno danés una voz más expresiva.",
+    "more": "Nacido en 1912, se formó como arquitecto y diseñó muebles de formas talladas y curvas en que el asiento y el respaldo parecen flotar sobre la estructura. Su sillón Chieftain (1949) es una de sus obras más conocidas. Murió en 1989."
+   },
+   "refs": []
+  },
+  {
+   "id": "clara-porset",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1895,
+   "died": 1981,
+   "dates": "1895–1981",
+   "countries": [
+    "MX",
+    "CU"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Clara Porset",
+   "movements": [],
+   "institutions": [],
+   "key": "Cuban-born designer in Mexico who built a modern furniture design rooted in Latin American materials and traditions.",
+   "more": "Born in Cuba in 1895, she settled in Mexico, where she designed furniture and taught design. Her butaque chair (c. 1950) reworked a traditional Caribbean low seat into a modern form. She died in 1981.",
+   "es": {
+    "dates": "1895–1981",
+    "key": "Diseñadora nacida en Cuba y radicada en México que construyó un diseño de mobiliario moderno arraigado en los materiales y tradiciones latinoamericanos.",
+    "more": "Nacida en Cuba en 1895, se instaló en México, donde diseñó muebles y enseñó diseño. Su silla butaque (c. 1950) reelaboró un asiento bajo tradicional del Caribe en una forma moderna. Murió en 1981."
+   },
+   "refs": []
+  },
+  {
+   "id": "harry-bertoia",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1915,
+   "died": 1978,
+   "dates": "1915–1978",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Harry Bertoia",
+   "movements": [
+    "mid-century-modern"
+   ],
+   "institutions": [],
+   "key": "Italian-born American sculptor and designer whose wire-mesh chairs for Knoll treated furniture as sculpture.",
+   "more": "Born in Italy in 1915, he emigrated to the United States and worked as a sculptor and metalworker. For Knoll he designed a family of welded wire-mesh chairs in the early 1950s, of which the Diamond chair (1952) is the best known. He died in 1978.",
+   "es": {
+    "dates": "1915–1978",
+    "key": "Escultor y diseñador estadounidense nacido en Italia cuyas sillas de malla de alambre para Knoll trataron el mueble como escultura.",
+    "more": "Nacido en Italia en 1915, emigró a Estados Unidos y trabajó como escultor y orfebre del metal. Para Knoll diseñó a comienzos de los años cincuenta una familia de sillas de malla de alambre soldada, de las que la Diamond (1952) es la más conocida. Murió en 1978."
+   },
+   "refs": []
+  },
+  {
+   "id": "alexander-girard",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "fashion"
+   ],
+   "born": 1907,
+   "died": 1993,
+   "dates": "1907–1993",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Alexander Girard",
+   "movements": [
+    "mid-century-modern"
+   ],
+   "institutions": [],
+   "key": "American architect and textile designer who led textile design at Herman Miller and brought folk-art colour into modern interiors.",
+   "more": "Born in 1907, he trained as an architect and became head of the textile division at Herman Miller in 1952. His bold, colourful fabrics and graphics, informed by his collecting of folk art, warmed American modern interiors. He died in 1993.",
+   "es": {
+    "dates": "1907–1993",
+    "key": "Arquitecto y diseñador textil estadounidense que dirigió el diseño textil de Herman Miller y llevó el color del arte popular a los interiores modernos.",
+    "more": "Nacido en 1907, se formó como arquitecto y en 1952 pasó a dirigir la división textil de Herman Miller. Sus telas y gráficas audaces y coloridas, nutridas por su colección de arte popular, dieron calidez a los interiores modernos estadounidenses. Murió en 1993."
+   },
+   "refs": []
+  },
+  {
+   "id": "poul-henningsen",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1894,
+   "died": 1967,
+   "dates": "1894–1967",
+   "countries": [
+    "DK"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Poul Henningsen",
+   "movements": [],
+   "institutions": [],
+   "key": "Danish designer, architect and critic who designed the PH lamps, shading the bulb so light is glare-free and soft.",
+   "more": "Born in 1894, he worked as an architect, writer and cultural critic as well as a lamp designer. From the 1920s he developed the PH lamp series, with layered shades that hide the bulb and spread the light; the PH 5 dates from 1958. He died in 1967.",
+   "es": {
+    "dates": "1894–1967",
+    "key": "Diseñador, arquitecto y crítico danés que creó las lámparas PH, que cubren la ampolleta para dar una luz suave y sin deslumbramiento.",
+    "more": "Nacido en 1894, fue arquitecto, escritor y crítico cultural además de diseñador de lámparas. Desde los años veinte desarrolló la serie de lámparas PH, de pantallas superpuestas que ocultan la ampolleta y reparten la luz; la PH 5 es de 1958. Murió en 1967."
+   },
+   "refs": []
+  },
+  {
+   "id": "alec-issigonis",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1906,
+   "died": 1988,
+   "dates": "1906–1988",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Alec Issigonis",
+   "movements": [],
+   "institutions": [],
+   "key": "British engineer born in Smyrna who designed the Morris Minor and the Mini, fitting a small car around its passengers.",
+   "more": "Born in Smyrna in 1906, he moved to England in 1922 and worked at Morris and later in the British Motor Corporation. He designed the Morris Minor (1948) and, with the engine placed across the front, the Mini of 1959, which gave most of its small body to passengers and luggage. He died in 1988.",
+   "es": {
+    "dates": "1906–1988",
+    "key": "Ingeniero británico nacido en Esmirna que diseñó el Morris Minor y el Mini, ajustando un auto pequeño en torno a sus pasajeros.",
+    "more": "Nacido en Esmirna en 1906, se trasladó a Inglaterra en 1922 y trabajó en Morris y después en la British Motor Corporation. Diseñó el Morris Minor (1948) y, con el motor montado en posición transversal, el Mini de 1959, que dedicó casi todo su pequeño cuerpo a pasajeros y equipaje. Murió en 1988."
+   },
+   "refs": []
+  },
+  {
+   "id": "harley-earl",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1893,
+   "died": 1969,
+   "dates": "1893–1969",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Harley Earl",
+   "movements": [],
+   "institutions": [
+    "inst-gm-art-and-colour"
+   ],
+   "key": "American car designer who headed General Motors’ new Art and Colour Section from 1927 and made annual restyling a pillar of the industry.[1][2][3]",
+   "more": "Born in Hollywood in 1893,[1] he came from his father’s custom coachbuilding business to General Motors,[1] where he led the Art and Colour Section from 1927.[2][3] He championed clay modelling of cars,[3] show cars such as the Le Sabre,[3] and the tailfins of Cadillacs after the war.[1][3] He retired from GM in 1958[3] and died in 1969.[1]",
+   "es": {
+    "dates": "1893–1969",
+    "key": "Diseñador estadounidense de autos que dirigió desde 1927 la nueva sección Art and Colour de General Motors y convirtió el rediseño anual en un pilar de la industria.[1][2][3]",
+    "more": "Nacido en Hollywood en 1893,[1] pasó del taller de carrocerías a medida de su padre a General Motors,[1] donde dirigió la sección Art and Colour desde 1927.[2][3] Impulsó el modelado de autos en arcilla,[3] los autos de exhibición como el Le Sabre[3] y las aletas de los Cadillac de posguerra.[1][3] Se retiró de GM en 1958[3] y murió en 1969.[1]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Harley Jefferson Earl»",
+     "url": "https://www.britannica.com/biography/Harley-Jefferson-Earl",
+     "checks": "1893–1969; nacido en Hollywood; taller de autos a medida de su padre; entró a GM en 1927 como jefe de diseño; modelos anuales; aletas de los Cadillac de posguerra. ⚠ No da lugar de muerte ni el año del Cadillac con aletas; la sección se llama «Art and Color».",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "The Henry Ford, colección digital (LaSalle 1927)",
+     "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/27613/",
+     "checks": "el éxito del LaSalle llevó a GM a crear su primera sección Art and Colour (luego Styling), con Harley Earl como director. ⚠ Solo ese dato.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Automotive Hall of Fame, «Harley J. Earl»",
+     "url": "https://automotivehalloffame.org/honoree/harley-j-earl-2/",
+     "checks": "Art and Colour Section de GM (1927); modelado en arcilla; Le Sabre; aletas de Cadillac; retiro en 1958; cambio anual de modelo. ⚠ La página se leyó solo en resumen; no confirma el año del Le Sabre ni del Cadillac.",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "eliot-noyes",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1910,
+   "died": 1977,
+   "dates": "1910–1977",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Eliot Noyes",
+   "movements": [],
+   "institutions": [
+    "inst-ibm"
+   ],
+   "key": "American architect who, as IBM’s consultant director of design from 1956, shaped the company’s products and buildings, including the Selectric typewriter.",
+   "more": "Born in Boston in 1910, he studied at Harvard and was the first curator of industrial design at the Museum of Modern Art in 1940. From 1956 he was IBM’s consultant director of design, working with Paul Rand and others on products, buildings and graphics, and he led the design of the Selectric typewriter of 1961. He died in 1977.",
+   "es": {
+    "dates": "1910–1977",
+    "key": "Arquitecto estadounidense que, como director consultor de diseño de IBM desde 1956, dio forma a los productos y edificios de la empresa, entre ellos la máquina de escribir Selectric.",
+    "more": "Nacido en Boston en 1910, estudió en Harvard y fue en 1940 el primer curador de diseño industrial del Museo de Arte Moderno. Desde 1956 fue director consultor de diseño de IBM, donde trabajó con Paul Rand y otros en productos, edificios y gráfica, y dirigió el diseño de la máquina de escribir Selectric de 1961. Murió en 1977."
+   },
+   "refs": []
+  },
+  {
+   "id": "robin-day",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1915,
+   "died": 2010,
+   "dates": "1915–2010",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Robin Day",
+   "movements": [],
+   "institutions": [],
+   "key": "British furniture designer whose affordable, mass-produced chairs for Hille, above all the polypropylene chair, filled postwar British schools and public spaces.",
+   "more": "Born in High Wycombe in 1915, he designed furniture for the firm Hille from 1949 and won recognition at the 1951 Festival of Britain with his seating. In 1963 he designed the Polypropylene chair, a one-piece injection-moulded seat on a steel frame that sold in millions. He died in 2010.",
+   "es": {
+    "dates": "1915–2010",
+    "key": "Diseñador británico de muebles cuyas sillas baratas y fabricadas en serie para Hille, sobre todo la de polipropileno, llenaron las escuelas y los espacios públicos británicos de posguerra.",
+    "more": "Nacido en High Wycombe en 1915, diseñó muebles para la empresa Hille desde 1949 y se hizo conocido con sus asientos para el Festival de Gran Bretaña de 1951. En 1963 diseñó la silla de polipropileno, un asiento de una pieza moldeado por inyección sobre estructura de acero, que se vendió por millones. Murió en 2010."
+   },
+   "refs": []
+  },
+  {
+   "id": "marco-zanuso",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1916,
+   "died": 2001,
+   "dates": "1916–2001",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Marco Zanuso",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [
+    "inst-olivetti"
+   ],
+   "key": "Milanese architect and designer who brought foam rubber and plastics into Italian furniture and appliances, notably the Brionvega TS 502 radio with Richard Sapper.",
+   "more": "Born in Milan in 1916, he trained as an architect and designed the Lady armchair (1951) for Arflex, one of the first to use foam rubber padding. With Richard Sapper he designed the Brionvega TS 502 radio (1964) and plastic children’s chairs for Kartell. He also worked for Olivetti and died in 2001.",
+   "es": {
+    "dates": "1916–2001",
+    "key": "Arquitecto y diseñador milanés que llevó la goma espuma y los plásticos al mueble y a los electrodomésticos italianos, entre ellos la radio Brionvega TS 502 con Richard Sapper.",
+    "more": "Nacido en Milán en 1916, se formó como arquitecto y diseñó el sillón Lady (1951) para Arflex, uno de los primeros en usar relleno de goma espuma. Con Richard Sapper diseñó la radio Brionvega TS 502 (1964) y sillas infantiles de plástico para Kartell. También trabajó para Olivetti y murió en 2001."
+   },
+   "refs": []
+  },
+  {
+   "id": "richard-sapper",
+   "level": "essential",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1932,
+   "died": 2015,
+   "dates": "1932–2015",
+   "countries": [
+    "DE",
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Richard Sapper",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [
+    "inst-ibm"
+   ],
+   "key": "German-born designer based in Milan, creator of the Tizio lamp and the IBM ThinkPad, whose precise, black, compact objects set a standard for technical products.[1][2]",
+   "more": "Born in Munich in 1932,[1] he moved to Milan in 1958[1] and worked with Marco Zanuso on the Brionvega TS 502 radio (1964).[1][3] He designed the Tizio lamp for Artemide (1972)[2] and, as a consultant to IBM, the black ThinkPad laptop line from 1992.[2] He died in Milan in 2015.[1][3]",
+   "es": {
+    "dates": "1932–2015",
+    "key": "Diseñador de origen alemán radicado en Milán, creador de la lámpara Tizio y del IBM ThinkPad, cuyos objetos precisos, negros y compactos fijaron un estándar para los productos técnicos.[1][2]",
+    "more": "Nacido en Múnich en 1932,[1] se instaló en Milán en 1958[1] y trabajó con Marco Zanuso en la radio Brionvega TS 502 (1964).[1][3] Diseñó la lámpara Tizio para Artemide (1972)[2] y, como consultor de IBM, la línea de portátiles negros ThinkPad desde 1992.[2] Murió en Milán en 2015.[1][3]"
+   },
+   "refs": [
+    {
+     "label": "Encyclopaedia Britannica, «Richard Sapper»",
+     "url": "https://www.britannica.com/biography/Richard-Sapper",
+     "checks": "nació en Múnich en 1932; se trasladó a Milán en 1958; colaboró con Marco Zanuso (radio Brionvega); lámpara Tizio de Artemide y IBM ThinkPad; murió en Milán el 31 de diciembre de 2015. ⚠ No da el año de la TS 502.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Richard Sapper Design (sitio oficial), «Biography»",
+     "url": "https://richardsapperdesign.com/about/",
+     "checks": "Tizio para Artemide (1972); consultor principal de diseño industrial de IBM desde 1980 y ThinkPad en 1992; colaboración con Zanuso para Brionvega; vida 1932–2015. ⚠ No confirma el color negro del ThinkPad ni la TS 502 por nombre.",
+     "date": "2026-10-06"
+    },
+    {
+     "label": "Knoll, «Remembering Richard Sapper»",
+     "url": "https://www.knoll-int.com/home/inspiration/design-pulse/remembering-richard-sapper",
+     "checks": "nacido en Múnich; trabajó con Zanuso en Brionvega, incluida la radio TS 502; murió el 31 de diciembre de 2015. ⚠ No da el año 1964. Fuente comercial (Knoll).",
+     "date": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": "anna-castelli-ferrieri",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1918,
+   "died": 2006,
+   "dates": "1918–2006",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Anna Castelli Ferrieri",
+   "movements": [
+    "italian-design"
+   ],
+   "institutions": [
+    "inst-kartell"
+   ],
+   "key": "Milanese architect and designer who shaped Kartell’s plastic furniture, creator of the Componibili storage unit of 1967.",
+   "more": "Born in Milan in 1918, she was an architect and the wife of Giulio Castelli, who founded Kartell. She designed furniture for the firm, including the Componibili modular storage unit (1967) in injection-moulded ABS plastic. She died in 2006.",
+   "es": {
+    "dates": "1918–2006",
+    "key": "Arquitecta y diseñadora milanesa que dio forma al mobiliario plástico de Kartell, creadora del mueble de almacenaje Componibili de 1967.",
+    "more": "Nacida en Milán en 1918, fue arquitecta y esposa de Giulio Castelli, fundador de Kartell. Diseñó muebles para la empresa, entre ellos el módulo de almacenaje Componibili (1967) de plástico ABS moldeado por inyección. Murió en 2006."
+   },
+   "refs": []
+  },
+  {
+   "id": "robert-propst",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1921,
+   "died": 2000,
+   "dates": "1921–2000",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Robert Propst",
+   "movements": [],
+   "institutions": [
+    "inst-herman-miller"
+   ],
+   "key": "American inventor and head of Herman Miller’s research division who created Action Office, the system behind the modern office partition.",
+   "more": "He directed the research division of Herman Miller from 1960 and studied how people work in offices. From that research came Action Office, launched in 1964 and reworked as Action Office II in 1968, with movable panels and flexible work surfaces. He died in 2000.",
+   "es": {
+    "dates": "1921–2000",
+    "key": "Inventor estadounidense y jefe de investigación de Herman Miller que creó Action Office, el sistema detrás del tabique de oficina moderno.",
+    "more": "Dirigió desde 1960 la división de investigación de Herman Miller y estudió cómo trabaja la gente en las oficinas. De esa investigación salió Action Office, lanzado en 1964 y reformulado como Action Office II en 1968, con paneles móviles y superficies de trabajo flexibles. Murió en 2000."
+   },
+   "refs": []
+  },
+  {
+   "id": "gaetano-pesce",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1939,
+   "died": 2024,
+   "dates": "1939–2024",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Gaetano Pesce",
+   "movements": [
+    "radical-design"
+   ],
+   "institutions": [],
+   "key": "Italian architect and designer who used new resins and foams to make furniture that carried ideas about freedom and the body, as in the UP series.",
+   "more": "Born in La Spezia in 1939, he trained in architecture in Venice and worked between Italy and New York. In 1969 he created the UP series for C&B Italia, armchairs of polyurethane foam delivered compressed in vacuum packs. He later explored cast resins in unique and varied pieces.",
+   "es": {
+    "dates": "1939–2024",
+    "key": "Arquitecto y diseñador italiano que usó resinas y espumas nuevas para hacer muebles que portaban ideas sobre la libertad y el cuerpo, como en la serie UP.",
+    "more": "Nacido en La Spezia en 1939, se formó como arquitecto en Venecia y trabajó entre Italia y Nueva York. En 1969 creó la serie UP para C&B Italia, sillones de espuma de poliuretano entregados comprimidos en envases al vacío. Más tarde exploró las resinas coladas en piezas únicas y variadas."
+   },
+   "refs": []
+  },
+  {
+   "id": "giorgetto-giugiaro",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1938,
+   "died": null,
+   "dates": "1938–",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Giorgetto Giugiaro",
+   "movements": [],
+   "institutions": [],
+   "key": "Italian car designer who shaped the angular, practical hatchback look of the 1970s, including the Volkswagen Golf of 1974.",
+   "more": "Born in Garessio in 1938, he worked for Bertone and Ghia before founding Italdesign in 1968. He drew the Volkswagen Golf (1974), which replaced the Beetle, and the Scirocco, as well as cars for Fiat, Alfa Romeo and others. He is a leading figure of Italian car styling.",
+   "es": {
+    "dates": "1938–",
+    "key": "Diseñador italiano de autos que dio forma al aspecto anguloso y práctico del hatchback de los años setenta, incluido el Volkswagen Golf de 1974.",
+    "more": "Nacido en Garessio en 1938, trabajó para Bertone y Ghia antes de fundar Italdesign en 1968. Dibujó el Volkswagen Golf (1974), que sustituyó al Escarabajo, y el Scirocco, además de autos para Fiat, Alfa Romeo y otras marcas. Es una figura central del diseño automotriz italiano."
+   },
+   "refs": []
+  },
+  {
+   "id": "som",
+   "level": "normal",
+   "kind": "collective",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1936,
+   "died": null,
+   "dates": "1936–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Skidmore, Owings & Merrill (SOM)",
+   "movements": [
+    "international-style"
+   ],
+   "key": "American architecture firm, founded in Chicago in 1936, that turned the International Style into the standard look of the corporate office tower, with Lever House in New York as its early landmark.",
+   "more": "Louis Skidmore and Nathaniel Owings founded the firm in Chicago in 1936, and John Merrill joined a few years later. Gordon Bunshaft designed Lever House (New York, c.1952), a glass curtain-wall slab that companies copied as an image of modernity. The firm grew into a large practice that produced offices and towers across the world.",
+   "es": {
+    "dates": "1936–",
+    "key": "Despacho de arquitectura estadounidense, fundado en Chicago en 1936, que convirtió el estilo internacional en la imagen habitual de la torre de oficinas corporativa; la Lever House de Nueva York fue su primer hito.",
+    "more": "Louis Skidmore y Nathaniel Owings fundaron el despacho en Chicago en 1936, y John Merrill se les unió pocos años después. Gordon Bunshaft proyectó la Lever House (Nueva York, c. 1952), una placa con muro cortina de vidrio que las empresas copiaron como imagen de modernidad. El despacho se convirtió en una gran oficina que levantó edificios y torres en todo el mundo."
+   },
+   "refs": [],
+   "short": "SOM"
+  },
+  {
+   "id": "carlos-raul-villanueva",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1900,
+   "died": 1975,
+   "dates": "1900–1975",
+   "countries": [
+    "VE"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Carlos Raúl Villanueva",
+   "movements": [
+    "macro-modernism"
+   ],
+   "key": "Venezuelan architect of the Ciudad Universitaria de Caracas, a World Heritage site and a major work of the modern «synthesis of the arts».",
+   "more": "He designed the Ciudad Universitaria de Caracas from the 1940s onward, a modern campus that integrates architecture with works by artists. Alexander Calder's acoustic «clouds» in the Aula Magna are among its best-known pieces. UNESCO inscribed the campus on the World Heritage List in 2000.",
+   "es": {
+    "dates": "1900–1975",
+    "key": "Arquitecto venezolano de la Ciudad Universitaria de Caracas, Patrimonio Mundial y una gran obra de la «síntesis de las artes» moderna.",
+    "more": "Proyectó la Ciudad Universitaria de Caracas desde la década de 1940, un campus moderno que integra la arquitectura con obras de artistas. Las «nubes» acústicas de Alexander Calder en el Aula Magna son de sus piezas más conocidas. La Unesco inscribió el campus en la Lista del Patrimonio Mundial en 2000."
+   },
+   "refs": []
+  },
+  {
+   "id": "smithsons",
+   "level": "normal",
+   "kind": "duo",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1923,
+   "died": 2003,
+   "dates": "Alison 1928–1993, Peter 1923–2003",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Alison and Peter Smithson",
+   "movements": [
+    "brutalism-metabolism"
+   ],
+   "institutions": [
+    "inst-team-10",
+    "inst-independent-group"
+   ],
+   "key": "British architect couple who founded the New Brutalism and took part in Team 10 and the Independent Group.",
+   "more": "Alison and Peter Smithson became known for the Hunstanton School in Norfolk (c.1954), an early work of the New Brutalism with exposed structure and materials. They belonged to the Independent Group in London and to Team 10, which questioned the rationalism of the older modern masters. Their writing and projects shaped British architecture after the Second World War.",
+   "es": {
+    "dates": "Alison 1928–1993, Peter 1923–2003",
+    "key": "Pareja de arquitectos británicos que fundó el Nuevo Brutalismo y participó en el Team 10 y en el Independent Group.",
+    "more": "Alison y Peter Smithson se dieron a conocer con la escuela de Hunstanton, en Norfolk (c. 1954), obra temprana del Nuevo Brutalismo con estructura y materiales a la vista. Formaron parte del Independent Group en Londres y del Team 10, que cuestionó el racionalismo de los maestros modernos anteriores. Sus textos y proyectos marcaron la arquitectura británica de posguerra."
+   },
+   "refs": [],
+   "short": "Smithsons"
+  },
+  {
+   "id": "felix-candela",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1910,
+   "died": 1997,
+   "dates": "1910–1997",
+   "countries": [
+    "ES",
+    "MX"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Félix Candela",
+   "key": "Spanish-born architect and builder who made thin concrete shell roofs in Mexico, a canonical body of work in structural design.",
+   "more": "Candela left Spain after the Civil War and settled in Mexico in 1939. He specialised in thin reinforced-concrete shells shaped as hyperbolic paraboloids, such as the Los Manantiales restaurant in Xochimilco (c.1958). His shells covered large spans with very little material.",
+   "es": {
+    "dates": "1910–1997",
+    "key": "Arquitecto y constructor nacido en España que levantó delgadas cubiertas de cascarón de hormigón en México, obra canónica del diseño estructural.",
+    "more": "Candela salió de España tras la Guerra Civil y se instaló en México en 1939. Se especializó en cascarones delgados de hormigón armado con forma de paraboloide hiperbólico, como el restaurante Los Manantiales en Xochimilco (c. 1958). Sus láminas cubrían grandes luces con muy poco material."
+   },
+   "refs": []
+  },
+  {
+   "id": "eladio-dieste",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1917,
+   "died": 2000,
+   "dates": "1917–2000",
+   "countries": [
+    "UY"
+   ],
+   "regions": [
+    "latin-america"
+   ],
+   "name": "Eladio Dieste",
+   "key": "Uruguayan engineer of reinforced brick, a world reference for appropriate building technique.",
+   "more": "Dieste developed «cerámica armada», brick masonry reinforced with steel, to build thin self-supporting vaults and walls. His Church of Cristo Obrero in Atlántida (c.1960) is among his best-known works. He used local brick and labour to span large industrial and public spaces economically.",
+   "es": {
+    "dates": "1917–2000",
+    "key": "Ingeniero uruguayo de la cerámica armada, referencia mundial de la técnica constructiva apropiada.",
+    "more": "Dieste desarrolló la «cerámica armada», albañilería de ladrillo reforzada con acero, para construir bóvedas y muros delgados y autoportantes. Su iglesia de Cristo Obrero en Atlántida (c. 1960) es una de sus obras más conocidas. Usó ladrillo y mano de obra locales para cubrir con economía grandes espacios industriales y públicos."
+   },
+   "refs": []
+  },
+  {
+   "id": "moshe-safdie",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "architecture"
+   ],
+   "born": 1938,
+   "died": null,
+   "dates": "1938–",
+   "countries": [
+    "CA"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Moshe Safdie",
+   "key": "Israeli-Canadian architect, author of Habitat 67, a manifesto of prefabricated housing in stacked modules.",
+   "more": "Safdie designed Habitat 67 in Montreal for the 1967 World Exhibition, a housing complex of prefabricated concrete boxes stacked in a staggered pattern. It started from his student thesis on modular housing. The project made him internationally known.",
+   "es": {
+    "dates": "1938–",
+    "key": "Arquitecto israelí-canadiense, autor de Habitat 67, manifiesto de la vivienda prefabricada en módulos apilados.",
+    "more": "Safdie proyectó Habitat 67 en Montreal para la Exposición Universal de 1967, un conjunto de viviendas hecho de cajas de hormigón prefabricadas apiladas de forma escalonada. Partió de su tesis de estudiante sobre vivienda modular. El proyecto lo hizo conocido en todo el mundo."
+   },
+   "refs": []
+  },
+  {
+   "id": "paco-rabanne",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "fashion"
+   ],
+   "born": 1934,
+   "died": 2023,
+   "dates": "1934–2023",
+   "countries": [
+    "ES",
+    "FR"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Paco Rabanne",
+   "movements": [
+    "space-age-fashion"
+   ],
+   "key": "Spanish-born fashion designer of the space age who dressed women in plastic and metal.",
+   "more": "Born in Spain, Rabanne worked in Paris and in 1966 showed dresses made of unconventional materials, among them plastic discs joined with metal rings. His clothes were assembled with pliers instead of being sewn. They became a symbol of space-age fashion in the 1960s.",
+   "es": {
+    "dates": "1934–2023",
+    "key": "Modista de la era espacial, nacido en España, que vistió con plástico y metal.",
+    "more": "Nacido en España, Rabanne trabajó en París y en 1966 presentó vestidos hechos de materiales no convencionales, entre ellos discos de plástico unidos con anillas de metal. Sus prendas se armaban con alicates en lugar de coserse. Se volvieron un símbolo de la moda de la era espacial en los años sesenta."
+   },
+   "refs": []
+  },
+  {
+   "id": "abram-games",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1914,
+   "died": 1996,
+   "dates": "1914–1996",
+   "countries": [
+    "GB"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Abram Games",
+   "key": "British poster designer of the Second World War and of the 1951 Festival of Britain.",
+   "more": "Games worked as an official War Office poster artist during the Second World War, producing posters for the army. He designed the emblem of the Festival of Britain in 1951. His posters aimed to say as much as possible with the fewest elements.",
+   "es": {
+    "dates": "1914–1996",
+    "key": "Cartelista británico de la Segunda Guerra Mundial y del Festival de Gran Bretaña de 1951.",
+    "more": "Games trabajó como cartelista oficial del Ministerio de Guerra durante la Segunda Guerra Mundial, con afiches para el ejército. Diseñó el emblema del Festival de Gran Bretaña de 1951. Sus afiches buscaban decir lo máximo con los menos elementos posibles."
+   },
+   "refs": []
+  },
+  {
+   "id": "emory-douglas",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1943,
+   "died": null,
+   "dates": "1943–",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Emory Douglas",
+   "key": "Minister of Culture of the Black Panther Party and the author of its graphic work.",
+   "more": "Douglas became the Black Panther Party's Minister of Culture in the late 1960s. He made the illustrations and layouts of its newspaper, The Black Panther, in bold, simple graphics. His work gave the movement its own visual language.",
+   "es": {
+    "dates": "1943–",
+    "key": "Ministro de Cultura del Partido Pantera Negra y autor de su gráfica.",
+    "more": "Douglas fue ministro de Cultura del Partido Pantera Negra desde fines de los años sesenta. Hizo las ilustraciones y la diagramación de su periódico, The Black Panther, con una gráfica audaz y simple. Su trabajo dio al movimiento un lenguaje visual propio."
+   },
+   "refs": []
+  },
+  {
+   "id": "herb-lubalin",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "graphic"
+   ],
+   "born": 1918,
+   "died": 1981,
+   "dates": "1918–1981",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Herb Lubalin",
+   "movements": [
+    "new-york-school-graphic"
+   ],
+   "key": "American master of expressive typography, associated with Avant Garde, U&lc and ITC.",
+   "more": "Lubalin was a New York art director and typographer. He designed the magazine Avant Garde with Ralph Ginzburg and drew the logo that led to the ITC Avant Garde typeface. He also gave direction to U&lc, the publication of the International Typeface Corporation.",
+   "es": {
+    "dates": "1918–1981",
+    "key": "Maestro estadounidense de la tipografía expresiva, asociado a Avant Garde, U&lc e ITC.",
+    "more": "Lubalin fue director de arte y tipógrafo en Nueva York. Diseñó la revista Avant Garde con Ralph Ginzburg y dibujó el logotipo del que nació la tipografía ITC Avant Garde. También dirigió U&lc, la publicación de la International Typeface Corporation."
+   },
+   "refs": []
+  },
+  {
+   "id": "pininfarina",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1893,
+   "died": 1966,
+   "dates": "1893–1966",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Battista «Pinin» Farina",
+   "movements": [
+    "italian-design"
+   ],
+   "key": "Turin coachbuilder whose Cisitalia 202 was the first car in the MoMA collection.",
+   "more": "Battista Farina, called Pinin, founded his coachbuilding firm in Turin in 1930. He designed the bodywork of the Cisitalia 202 (c.1947), which the Museum of Modern Art in New York later acquired. The firm became a pillar of Italian car design.",
+   "es": {
+    "dates": "1893–1966",
+    "key": "Carrocero turinés cuyo Cisitalia 202 fue el primer automóvil de la colección del MoMA.",
+    "more": "Battista Farina, llamado Pinin, fundó su taller de carrocería en Turín en 1930. Diseñó la carrocería del Cisitalia 202 (c. 1947), que el Museo de Arte Moderno de Nueva York adquirió más tarde. La empresa se volvió un pilar del diseño automotor italiano."
+   },
+   "refs": [],
+   "short": "Pinin Farina"
+  },
+  {
+   "id": "kaj-franck",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1911,
+   "died": 1989,
+   "dates": "1911–1989",
+   "countries": [
+    "FI"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Kaj Franck",
+   "movements": [
+    "scandinavian-design"
+   ],
+   "key": "Finnish designer of everyday tableware and glass, the «conscience» of Finnish design.",
+   "more": "Franck worked for Arabia and Nuutajärvi, and designed the Kilta tableware (c.1952), pieces that were combinable, stackable and sold individually. He argued for simple, durable objects for ordinary use. His work set a moral standard in Finnish design.",
+   "es": {
+    "dates": "1911–1989",
+    "key": "Diseñador finlandés de vajilla y vidrio de uso diario, la «conciencia» del diseño finlandés.",
+    "more": "Franck trabajó para Arabia y Nuutajärvi, y diseñó la vajilla Kilta (c. 1952), piezas combinables, apilables y vendidas por separado. Defendió objetos simples y durables para el uso común. Su obra fijó un estándar ético en el diseño finlandés."
+   },
+   "refs": []
+  },
+  {
+   "id": "eero-aarnio",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1932,
+   "died": null,
+   "dates": "1932–",
+   "countries": [
+    "FI"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Eero Aarnio",
+   "movements": [
+    "pop-design"
+   ],
+   "key": "Finnish designer of the playful plastic furniture of the 1960s, best known for the Ball Chair and the Pastil Chair.",
+   "more": "He designed the Ball Chair in 1963, a fibreglass sphere with an upholstered interior that a person sits inside. The Pastil and Bubble chairs followed, all moulded in plastic in rounded, bright forms. His furniture became a symbol of pop design and of the optimism of the plastics age.",
+   "es": {
+    "dates": "1932–",
+    "key": "Diseñador finlandés del mueble lúdico de plástico de los años sesenta, conocido sobre todo por la silla Ball y la silla Pastil.",
+    "more": "Diseñó la silla Ball en 1963, una esfera de fibra de vidrio con interior tapizado en la que la persona se sienta dentro. Después vinieron las sillas Pastil y Bubble, todas moldeadas en plástico, de formas redondeadas y colores vivos. Su mobiliario se volvió un símbolo del diseño pop y del optimismo de la era del plástico."
+   },
+   "refs": []
+  },
+  {
+   "id": "bruno-munari",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product",
+    "graphic"
+   ],
+   "born": 1907,
+   "died": 1998,
+   "dates": "1907–1998",
+   "countries": [
+    "IT"
+   ],
+   "regions": [
+    "europe"
+   ],
+   "name": "Bruno Munari",
+   "movements": [
+    "italian-design"
+   ],
+   "key": "Italian artist, designer and theorist whose lamps, objects and children's books made play and experiment part of design.",
+   "more": "He began as a Futurist-influenced artist and later worked across graphic design, product design and books. He made experimental objects such as the Falkland lamp and the 'useless machines', and wrote and designed children's books. He also taught and wrote about method and visual education, and Danese produced many of his objects.",
+   "es": {
+    "dates": "1907–1998",
+    "key": "Artista, diseñador y teórico italiano cuyas lámparas, objetos y libros infantiles hicieron del juego y la experimentación una parte del diseño.",
+    "more": "Comenzó como artista cercano al futurismo y luego trabajó en diseño gráfico, de producto y libros. Hizo objetos experimentales como la lámpara Falkland y las «máquinas inútiles», y escribió y diseñó libros infantiles. También enseñó y escribió sobre método y educación visual, y Danese produjo muchos de sus objetos."
+   },
+   "refs": []
+  },
+  {
+   "id": "douglas-engelbart",
+   "level": "normal",
+   "kind": "person",
+   "disciplines": [
+    "product"
+   ],
+   "born": 1925,
+   "died": 2013,
+   "dates": "1925–2013",
+   "countries": [
+    "US"
+   ],
+   "regions": [
+    "north-america"
+   ],
+   "name": "Douglas Engelbart",
+   "movements": [
+    "interaction-design"
+   ],
+   "key": "American engineer who invented the computer mouse and led the NLS system, whose 1968 demonstration showed interactive computing to a wide audience.",
+   "more": "At the Stanford Research Institute he led the team that built NLS, an interactive system with windows, hypertext links and the mouse. In December 1968 he presented it live in what became known as 'the mother of all demos'. His idea of computers as tools to augment human intellect shaped later interface and interaction design.",
+   "es": {
+    "dates": "1925–2013",
+    "key": "Ingeniero estadounidense que inventó el mouse del computador y dirigió el sistema NLS, cuya demostración de 1968 mostró la computación interactiva a un público amplio.",
+    "more": "En el Stanford Research Institute dirigió el equipo que construyó NLS, un sistema interactivo con ventanas, enlaces de hipertexto y el mouse. En diciembre de 1968 lo presentó en vivo en la que se conoció como «la madre de todas las demos». Su idea de los computadores como herramientas para ampliar el intelecto humano marcó el diseño posterior de interfaces y de interacción."
+   },
+   "refs": []
+  }
+ ]
+}

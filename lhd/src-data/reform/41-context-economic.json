@@ -1,0 +1,155 @@
+{
+ "contexts": [
+  {
+   "id": "ctx-second-industrial-revolution",
+   "track": "economic",
+   "start": 1870,
+   "end": 1913,
+   "cont": true,
+   "date": "1870–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "name": "Second Industrial Revolution",
+   "short": "2nd Industrial Rev.",
+   "key": "The phase of industrialisation from about 1870 based on steel, chemicals, electricity and large corporations, led by Germany and the United States.",
+   "happened": "From around 1870, cheap steel (after the Bessemer process of 1856), electrical engineering, industrial chemistry and the first assembly of large corporations changed industry. Germany and the United States became the leading industrial powers, overtaking Britain in several sectors by the turn of the century. Firms like the Allgemeine Elektricitäts-Gesellschaft (AEG), founded in Berlin in 1883, grew into very large enterprises.",
+   "effect": "Steel frames made tall buildings possible, as in the Chicago skyscrapers of the 1880s, and large electrical firms needed a coherent public image. In 1907 AEG hired the architect Peter Behrens as artistic adviser, and he designed its turbine factory, products and graphics. Industry began to commission designers to give a whole company a single look.",
+   "es": {
+    "name": "Segunda revolución industrial",
+    "short": "2ª rev. industrial",
+    "date": "1870–1914",
+    "key": "La fase de industrialización desde c. 1870 basada en el acero, la química, la electricidad y las grandes corporaciones, encabezada por Alemania y Estados Unidos.",
+    "happened": "Desde c. 1870, el acero barato (tras el proceso Bessemer de 1856), la ingeniería eléctrica, la química industrial y las primeras grandes corporaciones transformaron la industria. Alemania y Estados Unidos pasaron a ser las grandes potencias industriales y superaron a Gran Bretaña en varios sectores hacia el cambio de siglo. Empresas como la Allgemeine Elektricitäts-Gesellschaft (AEG), fundada en Berlín en 1883, crecieron hasta ser enormes.",
+    "effect": "Las estructuras de acero hicieron posibles los edificios altos, como los rascacielos de Chicago de los años 1880, y las grandes empresas eléctricas necesitaron una imagen pública coherente. En 1907 AEG contrató al arquitecto Peter Behrens como asesor artístico, y él diseñó su fábrica de turbinas, sus productos y su gráfica. La industria empezó a encargar a diseñadores que dieran a toda una empresa un solo aspecto."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-trademark-branding",
+   "track": "economic",
+   "start": 1875,
+   "end": null,
+   "cont": true,
+   "date": "1875 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "name": "Trademarks and branding",
+   "short": "Trademarks",
+   "key": "Laws that let firms register and own a distinctive mark, so that names, logos and packaging became commercial property from the 1870s.",
+   "happened": "Britain’s Trade Marks Registration Act of 1875 came into force on 1 January 1876 and created a register of marks; among the first registered was the red triangle of Bass beer. The United States passed a federal trademark law in 1870 and, after it was struck down by the Supreme Court in 1879, a new one in 1881.",
+   "effect": "Once a mark could be registered and defended in court, a distinctive name, symbol or label became an asset worth designing, and manufacturers who sold packaged goods under their own name had reason to commission recognisable lettering, logos and packaging. This helped establish the trademark and the logo as design tasks, and later made a unified corporate identity, such as the one Behrens made for AEG, thinkable.",
+   "es": {
+    "name": "Marcas registradas y marca comercial",
+    "short": "Marcas registradas",
+    "date": "1875 →",
+    "key": "Leyes que permitieron a las empresas registrar y poseer una marca distintiva, de modo que nombres, logotipos y envases se volvieron propiedad comercial desde la década de 1870.",
+    "happened": "La ley británica de registro de marcas de 1875 entró en vigor el 1 de enero de 1876 y creó un registro de marcas; entre las primeras inscritas estuvo el triángulo rojo de la cerveza Bass. Estados Unidos aprobó una ley federal de marcas en 1870 y, tras ser anulada por la Corte Suprema en 1879, una nueva en 1881.",
+    "effect": "Una vez que una marca podía registrarse y defenderse ante los tribunales, un nombre, símbolo o etiqueta distintivos pasó a ser un activo digno de diseñarse, y los fabricantes que vendían productos envasados con su propio nombre tuvieron motivos para encargar letras, logotipos y envases reconocibles. Esto consolidó la marca y el logotipo como tareas de diseño, y más tarde hizo pensable una identidad corporativa unificada, como la que Behrens creó para AEG."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-department-stores",
+   "track": "economic",
+   "start": 1852,
+   "end": null,
+   "cont": true,
+   "date": "1852 →",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "FR",
+    "US",
+    "GB"
+   ],
+   "name": "Department stores",
+   "short": "Department stores",
+   "key": "Large shops selling many kinds of goods under one roof at marked prices, which turned shopping into a spectacle for the middle class.",
+   "happened": "In Paris, Aristide Boucicaut transformed Le Bon Marché from 1852 into a large store with marked prices and free entry, and its new building of the 1870s and 1880s used an iron frame, with Gustave Eiffel’s firm taking part. Similar stores followed, such as Macy’s in New York and Wanamaker’s in Philadelphia. Liberty’s in London opened in 1875.",
+   "effect": "Stores had to display, group and advertise a great variety of goods, and they relied on plate glass, large windows, lighting and catalogues. They also sold furniture, fabrics and household objects to a mass public, giving designers and firms a new channel to reach ordinary buyers, and making presentation and branding part of what a product was.",
+   "es": {
+    "name": "Grandes almacenes",
+    "short": "Grandes almacenes",
+    "date": "1852 →",
+    "key": "Grandes tiendas que vendían muchos tipos de productos bajo un mismo techo y a precios marcados, y que hicieron de comprar un espectáculo para la clase media.",
+    "happened": "En París, Aristide Boucicaut transformó Le Bon Marché desde 1852 en una gran tienda de precios marcados y entrada libre, y su nuevo edificio de los años 1870 y 1880 usó una estructura de hierro, con participación de la empresa de Gustave Eiffel. Siguieron tiendas parecidas, como Macy’s en Nueva York y Wanamaker’s en Filadelfia. Liberty’s abrió en Londres en 1875.",
+    "effect": "Las tiendas debían exhibir, agrupar y publicitar una gran variedad de productos, y se apoyaron en el vidrio plano, los grandes ventanales, la iluminación y los catálogos. También vendieron muebles, telas y objetos del hogar a un público masivo, lo que dio a diseñadores y empresas un nuevo canal para llegar a compradores corrientes y volvió la presentación y la marca parte de lo que era un producto."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-mass-advertising-catalogue",
+   "track": "economic",
+   "start": 1870,
+   "end": 1913,
+   "cont": false,
+   "date": "1870–1914",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "countries": [
+    "US",
+    "GB",
+    "FR"
+   ],
+   "name": "Mass advertising and mail-order catalogues",
+   "short": "Ads and catalogues",
+   "key": "The growth of newspaper and poster advertising and of mail-order selling, which put illustrated printed matter at the centre of commerce.",
+   "happened": "Aaron Montgomery Ward issued his first mail-order catalogue in Chicago in 1872, and Sears followed in the late 1880s. Railways and a national postal service let firms in the United States sell to distant customers, and in Europe newspapers, posters and shop catalogues multiplied. Advertising agencies and printed illustrated advertisements grew as manufacturers sought to sell branded goods.",
+   "effect": "Selling by picture and word made printing a central tool of business: catalogues needed legible layouts and engraved or lithographed illustrations, and advertisers commissioned posters and press images in colour. Chromolithography, and later halftone reproduction, supplied the means, and graphic design took shape as a working trade serving commerce.",
+   "es": {
+    "name": "Publicidad y venta por catálogo",
+    "short": "Publicidad, catálogo",
+    "date": "1870–1914",
+    "key": "El crecimiento de la publicidad en diarios y carteles y de la venta por correo, que puso el impreso ilustrado en el centro del comercio.",
+    "happened": "Aaron Montgomery Ward publicó su primer catálogo de venta por correo en Chicago en 1872, y Sears lo siguió a fines de los años 1880. Los ferrocarriles y un servicio postal nacional permitieron a las empresas de Estados Unidos vender a clientes lejanos, y en Europa se multiplicaron los diarios, los carteles y los catálogos de las tiendas. Crecieron las agencias de publicidad y los avisos ilustrados impresos, a medida que los fabricantes buscaban vender productos con marca.",
+    "effect": "Vender con imagen y palabra hizo de la imprenta una herramienta central del negocio: los catálogos requerían diagramaciones legibles e ilustraciones grabadas o litografiadas, y los anunciantes encargaron carteles e imágenes de prensa en color. La cromolitografía, y más tarde la reproducción de medio tono, aportaron los medios, y el diseño gráfico tomó forma como un oficio al servicio del comercio."
+   },
+   "refs": []
+  },
+  {
+   "id": "ctx-nitrate-boom",
+   "track": "economic",
+   "start": 1880,
+   "end": 1913,
+   "cont": true,
+   "date": "1880–1920",
+   "regions": [
+    "latin-america"
+   ],
+   "countries": [
+    "CL"
+   ],
+   "name": "Nitrate boom",
+   "short": "Nitrate boom",
+   "key": "Chile’s export boom in sodium nitrate, a fertiliser, after its gains in the War of the Pacific, which brought wealth and European taste to its cities.",
+   "happened": "After the War of the Pacific (1879–1883) Chile held the nitrate fields of Tarapacá and Antofagasta. Exports of nitrate, used as fertiliser and in explosives, mostly to Europe, became the state’s main source of revenue until the early twentieth century, and the mines drew many workers to the northern desert, where the army killed striking workers in Iquique in 1907.",
+   "effect": "Nitrate money enriched owners and merchants in Santiago, Valparaíso and the north, who built grand houses and public buildings, usually in European styles, with imported materials, furniture and architects. The same trade gave the country a stronger state and a larger urban population, and its dependence on ports and foreign firms shaped what could be bought and built.",
+   "es": {
+    "name": "Auge del salitre",
+    "short": "Auge del salitre",
+    "date": "1880–1920",
+    "key": "El auge exportador del nitrato de sodio, un fertilizante, de Chile tras sus ganancias en la Guerra del Pacífico, que trajo riqueza y gusto europeo a sus ciudades.",
+    "happened": "Tras la Guerra del Pacífico (1879–1883), Chile quedó dueño de las zonas salitreras de Tarapacá y Antofagasta. Las exportaciones de nitrato, usado como fertilizante y en explosivos, sobre todo a Europa, fueron hasta principios del siglo XX la principal fuente de ingresos del Estado, y las minas atrajeron a muchos trabajadores al desierto del norte, donde el ejército mató a obreros en huelga en Iquique en 1907.",
+    "effect": "El dinero del salitre enriqueció a dueños y comerciantes de Santiago, Valparaíso y el norte, que levantaron grandes casas y edificios públicos, por lo general en estilos europeos, con materiales, muebles y arquitectos importados. El mismo comercio dio al país un Estado más fuerte y una población urbana mayor, y su dependencia de los puertos y de empresas extranjeras condicionó lo que podía comprarse y construirse."
+   },
+   "refs": []
+  }
+ ]
+}

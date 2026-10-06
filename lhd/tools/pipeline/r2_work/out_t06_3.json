@@ -1,0 +1,291 @@
+[
+ {
+  "id": "ray-gun-1992",
+  "en": {
+   "key": "The alternative-music magazine launched in 1992 with David Carson as art director, whose fractured grids and hard-to-read type became a symbol of 1990s experimental design.[1][4]",
+   "more": "Published in Santa Monica under the publisher Marvin Scott Jarrett,[4] it was an alternative-music magazine[1] in which Carson fractured grids and collided typefaces.[4] In one famous case an interview with Bryan Ferry was set entirely in the symbol font Zapf Dingbats.[2][3] Carson was art director until 1995.[1] Critics found his type difficult to decipher yet accepted his dissident aesthetic, and the magazine split traditionalist designers from computer-savvy ones.[3] It ceased publication in 2000.[4]"
+  },
+  "es": {
+   "key": "La revista de música alternativa lanzada en 1992 con David Carson como director de arte, cuyas grillas fracturadas y tipografía difícil de leer se volvieron símbolo del diseño experimental de los noventa.[1][4]",
+   "more": "Publicada en Santa Monica bajo el editor Marvin Scott Jarrett,[4] era una revista de música alternativa[1] en la que Carson fracturaba las grillas y hacía chocar las tipografías.[4] En un caso famoso, una entrevista a Bryan Ferry se compuso entera en la fuente de símbolos Zapf Dingbats.[2][3] Carson fue director de arte hasta 1995.[1] La crítica reconoció que su tipografía era difícil de descifrar, pero aceptó su estética disidente, y la revista dividió a los diseñadores tradicionales de los duchos en computador.[3] Dejó de publicarse en 2000.[4]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «David Carson»",
+    "url": "https://www.britannica.com/biography/David-Carson",
+    "checks": "Revista de música alternativa; Marvin Scott Jarrett como editor; Carson director de arte desde 1992 hasta que dejó Ray Gun en 1995. ⚠ no menciona Ferry ni Santa Monica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "EBSCO Research Starters, «David Carson (graphic designer)»",
+    "url": "https://ebsco.com/research-starters/communication-and-mass-media/david-carson-graphic-designer",
+    "checks": "Primer número en 1992; Carson reemplazó una entrevista completa a Bryan Ferry por dingbats (el texto legible iba en otra parte del número). ⚠ no cubre Santa Monica ni el cierre.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Eye, «Who cares if you read»",
+    "url": "https://eyemagazine.com/review/article/who-cares-if-you-read",
+    "checks": "Fundada en 1992; entrevista de Ferry en Zapf Dingbats; tipografía «difícil de descifrar» pero estética disidente aceptada; cisma entre tradicionalistas y diseñadores duchos en computador. ⚠ no menciona Santa Monica.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "The Graphic Design School, «Ray Gun Magazine (1992–2000)»",
+    "url": "https://www.thegraphicdesignschool.com/design-history/ray-gun/",
+    "checks": "Lanzada en Santa Monica con Marvin Scott Jarrett; Carson fracturó grillas y chocó tipografías; cerró en 2000. ⚠ sitio de una escuela de diseño, fuente secundaria.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «let Carson work with digital tools» y «overlapping text and images, distorting letters»: ninguna fuente lo confirma; lo reemplacé por lo que dice la fuente (grillas fracturadas, tipografías chocadas).",
+   "Atribuí a la crítica (Eye) la división de opiniones y suavicé «lenguaje para sus jóvenes lectores».",
+   "No confirmado: el campo `tech` (postscript, photoshop), «layouts composed digitally» en materials, y el status «issues are collected by libraries and design archives»; no los toqué."
+  ]
+ },
+ {
+  "id": "vitra-fire-station-1993",
+  "en": {
+   "key": "One of Zaha Hadid’s first built works, a fire station of sharp, tilted concrete planes on the Vitra factory grounds in Weil am Rhein.[1][2]",
+   "more": "Built between 1989 and 1993 in Weil am Rhein,[3] it has a series of sharply angled planes of exposed cast-in-situ concrete that cross each other obliquely,[1][2] so that the building seems frozen in movement.[2] Britannica treats it as a major built project of Hadid and an example of deconstructivism,[1][3] and ArchDaily says it was among the first of her designs to be built.[2] It is now used as an exhibition and event space.[2]"
+  },
+  "es": {
+   "key": "Una de las primeras obras construidas de Zaha Hadid, una estación de bomberos de planos de hormigón agudos e inclinados en los terrenos de la fábrica Vitra en Weil am Rhein.[1][2]",
+   "more": "Construido entre 1989 y 1993 en Weil am Rhein,[3] tiene una serie de planos muy angulosos de hormigón visto hormigonado in situ que se cruzan en oblicuo,[1][2] de modo que el edificio parece detenido en pleno movimiento.[2] La Britannica lo trata como un proyecto construido importante de Hadid y ejemplo de deconstructivismo,[1][3] y ArchDaily dice que fue de los primeros diseños suyos en construirse.[2] Hoy se usa como espacio de exposiciones y eventos.[2]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «Vitra Fire Station»",
+    "url": "https://www.britannica.com/topic/Vitra-Fire-Station",
+    "checks": "Terminada en 1993 en Weil am Rhein; planos muy angulosos y muros de hormigón inclinados; proyecto construido importante de Hadid, deconstructivismo. ⚠ no dice «la primera».",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "ArchDaily, «AD Classics: Vitra Fire Station / Zaha Hadid»",
+    "url": "https://www.archdaily.com/785760/ad-classics-vitra-fire-station-zaha-hadid-weil-am-rhein-germany",
+    "checks": "Completada en 1993; entre los primeros diseños de Hadid en construirse; planos de hormigón in situ que se cruzan en oblicuo; «movimiento congelado»; hoy espacio de exposiciones y eventos. ⚠ no confirma que dejara pronto de ser estación.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Western architecture: Architecture at the turn of the 21st century»",
+    "url": "https://www.britannica.com/art/Western-architecture/Architecture-at-the-turn-of-the-21st-century",
+    "checks": "Vitra Fire Station (1989–93) en Weil am Rhein como ejemplo de arquitectura deconstructivista.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Suavicé «first completed building» a «una de las primeras obras construidas»: las fuentes consultadas dicen «among the first» o «major built project»; solo un sitio no usado la llama la primera.",
+   "Quité «soon stopped working as a fire station»: las fuentes solo confirman el uso actual como espacio de exposiciones y eventos.",
+   "«for Vitra» y client no confirmados explícitamente en las fuentes citadas; no toqué `client`."
+  ]
+ },
+ {
+  "id": "aeron-chair-1994",
+  "en": {
+   "key": "The office chair designed by Bill Stumpf and Don Chadwick for Herman Miller in 1994, which replaced foam upholstery with a Pellicle mesh and came in three sizes.[1][2]",
+   "more": "Stumpf and Chadwick designed it for Herman Miller in 1994.[1][3] Its seat and back are Pellicle mesh, in the current version with eight zones of varying tension, that supports the body without foam and lets it breathe.[2] The chair is adjustable, with a rotating column and seat-angle adjustment.[1][2] It is made in three sizes, A, B and C.[2] It entered the permanent collection of the Museum of Modern Art before it went into production,[3] and the Brooklyn Museum calls it an early masterpiece of ergonomic furniture design.[1]"
+  },
+  "es": {
+   "key": "La silla de oficina que Bill Stumpf y Don Chadwick diseñaron para Herman Miller en 1994, que reemplazó la tapicería de espuma por una malla Pellicle y se ofrecía en tres tamaños.[1][2]",
+   "more": "Stumpf y Chadwick la diseñaron para Herman Miller en 1994.[1][3] Su asiento y respaldo son de malla Pellicle, en la versión actual con ocho zonas de tensión distinta, que sostiene el cuerpo sin espuma y lo deja respirar.[2] La silla es ajustable, con columna giratoria y regulación del ángulo del asiento.[1][2] Se hace en tres tamaños, A, B y C.[2] Entró a la colección permanente del Museo de Arte Moderno antes de salir a producción,[3] y el Brooklyn Museum la llama una obra maestra temprana del diseño ergonómico de muebles.[1]"
+  },
+  "refs": [
+   {
+    "label": "Brooklyn Museum, «Aeron Chair»",
+    "url": "https://www.brooklynmuseum.org/objects/169418",
+    "checks": "Diseñada por Don Chadwick y Bill Stumpf, fabricante Herman Miller, 1994; ajustes (columna giratoria, ángulo del asiento); «obra maestra temprana del diseño ergonómico». ⚠ materiales según el museo: aluminio reciclado y polímero reciclado.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Herman Miller, «Aeron Chairs brochure»",
+    "url": "https://www.hermanmiller.com/content/dam/hermanmiller/documents/product_literature/brochures/apac/aeron_chairs_brochure_en-apc.pdf",
+    "checks": "Creada en 1994 por Stumpf y Chadwick; tres tamaños A, B y C; malla 8Z Pellicle de ocho zonas de tensión, sin espuma, que respira. ⚠ fuente del fabricante; describe la versión actual.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Herman Miller, «Designer Don Chadwick»",
+    "url": "https://www.hermanmiller.com/designers/chadwick/",
+    "checks": "Aeron codiseñada con Stumpf en 1994; entró a la colección permanente del MoMA antes de producirse. ⚠ fuente del fabricante.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «woven» y «polyester» y «tensioned»: ninguna fuente confirma el tejido; la malla se describe solo como Pellicle (zonas de tensión variable en la versión actual).",
+   "Quité «emblem of the 1990s office»: no confirmado. Cambié «launched in 1994» por «designed in 1994»: las fuentes dicen diseño de 1994, no la fecha de lanzamiento.",
+   "Materials de la ficha (poliéster tejido, aluminio fundido y plástico) no confirmados exactamente (Brooklyn: aluminio y polímero reciclados); no los toqué."
+  ]
+ },
+ {
+  "id": "guggenheim-bilbao-1997",
+  "en": {
+   "key": "Frank Gehry’s sculptural museum of titanium, limestone and glass on the Nervión river, built from 1993 to October 1997, which became an icon of the transformation of Bilbao.[1][2][3]",
+   "more": "A collaboration between Basque institutions and the Solomon R. Guggenheim Foundation,[1] it was built between October 1993 and October 1997 on a former industrial wharf on the Nervión.[2] Its outer skin is about 33,000 thin titanium sheets, with limestone and glass,[2] and Gehry used CATIA, software originally developed for aerospace engineering, to turn his complex design into a buildable structure.[2] Its opening in 1997 transformed the city through global visitors and gave rise to what is called the ‘Bilbao effect’.[3] Britannica notes that its titanium exterior alluded to the city’s shipyard heritage.[4]"
+  },
+  "es": {
+   "key": "El museo escultórico de titanio, caliza y vidrio de Frank Gehry junto a la ría del Nervión, construido de 1993 a octubre de 1997, que se volvió ícono de la transformación de Bilbao.[1][2][3]",
+   "more": "Fruto de la colaboración entre instituciones vascas y la Fundación Solomon R. Guggenheim,[1] se construyó entre octubre de 1993 y octubre de 1997 en un antiguo muelle industrial de la ría del Nervión.[2] Su piel exterior son unas 33.000 láminas finas de titanio, con caliza y vidrio,[2] y Gehry usó CATIA, un software desarrollado originalmente para la ingeniería aeroespacial, para convertir su complejo diseño en algo construible.[2] Su apertura en 1997 transformó la ciudad con visitantes de todo el mundo y dio origen a lo que se llama «efecto Bilbao».[3] La Britannica señala que su exterior de titanio aludía al patrimonio naviero de la ciudad.[4]"
+  },
+  "refs": [
+   {
+    "label": "Museo Guggenheim Bilbao, «The Museum»",
+    "url": "https://www.guggenheim-bilbao.eus/en/about-the-museum/the-museum",
+    "checks": "Colaboración entre instituciones vascas y la Fundación Solomon R. Guggenheim; diseño de Gehry en titanio, caliza y vidrio; ícono arquitectónico de la ciudad.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museo Guggenheim Bilbao, «The construction of the Building»",
+    "url": "https://www.guggenheim-bilbao.eus/en/the-building/the-construction",
+    "checks": "Construido de octubre de 1993 a octubre de 1997 en un antiguo muelle industrial del Nervión; unas 33.000 láminas de titanio, caliza y vidrio; CATIA, de origen aeroespacial.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Museo Guggenheim Bilbao, «Architecture Effects»",
+    "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/architecture-effects",
+    "checks": "Apertura en 1997 que transformó la ciudad por los visitantes globales; origen del «efecto Bilbao»; uso innovador de tecnología digital.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Western architecture: Architecture at the turn of the 21st century»",
+    "url": "https://www.britannica.com/art/Western-architecture/Architecture-at-the-turn-of-the-21st-century",
+    "checks": "Guggenheim de Gehry (1991–97), éxito internacional; exterior mayormente de titanio que alude al pasado de astilleros. ⚠ no confirma la fecha exacta de octubre.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Cambié «opened in October 1997» por «built until October 1997»: las fuentes confirman el término de obra en octubre de 1997 y la apertura en 1997, no el mes de apertura.",
+   "Quité «turned a museum into a tool for the revival of a declining industrial city» y «commissioned by the Basque authorities»: las fuentes dicen colaboración de instituciones vascas y la Fundación, y transformación de la ciudad, sin hablar de «declive».",
+   "«Steel structure», «curving» y el éxito turístico no confirmados; no toqué `materials` (la ficha dice estructura de acero)."
+  ]
+ },
+ {
+  "id": "imac-1998",
+  "en": {
+   "key": "Apple’s all-in-one computer of 1998 in translucent Bondi Blue plastic, whose rounded design by Jonathan Ive and USB-only ports made it a symbol of Apple’s recovery.[1][3]",
+   "more": "Steve Jobs introduced the iMac on 6 May 1998, and it was available from August.[3] It joined screen and computer in one all-in-one case,[3] rounded and translucent,[1][2] with an integrated handle.[2] It had no floppy drive and used USB ports only,[1][3] and Jobs presented it as the marriage of the excitement of the Internet with the simplicity of the Macintosh.[3] Jonathan Ive designed it,[1][2] later models came in other colours,[1][2] and it became the best-selling consumer computer of 1998, helping Apple’s recovery.[1][3]"
+  },
+  "es": {
+   "key": "El computador todo en uno de Apple de 1998, en plástico translúcido azul Bondi, cuyo diseño redondeado de Jonathan Ive y sus puertos solo USB lo volvieron símbolo de la recuperación de Apple.[1][3]",
+   "more": "Steve Jobs presentó el iMac el 6 de mayo de 1998 y estuvo disponible desde agosto.[3] Unió pantalla y computador en una sola carcasa,[3] redondeada y translúcida,[1][2] con asa integrada.[2] No tenía disquetera y usaba solo puertos USB,[1][3] y Jobs lo presentó como el matrimonio entre la emoción de internet y la simplicidad del Macintosh.[3] Jonathan Ive lo diseñó,[1][2] los modelos posteriores vinieron en otros colores,[1][2] y fue el computador de consumo más vendido de 1998, lo que ayudó a recuperar a Apple.[1][3]"
+  },
+  "refs": [
+   {
+    "label": "Encyclopaedia Britannica, «iMac»",
+    "url": "https://www.britannica.com/technology/iMac",
+    "checks": "Presentado por Jobs en 1998; diseño de Jony Ive, colores translúcidos y exterior redondeado; solo puertos USB; el más vendido hacia fin de año; modelos posteriores en cinco colores; Apple revitalizada.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Victoria and Albert Museum, «iMac G3»",
+    "url": "https://collections.vam.ac.uk/item/O158296/imac-g3-personal-computer-ive-jonathan/",
+    "checks": "Diseñado en 1998 por Jonathan Ive; carcasa de policarbonato translúcido azul y blanco; asa integrada; versión Bondi Blue de 1998 y otros cinco colores. ⚠ no menciona USB.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "AppleInsider, «On May 6, 1998 the iMac changed Apple»",
+    "url": "https://appleinsider.com/articles/18/05/06/20-years-ago-the-imac-changed-the-world",
+    "checks": "Presentado por Jobs el 6 de mayo de 1998; a la venta en agosto; todo en uno, USB, sin disquetera; cita «marriage of the excitement of the Internet with the simplicity of Macintosh». ⚠ prensa especializada, no archivo.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «friendly and easy to plug in and use» y «the name stressed its internet connection»: ninguna fuente lo sostiene tal cual (solo la cita de Jobs).",
+   "Quité «Jonathan Ive led the design team»: las fuentes dicen que lo diseñó o que dirigía diseño industrial, no el equipo específico.",
+   "«Pop-culture object» no confirmado; el campo `tech` y `materials` (policarbonato) coinciden con el V&A."
+  ]
+ },
+ {
+  "id": "jewish-museum-berlin-1999",
+  "en": {
+   "key": "Daniel Libeskind’s zigzag museum in Berlin, clad in titanium-zinc, whose voids and sharp angles express the loss of the Holocaust.[1]",
+   "more": "Libeskind’s ‘Between the Lines’ won the 1989 competition to extend the Berlin Museum with a Jewish Museum department.[1] Britannica dates the work 1989–99,[2] and the museum opened in autumn 2001.[1] Its zigzag is crossed by a straight line of five concrete voids, unheated spaces that symbolise irreplaceable loss, and its windows are asymmetrical.[1] Visitors reach the new building by an underground link from the Baroque old building.[1] In the Garden of Exile, 49 concrete stelae stand on slanting ground, and the Holocaust Tower can be reached only underground;[1] Libeskind called the result ‘a space of absence which is a real space’.[1]"
+  },
+  "es": {
+   "key": "El museo en zigzag de Daniel Libeskind en Berlín, revestido de titanio-zinc, cuyos vacíos y ángulos agudos expresan la pérdida del Holocausto.[1]",
+   "more": "«Between the Lines», de Libeskind, ganó en 1989 el concurso para ampliar el Museo de Berlín con un departamento de Museo Judío.[1] La Britannica fecha la obra en 1989–99,[2] y el museo abrió en el otoño de 2001.[1] Su zigzag está cruzado por una línea recta de cinco vacíos de hormigón, espacios sin calefacción que simbolizan una pérdida irreparable, y sus ventanas son asimétricas.[1] Se llega al edificio nuevo por una conexión subterránea desde el antiguo edificio barroco.[1] En el Jardín del Exilio hay 49 estelas de hormigón sobre suelo inclinado, y a la Torre del Holocausto solo se accede bajo tierra;[1] Libeskind llamó al resultado «un espacio de ausencia que es un espacio real».[1]"
+  },
+  "refs": [
+   {
+    "label": "Jewish Museum Berlin, «The Libeskind Building»",
+    "url": "https://www.jmberlin.de/en/libeskind-building",
+    "checks": "Concurso de 1989 con «Between the Lines»; abrió en otoño de 2001; fachada de titanio-zinc en zigzag, ventanas asimétricas; conexión subterránea con el edificio barroco; cinco vacíos de hormigón; Jardín del Exilio (49 estelas); Torre del Holocausto; cita de Libeskind.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Encyclopaedia Britannica, «Western architecture: Architecture at the turn of the 21st century»",
+    "url": "https://www.britannica.com/art/Western-architecture/Architecture-at-the-turn-of-the-21st-century",
+    "checks": "Museo Judío de Libeskind (1989–99) citado como ejemplo deconstructivista. ⚠ el año 1999 como término de obra se apoya solo en esta fuente.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Corregí «zinc-clad»: el museo dice titanio-zinc; dejé `materials` sin tocar.",
+   "Quité «avoid any monumental figure» y «telling the story of Jewish life»: no confirmados; los vacíos se describen como símbolo de pérdida del Holocausto.",
+   "Suavicé «descend underground»: la fuente habla de conexión subterránea desde el edificio antiguo."
+  ]
+ },
+ {
+  "id": "tate-modern-2000",
+  "en": {
+   "key": "Herzog & de Meuron’s conversion of Bankside Power Station in London into the Tate Modern, which opened in May 2000 with the Turbine Hall as its great central space.[1][2]",
+   "more": "Bankside Power Station, designed by Giles Gilbert Scott, opened in 1962 and closed on 31 October 1981.[1] Herzog & de Meuron won the international competition to convert it into a gallery.[1] They kept the brick façade,[2] made the three-storey Turbine Hall the entrance and public gathering space,[2] and added a two-storey glass space on one half of the roof.[2] Tate Modern opened on 11 May 2000;[1] in 2016 the Blavatnik Building, formerly Switch House, expanded display space by 60%.[1]"
+  },
+  "es": {
+   "key": "La conversión de la central eléctrica de Bankside en Londres en la Tate Modern, de Herzog & de Meuron, inaugurada en mayo de 2000 con la Sala de Turbinas como gran espacio central.[1][2]",
+   "more": "La central eléctrica de Bankside, diseñada por Giles Gilbert Scott, abrió en 1962 y cerró el 31 de octubre de 1981.[1] Herzog & de Meuron ganaron el concurso internacional para convertirla en galería.[1] Conservaron la fachada de ladrillo,[2] hicieron de la Sala de Turbinas, de tres pisos, la entrada y el espacio público de reunión,[2] y añadieron un espacio de vidrio de dos pisos sobre una mitad del techo.[2] La Tate Modern abrió el 11 de mayo de 2000;[1] en 2016 el edificio Blavatnik, antes Switch House, amplió el espacio de exposición en un 60 %.[1]"
+  },
+  "refs": [
+   {
+    "label": "Tate, «History of Tate Modern»",
+    "url": "https://www.tate.org.uk/about-us/history-tate/history-of-tate-modern",
+    "checks": "Central diseñada por Giles Gilbert Scott, abierta en 1962 y cerrada el 31 de octubre de 1981; concurso ganado por Herzog & de Meuron; apertura el 11 de mayo de 2000; Blavatnik (ex Switch House) en 2016, +60 % de espacio.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Architektura & Biznes, «A revolution in architecture: the transformation of Bankside Power Station into Tate Modern»",
+    "url": "https://www.architekturaibiznes.pl/en/herzog-de-meuron-tate-modern,38042.html",
+    "checks": "Abierta en mayo de 2000; fachada de ladrillo conservada; Sala de Turbinas de tres pisos como entrada y espacio público; espacio de vidrio de dos pisos sobre la mitad del techo. ⚠ revista de arquitectura, no archivo.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «kept ... its chimney», «stood empty» y «Tate chose it»: no confirmados; la fuente dice que se convocó un concurso internacional.",
+   "Reemplacé «glazed light box» por «espacio de vidrio de dos pisos» según la fuente."
+  ]
+ },
+ {
+  "id": "gando-school-2001",
+  "en": {
+   "key": "Diébédo Francis Kéré’s primary school in his home village of Gando, Burkina Faso, built with the villagers from compressed earth bricks under a raised, ventilated metal roof.[1][2]",
+   "more": "Kéré, the first resident of Gando to pursue higher education, conceived the school while studying architecture in Berlin and set up a fundraising association with German supporters.[1] Construction began in October 2000 with villagers of all ages taking part,[1] and the school was completed in 2001.[2] Its walls are load-bearing stabilised, compressed earth blocks,[1] and a raised corrugated metal roof lets air through, which cools the classrooms;[1] Kéré’s office adds a dry-stacked brick ceiling between roof and classroom.[2] The school won the Aga Khan Award for Architecture in 2004.[1][2]"
+  },
+  "es": {
+   "key": "La escuela primaria de Diébédo Francis Kéré en su aldea natal, Gando, Burkina Faso, construida con los vecinos con ladrillos de tierra comprimida bajo un techo metálico elevado y ventilado.[1][2]",
+   "more": "Kéré, el primer habitante de Gando en cursar estudios superiores, concibió la escuela mientras estudiaba arquitectura en Berlín y creó una asociación para reunir fondos con apoyo alemán.[1] La obra comenzó en octubre de 2000 con la participación de vecinos de todas las edades,[1] y la escuela se terminó en 2001.[2] Sus muros son de bloques de tierra estabilizada y comprimida que cargan el peso,[1] y un techo de chapa ondulada elevado deja pasar el aire, lo que refresca las salas;[1] la oficina de Kéré agrega un cielo de ladrillo apilado en seco entre el techo y la sala.[2] La escuela ganó el Premio Aga Khan de Arquitectura en 2004.[1][2]"
+  },
+  "refs": [
+   {
+    "label": "Archnet, «Primary School at Gando»",
+    "url": "https://www.archnet.org/sites/4363",
+    "checks": "Kéré, primer habitante en estudiar en la universidad; concibió la escuela en Berlín y creó una asociación de fondos con alemanes; obra desde octubre de 2000 con vecinos; muros portantes de bloques de tierra estabilizada y comprimida; techo de chapa elevado para ventilación; Premio Aga Khan 2004.",
+    "date": "2026-10-06"
+   },
+   {
+    "label": "Kéré Architecture, «Gando Primary School»",
+    "url": "https://www.kerearchitecture.com/work/building/gando-primary-school-3",
+    "checks": "Terminada en 2001; ladrillos de arcilla y cemento; techo separado de la sala por un cielo de ladrillo apilado en seco; Premio Aga Khan 2004. ⚠ sitio del propio estudio.",
+    "date": "2026-10-06"
+   }
+  ],
+  "other": {},
+  "issues": [
+   "Quité «shown at MoMA in New York in 2010»: ninguna fuente consultada lo confirma.",
+   "Suavicé «the villagers made the clay bricks»: las fuentes dicen que participaron en la construcción con materiales locales; la ficha dice «clay», Archnet «tierra comprimida» (no toqué `materials`).",
+   "«Money he raised in Germany» queda como asociación de fondos con apoyo alemán."
+  ]
+ }
+]
